@@ -4,12 +4,7 @@ import Fuse from 'fuse.js'
 import chalk from 'chalk';
 import { dirname } from 'path'
 import readline from 'readline'
-const emoji = ['❌', '✅'];
-
-const reader = readline.createInterface({
-  input: process.stdin,
-  output: process.stdout
-});
+const emoji = ['❌', '✅', '🟢'];
 
 async function getFileNamesPlacesCollectds() {
   const { pathname: currentFile } = new URL(import.meta.url)
@@ -20,7 +15,11 @@ async function getFileNamesPlacesCollectds() {
   return {files, filesDir}
 }
 
-function setQuestionOnTerminal(searched, correspondence) {
+async function setQuestionOnTerminal(searched, correspondence) {
+  const reader = readline.createInterface({
+    input: process.stdin,
+    output: process.stdout
+  });
   console.log('\n')
   console.log(chalk.yellow(`Searched term: ${searched}\n`))
 
@@ -29,25 +28,24 @@ function setQuestionOnTerminal(searched, correspondence) {
     console.log(`[${index}] - ${correspondence.item.replace('.json', '')}\n`)
   })
   console.log(chalk.blue('-----------------------------------------\n'))
-  return new Promise((resolve, reject) => {
-    reader.question(chalk.white('What is the best match?: '), function(answer) {
-      const resp = answer;
-      if(!correspondence[resp]){
+
+  const question = await new Promise(resolve => {
+    reader.question(chalk.white('What is the best match?: '), async (answer) => {
+      if(!correspondence[answer]){
         console.log(chalk.red('Invalid option, try again.'))
         return setQuestionOnTerminal(searched, correspondence)
       }
-      console.log(chalk.bgWhite.black(`Selected match --> ${correspondence[resp].item.replace('.json', '')}\n`));
+      console.log(chalk.white(`\n${emoji[2]} - Selected match --> ${correspondence[answer].item.replace('.json', '')}\n`));
       reader.close();
-      console.log('Finished!')
-      return resolve(resp)
+      resolve(answer)
     });
   })
-
+  return question
 }
 
 async function searchCorrespondece(){
   const options = {
-    threshold: 0.2,
+    threshold: 0.1,
   }
   const {files, filesDir} = await getFileNamesPlacesCollectds()
   const fuse = new Fuse(files, options);
@@ -66,7 +64,7 @@ async function searchCorrespondece(){
     console.log(chalk.red(`${emoji[0]} - No match found for ${query}\n`))
     continue
   }
-
+  console.log('Finished searchCorrespondece')
 }
 
 function appendData(query, file) {
