@@ -1,0 +1,808 @@
+{
+  "mainName": "Mirante da Nova Aurora",
+  "slug": "mirante-da-nova-aurora",
+  "category": "Atração turística",
+  "locationInformation": {
+    "latitude": "-13.692096",
+    "longitude": "-47.465782"
+  },
+  "basicInformation": [
+    {
+      "label": "endereço",
+      "tooltip": "Copiar endereço",
+      "text": "Cavalcante - GO, 73790-000",
+      "icon": "https://www.gstatic.com/images/icons/material/system_gm/1x/place_gm_blue_24dp.png"
+    },
+    {
+      "label": "telefone",
+      "tooltip": "Copiar número de telefone",
+      "text": "(62) 3494-1193",
+      "icon": "https://www.gstatic.com/images/icons/material/system_gm/1x/phone_gm_blue_24dp.png"
+    },
+    {
+      "label": "Code",
+      "tooltip": "Copiar Plus Code",
+      "text": "8G5M+5M Cavalcante, GO",
+      "icon": "https://maps.gstatic.com/mapfiles/maps_lite/images/2x/ic_plus_code.png"
+    },
+    {
+      "label": "send-to-device",
+      "text": "Enviar para smartphone",
+      "icon": "https://maps.gstatic.com/consumer/images/icons/1x/send_to_mobile_alt_gm_blue_24dp.png"
+    },
+    {
+      "label": "merchant",
+      "text": "Reivindicar esta empresa",
+      "icon": "https://www.gstatic.com/images/icons/material/system_gm/1x/verified_user_gm_blue_24dp.png"
+    }
+  ],
+  "ratingInformation": {
+    "basicRatingInformation": {
+      "averageGrade": 4.7,
+      "totalOfEvaluations": 329
+    },
+    "ratingsByGrade": [
+      {
+        "grade": 5,
+        "totalRatings": 248
+      },
+      {
+        "grade": 4,
+        "totalRatings": 57
+      },
+      {
+        "grade": 3,
+        "totalRatings": 21
+      },
+      {
+        "grade": 2,
+        "totalRatings": 1
+      },
+      {
+        "grade": 1,
+        "totalRatings": 2
+      }
+    ]
+  },
+  "ratingTags": [
+    {
+      "tag": "cachoeiras",
+      "count": 11,
+      "tooltip": "cachoeiras, mencionado em 11 avaliações"
+    },
+    {
+      "tag": "paisagem",
+      "count": 11,
+      "tooltip": "paisagem, mencionado em 11 avaliações"
+    },
+    {
+      "tag": "região",
+      "count": 10,
+      "tooltip": "região, mencionado em 10 avaliações"
+    },
+    {
+      "tag": "comunidade",
+      "count": 6,
+      "tooltip": "comunidade, mencionado em 6 avaliações"
+    },
+    {
+      "tag": "carro",
+      "count": 6,
+      "tooltip": "carro, mencionado em 6 avaliações"
+    },
+    {
+      "tag": "contemplar",
+      "count": 5,
+      "tooltip": "contemplar, mencionado em 5 avaliações"
+    },
+    {
+      "tag": "nascer do sol",
+      "count": 5,
+      "tooltip": "nascer do sol, mencionado em 5 avaliações"
+    },
+    {
+      "tag": "foto",
+      "count": 5,
+      "tooltip": "foto, mencionado em 5 avaliações"
+    },
+    {
+      "tag": "parque nacional da chapada dos veadeiros",
+      "count": 4,
+      "tooltip": "parque nacional da chapada dos veadeiros, mencionado em 4 avaliações"
+    },
+    {
+      "tag": "horizonte",
+      "count": 3,
+      "tooltip": "horizonte, mencionado em 3 avaliações"
+    }
+  ],
+  "featuredPhotos": [
+    "https://lh5.googleusercontent.com/p/AF1QipNVx3mx5r2zmykEz5ZcwYxrEOnHMDSkOsAs72-5=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNfC2ZM3tQFAtKrFfuKsjWG6MNZmbHVh4IGk6aQ=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNrlAkN9Mnql5BpSTWhuc5ccllEodZ2pfkCqX5b=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPj2USJPlUN9I25y-e9WqNxh-Yx3M2IFE4PcLjX=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMTo-bwj-0QrpAF93YDz5wGk29J6IazEojaEy35=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPoP6OcooXdXuXXatO2wlNF_isUmgjvPLhQC5F5=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPx1olwXO0nzGcYHwnoTW6OJiB1cF9tmMXDKRBV=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNiccphXxZRsARAGRWCBNFsMAnnHxuMp2yh4Kib=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMXrkGj-gAcFgVYzUrYmJL_U9lNVW71NNyFmmOT=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPX-BTrikr4dgo1rAhp2hYSQiZ71rhHljQNPim-=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPHEypDQkufnAu7TAIyK9uD1qcrAyqrz6rNsXca=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMCqeD_IglRAf5vMH4nK6F-C-L-pBzu7urBga1r=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipND7gQH0dhnz2_rRSUh4ZrSsOV65YtMHnxiN-5J=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOzH_9LU9Eu1VuTwh01qdjDpAdDGvP4q2By_P6B=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOxAfiTTC-PTFADhUn_pWJtALZY7tLpAIOZJpmz=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPA99Wb4woKppbLRFGZw_9GbzMl_CTs8qEk5aB2=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNJtZK_fwp4S_Sh0Tg6ruJzJsc1ebMiGdzFe2JV=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipM3bIUf7SfCS6AQvaPtYBX6zaPnNOrka6z_czH5=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMQgOxAhwrml-nR8pG2DygX-FftaxffTHbLmHSi=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMpFnYWTsbYpOLBtiT12zr1Ble-gbNf3PAiv1IR=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPwHlSqUJq94eX6iWN-WA6oMCYrNDulbJv2vH7r=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPyitQxDdVA3MhC0SzVPyEpt9UTgYGoHZAic4HR=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMypZCBuiwZE51HsNrVZ8wmBzcoyECh2mm6udqw=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMP7gUGL58xQPt1QpnfOrc2LuPwR1j3Vua9b3MS=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPDaYzAes85TXm1n9YkuBEkrVgnZS56jzvsCWag=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNZkChwlOHlpPEtg41aRCOkp9iL8bkcg7hCPkDr=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNldFRpHpX0zjOr8gUqvheQCV-o2Cm1XT_xck80=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipN1jKxq_0aEbcL1wBS7w7BUyWbD4PveRvYEveVH=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOiHTWXKOzW4r6wEGJX192997cYeIRDv00QRT61=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMySCMX25gmGoOgEfpiER7uyHrkyu62Ylgx7iHH=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOkb2NJJUEQaMTcwXY3wsPfXwo8fqH6KyZVEA7q=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMv9bCbL8S3VOjx5im1whYrM0RVMt_XskftXmcv=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipM5tQAlmAbceTmMRa46NOR6W50rT5_bFbzgbM1g=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMHDntT4bDr1ot5zEtxiCLJfG082e7QIQV7irmc=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipN7VLRW3n_2q-QrFXVp0SFIDpyn0v7odakOHlHb=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipM7TkHt4oqREwVAcOox5v25m02yeJrfNLDnorPi=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMgKiqTcpgrKl0t1P0yB83lOyzC1h0k27odY7Hc=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOn1C4e5MrESMj7r3NazTMYM2NDz1WoAKbYXhxA=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNE6NrBmc6Fvy6NFRPMkKLS5daQV9PtnBoHpuWb=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMC18j5KLuNEky_fGRxbS5B_8MVmUpztYLmblPI=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOTH1KfYJM6cFA3GDXEzAkXrv5YrBy3p4_fklwj=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPf7wSmgkNGGCRy3sW-q-e1AOUQbPdBohB4Ay65=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPRHF4rIGi4AgUOh0f91X6EjtVTHI_IMKtDSySI=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPxrNIWghIFhTL_Zf8CjvTf7Vc3D64dc-ejas-E=w1024-h576-k-no"
+  ],
+  "topComments": [
+    {
+      "author": "Yuri",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucogCl0QO9XqaO4K9h1tnUMH_LtKs1Y1BAp9B6dpuVg=w36-h36-p-c0x00000000-rp-mo-ba3-br100",
+      "comment": "Vista linda, que não dá pra ser captada por fotos",
+      "gradeComment": 5
+    },
+    {
+      "author": "niltomar alves de souza",
+      "photoAuthor": "https://lh3.googleusercontent.com/a/AItbvmljwicdyCNZUx0zZiLHREbQY8uAAyCOWVFN68Q=w36-h36-p-c0x00000000-rp-mo-br100",
+      "comment": "Quando passei estava nublado então a vista não era das melhores!",
+      "gradeComment": 5
+    },
+    {
+      "author": "José Leôncio Franceschi",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucqKq2xaxQuOZrYsHqjz5EYVoJf2bmZN8OHEUR5iwCU=w36-h36-p-c0x00000000-rp-mo-ba5-br100",
+      "comment": "mirante muito lindo e gostoso pra passar no fim de tarde! fico bem perto de Cavalcante e a estrada tá boa se quiser ir de carro... recomendo subir nas pedras do outro lado da estrada",
+      "gradeComment": 5
+    },
+    {
+      "author": "Ernane Santos",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucpq8_5zNqOUSin1CvWnsZ824KP3uaE5ZN59RiuzN0Y=w36-h36-p-c0x00000000-rp-mo-ba3-br100",
+      "comment": "O Mirante da aurora é uma boa opção de parada. Faz parte do trajeto, posicionado antes do povoado dos kalungas vale a pena parar um 15 min para apreciar à vista. Por estar em um ambiente muito alto o mirante proporciona uma vista digna de capa de rede social. Para aproveitar mais ainda a experiência o recomendado realizar a parada  ao entardecer tendo em vista que a posição da sacada proporciona uma iluminação idela para as fotos entre 16:30 às 18:30 com iluminação ideal.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Daniel Pereira Maia",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZuco0jxJfQe900q65YCplSlIHzg9tKt7jRfvGTIQVvi8=w36-h36-p-c0x00000000-rp-mo-ba2-br100",
+      "comment": "Um lugar muito bonito. Principalmente para ver o nascer do sol... Quando estiver voltando das cachoeiras no povoado quilombola e puder dar uma paradinha nesse mirante, é muito bom para tirar fotos e contemplar a paisagem. Fica a 12 km de Cavalcante e costumo ir lá de bike. 📷@danielmaia.guiadachapada",
+      "gradeComment": 5
+    },
+    {
+      "author": "Daniela Vieira",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZuco7VNGrwyF4wWtjWhd4s9iHTCL1eiQLmikEaCX6lA=w36-h36-p-c0x00000000-rp-mo-ba3-br100",
+      "comment": "Vista incrível do Cerrado.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Frederico Arthur Gomes da Cunha",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucoPDyhrz5GgsY1qjZyWW8wIkNGnq7n8OGIOPtdRQ0E=w36-h36-p-c0x00000000-rp-mo-br100",
+      "comment": "Tem uma vista deslumbrante. Fica às margens do caminho para quem visita a cachoeira Santa Bárbara e outras da região. Vale a pena parar para conferir a vista é tirar pelo menos uma foto. A única dificuldade é a estrada que nem sempre ajuda e também tem muitas pedras e valetas.",
+      "gradeComment": 4
+    },
+    {
+      "author": "bruno albuquerque",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucrDjHeKnUhG-jKXbGBUHiYMKYMSKDVBIbH9EiwrRQ=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "Parada obrigatória para quem vai a cachoeira Santa Bárbara, lugar de beleza ímpar, da visão para o vale. Ótimo recinto pra quem busca paz e queira contemplar a natureza. Fácil acesso, não necessita de 4x4",
+      "gradeComment": 5
+    },
+    {
+      "author": "Pedro César Leão",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucpaqyvmu9_AVurfwf8enXRElRb6R8pUfFOWMt1u2uk=w36-h36-p-c0x00000000-rp-mo-ba6-br100",
+      "comment": "Ótima parada na volta da cachoeira Santa Bárbara.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Nicholas S",
+      "photoAuthor": "https://lh3.googleusercontent.com/a/AItbvmmGqWehrMc1jsrTc1UQ2j5Zzm_ksKCejvSM9KCu=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "Lugar bacana para assistir o nascer do Sol.  Conexão da vivo funciona no local.",
+      "gradeComment": 4
+    },
+    {
+      "author": "Ezequiel Dall'Oglio",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucrnlIPGFCPKFGv2bnAfaGV45K7mL0MZhYQqKx92pzM=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "Passagem para quem esta indo a comunidade Calunga, no alto da montanha, tem-se uma vista espetacular do cerado. Vale a pena parar para admirar a paisagem.",
+      "gradeComment": 4
+    },
+    {
+      "author": "Rita de Cassia Maria Garcia",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucoPQPauU8n-Od5npOdNQ5smYl3ZgOyJfdGgPjpegG0=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "Maravilhoso! A caminho da cachoeira de Santa Bárbara",
+      "gradeComment": 5
+    },
+    {
+      "author": "Marco Gomes (Marcão)",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucq8nyYDi25mGbUQLvhCy6Te8lRxKrbuIir5OWhlkUE=w36-h36-p-c0x00000000-rp-mo-ba6-br100",
+      "comment": "Quer meditar? Pare, sente, sinta. Uma belíssima vista.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Chalé Chapada dos Veadeiros",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucqMEiswzbJ0Ko-LytX1SSM4A9s9yggpwVDxgLvM=w36-h36-p-c0x00000000-rp-mo-ba3-br100",
+      "comment": "Vale a pena parar neste mirante, principalmente no caminho de volta das cachoeiras, para apreciar todo o vale... uma visão privilegiada e linda!!",
+      "gradeComment": 5
+    },
+    {
+      "author": "André Costa",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucoOxwg-p_UvPD_w4BzCHt_zXIlGJ5MiLViV5Bn7sas=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "Altitude de 1.100 metros. Caminho para as principais cachoeiras de Cavalcante. Parada obrigatória. Visual incrível!",
+      "gradeComment": 5
+    },
+    {
+      "author": "Ralph Santos",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucqEXHYXgMcWYAjthwaSdmRDO1W8K3twBFUD-4ZQaw=w36-h36-p-c0x00000000-rp-mo-br100",
+      "comment": "Visual muito bonito da Chapada.",
+      "gradeComment": 4
+    },
+    {
+      "author": "Pedro Galvao",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucpVgkQ8olCkGry0MMKHi5lS3vS4iDHgjlXIG8KsBJg=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "Vale a pena dar uma breve parada na estrada pra contemplar e tirar uma foto.",
+      "gradeComment": 4
+    },
+    {
+      "author": "Carlos H. Cantu",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucqcrHwtQmqJrEvtFwPBwdWbkWuHYjElFIQKBdtcug=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "Tem uma vista bonita da região, mas é só isso. Sem infraestrutura.",
+      "gradeComment": 3
+    },
+    {
+      "author": "Ilana Giumbelli",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucoZ5JtKr_BOJuSX5s1TWhR_HpWUtIPsagApqsCZ2GY=w36-h36-p-c0x00000000-rp-mo-ba5-br100",
+      "comment": "No caminho para a comunidade Kalunga e cachoeira Sta Barbara. Vale a parada para admirar a paisagem!",
+      "gradeComment": 5
+    },
+    {
+      "author": "Yasmym Medrado",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucoBSrRpCinISxUCgbOgxZgg_K53NgQOwPXo_TJTVV4=w36-h36-p-c0x00000000-rp-mo-ba5-br100",
+      "comment": "Paisagem muito linda, vale a pena conhecer!!",
+      "gradeComment": 5
+    }
+  ],
+  "peakHours": [
+    {
+      "Sunday": [
+        {
+          "hour": "06:00",
+          "percent": 4
+        },
+        {
+          "hour": "07:00",
+          "percent": 4
+        },
+        {
+          "hour": "08:00",
+          "percent": 19
+        },
+        {
+          "hour": "09:00",
+          "percent": 28
+        },
+        {
+          "hour": "10:00",
+          "percent": 19
+        },
+        {
+          "hour": "11:00",
+          "percent": 4
+        },
+        {
+          "hour": "12:00",
+          "percent": 4
+        },
+        {
+          "hour": "13:00",
+          "percent": 9
+        },
+        {
+          "hour": "14:00",
+          "percent": 9
+        },
+        {
+          "hour": "15:00",
+          "percent": 14
+        },
+        {
+          "hour": "16:00",
+          "percent": 23
+        },
+        {
+          "hour": "17:00",
+          "percent": 23
+        },
+        {
+          "hour": "18:00",
+          "percent": 9
+        },
+        {
+          "hour": "19:00",
+          "percent": 4
+        }
+      ]
+    },
+    {
+      "Monday": [
+        {
+          "hour": "06:00",
+          "percent": 4
+        },
+        {
+          "hour": "07:00",
+          "percent": 4
+        },
+        {
+          "hour": "08:00",
+          "percent": 9
+        },
+        {
+          "hour": "09:00",
+          "percent": 19
+        },
+        {
+          "hour": "10:00",
+          "percent": 19
+        },
+        {
+          "hour": "11:00",
+          "percent": 9
+        },
+        {
+          "hour": "12:00",
+          "percent": 4
+        },
+        {
+          "hour": "13:00",
+          "percent": 4
+        },
+        {
+          "hour": "14:00",
+          "percent": 9
+        },
+        {
+          "hour": "15:00",
+          "percent": 19
+        },
+        {
+          "hour": "16:00",
+          "percent": 23
+        },
+        {
+          "hour": "17:00",
+          "percent": 23
+        },
+        {
+          "hour": "18:00",
+          "percent": 23
+        },
+        {
+          "hour": "19:00",
+          "percent": 19
+        },
+        {
+          "hour": "20:00",
+          "percent": 9
+        },
+        {
+          "hour": "22:00",
+          "percent": 4
+        },
+        {
+          "hour": "00:00",
+          "percent": 4
+        }
+      ]
+    },
+    {
+      "Tuesday": [
+        {
+          "hour": "05:00",
+          "percent": 4
+        },
+        {
+          "hour": "06:00",
+          "percent": 4
+        },
+        {
+          "hour": "07:00",
+          "percent": 4
+        },
+        {
+          "hour": "08:00",
+          "percent": 4
+        },
+        {
+          "hour": "09:00",
+          "percent": 4
+        },
+        {
+          "hour": "10:00",
+          "percent": 4
+        },
+        {
+          "hour": "11:00",
+          "percent": 14
+        },
+        {
+          "hour": "12:00",
+          "percent": 4
+        },
+        {
+          "hour": "13:00",
+          "percent": 4
+        },
+        {
+          "hour": "14:00",
+          "percent": 4
+        },
+        {
+          "hour": "15:00",
+          "percent": 9
+        },
+        {
+          "hour": "16:00",
+          "percent": 14
+        },
+        {
+          "hour": "17:00",
+          "percent": 14
+        },
+        {
+          "hour": "18:00",
+          "percent": 9
+        },
+        {
+          "hour": "20:00",
+          "percent": 4
+        }
+      ]
+    },
+    {
+      "Wednesday": [
+        {
+          "hour": "05:00",
+          "percent": 4
+        },
+        {
+          "hour": "06:00",
+          "percent": 4
+        },
+        {
+          "hour": "07:00",
+          "percent": 4
+        },
+        {
+          "hour": "08:00",
+          "percent": 4
+        },
+        {
+          "hour": "09:00",
+          "percent": 4
+        },
+        {
+          "hour": "11:00",
+          "percent": 4
+        },
+        {
+          "hour": "12:00",
+          "percent": 9
+        },
+        {
+          "hour": "13:00",
+          "percent": 4
+        },
+        {
+          "hour": "14:00",
+          "percent": 14
+        },
+        {
+          "hour": "15:00",
+          "percent": 42
+        },
+        {
+          "hour": "16:00",
+          "percent": 57
+        },
+        {
+          "hour": "17:00",
+          "percent": 42
+        },
+        {
+          "hour": "18:00",
+          "percent": 14
+        },
+        {
+          "hour": "19:00",
+          "percent": 4
+        }
+      ]
+    },
+    {
+      "Thursday": [
+        {
+          "hour": "05:00",
+          "percent": 4
+        },
+        {
+          "hour": "06:00",
+          "percent": 9
+        },
+        {
+          "hour": "07:00",
+          "percent": 23
+        },
+        {
+          "hour": "08:00",
+          "percent": 38
+        },
+        {
+          "hour": "09:00",
+          "percent": 47
+        },
+        {
+          "hour": "10:00",
+          "percent": 52
+        },
+        {
+          "hour": "11:00",
+          "percent": 42
+        },
+        {
+          "hour": "12:00",
+          "percent": 33
+        },
+        {
+          "hour": "13:00",
+          "percent": 28
+        },
+        {
+          "hour": "14:00",
+          "percent": 38
+        },
+        {
+          "hour": "15:00",
+          "percent": 61
+        },
+        {
+          "hour": "16:00",
+          "percent": 76
+        },
+        {
+          "hour": "17:00",
+          "percent": 71
+        },
+        {
+          "hour": "18:00",
+          "percent": 42
+        },
+        {
+          "hour": "19:00",
+          "percent": 19
+        },
+        {
+          "hour": "20:00",
+          "percent": 4
+        },
+        {
+          "hour": "21:00",
+          "percent": 4
+        },
+        {
+          "hour": "22:00",
+          "percent": 4
+        },
+        {
+          "hour": "23:00",
+          "percent": 4
+        },
+        {
+          "hour": "00:00",
+          "percent": 4
+        },
+        {
+          "hour": "01:00",
+          "percent": 4
+        },
+        {
+          "hour": "02:00",
+          "percent": 4
+        },
+        {
+          "hour": "03:00",
+          "percent": 4
+        }
+      ]
+    },
+    {
+      "Friday": [
+        {
+          "hour": "06:00",
+          "percent": 9
+        },
+        {
+          "hour": "07:00",
+          "percent": 28
+        },
+        {
+          "hour": "08:00",
+          "percent": 42
+        },
+        {
+          "hour": "09:00",
+          "percent": 33
+        },
+        {
+          "hour": "10:00",
+          "percent": 19
+        },
+        {
+          "hour": "11:00",
+          "percent": 9
+        },
+        {
+          "hour": "12:00",
+          "percent": 14
+        },
+        {
+          "hour": "13:00",
+          "percent": 19
+        },
+        {
+          "hour": "14:00",
+          "percent": 19
+        },
+        {
+          "hour": "15:00",
+          "percent": 23
+        },
+        {
+          "hour": "16:00",
+          "percent": 80
+        },
+        {
+          "hour": "17:00",
+          "percent": 76
+        },
+        {
+          "hour": "18:00",
+          "percent": 4
+        },
+        {
+          "hour": "19:00",
+          "percent": 4
+        }
+      ]
+    },
+    {
+      "Saturday": [
+        {
+          "hour": "05:00",
+          "percent": 23
+        },
+        {
+          "hour": "06:00",
+          "percent": 38
+        },
+        {
+          "hour": "07:00",
+          "percent": 4
+        },
+        {
+          "hour": "08:00",
+          "percent": 9
+        },
+        {
+          "hour": "09:00",
+          "percent": 23
+        },
+        {
+          "hour": "10:00",
+          "percent": 38
+        },
+        {
+          "hour": "11:00",
+          "percent": 47
+        },
+        {
+          "hour": "12:00",
+          "percent": 42
+        },
+        {
+          "hour": "13:00",
+          "percent": 28
+        },
+        {
+          "hour": "14:00",
+          "percent": 23
+        },
+        {
+          "hour": "15:00",
+          "percent": 38
+        },
+        {
+          "hour": "16:00",
+          "percent": 80
+        },
+        {
+          "hour": "17:00",
+          "percent": 100
+        },
+        {
+          "hour": "18:00",
+          "percent": 71
+        },
+        {
+          "hour": "19:00",
+          "percent": 23
+        },
+        {
+          "hour": "20:00",
+          "percent": 4
+        }
+      ]
+    }
+  ],
+  "relatedSearches": [
+    "cavalcante",
+    "o que fazer em cavalcante",
+    "melhores cachoeiras cavalcante"
+  ],
+  "relateds": [
+    {
+      "mainName": "Cachoeira São Bartolomeu",
+      "url": null
+    },
+    {
+      "mainName": "Cachoeira da Capivara",
+      "url": null
+    },
+    {
+      "mainName": "Cachoeira Candaru",
+      "url": null
+    },
+    {
+      "mainName": "Vale da Chapada",
+      "url": null
+    },
+    {
+      "mainName": "Cachoeira da Ave Maria",
+      "url": null
+    },
+    {
+      "mainName": "Cachoeira Santa Bárbara",
+      "url": null
+    },
+    {
+      "mainName": "Cachoeira Rei do Prata",
+      "url": null
+    },
+    {
+      "mainName": "Parque Nacional da Chapada dos Veadeiros",
+      "url": null
+    }
+  ]
+}

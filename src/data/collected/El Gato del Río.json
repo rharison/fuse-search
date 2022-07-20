@@ -1,0 +1,989 @@
+{
+  "mainName": "El Gato del Río",
+  "slug": "el-gato-del-rio",
+  "category": "Atração turística",
+  "locationInformation": {
+    "latitude": "3.451773",
+    "longitude": "-76.5424527"
+  },
+  "basicInformation": [
+    {
+      "label": "endereço",
+      "tooltip": "Copiar endereço",
+      "text": "Cali, Valle del Cauca, Colômbia",
+      "icon": "https://www.gstatic.com/images/icons/material/system_gm/1x/place_gm_blue_24dp.png"
+    },
+    {
+      "label": "website",
+      "tooltip": "Abrir website",
+      "text": "cali.gov.co",
+      "icon": "https://www.gstatic.com/images/icons/material/system_gm/1x/public_gm_blue_24dp.png"
+    },
+    {
+      "label": "telefone",
+      "tooltip": "Copiar número de telefone",
+      "text": "+57 28879020",
+      "icon": "https://www.gstatic.com/images/icons/material/system_gm/1x/phone_gm_blue_24dp.png"
+    },
+    {
+      "label": "Code",
+      "tooltip": "Copiar Plus Code",
+      "text": "FF25+P2 Cali, Valle del Cauca, Colômbia",
+      "icon": "https://maps.gstatic.com/mapfiles/maps_lite/images/2x/ic_plus_code.png"
+    },
+    {
+      "label": "merchant",
+      "text": "Reivindicar esta empresa",
+      "icon": "https://www.gstatic.com/images/icons/material/system_gm/1x/verified_user_gm_blue_24dp.png"
+    }
+  ],
+  "ratingInformation": {
+    "basicRatingInformation": {
+      "averageGrade": 4.7,
+      "totalOfEvaluations": 11960
+    },
+    "ratingsByGrade": [
+      {
+        "grade": 5,
+        "totalRatings": 8870
+      },
+      {
+        "grade": 4,
+        "totalRatings": 2425
+      },
+      {
+        "grade": 3,
+        "totalRatings": 536
+      },
+      {
+        "grade": 2,
+        "totalRatings": 55
+      },
+      {
+        "grade": 1,
+        "totalRatings": 74
+      }
+    ]
+  },
+  "ratingTags": [
+    {
+      "tag": "gatos",
+      "count": 638,
+      "tooltip": "gatos, mencionado em 638 avaliações"
+    },
+    {
+      "tag": "mario hermoso",
+      "count": 197,
+      "tooltip": "mario hermoso, mencionado em 197 avaliações"
+    },
+    {
+      "tag": "emblemático",
+      "count": 123,
+      "tooltip": "emblemático, mencionado em 123 avaliações"
+    },
+    {
+      "tag": "ícone",
+      "count": 54,
+      "tooltip": "ícone, mencionado em 54 avaliações"
+    },
+    {
+      "tag": "amantes",
+      "count": 31,
+      "tooltip": "amantes, mencionado em 31 avaliações"
+    },
+    {
+      "tag": "boulevard",
+      "count": 15,
+      "tooltip": "boulevard, mencionado em 15 avaliações"
+    },
+    {
+      "tag": "belas artes",
+      "count": 11,
+      "tooltip": "belas artes, mencionado em 11 avaliações"
+    },
+    {
+      "tag": "aleia",
+      "count": 10,
+      "tooltip": "aleia, mencionado em 10 avaliações"
+    }
+  ],
+  "featuredPhotos": [
+    "https://lh5.googleusercontent.com/p/AF1QipMI2sQKXGqX9Cx_TqHgcnarZA4RJ2wcTEZ8FC1M=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOzfMmMq0RxPLN7xmlwVPaesvBjC0u4lV3_8FmE=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOn4v5dwskdBCoxM48xfVGqXTenTcWNL7zMjWPZ=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipO9beij5JXnzBjrLBcsdo56M3oMY8uHjg8Jgx2b=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMH54C0rH0ItT77oCs-d0J9V69xKnxlR-xMYPZC=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNLgRQsPx1sArxZCmDlN0fHM7690UopGGaVaVVA=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMo7Oi41ZWaR90KW40PqChuOot5PB2XjlVXz2dV=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPcQccXD0-Bz_cvZK4K4Dw7-lb-qWCLvvyPoh0p=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipME2RoAq-8cglRymsVxUjRWvpLiM-_G3bhV_Xb_=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPrWprcPo8k0hGqFHACuYamItWL744jXTk5-TBY=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPAeSpkLN1mPRBZ4nntFGPtL4AB29hfB6pcP_o0=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOGGdvfTLhki3cMLj2XxiiHnMMb_ZNSfTNcbmyv=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPgf9FVZAFOmoBxJ2trEB0gNHCM53417URMWZx6=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipP5EQfeuW2dy1H6Xq6gG7uS3iXNkjPSazldtPbG=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipN1stKn5hZ_OGTURnOJI-Qlyt4yImCx0wh-QR3u=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPHzb22jNvw7jvD5JlPLyf9yoJ6b1cQf0caaDL5=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipN-SIOFUaBkVFflwSXj0Xy-is5pvPo3mTPt1u_b=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipM0o4ubO5FWrhv3_-I-5AC3jUmtrM0aLheh_ut2=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNjGIUX8z5Zw9AhAyOxTxq0o4-FVxQTzu-VPqGk=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOLJ7x2YPmecVliTt0xSIkoU62gn0scrcqE5zv1=w1024-h576-k-no"
+  ],
+  "topComments": [
+    {
+      "author": "Eduardo Alves Grassi",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucqIs_h3XonKqEstK3P2_vXu5NkY0ZjcvfNP7t-fR_I=w36-h36-p-c0x00000000-rp-mo-ba5-br100",
+      "comment": "O passeio tem várias esculturas de gatos começando pelo Gato Del Río, muito bonitos e bem conservados",
+      "gradeComment": 4
+    },
+    {
+      "author": "Max Cirne",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucrCDBJ-NoTCZLN_Mpu_vrUoLYUrEzEBmvryc93g=w36-h36-p-c0x00000000-rp-mo-ba3-br100",
+      "comment": "O gato de Tejada é a cara de Cali. Tem que visitar. Como brinde, uma exposição a céu aberto com várias esculturas de gatas personalizadas.",
+      "gradeComment": 4
+    },
+    {
+      "author": "Fernando Oscar Cassel",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucovAXV8uJG9GREnspmy1PmFk3e6LS7GJDUPBJl36Ws=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "Um passeio rápido entre varias esculturas de gatos, começando pela do \"Gato del Rio\", em meio a natureza.",
+      "gradeComment": 5
+    },
+    {
+      "author": "André Felix",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucqhayLDJKzsIr1QbAd52PcslYsCJ9R8bL1wUNYc91M=w36-h36-p-c0x00000000-rp-mo-ba5-br100",
+      "comment": "Ô bicho feio! O lugar é cheio de gatos pintados simbolizando alguma coisa.",
+      "gradeComment": 3
+    },
+    {
+      "author": "Jonas Schwertner",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucohWSjSd8NDu9C-phHxni0iC0GY2hXEX0Ep31IfCA=w36-h36-p-c0x00000000-rp-mo-ba8-br100",
+      "comment": "Valeu a pena ter ido a este pequeno parque as margens do rio. Lugar tranquilo e bonito. E cada estátua de gato tem descritivo. Acredito seja lugares mais fotografados de Cali.",
+      "gradeComment": 4
+    },
+    {
+      "author": "Ruan Sousa",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucrz0QZ3uYf56_rzUVl-bkD2fNdFzHyUmZMPGMuA8wc=w36-h36-p-c0x00000000-rp-mo-ba5-br100",
+      "comment": "Ponto turístico necessário para aquela que querem conhecer a história do local. Recomendo lerem todas as placas das esculturas são bem criativas e interessantes. Ótimo local para fotos, e é bem seguro. Próximo ao shopping e a bons locais para comer.",
+      "gradeComment": 4
+    },
+    {
+      "author": "Patricia Sá",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucqFrGD7AHxGttHB97KhBfq2gaZRivVZl055nYXXppE=w36-h36-p-c0x00000000-rp-mo-br100",
+      "comment": "Trata-se de esculturas de gatos à margem do rio. Tem uns restaurantes na frente e é isso. Se estiver em Cali já - de passagem ou por algum motivo específico - vale dar uma passada, pq a cidade não conta com muitas atrações diurnas.",
+      "gradeComment": 3
+    },
+    {
+      "author": "Sebastian V.",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZuco1CugnnPRHr1iQZ-sZgLCBhxEXyxXDHrr7yA5d1g=w36-h36-p-c0x00000000-rp-mo-ba3-br100",
+      "comment": "Um parque tranquilo, bonito e bem armonizado com as esculturas de gatos.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Erika Borba",
+      "photoAuthor": "https://lh3.googleusercontent.com/a/AItbvmkdBvdTLiPVCnRlwiUslTeyQGmA1nApugMOGqha=w36-h36-p-c0x00000000-rp-mo-br100",
+      "comment": "Museu a céu aberto! Ótima iniciativa de artistas locais. A mesma base que vira arte de diversas formas.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Edinho Silvestrini",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucqiIHyTnGVtwXmqFTfYHI7ttT2kEXSxznbq5d_WOQ=w36-h36-p-c0x00000000-rp-mo-br100",
+      "comment": "Muito legal o trabalho dos artistas. Lugar para amantes de gatos...",
+      "gradeComment": 4
+    }
+  ],
+  "peakHours": [
+    {
+      "Sunday": [
+        {
+          "hour": "04:00",
+          "percent": 1
+        },
+        {
+          "hour": "05:00",
+          "percent": 1
+        },
+        {
+          "hour": "06:00",
+          "percent": 1
+        },
+        {
+          "hour": "07:00",
+          "percent": 1
+        },
+        {
+          "hour": "08:00",
+          "percent": 4
+        },
+        {
+          "hour": "09:00",
+          "percent": 14
+        },
+        {
+          "hour": "10:00",
+          "percent": 24
+        },
+        {
+          "hour": "11:00",
+          "percent": 34
+        },
+        {
+          "hour": "12:00",
+          "percent": 42
+        },
+        {
+          "hour": "13:00",
+          "percent": 48
+        },
+        {
+          "hour": "14:00",
+          "percent": 53
+        },
+        {
+          "hour": "15:00",
+          "percent": 60
+        },
+        {
+          "hour": "16:00",
+          "percent": 67
+        },
+        {
+          "hour": "17:00",
+          "percent": 76
+        },
+        {
+          "hour": "18:00",
+          "percent": 83
+        },
+        {
+          "hour": "19:00",
+          "percent": 85
+        },
+        {
+          "hour": "20:00",
+          "percent": 81
+        },
+        {
+          "hour": "21:00",
+          "percent": 69
+        },
+        {
+          "hour": "22:00",
+          "percent": 53
+        },
+        {
+          "hour": "23:00",
+          "percent": 35
+        },
+        {
+          "hour": "00:00",
+          "percent": 19
+        },
+        {
+          "hour": "01:00",
+          "percent": 6
+        },
+        {
+          "hour": "02:00",
+          "percent": 1
+        },
+        {
+          "hour": "03:00",
+          "percent": 1
+        }
+      ]
+    },
+    {
+      "Monday": [
+        {
+          "hour": "04:00",
+          "percent": 1
+        },
+        {
+          "hour": "05:00",
+          "percent": 1
+        },
+        {
+          "hour": "06:00",
+          "percent": 1
+        },
+        {
+          "hour": "08:00",
+          "percent": 5
+        },
+        {
+          "hour": "09:00",
+          "percent": 9
+        },
+        {
+          "hour": "10:00",
+          "percent": 12
+        },
+        {
+          "hour": "11:00",
+          "percent": 15
+        },
+        {
+          "hour": "12:00",
+          "percent": 19
+        },
+        {
+          "hour": "13:00",
+          "percent": 23
+        },
+        {
+          "hour": "14:00",
+          "percent": 29
+        },
+        {
+          "hour": "15:00",
+          "percent": 36
+        },
+        {
+          "hour": "16:00",
+          "percent": 42
+        },
+        {
+          "hour": "17:00",
+          "percent": 46
+        },
+        {
+          "hour": "18:00",
+          "percent": 48
+        },
+        {
+          "hour": "19:00",
+          "percent": 45
+        },
+        {
+          "hour": "20:00",
+          "percent": 39
+        },
+        {
+          "hour": "21:00",
+          "percent": 30
+        },
+        {
+          "hour": "22:00",
+          "percent": 19
+        },
+        {
+          "hour": "23:00",
+          "percent": 8
+        },
+        {
+          "hour": "00:00",
+          "percent": 1
+        },
+        {
+          "hour": "01:00",
+          "percent": 1
+        },
+        {
+          "hour": "02:00",
+          "percent": 1
+        },
+        {
+          "hour": "03:00",
+          "percent": 1
+        }
+      ]
+    },
+    {
+      "Tuesday": [
+        {
+          "hour": "04:00",
+          "percent": 1
+        },
+        {
+          "hour": "05:00",
+          "percent": 1
+        },
+        {
+          "hour": "06:00",
+          "percent": 1
+        },
+        {
+          "hour": "07:00",
+          "percent": 1
+        },
+        {
+          "hour": "08:00",
+          "percent": 8
+        },
+        {
+          "hour": "09:00",
+          "percent": 17
+        },
+        {
+          "hour": "10:00",
+          "percent": 25
+        },
+        {
+          "hour": "11:00",
+          "percent": 33
+        },
+        {
+          "hour": "12:00",
+          "percent": 40
+        },
+        {
+          "hour": "13:00",
+          "percent": 47
+        },
+        {
+          "hour": "14:00",
+          "percent": 52
+        },
+        {
+          "hour": "15:00",
+          "percent": 56
+        },
+        {
+          "hour": "16:00",
+          "percent": 58
+        },
+        {
+          "hour": "17:00",
+          "percent": 58
+        },
+        {
+          "hour": "18:00",
+          "percent": 59
+        },
+        {
+          "hour": "19:00",
+          "percent": 58
+        },
+        {
+          "hour": "20:00",
+          "percent": 56
+        },
+        {
+          "hour": "22:00",
+          "percent": 41
+        },
+        {
+          "hour": "23:00",
+          "percent": 29
+        },
+        {
+          "hour": "00:00",
+          "percent": 14
+        },
+        {
+          "hour": "02:00",
+          "percent": 1
+        },
+        {
+          "hour": "03:00",
+          "percent": 1
+        }
+      ]
+    },
+    {
+      "Wednesday": [
+        {
+          "hour": "04:00",
+          "percent": 1
+        },
+        {
+          "hour": "05:00",
+          "percent": 1
+        },
+        {
+          "hour": "06:00",
+          "percent": 1
+        },
+        {
+          "hour": "07:00",
+          "percent": 10
+        },
+        {
+          "hour": "08:00",
+          "percent": 21
+        },
+        {
+          "hour": "09:00",
+          "percent": 30
+        },
+        {
+          "hour": "10:00",
+          "percent": 35
+        },
+        {
+          "hour": "11:00",
+          "percent": 37
+        },
+        {
+          "hour": "12:00",
+          "percent": 38
+        },
+        {
+          "hour": "13:00",
+          "percent": 39
+        },
+        {
+          "hour": "14:00",
+          "percent": 43
+        },
+        {
+          "hour": "15:00",
+          "percent": 52
+        },
+        {
+          "hour": "16:00",
+          "percent": 63
+        },
+        {
+          "hour": "17:00",
+          "percent": 71
+        },
+        {
+          "hour": "18:00",
+          "percent": 74
+        },
+        {
+          "hour": "19:00",
+          "percent": 72
+        },
+        {
+          "hour": "20:00",
+          "percent": 69
+        },
+        {
+          "hour": "21:00",
+          "percent": 67
+        },
+        {
+          "hour": "22:00",
+          "percent": 63
+        },
+        {
+          "hour": "23:00",
+          "percent": 52
+        },
+        {
+          "hour": "00:00",
+          "percent": 35
+        },
+        {
+          "hour": "01:00",
+          "percent": 14
+        },
+        {
+          "hour": "02:00",
+          "percent": 1
+        },
+        {
+          "hour": "03:00",
+          "percent": 1
+        }
+      ]
+    },
+    {
+      "Thursday": [
+        {
+          "hour": "04:00",
+          "percent": 1
+        },
+        {
+          "hour": "05:00",
+          "percent": 1
+        },
+        {
+          "hour": "06:00",
+          "percent": 1
+        },
+        {
+          "hour": "07:00",
+          "percent": 10
+        },
+        {
+          "hour": "08:00",
+          "percent": 22
+        },
+        {
+          "hour": "09:00",
+          "percent": 34
+        },
+        {
+          "hour": "10:00",
+          "percent": 42
+        },
+        {
+          "hour": "11:00",
+          "percent": 47
+        },
+        {
+          "hour": "12:00",
+          "percent": 49
+        },
+        {
+          "hour": "13:00",
+          "percent": 49
+        },
+        {
+          "hour": "14:00",
+          "percent": 49
+        },
+        {
+          "hour": "15:00",
+          "percent": 53
+        },
+        {
+          "hour": "16:00",
+          "percent": 60
+        },
+        {
+          "hour": "17:00",
+          "percent": 69
+        },
+        {
+          "hour": "18:00",
+          "percent": 75
+        },
+        {
+          "hour": "19:00",
+          "percent": 77
+        },
+        {
+          "hour": "20:00",
+          "percent": 74
+        },
+        {
+          "hour": "21:00",
+          "percent": 69
+        },
+        {
+          "hour": "22:00",
+          "percent": 61
+        },
+        {
+          "hour": "23:00",
+          "percent": 49
+        },
+        {
+          "hour": "00:00",
+          "percent": 33
+        },
+        {
+          "hour": "01:00",
+          "percent": 15
+        },
+        {
+          "hour": "02:00",
+          "percent": 1
+        },
+        {
+          "hour": "03:00",
+          "percent": 1
+        }
+      ]
+    },
+    {
+      "Friday": [
+        {
+          "hour": "04:00",
+          "percent": 4
+        },
+        {
+          "hour": "05:00",
+          "percent": 1
+        },
+        {
+          "hour": "06:00",
+          "percent": 1
+        },
+        {
+          "hour": "07:00",
+          "percent": 1
+        },
+        {
+          "hour": "08:00",
+          "percent": 7
+        },
+        {
+          "hour": "09:00",
+          "percent": 15
+        },
+        {
+          "hour": "10:00",
+          "percent": 24
+        },
+        {
+          "hour": "11:00",
+          "percent": 34
+        },
+        {
+          "hour": "12:00",
+          "percent": 42
+        },
+        {
+          "hour": "13:00",
+          "percent": 50
+        },
+        {
+          "hour": "14:00",
+          "percent": 55
+        },
+        {
+          "hour": "15:00",
+          "percent": 58
+        },
+        {
+          "hour": "16:00",
+          "percent": 60
+        },
+        {
+          "hour": "17:00",
+          "percent": 61
+        },
+        {
+          "hour": "18:00",
+          "percent": 65
+        },
+        {
+          "hour": "19:00",
+          "percent": 73
+        },
+        {
+          "hour": "20:00",
+          "percent": 84
+        },
+        {
+          "hour": "21:00",
+          "percent": 94
+        },
+        {
+          "hour": "22:00",
+          "percent": 100
+        },
+        {
+          "hour": "23:00",
+          "percent": 95
+        },
+        {
+          "hour": "00:00",
+          "percent": 80
+        },
+        {
+          "hour": "01:00",
+          "percent": 59
+        },
+        {
+          "hour": "02:00",
+          "percent": 36
+        },
+        {
+          "hour": "03:00",
+          "percent": 17
+        }
+      ]
+    },
+    {
+      "Saturday": [
+        {
+          "hour": "04:00",
+          "percent": 5
+        },
+        {
+          "hour": "05:00",
+          "percent": 1
+        },
+        {
+          "hour": "06:00",
+          "percent": 1
+        },
+        {
+          "hour": "07:00",
+          "percent": 6
+        },
+        {
+          "hour": "08:00",
+          "percent": 18
+        },
+        {
+          "hour": "09:00",
+          "percent": 28
+        },
+        {
+          "hour": "10:00",
+          "percent": 36
+        },
+        {
+          "hour": "11:00",
+          "percent": 44
+        },
+        {
+          "hour": "12:00",
+          "percent": 53
+        },
+        {
+          "hour": "13:00",
+          "percent": 65
+        },
+        {
+          "hour": "14:00",
+          "percent": 76
+        },
+        {
+          "hour": "15:00",
+          "percent": 83
+        },
+        {
+          "hour": "16:00",
+          "percent": 82
+        },
+        {
+          "hour": "17:00",
+          "percent": 76
+        },
+        {
+          "hour": "18:00",
+          "percent": 70
+        },
+        {
+          "hour": "19:00",
+          "percent": 69
+        },
+        {
+          "hour": "20:00",
+          "percent": 73
+        },
+        {
+          "hour": "21:00",
+          "percent": 79
+        },
+        {
+          "hour": "22:00",
+          "percent": 84
+        },
+        {
+          "hour": "23:00",
+          "percent": 83
+        },
+        {
+          "hour": "00:00",
+          "percent": 74
+        },
+        {
+          "hour": "01:00",
+          "percent": 58
+        },
+        {
+          "hour": "02:00",
+          "percent": 38
+        },
+        {
+          "hour": "03:00",
+          "percent": 19
+        }
+      ]
+    }
+  ],
+  "relatedSearches": [
+    "cali wikipedia",
+    "cristo rey cali",
+    "cristo rey cali colombia",
+    "estatua sebastian de belalcazar",
+    "que hacer en cali"
+  ],
+  "relateds": [
+    {
+      "mainName": "Parque de los Gatos",
+      "url": null
+    },
+    {
+      "mainName": "Museo Caliwood",
+      "url": null
+    },
+    {
+      "mainName": "Igreja de Santo Antonio",
+      "url": null
+    },
+    {
+      "mainName": "Cali Tower",
+      "url": null
+    },
+    {
+      "mainName": "Igreja La Merced",
+      "url": null
+    },
+    {
+      "mainName": "Monumento a María Mulata",
+      "url": null
+    },
+    {
+      "mainName": "Cristo Rey",
+      "url": null
+    },
+    {
+      "mainName": "Iglesia Ermita",
+      "url": null
+    },
+    {
+      "mainName": "Plaza de Caicedo",
+      "url": null
+    },
+    {
+      "mainName": "Parque Norte Medellín",
+      "url": null
+    },
+    {
+      "mainName": "Parque Jaime Duque",
+      "url": null
+    },
+    {
+      "mainName": "Cici Aquapark",
+      "url": null
+    },
+    {
+      "mainName": "Panaca",
+      "url": null
+    },
+    {
+      "mainName": "Parque Nacional do Café",
+      "url": null
+    },
+    {
+      "mainName": "Estatua Sebastián de Belalcázar",
+      "url": null
+    },
+    {
+      "mainName": "Puente Peatonal Ortiz",
+      "url": null
+    },
+    {
+      "mainName": "Museo Arqueológico La Merced",
+      "url": null
+    },
+    {
+      "mainName": "Hacienda Nápoles",
+      "url": null
+    },
+    {
+      "mainName": "Acuario Rodadero Santa Marta",
+      "url": null
+    },
+    {
+      "mainName": "Parque de la Conservación",
+      "url": null
+    },
+    {
+      "mainName": "Cali Zoo",
+      "url": null
+    },
+    {
+      "mainName": "Cerro Pico de Loro o de Oro",
+      "url": null
+    },
+    {
+      "mainName": "Bulevar del Río",
+      "url": null
+    },
+    {
+      "mainName": "Parque de las Banderas",
+      "url": null
+    }
+  ]
+}

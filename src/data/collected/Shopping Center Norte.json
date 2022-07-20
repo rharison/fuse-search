@@ -1,0 +1,701 @@
+{
+  "mainName": "Shopping Center Norte",
+  "slug": "shopping-center-norte",
+  "category": "Shopping center",
+  "locationInformation": {
+    "latitude": "-23.5155661",
+    "longitude": "-46.618134"
+  },
+  "basicInformation": [
+    {
+      "label": "endereço",
+      "tooltip": "Copiar endereço",
+      "text": "Tv. Casalbuono, 120 - Vila Guilherme, São Paulo - SP, 02089-900",
+      "icon": "https://www.gstatic.com/images/icons/material/system_gm/1x/place_gm_blue_24dp.png"
+    },
+    {
+      "label": "oh",
+      "text": "Aberto ⋅ Fecha às 22:00\n\nOutros horários",
+      "icon": "https://www.gstatic.com/images/icons/material/system_gm/1x/schedule_gm_blue_24dp.png"
+    },
+    {
+      "label": "website",
+      "tooltip": "Abrir website",
+      "text": "centernorte.com.br",
+      "icon": "https://www.gstatic.com/images/icons/material/system_gm/1x/public_gm_blue_24dp.png"
+    },
+    {
+      "label": "telefone",
+      "tooltip": "Copiar número de telefone",
+      "text": "(11) 2224-5959",
+      "icon": "https://www.gstatic.com/images/icons/material/system_gm/1x/phone_gm_blue_24dp.png"
+    },
+    {
+      "label": "Code",
+      "tooltip": "Copiar Plus Code",
+      "text": "F9MJ+QP São Paulo, SP",
+      "icon": "https://maps.gstatic.com/mapfiles/maps_lite/images/2x/ic_plus_code.png"
+    }
+  ],
+  "ratingInformation": {
+    "basicRatingInformation": {
+      "averageGrade": 4.5,
+      "totalOfEvaluations": 86098
+    },
+    "ratingsByGrade": [
+      {
+        "grade": 5,
+        "totalRatings": 54374
+      },
+      {
+        "grade": 4,
+        "totalRatings": 22446
+      },
+      {
+        "grade": 3,
+        "totalRatings": 6882
+      },
+      {
+        "grade": 2,
+        "totalRatings": 1230
+      },
+      {
+        "grade": 1,
+        "totalRatings": 1166
+      }
+    ]
+  },
+  "ratingTags": [
+    {
+      "tag": "maiores",
+      "count": 4,
+      "tooltip": "maiores, mencionado em 4 avaliações"
+    },
+    {
+      "tag": "cinema",
+      "count": 520,
+      "tooltip": "cinema, mencionado em 520 avaliações"
+    },
+    {
+      "tag": "corredores",
+      "count": 121,
+      "tooltip": "corredores, mencionado em 121 avaliações"
+    },
+    {
+      "tag": "horizontal",
+      "count": 68,
+      "tooltip": "horizontal, mencionado em 68 avaliações"
+    },
+    {
+      "tag": "locomoção",
+      "count": 51,
+      "tooltip": "locomoção, mencionado em 51 avaliações"
+    },
+    {
+      "tag": "ZN",
+      "count": 50,
+      "tooltip": "ZN, mencionado em 50 avaliações"
+    },
+    {
+      "tag": "bourbon shopping são paulo",
+      "count": 31,
+      "tooltip": "bourbon shopping são paulo, mencionado em 31 avaliações"
+    },
+    {
+      "tag": "shopping pátio higienópolis",
+      "count": 27,
+      "tooltip": "shopping pátio higienópolis, mencionado em 27 avaliações"
+    },
+    {
+      "tag": "",
+      "count": 198415,
+      "tooltip": "1984, mencionado em 15 avaliações"
+    }
+  ],
+  "featuredPhotos": [
+    "https://lh5.googleusercontent.com/p/AF1QipNlYYwyeKf2Qb-m1V1BAQlNamjuhEe2Elz2Z4bh=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipO9Uu61bbkV-i5dLyu3sD4tB-odsYd2hfFoPB3F=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNYG8lQeXJvx8x95MioGIdCm4V6b7VLbb1K2qnQ=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNv37uBU5dorgl1D23-ezBHgeKNJkNoi0wF_1if=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOw1IEk-_oVLUhhGvXQdzW9RJczvZSpjRHfnn8W=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPVPzIvSZlmTPvS-2laaMDxiYbH9WttAUL4vIer=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOYXMQ8ycs9HEnKGdpq2G3LIzAb4VXFF_eW-UPQ=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMHvpGXMgN2vIE7SrmKJA1R05KbCsZte-BLW4Vh=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMRd5AJ5XcBTmavCcSO05S-7Oz6-t4ZDLOffNGy=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOnO-3pFn_PglyWkaOOiFNp4UpfMtF48tbd1XVk=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNbAKbytBQmSMAiPSB5mGzBVZhMiocI-xF3w_C8=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOK6DsrLFWJMa2FANpQnunJDW8eMBJnP2HcmV1X=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPekRpEQvuepwEEn8aLJ-Ne4gubL1UlWLn2suY_=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNg1iJgquXy1sJtmZXTejb9MkP1D4Jn8DLGmoWb=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNvdqjYv5qxnpJ7mO7_mwUxX8f8U9EzEDptGWC1=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMEz3cGBSuakAkeAxN9q6IP-ogSAK00NCZ_tnUh=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipN90fNcX_BxYIkEPnkOLo5rD2KYItNP0JWlFpE=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMkqZJz1UqxI2FZwIEoe66ew_zk_MYpBhk2-YTP=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOi9TVj3SmwZUjrNdtOuVsHtpYNV0i8LedLj687=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPUGgxKST1dvY_f7WHiev4-CoGLQhFi7btu3w3f=w1024-h576-k-no"
+  ],
+  "topComments": [
+    {
+      "author": "Jorge Stark",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucpMkwp3YiAXHFcjR9tlBuiUIU_tp98GLWIDe7DBOQ=w36-h36-p-c0x00000000-rp-mo-ba6-br100",
+      "comment": "Um dos melhores shoppings de São Paulo, não envelheceu. Mas no meu tempo, o estacionamento era gratuito: hoje, duas horas custaram R$14. Mesmo assim, continua sendo um centro muito agradável, ganhou novos restaurantes como o internacional Olive Garden e novas lojas. Os corredores amplos facilitam o trânsito das pessoas, sem risco de aglomeração. E lojas tradicionais -- a Garbo tem 90 anos -- resistem às modernidades. Bom pra passear, bom pra comprar.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Will Morais",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucrLLQqdV4dgOSbCRrVFU_aST6F4yqcQqr5Hphk0qg=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "Lindo Shopping, localizada praticamente atrás da rodoviária do Tietê. Esse shopping e todo em piso terrio, mas muito grande, lindas lojas , lojas famosos.  Vale um passeio para conhecer.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Carlos Alexandre Carvalho Duarte",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucqc0DtmzlA50_N_AHVOlGZ0i7jWqtTqQy9UAo7d=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "Este lugar representa para mim uma volta ao passado, nostálgico. Lá em meados da década de 80 para 90 saímos de Comerão de Campinas e íamos a pé da rodoviária Tietê até o shopping para ali ficar andando até acabar com as solas do sapato 777. Depois comprava pipoca na rodoviária e vinha embora.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Fagner Rocha",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucoxaIq4ehBjfT0ZhneamM_Sxd1HQmuxNVww3JhXow=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "Um shopping muito interessante. Eu que estou acostumado com o Dom Pedro e Iguatemi, no começo foi bem complicado, porque não tinha a mesma organização que estava acostumado. Mas o que gostei é que estava tudo bem sinalizado e com isso foi fácil de me localizar e encontrar o que procurava. Gostei da experiência nesse shopping. Ah e gostei mais ainda na máquina de fazer refrigerante da Brastemp, olha nas imagens.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Felipe Santos",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucofZSfJdca_aOn3rEp_cAAg4Rjx1MVrdv5PU_xLlw=w36-h36-p-c0x00000000-rp-mo-ba5-br100",
+      "comment": "Excelente! Shopping enorme e muito bem localizado. Em frente a Marginal Tietê e quase ao lado da Rodoviária do Tietê e das Estações do Metrô Portuguesa-Tietê e Armênia. Do outro lado da Marginal Tietê, fica o Estádio Canindé, da Portuguesa. O atendimento é ótimo nas lojas e restaurantes. Recomendo a visita👍🏿",
+      "gradeComment": 5
+    },
+    {
+      "author": "Raphael Rogger Vieira",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucrJn6MAkfvTiRPkURg-Rh3Pf9cihnMm6B3E7MN1nA=w36-h36-p-c0x00000000-rp-mo-ba5-br100",
+      "comment": "Excelente shopping. Sempre que vou a São Paulo frequento o Center norte. Ambiente agradável e climatizado com diversas lojas de todos segmentos. Praça de alimentação completa com diversas opções de refeições. Estacionamento amplo e fácil estacionamento.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Jully Hsu",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZuco5l2yc9CaxlqAZHwEOqpye4ij8hVLlDKowy45l=w36-h36-p-c0x00000000-rp-mo-ba5-br100",
+      "comment": "Diversas opções de lojas de departamento, ótima infraestrutura, com restaurantes, churrascaria, cinema e até supermercado Carrefour. Estacionamento pago. Ótimo para o lazer. Ao lado do shopping lar center. Travessia que conecta os dois shoppings.",
+      "gradeComment": 4
+    },
+    {
+      "author": "Helena",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucrPX_z3JFAQp1qKMfFQqe1tzfHSybS1Re-DjfZ9Kw=w36-h36-p-c0x00000000-rp-mo-ba5-br100",
+      "comment": "Excelente Shopping para se fazer compras e para momentos de lazer, passar horas agradáveis. Muitas marcas de grife e também de departamentos! Praça de alimentação ótima com grande variedade de pratos quentes e de saladas, Self Service e pratos executivos! Parque de diversões para crianças! Ótimo estacionamento!",
+      "gradeComment": 5
+    },
+    {
+      "author": "Lucas",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucqbL4Q4kCKk4sQOgj03fGJlEYJAZSSFL5s1zfhC9i0=w36-h36-p-c0x00000000-rp-mo-ba7-br100",
+      "comment": "Um dos mais antigos e melhores shoppings paulistanos. Não sei se é saudosismo, mas considero o formato bem melhor do que os novos complexos. Tem ampla variedade de lojas, serviços e restaurantes.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Tatiane Cavalcanti",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucoZGifXwSEwu8kyl9R3tr4icRSAgsw4u6gjnWanpjk=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "Shopping com muita variedade de lojas e amplo estacionamento (agora pago $). A decoração de natal deste ano está incrível!",
+      "gradeComment": 5
+    },
+    {
+      "author": "Nm Leali",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucovHd6YDt9JkaATTl0MFg9qhneUbpJIQctEP7nD3g=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "Centro comercial, com várias lojas inclusive a famosa confeitaria de Buddy, doces deliciosa mais um pouco caro, melhor assim, do contrário, a \"balança\" não agradece.",
+      "gradeComment": 4
+    },
+    {
+      "author": "Decio Fukuda",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucrWKtKkwDRlfDCnBURoB190DUpiepvyo-Q3XXUaOl8=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "Shopping muito bonito, Praça central enfeitada, alegria para a criançada. Esta com promoção, juntando acima de 500,00 em cupons fiscais vc ganha um Panetone de 500gr do Carlos Bakery e Tb concorre ao sorteio de um carro Lexus.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Ricardo Lovati",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucpab02kom27f3F189whEASxasTRynQastTJXAG7Cg=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "Muitas opções, mas a praça de alimentação poderia ser melhorada, posicionamento de lojas e mesas. Estacionamento excelente, muitas vagas.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Meire Madeira Rosalin",
+      "photoAuthor": "https://lh3.googleusercontent.com/a/AItbvmmqG74ZoIrFBSXgQY8yd_O3xgg7Q128QS-XXnbH=w36-h36-p-c0x00000000-rp-mo-ba2-br100",
+      "comment": "Gosto muito deste shopping,  por ser térreo facilita a locomoção de quem tem dificuldades de locomoção. A única questão foram as lojas de conveniência, na semana do livro, muitos saíram da exposição e foram comer no shopping,  foi um verdadeiro inferno,  não havia lugar para sentar, super lotação,  pessoas com bandejas nas calçadas um horror,  tive que ir para outro shopping com minha amiga e só as 16:00 hs conseguimos finalmente almoçar. Acredito que eles precisam melhorar está estrutura para uma nova ocasião desta.",
+      "gradeComment": 4
+    },
+    {
+      "author": "Gardenia Cavalcante",
+      "photoAuthor": "https://lh3.googleusercontent.com/a/AItbvmndouuClMIj2rEyUx03vXqisxlGTshYAP26q7wQ=w36-h36-p-c0x00000000-rp-mo-ba3-br100",
+      "comment": "Gostei, os banheiros bem limpos o shopping é bem amplo comi em um restaurante chamado axé muito saborosa a comida",
+      "gradeComment": 5
+    },
+    {
+      "author": "Silvia Oliveira",
+      "photoAuthor": "https://lh3.googleusercontent.com/a/AItbvmkOclmgV1gE88WAlBmNC2BTh41QEUIr5e1SS1Ws=w36-h36-p-c0x00000000-rp-mo-ba2-br100",
+      "comment": "Frequento o shopping Center Norte desde sua inauguração. Fiquei um tempo sem frequentar por conta da pandemia, no dia 03/06 fui tomar café com uma amiga e fomos abordadas duas vezes por garotos pedindo dinheiro e vendendo balas. Certa de que não sou melhor que ninguém, tenho que me sentir constrangida por poder tomar café com uma amiga? Onde está a segurança que sempre existiu pra evitar situações como essa?",
+      "gradeComment": 3
+    },
+    {
+      "author": "FILIPE STIGLIANO HILLE",
+      "photoAuthor": "https://lh3.googleusercontent.com/a/AItbvmmKhc8we2_EaVlD0Ufbqypka-tYKRw9WoEegQ3L=w36-h36-p-c0x00000000-rp-mo-br100",
+      "comment": "Hoje necessitei relatar uma insatisfação frente a uma situação desagradável vivenciada por mim, na qualidade de consumidor. Fui atendido com excelência pela administração do shopping  e me senti acolhido pela profissional competente que me recebeu pela manhã. O desconforto com a loja foi sanado com ética e agilidade. Gostaria de agradecer ao Shopping Center Norte por oferecer aos usuários um serviço tão respeitoso e humano. Isso mostra que essa organização se preocupa com a admissão de bons colaboradores através de uma excelente gestão de pessoas.  Sou cliente do shopping desde 1995. Muitíssimo obrigado.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Silvina Souza",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucqEKpwWIZXQTnZuK79YJXcNZ1GwD1-nGa9K4vzlts8=w36-h36-p-c0x00000000-rp-mo-ba3-br100",
+      "comment": "Shopping apenas com piso térreo, tem bastante variedade de lojas e restaurantes. O cinema é Cinemark. Os banheiros são limpos e perfumados. Aos finais de semana é bem cheio, para almoçar na praça de alimentação tem que ter paciência rsrsr... Mas tirando isso é bem tranquilo, fácil acesso, amplo estacionamento.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Barbara Duarte",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucrqCDllxKHCDBg4_evnlAQxyR8G2jxVBOxwIwOwgw=w36-h36-p-c0x00000000-rp-mo-br100",
+      "comment": "Ontem dia 09/05/2022 eu e minha mãe fomos ao center norte, moramos no jardim São Paulo próximo ao shopping  más já faziam dois anos que não frequentávamos o shopping, entretanto  pudemos observar uma tremenda mudança na qualidade e segurança do shopping, agora estando lá parece que estamos na 25 de março, indivíduos em grupo correndo pelos corredores do shopping, ao pararmos no Mac Donald’s para fazer um lanche fomos abordadas na mesa 17 vezes pelos mesmos pedirmos dinheiro, transformando o simples passeio numa péssima experiência que causa insegurança e desconforto inclusive em uma loja o vendedor nos orientou a não andar de bobeira com a sacola pois estava havendo diversos assalto no estacionamento do shopping, sinceramente no tempo em que permanecemos no shopping vimos somente 1 segurança, péssima experiência o shopping mudou muito para pior desde nossa última visita! Não voltarei",
+      "gradeComment": 1
+    },
+    {
+      "author": "Alan Junior",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucpLfTUUIdppdveq118TSPOE0Dk3C1nnpIEXUSbzqA=w36-h36-p-c0x00000000-rp-mo-br100",
+      "comment": "Um Shopping convencial, que tem poucas diferenças entre outros, com uma diferença de ser quase totalmente plano, oque de um lado possibilita exposição (como de carros, por exemplo) e também tem corredores largos, oque facilita a exploração e tráfego de pessoas, mas ao mesmo tempo faz você andar bem mais para achar oque procura. Há uma variedade de lojas razoável, sendo mais voltada a vestuários, mas a praça de alimentação deixa a desejar em variedade, além de ter uma localização sem nenhum destaque. Não tenho experiência sobre o cinema do local, com a oportunidade de conhecer, volto para atualizar minha experiência.",
+      "gradeComment": 4
+    }
+  ],
+  "peakHours": [
+    {
+      "Sunday": [
+        {
+          "hour": "14:00",
+          "percent": 78
+        },
+        {
+          "hour": "15:00",
+          "percent": 93
+        },
+        {
+          "hour": "16:00",
+          "percent": 100
+        },
+        {
+          "hour": "17:00",
+          "percent": 94
+        },
+        {
+          "hour": "18:00",
+          "percent": 79
+        },
+        {
+          "hour": "19:00",
+          "percent": 59
+        }
+      ]
+    },
+    {
+      "Monday": [
+        {
+          "hour": "10:00",
+          "percent": 19
+        },
+        {
+          "hour": "11:00",
+          "percent": 27
+        },
+        {
+          "hour": "12:00",
+          "percent": 36
+        },
+        {
+          "hour": "13:00",
+          "percent": 44
+        },
+        {
+          "hour": "14:00",
+          "percent": 47
+        },
+        {
+          "hour": "15:00",
+          "percent": 46
+        },
+        {
+          "hour": "16:00",
+          "percent": 44
+        },
+        {
+          "hour": "17:00",
+          "percent": 43
+        },
+        {
+          "hour": "18:00",
+          "percent": 44
+        },
+        {
+          "hour": "19:00",
+          "percent": 43
+        },
+        {
+          "hour": "20:00",
+          "percent": 39
+        },
+        {
+          "hour": "21:00",
+          "percent": 30
+        }
+      ]
+    },
+    {
+      "Tuesday": [
+        {
+          "hour": "10:00",
+          "percent": 20
+        },
+        {
+          "hour": "11:00",
+          "percent": 30
+        },
+        {
+          "hour": "12:00",
+          "percent": 39
+        },
+        {
+          "hour": "13:00",
+          "percent": 47
+        },
+        {
+          "hour": "14:00",
+          "percent": 49
+        },
+        {
+          "hour": "16:00",
+          "percent": 44
+        },
+        {
+          "hour": "17:00",
+          "percent": 43
+        },
+        {
+          "hour": "18:00",
+          "percent": 45
+        },
+        {
+          "hour": "19:00",
+          "percent": 47
+        },
+        {
+          "hour": "20:00",
+          "percent": 44
+        },
+        {
+          "hour": "21:00",
+          "percent": 35
+        }
+      ]
+    },
+    {
+      "Wednesday": [
+        {
+          "hour": "10:00",
+          "percent": 22
+        },
+        {
+          "hour": "11:00",
+          "percent": 32
+        },
+        {
+          "hour": "12:00",
+          "percent": 43
+        },
+        {
+          "hour": "13:00",
+          "percent": 50
+        },
+        {
+          "hour": "14:00",
+          "percent": 53
+        },
+        {
+          "hour": "15:00",
+          "percent": 50
+        },
+        {
+          "hour": "16:00",
+          "percent": 47
+        },
+        {
+          "hour": "17:00",
+          "percent": 46
+        },
+        {
+          "hour": "18:00",
+          "percent": 49
+        },
+        {
+          "hour": "19:00",
+          "percent": 53
+        },
+        {
+          "hour": "20:00",
+          "percent": 51
+        },
+        {
+          "hour": "21:00",
+          "percent": 41
+        }
+      ]
+    },
+    {
+      "Thursday": [
+        {
+          "hour": "10:00",
+          "percent": 23
+        },
+        {
+          "hour": "11:00",
+          "percent": 34
+        },
+        {
+          "hour": "12:00",
+          "percent": 46
+        },
+        {
+          "hour": "13:00",
+          "percent": 57
+        },
+        {
+          "hour": "14:00",
+          "percent": 63
+        },
+        {
+          "hour": "15:00",
+          "percent": 63
+        },
+        {
+          "hour": "16:00",
+          "percent": 59
+        },
+        {
+          "hour": "17:00",
+          "percent": 57
+        },
+        {
+          "hour": "18:00",
+          "percent": 59
+        },
+        {
+          "hour": "19:00",
+          "percent": 60
+        },
+        {
+          "hour": "20:00",
+          "percent": 55
+        },
+        {
+          "hour": "21:00",
+          "percent": 41
+        }
+      ]
+    },
+    {
+      "Friday": [
+        {
+          "hour": "10:00",
+          "percent": 19
+        },
+        {
+          "hour": "11:00",
+          "percent": 30
+        },
+        {
+          "hour": "12:00",
+          "percent": 43
+        },
+        {
+          "hour": "13:00",
+          "percent": 54
+        },
+        {
+          "hour": "14:00",
+          "percent": 60
+        },
+        {
+          "hour": "15:00",
+          "percent": 60
+        },
+        {
+          "hour": "16:00",
+          "percent": 57
+        },
+        {
+          "hour": "17:00",
+          "percent": 57
+        },
+        {
+          "hour": "18:00",
+          "percent": 60
+        },
+        {
+          "hour": "19:00",
+          "percent": 64
+        },
+        {
+          "hour": "20:00",
+          "percent": 61
+        },
+        {
+          "hour": "21:00",
+          "percent": 49
+        }
+      ]
+    },
+    {
+      "Saturday": [
+        {
+          "hour": "10:00",
+          "percent": 24
+        },
+        {
+          "hour": "11:00",
+          "percent": 40
+        },
+        {
+          "hour": "12:00",
+          "percent": 59
+        },
+        {
+          "hour": "13:00",
+          "percent": 79
+        },
+        {
+          "hour": "14:00",
+          "percent": 93
+        },
+        {
+          "hour": "15:00",
+          "percent": 99
+        },
+        {
+          "hour": "16:00",
+          "percent": 98
+        },
+        {
+          "hour": "17:00",
+          "percent": 95
+        },
+        {
+          "hour": "18:00",
+          "percent": 94
+        },
+        {
+          "hour": "19:00",
+          "percent": 92
+        },
+        {
+          "hour": "20:00",
+          "percent": 82
+        },
+        {
+          "hour": "21:00",
+          "percent": 63
+        }
+      ]
+    }
+  ],
+  "relatedSearches": [
+    "shopping center norte lojas",
+    "shopping center norte natal",
+    "qual o metrô mais próximo do shopping center norte",
+    "shopping center norte restaurantes",
+    "shopping center norte trabalhe conosco",
+    "shopping center norte cep",
+    "shopping center norte cinema",
+    "shopping center norte telefone"
+  ],
+  "relateds": [
+    {
+      "mainName": "Shopping Aricanduva",
+      "url": null
+    },
+    {
+      "mainName": "Shopping Eldorado",
+      "url": null
+    },
+    {
+      "mainName": "Shopping West Plaza",
+      "url": null
+    },
+    {
+      "mainName": "Shopping Metrô Tatuapé",
+      "url": null
+    },
+    {
+      "mainName": "Shopping Center 3",
+      "url": null
+    },
+    {
+      "mainName": "Morumbi Shopping",
+      "url": null
+    },
+    {
+      "mainName": "Shopping Iguatemi São Paulo",
+      "url": null
+    },
+    {
+      "mainName": "Shopping Penha",
+      "url": null
+    },
+    {
+      "mainName": "Bourbon Shopping São Paulo",
+      "url": null
+    },
+    {
+      "mainName": "Rodoviária Tietê",
+      "url": null
+    },
+    {
+      "mainName": "Parque da Mônica",
+      "url": null
+    },
+    {
+      "mainName": "Grand Plaza Shopping",
+      "url": null
+    },
+    {
+      "mainName": "NorteShopping",
+      "url": null
+    },
+    {
+      "mainName": "Botafogo Praia Shopping",
+      "url": null
+    },
+    {
+      "mainName": "Portuguesa-Tietê",
+      "url": null
+    },
+    {
+      "mainName": "Aricanduva",
+      "url": null
+    },
+    {
+      "mainName": "Shopping Plaza Niterói",
+      "url": null
+    },
+    {
+      "mainName": "Shopping Nova América",
+      "url": null
+    },
+    {
+      "mainName": "Shopping Iguatemi Campinas",
+      "url": null
+    },
+    {
+      "mainName": "Natal Shopping",
+      "url": null
+    },
+    {
+      "mainName": "Parque D. Pedro Shopping",
+      "url": null
+    },
+    {
+      "mainName": "Shopping Rio Sul",
+      "url": null
+    },
+    {
+      "mainName": "Shopping Estação",
+      "url": null
+    }
+  ]
+}

@@ -1,0 +1,641 @@
+{
+  "mainName": "Vinícola Torcello",
+  "slug": "vinicola-torcello",
+  "category": "Vinícola",
+  "locationInformation": {
+    "latitude": "-29.1868492",
+    "longitude": "-51.5345914"
+  },
+  "basicInformation": [
+    {
+      "label": "endereço",
+      "tooltip": "Copiar endereço",
+      "text": "ERS 444, km 16 Vale dos Vinhedos Merlot, Bento Gonçalves - RS, 95701-600",
+      "icon": "https://www.gstatic.com/images/icons/material/system_gm/1x/place_gm_blue_24dp.png"
+    },
+    {
+      "label": "agendamento",
+      "tooltip": "Abrir link de agendamento",
+      "text": "torcello.com.br",
+      "icon": "https://fonts.gstatic.com/s/i/googlematerialicons/event/v14/gm_blue-24dp/1x/gm_event_gm_blue_24dp.png"
+    },
+    {
+      "label": "website",
+      "tooltip": "Abrir website",
+      "text": "torcello.com.br",
+      "icon": "https://www.gstatic.com/images/icons/material/system_gm/1x/public_gm_blue_24dp.png"
+    },
+    {
+      "label": "telefone",
+      "tooltip": "Copiar número de telefone",
+      "text": "(54) 3459-1164",
+      "icon": "https://www.gstatic.com/images/icons/material/system_gm/1x/phone_gm_blue_24dp.png"
+    },
+    {
+      "label": "Code",
+      "tooltip": "Copiar Plus Code",
+      "text": "RF78+75 Bento Gonçalves, Rio Grande do Sul",
+      "icon": "https://maps.gstatic.com/mapfiles/maps_lite/images/2x/ic_plus_code.png"
+    }
+  ],
+  "ratingInformation": {
+    "basicRatingInformation": {
+      "averageGrade": 4.8,
+      "totalOfEvaluations": 169
+    },
+    "ratingsByGrade": [
+      {
+        "grade": 5,
+        "totalRatings": 147
+      },
+      {
+        "grade": 4,
+        "totalRatings": 16
+      },
+      {
+        "grade": 3,
+        "totalRatings": 4
+      },
+      {
+        "grade": 2,
+        "totalRatings": 1
+      },
+      {
+        "grade": 1,
+        "totalRatings": 1
+      }
+    ]
+  },
+  "ratingTags": [
+    {
+      "tag": "espumantes",
+      "count": 16,
+      "tooltip": "espumantes, mencionado em 16 avaliações"
+    },
+    {
+      "tag": "experiência",
+      "count": 14,
+      "tooltip": "experiência, mencionado em 14 avaliações"
+    },
+    {
+      "tag": "processo",
+      "count": 9,
+      "tooltip": "processo, mencionado em 9 avaliações"
+    },
+    {
+      "tag": "rótulos",
+      "count": 6,
+      "tooltip": "rótulos, mencionado em 6 avaliações"
+    },
+    {
+      "tag": "suco de uva",
+      "count": 5,
+      "tooltip": "suco de uva, mencionado em 5 avaliações"
+    },
+    {
+      "tag": "aula",
+      "count": 5,
+      "tooltip": "aula, mencionado em 5 avaliações"
+    },
+    {
+      "tag": "familiar",
+      "count": 5,
+      "tooltip": "familiar, mencionado em 5 avaliações"
+    },
+    {
+      "tag": "simpática",
+      "count": 4,
+      "tooltip": "simpática, mencionado em 4 avaliações"
+    },
+    {
+      "tag": "recepção",
+      "count": 4,
+      "tooltip": "recepção, mencionado em 4 avaliações"
+    },
+    {
+      "tag": "moscatel",
+      "count": 3,
+      "tooltip": "moscatel, mencionado em 3 avaliações"
+    }
+  ],
+  "featuredPhotos": [
+    "https://lh5.googleusercontent.com/p/AF1QipMs0xSyr9W3guryfeuNzuFK4u8q7GrXilqvUz-c=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipObUGbj6bZoJmdLaHFdWDu6L1HK9zUgatlDRlMi=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipM1jhrfMgHIKnquNJU89gGRhljnh_CglSIP5Nn1=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOlbMuhT7xdoH6DewngLfUQjC1xcni3TP7hf1SV=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOCItVzQDbYUNVATPbepN9YZ1Fs1NFrxCin7uOJ=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOb9vqGvQ7Zz2V43-ef7CJP5JjTY-X3Yox5b2u9=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMW27cjjnDNzSk_XVc6At1_qPvKEsRlczi_IO9G=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMx3-bCKiL_jVBuNlbffmRMyC8lLvmS06Nkxsh9=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNCkkzvvNDqLD3YUxFgfwGJBT-m046mDgMWxk1j=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPEi4gDxGQIJXRd_FtHl7ZWw729n60UXO56q-Rj=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMoFFltOldM_4BT8qVwNHFaCr4N5fk3b6uhQgxD=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipP8uVdBjGzrMFOwoc62-JgiDcqb8T8J_khTtO5v=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipM_vez34SDKFZGdOdnIztCmfJ_3VLplzh4QANpC=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPXVY5wBaESG-L9wMXrgw1BSGPWZiwjHa05qROA=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipN-mvhEZsIChLKrh6zsO21oh6cJJpjaL3reeabQ=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPOjnFjyhI6Hzby-7mbK92Zun7n-hHoFob-LMXZ=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNZEuNVe23t49fJHlCgbbNZsTD6uAlBZojJAiNy=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNGqsmHYh7gW3VEBtf_UDEmxUgKZVOx-0SW6qom=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipM7kshj0_BI62FDudOvWR-tfnQc7zufrFSVX7oC=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOsForOJam5QxDi73WbSz5a6k0k6u44s8BrUBt8=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNgolnuCafVwuyDPvQRd--BP33317yrmHCy6kGb=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNWNJpTBQoSta9nV5pWbHkl1kNQF3tu1XupFAlg=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMnzFj9k_EYdqlX9sJ4nTnD9JV1jUpBAiZV541v=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOcYUFD4Qo3tD-nib-uiWVJ_jpNseJ2jVRuzxFk=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipO7MVPAawrkgLaWwDv-j1q0111uupUGuQ_YXvvz=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMKVICUJ6mxZFbxYUj3GHSuPuQ6ZJXYhyF0Fysb=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNRhsh0qQyVm0tQgBLFReAHegru1TELnvPWzln3=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMz_qwy_WU3N72k8irw_ciBN30HCe5W7GlToTtR=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOZh0ZOfQQF6TezEx9Vxnwr61SKcP7BmjRq2Hk8=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipM6-ilyDsx4q34fkslok_dpUIoZDgL358YfuD8A=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipO79MBKwBmGOBBUNKxfrFRAUurNz46xfE02PteE=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipP53jONI8Fc3re3iGmQQNiN5yw3uA1DRz0QkfkO=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNK4dLNknoC5KSJDJVXYzueC_yvFqQZI94_0jl3=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMG3QkT5UdbLmx997L56xOdDYjX9hYClMV7z7gc=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNYpCjf09vkTiYbJSKdCSTp6oGA4CgTnYXY-io8=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOFN4LgL_bsTaSXCwE2ShUN_E3M3jucrsAwqP8X=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNoPJyVGo4L0PmJI-bxhpY-h4hv1a1Xm6AQHH-0=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNiK8CyltKnbfqGCB25MFVJBGge7EgQ3ar-MnUS=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipO-PSuJch0vFmOMgeRE_RwZvQE-yI__MTaeIMtW=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPNZ1JDV1K5qUYrFRgdDbky96IKEhKcBUkX8NEj=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNdE89so0Gi5Lw-llck0N6RTCFBv2625hLJF_nQ=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMc0f-2BQx_UrJhX6t3E-3OCH-OtYCAcUrwgr0=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMOjgFlPkSWZggcr-sKzMv3xUGRlWgEVichedsh=w1024-h576-k-no"
+  ],
+  "topComments": [
+    {
+      "author": "Josane Fritzen",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucreQeX_RG-cIjjURGqzfZh64ux_NC7VRcfQCKEH=w36-h36-p-c0x00000000-rp-mo-ba6-br100",
+      "comment": "NOVIDADE  Ainda não contam com uma estrutura de tirar o fôlego.  Mas já possuem rótulos premiados. E opções de degustação muito convidativos.",
+      "gradeComment": 3
+    },
+    {
+      "author": "AR Transportes e Turismo",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZuco5EcHYA8TorakleHVVw6nSSl-weRoBjeDk893wDA=w36-h36-p-c0x00000000-rp-mo-br100",
+      "comment": "A Torcello possui vinhos de muita qualidade, com destaque para o Chardonnay barricado. Tem um atendimento de primeira linha e é uma das menores vinícolas do Vale.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Marina Cabral",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucr7JCKEPuj1lFPDL_E4hvTdT1urpbEf9lgLBqVV=w36-h36-p-c0x00000000-rp-mo-br100",
+      "comment": "Começamos nossa viagem no Vale dos Vinhedos pela Torcello e fomos muito felizes. Fomos muito bem atendidos pela Ana, que fez um tour bem completo na pequena vinícola e nos conduziu na degustação. Nos surpreendemos com a qualidade dos vinhos.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Brenda Barcelos",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucoMLD3P8trDMZ1at8FEF1WfAmsDBwaOSOX8Euwb-Hs=w36-h36-p-c0x00000000-rp-mo-ba5-br100",
+      "comment": "Vinícola familiar charmosa do vale repleta de vinhos especiais. Fizemos a visita com degustação de 5 rótulos, achei o valor um pouco alto mas ganhamos também a taça da foto (que no caso a minha acabou de quebrar na viagem 🤡). A visita e a degustação foram conduzidas pela Letícia que foi uma fofa. Recomendo!",
+      "gradeComment": 5
+    },
+    {
+      "author": "valmir' Souza",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucp_ElBTIfSAtungkF_nmhG8Ud78wi5TByRbSnSWFQ=w36-h36-p-c0x00000000-rp-mo-ba3-br100",
+      "comment": "Eu já fui em mais de 40 vinícolas por Brasil afora. Sinceramente, este foi o melhor !!!! Sem erro !!!! Voltaremos aqui novamente. A Ana que conduziu todo o evento. Muito bem preparada. De fato, uma artista! A melhor Enóloga que tivemos em visitação de vinícolas que fomos até agora. Parabéns a todos da Torcello. Nos vemos em breve.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Josué Cordeiro Junior",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucpmoLil55IFOX3poTCr7HEtiLPrhQt4QJjYK_fK-UQ=w36-h36-p-c0x00000000-rp-mo-ba3-br100",
+      "comment": "Excelente a experiência na vinícola. O propósito da Torcello é ser pequena e garantir qualidade. A degustacao assistida com tour foi espetacular. Super indico. Agradeço especialmente a Ana que.nos conduziu brilhantemente.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Paulo Márcio G. Barros",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucq-OPI7xIWeWPJmXyMdN7rRdGdVchgsfdP0f3aM=w36-h36-p-c0x00000000-rp-mo-br100",
+      "comment": "Ótima experiência! Uma pequena vinícola com excepcional qualidade. Atendimento muito bom, nossa degustação foi apresentada por uma enóloga super simpática,  Ana, que além de profunda conhecedora do assunto é um doce de pessoa. Todos os vinhos são ótimos,  destaques para um Tannat muito acima da média e um espumante Brut absolutamente fora do normal de bom!",
+      "gradeComment": 5
+    },
+    {
+      "author": "Rafael Filipak Siqueira",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucqDQl5QJo5y5JFZhMcYVeiWKBMoZ3iLdryQ6HcyTZs=w36-h36-p-c0x00000000-rp-mo-ba3-br100",
+      "comment": "Visita realizada na última semana de 2021, foi de longe a melhor de todo o vale dos vinhedos. Realizei o Enotour premium com o João Vitor, que foi sensacional. Em geral, as visitas as vinícolas são bem repetitivas. Mas João Vitor conseguiu passar as informações de uma maneira muito mais interessante do que o habitual, explicando desde os conceitos mais da plantação até os mais complexo das cadeias carbônicas, isso tudo de forma didática. Depois realizados degustação de 5 rótulos da vinícola, todos sensacionais, com destaque ao Chardonnay que passava por barrica. Muito mais que recomendo.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Raquel Barbosa",
+      "photoAuthor": "https://lh3.googleusercontent.com/a/AItbvmlfTQH-aornuYuIPN7o4PLK4qWk3ri1r5jIUuKu=w36-h36-p-c0x00000000-rp-mo-br100",
+      "comment": "Impressionante! Fomos à Torcello por indicação de outra Vinícola e fomos sem marcar hora somente para conhecer o que fosse possível. Fomos surpreendidos pelo excelente atendimento do Afrânio que nos mostrou os melhores vinhos disponíveis, nos acompanhou em uma degustação bem completa e nos orientou na nossa compra.  Não sei se foi pelo excelente atendimento e conversa boa... mas sei que gostamos de cada gole que tomamos nesse lugar.  Foi difícil escolher o que levar!  Não conhecemos a propriedade, mas pretendemos fazer isso em uma próxima vez.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Wander F. S. Neto",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucrhPHQG2ULaVGQLCXGc2XE356MrtgGHPH6VbXo6ZQs=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "Lugar agradável e atendimento excelente.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Thiago Nunes da Cruz",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucoPzIbdS8m37BjO4UxoObuxQKg2v_1orCJHPsARqgA=w36-h36-p-c0x00000000-rp-mo-ba6-br100",
+      "comment": "Excelente vinícola. O tour guiado foi muito bom de fazer. A guia/enóloga Gabriela nos ensinou (ao grupo), toda técnica de fabricacao dos vinhos, desde a colheita, processamento e guarda. Aí final teve uma prova deliciosa dos vinhos da casa. Recomendo.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Joel Bartelt",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucqJA_Fv9xGnISCiNgcjQ-WcGSj9LudzSWLCwfa4=w36-h36-p-c0x00000000-rp-mo-ba5-br100",
+      "comment": "Estava curioso pra conhecer a vinícola! Tem uma produção artesanal de vinhos, espumantes e suco de uva pequena, se compararmos com os gigantes do Vale dos Vinhedos... Ela é relativamente nova - nasceu em 2000! - e queria conhecer este processo! Foi tudo excelente e profissional! A Guia Marluce - ela é ótima e muito bem humorada! - nos apresentou o vinhedo e toda forma de produção e na sequência nos levou para degustação dos produtos! Agora sou fã.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Rafaela Ellinger",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucrReWVydtc1yi9GHYm81Zwq8KLRW_yL7aLii8KtmQ=w36-h36-p-c0x00000000-rp-mo-ba5-br100",
+      "comment": "A Torcello é uma vinícola boutique e familiar, com produção controlada de garrafas. Fizemos a degustação Premium e foram 7 rótulos sendo a maior estrela o Malbec da linha Perfeito, o Merlot da linha tradicional também surpreendeu com aromas de hortelã. O atendimento foi excelente! Visita imperdível no Vale dos Vinhedos.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Thiago Fischer",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucpVg0eoM267FAfxcZNR4fO6C7Wjd7XK11kkAPKZ1w=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "Mais uma viniculas incrível do vale dos vinhedos. Fui por indicação de pessoas que já haviam visitado e não me arrependi. Existe a possibilidade  de você  fazer  um tour pela vinícola ou apenas a degustação dos vinhos. Fiz degustação dos vinhos da casa por uma contribuição que achei simbólica, e gostei muitos dos vinhos. Os funcionários são atenciosos, lugar é bonito e os vinhos nem quero comentar, um melhor que o outro... Dá vontade de levar todos, mas escolhi apenas dois devido ao número de garrafas que podemos levar na cabine do avião. Se não me engano eles tem site para compras pela internet.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Fabricio Lelis",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucpcPAAvWxTt68fCGp6JFC6LHz9U5RhSmsyQFxCpgw=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "Chegamos na Vinícola por volta de 10 horas, chegaram mais algumas pessoas junto conosco e logo iniciamos pela degustação porque nos adiantaram com outro grupo que já havia feito a visitação e por isso foi muito rápido o atendimento, aprendemos muito na mini aula de degustação, os vinhos eram muito bons, principalmente os espumantes e o fato de ser o próprio dono da vinícola explicando foi bem interessante, a vinícola é pequena, mas tem o suficiente para mostrar todo o processo de produção de cada tipo de vinho. A visitação custou 25 reais por pessoa.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Virgínia Menezes Pinzon",
+      "photoAuthor": "https://lh3.googleusercontent.com/a/AItbvmnBlIGfi2v3VA3jmS0zCoc51KKWoG0XuEO5_XHZ=w36-h36-p-c0x00000000-rp-mo-ba3-br100",
+      "comment": "Lugar incrível. Grande apresentação do Guilherme da vinícola. Nos ensinou sobre percepções que devemos ter do vinho e como melhor degustá-lo. Vinho de excelente qualidade. Me arrependi de não ter comprado mais.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Catharine Vieira",
+      "photoAuthor": "https://lh3.googleusercontent.com/a/AItbvmnOaSlOWCrQqTNf36khDnHNxySDIVJ20aubqrKc=w36-h36-p-c0x00000000-rp-mo-br100",
+      "comment": "Fizemos o Enotour, visitação guiada com degustação. Excelente! A Ana foi responsável pela nossa condução, super atenciosa. É uma das menores vinícolas do vale, os vinhos são ótimos. Valeu a pena!",
+      "gradeComment": 5
+    },
+    {
+      "author": "Cesar Ribeiro",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucoEamMbAwYsnerpyOKLfm82wmYfStcu2sMXwlAZkFw=w36-h36-p-c0x00000000-rp-mo-ba6-br100",
+      "comment": "Rogério Valduga, esse é o nome que merece destaque e respeito pelo trabalho que faz e pelos vinhos que oferece. Se você gosta de vinho e adora aprender tudo sobre a história da família do Rogério, da vinícola da plantação, colheita e elaboração de bons vinhos, então não perca a oportunidade de ir lá.  Eu tenho muito para contar sobre o vale dos vinhedos, mas tudo se resume à visita à vinícola Torcello. Eles são excepcionais, seja na oferta de vinhos, seja na dedicação ou ainda no ambiente criado por eles. O única indignação que me restou é o porque os vinhos brasileiros, sejam eles brancos, rosé, tintos ou espumantes ainda não aparecem nas adegas do país. É uma decepção enorme.  Se puder participe de uma aula dada pelo grande mestre Rogério Valduga, o excepcional mestre da vinícola você deve participar de uma aula dele e pode dispensar outros cursos de vinho porque o grão mestre ensina desde a plantação e cruzamento das uvas até a degustação dos vinhos em amadurecimento, enfim, não perca!!!  É impressionante a dedicação do Rogério, ele tem um conhecimento excepcional um humor vibrante e um amor eterno pelos vinhos que oferece e pelo seu belíssimo, não é à toa que o lema dele diz: \"Eu faço vinho para minha degustação, o excesso eu ofereço aos amigos.\".  Meu grande mestre Rogério Valduga muito obrigado pelo que aprendi e pelos vinhos que adquiri da vinícola. Eu voltarei, esteja certo, você é PERFETTO!!!",
+      "gradeComment": 5
+    },
+    {
+      "author": "Claudio Seeberger",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucqenLyBosniWf2DSejSLG3u3PZ4lNbjzdi9YYo5=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "Além dos vinhos realmente bons, a linha Perfetto faz jus ao nome! A possibilidade de conversar com o Enologo, Se Gerson, faz a experiência ser ainda não enriquecedora. Recomendo o Tannat, sem erro !",
+      "gradeComment": 5
+    },
+    {
+      "author": "Rodrigo Teixeira",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucrY7apn5cwGqZYMqPX5N9nU1aPrgrVDRlrhhoXd1hg=w36-h36-p-c0x00000000-rp-mo-ba3-br100",
+      "comment": "Uma vinícola digna de uma avaliação a altura. Os vinhos surpreenderam pela intensidade e acidez super controlada, maravilhosos!! Recomendo e certamente voltarei.",
+      "gradeComment": 5
+    }
+  ],
+  "peakHours": [
+    {
+      "Sunday": []
+    },
+    {
+      "Monday": [
+        {
+          "hour": "09:00",
+          "percent": 29
+        },
+        {
+          "hour": "10:00",
+          "percent": 32
+        },
+        {
+          "hour": "11:00",
+          "percent": 29
+        },
+        {
+          "hour": "12:00",
+          "percent": 26
+        },
+        {
+          "hour": "13:00",
+          "percent": 32
+        },
+        {
+          "hour": "14:00",
+          "percent": 40
+        },
+        {
+          "hour": "15:00",
+          "percent": 38
+        },
+        {
+          "hour": "16:00",
+          "percent": 24
+        },
+        {
+          "hour": "17:00",
+          "percent": 10
+        }
+      ]
+    },
+    {
+      "Tuesday": [
+        {
+          "hour": "09:00",
+          "percent": 22
+        },
+        {
+          "hour": "10:00",
+          "percent": 30
+        },
+        {
+          "hour": "11:00",
+          "percent": 37
+        },
+        {
+          "hour": "12:00",
+          "percent": 40
+        },
+        {
+          "hour": "13:00",
+          "percent": 40
+        },
+        {
+          "hour": "14:00",
+          "percent": 37
+        },
+        {
+          "hour": "15:00",
+          "percent": 30
+        },
+        {
+          "hour": "16:00",
+          "percent": 21
+        },
+        {
+          "hour": "17:00",
+          "percent": 13
+        }
+      ]
+    },
+    {
+      "Wednesday": [
+        {
+          "hour": "09:00",
+          "percent": 42
+        },
+        {
+          "hour": "10:00",
+          "percent": 42
+        },
+        {
+          "hour": "11:00",
+          "percent": 35
+        },
+        {
+          "hour": "12:00",
+          "percent": 31
+        },
+        {
+          "hour": "13:00",
+          "percent": 34
+        },
+        {
+          "hour": "14:00",
+          "percent": 39
+        },
+        {
+          "hour": "15:00",
+          "percent": 37
+        },
+        {
+          "hour": "16:00",
+          "percent": 28
+        },
+        {
+          "hour": "17:00",
+          "percent": 17
+        }
+      ]
+    },
+    {
+      "Thursday": [
+        {
+          "hour": "09:00",
+          "percent": 21
+        },
+        {
+          "hour": "10:00",
+          "percent": 28
+        },
+        {
+          "hour": "11:00",
+          "percent": 34
+        },
+        {
+          "hour": "12:00",
+          "percent": 39
+        },
+        {
+          "hour": "13:00",
+          "percent": 41
+        },
+        {
+          "hour": "14:00",
+          "percent": 40
+        },
+        {
+          "hour": "15:00",
+          "percent": 35
+        },
+        {
+          "hour": "16:00",
+          "percent": 28
+        },
+        {
+          "hour": "17:00",
+          "percent": 20
+        }
+      ]
+    },
+    {
+      "Friday": [
+        {
+          "hour": "09:00",
+          "percent": 39
+        },
+        {
+          "hour": "10:00",
+          "percent": 49
+        },
+        {
+          "hour": "11:00",
+          "percent": 50
+        },
+        {
+          "hour": "12:00",
+          "percent": 44
+        },
+        {
+          "hour": "13:00",
+          "percent": 41
+        },
+        {
+          "hour": "14:00",
+          "percent": 42
+        },
+        {
+          "hour": "15:00",
+          "percent": 42
+        },
+        {
+          "hour": "16:00",
+          "percent": 31
+        },
+        {
+          "hour": "17:00",
+          "percent": 15
+        }
+      ]
+    },
+    {
+      "Saturday": [
+        {
+          "hour": "09:00",
+          "percent": 52
+        },
+        {
+          "hour": "10:00",
+          "percent": 87
+        },
+        {
+          "hour": "11:00",
+          "percent": 100
+        },
+        {
+          "hour": "12:00",
+          "percent": 80
+        },
+        {
+          "hour": "13:00",
+          "percent": 48
+        },
+        {
+          "hour": "14:00",
+          "percent": 34
+        },
+        {
+          "hour": "15:00",
+          "percent": 45
+        },
+        {
+          "hour": "16:00",
+          "percent": 51
+        },
+        {
+          "hour": "17:00",
+          "percent": 31
+        }
+      ]
+    }
+  ],
+  "relatedSearches": [
+    "vinícola torcello visita",
+    "vinícola larentis",
+    "torcello chardonnay",
+    "vinícola vallontano",
+    "vinícola marco luigi",
+    "vinícola cave de pedra",
+    "vinícola valduga",
+    "vinícola salton"
+  ],
+  "relateds": [
+    {
+      "mainName": "PIZZATO Vinhas e Vinhos (Vinícola Pizzato Ltda)",
+      "url": null
+    },
+    {
+      "mainName": "Vinícola Almaúnica",
+      "url": null
+    },
+    {
+      "mainName": "ANGHEBEN VINHOS FINOS",
+      "url": null
+    },
+    {
+      "mainName": "Vinícola Cainelli",
+      "url": null
+    },
+    {
+      "mainName": "Vinícola Dom Cândido",
+      "url": null
+    },
+    {
+      "mainName": "Vinhos Larentis",
+      "url": null
+    },
+    {
+      "mainName": "Vinícola Marco Luigi",
+      "url": null
+    },
+    {
+      "mainName": "Vinícola Peculiare",
+      "url": null
+    },
+    {
+      "mainName": "Vinícola Michele Carraro",
+      "url": null
+    },
+    {
+      "mainName": "Dal Pizzol Vinhos Únicos",
+      "url": null
+    },
+    {
+      "mainName": "Tenuta Foppa & Ambrosi",
+      "url": null
+    },
+    {
+      "mainName": "Cristofoli - Vinhos de Família",
+      "url": null
+    },
+    {
+      "mainName": "Dom Eliziario",
+      "url": null
+    },
+    {
+      "mainName": "Adega Cavalleri",
+      "url": null
+    },
+    {
+      "mainName": "Vinícola e Cantina Strapazzon",
+      "url": null
+    },
+    {
+      "mainName": "Vinícola Cave de Pedra",
+      "url": null
+    },
+    {
+      "mainName": "Vinícola Calza",
+      "url": null
+    },
+    {
+      "mainName": "Lidio Carraro Vinícola Boutique",
+      "url": null
+    },
+    {
+      "mainName": "Família Geisse",
+      "url": null
+    },
+    {
+      "mainName": "Vinícola Miolo",
+      "url": null
+    },
+    {
+      "mainName": "Parque Da Ovelha",
+      "url": null
+    },
+    {
+      "mainName": "Cave do Sol",
+      "url": null
+    },
+    {
+      "mainName": "APROVALE - Associação dos Produtores de Vinhos Finos do Vale dos Vinhedos",
+      "url": null
+    },
+    {
+      "mainName": "Vinícola Lovara",
+      "url": null
+    }
+  ]
+}

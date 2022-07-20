@@ -1,0 +1,858 @@
+{
+  "mainName": "Parque Ibirapuera",
+  "slug": "parque-ibirapuera",
+  "category": "Parque",
+  "locationInformation": {
+    "latitude": "-23.5874162",
+    "longitude": "-46.6576336"
+  },
+  "basicInformation": [
+    {
+      "label": "endereço",
+      "tooltip": "Copiar endereço",
+      "text": "Av. Pedro Álvares Cabral - Vila Mariana, São Paulo - SP, 04094-050",
+      "icon": "https://www.gstatic.com/images/icons/material/system_gm/1x/place_gm_blue_24dp.png"
+    },
+    {
+      "label": "oh",
+      "text": "Fecha em breve ⋅ 00:00 ⋅ Abre ter. às 05:00\n\nOutros horários",
+      "icon": "https://www.gstatic.com/images/icons/material/system_gm/1x/schedule_gm_blue_24dp.png"
+    },
+    {
+      "label": "website",
+      "tooltip": "Abrir website",
+      "text": "prefeitura.sp.gov.br",
+      "icon": "https://www.gstatic.com/images/icons/material/system_gm/1x/public_gm_blue_24dp.png"
+    },
+    {
+      "label": "telefone",
+      "tooltip": "Copiar número de telefone",
+      "text": "(11) 5574-5045",
+      "icon": "https://www.gstatic.com/images/icons/material/system_gm/1x/phone_gm_blue_24dp.png"
+    },
+    {
+      "label": "Code",
+      "tooltip": "Copiar Plus Code",
+      "text": "C87R+2W São Paulo, SP",
+      "icon": "https://maps.gstatic.com/mapfiles/maps_lite/images/2x/ic_plus_code.png"
+    }
+  ],
+  "ratingInformation": {
+    "basicRatingInformation": {
+      "averageGrade": 4.8,
+      "totalOfEvaluations": 246814
+    },
+    "ratingsByGrade": [
+      {
+        "grade": 5,
+        "totalRatings": 201476
+      },
+      {
+        "grade": 4,
+        "totalRatings": 34522
+      },
+      {
+        "grade": 3,
+        "totalRatings": 7535
+      },
+      {
+        "grade": 2,
+        "totalRatings": 1381
+      },
+      {
+        "grade": 1,
+        "totalRatings": 1900
+      }
+    ]
+  },
+  "ratingTags": [
+    {
+      "tag": "show",
+      "count": 13,
+      "tooltip": "show, mencionado em 13 avaliações"
+    },
+    {
+      "tag": "julho",
+      "count": 8,
+      "tooltip": "julho, mencionado em 8 avaliações"
+    },
+    {
+      "tag": "patins",
+      "count": 1289,
+      "tooltip": "patins, mencionado em 1.289 avaliações"
+    },
+    {
+      "tag": "água de coco",
+      "count": 446,
+      "tooltip": "água de coco, mencionado em 446 avaliações"
+    },
+    {
+      "tag": "árvore de natal",
+      "count": 318,
+      "tooltip": "árvore de natal, mencionado em 318 avaliações"
+    },
+    {
+      "tag": "privatização",
+      "count": 257,
+      "tooltip": "privatização, mencionado em 257 avaliações"
+    },
+    {
+      "tag": "planetário",
+      "count": 221,
+      "tooltip": "planetário, mencionado em 221 avaliações"
+    },
+    {
+      "tag": "oca",
+      "count": 202,
+      "tooltip": "oca, mencionado em 202 avaliações"
+    },
+    {
+      "tag": "oscar niemeyer",
+      "count": 102,
+      "tooltip": "oscar niemeyer, mencionado em 102 avaliações"
+    },
+    {
+      "tag": "self",
+      "count": 6,
+      "tooltip": "self, mencionado em 6 avaliações"
+    }
+  ],
+  "featuredPhotos": [
+    "https://lh5.googleusercontent.com/p/AF1QipMtMP7Tul0TReLbYnL0o5DltdrphDHl7yXf2y9J=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOc3pgixu3lEinvNffGMF6aBGfEa3Pq_5QRSyLU=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMateta-Xj-hNm_d7UOI7r8FKaJBn-VuGeE6xRI=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNxjUEHB_vgu1fSSvNGizSqcqxv8N7StM36eDF6=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOzUW_7peV662uJMXjZzfwvBjHzKvTGb2KX0-HA=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipN3zazOo_--lDdOTXgE-K73N5MbWB3odcwOnYPj=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMay3XJsQm9gnH8R1FwbO4vKwtnXiykH5Wu1h3B=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNE-pe-i6HpLgoCzZrt8Rb2LdXSyDZfHVCLff0=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMIXxIn2iZ5YpyMVqrLqFuvpEMtz68TrdmIR_Gu=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMMxkemJ-jrKXmF4ZI5gqDXP25v2KhODp4hZV6c=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPyxNV-RXaD0uDEqm8-Gi5OYd4AaJQNOSQQe39J=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPfWyKmZcspSAE-bn3ONOHA5VzT5jY5iatnSPQZ=w1024-h576-k-no"
+  ],
+  "topComments": [
+    {
+      "author": "Karen alves gaspar",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucr4HJ_kLKG-4iNySMT0MgMZ2-RNVmnp0LcJ6PSpmw=w36-h36-p-c0x00000000-rp-mo-ba6-br100",
+      "comment": "Como não amar esse grande pedaço do coração de São Paulo?!  O Parque Ibirapuera já era lindo mesmo com algumas questões estruturais, agora que foi revitalizado, está mais lindo ainda!  Ótima sinalização nos portões de entrada, com mapas, orientações de funcionamento e cuidados com COVID-19. Disponibilidade de álcool em gel 70% nas entradas e nos quiosques e restaurantes dentro do parque.  Quadras reformadas, juntamente com os sanitários e com o espaço de play para as crianças.  Os museus e auditórios dentro do parque continuam em funcionamento, porém é necessário consultar os dias, horários e valores.  O parque está com bem mais opção de quiosques para alimentação e para saciar a sede com aquela água de coco.  Um ótimo passeio, ainda mais por ser ao ar livre, mas é importante lembrar que ainda estamos em pandemia e que as máscaras devem ser usadas para a proteção de todos, principalmente das crianças.  A entrada do parque permanece gratuita, e existem estacionamentos em todos os arredores, além de algumas ruas ao qual pôde-se parar com ou sem zona azul (lembrando que agora ela funciona apenas por aplicativo)  Aproveitem o passeio!",
+      "gradeComment": 5
+    },
+    {
+      "author": "Vinicius Cabelli",
+      "photoAuthor": "https://lh3.googleusercontent.com/a/AItbvmljjQJqow4yXrf9elPj28b3H7NU6pS_er-m4QzS=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "Parque simplesmente lindo. Limpo, bem cuidado. Seguro. Aluguel de bike nos pontos a um preço justo e acessível. Num dia de sol, é uma excelente pedida, seja para caminhar e curtir ou para estender uma canga e relaxar numa sombra de árvore ou num gramado.  Além da análise prática, também é interessante o contraste da natureza do parque com a urbanidade da selva de pedra ao redor. Os espaços culturais dentro do parque também são interessantes. O MAC é um must go, fica fora do parque, mas bem pertinho. Recomendo.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Escritora Sandra Ribeiro",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucr5m6qFJzDikArfmi1LY-go1WDBjDGYmX8wXq5_=w36-h36-p-c0x00000000-rp-mo-ba5-br100",
+      "comment": "O Parque do Ibirapuera é um refúgio paulistano muito importante para todos. Um pouquinho de verde em meio a tanto cinza.  Eu já frequentava o parque antes de sua privatização. Após este fato ele passou por uma repaginação.  O estacionamento agora é cobrado uma taxa por diária.  Há vendedores de água de coco a cada 10 metros, mais ou menos.  Vários locais de aplicação de álcool gel.  Os banheiros muito limpos e reformados.  A ciclovia bem sinalizada e com faixa de pedestre para travessia, nos principais pontos.  Foram colocados mais pontos de alimentação em food truck, além de mais um restaurante, além dos que já haviam.  Há um palco para apresentações populares, mas não tem mais em outros pontos, como antigamente.  Os parques foram pintados, a quadra remodelada, colocado mais aparelhos de condicionamento físico.  Verifiquei que as árvores possuem uma fichinha pendurada. Acredito que foram catalogadas.  Dentro do parque há museus, planetário,  exposições,  recanto japonês,  pavilhão de eventos. Todos estes são cobrados ingressos a parte para entrar.  O Parque continua sendo o refúgio do paulista. A esperança pintada na vegetação.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Sabrina Cristina",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucoyRED2hT7mZwjjbHxzSCABTrq5lPCvRSeYgyF6wRU=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "Ontem visitei o Pavilhão Japonês no parque Ibirapuera. Está tendo a exposição da Hello Kitty, muito fofo e bacana para levar as crianças! Me diverti bastante e ainda tem uma mini lanchonete com salgados e alguns docinhos japoneses. De quinta feira é de graça e o resto dos dias custa 15 reais. Uma parte que adorei foi o lago com várias carpas de tamanhos e cores diferentes. Tem uma placa informando a raça se cada uma. Bom atendimento, todo mundo foi atencioso comigo. Volto mais vezes! O parque em geral está passando por algumas reformas e onde era o museu parece estar abandonado, infelizmente. Espero que revitalizem logo pra que a gente possa usufruir mais da cultura.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Valeria Cinti",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucrj2yYlkPO0_mZrHDG1kW6CTFQl5yEu7H-J2HUKCA=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "Foi seccional estar aqui. Impressionante como este parque te faz esquecer que está em uma cidade enorme e agitada. O parque estava bem cheio, mas não tirou a sensação de paz do ambiente. Achei super legar a divisão dos espaços de lazer e a sinalização contida nas plaquinhas indicativas. Locamos um triciclo família na entrada no parque, levamos 40 minutos, mas valeu super a pena, pois nos permitiu conhecer todo o parque. A locação custou R$30,00.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Frederico Ferreira",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucoTyT7Ukbp67VEsohIfFPk5OQbTcUoBxJHypXSUIQ=w36-h36-p-c0x00000000-rp-mo-ba5-br100",
+      "comment": "Parque é muito grande várias opções para se fazer. Porém fica bem cheio, difícil de achar vaga. Também se quiser andar de bicicleta alugada você terá que enfrentar duas filas enormes, uma para pagamento e outro para montar na bicicleta.  A pista fica com bastante gente andando. Tem espaço para fazer lanche no mato, com mesa e cadeira. Ótimo lugar pra sair com a família.",
+      "gradeComment": 4
+    },
+    {
+      "author": "Ivens Mendes",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucqlJSshxaJP9j6qX0oUKlxg3CASzqW3IQWD6p_RBg=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "Lugar incrível! Pra quem vai de carro, estacionamento com preço único (12). Fomos em 6, alugamos 2 bike's tamanho família, cada uma saindo a 20 reais 1 hora (pra mim, tempo suficiente pra conhecer o parque pedalando). O parque tem várias barracas, vários banheiros, várias quadras e espaços para as crianças brincarem ou os adultos se sentarem. Era um sonho conhecer e superou minhas expectativas. Ótimo passeio em família e amigos, super indico!",
+      "gradeComment": 5
+    },
+    {
+      "author": "Aline Dias",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucoraiSZ-2SiGAxUi0a3Ne1V3fUGiCp92JhDzW1d0g8=w36-h36-p-c0x00000000-rp-mo-ba3-br100",
+      "comment": "O parque Ibirapuera é um lugar limpo, e bem organizado. Tem um ar puro, pra quem mora no estado de São Paulo ali pelas redondezas tem uma opção de vivenciar um contato direto com a natureza. Dar pra fazer piqueniques ( dar pra levar as comidas e lanches pra fazer ). É tão tranquilo que acabei dormindo na grama, foi ótimo .  Tem opções de aluguéis de bikes pra passeios, pode também fazer uma corrida, patins, skates, passeio com seus dogs, levar criançada , amigos. O ambiente também é bem seguro.  Pontos a melhorar a questão da organização nos aluguéis das bikes e também deveria ter mais opções de alimentações.",
+      "gradeComment": 4
+    },
+    {
+      "author": "Gi Alonso",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucpYtjj5ZvrbED4tWspTY2fDniSvchIIo12ODaYIfQ=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "Cresci frequentando o Ibira. É inegável que o parque está muito mais bem cuidado após a administração privada. O parque conta com muitas quadras, com museus, Planetário,  bicicletas para alugar, espaço pet, playground para a criançada. Banheiros limpinhos e espalhados pelo parque. Tem uma área enorme! E continua lindo, nosso pulmão verde e rota de fuga para relaxar nessa loucura toda de Sp.",
+      "gradeComment": 5
+    },
+    {
+      "author": "O Especialista!",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucqb4qpVLBTKC4L6t0PVcTxJApGmDeJh9Fy9--Lc4g=w36-h36-p-c0x00000000-rp-mo-ba3-br100",
+      "comment": "Simplesmente um ótimo lugar. Quando cheguei a esse local senti uma imensa paz no espírito. Dificilmente uma pessoa ir a esse local e não se sentir bem, praticamente é um dos melhores locais de São Paulo, se não for o melhor. Apesar que está passando por reformas ainda não deixa de ser o melhor. Pretendo voltar sempre nesse local. Muito bonito, legal e traz muita paz para o espírito. Existe metrô ônibus e outros meios de transporte para chegar a esse local, se caso morar longe. Recomendo muito, conhecido por todos. 👏👏👏👏👏👏👏👏👏👏👏👏👏👏👏",
+      "gradeComment": 5
+    }
+  ],
+  "peakHours": [
+    {
+      "Sunday": [
+        {
+          "hour": "05:00",
+          "percent": 2
+        },
+        {
+          "hour": "06:00",
+          "percent": 6
+        },
+        {
+          "hour": "07:00",
+          "percent": 15
+        },
+        {
+          "hour": "08:00",
+          "percent": 25
+        },
+        {
+          "hour": "09:00",
+          "percent": 38
+        },
+        {
+          "hour": "10:00",
+          "percent": 51
+        },
+        {
+          "hour": "11:00",
+          "percent": 64
+        },
+        {
+          "hour": "12:00",
+          "percent": 75
+        },
+        {
+          "hour": "13:00",
+          "percent": 86
+        },
+        {
+          "hour": "14:00",
+          "percent": 95
+        },
+        {
+          "hour": "15:00",
+          "percent": 100
+        },
+        {
+          "hour": "16:00",
+          "percent": 96
+        },
+        {
+          "hour": "17:00",
+          "percent": 84
+        },
+        {
+          "hour": "18:00",
+          "percent": 65
+        },
+        {
+          "hour": "19:00",
+          "percent": 46
+        },
+        {
+          "hour": "20:00",
+          "percent": 29
+        },
+        {
+          "hour": "21:00",
+          "percent": 18
+        },
+        {
+          "hour": "22:00",
+          "percent": 11
+        },
+        {
+          "hour": "23:00",
+          "percent": 7
+        }
+      ]
+    },
+    {
+      "Monday": [
+        {
+          "hour": "05:00",
+          "percent": 4
+        },
+        {
+          "hour": "06:00",
+          "percent": 9
+        },
+        {
+          "hour": "07:00",
+          "percent": 14
+        },
+        {
+          "hour": "08:00",
+          "percent": 20
+        },
+        {
+          "hour": "09:00",
+          "percent": 26
+        },
+        {
+          "hour": "10:00",
+          "percent": 31
+        },
+        {
+          "hour": "11:00",
+          "percent": 34
+        },
+        {
+          "hour": "12:00",
+          "percent": 36
+        },
+        {
+          "hour": "13:00",
+          "percent": 37
+        },
+        {
+          "hour": "14:00",
+          "percent": 37
+        },
+        {
+          "hour": "15:00",
+          "percent": 36
+        },
+        {
+          "hour": "16:00",
+          "percent": 34
+        },
+        {
+          "hour": "17:00",
+          "percent": 31
+        },
+        {
+          "hour": "18:00",
+          "percent": 27
+        },
+        {
+          "hour": "19:00",
+          "percent": 21
+        },
+        {
+          "hour": "20:00",
+          "percent": 15
+        },
+        {
+          "hour": "21:00",
+          "percent": 10
+        },
+        {
+          "hour": "22:00",
+          "percent": 5
+        }
+      ]
+    },
+    {
+      "Tuesday": [
+        {
+          "hour": "05:00",
+          "percent": 5
+        },
+        {
+          "hour": "06:00",
+          "percent": 10
+        },
+        {
+          "hour": "07:00",
+          "percent": 16
+        },
+        {
+          "hour": "08:00",
+          "percent": 24
+        },
+        {
+          "hour": "09:00",
+          "percent": 32
+        },
+        {
+          "hour": "10:00",
+          "percent": 39
+        },
+        {
+          "hour": "11:00",
+          "percent": 44
+        },
+        {
+          "hour": "12:00",
+          "percent": 48
+        },
+        {
+          "hour": "13:00",
+          "percent": 49
+        },
+        {
+          "hour": "14:00",
+          "percent": 49
+        },
+        {
+          "hour": "15:00",
+          "percent": 48
+        },
+        {
+          "hour": "16:00",
+          "percent": 45
+        },
+        {
+          "hour": "17:00",
+          "percent": 41
+        },
+        {
+          "hour": "18:00",
+          "percent": 35
+        },
+        {
+          "hour": "19:00",
+          "percent": 28
+        },
+        {
+          "hour": "20:00",
+          "percent": 21
+        },
+        {
+          "hour": "21:00",
+          "percent": 14
+        },
+        {
+          "hour": "22:00",
+          "percent": 8
+        },
+        {
+          "hour": "23:00",
+          "percent": 4
+        }
+      ]
+    },
+    {
+      "Wednesday": [
+        {
+          "hour": "05:00",
+          "percent": 5
+        },
+        {
+          "hour": "06:00",
+          "percent": 10
+        },
+        {
+          "hour": "07:00",
+          "percent": 17
+        },
+        {
+          "hour": "08:00",
+          "percent": 25
+        },
+        {
+          "hour": "09:00",
+          "percent": 33
+        },
+        {
+          "hour": "10:00",
+          "percent": 40
+        },
+        {
+          "hour": "11:00",
+          "percent": 46
+        },
+        {
+          "hour": "12:00",
+          "percent": 49
+        },
+        {
+          "hour": "13:00",
+          "percent": 51
+        },
+        {
+          "hour": "14:00",
+          "percent": 51
+        },
+        {
+          "hour": "15:00",
+          "percent": 50
+        },
+        {
+          "hour": "16:00",
+          "percent": 48
+        },
+        {
+          "hour": "17:00",
+          "percent": 43
+        },
+        {
+          "hour": "18:00",
+          "percent": 37
+        },
+        {
+          "hour": "19:00",
+          "percent": 29
+        },
+        {
+          "hour": "20:00",
+          "percent": 21
+        },
+        {
+          "hour": "21:00",
+          "percent": 14
+        },
+        {
+          "hour": "22:00",
+          "percent": 8
+        },
+        {
+          "hour": "23:00",
+          "percent": 4
+        }
+      ]
+    },
+    {
+      "Thursday": [
+        {
+          "hour": "05:00",
+          "percent": 5
+        },
+        {
+          "hour": "06:00",
+          "percent": 11
+        },
+        {
+          "hour": "07:00",
+          "percent": 18
+        },
+        {
+          "hour": "08:00",
+          "percent": 27
+        },
+        {
+          "hour": "09:00",
+          "percent": 36
+        },
+        {
+          "hour": "10:00",
+          "percent": 45
+        },
+        {
+          "hour": "11:00",
+          "percent": 52
+        },
+        {
+          "hour": "12:00",
+          "percent": 58
+        },
+        {
+          "hour": "13:00",
+          "percent": 62
+        },
+        {
+          "hour": "14:00",
+          "percent": 64
+        },
+        {
+          "hour": "15:00",
+          "percent": 63
+        },
+        {
+          "hour": "16:00",
+          "percent": 61
+        },
+        {
+          "hour": "17:00",
+          "percent": 56
+        },
+        {
+          "hour": "18:00",
+          "percent": 49
+        },
+        {
+          "hour": "19:00",
+          "percent": 41
+        },
+        {
+          "hour": "20:00",
+          "percent": 32
+        },
+        {
+          "hour": "21:00",
+          "percent": 23
+        },
+        {
+          "hour": "22:00",
+          "percent": 15
+        },
+        {
+          "hour": "23:00",
+          "percent": 8
+        }
+      ]
+    },
+    {
+      "Friday": [
+        {
+          "hour": "05:00",
+          "percent": 2
+        },
+        {
+          "hour": "06:00",
+          "percent": 8
+        },
+        {
+          "hour": "07:00",
+          "percent": 17
+        },
+        {
+          "hour": "08:00",
+          "percent": 26
+        },
+        {
+          "hour": "09:00",
+          "percent": 35
+        },
+        {
+          "hour": "10:00",
+          "percent": 42
+        },
+        {
+          "hour": "11:00",
+          "percent": 46
+        },
+        {
+          "hour": "12:00",
+          "percent": 50
+        },
+        {
+          "hour": "13:00",
+          "percent": 54
+        },
+        {
+          "hour": "14:00",
+          "percent": 58
+        },
+        {
+          "hour": "15:00",
+          "percent": 60
+        },
+        {
+          "hour": "16:00",
+          "percent": 58
+        },
+        {
+          "hour": "17:00",
+          "percent": 52
+        },
+        {
+          "hour": "18:00",
+          "percent": 42
+        },
+        {
+          "hour": "19:00",
+          "percent": 32
+        },
+        {
+          "hour": "20:00",
+          "percent": 24
+        },
+        {
+          "hour": "21:00",
+          "percent": 17
+        },
+        {
+          "hour": "22:00",
+          "percent": 12
+        },
+        {
+          "hour": "23:00",
+          "percent": 8
+        }
+      ]
+    },
+    {
+      "Saturday": [
+        {
+          "hour": "05:00",
+          "percent": 1
+        },
+        {
+          "hour": "06:00",
+          "percent": 6
+        },
+        {
+          "hour": "07:00",
+          "percent": 16
+        },
+        {
+          "hour": "08:00",
+          "percent": 28
+        },
+        {
+          "hour": "09:00",
+          "percent": 42
+        },
+        {
+          "hour": "10:00",
+          "percent": 56
+        },
+        {
+          "hour": "11:00",
+          "percent": 66
+        },
+        {
+          "hour": "12:00",
+          "percent": 73
+        },
+        {
+          "hour": "13:00",
+          "percent": 78
+        },
+        {
+          "hour": "14:00",
+          "percent": 81
+        },
+        {
+          "hour": "15:00",
+          "percent": 83
+        },
+        {
+          "hour": "16:00",
+          "percent": 81
+        },
+        {
+          "hour": "17:00",
+          "percent": 74
+        },
+        {
+          "hour": "18:00",
+          "percent": 62
+        },
+        {
+          "hour": "19:00",
+          "percent": 47
+        },
+        {
+          "hour": "20:00",
+          "percent": 34
+        },
+        {
+          "hour": "21:00",
+          "percent": 23
+        },
+        {
+          "hour": "22:00",
+          "percent": 15
+        },
+        {
+          "hour": "23:00",
+          "percent": 10
+        }
+      ]
+    }
+  ],
+  "relatedSearches": [
+    "parque ibirapuera próximos eventos",
+    "parque ibirapuera é perigoso",
+    "parque ibirapuera tamanho",
+    "parque ibirapuera localização",
+    "parque ibirapuera maps",
+    "parque ibirapuera estacionamento",
+    "parque ibirapuera horário de funcionamento",
+    "parque ibirapuera está aberto"
+  ],
+  "relateds": [
+    {
+      "mainName": "Parque Villa-Lobos",
+      "url": null
+    },
+    {
+      "mainName": "Jardim Botânico de São Paulo",
+      "url": null
+    },
+    {
+      "mainName": "Museu de Arte de São Paulo Assis Chateaubriand",
+      "url": null
+    },
+    {
+      "mainName": "Museu de Arte Moderna de São Paulo",
+      "url": null
+    },
+    {
+      "mainName": "Zoológico de São Paulo",
+      "url": null
+    },
+    {
+      "mainName": "Pinacoteca de São Paulo",
+      "url": null
+    },
+    {
+      "mainName": "Oca",
+      "url": null
+    },
+    {
+      "mainName": "Planetário do Ibirapuera Aristóteles Orsini",
+      "url": null
+    },
+    {
+      "mainName": "Mercado Municipal de São Paulo",
+      "url": null
+    },
+    {
+      "mainName": "Auditório Ibirapuera - Oscar Niemeyer",
+      "url": null
+    },
+    {
+      "mainName": "Aquário de São Paulo",
+      "url": null
+    },
+    {
+      "mainName": "Bienal Internacional de Arte de São Paulo",
+      "url": null
+    },
+    {
+      "mainName": "Parque da Mônica",
+      "url": null
+    },
+    {
+      "mainName": "Obelisco aos Heróis de 32",
+      "url": null
+    },
+    {
+      "mainName": "Museu Paulista",
+      "url": null
+    },
+    {
+      "mainName": "Beco do Batman",
+      "url": null
+    },
+    {
+      "mainName": "Parque da Água Branca (Parque Dr. Fernando Costa)",
+      "url": null
+    },
+    {
+      "mainName": "Catedral Metropolitana de São Paulo",
+      "url": null
+    },
+    {
+      "mainName": "Museu Catavento",
+      "url": null
+    },
+    {
+      "mainName": "Theatro Municipal de São Paulo",
+      "url": null
+    },
+    {
+      "mainName": "Hopi Hari",
+      "url": null
+    },
+    {
+      "mainName": "Ginásio do Ibirapuera",
+      "url": null
+    },
+    {
+      "mainName": "Pavilhão Japonês",
+      "url": null
+    }
+  ]
+}

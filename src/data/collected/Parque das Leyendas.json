@@ -1,0 +1,601 @@
+{
+  "mainName": "Parque das Leyendas",
+  "slug": "parque-das-leyendas",
+  "category": "Zoológico",
+  "locationInformation": {
+    "latitude": "-12.0725333",
+    "longitude": "-77.0871048"
+  },
+  "basicInformation": [
+    {
+      "label": "endereço",
+      "tooltip": "Copiar endereço",
+      "text": "Av. Parque de las Leyendas 580, San Miguel 15088, Peru",
+      "icon": "https://www.gstatic.com/images/icons/material/system_gm/1x/place_gm_blue_24dp.png"
+    },
+    {
+      "label": "website",
+      "tooltip": "Abrir website",
+      "text": "leyendas.gob.pe",
+      "icon": "https://www.gstatic.com/images/icons/material/system_gm/1x/public_gm_blue_24dp.png"
+    },
+    {
+      "label": "telefone",
+      "tooltip": "Copiar número de telefone",
+      "text": "+51 1 6449200",
+      "icon": "https://www.gstatic.com/images/icons/material/system_gm/1x/phone_gm_blue_24dp.png"
+    },
+    {
+      "label": "Code",
+      "tooltip": "Copiar Plus Code",
+      "text": "WWG7+X5 San Miguel, Peru",
+      "icon": "https://maps.gstatic.com/mapfiles/maps_lite/images/2x/ic_plus_code.png"
+    },
+    {
+      "label": "send-to-device",
+      "text": "Enviar para smartphone",
+      "icon": "https://maps.gstatic.com/consumer/images/icons/1x/send_to_mobile_alt_gm_blue_24dp.png"
+    }
+  ],
+  "ratingInformation": {
+    "basicRatingInformation": {
+      "averageGrade": 4.4,
+      "totalOfEvaluations": 57530
+    },
+    "ratingsByGrade": [
+      {
+        "grade": 5,
+        "totalRatings": 33894
+      },
+      {
+        "grade": 4,
+        "totalRatings": 14667
+      },
+      {
+        "grade": 3,
+        "totalRatings": 5716
+      },
+      {
+        "grade": 2,
+        "totalRatings": 1490
+      },
+      {
+        "grade": 1,
+        "totalRatings": 1763
+      }
+    ]
+  },
+  "ratingTags": [
+    {
+      "tag": "mario hermoso",
+      "count": 536,
+      "tooltip": "mario hermoso, mencionado em 536 avaliações"
+    },
+    {
+      "tag": "floresta húmida",
+      "count": 380,
+      "tooltip": "floresta húmida, mencionado em 380 avaliações"
+    },
+    {
+      "tag": "distração",
+      "count": 194,
+      "tooltip": "distração, mencionado em 194 avaliações"
+    },
+    {
+      "tag": "leão-marinho-da-patagônia",
+      "count": 46,
+      "tooltip": "leão-marinho-da-patagônia, mencionado em 46 avaliações"
+    },
+    {
+      "tag": "lua",
+      "count": 35,
+      "tooltip": "lua, mencionado em 35 avaliações"
+    },
+    {
+      "tag": "bote",
+      "count": 33,
+      "tooltip": "bote, mencionado em 33 avaliações"
+    }
+  ],
+  "featuredPhotos": [
+    "https://lh5.googleusercontent.com/p/AF1QipN7ZDIl1xcNj1ZcV3fAKYbZpxhkLgRSHa1L_EE-=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPzb2m1AfBKTwfbhWmuUMaYNGDEutuGBsqhp2Wi=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPxNveh4LxXNAHcWLx7lTYEnkbw7QmK3gRSwSRm=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOCmF-7A4YWqyEaNf-IUH6hfbWSAP29lsT9-xoc=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMIwJlKVEKtCBlfofP1ZDcSMV2aRi6Ri7VMFQy_=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNg4HQobtHnKsjHTt5BaYcoD0s8gMwehI5ZOzzj=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOqKxqAWRgKzRiq5mMvebqWQmnrmOOqKxhUyZiR=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMU9OP1Nrja_WKkIJ-CaXrqcl4QCfi2XNlYFOzD=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipP5XdwyOJkQj5ZRTl6wLK6C-kyoQJ-VxNvXGj5j=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMFP58GTXyaV5RMCwahx1gkj2xGMILlKijnPmJY=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOMciettxoQ4r23yPC89Mf4sG2Jp-Lun9sRhlwe=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPVhLrPOxMzgcH1B5Lwin7VOTMEycnmp7pXf8Cg=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPRUJvEssXolDHCBdsdzlbincJxTdHXcFw9Ia69=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMPxT5H37MN9gaFEdGPybVwydJYou_eMQ4nlnqD=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipN2-F-LlnS8BnlAjEsDHQzN2OPF-YH4IbQUtTjj=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPcCTKEokqg3didxYXx89nha_nsWB-2PO53xczk=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNEGpGViX_90_-YsFGGx-CmKZeWJ-Om1Il8WynH=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPaOPu9dFHAs4O5z1QuXv9crnoFptn3MAKyhPfy=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNbepMM3xwMx5eLyjSCxCTrfLO9I-Q-JuSkma1J=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNflo8YH5Dyc8-hVTzlAmpNG0qshqeJNbvePZyL=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNMyYW--Q2B3wCC6fTjFv5fse9_MhNL-CPUtpCw=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOinRJ96uYtie88BctTSIw2fx9UTdIFVoI6iNDg=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOSAU5aADHzrSDSOohqYboyDE0KokcgVQZIiKPR=w1024-h576-k-no"
+  ],
+  "topComments": [
+    {
+      "author": "Emerson Afonso",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucqQnDfjnl05Ay7iU-LZ1emwO7bneY6iC5s-koCcRQ=w36-h36-p-c0x00000000-rp-mo-ba3-br100",
+      "comment": "A organização em Costa, Serra e Selva torna possível o dimensionamento da riqueza animal peruana. Para se conhecer o local você tem que estar disposta a andar por um bom tempo é uma distância significativa, porém vale muito a pena. As crianças fazem a festa.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Agnes Regina Alquati",
+      "photoAuthor": "https://lh3.googleusercontent.com/a/AItbvmnCgK0ixPWvLavj7JP4nM0JHgjOgQDjngocpF3j=w36-h36-p-c0x00000000-rp-mo-ba3-br100",
+      "comment": "Limpo. Animais bem cuidados. Preço adequado. Precisa de alguns locais adequados para descanso com crianças, pois o percurso é longo.",
+      "gradeComment": 4
+    },
+    {
+      "author": "Gleyton Neves",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucoD7T5sxzgmtFFQ9_cAkpW_PxuPwKUx-O1ZGKOJQA=w36-h36-p-c0x00000000-rp-mo-ba3-br100",
+      "comment": "Lugar pouco conhecido dos turistas! Mas é incrível! Parque super grande com muitos animais diversificados.. vale muito a pena conferir , se tiver um tempinho extra! Vai pagar aprox 30 Soles pra entrar.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Elias Ivasava Guimarães",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucrdoqS69qHMD_v6Iou8GeyE1bi4s__SRneLnSAf3oQ=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "Programa interessante para a família com bastante opções de diversão para crianças. A parte negativa são os banheiros que negligenciados apesar da cobrança de ingresso.",
+      "gradeComment": 3
+    },
+    {
+      "author": "Jean Piero (Prof. Piero)",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucpi6CzGN1deKGgZUcBx2u_t4LkLCiso_bC5gGWCnA=w36-h36-p-c0x00000000-rp-mo-ba3-br100",
+      "comment": "Lindo lugar. Excelente para ir em família,  fazer um super piquenique,  ja que é permitido entrar com comida e bebidas. Preço muito em conta e um lugar que mostra animais de cada região do Perú e alguns internacionais. Recomendo chegar cedo pra dar tempo de visitar tudo.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Fagner Angelo",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucq5Nm-s-anB9dHM0Gg4pXz0z0gKryMG9a_1JEYuWw=w36-h36-p-c0x00000000-rp-mo-ba5-br100",
+      "comment": "Zoológico gigante, muito bem conservado e os animais bem cuidados. Gostei muito do passeio e super recomendo, tem um mini jardim botânico e um mini parque das aves para deixar ainda mais agradável o passeio",
+      "gradeComment": 5
+    },
+    {
+      "author": "Leide Mara Rodrigues de Sousa",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucqQDKFqz2MfyO9HEb-kwESMx_1i-7blcWWV4hDoLt8=w36-h36-p-c0x00000000-rp-mo-ba5-br100",
+      "comment": "Lindo! Amei, lindas paisagens, diversão para toda família, atrações, shows músicas,  passeio de barco, jardim botânico, zoológico, tudo de bom.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Aline Mafra",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucoVm5wt9Rgk2yWz6gVDNPTl3qJDTE5VGYcb-O0ENw=w36-h36-p-c0x00000000-rp-mo-br100",
+      "comment": "Não recomendo. O valor é caro para o que oferece. Pela primeira vez, ao visitar um zoológico, senti pena dos animais 😞",
+      "gradeComment": 2
+    },
+    {
+      "author": "Caco - Cleiton Mafra",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucogHKJOjJKwpES0T1Lf2YxdHJcLoFF7ViHWEChwlHg=w36-h36-p-c0x00000000-rp-mo-ba3-br100",
+      "comment": "Lugar legal, mas é um pouco longe de miraflores. Você vai aproveitar mais se for com crianças.",
+      "gradeComment": 4
+    },
+    {
+      "author": "Leide Mara Rodrigues de Sousa",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucqQDKFqz2MfyO9HEb-kwESMx_1i-7blcWWV4hDoLt8=w36-h36-p-c0x00000000-rp-mo-ba5-br100",
+      "comment": "Lindo, para se desfrutar com a família o dia inteiro.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Pedro Meireles",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucqYWqRvi2FrWJfr6nJ_6XEEd8pnZhJhbVgHdBVYRQ=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "Excetente. Lindos animais bem cuidados, museus e ruinas em um só lugar.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Adelar Boeira",
+      "photoAuthor": "https://lh3.googleusercontent.com/a/AItbvmmjCcTIjkqQ1gcaT69kYOSlAiQJbstyHcMecTAT=w36-h36-p-c0x00000000-rp-mo-br100",
+      "comment": "Lugar lindo e limpo para se conhecer este Parque das Leyendas.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Tatiane Ferrari",
+      "photoAuthor": "https://lh3.googleusercontent.com/a/AItbvmky0FE4lIAsgObk2h71yBDhUIB75Rddp00XKAuC=w36-h36-p-c0x00000000-rp-mo-ba2-br100",
+      "comment": "Lindo parque... zoológico, jardim botânico, lago com pedalinhos, uaca, tudo em um só lugar! Passeio garantido para o dia todo!",
+      "gradeComment": 5
+    },
+    {
+      "author": "Vania Ferreira Da Rocha",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucq6Fcdw1pHvRCjtobpEnNhh6wQQS4qiGQgz7LXoMQ=w36-h36-p-c0x00000000-rp-mo-br100",
+      "comment": "Chegamos cedo logo apos o parque abrir ficamos ate fechar .Foi um dia de semana quinta feira estava com pouco movimento de pessoas foi maravilhoso",
+      "gradeComment": 5
+    },
+    {
+      "author": "Alejandro Salinas",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucr0b_KCFW6MjtQa-OFwjRNDkU9cPJfC4dgXFrza=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "Lugar fantástico. Tem que visitar. É muito bom para a cultura e geografia peruana.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Jurandir Barsalobra",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucqEXAASmty1AqojJwvyupIb1pAbMMJKMjN4MWEStC4=w36-h36-p-c0x00000000-rp-mo-ba5-br100",
+      "comment": "Passeio agradável, lugar bonito e bem cuidado, dá para passar o dia todo!!!",
+      "gradeComment": 4
+    },
+    {
+      "author": "Professora Carla Cravo",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucpZk2sY_mYLECadpVaP3s4Smcan0c_6Ew80vIsb=w36-h36-p-c0x00000000-rp-mo-br100",
+      "comment": "Vá com tempo! É muito divertido, principalmente para crianças.",
+      "gradeComment": 5
+    },
+    {
+      "author": "jorge cabrera",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucpE5uiXH23G9dHXSVkeXuXd-4FFU87hKFwpHs0UtA=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "És um lugar muito legal",
+      "gradeComment": 5
+    },
+    {
+      "author": "Jaque Jauler",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucoP21S3DtR19U2fT-2nOxL9NjsCZVcj7HrIEOp_jOA=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "Zoológico muito legal, com diversidade de animais e muitos atrativos como lagos e uma ruína inka.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Alberto Kastro",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucrsBUmOmjg38LzI65WM2tRaVRlrdoZhtY2gzwJRw6k=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "Excelente passeio no zoológico! 👏🏼👏🏼👏🏼👏🏼",
+      "gradeComment": 5
+    }
+  ],
+  "peakHours": [
+    {
+      "Sunday": [
+        {
+          "hour": "09:00",
+          "percent": 18
+        },
+        {
+          "hour": "10:00",
+          "percent": 37
+        },
+        {
+          "hour": "11:00",
+          "percent": 63
+        },
+        {
+          "hour": "12:00",
+          "percent": 85
+        },
+        {
+          "hour": "13:00",
+          "percent": 96
+        },
+        {
+          "hour": "14:00",
+          "percent": 100
+        },
+        {
+          "hour": "15:00",
+          "percent": 98
+        },
+        {
+          "hour": "16:00",
+          "percent": 82
+        }
+      ]
+    },
+    {
+      "Monday": [
+        {
+          "hour": "09:00",
+          "percent": 10
+        },
+        {
+          "hour": "10:00",
+          "percent": 14
+        },
+        {
+          "hour": "11:00",
+          "percent": 17
+        },
+        {
+          "hour": "12:00",
+          "percent": 20
+        },
+        {
+          "hour": "13:00",
+          "percent": 23
+        },
+        {
+          "hour": "14:00",
+          "percent": 25
+        },
+        {
+          "hour": "15:00",
+          "percent": 24
+        },
+        {
+          "hour": "16:00",
+          "percent": 20
+        }
+      ]
+    },
+    {
+      "Tuesday": [
+        {
+          "hour": "09:00",
+          "percent": 11
+        },
+        {
+          "hour": "10:00",
+          "percent": 16
+        },
+        {
+          "hour": "11:00",
+          "percent": 20
+        },
+        {
+          "hour": "12:00",
+          "percent": 24
+        },
+        {
+          "hour": "14:00",
+          "percent": 28
+        },
+        {
+          "hour": "15:00",
+          "percent": 27
+        },
+        {
+          "hour": "16:00",
+          "percent": 22
+        }
+      ]
+    },
+    {
+      "Wednesday": [
+        {
+          "hour": "09:00",
+          "percent": 13
+        },
+        {
+          "hour": "10:00",
+          "percent": 22
+        },
+        {
+          "hour": "11:00",
+          "percent": 30
+        },
+        {
+          "hour": "12:00",
+          "percent": 37
+        },
+        {
+          "hour": "13:00",
+          "percent": 42
+        },
+        {
+          "hour": "14:00",
+          "percent": 44
+        },
+        {
+          "hour": "15:00",
+          "percent": 42
+        },
+        {
+          "hour": "16:00",
+          "percent": 34
+        }
+      ]
+    },
+    {
+      "Thursday": [
+        {
+          "hour": "09:00",
+          "percent": 12
+        },
+        {
+          "hour": "10:00",
+          "percent": 19
+        },
+        {
+          "hour": "11:00",
+          "percent": 26
+        },
+        {
+          "hour": "12:00",
+          "percent": 31
+        },
+        {
+          "hour": "13:00",
+          "percent": 33
+        },
+        {
+          "hour": "14:00",
+          "percent": 35
+        },
+        {
+          "hour": "15:00",
+          "percent": 34
+        },
+        {
+          "hour": "16:00",
+          "percent": 28
+        }
+      ]
+    },
+    {
+      "Friday": [
+        {
+          "hour": "09:00",
+          "percent": 13
+        },
+        {
+          "hour": "10:00",
+          "percent": 21
+        },
+        {
+          "hour": "11:00",
+          "percent": 28
+        },
+        {
+          "hour": "12:00",
+          "percent": 33
+        },
+        {
+          "hour": "13:00",
+          "percent": 37
+        },
+        {
+          "hour": "14:00",
+          "percent": 38
+        },
+        {
+          "hour": "15:00",
+          "percent": 36
+        },
+        {
+          "hour": "16:00",
+          "percent": 30
+        }
+      ]
+    },
+    {
+      "Saturday": [
+        {
+          "hour": "09:00",
+          "percent": 15
+        },
+        {
+          "hour": "10:00",
+          "percent": 28
+        },
+        {
+          "hour": "11:00",
+          "percent": 43
+        },
+        {
+          "hour": "12:00",
+          "percent": 54
+        },
+        {
+          "hour": "13:00",
+          "percent": 61
+        },
+        {
+          "hour": "14:00",
+          "percent": 63
+        },
+        {
+          "hour": "15:00",
+          "percent": 61
+        },
+        {
+          "hour": "16:00",
+          "percent": 51
+        }
+      ]
+    }
+  ],
+  "relatedSearches": [
+    "parque de las leyendas wiki",
+    "visita virtual parque de las leyendas",
+    "parque de las leyendas tarifas 2022",
+    "circuito mágico das águas",
+    "zoologico peru",
+    "zoo huachipa",
+    "parque de las leyendas horario",
+    "calendario parque de las leyendas"
+  ],
+  "relateds": [
+    {
+      "mainName": "Parque Zoológico Huachipa",
+      "url": null
+    },
+    {
+      "mainName": "Parque de la Reserva",
+      "url": null
+    },
+    {
+      "mainName": "La Granja Villa",
+      "url": null
+    },
+    {
+      "mainName": "Pantanos de Villa Wildlife Refuge",
+      "url": null
+    },
+    {
+      "mainName": "Parque da Imaginação",
+      "url": null
+    },
+    {
+      "mainName": "Museu Arqueológico Rafael Larco Herrera",
+      "url": null
+    },
+    {
+      "mainName": "BUENOS AIRES ZOO",
+      "url": null
+    },
+    {
+      "mainName": "Emperor Valley Zoo",
+      "url": null
+    },
+    {
+      "mainName": "Hacienda Nápoles",
+      "url": null
+    },
+    {
+      "mainName": "Acuario Rodadero Santa Marta",
+      "url": null
+    },
+    {
+      "mainName": "Temaikèn",
+      "url": null
+    },
+    {
+      "mainName": "Parque de la Conservación",
+      "url": null
+    },
+    {
+      "mainName": "Parque Zoológico Municipal \"Quinzinho de Barros\"",
+      "url": null
+    },
+    {
+      "mainName": "Cali Zoo",
+      "url": null
+    },
+    {
+      "mainName": "Zoológico Nacional",
+      "url": null
+    },
+    {
+      "mainName": "Aquário de São Paulo",
+      "url": null
+    },
+    {
+      "mainName": "Mundo Marino - El Oceanario Más Grande De Sudamérica",
+      "url": null
+    },
+    {
+      "mainName": "Zoológico de São Paulo",
+      "url": null
+    },
+    {
+      "mainName": "Fortaleza del Real Felipe",
+      "url": null
+    },
+    {
+      "mainName": "National Museum of the Archaeology, Anthropology, and History of Peru, Lima",
+      "url": null
+    },
+    {
+      "mainName": "Park of the Exposition",
+      "url": null
+    },
+    {
+      "mainName": "Petroleum Museum - PETROPERÚ",
+      "url": null
+    },
+    {
+      "mainName": "Museu de Arte de Lima",
+      "url": null
+    }
+  ]
+}

@@ -1,0 +1,931 @@
+{
+  "mainName": "Parque Estadual do Jalapão",
+  "slug": "parque-estadual-do-jalapao",
+  "category": "Parque estadual",
+  "locationInformation": {
+    "latitude": "-10.2984889",
+    "longitude": "-46.7538882"
+  },
+  "basicInformation": [
+    {
+      "label": "endereço",
+      "tooltip": "Copiar endereço",
+      "text": "Mateiros - TO, 77593-000",
+      "icon": "https://www.gstatic.com/images/icons/material/system_gm/1x/place_gm_blue_24dp.png"
+    },
+    {
+      "label": "website",
+      "tooltip": "Abrir website",
+      "text": "jalapao.to.gov.br",
+      "icon": "https://www.gstatic.com/images/icons/material/system_gm/1x/public_gm_blue_24dp.png"
+    },
+    {
+      "label": "Code",
+      "tooltip": "Copiar Plus Code",
+      "text": "P62W+JC Jalapinha, Mateiros - TO",
+      "icon": "https://maps.gstatic.com/mapfiles/maps_lite/images/2x/ic_plus_code.png"
+    },
+    {
+      "label": "merchant",
+      "text": "Reivindicar esta empresa",
+      "icon": "https://www.gstatic.com/images/icons/material/system_gm/1x/verified_user_gm_blue_24dp.png"
+    }
+  ],
+  "ratingInformation": {
+    "basicRatingInformation": {
+      "averageGrade": 4.8,
+      "totalOfEvaluations": 1922
+    },
+    "ratingsByGrade": [
+      {
+        "grade": 5,
+        "totalRatings": 1684
+      },
+      {
+        "grade": 4,
+        "totalRatings": 152
+      },
+      {
+        "grade": 3,
+        "totalRatings": 36
+      },
+      {
+        "grade": 2,
+        "totalRatings": 16
+      },
+      {
+        "grade": 1,
+        "totalRatings": 34
+      }
+    ]
+  },
+  "ratingTags": [
+    {
+      "tag": "cachoeiras",
+      "count": 63,
+      "tooltip": "cachoeiras, mencionado em 63 avaliações"
+    },
+    {
+      "tag": "",
+      "count": 4452,
+      "tooltip": "4x4, mencionado em 52 avaliações"
+    },
+    {
+      "tag": "dunas",
+      "count": 45,
+      "tooltip": "dunas, mencionado em 45 avaliações"
+    },
+    {
+      "tag": "fantástico",
+      "count": 14,
+      "tooltip": "fantástico, mencionado em 14 avaliações"
+    },
+    {
+      "tag": "pousadas",
+      "count": 13,
+      "tooltip": "pousadas, mencionado em 13 avaliações"
+    },
+    {
+      "tag": "descrever",
+      "count": 12,
+      "tooltip": "descrever, mencionado em 12 avaliações"
+    },
+    {
+      "tag": "perfeito",
+      "count": 12,
+      "tooltip": "perfeito, mencionado em 12 avaliações"
+    },
+    {
+      "tag": "ímpar",
+      "count": 9,
+      "tooltip": "ímpar, mencionado em 9 avaliações"
+    },
+    {
+      "tag": "roteiro",
+      "count": 6,
+      "tooltip": "roteiro, mencionado em 6 avaliações"
+    },
+    {
+      "tag": "agência de turismo",
+      "count": 6,
+      "tooltip": "agência de turismo, mencionado em 6 avaliações"
+    }
+  ],
+  "featuredPhotos": [
+    "https://lh5.googleusercontent.com/p/AF1QipNV3XO6LczapeLf5alBdOqqKY2Lv_cb0Z9M1i4J=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMHiLyxg5QdIPbyVCx8Zt0kK9exP4r0OPYTg2C7=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOc55qurBrP-pP7rSJfXrcZFuZjDQEDQYcYbDC7=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipO5bWK2TM6m2ZGmCYziqgScaXP0vaQRz-tGCtBh=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPCTSx-sql865vP5rV54UyiAJG_kdtAei7_NK2r=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMOs86VyVk-UBtTKve7Qqs_wAySoZugpdnl7dmz=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMLZWEB3dN1sz4c09NMdz4JvUrhU84Sd4poULEH=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMvz1vox2Yiujk8QE-J3CaDIA7kkakPiBmTHakU=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMKVMkaUPek07ctHK_Tn68kfKZ_571pspI83PvA=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNAXuG9RHVWr1RoY6zAq4B9kW58VyyU-n8vFUsO=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMeKtKvRMqOKf_W9Ij6QfcI0ZyRQG0JqcYLvjdB=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOOu6W7xSRuUD_1Lsl6C1e75qkoT11qxR0g6l_n=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPDP8-bupuvZD5xr5dj4Rf9b5GQA--tupM1b9TN=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMFXRNaIVCicPmFZx53cmi0LAcaK7kwSJ-IByp9=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNXoffnMKve5IXj5qagqdf_zpIQXi3aWfrspSHw=w1024-h576-k-no"
+  ],
+  "topComments": [
+    {
+      "author": "Jessica Leme",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucogbiJbNmbf0GOUz3JJqVjzZmzbiqIdXbPpcoAhLoA=w36-h36-p-c0x00000000-rp-mo-ba6-br100",
+      "comment": "Lembra muito uma chapada, mas tem como diferencial os fervedouros que são locais únicos e muito bonitos. Quase tudo ainda é estrada de terra e as atrações ficam ao redor do parque, poucas são dentro (acredito que seja apenas a cachoeira da velha e as dunas), os demais ficam próximos às cidades de Mateiros, Ponte Alta e São Felix. É muito bonito e tem vários guias que oferecem expedições, incluindo alimentação, hospedagens e transporte. É possível ir por conta própria e o povo é bem simpático e ajuda, caso precise, mas só é possível se as estradas estiverem boas e se for com carro 4x4 e alto. Carros 4x4 baixos podem ter dificuldades em alguns trechos. Com chuva, as estradas ficam cheias de erosão e com crateras. Não pega sinal de celular e em alguns locais as estradas não estão mapeadas, por isso não é muito legal arriscar, mas dá para ir. A maioria das hospedagens e restaurantes precisam ser reservados com antecedência por não terem estrutura para atender tanta gente e na maioria das vezes há bastante turistas por lá. É bem selvagem, mas já com vários locais em reforma para fornecer boa estrutura. Os pontos turísticos são bem distantes uns dos outros, com exceção dos fervedouros que são amontoados. Por isso a maior parte do passeio é no carro. 3-4 dias são mais que suficientes para conhecer as melhores atrações.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Carlos Eduardo Sales",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucodGQ_FhX3IVD_RIqQAs8YKl_D1yxYIYxIbBUrwplQ=w36-h36-p-c0x00000000-rp-mo-br100",
+      "comment": "Fizemos o passeio clássico de 05 dias percorrendo as cidades de Morro Alto, Mateiros e São Félix,  foi nossa primeira vez nesse destino,  ficamos maravilhados com as belezas naturais do Jalapão,  cachoeiras, canion, dunas e os fervedouros que é uma experiência ímpar. Destino aprovado e recomendado.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Vinícius Almeida",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucpRNZga2BsszLawTELXcQmsEjwGA3BfeWmo1eDmtNc=w36-h36-p-c0x00000000-rp-mo-ba6-br100",
+      "comment": "Fantástico! Tudo é muito lindo, os fervedouros, as dunas, as cachoeiras. Pena que a infraestrutura é bem rústica e as estradas impedem de fazer o passeio com veículos que não são 4 por 4.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Lincoln Valadares Saraiva",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucr0crLpOqM61cknQ5otFsFIDYQBgo04xnzVUxD1GQ=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "As estradas do Jalapão são de terra ou areião, mesmo com duas épocas distintas, de seca (estiagem) ou chuvas, é altamente recomendável que se vá com veículo 4X4.  Na época das secas por conta dos bolsões de areia é fácil atolar os veículos, e mesmo na época das chuvas pedras pontiagudas que se misturam ao cascalho podem se tornar um desafio para os despreparados. . 👉🏻As cidades \"base\" do parque que formam o circuito Jalapão são: Ponte Alta do Tocantins, Mateiros e São Félix do Tocantins. . 🛣São mais de 500 km de estradas lindas e brutas que cruzam pequenos riachos com água 100% potável. . 😮Os atrativos são verdadeiras obras de arte naturais moldadas pela ação dos ventos e das águas, que cerpeiteiam o cerrado abastecendo fauna e flora local. . 🌳As estradas fazem parte do meio ambiente. Preservem a natureza!",
+      "gradeComment": 5
+    },
+    {
+      "author": "Dona Clí",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucrG5LebRKlDSSseMZ-7dR3yJGjiPzG7YA_wq57YleA=w36-h36-p-c0x00000000-rp-mo-ba6-br100",
+      "comment": "O Parque Estadual do Jalapão (TO) é divino!  Selvagem, beleza intocada, impõe seus limites aos visitantes com a dureza do cerrado e a secura de seu ar. É uma experiência para ser vivida com uma empresa e guias da região, em sua maioria, baseadas em Palmas - TO. Os deslocamentos diários para as visitas são grandes e em baixa velocidade. A maior parte do parque está localizada numa demarcação quilombola e não há construções,  pousadas, comércio ou sinal de internet. As cidades próximas e bases para os visitantes sao: Mateiros e Ponte Alta (9000 habitantes). As estradas são de uma areia fofa, ou barro vermelho, de difícil acesso e as atrações não são sinalizadas. A chance de ficar agarrado na estrada, na poeira do sol que tosta ou no escuro da noite do céu mágico, num perregue sem hora para terminar, é bem grande para os desavisados que partem sem  um guia e estrutura. Estive lá em julho 2021 e não havia chuva desde maio. Janeiro é o mês da chuva! E, de maneira impressionante, as águas azuis brotam do chão em fervedouros e nascentes de belezas ímpares. Todas são propriedades particulares, com pagamento na entrada e muitos fervedouros com tempo bem restrito para a visitação, em especial, na alta temporada. Minha experiência foi com a Korubo mas esse detalhamento farei na avaliação da empresa. Só digo que foi espetacular. Recomendo e amei demais. O Jalapão é incrível. Seguem algumas fotos das Dunas, Cachoeira da Formiga, Lagoa do Japonês, fervedouros: Ceiça e Soninho,  Pedra Furada, trilha na Serra do Espito Santo e outras lindezas deste paraíso selvagem.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Jhon JALAPÃO",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucpwhDANcq023QTVipHD09MdzqdBRXljCns2xhGOGBg=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "O parque estadual do JALAPÃO é um lugar lindo.. com belas paisagens naturais..belas cachoeira, dunas ,fervedouros, montanhas ,lagoas , trilhas e muitos outros lugares... O JALAPÃO como muitos pesam NÃO é uma cidade .. e sim uma região compostas por vários municípios..sendo os principais Ponte alta, mateiros e são Félix do tocantins.. para conhecer o JALAPÃO é necessário um carro 4x4 .. as estradas são precárias ..uma mistura de área pedras buracos e lama .. os atrativos são longes um do outro .. um roteiro de 4 dias você roda cerca de 1000 km a partir de Palmas... para entrar no parque você precisa contratar um guia credenciado... as pousadas e restaurantes são todos agendados com antecedência.. Eu recomendo contratar uma agência local para você ter uma melhor experiência...   conheça o JALAPÃO @jhonjalapao .63-98412-6260",
+      "gradeComment": 5
+    },
+    {
+      "author": "Emerson Fantin",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucr9IlJOoF5_KhiE3D-rHWztjFstUnUYKRTX9f8v3TE=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "A infraestrutura dos locais, assim como das estradas é precária, mas posso garantir que todos os atrativos são um espetáculo a parte, compensando cada dificuldade do trajeto.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Felipe Miguel Lauand",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucoT9pyzE8Tvr2aDF7bJ-_SoTR26_QMdy1NR1PHN=w36-h36-p-c0x00000000-rp-mo-ba7-br100",
+      "comment": "Vou ser repetitivo e escrever com a mesma emoção de quando falei dos fervedouros. Queria poder saber descrever em palavras a emoção de conhecer o Jalapão. Fiz um passeio a partir de Palmas, com a turística Jalapão Sem Limites, uma empresa honesta com profissionais guias de turismo exemplares responsáveis e alegres e eu sou um adepto do trabalho com responsabilidade e alegria juntos. Estão de parabéns.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Jociane Wust Bernardo",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucpr_8DjaLkSkDVVp6QhHaXe8N8CAzDIBrqFfKRQRow=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "É um passeio maravilhoso! Fizemos com guia, Jalapão 360. Você precisa ter tempo para fazer, pois tudo fica muito longe. Veículos, tem que ser 4x4, as estradas são de terra e areia. É uma beleza ímpar!",
+      "gradeComment": 5
+    },
+    {
+      "author": "Paulo Marsura",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucqw0hgj_JC8M_ED3-uqeJeKQfQ7_7zk5eYkw-SrCg=w36-h36-p-c0x00000000-rp-mo-ba3-br100",
+      "comment": "Dias de muita emoção companheirismo e alegria : tudo programado pela agência Jalapão 100 limites",
+      "gradeComment": 5
+    },
+    {
+      "author": "Luiz Fernando Cervi",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucpa0uHQBLfq37G0CkPsOM9FaJlVELcil17aQFIMlA=w36-h36-p-c0x00000000-rp-mo-ba3-br100",
+      "comment": "Lugar mágico, sem palavras... Povo receptivo e acolhedor. Comida maravilhosa. Todas as atrações são simplesmente fantásticas. Cada lugar com sua magia e encantamento. Dica: Sinal de celular só dá Claro e wi-fi em todas as pousadas e nem em todas as atrações. Não deixem de visitar, mais do que recomendo.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Eva Carvalho",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucrs2nWkuPCCQIkp19MCEKm9M_qY71FBXUjAL0NHE_E=w36-h36-p-c0x00000000-rp-mo-br100",
+      "comment": "Um lugar sem igual, você pode rodar o mundo inteiro que jamais encontrará lugar nenhum parecido, lugar de um povo acolhedor e humilde, me emociono só de lembrar, gostaria de destacar aqui a melhor empresa de expedição do Jalapão que é a Cerrado Dourado. São horas e horas dentro de um carro andando em estrada de chão e do nada você se depara com os fervedouros e cachoeiras que saltam os olhos de tanta beleza, muitas vezes almoçamos nas comunidades quilombolas, me emociono em lembrar a simplicidade e sabor das comidas, das paisagens, passaros. Com certeza um lugar que tem uma parte do meu coração para sempre!",
+      "gradeComment": 5
+    },
+    {
+      "author": "Luxando e Devendo (Skate Elétrico Maxfind)",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucqPX-aN1Gb_-pi-kFoLZIss9ohnmzAn9Ul6JAsGlCc=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "Para mais dicas do Jalapão siga no Instagram @luxando.e.devendo  Jalapão é bruto, porém, é lindo!!! Um lugar magnífico com vistas monumentais, vale muito a pena se o seu perfil for aventureiro, e não tem importância em ficar um tempo no carro para chegar ao lugares.",
+      "gradeComment": 5
+    },
+    {
+      "author": "myrian burattini",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucr_TE19BSYAueLbacVoGYiKY9cO2JS9UV8Ls75T=w36-h36-p-c0x00000000-rp-mo-ba5-br100",
+      "comment": "Inesquecível, surpreendente, lindo e bruto...que mustura!",
+      "gradeComment": 5
+    },
+    {
+      "author": "Pajerando por aí",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucpx4nSRmATJjYZwAAKE7JYgxZYwBz6Y_qr9XUX7=w36-h36-p-c0x00000000-rp-mo-ba3-br100",
+      "comment": "Rustico mas assim que é bom, procure se informar antes de ir, algumas pessoas não buscam informação depois sofrem as consequências e saem reclamando!",
+      "gradeComment": 4
+    },
+    {
+      "author": "Marcos Lage",
+      "photoAuthor": "https://lh3.googleusercontent.com/a/AItbvmnLrQTvPhELU5r4f7kgPqZuCbIGiYHixY9cM_sqbw=w36-h36-p-c0x00000000-rp-mo-ba5-br100",
+      "comment": "Parque muito extenso e com estradas muito ruins, porém com atrações muito bonitas. É necessário  muito preparo físico para percorrer os mais de mil quilômetros para conhecê-lo razoavelmente bem. As atrações imperdíveis são os vários fervedouros.",
+      "gradeComment": 4
+    },
+    {
+      "author": "Evandro Santos",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZuco7ERpiI-MBxSi9QKI_BiNoIuKCY6Hvj0S_Pg7DfVs=w36-h36-p-c0x00000000-rp-mo-ba6-br100",
+      "comment": "Como descrever um deserto com muita água? E um.local arenoso com muita vegetação de cerrado? Lugar mágico  demais o jalapão. Atravessei de bicicleta e sozinho num contato total com a natureza. Usei como entrada a cidade de Palmas, depois Lagoa do Tocantins,  São Félix  e mateiros. As duas últimas só é  possível  chegar por estradas de terra com muita areia, costela de vaca e natureza ...100km sem pontos de apoio.",
+      "gradeComment": 5
+    },
+    {
+      "author": "paulOo feliciano",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucoAQ-159ZtFagiljdwhjrmtXTekTkVuXCrAl8v3LQ=w36-h36-p-c0x00000000-rp-mo-br100",
+      "comment": "A beleza desse lugar é simplesmente apaixonante",
+      "gradeComment": 5
+    },
+    {
+      "author": "Nathy Vecchi",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucochW5pKHuApvl0BklWafqN1ltw0K5SUxnNh2QWzJs=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "Sem palavras  para esse destino. A energia desse lugar é única, creio que seja pelo contato diário que temos com a natureza durante a expedição. @Natthy.028",
+      "gradeComment": 5
+    },
+    {
+      "author": "Carol Lopes",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucrRZnxfrvXKICd8bGdPsQ2PEmJghd7fSrD1rxXNvw=w36-h36-p-c0x00000000-rp-mo-ba2-br100",
+      "comment": "Minha experiência neste lugar lindo e que não vi ninguém contando nesta internet:  A viagem foi em agosto de 2021 e foi maravilhosa,  mas dentro desse maravilhoso teve muita coisa desconfortável, mas que no fim foi muito aprendizado e lição pra mim. Jalapão não é isso que as muitas pessoas postam por aqui. Jalapão é bruto. Ninguém fala da dificuldade da viagem.  Então, pelo meu ponto vista, a viagem é muito cansativa, a gente fica horas dentro do carro, numa estrada super difícil, até chegar na cachoeira ou no fervedouro. Muitas vezes vc chega no fervedouro e tem que esperar, pq só entram poucas pessoas por vez e só podemos ficar por 20 min no máximo, a depender do local.  É um fervedouro mais lindo que o outro. Mas isso todo mundo já sabe. O que eu não sabia é que teriam dias que eu ficaria por horas, tipo umas 5 horas direto dentro do carro, quicando feito mola kkkkkkk cuidado que tem problemas de coluna! Não estava esperando por isso. As estradas precisam melhorar.  Então, pra mim, foi frustrante pq não tinha lido nada na Internet a respeito disso. Todo dia a gente dormia num local diferente, então nem dava pra desfazer a mala. Por falar em mala, indico que levem mochila ou uma mala velha, a minha ficou acabada do atrito encima dos carros e ela vai ficando toda empoeirada e suja por conta da terra nas estradas. É tipo um rali mesmo :) O diferencial do Jalapão são os fervedouros. É inegável que é uma experiência única que vc não encontra em outro lugar do mundo. E é por isso que valeu pra mim. Mas confesso que EU não tenho vontade de voltar.",
+      "gradeComment": 3
+    }
+  ],
+  "peakHours": [
+    {
+      "Sunday": [
+        {
+          "hour": "04:00",
+          "percent": 10
+        },
+        {
+          "hour": "05:00",
+          "percent": 16
+        },
+        {
+          "hour": "06:00",
+          "percent": 19
+        },
+        {
+          "hour": "07:00",
+          "percent": 22
+        },
+        {
+          "hour": "08:00",
+          "percent": 30
+        },
+        {
+          "hour": "09:00",
+          "percent": 43
+        },
+        {
+          "hour": "10:00",
+          "percent": 61
+        },
+        {
+          "hour": "11:00",
+          "percent": 76
+        },
+        {
+          "hour": "12:00",
+          "percent": 83
+        },
+        {
+          "hour": "13:00",
+          "percent": 78
+        },
+        {
+          "hour": "14:00",
+          "percent": 62
+        },
+        {
+          "hour": "15:00",
+          "percent": 41
+        },
+        {
+          "hour": "16:00",
+          "percent": 23
+        },
+        {
+          "hour": "17:00",
+          "percent": 12
+        },
+        {
+          "hour": "18:00",
+          "percent": 10
+        },
+        {
+          "hour": "19:00",
+          "percent": 13
+        },
+        {
+          "hour": "20:00",
+          "percent": 15
+        },
+        {
+          "hour": "21:00",
+          "percent": 14
+        },
+        {
+          "hour": "22:00",
+          "percent": 8
+        },
+        {
+          "hour": "03:00",
+          "percent": 2
+        }
+      ]
+    },
+    {
+      "Monday": [
+        {
+          "hour": "06:00",
+          "percent": 3
+        },
+        {
+          "hour": "07:00",
+          "percent": 11
+        },
+        {
+          "hour": "08:00",
+          "percent": 20
+        },
+        {
+          "hour": "09:00",
+          "percent": 27
+        },
+        {
+          "hour": "10:00",
+          "percent": 33
+        },
+        {
+          "hour": "11:00",
+          "percent": 36
+        },
+        {
+          "hour": "12:00",
+          "percent": 38
+        },
+        {
+          "hour": "13:00",
+          "percent": 38
+        },
+        {
+          "hour": "14:00",
+          "percent": 35
+        },
+        {
+          "hour": "15:00",
+          "percent": 31
+        },
+        {
+          "hour": "16:00",
+          "percent": 26
+        },
+        {
+          "hour": "17:00",
+          "percent": 20
+        },
+        {
+          "hour": "18:00",
+          "percent": 13
+        },
+        {
+          "hour": "19:00",
+          "percent": 6
+        }
+      ]
+    },
+    {
+      "Tuesday": [
+        {
+          "hour": "08:00",
+          "percent": 7
+        },
+        {
+          "hour": "09:00",
+          "percent": 20
+        },
+        {
+          "hour": "10:00",
+          "percent": 30
+        },
+        {
+          "hour": "11:00",
+          "percent": 35
+        },
+        {
+          "hour": "12:00",
+          "percent": 35
+        },
+        {
+          "hour": "13:00",
+          "percent": 32
+        },
+        {
+          "hour": "14:00",
+          "percent": 28
+        },
+        {
+          "hour": "15:00",
+          "percent": 24
+        },
+        {
+          "hour": "16:00",
+          "percent": 20
+        },
+        {
+          "hour": "17:00",
+          "percent": 15
+        },
+        {
+          "hour": "18:00",
+          "percent": 9
+        },
+        {
+          "hour": "19:00",
+          "percent": 3
+        }
+      ]
+    },
+    {
+      "Wednesday": [
+        {
+          "hour": "08:00",
+          "percent": 14
+        },
+        {
+          "hour": "09:00",
+          "percent": 34
+        },
+        {
+          "hour": "10:00",
+          "percent": 53
+        },
+        {
+          "hour": "11:00",
+          "percent": 66
+        },
+        {
+          "hour": "12:00",
+          "percent": 68
+        },
+        {
+          "hour": "13:00",
+          "percent": 63
+        },
+        {
+          "hour": "14:00",
+          "percent": 55
+        },
+        {
+          "hour": "15:00",
+          "percent": 48
+        },
+        {
+          "hour": "16:00",
+          "percent": 44
+        },
+        {
+          "hour": "17:00",
+          "percent": 41
+        },
+        {
+          "hour": "18:00",
+          "percent": 37
+        },
+        {
+          "hour": "19:00",
+          "percent": 30
+        },
+        {
+          "hour": "20:00",
+          "percent": 21
+        },
+        {
+          "hour": "21:00",
+          "percent": 12
+        },
+        {
+          "hour": "22:00",
+          "percent": 6
+        },
+        {
+          "hour": "23:00",
+          "percent": 3
+        },
+        {
+          "hour": "00:00",
+          "percent": 2
+        },
+        {
+          "hour": "01:00",
+          "percent": 2
+        },
+        {
+          "hour": "02:00",
+          "percent": 1
+        }
+      ]
+    },
+    {
+      "Thursday": [
+        {
+          "hour": "06:00",
+          "percent": 2
+        },
+        {
+          "hour": "07:00",
+          "percent": 13
+        },
+        {
+          "hour": "08:00",
+          "percent": 31
+        },
+        {
+          "hour": "09:00",
+          "percent": 53
+        },
+        {
+          "hour": "10:00",
+          "percent": 74
+        },
+        {
+          "hour": "11:00",
+          "percent": 89
+        },
+        {
+          "hour": "12:00",
+          "percent": 98
+        },
+        {
+          "hour": "13:00",
+          "percent": 100
+        },
+        {
+          "hour": "14:00",
+          "percent": 96
+        },
+        {
+          "hour": "15:00",
+          "percent": 88
+        },
+        {
+          "hour": "16:00",
+          "percent": 78
+        },
+        {
+          "hour": "17:00",
+          "percent": 66
+        },
+        {
+          "hour": "18:00",
+          "percent": 53
+        },
+        {
+          "hour": "19:00",
+          "percent": 41
+        },
+        {
+          "hour": "20:00",
+          "percent": 32
+        },
+        {
+          "hour": "21:00",
+          "percent": 26
+        },
+        {
+          "hour": "22:00",
+          "percent": 22
+        },
+        {
+          "hour": "23:00",
+          "percent": 20
+        },
+        {
+          "hour": "00:00",
+          "percent": 18
+        },
+        {
+          "hour": "01:00",
+          "percent": 15
+        },
+        {
+          "hour": "02:00",
+          "percent": 11
+        },
+        {
+          "hour": "03:00",
+          "percent": 5
+        }
+      ]
+    },
+    {
+      "Friday": [
+        {
+          "hour": "04:00",
+          "percent": 11
+        },
+        {
+          "hour": "05:00",
+          "percent": 11
+        },
+        {
+          "hour": "06:00",
+          "percent": 19
+        },
+        {
+          "hour": "07:00",
+          "percent": 35
+        },
+        {
+          "hour": "08:00",
+          "percent": 55
+        },
+        {
+          "hour": "09:00",
+          "percent": 74
+        },
+        {
+          "hour": "10:00",
+          "percent": 89
+        },
+        {
+          "hour": "11:00",
+          "percent": 96
+        },
+        {
+          "hour": "12:00",
+          "percent": 98
+        },
+        {
+          "hour": "13:00",
+          "percent": 97
+        },
+        {
+          "hour": "14:00",
+          "percent": 93
+        },
+        {
+          "hour": "15:00",
+          "percent": 86
+        },
+        {
+          "hour": "16:00",
+          "percent": 76
+        },
+        {
+          "hour": "17:00",
+          "percent": 64
+        },
+        {
+          "hour": "18:00",
+          "percent": 52
+        },
+        {
+          "hour": "19:00",
+          "percent": 41
+        },
+        {
+          "hour": "20:00",
+          "percent": 33
+        },
+        {
+          "hour": "21:00",
+          "percent": 30
+        },
+        {
+          "hour": "22:00",
+          "percent": 30
+        },
+        {
+          "hour": "23:00",
+          "percent": 31
+        },
+        {
+          "hour": "00:00",
+          "percent": 31
+        },
+        {
+          "hour": "01:00",
+          "percent": 28
+        },
+        {
+          "hour": "02:00",
+          "percent": 23
+        },
+        {
+          "hour": "03:00",
+          "percent": 16
+        }
+      ]
+    },
+    {
+      "Saturday": [
+        {
+          "hour": "04:00",
+          "percent": 15
+        },
+        {
+          "hour": "05:00",
+          "percent": 16
+        },
+        {
+          "hour": "06:00",
+          "percent": 22
+        },
+        {
+          "hour": "07:00",
+          "percent": 32
+        },
+        {
+          "hour": "08:00",
+          "percent": 46
+        },
+        {
+          "hour": "09:00",
+          "percent": 61
+        },
+        {
+          "hour": "10:00",
+          "percent": 76
+        },
+        {
+          "hour": "11:00",
+          "percent": 86
+        },
+        {
+          "hour": "12:00",
+          "percent": 91
+        },
+        {
+          "hour": "13:00",
+          "percent": 90
+        },
+        {
+          "hour": "14:00",
+          "percent": 83
+        },
+        {
+          "hour": "15:00",
+          "percent": 72
+        },
+        {
+          "hour": "16:00",
+          "percent": 60
+        },
+        {
+          "hour": "17:00",
+          "percent": 49
+        },
+        {
+          "hour": "18:00",
+          "percent": 41
+        },
+        {
+          "hour": "19:00",
+          "percent": 36
+        },
+        {
+          "hour": "20:00",
+          "percent": 34
+        },
+        {
+          "hour": "21:00",
+          "percent": 33
+        },
+        {
+          "hour": "22:00",
+          "percent": 33
+        },
+        {
+          "hour": "23:00",
+          "percent": 32
+        },
+        {
+          "hour": "00:00",
+          "percent": 29
+        },
+        {
+          "hour": "01:00",
+          "percent": 26
+        },
+        {
+          "hour": "02:00",
+          "percent": 21
+        },
+        {
+          "hour": "03:00",
+          "percent": 17
+        }
+      ]
+    }
+  ],
+  "relatedSearches": [
+    "parque estadual do jalapão pacotes",
+    "parque estadual do jalapão onde fica",
+    "parque estadual do jalapão fotos",
+    "jalapão wikipédia",
+    "qual a cidade mais próxima do jalapão",
+    "jalapão cvc",
+    "quantas horas de palmas para jalapão",
+    "jalapão tocantins"
+  ],
+  "relateds": [
+    {
+      "mainName": "Fervedouro do Ceiça",
+      "url": null
+    },
+    {
+      "mainName": "Cachoeira do Formiga",
+      "url": null
+    },
+    {
+      "mainName": "Cachoeira da Velha",
+      "url": null
+    },
+    {
+      "mainName": "Dunas do Jalapão",
+      "url": null
+    },
+    {
+      "mainName": "Serra do Espirito Santo",
+      "url": null
+    },
+    {
+      "mainName": "Lagoa do Japonês",
+      "url": null
+    },
+    {
+      "mainName": "Fervedouro do Buritizinho",
+      "url": null
+    },
+    {
+      "mainName": "Parque Nacional da Chapada dos Veadeiros",
+      "url": null
+    },
+    {
+      "mainName": "Canyon Sussuapara",
+      "url": null
+    },
+    {
+      "mainName": "Parque Nacional da Chapada das Mesas",
+      "url": null
+    },
+    {
+      "mainName": "Fernando de Noronha",
+      "url": null
+    },
+    {
+      "mainName": "Acesso a Jalapão Ecolodge",
+      "url": null
+    },
+    {
+      "mainName": "Pedra Furada Jalapão",
+      "url": null
+    },
+    {
+      "mainName": "Parque Nacional dos Lençóis Maranhenses",
+      "url": null
+    },
+    {
+      "mainName": "Cachoeira Escorrega Macaco",
+      "url": null
+    },
+    {
+      "mainName": "Cachoeira da Roncadeira",
+      "url": null
+    },
+    {
+      "mainName": "Estação Ecológica Serra Geral do Tocantins",
+      "url": null
+    },
+    {
+      "mainName": "Rio Azuis",
+      "url": null
+    },
+    {
+      "mainName": "Fervedouro das Macaúbas",
+      "url": null
+    },
+    {
+      "mainName": "Beach Park",
+      "url": null
+    },
+    {
+      "mainName": "Cachoeira do Evilson",
+      "url": null
+    },
+    {
+      "mainName": "Cachoeira das Araras",
+      "url": null
+    },
+    {
+      "mainName": "Ilha Canela Beach",
+      "url": null
+    },
+    {
+      "mainName": "Fervedouro do Encontro das Águas",
+      "url": null
+    }
+  ]
+}

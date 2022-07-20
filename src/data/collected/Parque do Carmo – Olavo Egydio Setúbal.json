@@ -1,0 +1,821 @@
+{
+  "mainName": "Parque do Carmo – Olavo Egydio Setúbal",
+  "slug": "parque-do-carmo-olavo-egydio-setubal",
+  "category": "Parque municipal",
+  "locationInformation": {
+    "latitude": "-23.5754042",
+    "longitude": "-46.4675469"
+  },
+  "basicInformation": [
+    {
+      "label": "endereço",
+      "tooltip": "Copiar endereço",
+      "text": "Av. Afonso de Sampaio e Sousa, 951 - Itaquera, São Paulo - SP, 08270-000",
+      "icon": "https://www.gstatic.com/images/icons/material/system_gm/1x/place_gm_blue_24dp.png"
+    },
+    {
+      "label": "website",
+      "tooltip": "Abrir website",
+      "text": "prefeitura.sp.gov.br",
+      "icon": "https://www.gstatic.com/images/icons/material/system_gm/1x/public_gm_blue_24dp.png"
+    },
+    {
+      "label": "telefone",
+      "tooltip": "Copiar número de telefone",
+      "text": "(11) 2748-0010",
+      "icon": "https://www.gstatic.com/images/icons/material/system_gm/1x/phone_gm_blue_24dp.png"
+    },
+    {
+      "label": "Code",
+      "tooltip": "Copiar Plus Code",
+      "text": "CGFJ+RX Itaquera, São Paulo - SP",
+      "icon": "https://maps.gstatic.com/mapfiles/maps_lite/images/2x/ic_plus_code.png"
+    }
+  ],
+  "ratingInformation": {
+    "basicRatingInformation": {
+      "averageGrade": 4.5,
+      "totalOfEvaluations": 12199
+    },
+    "ratingsByGrade": [
+      {
+        "grade": 5,
+        "totalRatings": 7932
+      },
+      {
+        "grade": 4,
+        "totalRatings": 2717
+      },
+      {
+        "grade": 3,
+        "totalRatings": 1097
+      },
+      {
+        "grade": 2,
+        "totalRatings": 229
+      },
+      {
+        "grade": 1,
+        "totalRatings": 224
+      }
+    ]
+  },
+  "ratingTags": [
+    {
+      "tag": "julho",
+      "count": 10,
+      "tooltip": "julho, mencionado em 10 avaliações"
+    },
+    {
+      "tag": "corrida",
+      "count": 145,
+      "tooltip": "corrida, mencionado em 145 avaliações"
+    },
+    {
+      "tag": "cerejeira",
+      "count": 143,
+      "tooltip": "cerejeira, mencionado em 143 avaliações"
+    },
+    {
+      "tag": "churrasco",
+      "count": 129,
+      "tooltip": "churrasco, mencionado em 129 avaliações"
+    },
+    {
+      "tag": "parque de são paulo",
+      "count": 69,
+      "tooltip": "parque de são paulo, mencionado em 69 avaliações"
+    },
+    {
+      "tag": "administração",
+      "count": 66,
+      "tooltip": "administração, mencionado em 66 avaliações"
+    },
+    {
+      "tag": "planetário",
+      "count": 58,
+      "tooltip": "planetário, mencionado em 58 avaliações"
+    },
+    {
+      "tag": "leste",
+      "count": 50,
+      "tooltip": "leste, mencionado em 50 avaliações"
+    },
+    {
+      "tag": "parque do ibirapuera",
+      "count": 14,
+      "tooltip": "parque do ibirapuera, mencionado em 14 avaliações"
+    },
+    {
+      "tag": "febre amarela",
+      "count": 13,
+      "tooltip": "febre amarela, mencionado em 13 avaliações"
+    }
+  ],
+  "featuredPhotos": [
+    "https://lh5.googleusercontent.com/p/AF1QipMWozs34bAP69lopJyQhOamMzBb_Lcg5OL8B2c2=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipN8dy_we_Pg7cUyqpio2ymQLgcibHaAM1CERYE=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMj0wPmMs-spc6o36sySHbYDmmNsWJHQ5viX4Rq=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipM2Ijxq-K4uWdELZD66hMbhTDwobPGosNIuBpM-=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipP0LDj-p4PmAAJx-xRXuUkjYUvJvOUGcMJ_Nym-=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipM-2_Ck2FSKqwA78kGPQJWAwgEELzYXHz8WdDhz=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNFXGnjOW-3uZN4BooTfl6kSeyu_QPlDnHlmFuW=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipP-ct_ssLIHX7211JXYBlUmHg1QhEKklR_skdgl=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOD-rMweJfT5_kn5vrAznRkDL9r79WFe7avVEtI=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNKa33bxNuoiBOs17OiYGEI6RS4DAzbIawIDpL7=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipO00DBaQKH4bE2CaBDJ_TGWy-6rhe8dfnlHBC_-=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMN3F_iJk-uCnY1l5IHwYDEnbDPnem2P2ErPgA5=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPeE5oeqI8_ryIXcFBT88SjjRXCCgd7tp1La-kJ=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNZoWiS3ojU6F3Ehjhwv-fhOSqu3N4Vb0o9WPtD=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPV_tC6UVkifhdVbDDAcyyrop0Si_xJMH3BWrAK=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMAdZ9pPlrheF8oj8WGRs-y1WyJQ4xMFOa9Ur82=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMVGkfitH1LUlOc_jGlGqF67YaolhEcGrtdprtF=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMl6KwHu_6bIlgFfdJXwONVYbQzeWAqRbi6UKXW=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPz1MR0u0w7GJZ9L8TVZbUNC7sp17qaPTg85Lg6=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNBY18YsgvHIbz7coWelMb3nrefLUemEnTLIUGV=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNqxYooMC3k24lANFLYUfcVnCqTYBVogUFjrVVb=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPc-5zEsGwCmxFpc0m0Nbw4yjHj1b_Qnzy533Y=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNYTOfFI9HLoU4mFusb-S5CIkSTk9AAHYtZBkfh=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMQHvCXVAvbLdkq1wFh9tPSDlvMo4cwweUsH_v4=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipM5QM78LxT4_Bg_L_GHtbdYpNO0wKzCWsb0JeGd=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOoaTsZD0xfSZDhn-dxjT0nRbexi8mXYPV-f4Ga=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOFkvRvp-8W4XaR8DVmy3Vvn5G3yZagV1_i3hHE=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOZ2nToJVO3ihrtqgb6eUAE3bInYCnMOI4w-oOY=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOQ9LNX4FLdElU0Yw4YJggLUFXshsfXhqY9lLIG=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNBSJSRvFO2TE0oralnaN2pOvqXHL2A4_h3izwH=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipP-Hj7b6_MpjyCT5aAp_VPM7mZcQM6HeVfIgxFn=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOsJgzbJ9yS91SycxBaYBBy6rCuPLTlJA2TQHm8=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMz_lUYdJa7uPW-_khulIc3FyNXHKhXcmQva-BM=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMNj8MZNPLV9-15ZSTZ848VRDXNr9NftlfYoA6e=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipO1uslm-DitDgnlY_-RUzjI1R3Uf3GZxy32qm31=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNYCanWBUpRHysUBldIS6igTJh8JKxH1rVqpkVR=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMd6jHqh2tMvVlDILkqkDK_k6Is0cY93BWIkOSO=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPkDuIezGqu0tiYSxAoJHrrzfEw37v7lhZvCZ_s=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOLcgBZKyxmfDq9JIaAThhCAvktdLwYI0TBgovn=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMjX1uKS4HX-Xfe5h1J6iHzFmkCxJLtr2-NnwI1=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNff6HXvit053-pgGaBzV9veY-Aeo3WHRg-SKhl=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOK5EXIZvcIajNoZiRSNO_KBA8mcDpYMCXkHCZA=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOq_gnJXxnVN3M9qwHlR5fuPCbyVt3xezqJYwcx=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMcHuiMc7LJ3poMzTpyZS5QlQIgtAULxb1ESE0=w1024-h576-k-no"
+  ],
+  "topComments": [
+    {
+      "author": "Katia C. Q. Garcia",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucqmJvEFVS_n0h7ybDzugtG_AmsiwP_bQZlZhEEcmw=w36-h36-p-c0x00000000-rp-mo-ba5-br100",
+      "comment": "Parque muito grande, com uma imensa área verde, para crianças brincarem, soltarem pipa, pode levar cães, passear e alugar bicicleta. Tem barracas de lanche, açaí, etc. Local possui banheiros (muito limpos por sinal), bebedouros, um imenso lago com patos, capivaras. Também tem o bosque das cerejeiras, onde a florada começa agora em meados de julho e vai até início de agosto. Local de uma beleza exuberante. Também é possível avistar esquilos. Lugar muito bem frequentado por famílias e pessoas de todas as idades, para quem utiliza transporte público, é só pegar metrô e descer na estação Itaquera e pegar o ônibus linha 3796-10, o trajeto demora 10 minutos e o ponto fica praticamente em frente a entrada do portão 2.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Rosemere Leão",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucrMhLISeYICQtMrogzcuQeHotGB3Kksp2VAGwZk=w36-h36-p-c0x00000000-rp-mo-ba2-br100",
+      "comment": "Foi maravilhoso o dia em passamos no parque.  A beleza da natureza é incrível,  o lago , as árvores os coqueiros,  os locais pra armar redes, as pedras monumentais, a única coisa que precisa urgente ser restaurado é  o brinquedo das crianças, que é  uma corda de elástico pra ser escalada,  está toda quebrada sem condições de uso pelas crianças que amam esse brinquedo. Atenção prefeitura faz favor de consertar.",
+      "gradeComment": 5
+    },
+    {
+      "author": "isadora cristine cavalcante gomes de jesus",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucowaIPPnqxsMeYSQkf6fTAG_mglcQ6DK04uxs-I1hM=w36-h36-p-c0x00000000-rp-mo-ba2-br100",
+      "comment": "Amooo, feriados e finais de semana são cheios, mas nada que uma caminhada não resolva, tem áreas muito gostosas e não muito cheias pra frente... No último fim de semana 01/03/2022, o aluguel da bicicleta individual estava R$10,00 a hora, a alimentação dentro é um pouco cara (por exemplo, um hot dog simples é R$8,00)",
+      "gradeComment": 5
+    },
+    {
+      "author": "Andrew Santos",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucrZ-RuEO9upte4-PicxYmAepr9cvxUolFvzCazlD88=w36-h36-p-c0x00000000-rp-mo-ba3-br100",
+      "comment": "Ar puro , espaçoso, porém não tem um espaço para ciclovia correto,  vc aluga facilmente bicicletas por R$ 10,00 individuais ou triciclo por R$ 30,00 período de 1 hora  , a pavimentação está ruim , deveria ter um cuidado melhor  , não tinha local para tomar água potável.",
+      "gradeComment": 3
+    },
+    {
+      "author": "Gean Paul",
+      "photoAuthor": "https://lh3.googleusercontent.com/a/AItbvmkl0Sqtygn79aXceLi3IiGm1YH-Im1FTmhC4NiX=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "Um dos maiores parques de Sao Paulo com muitas árvores e amplas vias para correr, andar de bike e tudo mais. Fora o festival da cerejeira que é bem bonito quando acontece. O parque também conta com estacionamento gratuito. A único ponto que precisa ser melhorado é a segurança se vê muito pouco além de alguns pontos estarem abandonados devido não serem pontos importantes.  Mas tirando isso vale a visita no parque!",
+      "gradeComment": 4
+    },
+    {
+      "author": "Fernanda Galvão",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucpfRQuTGJXRKgSAeNjbpvsABBAwZEH2psZcQUzd=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "Lugar lindo, espaço para fazer piquenique, espaço para as crianças brincarem, trilhas, campo de futebol, parque das cerejeiras, diversas barracas de lanches, porções, doces, sorvetes, tem um museu também, sem falar nos lindos esquilos que passeiam entre as árvores. A única coisa que pode melhorar é ter mais banheiros.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Gabriele Ferreira",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucocgUpCPsz1OH28tPVcqnhjLDMkbMy5Acc3G3R9l1g=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "Lugar bom para fazer exercícios físicos, a pista é grande e boa. O ruim é o lixo que fica de domingo para segunda-feira espalhado em todo o lugar. Sempre me senti segura no parque porque é movimentado. O asfalto do estacionamento é cheio de buraco tem que ir bem devagar.",
+      "gradeComment": 3
+    },
+    {
+      "author": "César Henrique Cerqueira Ferreira de Sousa",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucrCIPl-F3VZ7gLsqYOaQN2SBpdgH9jsNmUlmUPbZA=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "Excelente parque para passear, fazer piquenique. sempre bem limpo. sempre que tenho um tempo eu vou passar a tarde todinha. apesar de que esse ano de 2021 fez mais frio e chuva do que sol kkkkk. mas enfim, que ainda não o conhece, está perdendo a chance de apreciar e sentir o cheiro das árvores, da natureza.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Bruno Afiador",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucrT68Pe5Ls1TAN2yRxW570ivyUHPcNFdkZ4iZEyHA=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "Ótimo lugar para se divertir e ter um lazer com a família seja no dia de sábado domingo ou até mesmo na semana o local extremamente renovador e agradável sou detectores está e aproveito para procurar algumas relíquias ou tesouros perdidos…",
+      "gradeComment": 5
+    },
+    {
+      "author": "Cida Zambello",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucp04abwXSLble1-h5d2L04K8Tm4D4w2DVFUOR4Abzk=w36-h36-p-c0x00000000-rp-mo-ba3-br100",
+      "comment": "Um lugar maravilhoso respirar ar puro sempre que posso  vou  passear fazer caminhada.contemplar a natureza tudo de bom.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Gui Amaro",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucoPTdxhRaTcmjTPfGZUf5xJl0EQ_ltpzcM14ftV7Q=w36-h36-p-c0x00000000-rp-mo-ba5-br100",
+      "comment": "O melhor parque da Zona Leste, melhor época de visitação é o mês de agosto no qual florescem as cerejeiras, pendurada em alguns galhos tem folhas com mensagens de tradições japonesas. É possivel encontrar diversas espécies de pássaros, Bentevi, Sabiá Laranjeira, Alma de Gato, entre outros. Além de esquilos e saguis.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Luís Rafael de Oliveira",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucocRN92giFbZ1_Xf6_Br8YEo-m_z7R3zgcqCkp65lE=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "Parque ENORME e na medida do possivel bem cuidado...Otimo para caminhadas,passear com as criancas e pets...estacionamento gratuito...em Agosto tem a Florada das Cerejeiras VALE MUITO A VISITA!",
+      "gradeComment": 4
+    },
+    {
+      "author": "Francisco Pagliari",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucrJKTg6ddH4u3gyVRFdnskyyy8_7htBHmWfSQiX=w36-h36-p-c0x00000000-rp-mo-ba3-br100",
+      "comment": "Um lugar muito agradável, grande, com excelente área verde. Nem parece estar no meio da cidade.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Fabi Caetano",
+      "photoAuthor": "https://lh3.googleusercontent.com/a/AItbvmlaAXCHAUdr91NjOjdTdv3KTE2TS9Jdy4C1SkZcrdc=w36-h36-p-c0x00000000-rp-mo-ba3-br100",
+      "comment": "O parque é bem grande e bonito, banheiros não são tão limpos, mas dá pra usar de boa! Pra quem gosta de uma corrida matinal é bom chegar cedo, pois depois das 10h já começa a ficar cheio!",
+      "gradeComment": 4
+    },
+    {
+      "author": "Origami Paper Plane",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucpHg7YEchAR-DxIJ131pcKM1nUAuf3VooE9OxflGw=w36-h36-p-c0x00000000-rp-mo-ba3-br100",
+      "comment": "Parque ótimo para levar as crianças para brincar, fazer corrida e caminhada o lago e enorme tem vários peixes e patos, ao fazer camiminha e uma maravilha a maior  parte da caminhada e na sombras das árvores e de vez em quanto encontramos esquilos em nosso caminho a toda hora também emcontramos a guada municipal fazendo ronda de moto ou viatura também a PM faz patrulhamento no parque o parque e maravilhoso da para fazer piquinique com a família ou fazer churrasco com os amigos jogar futebol brincar em vários brinquedos e muito mais",
+      "gradeComment": 5
+    },
+    {
+      "author": "Gus YYZ",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucpRZ9-NU_OSH-lNGbqZnqLTv4f5VUmMtdYZbVNWOFc=w36-h36-p-c0x00000000-rp-mo-ba5-br100",
+      "comment": "Parque ótimo para levar seu animalzinho pra passear e tirar fotos incríveis, com boas opções de comida dentro do local a um preço justo, apenas o acesso na época das cerejeiras que complica, flanelinha pra todo canto e estacionamento do parque cheio infelizmente.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Breno De Maio",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucqr6CUN2XKH7EZ6Jfh8igGLodnQTpO9iy3nj-Xj=w36-h36-p-c0x00000000-rp-mo-ba5-br100",
+      "comment": "O melhor parque da capital, muita área verde, vida selvagem,  espaço pra práticas diversas",
+      "gradeComment": 5
+    },
+    {
+      "author": "Jessica Farias",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucpWG-rRmDuZXy9YenScVtUoKOBe-bTdaxsFcmiA8Q=w36-h36-p-c0x00000000-rp-mo-br100",
+      "comment": "Amei. Muito bom. Tem Bikes para alugar do lado de fora. Parque bem grande . Espaçoso. Tem barracas com coco, pipoca, lqnches, sucos, refri , tem opção  de churrasqueira,  amei... tem macaquinhos e esquilos q vem bem próximo  da gente",
+      "gradeComment": 5
+    },
+    {
+      "author": "Carlos Clayton",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucpkcip2m_CMLjv3tq-BhyMet0Jf4prH4K_XT07m5A=w36-h36-p-c0x00000000-rp-mo-ba6-br100",
+      "comment": "Um parque enorme onde você pode praticar caminhada, corrida, pedalar ou apenas curtir.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Jorge Araujo",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucpLKmjQLJaopkmVKbE75SGsZmQUJ-7DtvGFZBorTQ=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "É impossível não se sentir bem nesse lugar! É tranquilo e tem uma vista maravilhosa.",
+      "gradeComment": 5
+    }
+  ],
+  "peakHours": [
+    {
+      "Sunday": [
+        {
+          "hour": "06:00",
+          "percent": 7
+        },
+        {
+          "hour": "07:00",
+          "percent": 20
+        },
+        {
+          "hour": "08:00",
+          "percent": 40
+        },
+        {
+          "hour": "09:00",
+          "percent": 64
+        },
+        {
+          "hour": "10:00",
+          "percent": 82
+        },
+        {
+          "hour": "11:00",
+          "percent": 89
+        },
+        {
+          "hour": "12:00",
+          "percent": 87
+        },
+        {
+          "hour": "13:00",
+          "percent": 90
+        },
+        {
+          "hour": "14:00",
+          "percent": 100
+        },
+        {
+          "hour": "15:00",
+          "percent": 100
+        },
+        {
+          "hour": "16:00",
+          "percent": 75
+        },
+        {
+          "hour": "17:00",
+          "percent": 38
+        },
+        {
+          "hour": "18:00",
+          "percent": 10
+        },
+        {
+          "hour": "19:00",
+          "percent": 1
+        }
+      ]
+    },
+    {
+      "Monday": [
+        {
+          "hour": "05:00",
+          "percent": 3
+        },
+        {
+          "hour": "06:00",
+          "percent": 6
+        },
+        {
+          "hour": "07:00",
+          "percent": 13
+        },
+        {
+          "hour": "08:00",
+          "percent": 22
+        },
+        {
+          "hour": "09:00",
+          "percent": 26
+        },
+        {
+          "hour": "10:00",
+          "percent": 22
+        },
+        {
+          "hour": "11:00",
+          "percent": 17
+        },
+        {
+          "hour": "12:00",
+          "percent": 16
+        },
+        {
+          "hour": "13:00",
+          "percent": 20
+        },
+        {
+          "hour": "14:00",
+          "percent": 24
+        },
+        {
+          "hour": "15:00",
+          "percent": 24
+        },
+        {
+          "hour": "16:00",
+          "percent": 21
+        },
+        {
+          "hour": "17:00",
+          "percent": 15
+        },
+        {
+          "hour": "18:00",
+          "percent": 9
+        },
+        {
+          "hour": "19:00",
+          "percent": 5
+        }
+      ]
+    },
+    {
+      "Tuesday": [
+        {
+          "hour": "05:00",
+          "percent": 5
+        },
+        {
+          "hour": "06:00",
+          "percent": 13
+        },
+        {
+          "hour": "07:00",
+          "percent": 26
+        },
+        {
+          "hour": "08:00",
+          "percent": 38
+        },
+        {
+          "hour": "10:00",
+          "percent": 32
+        },
+        {
+          "hour": "11:00",
+          "percent": 24
+        },
+        {
+          "hour": "12:00",
+          "percent": 21
+        },
+        {
+          "hour": "13:00",
+          "percent": 23
+        },
+        {
+          "hour": "14:00",
+          "percent": 26
+        },
+        {
+          "hour": "15:00",
+          "percent": 27
+        },
+        {
+          "hour": "16:00",
+          "percent": 24
+        },
+        {
+          "hour": "17:00",
+          "percent": 19
+        },
+        {
+          "hour": "18:00",
+          "percent": 13
+        },
+        {
+          "hour": "19:00",
+          "percent": 8
+        }
+      ]
+    },
+    {
+      "Wednesday": [
+        {
+          "hour": "05:00",
+          "percent": 1
+        },
+        {
+          "hour": "06:00",
+          "percent": 4
+        },
+        {
+          "hour": "07:00",
+          "percent": 11
+        },
+        {
+          "hour": "08:00",
+          "percent": 21
+        },
+        {
+          "hour": "09:00",
+          "percent": 28
+        },
+        {
+          "hour": "10:00",
+          "percent": 28
+        },
+        {
+          "hour": "11:00",
+          "percent": 22
+        },
+        {
+          "hour": "12:00",
+          "percent": 16
+        },
+        {
+          "hour": "13:00",
+          "percent": 16
+        },
+        {
+          "hour": "14:00",
+          "percent": 18
+        },
+        {
+          "hour": "15:00",
+          "percent": 21
+        },
+        {
+          "hour": "16:00",
+          "percent": 20
+        },
+        {
+          "hour": "17:00",
+          "percent": 15
+        },
+        {
+          "hour": "18:00",
+          "percent": 9
+        },
+        {
+          "hour": "19:00",
+          "percent": 4
+        }
+      ]
+    },
+    {
+      "Thursday": [
+        {
+          "hour": "05:00",
+          "percent": 2
+        },
+        {
+          "hour": "06:00",
+          "percent": 9
+        },
+        {
+          "hour": "07:00",
+          "percent": 19
+        },
+        {
+          "hour": "08:00",
+          "percent": 30
+        },
+        {
+          "hour": "09:00",
+          "percent": 40
+        },
+        {
+          "hour": "10:00",
+          "percent": 47
+        },
+        {
+          "hour": "11:00",
+          "percent": 49
+        },
+        {
+          "hour": "12:00",
+          "percent": 49
+        },
+        {
+          "hour": "13:00",
+          "percent": 52
+        },
+        {
+          "hour": "14:00",
+          "percent": 56
+        },
+        {
+          "hour": "15:00",
+          "percent": 56
+        },
+        {
+          "hour": "16:00",
+          "percent": 45
+        },
+        {
+          "hour": "17:00",
+          "percent": 28
+        },
+        {
+          "hour": "18:00",
+          "percent": 12
+        },
+        {
+          "hour": "19:00",
+          "percent": 2
+        }
+      ]
+    },
+    {
+      "Friday": [
+        {
+          "hour": "05:00",
+          "percent": 1
+        },
+        {
+          "hour": "07:00",
+          "percent": 9
+        },
+        {
+          "hour": "08:00",
+          "percent": 20
+        },
+        {
+          "hour": "09:00",
+          "percent": 27
+        },
+        {
+          "hour": "10:00",
+          "percent": 27
+        },
+        {
+          "hour": "11:00",
+          "percent": 24
+        },
+        {
+          "hour": "12:00",
+          "percent": 23
+        },
+        {
+          "hour": "13:00",
+          "percent": 27
+        },
+        {
+          "hour": "14:00",
+          "percent": 30
+        },
+        {
+          "hour": "15:00",
+          "percent": 31
+        },
+        {
+          "hour": "16:00",
+          "percent": 27
+        },
+        {
+          "hour": "17:00",
+          "percent": 19
+        },
+        {
+          "hour": "18:00",
+          "percent": 10
+        },
+        {
+          "hour": "19:00",
+          "percent": 2
+        }
+      ]
+    },
+    {
+      "Saturday": [
+        {
+          "hour": "06:00",
+          "percent": 4
+        },
+        {
+          "hour": "07:00",
+          "percent": 11
+        },
+        {
+          "hour": "08:00",
+          "percent": 22
+        },
+        {
+          "hour": "09:00",
+          "percent": 32
+        },
+        {
+          "hour": "10:00",
+          "percent": 39
+        },
+        {
+          "hour": "11:00",
+          "percent": 40
+        },
+        {
+          "hour": "12:00",
+          "percent": 41
+        },
+        {
+          "hour": "13:00",
+          "percent": 47
+        },
+        {
+          "hour": "14:00",
+          "percent": 56
+        },
+        {
+          "hour": "15:00",
+          "percent": 60
+        },
+        {
+          "hour": "16:00",
+          "percent": 50
+        },
+        {
+          "hour": "17:00",
+          "percent": 32
+        },
+        {
+          "hour": "18:00",
+          "percent": 13
+        },
+        {
+          "hour": "19:00",
+          "percent": 2
+        }
+      ]
+    }
+  ],
+  "relatedSearches": [
+    "parque do carmo itaquera está aberto hoje",
+    "parque do carmo fotos",
+    "parque do carmo horário de funcionamento hoje",
+    "parque do carmo estacionamento",
+    "parque do carmo endereço",
+    "parque do carmo é perigoso",
+    "parque do carmo telefone",
+    "mapa parque do carmo"
+  ],
+  "relateds": [
+    {
+      "mainName": "Bosque das Cerejeiras",
+      "url": null
+    },
+    {
+      "mainName": "Festa das Cerejeiras",
+      "url": null
+    },
+    {
+      "mainName": "Planetário Municipal do Carmo - Professor Acácio Riberi",
+      "url": null
+    },
+    {
+      "mainName": "Parque Natural Municipal Fazenda do Carmo",
+      "url": null
+    },
+    {
+      "mainName": "Área de Proteção Ambiental Parque e Fazenda do Carmo",
+      "url": null
+    },
+    {
+      "mainName": "Parque Aclimação",
+      "url": null
+    },
+    {
+      "mainName": "Corinthians - Itaquera",
+      "url": null
+    },
+    {
+      "mainName": "Sesc Itaquera",
+      "url": null
+    },
+    {
+      "mainName": "Parque Alfredo Volpi",
+      "url": null
+    },
+    {
+      "mainName": "Parque da Cerejeira de Campos do Jordão",
+      "url": null
+    },
+    {
+      "mainName": "Parque Ecológico do Tietê",
+      "url": null
+    },
+    {
+      "mainName": "Parque Raul Seixas",
+      "url": null
+    },
+    {
+      "mainName": "Parque Piqueri",
+      "url": null
+    },
+    {
+      "mainName": "Planetário do Ibirapuera Aristóteles Orsini",
+      "url": null
+    },
+    {
+      "mainName": "Pico do Jaraguá",
+      "url": null
+    },
+    {
+      "mainName": "Parque Ibirapuera",
+      "url": null
+    },
+    {
+      "mainName": "Parque Villa-Lobos",
+      "url": null
+    },
+    {
+      "mainName": "Parque Trote",
+      "url": null
+    },
+    {
+      "mainName": "Dom Bosco",
+      "url": null
+    },
+    {
+      "mainName": "Parque Santo Dias",
+      "url": null
+    },
+    {
+      "mainName": "Parque Anhanguera",
+      "url": null
+    },
+    {
+      "mainName": "Parque Cidade de Toronto",
+      "url": null
+    },
+    {
+      "mainName": "Parque Buenos Aires",
+      "url": null
+    }
+  ]
+}

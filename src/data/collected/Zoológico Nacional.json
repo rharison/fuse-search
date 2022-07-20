@@ -1,0 +1,587 @@
+{
+  "mainName": "Zoológico Nacional",
+  "slug": "zoologico-nacional",
+  "category": "Zoológico",
+  "locationInformation": {
+    "latitude": "-33.4305382",
+    "longitude": "-70.6358948"
+  },
+  "basicInformation": [
+    {
+      "label": "endereço",
+      "tooltip": "Copiar endereço",
+      "text": "Pío Nono 450, Providencia, Región Metropolitana, Chile",
+      "icon": "https://www.gstatic.com/images/icons/material/system_gm/1x/place_gm_blue_24dp.png"
+    },
+    {
+      "label": "locatedin",
+      "text": "Localizado em: Colina São Cristóvão",
+      "icon": "https://www.google.com/images/cleardot.gif"
+    },
+    {
+      "label": "website",
+      "tooltip": "Abrir website",
+      "text": "parquemet.cl",
+      "icon": "https://www.gstatic.com/images/icons/material/system_gm/1x/public_gm_blue_24dp.png"
+    },
+    {
+      "label": "telefone",
+      "tooltip": "Copiar número de telefone",
+      "text": "+56 2 2730 1368",
+      "icon": "https://www.gstatic.com/images/icons/material/system_gm/1x/phone_gm_blue_24dp.png"
+    },
+    {
+      "label": "Code",
+      "tooltip": "Copiar Plus Code",
+      "text": "H997+QJ Providencia, Chile",
+      "icon": "https://maps.gstatic.com/mapfiles/maps_lite/images/2x/ic_plus_code.png"
+    },
+    {
+      "label": "send-to-device",
+      "text": "Enviar para smartphone",
+      "icon": "https://maps.gstatic.com/consumer/images/icons/1x/send_to_mobile_alt_gm_blue_24dp.png"
+    },
+    {
+      "label": "merchant",
+      "text": "Reivindicar esta empresa",
+      "icon": "https://www.gstatic.com/images/icons/material/system_gm/1x/verified_user_gm_blue_24dp.png"
+    }
+  ],
+  "ratingInformation": {
+    "basicRatingInformation": {
+      "averageGrade": 4.4,
+      "totalOfEvaluations": 16256
+    },
+    "ratingsByGrade": [
+      {
+        "grade": 5,
+        "totalRatings": 10303
+      },
+      {
+        "grade": 4,
+        "totalRatings": 3359
+      },
+      {
+        "grade": 3,
+        "totalRatings": 1603
+      },
+      {
+        "grade": 2,
+        "totalRatings": 421
+      },
+      {
+        "grade": 1,
+        "totalRatings": 570
+      }
+    ]
+  },
+  "ratingTags": [
+    {
+      "tag": "julho",
+      "count": 3,
+      "tooltip": "julho, mencionado em 3 avaliações"
+    },
+    {
+      "tag": "mario hermoso",
+      "count": 176,
+      "tooltip": "mario hermoso, mencionado em 176 avaliações"
+    },
+    {
+      "tag": "funicular",
+      "count": 122,
+      "tooltip": "funicular, mencionado em 122 avaliações"
+    },
+    {
+      "tag": "ideal",
+      "count": 67,
+      "tooltip": "ideal, mencionado em 67 avaliações"
+    },
+    {
+      "tag": "elephantidae",
+      "count": 61,
+      "tooltip": "elephantidae, mencionado em 61 avaliações"
+    },
+    {
+      "tag": "teleférico",
+      "count": 51,
+      "tooltip": "teleférico, mencionado em 51 avaliações"
+    },
+    {
+      "tag": "encierro",
+      "count": 12,
+      "tooltip": "encierro, mencionado em 12 avaliações"
+    }
+  ],
+  "featuredPhotos": [
+    "https://lh5.googleusercontent.com/p/AF1QipNEk3xmRFFC2iq-AvcfaExjyCaPbnGqiM8JeO5Q=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPdWJGVKeLl1rY3nPE5A3UJvdN6trZiTJmOmgRL=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMbZt9jjl2EuuDYfEnCPJk3CUdpbou7oivlJem2=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPZDbtTz-iwoxGZpMsNX880OVIkgwUF0o1xxEGQ=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNrSN12KhsAOoI2VI3aIcGOFDxHwgO4jw8MAbaw=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPZC8--dRNJqwoxslhu814XP64pDSDeU3G9eR5G=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMYopjZxHlyVclBM1B20xDxJrwqwLEZfod9LW9h=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipN40peq1-FAXj8fdZzKjniFh1gEmHwoEiOF9lM_=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOenDjnaNQA_Yo_S_XeIAnbax3RhMmJ1LeYFK0V=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMNcg_MH1we9LZn1Z25k95ZlCAOnWHsd7VNOU-a=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMMvr03AcTVUyHyDhh8DkD7l88BT-Wm-nyysJhf=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNffPKZ5IsB4p18yaPL_PhA7R7a4PsbWCyn_x0k=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipP1FQnsafvqqr_siJuQljKGijI_Z79w64s0NXCI=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMSjPWtmwpb_ZjkopoqCW-E-cb9NAgtArbR0119=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMfTDfz8_qhRLxc9IN9JACDu_j1hXbU_jKEOsE4=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNAbo-FwglyTxGx3653Nft6BZEz080lxiZxOAuc=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPKSw3jpB5q_bXqlMAcVllSOBC_gbyGSWs7Wmlx=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNZhT2Wx50MQA_-2uoOC62B7BxRwmV-mT8Z6lZ1=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMy77ONv8_Jc106gIjiqPnHSyKOQUz9aCRhgDHU=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPvVu9u29Qx3DUw4kLENYZ72c23HdF3gSXJoPz3=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNgYRgUA59kpO2v82dV44XNvOtvpe3ZZyFjQrTW=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipM007GThcXBFEdw_ekGEjWHFUWXBQZ4_8XzgbA=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipM2AIpBmPHeetGlTYbAWiVI9ldupR3EyPuy6Ad_=w1024-h576-k-no"
+  ],
+  "topComments": [
+    {
+      "author": "gustavo augusto braz vargas",
+      "photoAuthor": "https://lh3.googleusercontent.com/a/AItbvmnAjgD_4vLGLGfrW09dK2vNZdLbDMhawnTllL0c=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "Muito bom o zoológico, vai com vontade de subir pq fica numa subida que tem que ter um joelho bom, muito bom os recintos, bem projetados , gostei bastante dos pandas vermelhos, os pinguim 🐧 são bem legais, o ingresso foi até que barato , 4000 pesos , que es una 20 reías +- , muito bom , tem outros passeios com tem o teleférico que eu não consegui ir. Resumindo recomendo , de final de semana fica bem cheio.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Daniel Lucas Leite Veiga",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucrrdcOjDrXm7uIpCvlTNFos4327g5kwVYmMptkIzds=w36-h36-p-c0x00000000-rp-mo-ba5-br100",
+      "comment": "Ótimo lugar para passeio em casal ou em família. No frio muitos bichos ficam dormindo e não sai da toca pra você poder ver. Não consegui ver: leão, hipopótamo, girafa, panda vermelho, frente outros. Mas vale a pena o passeio com certeza.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Rafael Moreira",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucoJi2U6wNtbLh2WyoJVZ829BHnYbD0UMwc2--M29Q=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "Zoologico muito limpo, organizado e bem sinalizado. Você vai encontrar elefante, girafa, leão, pinguim, flamingo, puma, leopardo e muito mais. Além dos animais você terá uma bela vista da cidade de Santiago, já que o zoo fica no Cerro San Cristóbal. Adultos pagam 4.000 pesos e crianças 2.000. (Abril 2022) A venda de ingresso é feita apenas on line e com agendamento de horário de entrada. Vale muito a visita.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Nathalia Cabral",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucodv-okRri3UIi_TAtfmk8qkzBHM4AOk2k_TE253g=w36-h36-p-c0x00000000-rp-mo-ba3-br100",
+      "comment": "Muito legal, super organizado, hábitat super bem feitos, sempre tem funcionário fazendo manutenção etc",
+      "gradeComment": 5
+    },
+    {
+      "author": "Renato Rangel",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucpHz462qMuXq1be685wZL0uttyLz8RU6LhkUZMOZg=w36-h36-p-c0x00000000-rp-mo-ba5-br100",
+      "comment": "Muito bacana. Pena que o funicular não está funcionando, disseram que em julho deve voltar a ativa. Uma coisa leva a outra... tivemos que subir de ônibus o que acabou se tornando ainda melhor que o funicular. O ônibus sobe circulando o serro e proporcionando uma visão espetacular de Santiago. É de tirar o fôlego. E se pode ir tirando muitas fotos e filmando, já que os ônibus não tem janelas. Relaxa!! A vista vai compensar o frio!",
+      "gradeComment": 5
+    },
+    {
+      "author": "Pedro Matheus",
+      "photoAuthor": "https://lh3.googleusercontent.com/a/AItbvmmGjABHGklMkY-F4xRpUxcCINFCEzKlsNNLmtmJ=w36-h36-p-c0x00000000-rp-mo-ba5-br100",
+      "comment": "Muito bom , um pouco  pequeno  mais vale a pena visitar  ótimo  pra quem  tem filhos  pequenos.",
+      "gradeComment": 4
+    },
+    {
+      "author": "Rafael Macêdo",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucqipd6L7sMn9zgg9YNRX5KH95AOW-2ItgHetPSt-A=w36-h36-p-c0x00000000-rp-mo-ba5-br100",
+      "comment": "É bem bonito e organizado. A entrada é barata. Talvez poderia ter mais opções para ver. Os tigres não estavam lá, não sei porque. A melhor parte é a dos pinguins e dos flamingos. É uma visita relativamente rápida. De preferência um lugar mais para quem gosta de natureza. Bom para levar as crianças para passear.",
+      "gradeComment": 4
+    },
+    {
+      "author": "Luana Tucunduva",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucqX43kIbjCj4eNZRXax5ymXNlMUAiAu9jLxxCICBL8=w36-h36-p-c0x00000000-rp-mo-ba3-br100",
+      "comment": "Amamos o zoológico!! Perfeito para crianças e adultos. Os animais são bem tratados e o ambiente limpo e cuidado. Tem lugares para sentar e ficar admirando os animais e a paisagem. Pode subir pelas escadas ou pelo funicular..",
+      "gradeComment": 5
+    },
+    {
+      "author": "Evelyn Eu",
+      "photoAuthor": "https://lh3.googleusercontent.com/a/AItbvmmPFjiys8K7a1obE_V-Zr9L2VrCNd_fGYfU83EC=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "Bacana, mas não tenha como base os mapas. Vc consegue ir a pé, basta entrar pelo Cerro San Cristóbal, acesso funicular, e subir as escadas sentido lado esquerdo, vai subir um pouco, mas vc vai sair na porta do Zoológico de Santiago. Muito tranquilo vc ir por conta própria, um passeio vai te cobrar 27 mil pesos ( mais ou menos 210 reais), e indo por conta própria a entrada está 4 mil pesos ( custo atual 06/2018). O local, vale conhecer se vc já fez todos os passeios tradicionais: Vinicula, Cerro Sta Cecília, Cajon, Yeso, Valle Nevado, Trugillo.... Se já fez, suba pelo Cerro San Cristóbal a pé até o Zoológico. Depois compre o Ticket Teleférico + Funicular, vai dar uns 8 mil pesos. Suba com o funicular até o topo do Cerro, conheça os jardins do Cerro, vale conhecer é lindo! Depois pegue o teleférico, desça até o final e volte na mesma cabine. Na volta desça no 1° acesso conheça a parte do meio do Cerro, os jardins, a piscina, e volte ao topo ( tudo com o mesmo ticket, NAO jogue fora o papel). Depois desça de funicular. Passeio de 1 dia, para curtir a vista da cidade, vai conhecer 3 pontos turísticos no mesmo passeio, é barato e vale muito conhecer.",
+      "gradeComment": 3
+    },
+    {
+      "author": "Willyam Rocha",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucpX37FVLzqWohwRx-DuliJ4UiyJyW2FA5evNGdbMto=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "Foi um passeio agradável, pagamos $4.000 por adulto, más achei que os ambientes são muito pequenos para os animais... O passeio valeu a pena, elefantes, girafas, leões, tigres, urso.. recomendo, principalmente se estiver com crianças.",
+      "gradeComment": 3
+    },
+    {
+      "author": "Renato Huard",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucpndQPb72LHfBu10rKnJlspAYYT1RwWaQ4SexrobA=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "Zoológico com muitas ladeiras. Pense na mobilidade quando vier, não precisa pegar o funicular caso queira ir apenas ao zoológico. Fora isso é um Zoológico excelente com diversidade e uma aparente estrutura que comporta bem os animais. Por conta das muitas ladeiras é possível ver muitos animais em mais de um ângulo, de frente e de cima. Mínimo de 2 horas dentro do parque para aproveitar a visita.",
+      "gradeComment": 4
+    },
+    {
+      "author": "ACD Stuff Channel",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucrVZB7qRcV6pVo1v2mCZOLCJwYiIYkSr-UmycjWCFs=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "Bem tranquilo, fica no parque Cerro San Cristobal.  Bonito para ir visitar e também tudo muito bem cuidado.  O zoológico fica num morro então esteja disposto a andar em locais íngrimes.  Tem llama, importante animal da região.  De dentro do zoológico é possível pegar o funicular e subir até o cerro e como dica, não deixe de voltar pelo teleférico.  O inverso tem muita fila 👍🏻👍🏻",
+      "gradeComment": 5
+    },
+    {
+      "author": "Roberta",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucq1aNc44EIuMYORvM9I_Mk4kUj-r-S36carNe_l=w36-h36-p-c0x00000000-rp-mo-ba5-br100",
+      "comment": "Lindo e enorme zoológico para um dia inteiro de visitação. Muitas espécies de todos os lugares do mundo, especialmente nativas. Necessita apenas de uma estrutura e mais opções de alimentação para os visitantes. NUNCA peguem táxi das redondezas. Os taxistas locais são corruptos e roubam os turistas descaradamente (técnica conhecida por cambiazo).  Dêem preferência apenas à uber ou transporte público.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Priscila Cury",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucrfGs9YtadZCEXxCTicgUrVJBwv3yWFdIlwmB5Nv7k=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "Não é muito claro no funicular que tem que pagar mais a entrada do zoológico, que é por ali seu acesso. Difícil se localizar dentro do zoo pq vc sobe pra ver os tigres, daí tem q descer, não sabe ai certo quantos bichos tem... meio confuso. Preços da alimentação abusivos.",
+      "gradeComment": 3
+    },
+    {
+      "author": "Paulo junior",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucqW5mWYIFrxFZKcr9DbuXByQWZQGRtP0uJtrTg3=w36-h36-p-c0x00000000-rp-mo-ba5-br100",
+      "comment": "Eu particularmente não gosto de zoológicos. Recintos pequenos, animais muitas vezes sozinhos com proximidade exagerada do publico podendo ser, e sendo alimentados pelas pessoas constantemente. Cheiro forte em varios habitats. Alguns animais com claro sinal de estresse. Foi uma experiencia desagradavel.",
+      "gradeComment": 1
+    },
+    {
+      "author": "Gustavo Telles",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucpYjcDkBlgs-yiPdjvCn5TUwd_RsUbZnY7pgh8QSVI=w36-h36-p-c0x00000000-rp-mo-ba3-br100",
+      "comment": "O lugar fica em um serro com uma vista bonita da cidade. muitos animais exóticos, entrada por um preço ok. pode entrar pela rua e no fim do zoologico tem acesso ao funicular para continiar subindo o serro san cristobal. jaulas pequenas para os animais. poderiam ser maiores.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Rodrigo Guedes",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucotdlHXiafHqQmB-MPVHfr0a6JnmLkYYuiDEXodm_0=w36-h36-p-c0x00000000-rp-mo-ba3-br100",
+      "comment": "Gostei de passar pelo zoológico e ver animais que nunca tinha visto. A subida é forte mas a vista compensa. E ao sair é possível pegar o funicular e depois o teleférico. Valeu a pena embora seja um zoológico pequeno.",
+      "gradeComment": 4
+    },
+    {
+      "author": "Lizzy Teles",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucp8_ZHye8BddG7p_1duZiZUqBubnxmnXylxdGH-NMU=w36-h36-p-c0x00000000-rp-mo-ba5-br100",
+      "comment": "Adorei conhecer,muito limpo, animais bem tratados, tem lanchonete, banheiros limpos,o local é grande,então preparem-se para andar bastante, cuidado com a lhama haha.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Mara Hermes",
+      "photoAuthor": "https://lh3.googleusercontent.com/a/AItbvmkYo2Lda6iXyMtjfRiAu-C9x6ua0W2iz5FQDL9j=w36-h36-p-c0x00000000-rp-mo-ba6-br100",
+      "comment": "Sabendo e acreditando que parques Zoológicos geram polêmicas, buscamos informações sobre esse e o que lemos é que este exerce uma importante função na sociedade, tem bancos genéticos de espécies, que muitas vezes já não existem mais na natureza, trabalham com a reabilitação de fauna, além do importante papel de educação ambiental. Mesmo assim percebemos alguns “habitats” um tanto pequenos para os animais que comportam. Mas se você concorda com a presença de zoológicos, vale a visita. Nos programamos para vista-lo justamente no dia em que o zoo de Santiago estava completando 90 anos, nem é necessário comentar sobre a quantidade de visitantes nesse dia. Filas para tudo. Ingresso: 3.000 pesos",
+      "gradeComment": 3
+    },
+    {
+      "author": "William Camargo",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucqmtZPRMZbfeTV9nApRuObmHjfLV8YqGrXHyWkgWw=w36-h36-p-c0x00000000-rp-mo-ba3-br100",
+      "comment": "Esse lugar é sensacional!! Visitem!! Separem umas 4 horas para ele!! Achei sensacional!! Vi animais que achei que não veria tão cedo!! Gostei demais mesmo!!",
+      "gradeComment": 5
+    }
+  ],
+  "peakHours": [
+    {
+      "Sunday": [
+        {
+          "hour": "10:00",
+          "percent": 23
+        },
+        {
+          "hour": "11:00",
+          "percent": 45
+        },
+        {
+          "hour": "12:00",
+          "percent": 68
+        },
+        {
+          "hour": "13:00",
+          "percent": 83
+        },
+        {
+          "hour": "14:00",
+          "percent": 93
+        },
+        {
+          "hour": "15:00",
+          "percent": 100
+        },
+        {
+          "hour": "16:00",
+          "percent": 89
+        },
+        {
+          "hour": "17:00",
+          "percent": 56
+        }
+      ]
+    },
+    {
+      "Monday": []
+    },
+    {
+      "Tuesday": [
+        {
+          "hour": "10:00",
+          "percent": 11
+        },
+        {
+          "hour": "11:00",
+          "percent": 16
+        },
+        {
+          "hour": "12:00",
+          "percent": 20
+        },
+        {
+          "hour": "13:00",
+          "percent": 23
+        },
+        {
+          "hour": "15:00",
+          "percent": 29
+        },
+        {
+          "hour": "16:00",
+          "percent": 26
+        },
+        {
+          "hour": "17:00",
+          "percent": 16
+        }
+      ]
+    },
+    {
+      "Wednesday": [
+        {
+          "hour": "10:00",
+          "percent": 10
+        },
+        {
+          "hour": "11:00",
+          "percent": 13
+        },
+        {
+          "hour": "12:00",
+          "percent": 15
+        },
+        {
+          "hour": "13:00",
+          "percent": 16
+        },
+        {
+          "hour": "14:00",
+          "percent": 18
+        },
+        {
+          "hour": "15:00",
+          "percent": 19
+        },
+        {
+          "hour": "16:00",
+          "percent": 17
+        },
+        {
+          "hour": "17:00",
+          "percent": 11
+        }
+      ]
+    },
+    {
+      "Thursday": [
+        {
+          "hour": "10:00",
+          "percent": 10
+        },
+        {
+          "hour": "11:00",
+          "percent": 14
+        },
+        {
+          "hour": "12:00",
+          "percent": 16
+        },
+        {
+          "hour": "13:00",
+          "percent": 19
+        },
+        {
+          "hour": "14:00",
+          "percent": 21
+        },
+        {
+          "hour": "15:00",
+          "percent": 21
+        },
+        {
+          "hour": "16:00",
+          "percent": 18
+        },
+        {
+          "hour": "17:00",
+          "percent": 13
+        }
+      ]
+    },
+    {
+      "Friday": [
+        {
+          "hour": "10:00",
+          "percent": 11
+        },
+        {
+          "hour": "11:00",
+          "percent": 17
+        },
+        {
+          "hour": "12:00",
+          "percent": 21
+        },
+        {
+          "hour": "13:00",
+          "percent": 23
+        },
+        {
+          "hour": "14:00",
+          "percent": 25
+        },
+        {
+          "hour": "15:00",
+          "percent": 27
+        },
+        {
+          "hour": "16:00",
+          "percent": 25
+        },
+        {
+          "hour": "17:00",
+          "percent": 18
+        }
+      ]
+    },
+    {
+      "Saturday": [
+        {
+          "hour": "10:00",
+          "percent": 21
+        },
+        {
+          "hour": "11:00",
+          "percent": 38
+        },
+        {
+          "hour": "12:00",
+          "percent": 54
+        },
+        {
+          "hour": "13:00",
+          "percent": 64
+        },
+        {
+          "hour": "14:00",
+          "percent": 72
+        },
+        {
+          "hour": "15:00",
+          "percent": 77
+        },
+        {
+          "hour": "16:00",
+          "percent": 70
+        },
+        {
+          "hour": "17:00",
+          "percent": 47
+        }
+      ]
+    }
+  ],
+  "relatedSearches": [
+    "zoológico",
+    "zoológico de santiago",
+    "zoológico chile safari",
+    "airbnb",
+    "zoo chile",
+    "o que fazer em santiago",
+    "cerro santa lucía",
+    "sky costanera"
+  ],
+  "relateds": [
+    {
+      "mainName": "Parque Metropolitano de Santiago",
+      "url": null
+    },
+    {
+      "mainName": "Parque Zoológico Buin Zoo",
+      "url": null
+    },
+    {
+      "mainName": "Cerro San Cristóbal",
+      "url": null
+    },
+    {
+      "mainName": "Parque Zoológico Nacional",
+      "url": null
+    },
+    {
+      "mainName": "Fantasilandia",
+      "url": null
+    },
+    {
+      "mainName": "Japanese Garden",
+      "url": null
+    },
+    {
+      "mainName": "Cali Zoo",
+      "url": null
+    },
+    {
+      "mainName": "Hacienda Nápoles",
+      "url": null
+    },
+    {
+      "mainName": "Parque de la Conservación",
+      "url": null
+    },
+    {
+      "mainName": "Parque Fluvial Padre Renato Poblete",
+      "url": null
+    },
+    {
+      "mainName": "La Chascona",
+      "url": null
+    },
+    {
+      "mainName": "Museu Nacional de História Natural do Chile",
+      "url": null
+    },
+    {
+      "mainName": "Centro Cultural Palacio de La Moneda",
+      "url": null
+    },
+    {
+      "mainName": "Plaza de Armas",
+      "url": null
+    },
+    {
+      "mainName": "Museo Chileno de Arte Precolombino",
+      "url": null
+    },
+    {
+      "mainName": "Palácio de La Moneda",
+      "url": null
+    },
+    {
+      "mainName": "O'Higgins Park",
+      "url": null
+    },
+    {
+      "mainName": "Laguna del Diamante",
+      "url": null
+    },
+    {
+      "mainName": "Parroquia de Santa Filomena",
+      "url": null
+    },
+    {
+      "mainName": "El Yeso Dam",
+      "url": null
+    },
+    {
+      "mainName": "Museo de Arte Colonial de San Francisco",
+      "url": null
+    },
+    {
+      "mainName": "La Parva",
+      "url": null
+    },
+    {
+      "mainName": "Catedral Metropolitana de Santiago",
+      "url": null
+    },
+    {
+      "mainName": "Museum of Memory and Human Rights",
+      "url": null
+    }
+  ]
+}

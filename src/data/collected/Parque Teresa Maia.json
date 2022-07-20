@@ -1,0 +1,578 @@
+{
+  "mainName": "Parque Teresa Maia",
+  "slug": "parque-teresa-maia",
+  "category": "Parque",
+  "locationInformation": {
+    "latitude": "-23.5884285",
+    "longitude": "-46.8469583"
+  },
+  "basicInformation": [
+    {
+      "label": "endereço",
+      "tooltip": "Copiar endereço",
+      "text": "Rua Santarém, 13 Vila Santo Antonio de, Cotia - SP, 06708-675",
+      "icon": "https://www.gstatic.com/images/icons/material/system_gm/1x/place_gm_blue_24dp.png"
+    },
+    {
+      "label": "website",
+      "tooltip": "Abrir website",
+      "text": "cotia.sp.gov.br",
+      "icon": "https://www.gstatic.com/images/icons/material/system_gm/1x/public_gm_blue_24dp.png"
+    },
+    {
+      "label": "Code",
+      "tooltip": "Copiar Plus Code",
+      "text": "C563+J6 Cotia, São Paulo",
+      "icon": "https://maps.gstatic.com/mapfiles/maps_lite/images/2x/ic_plus_code.png"
+    },
+    {
+      "label": "merchant",
+      "text": "Reivindicar esta empresa",
+      "icon": "https://www.gstatic.com/images/icons/material/system_gm/1x/verified_user_gm_blue_24dp.png"
+    }
+  ],
+  "ratingInformation": {
+    "basicRatingInformation": {
+      "averageGrade": 4.5,
+      "totalOfEvaluations": 1398
+    },
+    "ratingsByGrade": [
+      {
+        "grade": 5,
+        "totalRatings": 944
+      },
+      {
+        "grade": 4,
+        "totalRatings": 294
+      },
+      {
+        "grade": 3,
+        "totalRatings": 118
+      },
+      {
+        "grade": 2,
+        "totalRatings": 25
+      },
+      {
+        "grade": 1,
+        "totalRatings": 17
+      }
+    ]
+  },
+  "ratingTags": [
+    {
+      "tag": "domingo",
+      "count": 58,
+      "tooltip": "domingo, mencionado em 58 avaliações"
+    },
+    {
+      "tag": "feira",
+      "count": 49,
+      "tooltip": "feira, mencionado em 49 avaliações"
+    },
+    {
+      "tag": "lago",
+      "count": 36,
+      "tooltip": "lago, mencionado em 36 avaliações"
+    },
+    {
+      "tag": "brinquedos",
+      "count": 25,
+      "tooltip": "brinquedos, mencionado em 25 avaliações"
+    },
+    {
+      "tag": "brincar",
+      "count": 12,
+      "tooltip": "brincar, mencionado em 12 avaliações"
+    },
+    {
+      "tag": "lazer",
+      "count": 12,
+      "tooltip": "lazer, mencionado em 12 avaliações"
+    },
+    {
+      "tag": "artesanais",
+      "count": 10,
+      "tooltip": "artesanais, mencionado em 10 avaliações"
+    },
+    {
+      "tag": "bebedouros",
+      "count": 7,
+      "tooltip": "bebedouros, mencionado em 7 avaliações"
+    },
+    {
+      "tag": "vegana",
+      "count": 7,
+      "tooltip": "vegana, mencionado em 7 avaliações"
+    },
+    {
+      "tag": "arborizado",
+      "count": 6,
+      "tooltip": "arborizado, mencionado em 6 avaliações"
+    }
+  ],
+  "featuredPhotos": [
+    "https://lh5.googleusercontent.com/p/AF1QipMGNSPgGsrTHsIR2HYAq-kq2-PRTA68cVl172va=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOcAqnayI9TtohEN8LrX-NN3P5ru2Tb5JQ5X_Ih=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOgpRzAHJJiapm-W0v3wFNNi-e4z0wSTiwctdVT=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNj2uixm0oNUI_UhTGMMBUiYLo6NzNziBw5EV19=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipP3957utBZJlf0zQs9_3w0H1J-6vfTG9apKtDKk=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipORSi_uKc9W88U9YsEMWP16wBBpsDae2aEUMbuz=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMK4rlIkqoynEm21UqoqVeST1Bj_mFV288e2KeK=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipM4dhrwWTTRL0KYzg-rSabiVkmX0RK5DPCJctTU=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOdoDMjOJlWO0xjkDQR8svh1ncgHsTnzsWuyFFk=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipN5KI-99uiz92D0CfJqSyDxJx3YhkomUDSEIaLz=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNGeD6UqGIQrBjTUwN2ka8uyQiILxcbevVt6q0A=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNXxNY4ohHG1djMT012lJxNTVKsugtV1F7KGtJL=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOmeTwI2srzdXD_3_SAEQ4oUzTGWBC4eVhBRBC2=w1024-h576-k-no"
+  ],
+  "topComments": [
+    {
+      "author": "Denise Simoes",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucp7Hm3fgGB4W5jZZwid9ohVvFoAFcuJyTldbz_JpQ=w36-h36-p-c0x00000000-rp-mo-ba3-br100",
+      "comment": "Lugar lindo. Os animais são um espetáculo a parte. Fui durante o Beer Festival e estava muito bem organizado.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Luiz",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucqEd5C-N5XHuSW-gWIOmt8saQ2y42joC92G95fqxKk=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "Muito bom para caminhar, sossegado, bem localizado, e ainda conta com um clube ao lado aonde da para almocar ou jantar muito bem.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Edu Appel",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucqVu8iHTi1AM3uXJ5LC9llfpmftLOd9FBf8RfM1=w36-h36-p-c0x00000000-rp-mo-ba3-br100",
+      "comment": "Lugar muito gostoso pra passar um fim de semana, vários bichos, fui nesse domingo e lá tinham vários patos, tucanos e até macaquinhos, demos banana pra eles, muito bom o espaço e bem gostoso, no domingo até as 13h tem a escofeira, com coisas bem gostosas lá",
+      "gradeComment": 5
+    },
+    {
+      "author": "Kleber Zanirato",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucq143LYt15jHAhr__E23WTaEvhNn60h61vTkkcv8JE=w36-h36-p-c0x00000000-rp-mo-ba3-br100",
+      "comment": "Lugar tranquilo, bom para passar o dia com as criancas, porém falta lugares para comprar  alguma coisa para comer, beber um sorvete que seja.",
+      "gradeComment": 4
+    },
+    {
+      "author": "Elaine Geng",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucoUp9eJNZP-8X6DGHX76r_ZDaRaCQck-vAUDC8Qp3s=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "Esse parque é um charme! Limpo, bem cuidado e delicioso para fz caminhada! Super recomendo!",
+      "gradeComment": 5
+    },
+    {
+      "author": "Daniela Ribeiro",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucoHYIil2Tzxm0cbauxs9N24HroQAQhQZS1KnTAaFw=w36-h36-p-c0x00000000-rp-mo-ba3-br100",
+      "comment": "Espaço amplo, com pista para corrida e caminhada. Segurança",
+      "gradeComment": 5
+    },
+    {
+      "author": "Ysaac Barbosa",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucr787FjmGfAhr61oTVafKIi5dkIYj2R-vjPomikZA=w36-h36-p-c0x00000000-rp-mo-br100",
+      "comment": "Parque muito bom! Ótimo lugar para fazer um piquenique familiar em uma tarde de verão. Bem arborizado, conta com um lindo lago cheio de vida (patos e marrecos se não me engano). Possui uma grande área granada com pista asfaltada para bicicleta e uma espécie de trilha, que é uma área com mata mais densa. Resumindo, um ótimo lugar! Só fica um ponto de observação importante, não tem ponto de água potável. Mas, recomendo!",
+      "gradeComment": 4
+    },
+    {
+      "author": "Adriana Gonçalves",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucoGRFGlapIio-ZH3qrGQkeNu94BavyxGB0zwcG6_Hk=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "Parque pequeno, mas muito bem cuidado, banheiro limpo, e um lago cheio de Patos.",
+      "gradeComment": 3
+    },
+    {
+      "author": "Wilson Silva",
+      "photoAuthor": "https://lh3.googleusercontent.com/a/AItbvmkcXeLOsQ42VWigs95gPGfQwiNElGtp70V1A0ZM=w36-h36-p-c0x00000000-rp-mo-br100",
+      "comment": "Ambiente familiar, parque sempre limpo e a feirinha de domingo muito agradável, vale a pena ir e conhecer",
+      "gradeComment": 5
+    },
+    {
+      "author": "Eric Souza",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucpLIlZGEyTRW1m1G7UTmVnFUWq6O-o3FFGiCOXdDAk=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "Local muito agradável, ótimo passeio para a família. Tudo bem arrumadinho, grama aparada, lago bonito!",
+      "gradeComment": 5
+    }
+  ],
+  "peakHours": [
+    {
+      "Sunday": [
+        {
+          "hour": "07:00",
+          "percent": 24
+        },
+        {
+          "hour": "08:00",
+          "percent": 45
+        },
+        {
+          "hour": "09:00",
+          "percent": 69
+        },
+        {
+          "hour": "10:00",
+          "percent": 90
+        },
+        {
+          "hour": "11:00",
+          "percent": 100
+        },
+        {
+          "hour": "12:00",
+          "percent": 96
+        },
+        {
+          "hour": "13:00",
+          "percent": 86
+        },
+        {
+          "hour": "14:00",
+          "percent": 76
+        },
+        {
+          "hour": "15:00",
+          "percent": 69
+        },
+        {
+          "hour": "16:00",
+          "percent": 63
+        },
+        {
+          "hour": "17:00",
+          "percent": 52
+        }
+      ]
+    },
+    {
+      "Monday": [
+        {
+          "hour": "07:00",
+          "percent": 3
+        },
+        {
+          "hour": "08:00",
+          "percent": 5
+        },
+        {
+          "hour": "09:00",
+          "percent": 8
+        },
+        {
+          "hour": "10:00",
+          "percent": 9
+        },
+        {
+          "hour": "11:00",
+          "percent": 9
+        },
+        {
+          "hour": "12:00",
+          "percent": 7
+        },
+        {
+          "hour": "13:00",
+          "percent": 6
+        },
+        {
+          "hour": "14:00",
+          "percent": 7
+        },
+        {
+          "hour": "15:00",
+          "percent": 8
+        },
+        {
+          "hour": "16:00",
+          "percent": 9
+        },
+        {
+          "hour": "17:00",
+          "percent": 8
+        }
+      ]
+    },
+    {
+      "Tuesday": [
+        {
+          "hour": "07:00",
+          "percent": 4
+        },
+        {
+          "hour": "08:00",
+          "percent": 7
+        },
+        {
+          "hour": "09:00",
+          "percent": 9
+        },
+        {
+          "hour": "10:00",
+          "percent": 9
+        },
+        {
+          "hour": "11:00",
+          "percent": 8
+        },
+        {
+          "hour": "12:00",
+          "percent": 8
+        },
+        {
+          "hour": "13:00",
+          "percent": 10
+        },
+        {
+          "hour": "14:00",
+          "percent": 14
+        },
+        {
+          "hour": "15:00",
+          "percent": 16
+        },
+        {
+          "hour": "16:00",
+          "percent": 16
+        },
+        {
+          "hour": "17:00",
+          "percent": 14
+        }
+      ]
+    },
+    {
+      "Wednesday": [
+        {
+          "hour": "07:00",
+          "percent": 3
+        },
+        {
+          "hour": "08:00",
+          "percent": 6
+        },
+        {
+          "hour": "09:00",
+          "percent": 8
+        },
+        {
+          "hour": "10:00",
+          "percent": 9
+        },
+        {
+          "hour": "11:00",
+          "percent": 9
+        },
+        {
+          "hour": "12:00",
+          "percent": 9
+        },
+        {
+          "hour": "13:00",
+          "percent": 10
+        },
+        {
+          "hour": "14:00",
+          "percent": 12
+        },
+        {
+          "hour": "15:00",
+          "percent": 16
+        },
+        {
+          "hour": "16:00",
+          "percent": 18
+        },
+        {
+          "hour": "17:00",
+          "percent": 17
+        }
+      ]
+    },
+    {
+      "Thursday": [
+        {
+          "hour": "07:00",
+          "percent": 5
+        },
+        {
+          "hour": "08:00",
+          "percent": 9
+        },
+        {
+          "hour": "09:00",
+          "percent": 12
+        },
+        {
+          "hour": "10:00",
+          "percent": 13
+        },
+        {
+          "hour": "11:00",
+          "percent": 12
+        },
+        {
+          "hour": "12:00",
+          "percent": 12
+        },
+        {
+          "hour": "13:00",
+          "percent": 15
+        },
+        {
+          "hour": "14:00",
+          "percent": 20
+        },
+        {
+          "hour": "15:00",
+          "percent": 23
+        },
+        {
+          "hour": "16:00",
+          "percent": 21
+        },
+        {
+          "hour": "17:00",
+          "percent": 15
+        }
+      ]
+    },
+    {
+      "Friday": [
+        {
+          "hour": "07:00",
+          "percent": 2
+        },
+        {
+          "hour": "08:00",
+          "percent": 6
+        },
+        {
+          "hour": "09:00",
+          "percent": 10
+        },
+        {
+          "hour": "10:00",
+          "percent": 12
+        },
+        {
+          "hour": "11:00",
+          "percent": 10
+        },
+        {
+          "hour": "12:00",
+          "percent": 7
+        },
+        {
+          "hour": "13:00",
+          "percent": 8
+        },
+        {
+          "hour": "14:00",
+          "percent": 13
+        },
+        {
+          "hour": "15:00",
+          "percent": 19
+        },
+        {
+          "hour": "16:00",
+          "percent": 21
+        },
+        {
+          "hour": "17:00",
+          "percent": 18
+        }
+      ]
+    },
+    {
+      "Saturday": [
+        {
+          "hour": "07:00",
+          "percent": 6
+        },
+        {
+          "hour": "08:00",
+          "percent": 12
+        },
+        {
+          "hour": "09:00",
+          "percent": 18
+        },
+        {
+          "hour": "10:00",
+          "percent": 23
+        },
+        {
+          "hour": "11:00",
+          "percent": 25
+        },
+        {
+          "hour": "12:00",
+          "percent": 27
+        },
+        {
+          "hour": "13:00",
+          "percent": 32
+        },
+        {
+          "hour": "14:00",
+          "percent": 39
+        },
+        {
+          "hour": "15:00",
+          "percent": 46
+        },
+        {
+          "hour": "16:00",
+          "percent": 47
+        },
+        {
+          "hour": "17:00",
+          "percent": 41
+        }
+      ]
+    }
+  ],
+  "relatedSearches": [
+    "fotos da atriz teresa maia"
+  ],
+  "relateds": [
+    {
+      "mainName": "Parque Cemucam",
+      "url": null
+    },
+    {
+      "mainName": "Basílica Nossa Senhora do Rosário de Fátima",
+      "url": null
+    },
+    {
+      "mainName": "Mini Fazenda Pet Zoo",
+      "url": null
+    },
+    {
+      "mainName": "Vila dos Coelhos",
+      "url": null
+    },
+    {
+      "mainName": "Fazendinha Cia dos Bichos",
+      "url": null
+    },
+    {
+      "mainName": "Thermas da Mata",
+      "url": null
+    },
+    {
+      "mainName": "Fo Guang Shan Templo Zu Lai 佛光山如來寺",
+      "url": null
+    },
+    {
+      "mainName": "Sítio do Mandú",
+      "url": null
+    },
+    {
+      "mainName": "Sitio do Padre Inacio - IPHAn",
+      "url": null
+    },
+    {
+      "mainName": "Parque do Planalto",
+      "url": null
+    },
+    {
+      "mainName": "Parque dos Paturis",
+      "url": null
+    }
+  ]
+}

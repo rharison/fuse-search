@@ -1,0 +1,661 @@
+{
+  "mainName": "Ducha de Prata",
+  "slug": "ducha-de-prata",
+  "category": "Atração turística",
+  "locationInformation": {
+    "latitude": "-22.7381971",
+    "longitude": "-45.5694796"
+  },
+  "basicInformation": [
+    {
+      "label": "endereço",
+      "tooltip": "Copiar endereço",
+      "text": "Av. Mariane Baungart, 2485 - Vila Izabel, Campos do Jordão - SP, 12460-000",
+      "icon": "https://www.gstatic.com/images/icons/material/system_gm/1x/place_gm_blue_24dp.png"
+    },
+    {
+      "label": "Code",
+      "tooltip": "Copiar Plus Code",
+      "text": "7C6J+P6 Vila Izabel, Campos do Jordão - SP",
+      "icon": "https://maps.gstatic.com/mapfiles/maps_lite/images/2x/ic_plus_code.png"
+    }
+  ],
+  "ratingInformation": {
+    "basicRatingInformation": {
+      "averageGrade": 4.4,
+      "totalOfEvaluations": 35697
+    },
+    "ratingsByGrade": [
+      {
+        "grade": 5,
+        "totalRatings": 22956
+      },
+      {
+        "grade": 4,
+        "totalRatings": 7486
+      },
+      {
+        "grade": 3,
+        "totalRatings": 3800
+      },
+      {
+        "grade": 2,
+        "totalRatings": 919
+      },
+      {
+        "grade": 1,
+        "totalRatings": 536
+      }
+    ]
+  },
+  "ratingTags": [
+    {
+      "tag": "julho",
+      "count": 8,
+      "tooltip": "julho, mencionado em 8 avaliações"
+    },
+    {
+      "tag": "artesanato",
+      "count": 438,
+      "tooltip": "artesanato, mencionado em 438 avaliações"
+    },
+    {
+      "tag": "comércio",
+      "count": 365,
+      "tooltip": "comércio, mencionado em 365 avaliações"
+    },
+    {
+      "tag": "lembrancinhas",
+      "count": 104,
+      "tooltip": "lembrancinhas, mencionado em 104 avaliações"
+    },
+    {
+      "tag": "arco e flecha",
+      "count": 88,
+      "tooltip": "arco e flecha, mencionado em 88 avaliações"
+    },
+    {
+      "tag": "malhas",
+      "count": 81,
+      "tooltip": "malhas, mencionado em 81 avaliações"
+    },
+    {
+      "tag": "tiro ao alvo",
+      "count": 75,
+      "tooltip": "tiro ao alvo, mencionado em 75 avaliações"
+    },
+    {
+      "tag": "chaveiro",
+      "count": 39,
+      "tooltip": "chaveiro, mencionado em 39 avaliações"
+    },
+    {
+      "tag": "esgoto",
+      "count": 30,
+      "tooltip": "esgoto, mencionado em 30 avaliações"
+    },
+    {
+      "tag": "trenzinho",
+      "count": 18,
+      "tooltip": "trenzinho, mencionado em 18 avaliações"
+    }
+  ],
+  "featuredPhotos": [
+    "https://lh5.googleusercontent.com/p/AF1QipPkHRZsTmLarCA5RJrSj_qeXUBwv6xycFiExmW9=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNycNbiUDNNGLUuogl7faS7HS4Ck9wWigTduFwU=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPO9xJwKP3DHz2g7I4sCWvOi2gwI3DHdDes6AZK=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNJAlIyxE7uSISSPv3zr50yOI0KgpCT-ZIlodg=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMnOpa7Rrb-mWmwTcB6epMejYJRgL93LtGt-Wn_=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipO5hMKgAyEX6I5zT6xBSVdzDniQbDziMIe800Ah=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOR936F-VUE83z58S9jjlfyysLSR4rNCoBu30vZ=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOgmpYoF-EiKHY-nYpO-9UpWiM0H5KBFoOcW6jS=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOf-1AUCgBG0MCCBPPyQ_Le3Qijkzv2sY5u--gP=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOg17682zVhqPkWzcGfJU0Acg0cZ-oSOQzDE5sA=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMybWMwCgmMmk5USnTcQcW6WgLgrXLo5FBK6bbm=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNoyrbfdfHyX0wF1AtxT6laopE900dCZrAputVB=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipO4VVmThHimTWUna8llIAevOKJWQTF48DIJLGFe=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNg4eHAMhYjD0p4z_VO9_Lmr6gITmUxAYOLr11C=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNkwcKjzQcPFCEgkSdCeKHsZKBydZEtzrdp-pvr=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPLTw6Vs1by8dZeaXsKy5eCkEfvWO3QKil39CFo=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipM2gx-1Umzj3tbIsx1fC3K42HSXHBF0tf41gmTq=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOSsYUr5kFnlcUN_C13UIsrgAtfer5oCtKGZ5Ti=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMfCyVs2ihejh0MJWovR26ohDV1TT6BYZhBiWLO=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipN_Pq0KFrS4xC2eIQh3WlIwHZ5ntyzazS0nK97D=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOEMC6pdezARsKUw8Ck9XcuxMnWJrCLYmf1TY1B=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPv5A7fV2T3GyYHXW1AEr0KnPORAt5dk-gnrE6-=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipN_97RH50OzThFwx0-1ankMPOgVlZSrU-ZY9yvI=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOyBE4c_DKD39Y3F2bemyD4W8H4O8K80cd9_JKE=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipM207U2Wj4wcK8TTyed3ylA4Y4SSeRJwRDWSYYX=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPjMC2TMlldhEpi_XuKHtVCiA94YjzzRcm7-D9j=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNDSkDKXQ_KcaS_9YE1PwBgKlJ33Jkao9Bf7xV-=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPu9A-sbs7A5wxr-DfnZREsHXLWHQ4gFCSWjwv1=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipP5Lm0f19Xauj_V1lEzEZ3y4k0VirEifCL8kL2P=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNShLT2Pm37LJy54v4XSJmJsKXmr65WKTqZtzJQ=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNCI2oHUFDi76f9MEUs6h2mE5Mf0spjmo5v5QU3=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipM0C4bjIZwUrjTnUgIDvawwJykMKiGC8F_fGECv=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOl4nV5x8CUoFaLj73XA32T-n1cF94MExOXzYR5=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOtcWepd6bBG7hMVVzaDKk71ormuuDAxLlYU6Xu=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMNe76W2lHdx4Z67WGlz-A3HgUquxUIo2qHfGhF=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOWxqDn3_MjAILoHNQE4iflfJPB8buZfazC5GGk=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNTm7ysEwHp8F6K_hWhKFldXrwUJHrcZiOwX-O7=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipODC1FfUfmg7nTP7VvJ5HOmUtuiOYdzGtU3YXuM=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOHDBJW4SDeLeqF64hwExjqbGbywut-TpkPM4WX=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNxSwRKFCcMhMFeDE44f3fZZomxKPyE0lFH3uTu=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOzGZ0BptTE7HgR937o3vqYdp2opGQ0RuyFw8gk=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMMvrT74kvABhQ91UPJwiqKzYJyA_c47Nj2DQoW=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPLi7XQMGitCAFeHssPoQYrUF4QpDZr4Bf95e7p=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNqRMUr0MamwO0oEI4aCYC8RXnVCQeDDGtFkrE2=w1024-h576-k-no"
+  ],
+  "topComments": [
+    {
+      "author": "Diego Dias",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucregY3Wd3NVOiKSld-IW5bou2RP3b4WoVHwlHTspWQ=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "Lugar público muito bom para ir, tem estacionamento ao lado que é bem grande e não paga nada. Na frente do local tbm é possível porém fica alguém cobrando aí fica seu critério, tem as lojas também que é acessível, pelo menos as lembrancinhas estão mais em conta de outros lugares, e o espaço é agradável tem cachoeira, dá para tirar fotos bonitas com a família, tem arvorismo de quiser mas é pago. E tem uma parte que você entra em que uma empresa tira foto sua para chaveiro e paga se quiser. Eu recomendo visitar esse lugar",
+      "gradeComment": 5
+    },
+    {
+      "author": "Ávila AA Pedrinho Barbosa",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucpAoh8A3djtQKgnbkHKkXb00pEI1RTbYbGN2vzAYw=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "Antes de tudo: o local é gratuito!!! Isso é muito bom (risos) Segundo, vale a pena. É um ambiente gostoso. Arborizado e fresquinho. Tem arvorismo para crianças, uma feirinha maravilhosa de artesanato. Os preços da feirinha acredito que sejam os melhores da cidade. vale a pena ir lá e deixar pra comprar lá. Claro, no que desrespeita a chaveiros, imãs e algumas lembrancinhas para a amigos e família. Por fim, vale a pena reservar um tempo para conhecer!",
+      "gradeComment": 5
+    },
+    {
+      "author": "Ivens Mendes",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucqlJSshxaJP9j6qX0oUKlxg3CASzqW3IQWD6p_RBg=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "Ótimo lugar para tirar fotos, compras lembranças de um modo geral e admirar a natureza. Recomendo percorrer todo o circuito que eles formaram, vale a pena passar por todos os pontos e observar as quedas d'água de diferentes ângulos. No meio do trajeto, tiram fotos suas, e no final, disponibilizam em formato de chaveiro, sendo a compra opcional, mas vale a recordação.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Jaque Medina",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucq6JNal8Gi46IRPJlgjLdlSFRIlDGl1l2-MrTezZIU=w36-h36-p-c0x00000000-rp-mo-br100",
+      "comment": "Vale muito a visita! Um lugar super gostoso, tranquilo, cercado pela natureza, com muitos pontos para tirar aquela foto bacana e sem pagar para entrar. Tem algumas atividades pagas também. Antes de entrar na Ducha de prata, tem várias lojas bem legais.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Isabela Martins",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucqLQ5wg1S_yTEZL5qRpbveBLQsS4s3P1lXD_ABPhA=w36-h36-p-c0x00000000-rp-mo-ba3-br100",
+      "comment": "É um ótimo local turístico, propriedade privada aberta ao público sem custos para visitação. Há lojinhas ao redor e na rua em frente que possuem lembrancinhas e acessibilidades, roupas, acessórios. Também há umas opções de restaurantes para quem optar por ficar por ali. Dentro do local, há uma mini selva pra fotos com animais de mentira(esculturas). Há também, a opção de tiro esportivo e arco e flecha a partir de 35 reais. O acesso é fácil, placas indicativas no caminho e estacionamento gratuito.",
+      "gradeComment": 4
+    },
+    {
+      "author": "Pedro Bozzola",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucqAK__VZwv_xH9kR-T3HhQp7zGr-yaqO4T8ScUH-A=w36-h36-p-c0x00000000-rp-mo-ba5-br100",
+      "comment": "O mais legal é ser de graça! Todos podem curtir! Vale a visita! Se for animado, da para ir a pé! Existe também os passeios pagos que passa por lá! A única coisa, para quem é responsável pelo local, são aqueles canos feios no meio da queda dágua!!",
+      "gradeComment": 5
+    },
+    {
+      "author": "Carolina Sarcinelli",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucqPFmf3UyWT1h8OqceWeYOmJnBZOin55DFCGpFhMf8=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "É realmente um passeio bem legal de fazer! Recomendo ir durante a semana que deve ter menos gente e deve dar pra ouvir melhor o barulho das cachoeiras. Além disso, recomendo ir com roupa e tênis confortáveis pra se aventurar numa trilha que tem lá. Tem muitas lojinhas na entrada e várias opções de restaurante.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Charles Generoso",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucrYkIV5ulnaqUfRsFdUsTtwIxQwDZnNTo5kQh8aOA=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "Que lugar lindo, a entrada é franca porém tem algumas taxas para fotos, que não é nada absurdo, dos pontos turísticos de Campos do Jordão este é o de menor custo, e particularmente prefiro a Ducha de prata do que visitar o Armantik.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Tatiane Gonçalves",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucqa0uYQkB2hgl7GzOiDdGw0tWF2P3uJmV-IeLxbLg=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "Não gostei. Tem lugares incríveis e interessantes para viver uma boa experiência em Campos do jordao. Disputar espaço em um lugar pequeno e sem atrativo nenhum não é meu lazer favorito.  Essas fotos retrata bem.",
+      "gradeComment": 2
+    },
+    {
+      "author": "Hugo Cezar Fernandes",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucoxnFUqW-iZdQq_NG-E1vf72EuGrZpZAhzRhAWp4O0=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "Recomendo este passeio, pois o lugar e bonito, paisagem bonita. Possui passeio pago para o arvorismo e tem artesanato local e peças para decoração como artigos de lá. Quando venho a Campos do Jordão sempre dou uma passada aqui na ducha de prata.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Louise Mello Bianchi",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZuco-nNomt5LH7_Oy5aqiuYH2XN_U6Jw62USG1XNDip0=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "O lugar é muito bonito para fazer fotos. A entrada é gratuita, há estacionamento gratuito, mas tem um pessoal que fica organizando e pede uma contribuição, mas não é obrigatório. Fui durante a semana e estava bem movimentado.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Patrick Antonioli",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucovotBF759pZltxiCkPTnTFeJnmaU0Dm_q48TzY_Pw=w36-h36-p-c0x00000000-rp-mo-ba5-br100",
+      "comment": "É um lugar bacana com estacionamento ao lado e com um pequeno comércio de produtos para lembranças, vestuário, brinquedos e etc. Tem as pequenas cachoeiras as quais pode-se andar em tablados e em pedras. É bem bonito no geral.",
+      "gradeComment": 4
+    },
+    {
+      "author": "Karina Fernandes",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucr2NB65MahcOorkFtuIYqZJ-tH-vklRtlfk8iVjBSg=w36-h36-p-c0x00000000-rp-mo-br100",
+      "comment": "Muito lindo, vale muito a pena. Fotos tiradas no letreiro amo Campos do Jordão foi pago 5,00 por pessoa, porém tem outros atrativos para foto tb no mesmo lugar incluso no mesmo valor, com direito a neve artificial nas fotos e vídeos, adoreiiiii...",
+      "gradeComment": 5
+    },
+    {
+      "author": "Ester Santos Silva Ribeiro",
+      "photoAuthor": "https://lh3.googleusercontent.com/a/AItbvmnc2xt2e8_HKl7im764mhR1E140Ae19L4c65tqa=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "Amei, experiência incrível, o comercio ao redor é ótimo, tem estacionamento pago ao lado, mas dependendo do dia consegue estacionar nas vagas disponíveis na rua, tem tirolesa, para adulto e infantil, tem várias opções para comer, ótimo local para tirar fotos.",
+      "gradeComment": 5
+    },
+    {
+      "author": "RAIRA BIENA",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucqNn-m1tcrAEg2Vtf0p-q29RmQhsVkUmlxVRjhPBQ=w36-h36-p-c0x00000000-rp-mo-ba3-br100",
+      "comment": "O lugar é lindo, mais não acho muito recomendado para crianças. Detalhe, os preços dos restaurantes próximo a ducha são mais em conta, do que no centro de Campos do Jordão.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Taís A.",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucry4EfS3zUQdsYnm-pmKNrOTCWTQFSMeDYNlaYI4no=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "Cachoeira incrível feita pelo homem, a água não é própria para banho ou consumo. Dentro do ambiente tem umas lojinhas de presentes, tem também algumas atrações para crianças como arvorismo e etc. Tem uma área reservada com uma placa escrito amo campos do Jordão que é exclusiva para quem quiser comprar fotos com o fotógrafo de lá, as fotos podem ser impressas até dentro de um globo de vidro.",
+      "gradeComment": 4
+    },
+    {
+      "author": "Decio Carreão",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZuco-eaAsqykS5XYYD9ZahXew8KWbnyjJrMjCUR5jpQ=w36-h36-p-c0x00000000-rp-mo-ba5-br100",
+      "comment": "Vale a visita, apesar da alta frequência ao local, mesmo sendo em uma terça-feira. Interessante visitar, também, o complexo \"A Selva\", contíguo as quedas d'água.",
+      "gradeComment": 4
+    },
+    {
+      "author": "Carlos Henrique Barbosa",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZuco02aRQ2nMO-Ga5eU5RE7aAoT6guaLzGITZcwLTbg=w36-h36-p-c0x00000000-rp-mo-ba2-br100",
+      "comment": "Caminhar em meio às quedas d'água, escutar o cantar das águas límpidas. E aproveitar as lojinhas de presentes...  Várias passarelas e pontes de madeira foram construídas em torno das quedas d’água para ajudar os visitantes a apreciar o local e tirar muitas fotos. simplesmente top",
+      "gradeComment": 5
+    },
+    {
+      "author": "Talita Fernandes",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucqJD-AhRIUVhKWhfdtBxwsTm3ThnQxCY9xANyeCCdA=w36-h36-p-c0x00000000-rp-mo-ba5-br100",
+      "comment": "Local com várias Lojinhas. Você desce que tem placas para tirar foto. Mais embaixo tem um espaço com fotógrafo para fazer lembrancinhas. Eu fiz a minha, amei!",
+      "gradeComment": 5
+    },
+    {
+      "author": "Gustavo Pedrinho Barbosa",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucqE_o2Vp988Ec12DB1rh1ZuR1JUX-idttKrp2i_aHg=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "Lugar muito bom, gratuito, um dos poucos lugares na cidade que não cobre 15 reais pra deixar o carro kkkkkk, a feirinha é muito boa e as belezas das cascatas são muito bonitas.",
+      "gradeComment": 5
+    }
+  ],
+  "peakHours": [
+    {
+      "Sunday": [
+        {
+          "hour": "08:00",
+          "percent": 31
+        },
+        {
+          "hour": "09:00",
+          "percent": 59
+        },
+        {
+          "hour": "10:00",
+          "percent": 87
+        },
+        {
+          "hour": "11:00",
+          "percent": 100
+        },
+        {
+          "hour": "12:00",
+          "percent": 92
+        },
+        {
+          "hour": "13:00",
+          "percent": 77
+        },
+        {
+          "hour": "14:00",
+          "percent": 68
+        },
+        {
+          "hour": "15:00",
+          "percent": 62
+        },
+        {
+          "hour": "16:00",
+          "percent": 50
+        },
+        {
+          "hour": "17:00",
+          "percent": 32
+        }
+      ]
+    },
+    {
+      "Monday": [
+        {
+          "hour": "09:00",
+          "percent": 6
+        },
+        {
+          "hour": "10:00",
+          "percent": 18
+        },
+        {
+          "hour": "11:00",
+          "percent": 29
+        },
+        {
+          "hour": "12:00",
+          "percent": 29
+        },
+        {
+          "hour": "13:00",
+          "percent": 20
+        },
+        {
+          "hour": "14:00",
+          "percent": 16
+        },
+        {
+          "hour": "15:00",
+          "percent": 21
+        },
+        {
+          "hour": "16:00",
+          "percent": 18
+        },
+        {
+          "hour": "17:00",
+          "percent": 7
+        }
+      ]
+    },
+    {
+      "Tuesday": [
+        {
+          "hour": "09:00",
+          "percent": 4
+        },
+        {
+          "hour": "10:00",
+          "percent": 13
+        },
+        {
+          "hour": "11:00",
+          "percent": 23
+        },
+        {
+          "hour": "12:00",
+          "percent": 26
+        },
+        {
+          "hour": "13:00",
+          "percent": 21
+        },
+        {
+          "hour": "14:00",
+          "percent": 18
+        },
+        {
+          "hour": "15:00",
+          "percent": 20
+        },
+        {
+          "hour": "16:00",
+          "percent": 16
+        }
+      ]
+    },
+    {
+      "Wednesday": [
+        {
+          "hour": "09:00",
+          "percent": 5
+        },
+        {
+          "hour": "10:00",
+          "percent": 14
+        },
+        {
+          "hour": "11:00",
+          "percent": 23
+        },
+        {
+          "hour": "12:00",
+          "percent": 25
+        },
+        {
+          "hour": "13:00",
+          "percent": 19
+        },
+        {
+          "hour": "14:00",
+          "percent": 15
+        },
+        {
+          "hour": "15:00",
+          "percent": 19
+        },
+        {
+          "hour": "16:00",
+          "percent": 17
+        },
+        {
+          "hour": "17:00",
+          "percent": 7
+        }
+      ]
+    },
+    {
+      "Thursday": [
+        {
+          "hour": "09:00",
+          "percent": 11
+        },
+        {
+          "hour": "10:00",
+          "percent": 25
+        },
+        {
+          "hour": "11:00",
+          "percent": 34
+        },
+        {
+          "hour": "12:00",
+          "percent": 33
+        },
+        {
+          "hour": "13:00",
+          "percent": 24
+        },
+        {
+          "hour": "14:00",
+          "percent": 22
+        },
+        {
+          "hour": "15:00",
+          "percent": 25
+        },
+        {
+          "hour": "16:00",
+          "percent": 22
+        },
+        {
+          "hour": "17:00",
+          "percent": 11
+        }
+      ]
+    },
+    {
+      "Friday": [
+        {
+          "hour": "09:00",
+          "percent": 11
+        },
+        {
+          "hour": "10:00",
+          "percent": 25
+        },
+        {
+          "hour": "11:00",
+          "percent": 38
+        },
+        {
+          "hour": "12:00",
+          "percent": 39
+        },
+        {
+          "hour": "13:00",
+          "percent": 31
+        },
+        {
+          "hour": "14:00",
+          "percent": 27
+        },
+        {
+          "hour": "15:00",
+          "percent": 31
+        },
+        {
+          "hour": "16:00",
+          "percent": 26
+        },
+        {
+          "hour": "17:00",
+          "percent": 13
+        }
+      ]
+    },
+    {
+      "Saturday": [
+        {
+          "hour": "08:00",
+          "percent": 21
+        },
+        {
+          "hour": "09:00",
+          "percent": 45
+        },
+        {
+          "hour": "10:00",
+          "percent": 74
+        },
+        {
+          "hour": "11:00",
+          "percent": 92
+        },
+        {
+          "hour": "12:00",
+          "percent": 89
+        },
+        {
+          "hour": "13:00",
+          "percent": 72
+        },
+        {
+          "hour": "14:00",
+          "percent": 67
+        },
+        {
+          "hour": "15:00",
+          "percent": 75
+        },
+        {
+          "hour": "16:00",
+          "percent": 68
+        },
+        {
+          "hour": "17:00",
+          "percent": 39
+        }
+      ]
+    }
+  ],
+  "relatedSearches": [
+    "malharia ducha de prata",
+    "ducha de prata horario de funcionamento",
+    "tirolesa ducha de prata",
+    "ducha de prata campos do jordão ingresso",
+    "ducha de prata campos do jordão wikipedia",
+    "ducha de prata campos do jordão endereço",
+    "hotel ducha de prata, campos do jordão",
+    "parque capivari"
+  ],
+  "relateds": [
+    {
+      "mainName": "Morro do Elefante",
+      "url": null
+    },
+    {
+      "mainName": "Pico do Itapeva",
+      "url": null
+    },
+    {
+      "mainName": "Bosque do Silêncio",
+      "url": null
+    },
+    {
+      "mainName": "Parque Amantikir",
+      "url": null
+    },
+    {
+      "mainName": "Parque Capivari",
+      "url": null
+    },
+    {
+      "mainName": "Palácio Boa Vista",
+      "url": null
+    },
+    {
+      "mainName": "Museu Felícia Leirner",
+      "url": null
+    },
+    {
+      "mainName": "Parque dos Elefantes",
+      "url": null
+    },
+    {
+      "mainName": "Pico Do Imbiri",
+      "url": null
+    },
+    {
+      "mainName": "Pedra do Baú",
+      "url": null
+    },
+    {
+      "mainName": "Parque Estadual Campos do Jordão (Horto Florestal)",
+      "url": null
+    },
+    {
+      "mainName": "Mosteiro de São João - Monjas Beneditinas",
+      "url": null
+    },
+    {
+      "mainName": "Pedra Ana Chata",
+      "url": null
+    },
+    {
+      "mainName": "Parque Pico do Itapeva",
+      "url": null
+    },
+    {
+      "mainName": "Fazendinha Toriba",
+      "url": null
+    },
+    {
+      "mainName": "Vista Chinesa ou Mirante Belvedere",
+      "url": null
+    },
+    {
+      "mainName": "Cachoeira Veu da Noiva",
+      "url": null
+    },
+    {
+      "mainName": "Portal de Campos do Jordão",
+      "url": null
+    },
+    {
+      "mainName": "Alto da Vila Inglesa",
+      "url": null
+    },
+    {
+      "mainName": "Parque da Lagoinha",
+      "url": null
+    },
+    {
+      "mainName": "Gruta dos Crioulos",
+      "url": null
+    },
+    {
+      "mainName": "Parque da Cerejeira de Campos do Jordão",
+      "url": null
+    },
+    {
+      "mainName": "Museu Casa da Xilogravura",
+      "url": null
+    }
+  ]
+}

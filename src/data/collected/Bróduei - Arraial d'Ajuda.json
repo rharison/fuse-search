@@ -1,0 +1,961 @@
+{
+  "mainName": "Bróduei - Arraial d'Ajuda",
+  "slug": "broduei-arraial-d'ajuda",
+  "category": "Calçadão",
+  "locationInformation": {
+    "latitude": "-16.4901445",
+    "longitude": "-39.074109"
+  },
+  "basicInformation": [
+    {
+      "label": "endereço",
+      "tooltip": "Copiar endereço",
+      "text": "Pedro Jequié Bahia BR, Rua São, Porto Seguro - BA, 45816-000",
+      "icon": "https://www.gstatic.com/images/icons/material/system_gm/1x/place_gm_blue_24dp.png"
+    },
+    {
+      "label": "website",
+      "tooltip": "Abrir website",
+      "text": "visitearraialdajuda.com",
+      "icon": "https://www.gstatic.com/images/icons/material/system_gm/1x/public_gm_blue_24dp.png"
+    },
+    {
+      "label": "Code",
+      "tooltip": "Copiar Plus Code",
+      "text": "GW5G+W9 Porto Seguro, Bahia",
+      "icon": "https://maps.gstatic.com/mapfiles/maps_lite/images/2x/ic_plus_code.png"
+    }
+  ],
+  "ratingInformation": {
+    "basicRatingInformation": {
+      "averageGrade": 4.7,
+      "totalOfEvaluations": 1458
+    },
+    "ratingsByGrade": [
+      {
+        "grade": 5,
+        "totalRatings": 1120
+      },
+      {
+        "grade": 4,
+        "totalRatings": 245
+      },
+      {
+        "grade": 3,
+        "totalRatings": 73
+      },
+      {
+        "grade": 2,
+        "totalRatings": 11
+      },
+      {
+        "grade": 1,
+        "totalRatings": 9
+      }
+    ]
+  },
+  "ratingTags": [
+    {
+      "tag": "restaurantes",
+      "count": 52,
+      "tooltip": "restaurantes, mencionado em 52 avaliações"
+    },
+    {
+      "tag": "comércio",
+      "count": 27,
+      "tooltip": "comércio, mencionado em 27 avaliações"
+    },
+    {
+      "tag": "bares",
+      "count": 25,
+      "tooltip": "bares, mencionado em 25 avaliações"
+    },
+    {
+      "tag": "artesanato",
+      "count": 24,
+      "tooltip": "artesanato, mencionado em 24 avaliações"
+    },
+    {
+      "tag": "passeio",
+      "count": 16,
+      "tooltip": "passeio, mencionado em 16 avaliações"
+    },
+    {
+      "tag": "música",
+      "count": 13,
+      "tooltip": "música, mencionado em 13 avaliações"
+    },
+    {
+      "tag": "igreja",
+      "count": 12,
+      "tooltip": "igreja, mencionado em 12 avaliações"
+    },
+    {
+      "tag": "pitoresco",
+      "count": 11,
+      "tooltip": "pitoresco, mencionado em 11 avaliações"
+    },
+    {
+      "tag": "animado",
+      "count": 7,
+      "tooltip": "animado, mencionado em 7 avaliações"
+    },
+    {
+      "tag": "souvenirs",
+      "count": 7,
+      "tooltip": "souvenirs, mencionado em 7 avaliações"
+    }
+  ],
+  "featuredPhotos": [
+    "https://lh5.googleusercontent.com/p/AF1QipN4kmz6MBJvG0to1hQHOQrwTs4JTz0Pb8261UGr=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMlL5iHvLQNJk4QOB_YOJa-39Es-BeV7BlTg8nX=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNSBSe0tzS_h_L187jH8gSakjivw2mHg-QIbfuS=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipO_upywAkzpEo4fl2bWhMe6BqkB7FSCE8qEs_NZ=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipP6IX-IFbauPVdIp0r7Cl5GqHIhCXjMaT4yhkZx=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMoQ9sse4F5YUrb3paSb8bxFobv07uqRdeIMeH8=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPJWbxc_vMg4sggscrKb-PLscA_geESAd34RVCj=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNob5rKrxWookEdocPstlrlBob-Ai2xD4S60Xo=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPbmIyJgd0ilv-ey7t4p8_yPT6ImdwkI4Olgvgs=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipO7F8_u7Rb3hvXxqn3wAFBJpEOZafhY0RInLyXN=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipM_-pbiEldi_ei5Gdl8_MmAcwZikt6WZ7Kxeq_v=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOVhEZVDQfF3wB40ceRUgraPfH_ERAoi4sfD-nd=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMCv4mxlx5G7AJwOtOstDxEmBkq7yoXOaKFv6bz=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOlBauNbm1nOU4sxy6_jqzJmUFEj4ozmN0xjjgY=w1024-h576-k-no"
+  ],
+  "topComments": [
+    {
+      "author": "luciano tavares Guinza imóveis",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucp_6DRdt7FhWrtfdU4__CZWlrU3JnBDQgQ87jZMJQ=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "Lugar maravilhoso com muitas opções de bares e restaurantes , sorveterias e pub ! A noite é um encanto clima gostoso e ambiente alto astral",
+      "gradeComment": 5
+    },
+    {
+      "author": "Ivone Farkas",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucoSMWE6cM7ZY87f5Fl0YvvHgv4Rp0KkOBfqlqSkSQ=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "Essa rua é muito bacana. Muitos restaurantes, lojinhas, praça, igreja Nossa Senhora D'ajuda, mirante com vista para o mar, escadaria. Vale a pena conhecer",
+      "gradeComment": 4
+    },
+    {
+      "author": "Gilmar Ribeiro",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucrF5NBqT35upT4IA7EMarYDZLv1-dq0MYMxzc7mEnY=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "Igreja bem preservada. Vista linda de Arraial d,Judá. Uma ótima energia no lugar.",
+      "gradeComment": 4
+    },
+    {
+      "author": "Brunno Pimentel",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucqCCjRjilELhHRht80xjWIg9DTA9-A1Rujumu_K6g=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "Local com ótimos restaurantes e lanchonetes. Porém por ser um local famoso, os preços tendem a ser bem caros.",
+      "gradeComment": 4
+    },
+    {
+      "author": "Ana Cláudia Sausmikat Oliveira",
+      "photoAuthor": "https://lh3.googleusercontent.com/a/AItbvmlo8SVKEIp-IgIamHH3wR26wGEmb81YYyzmpwU0=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "A rua Bróduei, é muito charmosa. Cheia de lojinhas para quem ama fazer compras e dar lembrancinhas.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Maribel Bazoni de Souza",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucrjvAsO7AAjrfhoNZQLig_Ybla48KMv96LZI4tBZV8=w36-h36-p-c0x00000000-rp-mo-ba3-br100",
+      "comment": "Lindo, vale a pena o passeio",
+      "gradeComment": 5
+    },
+    {
+      "author": "Carolina Sala",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucrgP1i10e7KVIJNhVdNaAXx7eZGDcGJUJ02vGkUWbw=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "Tem para todos os gostos, pode procurar q com certeza algo vai te agradar!",
+      "gradeComment": 5
+    },
+    {
+      "author": "Giovani Silva",
+      "photoAuthor": "https://lh3.googleusercontent.com/a/AItbvmkImakQ-CiFtm2Xpyt5r3TVM8rAArn885ge8KaI=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "Arraial é sem dúvida um dos lugares com as praias mais lindas da região. A rua Brodway é mais charmosa à noite, mas as fotos da igreja e do mar atrás ficam maravilhosas com o sol forte. Vale a pena uma descida para conhecer a fonte de Nossa Senhora d'Ajuda.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Luiz Fernando",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucrNZiYFTyXhonSSoXIcaWspReMILnpVaWyRgQGQ8g=w36-h36-p-c0x00000000-rp-mo-ba2-br100",
+      "comment": "Quem vem a Arraial d'Ajuda-BA não pode deixar de visitar essa rua. Comércio ativo, bares e restaurantes para todo gosto, souvenirs, e serve de acesso à linda praça da Igreja de N.S. d'Ajuda, ícone da cidade, além do Mirante, de onde se tem uma maravilhosa vista do mar e das praias. Vale a pena!",
+      "gradeComment": 5
+    },
+    {
+      "author": "Sebastiao Zimerman",
+      "photoAuthor": "https://lh3.googleusercontent.com/a/AItbvmkhStDQFvVBSTgnMfKMgRs89pX45SuL5eJlqaWo=w36-h36-p-c0x00000000-rp-mo-ba6-br100",
+      "comment": "Uma das ruas que sempre foi referência de animação, bons restaurantes e comércio local.  A rua termina na igreja Matriz onde os fiéis amarram suas fitinhas para pedir graças e após apreciar a belíssima vista da cidade.",
+      "gradeComment": 5
+    }
+  ],
+  "peakHours": [
+    {
+      "Sunday": [
+        {
+          "hour": "04:00",
+          "percent": 1
+        },
+        {
+          "hour": "05:00",
+          "percent": 1
+        },
+        {
+          "hour": "06:00",
+          "percent": 1
+        },
+        {
+          "hour": "07:00",
+          "percent": 1
+        },
+        {
+          "hour": "11:00",
+          "percent": 1
+        },
+        {
+          "hour": "12:00",
+          "percent": 6
+        },
+        {
+          "hour": "13:00",
+          "percent": 14
+        },
+        {
+          "hour": "14:00",
+          "percent": 24
+        },
+        {
+          "hour": "15:00",
+          "percent": 35
+        },
+        {
+          "hour": "16:00",
+          "percent": 44
+        },
+        {
+          "hour": "17:00",
+          "percent": 55
+        },
+        {
+          "hour": "18:00",
+          "percent": 70
+        },
+        {
+          "hour": "19:00",
+          "percent": 90
+        },
+        {
+          "hour": "20:00",
+          "percent": 100
+        },
+        {
+          "hour": "21:00",
+          "percent": 88
+        },
+        {
+          "hour": "22:00",
+          "percent": 59
+        },
+        {
+          "hour": "23:00",
+          "percent": 28
+        },
+        {
+          "hour": "00:00",
+          "percent": 9
+        },
+        {
+          "hour": "01:00",
+          "percent": 1
+        },
+        {
+          "hour": "02:00",
+          "percent": 1
+        }
+      ]
+    },
+    {
+      "Monday": [
+        {
+          "hour": "04:00",
+          "percent": 1
+        },
+        {
+          "hour": "05:00",
+          "percent": 1
+        },
+        {
+          "hour": "06:00",
+          "percent": 1
+        },
+        {
+          "hour": "07:00",
+          "percent": 1
+        },
+        {
+          "hour": "08:00",
+          "percent": 1
+        },
+        {
+          "hour": "09:00",
+          "percent": 1
+        },
+        {
+          "hour": "10:00",
+          "percent": 1
+        },
+        {
+          "hour": "11:00",
+          "percent": 2
+        },
+        {
+          "hour": "12:00",
+          "percent": 4
+        },
+        {
+          "hour": "13:00",
+          "percent": 6
+        },
+        {
+          "hour": "14:00",
+          "percent": 10
+        },
+        {
+          "hour": "15:00",
+          "percent": 14
+        },
+        {
+          "hour": "16:00",
+          "percent": 20
+        },
+        {
+          "hour": "17:00",
+          "percent": 26
+        },
+        {
+          "hour": "18:00",
+          "percent": 31
+        },
+        {
+          "hour": "19:00",
+          "percent": 34
+        },
+        {
+          "hour": "20:00",
+          "percent": 33
+        },
+        {
+          "hour": "21:00",
+          "percent": 29
+        },
+        {
+          "hour": "22:00",
+          "percent": 23
+        },
+        {
+          "hour": "23:00",
+          "percent": 15
+        },
+        {
+          "hour": "00:00",
+          "percent": 7
+        },
+        {
+          "hour": "01:00",
+          "percent": 1
+        },
+        {
+          "hour": "02:00",
+          "percent": 1
+        },
+        {
+          "hour": "03:00",
+          "percent": 1
+        }
+      ]
+    },
+    {
+      "Tuesday": [
+        {
+          "hour": "04:00",
+          "percent": 1
+        },
+        {
+          "hour": "05:00",
+          "percent": 1
+        },
+        {
+          "hour": "06:00",
+          "percent": 1
+        },
+        {
+          "hour": "08:00",
+          "percent": 1
+        },
+        {
+          "hour": "10:00",
+          "percent": 1
+        },
+        {
+          "hour": "11:00",
+          "percent": 2
+        },
+        {
+          "hour": "12:00",
+          "percent": 3
+        },
+        {
+          "hour": "13:00",
+          "percent": 7
+        },
+        {
+          "hour": "14:00",
+          "percent": 12
+        },
+        {
+          "hour": "15:00",
+          "percent": 19
+        },
+        {
+          "hour": "16:00",
+          "percent": 22
+        },
+        {
+          "hour": "17:00",
+          "percent": 24
+        },
+        {
+          "hour": "18:00",
+          "percent": 27
+        },
+        {
+          "hour": "19:00",
+          "percent": 31
+        },
+        {
+          "hour": "20:00",
+          "percent": 33
+        },
+        {
+          "hour": "21:00",
+          "percent": 31
+        },
+        {
+          "hour": "22:00",
+          "percent": 24
+        },
+        {
+          "hour": "23:00",
+          "percent": 13
+        },
+        {
+          "hour": "00:00",
+          "percent": 4
+        },
+        {
+          "hour": "01:00",
+          "percent": 1
+        },
+        {
+          "hour": "02:00",
+          "percent": 1
+        },
+        {
+          "hour": "03:00",
+          "percent": 1
+        }
+      ]
+    },
+    {
+      "Wednesday": [
+        {
+          "hour": "04:00",
+          "percent": 1
+        },
+        {
+          "hour": "05:00",
+          "percent": 1
+        },
+        {
+          "hour": "06:00",
+          "percent": 1
+        },
+        {
+          "hour": "07:00",
+          "percent": 1
+        },
+        {
+          "hour": "08:00",
+          "percent": 1
+        },
+        {
+          "hour": "09:00",
+          "percent": 1
+        },
+        {
+          "hour": "11:00",
+          "percent": 1
+        },
+        {
+          "hour": "12:00",
+          "percent": 3
+        },
+        {
+          "hour": "13:00",
+          "percent": 7
+        },
+        {
+          "hour": "14:00",
+          "percent": 12
+        },
+        {
+          "hour": "15:00",
+          "percent": 19
+        },
+        {
+          "hour": "16:00",
+          "percent": 25
+        },
+        {
+          "hour": "17:00",
+          "percent": 30
+        },
+        {
+          "hour": "18:00",
+          "percent": 34
+        },
+        {
+          "hour": "19:00",
+          "percent": 37
+        },
+        {
+          "hour": "20:00",
+          "percent": 38
+        },
+        {
+          "hour": "21:00",
+          "percent": 37
+        },
+        {
+          "hour": "22:00",
+          "percent": 31
+        },
+        {
+          "hour": "23:00",
+          "percent": 23
+        },
+        {
+          "hour": "00:00",
+          "percent": 13
+        },
+        {
+          "hour": "01:00",
+          "percent": 4
+        },
+        {
+          "hour": "02:00",
+          "percent": 1
+        },
+        {
+          "hour": "03:00",
+          "percent": 1
+        }
+      ]
+    },
+    {
+      "Thursday": [
+        {
+          "hour": "04:00",
+          "percent": 1
+        },
+        {
+          "hour": "05:00",
+          "percent": 1
+        },
+        {
+          "hour": "06:00",
+          "percent": 1
+        },
+        {
+          "hour": "07:00",
+          "percent": 1
+        },
+        {
+          "hour": "08:00",
+          "percent": 1
+        },
+        {
+          "hour": "09:00",
+          "percent": 1
+        },
+        {
+          "hour": "10:00",
+          "percent": 1
+        },
+        {
+          "hour": "12:00",
+          "percent": 3
+        },
+        {
+          "hour": "13:00",
+          "percent": 7
+        },
+        {
+          "hour": "14:00",
+          "percent": 11
+        },
+        {
+          "hour": "15:00",
+          "percent": 17
+        },
+        {
+          "hour": "16:00",
+          "percent": 23
+        },
+        {
+          "hour": "17:00",
+          "percent": 30
+        },
+        {
+          "hour": "18:00",
+          "percent": 37
+        },
+        {
+          "hour": "19:00",
+          "percent": 42
+        },
+        {
+          "hour": "20:00",
+          "percent": 44
+        },
+        {
+          "hour": "21:00",
+          "percent": 43
+        },
+        {
+          "hour": "22:00",
+          "percent": 37
+        },
+        {
+          "hour": "23:00",
+          "percent": 29
+        },
+        {
+          "hour": "00:00",
+          "percent": 20
+        },
+        {
+          "hour": "01:00",
+          "percent": 11
+        },
+        {
+          "hour": "02:00",
+          "percent": 4
+        },
+        {
+          "hour": "03:00",
+          "percent": 1
+        }
+      ]
+    },
+    {
+      "Friday": [
+        {
+          "hour": "04:00",
+          "percent": 1
+        },
+        {
+          "hour": "05:00",
+          "percent": 1
+        },
+        {
+          "hour": "06:00",
+          "percent": 1
+        },
+        {
+          "hour": "07:00",
+          "percent": 1
+        },
+        {
+          "hour": "08:00",
+          "percent": 1
+        },
+        {
+          "hour": "09:00",
+          "percent": 1
+        },
+        {
+          "hour": "10:00",
+          "percent": 1
+        },
+        {
+          "hour": "12:00",
+          "percent": 3
+        },
+        {
+          "hour": "13:00",
+          "percent": 7
+        },
+        {
+          "hour": "14:00",
+          "percent": 12
+        },
+        {
+          "hour": "15:00",
+          "percent": 18
+        },
+        {
+          "hour": "16:00",
+          "percent": 26
+        },
+        {
+          "hour": "17:00",
+          "percent": 34
+        },
+        {
+          "hour": "18:00",
+          "percent": 41
+        },
+        {
+          "hour": "19:00",
+          "percent": 46
+        },
+        {
+          "hour": "20:00",
+          "percent": 46
+        },
+        {
+          "hour": "21:00",
+          "percent": 43
+        },
+        {
+          "hour": "22:00",
+          "percent": 35
+        },
+        {
+          "hour": "23:00",
+          "percent": 25
+        },
+        {
+          "hour": "00:00",
+          "percent": 15
+        },
+        {
+          "hour": "01:00",
+          "percent": 7
+        },
+        {
+          "hour": "02:00",
+          "percent": 2
+        },
+        {
+          "hour": "03:00",
+          "percent": 1
+        }
+      ]
+    },
+    {
+      "Saturday": [
+        {
+          "hour": "04:00",
+          "percent": 1
+        },
+        {
+          "hour": "05:00",
+          "percent": 1
+        },
+        {
+          "hour": "06:00",
+          "percent": 1
+        },
+        {
+          "hour": "07:00",
+          "percent": 1
+        },
+        {
+          "hour": "08:00",
+          "percent": 1
+        },
+        {
+          "hour": "09:00",
+          "percent": 1
+        },
+        {
+          "hour": "10:00",
+          "percent": 1
+        },
+        {
+          "hour": "11:00",
+          "percent": 1
+        },
+        {
+          "hour": "12:00",
+          "percent": 4
+        },
+        {
+          "hour": "13:00",
+          "percent": 8
+        },
+        {
+          "hour": "14:00",
+          "percent": 13
+        },
+        {
+          "hour": "15:00",
+          "percent": 19
+        },
+        {
+          "hour": "16:00",
+          "percent": 25
+        },
+        {
+          "hour": "17:00",
+          "percent": 33
+        },
+        {
+          "hour": "18:00",
+          "percent": 42
+        },
+        {
+          "hour": "19:00",
+          "percent": 50
+        },
+        {
+          "hour": "20:00",
+          "percent": 56
+        },
+        {
+          "hour": "21:00",
+          "percent": 57
+        },
+        {
+          "hour": "22:00",
+          "percent": 53
+        },
+        {
+          "hour": "23:00",
+          "percent": 43
+        },
+        {
+          "hour": "00:00",
+          "percent": 31
+        },
+        {
+          "hour": "01:00",
+          "percent": 18
+        },
+        {
+          "hour": "02:00",
+          "percent": 8
+        },
+        {
+          "hour": "03:00",
+          "percent": 1
+        }
+      ]
+    }
+  ],
+  "relatedSearches": [
+    "arraial d'ajuda tur",
+    "centro de arraial d'ajuda",
+    "arraial d'ajuda porto seguro",
+    "barracas de praia em arraial d'ajuda",
+    "artesanato em arraial d'ajuda",
+    "roupas para usar em arraial d'ajuda",
+    "o que fazer em arraial d'ajuda",
+    "famosos em arraial d'ajuda"
+  ],
+  "relateds": [
+    {
+      "mainName": "Praia da Lagoa Azul",
+      "url": null
+    },
+    {
+      "mainName": "Escadaria de Arraial D'Ajuda",
+      "url": null
+    },
+    {
+      "mainName": "Praia do Apaga Fogo",
+      "url": null
+    },
+    {
+      "mainName": "Parracho",
+      "url": null
+    },
+    {
+      "mainName": "Arraial d’Ajuda Eco Parque",
+      "url": null
+    },
+    {
+      "mainName": "Igreja Matriz Nossa Senhora D'Ajuda",
+      "url": null
+    },
+    {
+      "mainName": "Praia de Araçaípe",
+      "url": null
+    },
+    {
+      "mainName": "Quadri Adventure",
+      "url": null
+    },
+    {
+      "mainName": "Praia do Parracho",
+      "url": null
+    },
+    {
+      "mainName": "Praia dos Pescadores",
+      "url": null
+    },
+    {
+      "mainName": "Taipe",
+      "url": null
+    },
+    {
+      "mainName": "Praia do Mucugê",
+      "url": null
+    },
+    {
+      "mainName": "Pitinga",
+      "url": null
+    },
+    {
+      "mainName": "Mucuge",
+      "url": null
+    },
+    {
+      "mainName": "Rio da Barra",
+      "url": null
+    },
+    {
+      "mainName": "Mirante de Arraial D'Ajuda",
+      "url": null
+    },
+    {
+      "mainName": "Praia de Taípe",
+      "url": null
+    },
+    {
+      "mainName": "Ruínas da Igreja do Outeiro da Glória",
+      "url": null
+    },
+    {
+      "mainName": "Centro Histórico do Arraial d'Ajuda",
+      "url": null
+    },
+    {
+      "mainName": "Ponta do Apaga Fogo",
+      "url": null
+    },
+    {
+      "mainName": "Eudes Táxi Arraial d'Ajuda",
+      "url": null
+    },
+    {
+      "mainName": "Mirante das Fitinhas",
+      "url": null
+    },
+    {
+      "mainName": "Cidade Histórica Porto Seguro",
+      "url": null
+    },
+    {
+      "mainName": "Museu de Porto Seguro",
+      "url": null
+    }
+  ]
+}

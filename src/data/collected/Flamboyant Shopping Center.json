@@ -1,0 +1,583 @@
+{
+  "mainName": "Flamboyant Shopping Center",
+  "slug": "flamboyant-shopping-center",
+  "category": "Shopping center",
+  "locationInformation": {
+    "latitude": "-16.7103588",
+    "longitude": "-49.2369082"
+  },
+  "basicInformation": [
+    {
+      "label": "endereço",
+      "tooltip": "Copiar endereço",
+      "text": "Av. Dep. Jamel Cecílio, 3300 - Jardim Goiás, Goiânia - GO, 74085-580",
+      "icon": "https://www.gstatic.com/images/icons/material/system_gm/1x/place_gm_blue_24dp.png"
+    },
+    {
+      "label": "website",
+      "tooltip": "Abrir website",
+      "text": "flamboyant.com.br",
+      "icon": "https://www.gstatic.com/images/icons/material/system_gm/1x/public_gm_blue_24dp.png"
+    },
+    {
+      "label": "telefone",
+      "tooltip": "Copiar número de telefone",
+      "text": "(62) 3546-2000",
+      "icon": "https://www.gstatic.com/images/icons/material/system_gm/1x/phone_gm_blue_24dp.png"
+    },
+    {
+      "label": "Code",
+      "tooltip": "Copiar Plus Code",
+      "text": "7QQ7+V6 Jardim Goiás, Goiânia - GO",
+      "icon": "https://maps.gstatic.com/mapfiles/maps_lite/images/2x/ic_plus_code.png"
+    }
+  ],
+  "ratingInformation": {
+    "basicRatingInformation": {
+      "averageGrade": 4.6,
+      "totalOfEvaluations": 59200
+    },
+    "ratingsByGrade": [
+      {
+        "grade": 5,
+        "totalRatings": 44515
+      },
+      {
+        "grade": 4,
+        "totalRatings": 10262
+      },
+      {
+        "grade": 3,
+        "totalRatings": 2756
+      },
+      {
+        "grade": 2,
+        "totalRatings": 652
+      },
+      {
+        "grade": 1,
+        "totalRatings": 1015
+      }
+    ]
+  },
+  "ratingTags": [
+    {
+      "tag": "grande",
+      "count": 5,
+      "tooltip": "grande, mencionado em 5 avaliações"
+    },
+    {
+      "tag": "cinema",
+      "count": 336,
+      "tooltip": "cinema, mencionado em 336 avaliações"
+    },
+    {
+      "tag": "lazer",
+      "count": 315,
+      "tooltip": "lazer, mencionado em 315 avaliações"
+    },
+    {
+      "tag": "diversão",
+      "count": 266,
+      "tooltip": "diversão, mencionado em 266 avaliações"
+    },
+    {
+      "tag": "gastronomia",
+      "count": 193,
+      "tooltip": "gastronomia, mencionado em 193 avaliações"
+    },
+    {
+      "tag": "estado",
+      "count": 110,
+      "tooltip": "estado, mencionado em 110 avaliações"
+    },
+    {
+      "tag": "vitrine",
+      "count": 84,
+      "tooltip": "vitrine, mencionado em 84 avaliações"
+    },
+    {
+      "tag": "capital",
+      "count": 71,
+      "tooltip": "capital, mencionado em 71 avaliações"
+    },
+    {
+      "tag": "agora",
+      "count": 47,
+      "tooltip": "agora, mencionado em 47 avaliações"
+    },
+    {
+      "tag": "caras",
+      "count": 35,
+      "tooltip": "caras, mencionado em 35 avaliações"
+    }
+  ],
+  "featuredPhotos": null,
+  "topComments": null,
+  "peakHours": [
+    {
+      "Sunday": [
+        {
+          "hour": "12:00",
+          "percent": 41
+        },
+        {
+          "hour": "13:00",
+          "percent": 65
+        },
+        {
+          "hour": "14:00",
+          "percent": 83
+        },
+        {
+          "hour": "15:00",
+          "percent": 90
+        },
+        {
+          "hour": "16:00",
+          "percent": 87
+        },
+        {
+          "hour": "17:00",
+          "percent": 83
+        },
+        {
+          "hour": "18:00",
+          "percent": 81
+        },
+        {
+          "hour": "19:00",
+          "percent": 74
+        },
+        {
+          "hour": "20:00",
+          "percent": 58
+        },
+        {
+          "hour": "21:00",
+          "percent": 36
+        }
+      ]
+    },
+    {
+      "Monday": [
+        {
+          "hour": "10:00",
+          "percent": 29
+        },
+        {
+          "hour": "11:00",
+          "percent": 41
+        },
+        {
+          "hour": "12:00",
+          "percent": 52
+        },
+        {
+          "hour": "13:00",
+          "percent": 60
+        },
+        {
+          "hour": "14:00",
+          "percent": 63
+        },
+        {
+          "hour": "15:00",
+          "percent": 62
+        },
+        {
+          "hour": "16:00",
+          "percent": 61
+        },
+        {
+          "hour": "17:00",
+          "percent": 60
+        },
+        {
+          "hour": "18:00",
+          "percent": 59
+        },
+        {
+          "hour": "19:00",
+          "percent": 57
+        },
+        {
+          "hour": "20:00",
+          "percent": 51
+        },
+        {
+          "hour": "21:00",
+          "percent": 39
+        }
+      ]
+    },
+    {
+      "Tuesday": [
+        {
+          "hour": "10:00",
+          "percent": 32
+        },
+        {
+          "hour": "11:00",
+          "percent": 44
+        },
+        {
+          "hour": "12:00",
+          "percent": 55
+        },
+        {
+          "hour": "13:00",
+          "percent": 63
+        },
+        {
+          "hour": "14:00",
+          "percent": 66
+        },
+        {
+          "hour": "15:00",
+          "percent": 65
+        },
+        {
+          "hour": "16:00",
+          "percent": 63
+        },
+        {
+          "hour": "17:00",
+          "percent": 62
+        },
+        {
+          "hour": "18:00",
+          "percent": 64
+        },
+        {
+          "hour": "19:00",
+          "percent": 66
+        },
+        {
+          "hour": "20:00",
+          "percent": 62
+        },
+        {
+          "hour": "21:00",
+          "percent": 49
+        }
+      ]
+    },
+    {
+      "Wednesday": [
+        {
+          "hour": "10:00",
+          "percent": 34
+        },
+        {
+          "hour": "11:00",
+          "percent": 46
+        },
+        {
+          "hour": "12:00",
+          "percent": 58
+        },
+        {
+          "hour": "13:00",
+          "percent": 67
+        },
+        {
+          "hour": "14:00",
+          "percent": 72
+        },
+        {
+          "hour": "15:00",
+          "percent": 71
+        },
+        {
+          "hour": "16:00",
+          "percent": 68
+        },
+        {
+          "hour": "17:00",
+          "percent": 65
+        },
+        {
+          "hour": "18:00",
+          "percent": 65
+        },
+        {
+          "hour": "19:00",
+          "percent": 65
+        },
+        {
+          "hour": "20:00",
+          "percent": 62
+        },
+        {
+          "hour": "21:00",
+          "percent": 51
+        }
+      ]
+    },
+    {
+      "Thursday": [
+        {
+          "hour": "10:00",
+          "percent": 32
+        },
+        {
+          "hour": "11:00",
+          "percent": 46
+        },
+        {
+          "hour": "12:00",
+          "percent": 61
+        },
+        {
+          "hour": "13:00",
+          "percent": 73
+        },
+        {
+          "hour": "14:00",
+          "percent": 78
+        },
+        {
+          "hour": "15:00",
+          "percent": 77
+        },
+        {
+          "hour": "16:00",
+          "percent": 74
+        },
+        {
+          "hour": "17:00",
+          "percent": 73
+        },
+        {
+          "hour": "18:00",
+          "percent": 76
+        },
+        {
+          "hour": "19:00",
+          "percent": 77
+        },
+        {
+          "hour": "20:00",
+          "percent": 70
+        },
+        {
+          "hour": "21:00",
+          "percent": 55
+        }
+      ]
+    },
+    {
+      "Friday": [
+        {
+          "hour": "10:00",
+          "percent": 32
+        },
+        {
+          "hour": "11:00",
+          "percent": 47
+        },
+        {
+          "hour": "12:00",
+          "percent": 63
+        },
+        {
+          "hour": "13:00",
+          "percent": 76
+        },
+        {
+          "hour": "14:00",
+          "percent": 81
+        },
+        {
+          "hour": "15:00",
+          "percent": 79
+        },
+        {
+          "hour": "16:00",
+          "percent": 75
+        },
+        {
+          "hour": "17:00",
+          "percent": 73
+        },
+        {
+          "hour": "18:00",
+          "percent": 75
+        },
+        {
+          "hour": "19:00",
+          "percent": 77
+        },
+        {
+          "hour": "20:00",
+          "percent": 72
+        },
+        {
+          "hour": "21:00",
+          "percent": 59
+        }
+      ]
+    },
+    {
+      "Saturday": [
+        {
+          "hour": "10:00",
+          "percent": 34
+        },
+        {
+          "hour": "11:00",
+          "percent": 52
+        },
+        {
+          "hour": "12:00",
+          "percent": 73
+        },
+        {
+          "hour": "13:00",
+          "percent": 89
+        },
+        {
+          "hour": "14:00",
+          "percent": 98
+        },
+        {
+          "hour": "15:00",
+          "percent": 100
+        },
+        {
+          "hour": "16:00",
+          "percent": 97
+        },
+        {
+          "hour": "17:00",
+          "percent": 96
+        },
+        {
+          "hour": "18:00",
+          "percent": 98
+        },
+        {
+          "hour": "19:00",
+          "percent": 98
+        },
+        {
+          "hour": "20:00",
+          "percent": 89
+        },
+        {
+          "hour": "21:00",
+          "percent": 70
+        }
+      ]
+    }
+  ],
+  "relatedSearches": [
+    "flamboyant shopping lojas",
+    "flamboyant cinema",
+    "flamboyant shopping horário de funcionamento",
+    "flamboyant goiânia",
+    "flamboyant in concert",
+    "goiânia shopping",
+    "shopping flamboyant atrações",
+    "flamboyant telefone"
+  ],
+  "relateds": [
+    {
+      "mainName": "Passeio das Águas Shopping",
+      "url": null
+    },
+    {
+      "mainName": "Parque Flamboyant",
+      "url": null
+    },
+    {
+      "mainName": "Araguaia Shopping",
+      "url": null
+    },
+    {
+      "mainName": "Parque Vaca Brava",
+      "url": null
+    },
+    {
+      "mainName": "Diamond Mall",
+      "url": null
+    },
+    {
+      "mainName": "Midway Mall",
+      "url": null
+    },
+    {
+      "mainName": "BH Shopping",
+      "url": null
+    },
+    {
+      "mainName": "Manaira Shopping",
+      "url": null
+    },
+    {
+      "mainName": "Shopping Center Norte",
+      "url": null
+    },
+    {
+      "mainName": "Iguatemi Porto Alegre",
+      "url": null
+    },
+    {
+      "mainName": "Morumbi Shopping",
+      "url": null
+    },
+    {
+      "mainName": "Parque Areião",
+      "url": null
+    },
+    {
+      "mainName": "Shopping Estação",
+      "url": null
+    },
+    {
+      "mainName": "Natal Shopping",
+      "url": null
+    },
+    {
+      "mainName": "Minas Shopping",
+      "url": null
+    },
+    {
+      "mainName": "Shopping Center 3",
+      "url": null
+    },
+    {
+      "mainName": "Shopping Iguatemi Campinas",
+      "url": null
+    },
+    {
+      "mainName": "ParkShopping Brasília",
+      "url": null
+    },
+    {
+      "mainName": "Botafogo Praia Shopping",
+      "url": null
+    },
+    {
+      "mainName": "Porto Velho Shopping",
+      "url": null
+    },
+    {
+      "mainName": "Shopping Rio Sul",
+      "url": null
+    },
+    {
+      "mainName": "Shopping Plaza Niterói",
+      "url": null
+    },
+    {
+      "mainName": "Barra Shopping",
+      "url": null
+    },
+    {
+      "mainName": "Shopping Bela Vista",
+      "url": null
+    }
+  ]
+}

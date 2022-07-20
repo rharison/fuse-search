@@ -1,0 +1,720 @@
+{
+  "mainName": "Shopping West Plaza",
+  "slug": "shopping-west-plaza",
+  "category": "Shopping center",
+  "locationInformation": {
+    "latitude": "-23.5271065",
+    "longitude": "-46.6744199"
+  },
+  "basicInformation": [
+    {
+      "label": "endereço",
+      "tooltip": "Copiar endereço",
+      "text": "Av. Francisco Matarazzo, s/n - Água Branca, São Paulo - SP, 05003-020",
+      "icon": "https://www.gstatic.com/images/icons/material/system_gm/1x/place_gm_blue_24dp.png"
+    },
+    {
+      "label": "website",
+      "tooltip": "Abrir website",
+      "text": "westplaza.com.br",
+      "icon": "https://www.gstatic.com/images/icons/material/system_gm/1x/public_gm_blue_24dp.png"
+    },
+    {
+      "label": "telefone",
+      "tooltip": "Copiar número de telefone",
+      "text": "(11) 3677-4000",
+      "icon": "https://www.gstatic.com/images/icons/material/system_gm/1x/phone_gm_blue_24dp.png"
+    },
+    {
+      "label": "Code",
+      "tooltip": "Copiar Plus Code",
+      "text": "F8FG+56 São Paulo, SP",
+      "icon": "https://maps.gstatic.com/mapfiles/maps_lite/images/2x/ic_plus_code.png"
+    }
+  ],
+  "ratingInformation": {
+    "basicRatingInformation": {
+      "averageGrade": 4.3,
+      "totalOfEvaluations": 47625
+    },
+    "ratingsByGrade": [
+      {
+        "grade": 5,
+        "totalRatings": 26304
+      },
+      {
+        "grade": 4,
+        "totalRatings": 13516
+      },
+      {
+        "grade": 3,
+        "totalRatings": 5939
+      },
+      {
+        "grade": 2,
+        "totalRatings": 1113
+      },
+      {
+        "grade": 1,
+        "totalRatings": 753
+      }
+    ]
+  },
+  "ratingTags": [
+    {
+      "tag": "grandes",
+      "count": 4,
+      "tooltip": "grandes, mencionado em 4 avaliações"
+    },
+    {
+      "tag": "cinema",
+      "count": 666,
+      "tooltip": "cinema, mencionado em 666 avaliações"
+    },
+    {
+      "tag": "passeio",
+      "count": 175,
+      "tooltip": "passeio, mencionado em 175 avaliações"
+    },
+    {
+      "tag": "agora",
+      "count": 131,
+      "tooltip": "agora, mencionado em 131 avaliações"
+    },
+    {
+      "tag": "shopping bourbon",
+      "count": 74,
+      "tooltip": "shopping bourbon, mencionado em 74 avaliações"
+    },
+    {
+      "tag": "palmeiras",
+      "count": 62,
+      "tooltip": "palmeiras, mencionado em 62 avaliações"
+    },
+    {
+      "tag": "passaporte",
+      "count": 59,
+      "tooltip": "passaporte, mencionado em 59 avaliações"
+    },
+    {
+      "tag": "bloco",
+      "count": 54,
+      "tooltip": "bloco, mencionado em 54 avaliações"
+    },
+    {
+      "tag": "boulevard",
+      "count": 42,
+      "tooltip": "boulevard, mencionado em 42 avaliações"
+    },
+    {
+      "tag": "hospital cema",
+      "count": 10,
+      "tooltip": "hospital cema, mencionado em 10 avaliações"
+    }
+  ],
+  "featuredPhotos": [
+    "https://lh5.googleusercontent.com/p/AF1QipMBn5mfPglUuyullmSp2s57yYr3LOA8mRI8Lkq6=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMWrxO7RNv8q9410utft81MOMjFPC8PdaOipSJ_=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOwOcPiiPbODK1Z5tMggKrBtA3bYjUtEpUXeGam=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNb28AHXGZuHmEhRJ544gYxPT--kpkCiAZTRryo=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipO45_BuMvSu13o_QEilWIMsNUqQqsGc9gLCtIh-=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOGzRq1R4G3y1gbv48QFRtAXh65IxtQW0pxS5Fo=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipN-ZVwlP1q_o5ixzrfdBGeo5biBI4jQ0rRYTVyg=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMnr1JVX9LkcZVEOPkjKZNpFzgYGD0fvda_3EEe=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNNdpiYRGEl5L7UCNyL5F9Z3zqfIC9iS6qCOGyE=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPzAqcC_I8nXhJxxK7hpG5UZmTxOXw8mOpJTHfX=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNqKg79RU0S7_sgDEh-tvn4vRotBi4aAaBSMf1d=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNh5RrkaxTi95y1EQF5TfoGC4ALpaTHjD_Vehsk=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipONVUJtgmjSUeulVDcWh4T62dAbeglwb3ZYDCZY=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMKfnQkB7R76_XJSoAiV2xYBVejfAHlrClaXSub=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPlGmJ5s5OY1iO5gOSuwBqE2ikn5MZeuBiWmfxA=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPvQAszzbWihvVhf2d0xrcTb9a-m-5drSQ-Dq-p=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMDyMzRUhRRXN5oCUrQwNRGJUAErLX0S32qFyMn=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPpgFgjqKStjJMz-HfEWILS7JjXG6hjEcD7DiXs=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMJZ9dfD7pi52lCo2KIjjKsWeRTpdI2qI986Txh=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMmp-AvNQzm1uj05tot5VUEAkYlDz9_6pd_nUJz=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNRUTyUW7mpJnqPQVE0jiNCtsKKdIfPMMG5mEqQ=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNHxsGBBWwZqj7bJM6XS3-BsGl-9E_Rsgbg6iJo=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMZmyXbMsTspJFg9UR05ppl9Emydzd1HEVxrh7V=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipM9nZuYmaUpngTfclKkNBxfA_1tsjnQa9q__blw=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOD3xCrFP07nDuFSuZ7H-uvf3JSb-mbZ5bMOY2-=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNQp0z9zNiSbQ68jOYC6sWgCRbDCXHsPaZHB41E=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOJ78FwrLQ9Sfo-3gXTXD3JFO8hDuO5CVlWQKJo=w1024-h576-k-no"
+  ],
+  "topComments": [
+    {
+      "author": "Williams Oliveira",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZuco5CT3YfLxOWxk3SqVl7Et2eolgKH4xyhdoVdIKmwE=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "Um dos shoppings mais antigos da Zona Oeste, tem lojas bem precisas e uma praça de alimentação completa. O cinema melhorou muito depois que virou Cinemark. Banheiros limpos, localização boa. O boulevard é uma ótima atração do shopping, conta hoje com algumas atrações como exposições de natal e de dinossauros.",
+      "gradeComment": 4
+    },
+    {
+      "author": "Octavio Guerreiro",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucr6spW-vXamsIJo23RqIxDGKEs3a1_LskXC0yQbKA=w36-h36-p-c0x00000000-rp-mo-ba5-br100",
+      "comment": "Estacionamento caro. De resto, shopping com boas lojas, alguns restaurantes muito gostos. Fica bem próximo à estação da barra funda e também do WTorre Arena. Shopping mais próximo caso não encontre o que está procurando, tem o Bourbon.",
+      "gradeComment": 4
+    },
+    {
+      "author": "Henrique Rodrigues",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucq2NQ7H9HVlm3U4SIfM2a-lZnj4SGgP6yjCF40gqrs=w36-h36-p-c0x00000000-rp-mo-ba6-br100",
+      "comment": "Um bom shopping, dá pra andar bastante pelos três pisos, tem uma grande variedade de lojas, além de ser extremamente bem localizado.",
+      "gradeComment": 4
+    },
+    {
+      "author": "Guilherme Thomaz",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucrCfnYJslClklMGpLAXMHj56OqBeInY-4tDMUqBHQ=w36-h36-p-c0x00000000-rp-mo-ba3-br100",
+      "comment": "O shopping em si é ótimo em todos os aspectos. Hoje em especial queria parabenizar o West Plaza pelo bicicletário, pois o shopping está muito a frente de muitos lugares que ainda não abriram a mente para o quesito mobilidade. Sempre fui de carro e moto para o shopping, mas hoje resolvi ir de bike e fiquei surpreendido pelo capricho no bicicletário, realmente estão de parabéns!",
+      "gradeComment": 5
+    },
+    {
+      "author": "Arthur Amaral Solero",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucq__ts6GIWcKiyApEA8RfWcSaUcIS77tf80-A5yjg=w36-h36-p-c0x00000000-rp-mo-ba2-br100",
+      "comment": "Ótima opção de shopping na região, possui uma variedade de lojas e academia, mas seu maior diferencial é a estrutura com três blocos separados e uma área externa agradável entre eles.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Paulo H",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucoGCkM0JEVC9wUBlHYTmiSWXCQpXFDHSDNiQCBhFQ=w36-h36-p-c0x00000000-rp-mo-ba3-br100",
+      "comment": "Shopping enorme com ampla diversidade de lojas e ambientes. Praça de alimentação é caótica e oferece diversidade de marcas, além de vários pontos de alimentação espalhados pelos pavimentos. Sanitários e dependências são limpos e bem sinalizados.Estacionamento é fácil dependendo do horário. No dia que estivemos, havia exposição dos dragões que foi bem interessante.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Tristana Tomatis",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZuco9pjV0VWnLsesqiWm_mAgZAbfK9SosYcDUac5btGo=w36-h36-p-c0x00000000-rp-mo-ba3-br100",
+      "comment": "Este Shopping já é uma extensão da nossa casa. Desde Julho minha filha tem se apresentado no Teatro. Pra nós é um Shopping gostoso de andar, de fácil acesso. Com acessibilidade e de muitas atividades para lazer",
+      "gradeComment": 5
+    },
+    {
+      "author": "Tarsis Pereira Bispo",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucpwSWUKjWh4tIbNtoPd5JlON8FrKZWxGZRdQGdRLZE=w36-h36-p-c0x00000000-rp-mo-ba5-br100",
+      "comment": "Exposição neste mês de Outubro / 2021 dragões. As crianças anátema exposição e realmente estava cheia de visitantes. Só não aproveitamos melhor devido à chuva neste dia, mas o shopping estava muito bom. Almoçamos no Johnny Rockets , comida boa e ótimo atendimento, vale a pena a visita.",
+      "gradeComment": 4
+    },
+    {
+      "author": "Luiz Barros",
+      "photoAuthor": "https://lh3.googleusercontent.com/a/AItbvmlRd8VCqKsL1AMY88kKFJaL4Jj8gDF8pgAKiWjR=w36-h36-p-c0x00000000-rp-mo-ba5-br100",
+      "comment": "Surgiu depois do antigo shopping Matarazzo que era mais um supermercado com algumas lojas , foi na década de 90 um dos mais importantes da cidade. É mais popular , com mais opções de lojas , do que o Shopping Bourbon , mais sofisticado. Passou por reforma e revitalização e está bonito , com sua forma original com ruas que ligam os blocos.",
+      "gradeComment": 4
+    },
+    {
+      "author": "Adiel Tamarindo",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucpeiVk_PZbGokWcF1fYmVKWuvZNYSyZ83dYjlgHjgw=w36-h36-p-c0x00000000-rp-mo-ba6-br100",
+      "comment": "Shopping mudou muito, está valendo a pena levar seus filhos, esposa, namorada, os pais os avós... ( Teatro, Cinema, Play groud, praça de alimentação). Tudo diferente e organizado. Estacionamento tranquilo e se tiver sorte, pode conseguir uma vaga sem pagar ao redor do Shopping.  O Shopping tá Show...",
+      "gradeComment": 5
+    },
+    {
+      "author": "Joy Norte",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZuco_nvsAilY9Q6NVwI9t2M7BuqtNfhrGonK9TN_ZWw=w36-h36-p-c0x00000000-rp-mo-ba3-br100",
+      "comment": "Shopping com muita variedade e muitas lojas ótimas! Praça de alimentação com todo tipo de restaurante e teatro e cinema e área de jogos também, é bem grande e fácil de se perder nos blocos, tive que pedir ajuda umas 2 vezes para chegar a locais, várias placas e muitos blocos que confundem. Porém é maravilhoso!",
+      "gradeComment": 5
+    },
+    {
+      "author": "Clecio Oliveira Brito",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucrsGCRW31o1GyPnXF48Bq0H30Y7k3YCTEJep-dgn2Y=w36-h36-p-c0x00000000-rp-mo-ba5-br100",
+      "comment": "Eu até gosto de frequentar, mais de todos os shoppings que frequentamos em SP, Interlagos estacionamento gratuito, praza Sul preço fixo R$10,00 Ibirapuera preço fixo, já west plaza è uma total falta de respeito, começa com R$ 15,00 e vai subindo conforme passam as horas, como qualquer shopping fizemos muitas compras, assistimos a um filme no cinema, fomos ver os enfeites, e após um dia que parecia agradável, a terrível surpresa na hora de pagar estacionamento, recomendamos compras natalinas onde vocês são respeitados como clientes, e ainda por cima pegamos uma fila terrível para pagar pois teve jogo do Palmeiras, e vários torcedores estacionaram no shopping para irem ao estádio, e pagaram menos que nos que consumimos lá",
+      "gradeComment": 1
+    },
+    {
+      "author": "Fernanda Gazzotto",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucpUq7In-B-Ppt7Y2JU2D8ynHNwhPs8IJikUGBQcnw=w36-h36-p-c0x00000000-rp-mo-ba5-br100",
+      "comment": "Shopping calmo e ótimo para marcar uma reunião, almoçar… Achei bonito e organizado, já está decorado para o Natal (não consegui fazer mais registros).",
+      "gradeComment": 5
+    },
+    {
+      "author": "Sylvio Garcia Jr",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucoAz9BxIuwnZLhToEEJVQmoAm5rxETrgHqZzgvpovA=w36-h36-p-c0x00000000-rp-mo-ba5-br100",
+      "comment": "Shopping legal. Museu da Selfie foi de mais..",
+      "gradeComment": 4
+    },
+    {
+      "author": "yasmim gabrielle",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucq-UJPRJyhDlNXeupDvcogCkHnc3a96hSu4J4iTVL4=w36-h36-p-c0x00000000-rp-mo-ba2-br100",
+      "comment": "Shopping muito interessante, tem várias lojas legais, praça de alimentação bem completa e arquitetura linda",
+      "gradeComment": 5
+    },
+    {
+      "author": "Ana Meiry",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucr38FjRRHgyQ7oyQNOP520nfDbhohiztN9hpkDm31g=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "A divisão do shopping é muito ruim. Deixa tudo muito confuso, bagunçado, cansativo e dificulta a localização das lojas. Faltam muitas lojas. Você não encontra nada além do básico. Sobre o acesso, mesmo com o shopping já aberto e tendo hora marcada, te proíbem de entrar antes das 10h. Você fica do lado de fora, faça chuva ou faça sol, esperando até que o segurança deixe de barrar a sua entrada. Tem 2 pontos positivos: o jardim é agradável, desde de que não esteja chovendo, e um bom boliche. É um shopping bastante mediano, que, na minha opinião, é útil para serviços, mas muito ruim em infraestrutura e para compras.",
+      "gradeComment": 3
+    },
+    {
+      "author": "Agilize_sah",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucpsEdoRCzCcLn2VCZSFIIa3WbICNWfefrpNikodvEs=w36-h36-p-c0x00000000-rp-mo-ba6-br100",
+      "comment": "Museu da Selfie Somente 1 hora de visitação e fotos e poucos ambientes se fomos avaliar o valor pago ! R$50 individual R$25 meia",
+      "gradeComment": 4
+    },
+    {
+      "author": "Jorge Stark",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucpMkwp3YiAXHFcjR9tlBuiUIU_tp98GLWIDe7DBOQ=w36-h36-p-c0x00000000-rp-mo-ba6-br100",
+      "comment": "Quando foi inaugurado, tinha um perfil interessante - tanto que ganhou o apelido de \"brega&chique\", menção à diversidade dos frequentadores. Magazines e âncoras fecharam e uma decadência foi sentida com a inauguração do vizinho Bourbon. Agora vive uma nova fase, com destaque para os restaurantes e serviços. O melhor é o posto de passaporte da Polícia Federal. Com a pandemia, lojas fecharam e as que resistem parecem caprichar no atendimento e nas promoções. Seria legal ver novas lojas chegando!",
+      "gradeComment": 3
+    },
+    {
+      "author": "Karina Santos",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucoJgsmamFPw-zpVkFYalmRfwMtMaP_d9SmDvSCYXdE=w36-h36-p-c0x00000000-rp-mo-br100",
+      "comment": "Fui no boliche, achei as pistas boas mas o espaço dos jogadores pequeno e os pinos demoram pra trocar.",
+      "gradeComment": 4
+    },
+    {
+      "author": "Romilda Carvalho",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucr9gFF0jbXbdWVtc87Vo9tzKDm2kjF-ToWgItl5hw=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "O shopping è nitidamente um lugar para classe mèdia alta. Ja tinha esta impressao que sò piorou quando tentei tomar um cafè no espaço da kopenhagen la dentro. Me sentei e esperei uns 5 minutos ser atendida e nada. Atè que veio uma funcionaria com um pano e um alcool limpou todas as mesas em volta. Olhou pra minha mesa com meu filho e saiu sem falar nada! Fiquei na duvida se eu deveria ter ido atè o balcao pra falar com ela e pedir o cafè. Porêm o espaço è para isso mesmo atè onde entendi! Sentar tomar um cafè desgustar um doce da marca talvez enfim. Percebi um certo descaso dela em atender! Nao sei se era pela nossa aparência que era simples, tipo dia a dia mesmo sabe!? . Mais me senti muito desreipeitada. Prefiri ir embora com meu filho. E so disse à ele que nao queria mais o cafè!",
+      "gradeComment": 4
+    }
+  ],
+  "peakHours": [
+    {
+      "Sunday": [
+        {
+          "hour": "14:00",
+          "percent": 74
+        },
+        {
+          "hour": "15:00",
+          "percent": 86
+        },
+        {
+          "hour": "16:00",
+          "percent": 88
+        },
+        {
+          "hour": "17:00",
+          "percent": 87
+        },
+        {
+          "hour": "18:00",
+          "percent": 82
+        },
+        {
+          "hour": "19:00",
+          "percent": 69
+        },
+        {
+          "hour": "20:00",
+          "percent": 49
+        },
+        {
+          "hour": "21:00",
+          "percent": 28
+        }
+      ]
+    },
+    {
+      "Monday": [
+        {
+          "hour": "10:00",
+          "percent": 30
+        },
+        {
+          "hour": "11:00",
+          "percent": 43
+        },
+        {
+          "hour": "12:00",
+          "percent": 54
+        },
+        {
+          "hour": "13:00",
+          "percent": 61
+        },
+        {
+          "hour": "14:00",
+          "percent": 63
+        },
+        {
+          "hour": "15:00",
+          "percent": 60
+        },
+        {
+          "hour": "16:00",
+          "percent": 56
+        },
+        {
+          "hour": "17:00",
+          "percent": 52
+        },
+        {
+          "hour": "18:00",
+          "percent": 51
+        },
+        {
+          "hour": "19:00",
+          "percent": 48
+        },
+        {
+          "hour": "20:00",
+          "percent": 41
+        },
+        {
+          "hour": "21:00",
+          "percent": 29
+        }
+      ]
+    },
+    {
+      "Tuesday": [
+        {
+          "hour": "10:00",
+          "percent": 31
+        },
+        {
+          "hour": "11:00",
+          "percent": 47
+        },
+        {
+          "hour": "12:00",
+          "percent": 61
+        },
+        {
+          "hour": "13:00",
+          "percent": 68
+        },
+        {
+          "hour": "14:00",
+          "percent": 66
+        },
+        {
+          "hour": "16:00",
+          "percent": 55
+        },
+        {
+          "hour": "17:00",
+          "percent": 55
+        },
+        {
+          "hour": "18:00",
+          "percent": 57
+        },
+        {
+          "hour": "19:00",
+          "percent": 54
+        },
+        {
+          "hour": "20:00",
+          "percent": 45
+        },
+        {
+          "hour": "21:00",
+          "percent": 33
+        }
+      ]
+    },
+    {
+      "Wednesday": [
+        {
+          "hour": "10:00",
+          "percent": 32
+        },
+        {
+          "hour": "11:00",
+          "percent": 44
+        },
+        {
+          "hour": "12:00",
+          "percent": 56
+        },
+        {
+          "hour": "13:00",
+          "percent": 64
+        },
+        {
+          "hour": "14:00",
+          "percent": 67
+        },
+        {
+          "hour": "15:00",
+          "percent": 65
+        },
+        {
+          "hour": "16:00",
+          "percent": 61
+        },
+        {
+          "hour": "17:00",
+          "percent": 58
+        },
+        {
+          "hour": "18:00",
+          "percent": 59
+        },
+        {
+          "hour": "19:00",
+          "percent": 60
+        },
+        {
+          "hour": "20:00",
+          "percent": 55
+        },
+        {
+          "hour": "21:00",
+          "percent": 41
+        }
+      ]
+    },
+    {
+      "Thursday": [
+        {
+          "hour": "10:00",
+          "percent": 30
+        },
+        {
+          "hour": "11:00",
+          "percent": 44
+        },
+        {
+          "hour": "12:00",
+          "percent": 59
+        },
+        {
+          "hour": "13:00",
+          "percent": 70
+        },
+        {
+          "hour": "14:00",
+          "percent": 75
+        },
+        {
+          "hour": "15:00",
+          "percent": 74
+        },
+        {
+          "hour": "16:00",
+          "percent": 70
+        },
+        {
+          "hour": "17:00",
+          "percent": 68
+        },
+        {
+          "hour": "18:00",
+          "percent": 70
+        },
+        {
+          "hour": "19:00",
+          "percent": 70
+        },
+        {
+          "hour": "20:00",
+          "percent": 62
+        },
+        {
+          "hour": "21:00",
+          "percent": 46
+        }
+      ]
+    },
+    {
+      "Friday": [
+        {
+          "hour": "10:00",
+          "percent": 29
+        },
+        {
+          "hour": "11:00",
+          "percent": 43
+        },
+        {
+          "hour": "12:00",
+          "percent": 56
+        },
+        {
+          "hour": "13:00",
+          "percent": 65
+        },
+        {
+          "hour": "14:00",
+          "percent": 67
+        },
+        {
+          "hour": "15:00",
+          "percent": 65
+        },
+        {
+          "hour": "16:00",
+          "percent": 64
+        },
+        {
+          "hour": "17:00",
+          "percent": 67
+        },
+        {
+          "hour": "18:00",
+          "percent": 71
+        },
+        {
+          "hour": "19:00",
+          "percent": 71
+        },
+        {
+          "hour": "20:00",
+          "percent": 64
+        },
+        {
+          "hour": "21:00",
+          "percent": 50
+        }
+      ]
+    },
+    {
+      "Saturday": [
+        {
+          "hour": "10:00",
+          "percent": 26
+        },
+        {
+          "hour": "11:00",
+          "percent": 41
+        },
+        {
+          "hour": "12:00",
+          "percent": 59
+        },
+        {
+          "hour": "13:00",
+          "percent": 76
+        },
+        {
+          "hour": "14:00",
+          "percent": 89
+        },
+        {
+          "hour": "15:00",
+          "percent": 97
+        },
+        {
+          "hour": "16:00",
+          "percent": 99
+        },
+        {
+          "hour": "17:00",
+          "percent": 100
+        },
+        {
+          "hour": "18:00",
+          "percent": 98
+        },
+        {
+          "hour": "19:00",
+          "percent": 94
+        },
+        {
+          "hour": "20:00",
+          "percent": 82
+        },
+        {
+          "hour": "21:00",
+          "percent": 63
+        }
+      ]
+    }
+  ],
+  "relatedSearches": [
+    "shopping west plaza lojas",
+    "shopping west plaza cinema",
+    "shopping west plaza endereço",
+    "shopping west plaza cep",
+    "shopping west plaza horário de funcionamento",
+    "shopping west plaza restaurantes",
+    "shopping west plaza cinemark",
+    "shopping west plaza telefone"
+  ],
+  "relateds": [
+    {
+      "mainName": "Shopping Eldorado",
+      "url": null
+    },
+    {
+      "mainName": "Shopping Center Norte",
+      "url": null
+    },
+    {
+      "mainName": "Bourbon Shopping São Paulo",
+      "url": null
+    },
+    {
+      "mainName": "Museu da Selfie",
+      "url": null
+    },
+    {
+      "mainName": "Shopping Center 3",
+      "url": null
+    },
+    {
+      "mainName": "Allianz Parque",
+      "url": null
+    },
+    {
+      "mainName": "Morumbi Shopping",
+      "url": null
+    },
+    {
+      "mainName": "Shopping Aricanduva",
+      "url": null
+    },
+    {
+      "mainName": "Shopping Metrô Tatuapé",
+      "url": null
+    },
+    {
+      "mainName": "Shopping Penha",
+      "url": null
+    },
+    {
+      "mainName": "Sesc Pompeia",
+      "url": null
+    },
+    {
+      "mainName": "Parque da Água Branca (Parque Dr. Fernando Costa)",
+      "url": null
+    },
+    {
+      "mainName": "Grand Plaza Shopping",
+      "url": null
+    },
+    {
+      "mainName": "Shopping Center Matarazzo",
+      "url": null
+    },
+    {
+      "mainName": "Shopping Iguatemi São Paulo",
+      "url": null
+    },
+    {
+      "mainName": "Anchieta Garden Shopping",
+      "url": null
+    },
+    {
+      "mainName": "Botafogo Praia Shopping",
+      "url": null
+    },
+    {
+      "mainName": "Natal Shopping",
+      "url": null
+    },
+    {
+      "mainName": "Shopping ABC",
+      "url": null
+    },
+    {
+      "mainName": "Shopping Plaza Niterói",
+      "url": null
+    },
+    {
+      "mainName": "Porto Velho Shopping",
+      "url": null
+    },
+    {
+      "mainName": "Galleria Shopping",
+      "url": null
+    },
+    {
+      "mainName": "Minas Shopping",
+      "url": null
+    },
+    {
+      "mainName": "Diamond Mall",
+      "url": null
+    }
+  ]
+}

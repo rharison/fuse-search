@@ -1,0 +1,807 @@
+{
+  "mainName": "Ermida Dom Bosco",
+  "slug": "ermida-dom-bosco",
+  "category": "Parque ecológico",
+  "locationInformation": {
+    "latitude": "-15.7983056",
+    "longitude": "-47.8095258"
+  },
+  "basicInformation": [
+    {
+      "label": "endereço",
+      "tooltip": "Copiar endereço",
+      "text": "SEDB - Lago Sul, Brasília - DF, 70297-400",
+      "icon": "https://www.gstatic.com/images/icons/material/system_gm/1x/place_gm_blue_24dp.png"
+    },
+    {
+      "label": "website",
+      "tooltip": "Abrir website",
+      "text": "brasil.gov.br",
+      "icon": "https://www.gstatic.com/images/icons/material/system_gm/1x/public_gm_blue_24dp.png"
+    },
+    {
+      "label": "Code",
+      "tooltip": "Copiar Plus Code",
+      "text": "652R+M5 Lago Sul, Brasília - DF",
+      "icon": "https://maps.gstatic.com/mapfiles/maps_lite/images/2x/ic_plus_code.png"
+    },
+    {
+      "label": "merchant",
+      "text": "Reivindicar esta empresa",
+      "icon": "https://www.gstatic.com/images/icons/material/system_gm/1x/verified_user_gm_blue_24dp.png"
+    }
+  ],
+  "ratingInformation": {
+    "basicRatingInformation": {
+      "averageGrade": 4.7,
+      "totalOfEvaluations": 8382
+    },
+    "ratingsByGrade": [
+      {
+        "grade": 5,
+        "totalRatings": 6609
+      },
+      {
+        "grade": 4,
+        "totalRatings": 1320
+      },
+      {
+        "grade": 3,
+        "totalRatings": 336
+      },
+      {
+        "grade": 2,
+        "totalRatings": 56
+      },
+      {
+        "grade": 1,
+        "totalRatings": 61
+      }
+    ]
+  },
+  "ratingTags": [
+    {
+      "tag": "por do sol",
+      "count": 589,
+      "tooltip": "por do sol, mencionado em 589 avaliações"
+    },
+    {
+      "tag": "lago",
+      "count": 301,
+      "tooltip": "lago, mencionado em 301 avaliações"
+    },
+    {
+      "tag": "banho",
+      "count": 140,
+      "tooltip": "banho, mencionado em 140 avaliações"
+    },
+    {
+      "tag": "nadar",
+      "count": 63,
+      "tooltip": "nadar, mencionado em 63 avaliações"
+    },
+    {
+      "tag": "lanchonete",
+      "count": 47,
+      "tooltip": "lanchonete, mencionado em 47 avaliações"
+    },
+    {
+      "tag": "bebidas alcoólicas",
+      "count": 42,
+      "tooltip": "bebidas alcoólicas, mencionado em 42 avaliações"
+    },
+    {
+      "tag": "capital",
+      "count": 27,
+      "tooltip": "capital, mencionado em 27 avaliações"
+    },
+    {
+      "tag": "contemplar",
+      "count": 26,
+      "tooltip": "contemplar, mencionado em 26 avaliações"
+    },
+    {
+      "tag": "margens",
+      "count": 20,
+      "tooltip": "margens, mencionado em 20 avaliações"
+    },
+    {
+      "tag": "água de coco",
+      "count": 15,
+      "tooltip": "água de coco, mencionado em 15 avaliações"
+    }
+  ],
+  "featuredPhotos": [
+    "https://lh5.googleusercontent.com/p/AF1QipOI3hyFFi9C_dKV_yGZ7HknioU_X6pugVHviPE0=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNMZ5yBePpClQqcS4SDI01uwP0t_-9CYpbGzd0y=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPMzSKzGr05wUwGVQlbj8YmpmpWMmv-qxFqmcbj=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipND9uYX5ZMEs7xFfWzqC2_mOrBN6RIQze-j1V7z=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMbrBCy89QoMiQcZinEFaJYQWwM-F21WXECrymz=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipO--gWvZluXWXF6wd1bm_UljRwZzzgz4uRqYKMK=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipM9nV7yr0KrU4DMFvNM68GsmCTtv3CTOimkKdNz=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPgRqOeI1V7Nt35RIClxxJges_uf_1U07rbirqv=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOEPlXuD6S5MiGIEwxfEhhlVWYC0LyYD2YwKKls=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOW7ADg5FSjYv1ud9FaSBMQu81vbm1_JQTtvh-M=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOa1jc9EHSnqXRTjLlvGy72HMLnqMMjqGOzhH4I=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOCk3T0yAJnn00MA5RLI1OOfiwbQ6Y497ppohwb=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOR56uFTWHAvoKCQoBF8hPgNycK89XA57Ld9mRe=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNWpW8jP6eLhlN19TlU1Hh1VZRlV6ZmmHJmAmsq=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipM42shJ74VMsSDnpnwH0NJ-GJvUABWrPMFW1tsO=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNmLRq3KoaLp7_8lugC4S098buPu1YpwAdUZkbz=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNx-0ipbP8bSGhR8lKjkjoI_6143WLWK7rn59O_=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMs1vcxS04cxfpncd7bB0D-1A43E8--hBrRvm1x=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOlQQ0tf1sAU5oEBh0yEji-q1SvICnf-8f_tEE=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOI8-smBaiwmkr2Uzpy2XgVtxdtyJiXPSIGCkwX=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPzyC8YkcWUNSrRw1VepR2HHn0ieLoGwtxDrgIL=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMnk0b9HDrrzlg9DyPnV7PEA9aR7WWoRNea0W8F=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNMHLUu7b5YgdOjOVNNBzr2RmPWuvOqdkDsgVd1=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNp3_lyHr8CZLObOGS6kOxlb9xjl9zq0QFNRGZB=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMCfEGEc8DI_dW_Om52wyBLcE3wLKtLAITA7ntD=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNLSRd4A1HlXK9EtEwcsbo_-5JJtnDPRXspZxgE=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMVqQpoJoV2WP-QsV-MZtEFEznH4iwU3Apphwz7=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipN0w9L6JskecH17Xb8cLxuPQ2TcEwZDGa_39BEF=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMrE9ep_sAeKejirMfRukzXMWMnYDir656Rc6ad=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOx1U27950WxEn44pASxv69yF8mDTyDry9556i9=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNjAt2iCnr8nlUJrIOMn6zJEyxBXs5D7KjBeGsv=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPRn_fXQDYs1C_GjbOT1-4PxeNVty2I4cyNuwu7=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNGavyHj7yCTahZqGQU9F-bBs8c989qa-zHUekY=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMOG4-fjt7cq7FPf1_uXL33mePOU0AWFpLNyOGH=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipM4XUTIbm55cqdqyiYp0avPYBA40ySpYxyzVFAN=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNUhhrKxxTyCJCPg62Yk48mdhd0WOazAsZq_OER=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNRDtkdk4pXtDTBXzLyqPA3Nim9xvX25GB6Fhqs=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMlwy67uZmNq8wqZFf6zTNOxcsyZtg6CwerWUdF=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipM5bgVQAVWSXM0BRmKfnszW9yj_ftpWm_rKvQPC=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipP2byHwrRnfLwAlU2Md72IzYy4uzvRN5PxLnfcG=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMhcE6BkQaYjibVhKwZDeSBPooflFOTBsY1PamE=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOJH--S80CvLrFest18XEY19cCeYhhQHlo9sEvx=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipM06JDA0hFJvRNrVxSuLg0mntLbam2PrAfRh_XK=w1024-h576-k-no"
+  ],
+  "topComments": [
+    {
+      "author": "Samuel david",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZuco6F5X5Bz9N4y0IPlt8ngczdwz6FuPcfMKT9vkmww=w36-h36-p-c0x00000000-rp-mo-br100",
+      "comment": "Lugar excepcional, limpo e organizado com lixeiras espalhadas por todo o percurso de caminhada. A administração do parque está de parabéns pela competência no trabalho.  A parte superior do parque conta com uma pista para quem gosta de andar de skate ou drift track.  Ótimo pico para ver o pôr do sol da capital.  Estacionamento público, não paga pelo acesso. Não permite entrada com bebida alcoólica, som automotivo e animais.  Lanchonete na entrada, com água, água de coco, açaís e etc.  Sobre o por do sol, vá conferir e leve protetor haha.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Antônia Dani",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucr0-U40GDcYOTr64z883c382MDka3YnLWV0mhFOPSc=w36-h36-p-c0x00000000-rp-mo-ba2-br100",
+      "comment": "Point necessário para um por do sol emblemático na Capital Federal! Excelente para nadar um pouco no lago Paranoá, além de ser excepcional para ensaios fotográficos. Passeio Muito apreciado pela galera do longboard e afins (é comum ter eventos de competição desse tipo por lá). Tem lanchonete com o amado açaí, banheiro e estacionamento! Não paga pra entrar. Não pode pescar, nem levar animais. Tem um Mosteiro e um Carmelo no local Possui trilhas ecológicas relativamente leves. Sem dúvida, um local que merece ser visitado! 🌅",
+      "gradeComment": 5
+    },
+    {
+      "author": "Samir Koosah",
+      "photoAuthor": "https://lh3.googleusercontent.com/a/AItbvmn27vSeqRCauwkZHBeom2208QLZvcO6Jb1kUzk=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "Lugar icônico da cidade, parada obrigatória para turistas e moradores. Um pedaço da história da construção de Brasília, com uma linda vista da cidade. Suas ciclovias e calçadas em meio a vegetação de cerrado nativo são uma atração a parte. O local permite a prática de esportes como corrida, caminhada, natação e longboard.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Levi Francisco Parente",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucotdhAynRS5B9Q6esg9rdEzSbMLZYOeBUghFJn-=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "Um parque a beira do Lago Paranoá, possui uma pequena capela com uma imagem de Dom Bosco onde permite ter uma vista espetacular de Brasília, principalmente do pôr do sol. Possui uma pequena trilha, uma lanchonete e um pequeno pier no lago. Aos fins de semana uma equipe do Corpo de Bombeiros fica de olho nas pessoas que ficam nadando. Tem grandes áreas com grana, excelente pra sentar e conversar.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Guilherme Batista do Nascimento",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucqu7ebogVGYfO2FJQZ_sHLK0d-bpLAd3sfItYCRPtA=w36-h36-p-c0x00000000-rp-mo-ba5-br100",
+      "comment": "Parque público com estacionamento próprio e fácil acesso. Local tem uma vista para Brasília e um ótimo lugar pra ver o por do sol. Há um quiosque com água de coco e açaí. Local indicado para banho no lago Paranoá. Bom para caminhar e curtir a vista com um ar fresco.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Alcides Romão",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucorzNhdI5Vv34Atq_VWZN6iukRmg6yRGjyemdOvtuo=w36-h36-p-c0x00000000-rp-mo-ba5-br100",
+      "comment": "Local agradável, bem cuidado, com presença de polícia e bombeiro. Excelente vista. Contato com a natureza. Ótimo npara ver o por do Sol. Tem estacionamento próprio.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Leandro MDJ",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucrUyxLZB2pe0D143IHOZilZEU8y0dBSrfm43htpKKM=w36-h36-p-c0x00000000-rp-mo-ba3-br100",
+      "comment": "Um ótimo lugar para apreciar o por do sol, bom pra tomar banho em dias de muito sol, um local que não pode entrar com cachorro!! E isso bom pra passar o dia.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Rodrigo Nunes",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucq52jyHiSFhuuv3lN0iQN-QKIIOg3aV1mr6FVHC=w36-h36-p-c0x00000000-rp-mo-ba2-br100",
+      "comment": "Eu e minha esposa gostamos muito desse lugar, nascer e pôr do sol sem igual. Acredito que não tem quem vá nesses horários e não ache a paisagem estonteante. Um ótimo lugar pra tomar um café da manhã em um piquenique observado o nascer ou o pôr do sol.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Os Cobogós da Vida",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucqLpAkgPuG97uFePQqfurubTEoEPg7sUCXtpF79w28=w36-h36-p-c0x00000000-rp-mo-ba5-br100",
+      "comment": "Passeio imperdível para brasilienses e turistas. Dom Bosco teve este sonho lindo, e os políticos teimam em transforma- lo em pesadelo. No fim  de semana tem clima de \" parque mesmo\", de Lago. Leve o protetor solar em qualquer época do ano. E se hidrate : seca \"is coming\".",
+      "gradeComment": 5
+    },
+    {
+      "author": "Eduardo Fellipe",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucrF3h__f2eRL9o8lMvd1JZQdySVmS7evWT4scaOoA=w36-h36-p-c0x00000000-rp-mo-ba3-br100",
+      "comment": "O local é bem amplo e seguro. Tem uma ótima vista pro lago. Tem um pier e um pequeno circuito para pedestres e bicicletas.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Bruna Ramos Morais",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucqRVeADOekBwHPMvjT2XRBQMFBXpi4HaFjETVlLBO8=w36-h36-p-c0x00000000-rp-mo-ba5-br100",
+      "comment": "Um lugar incrível, onde você pode desfrutar de um pôr do sol maravilhoso. Pode fazer pic nic, levar comidas e bebidas. Não pode levar bebidas alcoólicas e nada que seja de vidro.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Bruna Rahal",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucq42fyBmXXsmqM40_xMvkmdX-vCDu8Sw1ssrUkk=w36-h36-p-c0x00000000-rp-mo-ba5-br100",
+      "comment": "Parque para passeios mais leves. Conta com uma linda capela e um espaço que pode ser utilizado para shows e eventos. O letreiro “eu amo Brasília” merece uma foto. A vista para o lago é deslumbrante. O espaço conta também com um quiosque que vende água, açaí etc. Cuidado ao passar perto dos quero-queros, quando estão com filhotes, acabam “avançando” na gente hahaha",
+      "gradeComment": 5
+    },
+    {
+      "author": "Bell Vogado",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucpxVR6ERJNcyEF4-pEkKGaBz4eEAww74sDxFB74coU=w36-h36-p-c0x00000000-rp-mo-ba3-br100",
+      "comment": "Lugar para passear com a família e amigos. Com um por do sol maravilhoso! Vista para o lago Paranoá. Acesso livre. Ponto turístico de Brasília. O local é muito frequentado por pessoas o dia inteiro e muito utilizado para tomar banho, fazer piquenique com família e amigos, caminhadas, encontros religiosos, meditação, olhar o pôr do sol e tirar fotos para casamento ou lindas fotos para registros importantes como fotos de gravida ou aniversário.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Hyago Santana",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucrI8Gt26bXsmT6PKoJUGhUOO_653j1M4JYUdA6Tbw=w36-h36-p-c0x00000000-rp-mo-ba3-br100",
+      "comment": "Um dos melhores lugares de Brasília para se passar uma tarde, fazer um piquenique e apreciar o por do sol. Único problema é a falta de iluminação quando escurece, pois seria um ótimo local para ficar até de noite.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Paulo",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZuco9cGMY3pgyz78wA4BJUy5L5DUBEU-t8851IrWG9z0=w36-h36-p-c0x00000000-rp-mo-ba5-br100",
+      "comment": "Ermida Dom Bosco é uma capela brasileira, situada no Lago Sul, no Distrito Federal, mais precisamente no Parque Ecológico Dom Bosco. É dedicada a Dom Bosco, padroeiro de Brasília.  O monumento foi projetado pelo arquiteto Oscar Niemeyer e inaugurado em 1957.  De fácil acesso e entrada gratuita, a Ermida é um lugar que atrai moradores e turistas por oferecer espaço para várias atividades ao ar livre.  O parque funciona das 6h às 22h e conta com ciclovia e trilhas, além de ter uma vista inigualável da capital e do lago.  Seu gramado e as árvores nativas do Cerrado são um convite para reunir os amigos no fim da tarde.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Luciano Müller Gil Cardoso",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucocBcKivxW2p8Gvt1-WXUE1ceiQPdHlg0lXZPbzzBQ=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "Lugar muito bacana para um passeio com a família. Vista privilegiada do Lago Paranoá e do Plano Piloto.",
+      "gradeComment": 5
+    },
+    {
+      "author": "S Souza",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucrvKzKY7mLqYSM2Wf1QePmh-5kUTXKinJSVlyIKKYw=w36-h36-p-c0x00000000-rp-mo-ba5-br100",
+      "comment": "O lugar é incrível de lindo. Transmite muita paz e tranquilidade. A trilha é asfaltada e simples de seguir. Tem uma ponte e a água nessa parte do lago é super limpa então dá pra tomar banho. Você pode levar seus lanches contudo o local possui uma lanchonete simples, com boas opções e que aceitam cartão. Tem também um bebedouro com água gelada disponível pra vc encher sua garrafinha e banheiros espalhados no espaço. Tem estacionamento seguro só que você precisa ficar atento ao horário, ao final do horário eles fecham o portão do estacionamento e você só consegue tirar o carro no outro dia. Vale demais a visita. Tem aquele letreiro gigante EU ❤️ BRASILIA e todo o lugar rende fotos incríveis. Se gostou da avaliação deixe seu like.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Daniel Lanelo",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucoBPNZesuglfQff1Yxw0P3RI1zDW2nfj2zCGKO7skE=w36-h36-p-c0x00000000-rp-mo-br100",
+      "comment": "Ótimo lugar pra quem está a procura de um ambiente limpo, lindo e agradável. Para um treininho, piquenique, fazer um corrida, yoga, jogar um 3 cortes, distrair, escutar músicas, tirar ótimas fotos, meditar e se refrescar, será ideal. Com uma ótima vista pra Lago.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Camili Ambrósio",
+      "photoAuthor": "https://lh3.googleusercontent.com/a/AItbvmmWlD1aALvZE8xs2u4TFNeM8Eh5O_fgibcnbBQl1A=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "Legal a história local, bem organizado e cuidado. Pode nadar na lagoa no trecho com acesso pela Ermida.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Emerson Alves",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucptZ1Q4GQzREOZIxeo01XvUdRtDkZtzTmUKkcyyMQ=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "Lugar lindo. Excelente para apreciar o por do sol. Sensacional",
+      "gradeComment": 5
+    }
+  ],
+  "peakHours": [
+    {
+      "Sunday": [
+        {
+          "hour": "08:00",
+          "percent": 20
+        },
+        {
+          "hour": "09:00",
+          "percent": 33
+        },
+        {
+          "hour": "10:00",
+          "percent": 46
+        },
+        {
+          "hour": "11:00",
+          "percent": 56
+        },
+        {
+          "hour": "12:00",
+          "percent": 58
+        },
+        {
+          "hour": "13:00",
+          "percent": 53
+        },
+        {
+          "hour": "14:00",
+          "percent": 51
+        },
+        {
+          "hour": "15:00",
+          "percent": 68
+        },
+        {
+          "hour": "16:00",
+          "percent": 100
+        },
+        {
+          "hour": "17:00",
+          "percent": 98
+        },
+        {
+          "hour": "18:00",
+          "percent": 53
+        },
+        {
+          "hour": "19:00",
+          "percent": 16
+        },
+        {
+          "hour": "20:00",
+          "percent": 3
+        },
+        {
+          "hour": "21:00",
+          "percent": 1
+        }
+      ]
+    },
+    {
+      "Monday": [
+        {
+          "hour": "08:00",
+          "percent": 3
+        },
+        {
+          "hour": "09:00",
+          "percent": 6
+        },
+        {
+          "hour": "10:00",
+          "percent": 8
+        },
+        {
+          "hour": "11:00",
+          "percent": 9
+        },
+        {
+          "hour": "12:00",
+          "percent": 9
+        },
+        {
+          "hour": "13:00",
+          "percent": 9
+        },
+        {
+          "hour": "14:00",
+          "percent": 9
+        },
+        {
+          "hour": "15:00",
+          "percent": 14
+        },
+        {
+          "hour": "16:00",
+          "percent": 22
+        },
+        {
+          "hour": "17:00",
+          "percent": 21
+        },
+        {
+          "hour": "18:00",
+          "percent": 10
+        },
+        {
+          "hour": "19:00",
+          "percent": 2
+        },
+        {
+          "hour": "20:00",
+          "percent": 1
+        },
+        {
+          "hour": "21:00",
+          "percent": 1
+        }
+      ]
+    },
+    {
+      "Tuesday": [
+        {
+          "hour": "08:00",
+          "percent": 5
+        },
+        {
+          "hour": "09:00",
+          "percent": 7
+        },
+        {
+          "hour": "10:00",
+          "percent": 8
+        },
+        {
+          "hour": "11:00",
+          "percent": 8
+        },
+        {
+          "hour": "12:00",
+          "percent": 8
+        },
+        {
+          "hour": "13:00",
+          "percent": 8
+        },
+        {
+          "hour": "14:00",
+          "percent": 11
+        },
+        {
+          "hour": "15:00",
+          "percent": 14
+        },
+        {
+          "hour": "16:00",
+          "percent": 17
+        },
+        {
+          "hour": "17:00",
+          "percent": 16
+        },
+        {
+          "hour": "18:00",
+          "percent": 11
+        },
+        {
+          "hour": "19:00",
+          "percent": 6
+        },
+        {
+          "hour": "21:00",
+          "percent": 1
+        }
+      ]
+    },
+    {
+      "Wednesday": [
+        {
+          "hour": "08:00",
+          "percent": 6
+        },
+        {
+          "hour": "09:00",
+          "percent": 9
+        },
+        {
+          "hour": "10:00",
+          "percent": 11
+        },
+        {
+          "hour": "11:00",
+          "percent": 10
+        },
+        {
+          "hour": "12:00",
+          "percent": 8
+        },
+        {
+          "hour": "13:00",
+          "percent": 6
+        },
+        {
+          "hour": "14:00",
+          "percent": 9
+        },
+        {
+          "hour": "15:00",
+          "percent": 16
+        },
+        {
+          "hour": "16:00",
+          "percent": 21
+        },
+        {
+          "hour": "17:00",
+          "percent": 18
+        },
+        {
+          "hour": "18:00",
+          "percent": 9
+        },
+        {
+          "hour": "19:00",
+          "percent": 2
+        },
+        {
+          "hour": "20:00",
+          "percent": 1
+        },
+        {
+          "hour": "21:00",
+          "percent": 1
+        }
+      ]
+    },
+    {
+      "Thursday": [
+        {
+          "hour": "08:00",
+          "percent": 8
+        },
+        {
+          "hour": "09:00",
+          "percent": 15
+        },
+        {
+          "hour": "10:00",
+          "percent": 20
+        },
+        {
+          "hour": "11:00",
+          "percent": 21
+        },
+        {
+          "hour": "12:00",
+          "percent": 17
+        },
+        {
+          "hour": "13:00",
+          "percent": 14
+        },
+        {
+          "hour": "14:00",
+          "percent": 19
+        },
+        {
+          "hour": "15:00",
+          "percent": 30
+        },
+        {
+          "hour": "16:00",
+          "percent": 39
+        },
+        {
+          "hour": "17:00",
+          "percent": 36
+        },
+        {
+          "hour": "18:00",
+          "percent": 23
+        },
+        {
+          "hour": "19:00",
+          "percent": 10
+        },
+        {
+          "hour": "20:00",
+          "percent": 2
+        },
+        {
+          "hour": "21:00",
+          "percent": 1
+        }
+      ]
+    },
+    {
+      "Friday": [
+        {
+          "hour": "08:00",
+          "percent": 6
+        },
+        {
+          "hour": "09:00",
+          "percent": 10
+        },
+        {
+          "hour": "10:00",
+          "percent": 13
+        },
+        {
+          "hour": "11:00",
+          "percent": 15
+        },
+        {
+          "hour": "12:00",
+          "percent": 15
+        },
+        {
+          "hour": "13:00",
+          "percent": 13
+        },
+        {
+          "hour": "14:00",
+          "percent": 12
+        },
+        {
+          "hour": "15:00",
+          "percent": 17
+        },
+        {
+          "hour": "16:00",
+          "percent": 27
+        },
+        {
+          "hour": "17:00",
+          "percent": 31
+        },
+        {
+          "hour": "18:00",
+          "percent": 23
+        },
+        {
+          "hour": "19:00",
+          "percent": 10
+        },
+        {
+          "hour": "20:00",
+          "percent": 2
+        },
+        {
+          "hour": "21:00",
+          "percent": 1
+        }
+      ]
+    },
+    {
+      "Saturday": [
+        {
+          "hour": "08:00",
+          "percent": 9
+        },
+        {
+          "hour": "09:00",
+          "percent": 15
+        },
+        {
+          "hour": "10:00",
+          "percent": 21
+        },
+        {
+          "hour": "11:00",
+          "percent": 27
+        },
+        {
+          "hour": "12:00",
+          "percent": 30
+        },
+        {
+          "hour": "13:00",
+          "percent": 30
+        },
+        {
+          "hour": "14:00",
+          "percent": 27
+        },
+        {
+          "hour": "15:00",
+          "percent": 33
+        },
+        {
+          "hour": "16:00",
+          "percent": 62
+        },
+        {
+          "hour": "17:00",
+          "percent": 80
+        },
+        {
+          "hour": "18:00",
+          "percent": 47
+        },
+        {
+          "hour": "19:00",
+          "percent": 13
+        },
+        {
+          "hour": "20:00",
+          "percent": 3
+        },
+        {
+          "hour": "21:00",
+          "percent": 2
+        }
+      ]
+    }
+  ],
+  "relatedSearches": [
+    "ermida dom bosco mapa",
+    "ermida dom bosco horário de funcionamento",
+    "ermida dom bosco por do sol",
+    "ermida dom bosco brasília fotos",
+    "ermida dom bosco contato",
+    "ermida dom bosco regras",
+    "ermida dom bosco fotos",
+    "ermida dom bosco está aberta"
+  ],
+  "relateds": [
+    {
+      "mainName": "Parque Ecológico Dom Bosco",
+      "url": null
+    },
+    {
+      "mainName": "Santuário São João Bosco",
+      "url": null
+    },
+    {
+      "mainName": "Mosteiro de São Bento de Brasília",
+      "url": null
+    },
+    {
+      "mainName": "Parque Olhos D'Água",
+      "url": null
+    },
+    {
+      "mainName": "Memorial JK",
+      "url": null
+    },
+    {
+      "mainName": "Lago Paranoá",
+      "url": null
+    },
+    {
+      "mainName": "Jardim Botânico de Brasília",
+      "url": null
+    },
+    {
+      "mainName": "Ponte Juscelino Kubitschek",
+      "url": null
+    },
+    {
+      "mainName": "Pontão do Lago Sul",
+      "url": null
+    },
+    {
+      "mainName": "Praça dos Cristais",
+      "url": null
+    },
+    {
+      "mainName": "Parque Nacional de Brasília",
+      "url": null
+    },
+    {
+      "mainName": "Praça dos Três Poderes",
+      "url": null
+    },
+    {
+      "mainName": "In Natura Convenience - Parque da Cidade",
+      "url": null
+    },
+    {
+      "mainName": "Museu do Catetinho",
+      "url": null
+    },
+    {
+      "mainName": "Palácio Itamaraty",
+      "url": null
+    },
+    {
+      "mainName": "Templo da Boa Vontade",
+      "url": null
+    },
+    {
+      "mainName": "Torre de TV de Brasília",
+      "url": null
+    },
+    {
+      "mainName": "Parque Deck Sul",
+      "url": null
+    },
+    {
+      "mainName": "Catedral Militar Rainha da Paz",
+      "url": null
+    },
+    {
+      "mainName": "Parque Ecológico Península Sul",
+      "url": null
+    },
+    {
+      "mainName": "Palácio da Alvorada",
+      "url": null
+    },
+    {
+      "mainName": "Parque Ecológico das Copaíbas",
+      "url": null
+    },
+    {
+      "mainName": "Calçadão da Asa Norte",
+      "url": null
+    },
+    {
+      "mainName": "Parque das Garças",
+      "url": null
+    }
+  ]
+}

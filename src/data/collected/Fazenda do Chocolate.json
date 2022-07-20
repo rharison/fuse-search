@@ -1,0 +1,637 @@
+{
+  "mainName": "Fazenda do Chocolate",
+  "slug": "fazenda-do-chocolate",
+  "category": "Atração turística",
+  "locationInformation": {
+    "latitude": "-23.2818412",
+    "longitude": "-47.2292366"
+  },
+  "basicInformation": [
+    {
+      "label": "endereço",
+      "tooltip": "Copiar endereço",
+      "text": "Estr. dos Romeiros, s/n - KM 90, Itu - SP, 13300-000",
+      "icon": "https://www.gstatic.com/images/icons/material/system_gm/1x/place_gm_blue_24dp.png"
+    },
+    {
+      "label": "pedido",
+      "tooltip": "Fazer um pedido",
+      "text": "Fazer um pedido\nifood.com.br",
+      "icon": "https://www.gstatic.com/images/icons/material/system_gm/1x/local_shipping_gm_blue_24dp.png"
+    },
+    {
+      "label": "website",
+      "tooltip": "Abrir website",
+      "text": "fazendadochocolate.com.br",
+      "icon": "https://www.gstatic.com/images/icons/material/system_gm/1x/public_gm_blue_24dp.png"
+    },
+    {
+      "label": "telefone",
+      "tooltip": "Copiar número de telefone",
+      "text": "(11) 4022-5492",
+      "icon": "https://www.gstatic.com/images/icons/material/system_gm/1x/phone_gm_blue_24dp.png"
+    },
+    {
+      "label": "Code",
+      "tooltip": "Copiar Plus Code",
+      "text": "PQ9C+78 Itu, São Paulo",
+      "icon": "https://maps.gstatic.com/mapfiles/maps_lite/images/2x/ic_plus_code.png"
+    }
+  ],
+  "ratingInformation": {
+    "basicRatingInformation": {
+      "averageGrade": 4.4,
+      "totalOfEvaluations": 12452
+    },
+    "ratingsByGrade": [
+      {
+        "grade": 5,
+        "totalRatings": 7525
+      },
+      {
+        "grade": 4,
+        "totalRatings": 2844
+      },
+      {
+        "grade": 3,
+        "totalRatings": 1323
+      },
+      {
+        "grade": 2,
+        "totalRatings": 382
+      },
+      {
+        "grade": 1,
+        "totalRatings": 378
+      }
+    ]
+  },
+  "ratingTags": [
+    {
+      "tag": "julho",
+      "count": 3,
+      "tooltip": "julho, mencionado em 3 avaliações"
+    },
+    {
+      "tag": "passeio",
+      "count": 340,
+      "tooltip": "passeio, mencionado em 340 avaliações"
+    },
+    {
+      "tag": "o dia",
+      "count": 160,
+      "tooltip": "o dia, mencionado em 160 avaliações"
+    },
+    {
+      "tag": "pavões",
+      "count": 127,
+      "tooltip": "pavões, mencionado em 127 avaliações"
+    },
+    {
+      "tag": "indígenas",
+      "count": 83,
+      "tooltip": "indígenas, mencionado em 83 avaliações"
+    },
+    {
+      "tag": "lhama",
+      "count": 65,
+      "tooltip": "lhama, mencionado em 65 avaliações"
+    },
+    {
+      "tag": "a fazenda",
+      "count": 53,
+      "tooltip": "a fazenda, mencionado em 53 avaliações"
+    },
+    {
+      "tag": "café colonial",
+      "count": 32,
+      "tooltip": "café colonial, mencionado em 32 avaliações"
+    },
+    {
+      "tag": "cacau",
+      "count": 31,
+      "tooltip": "cacau, mencionado em 31 avaliações"
+    }
+  ],
+  "featuredPhotos": [
+    "https://lh5.googleusercontent.com/p/AF1QipMNvJXcz4J5tDBXL8GY8tu0-haW6F9MBrccD25C=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMSdhew89V29cibnVbWtMI9dSWTNjN3qBGerIZI=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOQmcUrhnLfFR7MLYkxIV53d_-2lHNg9mVzRYcy=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOwH8sm_IUsRLOpQXe9LN4dFiMVA2Qhy4RqkWWz=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMX-ogE-VVt8C4VDz6ZcaqGEwmoqj78jWsdTWB-=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipN1SAnMl8BfxII6688d3IziZJ86bpfXYCyYx0zM=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipN4VOjIJtaPE-S8Fs9Tjj6_2q64wc4weAJ1HANW=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPPGUDicoE4w5b1MRjFkckWP9dM4CJihwZOdgE=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOQmqhc_ZXTiJ-ERyTdYVZEqqbK_3ovEDCIIRuo=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPU3uB_M-e2nW9e31h1eR7_B-EV2yQGBT4C4LCu=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNgnNK903hyzg6DKuH8VoHjPGf0VKeIKiqd5onC=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOVxAKk6hSqGUmN7HHuxVl15-yqcnOpg7VHth3k=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMigF6pucSpsoeCAhcdrvhuv5Y1GkmAdYur0f8U=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipONbpp1eLSj203BXY303121CLKK5UveFQQToCRR=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMR0axotVA9MKm4OjcQdwmJNiNEIEaiHhDqz8dZ=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOFluPLCRjU9N8e7hj6u3gMDvTIhybZ5CBFAm5e=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNGkMS_ZLbJJYHsYoaMRskP_Db1XfudtyAUPocN=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOYiNahQt4lzRefZcBjxu3Tf2Ebmae-NZSt3NtI=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOBmlvCnlt7Y1mPkBKnN4_V7Eh7norjjnQj07w5=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPO8GKaNnQSjZoE6bIJSF85c4uK4ogd7a6zsR9H=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNkOEtj5CxPvIIKiXAySNjDGKcvlaQWWGIgWtgl=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipO4nzhVo-DDel0wAOs6bcamLJQMLyqVvgTbxU7A=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNdh0f_WqhWeWBHgwDGPMDw6zNLWdON_2qpdTO-=w1024-h576-k-no"
+  ],
+  "topComments": [
+    {
+      "author": "JJosuka",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucrBdCl7CdDX9lzW8KttyFbeglkmJydPXAULzn3frtc=w36-h36-p-c0x00000000-rp-mo-ba7-br100",
+      "comment": "É um parque de visitação livre na fazenda e nas lojas, com entrada e estacionamento gratuitos, possui arquitetura rústica e colonial, onde a maior parte das atividades se dá aos finais de semana e feriados, de forma que pode ser até decepcionante uma visita em dias de semana, possui lagos bem cuidado e com belas carpas, playground e animais de fazenda que com toda certeza farão a alegria da criançada. Aos FINAIS DE SEMANA funciona o restaurante, com comida caipira servida no fogão a lenha das 12h até às 15h, o café colonial, loja de artesanatos, presentes e loja de tapetes artesanais, orquidário com diversos tipos de orquídeas, suculentas, vasos, acessórios e complementos, venda de artesanato e várias outras atividades da cultura indígena, em uma mini aldeia montada na própria fazenda, integrando perfeitamente o índio ao turismo rural. Durante a semana está aberta a loja de chocolates onde você encontra os chocolates produzidos na fazenda, doces e  biscoitos .A adega que funciona na antiga senzala, onde são vendidos doces caseiros, mel, vinhos, licores e cachaças artesanais, café quentinho feito em fogão de lenha e coador de pano e pode ser acompanhado com salgados e bolos, fresquinhos e bem apresentados. Com funcionamento diário das 8h45 até as 17h30. Possui vários “cenários” onde será possível conseguir belas fotos, pois é um ambiente amplo, limpo e organizado. Banheiros limpos e tinha papel e sabonete.  Aceitam diversas formas de pagamento com funcionários atenciosos e prestativos. Durante a semana, talvez, a estrada (Parque Itu), que leva até a fazenda seja o grande atrativo do passeio",
+      "gradeComment": 3
+    },
+    {
+      "author": "Nelson Tadashi Tanaka",
+      "photoAuthor": "https://lh3.googleusercontent.com/a/AItbvmme5alP6CSZQ3ncsHFpw6bl8mhCEE1TV8K3Reee=w36-h36-p-c0x00000000-rp-mo-ba5-br100",
+      "comment": "Local agradável para passear com a família. Há uma loja onde vende chocolates de diversas formas. Ao lado da loja há uma janela onde e possível ver um pouco da forma de fabricação dos mesmos. Há também uma loja onde vende lembrancinhas, etc... O estacionamento não e muito grande, então dependendo e melhor analisar o horário de abertura para chegar rápido e não ter problemas. Possui animais como uma mini fazenda, há um restaurante que e possível tomar um café ou mesmo realizar um almoço. Há um local que compartilha um pouco da cultura  indígenas, oca, história, etc... Também e possível treinar arco e flecha com um valor simbolico. Tem um passeio de trator trenzinho, que leva ao topo da montanha e e possível ver a cidade e a fazenda de cima, bem bacana para respirar um ar puro. O passeio possui horários agendados então, vale se informar logo quando chegar para poder comprar o passe e se organizar. De resto um local bacana e tranquilo para passar um tempo com a família.",
+      "gradeComment": 4
+    },
+    {
+      "author": "Marcio Luis Martins",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucoeL5ZdwTo3mTs71xIKnF3_GULwqtGrgkgxwGtztg=w36-h36-p-c0x00000000-rp-mo-ba5-br100",
+      "comment": "Razoável. Local estava lotado, pois o dia estava ensolarado e um clima bastante propício para um passeio Eu , particularmente, fui bem recebido no pouco tempo que estive por lá. Maior parte do tempo passei na lanchonete tomando umas geladas e saboreando uns espetinhos. Confesso que os valores estavam meio \"salgados\" , porém até certo ponto acho normal por de tratar de um lugar turístico. As atendentes foram simpáticas, brincalhonas e divertidas, principalmente as que ficam na churrasqueira..... Os banheiros tavam razoavelmente limpos, a cerveja apesar de cara tava geladinha, o salão onde éramos atendidos tava limpo e  tinha boas opções de café da manhã..... Só achei mesmo que tinha  poucos animais por se tratar de uma \"fazenda\" e esse tal de chocolate (que dá nome a fazenda) 🍫 eu nem vi se existia,kkkkk....",
+      "gradeComment": 3
+    },
+    {
+      "author": "Brian Drummond",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucq4xIiOyY8BOwZhQQ6TXXiVEwGlHRSiTCbG1IlFFb0=w36-h36-p-c0x00000000-rp-mo-ba5-br100",
+      "comment": "Uma experiência muito legal para as crianças. O encanto começa na viagem,  pois a Estrada dos Romeiros, onde fica localizada a Fazenda da Serra (mais conhecida como Fazenda do Chocolate), é deslumbrante... uma via bucólica e sinuosa, repleta de vegetação nativa e com a reenergizante vista do (limpo) Rio Tietê. O espaço é bem preservado e oferece uma visita gratuita aos animais. Todas as outras atividades são pagas, como uso de brinquedos do tipo pula-pula, touro mecânico ou passeio de trem. Ainda existem vendas de artigos indígenas e artesanato local em diversas partes da fazenda. A comida salgada é apenas razoável, com opções de crepes a almoço, este com um preço fixo por pessoa, mas sem um sabor que conquista. O destaque fica na loja de chocolates, que vende as mais diferentes versões do doce produzido na casa. Este sim tem boa qualidade e um valor justo. Se tiver crianças pequenas, vá!",
+      "gradeComment": 4
+    },
+    {
+      "author": "Roberta Giovanelli Castilho",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucpAOmqvymBcxecoXZtHyKh7XHAu63Kf_w_-qqD4lVQ=w36-h36-p-c0x00000000-rp-mo-ba2-br100",
+      "comment": "Quatro estrelas, já explico o motivo. Amo visitar a fazenda, tenho um filho de um ano e meio que ama alimentar os animais e passear. É um espaço super delicioso pra levar a familia e tem muitas variedades de lojinhas. Destaque pra lojinha que vende doces, biscoitos e bebidas. Degustei uma cachaça maravilhosa lá. Os preços dos produtos são bem justos e sempre levamos umas coisinhas pra casa. Pra quem tiver curiosidade de ver a fazenda de um outro ponto de vista, o passeio de trem é excelente. Pagamos R$18,00 por adulto (a partir de 11 anos). Ele te leva a um mirante incrível e o senhor que dirige o trem é super bem educado e atencioso, responde todas as nossas curiosidades. O motivo de dar quatro estrelas ao invés de cinco foi a péssima experiência na lanchonete ao lado do lago. Eles nos deram uma comanda com dezenas de opções e em pleno sábado não tinham nada que estava na comanda/cardápio. Além disso os funcionários dessa lanchonete especificamente foram super grosseiros e nos atenderam sem interesse nenhum. O ápice do absurdo foi que no rodapé da comanda havia um informe que se perdêssemos a mesma teríamos que pagar uma taxa de, pasmem, R$300,00. Achei um desrespeito e isso não é legalmente permitido. Foi a primeira e a última vez que pisei nessa lanchonete. Em contrapartida quero sempre voltar a fazendinha. Um passeio delicioso pra familia.",
+      "gradeComment": 4
+    },
+    {
+      "author": "Gilvan Dutra Costa",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucqUuC27OXHjB4uc7_dgHDMG3pSSegf-E30gwo75dYY=w36-h36-p-c0x00000000-rp-mo-ba6-br100",
+      "comment": "Experiência maravilhosa, custo do café colonial aceitável, comida de qualidade, geleia e suco de morango perfeitos, naturais e feitos na hora. Recomendo chegar sedo para tirar fotos maneiras antes de encher e uma multidão apareser nas fotos. Recomendo as mesas da área externa que pegam sol mas logo tem uma pequena sombra de arvore. Pavão sem comer em sua mão.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Kellen Miranda",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucr3pQE3q8XPutNiRvTjDWRV0JAqETn8n9wtGhXBOw=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "O lugar é maravilhoso pra ir com a familia, e amigos. A comida é boa, porem o preço é alto para muitas coisas. Por isso indico que Dependendo da sua situação e momento, leve de casa, se achar melhor. Para comprar bebidas, doces é muito bom. O lazer do lugar e a experiência valem muito a pena e é cercado de atividades culturais e maravilhosas. Amei conhecer e recomendo a todos.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Bruno Petean Pazian",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucp4jRdROeNxhuaRsNH9ID2nQHhwTGVMVAqfwnA9Yv0=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "Lugar gostoso para passar umas 2 ou 3 horas. Possui lojinhas de produtos indígenas, café, chocolate, doces... É possivel ter contato com vacas, cavalos, patos, pavões... além de passeio de trenzinho até o alto do morro. Boa opção para ir com crianças.",
+      "gradeComment": 4
+    },
+    {
+      "author": "Laura",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucrcow1r-kDnzUN6Ut8scPyQ5BSulqPXvPB8IiuLItk=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "Lugar muito agradável para ir com as crianças. Tem pavão para todo lado! Boi, lhama, cabritinhos, patos, galos, galinhas, peixes. Lojinha de utensílios com três lindos aquários, chocolate, pimentas, cachaça, lanchonete e restaurante. Tem artesanato indígena, com cosméticos naturais, ervas. Não houve consumo no restaurante, então não sei dizer se é bom, mas custa 55,00 por pessoa. O mais legal é o passeio de trem, que nos leva para um mirante que dá para ver a fazenda, Itu. A paisagem é linda! E quem nos leva é o Sr.Luis., muito atencioso e dá uma aula de história da região, para quem quiser ouvir... E ir perguntando... É o tipo de pessoa para tomar um café a tarde e conversar por horas. Excelente passeio! Vale muito ir até Itu, conhecer o local e fazer o passeio de trem. (Que na verdade é um trator que leva dois vagões.)  Quem vier por Itu, ainda se depara com a Barragem Estrada dos Romeiros do Rio Tietê. Não tem parapeito, então que tomar cuidado com crianças. A árvore é um Eucalipto Arco-íris, que tem na fazenda.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Micaela Tomas",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucrvwEOBjHUoIMCRcQ6Blyh2GjKtbaZHRjbWZwYdQEs=w36-h36-p-c0x00000000-rp-mo-ba2-br100",
+      "comment": "Lugar delicioso, ótimo pra passear em família, ver cabras fofas, bois, lhamas, galo,  tomar um cafezinho da tarde... Tem uma área dedicada a expor artesanatos indígenas e falar sobre a cultura dos tupi-guaranis. É bem legal, recomendo. Sobre o estacionamento e sinalização dentro da Fazenda, achei que falhou muito. O terreno é bem acidentado e não tem sinalização. Eu não vi nenhuma placa e acabamos nos perdendo dentro da Fazenda que é enorme! Tirando isso, tudo ótimo.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Claudia Cristiane Gasparini",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucr-THKLF3Of0ZhqMxHTsnnVW2AOu0DGiiWm8-syTQ=w36-h36-p-c0x00000000-rp-mo-br100",
+      "comment": "Lugar tranquilo para passar o dia sem correria, levar as crianças pois não tem perigo. Na fazenda tem lojinhas, lanchonete, restaurante,toca do índio, bichos da fazenda, passeio de trenzinho etc. Funcionários educados e ambiente limpo. Não deixem de experimentar na cafeteria o bolo de fubá que realmente e maravilhoso. Um passeio simples mas que vale a pena passar as horas com a família.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Douglas Nascimento",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucqxASa0GCJXpT0L7D_dbwTIjSZrM9ipkEDhOFcZVOo=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "Bom passeio para a família, o local tem um restaurante legal com bastante opções, tem um trenzinho para dar uma volta na fazenda, alguns brinquedos e playground para as crianças, alguns animais, que vc pode comprar ração e alimenta-los, tem também a parte indígena, onde pode-se realizar pinturas, brincar de arco e flecha, comprar produtos, etc... E a famosa loja de chocolate, com bastante variedades, vale a pena o passeio!!!",
+      "gradeComment": 4
+    },
+    {
+      "author": "Heloisa Gabarron",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucqpj5OstsBl7FCjGFE7PU53mxT4Y0r277uklCqh8W4=w36-h36-p-c0x00000000-rp-mo-br100",
+      "comment": "Lugar lindo, vários animais, passeio de trem, uma vista incrível do mirante que rende ótimas fotos, porém, a variedade do almoço poderia ser um pouco melhor, buffet de salada bem variado mas não vale os R$55,00 que é cobrado. Comida boa e de qualidade, mas com pouca variedade.",
+      "gradeComment": 4
+    },
+    {
+      "author": "Sarah Lonardi",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucojODbcJT5-pwvx8yqs9Oy-datFmSVdHC21O5ZzqQ=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "Recomendo levar a família num fim de semana e aproveitar o dia por lá..  O Almoço é bem gostoso e tem muita variedade, inclusive de sobremesas. Vale a pena passar na Lojinha depois e levar um licor.. Eu adorei! Para o pessoal do motociclismo, acho que a maioria já deve conhecer a estrada, famosa Estrada de Romeiros.. Fica a dica, vale a pena entrar na fazenda!!",
+      "gradeComment": 5
+    },
+    {
+      "author": "Júnia D",
+      "photoAuthor": "https://lh3.googleusercontent.com/a/AItbvmmMz4Wym9XHZdxCpuoQ8ba9kuZXCuVypM83lzT_=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "Fui durante a semana. Lugar muito gostoso, com alguns animais. Equipe bem legal. Alguns brinquedos para crianças. Me informaram que durante a semana possuem mais atividades, inclusive um trenzinho que leva até o topo do lugar. Banheiros limpos no momento em que estive.",
+      "gradeComment": 4
+    },
+    {
+      "author": "Lara Bassetto",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucpNQPoneh1eCD7iquzOuj0Tu0mOazRfeuxQohCa2g=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "Que lugar incrível! Passamos o dia das mães em família...estava bem cheio, mas foi sensacional! Tudo muito lindo, comida caipira deliciosa! Sem palavras! Não vejo a hora de voltar! Passeio de trem ao mirante, muito gostoso! Vale muito a pena ! Interação com a natureza... com os animais! Show de bola!",
+      "gradeComment": 5
+    },
+    {
+      "author": "Rosana Ojeda",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucr8PONrixLgu1Hckfe0FKRCiIS3FR0xeLfCs6KJgo4=w36-h36-p-c0x00000000-rp-mo-ba3-br100",
+      "comment": "Lugar muito lindo, empregados super atenciosos, más muita muita gente, gritaria, fila para tudo, não tem ingressos ni paga estacionamento,  más muito multitudinario, faltaria por informações sobre as espécies  de animais. Domingo de ferias de inverno não recomendo.",
+      "gradeComment": 4
+    },
+    {
+      "author": "Jhonny Basa",
+      "photoAuthor": "https://lh3.googleusercontent.com/a/AItbvmn4OoMYnPCqJhvzHjgNl5HZKlHADtmwwarq-PE1=w36-h36-p-c0x00000000-rp-mo-ba5-br100",
+      "comment": "Passeio imperdível pra quem visitar Itu... ótimo local pra levar as crianças para ter contato com ambiente de fazenda.. diversos animais, lago, nascentes,  diversos comes e bebes no local... ambiente familiar e bem movimentado nos finais de semana",
+      "gradeComment": 5
+    },
+    {
+      "author": "Sarita Santos",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucp7ThDpgARhpA8Z64zbxYLjYC9PevPgjdN15oiMdis=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "Se você procurar um lugar para passar o dia em família, a Fazenda do Chocolate é o lugar ideal! Passeio super divertido, contato com a natureza, fábrica de chocolate, restaurante, café moído na hora, com certeza é um passeio onde a família toda se diverte! Pretendemos voltar em breve ❤️",
+      "gradeComment": 5
+    },
+    {
+      "author": "Regiane da Silva Cavalheiro",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucqOGW3w7fOcoU0X0hHF3t0_Lthy0_pSTGj3hgblHw=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "Fomos num dia de semana e só funcionava as lojas de vendas(chocolate e doces e biscoitos na entrada). Casa do índio estava fechada, restaurantes todos fechados, só tinha um de lanche aberto. Loja que vende ração estava fechada. Eles dizem que abre todos os dias, mas nem tudo está aberto. Parece que dão mais foco no feriado e fim de semana. Ficamos bem decepcionados.",
+      "gradeComment": 1
+    }
+  ],
+  "peakHours": [
+    {
+      "Sunday": [
+        {
+          "hour": "08:00",
+          "percent": 7
+        },
+        {
+          "hour": "09:00",
+          "percent": 22
+        },
+        {
+          "hour": "10:00",
+          "percent": 49
+        },
+        {
+          "hour": "11:00",
+          "percent": 77
+        },
+        {
+          "hour": "12:00",
+          "percent": 90
+        },
+        {
+          "hour": "13:00",
+          "percent": 94
+        },
+        {
+          "hour": "14:00",
+          "percent": 100
+        },
+        {
+          "hour": "15:00",
+          "percent": 97
+        },
+        {
+          "hour": "16:00",
+          "percent": 70
+        },
+        {
+          "hour": "17:00",
+          "percent": 34
+        }
+      ]
+    },
+    {
+      "Monday": [
+        {
+          "hour": "09:00",
+          "percent": 1
+        },
+        {
+          "hour": "10:00",
+          "percent": 1
+        },
+        {
+          "hour": "11:00",
+          "percent": 1
+        },
+        {
+          "hour": "13:00",
+          "percent": 1
+        },
+        {
+          "hour": "14:00",
+          "percent": 1
+        },
+        {
+          "hour": "15:00",
+          "percent": 2
+        },
+        {
+          "hour": "16:00",
+          "percent": 1
+        },
+        {
+          "hour": "17:00",
+          "percent": 1
+        }
+      ]
+    },
+    {
+      "Tuesday": [
+        {
+          "hour": "10:00",
+          "percent": 1
+        },
+        {
+          "hour": "11:00",
+          "percent": 1
+        },
+        {
+          "hour": "12:00",
+          "percent": 2
+        },
+        {
+          "hour": "13:00",
+          "percent": 2
+        },
+        {
+          "hour": "15:00",
+          "percent": 1
+        },
+        {
+          "hour": "16:00",
+          "percent": 1
+        }
+      ]
+    },
+    {
+      "Wednesday": [
+        {
+          "hour": "09:00",
+          "percent": 1
+        },
+        {
+          "hour": "10:00",
+          "percent": 2
+        },
+        {
+          "hour": "11:00",
+          "percent": 2
+        },
+        {
+          "hour": "12:00",
+          "percent": 1
+        },
+        {
+          "hour": "13:00",
+          "percent": 1
+        },
+        {
+          "hour": "14:00",
+          "percent": 2
+        },
+        {
+          "hour": "15:00",
+          "percent": 2
+        },
+        {
+          "hour": "16:00",
+          "percent": 2
+        },
+        {
+          "hour": "17:00",
+          "percent": 1
+        }
+      ]
+    },
+    {
+      "Thursday": [
+        {
+          "hour": "08:00",
+          "percent": 1
+        },
+        {
+          "hour": "09:00",
+          "percent": 4
+        },
+        {
+          "hour": "10:00",
+          "percent": 9
+        },
+        {
+          "hour": "11:00",
+          "percent": 14
+        },
+        {
+          "hour": "12:00",
+          "percent": 17
+        },
+        {
+          "hour": "13:00",
+          "percent": 17
+        },
+        {
+          "hour": "14:00",
+          "percent": 17
+        },
+        {
+          "hour": "15:00",
+          "percent": 17
+        },
+        {
+          "hour": "16:00",
+          "percent": 14
+        },
+        {
+          "hour": "17:00",
+          "percent": 8
+        }
+      ]
+    },
+    {
+      "Friday": [
+        {
+          "hour": "08:00",
+          "percent": 1
+        },
+        {
+          "hour": "09:00",
+          "percent": 3
+        },
+        {
+          "hour": "10:00",
+          "percent": 6
+        },
+        {
+          "hour": "11:00",
+          "percent": 10
+        },
+        {
+          "hour": "12:00",
+          "percent": 12
+        },
+        {
+          "hour": "13:00",
+          "percent": 13
+        },
+        {
+          "hour": "14:00",
+          "percent": 14
+        },
+        {
+          "hour": "15:00",
+          "percent": 14
+        },
+        {
+          "hour": "16:00",
+          "percent": 11
+        },
+        {
+          "hour": "17:00",
+          "percent": 5
+        }
+      ]
+    },
+    {
+      "Saturday": [
+        {
+          "hour": "08:00",
+          "percent": 4
+        },
+        {
+          "hour": "09:00",
+          "percent": 11
+        },
+        {
+          "hour": "10:00",
+          "percent": 22
+        },
+        {
+          "hour": "11:00",
+          "percent": 35
+        },
+        {
+          "hour": "12:00",
+          "percent": 42
+        },
+        {
+          "hour": "13:00",
+          "percent": 44
+        },
+        {
+          "hour": "14:00",
+          "percent": 47
+        },
+        {
+          "hour": "15:00",
+          "percent": 49
+        },
+        {
+          "hour": "16:00",
+          "percent": 38
+        },
+        {
+          "hour": "17:00",
+          "percent": 17
+        }
+      ]
+    }
+  ],
+  "relatedSearches": [
+    "fazenda do chocolate - itu valor",
+    "fazenda do chocolate preço almoço",
+    "fazenda do chocolate fotos",
+    "fazenda do chocolate vale a pena",
+    "fazenda do chocolate história",
+    "excursão fazenda do chocolate",
+    "fazenda do chocolate cacau show",
+    "café da manhã na fazenda do chocolate"
+  ],
+  "relateds": [
+    {
+      "mainName": "Praça dos Exageros",
+      "url": null
+    },
+    {
+      "mainName": "Parque Maeda",
+      "url": null
+    },
+    {
+      "mainName": "Parque Geológico do Varvito",
+      "url": null
+    },
+    {
+      "mainName": "Cidade da Criança",
+      "url": null
+    },
+    {
+      "mainName": "Camping Cabreúva",
+      "url": null
+    },
+    {
+      "mainName": "Parque Rocha Moutonnée",
+      "url": null
+    },
+    {
+      "mainName": "Matriz Nossa Senhora da Candelária.",
+      "url": null
+    },
+    {
+      "mainName": "Bichomania Parque Fazenda",
+      "url": null
+    },
+    {
+      "mainName": "Sitiolândia",
+      "url": null
+    },
+    {
+      "mainName": "Trem Republicano de Itu",
+      "url": null
+    },
+    {
+      "mainName": "Museu da Energia de Itu",
+      "url": null
+    },
+    {
+      "mainName": "Centro Histórico de Itu",
+      "url": null
+    },
+    {
+      "mainName": "MUSEU DA MÚSICA",
+      "url": null
+    },
+    {
+      "mainName": "Mini Fazenda Pet Zoo",
+      "url": null
+    },
+    {
+      "mainName": "Complexo Turístico da Cachoeira",
+      "url": null
+    },
+    {
+      "mainName": "Museu Catavento",
+      "url": null
+    },
+    {
+      "mainName": "Fazenda Floresta Park",
+      "url": null
+    },
+    {
+      "mainName": "Igreja São Benedito",
+      "url": null
+    },
+    {
+      "mainName": "Casa Imperial",
+      "url": null
+    },
+    {
+      "mainName": "Zooparque Itatiba",
+      "url": null
+    }
+  ]
+}

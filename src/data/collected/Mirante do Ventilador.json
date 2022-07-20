@@ -1,0 +1,953 @@
+{
+  "mainName": "Mirante do Ventilador",
+  "slug": "mirante-do-ventilador",
+  "category": "Atração turística",
+  "locationInformation": {
+    "latitude": "-15.8249105",
+    "longitude": "-48.906668"
+  },
+  "basicInformation": [
+    {
+      "label": "endereço",
+      "tooltip": "Copiar endereço",
+      "text": "Pirenópolis, GO, 72980-000",
+      "icon": "https://www.gstatic.com/images/icons/material/system_gm/1x/place_gm_blue_24dp.png"
+    },
+    {
+      "label": "telefone",
+      "tooltip": "Copiar número de telefone",
+      "text": "(62) 3331-1564",
+      "icon": "https://www.gstatic.com/images/icons/material/system_gm/1x/phone_gm_blue_24dp.png"
+    },
+    {
+      "label": "Code",
+      "tooltip": "Copiar Plus Code",
+      "text": "53GV+28 Pirenópolis, Goiás",
+      "icon": "https://maps.gstatic.com/mapfiles/maps_lite/images/2x/ic_plus_code.png"
+    },
+    {
+      "label": "merchant",
+      "text": "Reivindicar esta empresa",
+      "icon": "https://www.gstatic.com/images/icons/material/system_gm/1x/verified_user_gm_blue_24dp.png"
+    }
+  ],
+  "ratingInformation": {
+    "basicRatingInformation": {
+      "averageGrade": 4.7,
+      "totalOfEvaluations": 1306
+    },
+    "ratingsByGrade": [
+      {
+        "grade": 5,
+        "totalRatings": 1001
+      },
+      {
+        "grade": 4,
+        "totalRatings": 214
+      },
+      {
+        "grade": 3,
+        "totalRatings": 69
+      },
+      {
+        "grade": 2,
+        "totalRatings": 14
+      },
+      {
+        "grade": 1,
+        "totalRatings": 8
+      }
+    ]
+  },
+  "ratingTags": [
+    {
+      "tag": "por do sol",
+      "count": 64,
+      "tooltip": "por do sol, mencionado em 64 avaliações"
+    },
+    {
+      "tag": "paisagem",
+      "count": 29,
+      "tooltip": "paisagem, mencionado em 29 avaliações"
+    },
+    {
+      "tag": "estrada de terra",
+      "count": 19,
+      "tooltip": "estrada de terra, mencionado em 19 avaliações"
+    },
+    {
+      "tag": "contemplar",
+      "count": 15,
+      "tooltip": "contemplar, mencionado em 15 avaliações"
+    },
+    {
+      "tag": "poeira",
+      "count": 11,
+      "tooltip": "poeira, mencionado em 11 avaliações"
+    },
+    {
+      "tag": "água de côco",
+      "count": 9,
+      "tooltip": "água de côco, mencionado em 9 avaliações"
+    },
+    {
+      "tag": "infraestrutura",
+      "count": 9,
+      "tooltip": "infraestrutura, mencionado em 9 avaliações"
+    },
+    {
+      "tag": "vista panorâmica",
+      "count": 8,
+      "tooltip": "vista panorâmica, mencionado em 8 avaliações"
+    },
+    {
+      "tag": "refrigerante",
+      "count": 5,
+      "tooltip": "refrigerante, mencionado em 5 avaliações"
+    },
+    {
+      "tag": "admirar",
+      "count": 5,
+      "tooltip": "admirar, mencionado em 5 avaliações"
+    }
+  ],
+  "featuredPhotos": [
+    "https://lh5.googleusercontent.com/p/AF1QipNwnQ88UooBzRbeThMgmtemJwtjy-PSsnKRCzk5=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPTEHAhBfYHrsyAZiOkdYIOc8-3HgzGcYXMvjV_=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipO7YjqG0uBbMSoxX4cySF6jh4YgAlth-s02kbp5=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNQjih0TbzMlHeDDdPdGV3L24JMfxNnmvXzedAt=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMvDLTj5ShMpbktRPSqwLMFvCBwk-xJmfrR62MM=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipP1XMoEXqFYST6NqWOx8fktgMdOoLzRnf79urNm=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipP730fQzXK-8OYecD_EkocR1SvPbP3CnxT-CakX=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNowVS1jb0yHK9FZhUNQVKbLQAMxzFaUsoIt2XN=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMOPU4yRPCeY-ooIYyI34SlNcZwB4igtVgyA3fK=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOnAYsCW5hGgwHX65jAsZxk6orwMgdMlOzKnoM0=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOXpQ0nMJzrwZM6cg5fw85mqIX79xkxqDjUv72W=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMCz5tXxkyDdlfwCZlYggVUkQM0qJad2cgnWKfG=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOojRtzDcrOPz5cigB9ufDou3C0TodZNLcnAJCw=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNnRmjQTZg_TBLw-yvB-JUpUHt5aMmbxKd4F4WL=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNBEOkc4Px0aA4v7RNZhgzi2mw-rJ9rxWimJ864=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOBMB6SZsblJYt3T_jgdVITJs1HfVFgByeJNZcg=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipM5hIx83BWcj9FGhYQmdWy0xZBWXuO72eqagpFF=w1024-h576-k-no"
+  ],
+  "topComments": [
+    {
+      "author": "Camilla Becker",
+      "photoAuthor": "https://lh3.googleusercontent.com/a/AItbvmltPtKs8ivQMcQu0qDZkdtkEI1Z-ZdZZJw3uiCA=w36-h36-p-c0x00000000-rp-mo-ba3-br100",
+      "comment": "Vista linda! Tem banquinhos pra sentar e curtir o por do sol. A estrada pra chegar até o mirante é de terra, mas qualquer carro sobe..  Só é um pouco chato quem chega lá e liga uma música nada a ver super alta e também vimos pessoas jogando lixo (garrafa de bebidas) infelizmente as pessoas são as vezes muito sem noção",
+      "gradeComment": 5
+    },
+    {
+      "author": "Iara Cecília Paiva",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucrGMCAoHuDgWwnsPFdvZk1nvykn1nsEMAUpTZwL-g=w36-h36-p-c0x00000000-rp-mo-ba5-br100",
+      "comment": "Paisagem deslumbrante com vista ampla para as cidades próximas e muito cerrado. Saindo de Pirenópolis, fica no caminho para o Parque Estadual da Serra dos Pireneus e alguns atrativos da região como cachoeiras, pousadas e restaurantes. Siga no caminho e vá até o Pico dos Pireneus. Mas prepare pois a estrada está bem esburacada.",
+      "gradeComment": 4
+    },
+    {
+      "author": "Tuany Beiram",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucoTELETznCtGx6Kk-VFECZwJCHWWardFfR4WH8rb_g=w36-h36-p-c0x00000000-rp-mo-ba5-br100",
+      "comment": "A vista é linda, porém é impossível apreciar em paz. Vários carros com som alto ligado, pessoas bebendo e fazendo festa. A estrada de terra leva de 15  a 20 minutos até lá, se conseguir parar um pouco afastado para evitar a bagunça, melhor.",
+      "gradeComment": 2
+    },
+    {
+      "author": "Thali S.",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucoiAYArHHRdWeeOX-_uPqrDdlZTYmpMaOBF0hcD8w=w36-h36-p-c0x00000000-rp-mo-ba5-br100",
+      "comment": "Uma vista espetacular! Pena que dessa vez estava nublado e não deu pra ver o pôr do sol, mas sempre vale a pena, pois é lindo e cheio de pássaros diferentes ao redor! Sempre que vamos à Pirenópolis passamos por aqui.",
+      "gradeComment": 5
+    },
+    {
+      "author": "agilson alves",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZuconmxmvWiat4F2D8DV8l-jYFh9TkfhlxyGnh-W5CA=w36-h36-p-c0x00000000-rp-mo-br100",
+      "comment": "Exelente vista da cidade e do por do sol. Estrada de acesso é um pouco precária. Carros baixos vão ter muita dificuldade no acesso",
+      "gradeComment": 3
+    },
+    {
+      "author": "Fernanda de Castro",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZuco4Psu2pnqTMDPq0kfVP3ilOgNiF6s1MdcC35Zpwtg=w36-h36-p-c0x00000000-rp-mo-ba3-br100",
+      "comment": "A vista é linda. O por do sol pode ser visto de lá, maravilhoso!",
+      "gradeComment": 5
+    },
+    {
+      "author": "Ricardo Leao",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucpiWqAm6Cf-5-PXSRy6fg0OxH6jwn9MQuHS-mpM=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "Vista magnífica de Pirenópolis!! A subida é hard, mas compensa. Eu fui de bike, mas iria de carro se pudesse. Estrada acidentados, poeira e buracos.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Marcelo Ribeiro",
+      "photoAuthor": "https://lh3.googleusercontent.com/a/AItbvmktofK62-jWjsx_KEK1Vs8FXyZszegAJw-MejME=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "Um lugar top para curtir o por do sol lindo, aonde se pode contemplar a beleza desse Deus maravilhoso, que criou um lugar ùnico.Não deixe de ir.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Larissa Girao",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucqIb1CDJlNL6hZwfmlDBImhuJoHrhaqNXyFsOvbSA=w36-h36-p-c0x00000000-rp-mo-ba3-br100",
+      "comment": "Vista perfeita, transmite paz! Lugar de estrutura simples e com energia maravilhosa...",
+      "gradeComment": 5
+    },
+    {
+      "author": "Lelo Snipes",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucrBkKkiPMqHLI0FwSt5tBjjs50YzohCsHf9HTwvVMA=w36-h36-p-c0x00000000-rp-mo-ba2-br100",
+      "comment": "Lugar muito bonito porém estrada nao esta muito boa",
+      "gradeComment": 5
+    },
+    {
+      "author": "Caio Junior",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucoLkBJ8OLxtDY3-E_HfuzQ_BreovjEPaAoV3llVzDk=w36-h36-p-c0x00000000-rp-mo-ba6-br100",
+      "comment": "Local de beleza ímpar, muito legal de se visitar em tempos de pandemia.  Importante levar óculos escuros, pois venta bastante e a poeira pode incomodar. Ademais, a entrada não é cobrada, mas também não possui nenhuma estrutura. Para chegar aqui você precisa pegar um trecho de estrada de terra que geralmente está em boas condições, recomendo cuidado redobrado para carros que não são SUV e não possuem tração 4x4. Por fim, o lugar costuma ser meio vazio, então é interessante vir acompanhando.",
+      "gradeComment": 4
+    },
+    {
+      "author": "Fernando Neves Silva",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucpt7v_T6CQ1a666CMoi4y7w7HStrC7UgDtFWenm=w36-h36-p-c0x00000000-rp-mo-ba2-br100",
+      "comment": "Vista linda pena que não fui no fim de tarde.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Iuri Gomes",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucr-S7i-AJVJ1MHStmkR5WWEuEcDmdsqz1F72We-=w36-h36-p-c0x00000000-rp-mo-ba2-br100",
+      "comment": "20 minutos da cidade, nada além de um mirante, mas lindo para tirar fotos, chega de carro e da pra encostar no mirante mesmo",
+      "gradeComment": 5
+    },
+    {
+      "author": "Viviane Januario",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucpE20YoN1-F3Stlh5RfxSgwoZMuYVN1K0nlMiXvsho=w36-h36-p-c0x00000000-rp-mo-br100",
+      "comment": "Faz jus ao nome, venta muitooo. A vista é linda! Uma contemplação espetacular do nosso belíssimo Cerrado. Ao longe é possível avistar a charmosa Pirenópolis. Leve óculos escuros, a poeira e a claridade incomodam muito. Venta muito e como é estrada de chão, muita poeira. Mas não tira a beleza do local. Ah o trecho 3 do Caminho de Cora dá para passada pelo local.",
+      "gradeComment": 5
+    },
+    {
+      "author": "alberto costa",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZuco5ihqzXnIIJBxXwT5j0P6yqY0pgQa4fjNBei-OnfA=w36-h36-p-c0x00000000-rp-mo-ba6-br100",
+      "comment": "o mirante do ventilador fica na estrada chamada caminho da cachoeiras,lugar maravilhoso,estivemos aí,na primeira vez que fomos a Pirenópolis,da pra ver toda a cidade de Pirenópolis,e as montanhas ao redor,e caminho para várias cachoeiras,o caminho e acidentado,carros baixos nem pensar,muitos ciclistas no caminho , local pra aventureiros.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Fernanda Araújo",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucr9OHuAlDS_R-HNsvrT7R4j6vogWafbtQghQmkpXzU=w36-h36-p-c0x00000000-rp-mo-ba3-br100",
+      "comment": "Lugar incrível. Por fotos não dá pra captar a beleza imensa de vivenciar o por no sol ali. Gratuito, pega internet, tem um senhorzinho que vende bebidas e da pra contemplar a natureza tranquilamente.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Sementes Pessoais",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucrctb3LYapjogyeyoqDaNh86Sopai_fFAHQOH99=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "Vista excelente de toda a região, inclusive Pirenópolis. Zero custo e acesso 24h, mas não recomendável a noite pois pode ser perigoso. Estrada de terra para acesso com muitos buracos. Local sem infra estrutura nenhuma.",
+      "gradeComment": 4
+    },
+    {
+      "author": "Marília Freire",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucp9i2-OZJV6_PfgYIxGkjF2RnrGeAc1EUc3ngd7_Q=w36-h36-p-c0x00000000-rp-mo-ba6-br100",
+      "comment": "Visual muito bonito dos Pirineus.",
+      "gradeComment": 4
+    },
+    {
+      "author": "Sirlei Mariana Silva.",
+      "photoAuthor": "https://lh3.googleusercontent.com/a/AItbvmmYwTcrTfi-Jrsbb4C9ggxxsza2hN6mT6GbMKXu=w36-h36-p-c0x00000000-rp-mo-ba3-br100",
+      "comment": "Lugar lindo pra apreciar a vista. Quem gosta de aventura é excelente. A estrada é boa pra andar de quadriciclo.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Pablo Santos",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucrXym9cZ1m1DhCZdhqANM7-Ew3hfHI2EyQy3Guemg=w36-h36-p-c0x00000000-rp-mo-ba5-br100",
+      "comment": "Uma vista impressionantemente bonita, dá ótimas fotos panorâmicas. A localização fica após uma longa jornada em aclive de estrada, é recomendável um carro de grande porte e com ar-condicionado pois o caminho é empoeirado. Dependendo do horário terá um vendedor de água de côco. Fui em duas épocas de ano diferentes em abril e em setembro a vista muda completamente pois a vegetação em setembro encontrasse bastante seca.",
+      "gradeComment": 5
+    }
+  ],
+  "peakHours": [
+    {
+      "Sunday": [
+        {
+          "hour": "04:00",
+          "percent": 1
+        },
+        {
+          "hour": "05:00",
+          "percent": 3
+        },
+        {
+          "hour": "06:00",
+          "percent": 7
+        },
+        {
+          "hour": "07:00",
+          "percent": 12
+        },
+        {
+          "hour": "08:00",
+          "percent": 18
+        },
+        {
+          "hour": "09:00",
+          "percent": 25
+        },
+        {
+          "hour": "10:00",
+          "percent": 31
+        },
+        {
+          "hour": "11:00",
+          "percent": 34
+        },
+        {
+          "hour": "12:00",
+          "percent": 34
+        },
+        {
+          "hour": "13:00",
+          "percent": 32
+        },
+        {
+          "hour": "14:00",
+          "percent": 26
+        },
+        {
+          "hour": "15:00",
+          "percent": 19
+        },
+        {
+          "hour": "16:00",
+          "percent": 13
+        },
+        {
+          "hour": "17:00",
+          "percent": 64
+        },
+        {
+          "hour": "18:00",
+          "percent": 9
+        },
+        {
+          "hour": "19:00",
+          "percent": 1
+        },
+        {
+          "hour": "20:00",
+          "percent": 1
+        },
+        {
+          "hour": "21:00",
+          "percent": 1
+        },
+        {
+          "hour": "02:00",
+          "percent": 1
+        },
+        {
+          "hour": "03:00",
+          "percent": 1
+        }
+      ]
+    },
+    {
+      "Monday": [
+        {
+          "hour": "04:00",
+          "percent": 1
+        },
+        {
+          "hour": "05:00",
+          "percent": 1
+        },
+        {
+          "hour": "07:00",
+          "percent": 2
+        },
+        {
+          "hour": "08:00",
+          "percent": 3
+        },
+        {
+          "hour": "09:00",
+          "percent": 3
+        },
+        {
+          "hour": "10:00",
+          "percent": 4
+        },
+        {
+          "hour": "11:00",
+          "percent": 8
+        },
+        {
+          "hour": "12:00",
+          "percent": 12
+        },
+        {
+          "hour": "13:00",
+          "percent": 9
+        },
+        {
+          "hour": "14:00",
+          "percent": 7
+        },
+        {
+          "hour": "15:00",
+          "percent": 8
+        },
+        {
+          "hour": "16:00",
+          "percent": 8
+        },
+        {
+          "hour": "17:00",
+          "percent": 7
+        },
+        {
+          "hour": "18:00",
+          "percent": 6
+        },
+        {
+          "hour": "19:00",
+          "percent": 4
+        },
+        {
+          "hour": "20:00",
+          "percent": 2
+        },
+        {
+          "hour": "22:00",
+          "percent": 1
+        },
+        {
+          "hour": "23:00",
+          "percent": 1
+        }
+      ]
+    },
+    {
+      "Tuesday": [
+        {
+          "hour": "07:00",
+          "percent": 1
+        },
+        {
+          "hour": "08:00",
+          "percent": 2
+        },
+        {
+          "hour": "09:00",
+          "percent": 9
+        },
+        {
+          "hour": "10:00",
+          "percent": 12
+        },
+        {
+          "hour": "11:00",
+          "percent": 7
+        },
+        {
+          "hour": "12:00",
+          "percent": 2
+        },
+        {
+          "hour": "13:00",
+          "percent": 1
+        },
+        {
+          "hour": "14:00",
+          "percent": 2
+        },
+        {
+          "hour": "15:00",
+          "percent": 3
+        },
+        {
+          "hour": "16:00",
+          "percent": 6
+        },
+        {
+          "hour": "18:00",
+          "percent": 14
+        },
+        {
+          "hour": "19:00",
+          "percent": 6
+        },
+        {
+          "hour": "20:00",
+          "percent": 4
+        },
+        {
+          "hour": "21:00",
+          "percent": 3
+        },
+        {
+          "hour": "22:00",
+          "percent": 2
+        },
+        {
+          "hour": "23:00",
+          "percent": 1
+        },
+        {
+          "hour": "01:00",
+          "percent": 1
+        },
+        {
+          "hour": "02:00",
+          "percent": 1
+        },
+        {
+          "hour": "03:00",
+          "percent": 1
+        }
+      ]
+    },
+    {
+      "Wednesday": [
+        {
+          "hour": "05:00",
+          "percent": 1
+        },
+        {
+          "hour": "06:00",
+          "percent": 2
+        },
+        {
+          "hour": "07:00",
+          "percent": 2
+        },
+        {
+          "hour": "08:00",
+          "percent": 2
+        },
+        {
+          "hour": "09:00",
+          "percent": 2
+        },
+        {
+          "hour": "10:00",
+          "percent": 2
+        },
+        {
+          "hour": "11:00",
+          "percent": 2
+        },
+        {
+          "hour": "12:00",
+          "percent": 2
+        },
+        {
+          "hour": "13:00",
+          "percent": 1
+        },
+        {
+          "hour": "14:00",
+          "percent": 1
+        },
+        {
+          "hour": "16:00",
+          "percent": 3
+        },
+        {
+          "hour": "17:00",
+          "percent": 16
+        },
+        {
+          "hour": "18:00",
+          "percent": 4
+        },
+        {
+          "hour": "21:00",
+          "percent": 2
+        },
+        {
+          "hour": "22:00",
+          "percent": 2
+        },
+        {
+          "hour": "23:00",
+          "percent": 2
+        },
+        {
+          "hour": "01:00",
+          "percent": 1
+        },
+        {
+          "hour": "02:00",
+          "percent": 1
+        }
+      ]
+    },
+    {
+      "Thursday": [
+        {
+          "hour": "04:00",
+          "percent": 1
+        },
+        {
+          "hour": "05:00",
+          "percent": 1
+        },
+        {
+          "hour": "06:00",
+          "percent": 1
+        },
+        {
+          "hour": "07:00",
+          "percent": 1
+        },
+        {
+          "hour": "08:00",
+          "percent": 3
+        },
+        {
+          "hour": "09:00",
+          "percent": 7
+        },
+        {
+          "hour": "10:00",
+          "percent": 10
+        },
+        {
+          "hour": "11:00",
+          "percent": 10
+        },
+        {
+          "hour": "12:00",
+          "percent": 7
+        },
+        {
+          "hour": "13:00",
+          "percent": 4
+        },
+        {
+          "hour": "14:00",
+          "percent": 3
+        },
+        {
+          "hour": "15:00",
+          "percent": 13
+        },
+        {
+          "hour": "16:00",
+          "percent": 32
+        },
+        {
+          "hour": "17:00",
+          "percent": 33
+        },
+        {
+          "hour": "18:00",
+          "percent": 13
+        },
+        {
+          "hour": "19:00",
+          "percent": 2
+        },
+        {
+          "hour": "20:00",
+          "percent": 1
+        },
+        {
+          "hour": "21:00",
+          "percent": 1
+        },
+        {
+          "hour": "22:00",
+          "percent": 1
+        },
+        {
+          "hour": "03:00",
+          "percent": 1
+        }
+      ]
+    },
+    {
+      "Friday": [
+        {
+          "hour": "05:00",
+          "percent": 1
+        },
+        {
+          "hour": "06:00",
+          "percent": 2
+        },
+        {
+          "hour": "07:00",
+          "percent": 4
+        },
+        {
+          "hour": "08:00",
+          "percent": 7
+        },
+        {
+          "hour": "09:00",
+          "percent": 9
+        },
+        {
+          "hour": "10:00",
+          "percent": 12
+        },
+        {
+          "hour": "11:00",
+          "percent": 14
+        },
+        {
+          "hour": "12:00",
+          "percent": 16
+        },
+        {
+          "hour": "13:00",
+          "percent": 16
+        },
+        {
+          "hour": "14:00",
+          "percent": 16
+        },
+        {
+          "hour": "15:00",
+          "percent": 15
+        },
+        {
+          "hour": "16:00",
+          "percent": 25
+        },
+        {
+          "hour": "17:00",
+          "percent": 55
+        },
+        {
+          "hour": "18:00",
+          "percent": 21
+        },
+        {
+          "hour": "19:00",
+          "percent": 5
+        },
+        {
+          "hour": "20:00",
+          "percent": 3
+        },
+        {
+          "hour": "21:00",
+          "percent": 2
+        },
+        {
+          "hour": "23:00",
+          "percent": 1
+        },
+        {
+          "hour": "00:00",
+          "percent": 1
+        },
+        {
+          "hour": "01:00",
+          "percent": 1
+        },
+        {
+          "hour": "02:00",
+          "percent": 1
+        },
+        {
+          "hour": "03:00",
+          "percent": 1
+        }
+      ]
+    },
+    {
+      "Saturday": [
+        {
+          "hour": "04:00",
+          "percent": 1
+        },
+        {
+          "hour": "05:00",
+          "percent": 1
+        },
+        {
+          "hour": "06:00",
+          "percent": 1
+        },
+        {
+          "hour": "07:00",
+          "percent": 2
+        },
+        {
+          "hour": "08:00",
+          "percent": 8
+        },
+        {
+          "hour": "09:00",
+          "percent": 20
+        },
+        {
+          "hour": "10:00",
+          "percent": 38
+        },
+        {
+          "hour": "11:00",
+          "percent": 58
+        },
+        {
+          "hour": "12:00",
+          "percent": 73
+        },
+        {
+          "hour": "13:00",
+          "percent": 74
+        },
+        {
+          "hour": "14:00",
+          "percent": 65
+        },
+        {
+          "hour": "15:00",
+          "percent": 64
+        },
+        {
+          "hour": "16:00",
+          "percent": 93
+        },
+        {
+          "hour": "17:00",
+          "percent": 100
+        },
+        {
+          "hour": "18:00",
+          "percent": 52
+        },
+        {
+          "hour": "19:00",
+          "percent": 16
+        },
+        {
+          "hour": "20:00",
+          "percent": 7
+        },
+        {
+          "hour": "21:00",
+          "percent": 6
+        },
+        {
+          "hour": "22:00",
+          "percent": 4
+        },
+        {
+          "hour": "23:00",
+          "percent": 3
+        },
+        {
+          "hour": "00:00",
+          "percent": 2
+        },
+        {
+          "hour": "01:00",
+          "percent": 1
+        },
+        {
+          "hour": "03:00",
+          "percent": 1
+        }
+      ]
+    }
+  ],
+  "relatedSearches": [
+    "pico dos pireneus",
+    "o que fazer em pirenópolis",
+    "parque dos pireneus",
+    "pirenópolis quantos dias",
+    "cachoeira do abade",
+    "hoje em pirenópolis",
+    "nova ponte pênsil pirenópolis",
+    "programação pirenópolis"
+  ],
+  "relateds": [
+    {
+      "mainName": "Refúgio Avalon",
+      "url": null
+    },
+    {
+      "mainName": "Cachoeira Santa Maria",
+      "url": null
+    },
+    {
+      "mainName": "Cachoeira Usina Velha",
+      "url": null
+    },
+    {
+      "mainName": "Cachoeira do Rosário",
+      "url": null
+    },
+    {
+      "mainName": "Cachoeira Paraiso",
+      "url": null
+    },
+    {
+      "mainName": "Cachoeira do Abade",
+      "url": null
+    },
+    {
+      "mainName": "Cachoeira do Lázaro",
+      "url": null
+    },
+    {
+      "mainName": "Cachoeira Sonrisal",
+      "url": null
+    },
+    {
+      "mainName": "Pico dos Pireneus",
+      "url": null
+    },
+    {
+      "mainName": "Parque Estadual dos Pireneus",
+      "url": null
+    },
+    {
+      "mainName": "Santuário de Vida Silvestre Vagafogo",
+      "url": null
+    },
+    {
+      "mainName": "Cachoeiras dos Dragões",
+      "url": null
+    },
+    {
+      "mainName": "Igreja Nosso Senhor do Bonfim",
+      "url": null
+    },
+    {
+      "mainName": "Igreja Matriz Nossa Senhora do Rosário",
+      "url": null
+    },
+    {
+      "mainName": "Museu Rodas do Tempo",
+      "url": null
+    },
+    {
+      "mainName": "RPPN - Reserva Ecológica Vargem Grande",
+      "url": null
+    },
+    {
+      "mainName": "Ponte da Tremedeira, Reserva do Abade",
+      "url": null
+    },
+    {
+      "mainName": "Museu Das Cavalhadas",
+      "url": null
+    },
+    {
+      "mainName": "Igreja Nossa Senhora do Carmo",
+      "url": null
+    },
+    {
+      "mainName": "Fazenda Babilônia",
+      "url": null
+    },
+    {
+      "mainName": "Museu da Família Pompeu",
+      "url": null
+    },
+    {
+      "mainName": "Ponte Pêncil Dona Benta",
+      "url": null
+    },
+    {
+      "mainName": "Cachoeira Bonsucesso",
+      "url": null
+    },
+    {
+      "mainName": "Parque Nacional da Chapada dos Veadeiros",
+      "url": null
+    }
+  ]
+}

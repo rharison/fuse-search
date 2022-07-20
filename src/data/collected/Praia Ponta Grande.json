@@ -1,0 +1,975 @@
+{
+  "mainName": "Praia Ponta Grande",
+  "slug": "praia-ponta-grande",
+  "category": "Praia",
+  "locationInformation": {
+    "latitude": "-16.3757532",
+    "longitude": "-39.0097046"
+  },
+  "basicInformation": [
+    {
+      "label": "endereço",
+      "tooltip": "Copiar endereço",
+      "text": "BR-367, Porto Seguro - BA, 45810-000",
+      "icon": "https://www.gstatic.com/images/icons/material/system_gm/1x/place_gm_blue_24dp.png"
+    }
+  ],
+  "ratingInformation": {
+    "basicRatingInformation": {
+      "averageGrade": 4.6,
+      "totalOfEvaluations": 647
+    },
+    "ratingsByGrade": [
+      {
+        "grade": 5,
+        "totalRatings": 463
+      },
+      {
+        "grade": 4,
+        "totalRatings": 120
+      },
+      {
+        "grade": 3,
+        "totalRatings": 45
+      },
+      {
+        "grade": 2,
+        "totalRatings": 12
+      },
+      {
+        "grade": 1,
+        "totalRatings": 7
+      }
+    ]
+  },
+  "ratingTags": [
+    {
+      "tag": "maré",
+      "count": 26,
+      "tooltip": "maré, mencionado em 26 avaliações"
+    },
+    {
+      "tag": "barracas",
+      "count": 12,
+      "tooltip": "barracas, mencionado em 12 avaliações"
+    },
+    {
+      "tag": "paisagem",
+      "count": 9,
+      "tooltip": "paisagem, mencionado em 9 avaliações"
+    },
+    {
+      "tag": "ondas",
+      "count": 9,
+      "tooltip": "ondas, mencionado em 9 avaliações"
+    },
+    {
+      "tag": "fotos",
+      "count": 9,
+      "tooltip": "fotos, mencionado em 9 avaliações"
+    },
+    {
+      "tag": "corais",
+      "count": 8,
+      "tooltip": "corais, mencionado em 8 avaliações"
+    },
+    {
+      "tag": "banho",
+      "count": 7,
+      "tooltip": "banho, mencionado em 7 avaliações"
+    },
+    {
+      "tag": "pena",
+      "count": 6,
+      "tooltip": "pena, mencionado em 6 avaliações"
+    },
+    {
+      "tag": "o dia",
+      "count": 5,
+      "tooltip": "o dia, mencionado em 5 avaliações"
+    },
+    {
+      "tag": "turistas",
+      "count": 5,
+      "tooltip": "turistas, mencionado em 5 avaliações"
+    }
+  ],
+  "featuredPhotos": [
+    "https://lh5.googleusercontent.com/p/AF1QipOrKiPBBtB_tU4EqTfpH2cpznUZUlDCV6RjScZS=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipO1agWPnFlsXigjjRRlBf_UdyjQazeh1fsMJdGA=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPQptmSRhGbIvG1H-VcjcHSLqJrMWhYqV0Z1RAW=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMsvwZExqcTQGV7ZLA_jh75dpjUARZquIqKaE9M=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipN7hdTvOFOf-bJwsb2aASiwN54nlOJEEa4_LlM0=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMWK_5jQoRGkzIUHMldqL1rUCQu6qykVkroqnEH=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPENjTbYu0ByEuHWUAC27bKaUQ-MZzSSDpbLMaE=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPptiSt7_bKYVb7Ybs3I2oEJfneYkkYSL4zQEjC=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNc5rQ_GWDAWnPUF7xsEiDhvqxg4x4qHTUpNwnI=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMeDBkmddLyOFjrMYPT4QyByXJAOVOdFnWeVAaa=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipONnhG8aD5CCTVwNlphMMAOb7I26OOBuNQGXvPa=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipP8pqFEXD2xiVon9CtHPNJG9Vs8a2oqVEQQIVs=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNJ1S2sr4Ew5-UlHSgB8r3vJ6dHgdPckpP1uLLZ=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNT_gu0SfIOZNTX4E0Y8K0rNM00DyDtk7eeFQAW=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPSsDlpMHgb_iw24uL6e1iBy0fMca9aSG61jCP9=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNmeNH1EBgUEvh7qP3zjGbYmw6yHR9TEY2xxcZx=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOTvPl4IVveJyflo7Z79JRdrGzfSYGBmXUObN0c=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipODhFY7yQS1_HMx3xO2-jd23_8WHBLj3FFG7HVh=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMK2ChitG1SCLIOG5YncgZ6J9R96c6fc_w30ySs=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMwVzfTwO3MMgfY6cDD8Smv5gdtVPQzXUogibbZ=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMeNthkBIjGeEtv5I-bhNW4RS4ph04QP29he4uP=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMpL1bObg-3ND0kH33V_smYcaybsGHr3ARV4VAY=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipP49xOzn_u3ordHOu_mXGNnWZ5IimJaScPStt4r=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPE6XCBauaGc5BOleUMqL0vMNv3v-X8J3Bmrs_i=w1024-h576-k-no"
+  ],
+  "topComments": [
+    {
+      "author": "Jaime Regatieri",
+      "photoAuthor": "https://lh3.googleusercontent.com/a/AItbvmmVw6A44vXZulqyba5qultRpmBxvhmKYLHtQhg1=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "Maravilhoso local. Ficar contemplando a paisagem pode demorar horas. Neptunos oferece um local bem agradável. O estacionamento fica restrito e distante. Muito sossegado para casais que desejam estar longe dos agitos da axé músic pois temos músicas dos anos 80 e rock Preço honesto.",
+      "gradeComment": 4
+    },
+    {
+      "author": "Lá na Chácara",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucoO8_yNlMmvQ9HuwPqyXmVRRD90IzA3p0P8UbpeKb8=w36-h36-p-c0x00000000-rp-mo-ba3-br100",
+      "comment": "Excelente lugar pra quem quer levar crianças e ficar despreocupados, devido não ter ondas durante o dia, mar raso e faixa de areia grande. Recomendo!!!",
+      "gradeComment": 5
+    },
+    {
+      "author": "Paulo Rogerio",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucq1mk_w7V5R4IrTiD02DLl_7JhkxxSaH0nhMLdhG6s=w36-h36-p-c0x00000000-rp-mo-ba6-br100",
+      "comment": "Excelente passeio, lugar bacana para se banhar, tirar foto, explorar a natureza marítima através de mergulho e conhecer a biodiversidade do local...",
+      "gradeComment": 4
+    },
+    {
+      "author": "Samuelson Freitas",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucpcYWPaVgaKSL2hI_xMy7rTVafuOkSfHZ-R_keheyg=w36-h36-p-c0x00000000-rp-mo-ba5-br100",
+      "comment": "É uma praia muito tranquila pra curtir com a família, filho pequenos, pois é uma praia com águas rasas. Pouco movimentada mais muito frequentada por quem quer fazer churrasco. Uma das minhas praias favoritas, o ruim só é a sujeira que acabam deixando pra tras e poluindo a praia.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Gilberto Brigoni",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucqbAB_nwixJ3wH2QrgYlpHaXYvZB56EZXk0JDip=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "Nosso lugar preferido para banho em Porto Seguro. Na maré baixa é excelente. Sugiro Prefeitura cuidar melhor da limpeza e retirada do lixo do local. Colocar lixeiras e fazer coleta periodica",
+      "gradeComment": 4
+    },
+    {
+      "author": "Pablo Fernando",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucroLNB4urCCUnZF7TuT1kW7rfz4e-1o6zJOndHq_68=w36-h36-p-c0x00000000-rp-mo-ba5-br100",
+      "comment": "Paisagem muito Bonita. Ponto ideal para tirar fotos. Visão panorâmica da praia. Ao parar deve ter cuidado com o trânsito pois o tráfego é intenso no local.",
+      "gradeComment": 5
+    },
+    {
+      "author": "fabiano antunes",
+      "photoAuthor": "https://lh3.googleusercontent.com/a/AItbvml3O76v6vCqYoXjgzu0H-50tz-nSl1fTV77rdEQ=w36-h36-p-c0x00000000-rp-mo-br100",
+      "comment": "Praia maravilhosa. Infelizmente, as pessoas estão deixando muita sujeira na praia. Sugiro olharem a tábua da maré antes de ir.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Marcos Santos",
+      "photoAuthor": "https://lh3.googleusercontent.com/a/AItbvmnavCPUbTNN_fq1d2Gl0epTkgxiBT7FyF9fcDMe=w36-h36-p-c0x00000000-rp-mo-ba3-br100",
+      "comment": "Praia maravilhosa Parece uma piscina natural !!",
+      "gradeComment": 4
+    },
+    {
+      "author": "Galdino Vilante (GVilante)",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucqBiOLvK7Bc9ADmSMf9_uo6DIfs_gI0AJIMKM6ihg=w36-h36-p-c0x00000000-rp-mo-ba5-br100",
+      "comment": "Linda e calma.Ideal para que não curte ondas fortes.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Kelly Cris",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucr9wLAUMXFOukzRZYE1qLfmHGyo8mLauLi9ihaNjlo=w36-h36-p-c0x00000000-rp-mo-ba2-br100",
+      "comment": "Ótimo mirante, perfeito para tirar fotos. Fica entre Porto Seguro e santa cruz Cabrália.",
+      "gradeComment": 5
+    }
+  ],
+  "peakHours": [
+    {
+      "Sunday": [
+        {
+          "hour": "04:00",
+          "percent": 1
+        },
+        {
+          "hour": "05:00",
+          "percent": 1
+        },
+        {
+          "hour": "06:00",
+          "percent": 1
+        },
+        {
+          "hour": "08:00",
+          "percent": 8
+        },
+        {
+          "hour": "09:00",
+          "percent": 28
+        },
+        {
+          "hour": "10:00",
+          "percent": 58
+        },
+        {
+          "hour": "11:00",
+          "percent": 86
+        },
+        {
+          "hour": "12:00",
+          "percent": 95
+        },
+        {
+          "hour": "13:00",
+          "percent": 93
+        },
+        {
+          "hour": "14:00",
+          "percent": 97
+        },
+        {
+          "hour": "15:00",
+          "percent": 100
+        },
+        {
+          "hour": "16:00",
+          "percent": 82
+        },
+        {
+          "hour": "17:00",
+          "percent": 46
+        },
+        {
+          "hour": "18:00",
+          "percent": 16
+        },
+        {
+          "hour": "19:00",
+          "percent": 2
+        },
+        {
+          "hour": "20:00",
+          "percent": 1
+        },
+        {
+          "hour": "21:00",
+          "percent": 1
+        },
+        {
+          "hour": "22:00",
+          "percent": 1
+        },
+        {
+          "hour": "23:00",
+          "percent": 1
+        },
+        {
+          "hour": "00:00",
+          "percent": 1
+        },
+        {
+          "hour": "01:00",
+          "percent": 1
+        },
+        {
+          "hour": "02:00",
+          "percent": 1
+        },
+        {
+          "hour": "03:00",
+          "percent": 1
+        }
+      ]
+    },
+    {
+      "Monday": [
+        {
+          "hour": "04:00",
+          "percent": 1
+        },
+        {
+          "hour": "05:00",
+          "percent": 1
+        },
+        {
+          "hour": "06:00",
+          "percent": 1
+        },
+        {
+          "hour": "07:00",
+          "percent": 1
+        },
+        {
+          "hour": "08:00",
+          "percent": 5
+        },
+        {
+          "hour": "09:00",
+          "percent": 9
+        },
+        {
+          "hour": "10:00",
+          "percent": 12
+        },
+        {
+          "hour": "11:00",
+          "percent": 14
+        },
+        {
+          "hour": "12:00",
+          "percent": 16
+        },
+        {
+          "hour": "13:00",
+          "percent": 18
+        },
+        {
+          "hour": "14:00",
+          "percent": 21
+        },
+        {
+          "hour": "15:00",
+          "percent": 20
+        },
+        {
+          "hour": "16:00",
+          "percent": 14
+        },
+        {
+          "hour": "17:00",
+          "percent": 5
+        },
+        {
+          "hour": "18:00",
+          "percent": 1
+        },
+        {
+          "hour": "19:00",
+          "percent": 1
+        },
+        {
+          "hour": "20:00",
+          "percent": 1
+        },
+        {
+          "hour": "21:00",
+          "percent": 1
+        },
+        {
+          "hour": "22:00",
+          "percent": 1
+        },
+        {
+          "hour": "23:00",
+          "percent": 1
+        },
+        {
+          "hour": "00:00",
+          "percent": 1
+        },
+        {
+          "hour": "01:00",
+          "percent": 1
+        },
+        {
+          "hour": "02:00",
+          "percent": 1
+        },
+        {
+          "hour": "03:00",
+          "percent": 1
+        }
+      ]
+    },
+    {
+      "Tuesday": [
+        {
+          "hour": "04:00",
+          "percent": 1
+        },
+        {
+          "hour": "05:00",
+          "percent": 1
+        },
+        {
+          "hour": "06:00",
+          "percent": 1
+        },
+        {
+          "hour": "07:00",
+          "percent": 1
+        },
+        {
+          "hour": "08:00",
+          "percent": 1
+        },
+        {
+          "hour": "09:00",
+          "percent": 3
+        },
+        {
+          "hour": "10:00",
+          "percent": 3
+        },
+        {
+          "hour": "11:00",
+          "percent": 2
+        },
+        {
+          "hour": "12:00",
+          "percent": 1
+        },
+        {
+          "hour": "13:00",
+          "percent": 1
+        },
+        {
+          "hour": "14:00",
+          "percent": 8
+        },
+        {
+          "hour": "15:00",
+          "percent": 15
+        },
+        {
+          "hour": "16:00",
+          "percent": 13
+        },
+        {
+          "hour": "17:00",
+          "percent": 3
+        },
+        {
+          "hour": "18:00",
+          "percent": 1
+        },
+        {
+          "hour": "19:00",
+          "percent": 1
+        },
+        {
+          "hour": "20:00",
+          "percent": 1
+        },
+        {
+          "hour": "21:00",
+          "percent": 1
+        },
+        {
+          "hour": "22:00",
+          "percent": 1
+        },
+        {
+          "hour": "23:00",
+          "percent": 1
+        },
+        {
+          "hour": "00:00",
+          "percent": 1
+        },
+        {
+          "hour": "01:00",
+          "percent": 1
+        },
+        {
+          "hour": "02:00",
+          "percent": 1
+        },
+        {
+          "hour": "03:00",
+          "percent": 1
+        }
+      ]
+    },
+    {
+      "Wednesday": [
+        {
+          "hour": "04:00",
+          "percent": 1
+        },
+        {
+          "hour": "05:00",
+          "percent": 1
+        },
+        {
+          "hour": "06:00",
+          "percent": 1
+        },
+        {
+          "hour": "07:00",
+          "percent": 1
+        },
+        {
+          "hour": "08:00",
+          "percent": 2
+        },
+        {
+          "hour": "09:00",
+          "percent": 7
+        },
+        {
+          "hour": "10:00",
+          "percent": 11
+        },
+        {
+          "hour": "11:00",
+          "percent": 11
+        },
+        {
+          "hour": "12:00",
+          "percent": 9
+        },
+        {
+          "hour": "13:00",
+          "percent": 4
+        },
+        {
+          "hour": "14:00",
+          "percent": 1
+        },
+        {
+          "hour": "15:00",
+          "percent": 4
+        },
+        {
+          "hour": "16:00",
+          "percent": 7
+        },
+        {
+          "hour": "17:00",
+          "percent": 1
+        },
+        {
+          "hour": "18:00",
+          "percent": 1
+        },
+        {
+          "hour": "19:00",
+          "percent": 1
+        },
+        {
+          "hour": "20:00",
+          "percent": 1
+        },
+        {
+          "hour": "21:00",
+          "percent": 1
+        },
+        {
+          "hour": "22:00",
+          "percent": 1
+        },
+        {
+          "hour": "23:00",
+          "percent": 1
+        },
+        {
+          "hour": "00:00",
+          "percent": 1
+        },
+        {
+          "hour": "01:00",
+          "percent": 1
+        },
+        {
+          "hour": "02:00",
+          "percent": 1
+        },
+        {
+          "hour": "03:00",
+          "percent": 1
+        }
+      ]
+    },
+    {
+      "Thursday": [
+        {
+          "hour": "04:00",
+          "percent": 1
+        },
+        {
+          "hour": "05:00",
+          "percent": 1
+        },
+        {
+          "hour": "06:00",
+          "percent": 1
+        },
+        {
+          "hour": "07:00",
+          "percent": 1
+        },
+        {
+          "hour": "08:00",
+          "percent": 1
+        },
+        {
+          "hour": "09:00",
+          "percent": 3
+        },
+        {
+          "hour": "10:00",
+          "percent": 7
+        },
+        {
+          "hour": "11:00",
+          "percent": 8
+        },
+        {
+          "hour": "12:00",
+          "percent": 4
+        },
+        {
+          "hour": "13:00",
+          "percent": 1
+        },
+        {
+          "hour": "14:00",
+          "percent": 2
+        },
+        {
+          "hour": "15:00",
+          "percent": 5
+        },
+        {
+          "hour": "16:00",
+          "percent": 6
+        },
+        {
+          "hour": "17:00",
+          "percent": 2
+        },
+        {
+          "hour": "18:00",
+          "percent": 1
+        },
+        {
+          "hour": "19:00",
+          "percent": 1
+        },
+        {
+          "hour": "20:00",
+          "percent": 1
+        },
+        {
+          "hour": "21:00",
+          "percent": 1
+        },
+        {
+          "hour": "22:00",
+          "percent": 1
+        },
+        {
+          "hour": "23:00",
+          "percent": 1
+        },
+        {
+          "hour": "00:00",
+          "percent": 1
+        },
+        {
+          "hour": "01:00",
+          "percent": 1
+        },
+        {
+          "hour": "02:00",
+          "percent": 1
+        },
+        {
+          "hour": "03:00",
+          "percent": 1
+        }
+      ]
+    },
+    {
+      "Friday": [
+        {
+          "hour": "04:00",
+          "percent": 1
+        },
+        {
+          "hour": "05:00",
+          "percent": 1
+        },
+        {
+          "hour": "06:00",
+          "percent": 1
+        },
+        {
+          "hour": "07:00",
+          "percent": 1
+        },
+        {
+          "hour": "08:00",
+          "percent": 3
+        },
+        {
+          "hour": "09:00",
+          "percent": 8
+        },
+        {
+          "hour": "10:00",
+          "percent": 12
+        },
+        {
+          "hour": "11:00",
+          "percent": 14
+        },
+        {
+          "hour": "12:00",
+          "percent": 15
+        },
+        {
+          "hour": "13:00",
+          "percent": 15
+        },
+        {
+          "hour": "14:00",
+          "percent": 15
+        },
+        {
+          "hour": "15:00",
+          "percent": 13
+        },
+        {
+          "hour": "16:00",
+          "percent": 8
+        },
+        {
+          "hour": "17:00",
+          "percent": 2
+        },
+        {
+          "hour": "18:00",
+          "percent": 1
+        },
+        {
+          "hour": "19:00",
+          "percent": 1
+        },
+        {
+          "hour": "20:00",
+          "percent": 1
+        },
+        {
+          "hour": "21:00",
+          "percent": 1
+        },
+        {
+          "hour": "22:00",
+          "percent": 1
+        },
+        {
+          "hour": "23:00",
+          "percent": 1
+        },
+        {
+          "hour": "00:00",
+          "percent": 12
+        },
+        {
+          "hour": "01:00",
+          "percent": 25
+        },
+        {
+          "hour": "02:00",
+          "percent": 22
+        },
+        {
+          "hour": "03:00",
+          "percent": 7
+        }
+      ]
+    },
+    {
+      "Saturday": [
+        {
+          "hour": "04:00",
+          "percent": 1
+        },
+        {
+          "hour": "05:00",
+          "percent": 1
+        },
+        {
+          "hour": "06:00",
+          "percent": 1
+        },
+        {
+          "hour": "07:00",
+          "percent": 1
+        },
+        {
+          "hour": "08:00",
+          "percent": 7
+        },
+        {
+          "hour": "09:00",
+          "percent": 17
+        },
+        {
+          "hour": "10:00",
+          "percent": 29
+        },
+        {
+          "hour": "11:00",
+          "percent": 42
+        },
+        {
+          "hour": "12:00",
+          "percent": 52
+        },
+        {
+          "hour": "13:00",
+          "percent": 56
+        },
+        {
+          "hour": "14:00",
+          "percent": 53
+        },
+        {
+          "hour": "15:00",
+          "percent": 43
+        },
+        {
+          "hour": "16:00",
+          "percent": 30
+        },
+        {
+          "hour": "17:00",
+          "percent": 17
+        },
+        {
+          "hour": "18:00",
+          "percent": 7
+        },
+        {
+          "hour": "20:00",
+          "percent": 1
+        },
+        {
+          "hour": "21:00",
+          "percent": 1
+        },
+        {
+          "hour": "22:00",
+          "percent": 1
+        },
+        {
+          "hour": "00:00",
+          "percent": 2
+        },
+        {
+          "hour": "01:00",
+          "percent": 3
+        },
+        {
+          "hour": "02:00",
+          "percent": 2
+        }
+      ]
+    }
+  ],
+  "relatedSearches": [
+    "praia da ponta grande porto belo",
+    "melhores praias de porto seguro",
+    "praia de itacimirim",
+    "praia grande porto seguro",
+    "praia pedra grande trancoso",
+    "praia de itaporã",
+    "praia de taperapuan ao vivo",
+    "mapa da praia de taperapuan em porto seguro"
+  ],
+  "relateds": [
+    {
+      "mainName": "Mundai",
+      "url": null
+    },
+    {
+      "mainName": "Taperapuan",
+      "url": null
+    },
+    {
+      "mainName": "Praia do Muta",
+      "url": null
+    },
+    {
+      "mainName": "Taipe",
+      "url": null
+    },
+    {
+      "mainName": "Praia de Curuipe",
+      "url": null
+    },
+    {
+      "mainName": "Passarela do Descobrimento",
+      "url": null
+    },
+    {
+      "mainName": "Praia de Taípe",
+      "url": null
+    },
+    {
+      "mainName": "Praia do Mutá",
+      "url": null
+    },
+    {
+      "mainName": "Praia de Coroa Vermelha",
+      "url": null
+    },
+    {
+      "mainName": "Pitinga",
+      "url": null
+    },
+    {
+      "mainName": "Praia do Mucugê",
+      "url": null
+    },
+    {
+      "mainName": "Museu de Porto Seguro",
+      "url": null
+    },
+    {
+      "mainName": "Praia do Apaga Fogo",
+      "url": null
+    },
+    {
+      "mainName": "Praia De Santo André",
+      "url": null
+    },
+    {
+      "mainName": "Rio da Barra",
+      "url": null
+    },
+    {
+      "mainName": "Praia dos Coqueiros",
+      "url": null
+    },
+    {
+      "mainName": "Paróquia Nossa Senhora da Pena",
+      "url": null
+    },
+    {
+      "mainName": "Mucuge",
+      "url": null
+    },
+    {
+      "mainName": "Ponta do Apaga Fogo",
+      "url": null
+    },
+    {
+      "mainName": "Recife De Fora",
+      "url": null
+    },
+    {
+      "mainName": "Praia Trancoso",
+      "url": null
+    },
+    {
+      "mainName": "Praia dos Amores (Setiquara)",
+      "url": null
+    },
+    {
+      "mainName": "Ruínas da Igreja do Outeiro da Glória",
+      "url": null
+    }
+  ]
+}

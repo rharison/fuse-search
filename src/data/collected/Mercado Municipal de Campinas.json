@@ -1,0 +1,623 @@
+{
+  "mainName": "Mercado Municipal de Campinas",
+  "slug": "mercado-municipal-de-campinas",
+  "category": "Mercado",
+  "locationInformation": {
+    "latitude": "-22.9032225",
+    "longitude": "-47.0637268"
+  },
+  "basicInformation": [
+    {
+      "label": "endereço",
+      "tooltip": "Copiar endereço",
+      "text": "Av. Benjamin Constant, s/n - Centro, Campinas - SP, 13013-010",
+      "icon": "https://www.gstatic.com/images/icons/material/system_gm/1x/place_gm_blue_24dp.png"
+    },
+    {
+      "label": "agendamento",
+      "tooltip": "Abrir link de agendamento",
+      "text": "facebook.com",
+      "icon": "https://fonts.gstatic.com/s/i/googlematerialicons/event/v14/gm_blue-24dp/1x/gm_event_gm_blue_24dp.png"
+    },
+    {
+      "label": "website",
+      "tooltip": "Abrir website",
+      "text": "facebook.com",
+      "icon": "https://www.gstatic.com/images/icons/material/system_gm/1x/public_gm_blue_24dp.png"
+    },
+    {
+      "label": "telefone",
+      "tooltip": "Copiar número de telefone",
+      "text": "(19) 3232-3679",
+      "icon": "https://www.gstatic.com/images/icons/material/system_gm/1x/phone_gm_blue_24dp.png"
+    },
+    {
+      "label": "Code",
+      "tooltip": "Copiar Plus Code",
+      "text": "3WWP+PG Centro, Campinas - SP",
+      "icon": "https://maps.gstatic.com/mapfiles/maps_lite/images/2x/ic_plus_code.png"
+    },
+    {
+      "label": "send-to-device",
+      "text": "Enviar para smartphone",
+      "icon": "https://maps.gstatic.com/consumer/images/icons/1x/send_to_mobile_alt_gm_blue_24dp.png"
+    }
+  ],
+  "ratingInformation": {
+    "basicRatingInformation": {
+      "averageGrade": 4.6,
+      "totalOfEvaluations": 5189
+    },
+    "ratingsByGrade": [
+      {
+        "grade": 5,
+        "totalRatings": 3648
+      },
+      {
+        "grade": 4,
+        "totalRatings": 1077
+      },
+      {
+        "grade": 3,
+        "totalRatings": 304
+      },
+      {
+        "grade": 2,
+        "totalRatings": 62
+      },
+      {
+        "grade": 1,
+        "totalRatings": 98
+      }
+    ]
+  },
+  "ratingTags": [
+    {
+      "tag": "temperos",
+      "count": 177,
+      "tooltip": "temperos, mencionado em 177 avaliações"
+    },
+    {
+      "tag": "gosto",
+      "count": 87,
+      "tooltip": "gosto, mencionado em 87 avaliações"
+    },
+    {
+      "tag": "histórico",
+      "count": 81,
+      "tooltip": "histórico, mencionado em 81 avaliações"
+    },
+    {
+      "tag": "especiarias",
+      "count": 43,
+      "tooltip": "especiarias, mencionado em 43 avaliações"
+    },
+    {
+      "tag": "castanhas",
+      "count": 25,
+      "tooltip": "castanhas, mencionado em 25 avaliações"
+    },
+    {
+      "tag": "pimentas",
+      "count": 25,
+      "tooltip": "pimentas, mencionado em 25 avaliações"
+    },
+    {
+      "tag": "tabacaria",
+      "count": 14,
+      "tooltip": "tabacaria, mencionado em 14 avaliações"
+    },
+    {
+      "tag": "ervas",
+      "count": 11,
+      "tooltip": "ervas, mencionado em 11 avaliações"
+    },
+    {
+      "tag": "mortadela",
+      "count": 9,
+      "tooltip": "mortadela, mencionado em 9 avaliações"
+    },
+    {
+      "tag": "aromas",
+      "count": 9,
+      "tooltip": "aromas, mencionado em 9 avaliações"
+    }
+  ],
+  "featuredPhotos": [
+    "https://lh5.googleusercontent.com/p/AF1QipOal_1p-oaF4rj6dR8p3tSe3jMn0GnKvNNp-mAG=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOw4OuBmqPKHf9Yygq4DHFoLP0Ps6HsNkeDfOLP=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMnjchBbdWCMDWOPWlFXJHa7POYGOPYdlBP0aYK=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipM6Wn-Lsca5UK4er-87otieyCFE6n1u2APbeYPo=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNANvFeOwwpwSOQI38vim-n20nvUQKyVnTP29g_=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipM5Rh-pszMxCjawZe4qixe5I7jr5iz4X_Yk1iOb=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipM5pHPA7zK9ezZGm-gb5yCSgcPqmoCCQgOIss67=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPxmLsv_cKWq5VF7kCWso4SdkrCvcFZ5CfTonBI=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNgx8k6iSCglsby7zhnkd7Sk4PsOoL9E8ROA9iz=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipM5Jms1rBI3GONNTeClo2NToENxrdRn2GG6LHNE=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOBPPIqAqMug92yv4zOTlUYoAshHXutM5LP0x2_=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNMreqfJKkcV-LdH3_Dn4SabaNtIlXhQbTaIbFz=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMMurQ10ikkhqfOwKMi5LVxDEsvi04EOOLJP12E=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMN-rDlwLMOszap8tGF2Wg9mFI_qJWzgIQ4ctI4=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPC6YUBh7CAgbV8ZUcqMTYw9hDAZqP86ZFkuCmw=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipP4IPzLTsb9odOfrYhbESSLFXhG83NoasPtCrv5=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMmcR7nQ_AOZBW9lXmFiffAdPE0DmReKMVAAPj5=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOxOe07zD3IwsuQQ56WBxk582hR5-J9tF19ZfYO=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNV1Na8C7MZm8MaMWpI1n-PCeaLadnEzuPCBXui=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMzmFaAExf_VkBEg07zJImli6rSo0KvlKyPNVtp=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNvuj_Umt9ZpZbKGEMFVVvKfsqaj-Mu3V_Pi_UE=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOlXuQGZMkJJbSsVcJcGreVZdfizjMvG_aAgyhJ=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNhTnUl0mW-7QsE9DjC_Leqf5tFyynWUQdMAelu=w1024-h576-k-no"
+  ],
+  "topComments": [
+    {
+      "author": "Lucas F",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucpItSKvT9joVkTSomDxHftCS0kzf0mDvr-k4Y_k3A=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "Você encontrará no mercadão inúmeras bancas de especiarias e grãos com grande variedade para todo tipo de receita, açougues com carnes frescas e todo tipo de corte que se possa imaginar, bancas especializadas em carnes secas, peixes salgados e carnes especiais para feijoadas, é possível encontrar também lojas com artigos para pesca, facas e tabacarias. Na parte externa existem bancas de frutas, verduras e legumes sempre frescos, além de peixarias com opções de água salgada, água doce e camarões de várias espécies. Além disso, se encontram também restaurantes e lanchonetes com diversas opções baratas e deliciosas. Para quem vai de carro, o estacionamento próprio do mercadão é pago e aceita apenas dinheiro, de qualquer forma, é um excelente local para quem busca alimentos frescos, de boa qualidade e com preço justo.",
+      "gradeComment": 5
+    },
+    {
+      "author": "MARATERAPIA EDIMARA OURIVES",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucojjQx70EHXonnHOLPTJR9AFlPVafslDWHZLJGvxMo=w36-h36-p-c0x00000000-rp-mo-ba5-br100",
+      "comment": "Maravilhoso quando vc conhece o mercado municipal de uma cidade Eu, curto muito, voltar ao passado mesmo com as modernização Eu já conhecia, mas é muito bom relembrar Para quem não conhece campinas é um passeio legal custo só estacionamento",
+      "gradeComment": 5
+    },
+    {
+      "author": "Nilton Azambuja de Loreto",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucqi0Qk5_Vs5YA7gc-8cgLPDIu3vSo3Miax9cVD5DAA=w36-h36-p-c0x00000000-rp-mo-ba5-br100",
+      "comment": "Lindo mercado público. Tem uma variedade de lojas muito interessantes de grãos e de carnes salgadas. Tem lojas de temperos e outros itens de interesse. Há sim mas curiosa loja de tabaco, com perfumados fumos de rolo. Bem organizado, limpo e bonito. Vale a pena visitar.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Veronica Costa",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucq49wySRdml9KRAQE7wOFd3E7U7Rmqm5LT9LeQO=w36-h36-p-c0x00000000-rp-mo-ba3-br100",
+      "comment": "os temperos são ótimos. Comprei o Lemon Pepper e pra falar a verdade eu ainda não tinha provado um tão bem feito e saboroso. Gostei muito.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Juliana Hüsermann",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucqac_ntIvWLmDetTMpjAt2MdmSJDm19RXh7K941kA=w36-h36-p-c0x00000000-rp-mo-ba2-br100",
+      "comment": "Ponto turístico e patrimônio tombado de Campinas.Há hortifrutes,variedades de temperos,mercearias,lacticínios,açougues,peixarias,pastelarias,bares,variedades,artigos de pescas,tabacarias,floriculturas,ração para pets,loja de aquários.Para quem gosta de tradição e variedade.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Sandra Regina",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucpK_s3TXDryBndI-i1uCzxv_TmvmphUkxtfBUIC=w36-h36-p-c0x00000000-rp-mo-br100",
+      "comment": "Eu indico de olhos fechados! Sou cliente do Piné a mais de 15 anos, sempre fui muito bem atendida! A qualidade e o cuidado que eles tem com o cliente é impressionante!! Na pandemia eu passei a comprar por delivery, e mais uma vez fui surpreendida pelo zelo com cliente! Eles mandam tudo bem embalado e já dividido na quantidade que eu solicito, conforme meu consumo! Enfim, nota mil para o Piné, sempre!!",
+      "gradeComment": 5
+    },
+    {
+      "author": "Jorge Luís Fantato Fantato",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucoJ5jt09vbLbb9Am5Kx3LFGPfMRSAvq0Ky2pnIp0w=w36-h36-p-c0x00000000-rp-mo-br100",
+      "comment": "Adoro ir ao mercado municipal tem tudo que preciso no acrescento do meu final de semana tenho um ponto queria acrescentar a Esfihas q tem dentro do mercado acho a melhor de Campinas com seu molho de pimenta q eles mesmo faz!",
+      "gradeComment": 5
+    },
+    {
+      "author": "Vanessa",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucpuGGc_Zo3IIAy6cDj8foNAtiUETHu3_cw4G6Nijg=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "Atendimento não é dos melhores nem na floricultura ao redor e nem nas bancas dentro do mercadão. As pessoas tem pressa em te atender, algumas pessoas são ríspidas e quase te expulsam da loja. Má vontade. E o ambiente não é muito limpo, nem muito bem iluminado, aspecto de sujo esse mercadão, e é um dos menores mercados municipais que já fui na vida.  Mas tem lojas ao redor que podem ser interessantes. As bancas fora do mercado tem atendimento melhor.  Mas tem banca de peixe, de pastel, de produtos japoneses, de especiarias e chás e ervas, de flores, de verduras, de grãos, de pesca, de várias coisas.  O estacionamento é pequeno e é pago. Dia e horários com muito movimento, recomendo nem ir. Só vai passar nervoso. Porque como quem mora em Campinas sabe: o trânsito em Campinas é ruim em qualquer lugar.  Não é um bom ponto turístico. Não recomendo a ida. A não ser que tiver alguma coisa pra resolver lá.  Aconselho ir pra quem precisar resolver mais de uma coisa no mesmo lugar ou pra quem mora perto.",
+      "gradeComment": 1
+    },
+    {
+      "author": "Marcelo Mar",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucomXMoM00I361Kps-P3psUnqzuBA594GsN4OKok=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "Mercadão com uma boa diversidade. Açougue, queijos e dois botecos muito bons.",
+      "gradeComment": 3
+    },
+    {
+      "author": "Bárbara Pacci",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZuco0ltvew5NnqyQ3Pf8XQt6uICSWwWE3mTQeckRoQAU=w36-h36-p-c0x00000000-rp-mo-br100",
+      "comment": "Fui pedir um pouco de Suan que aparentemente estava exposta perfeitamente linda sem ossos e gordura na \"vitrine\" ,  Qd fui pegar o pacote estava tudo cheio de osso e gordura....eu pedi a que estava exposta... Afinal não é oq eles estavam vendendo ? Adivinhem???? ELE NÃO QUIS PEGAR.... alegando ser a mesma carne kkkkkkkkk Ou seja..eles colocam outra carne para os trouxas pensarem que estão levando aquelas bonitas para casa! Resultado...não levei e nunca mais volto lá! Pilantras demais....se eles não têm ética para isso...imagine só oq não devem aprontar! Fico pensando como eles passam pra trás pessoas mais humildes... PÉSSIMOS! Merecem ser denunciados!",
+      "gradeComment": 1
+    },
+    {
+      "author": "Daniela Pedroso",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucqHAytJF488Q3b4sgiBO4jqfUdI3av0efHvCfQyiA=w36-h36-p-c0x00000000-rp-mo-ba5-br100",
+      "comment": "O espaço amplo, excelente localização. Ficou a desejar o atendimento, fui ignorada em dois boxs um de produtos naturais e outro de venda de cosméticos Avon, Natura e boticário fui p comprar e a vendedora passou uma cliente branca q chegou depois de mim na minha frente e me ignorou. Em Campinas tenho visto muito preconceito racial, coisas q nunca vi em São Caetano do Sul, ou em Mogi Mirim. Bem meu dinheiro e meus cartões tem o mesmo valor. Não volto mais nessas lojas.",
+      "gradeComment": 2
+    },
+    {
+      "author": "Rute Hernandes",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucpfhDL4KgZ5l-wLr8omZR9YGzH7SaWABBjJckvtkLU=w36-h36-p-c0x00000000-rp-mo-ba5-br100",
+      "comment": "Organizado e limpo , gostei muito ,a frutaria fica do lado de fora ao lado  do mercadão , tem estacionamento",
+      "gradeComment": 5
+    },
+    {
+      "author": "Bia Silva",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZuco1MUio-gTTM2Qt3NG1aHR52k_XMpxtQfiCX7XT6A8=w36-h36-p-c0x00000000-rp-mo-ba5-br100",
+      "comment": "Mercado municipal pra mim é muito interessante sempre, gosto de conhecer em todas as cidades que eu vou!!!  O melhor lugar para comprar temperos naturais, castanhas, chás de todos os tipos. O cheiro de tempero e especiarias é muito bom...mas tem várias partes do mercado que o cheiro é horrível rs (açougue, peixaria, charque).  Também costumo comprar queijo e pamonha dentro do mercado.  Na parte de fora ficam as frutas, verduras, mudas de plantas.  De um lado fica a peixaria separadamente.  Na parte que fica na Rua Ernesto Khulman ficam as barracas com itens religiosos (velas, imagens, também tem tarot)",
+      "gradeComment": 4
+    },
+    {
+      "author": "Alexandre Corrêa",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucoxTefid9joEtKgCkZLM2HpKKCTJ10fLRqPm17hD-A=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "Um quilo de miolo da alcatra! O açougueiro: cadê a caixa de miolo e junta! Uma baita sacanagem Três tonalidades e um sabor parecido com mix de carnes! Isso com o que deu pra salvar! 60,00 reais jogado fora! Pior que entrar com um processo contra nego que tá a anos passando os outros pra trás é bobagem! Sucesso pra vcs aí! Nunca mais compro lá! Fiquem atentos",
+      "gradeComment": 1
+    },
+    {
+      "author": "Pedro Abreu",
+      "photoAuthor": "https://lh3.googleusercontent.com/a/AItbvmkE-rN-lTwsR1BWOSu4JdiDfsZEm2n_1l_ejePm=w36-h36-p-c0x00000000-rp-mo-ba5-br100",
+      "comment": "O local ideal para encontrar muitas opções e enorme variedade de produtos, desde cereais, carnes, peixes, laticínios e produtos regionais entre outras coisas. Os vendedores são muito atenciosos e simpáticos. Enfim, um local dos locais mais tradicionais de Campinas. Vale a visita!",
+      "gradeComment": 5
+    },
+    {
+      "author": "Renata Sena",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucoyqzoZsuAbQMl_UVsq1jvvV0BakWRUZNxvWKqKZQ=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "Caso alguém precise de conserto de panelas, nunca pagem adiantado. Minha vó foi em uma loja dentro do mercadão onde uma \"senhora\" muito boa de lábia cobrou 2 vezes pelo mesmo serviço. Fica a dica pra ninguém ser vítima de desonestidade como fizeram com uma idosa.",
+      "gradeComment": 1
+    },
+    {
+      "author": "ANGELA MARIA DA CRUZ REBOUÇAS",
+      "photoAuthor": "https://lh3.googleusercontent.com/a/AItbvmleLnVi-wYzPGsfOzRJK8L59_ydx5umLJ4IP_8d=w36-h36-p-c0x00000000-rp-mo-br100",
+      "comment": "Fascinante! É um espaço  rico em aromas e sabores . Impossível não mergulhar naquele ambiente sem dar vazão à inspiração e a criatividade . Limpo , diversificado,organizado e cheio de magia. Adorei!!",
+      "gradeComment": 5
+    },
+    {
+      "author": "julio syrino",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZuco9XVfCkloJv_bMhabcRRyMhcAeOqITuHpmBizngk4=w36-h36-p-c0x00000000-rp-mo-ba3-br100",
+      "comment": "Muita variedades, mas os preços é lá em cima, fica ligeiro na hora de pagar, no cartão, tem vendedor, não todos, que fala um valor e no caixa quem tiver lá passa uns centavos a mais...a peixaria é ótima,mas fique de olho no peixe que tem umas moscas que passeia por cima... No demais tá de boa",
+      "gradeComment": 4
+    },
+    {
+      "author": "Luiz Fernandes",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucr74X5wOroYHdJRG2Hc0_L1-leiZ_7nb0M0uDMEeQ=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "Excelente lugar para comprar ingredientes de feijoada tradicional. Melhor coxinha de massa de mandioca da cidade. Banca de sucos da Claudinha parada obrigatória. Temperos e pimentas para quem gosta! Chás de todo tipo!",
+      "gradeComment": 5
+    },
+    {
+      "author": "EDY LOURENÇO",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucoo5gFZB_DsMQoEgwOGB2JXjViMY1UIVhNQVEUN5KM=w36-h36-p-c0x00000000-rp-mo-br100",
+      "comment": "Ótimo para compras .. Frutas,verduras,grãos, produtos do norte,carnes, peixes..e muitas diversidades de alimentos.. Super recomendo... Mercadão de Campinas sp Tradição & qualidade.",
+      "gradeComment": 5
+    }
+  ],
+  "peakHours": [
+    {
+      "Sunday": [
+        {
+          "hour": "07:00",
+          "percent": 9
+        },
+        {
+          "hour": "08:00",
+          "percent": 13
+        },
+        {
+          "hour": "09:00",
+          "percent": 20
+        },
+        {
+          "hour": "10:00",
+          "percent": 28
+        },
+        {
+          "hour": "11:00",
+          "percent": 22
+        }
+      ]
+    },
+    {
+      "Monday": [
+        {
+          "hour": "07:00",
+          "percent": 14
+        },
+        {
+          "hour": "08:00",
+          "percent": 26
+        },
+        {
+          "hour": "09:00",
+          "percent": 39
+        },
+        {
+          "hour": "10:00",
+          "percent": 49
+        },
+        {
+          "hour": "11:00",
+          "percent": 54
+        },
+        {
+          "hour": "12:00",
+          "percent": 52
+        },
+        {
+          "hour": "13:00",
+          "percent": 51
+        },
+        {
+          "hour": "14:00",
+          "percent": 54
+        },
+        {
+          "hour": "15:00",
+          "percent": 61
+        },
+        {
+          "hour": "16:00",
+          "percent": 62
+        },
+        {
+          "hour": "17:00",
+          "percent": 51
+        }
+      ]
+    },
+    {
+      "Tuesday": [
+        {
+          "hour": "07:00",
+          "percent": 16
+        },
+        {
+          "hour": "08:00",
+          "percent": 28
+        },
+        {
+          "hour": "09:00",
+          "percent": 41
+        },
+        {
+          "hour": "10:00",
+          "percent": 51
+        },
+        {
+          "hour": "11:00",
+          "percent": 54
+        },
+        {
+          "hour": "12:00",
+          "percent": 52
+        },
+        {
+          "hour": "13:00",
+          "percent": 51
+        },
+        {
+          "hour": "14:00",
+          "percent": 56
+        },
+        {
+          "hour": "15:00",
+          "percent": 62
+        },
+        {
+          "hour": "16:00",
+          "percent": 62
+        },
+        {
+          "hour": "17:00",
+          "percent": 51
+        }
+      ]
+    },
+    {
+      "Wednesday": [
+        {
+          "hour": "07:00",
+          "percent": 16
+        },
+        {
+          "hour": "08:00",
+          "percent": 29
+        },
+        {
+          "hour": "09:00",
+          "percent": 43
+        },
+        {
+          "hour": "10:00",
+          "percent": 53
+        },
+        {
+          "hour": "11:00",
+          "percent": 56
+        },
+        {
+          "hour": "12:00",
+          "percent": 54
+        },
+        {
+          "hour": "13:00",
+          "percent": 54
+        },
+        {
+          "hour": "14:00",
+          "percent": 58
+        },
+        {
+          "hour": "15:00",
+          "percent": 64
+        },
+        {
+          "hour": "16:00",
+          "percent": 64
+        },
+        {
+          "hour": "17:00",
+          "percent": 53
+        }
+      ]
+    },
+    {
+      "Thursday": [
+        {
+          "hour": "07:00",
+          "percent": 16
+        },
+        {
+          "hour": "08:00",
+          "percent": 29
+        },
+        {
+          "hour": "09:00",
+          "percent": 43
+        },
+        {
+          "hour": "10:00",
+          "percent": 52
+        },
+        {
+          "hour": "11:00",
+          "percent": 54
+        },
+        {
+          "hour": "12:00",
+          "percent": 51
+        },
+        {
+          "hour": "13:00",
+          "percent": 49
+        },
+        {
+          "hour": "14:00",
+          "percent": 52
+        },
+        {
+          "hour": "15:00",
+          "percent": 58
+        },
+        {
+          "hour": "16:00",
+          "percent": 58
+        },
+        {
+          "hour": "17:00",
+          "percent": 49
+        }
+      ]
+    },
+    {
+      "Friday": [
+        {
+          "hour": "07:00",
+          "percent": 16
+        },
+        {
+          "hour": "08:00",
+          "percent": 30
+        },
+        {
+          "hour": "09:00",
+          "percent": 45
+        },
+        {
+          "hour": "10:00",
+          "percent": 57
+        },
+        {
+          "hour": "11:00",
+          "percent": 60
+        },
+        {
+          "hour": "12:00",
+          "percent": 57
+        },
+        {
+          "hour": "13:00",
+          "percent": 58
+        },
+        {
+          "hour": "14:00",
+          "percent": 63
+        },
+        {
+          "hour": "15:00",
+          "percent": 69
+        },
+        {
+          "hour": "16:00",
+          "percent": 67
+        },
+        {
+          "hour": "17:00",
+          "percent": 54
+        }
+      ]
+    },
+    {
+      "Saturday": [
+        {
+          "hour": "07:00",
+          "percent": 20
+        },
+        {
+          "hour": "08:00",
+          "percent": 37
+        },
+        {
+          "hour": "09:00",
+          "percent": 60
+        },
+        {
+          "hour": "10:00",
+          "percent": 82
+        },
+        {
+          "hour": "11:00",
+          "percent": 97
+        },
+        {
+          "hour": "12:00",
+          "percent": 100
+        },
+        {
+          "hour": "13:00",
+          "percent": 88
+        },
+        {
+          "hour": "14:00",
+          "percent": 68
+        },
+        {
+          "hour": "15:00",
+          "percent": 47
+        }
+      ]
+    }
+  ],
+  "relatedSearches": [
+    "mercado municipal de campinas lojas",
+    "mercado municipal de campinas horário de funcionamento",
+    "mercado municipal de campinas telefone",
+    "mercado municipal de campinas peixaria",
+    "mercado municipal de campinas está aberto",
+    "mercado municipal de campinas história",
+    "box mercado municipal de campinas",
+    "mercado municipal de campinas goiânia"
+  ],
+  "relateds": [
+    {
+      "mainName": "Mercado Municipal de São Paulo",
+      "url": null
+    },
+    {
+      "mainName": "Basílica de Nossa Senhora do Carmo",
+      "url": null
+    },
+    {
+      "mainName": "Palácio dos Azulejos",
+      "url": null
+    },
+    {
+      "mainName": "Torre do Castelo",
+      "url": null
+    },
+    {
+      "mainName": "Largo do Rosário",
+      "url": null
+    },
+    {
+      "mainName": "Catedral Metropolitana de Campinas Paróquia Nossa Senhora Da Conceição",
+      "url": null
+    },
+    {
+      "mainName": "Shopping Iguatemi Campinas",
+      "url": null
+    },
+    {
+      "mainName": "Parque D. Pedro Shopping",
+      "url": null
+    }
+  ]
+}

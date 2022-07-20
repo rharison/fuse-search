@@ -1,0 +1,549 @@
+{
+  "mainName": "Zoológico de São Paulo",
+  "slug": "zoologico-de-sao-paulo",
+  "category": "Zoológico",
+  "locationInformation": {
+    "latitude": "-23.6508725",
+    "longitude": "-46.6204495"
+  },
+  "basicInformation": [
+    {
+      "label": "endereço",
+      "tooltip": "Copiar endereço",
+      "text": "Av. Miguel Estefno, 4241 - Água Funda, São Paulo - SP, 04301-905",
+      "icon": "https://www.gstatic.com/images/icons/material/system_gm/1x/place_gm_blue_24dp.png"
+    },
+    {
+      "label": "website",
+      "tooltip": "Abrir website",
+      "text": "zoologico.com.br",
+      "icon": "https://www.gstatic.com/images/icons/material/system_gm/1x/public_gm_blue_24dp.png"
+    },
+    {
+      "label": "Code",
+      "tooltip": "Copiar Plus Code",
+      "text": "89XH+MR São Paulo",
+      "icon": "https://maps.gstatic.com/mapfiles/maps_lite/images/2x/ic_plus_code.png"
+    },
+    {
+      "label": "send-to-device",
+      "text": "Enviar para smartphone",
+      "icon": "https://maps.gstatic.com/consumer/images/icons/1x/send_to_mobile_alt_gm_blue_24dp.png"
+    }
+  ],
+  "ratingInformation": {
+    "basicRatingInformation": {
+      "averageGrade": 4.5,
+      "totalOfEvaluations": 63662
+    },
+    "ratingsByGrade": [
+      {
+        "grade": 5,
+        "totalRatings": 42933
+      },
+      {
+        "grade": 4,
+        "totalRatings": 12790
+      },
+      {
+        "grade": 3,
+        "totalRatings": 5039
+      },
+      {
+        "grade": 2,
+        "totalRatings": 1376
+      },
+      {
+        "grade": 1,
+        "totalRatings": 1524
+      }
+    ]
+  },
+  "ratingTags": [
+    {
+      "tag": "só",
+      "count": 26,
+      "tooltip": "só, mencionado em 26 avaliações"
+    },
+    {
+      "tag": "julho",
+      "count": 18,
+      "tooltip": "julho, mencionado em 18 avaliações"
+    },
+    {
+      "tag": "passeio",
+      "count": 1905,
+      "tooltip": "passeio, mencionado em 1.905 avaliações"
+    },
+    {
+      "tag": "dinossauros",
+      "count": 661,
+      "tooltip": "dinossauros, mencionado em 661 avaliações"
+    },
+    {
+      "tag": "lanchonetes",
+      "count": 472,
+      "tooltip": "lanchonetes, mencionado em 472 avaliações"
+    },
+    {
+      "tag": "o dia",
+      "count": 352,
+      "tooltip": "o dia, mencionado em 352 avaliações"
+    },
+    {
+      "tag": "bebedouros",
+      "count": 241,
+      "tooltip": "bebedouros, mencionado em 241 avaliações"
+    },
+    {
+      "tag": "bilheteria",
+      "count": 165,
+      "tooltip": "bilheteria, mencionado em 165 avaliações"
+    },
+    {
+      "tag": "arborizado",
+      "count": 71,
+      "tooltip": "arborizado, mencionado em 71 avaliações"
+    },
+    {
+      "tag": "grande",
+      "count": 17,
+      "tooltip": "grande, mencionado em 17 avaliações"
+    }
+  ],
+  "featuredPhotos": [
+    "https://lh5.googleusercontent.com/p/AF1QipPSrdqT-Ffw4L56D94eSBI9_7YFtLcelXhZUu_A=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNsLZcSUhHLHc2E9C7WFM695mggrYmEvxvhfjno=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMR-w0MX0p9YfRprMJ3FNHOYX_LvQ36nbuWI_hG=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNc2GFDQ_VkLBiYhY72Io07DcaBCxVbmSPmVFzz=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipP52mEpns9XgVbgrTR0Py8Q99XdyrllBO3wqDQ=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOSZnU_3RHCpnjt1acPIVbFb2bXlqPn2iV5yh0i=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipO2QlbDkZJOu8EqY6fGO1sm4i7EPN0tORvxDK4=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOXkDuTmvQp1lziBswpbEtHAi04N2N3oofzewUa=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPe4FaTS5XAb3rA-mahLhiNLfdZUAt1DiA6u3E=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOarakCxZnuTohUoBaUNGqqcdeMpYdl8uoIVMVx=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPptlvK_sDBhmH4If0D45P373QJQOZa1qHoxxlc=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipN-lemTMfvcNjPAgJemwaATEAmpfB4EfL1CrZfg=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipP-osmwpkX2qlsu_iyTDxf871F2Yq3puQQZhZQN=w1024-h576-k-no"
+  ],
+  "topComments": [
+    {
+      "author": "Patricia Monari",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucoEtBiuDaz0naB38QkgZ2ztC4xepdrEzxC9bpumyA=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "Na minha opinião o melhor passeio para se fazer em SP. O zoo é grande, bem arborizado, muito bem cuidado, os animais estão visivelmente bem tratados. Fomos de manhã e vimos vários animais sendo alimentados e estavam todos bem ativos. É um passeio muito gostoso que eu recomendo muito pois tanto agrada crianças de todas as idades como adultos também. Fomos em 3 adultos e 1 criança e levamos 4h para ver todo o zoo (sem incluir o parque dos dinossauros), isso porque fomos parando para descansar e comer algumas coisas. Por falar em comer... há várias lanchonetes e food trucks espalhados ao longo de todo o zoo, mas os valores são altos (500ml água R$5, lanches acima de R$25, picolé de frutas R$8) só pra ter uma ideia... aconselho a levar uns lanchinhos, água (tem vários bebedouros espalhados pelo zoo todo), repelente, protetor solar e ir com roupas confortáveis para passear de boa. Ha banheiros espalhados pelo zoo, sempre bem limpos, com acessibilidade e trocadores. Tem um estacionamento (credenciado) bem em frente ao zoo, valor único R$30, se der sorte ainda consegue uma vaguinha com sombra... Enfim, gostamos de ver que o parque, assim como os animais, está sendo bem cuidado. Gostaria inclusive de elogiar a todos os funcionários do zoo, que todos sem exceção, muito educados, prestativos e preparados tanto para dar orientações como para cobrar as regras (uso de máscaras por exemplo). O preço da entrada ao meu ver é ok pelo tanto de funcionários, animais e espaço grande. Enfim, um passeio que recomendo muito!👍",
+      "gradeComment": 5
+    },
+    {
+      "author": "Gilmar Santos -: Bike Pesquisa SP",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucpt6zoX3I_ZMx4TTkdZpTYxFU2EiwLzSC7uiN1bsKI=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "Após anos sem ir ao local, consegui um tempinho! Infelizmente vi os valores em redes sociais que não batem com os da bilheteria! Ex: R$ 25,00 estudantes/professores. Ao que entendi seriam só essas excessões! Ao público em geral, observei e paguei o valor de R$ 59,00 e + R$ 40,00 de estacionamento. Entendo que foi privatizado mas em minha opinião por conta do momento, esse valor não justifica. Em um passeio em família com filhos, idosos e o casal, realmente pesa se levar em conta a alimentação que também tem o valor elevado! Comparando ao parque do Ibirapuera que também foi privatizado, não tem a cobrança de entrada. É compreensível se cobrar a entrada, uma vez que estamos falando de uma estrutura maior, animais, alimentação, logística e funcionários para serem geridos.. Mas com valor menor você consegue receber mais visitantes e o fluxo aumenta com mais receita! Fora esses aspectos, observa-se que a estrutura está funcionando bem internamente! Já do lado externo, sugiro que revejam o quesito segurança pública! Infelizmente vandalismo/roubo e furto foram observados. Também foi observado um assédio por parte de supostos flanelinhas, tanto para motoristas e motociclistas! Sempre procuro contribuir de forma positiva, mas tenho que ser transparente aqui. Sobre os ingressos, sugiro que o visitante/turista, acesse o site antes pq via pesquisa Google fica essa confusão de informações, pelo menos deveriam atualizar isso, fica a dica!",
+      "gradeComment": 3
+    },
+    {
+      "author": "Mi",
+      "photoAuthor": "https://lh3.googleusercontent.com/a/AItbvmlu2X5BctZspZG3HT1br_BkslPI6vKsa8heyZfH=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "Primeiro deveriam disponibilizar um mapa do local para cada pessoa que entra logo na entrada, o que nao é feito. Tem um totem com um mapa no meio do caminho mas se estiver lotado como estava no domingo que eu fui vc mal consegue ver. Eu so achei na saida. Se forem com crianças saibam que o caminho é extenso demais e certamente elas vão reclamar de tanto andar logo no começo. No local há opção de locar carrinhos para crianças (40,00 cada) daqueles de plástico que você empurra. Há ainda a opção de locar um carrinho motorizado para te levar para um tour a (15,00 por pessoa). A meu ver esse passeio com guia motorizado mais serve como um mapa ambulante do local, pois não passa em todos os locais dos animais e passa meio rápido muito mais te mostrando o que fica aonde pra depois vc ir andando por conta propria pra ver, e nao te permite descer e ficar onde vc quer. Eles te pegam e te devolvem no mesmo lugar. Ha algumas lojas de souvenir no local mas tudo caro demais (pelucias sempre mais de 150,00, copos a 50,00). Ha lanchonetes no caminho mas cheias, com muita fila e muita fritura, não dá pra pensar em entrar. Ha carrinhos de picole (9,00), pipoca (10,00) agua de coco (14,00) mas tudo caro. Compensa comprar o ingresso online porque no local ha muita fila na bilheteria. Os animais em si são bonitos, a maioria está integrado a natureza, mas achei alguns deles meio caidinhos, pareciam tristes. É interessante para apresentar as espécies para as crianças, mas só. Estacionamento (40,00). Compramos junto o mundo do dinossauro que fica dentro do zoológico, e um local pequeno pra andar, tem algumas réplicas de dinossauros, as criancas gostaram e tem um arvorismo bem legal a ser percorrido, mas tem que ir de tênis e é pago (10,00). Enfim, é um programa interessante para apresentar as crianças, mas só falta cobrarem pelo ar que voce respira lá e não tem o conforto que vc espera pelo que se paga, e os animais não parecem num hotel 5 estrelas.",
+      "gradeComment": 3
+    },
+    {
+      "author": "Nelson Tadashi Tanaka",
+      "photoAuthor": "https://lh3.googleusercontent.com/a/AItbvmme5alP6CSZQ3ncsHFpw6bl8mhCEE1TV8K3Reee=w36-h36-p-c0x00000000-rp-mo-ba5-br100",
+      "comment": "Já havia ido ao zoológico de São Paulo em diversas ocasiões com minha família mas desta vez a experiência foi muito diferente. A pouco tempo o zoológico iniciou uma experiência de passeio noturno!!! A ideia é que os visitantes vejam a vida dos animais durante um período diferente, mais ativos para a maioria. Assim animais como tigre, onça pintada, lobo guará, hipopótamo (ficou muito perto da gente), leão, tamanduá bandeira, dentre outros... Por serem noturnos, ficam muito ativos e assim muito mais fácil de vê-los de perto!! Uma experiência incrível e muito diferente do zoológico no período diurno! As crianças adoraram o passeio! O local e organizado para seguir uma trilha no chão, assim os visitantes são direcionados a um único caminho, deixando mais organizado o passeio. Chegamos no local perto das 19:00 e saímos perto das 22:00, fiquem atentos as regras para entrada para não perder o horário de entrada (andamos bem tranquilos pois e bem legal ver cada animal!). Pelo site os dias da semana que possuem o passeio são, quinta, sexta e sábado, por enquanto só DURANTE o mês de JULHO de 22 (até então), então caso se interesse, corra para reservar já a sua entrada! (Os ingressos estão disponíveis pelo proprio site do Zoo São Paulo. Uma dica, como o local fica muito escuro, as pessoas que vão com crianças precisam redobrar a atenção para não se perderem, adicionalmente as fotos NAO PODEM SER TIRADAS COM FLESH E NEM A UTILIZACAO DE LANTERNA E PERMITIDA, então vamos respeitar as regras para o bem dos animais e curtir o ótimo passeio!!!",
+      "gradeComment": 5
+    },
+    {
+      "author": "Marco Amaro",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZuco-KiVuFx6WJpwybsA9mTnRSpAz7dqK3ZO-UEp8=w36-h36-p-c0x00000000-rp-mo-ba5-br100",
+      "comment": "Zoológico de sp... Tem ônibus que saem do terminal parque Dom Pedro e metrô Jabaquara... Precisa de mais placas ao redor para encontrar o estacionamento, valor 30 reais... Forte assédio na chegada do parque de flanelinhas para estacionar o carro na rua onde eles dizem que cuidam do carro...valor 30 reais....Recomendo procurar o estacionamento Filas para pagamento em dinheiro e cartão e para compras online.... Sugestão: compre seus ingressos pelo site....a entrada se torna muito mais fácil e rápido...e o valor é o mesmo sem taxas ... Parque estava limpo e organizado, algumas regiões estavam com mato alto, uma dela uma área destinada a piquenique... Algumas Lanchonetes espalhadas pelo parque,os valores bem altos.... Uma cerveja lata 12 reais??!!??? Melhor levar alguns lanches e refri de casa... Bebedores espalhados pelo parque, assim como banheiros que, sempre limpos. Vários animais, não sei dizer se estavam bem tratados ou mal tratados como alguns dizem...só achei os animais desanimados...e bem quietos... Como sugestão ao parque, podia se melhorar a sinalização e o informações sobre o parque e animais.... Na entrada não tinha o mapa do parque, estava em falta, e a funcionária nós disse para tirar uma FOTO do mapa que havia na entrada do parque.... Mas não seria Mais fácil ter um qr Code para escanear e ter acesso ao mapa interativo do parque....seria muito bom e prático.... E nas o informações sobre os animais a mesma coisa, um Qr Code para escanear e ter acesso a mais informações sobre os animais, fotos, vídeos com eles sendo alimentados, vida noturna e etc e um link para o recurso do Google para ver o animal em 3D pelo celular....agregaria muito valor ao passeio...eu acho....kk No geral recomendamos o parque.... Valor da entrada, acredito que justo.... Para mais sugestões entre em contato...kkkk",
+      "gradeComment": 4
+    },
+    {
+      "author": "Mayara Campos",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucqSloyx9AVZQn_ZPMlQx5BkA5ADB8CtBPMZM8fL=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "Muito legal a visita, o lugar é lindo! Fui com meu marido e meu filho de 7 anos que viu a maioria dos animais pela primeira vez. Senti falta de alguns animais que tinham da última vez que fui há anos atrás. A infraestrutura está muito boa, banheiros limpinhos, quase tempo nenhum na fila pra adquirir ingressos, vários lugares pra comer e fazer piqueniques. O ingresso comum está 59,90 e meia está 29,90 sem a visita dos dinossauros. O estacionamento do zoológico sai por mais 40 reais.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Letícia Tenório",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucoxQm6LdeUuqKkc3qmmemYeBAModv3G_M1bVQYDt64=w36-h36-p-c0x00000000-rp-mo-br100",
+      "comment": "(Ótima opção para passear com as crianças)  Local bem cheio, porem espaçoso, legal comprar ingressos online para entrar com mais agilidade.  Ir com sapatos confortáveis e fechado, lá é grande, anda bem e parte de estacionamento é chão de pedra terra.  Tem o local das formigas e répteis que está aberto até às 16hs somente, de repente esse ser o primeiro local a visitar depois os demais. Acabei não conseguindo ver essa parte por conta do horário. De resto gostei bastante, aparentemente animais todos bem cuidados.  Alimentação, lá tem opção de fazer pic NIC, porém tem restaurante, os valores de tdo que compramos lá é acima da média. Legal levar lanche para quem quer economizar.  Voltaria com minha família sim!  Gratidão.",
+      "gradeComment": 5
+    },
+    {
+      "author": "carlos schneider",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucoo1oKvpFMiCq2fgV5K7fvPLe7d6I-_inWbhCo6BFc=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "Sai do espírito santo para levar meus filhos para conhecer o zoológico, fui em uma segunda feira 18/04. Eu já conheço o zoológico de Belo Horizonte e rio de janeiro, fazendo uma comparação a estrutura de são Paulo é melhor e maior. Não vai pensando que vc vai ver variedades de bichos de porte médio grande, lá vai ter o básico de todos zoológico. O cara da portaria falou que em 2 horas dava pra fazer o trajeto todo, cheguei 11:00 e sai às 15:00, com parada para lanche, vá com calçado bom. Tem bastantes lugares para sentar, muitos bebedouros e banheiros que me surpreendeu, estavam impecável de limpos. Uma atração que meus filhos gostaram muito foi o mundo dos dinossauros, são réplicas de dinossauros com movimento e sons. Coisas que não gostei, o valor da entrada, Paguei R$200,00 na entrada, 2 inteira e 1 meia, crianças de 4 anos não paga. Apenas um restaurante, que não tem muita opção e não é barato, existe mais lanchonete, mas tb apenas salgados. Loja de lembranças parece que é só pra lembrar msm, pq é tudo um absurdo de caro. O tigre de bengala não estava, falaram que só fica exposto de quarta a domingo e os elefantes tb não estavam exposto. No mundo dos dinossauros o arvorismo estava interditado para reforma.",
+      "gradeComment": 4
+    },
+    {
+      "author": "Rafael Pavan Silva",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucrbwbM3YR_FiFuHNILtHi6FDFSo0LKKundGHKFwdA=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "Caos e desespero. É o resumo de um domingo no zoológico. Um combinado entre polícia, CET e flanelinhas trava o acesso ao zoológico e faz você parar o carro em vários lugares. Eu tentei pegar informação correta com um cara da CET e ele literalmente me enganou e me direcionou para muito longe. Aí eu tive que parar onde um flanelinha disse que levaria 2 minutos andando para a bilheteria. Eu estava com um bebê, uma PCD, e dois idosos. 50 reais te cobram. Pegamos descidas e subidas, em trajeto sem calçada e com tráfego, que levou 20 minutos. Ninguém da equipe do zoológico orientando nada no caminho. Fila enorme. No fim da fila UM pobre coitado tentando direcionar as pessoas para as bilheterias. Tínhamos pago online então pegamos (lá depois de muito suor) uma fila menor. Entrando lá, também se vê a falta de equipe. Ninguém entregando mapa, ninguém disponível pra orientar as pessoas, ninguém limpando nada, lanchonetes com filas imensas. Era cada um por si,enfrentando trânsito populacional orando todo momento para não pegar covid com 20 pessoas por metro quadrado. Nesse momento nem importava mais ver aqueles animais dopados deprimidos. O passeio acabou antes de começar. Vale aqui notar que creio ser cabível de processo a negligência com as necessidades dos clientes pagantes. E o fato da CET literalmente ameaçar multar a pessoa que quer parar o carro na frente do zoológico, mesmo sendo cadeirante, é a cereja do bolo de estrume que essas instituições são.",
+      "gradeComment": 1
+    },
+    {
+      "author": "Izabella Ribeiro",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucrRP7t4RHAhBlzbqqFek36yX79xbE7xKzDuHo1aUV4=w36-h36-p-c0x00000000-rp-mo-br100",
+      "comment": "lugar maravilhoso para se visitar com a família. Porém, perguntei a uma comerciante que trabalha a frente do zoológico sobre o valor,pois, o Google não está atualizado e acompanhando a mudança de valor,a mesma me disse que o valor mudou duas vezes em um único mês,estando hoje 69,90. Pelo valor ser acessível para ver os animais,mais com tudo está caro para ver a conservação,pois antes estava 45,00+/-55,00.. Pois, com a mudança de valor as minhas expectativas para ver a conversação eram grandes e não foram correspondidas As águas dos animais sujas,a água da lontra estava um nojo,alguns recintos estavam sujos. Hoje no zoológico tem a atração de dinossauro,e pela minha experiência,não foi um dinheiro bem gasto,o valor pago lá fora é para entra e ver os dinossauros que são ao ar livre e só fazem os barulhos deles e alguns mexem a cabeça e a mão,porém os brinquedos lá,são todos pagos a Vulso,não tendo oq se fazer no parque a não ser olhar.. Quem for para estar vendo a família dos felinos,tenham em mente que será difícil pois ficam longe e dorme a maioria do tempo. Quando forem, olhem bastante o mapa do zoológico.. pois eu e minha esposa pegamos o mapa no Google pq não tem o mapa em todos os lugares do parque,mais infelizmente o do Google não está atualizado referente a mudança de lugar dos animais..",
+      "gradeComment": 4
+    }
+  ],
+  "peakHours": [
+    {
+      "Sunday": [
+        {
+          "hour": "09:00",
+          "percent": 31
+        },
+        {
+          "hour": "10:00",
+          "percent": 52
+        },
+        {
+          "hour": "11:00",
+          "percent": 74
+        },
+        {
+          "hour": "12:00",
+          "percent": 92
+        },
+        {
+          "hour": "13:00",
+          "percent": 100
+        },
+        {
+          "hour": "14:00",
+          "percent": 93
+        },
+        {
+          "hour": "15:00",
+          "percent": 75
+        },
+        {
+          "hour": "16:00",
+          "percent": 52
+        }
+      ]
+    },
+    {
+      "Monday": [
+        {
+          "hour": "09:00",
+          "percent": 10
+        },
+        {
+          "hour": "10:00",
+          "percent": 13
+        },
+        {
+          "hour": "11:00",
+          "percent": 16
+        },
+        {
+          "hour": "12:00",
+          "percent": 17
+        },
+        {
+          "hour": "13:00",
+          "percent": 18
+        },
+        {
+          "hour": "14:00",
+          "percent": 17
+        },
+        {
+          "hour": "15:00",
+          "percent": 14
+        },
+        {
+          "hour": "16:00",
+          "percent": 11
+        }
+      ]
+    },
+    {
+      "Tuesday": [
+        {
+          "hour": "09:00",
+          "percent": 11
+        },
+        {
+          "hour": "10:00",
+          "percent": 15
+        },
+        {
+          "hour": "11:00",
+          "percent": 17
+        },
+        {
+          "hour": "12:00",
+          "percent": 20
+        },
+        {
+          "hour": "13:00",
+          "percent": 21
+        },
+        {
+          "hour": "14:00",
+          "percent": 20
+        },
+        {
+          "hour": "15:00",
+          "percent": 18
+        },
+        {
+          "hour": "16:00",
+          "percent": 14
+        }
+      ]
+    },
+    {
+      "Wednesday": [
+        {
+          "hour": "09:00",
+          "percent": 13
+        },
+        {
+          "hour": "10:00",
+          "percent": 17
+        },
+        {
+          "hour": "11:00",
+          "percent": 21
+        },
+        {
+          "hour": "12:00",
+          "percent": 23
+        },
+        {
+          "hour": "13:00",
+          "percent": 23
+        },
+        {
+          "hour": "14:00",
+          "percent": 21
+        },
+        {
+          "hour": "15:00",
+          "percent": 18
+        },
+        {
+          "hour": "16:00",
+          "percent": 14
+        }
+      ]
+    },
+    {
+      "Thursday": [
+        {
+          "hour": "09:00",
+          "percent": 17
+        },
+        {
+          "hour": "10:00",
+          "percent": 24
+        },
+        {
+          "hour": "11:00",
+          "percent": 30
+        },
+        {
+          "hour": "12:00",
+          "percent": 35
+        },
+        {
+          "hour": "13:00",
+          "percent": 38
+        },
+        {
+          "hour": "14:00",
+          "percent": 38
+        },
+        {
+          "hour": "15:00",
+          "percent": 33
+        },
+        {
+          "hour": "16:00",
+          "percent": 24
+        }
+      ]
+    },
+    {
+      "Friday": [
+        {
+          "hour": "09:00",
+          "percent": 15
+        },
+        {
+          "hour": "10:00",
+          "percent": 23
+        },
+        {
+          "hour": "11:00",
+          "percent": 30
+        },
+        {
+          "hour": "12:00",
+          "percent": 36
+        },
+        {
+          "hour": "13:00",
+          "percent": 38
+        },
+        {
+          "hour": "14:00",
+          "percent": 36
+        },
+        {
+          "hour": "15:00",
+          "percent": 30
+        },
+        {
+          "hour": "16:00",
+          "percent": 21
+        }
+      ]
+    },
+    {
+      "Saturday": [
+        {
+          "hour": "09:00",
+          "percent": 25
+        },
+        {
+          "hour": "10:00",
+          "percent": 41
+        },
+        {
+          "hour": "11:00",
+          "percent": 56
+        },
+        {
+          "hour": "12:00",
+          "percent": 66
+        },
+        {
+          "hour": "13:00",
+          "percent": 70
+        },
+        {
+          "hour": "14:00",
+          "percent": 67
+        },
+        {
+          "hour": "15:00",
+          "percent": 58
+        },
+        {
+          "hour": "16:00",
+          "percent": 41
+        }
+      ]
+    }
+  ],
+  "relatedSearches": [
+    "zoológico de são paulo valor ingresso 2022",
+    "zoológico de são paulo ingresso",
+    "zoológico de são paulo telefone",
+    "zoológico de são paulo está aberto",
+    "valor do estacionamento do zoológico de são paulo",
+    "zoológico de são paulo está aberto amanhã",
+    "zoológico de são paulo endereço",
+    "zoológico de são paulo fotos"
+  ],
+  "relateds": [
+    {
+      "mainName": "Aquário de São Paulo",
+      "url": null
+    },
+    {
+      "mainName": "Zoo Safári",
+      "url": null
+    },
+    {
+      "mainName": "Parque da Mônica",
+      "url": null
+    },
+    {
+      "mainName": "Jardim Botânico de São Paulo",
+      "url": null
+    },
+    {
+      "mainName": "Zoológico Municipal de Guarulhos",
+      "url": null
+    },
+    {
+      "mainName": "Parque Zoológico Municipal \"Quinzinho de Barros\"",
+      "url": null
+    },
+    {
+      "mainName": "Hopi Hari",
+      "url": null
+    },
+    {
+      "mainName": "Parque Ibirapuera",
+      "url": null
+    },
+    {
+      "mainName": "Museu Catavento",
+      "url": null
+    },
+    {
+      "mainName": "Parque Villa-Lobos",
+      "url": null
+    },
+    {
+      "mainName": "Instituto Butantan",
+      "url": null
+    },
+    {
+      "mainName": "Museu Paulista",
+      "url": null
+    },
+    {
+      "mainName": "Pinacoteca de São Paulo",
+      "url": null
+    },
+    {
+      "mainName": "Museu de Arte de São Paulo Assis Chateaubriand",
+      "url": null
+    },
+    {
+      "mainName": "Edifício Altino Arantes",
+      "url": null
+    },
+    {
+      "mainName": "Magic City",
+      "url": null
+    },
+    {
+      "mainName": "Parque da Água Branca (Parque Dr. Fernando Costa)",
+      "url": null
+    },
+    {
+      "mainName": "Museu da Imaginação",
+      "url": null
+    },
+    {
+      "mainName": "Zooparque Itatiba",
+      "url": null
+    },
+    {
+      "mainName": "Parque Zoológico Municipal de Bauru",
+      "url": null
+    },
+    {
+      "mainName": "Mercado Municipal de São Paulo",
+      "url": null
+    },
+    {
+      "mainName": "Cali Zoo",
+      "url": null
+    },
+    {
+      "mainName": "Casa das Rosas - Espaço Haroldo de Campos de Poesia e Literatura",
+      "url": null
+    }
+  ]
+}

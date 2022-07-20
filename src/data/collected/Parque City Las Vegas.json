@@ -1,0 +1,998 @@
+{
+  "mainName": "Parque City Las Vegas",
+  "slug": "parque-city-las-vegas",
+  "category": "Parque municipal",
+  "locationInformation": {
+    "latitude": "-23.4290259",
+    "longitude": "-46.5437808"
+  },
+  "basicInformation": [
+    {
+      "label": "endereço",
+      "tooltip": "Copiar endereço",
+      "text": "Rua Prefeito Rinaldo Poli, S/N - Jardim City, Guarulhos - SP, 07082-530",
+      "icon": "https://www.gstatic.com/images/icons/material/system_gm/1x/place_gm_blue_24dp.png"
+    },
+    {
+      "label": "telefone",
+      "tooltip": "Copiar número de telefone",
+      "text": "(11) 2458-1666",
+      "icon": "https://www.gstatic.com/images/icons/material/system_gm/1x/phone_gm_blue_24dp.png"
+    },
+    {
+      "label": "Code",
+      "tooltip": "Copiar Plus Code",
+      "text": "HFC4+9F Guarulhos, São Paulo",
+      "icon": "https://maps.gstatic.com/mapfiles/maps_lite/images/2x/ic_plus_code.png"
+    },
+    {
+      "label": "merchant",
+      "text": "Reivindicar esta empresa",
+      "icon": "https://www.gstatic.com/images/icons/material/system_gm/1x/verified_user_gm_blue_24dp.png"
+    }
+  ],
+  "ratingInformation": {
+    "basicRatingInformation": {
+      "averageGrade": 4,
+      "totalOfEvaluations": 673
+    },
+    "ratingsByGrade": [
+      {
+        "grade": 5,
+        "totalRatings": 338
+      },
+      {
+        "grade": 4,
+        "totalRatings": 118
+      },
+      {
+        "grade": 3,
+        "totalRatings": 138
+      },
+      {
+        "grade": 2,
+        "totalRatings": 30
+      },
+      {
+        "grade": 1,
+        "totalRatings": 49
+      }
+    ]
+  },
+  "ratingTags": [
+    {
+      "tag": "skate",
+      "count": 23,
+      "tooltip": "skate, mencionado em 23 avaliações"
+    },
+    {
+      "tag": "brinquedos",
+      "count": 22,
+      "tooltip": "brinquedos, mencionado em 22 avaliações"
+    },
+    {
+      "tag": "caminhar",
+      "count": 19,
+      "tooltip": "caminhar, mencionado em 19 avaliações"
+    },
+    {
+      "tag": "lazer",
+      "count": 15,
+      "tooltip": "lazer, mencionado em 15 avaliações"
+    },
+    {
+      "tag": "ser",
+      "count": 12,
+      "tooltip": "ser, mencionado em 12 avaliações"
+    },
+    {
+      "tag": "brincar",
+      "count": 10,
+      "tooltip": "brincar, mencionado em 10 avaliações"
+    },
+    {
+      "tag": "reforma",
+      "count": 9,
+      "tooltip": "reforma, mencionado em 9 avaliações"
+    },
+    {
+      "tag": "lagos",
+      "count": 8,
+      "tooltip": "lagos, mencionado em 8 avaliações"
+    },
+    {
+      "tag": "segurança",
+      "count": 7,
+      "tooltip": "segurança, mencionado em 7 avaliações"
+    },
+    {
+      "tag": "bairro",
+      "count": 6,
+      "tooltip": "bairro, mencionado em 6 avaliações"
+    }
+  ],
+  "featuredPhotos": [
+    "https://lh5.googleusercontent.com/p/AF1QipNhKzn0Q1-Ald-y1yubNAsGcwYAIRMePQbA6nBz=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPgZT8LISJBvUGHTk-Fn-t_rb_LiyPPtfCx1u0z=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipO3V_2uxSeLcVZqVHFAprwTD8vEqClJ1LEPwYcL=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNx2twEICxB35XKxZAu9g3lD9INMsDSzT4T5MSA=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOsMH6sA16lfbXvR7J2Ce8vqSrgXv58VZXKNMT0=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMiYliHlRG9MyRZwZBN84f_Fj5CPxu430iExRgZ=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNh3SffDwMmd2vMh2HoS5GXHRMHUNmB4UKszAkK=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOScqDnn6Cx_GfY9jvH9NJhf6CrI8X-VrcYAbsb=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipO7NefRBkfL0jV4-fbJ61Zz_VLyOYv6jFMQT1IS=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPBbgY4MZFSY2XIox3qXacuQiK2hV-LC8f-oXxQ=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPVEnWuEUN-ulJxdbBspzzJS2KHTLAyGkKnvf5w=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPzixsQJjDYiKZHqJtrh_Gm7DLGDABTDVhGT9_Q=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPfR8beSrTmNCeN266wPYSHgDX2u3FzqGinz50T=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOf2pRX01gulazhcfgzfakPIN9z2aWCJBvXUGj8=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOPlHMoQ9p_H2Z-g-PWwp6-ghTboveL-N6MzD3K=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPspnmbfT55yXGxAnuHLV8_bBaNJ0-ScRj7SSdw=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPAeZzHgI4NWM9QN-y_ASA5ioahJJUlSR2iPK8x=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOBby5ZBtiyQgOAlwTOmLY5it-Xv-wGIE7NT4Do=w1024-h576-k-no"
+  ],
+  "topComments": [
+    {
+      "author": "jussara de jesus sousa",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucqKj6h8V0XOaYBXszp1oHDXt528nqpIkvAq3-3eGw=w36-h36-p-c0x00000000-rp-mo-br100",
+      "comment": "Os brinquedos estão todos quebrados,o parque não é plano,ele é descida,minha filha é pequena e não dá pra deixar ela sozinha,se não ela cai rolando lá pra baixo. Tá cheio de lixo,copo quebrado arriscado a cortar o pé. Parque jogado as traças.",
+      "gradeComment": 1
+    },
+    {
+      "author": "Juliana Maciel",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucrJOZI85EzqHYHMmdUMoqpVoKAx427nIZXR0Oo6jQ=w36-h36-p-c0x00000000-rp-mo-ba3-br100",
+      "comment": "Esse parque era muito bem cuidado, era um lugar que eu amava, a biblioteca o cantinho da reciclagem perfeito, tudo muito organizado é limpo , ia jogar bola com frequência, sem falar na segurança antigamente. Hoje em dia mudou completamente está parecendo abandonado.",
+      "gradeComment": 2
+    },
+    {
+      "author": "Adrieli Camini",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucrtDUMtEfv_X5PwY3Wz1vLDzwe4HfCaAfHMnov25ek=w36-h36-p-c0x00000000-rp-mo-br100",
+      "comment": "Prefeito tá faltando a manutenção do parque, o mato está alto, ausência de lixeiras pelo parque, deveriam usar a base da gcm para fazer uma ronda por dentro do mesmo  pessoas usando drogas em plena luz do dia ao lado do parquinho das crianças.",
+      "gradeComment": 4
+    },
+    {
+      "author": "Jose Cicero Da Silva.",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucrJj8RMwepLMH1y15udfs9WleQQAnm9pb5xwomOdg=w36-h36-p-c0x00000000-rp-mo-ba5-br100",
+      "comment": "Local com amplo espaço,  com duas quadras mas estão um pouco abondonadas, mini pista de skate, alguns brinquedos, local para praticar caminhadas... Adega ao lado , bar e um mercadinho...",
+      "gradeComment": 4
+    },
+    {
+      "author": "SHOUZA TUFF 29",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucoLvyH198uXPUyX8CiTFPhusf_npeDQJZUfq4f749M=w36-h36-p-c0x00000000-rp-mo-ba3-br100",
+      "comment": "Mano o lugar é top, pena que eu me acidentei de bike descendo as escadas de bike, quebrei a clavícula",
+      "gradeComment": 5
+    },
+    {
+      "author": "Antonio Gomes",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucqqry1zxFKSxQN7vcrA_pzpS4blFy_mVwpw-fyDkQ=w36-h36-p-c0x00000000-rp-mo-br100",
+      "comment": "O lugar é bom ,mais esta precisando  de uma boa reforma principalmente na quadra de basquete e pequena em toda a praça que está largada sendo que fica praticamente no centro de Guarulhos",
+      "gradeComment": 1
+    },
+    {
+      "author": "Silvana Dutra Santana",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucqE_0bcu4giIf3ZxJyRSzvDAIHNSTf-qS0E2_rlKgM=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "Eu gosto muito, porque meu neto se diverte muito !!",
+      "gradeComment": 5
+    },
+    {
+      "author": "Ricardo Morais",
+      "photoAuthor": "https://lh3.googleusercontent.com/a/AItbvmnGNvGp02Y_mla2OxdgPVkOFz-Y6bvN2ojF3LLp=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "Apesar de velho, eu gosto de curtir um Skate, e caminhar com minha filha e dog. O lugar está mal tratado. Existem 2 quadras, Fut sal.e outra de terra. Uma pista de skate, pequena, balança, um escorregador, alguns aparelhos de ginástica,um lago, e um vasto lugar pra caminhar. É um lugar tranquilo.",
+      "gradeComment": 2
+    },
+    {
+      "author": "Nilsa Borges",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucqS-EgStrVt3_CkwrKtLZqeBUUvws7eklz0DausgA=w36-h36-p-c0x00000000-rp-mo-ba2-br100",
+      "comment": "Espaço lindo e abandonado, usuários de drogas jogam por toda parte,  cápsulas coloridas, que crianças pequenas recolhem do chão 🤬  um campo d futebol transborda brejo lateral  , quadra de basketball movimentada para futebol 100pree Brinquedos de praça p/ crianças foram trocados a um ano, ainda inteiros. Aparelhos d ginástica sem nenhuma serventia ,coroas se amarram.😎 @nini.borgess",
+      "gradeComment": 3
+    },
+    {
+      "author": "Jefferson Ricardo Gonçalves da Silva",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucpcA1PBib9sPfzWLaCYpyjgQxjittHX0Y7__iDmnkE=w36-h36-p-c0x00000000-rp-mo-ba3-br100",
+      "comment": "Lugar aconchegante... Porém falta opção de lazer",
+      "gradeComment": 5
+    },
+    {
+      "author": "Bergamasco",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucrRF7vdi75z7aYKKWeF2cLRxViANsXSsqrunni-_lc=w36-h36-p-c0x00000000-rp-mo-ba5-br100",
+      "comment": "Um Parque bom pra caminhar, fazer exercícios, levar o cachorro e brincar um pouco. Têm pista de skate, alguns campos de futebol além de dois lagos pequenos, um com peixes e muito sapos e outro com plantas aquáticas. Embora tenha muito lixo nós gramados do Parque ele também têm muitas lixeiras, é falta de educação e consci ambiental das pessoas que frequentam ele. O que eu mais gosto é que um rio nasce nesse parque, pouco antes dos lagos, acredito que no meio dos campos de futebol deve ser a nascente, porque aquela área está sempre úmida, e logo a frente do parque têm um córrego de uns, 600 metros que as pessoas usam para caminhada e da acesso a Avenida Cachoeira, em frete ao Mercatudo André Luís.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Jose Sousa",
+      "photoAuthor": "https://lh3.googleusercontent.com/a/AItbvmm9jQ_CxUF5L4sMEQsoVCKjCGfZiKWPbAEYWCZ3=w36-h36-p-c0x00000000-rp-mo-br100",
+      "comment": "Está abandonado antes era bem melhor 😔😔",
+      "gradeComment": 3
+    },
+    {
+      "author": "Yuri Azevedo",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucq6YeYcxz1JfP3eUVqmNOmcZWIZkv541qk2VRJV=w36-h36-p-c0x00000000-rp-mo-br100",
+      "comment": "Um entulhão à céu aberto!  Um lugar bonito e bacana de passear se fosse bem cuidado, preservado e conservado, mas infelizmente está abandonado: lixos por toda a praça, entulhos, grama alta, quadras em péssimos estados, lagos poluídos, brinquedos e as máquinas de exercícios mal conservados!  Aquele outro lugar, do lado, para se fazer caminhada, está na mesma situação ou ainda pior. Impossível caminhar, com tantos lixos, entulhos e galhos espalhados, e o fedor do córrego que é insuportável.  Guarulhos está largado às traças! A cidade não tem um lugar de lazer decente a não ser o Lago dos Patos e o Bosque Maia... Triste!",
+      "gradeComment": 1
+    },
+    {
+      "author": "Lanhouse Mini Shopping Cocaia (Lanhouse Mini Shop Cocaia)",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucqcLDcT72mOyJwiWTH0QCVwfJPI2T3W89duzBCmo1Y=w36-h36-p-c0x00000000-rp-mo-ba5-br100",
+      "comment": "Diversão para as crianças. Ótimo local para lazer com a família",
+      "gradeComment": 5
+    },
+    {
+      "author": "Elciene Costa",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucq4t0e8xmcxJpKzM9as8S-sxfSVmm-2Yy25Yyippw=w36-h36-p-c0x00000000-rp-mo-br100",
+      "comment": "Um lugar horrível, onde os brinquedos e o local é jogado, não tem boa manutenção. Deveriam cuidar mais desse espaço, fazer o ambiente valer a pena para crianças. Os cachorrosa são mais bem tratados do que as crianças. Absurdo 😠😠😠😠😠😠😠😠😠😠😠😠",
+      "gradeComment": 1
+    },
+    {
+      "author": "Jack Gaspar",
+      "photoAuthor": "https://lh3.googleusercontent.com/a/AItbvmkKC7rk9rh9jYtWR0AsTO0ZGIv0f6PwVaPfxWWQ=w36-h36-p-c0x00000000-rp-mo-ba3-br100",
+      "comment": "Ótima  , curso de banho e tosa na amahpet excelente...",
+      "gradeComment": 5
+    },
+    {
+      "author": "Adauto Simoes",
+      "photoAuthor": "https://lh3.googleusercontent.com/a/AItbvmkmUamQtz7CnH9MPJQ6TyAnAaODHe_9cdsDFrSc=w36-h36-p-c0x00000000-rp-mo-br100",
+      "comment": "Sempre gostei de praticar corrida, caminhada, exercícios de fortalecimento,e fazia tudo isso no Bosque Maia; porém com a pandemia, Bosque fechado, parque no city foi uma opção,gostei muito,e continuo frequentando.",
+      "gradeComment": 1
+    },
+    {
+      "author": "Eduardo Morais",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucq72td0TKTxgUG9Mpbm58iw23bCJsKIMnj1HML4H9Y=w36-h36-p-c0x00000000-rp-mo-br100",
+      "comment": "O pior de tudo é ter uma base da GCM ao lado onde todos são gordos e despreparados para tal função, vivem multado quem mora ali ao invés de fazerem rondas no local! Quando não fazem churrasco em horário de trabalho dentro da espelunca! É o fim mesmo cambada de desocupados que morram todos!",
+      "gradeComment": 1
+    },
+    {
+      "author": "Michael D'esquivel Pereira",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucqnXsus2TPy9EDTpGfHYH0jrshtdI65RCV4Em4RDSM=w36-h36-p-c0x00000000-rp-mo-ba3-br100",
+      "comment": "Tem um ambiente agradável, só que os brinquedos para as crianças estão quase todos quebrados, a prefeitura poderia dar mais atenção no parque 😉",
+      "gradeComment": 3
+    },
+    {
+      "author": "Diogo Costa",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucoUtC7Tkw6HRJZ1kT6RRyEsMXJX0oKRfz4W55Qzios=w36-h36-p-c0x00000000-rp-mo-ba2-br100",
+      "comment": "Bom. .. porém falta de iluminação atrapalha.. e esta totalmente abandonada a noias! Que as vezes se apoderam dos brinquedos das crianças para ficar usando droga...  a polícia deveria fazer alguma coisa... não sei pq uma base da GCM de costas pra praça. .. esta ali apenas para guardar a casa de quem tem $$... e não do patrimônio público!",
+      "gradeComment": 3
+    }
+  ],
+  "peakHours": [
+    {
+      "Sunday": [
+        {
+          "hour": "04:00",
+          "percent": 1
+        },
+        {
+          "hour": "06:00",
+          "percent": 4
+        },
+        {
+          "hour": "07:00",
+          "percent": 8
+        },
+        {
+          "hour": "08:00",
+          "percent": 14
+        },
+        {
+          "hour": "09:00",
+          "percent": 22
+        },
+        {
+          "hour": "10:00",
+          "percent": 33
+        },
+        {
+          "hour": "11:00",
+          "percent": 46
+        },
+        {
+          "hour": "12:00",
+          "percent": 61
+        },
+        {
+          "hour": "13:00",
+          "percent": 75
+        },
+        {
+          "hour": "14:00",
+          "percent": 88
+        },
+        {
+          "hour": "15:00",
+          "percent": 97
+        },
+        {
+          "hour": "16:00",
+          "percent": 100
+        },
+        {
+          "hour": "17:00",
+          "percent": 95
+        },
+        {
+          "hour": "18:00",
+          "percent": 84
+        },
+        {
+          "hour": "19:00",
+          "percent": 67
+        },
+        {
+          "hour": "20:00",
+          "percent": 48
+        },
+        {
+          "hour": "21:00",
+          "percent": 30
+        },
+        {
+          "hour": "22:00",
+          "percent": 14
+        },
+        {
+          "hour": "23:00",
+          "percent": 2
+        },
+        {
+          "hour": "00:00",
+          "percent": 1
+        },
+        {
+          "hour": "01:00",
+          "percent": 1
+        },
+        {
+          "hour": "02:00",
+          "percent": 1
+        },
+        {
+          "hour": "03:00",
+          "percent": 1
+        }
+      ]
+    },
+    {
+      "Monday": [
+        {
+          "hour": "04:00",
+          "percent": 1
+        },
+        {
+          "hour": "05:00",
+          "percent": 1
+        },
+        {
+          "hour": "06:00",
+          "percent": 2
+        },
+        {
+          "hour": "07:00",
+          "percent": 2
+        },
+        {
+          "hour": "08:00",
+          "percent": 1
+        },
+        {
+          "hour": "09:00",
+          "percent": 1
+        },
+        {
+          "hour": "10:00",
+          "percent": 1
+        },
+        {
+          "hour": "11:00",
+          "percent": 1
+        },
+        {
+          "hour": "12:00",
+          "percent": 1
+        },
+        {
+          "hour": "13:00",
+          "percent": 1
+        },
+        {
+          "hour": "14:00",
+          "percent": 1
+        },
+        {
+          "hour": "15:00",
+          "percent": 5
+        },
+        {
+          "hour": "16:00",
+          "percent": 12
+        },
+        {
+          "hour": "17:00",
+          "percent": 23
+        },
+        {
+          "hour": "18:00",
+          "percent": 33
+        },
+        {
+          "hour": "19:00",
+          "percent": 40
+        },
+        {
+          "hour": "20:00",
+          "percent": 40
+        },
+        {
+          "hour": "21:00",
+          "percent": 32
+        },
+        {
+          "hour": "22:00",
+          "percent": 19
+        },
+        {
+          "hour": "23:00",
+          "percent": 5
+        },
+        {
+          "hour": "00:00",
+          "percent": 1
+        },
+        {
+          "hour": "01:00",
+          "percent": 1
+        },
+        {
+          "hour": "02:00",
+          "percent": 1
+        },
+        {
+          "hour": "03:00",
+          "percent": 1
+        }
+      ]
+    },
+    {
+      "Tuesday": [
+        {
+          "hour": "04:00",
+          "percent": 1
+        },
+        {
+          "hour": "05:00",
+          "percent": 1
+        },
+        {
+          "hour": "06:00",
+          "percent": 1
+        },
+        {
+          "hour": "07:00",
+          "percent": 1
+        },
+        {
+          "hour": "08:00",
+          "percent": 2
+        },
+        {
+          "hour": "09:00",
+          "percent": 5
+        },
+        {
+          "hour": "10:00",
+          "percent": 7
+        },
+        {
+          "hour": "11:00",
+          "percent": 8
+        },
+        {
+          "hour": "12:00",
+          "percent": 9
+        },
+        {
+          "hour": "13:00",
+          "percent": 11
+        },
+        {
+          "hour": "14:00",
+          "percent": 13
+        },
+        {
+          "hour": "15:00",
+          "percent": 17
+        },
+        {
+          "hour": "16:00",
+          "percent": 22
+        },
+        {
+          "hour": "17:00",
+          "percent": 26
+        },
+        {
+          "hour": "18:00",
+          "percent": 28
+        },
+        {
+          "hour": "19:00",
+          "percent": 27
+        },
+        {
+          "hour": "20:00",
+          "percent": 21
+        },
+        {
+          "hour": "21:00",
+          "percent": 12
+        },
+        {
+          "hour": "22:00",
+          "percent": 2
+        },
+        {
+          "hour": "23:00",
+          "percent": 1
+        },
+        {
+          "hour": "00:00",
+          "percent": 1
+        },
+        {
+          "hour": "01:00",
+          "percent": 1
+        },
+        {
+          "hour": "02:00",
+          "percent": 1
+        },
+        {
+          "hour": "03:00",
+          "percent": 1
+        }
+      ]
+    },
+    {
+      "Wednesday": [
+        {
+          "hour": "04:00",
+          "percent": 1
+        },
+        {
+          "hour": "05:00",
+          "percent": 1
+        },
+        {
+          "hour": "06:00",
+          "percent": 4
+        },
+        {
+          "hour": "07:00",
+          "percent": 9
+        },
+        {
+          "hour": "08:00",
+          "percent": 7
+        },
+        {
+          "hour": "09:00",
+          "percent": 1
+        },
+        {
+          "hour": "10:00",
+          "percent": 1
+        },
+        {
+          "hour": "11:00",
+          "percent": 1
+        },
+        {
+          "hour": "12:00",
+          "percent": 1
+        },
+        {
+          "hour": "14:00",
+          "percent": 2
+        },
+        {
+          "hour": "15:00",
+          "percent": 5
+        },
+        {
+          "hour": "16:00",
+          "percent": 9
+        },
+        {
+          "hour": "17:00",
+          "percent": 16
+        },
+        {
+          "hour": "18:00",
+          "percent": 23
+        },
+        {
+          "hour": "19:00",
+          "percent": 27
+        },
+        {
+          "hour": "20:00",
+          "percent": 27
+        },
+        {
+          "hour": "21:00",
+          "percent": 21
+        },
+        {
+          "hour": "22:00",
+          "percent": 10
+        },
+        {
+          "hour": "23:00",
+          "percent": 1
+        },
+        {
+          "hour": "00:00",
+          "percent": 1
+        },
+        {
+          "hour": "01:00",
+          "percent": 1
+        },
+        {
+          "hour": "02:00",
+          "percent": 1
+        },
+        {
+          "hour": "03:00",
+          "percent": 1
+        }
+      ]
+    },
+    {
+      "Thursday": [
+        {
+          "hour": "04:00",
+          "percent": 1
+        },
+        {
+          "hour": "05:00",
+          "percent": 1
+        },
+        {
+          "hour": "06:00",
+          "percent": 1
+        },
+        {
+          "hour": "07:00",
+          "percent": 1
+        },
+        {
+          "hour": "08:00",
+          "percent": 1
+        },
+        {
+          "hour": "09:00",
+          "percent": 1
+        },
+        {
+          "hour": "10:00",
+          "percent": 1
+        },
+        {
+          "hour": "11:00",
+          "percent": 1
+        },
+        {
+          "hour": "12:00",
+          "percent": 2
+        },
+        {
+          "hour": "13:00",
+          "percent": 7
+        },
+        {
+          "hour": "14:00",
+          "percent": 13
+        },
+        {
+          "hour": "15:00",
+          "percent": 19
+        },
+        {
+          "hour": "16:00",
+          "percent": 25
+        },
+        {
+          "hour": "17:00",
+          "percent": 30
+        },
+        {
+          "hour": "18:00",
+          "percent": 32
+        },
+        {
+          "hour": "19:00",
+          "percent": 31
+        },
+        {
+          "hour": "20:00",
+          "percent": 26
+        },
+        {
+          "hour": "21:00",
+          "percent": 18
+        },
+        {
+          "hour": "22:00",
+          "percent": 9
+        },
+        {
+          "hour": "23:00",
+          "percent": 1
+        },
+        {
+          "hour": "00:00",
+          "percent": 1
+        },
+        {
+          "hour": "01:00",
+          "percent": 1
+        },
+        {
+          "hour": "02:00",
+          "percent": 1
+        },
+        {
+          "hour": "03:00",
+          "percent": 1
+        }
+      ]
+    },
+    {
+      "Friday": [
+        {
+          "hour": "04:00",
+          "percent": 1
+        },
+        {
+          "hour": "05:00",
+          "percent": 1
+        },
+        {
+          "hour": "06:00",
+          "percent": 1
+        },
+        {
+          "hour": "07:00",
+          "percent": 1
+        },
+        {
+          "hour": "08:00",
+          "percent": 1
+        },
+        {
+          "hour": "09:00",
+          "percent": 1
+        },
+        {
+          "hour": "10:00",
+          "percent": 1
+        },
+        {
+          "hour": "11:00",
+          "percent": 1
+        },
+        {
+          "hour": "12:00",
+          "percent": 1
+        },
+        {
+          "hour": "13:00",
+          "percent": 7
+        },
+        {
+          "hour": "14:00",
+          "percent": 18
+        },
+        {
+          "hour": "15:00",
+          "percent": 29
+        },
+        {
+          "hour": "16:00",
+          "percent": 35
+        },
+        {
+          "hour": "17:00",
+          "percent": 37
+        },
+        {
+          "hour": "18:00",
+          "percent": 35
+        },
+        {
+          "hour": "19:00",
+          "percent": 33
+        },
+        {
+          "hour": "20:00",
+          "percent": 31
+        },
+        {
+          "hour": "21:00",
+          "percent": 29
+        },
+        {
+          "hour": "22:00",
+          "percent": 24
+        },
+        {
+          "hour": "23:00",
+          "percent": 14
+        },
+        {
+          "hour": "00:00",
+          "percent": 1
+        },
+        {
+          "hour": "01:00",
+          "percent": 1
+        },
+        {
+          "hour": "02:00",
+          "percent": 1
+        },
+        {
+          "hour": "03:00",
+          "percent": 1
+        }
+      ]
+    },
+    {
+      "Saturday": [
+        {
+          "hour": "04:00",
+          "percent": 1
+        },
+        {
+          "hour": "05:00",
+          "percent": 1
+        },
+        {
+          "hour": "06:00",
+          "percent": 1
+        },
+        {
+          "hour": "07:00",
+          "percent": 1
+        },
+        {
+          "hour": "08:00",
+          "percent": 8
+        },
+        {
+          "hour": "09:00",
+          "percent": 17
+        },
+        {
+          "hour": "10:00",
+          "percent": 24
+        },
+        {
+          "hour": "11:00",
+          "percent": 25
+        },
+        {
+          "hour": "12:00",
+          "percent": 24
+        },
+        {
+          "hour": "13:00",
+          "percent": 24
+        },
+        {
+          "hour": "14:00",
+          "percent": 29
+        },
+        {
+          "hour": "15:00",
+          "percent": 38
+        },
+        {
+          "hour": "16:00",
+          "percent": 48
+        },
+        {
+          "hour": "17:00",
+          "percent": 54
+        },
+        {
+          "hour": "18:00",
+          "percent": 54
+        },
+        {
+          "hour": "19:00",
+          "percent": 48
+        },
+        {
+          "hour": "20:00",
+          "percent": 41
+        },
+        {
+          "hour": "21:00",
+          "percent": 34
+        },
+        {
+          "hour": "22:00",
+          "percent": 30
+        },
+        {
+          "hour": "23:00",
+          "percent": 26
+        },
+        {
+          "hour": "00:00",
+          "percent": 20
+        },
+        {
+          "hour": "01:00",
+          "percent": 12
+        },
+        {
+          "hour": "02:00",
+          "percent": 3
+        },
+        {
+          "hour": "03:00",
+          "percent": 1
+        }
+      ]
+    }
+  ],
+  "relatedSearches": [
+    "lugar para passear perto de mim",
+    "lugares para ir em guarulhos a noite",
+    "o que tem em guarulhos hoje",
+    "o que tem perto de guarulhos",
+    "lugares para ir com o namorado em guarulhos",
+    "paisagens de guarulhos",
+    "city tour guarulhos",
+    "guarulhos tripadvisor"
+  ],
+  "relateds": [
+    {
+      "mainName": "Parque Chico mendes",
+      "url": null
+    },
+    {
+      "mainName": "Parque J.B. Maciel",
+      "url": null
+    },
+    {
+      "mainName": "Parque Estadual Cantareira - Núcleo Cabuçu",
+      "url": null
+    },
+    {
+      "mainName": "Marundito do Pico Pelado",
+      "url": null
+    },
+    {
+      "mainName": "Praça Mamonas Assassinas",
+      "url": null
+    },
+    {
+      "mainName": "Lago dos Patos",
+      "url": null
+    },
+    {
+      "mainName": "Catedral Diocesana Nossa Senhora da Conceição",
+      "url": null
+    },
+    {
+      "mainName": "Zoológico Municipal de Guarulhos",
+      "url": null
+    },
+    {
+      "mainName": "Parque Bosque Maia",
+      "url": null
+    }
+  ]
+}

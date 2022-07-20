@@ -1,0 +1,597 @@
+{
+  "mainName": "Parque Marcelo Golinelli",
+  "slug": "parque-marcelo-golinelli",
+  "category": "Atração turística",
+  "locationInformation": {
+    "latitude": "-22.5189003",
+    "longitude": "-47.9286873"
+  },
+  "basicInformation": [
+    {
+      "label": "endereço",
+      "tooltip": "Copiar endereço",
+      "text": "Rod. Mun. Elísio de Paula Teixeira, São Pedro - SP, 13520-000",
+      "icon": "https://www.gstatic.com/images/icons/material/system_gm/1x/place_gm_blue_24dp.png"
+    },
+    {
+      "label": "website",
+      "tooltip": "Abrir website",
+      "text": "saopedro.com.br",
+      "icon": "https://www.gstatic.com/images/icons/material/system_gm/1x/public_gm_blue_24dp.png"
+    },
+    {
+      "label": "telefone",
+      "tooltip": "Copiar número de telefone",
+      "text": "(19) 3481-9269",
+      "icon": "https://www.gstatic.com/images/icons/material/system_gm/1x/phone_gm_blue_24dp.png"
+    },
+    {
+      "label": "Code",
+      "tooltip": "Copiar Plus Code",
+      "text": "F3JC+CG São Pedro, São Paulo",
+      "icon": "https://maps.gstatic.com/mapfiles/maps_lite/images/2x/ic_plus_code.png"
+    },
+    {
+      "label": "merchant",
+      "text": "Reivindicar esta empresa",
+      "icon": "https://www.gstatic.com/images/icons/material/system_gm/1x/verified_user_gm_blue_24dp.png"
+    }
+  ],
+  "ratingInformation": {
+    "basicRatingInformation": {
+      "averageGrade": 4.7,
+      "totalOfEvaluations": 363
+    },
+    "ratingsByGrade": [
+      {
+        "grade": 5,
+        "totalRatings": 288
+      },
+      {
+        "grade": 4,
+        "totalRatings": 56
+      },
+      {
+        "grade": 3,
+        "totalRatings": 17
+      },
+      {
+        "grade": 2,
+        "totalRatings": 1
+      },
+      {
+        "grade": 1,
+        "totalRatings": 1
+      }
+    ]
+  },
+  "ratingTags": [
+    {
+      "tag": "paisagem",
+      "count": 14,
+      "tooltip": "paisagem, mencionado em 14 avaliações"
+    },
+    {
+      "tag": "mirantes",
+      "count": 10,
+      "tooltip": "mirantes, mencionado em 10 avaliações"
+    },
+    {
+      "tag": "natureza",
+      "count": 10,
+      "tooltip": "natureza, mencionado em 10 avaliações"
+    },
+    {
+      "tag": "caminhar",
+      "count": 7,
+      "tooltip": "caminhar, mencionado em 7 avaliações"
+    },
+    {
+      "tag": "vale",
+      "count": 6,
+      "tooltip": "vale, mencionado em 6 avaliações"
+    },
+    {
+      "tag": "fotos",
+      "count": 6,
+      "tooltip": "fotos, mencionado em 6 avaliações"
+    },
+    {
+      "tag": "estacionamento",
+      "count": 4,
+      "tooltip": "estacionamento, mencionado em 4 avaliações"
+    },
+    {
+      "tag": "por do sol",
+      "count": 3,
+      "tooltip": "por do sol, mencionado em 3 avaliações"
+    }
+  ],
+  "featuredPhotos": [
+    "https://lh5.googleusercontent.com/p/AF1QipMKXK9ff5SXuovzC5D5_Qh3RLWruiKWryqYUxgZ=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPVNFSjYAcet_zQbTZWDHoz1HggLcBnLNIf7N5O=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipN2oO5b4cypVbclxL4Nu5a9w1lvIozLoV99I00A=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMxkgyt_cLBTDGaYtzDra_2XIL64tC1bZso7BYn=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOCeu-Jh_pKIArIlomfg4IL3nB44exHTgWr6JPP=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipO2Y3eMnKeC33rpIpOOY9S4PFoFoIH0LtjOp9aR=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNkGBG2cUwVPo9uBey_2_0oFz9qxVqsEnbFfgL4=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPEe_FWq2inLT93z0l-A4AtP4MT_qP49z_w-2O8=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPSm-vrPltje5ghWJSe8SiIlC6lz1u0glczXe3Y=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNV1TlVZ9tgw_relxvDdURZ1apKdVsmLqVvNbJ_=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPXLjy6-b8mvrIAl5OxGqlk-0A13lbM9icaZa48=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNokxOY4HWFB2raJsUvm4emxVODR_k1io4FwUux=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOieK7U5PAY4rbEEnT-mUoIcqFg-rEOD3tuJ-Et=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPYn0rXNpfhtRlt0ggte9i1K1C37IXELo1pmJPz=w1024-h576-k-no"
+  ],
+  "topComments": [
+    {
+      "author": "Jellis Fernando Carvalho",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucowkoduHhhNpLxmzHCTWpTxouYCvTKQKd-igUv_cw=w36-h36-p-c0x00000000-rp-mo-ba6-br100",
+      "comment": "Local lindo e maravilhosa paisagem, bem conservado, pode se ver as montanhas, o vale, e paisagens muito lindas, se levar binóculos fica muito mais interessante, possui estacionamento no local, entrada gratuita, tem local para se pedir informações, podendo caminhar por locais lindos, recomendo a todos este belíssimo passeio indo a cidade de São Pedro.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Thaísa Crespilho",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucpObcfOvmSzmOTDtQvA--mEF9EDS9LTZxSGQSxcuw=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "É uma vista maravilhosa para as montanhas! Lugar bem aberto, venta muito, porém é muito sol, se vc for visitar e andar pelos caminhos vá de guarda chuva, o calor é grande. É um parque bem cuidado, organizado e movimentado, muitos turistas. Vale a pena conhecer e fazer aquela parada rápida para admirar a paisagem!!! A estrada é simples, várias curvas, subidas e descidas, a paisagem é exuberante!!!",
+      "gradeComment": 5
+    },
+    {
+      "author": "João Carlos L. Pinto",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucrVb3J2dI279wocATfIuXPjg-90KEHs0DFRnQPYOw=w36-h36-p-c0x00000000-rp-mo-ba3-br100",
+      "comment": "O local oferece uma vista privilegiada do entorno. Consegue-se ver muito ao longe, até os olhos se perderem na distância. Mirantes de madeira bem cuidados e quisques charmosos dão um tchan ao lugar.",
+      "gradeComment": 4
+    },
+    {
+      "author": "J SANTANA",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucp5Lb4TNwwGBcyQyOA0DnM3lkOBS0R9Bg_wTM82vg=w36-h36-p-c0x00000000-rp-mo-ba5-br100",
+      "comment": "Muito bom vale a pena visitar Uma vista incrível",
+      "gradeComment": 5
+    },
+    {
+      "author": "Marcia Lira",
+      "photoAuthor": "https://lh3.googleusercontent.com/a/AItbvmkO7-jr4nP1F2irtQ34bVaUm2bGpAXD9ygJsNBk=w36-h36-p-c0x00000000-rp-mo-br100",
+      "comment": "Lugar muito lindo com uma vista maravilhosa, vale muito a pena a visita!!",
+      "gradeComment": 5
+    },
+    {
+      "author": "Grace Oliveira Alves",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZuco7aVIpVa_HwGvjcp7UQbVroX46nQsD-fo-7wHBFQ=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "Lugar lindo muito limpo ótimo  para apreciar o por do sol",
+      "gradeComment": 5
+    },
+    {
+      "author": "Silvio Antonio C Francisco",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucqEMO2AKuX4oBic2NK7DTNmWXMxZVRBskeAm9894A=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "Um parque aos pés da simpática serra de São Pedro.  Que está em frente a um restaurante onde se localiza uma imagem do Cristo Redentor.  O parque tem caminhos de concreto para que você tenha acesso a alguns quiosques abertos com bancos em madeira. Você sobre estará de frente a um vale muito bonito.  Há ainda dois mirantes em madeira onde pode-se apreciar e fazer lindas fotos.  Neste mesmo parque há prática de vôo livre. Uma atração a parte até mesmo para quem não pratica o esporte.  Há como estacionar os carros dentro do parque ou no estacionamento do restaurante.  Cabe um cuidado especial na chegada e saída com os veículos, pois ambas as atrações ficam na curva da pista que é usada para subir e descer a serra. Fiquem atentos para evitar colisões e imprevistos.  Não se paga para apreciar o parque. Quanto ao custo do consumo no restaurante é $$ de $$$$.  Recomendo chegar cedo, para aproveitar e fazer uma caminhada pelo parque ou até o Cristo, onde requer um pouco mais de vigor.",
+      "gradeComment": 4
+    },
+    {
+      "author": "Danielle Sutter Cremer Abe",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucrFLlN_MknsOwVNNKUQcoU-cemdFt0f0ZDEiSa0BD4=w36-h36-p-c0x00000000-rp-mo-br100",
+      "comment": "Local muito bonito, gostoso de estar.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Wangri Oliveira",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucr0dbGVmSgyDyOjrUR0Uo9ELMNQNzozxrYGAxwj=w36-h36-p-c0x00000000-rp-mo-ba5-br100",
+      "comment": "Parque maravilhoso, muito bem projetado! A vista é de tirar o fôlego... Excelente para fotos ou admirar o nascer ou por do sol. Recomendo",
+      "gradeComment": 5
+    },
+    {
+      "author": "Vânia Manzutti",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucqEn9t-REwqMofHWfhS9bQG_6uPxxT744DIJoQU9A=w36-h36-p-c0x00000000-rp-mo-br100",
+      "comment": "Mirante e Estátua do Cristo com excelentes vistas. Vale a pena o passeio.  Há banheiros limpos. Um restaurante e uma lanchonete.  Bancos para se sentar. Estacionamento. Tudo bem conservado. Tomar cuidado com a serra,  pois o mirante fica numa curva e os veículos passam muito rápido por ali. Bom para motos.",
+      "gradeComment": 5
+    }
+  ],
+  "peakHours": [
+    {
+      "Sunday": [
+        {
+          "hour": "06:00",
+          "percent": 1
+        },
+        {
+          "hour": "07:00",
+          "percent": 4
+        },
+        {
+          "hour": "08:00",
+          "percent": 13
+        },
+        {
+          "hour": "09:00",
+          "percent": 37
+        },
+        {
+          "hour": "10:00",
+          "percent": 73
+        },
+        {
+          "hour": "11:00",
+          "percent": 100
+        },
+        {
+          "hour": "12:00",
+          "percent": 93
+        },
+        {
+          "hour": "13:00",
+          "percent": 63
+        },
+        {
+          "hour": "14:00",
+          "percent": 48
+        },
+        {
+          "hour": "15:00",
+          "percent": 65
+        },
+        {
+          "hour": "16:00",
+          "percent": 71
+        },
+        {
+          "hour": "17:00",
+          "percent": 40
+        },
+        {
+          "hour": "18:00",
+          "percent": 11
+        },
+        {
+          "hour": "19:00",
+          "percent": 2
+        },
+        {
+          "hour": "20:00",
+          "percent": 1
+        }
+      ]
+    },
+    {
+      "Monday": [
+        {
+          "hour": "06:00",
+          "percent": 1
+        },
+        {
+          "hour": "07:00",
+          "percent": 1
+        },
+        {
+          "hour": "09:00",
+          "percent": 1
+        },
+        {
+          "hour": "10:00",
+          "percent": 2
+        },
+        {
+          "hour": "11:00",
+          "percent": 2
+        },
+        {
+          "hour": "12:00",
+          "percent": 2
+        },
+        {
+          "hour": "13:00",
+          "percent": 3
+        },
+        {
+          "hour": "14:00",
+          "percent": 5
+        },
+        {
+          "hour": "15:00",
+          "percent": 4
+        },
+        {
+          "hour": "16:00",
+          "percent": 2
+        },
+        {
+          "hour": "20:00",
+          "percent": 1
+        }
+      ]
+    },
+    {
+      "Tuesday": [
+        {
+          "hour": "07:00",
+          "percent": 1
+        },
+        {
+          "hour": "09:00",
+          "percent": 1
+        },
+        {
+          "hour": "10:00",
+          "percent": 2
+        },
+        {
+          "hour": "11:00",
+          "percent": 3
+        },
+        {
+          "hour": "12:00",
+          "percent": 3
+        },
+        {
+          "hour": "13:00",
+          "percent": 2
+        },
+        {
+          "hour": "14:00",
+          "percent": 2
+        },
+        {
+          "hour": "15:00",
+          "percent": 2
+        },
+        {
+          "hour": "16:00",
+          "percent": 1
+        },
+        {
+          "hour": "17:00",
+          "percent": 1
+        },
+        {
+          "hour": "20:00",
+          "percent": 1
+        }
+      ]
+    },
+    {
+      "Wednesday": [
+        {
+          "hour": "06:00",
+          "percent": 1
+        },
+        {
+          "hour": "07:00",
+          "percent": 1
+        },
+        {
+          "hour": "08:00",
+          "percent": 1
+        },
+        {
+          "hour": "10:00",
+          "percent": 1
+        },
+        {
+          "hour": "11:00",
+          "percent": 2
+        },
+        {
+          "hour": "12:00",
+          "percent": 4
+        },
+        {
+          "hour": "13:00",
+          "percent": 5
+        },
+        {
+          "hour": "14:00",
+          "percent": 5
+        },
+        {
+          "hour": "15:00",
+          "percent": 5
+        },
+        {
+          "hour": "16:00",
+          "percent": 4
+        },
+        {
+          "hour": "17:00",
+          "percent": 2
+        },
+        {
+          "hour": "18:00",
+          "percent": 1
+        },
+        {
+          "hour": "20:00",
+          "percent": 1
+        }
+      ]
+    },
+    {
+      "Thursday": [
+        {
+          "hour": "07:00",
+          "percent": 1
+        },
+        {
+          "hour": "08:00",
+          "percent": 1
+        },
+        {
+          "hour": "09:00",
+          "percent": 5
+        },
+        {
+          "hour": "10:00",
+          "percent": 12
+        },
+        {
+          "hour": "11:00",
+          "percent": 14
+        },
+        {
+          "hour": "12:00",
+          "percent": 10
+        },
+        {
+          "hour": "13:00",
+          "percent": 9
+        },
+        {
+          "hour": "14:00",
+          "percent": 15
+        },
+        {
+          "hour": "15:00",
+          "percent": 22
+        },
+        {
+          "hour": "16:00",
+          "percent": 19
+        },
+        {
+          "hour": "17:00",
+          "percent": 9
+        },
+        {
+          "hour": "18:00",
+          "percent": 2
+        }
+      ]
+    },
+    {
+      "Friday": [
+        {
+          "hour": "07:00",
+          "percent": 1
+        },
+        {
+          "hour": "08:00",
+          "percent": 4
+        },
+        {
+          "hour": "09:00",
+          "percent": 7
+        },
+        {
+          "hour": "10:00",
+          "percent": 11
+        },
+        {
+          "hour": "11:00",
+          "percent": 15
+        },
+        {
+          "hour": "12:00",
+          "percent": 17
+        },
+        {
+          "hour": "13:00",
+          "percent": 15
+        },
+        {
+          "hour": "14:00",
+          "percent": 12
+        },
+        {
+          "hour": "15:00",
+          "percent": 8
+        },
+        {
+          "hour": "16:00",
+          "percent": 9
+        },
+        {
+          "hour": "17:00",
+          "percent": 10
+        },
+        {
+          "hour": "18:00",
+          "percent": 4
+        }
+      ]
+    },
+    {
+      "Saturday": [
+        {
+          "hour": "06:00",
+          "percent": 1
+        },
+        {
+          "hour": "08:00",
+          "percent": 5
+        },
+        {
+          "hour": "09:00",
+          "percent": 16
+        },
+        {
+          "hour": "10:00",
+          "percent": 31
+        },
+        {
+          "hour": "11:00",
+          "percent": 40
+        },
+        {
+          "hour": "12:00",
+          "percent": 36
+        },
+        {
+          "hour": "13:00",
+          "percent": 25
+        },
+        {
+          "hour": "14:00",
+          "percent": 21
+        },
+        {
+          "hour": "15:00",
+          "percent": 29
+        },
+        {
+          "hour": "16:00",
+          "percent": 34
+        },
+        {
+          "hour": "17:00",
+          "percent": 28
+        },
+        {
+          "hour": "18:00",
+          "percent": 14
+        },
+        {
+          "hour": "19:00",
+          "percent": 4
+        },
+        {
+          "hour": "20:00",
+          "percent": 1
+        }
+      ]
+    }
+  ],
+  "relatedSearches": null,
+  "relateds": [
+    {
+      "mainName": "Parque Municipal Maria Angélica Manfrinato",
+      "url": null
+    },
+    {
+      "mainName": "Rancho e Haras do Kajuba",
+      "url": null
+    },
+    {
+      "mainName": "Museu Municipal Gustavo Teixeira",
+      "url": null
+    },
+    {
+      "mainName": "Igreja Matriz São Pedro",
+      "url": null
+    },
+    {
+      "mainName": "Parque do Cristo Entretenimento",
+      "url": null
+    },
+    {
+      "mainName": "Thermas Water Park",
+      "url": null
+    }
+  ]
+}

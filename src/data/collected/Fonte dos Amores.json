@@ -1,0 +1,659 @@
+{
+  "mainName": "Fonte dos Amores",
+  "slug": "fonte-dos-amores",
+  "category": "Atração turística",
+  "locationInformation": {
+    "latitude": "-21.780614",
+    "longitude": "-46.5703722"
+  },
+  "basicInformation": [
+    {
+      "label": "endereço",
+      "tooltip": "Copiar endereço",
+      "text": "R. Piauí, 1 - Centro, Poços de Caldas - MG, 37701-024",
+      "icon": "https://www.gstatic.com/images/icons/material/system_gm/1x/place_gm_blue_24dp.png"
+    },
+    {
+      "label": "Code",
+      "tooltip": "Copiar Plus Code",
+      "text": "6C9H+QV Centro, Poços de Caldas - MG",
+      "icon": "https://maps.gstatic.com/mapfiles/maps_lite/images/2x/ic_plus_code.png"
+    },
+    {
+      "label": "send-to-device",
+      "text": "Enviar para smartphone",
+      "icon": "https://maps.gstatic.com/consumer/images/icons/1x/send_to_mobile_alt_gm_blue_24dp.png"
+    },
+    {
+      "label": "merchant",
+      "text": "Reivindicar esta empresa",
+      "icon": "https://www.gstatic.com/images/icons/material/system_gm/1x/verified_user_gm_blue_24dp.png"
+    }
+  ],
+  "ratingInformation": {
+    "basicRatingInformation": {
+      "averageGrade": 4.5,
+      "totalOfEvaluations": 7872
+    },
+    "ratingsByGrade": [
+      {
+        "grade": 5,
+        "totalRatings": 5364
+      },
+      {
+        "grade": 4,
+        "totalRatings": 1611
+      },
+      {
+        "grade": 3,
+        "totalRatings": 667
+      },
+      {
+        "grade": 2,
+        "totalRatings": 138
+      },
+      {
+        "grade": 1,
+        "totalRatings": 92
+      }
+    ]
+  },
+  "ratingTags": [
+    {
+      "tag": "macacos",
+      "count": 294,
+      "tooltip": "macacos, mencionado em 294 avaliações"
+    },
+    {
+      "tag": "banana",
+      "count": 72,
+      "tooltip": "banana, mencionado em 72 avaliações"
+    },
+    {
+      "tag": "passeio",
+      "count": 68,
+      "tooltip": "passeio, mencionado em 68 avaliações"
+    },
+    {
+      "tag": "romântico",
+      "count": 67,
+      "tooltip": "romântico, mencionado em 67 avaliações"
+    },
+    {
+      "tag": "frutas",
+      "count": 38,
+      "tooltip": "frutas, mencionado em 38 avaliações"
+    },
+    {
+      "tag": "amendoim",
+      "count": 31,
+      "tooltip": "amendoim, mencionado em 31 avaliações"
+    },
+    {
+      "tag": "água mineral",
+      "count": 25,
+      "tooltip": "água mineral, mencionado em 25 avaliações"
+    },
+    {
+      "tag": "arborizado",
+      "count": 13,
+      "tooltip": "arborizado, mencionado em 13 avaliações"
+    },
+    {
+      "tag": "relaxar",
+      "count": 13,
+      "tooltip": "relaxar, mencionado em 13 avaliações"
+    },
+    {
+      "tag": "belo",
+      "count": 13,
+      "tooltip": "belo, mencionado em 13 avaliações"
+    }
+  ],
+  "featuredPhotos": [
+    "https://lh5.googleusercontent.com/p/AF1QipN8kfTvGiTrgOzWtXPDRx7CvLTIZVs6g79xpIHC=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOvfyYW8Wu5Mv12Rgq_xwvE1GzBy_VWB603Vt4=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipM7RdhYRNwbqGqTzxvnQ7OGwTDeYju8ioR0OvFG=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipN15A-k6_NbVg6tgN0g8QIULnfXMIIu1hFXxfbO=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNVrnZxaP8z5gL2p68L0aGh6OaABaMXswO452vs=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMcm33dcvoEY1V6gwGc0xvjZ9NC-GtVRBdc4jgS=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNdqTKFINjGgjaHzeu0mPGu5o2_cCX0llr3j4v4=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPo9LOa95BJsvXBqqR_e5zNIozJtDm2PqPXIDqE=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMDP22J2gBJYcKMtP5RGu0BQjO8PNxHrOXz9mgP=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMmqHGC-5xqnlaoDujm7BzehQvfVF2bko6NDb2m=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNIYbhHMrVEIpspMnhhnACBSTd7x1M5ToysUWVG=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOVg28QStUWto_miH0b1V8klOtQUc2O-sPhhdvw=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPLJq4luv6vp0mscHwlFqHXV1EBfUoXVDO_4DgW=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMDI2X5Q-s5SpxSp1CuFv1wOR_NwSzhMhRvis44=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPJa7mNsR0hlLus9mIM1IgUWA-oXNUKXW075_qB=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMb1UEWV20dNXYyMKl-ijIastoY89_yVy-LecwL=w1024-h576-k-no"
+  ],
+  "topComments": [
+    {
+      "author": "Renê Santos",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucqyzMbxn4vozDWLQvOQ3GP4nJzK_6EuTBIWenUKsw=w36-h36-p-c0x00000000-rp-mo-ba6-br100",
+      "comment": "Um ponto turístico famoso em Poços de Caldas, a Fonte dos Amores fica bem próxima do morro São Domingos. O lugar tem esse nome por conta da escultura dos amantes (obra em mármore) junto a uma queda d’água, onde casais aproveitam para tirar selfies! Na trilha é possível ver macacos e há algumas bicas d’água. Foi inaugurado em 1929. Para quem tem espírito aventureiro, a visita à Fonte dos Amores pode ser combinada com um desafio. É a partir dali que parte uma trilha em direção ao topo da Serra de São Domingos, onde se encontra a estátua do Cristo Redentor, principal ponto turístico de Poços de Caldas e de onde se tem uma inigualável vista da cidade, a 1.700 metros de altura em relação ao nível do mar. Em março de 2019, a prefeitura da cidade realizou obras de revitalização no local, inaugurando novos banheiros e adaptações visando a acessibilidade, incluindo um guarda-corpo que acompanha a subida até a fonte principal. A entrada é gratuita e o local também conta com estacionamento e quiosques para venda de alimentos. Recomendável a visita e apreciação.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Matheus Montenegro",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucqlZhE851aUmMT0Svljvs6g5cyPGMm7RZAPXMHs4LY=w36-h36-p-c0x00000000-rp-mo-ba6-br100",
+      "comment": "Criada em 1929, a fonte está localizada aos pé da Serra de São Domingos. Além da natureza exuberante e das fontes, um grande atrativo do local é uma estátua em mármore de dois jovens abraçados, esculpida pelo italiano Giulio Starace. É da Fonte dos Amores que parte a principal trilha do Parque da Serra de São Domingos, ligando o centro da cidade até o Cristo Redentor.  Um véu de água cai de degraus de pedra em meio a um belo bosque, ao seu lado, uma estátua de um casal, feita em mármore pelo escultor Giulio Starace. Uma lenda sobre o lugar nos conta que um jovem casal apaixonado fugindo de seus pais, que eram contra seu amor, se atiraram das rochas e foram levados pelas águas.  Mas a historia verdadeira acontece quando um grupo de amigos cansados dos cassinos da cidade, resolvem passear na mata e encontram ali o fio de água clarinha escorrendo sobre as pedras, resolvem então colocar uma placa escrita a mão no lugar com o nome “ Fonte dos amores”.  Anos mais tarde em 1929 foi inaugurado o local já com a estatua, se tornando um importante e agradável ponto turístico para a cidade de Poços de Caldas projetado pelo arquiteto paisagista Dieberger . É da Fonte dos Amores que parte a principal trilha do Parque da Serra de São Domingos, ligando o centro da cidade até o Cristo Redentor.’  Duas são as lendas que envolvem a fonte. A primeira conta que um jovem casal de namorados ali se encontrava escondido dos pais, ferrenhos inimigos políticos. Desesperados por não poderem se unir pelas leis terrenas, um belo dia se atiraram do alto do rochedo e a água suavemente cobriu seus corpos como cristalina mortalha. Esta história teria inspirado a obra de Starace.  Outra versão dá conta de que um jovem padre teria se apaixonado perdidamente por uma encantadora jovem, filha de um fazendeiro da região, que impedia o namoro. Decidiram fugir e se refugiaram no bosque junto à fonte. Algum tempo depois, um caçador acabou por encontrar o corpo do casal, mortos nus e abraçados, de fome e frio. Penalizado, o pai teria mandado erguer a estátua junto à fonte em homenagem à filha que morreu de amor.  o Fato é que a fonte e suas águas ainda hoje inspiram crenças diversas. Diz-se por lá que, se um solteiro beber daquela água, logo se casará. E se for casado, a Poços de Caldas sempre retornará.",
+      "gradeComment": 3
+    },
+    {
+      "author": "Davi Reggio",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucrwQFx5uyLz-Wysva27is9zhU861K4M21G-51DcQMM=w36-h36-p-c0x00000000-rp-mo-ba6-br100",
+      "comment": "Fonte dos amores, lugar bonito para tirar fotos em casal, alimentar os macaquinhos com o amendoinzinho e banana que também vendem no local, você estende a mão e eles vem pegar o amendoim, cuidado porque eles pegam tudo até mesmo celular... é demais, sensação única e bacana! Vale a pena a experiência! Sem palavras, maravilhado!",
+      "gradeComment": 5
+    },
+    {
+      "author": "Romilda M.",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucoomDaVjPzgjvmkLP2H-esxLblNvDeCDa-DQxo1xw=w36-h36-p-c0x00000000-rp-mo-ba5-br100",
+      "comment": "Local com paisagem e trilhas cuidados, deixam a desejar os cuidados relativos às torneiras onde o visitante possa consumir a água potável das fontes. Aliás a fonte dos amores, perto da estátua em homenagem ao nome dado, estava seca, apenas gotejava de vez em quando. Talvez seja pela má preservação do entorno natural que preserva as nascentes, uma vez que esta visita se deu durante período de chuvas torrenciais.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Fernando Venceslau",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucrq9oVTQZfYw7rzGy2noMrf_f6m5n_4hviVIpqtrg=w36-h36-p-c0x00000000-rp-mo-ba5-br100",
+      "comment": "A melhor atração da fonte dos amores são os macaquinhos. Para quem for eu recomendo levar um cacho de banana e ir dando para eles. Os macaquinhos descem as árvores e pegam as bananas na mão. É um lugar bem bonito e legal de se conhecer.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Luelc Costa",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucpXR1kYztkIpvnLEbhvwHT8xy_IbtYWI1P6ilOnyA=w36-h36-p-c0x00000000-rp-mo-ba3-br100",
+      "comment": "Passeio muito legal, não precisamos pagar para estacionar, fomos num domingo. na parte inicial do parque possuem muito macacos prego. Não é indicado alimentar os animais mas algumas pessoas o fazem mesmo assim. A trilha para a fonte é bem legal, curta e nível fácil mas tem algumas pedras escorregadias. A partir de locar tem trilha para chegar até o Cristo, mas é nível mais hard, mais de uma hora de rolê.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Odecy Motta",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucr8FaLAZ9PLSN0E5iOgtcQ2r73GBo14fuXF6aEFiw=w36-h36-p-c0x00000000-rp-mo-ba5-br100",
+      "comment": "Lugar maravilhoso, perto da natureza, com uma cachoeira muito bonita. Sem contar que não precisava nem de levar água pois lá tem fonte de água potável. Que riqueza top",
+      "gradeComment": 5
+    },
+    {
+      "author": "BK Brinquedos O Mundo da Imaginação",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucoMa3vk8qNSJEJMKpnqcSQo8ZKSeF6-HuM_mjtNKQ=w36-h36-p-c0x00000000-rp-mo-ba3-br100",
+      "comment": "Excelente ponto turístico de poços de Caldas , lugar bem cuidado banheiro e água da nascente sem nenhuma cobrança contato direto com a natureza muito mais muitos Macaquinhos circulando pelas árvores chegam muito perto das pessoas , visita gratificante",
+      "gradeComment": 5
+    },
+    {
+      "author": "Wilson Silva",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucr2DIQ9XfZKfTrYpeK4Czo4JAxQ1NlrZ9R_I3_pZak=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "Lugar tranquilo, não tem nada de mais rsrs ima estátua de um casal apaixonado e a fonte rsrs, tem uma parte alta para tirar fotos tbm, na entrada do local, é possível ver os macacos de perto e até alimentá-los.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Andréia Alves",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucqhhucNbjWTlaQoCLtOe4JBWfRUnaVei7A8huqr=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "Local bem bonito e agradável em meio a natureza. Embora tenha uma boa estrutura, não indico para quem tem dificuldade em locomoção, pois a subida é bem ingrime e cansa um pouco",
+      "gradeComment": 4
+    },
+    {
+      "author": "Mario Pozza",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucqIsSwoCTmT6dx-h1m-BGWs2EULRS_DD_YrWx29eQ=w36-h36-p-c0x00000000-rp-mo-br100",
+      "comment": "Lugar lindo, água pura, e tem macacos-prego que interagem com o público. Se atentar ao caminhar por lá pois há partes de calcamentos com pedras molhadas que podem ser escorregadias.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Roberto Becker",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucp7ndQPOsP4rznZxYNL0F2qOl4D1-t-vTnwQV3iTA=w36-h36-p-c0x00000000-rp-mo-ba6-br100",
+      "comment": "Recomendo o passeio. Esteja preparado para uma boa subida no meio da mata. Os macaquinhos que por lá habitam são uma atração a parte.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Cristiano Barreto",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucqYeXkVVzTDZp_JD66BOo3PXg_CyAuUvIayRpi5MyI=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "Muito bom super agradável e o Sr que toma conta do comércio do local nota 10 em atenção e ainda me indicou local para almoçar nota 10",
+      "gradeComment": 5
+    },
+    {
+      "author": "Giovani Souza",
+      "photoAuthor": "https://lh3.googleusercontent.com/a/AItbvmmbEYW6KtCuwxGL6ypKYCAzJHoD0MUEm1DPgWm_=w36-h36-p-c0x00000000-rp-mo-ba5-br100",
+      "comment": "Lugar muito agradável. Com uma queda d’água bastante alta, com um caminho muito bem cuidado.",
+      "gradeComment": 4
+    },
+    {
+      "author": "Gabriela Akemi",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucoIsTM0McxKWDd5C51SlMxRtPpbZQlhXCjXdr16D5w=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "Tive o azar de ir em um dia que estava praticamente tudo seco, mas mesmo assim é um lugar bonito, e essa escultura é maravilhosa, eu amei!",
+      "gradeComment": 4
+    },
+    {
+      "author": "Erisvaldo Rodrigues",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucr5BxFdlAjWXlpZdfI3zhdggdZtYVz0oyc0hFbm=w36-h36-p-c0x00000000-rp-mo-ba5-br100",
+      "comment": "Um passeio legal para família,com bastante vagas para estacionar. Infelizmente as fontes estão praticamente seca devido a falta de chuvas ( mais de 90 dias em 07/09). A atração maior são os macacos. Encontra-se aos bandos esperando receber alguma coisa. Como se vê nas fotos,comem na mão. Importante atentar ao celular pois não raramente eles pegam o aparelho das mãos...aí já sabe né..? Levei minha cachorra Zoe...rendeu boas fotos e o contato com um novo ambiente. Ponto a melhorar... acessibilidade para o cadeirante. Tivemos que deixar a cadeira de rodas e seguir com o pequeno no colo. Ao mais,vale o passeio e renderá boas fotos.",
+      "gradeComment": 4
+    },
+    {
+      "author": "João Batista Archangelo",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucovbykEWSdsnM0AMRDsZQ5Q--fsgT_zMH9WL7c8GT8=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "Lindo lugar, muito verde, linda queda dágua e como todas as atrações de Poços de Caldas, você precisa subir várias escadas ou rampas,  mas vale a pena conhecer...",
+      "gradeComment": 5
+    },
+    {
+      "author": "Helio Takemi Sakamoto",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucqa4GXNpFdF6wberzFhkDNdkTygaNsCkvskYpOK-8c=w36-h36-p-c0x00000000-rp-mo-ba6-br100",
+      "comment": "Em Poços de Caldas... visita incrível em meio a mata. Local de paz ... leveza... curtir a natureza...",
+      "gradeComment": 5
+    },
+    {
+      "author": "Olivia Regina",
+      "photoAuthor": "https://lh3.googleusercontent.com/a/AItbvmnCZyPpOu58q5-Tc1YWvvzL0yvIbJEZ6OSL1tWT=w36-h36-p-c0x00000000-rp-mo-br100",
+      "comment": "Lugar muito tranquilo traz uma paz, fácil acesso, desse lugar sai uma trilha para o Cristo,  fui informada que é cerca de uma hora de subida bem íngreme.",
+      "gradeComment": 4
+    },
+    {
+      "author": "Natalia Weck.",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucp6jgr6B8cKRljzJz4FAc4hFp2Yh7YHgIOZ3PMRMyE=w36-h36-p-c0x00000000-rp-mo-ba5-br100",
+      "comment": "Uma estátua de um homem e uma mulher com uma queda de água e só. Tem local para estacionar, local com artesanato e com comer comida típica. Tem banheiro público. No ambiente tem muito macaco que animam o passeio, se der frutas eles vamo adorar. Local na minha percepção abandonado.",
+      "gradeComment": 3
+    }
+  ],
+  "peakHours": [
+    {
+      "Sunday": [
+        {
+          "hour": "08:00",
+          "percent": 15
+        },
+        {
+          "hour": "09:00",
+          "percent": 42
+        },
+        {
+          "hour": "10:00",
+          "percent": 69
+        },
+        {
+          "hour": "11:00",
+          "percent": 77
+        },
+        {
+          "hour": "12:00",
+          "percent": 64
+        },
+        {
+          "hour": "13:00",
+          "percent": 54
+        },
+        {
+          "hour": "14:00",
+          "percent": 63
+        },
+        {
+          "hour": "15:00",
+          "percent": 63
+        },
+        {
+          "hour": "16:00",
+          "percent": 36
+        },
+        {
+          "hour": "17:00",
+          "percent": 8
+        }
+      ]
+    },
+    {
+      "Monday": [
+        {
+          "hour": "08:00",
+          "percent": 27
+        },
+        {
+          "hour": "09:00",
+          "percent": 32
+        },
+        {
+          "hour": "10:00",
+          "percent": 34
+        },
+        {
+          "hour": "11:00",
+          "percent": 32
+        },
+        {
+          "hour": "12:00",
+          "percent": 29
+        },
+        {
+          "hour": "13:00",
+          "percent": 29
+        },
+        {
+          "hour": "14:00",
+          "percent": 33
+        },
+        {
+          "hour": "15:00",
+          "percent": 38
+        },
+        {
+          "hour": "16:00",
+          "percent": 41
+        },
+        {
+          "hour": "17:00",
+          "percent": 35
+        }
+      ]
+    },
+    {
+      "Tuesday": [
+        {
+          "hour": "08:00",
+          "percent": 27
+        },
+        {
+          "hour": "09:00",
+          "percent": 33
+        },
+        {
+          "hour": "10:00",
+          "percent": 36
+        },
+        {
+          "hour": "11:00",
+          "percent": 36
+        },
+        {
+          "hour": "12:00",
+          "percent": 34
+        },
+        {
+          "hour": "13:00",
+          "percent": 32
+        },
+        {
+          "hour": "15:00",
+          "percent": 39
+        },
+        {
+          "hour": "16:00",
+          "percent": 44
+        },
+        {
+          "hour": "17:00",
+          "percent": 45
+        }
+      ]
+    },
+    {
+      "Wednesday": [
+        {
+          "hour": "08:00",
+          "percent": 34
+        },
+        {
+          "hour": "09:00",
+          "percent": 45
+        },
+        {
+          "hour": "10:00",
+          "percent": 49
+        },
+        {
+          "hour": "11:00",
+          "percent": 44
+        },
+        {
+          "hour": "12:00",
+          "percent": 36
+        },
+        {
+          "hour": "13:00",
+          "percent": 31
+        },
+        {
+          "hour": "14:00",
+          "percent": 36
+        },
+        {
+          "hour": "15:00",
+          "percent": 47
+        },
+        {
+          "hour": "16:00",
+          "percent": 54
+        },
+        {
+          "hour": "17:00",
+          "percent": 48
+        }
+      ]
+    },
+    {
+      "Thursday": [
+        {
+          "hour": "08:00",
+          "percent": 37
+        },
+        {
+          "hour": "09:00",
+          "percent": 47
+        },
+        {
+          "hour": "10:00",
+          "percent": 46
+        },
+        {
+          "hour": "11:00",
+          "percent": 43
+        },
+        {
+          "hour": "12:00",
+          "percent": 46
+        },
+        {
+          "hour": "13:00",
+          "percent": 53
+        },
+        {
+          "hour": "14:00",
+          "percent": 57
+        },
+        {
+          "hour": "15:00",
+          "percent": 56
+        },
+        {
+          "hour": "16:00",
+          "percent": 47
+        },
+        {
+          "hour": "17:00",
+          "percent": 35
+        }
+      ]
+    },
+    {
+      "Friday": [
+        {
+          "hour": "08:00",
+          "percent": 37
+        },
+        {
+          "hour": "09:00",
+          "percent": 49
+        },
+        {
+          "hour": "10:00",
+          "percent": 51
+        },
+        {
+          "hour": "11:00",
+          "percent": 48
+        },
+        {
+          "hour": "12:00",
+          "percent": 45
+        },
+        {
+          "hour": "13:00",
+          "percent": 46
+        },
+        {
+          "hour": "14:00",
+          "percent": 49
+        },
+        {
+          "hour": "15:00",
+          "percent": 49
+        },
+        {
+          "hour": "16:00",
+          "percent": 46
+        },
+        {
+          "hour": "17:00",
+          "percent": 38
+        }
+      ]
+    },
+    {
+      "Saturday": [
+        {
+          "hour": "08:00",
+          "percent": 29
+        },
+        {
+          "hour": "09:00",
+          "percent": 69
+        },
+        {
+          "hour": "10:00",
+          "percent": 100
+        },
+        {
+          "hour": "11:00",
+          "percent": 95
+        },
+        {
+          "hour": "12:00",
+          "percent": 69
+        },
+        {
+          "hour": "13:00",
+          "percent": 58
+        },
+        {
+          "hour": "14:00",
+          "percent": 66
+        },
+        {
+          "hour": "15:00",
+          "percent": 69
+        },
+        {
+          "hour": "16:00",
+          "percent": 53
+        },
+        {
+          "hour": "17:00",
+          "percent": 28
+        }
+      ]
+    }
+  ],
+  "relatedSearches": [
+    "fonte dos amores lenda",
+    "fonte dos amores - poços de caldas história",
+    "explique qual evento é apresentado pela lenda fonte dos amores",
+    "lendas de poços de caldas",
+    "relógio floral poços de caldas",
+    "cachoeira véu das noivas",
+    "o que está aberto em poços de caldas",
+    "teleférico poços de caldas"
+  ],
+  "relateds": [
+    {
+      "mainName": "Recanto Japonês",
+      "url": null
+    },
+    {
+      "mainName": "Zoo das Aves - Poços de Caldas",
+      "url": null
+    },
+    {
+      "mainName": "Fonte Luminosa",
+      "url": null
+    },
+    {
+      "mainName": "Cachoeira Véu das Noivas",
+      "url": null
+    },
+    {
+      "mainName": "Teleférico Poços de Caldas",
+      "url": null
+    },
+    {
+      "mainName": "Parque José Affonso Junqueira",
+      "url": null
+    },
+    {
+      "mainName": "Palace Casino",
+      "url": null
+    },
+    {
+      "mainName": "Trilha Do Cristo",
+      "url": null
+    },
+    {
+      "mainName": "Parque Walter World",
+      "url": null
+    },
+    {
+      "mainName": "REPRESA BORTOLAN",
+      "url": null
+    },
+    {
+      "mainName": "Cristo Redentor",
+      "url": null
+    },
+    {
+      "mainName": "Thermas Antônio Carlos",
+      "url": null
+    },
+    {
+      "mainName": "Balneário Dr. Mário Mourão",
+      "url": null
+    },
+    {
+      "mainName": "Relógio Floral",
+      "url": null
+    },
+    {
+      "mainName": "Serra de São Domingos",
+      "url": null
+    },
+    {
+      "mainName": "Basílica Nossa Senhora da Saúde",
+      "url": null
+    },
+    {
+      "mainName": "Xadrez Gigante",
+      "url": null
+    },
+    {
+      "mainName": "Museu Histórico e Geográfico de Poços De Caldas",
+      "url": null
+    },
+    {
+      "mainName": "Monumento Minas ao Brasil",
+      "url": null
+    },
+    {
+      "mainName": "Calendário Floral",
+      "url": null
+    },
+    {
+      "mainName": "Museu da Inconfidência",
+      "url": null
+    },
+    {
+      "mainName": "Instituto Inhotim",
+      "url": null
+    }
+  ]
+}

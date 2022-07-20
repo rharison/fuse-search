@@ -1,0 +1,997 @@
+{
+  "mainName": "Estação da Luz",
+  "slug": "estacao-da-luz",
+  "category": "Estação de trem",
+  "locationInformation": {
+    "latitude": "-23.5350794",
+    "longitude": "-46.6353093"
+  },
+  "basicInformation": [
+    {
+      "label": "endereço",
+      "tooltip": "Copiar endereço",
+      "text": "Praça da Luz, 1, Luz, São Paulo - SP",
+      "icon": "https://www.gstatic.com/images/icons/material/system_gm/1x/place_gm_blue_24dp.png"
+    },
+    {
+      "label": "website",
+      "tooltip": "Abrir website",
+      "text": "cidadedesaopaulo.com",
+      "icon": "https://www.gstatic.com/images/icons/material/system_gm/1x/public_gm_blue_24dp.png"
+    },
+    {
+      "label": "telefone",
+      "tooltip": "Copiar número de telefone",
+      "text": "0800 55 0121",
+      "icon": "https://www.gstatic.com/images/icons/material/system_gm/1x/phone_gm_blue_24dp.png"
+    },
+    {
+      "label": "Code",
+      "tooltip": "Copiar Plus Code",
+      "text": "F977+XV São Paulo, SP",
+      "icon": "https://maps.gstatic.com/mapfiles/maps_lite/images/2x/ic_plus_code.png"
+    }
+  ],
+  "ratingInformation": {
+    "basicRatingInformation": {
+      "averageGrade": 4.4,
+      "totalOfEvaluations": 2141
+    },
+    "ratingsByGrade": [
+      {
+        "grade": 5,
+        "totalRatings": 1307
+      },
+      {
+        "grade": 4,
+        "totalRatings": 512
+      },
+      {
+        "grade": 3,
+        "totalRatings": 223
+      },
+      {
+        "grade": 2,
+        "totalRatings": 48
+      },
+      {
+        "grade": 1,
+        "totalRatings": 51
+      }
+    ]
+  },
+  "ratingTags": [
+    {
+      "tag": "histórico",
+      "count": 202,
+      "tooltip": "histórico, mencionado em 202 avaliações"
+    },
+    {
+      "tag": "arquitetura",
+      "count": 175,
+      "tooltip": "arquitetura, mencionado em 175 avaliações"
+    },
+    {
+      "tag": "metrô",
+      "count": 95,
+      "tooltip": "metrô, mencionado em 95 avaliações"
+    },
+    {
+      "tag": "horário de pico",
+      "count": 46,
+      "tooltip": "horário de pico, mencionado em 46 avaliações"
+    },
+    {
+      "tag": "cultural",
+      "count": 29,
+      "tooltip": "cultural, mencionado em 29 avaliações"
+    },
+    {
+      "tag": "amarela",
+      "count": 26,
+      "tooltip": "amarela, mencionado em 26 avaliações"
+    },
+    {
+      "tag": "cartão postal",
+      "count": 22,
+      "tooltip": "cartão postal, mencionado em 22 avaliações"
+    },
+    {
+      "tag": "usuários",
+      "count": 18,
+      "tooltip": "usuários, mencionado em 18 avaliações"
+    },
+    {
+      "tag": "moradores de rua",
+      "count": 14,
+      "tooltip": "moradores de rua, mencionado em 14 avaliações"
+    },
+    {
+      "tag": "século passado",
+      "count": 7,
+      "tooltip": "século passado, mencionado em 7 avaliações"
+    }
+  ],
+  "featuredPhotos": [
+    "https://lh5.googleusercontent.com/p/AF1QipP_OhJ7kxCJnfkxJ1kalW9iRl0sho8SBy-40My5=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMceSP1TQ6uj_eMuSEZfe4W1MC2gp669yzsA12Y=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipODI47WjEo_1u7hi9kF9bE4jqzYtBAAVddPEUV8=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMCYLJIvco-25OOn8bSHDt3veY-5m9wzOpZIo99=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOIv-wgQLuL3Dpzheyttg9hFgzQncD2i1xQo9j8=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNVbRNjQFbQgaMecHOdqjd_uLT6gy3M7ha2p9Td=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipN4hSTTsK2-ryVJghrqqnJ39ykvZKQRWFyvNS2B=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMKgs4vVtOqRYRef9a6VdkJerCKQ4PQfkA1uXEN=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNK2M7DAamHZf4CyrCMRx5wFewWNPI-en1a8_Nm=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipODC8KfkHm-nSQ82AI1bqkTnRShzTtIiNIJpuW1=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipP3BAOWYAn2KaL6omVvtrqC2hrfY06E2kiuQc3Y=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMJejlwaKyi1glVU_gtrNCQLjw9NcNXvTswQb5j=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNrkfY7VqLP5w0YFCeqKRzAF8JojgixYF6wSZUB=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMff9VJWDGD0B2E6galTpgOGNZKn9pqRTSFBDUi=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPyZdlMF644_yPRhXgsfbgaxp8zoT0Uy_Qp__qb=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPu6W-TAaQNtj1nE58c4Wl4ivKepGbaIbmEIXbb=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipN9cj1ji3yU3maiF76__CyAi6X4VyPcUL6LQziA=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOdiY7MU4i8KGHNJPamugutKW7Y0RkgDgQpsayo=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNqg8g1luxZUE2Sqlh3E0-3C0-JTeQl1BKTJzHf=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPBAKbZ_PadKEuM-sgxjaPdF6ZEmAVbuxtRQQbm=w1024-h576-k-no"
+  ],
+  "topComments": [
+    {
+      "author": "Vicenzo Berti",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucryX5WnyrogMGluFgJ4f2wrrfGh0zkg3vvmH8MpBg=w36-h36-p-c0x00000000-rp-mo-ba6-br100",
+      "comment": "A estação é uma obra prima da arquitetura de influência inglesa no coração de São Paulo. A estrutura metálica traIda de Londres  é uma viagem no tempo. Além disso, a estação abriga o Museu da Língua Portuguesa, que é em si uma atração especialíssima. Recomendo a visita com tempo para apreciar a arquitetura e o museu.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Lucas Costa",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucoQAUNgvxPQqCMjGje9ncnDe-UuDHSf0vh02GkHp3U=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "A estação da luz foi um dos lugares mais bonitos que eu já vi. A arquitetura é impecável, é uma história viva e abriga um grande museu. Presenciei um show no saguão e foi incrível. Há um fluxo muito grande de pessoas e tbm pessoas em situações de vulnerabilidade social. Então aprecie com cuidado. :)",
+      "gradeComment": 5
+    },
+    {
+      "author": "Sergio Luis Dias",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucojyKRYvUu9rF4AnSU-iGSRhfxZvt3T8ao6_h00WA=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "Início de 2020, tive o prazer de estreiar a nova linha de até aeroporto Guarulhos. Muitas espectativas porque estava desespregado e voltando para Florianópolis. São Paulo realmente fiz a corrida tradicional da São Silvestre de 2019, sem dúvida um ano de muitos acontecimentos para todos, 2020 o mundo parou por causa de vírus, meus deus ao redor a vida continuava em frente, caro estava empregado deste de fevereiro passei por várias mudanças na vida. Sem comentários nesta questão. Obrigado por mais uma viagem sensacional.🙏🙏🙏",
+      "gradeComment": 5
+    },
+    {
+      "author": "Ericson Norberto",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucohEDjXgxu5DmfvU5CXa02DC_P3e4oQjB06oMYrjg=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "Uma das mais importantes estações ferroviárias da cidade de SãoPaulo. Possui um grande hall de entrada, uma plataforma central e três laterais. O edifício abriga ainda o Museu da Língua Portuguesa e, em seus arredores, está a Pinacoteca do Estado de São Paulo, o Jardim da Luz e a Sala São Paulo, na Estação Júlio Prestes.  Esta é, sem duvidas, a estação mais linda de São Paulo.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Gui Amaro",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucoPTdxhRaTcmjTPfGZUf5xJl0EQ_ltpzcM14ftV7Q=w36-h36-p-c0x00000000-rp-mo-ba5-br100",
+      "comment": "Estação da Luz foi projetada pelo Barão de Mauá, para atender à demanda da produção cafeeira, a estação tem estrutura metálica inglesa. Em 1867 era inaugurada pela empresa Inglesa São Paulo Railway o lastro ferroviário que ligava Santos a Jundiaí, com extensão de 159 quilômetros e passagem por São Paulo justamente na Estação da Luz e Cubatão. A Estação da Luz também foi a porta de entrada para os imigrantes, que trouxeram o crescimento para a região do Bom Retiro. O projeto da Estação da Luz, de estilo neoclássico, é atribuído ao arquiteto britânico Charles Henry Driver. Ele era considerado especialista em estações ferroviárias. As duas torres paralelas e quadradas no estilo gótico foram inspiradas na Abadia de Westminster, localizada em Londres. Todo o material utilizado na construção foi exportado exclusivamente da Inglaterra, desde os pregos até a estrutura de aço usada na cobertura. Localização fica próximo da Cracolândia, lugar bem perigoso.",
+      "gradeComment": 4
+    },
+    {
+      "author": "Tatiane Cavalcanti",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucoZGifXwSEwu8kyl9R3tr4icRSAgsw4u6gjnWanpjk=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "Estação histórica de SP, muito legal pra conhecer e tirar fotos!! Fui pela linha 1 azul do metrô. Ao lado da estação tem o parque da luz, pinacoteca etc, vale a pena conhecer!",
+      "gradeComment": 5
+    },
+    {
+      "author": "Rafael Nicolau",
+      "photoAuthor": "https://lh3.googleusercontent.com/a/AItbvmmXkdZX-k0oH0iqKoeRWG6rq6oNWEAOj2vqIfov=w36-h36-p-c0x00000000-rp-mo-ba5-br100",
+      "comment": "Se você for passar por São Paulo em um final de semana, definitivamente tem que passar pela Estação da Luz. O lugar em si é lindo, especialmente a noite, além de ser um ponto histórico da cidade Pelo lado negativo como é uma estação central dificilmente você vai pegar pouco movimento.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Paulo Nunes",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucpFpLX9Khhl4W2It1QyPPShabOlQemnQvHUthkg-w=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "A estação é muito linda e fotogênica. Fica rodeada por outros pontos turísticos como a Pinacoteca e o Parque da Luz. Como em todos os grandes centros, recomenda-se atenção redobrada com seus pertences, pois a segurança na região não é das melhores.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Pri Barros",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucrBupyNJ3LGh-fPKm7h0FP96LoTldRRsWhBpmpmSbQ=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "A estação impressiona pelo tamanho e, principalmente pelo fluxo de pessoas. Ohhh lugar pra ter gente! Dá para fazer várias fotos 💗  Muito utilizada pra quem faz baldeação, e perfeita para ir na Pinacoteca ou fazer compras na rua José Paulino.",
+      "gradeComment": 4
+    },
+    {
+      "author": "Gabriel Figueira",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucqDGmQ3_ZceYwKN10GWwtHyHQlfsYmHu6gEdDOxKw=w36-h36-p-c0x00000000-rp-mo-ba3-br100",
+      "comment": "O lugar é arquitetonicamente e historicamente lindo. É bem cuidado, bem conservado e com vários lugares legais para tirar fotos e admirar. Como é parada de diversas linhas e metrô é sempre muito cheia, mas ao mesmo tempo propícia também várias lojas e opções de comida. As saídas deixam na porta dos pontos importantes (Museu da L. Portuguesa, Pinacoteca, Bosque da Luz, etc). O cuidado é só com o entorno, infelizmente é uma região bem abandonado pelo Estado então deve-se redobrar a atenção nas ruas.",
+      "gradeComment": 4
+    },
+    {
+      "author": "Beatriz Lessa",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucouFbs6zBjQ0qzAtMCx8Y8K4b32VdCu6C2L_Px-lsY=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "A estação é linda, mas não consegui me inteirar sobre atrações turísticas ou tours por ela. Infelizmente a região é um tanto perigosa e mal frequentada, mas vale a pena a visita caso esteja passando pelo Museu de Lingua Portuguesa ou a Pinacoteca.",
+      "gradeComment": 4
+    },
+    {
+      "author": "Jully Hsu",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZuco5l2yc9CaxlqAZHwEOqpye4ij8hVLlDKowy45l=w36-h36-p-c0x00000000-rp-mo-ba5-br100",
+      "comment": "Horário de pico é extremamente lotado, estação é bem organizado. Pena que sua localização fica próximo da Cracolândia por isso eu considero a região um pouco perigosa.  O governo de Sp estava querendo criar os trens turístico (consultar valores pelo site) para regiões próximos a São Paulo (Paranapiaca por exemplo)  O estação da luz, você pode fazer baldiação para linha amarela e azul.  Possui algumas lanchonetes no seu interior.  Sua arquitetura é diferenciada e ao seu redor possuem alguns museus e a pinacoteca.",
+      "gradeComment": 3
+    },
+    {
+      "author": "ricardo peixoto soares",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucqMigzvvZNNet7wp4zR4kjwww3ecvdOBxht_Jop-xE=w36-h36-p-c0x00000000-rp-mo-ba5-br100",
+      "comment": "Local histórico da cidade de São Paulo, uma ótima opção de visita na cidade, só não vá à noite...o local e perigoso depois das 20 horas",
+      "gradeComment": 5
+    },
+    {
+      "author": "Jailson Melo",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucrqTYETHliFagxCnM4KnVQBBWlPl9f31X3KDym_=w36-h36-p-c0x00000000-rp-mo-ba6-br100",
+      "comment": "Estação com ótima localização e fácil acesso e uma arquitetura diferenciada. É um marco histórico da cidade de São Paulo. Apesar do prédio antigo tudo está reformado e funcionando muito bem, tem integração com as linhas do metrô e o museu da língua portuguesa. A estação é super movimentada mesmo fora dos horários de pico mas vale muito a pena conhecer! Recomendo 👍🏻",
+      "gradeComment": 4
+    },
+    {
+      "author": "Cyclebelle Mybike",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucqDAiLq2-U3t6mrZP8_YXxWXMlAOpXgzEGJsXxvXg=w36-h36-p-c0x00000000-rp-mo-ba7-br100",
+      "comment": "A Estação da Luz ocupa uma área enorme. As estruturas trazidas da Inglaterra que copiam o Big Ben e a abadia de Westminter são incríveis. Eu gostei muito da estação, integrada ao metrô tem lojinhas e lanchonetes e fica junto ao Parque da Luz que também é bem bonito. Minha crítica vai para o entorno da Estação...com muitos mendigos, camelôs e alguns grupinhos de pessoas que te encaram e realmente dá um certo 😱 medo.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Flavian Mc Donald",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucofHXaWvbzYdO-FzOXfh1HdBm8-FRO8MSuYCdn5HmM=w36-h36-p-c0x00000000-rp-mo-ba5-br100",
+      "comment": "PT: A considero uma das estações mais bonitas das que conheço porém, é fácil ficar meio perdido dentro dela e sempre há aglomeração de pessoas em vários pontos. É uma estação com banheiro e caixa eletrônico. ES: La considero una de las estaciones más bonitas que conozco, sin embargo, es fácil perderse un poco en su interior y siempre hay multitud de gente en varios puntos. Es una estación con baño y cajero automático. EN: I consider it one of the most beautiful stations I know, however, it is easy to get a little lost inside it and there is always a crowd of people in various points. It is a station with a bathroom and an ATM.",
+      "gradeComment": 4
+    },
+    {
+      "author": "Alexandre Malki J.",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucrtbu-agAMUT6o2r49OI9Ji_38x7aQ9dE3W-aquVg=w36-h36-p-c0x00000000-rp-mo-ba6-br100",
+      "comment": "Estação fascinante. Más perigosa por ter muitos andarilhos na região. Tomem cuidado",
+      "gradeComment": 5
+    },
+    {
+      "author": "Natália Amarins",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucreiBR6o1V_qIT_eZshsYByczwLsgh6tJTKoPoAU6o=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "A arquitetura é espetacular! Tanta história, tantas vidas. Eu adoro a estação porque não frequento muito, mas só pode falar quem pega trem na plataforma 3 às 18h de uma sexta-feira. Limpeza sempre muito impecável! Equipe de limpeza do metrô de São Paulo sempre vai valer as minhas 5 estrelas!",
+      "gradeComment": 5
+    },
+    {
+      "author": "Maravilhosa SP",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucolpMIP5NPzMCELzqXx2OZrqQRYZunm125Fk1f93vg=w36-h36-p-c0x00000000-rp-mo-ba6-br100",
+      "comment": "A arquitetura é  belíssima na estação ferroviária da Luz. Interessantíssima as conexões com outras estações de trem e metrô. Tem saídas exclusivas para o Museu da língua  portuguesa  e a Pinacoteca Estação.",
+      "gradeComment": 4
+    },
+    {
+      "author": "Isabely Gomes",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucpyRRzEBaBjuIC19RHVEwEq0iyDQj6eNCHJtYFEdg=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "Uma das estações mais antigas de sp. Muita história e conservação. Tome cuidado com bens pessoais, é muito comum roubos na estação e ao redor. Acesso as linhas amarela, rubi e azul.",
+      "gradeComment": 5
+    }
+  ],
+  "peakHours": [
+    {
+      "Sunday": [
+        {
+          "hour": "04:00",
+          "percent": 4
+        },
+        {
+          "hour": "05:00",
+          "percent": 9
+        },
+        {
+          "hour": "06:00",
+          "percent": 14
+        },
+        {
+          "hour": "07:00",
+          "percent": 17
+        },
+        {
+          "hour": "08:00",
+          "percent": 17
+        },
+        {
+          "hour": "09:00",
+          "percent": 15
+        },
+        {
+          "hour": "10:00",
+          "percent": 13
+        },
+        {
+          "hour": "11:00",
+          "percent": 12
+        },
+        {
+          "hour": "12:00",
+          "percent": 13
+        },
+        {
+          "hour": "13:00",
+          "percent": 15
+        },
+        {
+          "hour": "14:00",
+          "percent": 17
+        },
+        {
+          "hour": "15:00",
+          "percent": 19
+        },
+        {
+          "hour": "16:00",
+          "percent": 20
+        },
+        {
+          "hour": "17:00",
+          "percent": 21
+        },
+        {
+          "hour": "18:00",
+          "percent": 22
+        },
+        {
+          "hour": "19:00",
+          "percent": 23
+        },
+        {
+          "hour": "20:00",
+          "percent": 22
+        },
+        {
+          "hour": "21:00",
+          "percent": 17
+        },
+        {
+          "hour": "22:00",
+          "percent": 11
+        },
+        {
+          "hour": "23:00",
+          "percent": 5
+        },
+        {
+          "hour": "00:00",
+          "percent": 1
+        },
+        {
+          "hour": "03:00",
+          "percent": 1
+        }
+      ]
+    },
+    {
+      "Monday": [
+        {
+          "hour": "04:00",
+          "percent": 6
+        },
+        {
+          "hour": "05:00",
+          "percent": 24
+        },
+        {
+          "hour": "06:00",
+          "percent": 53
+        },
+        {
+          "hour": "07:00",
+          "percent": 74
+        },
+        {
+          "hour": "08:00",
+          "percent": 68
+        },
+        {
+          "hour": "09:00",
+          "percent": 41
+        },
+        {
+          "hour": "10:00",
+          "percent": 19
+        },
+        {
+          "hour": "11:00",
+          "percent": 12
+        },
+        {
+          "hour": "12:00",
+          "percent": 18
+        },
+        {
+          "hour": "13:00",
+          "percent": 32
+        },
+        {
+          "hour": "14:00",
+          "percent": 49
+        },
+        {
+          "hour": "15:00",
+          "percent": 68
+        },
+        {
+          "hour": "16:00",
+          "percent": 82
+        },
+        {
+          "hour": "17:00",
+          "percent": 89
+        },
+        {
+          "hour": "18:00",
+          "percent": 85
+        },
+        {
+          "hour": "19:00",
+          "percent": 72
+        },
+        {
+          "hour": "20:00",
+          "percent": 54
+        },
+        {
+          "hour": "21:00",
+          "percent": 35
+        },
+        {
+          "hour": "22:00",
+          "percent": 20
+        },
+        {
+          "hour": "23:00",
+          "percent": 10
+        },
+        {
+          "hour": "00:00",
+          "percent": 3
+        }
+      ]
+    },
+    {
+      "Tuesday": [
+        {
+          "hour": "04:00",
+          "percent": 9
+        },
+        {
+          "hour": "05:00",
+          "percent": 26
+        },
+        {
+          "hour": "06:00",
+          "percent": 51
+        },
+        {
+          "hour": "07:00",
+          "percent": 70
+        },
+        {
+          "hour": "08:00",
+          "percent": 69
+        },
+        {
+          "hour": "09:00",
+          "percent": 49
+        },
+        {
+          "hour": "10:00",
+          "percent": 26
+        },
+        {
+          "hour": "11:00",
+          "percent": 13
+        },
+        {
+          "hour": "12:00",
+          "percent": 14
+        },
+        {
+          "hour": "13:00",
+          "percent": 26
+        },
+        {
+          "hour": "14:00",
+          "percent": 46
+        },
+        {
+          "hour": "15:00",
+          "percent": 69
+        },
+        {
+          "hour": "16:00",
+          "percent": 90
+        },
+        {
+          "hour": "17:00",
+          "percent": 100
+        },
+        {
+          "hour": "18:00",
+          "percent": 95
+        },
+        {
+          "hour": "19:00",
+          "percent": 77
+        },
+        {
+          "hour": "20:00",
+          "percent": 54
+        },
+        {
+          "hour": "21:00",
+          "percent": 33
+        },
+        {
+          "hour": "22:00",
+          "percent": 26
+        },
+        {
+          "hour": "23:00",
+          "percent": 14
+        },
+        {
+          "hour": "00:00",
+          "percent": 1
+        },
+        {
+          "hour": "03:00",
+          "percent": 1
+        }
+      ]
+    },
+    {
+      "Wednesday": [
+        {
+          "hour": "04:00",
+          "percent": 10
+        },
+        {
+          "hour": "05:00",
+          "percent": 29
+        },
+        {
+          "hour": "06:00",
+          "percent": 56
+        },
+        {
+          "hour": "07:00",
+          "percent": 75
+        },
+        {
+          "hour": "08:00",
+          "percent": 72
+        },
+        {
+          "hour": "09:00",
+          "percent": 49
+        },
+        {
+          "hour": "11:00",
+          "percent": 12
+        },
+        {
+          "hour": "12:00",
+          "percent": 14
+        },
+        {
+          "hour": "13:00",
+          "percent": 25
+        },
+        {
+          "hour": "14:00",
+          "percent": 45
+        },
+        {
+          "hour": "15:00",
+          "percent": 68
+        },
+        {
+          "hour": "16:00",
+          "percent": 88
+        },
+        {
+          "hour": "17:00",
+          "percent": 98
+        },
+        {
+          "hour": "18:00",
+          "percent": 93
+        },
+        {
+          "hour": "19:00",
+          "percent": 77
+        },
+        {
+          "hour": "20:00",
+          "percent": 54
+        },
+        {
+          "hour": "21:00",
+          "percent": 33
+        },
+        {
+          "hour": "22:00",
+          "percent": 29
+        },
+        {
+          "hour": "23:00",
+          "percent": 13
+        },
+        {
+          "hour": "00:00",
+          "percent": 1
+        },
+        {
+          "hour": "03:00",
+          "percent": 1
+        }
+      ]
+    },
+    {
+      "Thursday": [
+        {
+          "hour": "04:00",
+          "percent": 7
+        },
+        {
+          "hour": "05:00",
+          "percent": 25
+        },
+        {
+          "hour": "06:00",
+          "percent": 53
+        },
+        {
+          "hour": "07:00",
+          "percent": 74
+        },
+        {
+          "hour": "08:00",
+          "percent": 71
+        },
+        {
+          "hour": "09:00",
+          "percent": 46
+        },
+        {
+          "hour": "10:00",
+          "percent": 21
+        },
+        {
+          "hour": "11:00",
+          "percent": 11
+        },
+        {
+          "hour": "12:00",
+          "percent": 15
+        },
+        {
+          "hour": "13:00",
+          "percent": 28
+        },
+        {
+          "hour": "14:00",
+          "percent": 47
+        },
+        {
+          "hour": "15:00",
+          "percent": 67
+        },
+        {
+          "hour": "16:00",
+          "percent": 84
+        },
+        {
+          "hour": "17:00",
+          "percent": 91
+        },
+        {
+          "hour": "18:00",
+          "percent": 85
+        },
+        {
+          "hour": "19:00",
+          "percent": 69
+        },
+        {
+          "hour": "20:00",
+          "percent": 49
+        },
+        {
+          "hour": "21:00",
+          "percent": 30
+        },
+        {
+          "hour": "22:00",
+          "percent": 29
+        },
+        {
+          "hour": "23:00",
+          "percent": 17
+        },
+        {
+          "hour": "00:00",
+          "percent": 1
+        }
+      ]
+    },
+    {
+      "Friday": [
+        {
+          "hour": "04:00",
+          "percent": 6
+        },
+        {
+          "hour": "05:00",
+          "percent": 23
+        },
+        {
+          "hour": "06:00",
+          "percent": 47
+        },
+        {
+          "hour": "07:00",
+          "percent": 64
+        },
+        {
+          "hour": "08:00",
+          "percent": 59
+        },
+        {
+          "hour": "09:00",
+          "percent": 38
+        },
+        {
+          "hour": "10:00",
+          "percent": 20
+        },
+        {
+          "hour": "11:00",
+          "percent": 14
+        },
+        {
+          "hour": "12:00",
+          "percent": 20
+        },
+        {
+          "hour": "13:00",
+          "percent": 32
+        },
+        {
+          "hour": "14:00",
+          "percent": 47
+        },
+        {
+          "hour": "15:00",
+          "percent": 62
+        },
+        {
+          "hour": "16:00",
+          "percent": 72
+        },
+        {
+          "hour": "17:00",
+          "percent": 75
+        },
+        {
+          "hour": "18:00",
+          "percent": 70
+        },
+        {
+          "hour": "19:00",
+          "percent": 59
+        },
+        {
+          "hour": "20:00",
+          "percent": 44
+        },
+        {
+          "hour": "21:00",
+          "percent": 30
+        },
+        {
+          "hour": "22:00",
+          "percent": 27
+        },
+        {
+          "hour": "23:00",
+          "percent": 18
+        },
+        {
+          "hour": "00:00",
+          "percent": 3
+        }
+      ]
+    },
+    {
+      "Saturday": [
+        {
+          "hour": "04:00",
+          "percent": 5
+        },
+        {
+          "hour": "05:00",
+          "percent": 14
+        },
+        {
+          "hour": "06:00",
+          "percent": 25
+        },
+        {
+          "hour": "07:00",
+          "percent": 31
+        },
+        {
+          "hour": "08:00",
+          "percent": 30
+        },
+        {
+          "hour": "09:00",
+          "percent": 25
+        },
+        {
+          "hour": "10:00",
+          "percent": 24
+        },
+        {
+          "hour": "11:00",
+          "percent": 27
+        },
+        {
+          "hour": "12:00",
+          "percent": 33
+        },
+        {
+          "hour": "13:00",
+          "percent": 39
+        },
+        {
+          "hour": "14:00",
+          "percent": 43
+        },
+        {
+          "hour": "15:00",
+          "percent": 45
+        },
+        {
+          "hour": "16:00",
+          "percent": 44
+        },
+        {
+          "hour": "17:00",
+          "percent": 41
+        },
+        {
+          "hour": "18:00",
+          "percent": 35
+        },
+        {
+          "hour": "19:00",
+          "percent": 29
+        },
+        {
+          "hour": "20:00",
+          "percent": 22
+        },
+        {
+          "hour": "21:00",
+          "percent": 17
+        },
+        {
+          "hour": "22:00",
+          "percent": 19
+        },
+        {
+          "hour": "23:00",
+          "percent": 15
+        },
+        {
+          "hour": "00:00",
+          "percent": 4
+        },
+        {
+          "hour": "03:00",
+          "percent": 1
+        }
+      ]
+    }
+  ],
+  "relatedSearches": [
+    "estação da luz - são paulo",
+    "estação da luz bairro",
+    "estação da luz agora",
+    "estação da luz mapa",
+    "estação da luz cep",
+    "estação da luz onde fica",
+    "quando foi inaugurada a estação da luz",
+    "estação da luz telefone"
+  ],
+  "relateds": [
+    {
+      "mainName": "Luz",
+      "url": null
+    },
+    {
+      "mainName": "Museu da Língua Portuguesa",
+      "url": null
+    },
+    {
+      "mainName": "Brás",
+      "url": null
+    },
+    {
+      "mainName": "Pinacoteca de São Paulo",
+      "url": null
+    },
+    {
+      "mainName": "Sala São Paulo",
+      "url": null
+    },
+    {
+      "mainName": "Estação Jundiaí",
+      "url": null
+    },
+    {
+      "mainName": "Júlio Prestes",
+      "url": null
+    },
+    {
+      "mainName": "Parque Jardim da Luz",
+      "url": null
+    },
+    {
+      "mainName": "Terminal Intermodal Palmeiras-Barra Funda",
+      "url": null
+    },
+    {
+      "mainName": "Sé",
+      "url": null
+    },
+    {
+      "mainName": "Palmeiras-Barra Funda",
+      "url": null
+    },
+    {
+      "mainName": "Mercado Municipal de São Paulo",
+      "url": null
+    },
+    {
+      "mainName": "República",
+      "url": null
+    },
+    {
+      "mainName": "Estação Pinacoteca",
+      "url": null
+    },
+    {
+      "mainName": "Estação Tatuapé",
+      "url": null
+    },
+    {
+      "mainName": "Museu de Arte de São Paulo Assis Chateaubriand",
+      "url": null
+    },
+    {
+      "mainName": "Ponte Octávio Frias de Oliveira",
+      "url": null
+    },
+    {
+      "mainName": "Estação Aeroporto - Guarulhos",
+      "url": null
+    },
+    {
+      "mainName": "Eng. Goulart",
+      "url": null
+    },
+    {
+      "mainName": "Armênia",
+      "url": null
+    },
+    {
+      "mainName": "Estudantes",
+      "url": null
+    },
+    {
+      "mainName": "Catedral Metropolitana de São Paulo",
+      "url": null
+    },
+    {
+      "mainName": "TERM. Metrô Butantã (Metrô Butantã)",
+      "url": null
+    },
+    {
+      "mainName": "Francisco Morato",
+      "url": null
+    }
+  ]
+}

@@ -1,0 +1,844 @@
+{
+  "mainName": "Parque Areião",
+  "slug": "parque-areiao",
+  "category": "Parque municipal",
+  "locationInformation": {
+    "latitude": "-16.7072291",
+    "longitude": "-49.2566227"
+  },
+  "basicInformation": [
+    {
+      "label": "endereço",
+      "tooltip": "Copiar endereço",
+      "text": "Av. Areião, s/n - St. Pedro Ludovico, Goiânia - GO, 74820-370",
+      "icon": "https://www.gstatic.com/images/icons/material/system_gm/1x/place_gm_blue_24dp.png"
+    },
+    {
+      "label": "Code",
+      "tooltip": "Copiar Plus Code",
+      "text": "7PVV+49 St. Pedro Ludovico, Goiânia - GO",
+      "icon": "https://maps.gstatic.com/mapfiles/maps_lite/images/2x/ic_plus_code.png"
+    },
+    {
+      "label": "merchant",
+      "text": "Reivindicar esta empresa",
+      "icon": "https://www.gstatic.com/images/icons/material/system_gm/1x/verified_user_gm_blue_24dp.png"
+    }
+  ],
+  "ratingInformation": {
+    "basicRatingInformation": {
+      "averageGrade": 4.6,
+      "totalOfEvaluations": 10835
+    },
+    "ratingsByGrade": [
+      {
+        "grade": 5,
+        "totalRatings": 7697
+      },
+      {
+        "grade": 4,
+        "totalRatings": 2187
+      },
+      {
+        "grade": 3,
+        "totalRatings": 676
+      },
+      {
+        "grade": 2,
+        "totalRatings": 137
+      },
+      {
+        "grade": 1,
+        "totalRatings": 138
+      }
+    ]
+  },
+  "ratingTags": [
+    {
+      "tag": "caminhada",
+      "count": 877,
+      "tooltip": "caminhada, mencionado em 877 avaliações"
+    },
+    {
+      "tag": "macacos",
+      "count": 223,
+      "tooltip": "macacos, mencionado em 223 avaliações"
+    },
+    {
+      "tag": "água de coco",
+      "count": 131,
+      "tooltip": "água de coco, mencionado em 131 avaliações"
+    },
+    {
+      "tag": "lago",
+      "count": 125,
+      "tooltip": "lago, mencionado em 125 avaliações"
+    },
+    {
+      "tag": "segurança",
+      "count": 80,
+      "tooltip": "segurança, mencionado em 80 avaliações"
+    },
+    {
+      "tag": "atividades físicas",
+      "count": 75,
+      "tooltip": "atividades físicas, mencionado em 75 avaliações"
+    },
+    {
+      "tag": "poder público",
+      "count": 20,
+      "tooltip": "poder público, mencionado em 20 avaliações"
+    },
+    {
+      "tag": "a tarde",
+      "count": 20,
+      "tooltip": "a tarde, mencionado em 20 avaliações"
+    },
+    {
+      "tag": "pista de corrida",
+      "count": 17,
+      "tooltip": "pista de corrida, mencionado em 17 avaliações"
+    },
+    {
+      "tag": "bosque",
+      "count": 14,
+      "tooltip": "bosque, mencionado em 14 avaliações"
+    }
+  ],
+  "featuredPhotos": [
+    "https://lh5.googleusercontent.com/p/AF1QipOBf3YJj6b4VCFGCbmNl8unXfxrgGnZZTa6A7QE=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipP5W5FO6eei0WYQ5lhWi15Xrcie_Djn5KQKFgMp=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPmcnfIHI6BNIDbUAyYAnDq_P3njV3VyDcdicGa=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMZ4-hWe5eqRvzbDdsbNb5EYQeWHnBzzA2Q5ZQB=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOYCqBB1vhn4-OA9xW1fe55_u-MGgDKaeotLmAV=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipONhHJ3lNoShdrwxPJtBmPWbOo2WN28ia3BPdxW=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipM3R3f8E0vZ88d60twMkngpajgMSv1oFaqy5Rv-=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPqvd21anvtg6ZtgMGV7nb2TEHnUTFnt2Kjruvj=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipONvxGfEPN95cTtHrsDZNjp1PJDNG5YscdCK8wO=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPGx20Uq8cwhYqMYpv5uFYNYbnyqsnixUYDNnyT=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPLbwC01LZm9sKUSpljAojp0URz4aatESEk4WZW=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPQJBusNUBLb_2hW2dNfYse4Dcmzpb31olDq4-x=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipP-Zwt7ncifV5D_iB-iZft49aBlLtFYwxj0NM-h=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOEVsD2_kBGZsC271Vax1nJzuugBWSqdcPshA_1=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPInNe4zSW4oP_QUp-DhP-qHNZILXzQTB2DRAzO=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipN7jBrpSgngfAiUSNgKwUeHlzOF3gyIPiSDDn8b=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOUlmJq62HlK77gc0l3m-jAcK92WJ_a-gJWZuME=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMfb_F5DZ4QQ91S3LHYJQ-rVXDl_0PR3Mz9oaqi=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNGA2pidLofqVurOGXBjXEW5QO2eO3T4Sil21Ia=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMi5ZiEi2RTvuTefl1N3ymWcmNDEXgLpFTpHIau=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNj1YHXRsJXc9btDCvAPdpKEWAWRWB6evZxDRVh=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMB1mQ-WdDL0wc87Q6VacNSOX6-AqWz9BDP0V8N=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOqWUJRciJJ18V1FEkOIVvjruXyLHLl0xSSE-_C=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNoUlHOCh-ZZmeb-3_0cXCaVDoOEY7pHKqZ6pBF=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNbHpbI0Ihyq1N5nGbhjsuN_lWz4UTdYQbpvx6b=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOmdZ0AO2NQvu347LlFVAt_Fl3Qi8QF48067YYC=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOb0oVlBGBOa4P6Adto-_uVmx67sV9AsE505kXL=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOkdUvLx6_Z5PY6Cj3z0SoeVLpL30f78rpy7Sy-=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNudAPieimoVVROWKtt5OOj63g53YvXuhPfnXGp=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNC-hcWdBBJchEZ6bBWMbmVZC_kVD2E0CCmsTGv=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPHxbO9cmpp0BvHHxl9lDvVt68aWBCacPnhnOfe=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipN_A4mhmnxL7o2t1EchWCUEqUoKcvVTcypfxYtQ=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOvJLWDNy6u1VSa_s9iipMSpzWUhPNgTPYlD9nN=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNm976HSwQ_RbxWerCT7iE8_Qu3KfbJGfF65MT7=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOc0qM2kKwWamOwWFZKhZ3gEI41SMf-7scndBP5=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOMpe8pRraSjGh5EtDo_fJ9mJ35w-a90hmG4yfH=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMkXjnNu9z3xDOMXTIl1biMoHkZYxmzh3sWcZfR=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipO1o2H1GfxkRKO81TzL5_kJy-2bPGit_n0dzRq6=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOqYUalHBX8FvblpYuT0AGBs3YzLOP3OKwgcqIz=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipN-9v9Tkx1M1lMEmDOyxbeTUb4n5yTDC5f0qYqZ=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMB1wMsC1Z7qughbdX5RnO6xvcK0QLjybqMa3rp=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPfqREghiOQaqKgXvgapmvLbqGxixr4LxqHL8ip=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPVwVLce6lAUpg0XjU4JmiqLgZisxmnI2gho_fL=w1024-h576-k-no"
+  ],
+  "topComments": null,
+  "peakHours": [
+    {
+      "Sunday": [
+        {
+          "hour": "04:00",
+          "percent": 2
+        },
+        {
+          "hour": "05:00",
+          "percent": 3
+        },
+        {
+          "hour": "06:00",
+          "percent": 7
+        },
+        {
+          "hour": "07:00",
+          "percent": 18
+        },
+        {
+          "hour": "08:00",
+          "percent": 38
+        },
+        {
+          "hour": "09:00",
+          "percent": 64
+        },
+        {
+          "hour": "10:00",
+          "percent": 86
+        },
+        {
+          "hour": "11:00",
+          "percent": 90
+        },
+        {
+          "hour": "12:00",
+          "percent": 76
+        },
+        {
+          "hour": "13:00",
+          "percent": 58
+        },
+        {
+          "hour": "14:00",
+          "percent": 54
+        },
+        {
+          "hour": "15:00",
+          "percent": 68
+        },
+        {
+          "hour": "16:00",
+          "percent": 87
+        },
+        {
+          "hour": "17:00",
+          "percent": 92
+        },
+        {
+          "hour": "18:00",
+          "percent": 75
+        },
+        {
+          "hour": "19:00",
+          "percent": 47
+        },
+        {
+          "hour": "20:00",
+          "percent": 23
+        },
+        {
+          "hour": "21:00",
+          "percent": 9
+        },
+        {
+          "hour": "22:00",
+          "percent": 3
+        },
+        {
+          "hour": "23:00",
+          "percent": 2
+        },
+        {
+          "hour": "00:00",
+          "percent": 1
+        },
+        {
+          "hour": "01:00",
+          "percent": 1
+        },
+        {
+          "hour": "02:00",
+          "percent": 1
+        },
+        {
+          "hour": "03:00",
+          "percent": 1
+        }
+      ]
+    },
+    {
+      "Monday": [
+        {
+          "hour": "04:00",
+          "percent": 2
+        },
+        {
+          "hour": "05:00",
+          "percent": 9
+        },
+        {
+          "hour": "06:00",
+          "percent": 20
+        },
+        {
+          "hour": "07:00",
+          "percent": 34
+        },
+        {
+          "hour": "08:00",
+          "percent": 51
+        },
+        {
+          "hour": "09:00",
+          "percent": 64
+        },
+        {
+          "hour": "10:00",
+          "percent": 69
+        },
+        {
+          "hour": "11:00",
+          "percent": 68
+        },
+        {
+          "hour": "12:00",
+          "percent": 65
+        },
+        {
+          "hour": "13:00",
+          "percent": 65
+        },
+        {
+          "hour": "14:00",
+          "percent": 70
+        },
+        {
+          "hour": "15:00",
+          "percent": 79
+        },
+        {
+          "hour": "16:00",
+          "percent": 84
+        },
+        {
+          "hour": "17:00",
+          "percent": 80
+        },
+        {
+          "hour": "18:00",
+          "percent": 66
+        },
+        {
+          "hour": "19:00",
+          "percent": 46
+        },
+        {
+          "hour": "20:00",
+          "percent": 26
+        },
+        {
+          "hour": "21:00",
+          "percent": 10
+        }
+      ]
+    },
+    {
+      "Tuesday": [
+        {
+          "hour": "05:00",
+          "percent": 6
+        },
+        {
+          "hour": "07:00",
+          "percent": 34
+        },
+        {
+          "hour": "08:00",
+          "percent": 51
+        },
+        {
+          "hour": "09:00",
+          "percent": 64
+        },
+        {
+          "hour": "10:00",
+          "percent": 68
+        },
+        {
+          "hour": "11:00",
+          "percent": 64
+        },
+        {
+          "hour": "12:00",
+          "percent": 60
+        },
+        {
+          "hour": "13:00",
+          "percent": 61
+        },
+        {
+          "hour": "14:00",
+          "percent": 70
+        },
+        {
+          "hour": "15:00",
+          "percent": 82
+        },
+        {
+          "hour": "16:00",
+          "percent": 87
+        },
+        {
+          "hour": "17:00",
+          "percent": 81
+        },
+        {
+          "hour": "18:00",
+          "percent": 64
+        },
+        {
+          "hour": "19:00",
+          "percent": 43
+        },
+        {
+          "hour": "20:00",
+          "percent": 24
+        },
+        {
+          "hour": "21:00",
+          "percent": 10
+        },
+        {
+          "hour": "22:00",
+          "percent": 2
+        }
+      ]
+    },
+    {
+      "Wednesday": [
+        {
+          "hour": "05:00",
+          "percent": 5
+        },
+        {
+          "hour": "06:00",
+          "percent": 18
+        },
+        {
+          "hour": "07:00",
+          "percent": 37
+        },
+        {
+          "hour": "08:00",
+          "percent": 57
+        },
+        {
+          "hour": "09:00",
+          "percent": 70
+        },
+        {
+          "hour": "10:00",
+          "percent": 72
+        },
+        {
+          "hour": "11:00",
+          "percent": 68
+        },
+        {
+          "hour": "12:00",
+          "percent": 65
+        },
+        {
+          "hour": "13:00",
+          "percent": 69
+        },
+        {
+          "hour": "14:00",
+          "percent": 77
+        },
+        {
+          "hour": "15:00",
+          "percent": 83
+        },
+        {
+          "hour": "16:00",
+          "percent": 83
+        },
+        {
+          "hour": "17:00",
+          "percent": 74
+        },
+        {
+          "hour": "18:00",
+          "percent": 59
+        },
+        {
+          "hour": "19:00",
+          "percent": 42
+        },
+        {
+          "hour": "20:00",
+          "percent": 26
+        },
+        {
+          "hour": "21:00",
+          "percent": 14
+        },
+        {
+          "hour": "22:00",
+          "percent": 5
+        }
+      ]
+    },
+    {
+      "Thursday": [
+        {
+          "hour": "05:00",
+          "percent": 5
+        },
+        {
+          "hour": "06:00",
+          "percent": 16
+        },
+        {
+          "hour": "07:00",
+          "percent": 34
+        },
+        {
+          "hour": "08:00",
+          "percent": 56
+        },
+        {
+          "hour": "09:00",
+          "percent": 73
+        },
+        {
+          "hour": "10:00",
+          "percent": 78
+        },
+        {
+          "hour": "11:00",
+          "percent": 74
+        },
+        {
+          "hour": "12:00",
+          "percent": 67
+        },
+        {
+          "hour": "13:00",
+          "percent": 68
+        },
+        {
+          "hour": "14:00",
+          "percent": 76
+        },
+        {
+          "hour": "15:00",
+          "percent": 85
+        },
+        {
+          "hour": "16:00",
+          "percent": 89
+        },
+        {
+          "hour": "17:00",
+          "percent": 83
+        },
+        {
+          "hour": "18:00",
+          "percent": 67
+        },
+        {
+          "hour": "19:00",
+          "percent": 48
+        },
+        {
+          "hour": "20:00",
+          "percent": 29
+        },
+        {
+          "hour": "21:00",
+          "percent": 15
+        },
+        {
+          "hour": "22:00",
+          "percent": 6
+        },
+        {
+          "hour": "23:00",
+          "percent": 1
+        }
+      ]
+    },
+    {
+      "Friday": [
+        {
+          "hour": "05:00",
+          "percent": 7
+        },
+        {
+          "hour": "06:00",
+          "percent": 22
+        },
+        {
+          "hour": "07:00",
+          "percent": 42
+        },
+        {
+          "hour": "08:00",
+          "percent": 61
+        },
+        {
+          "hour": "09:00",
+          "percent": 74
+        },
+        {
+          "hour": "10:00",
+          "percent": 76
+        },
+        {
+          "hour": "11:00",
+          "percent": 72
+        },
+        {
+          "hour": "12:00",
+          "percent": 67
+        },
+        {
+          "hour": "13:00",
+          "percent": 68
+        },
+        {
+          "hour": "14:00",
+          "percent": 73
+        },
+        {
+          "hour": "15:00",
+          "percent": 79
+        },
+        {
+          "hour": "16:00",
+          "percent": 78
+        },
+        {
+          "hour": "17:00",
+          "percent": 70
+        },
+        {
+          "hour": "18:00",
+          "percent": 54
+        },
+        {
+          "hour": "19:00",
+          "percent": 37
+        },
+        {
+          "hour": "20:00",
+          "percent": 22
+        },
+        {
+          "hour": "21:00",
+          "percent": 11
+        },
+        {
+          "hour": "22:00",
+          "percent": 5
+        },
+        {
+          "hour": "23:00",
+          "percent": 2
+        },
+        {
+          "hour": "00:00",
+          "percent": 1
+        }
+      ]
+    },
+    {
+      "Saturday": [
+        {
+          "hour": "05:00",
+          "percent": 3
+        },
+        {
+          "hour": "06:00",
+          "percent": 14
+        },
+        {
+          "hour": "07:00",
+          "percent": 34
+        },
+        {
+          "hour": "08:00",
+          "percent": 61
+        },
+        {
+          "hour": "09:00",
+          "percent": 87
+        },
+        {
+          "hour": "10:00",
+          "percent": 100
+        },
+        {
+          "hour": "11:00",
+          "percent": 94
+        },
+        {
+          "hour": "12:00",
+          "percent": 76
+        },
+        {
+          "hour": "13:00",
+          "percent": 59
+        },
+        {
+          "hour": "14:00",
+          "percent": 56
+        },
+        {
+          "hour": "15:00",
+          "percent": 71
+        },
+        {
+          "hour": "16:00",
+          "percent": 88
+        },
+        {
+          "hour": "17:00",
+          "percent": 89
+        },
+        {
+          "hour": "18:00",
+          "percent": 71
+        },
+        {
+          "hour": "19:00",
+          "percent": 44
+        },
+        {
+          "hour": "20:00",
+          "percent": 22
+        },
+        {
+          "hour": "21:00",
+          "percent": 13
+        },
+        {
+          "hour": "22:00",
+          "percent": 10
+        },
+        {
+          "hour": "23:00",
+          "percent": 11
+        },
+        {
+          "hour": "00:00",
+          "percent": 10
+        },
+        {
+          "hour": "01:00",
+          "percent": 8
+        },
+        {
+          "hour": "02:00",
+          "percent": 5
+        },
+        {
+          "hour": "03:00",
+          "percent": 1
+        }
+      ]
+    }
+  ],
+  "relatedSearches": [
+    "parque areião goiânia",
+    "história do parque areião",
+    "bairro areião",
+    "areião preço",
+    "areiao materiais construção",
+    "areião esportes",
+    "parque vaca brava goiânia fotos",
+    "clínica areião"
+  ],
+  "relateds": [
+    {
+      "mainName": "Parque Vaca Brava",
+      "url": null
+    },
+    {
+      "mainName": "Parque Flamboyant",
+      "url": null
+    },
+    {
+      "mainName": "Bosque dos Buritis",
+      "url": null
+    },
+    {
+      "mainName": "Quiosque do Lago",
+      "url": null
+    },
+    {
+      "mainName": "Parque Cascavel",
+      "url": null
+    },
+    {
+      "mainName": "Jardim Botânico de Goiânia",
+      "url": null
+    },
+    {
+      "mainName": "Hit Marista",
+      "url": null
+    },
+    {
+      "mainName": "Praça do Sol",
+      "url": null
+    },
+    {
+      "mainName": "Parque Carmo Bernardes",
+      "url": null
+    },
+    {
+      "mainName": "Parque Macambira Anicuns",
+      "url": null
+    },
+    {
+      "mainName": "Parque Marcos Veiga Jardim",
+      "url": null
+    },
+    {
+      "mainName": "Praça Dr. Pedro Ludovico Teixeira",
+      "url": null
+    },
+    {
+      "mainName": "Residencial Palais du Parc",
+      "url": null
+    },
+    {
+      "mainName": "Praça Universitária",
+      "url": null
+    },
+    {
+      "mainName": "Monumento às Três Raças",
+      "url": null
+    },
+    {
+      "mainName": "Parque Leolídio di Ramos Caiado (Goiânia 2)",
+      "url": null
+    },
+    {
+      "mainName": "Parque Bernardo Élis",
+      "url": null
+    },
+    {
+      "mainName": "Parque Mutirama",
+      "url": null
+    },
+    {
+      "mainName": "Parque Botafogo Vila Nova",
+      "url": null
+    },
+    {
+      "mainName": "Beco da Codorna",
+      "url": null
+    },
+    {
+      "mainName": "Museu Goiano Professor Zoroastro Artiaga",
+      "url": null
+    },
+    {
+      "mainName": "Praça Tamandaré",
+      "url": null
+    },
+    {
+      "mainName": "Flamboyant Shopping Center",
+      "url": null
+    }
+  ]
+}

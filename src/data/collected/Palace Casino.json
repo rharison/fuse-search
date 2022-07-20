@@ -1,0 +1,660 @@
+{
+  "mainName": "Palace Casino",
+  "slug": "palace-casino",
+  "category": "Cassino",
+  "locationInformation": {
+    "latitude": "-21.7855208",
+    "longitude": "-46.5698106"
+  },
+  "basicInformation": [
+    {
+      "label": "endereço",
+      "tooltip": "Copiar endereço",
+      "text": "Parque José Afonso Junqueira, s/n - Centro, Poços de Caldas - MG, 37701-000",
+      "icon": "https://www.gstatic.com/images/icons/material/system_gm/1x/place_gm_blue_24dp.png"
+    },
+    {
+      "label": "locatedin",
+      "text": "Localizado em: Parque José Affonso Junqueira",
+      "icon": "https://www.google.com/images/cleardot.gif"
+    },
+    {
+      "label": "website",
+      "tooltip": "Abrir website",
+      "text": "palacehotelpocos.com.br",
+      "icon": "https://www.gstatic.com/images/icons/material/system_gm/1x/public_gm_blue_24dp.png"
+    },
+    {
+      "label": "Code",
+      "tooltip": "Copiar Plus Code",
+      "text": "6C7J+Q3 Centro, Poços de Caldas - MG",
+      "icon": "https://maps.gstatic.com/mapfiles/maps_lite/images/2x/ic_plus_code.png"
+    }
+  ],
+  "ratingInformation": {
+    "basicRatingInformation": {
+      "averageGrade": 4.5,
+      "totalOfEvaluations": 158
+    },
+    "ratingsByGrade": [
+      {
+        "grade": 5,
+        "totalRatings": 115
+      },
+      {
+        "grade": 4,
+        "totalRatings": 28
+      },
+      {
+        "grade": 3,
+        "totalRatings": 5
+      },
+      {
+        "grade": 2,
+        "totalRatings": 4
+      },
+      {
+        "grade": 1,
+        "totalRatings": 6
+      }
+    ]
+  },
+  "ratingTags": [
+    {
+      "tag": "arquitetura",
+      "count": 13,
+      "tooltip": "arquitetura, mencionado em 13 avaliações"
+    },
+    {
+      "tag": "história",
+      "count": 8,
+      "tooltip": "história, mencionado em 8 avaliações"
+    },
+    {
+      "tag": "vale",
+      "count": 4,
+      "tooltip": "vale, mencionado em 4 avaliações"
+    },
+    {
+      "tag": "hotel",
+      "count": 4,
+      "tooltip": "hotel, mencionado em 4 avaliações"
+    },
+    {
+      "tag": "casamentos",
+      "count": 3,
+      "tooltip": "casamentos, mencionado em 3 avaliações"
+    },
+    {
+      "tag": "passado",
+      "count": 3,
+      "tooltip": "passado, mencionado em 3 avaliações"
+    }
+  ],
+  "featuredPhotos": [
+    "https://lh5.googleusercontent.com/p/AF1QipMW0Ge3FUJPN2xDczbNo0XsqsPWiAdAqOj3p0-t=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipN9oCSRQ1l1jE4BTGQqC613iOzfBbChMQj5BqIe=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOs9tuufz0w_UsR5d9IvN-F2W1oHTtlHOxP3Hnn=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOUmS2VWNzkMIEOeH7rtSe9l1TPLjxrKx_h0zVm=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNx28SoFissgJdeZ-wtGuRbxXtjx9Ll-v9fLdNl=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOezrP_jqh6nJaxqFvlrLEYF0krLald_Ll0y3t2=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipO59E3cJhjSYoxyToZuuZjYh4Zw-NgN0yf1WQ6G=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPGJPwzD-rMHYECOG6b4k5-6pLFZAOJ4vq3nhlC=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipP14tCdQ43nKotDaCsHFC8lzce9yRXVaXHfGfUS=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPfo7AfQUfDsX8MWTbYjUfJZtR-E9rEVT6kVXyM=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOOx_-f3VWAVFwXgN_m3uAN9y4DXqsZpMuDlccM=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipONJoxGjT3NnbU23LInKnh59o2H_mZnf_B3YglL=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPeKRQf7LpbIQiPsZNchVCgCY7V-H-NQ_lzJW2b=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNZrIhoQgmmh48U7EX1J9FzHixYPWoG-88HOxQC=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMdl863VI8xWSKd8fEw7Eba1fn8buhZllphpoOd=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOBjGbkccY14Ug_GjA5dD_RFGYhwtx-1i2qy7Pt=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipP33uum_FEjgVnfdCjUjKildbBcIw09RnN3iE9l=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipO1d_8m05m566I1RUb1RcXILCoMHglZBmamBU6F=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNFBlwd8reH4-eYuBXOTu3lwMOwRUtNAHiWyGjt=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNWugDpFwb19zx8o7wGtDCdTlNQfExRFqS04aaS=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipO-qMtYhcy7pmBMHLAk4FR9moXpYsm7pkdtipmN=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOCMzh3DJwJ3O_QN7DLsOA3CiJHDQmOw7hRDk0b=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipObVnBZT_W3Nxoc73hBjv7tyFQ84kFvDLE6FAX7=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOdKv-G0CRWzcnot3q92XoQ4iqrHp7PvY_gaYiZ=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNjtkmYUGgJ2H0suthiJa17V8yv0xRn3dfw1Pjb=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMXFx4QHI4UZ5wmjCWAbxGyK-QEdhoA5TsjKQQf=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPeYDKkJsh38FCn6FLon794X2XSp0mX4W1uBuax=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOfj5z7hDwa3qTElep_i2CqSedpg7wr_jHSpMpG=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOVftDEJC_u28cn4GoUuNU9t47zK9sFdPOlJAe2=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipN9c1rEVbVk-kAJJzgkcM2EbnE8wR8t1b7yOjwv=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipP1-uxN11VnFCRQLayZqng6608zrOijVsMnQnCM=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOu05CPsrt4YA6qMpZu2vwexICdmOpW7ZVT1soI=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPletHmf1nnWsTZ_TJcld2HNTIorhqy0eKZc0ah=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNpePKgYTW0MXsQvPz8fSJAYqxWhrsZD5HQ6HK2=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipN-Mjiwgkl5AL1Yg77gB5tQvT969eN5qjDQKSLN=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPpR-Br2s9m3kjqMwpAk7FucKmla1NNrfk-Y78q=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNg_D-XtPjcNH9oG8kGk9sg9yz2FZw4roF142S8=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNcmytesCOWTKYMN-Jfpa-e_915UAP2oBJGeLPi=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPFh8NPUl5XTurlCxRkAp0ZzqnASs2aKbf0vAjH=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPIcdl7Fo58LIxADXZEKeJ8gjlfhH5-mEg705lw=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPcUsfu2LV-BYmQQzOliEQuWV-oM6cUgB6Jwk1S=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipM0o0zc_p6iFB_9fcL_FC2PjRuOfgiwpExnjZ17=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNQIJ7wBMeOR2syk0umKC1jLdJc3erh50VNeViV=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPS1EhVvbtZ0IXRQ-f8FE7IeJg7H5CrecKSZ6Vs=w1024-h576-k-no"
+  ],
+  "topComments": [
+    {
+      "author": "GS C",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucp6o-sORaKwpMYmhR8VOarSPRfoRj3IOhRBtTRfsiU=w36-h36-p-c0x00000000-rp-mo-ba6-br100",
+      "comment": "Prédio bonito, não vi por dentro, mas dá para imaginar os seus tempos áureos, as pessoas chegando de trem para se hospedar em Poços e jogar no Cassino.",
+      "gradeComment": 4
+    },
+    {
+      "author": "william paiva",
+      "photoAuthor": "https://lh3.googleusercontent.com/a/AItbvmlmjUHL_Dd_HwHcQPiNoaoivRHP2GvhkwTxyApW=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "Excelente local para eventos importantes como formaturas, casamentos! Parece que voltamos no tempo, arquitetura fantástica!",
+      "gradeComment": 5
+    },
+    {
+      "author": "Caio Nunes",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucp0u1TpL_-Uz_SHoCAe_eILvL72ltLk4o5LWJm5ui8=w36-h36-p-c0x00000000-rp-mo-ba5-br100",
+      "comment": "Arquitetura muito interessante para se observar no centro de Poços de Caldas. Não pudemos entrar, mas valeu a pena ver pelo lado de fora.",
+      "gradeComment": 4
+    },
+    {
+      "author": "mulheres poderosas",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucqGJhsJgaEEhzrXFS686AnvL-h0-BqKSTdolxeHgSU=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "A arquitetura é incrível, impressiona quem vem de longe,lindo",
+      "gradeComment": 5
+    },
+    {
+      "author": "Marco Vinci",
+      "photoAuthor": "https://lh3.googleusercontent.com/a/AItbvmmPs0Xla0xdRdlIa69XBqCLBzGAjXM2O14f0lr9=w36-h36-p-c0x00000000-rp-mo-ba3-br100",
+      "comment": "Uma aula de história, te transporta pra o século passado, fico imaginando como seria os tempos de auge desse cassino. Belíssimo!",
+      "gradeComment": 5
+    },
+    {
+      "author": "Francisco",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucpVmFLOruo-ONYr2I6rtve4MjM6ocNKWvXaUDwm=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "Uma volta ao passado, linda arquitetura!",
+      "gradeComment": 5
+    },
+    {
+      "author": "Simone Brito",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucpGPRL-zOF446-6gJyJu0JsLIV6AIVtHYYLA8_ZcQ=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "Não perca seu tempo, o Cassino não é aberto para visitação publica, somente para eventos como, casamentos, formaturas ou da própria cidade, decepcionante.",
+      "gradeComment": 1
+    },
+    {
+      "author": "João LUcas",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucr9wRtQPM4chySkekUIiFLYAdJRpai6tcftDvU4AQ=w36-h36-p-c0x00000000-rp-mo-br100",
+      "comment": "Alto valor, cheiro ruim, muito pó, não vale a pena é apenas uma ilusão. O Íbis é melhor !!!",
+      "gradeComment": 1
+    },
+    {
+      "author": "SEBASTIÃO BARBOSA DAS NEVES",
+      "photoAuthor": "https://lh3.googleusercontent.com/a/AItbvmk-0mt7Vu7D9_SzHwJn-XXCXORPo7BfJeRgrkAx=w36-h36-p-c0x00000000-rp-mo-ba6-br100",
+      "comment": "Local fica no centro,o local e histórico e hospedagem de qualidade espaço para eventos corporativos apartamentos espaçosos e limpeza de qualidade picinas limpas e aquecida tudo de bom.",
+      "gradeComment": 5
+    },
+    {
+      "author": "EMSO FIGA",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucrEjrrQWNiHZjwe4nrhnk9UDTXjDV4POSXg_RzjRA=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "Um pedaço da vivo da história brasileira, que pode ser sentida através da arquitetura e do mobiliário do Palace Casino.",
+      "gradeComment": 5
+    },
+    {
+      "author": "André Luís Michels Alcântara",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucq5bUsBYQdUo4jYBbVTY3jmYHGh6gsv9cW95mETrU4=w36-h36-p-c0x00000000-rp-mo-br100",
+      "comment": "O Palace Casino é usado como salão de festas e alugado para alguns eventos com restrição sobre sua lotação máxima por questões de preservação histórica, devido à não comprometer sua estrutura.",
+      "gradeComment": 3
+    },
+    {
+      "author": "Andréa Canalli",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucr1476_I1kqMCtJkeUmYsY3oBK16eKaeJKJBtgJZcE=w36-h36-p-c0x00000000-rp-mo-ba3-br100",
+      "comment": "Uma viagem no tempo num hotel muito elegante. Café da manhã maravilhoso. A piscina é uma atração por si só.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Roberto Donizeti Barreto",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucr9gJyVywdiV0MbnHmM5YC39n0CMQ_NFS8YZ9zbogk=w36-h36-p-c0x00000000-rp-mo-ba6-br100",
+      "comment": "É um lugar muito bacana, ele por fora é muito bonito. Pena que está fechado para visitação.",
+      "gradeComment": 4
+    },
+    {
+      "author": "Antonio Carias Frascoli",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucqPVVV7cM61gyZhXc_OtQVq3qRJuMZgx5R983s_wQ=w36-h36-p-c0x00000000-rp-mo-ba5-br100",
+      "comment": "O Restauração do Palace Cassino, Poços de Caldas MG, é testemunho dos tempos de glória do turismo no circuito das águas em Minas Gerais.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Alexandre",
+      "photoAuthor": "https://lh3.googleusercontent.com/a/AItbvmk6o9XJ1yzAZQq6Jba_CU9mYmllnBpMIMaLiKDy=w36-h36-p-c0x00000000-rp-mo-ba5-br100",
+      "comment": "Só é possível visitar por fora, fica fechado o tempo todo, só abrindo para festas e casamentos.",
+      "gradeComment": 2
+    },
+    {
+      "author": "marcos h",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucqv8sSYfivP_o9TEAAQCmVPMV7SD-mnt1_GRcvL=w36-h36-p-c0x00000000-rp-mo-ba6-br100",
+      "comment": "Minas tem muitos hoteis em prédios antigos. O Palace é um deles. Bem no centro da cidade com uma bela piscina.",
+      "gradeComment": 4
+    },
+    {
+      "author": "Leandro Guerra",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucr6m3n7CU0u7YIsq76arUnuUXmo9yBM7qYah_yX8zM=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "Não tem nada funcionando no local, mas a arquitetura e conservação vale a pena serem vistas.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Lucas DJesus",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucrVcBJHls8QxRXOahDoIbgk4sXUIcfNdT9iJp9O_tM=w36-h36-p-c0x00000000-rp-mo-ba5-br100",
+      "comment": "Muito bonito e tem uma praça repleta de natureza 💜",
+      "gradeComment": 5
+    },
+    {
+      "author": "Paulo Bovo",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucotSxjxTgWwWPDA5Nfw3zvXu_LrH6T8D2AsmWU_pw=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "Recém  restaurado, merece ser visitado,  muito lindo.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Alvaro Fernandes Gonçalves",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucrmkYw6i4BpYaKjFAUqyP5lyqKlKbbRGjc3EFAKj1o=w36-h36-p-c0x00000000-rp-mo-ba5-br100",
+      "comment": "Vale a visita indiscutivelmente pela arquitetura e todas luminárias!",
+      "gradeComment": 5
+    }
+  ],
+  "peakHours": [
+    {
+      "Sunday": [
+        {
+          "hour": "08:00",
+          "percent": 6
+        },
+        {
+          "hour": "09:00",
+          "percent": 6
+        },
+        {
+          "hour": "10:00",
+          "percent": 6
+        },
+        {
+          "hour": "11:00",
+          "percent": 6
+        },
+        {
+          "hour": "12:00",
+          "percent": 9
+        },
+        {
+          "hour": "13:00",
+          "percent": 12
+        },
+        {
+          "hour": "14:00",
+          "percent": 16
+        },
+        {
+          "hour": "15:00",
+          "percent": 19
+        },
+        {
+          "hour": "16:00",
+          "percent": 22
+        },
+        {
+          "hour": "17:00",
+          "percent": 25
+        }
+      ]
+    },
+    {
+      "Monday": [
+        {
+          "hour": "08:00",
+          "percent": 19
+        },
+        {
+          "hour": "09:00",
+          "percent": 38
+        },
+        {
+          "hour": "10:00",
+          "percent": 45
+        },
+        {
+          "hour": "11:00",
+          "percent": 35
+        },
+        {
+          "hour": "12:00",
+          "percent": 29
+        },
+        {
+          "hour": "13:00",
+          "percent": 32
+        },
+        {
+          "hour": "14:00",
+          "percent": 41
+        },
+        {
+          "hour": "15:00",
+          "percent": 48
+        },
+        {
+          "hour": "16:00",
+          "percent": 41
+        },
+        {
+          "hour": "17:00",
+          "percent": 32
+        }
+      ]
+    },
+    {
+      "Tuesday": [
+        {
+          "hour": "08:00",
+          "percent": 38
+        },
+        {
+          "hour": "09:00",
+          "percent": 51
+        },
+        {
+          "hour": "10:00",
+          "percent": 48
+        },
+        {
+          "hour": "11:00",
+          "percent": 35
+        },
+        {
+          "hour": "12:00",
+          "percent": 25
+        },
+        {
+          "hour": "13:00",
+          "percent": 32
+        },
+        {
+          "hour": "14:00",
+          "percent": 45
+        },
+        {
+          "hour": "15:00",
+          "percent": 48
+        },
+        {
+          "hour": "16:00",
+          "percent": 58
+        },
+        {
+          "hour": "17:00",
+          "percent": 35
+        }
+      ]
+    },
+    {
+      "Wednesday": [
+        {
+          "hour": "08:00",
+          "percent": 54
+        },
+        {
+          "hour": "09:00",
+          "percent": 87
+        },
+        {
+          "hour": "10:00",
+          "percent": 80
+        },
+        {
+          "hour": "11:00",
+          "percent": 48
+        },
+        {
+          "hour": "12:00",
+          "percent": 32
+        },
+        {
+          "hour": "13:00",
+          "percent": 35
+        },
+        {
+          "hour": "14:00",
+          "percent": 45
+        },
+        {
+          "hour": "15:00",
+          "percent": 48
+        },
+        {
+          "hour": "16:00",
+          "percent": 41
+        },
+        {
+          "hour": "17:00",
+          "percent": 29
+        }
+      ]
+    },
+    {
+      "Thursday": [
+        {
+          "hour": "08:00",
+          "percent": 19
+        },
+        {
+          "hour": "09:00",
+          "percent": 25
+        },
+        {
+          "hour": "10:00",
+          "percent": 32
+        },
+        {
+          "hour": "11:00",
+          "percent": 35
+        },
+        {
+          "hour": "12:00",
+          "percent": 38
+        },
+        {
+          "hour": "13:00",
+          "percent": 38
+        },
+        {
+          "hour": "14:00",
+          "percent": 45
+        },
+        {
+          "hour": "15:00",
+          "percent": 61
+        },
+        {
+          "hour": "16:00",
+          "percent": 83
+        },
+        {
+          "hour": "17:00",
+          "percent": 90
+        }
+      ]
+    },
+    {
+      "Friday": [
+        {
+          "hour": "08:00",
+          "percent": 45
+        },
+        {
+          "hour": "09:00",
+          "percent": 77
+        },
+        {
+          "hour": "10:00",
+          "percent": 77
+        },
+        {
+          "hour": "11:00",
+          "percent": 51
+        },
+        {
+          "hour": "12:00",
+          "percent": 41
+        },
+        {
+          "hour": "13:00",
+          "percent": 48
+        },
+        {
+          "hour": "14:00",
+          "percent": 64
+        },
+        {
+          "hour": "15:00",
+          "percent": 83
+        },
+        {
+          "hour": "16:00",
+          "percent": 96
+        },
+        {
+          "hour": "17:00",
+          "percent": 100
+        }
+      ]
+    },
+    {
+      "Saturday": [
+        {
+          "hour": "09:00",
+          "percent": 3
+        },
+        {
+          "hour": "10:00",
+          "percent": 3
+        },
+        {
+          "hour": "11:00",
+          "percent": 9
+        },
+        {
+          "hour": "12:00",
+          "percent": 19
+        },
+        {
+          "hour": "13:00",
+          "percent": 32
+        },
+        {
+          "hour": "14:00",
+          "percent": 45
+        },
+        {
+          "hour": "15:00",
+          "percent": 61
+        },
+        {
+          "hour": "16:00",
+          "percent": 77
+        },
+        {
+          "hour": "17:00",
+          "percent": 93
+        }
+      ]
+    }
+  ],
+  "relatedSearches": [
+    "hotel palace casino poços de caldas",
+    "telefone hotel palace casino poços de caldas",
+    "palace hotel",
+    "palace casino poços de caldas história",
+    "hotel casino poços de caldas",
+    "fotos do palace hotel poços de caldas",
+    "casino resort poços de caldas telefone",
+    "restaurante palace hotel poços de caldas"
+  ],
+  "relateds": [
+    {
+      "mainName": "Parque José Affonso Junqueira",
+      "url": null
+    },
+    {
+      "mainName": "Fonte Luminosa",
+      "url": null
+    },
+    {
+      "mainName": "Thermas Antônio Carlos",
+      "url": null
+    },
+    {
+      "mainName": "Recanto Japonês",
+      "url": null
+    },
+    {
+      "mainName": "Teleférico Poços de Caldas",
+      "url": null
+    },
+    {
+      "mainName": "Fonte dos Amores",
+      "url": null
+    },
+    {
+      "mainName": "Zoo das Aves - Poços de Caldas",
+      "url": null
+    },
+    {
+      "mainName": "Cachoeira Véu das Noivas",
+      "url": null
+    },
+    {
+      "mainName": "REPRESA BORTOLAN",
+      "url": null
+    },
+    {
+      "mainName": "Relógio Floral",
+      "url": null
+    },
+    {
+      "mainName": "Parque Walter World",
+      "url": null
+    },
+    {
+      "mainName": "Cristo Redentor",
+      "url": null
+    },
+    {
+      "mainName": "Basílica Nossa Senhora da Saúde",
+      "url": null
+    },
+    {
+      "mainName": "Xadrez Gigante",
+      "url": null
+    },
+    {
+      "mainName": "Galeria e Atelier de Arte Ziriguidum",
+      "url": null
+    },
+    {
+      "mainName": "Trilha Do Cristo",
+      "url": null
+    },
+    {
+      "mainName": "Balneário Dr. Mário Mourão",
+      "url": null
+    },
+    {
+      "mainName": "Calendário Floral",
+      "url": null
+    },
+    {
+      "mainName": "Serra de São Domingos",
+      "url": null
+    },
+    {
+      "mainName": "Museu Histórico e Geográfico de Poços De Caldas",
+      "url": null
+    }
+  ]
+}

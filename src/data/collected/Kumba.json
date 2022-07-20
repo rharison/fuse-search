@@ -1,0 +1,656 @@
+{
+  "mainName": "Kumba",
+  "slug": "kumba",
+  "category": "Montanha-russa",
+  "locationInformation": {
+    "latitude": "28.0394995",
+    "longitude": "-82.4231389"
+  },
+  "basicInformation": [
+    {
+      "label": "endereço",
+      "tooltip": "Copiar endereço",
+      "text": "10165 McKinley Dr, Tampa, FL 33612, Estados Unidos",
+      "icon": "https://www.gstatic.com/images/icons/material/system_gm/1x/place_gm_blue_24dp.png"
+    },
+    {
+      "label": "locatedin",
+      "text": "Localizado em: Busch Gardens Tampa",
+      "icon": "https://www.google.com/images/cleardot.gif"
+    },
+    {
+      "label": "website",
+      "tooltip": "Abrir website",
+      "text": "buschgardens.com",
+      "icon": "https://www.gstatic.com/images/icons/material/system_gm/1x/public_gm_blue_24dp.png"
+    },
+    {
+      "label": "telefone",
+      "tooltip": "Copiar número de telefone",
+      "text": "+1 407-545-5550",
+      "icon": "https://www.gstatic.com/images/icons/material/system_gm/1x/phone_gm_blue_24dp.png"
+    },
+    {
+      "label": "Code",
+      "tooltip": "Copiar Plus Code",
+      "text": "2HQG+QP Tampa, Flórida, EUA",
+      "icon": "https://maps.gstatic.com/mapfiles/maps_lite/images/2x/ic_plus_code.png"
+    },
+    {
+      "label": "merchant",
+      "text": "Reivindicar esta empresa",
+      "icon": "https://www.gstatic.com/images/icons/material/system_gm/1x/verified_user_gm_blue_24dp.png"
+    }
+  ],
+  "ratingInformation": {
+    "basicRatingInformation": {
+      "averageGrade": 4.7,
+      "totalOfEvaluations": 2323
+    },
+    "ratingsByGrade": [
+      {
+        "grade": 5,
+        "totalRatings": 1892
+      },
+      {
+        "grade": 4,
+        "totalRatings": 302
+      },
+      {
+        "grade": 3,
+        "totalRatings": 78
+      },
+      {
+        "grade": 2,
+        "totalRatings": 27
+      },
+      {
+        "grade": 1,
+        "totalRatings": 24
+      }
+    ]
+  },
+  "ratingTags": [
+    {
+      "tag": "dor de cabeça",
+      "count": 25,
+      "tooltip": "dor de cabeça, mencionado em 25 avaliações"
+    },
+    {
+      "tag": "saca-rolhas",
+      "count": 11,
+      "tooltip": "saca-rolhas, mencionado em 11 avaliações"
+    },
+    {
+      "tag": "rapidez",
+      "count": 10,
+      "tooltip": "rapidez, mencionado em 10 avaliações"
+    },
+    {
+      "tag": "som",
+      "count": 8,
+      "tooltip": "som, mencionado em 8 avaliações"
+    },
+    {
+      "tag": "adrenalina",
+      "count": 8,
+      "tooltip": "adrenalina, mencionado em 8 avaliações"
+    },
+    {
+      "tag": "ouvido",
+      "count": 6,
+      "tooltip": "ouvido, mencionado em 6 avaliações"
+    },
+    {
+      "tag": "b&m european value retail sa",
+      "count": 5,
+      "tooltip": "b&m european value retail sa, mencionado em 5 avaliações"
+    },
+    {
+      "tag": "intensidade",
+      "count": 5,
+      "tooltip": "intensidade, mencionado em 5 avaliações"
+    }
+  ],
+  "featuredPhotos": [
+    "https://lh5.googleusercontent.com/p/AF1QipOsLQioJAIo6G5yDVh39EqDk20fjU_yoQyDhqxr=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipN2u_Hm4xuDy5Q0x6zYkO19gCjUD5eOvas0ebxV=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMII6CZnMZlHnvrwvSJeqteC9DFicKnI6OqaSh8=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipN7EhWNKeRo1BJhogqGdRkVlnsoIzWmv--i5SvI=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPX2pCGVhJEaivxC3MhAkOdLrWYoZxEavh1OoYS=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipP_UtQ4JzwD38_46C3qL-aBtZaR_t2AmViwjl1y=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMeDQthUm342aK9dn1OaVtAWXlnS8mMIE0Bkvlh=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMWIb_HhsNSJvEd1m1G15vPO-5CfPtTsW9LPyBB=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipN-OnzzUFw0zBBa0TrVLOt9qcHt-14taBwUG6bA=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOlFPwybpIJxv4vi74Rql1ZtiBn1XJZoGj_dZTM=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMVbUNgYVQpfE-dAtsNi4xH2EUJ-AoNCYB4a4hH=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOIgxYyIupkHZ5-pzXdGAzc6Y5vzjcQePX7QmgV=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPXXHlp0oa6bSNJMNMaFgosExgrDOX_hHJFnVyx=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipM0aKIkvjsJ15-q8W-PIQ2sNuwdfhPyp8KPaSHX=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNr1tS9QMMFGgJ_7gN1jeTMMy-l2EkJ6ZHNSQFM=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPLZKvXpTM-xa_GpxkMTf4bSBpqg2HfDBGc_oA_=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNiczhx-uxCIAZATp7_SBWqcpoWhtLQtYNxYcpk=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPppUv_Bp6c69eSjA7HWOlE4VxTO16H1NqaP4j3=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOK4VwVLQnhHYQ3ogPs4wWFmgNV9JUpBDS4pvuO=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipM3qvjiYd9D2OnKPoVoVIS8Uh1gPtURzLXrGzAq=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPNQMgXZ3Sn-r1mBB4252Ysy0RcZ35Udo5h5D96=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipP8UAeNCOH8SiySauqjPSwOtrzZTEtmBZ4T_F0c=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipM5PNHaOFWi1YRhrk3akImb7h-ABlHK3zaeqMsq=w1024-h576-k-no"
+  ],
+  "topComments": [
+    {
+      "author": "lucas rosa",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucrSg3z2HlJe9fnbeaG01neYxRb9bBdvrBrBE1QNEQ=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "Quinta melhor do parque, ela bate um pouco a cabeça.",
+      "gradeComment": 4
+    },
+    {
+      "author": "Luciano Zebra",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucoYVxJziMaEq7P10bNW85zbqunC81N0tF8yJc1o=w36-h36-p-c0x00000000-rp-mo-ba5-br100",
+      "comment": "Excelente, uma das melhores que já fui. Tem poucas atrações onde ela esta localizada, mas de uma passada por lá, pois vale a pena",
+      "gradeComment": 5
+    },
+    {
+      "author": "Patricia Batistuti de Oliveira",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucqBSiVae_c1hJVjM-wASuXZYFnXRd4PwfJuL8u1=w36-h36-p-c0x00000000-rp-mo-br100",
+      "comment": "Muito bom",
+      "gradeComment": 5
+    },
+    {
+      "author": "Helio Danilo Nogueira",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucqHw9Y1prj8zNJYgT2w0jkjxrXdOET6a_OWTIJholU=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "Perfeita. Sem palavras.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Fabiano Pereira",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucpM0DTVUDroS4PYoYi_prZTsHTwf0gtCfnIzRgYhQ=w36-h36-p-c0x00000000-rp-mo-ba5-br100",
+      "comment": "Uma das melhores montanhas-russas do Busch Gardens.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Vivianne Alencar",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucovdSKJiPXsMwpB0kujfx2v2J1xD9gyD-IyGEkcfQ=w36-h36-p-c0x00000000-rp-mo-ba5-br100",
+      "comment": "Foi a primeira montanha russa do parque que fui e confesso que fiquei super nervosa! Ela faz um looping 360 super alto, tem quedas com inversão, emoção na certa!",
+      "gradeComment": 5
+    },
+    {
+      "author": "Sheila Diane",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucq7FfUBO14NN0pD1VD_iatyccTujx4QMBih4_7j1bI=w36-h36-p-c0x00000000-rp-mo-ba6-br100",
+      "comment": "Muito bom",
+      "gradeComment": 5
+    },
+    {
+      "author": "Wagner Fontes",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucpYJXvEkx6e-kiWJXewlg_ajGXZuFQOweWXO6omdQ=w36-h36-p-c0x00000000-rp-mo-ba5-br100",
+      "comment": "Amo montanhas russas, essa é muito boa! Não é a melhor do parque (na minha opinião a Montu é melhor), mas a Kumba é muito boa mesmo.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Ana Paula Maia dos Santos",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucrsH7y-5Ox9cNGoXZqTKIyIXnxB2M1SMMOOfErQ2SU=w36-h36-p-c0x00000000-rp-mo-ba3-br100",
+      "comment": "Muito legal. Radical mas segura. Vale a pena.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Fabiano Ribeiro",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucrKEY8gY2m95iQ6nplTR0HSlqnsSlBAsDyit5OYVw=w36-h36-p-c0x00000000-rp-mo-ba5-br100",
+      "comment": "Outra montanha russa sensacional. Faz vários loops e ela é bem extensa. Recomendo!",
+      "gradeComment": 5
+    }
+  ],
+  "peakHours": [
+    {
+      "Sunday": [
+        {
+          "hour": "10:00",
+          "percent": 13
+        },
+        {
+          "hour": "11:00",
+          "percent": 35
+        },
+        {
+          "hour": "12:00",
+          "percent": 63
+        },
+        {
+          "hour": "13:00",
+          "percent": 82
+        },
+        {
+          "hour": "14:00",
+          "percent": 84
+        },
+        {
+          "hour": "15:00",
+          "percent": 75
+        },
+        {
+          "hour": "16:00",
+          "percent": 62
+        },
+        {
+          "hour": "17:00",
+          "percent": 46
+        },
+        {
+          "hour": "18:00",
+          "percent": 30
+        },
+        {
+          "hour": "19:00",
+          "percent": 16
+        },
+        {
+          "hour": "20:00",
+          "percent": 7
+        },
+        {
+          "hour": "21:00",
+          "percent": 2
+        }
+      ]
+    },
+    {
+      "Monday": [
+        {
+          "hour": "10:00",
+          "percent": 16
+        },
+        {
+          "hour": "11:00",
+          "percent": 37
+        },
+        {
+          "hour": "12:00",
+          "percent": 66
+        },
+        {
+          "hour": "13:00",
+          "percent": 91
+        },
+        {
+          "hour": "14:00",
+          "percent": 95
+        },
+        {
+          "hour": "15:00",
+          "percent": 77
+        },
+        {
+          "hour": "16:00",
+          "percent": 48
+        },
+        {
+          "hour": "17:00",
+          "percent": 23
+        },
+        {
+          "hour": "18:00",
+          "percent": 8
+        },
+        {
+          "hour": "19:00",
+          "percent": 2
+        }
+      ]
+    },
+    {
+      "Tuesday": [
+        {
+          "hour": "10:00",
+          "percent": 12
+        },
+        {
+          "hour": "11:00",
+          "percent": 30
+        },
+        {
+          "hour": "12:00",
+          "percent": 54
+        },
+        {
+          "hour": "13:00",
+          "percent": 72
+        },
+        {
+          "hour": "14:00",
+          "percent": 72
+        },
+        {
+          "hour": "15:00",
+          "percent": 58
+        },
+        {
+          "hour": "17:00",
+          "percent": 21
+        },
+        {
+          "hour": "18:00",
+          "percent": 10
+        },
+        {
+          "hour": "19:00",
+          "percent": 3
+        },
+        {
+          "hour": "20:00",
+          "percent": 1
+        }
+      ]
+    },
+    {
+      "Wednesday": [
+        {
+          "hour": "10:00",
+          "percent": 10
+        },
+        {
+          "hour": "11:00",
+          "percent": 27
+        },
+        {
+          "hour": "12:00",
+          "percent": 54
+        },
+        {
+          "hour": "13:00",
+          "percent": 79
+        },
+        {
+          "hour": "14:00",
+          "percent": 87
+        },
+        {
+          "hour": "15:00",
+          "percent": 73
+        },
+        {
+          "hour": "16:00",
+          "percent": 49
+        },
+        {
+          "hour": "17:00",
+          "percent": 29
+        },
+        {
+          "hour": "18:00",
+          "percent": 15
+        },
+        {
+          "hour": "19:00",
+          "percent": 6
+        },
+        {
+          "hour": "20:00",
+          "percent": 1
+        }
+      ]
+    },
+    {
+      "Thursday": [
+        {
+          "hour": "10:00",
+          "percent": 15
+        },
+        {
+          "hour": "11:00",
+          "percent": 31
+        },
+        {
+          "hour": "12:00",
+          "percent": 50
+        },
+        {
+          "hour": "13:00",
+          "percent": 64
+        },
+        {
+          "hour": "14:00",
+          "percent": 66
+        },
+        {
+          "hour": "15:00",
+          "percent": 55
+        },
+        {
+          "hour": "16:00",
+          "percent": 40
+        },
+        {
+          "hour": "17:00",
+          "percent": 27
+        },
+        {
+          "hour": "18:00",
+          "percent": 18
+        },
+        {
+          "hour": "19:00",
+          "percent": 11
+        },
+        {
+          "hour": "20:00",
+          "percent": 5
+        },
+        {
+          "hour": "21:00",
+          "percent": 2
+        }
+      ]
+    },
+    {
+      "Friday": [
+        {
+          "hour": "10:00",
+          "percent": 14
+        },
+        {
+          "hour": "11:00",
+          "percent": 32
+        },
+        {
+          "hour": "12:00",
+          "percent": 52
+        },
+        {
+          "hour": "13:00",
+          "percent": 62
+        },
+        {
+          "hour": "14:00",
+          "percent": 55
+        },
+        {
+          "hour": "15:00",
+          "percent": 41
+        },
+        {
+          "hour": "16:00",
+          "percent": 31
+        },
+        {
+          "hour": "17:00",
+          "percent": 23
+        },
+        {
+          "hour": "18:00",
+          "percent": 16
+        },
+        {
+          "hour": "19:00",
+          "percent": 10
+        },
+        {
+          "hour": "20:00",
+          "percent": 6
+        },
+        {
+          "hour": "21:00",
+          "percent": 3
+        }
+      ]
+    },
+    {
+      "Saturday": [
+        {
+          "hour": "10:00",
+          "percent": 11
+        },
+        {
+          "hour": "11:00",
+          "percent": 35
+        },
+        {
+          "hour": "12:00",
+          "percent": 71
+        },
+        {
+          "hour": "13:00",
+          "percent": 100
+        },
+        {
+          "hour": "14:00",
+          "percent": 96
+        },
+        {
+          "hour": "15:00",
+          "percent": 70
+        },
+        {
+          "hour": "16:00",
+          "percent": 53
+        },
+        {
+          "hour": "17:00",
+          "percent": 52
+        },
+        {
+          "hour": "18:00",
+          "percent": 44
+        },
+        {
+          "hour": "19:00",
+          "percent": 26
+        },
+        {
+          "hour": "20:00",
+          "percent": 10
+        },
+        {
+          "hour": "21:00",
+          "percent": 2
+        }
+      ]
+    }
+  ],
+  "relatedSearches": [
+    "kumba significado",
+    "kumba roller coaster",
+    "montu",
+    "tigris",
+    "kumba busch gardens youtube",
+    "khumba filme",
+    "iron gwazi",
+    "serengeti express train"
+  ],
+  "relateds": [
+    {
+      "mainName": "Montu",
+      "url": null
+    },
+    {
+      "mainName": "SheiKra",
+      "url": null
+    },
+    {
+      "mainName": "Cheetah Hunt",
+      "url": null
+    },
+    {
+      "mainName": "Scorpion",
+      "url": null
+    },
+    {
+      "mainName": "Cobra's Curse",
+      "url": null
+    },
+    {
+      "mainName": "Sand Serpent",
+      "url": null
+    },
+    {
+      "mainName": "Gwazi",
+      "url": null
+    },
+    {
+      "mainName": "Tigris",
+      "url": null
+    },
+    {
+      "mainName": "Air Grover",
+      "url": null
+    },
+    {
+      "mainName": "Congo River Rapids",
+      "url": null
+    },
+    {
+      "mainName": "Skyride",
+      "url": null
+    },
+    {
+      "mainName": "Python",
+      "url": null
+    },
+    {
+      "mainName": "Rhino Rally",
+      "url": null
+    },
+    {
+      "mainName": "Iron Gwazi",
+      "url": null
+    },
+    {
+      "mainName": "Wahoo Run",
+      "url": null
+    },
+    {
+      "mainName": "Griffon",
+      "url": null
+    },
+    {
+      "mainName": "Fury 325",
+      "url": null
+    },
+    {
+      "mainName": "Drachen Fire",
+      "url": null
+    },
+    {
+      "mainName": "Alpengeist",
+      "url": null
+    },
+    {
+      "mainName": "Pantheon",
+      "url": null
+    },
+    {
+      "mainName": "Ice Breaker",
+      "url": null
+    },
+    {
+      "mainName": "Loch Ness Monster",
+      "url": null
+    },
+    {
+      "mainName": "Orion",
+      "url": null
+    },
+    {
+      "mainName": "Tempesto",
+      "url": null
+    }
+  ]
+}

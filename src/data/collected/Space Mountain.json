@@ -1,0 +1,659 @@
+{
+  "mainName": "Space Mountain",
+  "slug": "space-mountain",
+  "category": "Parque temático",
+  "locationInformation": {
+    "latitude": "28.4190482",
+    "longitude": "-81.5775066"
+  },
+  "basicInformation": [
+    {
+      "label": "endereço",
+      "tooltip": "Copiar endereço",
+      "text": "1180 Seven Seas Drive, Lake Buena Vista, FL 32830, Estados Unidos",
+      "icon": "https://www.gstatic.com/images/icons/material/system_gm/1x/place_gm_blue_24dp.png"
+    },
+    {
+      "label": "locatedin",
+      "text": "Localizado em: Tomorrowland",
+      "icon": "https://www.google.com/images/cleardot.gif"
+    },
+    {
+      "label": "website",
+      "tooltip": "Abrir website",
+      "text": "disneyworld.disney.go.com",
+      "icon": "https://www.gstatic.com/images/icons/material/system_gm/1x/public_gm_blue_24dp.png"
+    },
+    {
+      "label": "telefone",
+      "tooltip": "Copiar número de telefone",
+      "text": "+1 407-939-5277",
+      "icon": "https://www.gstatic.com/images/icons/material/system_gm/1x/phone_gm_blue_24dp.png"
+    },
+    {
+      "label": "Code",
+      "tooltip": "Copiar Plus Code",
+      "text": "CC9C+JX Lake Buena Vista, Flórida, EUA",
+      "icon": "https://maps.gstatic.com/mapfiles/maps_lite/images/2x/ic_plus_code.png"
+    }
+  ],
+  "ratingInformation": {
+    "basicRatingInformation": {
+      "averageGrade": 4.6,
+      "totalOfEvaluations": 3026
+    },
+    "ratingsByGrade": [
+      {
+        "grade": 5,
+        "totalRatings": 2364
+      },
+      {
+        "grade": 4,
+        "totalRatings": 391
+      },
+      {
+        "grade": 3,
+        "totalRatings": 138
+      },
+      {
+        "grade": 2,
+        "totalRatings": 50
+      },
+      {
+        "grade": 1,
+        "totalRatings": 83
+      }
+    ]
+  },
+  "ratingTags": [
+    {
+      "tag": "magic kingdom",
+      "count": 107,
+      "tooltip": "magic kingdom, mencionado em 107 avaliações"
+    },
+    {
+      "tag": "escuro",
+      "count": 42,
+      "tooltip": "escuro, mencionado em 42 avaliações"
+    },
+    {
+      "tag": "luz",
+      "count": 41,
+      "tooltip": "luz, mencionado em 41 avaliações"
+    },
+    {
+      "tag": "queue",
+      "count": 24,
+      "tooltip": "queue, mencionado em 24 avaliações"
+    },
+    {
+      "tag": "foguete espacial",
+      "count": 17,
+      "tooltip": "foguete espacial, mencionado em 17 avaliações"
+    },
+    {
+      "tag": "charque",
+      "count": 14,
+      "tooltip": "charque, mencionado em 14 avaliações"
+    },
+    {
+      "tag": "rock 'n' roller coaster starring aerosmith",
+      "count": 6,
+      "tooltip": "rock 'n' roller coaster starring aerosmith, mencionado em 6 avaliações"
+    }
+  ],
+  "featuredPhotos": [
+    "https://lh5.googleusercontent.com/p/AF1QipOw1Qtp1Gu5TjPAythB4MFxBuGkW0jbxHBO6H9T=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOIYLtFJO3mrwPJi5AXOM5FL8I0vu3L5uYklXAy=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMUgdd_46S8gR2drrnBk6GxASB1moIrHBX5ERka=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipP6aELUGaFQLPXmcC4PF_5g24stTdYermEbqiMJ=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMJT7HWS2tXDUEEAe7q4vd-qLn3cK-2vmNrckos=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNubok28Wmkxk_ut7LlcCWkaxJXL1aoN8PExhA=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPbpde4ydmoIEQIE4vk8vi67nPujGM5Ro1m016M=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNXYmresEjyGu_g8QCX6pIY0daAgM8KlwvyydUL=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOH1NvrwK1_qXmT1P-1DeCVIx7aimE080dTUoqF=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOWUavjG8-pmSAMm-HcYwPVpx825cVK46YSqnI9=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOhDYtwPcRo1g3LFV34dkGZbBBFGk-kvvoZxn4E=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipM24XSSZwPK8pHYskX1r5ZRuKGL-pTuCbeyIz3B=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPkJ3CULyt9DbYb2H940PBS4TffgRXopL0mvwzA=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPdZMsKJm_Qiilwv5qio8XwlUP5MPH6BOK_URqh=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPIw6Xz4CZ0z5FDUEqc364dyZNHRrLn3JyD04-F=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMBU3XogiqWUJpsogtgisG60K6fpv6UssUC-wUf=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNr67eVAcixMk2MHdr7GlB6z-91LbVh2oPSyp0j=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipN1fCtVSXsi7zDqqUI_RVg5LBLOQFGHn52wtOhj=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOqa_4VbIQ8rRh79yl9C9vvea-F3EId88q36l97=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipO3eTS_HL7Ffz6kyPvbPnT6Sr8iTwKsenGc-vt7=w1024-h576-k-no"
+  ],
+  "topComments": [
+    {
+      "author": "Anderson Xepa",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucpv-c0BQPzU0i3LJrlMq5nllVNMeAeOINsWVTqwwJ8=w36-h36-p-c0x00000000-rp-mo-ba5-br100",
+      "comment": "Tem que estar sem medo de enfrentar essa montanha russa ! Tudo escuro, mas é muito emocionante !",
+      "gradeComment": 5
+    },
+    {
+      "author": "Juliano Donnici",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucohlxuPbIAY8yN_saMAGAd3AGtSzOXo14o4wIf2=w36-h36-p-c0x00000000-rp-mo-ba7-br100",
+      "comment": "Um dos melhores brinquedos do Magic Kingdom, mas nada demais se comparado a outras montanhas russas! O mais legal é que tudo se passa no escuro!",
+      "gradeComment": 5
+    },
+    {
+      "author": "Priscila Rosas",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucoWCT6qY1Vg89j5iyl6WnyNDFW5TatdG9xwYe2WfRU=w36-h36-p-c0x00000000-rp-mo-ba5-br100",
+      "comment": "É a montanha russa mais radical do parque. Para ir nela é aconselhável agendar seu fast pass, o que lhe dá acesso à uma fila curta a ser percorrida em um horário programado. Não vá com óculos, arcos, tiaras, lenços, pois é rápida e você os perde logo na primeira volta. Para recuperar os bens perdidos é preciso esperar em torno 24 horas para entrar em contato por um telefone e agendar a retirada. Indicada para as pessoas que têm medo de altura, já que ela é no escuro.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Kelrry Oliveira",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucrFLLxJSHs8Ai_2GOYVt1hUpl6NZ7qKdHQrfVHAPQ=w36-h36-p-c0x00000000-rp-mo-ba6-br100",
+      "comment": "Space Mountain localizada na Tomorrowland do Magic Kingdom em Olando, agendei fast pass para essa atração para as 10hrs da manhã de uma terça-feira e não peguei muita fila. Simplesmente não gostei! Na verdade achei horrível, sensação de queda a toda hora curvas horríveis, a graça dela ser no escuro é a unica coisa q salva, ela brilha, é criativa, porém o assento é praticamente raso, não tem nada que ampare a coluna achei sofrido o ride, não iria novamente. Segue vídeo da entrada da Tomorrowland onde dá pra ver a space mountain à esquerda.",
+      "gradeComment": 2
+    },
+    {
+      "author": "Raquel Carmo",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucp-vIC6__uGL8MuCwITnJiqeqTdvgtlvQcnp6rdGAA=w36-h36-p-c0x00000000-rp-mo-br100",
+      "comment": "Aventura radical e divertida. Fui 2 vezes de tão bom que é. O brinquedo é uma montanha russa no escuro mas é leve para médio. Meus sogros foram, ambos tem mais de 70 anos e adoraram!",
+      "gradeComment": 5
+    },
+    {
+      "author": "JEFFERSON NASCIMENTO",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucr46iGynKHMy1nyWeS-97zBhtSm2L5dhSKthC-uJos=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "Sensacional.... surpreendente, você passei no escuro,  não tem como saber o que está por vir, quando será a próxima curva. Apesar da fila.. pois é uma atração bem concorrida, vale super a pena ir! #recomendo",
+      "gradeComment": 5
+    },
+    {
+      "author": "Vivianne Alencar",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucovdSKJiPXsMwpB0kujfx2v2J1xD9gyD-IyGEkcfQ=w36-h36-p-c0x00000000-rp-mo-ba5-br100",
+      "comment": "Montanha russa não muito radical mas quase totalmente no escuro! É um trenzinho individual. Da pra ir crianças pequenas se elas não tiverem medo de escuro. Preparem-se para a fila.",
+      "gradeComment": 4
+    },
+    {
+      "author": "Vinicius Dezotti",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucpBZfMOgTjvwHI5D_ufiA5f_PPmAKop8SsR2U5DZ70=w36-h36-p-c0x00000000-rp-mo-ba5-br100",
+      "comment": "Mesmo sendo uma montanha russa das mais antigas ainda oferece grande emoção. Sensação de realmente estar entrando em um mundo espacial! Vale a pena até para quem tem medo",
+      "gradeComment": 5
+    },
+    {
+      "author": "Afonso França de Oliveira",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucqU75lkb1MoZh_Z_Sv0t3vKjWjRXjqQ1f2HANvcstE=w36-h36-p-c0x00000000-rp-mo-ba6-br100",
+      "comment": "A primeira montanha russa que fui na minha vida. Não consigo descrever o sentimento de estar no escuro sendo puxado e empurrado de um lado para o outro. Excelente!",
+      "gradeComment": 5
+    },
+    {
+      "author": "Daniel BR",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucqC6CSM9B-UglPPK6sjgOby-DOkqfzIN3tlvE560iw=w36-h36-p-c0x00000000-rp-mo-ba6-br100",
+      "comment": "Se der sorte e estiver com a fila pequena, vá quantas vezes quiser. Eu fui umas cinco vezes seguidas e não me cansei. Muito legal.",
+      "gradeComment": 5
+    },
+    {
+      "author": "marcelo adolfo",
+      "photoAuthor": "https://lh3.googleusercontent.com/a/AItbvmnsl9eTNtvGyPClP4k9J7Pm8HZa_V7QIIrKxACd=w36-h36-p-c0x00000000-rp-mo-ba6-br100",
+      "comment": "Melhor atracação para adultos no parque, apesar de ser uma montanha russa bem tranquila. Filas sempre enormes. Use fast pass.",
+      "gradeComment": 4
+    },
+    {
+      "author": "Gabriel A. Silveira",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucrn0IWqhnPF7AIkkPzbr8zpONWUT5sw3fVlT0zhBA=w36-h36-p-c0x00000000-rp-mo-ba5-br100",
+      "comment": "Umas da melhores montanhas russas 'não convencionais'",
+      "gradeComment": 5
+    },
+    {
+      "author": "Giovanna Fiore",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucq9K09Cd8qFzMD4f8oeAjDPiB-8AWrDs5AwXrSTGA=w36-h36-p-c0x00000000-rp-mo-ba2-br100",
+      "comment": "Acredito que seja um dos melhores brinquedos desse parque para adolescentes e adultos, mas sendo igualmente encantador para as crianças.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Jose Vieira Augusto",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucqYUxirCOcqf6Ko82orp-1jJ5RWFf8jbQQAZ8XjqI4=w36-h36-p-c0x00000000-rp-mo-ba6-br100",
+      "comment": "Excelente, muito bom",
+      "gradeComment": 5
+    },
+    {
+      "author": "Rafaella Tenório",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucq_KHpnPtlwgAGPRy0SLlaPvUj1-3NcoHULwyTz-Q=w36-h36-p-c0x00000000-rp-mo-ba3-br100",
+      "comment": "É uma montanha russa em que a família toda pode ir. Os foguetes (carrinhos) tem lugar para 3 pessoas cada.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Fabio Souza",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucrAzOsTFMEuQ8fiQ3G1wvjzF00PX8ItN2O3Z1Xa=w36-h36-p-c0x00000000-rp-mo-ba6-br100",
+      "comment": "Muito legal, no escuro, algumas curvas vc não percebe e já vira rápido!",
+      "gradeComment": 4
+    },
+    {
+      "author": "Candido Toledo",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucoMMP5noykUcpxUlI09_YbecIUwA12PB25Of_voOg=w36-h36-p-c0x00000000-rp-mo-ba5-br100",
+      "comment": "Montanha russa futurística no escuro.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Tarcísio Laterza",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucreSB_ffWdQUJC2aCovZd3INTpJIxN2Qf2NZMCycko=w36-h36-p-c0x00000000-rp-mo-ba5-br100",
+      "comment": "Montanha russa temática, com o ambiente escuro. Apenas luzes brilham, simbolizando o espaço. Muito divertida, bem diferente.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Fernando Gouvêa",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucqmOpo1IMH1ztrrjhv7mBn_Vfnktees9jGQax7e8A=w36-h36-p-c0x00000000-rp-mo-ba5-br100",
+      "comment": "Para todas as idades. São duas montanhas mas muitos nem percebem. Uma para direita e outra para a esquerda.",
+      "gradeComment": 4
+    },
+    {
+      "author": "Camilo Evangelista Silva",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucowgoT1S7HJzwiJqGYbUxvmepFO9O1VZL2VAT0LTA=w36-h36-p-c0x00000000-rp-mo-br100",
+      "comment": "A atração é muito legal... Ruim é esperar uma hora e meia.",
+      "gradeComment": 5
+    }
+  ],
+  "peakHours": [
+    {
+      "Sunday": [
+        {
+          "hour": "09:00",
+          "percent": 5
+        },
+        {
+          "hour": "10:00",
+          "percent": 11
+        },
+        {
+          "hour": "11:00",
+          "percent": 16
+        },
+        {
+          "hour": "12:00",
+          "percent": 16
+        },
+        {
+          "hour": "13:00",
+          "percent": 22
+        },
+        {
+          "hour": "14:00",
+          "percent": 16
+        },
+        {
+          "hour": "15:00",
+          "percent": 16
+        },
+        {
+          "hour": "16:00",
+          "percent": 11
+        },
+        {
+          "hour": "17:00",
+          "percent": 5
+        },
+        {
+          "hour": "18:00",
+          "percent": 5
+        },
+        {
+          "hour": "19:00",
+          "percent": 5
+        },
+        {
+          "hour": "20:00",
+          "percent": 5
+        }
+      ]
+    },
+    {
+      "Monday": [
+        {
+          "hour": "09:00",
+          "percent": 38
+        },
+        {
+          "hour": "10:00",
+          "percent": 44
+        },
+        {
+          "hour": "11:00",
+          "percent": 44
+        },
+        {
+          "hour": "12:00",
+          "percent": 38
+        },
+        {
+          "hour": "13:00",
+          "percent": 27
+        },
+        {
+          "hour": "14:00",
+          "percent": 16
+        },
+        {
+          "hour": "15:00",
+          "percent": 11
+        },
+        {
+          "hour": "16:00",
+          "percent": 5
+        },
+        {
+          "hour": "17:00",
+          "percent": 5
+        },
+        {
+          "hour": "18:00",
+          "percent": 5
+        },
+        {
+          "hour": "19:00",
+          "percent": 5
+        },
+        {
+          "hour": "20:00",
+          "percent": 5
+        }
+      ]
+    },
+    {
+      "Tuesday": [
+        {
+          "hour": "09:00",
+          "percent": 66
+        },
+        {
+          "hour": "10:00",
+          "percent": 55
+        },
+        {
+          "hour": "11:00",
+          "percent": 61
+        },
+        {
+          "hour": "12:00",
+          "percent": 61
+        },
+        {
+          "hour": "13:00",
+          "percent": 66
+        },
+        {
+          "hour": "14:00",
+          "percent": 61
+        },
+        {
+          "hour": "15:00",
+          "percent": 50
+        },
+        {
+          "hour": "16:00",
+          "percent": 38
+        },
+        {
+          "hour": "17:00",
+          "percent": 27
+        },
+        {
+          "hour": "18:00",
+          "percent": 16
+        },
+        {
+          "hour": "19:00",
+          "percent": 5
+        },
+        {
+          "hour": "20:00",
+          "percent": 5
+        },
+        {
+          "hour": "21:00",
+          "percent": 5
+        }
+      ]
+    },
+    {
+      "Wednesday": [
+        {
+          "hour": "09:00",
+          "percent": 33
+        },
+        {
+          "hour": "10:00",
+          "percent": 38
+        },
+        {
+          "hour": "11:00",
+          "percent": 55
+        },
+        {
+          "hour": "12:00",
+          "percent": 66
+        },
+        {
+          "hour": "13:00",
+          "percent": 50
+        },
+        {
+          "hour": "14:00",
+          "percent": 22
+        },
+        {
+          "hour": "15:00",
+          "percent": 5
+        }
+      ]
+    },
+    {
+      "Thursday": [
+        {
+          "hour": "09:00",
+          "percent": 72
+        },
+        {
+          "hour": "10:00",
+          "percent": 77
+        },
+        {
+          "hour": "11:00",
+          "percent": 94
+        },
+        {
+          "hour": "12:00",
+          "percent": 100
+        },
+        {
+          "hour": "13:00",
+          "percent": 88
+        },
+        {
+          "hour": "14:00",
+          "percent": 66
+        },
+        {
+          "hour": "15:00",
+          "percent": 33
+        },
+        {
+          "hour": "16:00",
+          "percent": 11
+        },
+        {
+          "hour": "17:00",
+          "percent": 5
+        },
+        {
+          "hour": "18:00",
+          "percent": 5
+        }
+      ]
+    },
+    {
+      "Friday": [
+        {
+          "hour": "09:00",
+          "percent": 50
+        },
+        {
+          "hour": "10:00",
+          "percent": 55
+        },
+        {
+          "hour": "11:00",
+          "percent": 55
+        },
+        {
+          "hour": "12:00",
+          "percent": 50
+        },
+        {
+          "hour": "13:00",
+          "percent": 38
+        },
+        {
+          "hour": "14:00",
+          "percent": 22
+        },
+        {
+          "hour": "15:00",
+          "percent": 11
+        }
+      ]
+    },
+    {
+      "Saturday": [
+        {
+          "hour": "09:00",
+          "percent": 16
+        },
+        {
+          "hour": "10:00",
+          "percent": 16
+        },
+        {
+          "hour": "11:00",
+          "percent": 22
+        },
+        {
+          "hour": "12:00",
+          "percent": 16
+        },
+        {
+          "hour": "13:00",
+          "percent": 5
+        },
+        {
+          "hour": "14:00",
+          "percent": 5
+        },
+        {
+          "hour": "15:00",
+          "percent": 5
+        }
+      ]
+    }
+  ],
+  "relatedSearches": [
+    "space mountain band",
+    "space mountain disneyland paris",
+    "space mountain movie",
+    "space mountain lights on",
+    "space mountain death",
+    "space mountain magic kingdom 2019",
+    "space mountain mission 2",
+    "space mountain pov"
+  ],
+  "relateds": [
+    {
+      "mainName": "Seven Dwarfs Mine Train",
+      "url": null
+    },
+    {
+      "mainName": "The Barnstormer",
+      "url": null
+    },
+    {
+      "mainName": "Rock 'n' Roller Coaster Starring Aerosmith",
+      "url": null
+    },
+    {
+      "mainName": "Big Thunder Mountain Railroad",
+      "url": null
+    },
+    {
+      "mainName": "Expedition Everest",
+      "url": null
+    },
+    {
+      "mainName": "Tomorrowland Transit Authority PeopleMover",
+      "url": null
+    },
+    {
+      "mainName": "Tower of Terror",
+      "url": null
+    },
+    {
+      "mainName": "Mission: SPACE",
+      "url": null
+    },
+    {
+      "mainName": "Test Track",
+      "url": null
+    },
+    {
+      "mainName": "PeopleMover",
+      "url": null
+    },
+    {
+      "mainName": "Splash Mountain",
+      "url": null
+    },
+    {
+      "mainName": "Spaceship Earth",
+      "url": null
+    },
+    {
+      "mainName": "Walt Disney World Railroad - Fantasyland",
+      "url": null
+    },
+    {
+      "mainName": "Primeval Whirl",
+      "url": null
+    },
+    {
+      "mainName": "Monsters, Inc. Laugh Floor",
+      "url": null
+    },
+    {
+      "mainName": "Astro Orbiter",
+      "url": null
+    },
+    {
+      "mainName": "Star Wars Hyperspace Mountain",
+      "url": null
+    },
+    {
+      "mainName": "Kali River Rapids",
+      "url": null
+    },
+    {
+      "mainName": "Prince Charming Regal Carrousel",
+      "url": null
+    },
+    {
+      "mainName": "Living with the Land",
+      "url": null
+    },
+    {
+      "mainName": "The Many Adventures of Winnie the Pooh",
+      "url": null
+    },
+    {
+      "mainName": "Slinky Dog Dash",
+      "url": null
+    },
+    {
+      "mainName": "Soarin'",
+      "url": null
+    },
+    {
+      "mainName": "The Great Movie Ride",
+      "url": null
+    }
+  ]
+}

@@ -1,0 +1,975 @@
+{
+  "mainName": "Praia dos Nativos",
+  "slug": "praia-dos-nativos",
+  "category": "Atração turística",
+  "locationInformation": {
+    "latitude": "-16.5869782",
+    "longitude": "-39.0891417"
+  },
+  "basicInformation": [
+    {
+      "label": "endereço",
+      "tooltip": "Copiar endereço",
+      "text": "Praia dos Nativos - Av. Minas Gerais - Trancoso, Porto Seguro - BA, 45818-000",
+      "icon": "https://www.gstatic.com/images/icons/material/system_gm/1x/place_gm_blue_24dp.png"
+    },
+    {
+      "label": "telefone",
+      "tooltip": "Copiar número de telefone",
+      "text": "(73) 3668-1164",
+      "icon": "https://www.gstatic.com/images/icons/material/system_gm/1x/phone_gm_blue_24dp.png"
+    },
+    {
+      "label": "Code",
+      "tooltip": "Copiar Plus Code",
+      "text": "CW76+68 Porto Seguro, Bahia",
+      "icon": "https://maps.gstatic.com/mapfiles/maps_lite/images/2x/ic_plus_code.png"
+    },
+    {
+      "label": "send-to-device",
+      "text": "Enviar para smartphone",
+      "icon": "https://maps.gstatic.com/consumer/images/icons/1x/send_to_mobile_alt_gm_blue_24dp.png"
+    }
+  ],
+  "ratingInformation": {
+    "basicRatingInformation": {
+      "averageGrade": 4.6,
+      "totalOfEvaluations": 6231
+    },
+    "ratingsByGrade": [
+      {
+        "grade": 5,
+        "totalRatings": 4658
+      },
+      {
+        "grade": 4,
+        "totalRatings": 1037
+      },
+      {
+        "grade": 3,
+        "totalRatings": 361
+      },
+      {
+        "grade": 2,
+        "totalRatings": 93
+      },
+      {
+        "grade": 1,
+        "totalRatings": 82
+      }
+    ]
+  },
+  "ratingTags": [
+    {
+      "tag": "barracas",
+      "count": 225,
+      "tooltip": "barracas, mencionado em 225 avaliações"
+    },
+    {
+      "tag": "ondas",
+      "count": 77,
+      "tooltip": "ondas, mencionado em 77 avaliações"
+    },
+    {
+      "tag": "quiosques",
+      "count": 65,
+      "tooltip": "quiosques, mencionado em 65 avaliações"
+    },
+    {
+      "tag": "maré",
+      "count": 53,
+      "tooltip": "maré, mencionado em 53 avaliações"
+    },
+    {
+      "tag": "consumação",
+      "count": 36,
+      "tooltip": "consumação, mencionado em 36 avaliações"
+    },
+    {
+      "tag": "infraestrutura",
+      "count": 35,
+      "tooltip": "infraestrutura, mencionado em 35 avaliações"
+    },
+    {
+      "tag": "mangue",
+      "count": 33,
+      "tooltip": "mangue, mencionado em 33 avaliações"
+    },
+    {
+      "tag": "quadrado",
+      "count": 26,
+      "tooltip": "quadrado, mencionado em 26 avaliações"
+    },
+    {
+      "tag": "ambulantes",
+      "count": 22,
+      "tooltip": "ambulantes, mencionado em 22 avaliações"
+    },
+    {
+      "tag": "cabana",
+      "count": 21,
+      "tooltip": "cabana, mencionado em 21 avaliações"
+    }
+  ],
+  "featuredPhotos": [
+    "https://lh5.googleusercontent.com/p/AF1QipMIy0rfiPC0q4AY4LBYXup5dqZ4PZVWuEKjrB8F=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMuxQZZK2fUMpvy2JNuM5FB3v6rG2uMlG3Q5ow5=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNKI0hTFoejbBUkrxGass6AK_qwhqlDqB8PA005=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipN-NTupE4pKJMa_7pWCA7-fURG0-NBFooHPU2Gi=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPlBXvt-1ZA0hZ9iwJ8DVczXGqNhphShYSw-Lr-=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipP0q6ycYeC04WI2m7azjM2e4mrWy2PN53kvs2VX=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOxi4O6DqLZUxkHaX06TOAeqpA5pbJD3kz1P5Nd=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipN5XzJfCSCubT7TFeDthmTRRzGodQs259thxGuO=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMG3nI7AYkJPB4aIOcfwuC8ynudJaavYWB9oC66=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipM5F7cF9zNAu-Ty55Mk69XKoNl-ksTb7UOdLv0=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNTa2sdwHLZOwqRFGc--ehr8pWaFK7iWxnDROKt=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMmBZHX69AcBv6y99yoBR_3VFguZvpNEGHXCf9T=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOjN0nWdV8Mns8Gw5p3WfHLVBTAcVFoOWVMPv7m=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMxrH_fNEzRH_DhZNm_As97-HlRifZBbfs3aqo0=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipM1w6vxi38kv18jTlu1LSiPAgONIF8S8cSeuTRF=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPq47ENy01BGATwHJ27_ga4ZKnSCYWHRmN8WZ_d=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPTKzD3-QaPVQVM1qtXQwdrZbxECv1oWy-g1Duf=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNARnO7h2eibuoLW7kI8r4Pii8t8D7lXs9fC_NP=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNxZaMJlrxCF67TZ3rOM72aOoexxWERcHVc7Lxn=w1024-h576-k-no"
+  ],
+  "topComments": [
+    {
+      "author": "Bruno",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucqC9c5GTKRTxBC-tUL2H1ySNfS3M45XeY14xr1SHt0=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "Gostamos da visita à Trancoso 🌊  A Praia dos Nativos é bem agitada na questão de ondas, o mar não costuma ficar muito calmo.  Eu gostei muito do Rio que se encontra com o mar, muito lindo 💙🌊  🔴 DETALHES NEGATIVOS: A visita à Praia dos Nativos é bemm cara, os bares em frente à praia estão cobrando até R$500 de consumação mínima por pessoa!  🔴 E outro detalhe, é ter que passar por 15km de estrada de terra pra ter que chegar à praia que por ser tão famosa, essa estrada tinha que ser asfaltada!  🔴 Para o pessoal que quiser apenas uma visita rápida ao local como nós, compensa levar guardas-sol! Senão, não compensa ir ao local.",
+      "gradeComment": 4
+    },
+    {
+      "author": "Fábio Valente",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucoHvK1DszCDSkRPkGB9Mdp6ayW8Km834-_yfoBdFg=w36-h36-p-c0x00000000-rp-mo-ba3-br100",
+      "comment": "A praia é linda... Na verdade um paraíso!  Os reutaurantes / quiosques são um luxo só!  Luxo que tem seu preço! Aqui as barracas cobram por consumo mínimo. Em janeiro de 22 o menor valor por pessoa é de R$150 (ficando na área interna do restaurante - mais longe da praia) e podendo custar R$2000 por pessoa (de frente para o mar em uma barraca de até 10 pessoas.  Vale ressaltar que os valores mencionados foram nos passados considerando um casal, ou seja, o valor por casal vai de 300 a 2000. Imagino que em grupos maiores o valor da barraca mais cara deva ser diluído e não proporcional.  Caso queiram aproveitar o paraíso sem gastar tanto a sugestão é que tragam barracas e cadeiras e fiquem perto do rio no limite para a praia do Coqueiros. O lugar é uma delícia e TAM bastante espaço, mas sem a infra dos restaurantes.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Bruno Carvalho",
+      "photoAuthor": "https://lh3.googleusercontent.com/a/AItbvmmEH4SGnGG16EbvNsjc2_z1k91tZubAivupBWBm=w36-h36-p-c0x00000000-rp-mo-ba3-br100",
+      "comment": "Local fantástico! Não pode faltar a visita a essa praia wdo estiver em trancoso! Possui ótima estrutura de barracas, mas os preços podem assustar. Mesmo q fiquem em alguma barraca, não deixem de explorar e curtir a praia, pois vale mto a pena!!!",
+      "gradeComment": 5
+    },
+    {
+      "author": "VANESSA MONTEIRO",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucqYsNXgYwedvAtweGQ1to1X8TwvLMTaLKYUxd4H=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "Praia super gostosa de passar o dia todo, tem um braço de rio que na baixa maré é super gostosinho pra se refrescar na água geladinha. A água do mar é quentinha. Tem uma boa infraestrutura de mtas barracas, mas como é em Trancoso é mto perto do quadrado, prepare o bolso. Pra descer na praia lá do quadrado é só ir no lado direito da igrejinha que tem uma passagem pra descer, e é um caminho super gostosa pq é uma ladeira, mas tem mta árvores, então a caminhadinha fica super fácil. Você irá dar de frente com uma entrada que tem uma ponte suspensa em um mangue e com vista dá praia, é uma imagem maravilhosa!",
+      "gradeComment": 3
+    },
+    {
+      "author": "Jamile Rafaela Barreto",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucqf2eZCjpcM9zqtvvQgdNZcMwxy73O4tZfKVOw0oIY=w36-h36-p-c0x00000000-rp-mo-br100",
+      "comment": "A praia não tem um grande diferencial. Possui uma vista bonita como qualquer outra praia. Tem um pequeno rio que deságua no mar. Visitei a praia por meio de uma excursão, porém não gostei da praia. A praia não tem um acesso fácil. Fica um pouco distante do centro de Trancoso e não tem atrativo no local. Tem umas 4 barracas na praia que vendem alimentos com preços exorbitantes. E alguns vendedores ambulantes. Preços altíssimos. Não vale a pena!!",
+      "gradeComment": 1
+    },
+    {
+      "author": "ANA MARTINS",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucqxTh5ZELjib-e6ANNRagdEfUphbhgaaCP1D9or=w36-h36-p-c0x00000000-rp-mo-ba2-br100",
+      "comment": "Lugar fantásticos, praia limpa, paisagem espetacular e barracas com ótimas estruturas e alto padrão. Escolhemos a barraca \"Zé barbudo \" é expcional, ótimo cardápio e o melhor de tudo o atendimento encantador da GABY ela tem a arte de \"bem receber\" e encantar seus clientes , ficamos maravilhados com o atendimento e simpatia dela, voltaria com certeza",
+      "gradeComment": 5
+    },
+    {
+      "author": "Fernando Lima",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucre1U2ofJaSKXfXA0SALSMLywxPN5MKrKjqNrNZ2g=w36-h36-p-c0x00000000-rp-mo-ba3-br100",
+      "comment": "O local é lindo, porém não tem estrutura na praia e os valores são bem altos é bom pra conhecer o local, vc tem que estar disposto a ir de carro ou Van que pega na balsa demora em torno de 40 a 50 minutos de viagem e bem retirado e paradisíaco.",
+      "gradeComment": 3
+    },
+    {
+      "author": "Guia Tour Rota Nordeste",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucraEqEzwJGaoE5-cKI1UanXA4lbMwwL_s2e7jgcUw=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "Uma das praias mais lindas de Trancoso pertinho do centro histórico do Quadrado, lugar mais movimentado de Trancoso. Praia dos nativos tem barracas de praia com infraestrutura completa para passar o dia, mas também tem ambulantes vendendo de tudo na praia. Então não há de se preocupar  e achar que vai ter que vender um rim pra curtir Trancoso rsrsrs.  Bem-vindos é curta bastante esse paraíso.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Suelen Trajai",
+      "photoAuthor": "https://lh3.googleusercontent.com/a/AItbvmmQ-R6AjEZIiWnVdQkeQSb-1fA79WXEvAsRmWW9=w36-h36-p-c0x00000000-rp-mo-br100",
+      "comment": "Praia muito linda, apesar de ter sido um dia nublado e com chuva, a água é de um azul lindíssimo. Tem bastante ondas, que rendeu alguns goles dessa água rsrs",
+      "gradeComment": 5
+    },
+    {
+      "author": "Gilberto",
+      "photoAuthor": "https://lh3.googleusercontent.com/a/AItbvmkIv0y0GDgnLNNrVVGRVSnQaKNf-xez6d5W6pHU=w36-h36-p-c0x00000000-rp-mo-br100",
+      "comment": "Local bonito, porém serviço de apoio ao turista muito caro no local. Preços absurdos, não tem opção.",
+      "gradeComment": 4
+    },
+    {
+      "author": "Rafael Fernandes Marchezini",
+      "photoAuthor": "https://lh3.googleusercontent.com/a/AItbvmm9F9OyqsKdEP41NqT3kWJjXJQKotB3Jd4s85F2vg=w36-h36-p-c0x00000000-rp-mo-ba2-br100",
+      "comment": "Os quiosques são caros e geralmente cobram uma taxa/consumação mínima absurda para se usufruir das mesas e cadeiras. Foi necessário andar um pouco  até encontramos um local à sombra das árvores onde vendia cerveja com um preço bacana. A praia é linda, limpa, boa faixa de areia. O acesso está meio ruim devido as chuvas, muitos buracos no caminho.",
+      "gradeComment": 4
+    },
+    {
+      "author": "FÁBIO PINHEIRO",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucpekG5leUfrJkIIrJrZDgYxWy8VauMXSX1zI8AH_tA=w36-h36-p-c0x00000000-rp-mo-ba5-br100",
+      "comment": "Praia linda, paradisíaca. Ótimas barracas, das mais luxuosas até às mais em conta, umas cobram consumação, outras não. Vale passar um dia nela.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Jader Marciano",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucpsLGJ-2UGUht0HeHoiuGck5p_C4cEcV2jl_yab7w=w36-h36-p-c0x00000000-rp-mo-ba3-br100",
+      "comment": "É um lugar lindo, porém mais um daqueles onde cobram o que querem só porque as pessoas pagam.",
+      "gradeComment": 4
+    },
+    {
+      "author": "Felipe Passos",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucoZ0Wsw_ppB4Tjha6pSqLAkG4ccObK5_MMNXvHrlA=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "Essa praia com certeza foi de longe uma das mais bonitas que eu já vi na vida. 🧡",
+      "gradeComment": 5
+    },
+    {
+      "author": "Tauany Mayara",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucrijTF2GEzI12GhN9eLQ_oy23E1CJJF7HE5xLqZCw=w36-h36-p-c0x00000000-rp-mo-br100",
+      "comment": "Praia gostosa, pertinho da cidade histórica e a arquitetura das cabanas da praia muito bonita, além da travessia pela ponte do mangue ser bem interessante também",
+      "gradeComment": 4
+    },
+    {
+      "author": "Lu Brito",
+      "photoAuthor": "https://lh3.googleusercontent.com/a/AItbvmme4e6Z_8HpMUOulPv0FYR771bM4FRQW3BOSElM=w36-h36-p-c0x00000000-rp-mo-ba3-br100",
+      "comment": "Lugar bonito, praia de ondas fortes ,preço praticado nas barracas é absurdo tendo em vista que a qualidade da comida é inferior a de outros lugares.Andando um pouco a direita temos o encontro do  mar com o rio que é perfeito para o banho, sem ondas.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Silvia Ester Vieira",
+      "photoAuthor": "https://lh3.googleusercontent.com/a/AItbvml-osgUFnq0ka_UeZV9F3lmRjBi2XgJj3m_Vuzn=w36-h36-p-c0x00000000-rp-mo-br100",
+      "comment": "Praia linda, a temperatura da água é deliciosa, ótima pra banho. Ótima infraestrutura, mas o preço é bem caro.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Anderson Negreli",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucrNqljhYGBfB_QSEJmPy1C1oUAC_aHJd2Us3wydPA=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "Lugar muito bonito. Porém o preço para comer e beber é muito alto.",
+      "gradeComment": 3
+    },
+    {
+      "author": "Everton Ferreira Pessoa",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucpfUP1orUATlL3NUCbDJ0cLaaIiX2rjggKrNn04WA=w36-h36-p-c0x00000000-rp-mo-ba5-br100",
+      "comment": "Muito boa a praia, não é tão frequentada comparada à praia dos Coquiros. Bons quiosques. Um diferencial é o Flay Club, com bom preço para locação das cadeiras, tem um ótimo atendimento e música com DJ e podemos tomar uma ducha e usufruir de toda estrutura...",
+      "gradeComment": 5
+    },
+    {
+      "author": "Ana Paula Colzani",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucq7wtqSWM4bdjRHh-R0Ik2wcaQLTF_l0Dfi9W5HpXs=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "Praia com ondas leves, boa para crianças. Bares a beira mar com infraestrutura.",
+      "gradeComment": 5
+    }
+  ],
+  "peakHours": [
+    {
+      "Sunday": [
+        {
+          "hour": "06:00",
+          "percent": 1
+        },
+        {
+          "hour": "07:00",
+          "percent": 3
+        },
+        {
+          "hour": "08:00",
+          "percent": 9
+        },
+        {
+          "hour": "09:00",
+          "percent": 22
+        },
+        {
+          "hour": "10:00",
+          "percent": 43
+        },
+        {
+          "hour": "11:00",
+          "percent": 62
+        },
+        {
+          "hour": "12:00",
+          "percent": 73
+        },
+        {
+          "hour": "13:00",
+          "percent": 75
+        },
+        {
+          "hour": "14:00",
+          "percent": 76
+        },
+        {
+          "hour": "15:00",
+          "percent": 71
+        },
+        {
+          "hour": "16:00",
+          "percent": 50
+        },
+        {
+          "hour": "17:00",
+          "percent": 23
+        },
+        {
+          "hour": "18:00",
+          "percent": 7
+        },
+        {
+          "hour": "19:00",
+          "percent": 2
+        }
+      ]
+    },
+    {
+      "Monday": [
+        {
+          "hour": "04:00",
+          "percent": 1
+        },
+        {
+          "hour": "05:00",
+          "percent": 1
+        },
+        {
+          "hour": "06:00",
+          "percent": 1
+        },
+        {
+          "hour": "07:00",
+          "percent": 1
+        },
+        {
+          "hour": "08:00",
+          "percent": 3
+        },
+        {
+          "hour": "09:00",
+          "percent": 18
+        },
+        {
+          "hour": "10:00",
+          "percent": 46
+        },
+        {
+          "hour": "11:00",
+          "percent": 73
+        },
+        {
+          "hour": "12:00",
+          "percent": 82
+        },
+        {
+          "hour": "13:00",
+          "percent": 78
+        },
+        {
+          "hour": "14:00",
+          "percent": 76
+        },
+        {
+          "hour": "15:00",
+          "percent": 65
+        },
+        {
+          "hour": "16:00",
+          "percent": 38
+        },
+        {
+          "hour": "17:00",
+          "percent": 13
+        },
+        {
+          "hour": "18:00",
+          "percent": 2
+        },
+        {
+          "hour": "19:00",
+          "percent": 1
+        },
+        {
+          "hour": "20:00",
+          "percent": 1
+        },
+        {
+          "hour": "21:00",
+          "percent": 1
+        },
+        {
+          "hour": "22:00",
+          "percent": 1
+        },
+        {
+          "hour": "23:00",
+          "percent": 1
+        },
+        {
+          "hour": "00:00",
+          "percent": 1
+        },
+        {
+          "hour": "01:00",
+          "percent": 1
+        },
+        {
+          "hour": "02:00",
+          "percent": 1
+        },
+        {
+          "hour": "03:00",
+          "percent": 1
+        }
+      ]
+    },
+    {
+      "Tuesday": [
+        {
+          "hour": "04:00",
+          "percent": 1
+        },
+        {
+          "hour": "05:00",
+          "percent": 1
+        },
+        {
+          "hour": "06:00",
+          "percent": 1
+        },
+        {
+          "hour": "07:00",
+          "percent": 1
+        },
+        {
+          "hour": "08:00",
+          "percent": 9
+        },
+        {
+          "hour": "09:00",
+          "percent": 30
+        },
+        {
+          "hour": "10:00",
+          "percent": 62
+        },
+        {
+          "hour": "11:00",
+          "percent": 88
+        },
+        {
+          "hour": "12:00",
+          "percent": 98
+        },
+        {
+          "hour": "13:00",
+          "percent": 100
+        },
+        {
+          "hour": "14:00",
+          "percent": 93
+        },
+        {
+          "hour": "15:00",
+          "percent": 72
+        },
+        {
+          "hour": "16:00",
+          "percent": 42
+        },
+        {
+          "hour": "17:00",
+          "percent": 18
+        },
+        {
+          "hour": "18:00",
+          "percent": 6
+        },
+        {
+          "hour": "19:00",
+          "percent": 2
+        },
+        {
+          "hour": "20:00",
+          "percent": 1
+        },
+        {
+          "hour": "22:00",
+          "percent": 1
+        },
+        {
+          "hour": "03:00",
+          "percent": 1
+        }
+      ]
+    },
+    {
+      "Wednesday": [
+        {
+          "hour": "04:00",
+          "percent": 1
+        },
+        {
+          "hour": "05:00",
+          "percent": 1
+        },
+        {
+          "hour": "06:00",
+          "percent": 1
+        },
+        {
+          "hour": "07:00",
+          "percent": 3
+        },
+        {
+          "hour": "08:00",
+          "percent": 12
+        },
+        {
+          "hour": "09:00",
+          "percent": 34
+        },
+        {
+          "hour": "10:00",
+          "percent": 63
+        },
+        {
+          "hour": "11:00",
+          "percent": 85
+        },
+        {
+          "hour": "12:00",
+          "percent": 91
+        },
+        {
+          "hour": "13:00",
+          "percent": 91
+        },
+        {
+          "hour": "14:00",
+          "percent": 91
+        },
+        {
+          "hour": "15:00",
+          "percent": 78
+        },
+        {
+          "hour": "16:00",
+          "percent": 48
+        },
+        {
+          "hour": "17:00",
+          "percent": 21
+        },
+        {
+          "hour": "18:00",
+          "percent": 8
+        },
+        {
+          "hour": "19:00",
+          "percent": 4
+        },
+        {
+          "hour": "20:00",
+          "percent": 3
+        },
+        {
+          "hour": "21:00",
+          "percent": 2
+        },
+        {
+          "hour": "22:00",
+          "percent": 1
+        },
+        {
+          "hour": "01:00",
+          "percent": 1
+        },
+        {
+          "hour": "02:00",
+          "percent": 1
+        },
+        {
+          "hour": "03:00",
+          "percent": 1
+        }
+      ]
+    },
+    {
+      "Thursday": [
+        {
+          "hour": "04:00",
+          "percent": 1
+        },
+        {
+          "hour": "05:00",
+          "percent": 1
+        },
+        {
+          "hour": "07:00",
+          "percent": 2
+        },
+        {
+          "hour": "08:00",
+          "percent": 11
+        },
+        {
+          "hour": "09:00",
+          "percent": 32
+        },
+        {
+          "hour": "10:00",
+          "percent": 63
+        },
+        {
+          "hour": "11:00",
+          "percent": 87
+        },
+        {
+          "hour": "12:00",
+          "percent": 92
+        },
+        {
+          "hour": "13:00",
+          "percent": 89
+        },
+        {
+          "hour": "14:00",
+          "percent": 88
+        },
+        {
+          "hour": "15:00",
+          "percent": 76
+        },
+        {
+          "hour": "16:00",
+          "percent": 50
+        },
+        {
+          "hour": "17:00",
+          "percent": 23
+        },
+        {
+          "hour": "18:00",
+          "percent": 9
+        },
+        {
+          "hour": "19:00",
+          "percent": 4
+        },
+        {
+          "hour": "20:00",
+          "percent": 3
+        },
+        {
+          "hour": "21:00",
+          "percent": 3
+        },
+        {
+          "hour": "22:00",
+          "percent": 2
+        },
+        {
+          "hour": "23:00",
+          "percent": 2
+        },
+        {
+          "hour": "00:00",
+          "percent": 1
+        }
+      ]
+    },
+    {
+      "Friday": [
+        {
+          "hour": "04:00",
+          "percent": 1
+        },
+        {
+          "hour": "05:00",
+          "percent": 1
+        },
+        {
+          "hour": "06:00",
+          "percent": 1
+        },
+        {
+          "hour": "07:00",
+          "percent": 1
+        },
+        {
+          "hour": "08:00",
+          "percent": 9
+        },
+        {
+          "hour": "09:00",
+          "percent": 30
+        },
+        {
+          "hour": "10:00",
+          "percent": 59
+        },
+        {
+          "hour": "11:00",
+          "percent": 83
+        },
+        {
+          "hour": "12:00",
+          "percent": 94
+        },
+        {
+          "hour": "13:00",
+          "percent": 96
+        },
+        {
+          "hour": "14:00",
+          "percent": 95
+        },
+        {
+          "hour": "15:00",
+          "percent": 85
+        },
+        {
+          "hour": "16:00",
+          "percent": 63
+        },
+        {
+          "hour": "17:00",
+          "percent": 38
+        },
+        {
+          "hour": "18:00",
+          "percent": 19
+        },
+        {
+          "hour": "19:00",
+          "percent": 9
+        },
+        {
+          "hour": "20:00",
+          "percent": 5
+        },
+        {
+          "hour": "21:00",
+          "percent": 3
+        },
+        {
+          "hour": "22:00",
+          "percent": 2
+        },
+        {
+          "hour": "23:00",
+          "percent": 1
+        },
+        {
+          "hour": "01:00",
+          "percent": 1
+        },
+        {
+          "hour": "02:00",
+          "percent": 1
+        },
+        {
+          "hour": "03:00",
+          "percent": 1
+        }
+      ]
+    },
+    {
+      "Saturday": [
+        {
+          "hour": "05:00",
+          "percent": 1
+        },
+        {
+          "hour": "06:00",
+          "percent": 1
+        },
+        {
+          "hour": "07:00",
+          "percent": 2
+        },
+        {
+          "hour": "08:00",
+          "percent": 12
+        },
+        {
+          "hour": "09:00",
+          "percent": 32
+        },
+        {
+          "hour": "10:00",
+          "percent": 58
+        },
+        {
+          "hour": "11:00",
+          "percent": 79
+        },
+        {
+          "hour": "12:00",
+          "percent": 88
+        },
+        {
+          "hour": "13:00",
+          "percent": 88
+        },
+        {
+          "hour": "14:00",
+          "percent": 81
+        },
+        {
+          "hour": "15:00",
+          "percent": 65
+        },
+        {
+          "hour": "16:00",
+          "percent": 44
+        },
+        {
+          "hour": "17:00",
+          "percent": 26
+        },
+        {
+          "hour": "18:00",
+          "percent": 15
+        },
+        {
+          "hour": "19:00",
+          "percent": 11
+        },
+        {
+          "hour": "20:00",
+          "percent": 10
+        },
+        {
+          "hour": "21:00",
+          "percent": 10
+        },
+        {
+          "hour": "22:00",
+          "percent": 10
+        },
+        {
+          "hour": "23:00",
+          "percent": 9
+        },
+        {
+          "hour": "00:00",
+          "percent": 7
+        },
+        {
+          "hour": "01:00",
+          "percent": 6
+        },
+        {
+          "hour": "02:00",
+          "percent": 4
+        },
+        {
+          "hour": "03:00",
+          "percent": 2
+        }
+      ]
+    }
+  ],
+  "relatedSearches": [
+    "casinha na praia dos nativos",
+    "praia dos nativos surf",
+    "praia do espelho",
+    "praia dos nativos trancoso restaurante",
+    "praia do rio da barra",
+    "praia dos nativos trancoso barracas",
+    "pousada praia dos nativos, trancoso",
+    "praia badalada trancoso"
+  ],
+  "relateds": [
+    {
+      "mainName": "Praia dos Coqueiros",
+      "url": null
+    },
+    {
+      "mainName": "Praia Trancoso",
+      "url": null
+    },
+    {
+      "mainName": "Rio da Barra",
+      "url": null
+    },
+    {
+      "mainName": "Praia do Rio Verde",
+      "url": null
+    },
+    {
+      "mainName": "Praia de Itapororoca",
+      "url": null
+    },
+    {
+      "mainName": "Praia do Rio da Barra",
+      "url": null
+    },
+    {
+      "mainName": "Praia dos Amores (Setiquara)",
+      "url": null
+    },
+    {
+      "mainName": "Praia do Espelho",
+      "url": null
+    },
+    {
+      "mainName": "Itaquena",
+      "url": null
+    },
+    {
+      "mainName": "UXUA Casa Hotel & Spa",
+      "url": null
+    },
+    {
+      "mainName": "Pitinga",
+      "url": null
+    },
+    {
+      "mainName": "Praia de Taípe",
+      "url": null
+    },
+    {
+      "mainName": "Praia da Lagoa Azul",
+      "url": null
+    },
+    {
+      "mainName": "Mirante do Quadrado",
+      "url": null
+    },
+    {
+      "mainName": "Igreja do Quadrado",
+      "url": null
+    },
+    {
+      "mainName": "Praia do Parracho",
+      "url": null
+    },
+    {
+      "mainName": "Praia da Japara Mirim",
+      "url": null
+    },
+    {
+      "mainName": "Taipe",
+      "url": null
+    },
+    {
+      "mainName": "Praia de Curuipe",
+      "url": null
+    },
+    {
+      "mainName": "Praia do Mucugê",
+      "url": null
+    },
+    {
+      "mainName": "Praia do Apaga Fogo",
+      "url": null
+    },
+    {
+      "mainName": "Mundai",
+      "url": null
+    },
+    {
+      "mainName": "Mucuge",
+      "url": null
+    },
+    {
+      "mainName": "Ponta do Apaga Fogo",
+      "url": null
+    }
+  ]
+}

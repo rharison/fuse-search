@@ -1,0 +1,752 @@
+{
+  "mainName": "Parque Cidade de Toronto",
+  "slug": "parque-cidade-de-toronto",
+  "category": "Parque municipal",
+  "locationInformation": {
+    "latitude": "-23.5037561",
+    "longitude": "-46.7276201"
+  },
+  "basicInformation": [
+    {
+      "label": "endereço",
+      "tooltip": "Copiar endereço",
+      "text": "Av. Cardeal Motta, 84 - City América, São Paulo - SP, 05101-210",
+      "icon": "https://www.gstatic.com/images/icons/material/system_gm/1x/place_gm_blue_24dp.png"
+    },
+    {
+      "label": "website",
+      "tooltip": "Abrir website",
+      "text": "prefeitura.sp.gov.br",
+      "icon": "https://www.gstatic.com/images/icons/material/system_gm/1x/public_gm_blue_24dp.png"
+    },
+    {
+      "label": "Code",
+      "tooltip": "Copiar Plus Code",
+      "text": "F7WC+FX São Paulo, SP",
+      "icon": "https://maps.gstatic.com/mapfiles/maps_lite/images/2x/ic_plus_code.png"
+    },
+    {
+      "label": "send-to-device",
+      "text": "Enviar para smartphone",
+      "icon": "https://maps.gstatic.com/consumer/images/icons/1x/send_to_mobile_alt_gm_blue_24dp.png"
+    }
+  ],
+  "ratingInformation": {
+    "basicRatingInformation": {
+      "averageGrade": 4.4,
+      "totalOfEvaluations": 8440
+    },
+    "ratingsByGrade": [
+      {
+        "grade": 5,
+        "totalRatings": 5480
+      },
+      {
+        "grade": 4,
+        "totalRatings": 1770
+      },
+      {
+        "grade": 3,
+        "totalRatings": 793
+      },
+      {
+        "grade": 2,
+        "totalRatings": 184
+      },
+      {
+        "grade": 1,
+        "totalRatings": 213
+      }
+    ]
+  },
+  "ratingTags": [
+    {
+      "tag": "lago",
+      "count": 288,
+      "tooltip": "lago, mencionado em 288 avaliações"
+    },
+    {
+      "tag": "ponte",
+      "count": 143,
+      "tooltip": "ponte, mencionado em 143 avaliações"
+    },
+    {
+      "tag": "arborizado",
+      "count": 49,
+      "tooltip": "arborizado, mencionado em 49 avaliações"
+    },
+    {
+      "tag": "relaxar",
+      "count": 29,
+      "tooltip": "relaxar, mencionado em 29 avaliações"
+    },
+    {
+      "tag": "bairro",
+      "count": 29,
+      "tooltip": "bairro, mencionado em 29 avaliações"
+    },
+    {
+      "tag": "capivaras",
+      "count": 26,
+      "tooltip": "capivaras, mencionado em 26 avaliações"
+    },
+    {
+      "tag": "conservação",
+      "count": 23,
+      "tooltip": "conservação, mencionado em 23 avaliações"
+    },
+    {
+      "tag": "algas",
+      "count": 17,
+      "tooltip": "algas, mencionado em 17 avaliações"
+    },
+    {
+      "tag": "água de coco",
+      "count": 17,
+      "tooltip": "água de coco, mencionado em 17 avaliações"
+    },
+    {
+      "tag": "plantas aquáticas",
+      "count": 11,
+      "tooltip": "plantas aquáticas, mencionado em 11 avaliações"
+    }
+  ],
+  "featuredPhotos": [
+    "https://lh5.googleusercontent.com/p/AF1QipP7nh79BQtpneDmcM_zepqSbZVm0FBuiU9LioEW=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMH7T4t4yktaq7Muz6wrgK1d-9SkCKtKVF86CgV=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipM8j15kNtOGWkX4Pp0isFsjRL40msf-lFV2Ssis=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipN1amq6uRVPoJEE8uvhXJjZMoS5brHkQ1eqVrNY=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipP7nnvCOXnxT1A0Mq097zkDsH6pdhY6AEo9R_OY=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMr1lWN7Rpp8Yws_O5mx3GNoFpGLKKlktPCRi7W=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOzr0AIXuWRReWk2QFlPPeXI91hKkURuMDdvMkD=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPQzuUoOX-10I9ZqFbD7VKaVGiK-X_PHa5dbDW2=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipONphF31bny2jfUG7q1wRpMWChDztRU_JLGv76G=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOnVwTCLnOhGCo-kMAcIPHnjaRiXNRCWBaogNtM=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOq5VeYNzilr0oguedncSe3Xtl6LDfiZ7EJ7abP=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOIH5t7tkSkuSE_Fjx6TdHiEVtjGk1yaMaPqqEd=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPVxdMnlPrWv3J5j7eQLgzFeF6pm545GTU7oYV3=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPnN0WZ62ow9uLoSgX544tIeM87i-89BGGfyY1d=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMRAilpEWiZx5wq6OlK72NLz6GvooH4VxNEyFOl=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipP43Wth1K82kZ5CgsLwdOZk4GMfccZlgF0roDJC=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPXXw0JQAynFi72yYmcUYP8lnIVd4Zl8IHWmfdg=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPkfnDpfoJKPw3WLOGhOQmOA0OuaSJEXKmVpDFw=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipP7v8XaIl2EGLA-zsAg9jOfQJwzWg38Hosiq4Go=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOm5-8xAzF293ILd9s4JqsH5aFq0qaot9tUacTD=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOEFptZO3jMP3x1Vjoz44ds3Wo9fgjvjZQX4bOD=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipP8YZOfmXSio5Ea41vkXrMTq_1YVIRxOazODr41=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNP9m0ciY5mNFmGFuPrYgvm386WvQbjamXoDmLR=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipO4dcH2bVoEYj1OGhSz2dIdmmvjDBD_yAP_pqc5=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNyEka7IXmTruI1TzI9u3DwBy-yeL27VdUFOUiu=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMxyxIPmlxN5kn6_uXCn5IvKVMtMvlvb1e6XbmZ=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipN0pvbNQs6O-CKPeM_ko6-jhDRGgIKnT2L5SEdp=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPEdtlpWa35m1FBBB1DKtH68AtNKjjJBdX15ME9=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipN6a-WSTjZ_erCtFK4gys8Fd7lvcqWcxaNCNeUP=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPA_sxmEUjfooPHWtRp63vPbEtrBMAxEb6mFspi=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPqDTgYPG7B-yLCqZ2Ypx3oh45x1z-SurrGIF1Q=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOPRPlGVb5AUnichfXjjiD6RWyQVBqcHJWTN3Bd=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNEP1RVUFY0ZhTnwVkVHGmEOz_wTtvccnb6x0TH=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPsUzfECRRcuIxnqu5VCw3EThAETYe1TzV4lDoG=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNQ-yKP727aDhcEPfTRqINN1fDs8qEZxO84V_9I=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMAYWp8sjn6q8qfFSY2KRftD_zp7EE7rEp9cUNx=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMQ_YT5Ubiv9WiOYZQe90tymPdshMlLOJ2U5L3U=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipO9LbVCB0wGM5uGhy9JDq0hUDO6J7zAolxEN4OS=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOUH7PCFsTu8pxIRZTcBUQR-kdKTr-mjg31h5fN=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPj9BfuIzgZsPfiLjYYaz9bZdYkqE37rl303iNf=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPQMSCnpiXxzBVmlf194ea56ikallT9FDTKL2F-=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMZTGcVs_0Cja7Zl5uOSLvMXiJxGXf4LmTQ884=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMnxVWVMx_RfPV0FN0RnfiKUmrXr7hdWC6_BY7V=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOOURU9idryDPfwRkJmDvT4CckvUK4nrILJclsk=w1024-h576-k-no"
+  ],
+  "topComments": [
+    {
+      "author": "Adriano Peris",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZuco-UZD_IbbKG3mVeDbcc8UFTaDjlapH0SDpFgOg-w=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "Costumava ter um lago neste parque, e o abandono da administração pública tornou o lago em um brejo, os peixes morreram e as aves migratórias que costumavam vir pra a primavera já quase não se vê mais! Essas fotos mostram o que era um lago e agora está coberto por está vegetação, totalmente assoriado e sem vida.",
+      "gradeComment": 2
+    },
+    {
+      "author": "Wilson Silva",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucr2DIQ9XfZKfTrYpeK4Czo4JAxQ1NlrZ9R_I3_pZak=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "É um parque muito bom, está nesse momento passando pela reforma do playground, é muito bom para fazer caminhada, exercícios, relaxar.  Mas fico triste por ver o lago, ele está repleto de plantas aquáticas, praticamente não dá pra ver a água, os peixes maiores vão para as partes que ainda não forma afetadas pelas as plantas, sem falar que há milhares de filhotes de peixes tbm. Perto tá ponte o local precisa de limpeza, está feio. Vi um placa de um morador próximo ao parque pedindo para que pudesse ver a questão do lago, mas infelizmente o pedido ainda não foi atendido.  Fora isso, é um parque bom.",
+      "gradeComment": 4
+    },
+    {
+      "author": "Anderson Guedes",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucpfaPYwMqGNDLnX7JGFnUWsmfNjffTbE_9_A-9zceY=w36-h36-p-c0x00000000-rp-mo-ba5-br100",
+      "comment": "Sempre escutei falar muito bem desse parque, mas infelizmente minha primeira vez  lá não foi muito legal. Achei abandonado, sem cuidados, água cheio de algas, única coisa que funcionava era o parquinho de areia, ao lado de obras, formigueiros e mato alto. Uma pena.",
+      "gradeComment": 1
+    },
+    {
+      "author": "André Scalon",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucoeG-FAecTTYyBZTD9JTuBBRxALGUSvTeHRTOYpJoo=w36-h36-p-c0x00000000-rp-mo-ba3-br100",
+      "comment": "Parque bem cuidado, existe uma trilha em volta do lago muito boa, com parte passando dentro do bosque, durante o passeio pode-se avistar vários animais. Somente o lago está sem retirar o excesso de plantas aquáticas, as mesmas tomaram toda a superfície da água. Mais informações sobre o parque nas fotos.",
+      "gradeComment": 4
+    },
+    {
+      "author": "Gislaine",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucqR8hvT7j_BJdJ5MZIuYIiUyqayfzjJYXme7mDllA=w36-h36-p-c0x00000000-rp-mo-ba3-br100",
+      "comment": "O parque já foi mais bonito, hoje está meio abandonado. Tem uma boa infraestrutura com banheiros e áreas pra piqueniques.",
+      "gradeComment": 3
+    },
+    {
+      "author": "só sei que nada sei",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucpQNWmdWPQVRjI4vIZwkRgagd_K9SJoziwiX9HpHA=w36-h36-p-c0x00000000-rp-mo-ba3-br100",
+      "comment": "Parque pequeno em relação ao Ibirapuera e outros mais conhecidos, mais ainda sim um excelente parque, com boa infraestrutura para caminhadas, pena que feche as 17h. Banheiros todos bem limpos, mesmo o local estando cheio, banheiros com portas e papel, diferente de muitos parques que já visitei, não tem espaço para andar de bicicleta, ou jogar bola, mais ainda sim  lugar muito bonito, e com muitas vagas para estacionar, e não tem flanelinhas nas ruas.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Victor Pinto",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucp2XO4r1NkS_v0mxkWWkZhIy3cuAbr8lCLNexc1TqI=w36-h36-p-c0x00000000-rp-mo-ba6-br100",
+      "comment": "Extremamente mal cuidado, lago morto, abandonado REPLETO de mosquitos!! Uma judiação, tem de tudo para ser um excelente parque, mas grita socorro por cuidados!!",
+      "gradeComment": 1
+    },
+    {
+      "author": "Rapha RMT Tech",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZuco7j3pSThgJMn_rTC1KYDDEX_QOHIz97v_qovMtbmM=w36-h36-p-c0x00000000-rp-mo-ba3-br100",
+      "comment": "Tristeza em ver o descaso da PMSP com o parque, o lago esta poluido e com mais de sua metade tomado por algas. Uma tristeza ver um parque tão belo ser abandonado desta forma.",
+      "gradeComment": 2
+    },
+    {
+      "author": "bruna carolina",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucrrz4KT427GZAGszqgFoa5bcPPgfFZl7T4l2Qnq4w=w36-h36-p-c0x00000000-rp-mo-br100",
+      "comment": "Parque é  lindo Mas está  abandonado Não existe mais lago, as vidas que la existe lutam por um pouco de água que ainda não foi coberto pelas plantas.",
+      "gradeComment": 1
+    },
+    {
+      "author": "Joana Darc Rodrigues De Oliveira",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucrdL2KjNjo4Df6osAt3igYR2xJNbZDPt_uz60X9dA=w36-h36-p-c0x00000000-rp-mo-br100",
+      "comment": "Lugar muito lindo mas não consegue mais vê o lago. Está cheio de vegetação... é uma pena...deveriam investir mais, pois é um lugar maravilhoso para curtir com a família.",
+      "gradeComment": 4
+    },
+    {
+      "author": "edson henrique damiani",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucrfd8zv-1Yo_1WFxXHHFnoue2ao1gLWK5x0VzZjTPs=w36-h36-p-c0x00000000-rp-mo-ba5-br100",
+      "comment": "Perfeito para curtir a Natureza porém muito descaso dos usuários que jogam muito lixo no lago, deveriam enfiar no c_ ou levar e jogar na sala da casa deles.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Raissa Signor",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucrMn1hRqsWhNgMkaBwWh-Yf_x9WlwKzvP4EAsHIvKo=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "Ótimo parque para passar a tarde e levar as crianças, levem um baldinho de areia para brincar no playground, não há praça de alimentaçao disponivel, mas na parte de fora do parque existem carrinhos que vendem alimentos (picoles, salgados, açai...). Há um espaço para lanchar e bebedouros espalhados pelo parque, recomendo para um piquenique.",
+      "gradeComment": 5
+    },
+    {
+      "author": "dagoberto leal",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucqTQfJNYK1QZqrsdiMeGCtXXLJRV0ZHXmrZyqAyBw=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "O parque é bastante arborizado, adoraria poder avaliar melhor, certamente vale a visita, mas é triste ver o lago tomado por aguapés e garrafas pet, precisa de cuidados na parte de limpeza e preservação do lago principalmente, não precisa de muito para melhorar...",
+      "gradeComment": 3
+    },
+    {
+      "author": "Maciel Rodrigues de Souza",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucrlmTpo7ifJJmDJJ8vTRMp-x1jezyJrqG97wSmtnK0=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "O parque precisa de cuidados, a região do lago está largada, quase não se vê mais água.  Tem um parque simples para criança.  Tem um espaço legal que se bem cuidado, seria muito legal",
+      "gradeComment": 2
+    },
+    {
+      "author": "Ju Pereira",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucp7eyGS-db_ReDr4yIiU8NxkAfF3W3ghxKbEvbWcA=w36-h36-p-c0x00000000-rp-mo-ba2-br100",
+      "comment": "Lugar bem legal, pra relaxar msm. Tem espaço com churrasqueiras e banheiros bem organizados.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Joachim Allen",
+      "photoAuthor": "https://lh3.googleusercontent.com/a/AItbvmmCnyS1AhebdsXH59c3nh-KBD3yv6_eWcaRUcuK=w36-h36-p-c0x00000000-rp-mo-br100",
+      "comment": "Adorei o lugar, muito bem cuidado com funcionários educados, gentis e muito bem preparados para nos orientar. Tem um lago lindo com patos, tem uma área verde bem cuidada e linda, com aves e as pessoas que tive contato, entre frequentadores e funcionários, todas foram gentis Parabéns!",
+      "gradeComment": 5
+    },
+    {
+      "author": "Gabriela Canhete",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucrM2K6IhjaAmJfmKkXfwbpokz-P4slsD0N_Ew035-4=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "Ótima opção para relaxar um pouco, e trazer seu dog, o parque não permite cães sem guia e ou coleira, ou seja, nada de soltar seu pet por lá, tem bastante espaço verde, e até uma capivaras passeando por lá se der sorte!",
+      "gradeComment": 5
+    },
+    {
+      "author": "Ricardo Cazelato",
+      "photoAuthor": "https://lh3.googleusercontent.com/a/AItbvmnEAFveCE3mOwzlNS24XEm8V5EeFcUiQZMZcCf7=w36-h36-p-c0x00000000-rp-mo-ba6-br100",
+      "comment": "Ainda bonito mas abandonado o lago coberto com algas muito triste.😞",
+      "gradeComment": 4
+    },
+    {
+      "author": "Regiane Dos Santos",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucr62uv3qMVxUSF2-lCI0M2wkb8CqBIjRaY5OXLc=w36-h36-p-c0x00000000-rp-mo-ba2-br100",
+      "comment": "Muito boa , sugiro mais pontos de lugares para pic nic",
+      "gradeComment": 4
+    },
+    {
+      "author": "Felipe Felix",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucpLUsOtJfjGCDxvclDUDuOWdynnTJlZvnXltW05=w36-h36-p-c0x00000000-rp-mo-ba3-br100",
+      "comment": "Parque muito bonito, com um clima incrível e também um lago super agradável. O parque passou por uma reforma recentemente e está muito bom, meus parabéns aos responsáveis. As trilhas lá são muito bacanas e o parque conta com diversos espaços",
+      "gradeComment": 5
+    }
+  ],
+  "peakHours": [
+    {
+      "Sunday": [
+        {
+          "hour": "06:00",
+          "percent": 4
+        },
+        {
+          "hour": "07:00",
+          "percent": 9
+        },
+        {
+          "hour": "08:00",
+          "percent": 21
+        },
+        {
+          "hour": "09:00",
+          "percent": 41
+        },
+        {
+          "hour": "10:00",
+          "percent": 63
+        },
+        {
+          "hour": "11:00",
+          "percent": 74
+        },
+        {
+          "hour": "12:00",
+          "percent": 74
+        },
+        {
+          "hour": "13:00",
+          "percent": 74
+        },
+        {
+          "hour": "14:00",
+          "percent": 85
+        },
+        {
+          "hour": "15:00",
+          "percent": 100
+        },
+        {
+          "hour": "16:00",
+          "percent": 99
+        },
+        {
+          "hour": "17:00",
+          "percent": 76
+        }
+      ]
+    },
+    {
+      "Monday": [
+        {
+          "hour": "06:00",
+          "percent": 6
+        },
+        {
+          "hour": "07:00",
+          "percent": 15
+        },
+        {
+          "hour": "08:00",
+          "percent": 24
+        },
+        {
+          "hour": "09:00",
+          "percent": 30
+        },
+        {
+          "hour": "10:00",
+          "percent": 32
+        },
+        {
+          "hour": "11:00",
+          "percent": 31
+        },
+        {
+          "hour": "12:00",
+          "percent": 31
+        },
+        {
+          "hour": "13:00",
+          "percent": 32
+        },
+        {
+          "hour": "14:00",
+          "percent": 34
+        },
+        {
+          "hour": "15:00",
+          "percent": 33
+        },
+        {
+          "hour": "16:00",
+          "percent": 31
+        },
+        {
+          "hour": "17:00",
+          "percent": 25
+        }
+      ]
+    },
+    {
+      "Tuesday": [
+        {
+          "hour": "06:00",
+          "percent": 7
+        },
+        {
+          "hour": "07:00",
+          "percent": 15
+        },
+        {
+          "hour": "08:00",
+          "percent": 25
+        },
+        {
+          "hour": "09:00",
+          "percent": 32
+        },
+        {
+          "hour": "10:00",
+          "percent": 36
+        },
+        {
+          "hour": "11:00",
+          "percent": 35
+        },
+        {
+          "hour": "12:00",
+          "percent": 33
+        },
+        {
+          "hour": "13:00",
+          "percent": 32
+        },
+        {
+          "hour": "14:00",
+          "percent": 32
+        },
+        {
+          "hour": "15:00",
+          "percent": 31
+        },
+        {
+          "hour": "17:00",
+          "percent": 25
+        }
+      ]
+    },
+    {
+      "Wednesday": [
+        {
+          "hour": "06:00",
+          "percent": 5
+        },
+        {
+          "hour": "07:00",
+          "percent": 12
+        },
+        {
+          "hour": "08:00",
+          "percent": 22
+        },
+        {
+          "hour": "09:00",
+          "percent": 31
+        },
+        {
+          "hour": "10:00",
+          "percent": 35
+        },
+        {
+          "hour": "11:00",
+          "percent": 34
+        },
+        {
+          "hour": "12:00",
+          "percent": 31
+        },
+        {
+          "hour": "13:00",
+          "percent": 30
+        },
+        {
+          "hour": "14:00",
+          "percent": 31
+        },
+        {
+          "hour": "15:00",
+          "percent": 32
+        },
+        {
+          "hour": "16:00",
+          "percent": 31
+        },
+        {
+          "hour": "17:00",
+          "percent": 26
+        }
+      ]
+    },
+    {
+      "Thursday": [
+        {
+          "hour": "06:00",
+          "percent": 8
+        },
+        {
+          "hour": "07:00",
+          "percent": 19
+        },
+        {
+          "hour": "08:00",
+          "percent": 31
+        },
+        {
+          "hour": "09:00",
+          "percent": 41
+        },
+        {
+          "hour": "10:00",
+          "percent": 45
+        },
+        {
+          "hour": "11:00",
+          "percent": 45
+        },
+        {
+          "hour": "12:00",
+          "percent": 41
+        },
+        {
+          "hour": "13:00",
+          "percent": 40
+        },
+        {
+          "hour": "14:00",
+          "percent": 44
+        },
+        {
+          "hour": "15:00",
+          "percent": 49
+        },
+        {
+          "hour": "16:00",
+          "percent": 49
+        },
+        {
+          "hour": "17:00",
+          "percent": 42
+        }
+      ]
+    },
+    {
+      "Friday": [
+        {
+          "hour": "06:00",
+          "percent": 6
+        },
+        {
+          "hour": "07:00",
+          "percent": 10
+        },
+        {
+          "hour": "08:00",
+          "percent": 16
+        },
+        {
+          "hour": "09:00",
+          "percent": 23
+        },
+        {
+          "hour": "10:00",
+          "percent": 28
+        },
+        {
+          "hour": "11:00",
+          "percent": 33
+        },
+        {
+          "hour": "12:00",
+          "percent": 36
+        },
+        {
+          "hour": "13:00",
+          "percent": 37
+        },
+        {
+          "hour": "14:00",
+          "percent": 38
+        },
+        {
+          "hour": "15:00",
+          "percent": 36
+        },
+        {
+          "hour": "16:00",
+          "percent": 33
+        },
+        {
+          "hour": "17:00",
+          "percent": 28
+        }
+      ]
+    },
+    {
+      "Saturday": [
+        {
+          "hour": "06:00",
+          "percent": 4
+        },
+        {
+          "hour": "07:00",
+          "percent": 12
+        },
+        {
+          "hour": "08:00",
+          "percent": 22
+        },
+        {
+          "hour": "09:00",
+          "percent": 32
+        },
+        {
+          "hour": "10:00",
+          "percent": 41
+        },
+        {
+          "hour": "11:00",
+          "percent": 46
+        },
+        {
+          "hour": "12:00",
+          "percent": 48
+        },
+        {
+          "hour": "13:00",
+          "percent": 49
+        },
+        {
+          "hour": "14:00",
+          "percent": 50
+        },
+        {
+          "hour": "15:00",
+          "percent": 50
+        },
+        {
+          "hour": "16:00",
+          "percent": 47
+        },
+        {
+          "hour": "17:00",
+          "percent": 40
+        }
+      ]
+    }
+  ],
+  "relatedSearches": [
+    "parque toronto endereço",
+    "lago parque cidade de toronto",
+    "grande parque na cidade de toronto codycross",
+    "parque toronto wikipédia",
+    "parque toronto telefone",
+    "parque na região",
+    "lago do parque toronto",
+    "parque toronto o que fazer"
+  ],
+  "relateds": [
+    {
+      "mainName": "Parque Jardim Felicidade",
+      "url": null
+    },
+    {
+      "mainName": "Parque Rodrigo de Gásperi",
+      "url": null
+    },
+    {
+      "mainName": "Parque Jacintho Alberto",
+      "url": null
+    },
+    {
+      "mainName": "Parque Lions Clube Tucuruvi",
+      "url": null
+    },
+    {
+      "mainName": "Parque Pinheirinho d'Água",
+      "url": null
+    },
+    {
+      "mainName": "Parque São Domingos",
+      "url": null
+    },
+    {
+      "mainName": "Parque Nabuco",
+      "url": null
+    },
+    {
+      "mainName": "Parque Piqueri",
+      "url": null
+    },
+    {
+      "mainName": "Parque Benemérito José Brás",
+      "url": null
+    },
+    {
+      "mainName": "Parque Alfredo Volpi",
+      "url": null
+    },
+    {
+      "mainName": "Parque Lina e Paulo Raia",
+      "url": null
+    },
+    {
+      "mainName": "Parque Anhanguera",
+      "url": null
+    },
+    {
+      "mainName": "Parque Raposo Tavares",
+      "url": null
+    },
+    {
+      "mainName": "Parque Vila dos Remédios",
+      "url": null
+    },
+    {
+      "mainName": "Parque Chácara das Flores",
+      "url": null
+    },
+    {
+      "mainName": "Estação Piqueri",
+      "url": null
+    },
+    {
+      "mainName": "Parque Trote",
+      "url": null
+    },
+    {
+      "mainName": "Parque dos Eucaliptos",
+      "url": null
+    },
+    {
+      "mainName": "Parque Tenente Brigadeiro Roberto Faria Lima",
+      "url": null
+    },
+    {
+      "mainName": "Parque Senhor do Vale",
+      "url": null
+    },
+    {
+      "mainName": "Parque Jardim Herculano",
+      "url": null
+    },
+    {
+      "mainName": "Parque Cemucam",
+      "url": null
+    },
+    {
+      "mainName": "Beto Carrero World",
+      "url": null
+    },
+    {
+      "mainName": "Mundo a Vapor",
+      "url": null
+    }
+  ]
+}

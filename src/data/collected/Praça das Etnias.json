@@ -1,0 +1,993 @@
+{
+  "mainName": "Praça das Etnias",
+  "slug": "praca-das-etnias",
+  "category": "Parque",
+  "locationInformation": {
+    "latitude": "-29.3828695",
+    "longitude": "-50.8717844"
+  },
+  "basicInformation": [
+    {
+      "label": "endereço",
+      "tooltip": "Copiar endereço",
+      "text": "Av. Borges de Medeiros, 1848 - Centro, Gramado - RS, 95670-000",
+      "icon": "https://www.gstatic.com/images/icons/material/system_gm/1x/place_gm_blue_24dp.png"
+    },
+    {
+      "label": "website",
+      "tooltip": "Abrir website",
+      "text": "gramado.rs.gov.br",
+      "icon": "https://www.gstatic.com/images/icons/material/system_gm/1x/public_gm_blue_24dp.png"
+    },
+    {
+      "label": "Code",
+      "tooltip": "Copiar Plus Code",
+      "text": "J48H+V7 Centro, Gramado - RS",
+      "icon": "https://maps.gstatic.com/mapfiles/maps_lite/images/2x/ic_plus_code.png"
+    },
+    {
+      "label": "merchant",
+      "text": "Reivindicar esta empresa",
+      "icon": "https://www.gstatic.com/images/icons/material/system_gm/1x/verified_user_gm_blue_24dp.png"
+    }
+  ],
+  "ratingInformation": null,
+  "ratingTags": [
+    {
+      "tag": "cucas",
+      "count": 360,
+      "tooltip": "cucas, mencionado em 360 avaliações"
+    },
+    {
+      "tag": "artesanato",
+      "count": 330,
+      "tooltip": "artesanato, mencionado em 330 avaliações"
+    },
+    {
+      "tag": "linguiça",
+      "count": 155,
+      "tooltip": "linguiça, mencionado em 155 avaliações"
+    },
+    {
+      "tag": "forno",
+      "count": 146,
+      "tooltip": "forno, mencionado em 146 avaliações"
+    },
+    {
+      "tag": "lenha",
+      "count": 90,
+      "tooltip": "lenha, mencionado em 90 avaliações"
+    },
+    {
+      "tag": "colônia",
+      "count": 88,
+      "tooltip": "colônia, mencionado em 88 avaliações"
+    },
+    {
+      "tag": "natal luz",
+      "count": 47,
+      "tooltip": "natal luz, mencionado em 47 avaliações"
+    },
+    {
+      "tag": "salames",
+      "count": 28,
+      "tooltip": "salames, mencionado em 28 avaliações"
+    },
+    {
+      "tag": "imigrantes",
+      "count": 26,
+      "tooltip": "imigrantes, mencionado em 26 avaliações"
+    },
+    {
+      "tag": "suco de uva",
+      "count": 20,
+      "tooltip": "suco de uva, mencionado em 20 avaliações"
+    }
+  ],
+  "featuredPhotos": [
+    "https://lh5.googleusercontent.com/p/AF1QipPk1JK5coCsulo18saa3UTYFiRzHt7M2ZCc74UZ=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNZLJlt9_oyzH5AmhEW5pjqffznzAUnTji-aB24=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNK-Rw4owmsDOoIjl0ddfUI9hjk-puhzuzQ9o7v=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNz4S-WAM_JR7ozNyWDa_pCLvSc4qh4K3K7jTKa=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOZCO7EaSXQwU6J6XD6u_y4OIKGQJqzlWdjYJM=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNa2E9CtkY9JtZDCe4lNg9t8a1miAvrnwUTUTpn=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOjvv82R1WvMnGBD8oqlXcHwL407Bba46pHtvX_=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOi83xbY9yEQouaokAritDk-_jphwsBneCXPKmy=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNxf0S72RaRidPP861_PWp0fsXr7ghSmHpIlsGt=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipO_-ftXUH7y9w8CDZIyUJQ8sjqLPaX1eEVVHUbh=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMN2pu4fds9JrpxOxI-IXD6pgixI7ZjJB5MH0J1=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPSs853y25G223DXSTBA8svmnufZiDNUfMFGwTp=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNlSZZ7rRwPUrhDvxu0Rr_yREjQUJqYgcWNF-Qw=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipP9Q6FfLaYridJRWO5-LEE0iUwnPYEnE6FZNUA6=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMcNLOcBKRiTQhRZfmX-ypH1N6i18LPobHSvNFu=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOTv5_jqc5SzSRwgHpwMGXJNYt76l9lOBGaBSLX=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPopWX-mBFmWZr9wc3wR_yC8bme1x72jlmuVaSt=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNl7uAnTbZUJ0NpMS9__AweQz-jtnvtBCMwSvGG=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOoQzPkLntvgxP71ExgrG2WaEXfv4gduyvV_E93=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipN6F2UV_Ag0VINwcoK6Y2TmUH-gP98JePwnI-hX=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipN78-derne6FnuZZTbQtS_nUwyXfgSyx2ES08WI=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOgz1SmyvkAoqcNTlw2gzbubutEpop0-CtY6i0h=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipN_CydpdSJlwmvNbVliHqOOtSdxJtEEM_UOLawa=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNaHm3kIgDiIoXcrZ4fPOZw2dxsS7yMhUaJb7QQ=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPauluqBNPc5ft-F1J1nGesFHINblptFHAeuJof=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPBPNyPn0JSWvkv3oiaz9Vmov284zSFGtysgtQZ=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPR8xEZVIr7BPMja1oUv9hP3mCWJcqXJy9HtEu-=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPZpS3YU9YsYlnczifCLk5UpfBtuEkwa4WJUM1I=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPDdHzQMyFqmqpxoQwcbGgB_dN2CIkzTifPlxBQ=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMW6fWlXYEhjU6MKOtCMyetWOtX7hSLuqM7JglO=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPId1mibgmk5LWPoyBmFG-XfPGpr2jSMqH3tZQ=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNiJ70BH5Q04jBJMqQfWyMRRNYF93hrSB7EJhfD=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMYeUdxIeQVa7k1s2HHeGS1CLM204gi6sOLn2JC=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNUYRNqDxlHpqQFrVSf_cRGTbrg7MgAaaNXM_5Y=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOMle2FVNHF8vmsVMSrZf1wglEEtttA1_vkVzsc=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOIL_DcHA8ghb-e52fu48bBmBh9hrLfo7U2CU-u=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOEJbmICIRH21ijNqWcWk-LY1GNVGk5gDTQKH3r=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipM4Y9TqnZSh4RU_PplbwtTeqbgbzIH4S5HbK950=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOMLOktN17sVcxg15V0CbwLAge7MR24i4usUphN=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMymsGyycghr1LorE767KUWLft-iA6uCRsGWjRU=w1024-h576-k-no"
+  ],
+  "topComments": [
+    {
+      "author": "weny souza",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucrRXgKMr-bDjFJkz3qialoiorOvRnLAMtJFRLp2ZvY=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "O objetivo da praça das etinias é de mostarda aos visitantes um pouco das culturas: alemã, italiana e portugueses. Que foram o 3 povos habitantes da região. A praça é cercada de flores e hortaliças e há a produção de pães e cucas, porém tem que verificar os dias e horários. No geral é um ambiente muito agradável",
+      "gradeComment": 4
+    },
+    {
+      "author": "Rebeca P. Lopes",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucrsZqOZCD5SPRKq5K9k3AQC-JQi6kyeNgm_UDwO_A=w36-h36-p-c0x00000000-rp-mo-ba3-br100",
+      "comment": "Fomos na páscoa e estava tendo uma feirinha toda decorada! É um local bem localizado, mas toda vez que íamos nele nos perdíamos. Nele tem a feirinha (pelo menos na páscoa tem..), a casa do colono e uma fábrica de pães comuns, pães recheados e cucas. As casinhas são super bonitas e ótimas para tirar fotos, local gratuito.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Wagner Galli",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucoXlcWLB6Czhus4tYELGucISby6jQIrM9lUNtPDH9w=w36-h36-p-c0x00000000-rp-mo-ba7-br100",
+      "comment": "A importância da Praça das Etnias é fundamental para simbolizar a união dos povos em Gramado/RS. Por isso, a cidade mantém um jardim impecável, com a grama sempre rente e arbustos delineando o local, atraindo os visitantes a um passeio a pé para admirar um ponto verde da cidade. Além disso, há flores por todos os lados, além de outras estruturas que mantém o interesse do visitante para conhecer um pouco mais, como as feiras e a Casa do Colono. De uma forma ou de outra, você vai encontrar um lugar para ver a vida da cidade acontecer.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Monica Lima Andrade",
+      "photoAuthor": "https://lh3.googleusercontent.com/a/AItbvmmtt5838XDYw3XuvotsZq4IGpsRLVkqSqHqEfg=w36-h36-p-c0x00000000-rp-mo-ba3-br100",
+      "comment": "Visitar a praça das Etnias em Gramado e um passeio ao passado e a história local , um lugar tranquilo para sentar e apreciar a beleza da cidade!",
+      "gradeComment": 5
+    },
+    {
+      "author": "Deise Beckmann",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucostt9V1NRomBiWy7rS8c_1_9JWeVlogc3Zi5wu=w36-h36-p-c0x00000000-rp-mo-ba3-br100",
+      "comment": "Vale o passeio, ótimo local para comprar produtos coloniais diretamente do produtor, A praça remete aos estilos típicos de diversas etnias.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Ana Carla Moreno",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucpT5ngq5dgkw3RTB5LgMU8mSdz2MHLmNwXKjn7Rko4=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "Um dos poucos lugares gratuitos dr se conhecer em Gramado. O lugar é bonito mais falta investimento para mostrar mais das culturas (italiana,Alemanha e Portuguesa).",
+      "gradeComment": 4
+    },
+    {
+      "author": "Amanda",
+      "photoAuthor": "https://lh3.googleusercontent.com/a/AItbvmlzITvzIK2aoMjRuTWdJGBJX41FwRBRcIrcGkaHq7k=w36-h36-p-c0x00000000-rp-mo-ba5-br100",
+      "comment": "Paisagismo encantador nessa pracinha charmosa. É um lugar de passagem já que é barulhenta devido as ruas que a rodeia, mas isso não faz com que a beleza dela se perca. A localização é ótima, em frente a Praça há a Rua Torta, uma outra atração famosa em Gramado, porém sem graça. Há também muitas lojinhas bem próximo e muitos restaurantes.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Barbara Simoes",
+      "photoAuthor": "https://lh3.googleusercontent.com/a/AItbvmmw18z9FIJ-PftxCIdZGY1Ax3t5jcE3IWcgsLJn=w36-h36-p-c0x00000000-rp-mo-br100",
+      "comment": "A praça é  linda. Limpa, super organizado, tem banheiro público limpíssimo. Sem contar a casa do colono que tem um pão maravilho caseiro, não vá embora sem ir lá, vai valer a pena é perto da rua coberta e rua torta.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Ricardo B. Braidotte",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucr32v1CbsL_i29mtxcvfpx86qmdd_jKEgD57er25g=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "Praça com a paisagem muito bonita. Naturalmente quem caminha pela região central de Gramado irá passar pela praça das Etnias. Aproveitem e experimentem a comidas típicas da Casa do Colono, localizado na praça. Recomendo e parada obrigatório para quem vai conhecer a região.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Aline Martins",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucpnF2JcAIfgzR8wnkNflc-w4ruvca24P8UFyUtHuFc=w36-h36-p-c0x00000000-rp-mo-ba5-br100",
+      "comment": "O lugar é uma graça. Nela há construções que remetem aos povos imigrantes da cidade. A casa italiana tem visitação, por 5,00.  Há vários tipos de artesanatos e produtos coloniais na praça.",
+      "gradeComment": 4
+    },
+    {
+      "author": "Katie Goetz",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucrq1lqOjFQKPO2NDwEMp4f6zhuetW2tdPcgENTqFII=w36-h36-p-c0x00000000-rp-mo-ba6-br100",
+      "comment": "🏞️🍁🥶🇩🇪Maravilhosa, antigas casas de colonos alemães e italianos, k tal comprar aquela cuca genuína alemã? Por genuínos colonos? Gramado sempre me surpreende com lugares incríveis!  Neste frio de 2 graus, sensação térmica menos🥶, só com MT café Expresso e cucas🇩🇪🥰❤️",
+      "gradeComment": 5
+    },
+    {
+      "author": "Estevão Vinícius Candia",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucpvUwkJq1z51W9ES6Df53nNo1xFVbE_6wB6eB86ug=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "Espaço tranquilo. Bem no começo do centro de Gramado. Tem vários espaços de artesanato e um lugar que vende cucas e pães bem baratinho.",
+      "gradeComment": 4
+    },
+    {
+      "author": "Rafael Eugean",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucrPdRQCohdHwug5f14InwLN3d16x9OI0zdnPNkQhKs=w36-h36-p-c0x00000000-rp-mo-ba2-br100",
+      "comment": "Local bonito, limpo e agradável! Local bem central e de fácil acesso! Fica próximo da rua coberta, rodoviária e Casa do colono. Não tem semáforos rs, conhece cidade que veiculos param para os pedestres? Pois é isso existe! Que cidade! Cidade mágica! Valeu Gramado pelas experiencias super positivas!",
+      "gradeComment": 5
+    },
+    {
+      "author": "regina angélica pochini yvamoto",
+      "photoAuthor": "https://lh3.googleusercontent.com/a/AItbvmnPptDU3WiXEYWgLyB-fuQMDm3sH1j29vQc4Zuy=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "Local para  tirar belas fotos e comprar cucas e pao italiano..Ao lado loja com geleias e salame..",
+      "gradeComment": 5
+    },
+    {
+      "author": "Jéssica Helena",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucqlat6XubewH3ckVINhL1_zwaWLXXndYlAGVXMbpFA=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "A praça é pequena. Fui para visitar a vila da páscoa e era bem pequeno, mas tudo muito lindo.",
+      "gradeComment": 4
+    },
+    {
+      "author": "Dena Amorim",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucrlJieSvD1WOyQC3Dt9KWN5YEnXjZJGqoh5GgbrEWA=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "Lindíssimo, ruas lindas, sem falar na rua torta shouu parabéns.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Matheus Rodrigues",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucpjQLm1XWZyN8-MCAK2XAk8c2ZrZ2tQEtAbnld5BQ=w36-h36-p-c0x00000000-rp-mo-ba3-br100",
+      "comment": "A praça é bem simples, mas possui duas lojinhas em seu redor. Há uma certa variedade de itens.  Como o local fica próximo a rua torta, vale uma \"visita\" rápida, só para conhecer mesmo",
+      "gradeComment": 4
+    },
+    {
+      "author": "Luiz Lozzano Sanches",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucpk2su4mvk76yd5WgQkNnLRZxdcOvvCumptPxPoPg=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "O local é muito agradável, tem algumas lojinhas que vendem produtos típicos da região, selo lulala de qualidade, recomendo.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Fabio Cunha",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZuco2WYZYJ-3XwuSbP5zfB9QMMdyKy7z-9LL6IsdV=w36-h36-p-c0x00000000-rp-mo-ba3-br100",
+      "comment": "Pães perfeitos. Não pode deixar de comer o pão com linguiça. Logo em frente fica a Rua Torta.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Thiago Hirata",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucryKxdQBUKsGfK_EoeHXg0c77UQcIw3sMjSJY9L=w36-h36-p-c0x00000000-rp-mo-ba5-br100",
+      "comment": "Ambiente muito agradável para passear pelas lojas",
+      "gradeComment": 5
+    }
+  ],
+  "peakHours": [
+    {
+      "Sunday": [
+        {
+          "hour": "05:00",
+          "percent": 1
+        },
+        {
+          "hour": "06:00",
+          "percent": 1
+        },
+        {
+          "hour": "07:00",
+          "percent": 6
+        },
+        {
+          "hour": "08:00",
+          "percent": 19
+        },
+        {
+          "hour": "09:00",
+          "percent": 45
+        },
+        {
+          "hour": "10:00",
+          "percent": 69
+        },
+        {
+          "hour": "11:00",
+          "percent": 74
+        },
+        {
+          "hour": "12:00",
+          "percent": 60
+        },
+        {
+          "hour": "13:00",
+          "percent": 54
+        },
+        {
+          "hour": "14:00",
+          "percent": 67
+        },
+        {
+          "hour": "15:00",
+          "percent": 87
+        },
+        {
+          "hour": "16:00",
+          "percent": 93
+        },
+        {
+          "hour": "17:00",
+          "percent": 77
+        },
+        {
+          "hour": "18:00",
+          "percent": 49
+        },
+        {
+          "hour": "19:00",
+          "percent": 24
+        },
+        {
+          "hour": "20:00",
+          "percent": 9
+        },
+        {
+          "hour": "21:00",
+          "percent": 3
+        },
+        {
+          "hour": "22:00",
+          "percent": 1
+        },
+        {
+          "hour": "23:00",
+          "percent": 1
+        }
+      ]
+    },
+    {
+      "Monday": [
+        {
+          "hour": "04:00",
+          "percent": 1
+        },
+        {
+          "hour": "05:00",
+          "percent": 1
+        },
+        {
+          "hour": "07:00",
+          "percent": 2
+        },
+        {
+          "hour": "08:00",
+          "percent": 8
+        },
+        {
+          "hour": "09:00",
+          "percent": 19
+        },
+        {
+          "hour": "10:00",
+          "percent": 30
+        },
+        {
+          "hour": "11:00",
+          "percent": 33
+        },
+        {
+          "hour": "12:00",
+          "percent": 29
+        },
+        {
+          "hour": "13:00",
+          "percent": 26
+        },
+        {
+          "hour": "14:00",
+          "percent": 30
+        },
+        {
+          "hour": "15:00",
+          "percent": 39
+        },
+        {
+          "hour": "16:00",
+          "percent": 43
+        },
+        {
+          "hour": "17:00",
+          "percent": 39
+        },
+        {
+          "hour": "18:00",
+          "percent": 27
+        },
+        {
+          "hour": "19:00",
+          "percent": 15
+        },
+        {
+          "hour": "20:00",
+          "percent": 6
+        },
+        {
+          "hour": "21:00",
+          "percent": 2
+        },
+        {
+          "hour": "23:00",
+          "percent": 1
+        },
+        {
+          "hour": "00:00",
+          "percent": 1
+        },
+        {
+          "hour": "01:00",
+          "percent": 1
+        },
+        {
+          "hour": "02:00",
+          "percent": 1
+        },
+        {
+          "hour": "03:00",
+          "percent": 1
+        }
+      ]
+    },
+    {
+      "Tuesday": [
+        {
+          "hour": "04:00",
+          "percent": 1
+        },
+        {
+          "hour": "05:00",
+          "percent": 1
+        },
+        {
+          "hour": "06:00",
+          "percent": 1
+        },
+        {
+          "hour": "07:00",
+          "percent": 3
+        },
+        {
+          "hour": "08:00",
+          "percent": 8
+        },
+        {
+          "hour": "09:00",
+          "percent": 15
+        },
+        {
+          "hour": "10:00",
+          "percent": 20
+        },
+        {
+          "hour": "11:00",
+          "percent": 21
+        },
+        {
+          "hour": "12:00",
+          "percent": 20
+        },
+        {
+          "hour": "13:00",
+          "percent": 19
+        },
+        {
+          "hour": "14:00",
+          "percent": 22
+        },
+        {
+          "hour": "15:00",
+          "percent": 26
+        },
+        {
+          "hour": "16:00",
+          "percent": 29
+        },
+        {
+          "hour": "17:00",
+          "percent": 26
+        },
+        {
+          "hour": "19:00",
+          "percent": 10
+        },
+        {
+          "hour": "20:00",
+          "percent": 5
+        },
+        {
+          "hour": "21:00",
+          "percent": 2
+        },
+        {
+          "hour": "22:00",
+          "percent": 1
+        },
+        {
+          "hour": "00:00",
+          "percent": 1
+        },
+        {
+          "hour": "01:00",
+          "percent": 1
+        },
+        {
+          "hour": "02:00",
+          "percent": 1
+        },
+        {
+          "hour": "03:00",
+          "percent": 1
+        }
+      ]
+    },
+    {
+      "Wednesday": [
+        {
+          "hour": "04:00",
+          "percent": 1
+        },
+        {
+          "hour": "05:00",
+          "percent": 1
+        },
+        {
+          "hour": "06:00",
+          "percent": 1
+        },
+        {
+          "hour": "07:00",
+          "percent": 2
+        },
+        {
+          "hour": "08:00",
+          "percent": 7
+        },
+        {
+          "hour": "09:00",
+          "percent": 12
+        },
+        {
+          "hour": "10:00",
+          "percent": 17
+        },
+        {
+          "hour": "11:00",
+          "percent": 19
+        },
+        {
+          "hour": "12:00",
+          "percent": 19
+        },
+        {
+          "hour": "13:00",
+          "percent": 19
+        },
+        {
+          "hour": "14:00",
+          "percent": 21
+        },
+        {
+          "hour": "15:00",
+          "percent": 26
+        },
+        {
+          "hour": "16:00",
+          "percent": 28
+        },
+        {
+          "hour": "17:00",
+          "percent": 24
+        },
+        {
+          "hour": "18:00",
+          "percent": 15
+        },
+        {
+          "hour": "19:00",
+          "percent": 8
+        },
+        {
+          "hour": "20:00",
+          "percent": 5
+        },
+        {
+          "hour": "21:00",
+          "percent": 3
+        },
+        {
+          "hour": "22:00",
+          "percent": 2
+        },
+        {
+          "hour": "23:00",
+          "percent": 1
+        },
+        {
+          "hour": "01:00",
+          "percent": 1
+        },
+        {
+          "hour": "02:00",
+          "percent": 1
+        },
+        {
+          "hour": "03:00",
+          "percent": 1
+        }
+      ]
+    },
+    {
+      "Thursday": [
+        {
+          "hour": "04:00",
+          "percent": 1
+        },
+        {
+          "hour": "05:00",
+          "percent": 1
+        },
+        {
+          "hour": "07:00",
+          "percent": 3
+        },
+        {
+          "hour": "08:00",
+          "percent": 10
+        },
+        {
+          "hour": "09:00",
+          "percent": 19
+        },
+        {
+          "hour": "10:00",
+          "percent": 26
+        },
+        {
+          "hour": "11:00",
+          "percent": 26
+        },
+        {
+          "hour": "12:00",
+          "percent": 24
+        },
+        {
+          "hour": "13:00",
+          "percent": 25
+        },
+        {
+          "hour": "14:00",
+          "percent": 30
+        },
+        {
+          "hour": "15:00",
+          "percent": 36
+        },
+        {
+          "hour": "16:00",
+          "percent": 38
+        },
+        {
+          "hour": "17:00",
+          "percent": 36
+        },
+        {
+          "hour": "18:00",
+          "percent": 29
+        },
+        {
+          "hour": "19:00",
+          "percent": 20
+        },
+        {
+          "hour": "20:00",
+          "percent": 12
+        },
+        {
+          "hour": "21:00",
+          "percent": 6
+        },
+        {
+          "hour": "22:00",
+          "percent": 2
+        },
+        {
+          "hour": "00:00",
+          "percent": 1
+        },
+        {
+          "hour": "01:00",
+          "percent": 1
+        },
+        {
+          "hour": "02:00",
+          "percent": 1
+        },
+        {
+          "hour": "03:00",
+          "percent": 1
+        }
+      ]
+    },
+    {
+      "Friday": [
+        {
+          "hour": "06:00",
+          "percent": 2
+        },
+        {
+          "hour": "07:00",
+          "percent": 6
+        },
+        {
+          "hour": "08:00",
+          "percent": 12
+        },
+        {
+          "hour": "09:00",
+          "percent": 20
+        },
+        {
+          "hour": "10:00",
+          "percent": 27
+        },
+        {
+          "hour": "11:00",
+          "percent": 30
+        },
+        {
+          "hour": "12:00",
+          "percent": 30
+        },
+        {
+          "hour": "13:00",
+          "percent": 27
+        },
+        {
+          "hour": "14:00",
+          "percent": 29
+        },
+        {
+          "hour": "15:00",
+          "percent": 40
+        },
+        {
+          "hour": "16:00",
+          "percent": 50
+        },
+        {
+          "hour": "17:00",
+          "percent": 43
+        },
+        {
+          "hour": "18:00",
+          "percent": 25
+        },
+        {
+          "hour": "19:00",
+          "percent": 11
+        },
+        {
+          "hour": "20:00",
+          "percent": 6
+        },
+        {
+          "hour": "21:00",
+          "percent": 5
+        },
+        {
+          "hour": "22:00",
+          "percent": 5
+        },
+        {
+          "hour": "23:00",
+          "percent": 4
+        },
+        {
+          "hour": "00:00",
+          "percent": 3
+        },
+        {
+          "hour": "01:00",
+          "percent": 2
+        },
+        {
+          "hour": "02:00",
+          "percent": 1
+        }
+      ]
+    },
+    {
+      "Saturday": [
+        {
+          "hour": "04:00",
+          "percent": 1
+        },
+        {
+          "hour": "06:00",
+          "percent": 4
+        },
+        {
+          "hour": "07:00",
+          "percent": 12
+        },
+        {
+          "hour": "08:00",
+          "percent": 24
+        },
+        {
+          "hour": "09:00",
+          "percent": 38
+        },
+        {
+          "hour": "10:00",
+          "percent": 50
+        },
+        {
+          "hour": "11:00",
+          "percent": 55
+        },
+        {
+          "hour": "12:00",
+          "percent": 54
+        },
+        {
+          "hour": "13:00",
+          "percent": 54
+        },
+        {
+          "hour": "14:00",
+          "percent": 65
+        },
+        {
+          "hour": "15:00",
+          "percent": 87
+        },
+        {
+          "hour": "16:00",
+          "percent": 100
+        },
+        {
+          "hour": "17:00",
+          "percent": 84
+        },
+        {
+          "hour": "18:00",
+          "percent": 52
+        },
+        {
+          "hour": "19:00",
+          "percent": 27
+        },
+        {
+          "hour": "20:00",
+          "percent": 16
+        },
+        {
+          "hour": "21:00",
+          "percent": 13
+        },
+        {
+          "hour": "22:00",
+          "percent": 12
+        },
+        {
+          "hour": "23:00",
+          "percent": 11
+        },
+        {
+          "hour": "00:00",
+          "percent": 8
+        },
+        {
+          "hour": "01:00",
+          "percent": 5
+        },
+        {
+          "hour": "02:00",
+          "percent": 3
+        }
+      ]
+    }
+  ],
+  "relatedSearches": [
+    "praça das etnias ingresso",
+    "lago joaquina rita bier",
+    "rua torta",
+    "pontos turísticos gramado",
+    "rua coberta gramado",
+    "rua torta gramado",
+    "praça das mães",
+    "mini mundo"
+  ],
+  "relateds": [
+    {
+      "mainName": "Casa do Colono",
+      "url": null
+    },
+    {
+      "mainName": "Fonte do Amor Eterno",
+      "url": null
+    },
+    {
+      "mainName": "Praça Major Nicoletti",
+      "url": null
+    },
+    {
+      "mainName": "Le Jardin Parque de Lavanda",
+      "url": null
+    },
+    {
+      "mainName": "Lago Negro",
+      "url": null
+    },
+    {
+      "mainName": "Aldeia do Papai Noel",
+      "url": null
+    },
+    {
+      "mainName": "Lago Joaquina Rita Bier",
+      "url": null
+    },
+    {
+      "mainName": "Mini Mundo",
+      "url": null
+    },
+    {
+      "mainName": "Parque Gaúcho",
+      "url": null
+    },
+    {
+      "mainName": "Memorial Casa Italiana",
+      "url": null
+    },
+    {
+      "mainName": "Snowland",
+      "url": null
+    },
+    {
+      "mainName": "Rua Coberta - Gramado/RS",
+      "url": null
+    },
+    {
+      "mainName": "Parque Alemanha Encantada",
+      "url": null
+    },
+    {
+      "mainName": "Belvedere Vale do Quilombo",
+      "url": null
+    },
+    {
+      "mainName": "Cristais de Gramado",
+      "url": null
+    },
+    {
+      "mainName": "Vinícola Ravanello - Vinhedos e Vinhos Finos",
+      "url": null
+    },
+    {
+      "mainName": "Rua Torta",
+      "url": null
+    },
+    {
+      "mainName": "Parque Terra Mágica Florybal",
+      "url": null
+    },
+    {
+      "mainName": "Paróquia São Pedro",
+      "url": null
+    },
+    {
+      "mainName": "Dreamland Museu de Cera",
+      "url": null
+    },
+    {
+      "mainName": "Dreams Motor Show Gramado",
+      "url": null
+    },
+    {
+      "mainName": "Igreja Matriz São Pedro",
+      "url": null
+    },
+    {
+      "mainName": "Mundo a Vapor",
+      "url": null
+    },
+    {
+      "mainName": "Ervateria Marcon",
+      "url": null
+    }
+  ]
+}

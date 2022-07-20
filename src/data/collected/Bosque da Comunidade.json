@@ -1,0 +1,683 @@
+{
+  "mainName": "Bosque da Comunidade",
+  "slug": "bosque-da-comunidade",
+  "category": "Parque",
+  "locationInformation": {
+    "latitude": "-22.3361111",
+    "longitude": "-49.0641667"
+  },
+  "basicInformation": [
+    {
+      "label": "endereço",
+      "tooltip": "Copiar endereço",
+      "text": "R. Araújo Leite - Vila Universitaria, Bauru - SP, 17012-330",
+      "icon": "https://www.gstatic.com/images/icons/material/system_gm/1x/place_gm_blue_24dp.png"
+    },
+    {
+      "label": "Code",
+      "tooltip": "Copiar Plus Code",
+      "text": "MW7P+H8 Vila Universitaria, Bauru - SP",
+      "icon": "https://maps.gstatic.com/mapfiles/maps_lite/images/2x/ic_plus_code.png"
+    },
+    {
+      "label": "send-to-device",
+      "text": "Enviar para smartphone",
+      "icon": "https://maps.gstatic.com/consumer/images/icons/1x/send_to_mobile_alt_gm_blue_24dp.png"
+    },
+    {
+      "label": "merchant",
+      "text": "Reivindicar esta empresa",
+      "icon": "https://www.gstatic.com/images/icons/material/system_gm/1x/verified_user_gm_blue_24dp.png"
+    }
+  ],
+  "ratingInformation": {
+    "basicRatingInformation": {
+      "averageGrade": 4.6,
+      "totalOfEvaluations": 2822
+    },
+    "ratingsByGrade": [
+      {
+        "grade": 5,
+        "totalRatings": 1994
+      },
+      {
+        "grade": 4,
+        "totalRatings": 575
+      },
+      {
+        "grade": 3,
+        "totalRatings": 193
+      },
+      {
+        "grade": 2,
+        "totalRatings": 33
+      },
+      {
+        "grade": 1,
+        "totalRatings": 27
+      }
+    ]
+  },
+  "ratingTags": [
+    {
+      "tag": "brincar",
+      "count": 41,
+      "tooltip": "brincar, mencionado em 41 avaliações"
+    },
+    {
+      "tag": "brinquedos",
+      "count": 37,
+      "tooltip": "brinquedos, mencionado em 37 avaliações"
+    },
+    {
+      "tag": "lazer",
+      "count": 30,
+      "tooltip": "lazer, mencionado em 30 avaliações"
+    },
+    {
+      "tag": "ler",
+      "count": 27,
+      "tooltip": "ler, mencionado em 27 avaliações"
+    },
+    {
+      "tag": "bancos",
+      "count": 16,
+      "tooltip": "bancos, mencionado em 16 avaliações"
+    },
+    {
+      "tag": "locomotiva",
+      "count": 15,
+      "tooltip": "locomotiva, mencionado em 15 avaliações"
+    },
+    {
+      "tag": "pokémon go",
+      "count": 11,
+      "tooltip": "pokémon go, mencionado em 11 avaliações"
+    },
+    {
+      "tag": "atividades físicas",
+      "count": 10,
+      "tooltip": "atividades físicas, mencionado em 10 avaliações"
+    },
+    {
+      "tag": "bebedouros",
+      "count": 9,
+      "tooltip": "bebedouros, mencionado em 9 avaliações"
+    },
+    {
+      "tag": "netos",
+      "count": 6,
+      "tooltip": "netos, mencionado em 6 avaliações"
+    }
+  ],
+  "featuredPhotos": [
+    "https://lh5.googleusercontent.com/p/AF1QipPlxmSh5AJ1kPJUYTxFKfNkG4TTWP_QKd5vONYM=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipN7YTUZSidJ9Ev1MwD6RxWlec5b-YKxeCcKd6wu=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNfYm-C-rEwMn_1-vZdn4gtljSc0WOKyONBKMxW=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPRLh8PL0Gz2k2EftfD2BxVuPEzjD2qzVKLYgx0=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNCnpsjr22Y2oFewdG1pbXz6BAF-U0IjRYwv5dj=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOKiufXDKMp7zphIhWISXrMnzWrTch--Gy_-uk_=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMyPK3Hd5QQjKCudgl2dzMrNeiiragef9_71GF3=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOHAQR1QiCAuvA-SmbHywhBtqJEZkFwCm5pDUJU=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNAUBQAVUjsr9ptG62GFUA01hX8rVuAlx2adqRb=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNZ89AEztfiNQsMgSyaFJJQTLEinsAFdR7OGB41=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMWoWariD9Vj0Rm11tM3ry8eyM8LH2FBdLMgSHx=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNi9c4jBDz2qWlJJ_pgoCUVZtqZJUwzbzPwyzVe=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMrkhJikUVoRFiye7hkfOYPwDa4Ppx5sJpMp8dO=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOvy1NUU-hoCf7C-yAs8RrbjiQ56KPJitNrDQQk=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOdEH6jNflglExrHI69SoHJwe31CjtXw4JKAzlO=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNavCOrJf53WCPRkas7TRUTMpk9gtEMseN22Hlc=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOtEg6BG8jE2s-cmoDiX5PTlhjksDJZCnQQrA-4=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOucO91T_SH029u4O-CYHspvHzBgty-wTyRHEJX=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNNVruARu8ZyBbFXbeC4sVvzNhXcpJxIPOJQHr2=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipORjTGJbejH6SOPjLSZRvsVrV8vmrFBL4RJxxj8=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMHw_iaK7GjGmE7Azig0wBiqOh9KeNOTePNolR7=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOotXruOGAzJg9rk1VHDcRiNmXFhVHeWRuuwpQJ=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMZ1FNdx-8csYv6q7b9OG3RQTMoefKdAXLaKaEk=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPrTXXngxq4yb98zEtCZb-Z0ZBIbfxi1o00f_32=w1024-h576-k-no"
+  ],
+  "topComments": [
+    {
+      "author": "Maria Olimpio",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucp-FoEY8adstQ8wG8kDz5fZepyP_4LZ4v_20aAoMDY=w36-h36-p-c0x00000000-rp-mo-ba5-br100",
+      "comment": "Ambiente tranquilo para contato direto com a natureza, caminhadas, meditação e passeios com a família. Playground limpo e conservado para as crianças brincarem. Tem também os bichinhos que as encantam. Maria Fumaça continua lá, depois de tantos anos. Se depois da caminhada você se cansar, tem bancos limpos e conservados também, água de côco do lado de fora, para vender.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Thiago Siqueira",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucpybmvxPWcDYDJ4DzPWtSnBwTTAe01-50BDvz4-uZM=w36-h36-p-c0x00000000-rp-mo-ba5-br100",
+      "comment": "Ótimo pra caminhadas, passear, ler um livro, trazer a família! Parque com bons brinquedos para as crianças! Só a quantidade de folhas no caminho no bosque todo, que chateia pelo descuido e preocupa, pois vários usuários já relataram encontrar animais peçonhentos como o escorpião amarelo",
+      "gradeComment": 5
+    },
+    {
+      "author": "Suelen Caamano",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucpWs0bS81bc2MqrpZX6cCGA4v5LHxLucBogNrBD1Q0=w36-h36-p-c0x00000000-rp-mo-br100",
+      "comment": "Legal, mas falta muito planejamento e cuidado! A ponte está quebrada e perigosa para as crianças brincarem... Não tem mesa para sentar e comer com as crianças, falta bebedouro, não vi banheiro e tbm se tivesse: sem chance de usar! O local falta muita melhoria e investimento... Pois ha muito espaço e é um disperdicio! Só não digo estar abandonado porque tem pessoas que frequentam o local!",
+      "gradeComment": 3
+    },
+    {
+      "author": "Janete Thome Do Nascimento Pugliesi",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucpo6_YidqNCPODMVgmaUHIAxCRlqPenX37aYgpJ=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "Lugar agradável para levar idosos para fazer caminhada, pois em qualquer horário do dia tem sombra. Lugar bacana para levar crianças também. A pista interna é bem pequena e não agrada atletas com uma performance maior. O lugar em bem bonito, é possível tirar fotos, só deveria ter uma manutenção melhor, principalmente nas pistas de caminhadas",
+      "gradeComment": 5
+    },
+    {
+      "author": "Fernanda Leal",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucrZSs4YrnlAqnbIFCm3LGYtMGN6kmxu84p2YBJHX3M=w36-h36-p-c0x00000000-rp-mo-ba2-br100",
+      "comment": "Ambiente tranquilo e maravilhoso para se conectar com a natureza, passear, caminhar ou simplesmente se desconectar de tudo e curtir a calmaria que a natureza proporciona.🥰 🍃🏳️",
+      "gradeComment": 5
+    },
+    {
+      "author": "Jarve Gerleande Sales de Assis",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucpz1RL-YWKC2fl24Pp02JHiID6Eo8n_l7Ibt2N0KhI=w36-h36-p-c0x00000000-rp-mo-br100",
+      "comment": "O Bosque da Comunidade, localizado nos Altos da Cidade de Bauru, bem próximo a Av. Getúlio Vargas, é um pequeno e lindo recanto da natureza em meio a \"Selva de Pedra Bauruense\". É um local aconchegante, ideal para caminhadas, exercícios, descanso e lazer, em meio a uma linda paisagem cheia de árvores de diversos tipos. As crianças também adoram passar horas no Playground desfrutando dos diversos brinquedos em meio a areia e a sombra. Outra destaque é uma locomotiva de verdade, que fica no bosque, trata-se de uma Maria Fumaça que foi doada para a prefeitura no ano de 1977, que então construiu uma estação de trem, dentro do bosque, para que ela fique exposta ao público! O bosque conta com uma infraestrutura de banheiros e bebedouro com água potável. Na porta há vários vendedores ambulantes com sorvete, água de côco, salgados e refrigerante, entre outros. Passeio imperdível! Recomendo muito a visita😍",
+      "gradeComment": 5
+    },
+    {
+      "author": "Prazer, Mariana!",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucrfjhZxJbjJp-LqCVwWMp-z8UsoFP4jh-2zCiT6wQ=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "Aquele lugar ótimo para esquecer os problemas, aterrar, meditar ou fazer uma caminhada. As crianças também adoram aqui. E as aves cantando?! Ahh que pausa boa!",
+      "gradeComment": 5
+    },
+    {
+      "author": "L T",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucoUrSubcSGM_bvH-2czCJ4TCf0D7D0GrQZMl5F34H0=w36-h36-p-c0x00000000-rp-mo-ba6-br100",
+      "comment": "Gostei do local , o play ground bem limpo e organizado os brinquedos em boas condições, o passeio estava bem limpo... Apenas os banheiros que estava com recados que estavam passando por reformas então estavam interditados , mais no momento em que estive não vi movimentos de manutenção por lá . No parque tem uma locomotiva da Maria Fumaça em exposição datada de 1920 com fabricação americana.",
+      "gradeComment": 4
+    },
+    {
+      "author": "Elenilda Costa",
+      "photoAuthor": "https://lh3.googleusercontent.com/a/AItbvmmgi2jSuNYbFw5s-bvY19lO3C0gIJDAxAoH9pQa=w36-h36-p-c0x00000000-rp-mo-br100",
+      "comment": "Lugar bonito, muito bom pra quem quer levar seus filhos e tbm pra quem deseja um lugar tranquilo pra refletir, ótimo para um piquenique.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Jeferson Neves",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucoA-wvS4Xn52qjRmN6btT_aRPVT0byjsIQgAR-W6lk=w36-h36-p-c0x00000000-rp-mo-ba3-br100",
+      "comment": "Lugar arborizado com pista de caminhada e corrida e bancos no trajeto. Possui ainda aparelhos de academia (ao ar livre) (equipamentos kit padrão das academias ao ar livre de Bauru). Dispõe de um parque infantil. Apresenta uma locomotiva \"Maria-Fumaça\", que é uma referência aos tempos de malha ferroviária em Bauru.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Carol Mesquita",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucrTeHGMO-VbHvS_Rs3fA-tKW0plQZ1FADOGLB19c-Y=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "Local agradável e com opção de caminhada e brinquedos para crianças. Não dou 5 estrelas pois o senhor que trabalha lá é extremamente grosseiro. O que assusta as crianças e acaba atrapalhando a tranquilidade do local.",
+      "gradeComment": 3
+    },
+    {
+      "author": "Barbara Uiara Silva",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucoOcXWG9FLd_2gVsrb8Lv2lC8Sck3BNLo0rOdi1kXg=w36-h36-p-c0x00000000-rp-mo-ba3-br100",
+      "comment": "Lugar lindo... Parque mto legal.",
+      "gradeComment": 5
+    },
+    {
+      "author": "mani maxter i",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucrbPhRuN8Sb-3agEH6y3cmrmDNdCva4_FgQOiVp=w36-h36-p-c0x00000000-rp-mo-br100",
+      "comment": "Lugar calmo e relaxante, ótimo para levar crianças e para sair um pouquinho do ambiente urbano",
+      "gradeComment": 5
+    },
+    {
+      "author": "Camila Pergentino de Araujo",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucrK4QLSPesNpvpRXO4JZxTYt1-fm74DPca8LSFuLA=w36-h36-p-c0x00000000-rp-mo-br100",
+      "comment": "É o lugar público em Bauru que mais gosto. É o sossego em meio a agitação da cidade. Muitas árvores, pássaros e saguis.",
+      "gradeComment": 5
+    },
+    {
+      "author": "israel samuel",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucpLnpy-b29kmBeJwFS2bCHOtxR7FSTHRDa4AsC5mto=w36-h36-p-c0x00000000-rp-mo-ba5-br100",
+      "comment": "Experiência incrível em ver os Macaquinhos vivendo livremente no Bosque , lugar que transmite Paz. 😃🙏",
+      "gradeComment": 5
+    },
+    {
+      "author": "Cristiane Payão",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucpeEnWvOEeSvZJDTXeaoMdp46anKd0ZDhqWjwPZWw=w36-h36-p-c0x00000000-rp-mo-br100",
+      "comment": "Excelente lugar, ótimo para fotos, família.",
+      "gradeComment": 5
+    },
+    {
+      "author": "YRE ayresbs@gmail.com",
+      "photoAuthor": "https://lh3.googleusercontent.com/a/AItbvmlFLkRSuEc6InuAJF-OtHj0j6K7_JmmYvvy1vKG=w36-h36-p-c0x00000000-rp-mo-br100",
+      "comment": "É todo cercado, com muito arvoredo, pistas para se caminhar, tem sanitários, e áreas reservadas para as crianças brincarem. Recebe diariamente turmas das escolas infantis para passeio. Aberto até 17:30hs.",
+      "gradeComment": 4
+    },
+    {
+      "author": "Karol Pirosi",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucpgbdWVpnlA1SQn-lZD31aG6vVpS_XAzmD3-dhKGwk=w36-h36-p-c0x00000000-rp-mo-ba2-br100",
+      "comment": "Eu amava brincar no Bosque. Agora levo minha filha e sobrinho. Lugar lindo para tirar fotos e deixar a criançada brincar a vontade.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Laryssa",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucrFZfhADpqkgbqhu4ijvYZgcTZFU7ZKLhi3TACL=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "Lugar tranquilo mais pra quem tem criança pequena ou quer fazer uma caminhada ou exercício. Menos movimento durante a semana. Bom para Caçar pokemons",
+      "gradeComment": 4
+    },
+    {
+      "author": "Gabriel Martis",
+      "photoAuthor": "https://lh3.googleusercontent.com/a/AItbvmlctXVtREbojAaM6aZvTdFEP_7paICWEjPQySGH=w36-h36-p-c0x00000000-rp-mo-ba3-br100",
+      "comment": "Lugar ar puro agradável, e ainda por cima voltamos ao passado com a locomotiva que tem no bosque.",
+      "gradeComment": 4
+    }
+  ],
+  "peakHours": [
+    {
+      "Sunday": [
+        {
+          "hour": "07:00",
+          "percent": 2
+        },
+        {
+          "hour": "08:00",
+          "percent": 7
+        },
+        {
+          "hour": "09:00",
+          "percent": 24
+        },
+        {
+          "hour": "10:00",
+          "percent": 50
+        },
+        {
+          "hour": "11:00",
+          "percent": 65
+        },
+        {
+          "hour": "12:00",
+          "percent": 56
+        },
+        {
+          "hour": "13:00",
+          "percent": 44
+        },
+        {
+          "hour": "14:00",
+          "percent": 59
+        },
+        {
+          "hour": "15:00",
+          "percent": 84
+        },
+        {
+          "hour": "16:00",
+          "percent": 81
+        },
+        {
+          "hour": "17:00",
+          "percent": 49
+        }
+      ]
+    },
+    {
+      "Monday": [
+        {
+          "hour": "06:00",
+          "percent": 4
+        },
+        {
+          "hour": "07:00",
+          "percent": 10
+        },
+        {
+          "hour": "08:00",
+          "percent": 18
+        },
+        {
+          "hour": "09:00",
+          "percent": 28
+        },
+        {
+          "hour": "10:00",
+          "percent": 40
+        },
+        {
+          "hour": "11:00",
+          "percent": 51
+        },
+        {
+          "hour": "12:00",
+          "percent": 61
+        },
+        {
+          "hour": "13:00",
+          "percent": 68
+        },
+        {
+          "hour": "14:00",
+          "percent": 71
+        },
+        {
+          "hour": "15:00",
+          "percent": 70
+        },
+        {
+          "hour": "16:00",
+          "percent": 64
+        },
+        {
+          "hour": "17:00",
+          "percent": 54
+        }
+      ]
+    },
+    {
+      "Tuesday": [
+        {
+          "hour": "06:00",
+          "percent": 3
+        },
+        {
+          "hour": "07:00",
+          "percent": 9
+        },
+        {
+          "hour": "08:00",
+          "percent": 19
+        },
+        {
+          "hour": "09:00",
+          "percent": 31
+        },
+        {
+          "hour": "10:00",
+          "percent": 45
+        },
+        {
+          "hour": "11:00",
+          "percent": 58
+        },
+        {
+          "hour": "12:00",
+          "percent": 70
+        },
+        {
+          "hour": "13:00",
+          "percent": 78
+        },
+        {
+          "hour": "14:00",
+          "percent": 83
+        },
+        {
+          "hour": "15:00",
+          "percent": 81
+        },
+        {
+          "hour": "16:00",
+          "percent": 72
+        },
+        {
+          "hour": "17:00",
+          "percent": 57
+        }
+      ]
+    },
+    {
+      "Wednesday": [
+        {
+          "hour": "06:00",
+          "percent": 5
+        },
+        {
+          "hour": "07:00",
+          "percent": 14
+        },
+        {
+          "hour": "08:00",
+          "percent": 27
+        },
+        {
+          "hour": "09:00",
+          "percent": 42
+        },
+        {
+          "hour": "10:00",
+          "percent": 55
+        },
+        {
+          "hour": "11:00",
+          "percent": 63
+        },
+        {
+          "hour": "12:00",
+          "percent": 66
+        },
+        {
+          "hour": "13:00",
+          "percent": 67
+        },
+        {
+          "hour": "14:00",
+          "percent": 70
+        },
+        {
+          "hour": "15:00",
+          "percent": 74
+        },
+        {
+          "hour": "16:00",
+          "percent": 72
+        },
+        {
+          "hour": "17:00",
+          "percent": 62
+        }
+      ]
+    },
+    {
+      "Thursday": [
+        {
+          "hour": "06:00",
+          "percent": 2
+        },
+        {
+          "hour": "07:00",
+          "percent": 9
+        },
+        {
+          "hour": "08:00",
+          "percent": 21
+        },
+        {
+          "hour": "09:00",
+          "percent": 37
+        },
+        {
+          "hour": "10:00",
+          "percent": 52
+        },
+        {
+          "hour": "11:00",
+          "percent": 61
+        },
+        {
+          "hour": "12:00",
+          "percent": 67
+        },
+        {
+          "hour": "13:00",
+          "percent": 72
+        },
+        {
+          "hour": "14:00",
+          "percent": 79
+        },
+        {
+          "hour": "15:00",
+          "percent": 83
+        },
+        {
+          "hour": "16:00",
+          "percent": 76
+        },
+        {
+          "hour": "17:00",
+          "percent": 59
+        }
+      ]
+    },
+    {
+      "Friday": [
+        {
+          "hour": "06:00",
+          "percent": 6
+        },
+        {
+          "hour": "07:00",
+          "percent": 13
+        },
+        {
+          "hour": "08:00",
+          "percent": 22
+        },
+        {
+          "hour": "09:00",
+          "percent": 32
+        },
+        {
+          "hour": "10:00",
+          "percent": 43
+        },
+        {
+          "hour": "11:00",
+          "percent": 52
+        },
+        {
+          "hour": "12:00",
+          "percent": 61
+        },
+        {
+          "hour": "13:00",
+          "percent": 69
+        },
+        {
+          "hour": "14:00",
+          "percent": 77
+        },
+        {
+          "hour": "15:00",
+          "percent": 81
+        },
+        {
+          "hour": "16:00",
+          "percent": 76
+        },
+        {
+          "hour": "17:00",
+          "percent": 62
+        }
+      ]
+    },
+    {
+      "Saturday": [
+        {
+          "hour": "07:00",
+          "percent": 5
+        },
+        {
+          "hour": "08:00",
+          "percent": 22
+        },
+        {
+          "hour": "09:00",
+          "percent": 51
+        },
+        {
+          "hour": "10:00",
+          "percent": 83
+        },
+        {
+          "hour": "11:00",
+          "percent": 100
+        },
+        {
+          "hour": "12:00",
+          "percent": 93
+        },
+        {
+          "hour": "13:00",
+          "percent": 81
+        },
+        {
+          "hour": "14:00",
+          "percent": 84
+        },
+        {
+          "hour": "15:00",
+          "percent": 96
+        },
+        {
+          "hour": "16:00",
+          "percent": 87
+        },
+        {
+          "hour": "17:00",
+          "percent": 55
+        }
+      ]
+    }
+  ],
+  "relatedSearches": [
+    "bosque bauru horário de funcionamento",
+    "bosque do parque união bauru",
+    "o que fazer em bauru a noite",
+    "passeio a cavalo bauru",
+    "atividades gratuitas em bauru",
+    "centro de bauru está aberto hoje",
+    "lugares baratos para ir em bauru",
+    "final de semana em bauru"
+  ],
+  "relateds": [
+    {
+      "mainName": "Pinacoteca Municipal de Bauru - Casa Ponce Paz",
+      "url": null
+    },
+    {
+      "mainName": "Jardim Botânico Municipal de Bauru",
+      "url": null
+    },
+    {
+      "mainName": "Pinacoteca Municipal de Bauru",
+      "url": null
+    },
+    {
+      "mainName": "Parque Zoológico Municipal de Bauru",
+      "url": null
+    },
+    {
+      "mainName": "Museu Ferroviário Regional de Bauru",
+      "url": null
+    },
+    {
+      "mainName": "MHISB Museu Historico de Bauru",
+      "url": null
+    },
+    {
+      "mainName": "Catedral do Divino Espírito Santo",
+      "url": null
+    },
+    {
+      "mainName": "Calçadão da Batista",
+      "url": null
+    },
+    {
+      "mainName": "Parque Vitória Régia",
+      "url": null
+    },
+    {
+      "mainName": "Edifício do Automóvel Clube de Bauru",
+      "url": null
+    },
+    {
+      "mainName": "Museu do Café de Piratininga",
+      "url": null
+    },
+    {
+      "mainName": "Igreja Tenrikyo Dendotyo",
+      "url": null
+    },
+    {
+      "mainName": "Sesc Bauru",
+      "url": null
+    }
+  ]
+}

@@ -1,0 +1,562 @@
+{
+  "mainName": "Mercado Municipal de Pinheiros",
+  "slug": "mercado-municipal-de-pinheiros",
+  "category": "Mercado",
+  "locationInformation": {
+    "latitude": "-23.5656709",
+    "longitude": "-46.6926295"
+  },
+  "basicInformation": [
+    {
+      "label": "endereço",
+      "tooltip": "Copiar endereço",
+      "text": "R. Pedro Cristi, 89 - Pinheiros, São Paulo - SP, 05421-040",
+      "icon": "https://www.gstatic.com/images/icons/material/system_gm/1x/place_gm_blue_24dp.png"
+    },
+    {
+      "label": "website",
+      "tooltip": "Abrir website",
+      "text": "mercadomunicipaldepinheiros.com",
+      "icon": "https://www.gstatic.com/images/icons/material/system_gm/1x/public_gm_blue_24dp.png"
+    },
+    {
+      "label": "telefone",
+      "tooltip": "Copiar número de telefone",
+      "text": "(11) 3032-3551",
+      "icon": "https://www.gstatic.com/images/icons/material/system_gm/1x/phone_gm_blue_24dp.png"
+    },
+    {
+      "label": "Code",
+      "tooltip": "Copiar Plus Code",
+      "text": "C8M4+PW São Paulo, SP",
+      "icon": "https://maps.gstatic.com/mapfiles/maps_lite/images/2x/ic_plus_code.png"
+    }
+  ],
+  "ratingInformation": {
+    "basicRatingInformation": {
+      "averageGrade": 4.3,
+      "totalOfEvaluations": 11606
+    },
+    "ratingsByGrade": [
+      {
+        "grade": 5,
+        "totalRatings": 6508
+      },
+      {
+        "grade": 4,
+        "totalRatings": 3251
+      },
+      {
+        "grade": 3,
+        "totalRatings": 1354
+      },
+      {
+        "grade": 2,
+        "totalRatings": 262
+      },
+      {
+        "grade": 1,
+        "totalRatings": 231
+      }
+    ]
+  },
+  "ratingTags": [
+    {
+      "tag": "restaurantes",
+      "count": 437,
+      "tooltip": "restaurantes, mencionado em 437 avaliações"
+    },
+    {
+      "tag": "almoço",
+      "count": 198,
+      "tooltip": "almoço, mencionado em 198 avaliações"
+    },
+    {
+      "tag": "mocotó",
+      "count": 72,
+      "tooltip": "mocotó, mencionado em 72 avaliações"
+    },
+    {
+      "tag": "ceviche",
+      "count": 59,
+      "tooltip": "ceviche, mencionado em 59 avaliações"
+    },
+    {
+      "tag": "cereais",
+      "count": 44,
+      "tooltip": "cereais, mencionado em 44 avaliações"
+    },
+    {
+      "tag": "a granel",
+      "count": 34,
+      "tooltip": "a granel, mencionado em 34 avaliações"
+    },
+    {
+      "tag": "castanhas",
+      "count": 33,
+      "tooltip": "castanhas, mencionado em 33 avaliações"
+    },
+    {
+      "tag": "pizza napolitana",
+      "count": 15,
+      "tooltip": "pizza napolitana, mencionado em 15 avaliações"
+    },
+    {
+      "tag": "sanduíche de mortadela",
+      "count": 7,
+      "tooltip": "sanduíche de mortadela, mencionado em 7 avaliações"
+    }
+  ],
+  "featuredPhotos": [
+    "https://lh5.googleusercontent.com/p/AF1QipO99IeqgiXIR5lXamJnOnLoNDIMGaL9oYtqRycq=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOKxmWmv3aoW7rJ7NyO8GqX45gfiVZb2NyZWzWU=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNdXTgoZWDQe_IclJnc5KSVyIhcVV63F6UMsIoH=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPxvBSlRPDGNrK9ZsQzANhFYdoXDfh53KlweVGK=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNvpTm5lv408zIWvkSXbinEispM438iab3Me-WW=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipM8c5gFC5kTC54Lc9Yt7Rjpl5HwhMWTskJUyHMq=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOGDt1O86Kjy_sjb4Jfd8fYFJvWBcTFAy2tELDn=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMb_pMAon6WElLjtTeJETWRb7eF4YpyM4TsZLet=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOYfLQNS8kqAXarIX5J_MQf8wJVev4PwWLhZQ7Q=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipM9ZG0iktOj-b6NSi8V_WnUyWQQbxSmfj3SxIuu=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMWJgRcxE8Y5-N37LK8VYaV2-T_uKAPqFt_kXfY=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNoULSi9JBaT3SgESNVy5OgEJGiaQcPXa6BgwIG=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNpI4Slauh_zm1JGo-KX0r_aMfqTaAEafPyJL8p=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNkv13GvQFNHUFk2FCaRyLSpWXDE3qGlhw4ekeI=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPxoOJV71CJX9t2Is2-I41TdHrSD2UD3OarmLUs=w1024-h576-k-no"
+  ],
+  "topComments": [
+    {
+      "author": "Cadu Crestana",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucone6xid3TQlSagKZoh5ap15WYh3tRFc6pCCOOMLhk=w36-h36-p-c0x00000000-rp-mo-ba5-br100",
+      "comment": "Tradicional mercado municipal,  foi restaurado e revitalizado há alguns anos, transformando-se em local agradável para almoço ou aperitivo, principalmente aos finais de semana.  É possível comprar um vinho na adega do mercado, e pegar pratos para compartilhar nos restaurantes do mercado.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Ricardo Comissoli",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucr0SBZdpyl6YOdpRUJDHpmxjkAqejkopuagNsXl7Q=w36-h36-p-c0x00000000-rp-mo-ba5-br100",
+      "comment": "Uma das melhores experiências gastronomicas de São Paulo. Tanto para quem busca ingredientes frescos quanto para aqueles que desejam saborear um prato pronto em seus restaurantes. Ampla variedade de horti-frutis, carnes, peixes, queijos e temperos. Estacionamento no local. Destaque para a arquitetura do mercado. Uma visita imperdível!",
+      "gradeComment": 5
+    },
+    {
+      "author": "Barbara",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucq3eIzuamoTy2yzeT0v2rZ87h7frsa8K_UbDJgcbrs=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "Adorei!! Fica no meio  da cidade e conta com estacionamento, tem muita variedade em frutas, legumes,  queijos e produtos bem chic e gourmet. Também conta com área para almoçar,  com variedade em opções gastronômicas, com certeza  recomendo passar e conhecer,  você vai adorar. Também tem uma loja de flores maravilhosa vai dar uma olhadinha.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Marisa Jose",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucq-mXV3U8C6DCghZ1jSf3i-9ssaWFyEPfpp9Md-iQ=w36-h36-p-c0x00000000-rp-mo-ba7-br100",
+      "comment": "Irmão do Mercadão do centro, ele é menor, mais aconchegante e tranquilo…. Pelos 3 pavimentos é possível encontrar hortifruti, Acougue, peixaria, queijaria, artesanato, etc, etc…. O estacionamento também é mais barato e a possibilidade de cada um pegar comida de restaurante diferente e compartilhar uma mesa ao ar livre não tem preço!!!! Muito bom",
+      "gradeComment": 4
+    },
+    {
+      "author": "André Rubens",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucpSRarHMEwIvb5gkdlyJs1-MZ4lBsAGL2pb_bXA=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "Eu já morei por quase um ano em Pinheiros e somente 10 anos após, eu visitei o mercado municipal do bairro. Poderia ter tomado muito mais vantagem do sortimento de fornecimento de alimentos selecionados, diversificados por região do país e culinária, e dos espaços gastronômicos bem bacanas que agora estão por lá. Gostei.",
+      "gradeComment": 4
+    },
+    {
+      "author": "JB Hurdington",
+      "photoAuthor": "https://lh3.googleusercontent.com/a/AItbvmnFwY9dVM3UUVxK08Zn4r8KHUqeNCuCrfQGLps0=w36-h36-p-c0x00000000-rp-mo-ba5-br100",
+      "comment": "Mercado com ótimos produtos in natura. Conta também com uma casa especializada em produtos para feijoada. Aproveite para almoçar no café Mocotó.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Adriana Costa Santos Cezario",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucriTvzwJO8QzCSMKxVJgzSgc9f_feq9bQCinUFImw=w36-h36-p-c0x00000000-rp-mo-ba3-br100",
+      "comment": "Lugar que eu indico pra passear, fazer compras e comer bem é no mercadão de pinheiros grande variedades de grãos, queijos, frutas secas, peixaria, carnes exóticas, hortifrut com tudo fresquinho, Orgânicos...fora os restaurantes deliciosos 😋 uma boa pedida pro almoço com a família ou amigos,pois tem lugar ao ar livre pra sentar tomar a sua bebida favorita, comer aquela ostra ou pizza favorita 😍 no domingo só é aberto os restaurantes.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Bruno Oliveira",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucoFGgLFK8SJA5XspeniioziJRqW1MUfWBTs1g82nEE=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "Lugar pequeno perto do mercado Municipal de São Paulo mas muito aconchegante. Boa gastronomia...",
+      "gradeComment": 5
+    },
+    {
+      "author": "Gabi Villarino",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucoZwYaFQbMP3LD0jajekTNINum_ByfZcNpglwIKSwY=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "Mercado de Pinheiros na parte de baixo funciona como um mercado de hortaliças e produtos regionais, cereais e embutidos e em cima como um mercado de carnes e restaurantes variados. Muito legal a visita. Possui estacionamento pago e fica bem perto do metrô.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Vitor Fornaro",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucqQouf5jCvKhRc7LDfIH2Bz1drwaEwJ_zbYe2xAdbE=w36-h36-p-c0x00000000-rp-mo-ba2-br100",
+      "comment": "Muito bom, você pode vir fazer suas compras e ainda desfrutar de uma boa cerveja ou refeição ao ar livre",
+      "gradeComment": 5
+    },
+    {
+      "author": "Felipe Costa",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucpP58Ww0j9I44T-_ayRDnIJXn5eZffGlawQEoZP7mQ=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "Mercado público em dimensões que atendem ao bairro. Completo. É possível encontrar frutas, legumes, verduras, carnes, peixes, frutos do mar, laticínios e aviários, além de flores e outros produtos. Para quem deseja apenas fazer um passeio na região, os restaurantes que ele abriga são de alta qualidade. Vale muito a ida a esse espaço que deveria ter em cada bairro.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Wisley Matarezio",
+      "photoAuthor": "https://lh3.googleusercontent.com/a/AItbvmkpb17vvXQp2z28U1pIArujiAbv7zMNZQSWDaf8=w36-h36-p-c0x00000000-rp-mo-ba3-br100",
+      "comment": "Fui domingo, apenas alguns restaurantes abertos, mas com boas opções,  ambiente grande e arejado com mesas fora, sem aglomeração",
+      "gradeComment": 5
+    },
+    {
+      "author": "Marilia Rocha Bertolli",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucqAj0mgnr9CdfFmhj6merGFFC2-iDL2udmbmKFhsQ=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "Gosto da vibe e das opções de restaurantes. Gostaria de ver mais opções veggies nos restaurantes. Da pra comprar algumas coisinhas a granel, ainda que o preço seja mais alto...",
+      "gradeComment": 4
+    },
+    {
+      "author": "Renann Matthaues",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucpByE_rwo4QpBfJTXON6PYYKGqmmbV_uWzTp3QAmA=w36-h36-p-c0x00000000-rp-mo-ba3-br100",
+      "comment": "Desde muitos anos este mercadão estava em Pinheiros, em um local de fácil acesso, tem ótimos produtos, funcionários dedicados por atender bem, há um excelente sanduíche de mortadela também tipo aquele do mercadão do centro, mas à muita variedade também, de pessoas que entram e sai e demais, de várias coisas legais para se ver, tem aqueles corredores estreitos que as pessoas circulam que se torna um marco legal do ambiente, o cheiro dos peixes que são vendidos, as bolachas que se encontram lá huuum deliciosas, a estrutura é tão legal que de fora parece não ser grande mais é muito grande, os preços variam não posso dizer que está caro ou barato vai de acordo com a oferta e demanda, diferente claro de supermercados, qualquer pessoa pode chegar no mercadão de Pinheiros, há ônibus de diversos bairros em volta e o metrô faria lima está à 50 metros não exatamente, eu super recomendo conhecer lá e visitar, vão adorar sou morador da região e ali é pico antigo do bairro, vão por min vão gostar sim para aqueles que não conhecem, é um lugar que até cabe uma foto kkkkkk, muito valorizado e revitalizado desde anos e anos atrás.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Nico PELE (Nico do Brasil)",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucr7iWqRVcH_K4F8yuT2WClCPKoB56kcgJWZF42xRQA=w36-h36-p-c0x00000000-rp-mo-ba3-br100",
+      "comment": "Lugar muito legal para conhecer produtos do Brasil inteiro e parar para comer uma coisa boa no 1o andar",
+      "gradeComment": 5
+    },
+    {
+      "author": "Dallary Mendes",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucoPNy2k6_IOIdXc5uGz1KgiNXA91JJ2LFtIy2ZxuS4=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "Experiência sensacional. Produtos selecionados e restaurantes fabulosos! parabéns 👏👏",
+      "gradeComment": 5
+    },
+    {
+      "author": "Cláudia Ricci",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucorbSjmgU7UilteH0YVFSevGhanY4e1tRSIUddS=w36-h36-p-c0x00000000-rp-mo-ba7-br100",
+      "comment": "É bem pequeno mas super simpático. Tem alguns botecos e restaurantes. Senti cheiro forte na parte superior onde vendem carnes.",
+      "gradeComment": 4
+    },
+    {
+      "author": "Renato Vieira Brandão",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucoqTD9Q-I8XxVDMFW6Kx7HHD2ovGqQnPkzmvDZZLg=w36-h36-p-c0x00000000-rp-mo-br100",
+      "comment": "Uma ótima opção para quem procura produtos de qualidade. Principalmente no box do “entreposto das feijoadas”.",
+      "gradeComment": 5
+    },
+    {
+      "author": "João Paulo Oliveira",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucqZsRHcfwm-U9ixeHxJGvZpoC1dtkKJcBR3dcLccQ=w36-h36-p-c0x00000000-rp-mo-br100",
+      "comment": "Fui até ao mercado municipal comer pastel combo meu pai.  Após a última reforma, o local ficou muito mais bonito,  com decks ao redor para você poder fazer sua refeição,  bem bacana.  Ainda tem boxes vazios , mas assim que estiverem todos ocupados, a variedade para nós clientes será muito melhor. Vale a pena ir tomar um Vinho ou Chop e fazer uma bela refeição.",
+      "gradeComment": 4
+    },
+    {
+      "author": "Luis Edgard Aires",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucq9q3w3RH9K4jcVbSQ3mL2Ejvozv105Lj41cW1IH3E=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "Há muito tempo não visitava.  Esta muito bom, limpo e acolhedor. Em todos os box a atenção dada pelos atendentes é muito grande. Não é um mercado grande, mas tem uma variedade de produtos muito boa, como carnes especiais (cordeiro, pato), queijos sensacionais. Se for com fome, vá com dinheiro, pq lá não dá pra ficar só olhando.",
+      "gradeComment": 5
+    }
+  ],
+  "peakHours": [
+    {
+      "Sunday": []
+    },
+    {
+      "Monday": [
+        {
+          "hour": "08:00",
+          "percent": 22
+        },
+        {
+          "hour": "09:00",
+          "percent": 33
+        },
+        {
+          "hour": "10:00",
+          "percent": 44
+        },
+        {
+          "hour": "11:00",
+          "percent": 54
+        },
+        {
+          "hour": "12:00",
+          "percent": 63
+        },
+        {
+          "hour": "13:00",
+          "percent": 68
+        },
+        {
+          "hour": "14:00",
+          "percent": 68
+        },
+        {
+          "hour": "15:00",
+          "percent": 64
+        },
+        {
+          "hour": "16:00",
+          "percent": 56
+        },
+        {
+          "hour": "17:00",
+          "percent": 45
+        }
+      ]
+    },
+    {
+      "Tuesday": [
+        {
+          "hour": "08:00",
+          "percent": 28
+        },
+        {
+          "hour": "09:00",
+          "percent": 40
+        },
+        {
+          "hour": "10:00",
+          "percent": 52
+        },
+        {
+          "hour": "11:00",
+          "percent": 64
+        },
+        {
+          "hour": "12:00",
+          "percent": 73
+        },
+        {
+          "hour": "13:00",
+          "percent": 78
+        },
+        {
+          "hour": "14:00",
+          "percent": 77
+        },
+        {
+          "hour": "15:00",
+          "percent": 72
+        },
+        {
+          "hour": "16:00",
+          "percent": 62
+        },
+        {
+          "hour": "17:00",
+          "percent": 50
+        }
+      ]
+    },
+    {
+      "Wednesday": [
+        {
+          "hour": "08:00",
+          "percent": 24
+        },
+        {
+          "hour": "09:00",
+          "percent": 35
+        },
+        {
+          "hour": "10:00",
+          "percent": 48
+        },
+        {
+          "hour": "11:00",
+          "percent": 60
+        },
+        {
+          "hour": "12:00",
+          "percent": 70
+        },
+        {
+          "hour": "13:00",
+          "percent": 76
+        },
+        {
+          "hour": "14:00",
+          "percent": 77
+        },
+        {
+          "hour": "15:00",
+          "percent": 72
+        },
+        {
+          "hour": "16:00",
+          "percent": 63
+        },
+        {
+          "hour": "17:00",
+          "percent": 51
+        }
+      ]
+    },
+    {
+      "Thursday": [
+        {
+          "hour": "08:00",
+          "percent": 28
+        },
+        {
+          "hour": "09:00",
+          "percent": 41
+        },
+        {
+          "hour": "10:00",
+          "percent": 53
+        },
+        {
+          "hour": "11:00",
+          "percent": 63
+        },
+        {
+          "hour": "12:00",
+          "percent": 71
+        },
+        {
+          "hour": "13:00",
+          "percent": 77
+        },
+        {
+          "hour": "14:00",
+          "percent": 80
+        },
+        {
+          "hour": "15:00",
+          "percent": 79
+        },
+        {
+          "hour": "16:00",
+          "percent": 70
+        },
+        {
+          "hour": "17:00",
+          "percent": 56
+        }
+      ]
+    },
+    {
+      "Friday": [
+        {
+          "hour": "08:00",
+          "percent": 29
+        },
+        {
+          "hour": "09:00",
+          "percent": 43
+        },
+        {
+          "hour": "10:00",
+          "percent": 57
+        },
+        {
+          "hour": "11:00",
+          "percent": 70
+        },
+        {
+          "hour": "12:00",
+          "percent": 79
+        },
+        {
+          "hour": "13:00",
+          "percent": 84
+        },
+        {
+          "hour": "14:00",
+          "percent": 83
+        },
+        {
+          "hour": "15:00",
+          "percent": 77
+        },
+        {
+          "hour": "16:00",
+          "percent": 67
+        },
+        {
+          "hour": "17:00",
+          "percent": 54
+        }
+      ]
+    },
+    {
+      "Saturday": [
+        {
+          "hour": "08:00",
+          "percent": 28
+        },
+        {
+          "hour": "09:00",
+          "percent": 45
+        },
+        {
+          "hour": "10:00",
+          "percent": 62
+        },
+        {
+          "hour": "11:00",
+          "percent": 78
+        },
+        {
+          "hour": "12:00",
+          "percent": 90
+        },
+        {
+          "hour": "13:00",
+          "percent": 98
+        },
+        {
+          "hour": "14:00",
+          "percent": 100
+        },
+        {
+          "hour": "15:00",
+          "percent": 91
+        },
+        {
+          "hour": "16:00",
+          "percent": 74
+        },
+        {
+          "hour": "17:00",
+          "percent": 53
+        }
+      ]
+    }
+  ],
+  "relatedSearches": [
+    "restaurantes mercado de pinheiros",
+    "mercado municipal de pinheiros açougue",
+    "peixaria mercado municipal de pinheiros",
+    "mercado municipal de pinheiros projeto",
+    "pizzaria no mercado municipal de pinheiros",
+    "mercado de pinheiros telefone",
+    "mercado de pinheiros estacionamento",
+    "lojas mercado municipal sp"
+  ],
+  "relateds": [
+    {
+      "mainName": "Mercado Municipal de São Paulo",
+      "url": null
+    },
+    {
+      "mainName": "Mercado Municipal da Penha",
+      "url": null
+    },
+    {
+      "mainName": "Praça Pôr do Sol",
+      "url": null
+    },
+    {
+      "mainName": "Faria Lima",
+      "url": null
+    },
+    {
+      "mainName": "Pinheiros",
+      "url": null
+    },
+    {
+      "mainName": "Instituto Tomie Ohtake",
+      "url": null
+    },
+    {
+      "mainName": "Edifício Copan",
+      "url": null
+    },
+    {
+      "mainName": "Zona Central de São Paulo",
+      "url": null
+    }
+  ]
+}

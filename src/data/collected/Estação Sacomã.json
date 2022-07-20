@@ -1,0 +1,990 @@
+{
+  "mainName": "Estação Sacomã",
+  "slug": "estacao-sacoma",
+  "category": "Estação de metrô",
+  "locationInformation": {
+    "latitude": "-23.60162",
+    "longitude": "-46.60306"
+  },
+  "basicInformation": [
+    {
+      "label": "endereço",
+      "tooltip": "Copiar endereço",
+      "text": "Praça Altemar Dutra - Ipiranga, São Paulo - SP, 04203-053",
+      "icon": "https://www.gstatic.com/images/icons/material/system_gm/1x/place_gm_blue_24dp.png"
+    },
+    {
+      "label": "website",
+      "tooltip": "Abrir website",
+      "text": "metro.sp.gov.br",
+      "icon": "https://www.gstatic.com/images/icons/material/system_gm/1x/public_gm_blue_24dp.png"
+    },
+    {
+      "label": "Code",
+      "tooltip": "Copiar Plus Code",
+      "text": "99XW+9Q São Paulo, SP",
+      "icon": "https://maps.gstatic.com/mapfiles/maps_lite/images/2x/ic_plus_code.png"
+    }
+  ],
+  "ratingInformation": {
+    "basicRatingInformation": {
+      "averageGrade": 4.2,
+      "totalOfEvaluations": 422
+    },
+    "ratingsByGrade": [
+      {
+        "grade": 5,
+        "totalRatings": 218
+      },
+      {
+        "grade": 4,
+        "totalRatings": 124
+      },
+      {
+        "grade": 3,
+        "totalRatings": 53
+      },
+      {
+        "grade": 2,
+        "totalRatings": 10
+      },
+      {
+        "grade": 1,
+        "totalRatings": 17
+      }
+    ]
+  },
+  "ratingTags": [
+    {
+      "tag": "organizada",
+      "count": 17,
+      "tooltip": "organizada, mencionado em 17 avaliações"
+    },
+    {
+      "tag": "terminal de ônibus",
+      "count": 15,
+      "tooltip": "terminal de ônibus, mencionado em 15 avaliações"
+    },
+    {
+      "tag": "segurança",
+      "count": 12,
+      "tooltip": "segurança, mencionado em 12 avaliações"
+    },
+    {
+      "tag": "infraestrutura",
+      "count": 9,
+      "tooltip": "infraestrutura, mencionado em 9 avaliações"
+    },
+    {
+      "tag": "banheiro",
+      "count": 8,
+      "tooltip": "banheiro, mencionado em 8 avaliações"
+    },
+    {
+      "tag": "catracas",
+      "count": 6,
+      "tooltip": "catracas, mencionado em 6 avaliações"
+    },
+    {
+      "tag": "horário de pico",
+      "count": 6,
+      "tooltip": "horário de pico, mencionado em 6 avaliações"
+    },
+    {
+      "tag": "limpeza",
+      "count": 6,
+      "tooltip": "limpeza, mencionado em 6 avaliações"
+    },
+    {
+      "tag": "região",
+      "count": 5,
+      "tooltip": "região, mencionado em 5 avaliações"
+    },
+    {
+      "tag": "educados",
+      "count": 5,
+      "tooltip": "educados, mencionado em 5 avaliações"
+    }
+  ],
+  "featuredPhotos": [
+    "https://lh5.googleusercontent.com/p/AF1QipOJXELt4sHXgK98EKyL1BH76HRftJDTJNGqVT_j=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOTUejVJyNMmxKmXuCpOvL9Ee2Fhh3VhJtov17E=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNTOpve8WAYpkKBbENDpWt2u__bdT7rwX5vEO1I=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMU3teNvum3-BTNePpivsvYXT-SIc2RsbXutPsV=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPxUaZYz7q0soxu_2jqpM6FUPIXG6OIsd1gVU6O=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipO9WIsR4qXbvwUrdwFXKb50rNj9P3_ZMWZ3IcLW=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNTmAy9bfsEGjfqQcSFHNmUODqWjgDpVNkho5ha=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipM65DVq8SuSmmDXzH4YgDxrX9KdPTqpLxhPLaAI=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNUhZzZ3qWgTCGnYepB52GdJmZWpVub_qSb1OKH=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipM6J78l7uPKyBV9DwUnJh9RT7tXEFw0iOZ_WMxC=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOxPQ8wNy2qWPw6WJtbg26gFfGJpCHfz3Gyx8rM=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOtgl15Kfbri7l0WjDRmrsRrP9HDc6IQX82aLyK=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOMXYf6awx08xFT0PlRHP64JQ0VJOW6Z4vDu8j-=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNGO07-KizIQ2k7EonZ4ctyrbW4XgtzYiYNjIHL=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMTMZrlG_aYsOJPR3e8VNrK6QTuQY5ujLqcFYD2=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPvYPzRAytfUhJq5lIDpSzsWa5C_ouCZ6ntUP9v=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOiR5C4PDBjgmLQD-V2Vh0xFMSNsrp6pLQBE2qA=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMG4bldJOchjvX55zLtldUguPA5Py1FTgT6V_mj=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMDgW_XrEvmGZa7ri3i8JvxC807UuSAKBIVnZ0=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNjtCUaBwHoSoFMAAclpvROtUUogyvwvuxrusA1=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNZJ2c9rMjjHsS8nOirQjbvUWWyc60Vh7qTwVqo=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPQFT6OvudT2GrUAtttNzk3AEKl1xUnvDUf3AEx=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOCRGfZHzyBOWtssthVtaZMk4-M8EHUuC4KkxO5=w1024-h576-k-no"
+  ],
+  "topComments": [
+    {
+      "author": "Adriana Martins",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucp25GBG0y0SpYu60SjlM54pN_BcsJ7onWlFntpRBg=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "Sempre frequento essa estação e acho bastante tranquila. Porém, a última vez eu tive problemas para comprar a passagem nas máquinas da top. Nenhuma estava funcionando.",
+      "gradeComment": 4
+    },
+    {
+      "author": "Gilson BMX 4ever",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucoHiqplz9TbmDDig21jPvuxyZj0Ge_Us7Bdvi7trDs=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "Limpa, organizada unica coisa ruim é nos finais de semana logo cedo muita vem do baile funk de Heliópolis aí já viu, muita bagunça fora da estação depois que passam as catracas normalmente nas plataformas começam a bagunça invasão dos trens uma bagunça geral na estação os seguranças limitam a quantidade de catracas para entrar se não seria uma bagunça ainda maior deveria ter segurança do metrô nas plataformas e nos trens nesse dias",
+      "gradeComment": 5
+    },
+    {
+      "author": "VitorHenrique - PE Teacher",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucrJ-REU03Evcq_Yxmcnp3imrl27ZUXwXqqRzhJrDjU=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "Quando eu cheguei, tudo isso aqui era mato. A linha verde tinha acabado de chegar ao Alto do Ipiranga, ou foi mais ou menos na época que comecei a sair e ver a rua por mim mesmo. No lugar do terminal Sacomã, um brejo esquecido. Onde hoje é o metrô, moradias antigas. O Ipiranga é um bairro antigo. Agora, aguardamos ansiosos a expansão do metrô para a Via Anchieta, mas isso meus filhos que vão ver.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Mariano P. Sousa",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucrw0KqKt4bdZzMzAUb4LcPHs6lhg2EKp5RyjWBLQA=w36-h36-p-c0x00000000-rp-mo-ba5-br100",
+      "comment": "Uma estação bem estruturada e em im local perto de tudo no bairro.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Herison Santana",
+      "photoAuthor": "https://lh3.googleusercontent.com/a/AItbvmm9e6M6oVixpkkb0gUlP2rbCRU_cA0GtWtcR6h-=w36-h36-p-c0x00000000-rp-mo-br100",
+      "comment": "É  um lugar bonito,más  de sexta-feira à  domingo de manhã  parece baile funk, muito mulecada sem mascara,eles fecham a passagem  das catracas,ficam um monte  dentro do banheiro zoando no elevador,ai quem é  prejudicado é  o trabalhador ,os funcionários desligam a escada rolante  e agente q tem q subir varios degraus ,quero ver quanto vão  tomar uma atividade  pra resolver  a situação  porque  ja faz  mais de três  mês,",
+      "gradeComment": 2
+    },
+    {
+      "author": "Fabiana alvares",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucqmeOLHxdeJ9i2tpPx9IqMg5u7UNZ-szyIvowqI=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "Achei que já foi mais segura ! Me senti com medo a última vez de ser assaltada",
+      "gradeComment": 3
+    },
+    {
+      "author": "jose Deusdedit",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucoiXUt4VhiBQujqp6_3ABXP6F56UUTamOuQIjKAMQ=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "Muito limpa ,bom atendimento achei bom o ambiente na estação sacomã",
+      "gradeComment": 5
+    },
+    {
+      "author": "Memória Corintiana",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucofJj6x9esOTj2jaID1TeBSun_7xw6zLk3pGN0Cgg=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "Muito bonita a estação, bem planejada, com porta de segurança entre a espera do pessegueiro até o vagão do metrô.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Marcos Y. Yamada",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucp8RuC1CVV5nJtj0I4GyUn6JxXDxUJHyVQNtbEOcY4=w36-h36-p-c0x00000000-rp-mo-ba7-br100",
+      "comment": "Estação da linha 2 - Verde do Metrô de São Paulo que conta com o terminal de ônibus do Sacomã. Sempre com movimento.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Raquel Araújo",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucqF5l0TVKthJOmAt7aAM14iDFfnfuwQZj7vs0NhSRg=w36-h36-p-c0x00000000-rp-mo-br100",
+      "comment": "Olá pessoal é seguro andar ao em torno dessa estação ? A linha é mais demorada aos domingos ?",
+      "gradeComment": 1
+    },
+    {
+      "author": "Edison Cunico",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZuco5-pf5r8SG40iUhJGfzraT-8aYURVyN_d6zqLH=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "Muito acessível de fácil trânsito entre as catracas.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Professor José Dias",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucrrNB-ooMoAxVsr0OvdvVR2WDTHyg329XGZ67IeXKE=w36-h36-p-c0x00000000-rp-mo-ba5-br100",
+      "comment": "Estação bem localizada e integrada ao Terminal Sacomã. Como poucas estações de metrô, tem portas automáticas, que evitam acidentes.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Robson Rodrigues",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucr_R5jEfCSQ6COhGUxms6uZ-GkzToaqXOJOgXY4=w36-h36-p-c0x00000000-rp-mo-ba2-br100",
+      "comment": "Dá acesso às principais vias da região. Próximo tem locais onde pode comer lanches ou almoço. Tem uma limpeza. Os funcionários sempre foram solicítos. O que acho um pouco ruim é a entrada pois é pequena e estreita q pode ter aglomerações principalmente em horário de pico.",
+      "gradeComment": 3
+    },
+    {
+      "author": "Cláudio Urushima",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucoju4Tdbny-glUeqPFVqUZmAwAePgiRWZ0D4UyBrQ=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "Estação pertence a linha 2 - verde do metro. Acesso ao terminal sacomã e expresso Tiradentes. Contém sanitários, acesso para pessoas com deficiência.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Guido R. Stacchini",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucqTqzurwQe61-Moq6WdP4YPQa7nqPN_FHLxlaU1=w36-h36-p-c0x00000000-rp-mo-ba3-br100",
+      "comment": "Limpo fácil acesso as saídas, bem iluminado e com lojas diversas em seu interior",
+      "gradeComment": 5
+    },
+    {
+      "author": "Salatiel Lopes",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucokNhUYQi96LOY_DF_TGqxq3rZfnb-csX43LNh2HQ=w36-h36-p-c0x00000000-rp-mo-ba3-br100",
+      "comment": "Alguém poderia dar um treinamento para os atendentes do guichê do terminal sarcomã? Comprar bilhetes não demora, mas aqui cada pessoa fica mais de 5 minutos no guichê esperando as lerdezas.",
+      "gradeComment": 1
+    },
+    {
+      "author": "J.M. Neto",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucqiP_EetC2NwphrfRynsKfMZv-eoJeeFyT0NGI-BFY=w36-h36-p-c0x00000000-rp-mo-ba6-br100",
+      "comment": "Melhor bomba de chocolate que já comi na vida. Ela se compara a da Padaria Brasileira do Bairro Assunção de Santo André.",
+      "gradeComment": 5
+    },
+    {
+      "author": "ragnarok martins",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucq8dUqWY_KvRJTaKEl-LAnzJmrun8jL7ym8v3k20w=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "A estaçao e boa minha unica critica que certos lugares deveria ser mais limpo. Quando voce vem do terminal sacoman descendo a escada a parede da descida da escada estava bem suja.otima segurança",
+      "gradeComment": 5
+    },
+    {
+      "author": "Cristal",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZuco_wiVDtlyZDZT3IrkYssUnalKRuRsOZBC2SJ8W=w36-h36-p-c0x00000000-rp-mo-ba3-br100",
+      "comment": "Bem iluminado, vários lugares pra se sentar , vários funcionários todos bem atenciosos e educados,metrô super rápido,tem algumas lojinhas dentro da estação",
+      "gradeComment": 5
+    },
+    {
+      "author": "Túlio Pedrosa",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucqxgprkdM5H2TWj3S38P1APQ7ghWB1rqiqsmpWgSXQ=w36-h36-p-c0x00000000-rp-mo-ba6-br100",
+      "comment": "Ótima estação com portas nas plataformas e boa arquitetura, com integração para o fura fila.",
+      "gradeComment": 3
+    }
+  ],
+  "peakHours": [
+    {
+      "Sunday": [
+        {
+          "hour": "04:00",
+          "percent": 3
+        },
+        {
+          "hour": "05:00",
+          "percent": 10
+        },
+        {
+          "hour": "06:00",
+          "percent": 16
+        },
+        {
+          "hour": "07:00",
+          "percent": 16
+        },
+        {
+          "hour": "08:00",
+          "percent": 13
+        },
+        {
+          "hour": "09:00",
+          "percent": 11
+        },
+        {
+          "hour": "10:00",
+          "percent": 13
+        },
+        {
+          "hour": "11:00",
+          "percent": 18
+        },
+        {
+          "hour": "12:00",
+          "percent": 21
+        },
+        {
+          "hour": "13:00",
+          "percent": 22
+        },
+        {
+          "hour": "14:00",
+          "percent": 21
+        },
+        {
+          "hour": "15:00",
+          "percent": 20
+        },
+        {
+          "hour": "16:00",
+          "percent": 20
+        },
+        {
+          "hour": "17:00",
+          "percent": 22
+        },
+        {
+          "hour": "18:00",
+          "percent": 22
+        },
+        {
+          "hour": "19:00",
+          "percent": 21
+        },
+        {
+          "hour": "20:00",
+          "percent": 18
+        },
+        {
+          "hour": "21:00",
+          "percent": 13
+        },
+        {
+          "hour": "22:00",
+          "percent": 8
+        },
+        {
+          "hour": "23:00",
+          "percent": 3
+        }
+      ]
+    },
+    {
+      "Monday": [
+        {
+          "hour": "04:00",
+          "percent": 8
+        },
+        {
+          "hour": "05:00",
+          "percent": 31
+        },
+        {
+          "hour": "06:00",
+          "percent": 69
+        },
+        {
+          "hour": "07:00",
+          "percent": 92
+        },
+        {
+          "hour": "08:00",
+          "percent": 78
+        },
+        {
+          "hour": "09:00",
+          "percent": 47
+        },
+        {
+          "hour": "10:00",
+          "percent": 29
+        },
+        {
+          "hour": "11:00",
+          "percent": 27
+        },
+        {
+          "hour": "12:00",
+          "percent": 32
+        },
+        {
+          "hour": "13:00",
+          "percent": 37
+        },
+        {
+          "hour": "14:00",
+          "percent": 41
+        },
+        {
+          "hour": "15:00",
+          "percent": 43
+        },
+        {
+          "hour": "16:00",
+          "percent": 47
+        },
+        {
+          "hour": "17:00",
+          "percent": 67
+        },
+        {
+          "hour": "18:00",
+          "percent": 82
+        },
+        {
+          "hour": "19:00",
+          "percent": 54
+        },
+        {
+          "hour": "20:00",
+          "percent": 27
+        },
+        {
+          "hour": "21:00",
+          "percent": 18
+        },
+        {
+          "hour": "22:00",
+          "percent": 12
+        },
+        {
+          "hour": "23:00",
+          "percent": 7
+        },
+        {
+          "hour": "00:00",
+          "percent": 3
+        },
+        {
+          "hour": "01:00",
+          "percent": 1
+        }
+      ]
+    },
+    {
+      "Tuesday": [
+        {
+          "hour": "04:00",
+          "percent": 7
+        },
+        {
+          "hour": "05:00",
+          "percent": 30
+        },
+        {
+          "hour": "06:00",
+          "percent": 71
+        },
+        {
+          "hour": "07:00",
+          "percent": 100
+        },
+        {
+          "hour": "08:00",
+          "percent": 85
+        },
+        {
+          "hour": "09:00",
+          "percent": 50
+        },
+        {
+          "hour": "10:00",
+          "percent": 31
+        },
+        {
+          "hour": "11:00",
+          "percent": 29
+        },
+        {
+          "hour": "12:00",
+          "percent": 33
+        },
+        {
+          "hour": "13:00",
+          "percent": 38
+        },
+        {
+          "hour": "14:00",
+          "percent": 42
+        },
+        {
+          "hour": "16:00",
+          "percent": 50
+        },
+        {
+          "hour": "17:00",
+          "percent": 69
+        },
+        {
+          "hour": "18:00",
+          "percent": 84
+        },
+        {
+          "hour": "19:00",
+          "percent": 61
+        },
+        {
+          "hour": "20:00",
+          "percent": 31
+        },
+        {
+          "hour": "21:00",
+          "percent": 19
+        },
+        {
+          "hour": "22:00",
+          "percent": 12
+        },
+        {
+          "hour": "23:00",
+          "percent": 7
+        },
+        {
+          "hour": "00:00",
+          "percent": 4
+        },
+        {
+          "hour": "01:00",
+          "percent": 1
+        }
+      ]
+    },
+    {
+      "Wednesday": [
+        {
+          "hour": "04:00",
+          "percent": 7
+        },
+        {
+          "hour": "05:00",
+          "percent": 30
+        },
+        {
+          "hour": "06:00",
+          "percent": 71
+        },
+        {
+          "hour": "07:00",
+          "percent": 99
+        },
+        {
+          "hour": "08:00",
+          "percent": 87
+        },
+        {
+          "hour": "09:00",
+          "percent": 52
+        },
+        {
+          "hour": "10:00",
+          "percent": 31
+        },
+        {
+          "hour": "11:00",
+          "percent": 28
+        },
+        {
+          "hour": "12:00",
+          "percent": 33
+        },
+        {
+          "hour": "13:00",
+          "percent": 38
+        },
+        {
+          "hour": "14:00",
+          "percent": 42
+        },
+        {
+          "hour": "15:00",
+          "percent": 45
+        },
+        {
+          "hour": "16:00",
+          "percent": 51
+        },
+        {
+          "hour": "17:00",
+          "percent": 70
+        },
+        {
+          "hour": "18:00",
+          "percent": 83
+        },
+        {
+          "hour": "19:00",
+          "percent": 64
+        },
+        {
+          "hour": "20:00",
+          "percent": 35
+        },
+        {
+          "hour": "21:00",
+          "percent": 21
+        },
+        {
+          "hour": "22:00",
+          "percent": 14
+        },
+        {
+          "hour": "23:00",
+          "percent": 9
+        },
+        {
+          "hour": "00:00",
+          "percent": 5
+        },
+        {
+          "hour": "01:00",
+          "percent": 2
+        }
+      ]
+    },
+    {
+      "Thursday": [
+        {
+          "hour": "04:00",
+          "percent": 6
+        },
+        {
+          "hour": "05:00",
+          "percent": 28
+        },
+        {
+          "hour": "06:00",
+          "percent": 65
+        },
+        {
+          "hour": "07:00",
+          "percent": 90
+        },
+        {
+          "hour": "08:00",
+          "percent": 77
+        },
+        {
+          "hour": "09:00",
+          "percent": 47
+        },
+        {
+          "hour": "10:00",
+          "percent": 31
+        },
+        {
+          "hour": "11:00",
+          "percent": 30
+        },
+        {
+          "hour": "12:00",
+          "percent": 35
+        },
+        {
+          "hour": "13:00",
+          "percent": 39
+        },
+        {
+          "hour": "14:00",
+          "percent": 43
+        },
+        {
+          "hour": "15:00",
+          "percent": 45
+        },
+        {
+          "hour": "16:00",
+          "percent": 51
+        },
+        {
+          "hour": "17:00",
+          "percent": 67
+        },
+        {
+          "hour": "18:00",
+          "percent": 77
+        },
+        {
+          "hour": "19:00",
+          "percent": 60
+        },
+        {
+          "hour": "20:00",
+          "percent": 33
+        },
+        {
+          "hour": "21:00",
+          "percent": 18
+        },
+        {
+          "hour": "22:00",
+          "percent": 12
+        },
+        {
+          "hour": "23:00",
+          "percent": 7
+        },
+        {
+          "hour": "00:00",
+          "percent": 3
+        },
+        {
+          "hour": "01:00",
+          "percent": 1
+        }
+      ]
+    },
+    {
+      "Friday": [
+        {
+          "hour": "04:00",
+          "percent": 5
+        },
+        {
+          "hour": "05:00",
+          "percent": 25
+        },
+        {
+          "hour": "06:00",
+          "percent": 56
+        },
+        {
+          "hour": "07:00",
+          "percent": 75
+        },
+        {
+          "hour": "08:00",
+          "percent": 63
+        },
+        {
+          "hour": "09:00",
+          "percent": 41
+        },
+        {
+          "hour": "10:00",
+          "percent": 32
+        },
+        {
+          "hour": "11:00",
+          "percent": 34
+        },
+        {
+          "hour": "12:00",
+          "percent": 36
+        },
+        {
+          "hour": "13:00",
+          "percent": 33
+        },
+        {
+          "hour": "14:00",
+          "percent": 32
+        },
+        {
+          "hour": "15:00",
+          "percent": 37
+        },
+        {
+          "hour": "16:00",
+          "percent": 47
+        },
+        {
+          "hour": "17:00",
+          "percent": 55
+        },
+        {
+          "hour": "18:00",
+          "percent": 59
+        },
+        {
+          "hour": "19:00",
+          "percent": 55
+        },
+        {
+          "hour": "20:00",
+          "percent": 46
+        },
+        {
+          "hour": "21:00",
+          "percent": 34
+        },
+        {
+          "hour": "22:00",
+          "percent": 21
+        },
+        {
+          "hour": "23:00",
+          "percent": 11
+        },
+        {
+          "hour": "00:00",
+          "percent": 4
+        }
+      ]
+    },
+    {
+      "Saturday": [
+        {
+          "hour": "04:00",
+          "percent": 4
+        },
+        {
+          "hour": "05:00",
+          "percent": 15
+        },
+        {
+          "hour": "06:00",
+          "percent": 29
+        },
+        {
+          "hour": "07:00",
+          "percent": 38
+        },
+        {
+          "hour": "08:00",
+          "percent": 37
+        },
+        {
+          "hour": "09:00",
+          "percent": 31
+        },
+        {
+          "hour": "10:00",
+          "percent": 28
+        },
+        {
+          "hour": "11:00",
+          "percent": 31
+        },
+        {
+          "hour": "12:00",
+          "percent": 37
+        },
+        {
+          "hour": "13:00",
+          "percent": 40
+        },
+        {
+          "hour": "14:00",
+          "percent": 40
+        },
+        {
+          "hour": "15:00",
+          "percent": 37
+        },
+        {
+          "hour": "16:00",
+          "percent": 35
+        },
+        {
+          "hour": "17:00",
+          "percent": 34
+        },
+        {
+          "hour": "18:00",
+          "percent": 33
+        },
+        {
+          "hour": "19:00",
+          "percent": 31
+        },
+        {
+          "hour": "20:00",
+          "percent": 27
+        },
+        {
+          "hour": "21:00",
+          "percent": 21
+        },
+        {
+          "hour": "22:00",
+          "percent": 15
+        },
+        {
+          "hour": "23:00",
+          "percent": 9
+        },
+        {
+          "hour": "00:00",
+          "percent": 4
+        }
+      ]
+    }
+  ],
+  "relatedSearches": [
+    "estação sacomã mapa",
+    "estação sacomã cep",
+    "estação sacomã endereço",
+    "metrô sacomã rua bom pastor",
+    "quais são as estações da linha verde do metrô",
+    "metrô sacomã até barra funda",
+    "metrô sacomã - rua agostinho gomes - ipiranga, são paulo - sp",
+    "estação tamanduateí"
+  ],
+  "relateds": [
+    {
+      "mainName": "Terminal Sacoma",
+      "url": null
+    },
+    {
+      "mainName": "Alto do Ipiranga",
+      "url": null
+    },
+    {
+      "mainName": "Estação Tamanduateí",
+      "url": null
+    },
+    {
+      "mainName": "Vila Madalena",
+      "url": null
+    },
+    {
+      "mainName": "Tamanduateí",
+      "url": null
+    },
+    {
+      "mainName": "Consolação",
+      "url": null
+    },
+    {
+      "mainName": "Trianon - Masp",
+      "url": null
+    },
+    {
+      "mainName": "Brigadeiro",
+      "url": null
+    },
+    {
+      "mainName": "Paraíso",
+      "url": null
+    },
+    {
+      "mainName": "Ipiranga",
+      "url": null
+    },
+    {
+      "mainName": "Vila Mariana",
+      "url": null
+    },
+    {
+      "mainName": "Paulista",
+      "url": null
+    },
+    {
+      "mainName": "Ana Rosa",
+      "url": null
+    },
+    {
+      "mainName": "Chácara Klabin",
+      "url": null
+    },
+    {
+      "mainName": "Santa Cruz",
+      "url": null
+    },
+    {
+      "mainName": "Clínicas",
+      "url": null
+    },
+    {
+      "mainName": "Saúde",
+      "url": null
+    },
+    {
+      "mainName": "Santuário N.Sra. de Fátima - Sumaré",
+      "url": null
+    },
+    {
+      "mainName": "Santos - Imigrantes",
+      "url": null
+    },
+    {
+      "mainName": "Pinheiros",
+      "url": null
+    },
+    {
+      "mainName": "Luz",
+      "url": null
+    },
+    {
+      "mainName": "Tucuruvi",
+      "url": null
+    },
+    {
+      "mainName": "Oratório",
+      "url": null
+    },
+    {
+      "mainName": "Santana",
+      "url": null
+    }
+  ]
+}

@@ -1,0 +1,643 @@
+{
+  "mainName": "Retiro Viking",
+  "slug": "retiro-viking",
+  "category": "Parque ecológico",
+  "locationInformation": {
+    "latitude": "-20.6005504",
+    "longitude": "-46.3355125"
+  },
+  "basicInformation": [
+    {
+      "label": "endereço",
+      "tooltip": "Copiar endereço",
+      "text": "Unnamed Road, São João Batista do Glória - MG, 37920-000",
+      "icon": "https://www.gstatic.com/images/icons/material/system_gm/1x/place_gm_blue_24dp.png"
+    },
+    {
+      "label": "website",
+      "tooltip": "Abrir website",
+      "text": "mardeminas.com.br",
+      "icon": "https://www.gstatic.com/images/icons/material/system_gm/1x/public_gm_blue_24dp.png"
+    },
+    {
+      "label": "Code",
+      "tooltip": "Copiar Plus Code",
+      "text": "9MX7+QQ São João Batista do Glória, Minas Gerais",
+      "icon": "https://maps.gstatic.com/mapfiles/maps_lite/images/2x/ic_plus_code.png"
+    },
+    {
+      "label": "merchant",
+      "text": "Reivindicar esta empresa",
+      "icon": "https://www.gstatic.com/images/icons/material/system_gm/1x/verified_user_gm_blue_24dp.png"
+    }
+  ],
+  "ratingInformation": {
+    "basicRatingInformation": {
+      "averageGrade": 4.8,
+      "totalOfEvaluations": 433
+    },
+    "ratingsByGrade": [
+      {
+        "grade": 5,
+        "totalRatings": 380
+      },
+      {
+        "grade": 4,
+        "totalRatings": 40
+      },
+      {
+        "grade": 3,
+        "totalRatings": 8
+      },
+      {
+        "grade": 2,
+        "totalRatings": 2
+      },
+      {
+        "grade": 1,
+        "totalRatings": 3
+      }
+    ]
+  },
+  "ratingTags": [
+    {
+      "tag": "cachoeiras",
+      "count": 91,
+      "tooltip": "cachoeiras, mencionado em 91 avaliações"
+    },
+    {
+      "tag": "carro",
+      "count": 29,
+      "tooltip": "carro, mencionado em 29 avaliações"
+    },
+    {
+      "tag": "",
+      "count": 4419,
+      "tooltip": "4x4, mencionado em 19 avaliações"
+    },
+    {
+      "tag": "estrutura",
+      "count": 15,
+      "tooltip": "estrutura, mencionado em 15 avaliações"
+    },
+    {
+      "tag": "poços",
+      "count": 9,
+      "tooltip": "poços, mencionado em 9 avaliações"
+    },
+    {
+      "tag": "banho",
+      "count": 9,
+      "tooltip": "banho, mencionado em 9 avaliações"
+    },
+    {
+      "tag": "restaurante",
+      "count": 9,
+      "tooltip": "restaurante, mencionado em 9 avaliações"
+    },
+    {
+      "tag": "cobrada",
+      "count": 6,
+      "tooltip": "cobrada, mencionado em 6 avaliações"
+    },
+    {
+      "tag": "para nadar",
+      "count": 6,
+      "tooltip": "para nadar, mencionado em 6 avaliações"
+    },
+    {
+      "tag": "estrada de terra",
+      "count": 5,
+      "tooltip": "estrada de terra, mencionado em 5 avaliações"
+    }
+  ],
+  "featuredPhotos": [
+    "https://lh5.googleusercontent.com/p/AF1QipPcUq10SzCIX6nS_HtfG93afp1pwIPmPgJHcwre=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMWuZ26rI8d-M1cJQZHIx_SHWt0nN7_PwImfS4o=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMU0XupQULekuqj6j3NTU0AWcVeMXwDoli8TjRJ=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOpwIMKmgjcjgkHs1LKSIvP-BZhRJOUiQjgZPjU=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOU5W8BKrZAMbh3RW-8yQLIl1rs9qJ0zKvkILjc=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipO7Nd8BYZAuRtTpDHh1SU7WRVoW_Ms6FKPg-ePR=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNPMjOYaq0OhWKFdtsRhkjgajddhf_NS-XZ31hH=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOKoGk26f7MayvLkWDWfO_Q0lCEpjTW_vqd0eDL=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMPyXkrz-xrLLY5I5ibo7jUhEwX1Wm4pmzIYQ3W=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipP2-3EZLv3iRe1ethwuUJ4JaiZUB-cuMAbSONJk=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMqv3A8rIL011KMNq3bf4wXfdjJDbgI5ljZDJEh=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPFQ9oisXcVKiO6NIzJ2iyItGt86TKER43ktwwo=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPZwR8z-GNbFksshNyzmf5RfnNbnf6hVDi0Pbmo=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNvpL7AF_utwxhxLY2ctD_Mae6hxARI9oeM5Lq-=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPOtzUrGChrEXDKTeaTZ5TgNKN-bXeAyyS95CU=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOVskgOGUU_qzPpBUZ9OXG3w7W4Lmr1oN4y06su=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNewhOfYclM62Kee9UrrrEDcwWmyVkEHJRSWjrm=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMnOaEv2bsvp37HTMDZHFAHcL7nt-Fnykiq3M4=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMt9tnaVJVty0j8RHIAJf2ZX7xYbKtt3MNj_Rc=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOP-m-M6wvn4MGjxle8jS0UMJc-sLCRuu7g31mD=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipM9Pe2I6vigRVWRbZtCucKIw5-_ZSaTtPifkSg-=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOsiehvXLEmc1Benb_fIVt4Ql8wwzY4qnDdnEWv=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNyc_5YPOsITrE9BI6ZPzeFr3jMTFQnyxtIdYTj=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNWSea92WEAP38VVaAivmvWyi5nUZ3z21F-nPnS=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMC68WuyBLHmgepbDlm1rItx8mx41ccLgO406h_=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPVUe2I-dc9wddhkljyaUvsAdY1_Kge3wSxVkwM=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNxQETNJ52V20pKzWI7hGeAcIsDn2sfvIkFV5Mk=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMSq-CnRYBIzGzz0ghCdQ0ldfDWRxcw1rg2a_jF=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMoH9nG1LU9JwIDD1Y95a1d_1rA-x0NuZn_7lAU=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMtTTyTDX5L8IoG62abW3nRqsqTGnVf5DXAv4Cv=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMf-eSGhoooW3xmGbeJCLg3QfprWBwRJRhHqjWz=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNexOLgMxktuImhY_-z1---JfQzgvNLE6xC4aji=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNVsCpkyRfrD0jltzYroHZj4PUjCCNrb2Umf_yY=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNUT-Zxh7KOulNimfN6DM1mgVNfzVLnwtngarY4=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMSUygkKQb9-ETJIjlXv4np1S7PS8sZZ5Il01zd=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPdixXQ3M7jL7P7j_pCDM-g2Ynqep9cZjEngdHh=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipP5swoLLCQnfNCLCFO4uxDX8hg0mBm-Ik3ngaLp=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNVv6ypl7P4K0Jad3PWYPLI2irBNs4D7tOawgkU=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOc9Be1Bxq7O_wD5E2Ud_BRKqMr7UAvmdPOJT5s=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMNjk8PfDZSHlUKAxjUR7AL1GfKhbTOZoTvT-A_=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPvpcCDMEOsIu3KfvsOf8UF285qgph37-XvbsrD=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOU6h7WZM6C9r2nUFgh3MYMcdxo_zHbWohoHtJw=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOfnxYKezpDHJwqRyN47XoouQFDqCl2SIqYpdtE=w1024-h576-k-no"
+  ],
+  "topComments": [
+    {
+      "author": "Anthony Tanner",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucqFGIzZhGhS96rAAOdx443L4YxNF1OaBDKZ3Q7Oxg=w36-h36-p-c0x00000000-rp-mo-br100",
+      "comment": "Passeio para o dia todo. As cachoeiras são lindas e com várias piscinas naturais. Da para chegar com carro comum  apenas na época de seca. Lá não tem restaurante. Paga_se R$15 para entrar. Super indico, vale a pena conhecer.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Ricardo Monteiro",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucprr_M8nuTTWJxaPjh7Q49-Qp1N4YXAt2Jj64gV1g=w36-h36-p-c0x00000000-rp-mo-ba6-br100",
+      "comment": "Espetacular!!! Paga-se somente 15,00 e tem acesso a várias cachoeiras. Pouca caminhada e muita diversão. Eu fui com carro sem tração 4x4.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Heleno Moyses Campos",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucqVFuLNwwH-RtQUnCuHIl0SI9lqQh0K8My0aJYLwz4=w36-h36-p-c0x00000000-rp-mo-ba6-br100",
+      "comment": "Cachoeiras lindas. Infra tem banheiro na entrada e só. Vale a vista. O custo em 01/22 era R$ 15 por pessoa. As churrasqueira estão precisando de manutenção.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Igor Guilherme",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucqbVjJ4p9zByCFQyYgtIZPNnMuLBx8X8SW1qvgQMtQ=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "Gostei do passeio. Pena no dia que fui estar chovendo tanto. A caminhada pelas cachoeiras exige pouca perícia, embora tenha que se tomar cuidado para não escorregar e ir ladeira abaixo. Lugar muito bacana!",
+      "gradeComment": 4
+    },
+    {
+      "author": "Fabio Off Road",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucotUj0oHi8f2ruXP4paZaHNk4JnRwY7xabJjspCCA=w36-h36-p-c0x00000000-rp-mo-ba7-br100",
+      "comment": "Para quem gosta de cachoeiras é um bom lugar para visitar, tem toda infraestrutura necessária para receber os visitantes. Todas as cachoeiras são de fácil acesso e é perto uma da outra. Fui atendido na portaria pelo guia, esqueci o nome dele, mas foi muito cordial, deu todas as dicas necessárias para eu fazer o tour tranquilo e em segurança. Vale muito a pena conhecer esse lugar incrível!!!",
+      "gradeComment": 5
+    },
+    {
+      "author": "Reginaldo Cruspy",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucrEV5mlM9smfP4Sfvs1kNgdVIDiZu44IvrkPw17bg=w36-h36-p-c0x00000000-rp-mo-ba5-br100",
+      "comment": "Um dos lugares mais lindos que conheci , cachoeiras magníficas , uma pena não ter uma lanchonete no local, levem água e comida",
+      "gradeComment": 5
+    },
+    {
+      "author": "Debora Casullo",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucp77FKIBDjkoX2n_gu8n4WhF5YDptEKDAG5Bzv6gKM=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "Delicia de lugar, muito gostoso tirar umas horas e ficar por la, as cachoeiras são lindas, vale a visita!",
+      "gradeComment": 5
+    },
+    {
+      "author": "Fernando Calonga",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucr91IAb_FArpD-OyNOpeVxTgK2U7Wd8r5nYlGKSGw=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "Sensacional local. Varias cachoeiras. Acesso facil e preço justo. Recomendo",
+      "gradeComment": 5
+    },
+    {
+      "author": "Maria Renata",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucr1ejLfaZgBtKAjAdv9HVDA8fa_lKvQgCxa3som6TA=w36-h36-p-c0x00000000-rp-mo-ba3-br100",
+      "comment": "O complexo é muito bonito,as cachoeiras são maravilhosas.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Renata Cid",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucqHD2yu84iNFiSfIKeziAfBAPyJwGm1h0cUDrdF=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "As 7 cachoeiras são muito bonitas! Bem sinalizadas. A recepção foi muito agradável com muitas orientações sobre como andar pelas cachoeiras, onde parar o carro (pernambucano). Haviam banheiros impecavelmente limpos! Custa 15,00 por pessoa.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Luizi Mineiro",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucp-D9wocjHn8lCJCL99y4NAsECdgCLQvpsvWDmrfZU=w36-h36-p-c0x00000000-rp-mo-ba5-br100",
+      "comment": "Lugar incrível!! Muito lindo! Achei o preço justo, 15$. Estava bem cheio por conta do feriado. Não recomendo ir de carro comum, estrada bem ruim, mas vi muita gente indo.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Ricardo Reche",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucqw5y-GNSarQd6vJCJDMdMY_czAV-xtHSHFfuCl-Tc=w36-h36-p-c0x00000000-rp-mo-ba5-br100",
+      "comment": "Recomendo o acesso com guia local, as atrações são maravilhosas e requer habilidade para acessá-las de forma segura, mas ao entrar a sua experiência e contato com a natureza serão incríveis!",
+      "gradeComment": 5
+    },
+    {
+      "author": "geovana prante",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucrhK98CIz4zFxVZusXMHF7UT2nkyBK7Hjvy8NB0UzU=w36-h36-p-c0x00000000-rp-mo-ba5-br100",
+      "comment": "O Retiro Viking conta com pelo menos cinco cachoeiras: Trovão, Patinho Feio, Caixinha de Surpresas, Gêmeas (ou Duas Irmãs) e Pequena Sereia. Há uma sexta cachoeira que está nomeada como Viking (que é linda!), mas há uma disputa com \"outra propriedade\" em relação ao acesso à mesma e até mesmo ao nome dela. As cachoeiras são muito lindas, e há várias piscinas naturais onde é possível entrar para banho. É possível ir com veículo comum até muito próximo de cada uma das cachoeiras. No entanto, sugiro que todo o percurso seja feito a pé, para um melhor aproveitamento do passeio, das paisagens, da natureza existente no local. As cachoeiras são muito próximas umas das outras, e o percurso é de nível fácil, sem apresentar nenhuma dificuldade. O espaço conta com banheiro público na entrada do complexo. Possui uma boa sinalização para acesso às cachoeiras. Pagamos o valor de R$ 15,00 por pessoa para ingresso no Retiro, e avalio que foi um ótimo investimento, pois o local é de fato muito lindo.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Pedro Paulo Cardoso",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucoqsp80Oj5hRMHznAFHxyMGhtUUh0YTaYKInrPtOA=w36-h36-p-c0x00000000-rp-mo-ba3-br100",
+      "comment": "Complexo de cachoeiras belíssimas. É possível passar boa parte do dia aproveitando cada uma delas. É cobrada uma taxa de 15 reais por pessoa (Novembro de 2020). Local possui banheiro próximo a entrada e placas para orientar os visitantes.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Paulo Rosa",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucpxjyoRrS_D2rj9LpCrgNbC-tczBA0q1n-ZtipTT9c=w36-h36-p-c0x00000000-rp-mo-ba6-br100",
+      "comment": "Difícil dizer qual das cachoeiras é a mais bonita. A do Retiro Viking é das mais!",
+      "gradeComment": 5
+    },
+    {
+      "author": "ALBERTO CARLOS",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZuco53CRK8_eAq8n4N4e11UFqYiBxIi3KX02YyNKb5w=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "Várias cachoeiras ligar maravilhoso, recomendo e qualquer carro chega.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Marcos Ywasaki",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucpt4pKE_EIS6CEwAe02BWO-E2l7reecB7Xf9iJxaA=w36-h36-p-c0x00000000-rp-mo-ba2-br100",
+      "comment": "Complexo com  6 cachoeiras, todas de fácil acesso com águas cristalinas e muitos peixes pequenos. Vale a pena conhecer com uma taxa de R$15,00 por pessoa (ref 02/2022)",
+      "gradeComment": 5
+    },
+    {
+      "author": "Naiara Alexandre",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucqBpaiPwGWL73pmTyz2Qg91CUc1MH2BZ8z8Axv3=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "Lugar lindo.. a infraestrutura deixa um pouco a desejar, não vi funcionários/guias nas cachoeiras para orientar como em outros lugares.. preço justo, um dos mais baratos inclusive. Maio é sem chuvas e vazio na semana.",
+      "gradeComment": 4
+    },
+    {
+      "author": "Maria Hypolito",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucqgF12fLLgJ3FLsrlxgqKyvcwhtQjck6auDxyLSlg=w36-h36-p-c0x00000000-rp-mo-br100",
+      "comment": "Viemos passear com nossos pets, mesmo sabendo das avaliações não tão boas, mas na entrada nos disseram que os cães não poderiam entrar na água e andar somente na guia. Desistimos do passeio.",
+      "gradeComment": 1
+    },
+    {
+      "author": "Erika Marinho",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucrBaKJnPopOfZQh0ZadrX3h7aIzro2xkOD9pnabQg=w36-h36-p-c0x00000000-rp-mo-ba3-br100",
+      "comment": "Lugar apaixonante. A integração com a natureza é completa. No local não há estrutura de bar ou de hospedagem. Ficamos acampados e pagamos por barraca, mas o que eles cobram mesmo é 15 reais pra visitar. Pra mais dicas de passeios por Minas, me sigam no Instagram @erikanaestrada.",
+      "gradeComment": 5
+    }
+  ],
+  "peakHours": [
+    {
+      "Sunday": [
+        {
+          "hour": "09:00",
+          "percent": 15
+        },
+        {
+          "hour": "10:00",
+          "percent": 47
+        },
+        {
+          "hour": "11:00",
+          "percent": 81
+        },
+        {
+          "hour": "12:00",
+          "percent": 75
+        },
+        {
+          "hour": "13:00",
+          "percent": 38
+        },
+        {
+          "hour": "14:00",
+          "percent": 12
+        },
+        {
+          "hour": "15:00",
+          "percent": 15
+        },
+        {
+          "hour": "16:00",
+          "percent": 22
+        },
+        {
+          "hour": "17:00",
+          "percent": 5
+        }
+      ]
+    },
+    {
+      "Monday": [
+        {
+          "hour": "10:00",
+          "percent": 4
+        },
+        {
+          "hour": "11:00",
+          "percent": 26
+        },
+        {
+          "hour": "12:00",
+          "percent": 43
+        },
+        {
+          "hour": "13:00",
+          "percent": 23
+        },
+        {
+          "hour": "14:00",
+          "percent": 6
+        },
+        {
+          "hour": "15:00",
+          "percent": 11
+        },
+        {
+          "hour": "16:00",
+          "percent": 15
+        },
+        {
+          "hour": "17:00",
+          "percent": 5
+        }
+      ]
+    },
+    {
+      "Tuesday": [
+        {
+          "hour": "10:00",
+          "percent": 4
+        },
+        {
+          "hour": "11:00",
+          "percent": 17
+        },
+        {
+          "hour": "12:00",
+          "percent": 25
+        },
+        {
+          "hour": "13:00",
+          "percent": 16
+        },
+        {
+          "hour": "14:00",
+          "percent": 4
+        },
+        {
+          "hour": "15:00",
+          "percent": 11
+        },
+        {
+          "hour": "16:00",
+          "percent": 16
+        },
+        {
+          "hour": "17:00",
+          "percent": 1
+        }
+      ]
+    },
+    {
+      "Wednesday": [
+        {
+          "hour": "09:00",
+          "percent": 5
+        },
+        {
+          "hour": "10:00",
+          "percent": 17
+        },
+        {
+          "hour": "11:00",
+          "percent": 26
+        },
+        {
+          "hour": "12:00",
+          "percent": 20
+        },
+        {
+          "hour": "13:00",
+          "percent": 8
+        },
+        {
+          "hour": "14:00",
+          "percent": 1
+        },
+        {
+          "hour": "15:00",
+          "percent": 5
+        },
+        {
+          "hour": "16:00",
+          "percent": 15
+        },
+        {
+          "hour": "17:00",
+          "percent": 9
+        }
+      ]
+    },
+    {
+      "Thursday": [
+        {
+          "hour": "09:00",
+          "percent": 1
+        },
+        {
+          "hour": "10:00",
+          "percent": 9
+        },
+        {
+          "hour": "11:00",
+          "percent": 24
+        },
+        {
+          "hour": "12:00",
+          "percent": 27
+        },
+        {
+          "hour": "13:00",
+          "percent": 22
+        },
+        {
+          "hour": "14:00",
+          "percent": 24
+        },
+        {
+          "hour": "15:00",
+          "percent": 26
+        },
+        {
+          "hour": "16:00",
+          "percent": 18
+        },
+        {
+          "hour": "17:00",
+          "percent": 6
+        },
+        {
+          "hour": "18:00",
+          "percent": 1
+        }
+      ]
+    },
+    {
+      "Friday": [
+        {
+          "hour": "08:00",
+          "percent": 1
+        },
+        {
+          "hour": "09:00",
+          "percent": 6
+        },
+        {
+          "hour": "10:00",
+          "percent": 20
+        },
+        {
+          "hour": "11:00",
+          "percent": 37
+        },
+        {
+          "hour": "12:00",
+          "percent": 50
+        },
+        {
+          "hour": "13:00",
+          "percent": 63
+        },
+        {
+          "hour": "14:00",
+          "percent": 75
+        },
+        {
+          "hour": "15:00",
+          "percent": 69
+        },
+        {
+          "hour": "16:00",
+          "percent": 44
+        },
+        {
+          "hour": "17:00",
+          "percent": 17
+        },
+        {
+          "hour": "18:00",
+          "percent": 3
+        }
+      ]
+    },
+    {
+      "Saturday": [
+        {
+          "hour": "09:00",
+          "percent": 2
+        },
+        {
+          "hour": "10:00",
+          "percent": 18
+        },
+        {
+          "hour": "11:00",
+          "percent": 60
+        },
+        {
+          "hour": "12:00",
+          "percent": 100
+        },
+        {
+          "hour": "13:00",
+          "percent": 91
+        },
+        {
+          "hour": "14:00",
+          "percent": 79
+        },
+        {
+          "hour": "15:00",
+          "percent": 88
+        },
+        {
+          "hour": "16:00",
+          "percent": 50
+        },
+        {
+          "hour": "17:00",
+          "percent": 9
+        }
+      ]
+    }
+  ],
+  "relatedSearches": [
+    "paraíso viking",
+    "recanto dos vikings capitólio",
+    "complexo vikings",
+    "poço da juventude capitólio",
+    "cachoeira paraíso perdido mg",
+    "o que fazer em capitólio em 1 dia",
+    "como é a estrada para capitólio",
+    "capitólio lugares"
+  ],
+  "relateds": [
+    {
+      "mainName": "Cachoeira da Capivara",
+      "url": null
+    },
+    {
+      "mainName": "Cachoeira Capão Forro",
+      "url": null
+    },
+    {
+      "mainName": "Cachoeira Diquadinha",
+      "url": null
+    },
+    {
+      "mainName": "Pedreira Lagoa Azul",
+      "url": null
+    },
+    {
+      "mainName": "Cachoeira da Capivara Complexo Ecológico",
+      "url": null
+    },
+    {
+      "mainName": "Cachoeira Fecho da Serra (Acesso)",
+      "url": null
+    },
+    {
+      "mainName": "Morro do Chapéu",
+      "url": null
+    },
+    {
+      "mainName": "Poço Dourado",
+      "url": null
+    },
+    {
+      "mainName": "Cachoeira Lagoa Azul",
+      "url": null
+    },
+    {
+      "mainName": "Cachoeira do Grito",
+      "url": null
+    },
+    {
+      "mainName": "Serra da Canastra",
+      "url": null
+    },
+    {
+      "mainName": "Nascente Histórica do Rio São Francisco",
+      "url": null
+    },
+    {
+      "mainName": "Cachoeira Casca d'Anta",
+      "url": null
+    },
+    {
+      "mainName": "Paraíso Achado",
+      "url": null
+    },
+    {
+      "mainName": "Parque Nacional da Serra da Canastra",
+      "url": null
+    },
+    {
+      "mainName": "Usina Hidrelétrica de Furnas",
+      "url": null
+    }
+  ]
+}

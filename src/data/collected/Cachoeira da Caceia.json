@@ -1,0 +1,963 @@
+{
+  "mainName": "Cachoeira da Caceia",
+  "slug": "cachoeira-da-caceia",
+  "category": "Atração turística",
+  "locationInformation": {
+    "latitude": "-23.3192844",
+    "longitude": "-46.6319923"
+  },
+  "basicInformation": [
+    {
+      "label": "endereço",
+      "tooltip": "Copiar endereço",
+      "text": "Estr. Armando Barbosa de Almeida, 6300 - Mairiporã, SP, 07600-000",
+      "icon": "https://www.gstatic.com/images/icons/material/system_gm/1x/place_gm_blue_24dp.png"
+    },
+    {
+      "label": "telefone",
+      "tooltip": "Copiar número de telefone",
+      "text": "(11) 98132-5162",
+      "icon": "https://www.gstatic.com/images/icons/material/system_gm/1x/phone_gm_blue_24dp.png"
+    },
+    {
+      "label": "Code",
+      "tooltip": "Copiar Plus Code",
+      "text": "M9J9+76 Mairiporã, São Paulo",
+      "icon": "https://maps.gstatic.com/mapfiles/maps_lite/images/2x/ic_plus_code.png"
+    },
+    {
+      "label": "merchant",
+      "text": "Reivindicar esta empresa",
+      "icon": "https://www.gstatic.com/images/icons/material/system_gm/1x/verified_user_gm_blue_24dp.png"
+    }
+  ],
+  "ratingInformation": {
+    "basicRatingInformation": {
+      "averageGrade": 4.5,
+      "totalOfEvaluations": 825
+    },
+    "ratingsByGrade": [
+      {
+        "grade": 5,
+        "totalRatings": 545
+      },
+      {
+        "grade": 4,
+        "totalRatings": 159
+      },
+      {
+        "grade": 3,
+        "totalRatings": 87
+      },
+      {
+        "grade": 2,
+        "totalRatings": 19
+      },
+      {
+        "grade": 1,
+        "totalRatings": 15
+      }
+    ]
+  },
+  "ratingTags": [
+    {
+      "tag": "natureza",
+      "count": 45,
+      "tooltip": "natureza, mencionado em 45 avaliações"
+    },
+    {
+      "tag": "família",
+      "count": 41,
+      "tooltip": "família, mencionado em 41 avaliações"
+    },
+    {
+      "tag": "trilha",
+      "count": 16,
+      "tooltip": "trilha, mencionado em 16 avaliações"
+    },
+    {
+      "tag": "finais de semana",
+      "count": 14,
+      "tooltip": "finais de semana, mencionado em 14 avaliações"
+    },
+    {
+      "tag": "banho",
+      "count": 10,
+      "tooltip": "banho, mencionado em 10 avaliações"
+    },
+    {
+      "tag": "bike",
+      "count": 10,
+      "tooltip": "bike, mencionado em 10 avaliações"
+    },
+    {
+      "tag": "calor",
+      "count": 9,
+      "tooltip": "calor, mencionado em 9 avaliações"
+    },
+    {
+      "tag": "churrasco",
+      "count": 8,
+      "tooltip": "churrasco, mencionado em 8 avaliações"
+    },
+    {
+      "tag": "energia",
+      "count": 8,
+      "tooltip": "energia, mencionado em 8 avaliações"
+    },
+    {
+      "tag": "sujeira",
+      "count": 6,
+      "tooltip": "sujeira, mencionado em 6 avaliações"
+    }
+  ],
+  "featuredPhotos": [
+    "https://lh5.googleusercontent.com/p/AF1QipPHhPnGZTcxAaolRG8-kEuiuD55N9waVZcsUVWp=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPP07xXDk-vHXou6tzrZTun_81cW9hmg6SQ03yj=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOyz3l9ajgUgaGiAn7RGbooSeCP2ZIuyjJeXd_k=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPWKvYGE_-d7t1ckEoXUR4gVIrHeeOpW4-_UWeS=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipN12nWKYg4dWNMxFPs7MFQLvhsUnUycNIH_sLDt=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPjI9HYJoAZ3lDvez0AYrF0bpQM2wpI7tEMNGtu=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMucILrFXXnHuPdsMQ31zYUApgJ16hMhLIQP-SR=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNGvDGg3Lb2DfCaEi9k62bBkX8nqT50qnDOJATB=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNvU4sY95fjQ_CyI33a4oj_4zPAx_nWfkTSHOxb=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPTFE3nqwuuGojhN9UlYK08qeZa0AgfF1lFqb_u=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMO1y2c4czDvJauG2NIrGLEQfxPxXfK1NOrnVbL=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPumZRI6G5dhgwcL-1LdGWdJsciFZfnEE1EFOGM=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipN7G04FVAhq6Ib2tduR7QcEhb16qBrIjtfnHorW=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMwA-G8zsMmShenM_zWW7Kc5LXh9Lp4yuAwKzw4=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPg75pe0oPrID_7nE9lfGC_ZmreSSnbvnqrgwrr=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOjHxC5IkPSnOggdLkotH-A3dk7DWZgQlVb9C8q=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMC44Q-dxvDTQiq4sk-pfRe_U9cSz-T8MASelLM=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMfa2vZWndpf2zQT4rubHbHFvp3chK7lQSVfi_r=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMSaqQWfjOLAhD53x7omUvlJDB7lskg53mWIDEv=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPXKLmd3SdLNqC3TZuL9PxeEDSHraQ0j8v3w4u7=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPREojT-ZCzVpwdjcNJc9lkd8ju2Vy66oSgF7uo=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPzzuA4y4tb0qw5ir-F7kDkndDYHiKlXfUv8gj6=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipM4ccrkzFVgRfXuCG55Wwnl_bAwDz_MIeOfbeas=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNMC3_Ij_l2ev0kGJ-pwhrh9GZrpMl5VwPPNubp=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOTeI-pkkCWSIEhw_znDzUbEqt2QdK9cnQY2Web=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNNTmeLS0IKZcD_0LWNHwuNOSdTZLkbrY4Dfpu9=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNvTgjDI2KmpsamVZj5HMKmBhUFO7Df4q91wzU0=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNb5IBaV2eP2mlxse1EV2YOxLOcuWeUpC9q802F=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOXFnJPlASiENzR7agtj3T13oTqggj8ys6eoCmo=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPg5uFdYGk2srF5DdVw60FOQcKReS7DlHrekWty=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMz1l3iOC93tNdvJ5fgqh8ta6azmRQMofTcf_z6=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipO12WDKLTNU9mJbReCvnzAze6JO96wI0BRqcHlN=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNrMzvEI99gAdoiym0wi3zkPwXtoqWD530qyh5a=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOLi_DKy5AtByePUYCKiCUsTcu5jRzr2tCrKz2X=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOTmuIOb_K2fvV0QnrRX7Szj9pXSUYDrohr-TkU=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOKopnsDkdZWJCp-ZOD4g1m2DUsKvdRJYFYdNTH=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPJkc3W5Y5IHB_o3Khd5PWusXX-qTCCQ5xU7CPo=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOz5p6Q3v8Silg0Xjm5xUv0TCKULCU37e7b1Bcd=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPYQDXt9lvtt-2Bc1Jl1rkemdDbv46a3z2Kl4Nq=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNkhosH2GPRgs2n5RHblqp0cdOkwrye3aaup_JQ=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMK8cc0XPkb9-B2jixuuJP2xNjaNRH6O1OSY24b=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMqkfxo9RSEeRAC5ACHzO9zW6kB6wCq0mizBEX6=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPWJqqNKx3GslcmQakB5RONh4m0TCJELMdWx5D1=w1024-h576-k-no"
+  ],
+  "topComments": [
+    {
+      "author": "AlanMM",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucq2GI_m64PkBhODgK5gls9muJcQAcqpdD4vWZ3wew=w36-h36-p-c0x00000000-rp-mo-ba3-br100",
+      "comment": "Lugar maravilhoso pra passar a tarde, curtir a natureza e um banho gelado na cachoeira 🥰. Tem possibilidade de comprar cerveja/água e salgadinho no local. NÃO DEIXEM LIXO NO LOCAL.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Renata Cristine Pereira Brito",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucrbwvRTGW8NWaJhU4NemyLQTvBWK5JqEIqFPlXkHg=w36-h36-p-c0x00000000-rp-mo-ba5-br100",
+      "comment": "O lugar escondidinho, é bem diferente de outros lugares que já conhecemos, não estava tão cheio, mas, acredito que tb não comporte muita gente, o espaço é pequeno!!",
+      "gradeComment": 5
+    },
+    {
+      "author": "Claudia Freitas",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucpKoiaq-YoMjTz8260kTxoZrEXuwx7pKzqFhA_Nz6A=w36-h36-p-c0x00000000-rp-mo-ba3-br100",
+      "comment": "Lindo lugar.  Fomos entre a semana do Natal e do ano novo. Estava vazia... É linda, de fácil acesso e um lindo lugar para contemplar a natureza.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Felippe Moretto",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucrdWS7iPazkD04wyAP_hAht30wcMgoXPf7HreJh9w=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "Em meio a natureza, aberta ao público..e limpa, sim, muito limpa. Estive nela em uma segunda feira, estava sozinho. Reparei que tem um senhor que vende água e outras coisas lá, deve morar perto, e se intitula o guardião da cachoeira.  Água cristalina, segundo informações, essa água vem da nascente da represa Paiva Castro.... Adorei o lugar, mas acredito que de final de semana fique lotado. Estrada de terra por aproximadamente 6km.. vale a pena",
+      "gradeComment": 4
+    },
+    {
+      "author": "Decio Fukuda",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucrWKtKkwDRlfDCnBURoB190DUpiepvyo-Q3XXUaOl8=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "Lugar tranquilo. Tem até um vendedor de petiscos no local. Trilha bem curta, cachoeira bonita, apesar da queda d'água ser bem baixa.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Ana Letícia Melo",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucoBDWoZ_u-FvLskxhUr4KYzS05qjP1tT2XE8uY65w=w36-h36-p-c0x00000000-rp-mo-ba3-br100",
+      "comment": "A cachoeira em si é bem limpa, mas o caminho até lá tem bastante lixo, infelizmente. Fomos durante a semana e não tinha ninguém, muito bom pra quem quer um passeio mais privado. A pé é uma caminhada super curta de poucos minutos da estrada.",
+      "gradeComment": 4
+    },
+    {
+      "author": "Matheus Oliveira",
+      "photoAuthor": "https://lh3.googleusercontent.com/a/AItbvmmjJzLRYo1ucpdRvMecL9fxjHbbYmoqTlcGRzNI=w36-h36-p-c0x00000000-rp-mo-ba3-br100",
+      "comment": "O problema é que havia uma quantidade muito grande de taturanas nas plantas e em algumas pedras o que configura um grande perigo tendo em vista que poderiam machucar alguém.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Priscila Mansano",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucqArZfJeQNLpl2Wf5nUrRp0V5ifPV-8SNm-o6iX84Y=w36-h36-p-c0x00000000-rp-mo-ba3-br100",
+      "comment": "Lugar calmo tranquilo e maravilhoso, bem limpinho um delícia passar o dia aqui vale muito a pena.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Cláudia Grota",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucqU3Vm-T688W9_LUY-Dk58wrvyze0xnydwL4AJfi_8=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "Muito graciosa, pequena porém prazerosa para dias de calor. É possível se banhar nas belas águas do local. Há uma pequena trilha para chegar, de fácil acesso.",
+      "gradeComment": 3
+    },
+    {
+      "author": "Wagner Olimpio",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZuco1dYaA2aan1VgIjf_AcIpyxudorRYNtg69LEUqIg=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "Cachoeira próxima a estrada, de fácil acesso. No dia que fui estava vazio pois fui depois de uma chuva.",
+      "gradeComment": 4
+    },
+    {
+      "author": "Tiago Alves",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucoMJjKjunlS71a1KRxooGwMGqW-MtaIoqhAxnF_=w36-h36-p-c0x00000000-rp-mo-br100",
+      "comment": "Acho de fácil acesso, não dá pra mergulhar, dar  braçada mas o banho de cachoeira é bem agradável, e o lugar embora simples é muito bonito. Já fui, já voltei e voltarei mais vezes!",
+      "gradeComment": 4
+    },
+    {
+      "author": "Matheus Viana",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucrT0fPmAUCThn5MknAyUXBapnEqqAu1fUtDBXWlPWU=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "Infelizmente a trilha tem bastante sujeira acumulada que um pessoal deixa! Porém vale muito a pena, lugar lindo com uma energia fantástica.",
+      "gradeComment": 5
+    },
+    {
+      "author": "cozinhando com amor cozinha brasileira",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucraEiVrzVWlmjsmULT-x62Tjwclq2u-ZMndtYfq8Fk=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "Muito maravilhoso esse lugar lugar limpo bem cuidado top para ir com a família",
+      "gradeComment": 5
+    },
+    {
+      "author": "Roberta soares",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucrKmpciFQ1jWkxjctMzY2gg6MLYfKLqQLnCX5yhiw=w36-h36-p-c0x00000000-rp-mo-br100",
+      "comment": "Eu já tive aí com minha família meus amigos é tudo de bom um lugar bem tranquilo bem gostoso essa Cachoeira essa queda d'água",
+      "gradeComment": 5
+    },
+    {
+      "author": "Marcos Toshiro Narazaki",
+      "photoAuthor": "https://lh3.googleusercontent.com/a/AItbvmm_ZxFJ9Ed-YYw59rcyxBlpE3NGpBN0s4yO6PTP=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "A cachoeira e bonita. Mas achei o local  meio estranho. Na cachoeira tem um senhor que vende bebidas, salgadinhos etc.... Ele meio que cuida da cachoeira. Vale a pena ajudá-lo. Mas não sei se voltaria lá com familiares.",
+      "gradeComment": 3
+    },
+    {
+      "author": "juliana de souza vieira",
+      "photoAuthor": "https://lh3.googleusercontent.com/a/AItbvmnIfMebufdogTRlYEWLD3xETVPvL_cuxlnTX-IP=w36-h36-p-c0x00000000-rp-mo-br100",
+      "comment": "Precisa melhorar o espaço. Trilhas sujas e os pontos de venda de bebida mal conservada. Mais a cachoeira e uma graça.",
+      "gradeComment": 3
+    },
+    {
+      "author": "Adriano Dias",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucrkk_knMqYcuMO09wPFO_7nlkeB_kJpLgKcGU9T=w36-h36-p-c0x00000000-rp-mo-ba3-br100",
+      "comment": "Fui num dia de frio, mesmo assim tinha pessoas no local, famílias. Existe um local que dá para parar o carro, depois é só andar mais uns 500 metros por uma trilha de fácil locomoção. Logo no início da parte da cachoeira vc já encontra uma barraca com um senhor que vende refrigerantes e salgadinhos, isso é bom, pois independente de não ter ninguém no dia da sua visitação, sozinho vc não estará. A cachoeira é um espetáculo, nada gigantesco, mas o suficiente para tomar um bom banho ou apenas relaxar num dia tranquilo. No local tbm tem trilhas para caminhada (não fiz porque estava com o Tell, meu cachorro, e achei que as pedras estavam escorregadias no dia). Vale muito a pena conhecer se vc estiver por Mairiporã,  pode ir sem medo.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Andrea A. Santos",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucp3ZAz4PoI2vlAlVhwDf8656r7icaiPmOuAFckJ9so=w36-h36-p-c0x00000000-rp-mo-ba3-br100",
+      "comment": "A Prefeitura poderia investir naquele lugar maravilhoso, ótimo lugar pra passar o dia e relaxar,",
+      "gradeComment": 5
+    },
+    {
+      "author": "Alexandre Aleixo do Nascimento",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucpDoATRIVd4V9JPpwBKHsc9ISZUp_8eaGhHyLp5PA=w36-h36-p-c0x00000000-rp-mo-ba3-br100",
+      "comment": "O local é bonito, porém em dias quentes e finais de semana, é bem frequentado. Aí vai depender do seu estilo. Se vc é bem família tradicional, não vai rolar. Se já gosta de uma bagunça, com barulhos e \"fumantes\", pode ir. Indico dias de semana, pra quem é mais da calmaria. Vá até lá em cima, pois ela não se resume ao que vê na entrada. Aproveitamos e gravamos um vídeo no local. Assista no canal do Youtube: aleixonareserva.",
+      "gradeComment": 3
+    },
+    {
+      "author": "EJ Studio Hair",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucrDxa5y3SplxJA5Ocki-CQdfbeMqK4nwTYxkAaz0sU=w36-h36-p-c0x00000000-rp-mo-ba5-br100",
+      "comment": "Contato com a natureza, água bem gelada, sensacional",
+      "gradeComment": 5
+    }
+  ],
+  "peakHours": [
+    {
+      "Sunday": [
+        {
+          "hour": "04:00",
+          "percent": 3
+        },
+        {
+          "hour": "05:00",
+          "percent": 7
+        },
+        {
+          "hour": "06:00",
+          "percent": 13
+        },
+        {
+          "hour": "07:00",
+          "percent": 21
+        },
+        {
+          "hour": "08:00",
+          "percent": 30
+        },
+        {
+          "hour": "09:00",
+          "percent": 43
+        },
+        {
+          "hour": "10:00",
+          "percent": 57
+        },
+        {
+          "hour": "11:00",
+          "percent": 73
+        },
+        {
+          "hour": "12:00",
+          "percent": 88
+        },
+        {
+          "hour": "13:00",
+          "percent": 97
+        },
+        {
+          "hour": "14:00",
+          "percent": 100
+        },
+        {
+          "hour": "15:00",
+          "percent": 92
+        },
+        {
+          "hour": "16:00",
+          "percent": 77
+        },
+        {
+          "hour": "17:00",
+          "percent": 57
+        },
+        {
+          "hour": "18:00",
+          "percent": 38
+        },
+        {
+          "hour": "19:00",
+          "percent": 22
+        },
+        {
+          "hour": "20:00",
+          "percent": 10
+        },
+        {
+          "hour": "21:00",
+          "percent": 2
+        },
+        {
+          "hour": "22:00",
+          "percent": 1
+        },
+        {
+          "hour": "23:00",
+          "percent": 1
+        },
+        {
+          "hour": "00:00",
+          "percent": 1
+        },
+        {
+          "hour": "01:00",
+          "percent": 1
+        },
+        {
+          "hour": "02:00",
+          "percent": 1
+        },
+        {
+          "hour": "03:00",
+          "percent": 1
+        }
+      ]
+    },
+    {
+      "Monday": [
+        {
+          "hour": "04:00",
+          "percent": 1
+        },
+        {
+          "hour": "05:00",
+          "percent": 1
+        },
+        {
+          "hour": "06:00",
+          "percent": 1
+        },
+        {
+          "hour": "07:00",
+          "percent": 1
+        },
+        {
+          "hour": "09:00",
+          "percent": 2
+        },
+        {
+          "hour": "10:00",
+          "percent": 5
+        },
+        {
+          "hour": "11:00",
+          "percent": 7
+        },
+        {
+          "hour": "12:00",
+          "percent": 10
+        },
+        {
+          "hour": "13:00",
+          "percent": 13
+        },
+        {
+          "hour": "14:00",
+          "percent": 13
+        },
+        {
+          "hour": "15:00",
+          "percent": 13
+        },
+        {
+          "hour": "16:00",
+          "percent": 10
+        },
+        {
+          "hour": "17:00",
+          "percent": 7
+        },
+        {
+          "hour": "18:00",
+          "percent": 4
+        },
+        {
+          "hour": "19:00",
+          "percent": 1
+        },
+        {
+          "hour": "20:00",
+          "percent": 1
+        },
+        {
+          "hour": "21:00",
+          "percent": 1
+        },
+        {
+          "hour": "22:00",
+          "percent": 1
+        },
+        {
+          "hour": "23:00",
+          "percent": 1
+        },
+        {
+          "hour": "00:00",
+          "percent": 1
+        },
+        {
+          "hour": "01:00",
+          "percent": 1
+        },
+        {
+          "hour": "02:00",
+          "percent": 1
+        },
+        {
+          "hour": "03:00",
+          "percent": 1
+        }
+      ]
+    },
+    {
+      "Tuesday": [
+        {
+          "hour": "04:00",
+          "percent": 1
+        },
+        {
+          "hour": "05:00",
+          "percent": 1
+        },
+        {
+          "hour": "06:00",
+          "percent": 1
+        },
+        {
+          "hour": "07:00",
+          "percent": 3
+        },
+        {
+          "hour": "08:00",
+          "percent": 9
+        },
+        {
+          "hour": "09:00",
+          "percent": 13
+        },
+        {
+          "hour": "10:00",
+          "percent": 11
+        },
+        {
+          "hour": "11:00",
+          "percent": 10
+        },
+        {
+          "hour": "12:00",
+          "percent": 17
+        },
+        {
+          "hour": "13:00",
+          "percent": 29
+        },
+        {
+          "hour": "14:00",
+          "percent": 35
+        },
+        {
+          "hour": "15:00",
+          "percent": 28
+        },
+        {
+          "hour": "16:00",
+          "percent": 14
+        },
+        {
+          "hour": "17:00",
+          "percent": 3
+        },
+        {
+          "hour": "18:00",
+          "percent": 1
+        },
+        {
+          "hour": "19:00",
+          "percent": 1
+        },
+        {
+          "hour": "20:00",
+          "percent": 1
+        },
+        {
+          "hour": "21:00",
+          "percent": 1
+        },
+        {
+          "hour": "22:00",
+          "percent": 1
+        },
+        {
+          "hour": "23:00",
+          "percent": 1
+        },
+        {
+          "hour": "00:00",
+          "percent": 1
+        },
+        {
+          "hour": "01:00",
+          "percent": 1
+        },
+        {
+          "hour": "02:00",
+          "percent": 1
+        },
+        {
+          "hour": "03:00",
+          "percent": 1
+        }
+      ]
+    },
+    {
+      "Wednesday": [
+        {
+          "hour": "04:00",
+          "percent": 1
+        },
+        {
+          "hour": "05:00",
+          "percent": 1
+        },
+        {
+          "hour": "06:00",
+          "percent": 1
+        },
+        {
+          "hour": "07:00",
+          "percent": 2
+        },
+        {
+          "hour": "08:00",
+          "percent": 3
+        },
+        {
+          "hour": "09:00",
+          "percent": 5
+        },
+        {
+          "hour": "10:00",
+          "percent": 6
+        },
+        {
+          "hour": "11:00",
+          "percent": 9
+        },
+        {
+          "hour": "12:00",
+          "percent": 11
+        },
+        {
+          "hour": "13:00",
+          "percent": 13
+        },
+        {
+          "hour": "14:00",
+          "percent": 14
+        },
+        {
+          "hour": "15:00",
+          "percent": 14
+        },
+        {
+          "hour": "16:00",
+          "percent": 14
+        },
+        {
+          "hour": "17:00",
+          "percent": 14
+        },
+        {
+          "hour": "18:00",
+          "percent": 13
+        },
+        {
+          "hour": "19:00",
+          "percent": 11
+        },
+        {
+          "hour": "20:00",
+          "percent": 10
+        },
+        {
+          "hour": "21:00",
+          "percent": 8
+        },
+        {
+          "hour": "22:00",
+          "percent": 6
+        },
+        {
+          "hour": "23:00",
+          "percent": 5
+        },
+        {
+          "hour": "00:00",
+          "percent": 3
+        },
+        {
+          "hour": "01:00",
+          "percent": 2
+        },
+        {
+          "hour": "02:00",
+          "percent": 2
+        },
+        {
+          "hour": "03:00",
+          "percent": 1
+        }
+      ]
+    },
+    {
+      "Thursday": [
+        {
+          "hour": "04:00",
+          "percent": 3
+        },
+        {
+          "hour": "05:00",
+          "percent": 3
+        },
+        {
+          "hour": "06:00",
+          "percent": 5
+        },
+        {
+          "hour": "07:00",
+          "percent": 6
+        },
+        {
+          "hour": "08:00",
+          "percent": 8
+        },
+        {
+          "hour": "09:00",
+          "percent": 11
+        },
+        {
+          "hour": "10:00",
+          "percent": 15
+        },
+        {
+          "hour": "11:00",
+          "percent": 19
+        },
+        {
+          "hour": "12:00",
+          "percent": 22
+        },
+        {
+          "hour": "13:00",
+          "percent": 23
+        },
+        {
+          "hour": "14:00",
+          "percent": 23
+        },
+        {
+          "hour": "15:00",
+          "percent": 20
+        },
+        {
+          "hour": "16:00",
+          "percent": 15
+        },
+        {
+          "hour": "17:00",
+          "percent": 10
+        },
+        {
+          "hour": "18:00",
+          "percent": 6
+        },
+        {
+          "hour": "19:00",
+          "percent": 2
+        },
+        {
+          "hour": "21:00",
+          "percent": 1
+        },
+        {
+          "hour": "22:00",
+          "percent": 1
+        },
+        {
+          "hour": "23:00",
+          "percent": 1
+        },
+        {
+          "hour": "00:00",
+          "percent": 1
+        },
+        {
+          "hour": "02:00",
+          "percent": 1
+        },
+        {
+          "hour": "03:00",
+          "percent": 2
+        }
+      ]
+    },
+    {
+      "Friday": [
+        {
+          "hour": "07:00",
+          "percent": 1
+        },
+        {
+          "hour": "08:00",
+          "percent": 3
+        },
+        {
+          "hour": "09:00",
+          "percent": 12
+        },
+        {
+          "hour": "10:00",
+          "percent": 24
+        },
+        {
+          "hour": "11:00",
+          "percent": 28
+        },
+        {
+          "hour": "12:00",
+          "percent": 21
+        },
+        {
+          "hour": "13:00",
+          "percent": 17
+        },
+        {
+          "hour": "14:00",
+          "percent": 23
+        },
+        {
+          "hour": "15:00",
+          "percent": 27
+        },
+        {
+          "hour": "16:00",
+          "percent": 19
+        },
+        {
+          "hour": "17:00",
+          "percent": 7
+        },
+        {
+          "hour": "18:00",
+          "percent": 2
+        }
+      ]
+    },
+    {
+      "Saturday": [
+        {
+          "hour": "04:00",
+          "percent": 2
+        },
+        {
+          "hour": "06:00",
+          "percent": 1
+        },
+        {
+          "hour": "07:00",
+          "percent": 7
+        },
+        {
+          "hour": "08:00",
+          "percent": 20
+        },
+        {
+          "hour": "09:00",
+          "percent": 38
+        },
+        {
+          "hour": "10:00",
+          "percent": 53
+        },
+        {
+          "hour": "11:00",
+          "percent": 57
+        },
+        {
+          "hour": "12:00",
+          "percent": 51
+        },
+        {
+          "hour": "13:00",
+          "percent": 43
+        },
+        {
+          "hour": "14:00",
+          "percent": 44
+        },
+        {
+          "hour": "15:00",
+          "percent": 47
+        },
+        {
+          "hour": "16:00",
+          "percent": 43
+        },
+        {
+          "hour": "17:00",
+          "percent": 31
+        },
+        {
+          "hour": "18:00",
+          "percent": 21
+        },
+        {
+          "hour": "19:00",
+          "percent": 17
+        },
+        {
+          "hour": "20:00",
+          "percent": 18
+        },
+        {
+          "hour": "21:00",
+          "percent": 20
+        },
+        {
+          "hour": "22:00",
+          "percent": 21
+        },
+        {
+          "hour": "23:00",
+          "percent": 19
+        },
+        {
+          "hour": "00:00",
+          "percent": 17
+        },
+        {
+          "hour": "01:00",
+          "percent": 13
+        },
+        {
+          "hour": "02:00",
+          "percent": 9
+        },
+        {
+          "hour": "03:00",
+          "percent": 5
+        }
+      ]
+    }
+  ],
+  "relatedSearches": [
+    "cachoeira terra preta",
+    "cachoeira da macumba mairiporã",
+    "cachoeiras em mairiporã sp",
+    "cachoeira caieiras",
+    "cachoeira dos remédios mairiporã",
+    "cachoeira sete quedas mairiporã",
+    "cachoeira trilha dos macacos",
+    "estrada da caceia - mairiporã"
+  ],
+  "relateds": [
+    {
+      "mainName": "Barragem Paiva Castro",
+      "url": null
+    },
+    {
+      "mainName": "Pico Do Olho D'agua",
+      "url": null
+    },
+    {
+      "mainName": "Parque Estadual Cantareira - Núcleo Cabuçu",
+      "url": null
+    },
+    {
+      "mainName": "Sítio do Picapau Amarelo - Br",
+      "url": null
+    },
+    {
+      "mainName": "Lago das Carpas",
+      "url": null
+    },
+    {
+      "mainName": "Sitiolândia",
+      "url": null
+    },
+    {
+      "mainName": "Parque Estadual do Juquery",
+      "url": null
+    },
+    {
+      "mainName": "Serra da Cantareira",
+      "url": null
+    }
+  ]
+}

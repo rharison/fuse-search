@@ -1,0 +1,595 @@
+{
+  "mainName": "Itaú Cultural",
+  "slug": "itau-cultural",
+  "category": "Centro cultural",
+  "locationInformation": {
+    "latitude": "-23.5705347",
+    "longitude": "-46.6460484"
+  },
+  "basicInformation": [
+    {
+      "label": "endereço",
+      "tooltip": "Copiar endereço",
+      "text": "Av. Paulista, 149 - Bela Vista, São Paulo - SP, 01311-000",
+      "icon": "https://www.gstatic.com/images/icons/material/system_gm/1x/place_gm_blue_24dp.png"
+    },
+    {
+      "label": "website",
+      "tooltip": "Abrir website",
+      "text": "itaucultural.org.br",
+      "icon": "https://www.gstatic.com/images/icons/material/system_gm/1x/public_gm_blue_24dp.png"
+    },
+    {
+      "label": "telefone",
+      "tooltip": "Copiar número de telefone",
+      "text": "(11) 2168-1777",
+      "icon": "https://www.gstatic.com/images/icons/material/system_gm/1x/phone_gm_blue_24dp.png"
+    },
+    {
+      "label": "Code",
+      "tooltip": "Copiar Plus Code",
+      "text": "C9H3+QH São Paulo, SP",
+      "icon": "https://maps.gstatic.com/mapfiles/maps_lite/images/2x/ic_plus_code.png"
+    }
+  ],
+  "ratingInformation": {
+    "basicRatingInformation": {
+      "averageGrade": 4.7,
+      "totalOfEvaluations": 11804
+    },
+    "ratingsByGrade": [
+      {
+        "grade": 5,
+        "totalRatings": 9303
+      },
+      {
+        "grade": 4,
+        "totalRatings": 1958
+      },
+      {
+        "grade": 3,
+        "totalRatings": 398
+      },
+      {
+        "grade": 2,
+        "totalRatings": 75
+      },
+      {
+        "grade": 1,
+        "totalRatings": 70
+      }
+    ]
+  },
+  "ratingTags": [
+    {
+      "tag": "espaço",
+      "count": 4,
+      "tooltip": "espaço, mencionado em 4 avaliações"
+    },
+    {
+      "tag": "acervo",
+      "count": 198,
+      "tooltip": "acervo, mencionado em 198 avaliações"
+    },
+    {
+      "tag": "história do brasil",
+      "count": 174,
+      "tooltip": "história do brasil, mencionado em 174 avaliações"
+    },
+    {
+      "tag": "andares",
+      "count": 73,
+      "tooltip": "andares, mencionado em 73 avaliações"
+    },
+    {
+      "tag": "espetáculo",
+      "count": 56,
+      "tooltip": "espetáculo, mencionado em 56 avaliações"
+    },
+    {
+      "tag": "documentos",
+      "count": 40,
+      "tooltip": "documentos, mencionado em 40 avaliações"
+    },
+    {
+      "tag": "curadoria",
+      "count": 35,
+      "tooltip": "curadoria, mencionado em 35 avaliações"
+    },
+    {
+      "tag": "fauna",
+      "count": 24,
+      "tooltip": "fauna, mencionado em 24 avaliações"
+    },
+    {
+      "tag": "flora",
+      "count": 20,
+      "tooltip": "flora, mencionado em 20 avaliações"
+    },
+    {
+      "tag": "sesc",
+      "count": 15,
+      "tooltip": "sesc, mencionado em 15 avaliações"
+    }
+  ],
+  "featuredPhotos": [
+    "https://lh5.googleusercontent.com/p/AF1QipOUEKOaD-ghhOxv9hNGZClljsEcYOBTHJtvF-53=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMgiKy_kh9sc8wKhhUaWOymo1hEbfTmkvpgdRi8=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOpAL110WfsPrejvKgvaLu3QNavQMxb5KNW7QW_=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNeLoUie_o_nsMW2-YE7kwGxCxbeqhqF84fmmKK=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipO-13wFdFIvbP6F2R3R38a1RWeZs8-m8CB9pfJ-=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNO21K8mq8PVWjki_cnf1eR6bGQg_zDp4XGE7-V=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPYXLWV6DzU3gETuPxx3N5Xbllx3JSmCdlznzNH=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMqGG4z-_mvoIE1M_Bg7-ZR3LJ-yE1Vg7qocDrP=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipO1hKVJxxjBK3goNBgepfoZEJKM-9d-tFE7dpt9=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPSRFjUP3aQtmWu2tBBWB5zxICXMJCY0QuBJU_l=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipO5zF_VVA-L0L3f8zkSgYPUWPesemFCcrRJd0AK=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMsRNYvh7iNqxJ9wHa0TiWfdi9ufZLdmIRkUUy6=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPOG4JZebEHIYjR-fBfUOQXHX7TLwBs0atWppfj=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMud62NJ2M1ZTSwS09FFp6ZNlfHxAAupI9SzLqT=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipN80r6sK8ScdxNriAZio61ImqfSRspB5Z13yc-O=w1024-h576-k-no"
+  ],
+  "topComments": [
+    {
+      "author": "Angela Aranda",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucpkj0kNhoeiwTe5uoCa2Atc1GhOZnglmpWLANGBgYs=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "Localizado na Avenida Paulista, com entrada gratuita. Mostra cultural brasileira com vasto conteúdo! Lugar lindo...mas pelo amor de Deus...não vá só pra tirar foto e fazer videozinho na escada pra postar em redes sociais ! É linda, mas atrapalha outras pessoas e o local tem muitas outras coisas incríveis também",
+      "gradeComment": 5
+    },
+    {
+      "author": "Carla Maciel",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucqI3fuQGlaVxlekrV49HQvn0rduT5PJjLWASby0Hw=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "Minha primeira visita ao local foi uma excelente surpresa. A exposição do Bispo do Rosário foi o acervo mais completo que já visitei do artista. O espaço e as exposições permanentes também valem a visita.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Yan Lantyer",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucrvXojcJWdM1d-4cYPfQYT6EwkN1XoCorRN8xDp9g=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "A exposição sobre o Brasil é super interessante, podemos encontrar vários documentos históricos que datam da “descoberta” do nosso país durante o início do período colonial. Os mitos que cercavam a imensidão de terras, no imaginário dos cartógrafos da época, povoaram nossa vasta e desconhecida terra com figuras mitológicas. Além disso, existe uma exposição de arte moderna nos andares inferiores.",
+      "gradeComment": 5
+    },
+    {
+      "author": "José Eufranio",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucr8ejjJMuQY-421DK6AVpyPway0HH4hfwDfllRQI1g=w36-h36-p-c0x00000000-rp-mo-ba5-br100",
+      "comment": "Adorei a minha visita ao Instituto Itaú Cultural. Possui acervo muito variado sobre importantes momentos da história, cultura, fauna e flora de nosso país. A entrada é gratuita e de fácil acesso para os visitantes. Vale a pena conhecer e se encantar com as exposições da casa. Super recomendo.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Crislayne Aparecida",
+      "photoAuthor": "https://lh3.googleusercontent.com/a/AItbvmlUyRrKaVJAGkDv5_FzohLDcf7YtnE9PEDCIb_nDQ=w36-h36-p-c0x00000000-rp-mo-ba3-br100",
+      "comment": "O Itaú cultura é prefeito. Várias salas de exposições, com conteúdos lindos para quem entende de arte. A semana que vim, havia uma exposição do Benjamin Oliveira, um artista circense. Muito lindo 🤩",
+      "gradeComment": 5
+    },
+    {
+      "author": "Dicas da Je por Jessica Morais",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucphlhIoHD1OQ8oWoXhQxtOKZVCYt8RFQldM5XoZ6A=w36-h36-p-c0x00000000-rp-mo-ba3-br100",
+      "comment": "Amei conhecer o espaço Itaú cultural. Na visita havia 3 exposições diferentes: Paulo Freire, Benjamin de Oliveira (Circo) Magnética Gostei muito da experiência. Pretendo visitar outras vezes.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Mariana Cavallari",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucrJH-hCk7OiVxuGEFem8ZsaQn0pDmpZzAazLuzM=w36-h36-p-c0x00000000-rp-mo-ba3-br100",
+      "comment": "Vale muito a pena a visita! Entrada gratuita com exposições de tirar o fôlego. Em um dia de visita ao Itaú Cultural fui em três exposições diferentes (sendo uma delas fixa, sobre a história do Brasil). Não deixem de conhecer o local ao passearem na Avenida Paulista!",
+      "gradeComment": 5
+    },
+    {
+      "author": "Hector Nieva Melo",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucphHGcRys6PZ3kPQvEY3g1_DABmYS6pkIhaPfG0iuQ=w36-h36-p-c0x00000000-rp-mo-ba5-br100",
+      "comment": "Exposições interessantes sobre a história do Brasil, amazônia e outras exposições itinerantes. Dizem que há um mirante no topo, mas não sabia e acabei não indo. A entrada foi gratuita.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Gabriela Frossard",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucpDkaSdFd0G2rOxzDa_zs-mXllgBsVfnN1hAkdntGE=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "Um passeio delicioso. A entrada é gratuita (fui num domingo) e há variedade do estilo das exposições... Para todos os gostos.",
+      "gradeComment": 5
+    },
+    {
+      "author": "luramirez84",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucqz0NYXibahs4TpI5joLtGsA0bFYwtE7FJ5pBRimQ=w36-h36-p-c0x00000000-rp-mo-br100",
+      "comment": "Lugar incrível! Com diversas exposições, muito cuidado com os protocolos de segurança devido à pandemia, funcionários educados e prestativos. Foi uma experiência fenomenal!",
+      "gradeComment": 5
+    },
+    {
+      "author": "Marcela Medina Magon GMail",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucq2Z4TIOxZyr45MRLfznIjPIR2YkngyfltE29HT5A=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "Visitei a exposição do Tunga, está incrível! O Itaú Cultural é um prédio na Av Paulista destinado a exposições de arte e programações culturais. Fácil acesso, bem localizado, ótimo atendimento e curadoria.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Camila Miki",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucre2OKMwAdghzLpR0zp7oAVHJvOIHtDE7t0Y9Ln2Ak=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "Na minha opinião, o Itaú cultural é um dos melhores centros culturais de São Paulo, com ótimas exposições.  O espaço é super acessível, com entrada gratuita. Traz exposições temporárias de artistas relevantes brasileiros e a coleção permanente \"brasiliana\", acervo riquíssimo sobre a história do Brasil.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Maria Cristina da Silvia Oliveira Ferreira",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucoyksJR2_b_bZQh3HO1lrk_8xFcTN0OVnxxJgdX3Hs=w36-h36-p-c0x00000000-rp-mo-ba5-br100",
+      "comment": "Excelente, as exposições traz muitas informações que precisamos e o espeço é ótimo, com localidade muito funcional, o atendimento das recepcionistas estão de parabéns.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Tatiana Vieira",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZuco0opThyppPqCT8MaLvc0EKIHgLmPkDM41bNdyVEaY=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "Assistimos o show da Lia de Itamaracá e foi perfeito, totalmente grátis. Uma experiência incrível. A exposição também é legal.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Rogerio Chileno XING",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucocAGyTdq3WdLH1SlTuFoRVhNdSpgQOc1t3TR9CYOc=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "A proposta das Ocupações sempre me são atrativas, mudando constantemente, conseguem sempre ter uma diversidade de montagem de acordo com as pessoas homenageadas. Recomendo",
+      "gradeComment": 4
+    },
+    {
+      "author": "Maria Marluce de Carvalho Martins Castromil",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucr0dRQZzc63fmPzGGXc2Hw40127mBWeexVuocnX5tE=w36-h36-p-c0x00000000-rp-mo-ba5-br100",
+      "comment": "Conhecer a história de quem fez a diferença na vida de muitas pessoas com detalhes é muito importante para valorizarmos ainda mais o grande Educador Paulo Freire.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Geovana Ferreira",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucpr_4cSRngnjgRXV-3gXb0P9n76fqmnXthRX5EjeDU=w36-h36-p-c0x00000000-rp-mo-br100",
+      "comment": "Local muito bom agradável, contém diversas exposições legais e interessantes.",
+      "gradeComment": 4
+    },
+    {
+      "author": "Vicky Quinny",
+      "photoAuthor": "https://lh3.googleusercontent.com/a/AItbvmmWWbug0-93ZzldFoaSiCqoLE8hLXuQ9s0tcZh2nQ=w36-h36-p-c0x00000000-rp-mo-br100",
+      "comment": "Majestoso. Acho incrível essa iniciativa de disponibilizar cultura e exposições de forma gratuita para o público. Eles estão de parabéns. Adorei conhecer a exposição Ocupação Benjamin de Oliveira.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Andrea Camillo",
+      "photoAuthor": "https://lh3.googleusercontent.com/a/AItbvmlRbgYgrwNKK5AAw_maqDX76wU_WR87Ii1ENS_b=w36-h36-p-c0x00000000-rp-mo-ba3-br100",
+      "comment": "Maravilhoso, guia pela exposição muito simpática,adorei as obras e os artistas em exposição,muito limpo e organizado, estão de parabéns.",
+      "gradeComment": 5
+    },
+    {
+      "author": "João Luiz",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucpaPQMXklqpw6FhI0PrK0OrUxIrNfp58y8jJIydiw=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "O Itaú cultural é um espaço gratuito de acesso livre seguindo as normas de segurança por covid que possui belíssimas exposições das mais variadas. Lá você se sente conectado com a história e com a arte, além de movimento importantes que ocorreram no Brasil como o movimento de igualdade racial e de gênero. É um ótimo ponto turístico para um passei, podendo-se passar horas lá dentro (principalmente se estiver disponível à ver todas as exposições, o que vale muito a pena)",
+      "gradeComment": 5
+    }
+  ],
+  "peakHours": [
+    {
+      "Sunday": [
+        {
+          "hour": "11:00",
+          "percent": 34
+        },
+        {
+          "hour": "12:00",
+          "percent": 54
+        },
+        {
+          "hour": "13:00",
+          "percent": 71
+        },
+        {
+          "hour": "14:00",
+          "percent": 80
+        },
+        {
+          "hour": "15:00",
+          "percent": 85
+        },
+        {
+          "hour": "16:00",
+          "percent": 91
+        },
+        {
+          "hour": "17:00",
+          "percent": 96
+        },
+        {
+          "hour": "18:00",
+          "percent": 88
+        }
+      ]
+    },
+    {
+      "Monday": []
+    },
+    {
+      "Tuesday": [
+        {
+          "hour": "11:00",
+          "percent": 34
+        },
+        {
+          "hour": "12:00",
+          "percent": 44
+        },
+        {
+          "hour": "13:00",
+          "percent": 53
+        },
+        {
+          "hour": "14:00",
+          "percent": 59
+        },
+        {
+          "hour": "16:00",
+          "percent": 58
+        },
+        {
+          "hour": "17:00",
+          "percent": 50
+        },
+        {
+          "hour": "18:00",
+          "percent": 39
+        },
+        {
+          "hour": "19:00",
+          "percent": 28
+        }
+      ]
+    },
+    {
+      "Wednesday": [
+        {
+          "hour": "11:00",
+          "percent": 33
+        },
+        {
+          "hour": "12:00",
+          "percent": 41
+        },
+        {
+          "hour": "13:00",
+          "percent": 48
+        },
+        {
+          "hour": "14:00",
+          "percent": 53
+        },
+        {
+          "hour": "15:00",
+          "percent": 57
+        },
+        {
+          "hour": "16:00",
+          "percent": 57
+        },
+        {
+          "hour": "17:00",
+          "percent": 54
+        },
+        {
+          "hour": "18:00",
+          "percent": 47
+        },
+        {
+          "hour": "19:00",
+          "percent": 37
+        }
+      ]
+    },
+    {
+      "Thursday": [
+        {
+          "hour": "11:00",
+          "percent": 37
+        },
+        {
+          "hour": "12:00",
+          "percent": 46
+        },
+        {
+          "hour": "13:00",
+          "percent": 54
+        },
+        {
+          "hour": "14:00",
+          "percent": 58
+        },
+        {
+          "hour": "15:00",
+          "percent": 60
+        },
+        {
+          "hour": "16:00",
+          "percent": 59
+        },
+        {
+          "hour": "17:00",
+          "percent": 60
+        },
+        {
+          "hour": "18:00",
+          "percent": 69
+        },
+        {
+          "hour": "19:00",
+          "percent": 76
+        }
+      ]
+    },
+    {
+      "Friday": [
+        {
+          "hour": "11:00",
+          "percent": 32
+        },
+        {
+          "hour": "12:00",
+          "percent": 42
+        },
+        {
+          "hour": "13:00",
+          "percent": 51
+        },
+        {
+          "hour": "14:00",
+          "percent": 58
+        },
+        {
+          "hour": "15:00",
+          "percent": 61
+        },
+        {
+          "hour": "16:00",
+          "percent": 63
+        },
+        {
+          "hour": "17:00",
+          "percent": 65
+        },
+        {
+          "hour": "18:00",
+          "percent": 69
+        },
+        {
+          "hour": "19:00",
+          "percent": 67
+        }
+      ]
+    },
+    {
+      "Saturday": [
+        {
+          "hour": "11:00",
+          "percent": 30
+        },
+        {
+          "hour": "12:00",
+          "percent": 44
+        },
+        {
+          "hour": "13:00",
+          "percent": 57
+        },
+        {
+          "hour": "14:00",
+          "percent": 66
+        },
+        {
+          "hour": "15:00",
+          "percent": 71
+        },
+        {
+          "hour": "16:00",
+          "percent": 77
+        },
+        {
+          "hour": "17:00",
+          "percent": 89
+        },
+        {
+          "hour": "18:00",
+          "percent": 100
+        },
+        {
+          "hour": "19:00",
+          "percent": 96
+        }
+      ]
+    }
+  ],
+  "relatedSearches": [
+    "itaú cultural ingresso",
+    "itaú cultural play mostra",
+    "itaú cultural agendamento",
+    "itaú cultural hoje",
+    "itaú cultural programação",
+    "itaú cultural cinema",
+    "itaú cultural cursos",
+    "itaú cultural mestrado"
+  ],
+  "relateds": [
+    {
+      "mainName": "Museu de Arte de São Paulo Assis Chateaubriand",
+      "url": null
+    },
+    {
+      "mainName": "Japan House São Paulo",
+      "url": null
+    },
+    {
+      "mainName": "Sesc Avenida Paulista",
+      "url": null
+    },
+    {
+      "mainName": "Casa das Rosas - Espaço Haroldo de Campos de Poesia e Literatura",
+      "url": null
+    },
+    {
+      "mainName": "Pinacoteca de São Paulo",
+      "url": null
+    },
+    {
+      "mainName": "Instituto Moreira Salles - IMS Paulista",
+      "url": null
+    },
+    {
+      "mainName": "Museu de Arte Moderna de São Paulo",
+      "url": null
+    },
+    {
+      "mainName": "MAC USP - Museu de Arte Contemporânea da Universidade de São Paulo",
+      "url": null
+    },
+    {
+      "mainName": "Centro Cultural São Paulo",
+      "url": null
+    },
+    {
+      "mainName": "MIS - Museu da Imagem e do Som de São Paulo",
+      "url": null
+    },
+    {
+      "mainName": "Sesc Pompeia",
+      "url": null
+    },
+    {
+      "mainName": "Centro Cultural Banco do Brasil - São Paulo",
+      "url": null
+    },
+    {
+      "mainName": "Theatro Municipal de São Paulo",
+      "url": null
+    },
+    {
+      "mainName": "Museu do Futebol",
+      "url": null
+    },
+    {
+      "mainName": "Museu Catavento",
+      "url": null
+    },
+    {
+      "mainName": "MIS Experience",
+      "url": null
+    },
+    {
+      "mainName": "Caixa Cultural",
+      "url": null
+    },
+    {
+      "mainName": "Farol Santander",
+      "url": null
+    },
+    {
+      "mainName": "Parque Tenente Siqueira Campos - Trianon",
+      "url": null
+    },
+    {
+      "mainName": "Sesc Pinheiros",
+      "url": null
+    },
+    {
+      "mainName": "Museu de Arte Moderna do Rio de Janeiro",
+      "url": null
+    },
+    {
+      "mainName": "Beco do Batman",
+      "url": null
+    },
+    {
+      "mainName": "Bienal Internacional de Arte de São Paulo",
+      "url": null
+    }
+  ]
+}
