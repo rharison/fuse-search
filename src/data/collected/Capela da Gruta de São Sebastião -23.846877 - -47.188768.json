@@ -1,0 +1,954 @@
+{
+  "mainName": "Capela da Gruta de São Sebastião",
+  "slug": "capela-da-gruta-de-sao-sebastiao",
+  "category": "Atração turística",
+  "locationInformation": {
+    "latitude": "-23.846877",
+    "longitude": "-47.188768"
+  },
+  "basicInformation": [
+    {
+      "label": "endereço",
+      "tooltip": "Copiar endereço",
+      "text": "Ibiúna, SP, 18150-000",
+      "icon": "https://www.gstatic.com/images/icons/material/system_gm/1x/place_gm_blue_24dp.png"
+    },
+    {
+      "label": "telefone",
+      "tooltip": "Copiar número de telefone",
+      "text": "(15) 3294-7223",
+      "icon": "https://www.gstatic.com/images/icons/material/system_gm/1x/phone_gm_blue_24dp.png"
+    },
+    {
+      "label": "Code",
+      "tooltip": "Copiar Plus Code",
+      "text": "5R36+6F Ibiúna, São Paulo",
+      "icon": "https://maps.gstatic.com/mapfiles/maps_lite/images/2x/ic_plus_code.png"
+    },
+    {
+      "label": "send-to-device",
+      "text": "Enviar para smartphone",
+      "icon": "https://maps.gstatic.com/consumer/images/icons/1x/send_to_mobile_alt_gm_blue_24dp.png"
+    },
+    {
+      "label": "merchant",
+      "text": "Reivindicar esta empresa",
+      "icon": "https://www.gstatic.com/images/icons/material/system_gm/1x/verified_user_gm_blue_24dp.png"
+    }
+  ],
+  "ratingInformation": {
+    "basicRatingInformation": {
+      "averageGrade": 4.7,
+      "totalOfEvaluations": 217
+    },
+    "ratingsByGrade": [
+      {
+        "grade": 5,
+        "totalRatings": 172
+      },
+      {
+        "grade": 4,
+        "totalRatings": 29
+      },
+      {
+        "grade": 3,
+        "totalRatings": 14
+      },
+      {
+        "grade": 2,
+        "totalRatings": 2
+      },
+      {
+        "grade": 1,
+        "totalRatings": 0
+      }
+    ]
+  },
+  "ratingTags": [
+    {
+      "tag": "natureza",
+      "count": 18,
+      "tooltip": "natureza, mencionado em 18 avaliações"
+    },
+    {
+      "tag": "paz",
+      "count": 11,
+      "tooltip": "paz, mencionado em 11 avaliações"
+    },
+    {
+      "tag": "banheiros",
+      "count": 6,
+      "tooltip": "banheiros, mencionado em 6 avaliações"
+    },
+    {
+      "tag": "caminhada",
+      "count": 6,
+      "tooltip": "caminhada, mencionado em 6 avaliações"
+    },
+    {
+      "tag": "fé",
+      "count": 5,
+      "tooltip": "fé, mencionado em 5 avaliações"
+    },
+    {
+      "tag": "história",
+      "count": 5,
+      "tooltip": "história, mencionado em 5 avaliações"
+    },
+    {
+      "tag": "romaria",
+      "count": 4,
+      "tooltip": "romaria, mencionado em 4 avaliações"
+    },
+    {
+      "tag": "nascente",
+      "count": 4,
+      "tooltip": "nascente, mencionado em 4 avaliações"
+    },
+    {
+      "tag": "verde",
+      "count": 4,
+      "tooltip": "verde, mencionado em 4 avaliações"
+    },
+    {
+      "tag": "igreja",
+      "count": 3,
+      "tooltip": "igreja, mencionado em 3 avaliações"
+    }
+  ],
+  "featuredPhotos": [
+    "https://lh5.googleusercontent.com/p/AF1QipPm8jakh-VkJnH8_dxgGG8C5NTsi7SoAMYSCuKw=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNZYAz8YR7ddLKC5VGFdafEykJfM8Tm4CsppT-T=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipO-alwcvamPuzvaTzcA9BOua40YGyABzLyML81N=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipO90X8vgLIeXCoJh23ldPlvXXwAlfPcC7MSAZKO=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMMFzgw3p4TCOc8MLlEpkgzXD0UnudL_SxFFniv=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOD3e1Qt5nUZm88LTjTkJh0WGMWCwE7gI5A5odU=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOHNkPlhEL9hWo8QCd2BhjGYvy7XQtGwI5BG0SC=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipO9TIj8dQt4jZWWtM5cP3RHsjrTVPiq3cpFIe4b=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMsBwKzAm7szU1LHJAa_Fy0wWcHhBexAN0n7LZQ=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPBPFS0KWRkN0nAkOTznS6Y7QBOKvYOHMA_glmL=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMck72JYS_HVLIxshLNIF_gzxEr5bC-IPw6vz4A=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNZYH7_9_b624hThJr8Ezaz-Nog0egDAV6PiWeO=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOWWLuyYjwtDb6AzalzZQwDMenhIg6_ouJDvH98=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipP3yi_Q-PUwHHjaKvF8KCqVCIotqjSBPJY7KpOh=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipN-j5pLL0JB4dCqQ5z4cEVBmvWxo9PJJk2kYpUr=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMUNDbZG6dp2aIA0oc-ib6wK6wErgvRhpO-30Oq=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOTBH7-fR5cJhnCxS3QGXwIxGcvs7vaj6dpnyEy=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPEd_YwX9R0fv7O4kv7H-fbzWawmgnITaDyHwZ3=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNFUaSKWAcVYz1jybA3SrtJ6ka1A22TKI-p71zQ=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNlT8ALsA8BsroepW0gux-vFAG_iJOXv5rOKBBh=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPYLVYTArfn0TbflQ3fOofd1q0HemJjwvUFIIS8=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMB9TFeVyaN60gGWQD-K5MifCSxksFOU6yk6TxH=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPVvP1ouHi4SyXXw3fyPFJztL1ri3By2e5XGF06=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipN50xABzfXf_W194Zpm8BQWpgCUAlBY3g80MpXU=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPWIqXVjcKu-dw2eic_z4izOJxkrBroVNL1purR=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNWQ5vJeXysdg5VjKw3nCON4J2_U-SkzZbOBbBi=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMvkD8t4d0i6hH_dF9NZfvcTfpYEf-1g1Rb_KM3=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPEPBlvYxHHPSdKao7ZluBYeC9WV__rsjIL3L4G=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMEbsyyLa-mo_wcu0WQsmj_gYDoupWFwMiy4Ikc=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMIywtiJA0-L3nF3KWUfyIjvXdjw-LIP7gJpeBn=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNtjtOGKSKAZGnaEitklRK-myNdhXLKg_scG4lf=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPryGAim1ZAH-iNS3pZP6NQSNQYBc9FZJ_1dTn4=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMtzY6kNOq_plhL4880JkM1k37Kv4GjUEWFElmz=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNuPQQcclUHIGz-k7yHNyu4ESS8tCxD5ZOulHxA=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipO9Um2tiSHs2bMOq7nvfusOkG9TBm9nbytczV8q=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPIcHWoS03PNJ_aQk7CVvSjEquWUiGCzbd6ThKW=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNm0srfoN4pkUa0uku4VYUAhFo25JqklTGaIZru=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPKkGRqJ0stYCXcimNypfduKGSzBwABhtzW4jpj=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNsE5uObjpg8E25st8m-HeEuni9lqUdSLFe4uX2=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNHMTbQw1ddpBb3S7Oo1NMZQ3Huq_nr3Rwr_aK7=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOT5SmV0ycXCLbGgwQHBvhmV_7Y07Kn0v3rErkv=w1024-h576-k-no"
+  ],
+  "topComments": [
+    {
+      "author": "Daniela Pereira",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucoeYQDLAmqnbCP_bg3fZemjQ77B_dJPwQLKdasT7Q=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "O acesso para o local pela estrada é bem traquilo, mesmo em veículo de passeio. A sinalização e informações sobre onde está a gruta e capela é no boca a boca, (confesso que fiquei meio perdida). O local é bem bonito falando em natureza.  Não ha infraestrutura nenhuma, nem água,  nem alimentação e usar o sanitário só orando mesmo. Muito lixo infelizmente em alguns trechos. A caminhada é um desafio viável, mas para crianças e idosos eu não o recomendo, não tem segurança nem suporte em caso de acidente.",
+      "gradeComment": 3
+    },
+    {
+      "author": "RAQUEL MINATEL",
+      "photoAuthor": "https://lh3.googleusercontent.com/a/AItbvmlfR5ekSev_N_aVfbT1OAoJhkYWCUGBbg0KCAnr=w36-h36-p-c0x00000000-rp-mo-br100",
+      "comment": "Lugar lindo, muita natureza para ser apreciada.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Marcia Ayrosa",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucoFPUWSIZo67CPdcN1-eYr76QlVPdQyYM-uBDGHCc4=w36-h36-p-c0x00000000-rp-mo-br100",
+      "comment": "Lugar lindo para estar em contato com a natureza. A gruta tem uma nascente, que apesar do trajeto ser curto, precisa um pouco de preparo físico, mas vale a pena pelo visual. Infelizmente falta infraestrutura, porque próximo a Capela tem banheiros, mas só devem ser usados em caso de extrema necessidade e poderia ter uma melhor sinalização.",
+      "gradeComment": 4
+    },
+    {
+      "author": "Daniel Gonçalves",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucrV7k6n7miPjNyx5Uxe11Or4P-MSzR-9GPEe0UK_5M=w36-h36-p-c0x00000000-rp-mo-ba5-br100",
+      "comment": "Um bom lugar a se conhecer na região, infelizmente não tão bem sinalizado como merecia, porém o boca a boca suoera qualquer placa e ajuda a desbravar, surpresa oela gruta ser muito incrível e recimendo conhecer, triste oela quantidade de lixo que deixam na natureza tornando o belo menos atrativo, recomendo para quem for a gruta levar água e fazer o percurso com calma, mesmo não sendo uma trilha grande e de dificuldade extrema, algusn cuidados são bons e garantem um ótimo passeio. Ficaria feliz em avaliar com mais estrelas, mas pelos motivos acima citados mantenho a avaliação",
+      "gradeComment": 3
+    },
+    {
+      "author": "Adriana Nogueira",
+      "photoAuthor": "https://lh3.googleusercontent.com/a/AItbvmnQ6rBKms0I7LWvEeK5M_1TjqD-yDW9KTb7v7M=w36-h36-p-c0x00000000-rp-mo-br100",
+      "comment": "Só achei que faltou uma estrutura dos banheiros Estavam todos sujos sem água para dar descarga um nojo por ser uma festa tradicional da cidade deviam ter se atentado a isso ....um descaso com os fiéis",
+      "gradeComment": 3
+    },
+    {
+      "author": "Claudinei Garcia",
+      "photoAuthor": "https://lh3.googleusercontent.com/a/AItbvmn9zSKbEcOM8Ubj6QOF8XkZx6ot7fJMSVi1EIZS=w36-h36-p-c0x00000000-rp-mo-br100",
+      "comment": "Lugar lindo sucegado perfeito pra refrescar a cabeça rezar um pouco muito bom mesmo principalmente a natureza do lugar top",
+      "gradeComment": 5
+    },
+    {
+      "author": "Cecilia Couto",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucpuXphFOcusvV1qztgjrIQ3PG-oH27vV1PfB3dxbw=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "Fiz o percurso correndo da igreja do centro até a Capela,ida e volta,60km. Lugar maravilhoso. Amei",
+      "gradeComment": 5
+    },
+    {
+      "author": "JOÃOZINHO Mendes",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucpwoO36TnKYOTRg83gfaHegjO9K7ldTjUceBr-f6ZA=w36-h36-p-c0x00000000-rp-mo-br100",
+      "comment": "Lugar bonito, que vale ser visitado, mas precisa de cuidados nos sanitários.",
+      "gradeComment": 3
+    },
+    {
+      "author": "Ellen Santos",
+      "photoAuthor": "https://lh3.googleusercontent.com/a/AItbvmnJ3UDOpY2e2qhVPTYZoID9yqSJh04YX3btzwwb=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "Lugar bonito. Fui de bike, um desafio e tanto. Vale mto a pena conhecer e ir de bike pra quem gosta.",
+      "gradeComment": 4
+    },
+    {
+      "author": "Cecilia Couto",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucpuXphFOcusvV1qztgjrIQ3PG-oH27vV1PfB3dxbw=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "Eu fiz o percurso correndo da igreja na cidade até a gruta,60km ida e volta. Maravilhoso .",
+      "gradeComment": 5
+    },
+    {
+      "author": "CARLOS MANZOLI",
+      "photoAuthor": "https://lh3.googleusercontent.com/a/AItbvmk6zlGfNwTOhXEW02cb6i7jRlyLD2A8wb_j9qkn=w36-h36-p-c0x00000000-rp-mo-ba5-br100",
+      "comment": "Uma aventura de bike, com amigos, local bonito de se ver, tem que gosta de caminhar, para ver a gruta",
+      "gradeComment": 3
+    },
+    {
+      "author": "Patrick Pires (Grifolhos)",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZuco6dfoxuyVoE3c8Y1MNRf2d2DTzK_uWdMORXBk7WL4=w36-h36-p-c0x00000000-rp-mo-ba3-br100",
+      "comment": "Natureza e religiosidade em perfeita harmonia. Contém uma trilha de nível médio até uma gruta muito pitoresca.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Grace Kelly",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucqJVK4Pz7oM5M_5xX4Xe5O1TkPFJuC9JVo93nLrHw=w36-h36-p-c0x00000000-rp-mo-ba2-br100",
+      "comment": "Este lugar é lindo. São Sebastião é cercado por pedras, floresta Virgem, e um ar fresco e puro. Está sendo mais visitado a pouco tempo, pois era um lugar conhecido somente dos moradores locais. Na gruta, conta a história, que o Santo São Sebastião apareceu, e desde então, quem de sua água bebe, tem preces atendidas. Existem muitas romarias até a gruta, é devido ao grande espaço no local, muitas pessoas montam acampamento para pernoitarem. Tem um amplo espaço construído para refeições e mais ao lado , junto dos banheiros que são excelentes, existe também uma construção dedicada ao churrasco",
+      "gradeComment": 5
+    },
+    {
+      "author": "Isabel Cristina Correa Gianini",
+      "photoAuthor": "https://lh3.googleusercontent.com/a/AItbvmlnoDH7ARbjpyo5pjyTReKG5p3xLVYXVdrEIesV=w36-h36-p-c0x00000000-rp-mo-ba2-br100",
+      "comment": "Lugar gostoso  não tem lugar para comprar refeições tem que levar o lanche",
+      "gradeComment": 3
+    },
+    {
+      "author": "Marcos Da Silva",
+      "photoAuthor": "https://lh3.googleusercontent.com/a/AItbvmkct7VZmJj4G4YZZXn-_gpxfBcxmsRG9SF7NNNM=w36-h36-p-c0x00000000-rp-mo-ba3-br100",
+      "comment": "Lugar místico,de muita Fé",
+      "gradeComment": 5
+    },
+    {
+      "author": "Elisangela Alves de Oliveira",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucoJ7UZqDsBCz3SibDOdH4B8IbiItJGXty5WG1zMIAM=w36-h36-p-c0x00000000-rp-mo-ba2-br100",
+      "comment": "A caminhada é longa, mas vale a pena! 🙏",
+      "gradeComment": 5
+    },
+    {
+      "author": "Marcos Vieira",
+      "photoAuthor": "https://lh3.googleusercontent.com/a/AItbvmksdtnCrDCGRVDqbdHSKnS90PRmpKJMa-3C3Fyv=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "Lugar simples te retorna ao passado. Com muita espiritualidade no ar",
+      "gradeComment": 5
+    },
+    {
+      "author": "Reginaldo Ferreira de Souza",
+      "photoAuthor": "https://lh3.googleusercontent.com/a/AItbvmm4TjnOJS2zfhvGi3YJfUTzZw6dDkuhdlgW_LQB=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "Lugar maravilhoso e abençoado",
+      "gradeComment": 5
+    },
+    {
+      "author": "Edy drone",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZuco-pP5wkG9JquvVv4cPVW0Adiw0Ruf7q6SFJ3lwOQ8=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "Muito lindo o lugar",
+      "gradeComment": 5
+    },
+    {
+      "author": "fabiana barcelos renolphi",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucr3eS6l5g12b5LpSCeDB1avt19EsPT2WQVRAJUVkp4=w36-h36-p-c0x00000000-rp-mo-br100",
+      "comment": "Lugar lindoooo. Está fechada por conta da pandemia. Mas é possível visitar por fora, conhecer a gruta. Vale a pena o passeio.",
+      "gradeComment": 5
+    }
+  ],
+  "peakHours": [
+    {
+      "Sunday": [
+        {
+          "hour": "04:00",
+          "percent": 6
+        },
+        {
+          "hour": "05:00",
+          "percent": 12
+        },
+        {
+          "hour": "06:00",
+          "percent": 12
+        },
+        {
+          "hour": "07:00",
+          "percent": 9
+        },
+        {
+          "hour": "08:00",
+          "percent": 8
+        },
+        {
+          "hour": "09:00",
+          "percent": 10
+        },
+        {
+          "hour": "10:00",
+          "percent": 13
+        },
+        {
+          "hour": "11:00",
+          "percent": 15
+        },
+        {
+          "hour": "12:00",
+          "percent": 15
+        },
+        {
+          "hour": "13:00",
+          "percent": 14
+        },
+        {
+          "hour": "14:00",
+          "percent": 12
+        },
+        {
+          "hour": "15:00",
+          "percent": 9
+        },
+        {
+          "hour": "16:00",
+          "percent": 6
+        },
+        {
+          "hour": "17:00",
+          "percent": 3
+        },
+        {
+          "hour": "18:00",
+          "percent": 2
+        },
+        {
+          "hour": "19:00",
+          "percent": 1
+        },
+        {
+          "hour": "03:00",
+          "percent": 1
+        }
+      ]
+    },
+    {
+      "Monday": [
+        {
+          "hour": "08:00",
+          "percent": 1
+        },
+        {
+          "hour": "09:00",
+          "percent": 1
+        },
+        {
+          "hour": "10:00",
+          "percent": 1
+        },
+        {
+          "hour": "11:00",
+          "percent": 1
+        },
+        {
+          "hour": "12:00",
+          "percent": 1
+        },
+        {
+          "hour": "13:00",
+          "percent": 1
+        },
+        {
+          "hour": "14:00",
+          "percent": 3
+        },
+        {
+          "hour": "15:00",
+          "percent": 3
+        },
+        {
+          "hour": "16:00",
+          "percent": 2
+        },
+        {
+          "hour": "17:00",
+          "percent": 1
+        },
+        {
+          "hour": "18:00",
+          "percent": 1
+        },
+        {
+          "hour": "19:00",
+          "percent": 1
+        },
+        {
+          "hour": "20:00",
+          "percent": 1
+        },
+        {
+          "hour": "21:00",
+          "percent": 1
+        },
+        {
+          "hour": "22:00",
+          "percent": 1
+        },
+        {
+          "hour": "23:00",
+          "percent": 1
+        },
+        {
+          "hour": "00:00",
+          "percent": 1
+        },
+        {
+          "hour": "01:00",
+          "percent": 1
+        },
+        {
+          "hour": "02:00",
+          "percent": 1
+        }
+      ]
+    },
+    {
+      "Tuesday": [
+        {
+          "hour": "04:00",
+          "percent": 1
+        },
+        {
+          "hour": "05:00",
+          "percent": 1
+        },
+        {
+          "hour": "06:00",
+          "percent": 2
+        },
+        {
+          "hour": "07:00",
+          "percent": 3
+        },
+        {
+          "hour": "08:00",
+          "percent": 5
+        },
+        {
+          "hour": "09:00",
+          "percent": 9
+        },
+        {
+          "hour": "10:00",
+          "percent": 12
+        },
+        {
+          "hour": "11:00",
+          "percent": 17
+        },
+        {
+          "hour": "12:00",
+          "percent": 19
+        },
+        {
+          "hour": "13:00",
+          "percent": 21
+        },
+        {
+          "hour": "14:00",
+          "percent": 24
+        },
+        {
+          "hour": "15:00",
+          "percent": 28
+        },
+        {
+          "hour": "16:00",
+          "percent": 30
+        },
+        {
+          "hour": "17:00",
+          "percent": 25
+        },
+        {
+          "hour": "18:00",
+          "percent": 15
+        },
+        {
+          "hour": "19:00",
+          "percent": 6
+        },
+        {
+          "hour": "20:00",
+          "percent": 3
+        },
+        {
+          "hour": "21:00",
+          "percent": 1
+        },
+        {
+          "hour": "22:00",
+          "percent": 1
+        },
+        {
+          "hour": "23:00",
+          "percent": 1
+        },
+        {
+          "hour": "00:00",
+          "percent": 1
+        },
+        {
+          "hour": "01:00",
+          "percent": 1
+        },
+        {
+          "hour": "02:00",
+          "percent": 1
+        },
+        {
+          "hour": "03:00",
+          "percent": 1
+        }
+      ]
+    },
+    {
+      "Wednesday": [
+        {
+          "hour": "06:00",
+          "percent": 1
+        },
+        {
+          "hour": "07:00",
+          "percent": 1
+        },
+        {
+          "hour": "08:00",
+          "percent": 2
+        },
+        {
+          "hour": "09:00",
+          "percent": 3
+        },
+        {
+          "hour": "10:00",
+          "percent": 4
+        },
+        {
+          "hour": "11:00",
+          "percent": 5
+        },
+        {
+          "hour": "12:00",
+          "percent": 4
+        },
+        {
+          "hour": "13:00",
+          "percent": 3
+        },
+        {
+          "hour": "14:00",
+          "percent": 3
+        },
+        {
+          "hour": "15:00",
+          "percent": 2
+        },
+        {
+          "hour": "16:00",
+          "percent": 2
+        },
+        {
+          "hour": "17:00",
+          "percent": 1
+        },
+        {
+          "hour": "18:00",
+          "percent": 1
+        },
+        {
+          "hour": "19:00",
+          "percent": 1
+        },
+        {
+          "hour": "20:00",
+          "percent": 1
+        }
+      ]
+    },
+    {
+      "Thursday": [
+        {
+          "hour": "04:00",
+          "percent": 1
+        },
+        {
+          "hour": "05:00",
+          "percent": 1
+        },
+        {
+          "hour": "06:00",
+          "percent": 1
+        },
+        {
+          "hour": "07:00",
+          "percent": 1
+        },
+        {
+          "hour": "08:00",
+          "percent": 2
+        },
+        {
+          "hour": "09:00",
+          "percent": 2
+        },
+        {
+          "hour": "10:00",
+          "percent": 3
+        },
+        {
+          "hour": "11:00",
+          "percent": 4
+        },
+        {
+          "hour": "12:00",
+          "percent": 4
+        },
+        {
+          "hour": "13:00",
+          "percent": 5
+        },
+        {
+          "hour": "14:00",
+          "percent": 4
+        },
+        {
+          "hour": "15:00",
+          "percent": 4
+        },
+        {
+          "hour": "16:00",
+          "percent": 3
+        },
+        {
+          "hour": "17:00",
+          "percent": 3
+        },
+        {
+          "hour": "18:00",
+          "percent": 2
+        },
+        {
+          "hour": "19:00",
+          "percent": 2
+        },
+        {
+          "hour": "20:00",
+          "percent": 2
+        },
+        {
+          "hour": "21:00",
+          "percent": 1
+        },
+        {
+          "hour": "22:00",
+          "percent": 1
+        },
+        {
+          "hour": "23:00",
+          "percent": 1
+        },
+        {
+          "hour": "00:00",
+          "percent": 1
+        },
+        {
+          "hour": "01:00",
+          "percent": 1
+        },
+        {
+          "hour": "02:00",
+          "percent": 1
+        },
+        {
+          "hour": "03:00",
+          "percent": 1
+        }
+      ]
+    },
+    {
+      "Friday": [
+        {
+          "hour": "04:00",
+          "percent": 11
+        },
+        {
+          "hour": "05:00",
+          "percent": 3
+        },
+        {
+          "hour": "06:00",
+          "percent": 1
+        },
+        {
+          "hour": "07:00",
+          "percent": 1
+        },
+        {
+          "hour": "08:00",
+          "percent": 1
+        },
+        {
+          "hour": "09:00",
+          "percent": 2
+        },
+        {
+          "hour": "10:00",
+          "percent": 2
+        },
+        {
+          "hour": "11:00",
+          "percent": 3
+        },
+        {
+          "hour": "12:00",
+          "percent": 3
+        },
+        {
+          "hour": "13:00",
+          "percent": 4
+        },
+        {
+          "hour": "14:00",
+          "percent": 5
+        },
+        {
+          "hour": "15:00",
+          "percent": 7
+        },
+        {
+          "hour": "16:00",
+          "percent": 10
+        },
+        {
+          "hour": "17:00",
+          "percent": 16
+        },
+        {
+          "hour": "18:00",
+          "percent": 22
+        },
+        {
+          "hour": "19:00",
+          "percent": 29
+        },
+        {
+          "hour": "20:00",
+          "percent": 35
+        },
+        {
+          "hour": "21:00",
+          "percent": 38
+        },
+        {
+          "hour": "22:00",
+          "percent": 37
+        },
+        {
+          "hour": "23:00",
+          "percent": 32
+        },
+        {
+          "hour": "00:00",
+          "percent": 27
+        },
+        {
+          "hour": "01:00",
+          "percent": 29
+        },
+        {
+          "hour": "02:00",
+          "percent": 40
+        },
+        {
+          "hour": "03:00",
+          "percent": 31
+        }
+      ]
+    },
+    {
+      "Saturday": [
+        {
+          "hour": "04:00",
+          "percent": 44
+        },
+        {
+          "hour": "05:00",
+          "percent": 84
+        },
+        {
+          "hour": "06:00",
+          "percent": 100
+        },
+        {
+          "hour": "07:00",
+          "percent": 76
+        },
+        {
+          "hour": "08:00",
+          "percent": 46
+        },
+        {
+          "hour": "09:00",
+          "percent": 35
+        },
+        {
+          "hour": "10:00",
+          "percent": 31
+        },
+        {
+          "hour": "11:00",
+          "percent": 28
+        },
+        {
+          "hour": "12:00",
+          "percent": 23
+        },
+        {
+          "hour": "13:00",
+          "percent": 18
+        },
+        {
+          "hour": "14:00",
+          "percent": 15
+        },
+        {
+          "hour": "15:00",
+          "percent": 12
+        },
+        {
+          "hour": "16:00",
+          "percent": 11
+        },
+        {
+          "hour": "17:00",
+          "percent": 11
+        },
+        {
+          "hour": "18:00",
+          "percent": 11
+        },
+        {
+          "hour": "19:00",
+          "percent": 10
+        },
+        {
+          "hour": "20:00",
+          "percent": 10
+        },
+        {
+          "hour": "21:00",
+          "percent": 10
+        },
+        {
+          "hour": "22:00",
+          "percent": 10
+        },
+        {
+          "hour": "23:00",
+          "percent": 10
+        },
+        {
+          "hour": "00:00",
+          "percent": 10
+        },
+        {
+          "hour": "01:00",
+          "percent": 11
+        },
+        {
+          "hour": "02:00",
+          "percent": 12
+        },
+        {
+          "hour": "03:00",
+          "percent": 19
+        }
+      ]
+    }
+  ],
+  "relatedSearches": [
+    "capela de são sebastião",
+    "história de são sebastião em ibiúna",
+    "gruta são sebastião",
+    "história são sebastião ibiúna",
+    "festa de são sebastião 2022",
+    "cachoeira da tia zica ibiúna",
+    "ibiúna tem represa",
+    "represa de ibiúna fotos",
+    "capela de são sebastião",
+    "história de são sebastião em ibiúna",
+    "gruta são sebastião",
+    "história são sebastião ibiúna",
+    "festa de são sebastião 2022",
+    "cachoeira da tia zica ibiúna",
+    "ibiúna tem represa",
+    "represa de ibiúna fotos"
+  ],
+  "relateds": [
+    {
+      "mainName": "CACHOEIRA DA VARGEM DO SALTO",
+      "url": null
+    },
+    {
+      "mainName": "Sítio Chibana",
+      "url": null
+    },
+    {
+      "mainName": "Parque Estadual Jurupará",
+      "url": null
+    },
+    {
+      "mainName": "Represa de Itupararanga",
+      "url": null
+    },
+    {
+      "mainName": "CACHOEIRA DA VARGEM DO SALTO",
+      "url": null
+    },
+    {
+      "mainName": "Sítio Chibana",
+      "url": null
+    },
+    {
+      "mainName": "Parque Estadual Jurupará",
+      "url": null
+    },
+    {
+      "mainName": "Represa de Itupararanga",
+      "url": null
+    }
+  ]
+}

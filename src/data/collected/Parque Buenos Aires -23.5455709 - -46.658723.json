@@ -1,0 +1,625 @@
+{
+  "mainName": "Parque Buenos Aires",
+  "slug": "parque-buenos-aires",
+  "category": "Parque municipal",
+  "locationInformation": {
+    "latitude": "-23.5455709",
+    "longitude": "-46.658723"
+  },
+  "basicInformation": [
+    {
+      "label": "endereço",
+      "tooltip": "Copiar endereço",
+      "text": "Av. Angélica, 1500 - Higienópolis, São Paulo - SP, 01227-000",
+      "icon": "https://www.gstatic.com/images/icons/material/system_gm/1x/place_gm_blue_24dp.png"
+    },
+    {
+      "label": "website",
+      "tooltip": "Abrir website",
+      "text": "prefeitura.sp.gov.br",
+      "icon": "https://www.gstatic.com/images/icons/material/system_gm/1x/public_gm_blue_24dp.png"
+    },
+    {
+      "label": "Code",
+      "tooltip": "Copiar Plus Code",
+      "text": "F83R+QG Higienópolis, São Paulo - SP",
+      "icon": "https://maps.gstatic.com/mapfiles/maps_lite/images/2x/ic_plus_code.png"
+    }
+  ],
+  "ratingInformation": {
+    "basicRatingInformation": {
+      "averageGrade": 4.5,
+      "totalOfEvaluations": 7728
+    },
+    "ratingsByGrade": [
+      {
+        "grade": 5,
+        "totalRatings": 5251
+      },
+      {
+        "grade": 4,
+        "totalRatings": 1723
+      },
+      {
+        "grade": 3,
+        "totalRatings": 558
+      },
+      {
+        "grade": 2,
+        "totalRatings": 89
+      },
+      {
+        "grade": 1,
+        "totalRatings": 107
+      }
+    ]
+  },
+  "ratingTags": [
+    {
+      "tag": "pet",
+      "count": 191,
+      "tooltip": "pet, mencionado em 191 avaliações"
+    },
+    {
+      "tag": "arborizado",
+      "count": 107,
+      "tooltip": "arborizado, mencionado em 107 avaliações"
+    },
+    {
+      "tag": "segurança",
+      "count": 99,
+      "tooltip": "segurança, mencionado em 99 avaliações"
+    },
+    {
+      "tag": "ler",
+      "count": 86,
+      "tooltip": "ler, mencionado em 86 avaliações"
+    },
+    {
+      "tag": "relaxar",
+      "count": 71,
+      "tooltip": "relaxar, mencionado em 71 avaliações"
+    },
+    {
+      "tag": "brincar",
+      "count": 59,
+      "tooltip": "brincar, mencionado em 59 avaliações"
+    },
+    {
+      "tag": "bairro",
+      "count": 52,
+      "tooltip": "bairro, mencionado em 52 avaliações"
+    },
+    {
+      "tag": "infantil",
+      "count": 14,
+      "tooltip": "infantil, mencionado em 14 avaliações"
+    },
+    {
+      "tag": "pássaros",
+      "count": 10,
+      "tooltip": "pássaros, mencionado em 10 avaliações"
+    }
+  ],
+  "featuredPhotos": [
+    "https://lh5.googleusercontent.com/p/AF1QipPHezIn5xmTLYNVBLYXDuRYmF6HYkQk_-exsPcJ=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOV6GxjTOLEjIomw8aQZkobQsBH82Ch3sC7Et8m=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMWfGFopbE5aPhnTdZUkYXtVxWz_WB6BVcY_0dC=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNkjSkvNJ5jAZnXIkJNchFjNau0ajiqMUrfUBf8=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOCy0HGjegg4d4SOzJipWdf34SxsIyejorwr46_=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMZwHNIr9z8ZWUban6QrFoAt4IIIwy1qNIYhFUp=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOxj3EokJpgdEloAidlovLiLufpyyQXZTFKcTrz=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipM8adyVPufw3wKXfCOITl4D8dGg1xdYRebxvSfp=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOORyGDen9Woi4hmf_dhgjtzlO8X4br0xpkHlAN=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPu0fc-4hEgLszamEmurXFBQ6f8BrNlWCf8sWhV=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPiPu_vpR5-4SJEU6A_4n3WXbOBvaybbjvAPSQR=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipO6V_yvztnntErbLdHqTrVgXS5RG1yJek40l905=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMA3te7ZL1Te9uTykLNYumNyyzL6F5KuDREJVPU=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOM2JjuctgWjR3KQ6wxaG6VsJXFhQ_mlez1VDct=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNzNShN9FLFVx6zWTCkrwhQQgnVy8lqTmxBFiwX=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMw8bsni1F13JaJ6YtjvVWe1-ZI8XmZ6e925fXj=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOligI8WrB_vgGIobhSMkDx68E-XPxxsQcpMEu7=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOg8kZzjnaR7en8EAlLoAY6gVTV8hbPDxm4pJQ-=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOdb_lHdcQo7kvChR7e444PPVcLAaZkrECbMCMp=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPn8Xi8RWpWQHqU2O0FM5W_naAv1QNRqeZOYPxu=w1024-h576-k-no"
+  ],
+  "topComments": null,
+  "peakHours": [
+    {
+      "Sunday": [
+        {
+          "hour": "06:00",
+          "percent": 1
+        },
+        {
+          "hour": "07:00",
+          "percent": 6
+        },
+        {
+          "hour": "08:00",
+          "percent": 22
+        },
+        {
+          "hour": "09:00",
+          "percent": 48
+        },
+        {
+          "hour": "10:00",
+          "percent": 77
+        },
+        {
+          "hour": "11:00",
+          "percent": 97
+        },
+        {
+          "hour": "12:00",
+          "percent": 100
+        },
+        {
+          "hour": "13:00",
+          "percent": 91
+        },
+        {
+          "hour": "14:00",
+          "percent": 85
+        },
+        {
+          "hour": "15:00",
+          "percent": 86
+        },
+        {
+          "hour": "16:00",
+          "percent": 82
+        },
+        {
+          "hour": "17:00",
+          "percent": 66
+        },
+        {
+          "hour": "18:00",
+          "percent": 43
+        }
+      ]
+    },
+    {
+      "Monday": [
+        {
+          "hour": "06:00",
+          "percent": 6
+        },
+        {
+          "hour": "07:00",
+          "percent": 15
+        },
+        {
+          "hour": "08:00",
+          "percent": 29
+        },
+        {
+          "hour": "09:00",
+          "percent": 45
+        },
+        {
+          "hour": "10:00",
+          "percent": 59
+        },
+        {
+          "hour": "11:00",
+          "percent": 66
+        },
+        {
+          "hour": "12:00",
+          "percent": 65
+        },
+        {
+          "hour": "13:00",
+          "percent": 63
+        },
+        {
+          "hour": "14:00",
+          "percent": 62
+        },
+        {
+          "hour": "15:00",
+          "percent": 63
+        },
+        {
+          "hour": "16:00",
+          "percent": 61
+        },
+        {
+          "hour": "17:00",
+          "percent": 53
+        },
+        {
+          "hour": "18:00",
+          "percent": 39
+        }
+      ]
+    },
+    {
+      "Tuesday": [
+        {
+          "hour": "06:00",
+          "percent": 9
+        },
+        {
+          "hour": "07:00",
+          "percent": 20
+        },
+        {
+          "hour": "08:00",
+          "percent": 34
+        },
+        {
+          "hour": "09:00",
+          "percent": 49
+        },
+        {
+          "hour": "10:00",
+          "percent": 61
+        },
+        {
+          "hour": "11:00",
+          "percent": 66
+        },
+        {
+          "hour": "12:00",
+          "percent": 68
+        },
+        {
+          "hour": "13:00",
+          "percent": 68
+        },
+        {
+          "hour": "14:00",
+          "percent": 67
+        },
+        {
+          "hour": "15:00",
+          "percent": 66
+        },
+        {
+          "hour": "16:00",
+          "percent": 61
+        },
+        {
+          "hour": "17:00",
+          "percent": 51
+        },
+        {
+          "hour": "18:00",
+          "percent": 38
+        }
+      ]
+    },
+    {
+      "Wednesday": [
+        {
+          "hour": "06:00",
+          "percent": 7
+        },
+        {
+          "hour": "07:00",
+          "percent": 18
+        },
+        {
+          "hour": "08:00",
+          "percent": 33
+        },
+        {
+          "hour": "09:00",
+          "percent": 49
+        },
+        {
+          "hour": "10:00",
+          "percent": 61
+        },
+        {
+          "hour": "11:00",
+          "percent": 66
+        },
+        {
+          "hour": "12:00",
+          "percent": 65
+        },
+        {
+          "hour": "13:00",
+          "percent": 65
+        },
+        {
+          "hour": "14:00",
+          "percent": 67
+        },
+        {
+          "hour": "15:00",
+          "percent": 69
+        },
+        {
+          "hour": "16:00",
+          "percent": 66
+        },
+        {
+          "hour": "17:00",
+          "percent": 58
+        },
+        {
+          "hour": "18:00",
+          "percent": 45
+        }
+      ]
+    },
+    {
+      "Thursday": [
+        {
+          "hour": "06:00",
+          "percent": 10
+        },
+        {
+          "hour": "07:00",
+          "percent": 23
+        },
+        {
+          "hour": "08:00",
+          "percent": 40
+        },
+        {
+          "hour": "09:00",
+          "percent": 56
+        },
+        {
+          "hour": "10:00",
+          "percent": 67
+        },
+        {
+          "hour": "11:00",
+          "percent": 73
+        },
+        {
+          "hour": "12:00",
+          "percent": 74
+        },
+        {
+          "hour": "13:00",
+          "percent": 76
+        },
+        {
+          "hour": "14:00",
+          "percent": 77
+        },
+        {
+          "hour": "15:00",
+          "percent": 75
+        },
+        {
+          "hour": "16:00",
+          "percent": 69
+        },
+        {
+          "hour": "17:00",
+          "percent": 59
+        },
+        {
+          "hour": "18:00",
+          "percent": 44
+        }
+      ]
+    },
+    {
+      "Friday": [
+        {
+          "hour": "06:00",
+          "percent": 5
+        },
+        {
+          "hour": "07:00",
+          "percent": 16
+        },
+        {
+          "hour": "08:00",
+          "percent": 32
+        },
+        {
+          "hour": "09:00",
+          "percent": 48
+        },
+        {
+          "hour": "10:00",
+          "percent": 61
+        },
+        {
+          "hour": "11:00",
+          "percent": 67
+        },
+        {
+          "hour": "12:00",
+          "percent": 67
+        },
+        {
+          "hour": "13:00",
+          "percent": 64
+        },
+        {
+          "hour": "14:00",
+          "percent": 64
+        },
+        {
+          "hour": "15:00",
+          "percent": 66
+        },
+        {
+          "hour": "16:00",
+          "percent": 65
+        },
+        {
+          "hour": "17:00",
+          "percent": 55
+        },
+        {
+          "hour": "18:00",
+          "percent": 39
+        }
+      ]
+    },
+    {
+      "Saturday": [
+        {
+          "hour": "07:00",
+          "percent": 7
+        },
+        {
+          "hour": "08:00",
+          "percent": 19
+        },
+        {
+          "hour": "09:00",
+          "percent": 35
+        },
+        {
+          "hour": "10:00",
+          "percent": 51
+        },
+        {
+          "hour": "11:00",
+          "percent": 62
+        },
+        {
+          "hour": "12:00",
+          "percent": 65
+        },
+        {
+          "hour": "13:00",
+          "percent": 60
+        },
+        {
+          "hour": "14:00",
+          "percent": 55
+        },
+        {
+          "hour": "15:00",
+          "percent": 55
+        },
+        {
+          "hour": "16:00",
+          "percent": 55
+        },
+        {
+          "hour": "17:00",
+          "percent": 47
+        },
+        {
+          "hour": "18:00",
+          "percent": 33
+        }
+      ]
+    }
+  ],
+  "relatedSearches": [
+    "parque buenos aires é perigoso",
+    "parque buenos aires telefone",
+    "parque buenos aires vacina",
+    "parque buenos aires higienópolis",
+    "parque buenos aires parquinho",
+    "parque buenos aires, suzano - sp",
+    "parque augusta",
+    "piquenique parque buenos aires"
+  ],
+  "relateds": [
+    {
+      "mainName": "Parque Severo Gomes",
+      "url": null
+    },
+    {
+      "mainName": "Parque Luís Carlos Prestes",
+      "url": null
+    },
+    {
+      "mainName": "Parque Trote",
+      "url": null
+    },
+    {
+      "mainName": "Parque Lina e Paulo Raia",
+      "url": null
+    },
+    {
+      "mainName": "Parque Rodrigo de Gásperi",
+      "url": null
+    },
+    {
+      "mainName": "Parque Raposo Tavares",
+      "url": null
+    },
+    {
+      "mainName": "Parque Lions Clube Tucuruvi",
+      "url": null
+    },
+    {
+      "mainName": "Parque Vila do Rodeio",
+      "url": null
+    },
+    {
+      "mainName": "Parque Santo Dias",
+      "url": null
+    },
+    {
+      "mainName": "Parque Tenente Brigadeiro Roberto Faria Lima",
+      "url": null
+    },
+    {
+      "mainName": "Parque Zilda Natel",
+      "url": null
+    },
+    {
+      "mainName": "Parque Vila dos Remédios",
+      "url": null
+    },
+    {
+      "mainName": "Parque Alfredo Volpi",
+      "url": null
+    },
+    {
+      "mainName": "Parque Piqueri",
+      "url": null
+    },
+    {
+      "mainName": "Parque Aclimação",
+      "url": null
+    },
+    {
+      "mainName": "Parque M'Boi Mirim",
+      "url": null
+    },
+    {
+      "mainName": "Parque Augusta",
+      "url": null
+    },
+    {
+      "mainName": "Parque Leopoldina - Orlando Villas-Bôas",
+      "url": null
+    },
+    {
+      "mainName": "Parque Raul Seixas",
+      "url": null
+    },
+    {
+      "mainName": "Parque Burle Marx",
+      "url": null
+    },
+    {
+      "mainName": "Parque Cemucam",
+      "url": null
+    },
+    {
+      "mainName": "Parque Villa-Lobos",
+      "url": null
+    },
+    {
+      "mainName": "Parque Jardim da Luz",
+      "url": null
+    },
+    {
+      "mainName": "Parque Chácara das Flores",
+      "url": null
+    }
+  ]
+}

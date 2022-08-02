@@ -1,0 +1,821 @@
+{
+  "mainName": "Parque Augusta",
+  "slug": "parque-augusta",
+  "category": "Parque municipal",
+  "locationInformation": {
+    "latitude": "-23.5500722",
+    "longitude": "-46.6490429"
+  },
+  "basicInformation": [
+    {
+      "label": "endereço",
+      "tooltip": "Copiar endereço",
+      "text": "R. Augusta, 200 - Consolação, São Paulo - SP, 01303-050",
+      "icon": "https://www.gstatic.com/images/icons/material/system_gm/1x/place_gm_blue_24dp.png"
+    },
+    {
+      "label": "Code",
+      "tooltip": "Copiar Plus Code",
+      "text": "C9X2+X9 Consolação, São Paulo - SP",
+      "icon": "https://maps.gstatic.com/mapfiles/maps_lite/images/2x/ic_plus_code.png"
+    },
+    {
+      "label": "place-info-links:",
+      "text": "Empresa que acolhe a comunidade LGBTQ+",
+      "icon": "https://gstatic.com/local/placeinfo/lgbtq_friendly_ic_24dp.png"
+    }
+  ],
+  "ratingInformation": {
+    "basicRatingInformation": {
+      "averageGrade": 4.7,
+      "totalOfEvaluations": 2304
+    },
+    "ratingsByGrade": [
+      {
+        "grade": 5,
+        "totalRatings": 1873
+      },
+      {
+        "grade": 4,
+        "totalRatings": 310
+      },
+      {
+        "grade": 3,
+        "totalRatings": 72
+      },
+      {
+        "grade": 2,
+        "totalRatings": 25
+      },
+      {
+        "grade": 1,
+        "totalRatings": 24
+      }
+    ]
+  },
+  "ratingTags": [
+    {
+      "tag": "pet",
+      "count": 68,
+      "tooltip": "pet, mencionado em 68 avaliações"
+    },
+    {
+      "tag": "segurança",
+      "count": 42,
+      "tooltip": "segurança, mencionado em 42 avaliações"
+    },
+    {
+      "tag": "bronzeamento",
+      "count": 22,
+      "tooltip": "bronzeamento, mencionado em 22 avaliações"
+    },
+    {
+      "tag": "bebedouros",
+      "count": 16,
+      "tooltip": "bebedouros, mencionado em 16 avaliações"
+    },
+    {
+      "tag": "selva",
+      "count": 10,
+      "tooltip": "selva, mencionado em 10 avaliações"
+    },
+    {
+      "tag": "bosque",
+      "count": 10,
+      "tooltip": "bosque, mencionado em 10 avaliações"
+    },
+    {
+      "tag": "slackline",
+      "count": 8,
+      "tooltip": "slackline, mencionado em 8 avaliações"
+    },
+    {
+      "tag": "democrático",
+      "count": 8,
+      "tooltip": "democrático, mencionado em 8 avaliações"
+    },
+    {
+      "tag": "biquíni",
+      "count": 5,
+      "tooltip": "biquíni, mencionado em 5 avaliações"
+    }
+  ],
+  "featuredPhotos": [
+    "https://lh5.googleusercontent.com/p/AF1QipOJI2rJs6521p7R6EIk98s1k5V2HEKVzJwMvMpS=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNzn28oShMtp6enbQNOzp0l2CDPmTtuLMRl8DNS=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMlaVKjWqQRVq0Xfvu_g2hD8HgTzZbadqW2Ng_x=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMzh_y7VIAxprmsFyIP4tTIxOB1lPNB0lHCEZLb=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPn0kkdWgqK3X62xqPSxFW-X1MONdH_t5m1LWAe=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPu-fZGxCQS4tv7L04rXp584Z85V5cH77HZkwD3=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMc_PVpbAxN2pAT3fnkjn3NvoIREuehuMw4pxDU=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMffHPsexVOUP2HLCgXuqy3yIge65hoSl2nmAnq=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPFOwDYRxwYQ6juX-Jw836mEiOL0AYaQDtCzUm9=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPGb3AGa8pU3ruwKsXBj9E_jkRnjezrny6hVYt2=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMP_vaEIB4Fv8nKjnyySyDxi214NwTBA2pRha_G=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMWj426UN7JUZiaNVdTXD_nqynOVjfs3IPsJW8u=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipO2O97kJWpfHDOVtAzumvD_82g1YQc2z3gSPGjO=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOl8cfGSSj2bG-6Dxn6Rjw7Cp20ZKllN6fTUmV0=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMFQES1kH2rBd8pRfGwvzDWQLe0Gk0mUGnXUgsf=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOtpurOCF1OeBtmc2GP9QEK7dsUDE6K6INfNKA2=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMBjimxgo6ut8aMUobG0n0GB_TWWH6Ux76EfjYW=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMTApiYwmTR0xNHTvrO9Uw70XPvfuWPYQaRJCGX=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipN_NP7TnsV5vDQddWB_3_tNqHdZxMBNByda3EX6=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPBJilKeWo0aoYbyumEDNfY_rpisjovpsO5z4Qn=w1024-h576-k-no"
+  ],
+  "topComments": [
+    {
+      "author": "Ismael Xavier",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucoXF71U3EDTHeHK7i7KquVQNlyVG0-o7ccghwK2=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "O Parque Augusta é uma área verde e de conservação no meio de muito concreto na região da Consolação de SP. Um local bem bonito, tranquilo, com bastante movimentação de crianças e PETs, no local existem cercadinhos onde é possível soltar seus cães e uma brinquedoteca com muitos equipamentos onde a criançada faz a festa. Os adultos, é claro, aproveitam cada um da sua forma, uns acompanham e se divertem com a molecada, outros cuidam e aproveitam seus bebês de 4 patas rs, outros lêem seus livros e até um som de violão eu conseguir desfrutar em minha visita ao parque!! Vale a pena conhecer.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Ed Libras (ED)",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucqax8mxo-8pkb8K_on7clVXUu0PG4rt7UsWdhlevPc=w36-h36-p-c0x00000000-rp-mo-ba5-br100",
+      "comment": "Um parque relativamente grande e muito bem cuidado, possui playground, local para os cachorros , local pra apresentações, bem arborizado,local pra caminhada, e tem bastante vigilância, então é um bom lugar pra ir e tirar o stress. É relativamente próximo de uma estação de metrô a Mackenzie e próximo de uma importante avenida da cidade a Nove de Julho. O entorno é bem movimentado e agitado pode ser um refúgio para quem mora ou trabalha próximo da região.",
+      "gradeComment": 4
+    },
+    {
+      "author": "Felipe Faria",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucqEUB24Kz7izSNMPtiLp6dEQPevp5EOP6U0tpwxLhQ=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "Depois de anos de luta o Parque Augusta foi inaugurado. É realmente um marco de vitória do povo paulistano, um parque muito simbólico e seu sucesso mostra o quão acertada foi a decisão de NÃO construir prédios no local.  O parque não é muito grande, mas pela região é o mais seguro para se passar um tempo. Vale muito a visita, há bebedouros de água por todos os lados e banheiros limpos a todo o momento. Não é permitido entrar com vidros.  Visite!",
+      "gradeComment": 5
+    },
+    {
+      "author": "Daniely Silva",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucoW5JbmBwsA3bM7dNt8kJ0G1kcgPzxOxhCeheI_VlM=w36-h36-p-c0x00000000-rp-mo-ba5-br100",
+      "comment": "Estive lá no dia da inauguração e algumas vezes depois. No dia da inauguração,dada toda a expectativa pela abertura do espaço e, sobretudo, por ter calhado de ser num dia quente e ensolarado, o parque estava extremamente lotado, ao ponto de ser dificultada a circulação em alguns pontos. Incrementando o momento, via-se a arquibancada cheia e se ouviam aplausos para a apresentação circense do artista Carlos Felipe (@carbonoquasezero). A dinâmica foi interessante, entrosando visitantes, entre eles, principalmente as crianças, que não têm vergonha de mostrar ao mundo sua alegria. Justamente elas que, ao longo de todo o parque, brincavam como se não houvesse amanhã, do mesmo modo que os cachorros. Afinal, toda vez que se olha uma criança, há uma figura oculta atrás, que é um cachorro — o que é muito importante. O grupo das crianças e dos animais não humanos é aquele que possivelmente fará grande proveito do gramado (algo tão escasso na região).  Esperamos que o espaço seja vivo, diverso e democrático, para que, quando um parque não vai até a periferia (o que também é indispensável), a periferia vá até o parque. Enquanto o tempo não traz respostas, desfrutemos do tempo ensolarado no mais novo e tão esperado parque da cidade. Afinal, se são criados pontos de atração, as pessoas irão até eles, dando vida, cor e sabor às ruas.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Larissa Xavier",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucptDmj0kP4SYY5_7ShROiZWEdKP-Sx6gEhU7w7jQuw=w36-h36-p-c0x00000000-rp-mo-ba3-br100",
+      "comment": "Amei este parque! Fui conhecer com meus amigos, fizemos um piquenique, chegamos cedo, então conseguimos um ótimo lugar na sombra. Percebi que, após o horário do almoço, o parque fica bem cheio, mas não considero isso um problema. Amei o conceito inovador das pessoas tomarem sol com roupa de praia, já planejo segunda visita com o mesmo objetivo. O banheiro é super limpo e tem papel higiênico.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Saulo de Oliveira",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucpJWnA9ZsCO7pVj_GWl2FARtQlRu2r-aYK3rYmv=w36-h36-p-c0x00000000-rp-mo-br100",
+      "comment": "O parque foi recém inaugurado e está bem cuidado. Possui um cachorrodromo, pista para caminhar no meio das árvores e arquibancada para eventos. Tem bebedouros por todo o parque e dois banheiros (só um ativo mas bem limpo).",
+      "gradeComment": 4
+    },
+    {
+      "author": "Richard Eduard Hubert Zafita",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucrAsct8kuASfNpEQP4EIp-nKfWmuvowMAuxz2R7ng=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "Um lindo parque no meio da \"selva de pedra \".  Uma ótima área para lazer ou simplesmente descansar. Tem até um \"cachorrodromo\" para quem quer levar seu cão.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Felipe Savën",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucq3E9HzS4-QLkw0B1pP6O6r4U5FoB2QHlZpUUUh_64=w36-h36-p-c0x00000000-rp-mo-ba5-br100",
+      "comment": "Local agradável, com área verde bem preservada, gramado para tomar sol, bebedouros e bancos até no meio da mata. Um dos melhores parques da cidade. Não tem como não dar 5 estrelas.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Marcelo F de Abreu",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucoZStYWEhOJsnVai9Ks4q0rU3ImoqjjcpMWXS__0Q=w36-h36-p-c0x00000000-rp-mo-ba7-br100",
+      "comment": "Pequeno parque que custou caro aos cofres públicos. Com um discurso contra a especulação imobiliária, acabou causando exatamente isso no entorno. Enfim. O parque, cheio porque está numa área densamente habitada e carente de áreas verdes, dá muitas lições de erros e acertos para esta cidade. Só precisavam derrubar aquele horroroso muro tombado que fecha o parque para a rua Caio Prado.",
+      "gradeComment": 4
+    },
+    {
+      "author": "William Moreira",
+      "photoAuthor": "https://lh3.googleusercontent.com/a/AItbvmnvLF5HGQQZQ5AGu6Hqn3-1JgfV9fsfajYz0NTNlrg=w36-h36-p-c0x00000000-rp-mo-ba7-br100",
+      "comment": "Parque lindo, organizado e limpo. Bastante amplo também, só a pista de caminhada que é meio estreita, tirando isso, tudo certo. Tem cachorrodromo, bebedouros, playground, etc.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Felipe Santos",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucofZSfJdca_aOn3rEp_cAAg4Rjx1MVrdv5PU_xLlw=w36-h36-p-c0x00000000-rp-mo-ba5-br100",
+      "comment": "Que lugar lindo! Excelente! O parque é novo, foi inaugurado recentemente aqui em São Paulo. Muito bem cuidado, seguro e agradável. Amei conhecer e voltarei outras vezes. Para quem ainda não conhece, recomendo👍🏿.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Luiza Lopes",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucp5pGHjwCV4dmLdwf9-8PiGQLCPIavAMVFli2aiTH0=w36-h36-p-c0x00000000-rp-mo-ba5-br100",
+      "comment": "Funcionando todos os dias das 05h as 21h. A região era pra ter se tornado um conjunto de prédios imobiliários, mas a  população local se mobilizou para a criação do parque de 24 mil m² que foi inaugurado no dia 06/11/2021. O parque, que é muito maior do que parece do lado de fora, possui cachorródromo, parquinho para as crianças, trilhas, redário (você precisa levar sua rede), estacionamento pago e sanitários. Acessível para pessoas com deficiência física, sendo a entrada principal, o portão 1, acessível por meio da rampas - as outras 4 entradas são escadas. Infelizmente as placas são escritas apenas em português e inglês, faltando a tradução para o braile ou espanhol.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Marina Munhoz",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucppfWg9CoAqrty3cR9irCU8J0wR5EGZ9_xwa1ftM2Q=w36-h36-p-c0x00000000-rp-mo-br100",
+      "comment": "o cachorródromo infelizmente é muito mal projetado. pouquíssimo tempo depois de inaugurado, os portões não funcionam bem, a grama se tornou um tanque de barro, os bancos e o bebedouro estão completamente sujos, inutilizáveis. uma pena. uma obra que atrasou tanto e que entregou um resultado bastante ruim.",
+      "gradeComment": 2
+    },
+    {
+      "author": "Jose Vargas",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucq8Z_j7xs1-qsG7aFMrS5yuZo8003ugPKVyiDV9=w36-h36-p-c0x00000000-rp-mo-ba5-br100",
+      "comment": "O parque está  muito legal  todo reformado e com muito espaço e atividades! O espaço para criança é  muito legal, e todo com piso emborrachado! Com segurança  e limpeza! Gostei muito da área do bosque!",
+      "gradeComment": 5
+    },
+    {
+      "author": "Jhon",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucrkCbIWe-8VVFR4g1WIisycPM_5HwzKwJkQKcJA6S4=w36-h36-p-c0x00000000-rp-mo-ba5-br100",
+      "comment": "O parque é relativamente grande, tem muitas opções de lazer, playground, local para armar rede, jogar bola e um largo gramado onde muitas pessoas ficam sentadas tomando sol.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Fabio Potter Marchi",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucr7Q70U22wQgsC9Xd-eLGe6JObSSwUAHP1dKUuPlQ=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "Adorei o parque . Muto lindo e com uma limpeza primorosa. Tem até um teatro de arena ao ar livre, onde já assisti uma peça de Jorge Amado. Vale a pena conhecer. Vtarei com certeza.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Tiago Sá",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucp2K3i8XbsdGyeK_nMfRmaXdLUdimIUBlufi9T2DCw=w36-h36-p-c0x00000000-rp-mo-ba6-br100",
+      "comment": "Parque augusta recém inaugurado após muitas discussões jurídicas. Mas a verdade é que ficou um charme 😸 Parque muito bem arborizado, limpo e com ótimas opções de lazer l. Por ser um porque recém inaugurado ainda está um pouco cheio, mas se fugir dos horários de pico da para relaxar e curtir a natureza.  Um grande diferencia desse parque é que tem bastante opções de recreação infantil,  espaço especial para seu animal de estimação, fazer um piquinique e até mesmo levar sua rede para relaxar embaixo das árvores (sim é um pedaço exclusivo para rede) e muitas outras coisas legais para aproveitar.  Não perca tempo, vai conhecer essa nova opção de lazer na capital ❣️  Augusta Park recently opened after many legal discussions. But the truth is that it was a charm 😸 Park very well wooded, clean and with great leisure options l.  Because it's a newly opened house, it's still a little crowded, but if you escape the peak hours of the city to relax and enjoy nature.  A big difference in this park is that it has plenty of children's recreation options, a special space for your pet, having a picnic and even taking your hammock to relax under the trees (yes it's an exclusive part for hammocks) and many other cool things to enjoy.  Don't waste time, get to know this new leisure option in the capital ❣️",
+      "gradeComment": 5
+    },
+    {
+      "author": "Guilherme Prado",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucqQoELvwHV_789aYsG9aSnfPbF5OEYXUeejBYQSR1c=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "Após muitas brigas com o poder público, o NOSSO parque foi inaugurado! 🎈  Esse parque é de todes que levantaram a bandeira do Parque Augusta! Um movimento que veio lá de 2010;  Enfim, ficou lindo, cheio de gente afim de descansar e sair do clima caótico de SP.  O local conta com trilas 🏃 ruínas e cachorrodramo 🐩. Além de ter espaço paras as crianças, para realizar piquenique, e também espaço para os biscoiteiros Fitness 🍪 hahah  Vamos usar o espaço com sabedoria: Lixo é no lixo. E safadeza é la no Cabines bar ou na Dedalos KKKKKKK  Bjs amados <3  Fotos do @guiaugustozin ;)",
+      "gradeComment": 5
+    },
+    {
+      "author": "Joy Norte",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZuco_nvsAilY9Q6NVwI9t2M7BuqtNfhrGonK9TN_ZWw=w36-h36-p-c0x00000000-rp-mo-ba3-br100",
+      "comment": "Lugar incrível! Um ambiente bem gostoso e tem vários espaços, áreas verdes, áreas de cimento e até de madeira, da pra levar o doguinho, a criançada, e muito picnic! Apesar de ainda não parecer total terminada construção, tem posto com seguranças e tem banheiros bem equipados. Adorei!",
+      "gradeComment": 5
+    },
+    {
+      "author": "Henrique Zigiotto",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucowC-YcwaqmahP4qb1PgYLbQKnA9lUfiDd0UA1jNg=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "Ótimo parque para fazer piquenique ou apenas admirar a paisagem. Por ser novo, está bem cheio. De qualquer maneira, vale muito a pena a visita. Um ótimo parque para os moradores da região e para ter mais verde e atrações no Centro.",
+      "gradeComment": 5
+    }
+  ],
+  "peakHours": [
+    {
+      "Sunday": [
+        {
+          "hour": "05:00",
+          "percent": 2
+        },
+        {
+          "hour": "06:00",
+          "percent": 3
+        },
+        {
+          "hour": "07:00",
+          "percent": 4
+        },
+        {
+          "hour": "08:00",
+          "percent": 7
+        },
+        {
+          "hour": "09:00",
+          "percent": 14
+        },
+        {
+          "hour": "10:00",
+          "percent": 24
+        },
+        {
+          "hour": "11:00",
+          "percent": 34
+        },
+        {
+          "hour": "12:00",
+          "percent": 42
+        },
+        {
+          "hour": "13:00",
+          "percent": 51
+        },
+        {
+          "hour": "14:00",
+          "percent": 68
+        },
+        {
+          "hour": "15:00",
+          "percent": 89
+        },
+        {
+          "hour": "16:00",
+          "percent": 100
+        },
+        {
+          "hour": "17:00",
+          "percent": 88
+        },
+        {
+          "hour": "18:00",
+          "percent": 60
+        },
+        {
+          "hour": "19:00",
+          "percent": 32
+        },
+        {
+          "hour": "20:00",
+          "percent": 14
+        }
+      ]
+    },
+    {
+      "Monday": [
+        {
+          "hour": "06:00",
+          "percent": 2
+        },
+        {
+          "hour": "07:00",
+          "percent": 5
+        },
+        {
+          "hour": "08:00",
+          "percent": 8
+        },
+        {
+          "hour": "09:00",
+          "percent": 11
+        },
+        {
+          "hour": "10:00",
+          "percent": 13
+        },
+        {
+          "hour": "11:00",
+          "percent": 15
+        },
+        {
+          "hour": "12:00",
+          "percent": 15
+        },
+        {
+          "hour": "13:00",
+          "percent": 16
+        },
+        {
+          "hour": "14:00",
+          "percent": 17
+        },
+        {
+          "hour": "15:00",
+          "percent": 19
+        },
+        {
+          "hour": "16:00",
+          "percent": 19
+        },
+        {
+          "hour": "17:00",
+          "percent": 19
+        },
+        {
+          "hour": "18:00",
+          "percent": 15
+        },
+        {
+          "hour": "19:00",
+          "percent": 11
+        },
+        {
+          "hour": "20:00",
+          "percent": 6
+        }
+      ]
+    },
+    {
+      "Tuesday": [
+        {
+          "hour": "05:00",
+          "percent": 1
+        },
+        {
+          "hour": "06:00",
+          "percent": 1
+        },
+        {
+          "hour": "07:00",
+          "percent": 5
+        },
+        {
+          "hour": "08:00",
+          "percent": 9
+        },
+        {
+          "hour": "09:00",
+          "percent": 12
+        },
+        {
+          "hour": "10:00",
+          "percent": 15
+        },
+        {
+          "hour": "11:00",
+          "percent": 16
+        },
+        {
+          "hour": "12:00",
+          "percent": 17
+        },
+        {
+          "hour": "13:00",
+          "percent": 17
+        },
+        {
+          "hour": "14:00",
+          "percent": 19
+        },
+        {
+          "hour": "15:00",
+          "percent": 20
+        },
+        {
+          "hour": "16:00",
+          "percent": 20
+        },
+        {
+          "hour": "17:00",
+          "percent": 18
+        },
+        {
+          "hour": "18:00",
+          "percent": 16
+        },
+        {
+          "hour": "19:00",
+          "percent": 12
+        },
+        {
+          "hour": "20:00",
+          "percent": 8
+        }
+      ]
+    },
+    {
+      "Wednesday": [
+        {
+          "hour": "05:00",
+          "percent": 1
+        },
+        {
+          "hour": "06:00",
+          "percent": 1
+        },
+        {
+          "hour": "07:00",
+          "percent": 3
+        },
+        {
+          "hour": "08:00",
+          "percent": 7
+        },
+        {
+          "hour": "09:00",
+          "percent": 10
+        },
+        {
+          "hour": "10:00",
+          "percent": 13
+        },
+        {
+          "hour": "11:00",
+          "percent": 16
+        },
+        {
+          "hour": "12:00",
+          "percent": 17
+        },
+        {
+          "hour": "13:00",
+          "percent": 17
+        },
+        {
+          "hour": "14:00",
+          "percent": 17
+        },
+        {
+          "hour": "15:00",
+          "percent": 18
+        },
+        {
+          "hour": "16:00",
+          "percent": 20
+        },
+        {
+          "hour": "17:00",
+          "percent": 22
+        },
+        {
+          "hour": "18:00",
+          "percent": 20
+        },
+        {
+          "hour": "19:00",
+          "percent": 16
+        },
+        {
+          "hour": "20:00",
+          "percent": 10
+        }
+      ]
+    },
+    {
+      "Thursday": [
+        {
+          "hour": "05:00",
+          "percent": 1
+        },
+        {
+          "hour": "06:00",
+          "percent": 2
+        },
+        {
+          "hour": "07:00",
+          "percent": 5
+        },
+        {
+          "hour": "08:00",
+          "percent": 9
+        },
+        {
+          "hour": "09:00",
+          "percent": 13
+        },
+        {
+          "hour": "10:00",
+          "percent": 17
+        },
+        {
+          "hour": "11:00",
+          "percent": 20
+        },
+        {
+          "hour": "12:00",
+          "percent": 23
+        },
+        {
+          "hour": "13:00",
+          "percent": 26
+        },
+        {
+          "hour": "14:00",
+          "percent": 31
+        },
+        {
+          "hour": "15:00",
+          "percent": 36
+        },
+        {
+          "hour": "16:00",
+          "percent": 37
+        },
+        {
+          "hour": "17:00",
+          "percent": 34
+        },
+        {
+          "hour": "18:00",
+          "percent": 26
+        },
+        {
+          "hour": "19:00",
+          "percent": 17
+        },
+        {
+          "hour": "20:00",
+          "percent": 9
+        }
+      ]
+    },
+    {
+      "Friday": [
+        {
+          "hour": "05:00",
+          "percent": 1
+        },
+        {
+          "hour": "07:00",
+          "percent": 3
+        },
+        {
+          "hour": "08:00",
+          "percent": 7
+        },
+        {
+          "hour": "09:00",
+          "percent": 12
+        },
+        {
+          "hour": "10:00",
+          "percent": 16
+        },
+        {
+          "hour": "11:00",
+          "percent": 19
+        },
+        {
+          "hour": "12:00",
+          "percent": 20
+        },
+        {
+          "hour": "13:00",
+          "percent": 22
+        },
+        {
+          "hour": "14:00",
+          "percent": 25
+        },
+        {
+          "hour": "15:00",
+          "percent": 29
+        },
+        {
+          "hour": "16:00",
+          "percent": 31
+        },
+        {
+          "hour": "17:00",
+          "percent": 29
+        },
+        {
+          "hour": "18:00",
+          "percent": 24
+        },
+        {
+          "hour": "19:00",
+          "percent": 16
+        },
+        {
+          "hour": "20:00",
+          "percent": 10
+        }
+      ]
+    },
+    {
+      "Saturday": [
+        {
+          "hour": "05:00",
+          "percent": 1
+        },
+        {
+          "hour": "06:00",
+          "percent": 1
+        },
+        {
+          "hour": "07:00",
+          "percent": 2
+        },
+        {
+          "hour": "08:00",
+          "percent": 6
+        },
+        {
+          "hour": "09:00",
+          "percent": 13
+        },
+        {
+          "hour": "10:00",
+          "percent": 19
+        },
+        {
+          "hour": "11:00",
+          "percent": 25
+        },
+        {
+          "hour": "12:00",
+          "percent": 30
+        },
+        {
+          "hour": "13:00",
+          "percent": 37
+        },
+        {
+          "hour": "14:00",
+          "percent": 46
+        },
+        {
+          "hour": "15:00",
+          "percent": 55
+        },
+        {
+          "hour": "16:00",
+          "percent": 59
+        },
+        {
+          "hour": "17:00",
+          "percent": 55
+        },
+        {
+          "hour": "18:00",
+          "percent": 43
+        },
+        {
+          "hour": "19:00",
+          "percent": 29
+        },
+        {
+          "hour": "20:00",
+          "percent": 17
+        }
+      ]
+    }
+  ],
+  "relatedSearches": [
+    "parque augusta onde fica",
+    "parque augusta telefone",
+    "parque augusta programação",
+    "parque augusta história",
+    "parque augusta e perigoso",
+    "parque augusta inauguração",
+    "parque augusta horário de funcionamento",
+    "parque augusta estacionamento"
+  ],
+  "relateds": [
+    {
+      "mainName": "Parque dos búfalos",
+      "url": null
+    },
+    {
+      "mainName": "Parque Ibirapuera",
+      "url": null
+    },
+    {
+      "mainName": "Praça Franklin Roosevelt",
+      "url": null
+    },
+    {
+      "mainName": "Parque Buenos Aires",
+      "url": null
+    },
+    {
+      "mainName": "Beto Carrero World",
+      "url": null
+    },
+    {
+      "mainName": "Mundo a Vapor",
+      "url": null
+    },
+    {
+      "mainName": "Parque Mutirama",
+      "url": null
+    },
+    {
+      "mainName": "Beach Park",
+      "url": null
+    },
+    {
+      "mainName": "Parque da Mônica",
+      "url": null
+    },
+    {
+      "mainName": "Mirabilandia",
+      "url": null
+    },
+    {
+      "mainName": "Hopi Hari",
+      "url": null
+    },
+    {
+      "mainName": "Parque Villa-Lobos",
+      "url": null
+    },
+    {
+      "mainName": "Parque Tenente Siqueira Campos - Trianon",
+      "url": null
+    },
+    {
+      "mainName": "Parque Zoológico Municipal \"Quinzinho de Barros\"",
+      "url": null
+    },
+    {
+      "mainName": "Aquário de São Paulo",
+      "url": null
+    },
+    {
+      "mainName": "Zoológico de São Paulo",
+      "url": null
+    },
+    {
+      "mainName": "Ponte Octávio Frias de Oliveira",
+      "url": null
+    },
+    {
+      "mainName": "Catedral Metropolitana de São Paulo",
+      "url": null
+    },
+    {
+      "mainName": "Praça da Sé",
+      "url": null
+    },
+    {
+      "mainName": "Estação da Luz",
+      "url": null
+    },
+    {
+      "mainName": "São Mateus",
+      "url": null
+    },
+    {
+      "mainName": "MIS - Museu da Imagem e do Som de São Paulo",
+      "url": null
+    },
+    {
+      "mainName": "Sala São Paulo",
+      "url": null
+    }
+  ]
+}

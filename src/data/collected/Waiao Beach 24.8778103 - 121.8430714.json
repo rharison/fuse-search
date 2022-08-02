@@ -1,0 +1,860 @@
+{
+  "mainName": "Waiao Beach",
+  "slug": "waiao-beach",
+  "category": "Praia",
+  "locationInformation": {
+    "latitude": "24.8778103",
+    "longitude": "121.8430714"
+  },
+  "basicInformation": [
+    {
+      "label": "endereço",
+      "tooltip": "Copiar endereço",
+      "text": "No. 6號, Section 2, Binhai Rd, Toucheng Township, Yilan County, Taiwan 261",
+      "icon": "https://www.gstatic.com/images/icons/material/system_gm/1x/place_gm_blue_24dp.png"
+    },
+    {
+      "label": "endereço",
+      "tooltip": "Copiar endereço",
+      "text": "261宜蘭縣頭城鎮濱海路二段6號",
+      "icon": "https://www.gstatic.com/images/icons/material/system_gm/1x/place_gm_blue_24dp.png"
+    },
+    {
+      "label": "website",
+      "tooltip": "Abrir website",
+      "text": "necoast-nsa.gov.tw",
+      "icon": "https://www.gstatic.com/images/icons/material/system_gm/1x/public_gm_blue_24dp.png"
+    },
+    {
+      "label": "telefone",
+      "tooltip": "Copiar número de telefone",
+      "text": "+886 3 978 0727",
+      "icon": "https://www.gstatic.com/images/icons/material/system_gm/1x/phone_gm_blue_24dp.png"
+    }
+  ],
+  "ratingInformation": {
+    "basicRatingInformation": {
+      "averageGrade": 4.4,
+      "totalOfEvaluations": 7711
+    },
+    "ratingsByGrade": [
+      {
+        "grade": 5,
+        "totalRatings": 4101
+      },
+      {
+        "grade": 4,
+        "totalRatings": 2622
+      },
+      {
+        "grade": 3,
+        "totalRatings": 802
+      },
+      {
+        "grade": 2,
+        "totalRatings": 92
+      },
+      {
+        "grade": 1,
+        "totalRatings": 94
+      }
+    ]
+  },
+  "ratingTags": [
+    {
+      "tag": "revelar",
+      "count": 82,
+      "tooltip": "revelar, mencionado em 82 avaliações"
+    },
+    {
+      "tag": "parapente",
+      "count": 82,
+      "tooltip": "parapente, mencionado em 82 avaliações"
+    },
+    {
+      "tag": "temperatura da superfície do mar",
+      "count": 73,
+      "tooltip": "temperatura da superfície do mar, mencionado em 73 avaliações"
+    },
+    {
+      "tag": "surfista",
+      "count": 39,
+      "tooltip": "surfista, mencionado em 39 avaliações"
+    },
+    {
+      "tag": "biquínis",
+      "count": 35,
+      "tooltip": "biquínis, mencionado em 35 avaliações"
+    },
+    {
+      "tag": "prancha de surfe",
+      "count": 31,
+      "tooltip": "prancha de surfe, mencionado em 31 avaliações"
+    },
+    {
+      "tag": "lugar sagrado",
+      "count": 27,
+      "tooltip": "lugar sagrado, mencionado em 27 avaliações"
+    },
+    {
+      "tag": "pouso",
+      "count": 25,
+      "tooltip": "pouso, mencionado em 25 avaliações"
+    },
+    {
+      "tag": "asa-delta",
+      "count": 18,
+      "tooltip": "asa-delta, mencionado em 18 avaliações"
+    }
+  ],
+  "featuredPhotos": [
+    "https://lh5.googleusercontent.com/p/AF1QipOrbs0JegKT7zje30ChEbrr5eJ3TKGxcruLGUog=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNYjR4cw5m2Gl1TkOGDkH-5To-EcHL7CzuoRY4u=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMTnKW-xgRDirAuAL9cA6mnUfOMvvlCIyRl38PM=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipO3FJRPuzF5IqkHEzXFUm6gJi0ZmBBj8ODKL4_7=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPJ-BMW3fyPnsbohhSZMhsnrbDAMvHHw-ARxtjU=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipON___M4eUJ8rYAg4fYHN29z6VaJyq2EiQ-XqVL=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMbikKziZ96kV5ac9kfq9AG559kvHODe1lIObWy=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOUGX1TZyTq1Tbosu4k1rRJXzY9m-N-7J2dzzc=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMuGJqwSTBIzT7peprH1RuF3wXz15yPJA-37seh=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMBnWceQ_fZjSB_5yl6VaK2k8pl5qHSOgdhoa9E=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPpFOswUleyWFvQblcIYIAaJ8w0UMo3WZUWS7ql=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOwzJDZmZwWYMuYZ2er3S2Ee5jwJNW8O8Qo3tVZ=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNpR77JYKutrqT3VPujJviZzxl9A1zWqW79gIGl=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNb5mCl1nYsbFbkp7mhqut21YX1fJ_jvCsNnMSZ=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMed4UE1vL15vJ2fIUIcLrJEU7BxZG_nPVf-g7Q=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOuccxrg4vTOBIapQxTg5RG6M8_klV5U_3TRbpw=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipO-nVa530hEVsb9scEuUXDrew0AkRCSbVq3tkw=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNoE_n8JHv_yXwdRaiQRnGMhzTAq1-lexs-1U7-=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPkkB9MpyDR3ZM-cl6eGnu3BqDlVXgeNZhlNLBR=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNsD8jV42fIon9KoodM0rpjv1VI4xU4A774NjHE=w1024-h576-k-no"
+  ],
+  "topComments": [
+    {
+      "author": "Jeyson Goncalves de Carvalho",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucrehC0KR5mpmphbTRplAQaKYvQ4nz8TgrtS-de9SQ=w36-h36-p-c0x00000000-rp-mo-ba3-br100",
+      "comment": "Praia com mar agitado, bom para surf, areia preta.",
+      "gradeComment": 5
+    },
+    {
+      "author": "李明賢（Umin）",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucouyfe3m3E_60uhuvzzagHTKzkE-5FcX4KhVGSqY3g=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "(Tradução do Google) Um bom lugar para brincar na água, a areia é muito fina, e é preciso uma longa caminhada para chegar lá. No verão, a areia é muito quente, então não deixe de usar sapatos. Há uma máquina de lavar que funciona com moedas e um estacionamento pago ao lado do No. 9 Cafe. Muito adequado para praia infantil, muito suave e seguro~~  (Original) 玩水的好去處，沙子很細，就是要走一大段才會到，夏天沙子很燙，務必要穿鞋子，旁邊九號咖啡館有投幣式沖洗跟收費停車場。很適合小孩的沙灘，很平緩很安全~~",
+      "gradeComment": 5
+    },
+    {
+      "author": "劉宜衡",
+      "photoAuthor": "https://lh3.googleusercontent.com/a/AItbvmlMZOSnTX4xLXzLP9v-mvADbazKmD7P5vg1YD4d=w36-h36-p-c0x00000000-rp-mo-ba3-br100",
+      "comment": "(Tradução do Google) Com um amplo campo de visão, você pode ver todo o céu e pode ver o arco-íris e o pôr do sol quando for lá naquele dia! O mar é calmo, com uma ilha verde pálida sobre ele, super linda~ A praia encharcada pelo mar pode tirar fotos de reflexo, e há algumas birutas e bandeiras na praia que são bem fofas  (Original) 視野開闊，能看到整片天空，當天去的時候還看到彩虹和晚霞！海面平靜，上面躺著一顆淡綠色的島嶼，超美～ 被海水浸濕的沙灘可以拍倒影照，沙灘上還有一些風向袋跟旗子也蠻可愛的",
+      "gradeComment": 5
+    },
+    {
+      "author": "李宗德",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucpsMAW-Ftmf7MrmG35nPe7PXt15qgylckD0CwqjxA=w36-h36-p-c0x00000000-rp-mo-ba5-br100",
+      "comment": "(Tradução do Google) Praia de Wai'ao: Não muito longe do norte do Porto de Wushi, a Praia de Wai'ao fica em frente à Estação Ferroviária de Wai'ao, e a Ilha Guishan fica ao largo da costa da Praia de Wai'ao; além de estar disponível para os turistas brincarem na água, também se diz que a praia de Wai'ao é o limite para parapente e surfe, é um local concentrado para esportes, mas devido à situação epidêmica de alerta de nível 3, atividades como parapente e surf parecem estar fechadas. Atualmente, os turistas só podem caminhar ao longo da trilha do aterro no lado norte do Porto de Wushi para apreciar a paisagem espetacular da Ilha Guishan.  (Original) 外澳沙灘：位於烏石港北面不遠，外澳沙灘位於外澳火車站對面，在外澳海灘外海就是龜山島；外澳沙灘除了可供遊客戲水外，聽說也是飛行傘、衝浪等極限運動的集中地，不過因疫情三級警戒之疫情而飛行傘及衝浪等活動似都關閉。目前旅客們只能沿著烏石港北側的堤防步道漫步，觀賞龜山島的壯觀景象。",
+      "gradeComment": 4
+    },
+    {
+      "author": "White Pai",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucqoXi4Gn21g0s5Fq9lq5m4MNhf3MxZkbhRBcNI0g9E=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "(Tradução do Google) Estacionamento nas proximidades E muitas lojas de surf, muito convenientes areia é areia fina preta A inclinação da costa é muito pequena, é uma praia muito segura~confortável Fui hoje e descobri que muitos comentários não mencionavam A praia estará fechada às 17h30 e não pode entrar na água A praia estará fechada às 17h30 e não pode entrar na água A praia estará fechada às 17h30 e não pode entrar na água Eu originalmente queria jogar à noite para não ser muito quente, mas acabou que eu não tinha muito tempo para jogar🥲  (Original) 附近有停車場 以及許多衝浪店，十分方便 沙子是黑色細沙子 岸邊坡度很小，算是很安全～舒服的海灘 今天去才知道很多評論都沒提到 海灘下午5:30店家就休息了，且不能下水 海灘下午5:30店家就休息了，且不能下水 海灘下午5:30店家就休息了，且不能下水 本來想傍晚不要太熱去玩，結果反倒沒多少時間可以玩了🥲",
+      "gradeComment": 5
+    },
+    {
+      "author": "游Vicki Yu",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucrRd_wD2wCQ5Woyln7Q-RVeHSqRn_MOFMzK76Ao8gs=w36-h36-p-c0x00000000-rp-mo-ba5-br100",
+      "comment": "(Tradução do Google) Atravessando a estrada da Estação Ferroviária de Wai'ao fica a Praia de Wai'ao. A praia fica a uma longa distância do mar. A areia é preta e pode ser percorrida descalço sem dor. Há um Café nº 9 nas proximidades que é muito bom , não importa quando está chovendo ou fazendo sol escaldante, muita gente.  A Ilha Guishan pode ser vista na costa, e também há atividades de desembarque na ilha das quais você pode participar. É uma pena que o tempo não esteja bom, senão você pode pegar todo o pedaço de céu azul sem sombra, nuvens brancas e montanhas e mares.  (Original) 從外澳火車站走過馬路就是外澳沙灘，沙灘離海邊要走一段距離，沙質為黑色可赤腳走不會痛，附近有一間九號咖啡館生意很好，不論在下雨或烈日時都很多人。  在海岸邊上就可以看到龜山島，也陸續有登島活動可以參加。可惜天氣不好，不然可以拍到整片無遮蔽的藍天白雲及山海。",
+      "gradeComment": 4
+    },
+    {
+      "author": "sisily chen",
+      "photoAuthor": "https://lh3.googleusercontent.com/a/AItbvmkb_g5spgbkZVY7uwtfwG4GmNJ_7qMt_nl5rp0e1LI=w36-h36-p-c0x00000000-rp-mo-ba3-br100",
+      "comment": "(Tradução do Google) A paisagem é muito boa, as ondas são muito confortáveis, o sol não é muito grande, há um guarda-chuva voador acima dele, um local de encontro romântico, também é muito adequado para levar as crianças para brincar, lembre-se de preparar tapetes de piquenique, guarda-sóis e brinquedos de escavação  (Original) 風景很好浪花也很舒服太陽不會太大，上方還有飛行傘🪂，浪漫的約會地點，也很適合帶孩子來玩樂，記得準備野餐墊跟陽傘以及挖土玩具",
+      "gradeComment": 5
+    },
+    {
+      "author": "C",
+      "photoAuthor": "https://lh3.googleusercontent.com/a/AItbvmlLnX_G2m2GmxC1KIOjfn6ZXuBk8QmZhaMedCBrXGM=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "(Tradução do Google) Linda vista e clima maravilhoso! Lembre-se de trazer protetor solar ou você pode se queimar. Não há muito transporte público, se você quiser voltar para a estação de trem precisa usar Taxi(呼叫小黃）.  (Original) Beautiful view and wonderful weather! Remember to bring sunscreen or you may get sunburn. There is not much public transportation, if you want to go back to train station need to use Taxi(呼叫小黃）.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Alyss",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucoqMWgrRhzklIuCa1Ew_OavE3sIYL3nks1tE-_qoA=w36-h36-p-c0x00000000-rp-mo-ba5-br100",
+      "comment": "(Tradução do Google) A praia de areia fina e preta, não tem muitas atividades comerciais, é muito boa, e é bem interessante descer de parapente com frequência!  A praia é super grande. Há lugares onde você pode pagar para lavar os pés. Você pode ver a Ilha Guishan diretamente. Depois que a praia é banhada pelo mar, o espelho de Xingcheng é muito bonito. Muitas pessoas vêm para surfar ou passear crianças, é um bom lugar!  (Original) 細黑沙的海灘，沒有很多商業活動，非常不錯，常有飛行傘飛下來還蠻有趣的喔！  沙灘超級大，有地方可以付費沖腳，可以直接看到龜山島，沙灘在海水刷過之後星城一面鏡子非常漂亮，很多人來衝浪或遛小孩，是個好地方！",
+      "gradeComment": 5
+    },
+    {
+      "author": "『愛玩客&Ming』",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucoOOp_YfxutaIEf7_XA97pIEUgEWdFotO6V49D1-w=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "(Tradução do Google) Waiao é um lugar de visita obrigatória para mim quando venho a Yilan o tempo todo! A praia plana e as ondas na verdade não são muito grandes~ As crianças brincando na praia são realmente bastante seguras👍 Eu queria dar 5 estrelas para a revisão, mas por que só dei 4~ Porque eu fui à praia desta vez e descobri que existem muitos Tem muito lixo artificial, e parece que ninguém está separando... Isso me deixa muito decepcionado 😢 Espero que da próxima vez que eu for, não tenha lixo artificial ~ esse lugar vai ficar mais bonito!  (Original) 外澳是我一直來宜蘭玩，必來的地方！平坦的沙灘、海浪其實也不算太大～小孩在沙灘上玩，其實還算滿安全的👍我本來想給評語5顆星，但是為什麼只給了四顆～因為我這次去發現沙灘上多了好多的人工垃圾，爾且好像都沒有人在整理⋯這點讓我滿失望的😢希望下次去，沒有人工垃圾～這地方會更美的！",
+      "gradeComment": 4
+    }
+  ],
+  "peakHours": [
+    {
+      "Sunday": [
+        {
+          "hour": "04:00",
+          "percent": 2
+        },
+        {
+          "hour": "05:00",
+          "percent": 3
+        },
+        {
+          "hour": "06:00",
+          "percent": 6
+        },
+        {
+          "hour": "07:00",
+          "percent": 11
+        },
+        {
+          "hour": "08:00",
+          "percent": 19
+        },
+        {
+          "hour": "09:00",
+          "percent": 28
+        },
+        {
+          "hour": "10:00",
+          "percent": 38
+        },
+        {
+          "hour": "11:00",
+          "percent": 46
+        },
+        {
+          "hour": "12:00",
+          "percent": 50
+        },
+        {
+          "hour": "13:00",
+          "percent": 50
+        },
+        {
+          "hour": "14:00",
+          "percent": 55
+        },
+        {
+          "hour": "15:00",
+          "percent": 66
+        },
+        {
+          "hour": "16:00",
+          "percent": 70
+        },
+        {
+          "hour": "17:00",
+          "percent": 54
+        },
+        {
+          "hour": "18:00",
+          "percent": 28
+        },
+        {
+          "hour": "19:00",
+          "percent": 9
+        },
+        {
+          "hour": "20:00",
+          "percent": 2
+        },
+        {
+          "hour": "03:00",
+          "percent": 1
+        }
+      ]
+    },
+    {
+      "Monday": [
+        {
+          "hour": "04:00",
+          "percent": 1
+        },
+        {
+          "hour": "06:00",
+          "percent": 1
+        },
+        {
+          "hour": "07:00",
+          "percent": 3
+        },
+        {
+          "hour": "08:00",
+          "percent": 6
+        },
+        {
+          "hour": "09:00",
+          "percent": 9
+        },
+        {
+          "hour": "10:00",
+          "percent": 13
+        },
+        {
+          "hour": "11:00",
+          "percent": 16
+        },
+        {
+          "hour": "12:00",
+          "percent": 20
+        },
+        {
+          "hour": "13:00",
+          "percent": 26
+        },
+        {
+          "hour": "14:00",
+          "percent": 34
+        },
+        {
+          "hour": "15:00",
+          "percent": 38
+        },
+        {
+          "hour": "16:00",
+          "percent": 35
+        },
+        {
+          "hour": "17:00",
+          "percent": 24
+        },
+        {
+          "hour": "18:00",
+          "percent": 12
+        },
+        {
+          "hour": "19:00",
+          "percent": 4
+        },
+        {
+          "hour": "20:00",
+          "percent": 1
+        },
+        {
+          "hour": "21:00",
+          "percent": 1
+        },
+        {
+          "hour": "22:00",
+          "percent": 1
+        },
+        {
+          "hour": "23:00",
+          "percent": 1
+        },
+        {
+          "hour": "00:00",
+          "percent": 1
+        },
+        {
+          "hour": "01:00",
+          "percent": 1
+        },
+        {
+          "hour": "02:00",
+          "percent": 1
+        },
+        {
+          "hour": "03:00",
+          "percent": 1
+        }
+      ]
+    },
+    {
+      "Tuesday": [
+        {
+          "hour": "04:00",
+          "percent": 1
+        },
+        {
+          "hour": "05:00",
+          "percent": 1
+        },
+        {
+          "hour": "07:00",
+          "percent": 1
+        },
+        {
+          "hour": "08:00",
+          "percent": 4
+        },
+        {
+          "hour": "09:00",
+          "percent": 7
+        },
+        {
+          "hour": "10:00",
+          "percent": 11
+        },
+        {
+          "hour": "11:00",
+          "percent": 15
+        },
+        {
+          "hour": "12:00",
+          "percent": 18
+        },
+        {
+          "hour": "13:00",
+          "percent": 24
+        },
+        {
+          "hour": "14:00",
+          "percent": 34
+        },
+        {
+          "hour": "15:00",
+          "percent": 42
+        },
+        {
+          "hour": "16:00",
+          "percent": 40
+        },
+        {
+          "hour": "17:00",
+          "percent": 27
+        },
+        {
+          "hour": "18:00",
+          "percent": 12
+        },
+        {
+          "hour": "19:00",
+          "percent": 3
+        },
+        {
+          "hour": "21:00",
+          "percent": 1
+        },
+        {
+          "hour": "22:00",
+          "percent": 1
+        },
+        {
+          "hour": "23:00",
+          "percent": 1
+        },
+        {
+          "hour": "00:00",
+          "percent": 1
+        },
+        {
+          "hour": "01:00",
+          "percent": 1
+        },
+        {
+          "hour": "02:00",
+          "percent": 1
+        },
+        {
+          "hour": "03:00",
+          "percent": 1
+        }
+      ]
+    },
+    {
+      "Wednesday": [
+        {
+          "hour": "07:00",
+          "percent": 2
+        },
+        {
+          "hour": "08:00",
+          "percent": 5
+        },
+        {
+          "hour": "09:00",
+          "percent": 11
+        },
+        {
+          "hour": "10:00",
+          "percent": 17
+        },
+        {
+          "hour": "11:00",
+          "percent": 21
+        },
+        {
+          "hour": "12:00",
+          "percent": 21
+        },
+        {
+          "hour": "13:00",
+          "percent": 22
+        },
+        {
+          "hour": "14:00",
+          "percent": 29
+        },
+        {
+          "hour": "15:00",
+          "percent": 36
+        },
+        {
+          "hour": "16:00",
+          "percent": 36
+        },
+        {
+          "hour": "17:00",
+          "percent": 26
+        },
+        {
+          "hour": "18:00",
+          "percent": 13
+        },
+        {
+          "hour": "19:00",
+          "percent": 4
+        },
+        {
+          "hour": "20:00",
+          "percent": 1
+        }
+      ]
+    },
+    {
+      "Thursday": [
+        {
+          "hour": "06:00",
+          "percent": 1
+        },
+        {
+          "hour": "07:00",
+          "percent": 4
+        },
+        {
+          "hour": "08:00",
+          "percent": 10
+        },
+        {
+          "hour": "09:00",
+          "percent": 18
+        },
+        {
+          "hour": "10:00",
+          "percent": 26
+        },
+        {
+          "hour": "11:00",
+          "percent": 32
+        },
+        {
+          "hour": "12:00",
+          "percent": 33
+        },
+        {
+          "hour": "13:00",
+          "percent": 34
+        },
+        {
+          "hour": "14:00",
+          "percent": 41
+        },
+        {
+          "hour": "15:00",
+          "percent": 51
+        },
+        {
+          "hour": "16:00",
+          "percent": 52
+        },
+        {
+          "hour": "17:00",
+          "percent": 39
+        },
+        {
+          "hour": "18:00",
+          "percent": 20
+        },
+        {
+          "hour": "19:00",
+          "percent": 7
+        },
+        {
+          "hour": "20:00",
+          "percent": 2
+        },
+        {
+          "hour": "21:00",
+          "percent": 1
+        }
+      ]
+    },
+    {
+      "Friday": [
+        {
+          "hour": "04:00",
+          "percent": 1
+        },
+        {
+          "hour": "05:00",
+          "percent": 1
+        },
+        {
+          "hour": "06:00",
+          "percent": 3
+        },
+        {
+          "hour": "07:00",
+          "percent": 7
+        },
+        {
+          "hour": "08:00",
+          "percent": 13
+        },
+        {
+          "hour": "09:00",
+          "percent": 21
+        },
+        {
+          "hour": "10:00",
+          "percent": 30
+        },
+        {
+          "hour": "11:00",
+          "percent": 36
+        },
+        {
+          "hour": "12:00",
+          "percent": 39
+        },
+        {
+          "hour": "13:00",
+          "percent": 43
+        },
+        {
+          "hour": "14:00",
+          "percent": 56
+        },
+        {
+          "hour": "15:00",
+          "percent": 76
+        },
+        {
+          "hour": "16:00",
+          "percent": 83
+        },
+        {
+          "hour": "17:00",
+          "percent": 66
+        },
+        {
+          "hour": "18:00",
+          "percent": 36
+        },
+        {
+          "hour": "19:00",
+          "percent": 14
+        },
+        {
+          "hour": "20:00",
+          "percent": 5
+        },
+        {
+          "hour": "21:00",
+          "percent": 3
+        },
+        {
+          "hour": "22:00",
+          "percent": 3
+        },
+        {
+          "hour": "23:00",
+          "percent": 3
+        },
+        {
+          "hour": "00:00",
+          "percent": 2
+        },
+        {
+          "hour": "01:00",
+          "percent": 2
+        },
+        {
+          "hour": "02:00",
+          "percent": 1
+        },
+        {
+          "hour": "03:00",
+          "percent": 1
+        }
+      ]
+    },
+    {
+      "Saturday": [
+        {
+          "hour": "04:00",
+          "percent": 2
+        },
+        {
+          "hour": "05:00",
+          "percent": 4
+        },
+        {
+          "hour": "06:00",
+          "percent": 8
+        },
+        {
+          "hour": "07:00",
+          "percent": 15
+        },
+        {
+          "hour": "08:00",
+          "percent": 25
+        },
+        {
+          "hour": "09:00",
+          "percent": 38
+        },
+        {
+          "hour": "10:00",
+          "percent": 51
+        },
+        {
+          "hour": "11:00",
+          "percent": 59
+        },
+        {
+          "hour": "12:00",
+          "percent": 63
+        },
+        {
+          "hour": "13:00",
+          "percent": 68
+        },
+        {
+          "hour": "14:00",
+          "percent": 80
+        },
+        {
+          "hour": "15:00",
+          "percent": 97
+        },
+        {
+          "hour": "16:00",
+          "percent": 100
+        },
+        {
+          "hour": "17:00",
+          "percent": 77
+        },
+        {
+          "hour": "18:00",
+          "percent": 42
+        },
+        {
+          "hour": "19:00",
+          "percent": 17
+        },
+        {
+          "hour": "20:00",
+          "percent": 7
+        },
+        {
+          "hour": "21:00",
+          "percent": 4
+        },
+        {
+          "hour": "22:00",
+          "percent": 3
+        },
+        {
+          "hour": "23:00",
+          "percent": 3
+        },
+        {
+          "hour": "00:00",
+          "percent": 3
+        },
+        {
+          "hour": "01:00",
+          "percent": 3
+        },
+        {
+          "hour": "02:00",
+          "percent": 2
+        },
+        {
+          "hour": "03:00",
+          "percent": 2
+        }
+      ]
+    }
+  ],
+  "relatedSearches": null,
+  "relateds": [
+    {
+      "mainName": "Wai'ao Train Station",
+      "url": null
+    },
+    {
+      "mainName": "Guishan Island",
+      "url": null
+    },
+    {
+      "mainName": "Beiguan Tidal Park",
+      "url": null
+    },
+    {
+      "mainName": "Neipi Beach",
+      "url": null
+    },
+    {
+      "mainName": "Fulong Beach",
+      "url": null
+    },
+    {
+      "mainName": "Lanyang Museum",
+      "url": null
+    },
+    {
+      "mainName": "Tangweigou Hot Spring Park",
+      "url": null
+    },
+    {
+      "mainName": "Taipingshan National Forest Recreation Area",
+      "url": null
+    },
+    {
+      "mainName": "Jiaoxi Hot Springs Park",
+      "url": null
+    },
+    {
+      "mainName": "Dongao Bay",
+      "url": null
+    },
+    {
+      "mainName": "National Center for Traditional Arts",
+      "url": null
+    },
+    {
+      "mainName": "Wufengchi Waterfalls",
+      "url": null
+    },
+    {
+      "mainName": "Wanglongpi",
+      "url": null
+    },
+    {
+      "mainName": "Rainbow Waterfall",
+      "url": null
+    },
+    {
+      "mainName": "Suao Cold Spring Park",
+      "url": null
+    },
+    {
+      "mainName": "Dongshan River Water Park",
+      "url": null
+    },
+    {
+      "mainName": "Water geothermal Square",
+      "url": null
+    }
+  ],
+  "editMode": false
+}

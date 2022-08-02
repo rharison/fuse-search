@@ -1,0 +1,847 @@
+{
+  "mainName": "Toca das Leoas",
+  "slug": "toca-das-leoas",
+  "category": "Restaurante",
+  "locationInformation": {
+    "latitude": "-17.7233997",
+    "longitude": "-49.115613"
+  },
+  "basicInformation": [
+    {
+      "label": "endereço",
+      "tooltip": "Copiar endereço",
+      "text": "R. Três, Morrinhos - GO, 75650-000",
+      "icon": "https://www.gstatic.com/images/icons/material/system_gm/1x/place_gm_blue_24dp.png"
+    },
+    {
+      "label": "Code",
+      "tooltip": "Copiar Plus Code",
+      "text": "7VGM+JQ Morrinhos, Goiás",
+      "icon": "https://maps.gstatic.com/mapfiles/maps_lite/images/2x/ic_plus_code.png"
+    },
+    {
+      "label": "merchant",
+      "text": "Reivindicar esta empresa",
+      "icon": "https://www.gstatic.com/images/icons/material/system_gm/1x/verified_user_gm_blue_24dp.png"
+    }
+  ],
+  "ratingInformation": {
+    "basicRatingInformation": {
+      "averageGrade": 5,
+      "totalOfEvaluations": 2
+    },
+    "ratingsByGrade": [
+      {
+        "grade": 5,
+        "totalRatings": 2
+      },
+      {
+        "grade": 4,
+        "totalRatings": 0
+      },
+      {
+        "grade": 3,
+        "totalRatings": 0
+      },
+      {
+        "grade": 2,
+        "totalRatings": 0
+      },
+      {
+        "grade": 1,
+        "totalRatings": 0
+      }
+    ]
+  },
+  "ratingTags": null,
+  "featuredPhotos": [
+    "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=Nx5HgKp0p_IN-QNoYckL2g&amp;cb_client=maps_sv.tactile.gps&amp;w=203&amp;h=100&amp;yaw=155.19812&amp;pitch=0&amp;thumbfov=100=w1024-h576-k-no"
+  ],
+  "topComments": null,
+  "peakHours": [
+    {
+      "Sunday": [
+        {
+          "hour": "04:00",
+          "percent": 38
+        },
+        {
+          "hour": "05:00",
+          "percent": 42
+        },
+        {
+          "hour": "06:00",
+          "percent": 46
+        },
+        {
+          "hour": "07:00",
+          "percent": 51
+        },
+        {
+          "hour": "08:00",
+          "percent": 57
+        },
+        {
+          "hour": "09:00",
+          "percent": 66
+        },
+        {
+          "hour": "10:00",
+          "percent": 75
+        },
+        {
+          "hour": "11:00",
+          "percent": 81
+        },
+        {
+          "hour": "12:00",
+          "percent": 79
+        },
+        {
+          "hour": "13:00",
+          "percent": 74
+        },
+        {
+          "hour": "14:00",
+          "percent": 68
+        },
+        {
+          "hour": "15:00",
+          "percent": 68
+        },
+        {
+          "hour": "16:00",
+          "percent": 75
+        },
+        {
+          "hour": "17:00",
+          "percent": 83
+        },
+        {
+          "hour": "18:00",
+          "percent": 88
+        },
+        {
+          "hour": "19:00",
+          "percent": 85
+        },
+        {
+          "hour": "20:00",
+          "percent": 74
+        },
+        {
+          "hour": "21:00",
+          "percent": 59
+        },
+        {
+          "hour": "22:00",
+          "percent": 44
+        },
+        {
+          "hour": "23:00",
+          "percent": 35
+        },
+        {
+          "hour": "00:00",
+          "percent": 29
+        },
+        {
+          "hour": "01:00",
+          "percent": 29
+        },
+        {
+          "hour": "02:00",
+          "percent": 31
+        },
+        {
+          "hour": "03:00",
+          "percent": 35
+        }
+      ]
+    },
+    {
+      "Monday": [
+        {
+          "hour": "04:00",
+          "percent": 37
+        },
+        {
+          "hour": "05:00",
+          "percent": 31
+        },
+        {
+          "hour": "06:00",
+          "percent": 24
+        },
+        {
+          "hour": "07:00",
+          "percent": 16
+        },
+        {
+          "hour": "08:00",
+          "percent": 14
+        },
+        {
+          "hour": "09:00",
+          "percent": 18
+        },
+        {
+          "hour": "10:00",
+          "percent": 29
+        },
+        {
+          "hour": "11:00",
+          "percent": 44
+        },
+        {
+          "hour": "12:00",
+          "percent": 50
+        },
+        {
+          "hour": "13:00",
+          "percent": 48
+        },
+        {
+          "hour": "14:00",
+          "percent": 44
+        },
+        {
+          "hour": "15:00",
+          "percent": 46
+        },
+        {
+          "hour": "16:00",
+          "percent": 51
+        },
+        {
+          "hour": "17:00",
+          "percent": 59
+        },
+        {
+          "hour": "18:00",
+          "percent": 64
+        },
+        {
+          "hour": "19:00",
+          "percent": 66
+        },
+        {
+          "hour": "20:00",
+          "percent": 64
+        },
+        {
+          "hour": "21:00",
+          "percent": 61
+        },
+        {
+          "hour": "22:00",
+          "percent": 55
+        },
+        {
+          "hour": "23:00",
+          "percent": 50
+        },
+        {
+          "hour": "00:00",
+          "percent": 46
+        },
+        {
+          "hour": "01:00",
+          "percent": 44
+        },
+        {
+          "hour": "02:00",
+          "percent": 44
+        },
+        {
+          "hour": "03:00",
+          "percent": 42
+        }
+      ]
+    },
+    {
+      "Tuesday": [
+        {
+          "hour": "04:00",
+          "percent": 44
+        },
+        {
+          "hour": "05:00",
+          "percent": 38
+        },
+        {
+          "hour": "06:00",
+          "percent": 33
+        },
+        {
+          "hour": "07:00",
+          "percent": 25
+        },
+        {
+          "hour": "08:00",
+          "percent": 22
+        },
+        {
+          "hour": "09:00",
+          "percent": 25
+        },
+        {
+          "hour": "10:00",
+          "percent": 38
+        },
+        {
+          "hour": "11:00",
+          "percent": 59
+        },
+        {
+          "hour": "12:00",
+          "percent": 75
+        },
+        {
+          "hour": "13:00",
+          "percent": 75
+        },
+        {
+          "hour": "14:00",
+          "percent": 59
+        },
+        {
+          "hour": "15:00",
+          "percent": 42
+        },
+        {
+          "hour": "16:00",
+          "percent": 37
+        },
+        {
+          "hour": "17:00",
+          "percent": 44
+        },
+        {
+          "hour": "18:00",
+          "percent": 53
+        },
+        {
+          "hour": "19:00",
+          "percent": 59
+        },
+        {
+          "hour": "20:00",
+          "percent": 57
+        },
+        {
+          "hour": "21:00",
+          "percent": 51
+        },
+        {
+          "hour": "22:00",
+          "percent": 48
+        },
+        {
+          "hour": "23:00",
+          "percent": 46
+        },
+        {
+          "hour": "00:00",
+          "percent": 46
+        },
+        {
+          "hour": "01:00",
+          "percent": 48
+        },
+        {
+          "hour": "02:00",
+          "percent": 48
+        },
+        {
+          "hour": "03:00",
+          "percent": 48
+        }
+      ]
+    },
+    {
+      "Wednesday": [
+        {
+          "hour": "04:00",
+          "percent": 40
+        },
+        {
+          "hour": "05:00",
+          "percent": 44
+        },
+        {
+          "hour": "06:00",
+          "percent": 50
+        },
+        {
+          "hour": "07:00",
+          "percent": 55
+        },
+        {
+          "hour": "08:00",
+          "percent": 61
+        },
+        {
+          "hour": "09:00",
+          "percent": 62
+        },
+        {
+          "hour": "10:00",
+          "percent": 61
+        },
+        {
+          "hour": "11:00",
+          "percent": 55
+        },
+        {
+          "hour": "12:00",
+          "percent": 48
+        },
+        {
+          "hour": "13:00",
+          "percent": 40
+        },
+        {
+          "hour": "14:00",
+          "percent": 37
+        },
+        {
+          "hour": "15:00",
+          "percent": 38
+        },
+        {
+          "hour": "16:00",
+          "percent": 48
+        },
+        {
+          "hour": "17:00",
+          "percent": 59
+        },
+        {
+          "hour": "18:00",
+          "percent": 68
+        },
+        {
+          "hour": "19:00",
+          "percent": 72
+        },
+        {
+          "hour": "20:00",
+          "percent": 68
+        },
+        {
+          "hour": "21:00",
+          "percent": 61
+        },
+        {
+          "hour": "22:00",
+          "percent": 53
+        },
+        {
+          "hour": "23:00",
+          "percent": 50
+        },
+        {
+          "hour": "00:00",
+          "percent": 46
+        },
+        {
+          "hour": "01:00",
+          "percent": 42
+        },
+        {
+          "hour": "02:00",
+          "percent": 40
+        },
+        {
+          "hour": "03:00",
+          "percent": 40
+        }
+      ]
+    },
+    {
+      "Thursday": [
+        {
+          "hour": "04:00",
+          "percent": 44
+        },
+        {
+          "hour": "05:00",
+          "percent": 46
+        },
+        {
+          "hour": "06:00",
+          "percent": 44
+        },
+        {
+          "hour": "07:00",
+          "percent": 44
+        },
+        {
+          "hour": "08:00",
+          "percent": 40
+        },
+        {
+          "hour": "09:00",
+          "percent": 38
+        },
+        {
+          "hour": "10:00",
+          "percent": 40
+        },
+        {
+          "hour": "11:00",
+          "percent": 64
+        },
+        {
+          "hour": "12:00",
+          "percent": 61
+        },
+        {
+          "hour": "13:00",
+          "percent": 29
+        },
+        {
+          "hour": "14:00",
+          "percent": 25
+        },
+        {
+          "hour": "15:00",
+          "percent": 33
+        },
+        {
+          "hour": "16:00",
+          "percent": 46
+        },
+        {
+          "hour": "17:00",
+          "percent": 62
+        },
+        {
+          "hour": "18:00",
+          "percent": 74
+        },
+        {
+          "hour": "19:00",
+          "percent": 74
+        },
+        {
+          "hour": "20:00",
+          "percent": 64
+        },
+        {
+          "hour": "21:00",
+          "percent": 50
+        },
+        {
+          "hour": "22:00",
+          "percent": 38
+        },
+        {
+          "hour": "23:00",
+          "percent": 33
+        },
+        {
+          "hour": "00:00",
+          "percent": 33
+        },
+        {
+          "hour": "01:00",
+          "percent": 35
+        },
+        {
+          "hour": "02:00",
+          "percent": 38
+        },
+        {
+          "hour": "03:00",
+          "percent": 42
+        }
+      ]
+    },
+    {
+      "Friday": [
+        {
+          "hour": "04:00",
+          "percent": 31
+        },
+        {
+          "hour": "05:00",
+          "percent": 31
+        },
+        {
+          "hour": "06:00",
+          "percent": 31
+        },
+        {
+          "hour": "07:00",
+          "percent": 31
+        },
+        {
+          "hour": "08:00",
+          "percent": 33
+        },
+        {
+          "hour": "09:00",
+          "percent": 37
+        },
+        {
+          "hour": "10:00",
+          "percent": 38
+        },
+        {
+          "hour": "11:00",
+          "percent": 42
+        },
+        {
+          "hour": "12:00",
+          "percent": 44
+        },
+        {
+          "hour": "13:00",
+          "percent": 44
+        },
+        {
+          "hour": "14:00",
+          "percent": 44
+        },
+        {
+          "hour": "15:00",
+          "percent": 46
+        },
+        {
+          "hour": "16:00",
+          "percent": 53
+        },
+        {
+          "hour": "17:00",
+          "percent": 68
+        },
+        {
+          "hour": "18:00",
+          "percent": 85
+        },
+        {
+          "hour": "19:00",
+          "percent": 87
+        },
+        {
+          "hour": "20:00",
+          "percent": 72
+        },
+        {
+          "hour": "21:00",
+          "percent": 50
+        },
+        {
+          "hour": "22:00",
+          "percent": 33
+        },
+        {
+          "hour": "23:00",
+          "percent": 25
+        },
+        {
+          "hour": "00:00",
+          "percent": 25
+        },
+        {
+          "hour": "01:00",
+          "percent": 27
+        },
+        {
+          "hour": "02:00",
+          "percent": 29
+        },
+        {
+          "hour": "03:00",
+          "percent": 31
+        }
+      ]
+    },
+    {
+      "Saturday": [
+        {
+          "hour": "04:00",
+          "percent": 31
+        },
+        {
+          "hour": "05:00",
+          "percent": 33
+        },
+        {
+          "hour": "06:00",
+          "percent": 37
+        },
+        {
+          "hour": "07:00",
+          "percent": 44
+        },
+        {
+          "hour": "08:00",
+          "percent": 51
+        },
+        {
+          "hour": "09:00",
+          "percent": 61
+        },
+        {
+          "hour": "10:00",
+          "percent": 64
+        },
+        {
+          "hour": "11:00",
+          "percent": 66
+        },
+        {
+          "hour": "12:00",
+          "percent": 61
+        },
+        {
+          "hour": "13:00",
+          "percent": 53
+        },
+        {
+          "hour": "14:00",
+          "percent": 48
+        },
+        {
+          "hour": "15:00",
+          "percent": 48
+        },
+        {
+          "hour": "16:00",
+          "percent": 61
+        },
+        {
+          "hour": "17:00",
+          "percent": 85
+        },
+        {
+          "hour": "18:00",
+          "percent": 100
+        },
+        {
+          "hour": "19:00",
+          "percent": 92
+        },
+        {
+          "hour": "20:00",
+          "percent": 66
+        },
+        {
+          "hour": "21:00",
+          "percent": 40
+        },
+        {
+          "hour": "22:00",
+          "percent": 25
+        },
+        {
+          "hour": "23:00",
+          "percent": 24
+        },
+        {
+          "hour": "00:00",
+          "percent": 27
+        },
+        {
+          "hour": "01:00",
+          "percent": 31
+        },
+        {
+          "hour": "02:00",
+          "percent": 33
+        },
+        {
+          "hour": "03:00",
+          "percent": 33
+        }
+      ]
+    }
+  ],
+  "relatedSearches": null,
+  "relateds": [
+    {
+      "mainName": "TOCA DAS LEOA",
+      "url": "https://www.google.com/maps/search/TOCA+DAS+LEOA+-+Unnamed+Road,+Ouro+Preto+-+MG,+35400-000"
+    },
+    {
+      "mainName": "Represa de Santa Rita",
+      "url": "https://www.google.com/maps/search/Represa+de+Santa+Rita+-+Unnamed+Road,+Ouro+Preto+-+MG,+35400-000"
+    },
+    {
+      "mainName": "Sítio Rural Santa Rita",
+      "url": "https://www.google.com/maps/search/S%C3%ADtio+Rural+Santa+Rita+-+Represa+do+tabo%C3%A3o,+35400-000,+Ouro+Preto+-+MG,+35400-000"
+    },
+    {
+      "mainName": "Condomínio Andalécio",
+      "url": "https://www.google.com/maps/search/Condom%C3%ADnio+Andal%C3%A9cio+-+R.+S%C3%A3o+Jos%C3%A9,+121+-+Ouro+Preto,+MG,+35400-000"
+    },
+    {
+      "mainName": "Barragem de Taboões",
+      "url": "https://www.google.com/maps/search/Barragem+de+Tabo%C3%B5es+-+Unnamed+Road,+Ouro+Preto+-+MG,+35400-000"
+    },
+    {
+      "mainName": "Condomínio Vila do Itacolomi",
+      "url": "https://www.google.com/maps/search/Condom%C3%ADnio+Vila+do+Itacolomi+-+Av.+Juscelino+Kubitscheck,+677+-+Bauxita,+Ouro+Preto+-+MG,+35400-000"
+    },
+    {
+      "mainName": "Depósito Santa Rita Mat de Construção",
+      "url": "https://www.google.com/maps/search/Dep%C3%B3sito+Santa+Rita+Mat+de+Constru%C3%A7%C3%A3o+-+R.+Dom+Veloso,+297+-+Santa+Rita+de+Ouro+Preto,+Ouro+Preto+-+MG,+35409-000"
+    },
+    {
+      "mainName": "Igreja Matriz Santa Rita de Cássia",
+      "url": "https://www.google.com/maps/search/Igreja+Matriz+Santa+Rita+de+C%C3%A1ssia+-+Santa+Rita+de+Ouro+Preto,+Ouro+Preto+-+MG,+35400-000"
+    },
+    {
+      "mainName": "Sítio Campestre",
+      "url": "https://www.google.com/maps/search/S%C3%ADtio+Campestre+-+Campestre+-+Zona+Rural,+Ouro+Preto+-+MG,+35409-000"
+    },
+    {
+      "mainName": "Condomínio Campo Grande de Vila Rica - Ouro Preto",
+      "url": "https://www.google.com/maps/search/Condom%C3%ADnio+Campo+Grande+de+Vila+Rica+-+Ouro+Preto+-+R.+A,+31-1+-+Novo+Horizonte,+Ouro+Preto+-+MG,+35400-000"
+    },
+    {
+      "mainName": "ELI CARVALHO & IRMÃO Ltda",
+      "url": "https://www.google.com/maps/search/ELI+CARVALHO+%26+IRM%C3%83O+Ltda+-+R.+Dom+Veloso,+827+-+Santa+Rita+de+Ouro+Preto,+Ouro+Preto+-+MG,+35409-000"
+    },
+    {
+      "mainName": "Mineração Moagem de Minérios e Fabricação de Artefatos para Cozinha",
+      "url": "https://www.google.com/maps/search/Minera%C3%A7%C3%A3o+Moagem+de+Min%C3%A9rios+e+Fabrica%C3%A7%C3%A3o+de+Artefatos+para+Cozinha+-+Av.+Jos%C3%A9+Leandro,+165+-+Santa+Rita+de+Ouro+Preto,+Ouro+Preto+-+MG,+35409-000"
+    },
+    {
+      "mainName": "Sítio Chácara Boa Vista",
+      "url": "https://www.google.com/maps/search/S%C3%ADtio+Ch%C3%A1cara+Boa+Vista+-+Itaverava+-+MG,+36440-000,+Ouro+Branco+-+MG,+36420-000"
+    },
+    {
+      "mainName": "Residencial Recanto das Montanhas",
+      "url": "https://www.google.com/maps/search/Residencial+Recanto+das+Montanhas+-+R.+Jorge+Caram,+400+-+Ouro+Preto,+MG,+35400-000"
+    },
+    {
+      "mainName": "salao de festas cond jk",
+      "url": "https://www.google.com/maps/search/salao+de+festas+cond+jk+-+Bauxita,+Ouro+Preto+-+MG,+35400-000"
+    },
+    {
+      "mainName": "Residencial Boa Esperança",
+      "url": "https://www.google.com/maps/search/Residencial+Boa+Esperan%C3%A7a+-+Ouro+Preto,+MG,+35400-000"
+    },
+    {
+      "mainName": "Imobiliária Itacolomi",
+      "url": "https://www.google.com/maps/search/Imobili%C3%A1ria+Itacolomi+-+Pra%C3%A7a+Ces%C3%A1rio+Alvim,+73+-+Bairro+Pilar,+Ouro+Preto+-+MG,+35400-000"
+    },
+    {
+      "mainName": "Casa de junia",
+      "url": "https://www.google.com/maps/search/Casa+de+junia+-+Ouro+Preto,+MG,+35400-000"
+    },
+    {
+      "mainName": "Raphael",
+      "url": "https://www.google.com/maps/search/Raphael+-+R.+Bra%C3%BAnas,+75+-+Ouro+Preto,+MG,+35400-000"
+    },
+    {
+      "mainName": "Bonanza Imóveis - Ouro Preto",
+      "url": "https://www.google.com/maps/search/Bonanza+Im%C3%B3veis+-+Ouro+Preto+-+Pra%C3%A7a+Americo+Lopes,+43+-+Pilar,+Ouro+Preto+-+MG,+35400-000"
+    }
+  ],
+  "editMode": false
+}

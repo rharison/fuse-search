@@ -1,0 +1,418 @@
+{
+  "mainName": "Látrabjarg",
+  "slug": "latrabjarg",
+  "category": "Penhasco",
+  "locationInformation": {
+    "latitude": "65.5025719",
+    "longitude": "-24.5316982"
+  },
+  "basicInformation": [
+    {
+      "label": "endereço",
+      "tooltip": "Copiar endereço",
+      "text": "451, Islândia",
+      "icon": "https://www.gstatic.com/images/icons/material/system_gm/1x/place_gm_blue_24dp.png"
+    },
+    {
+      "label": "send-to-device",
+      "text": "Enviar para smartphone",
+      "icon": "https://maps.gstatic.com/consumer/images/icons/1x/send_to_mobile_alt_gm_blue_24dp.png"
+    }
+  ],
+  "ratingInformation": {
+    "basicRatingInformation": {
+      "averageGrade": 4.8,
+      "totalOfEvaluations": 122
+    },
+    "ratingsByGrade": [
+      {
+        "grade": 5,
+        "totalRatings": 101
+      },
+      {
+        "grade": 4,
+        "totalRatings": 15
+      },
+      {
+        "grade": 3,
+        "totalRatings": 4
+      },
+      {
+        "grade": 2,
+        "totalRatings": 0
+      },
+      {
+        "grade": 1,
+        "totalRatings": 2
+      }
+    ]
+  },
+  "ratingTags": [
+    {
+      "tag": "papagaio-do-mar",
+      "count": 33,
+      "tooltip": "papagaio-do-mar, mencionado em 33 avaliações"
+    },
+    {
+      "tag": "vento",
+      "count": 10,
+      "tooltip": "vento, mencionado em 10 avaliações"
+    },
+    {
+      "tag": "caminhada",
+      "count": 6,
+      "tooltip": "caminhada, mencionado em 6 avaliações"
+    },
+    {
+      "tag": "cascalho",
+      "count": 5,
+      "tooltip": "cascalho, mencionado em 5 avaliações"
+    },
+    {
+      "tag": "fotos",
+      "count": 4,
+      "tooltip": "fotos, mencionado em 4 avaliações"
+    },
+    {
+      "tag": "maio",
+      "count": 3,
+      "tooltip": "maio, mencionado em 3 avaliações"
+    }
+  ],
+  "featuredPhotos": [
+    "https://lh5.googleusercontent.com/p/AF1QipM1nxvJikl3zQ_vx-8GyUU7Vhc2IgomCwC27YD1=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipO9EL5iTtQhIDAn14AoRkJCrwu-UB1YsWzLt77l=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMQRpgAuAAYRTaq0vQE4rRwvOGBIv0-VeG9x5jb=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMTB2eaj5xAw76ECKf2COny7SfM8FqBSEhXKACL=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMAfb1SO5w1e-PWghhaJAXzx5wR5Ok4r5_g80l6=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPKyTjRzvelm3alG881wopXMNS6heXOzGCktcEN=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMJxKGOi2-Qx9kdyBkToTlWwt-YzyrMWjZThn2Y=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipN22xT2LLGJowcOXMCeFF34b-YYqnCSK9TGiryS=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipM1lZVYUlcnFbCfV1YewMarZfi9fo0ZBRf8WGl1=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNI4WeRwFuGdAPilzQViywwoFYkXfc2A1rWa3hh=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNs-2AxTo9hyJM-hx5zrOB9m4WM16sUVfHw0-ix=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOeVC41LsaBUNoJFj36dXhgsKWDryjNgciDisaH=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMnnsg1GBPbX_2AA4uPxdnZ5F9zpi8eiYJIrWwg=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNefW9CycnVqsFwE4TtB-vtr5nDSUP76sKwPb-H=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOjJWGCD3fCePVcCy6_vz-9a3YssMzWV4ctb_KP=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNLQL0W1M1yKsAO4uxrUGozIfbSBc68bTyNzQTq=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMbGUDxAuEyg9qE82XXO20GzgiJj2TsbRSw3YpS=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPx9qVTUadmf4oMMqLeg8DM2JA_7HtS1AzevBwS=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOpeI1PVPqVE2aUn346660QqtET_JaxNhDvFB_H=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPN-UcmT2EyTEmuIYco-cb5xC3jYZD-g8Xhq95A=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOua9DlAlQS5PfKU0D2X786Z8NBRM6xonOhcLzi=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipM9IhWyXroOYjWR1eqaZe0dBCBOVg8BdncOWTX2=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipN_Us4pzNzqc3hti5MJV30O4jEu6VuR12Z3OnE_=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipO0WrRA2LoQYBclCVwvbcPZ8cx3OzldJZKetIM6=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPNHiddCLAhWlWprWa5DJzdBRCJ8R_NbtO7m6Kx=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNpvNpe30McIN6Z3uE-e0S4lrWaFVFl9U1-MOZQ=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNXsYcG1TDLN_-EqeKaM4bN5yXPnmoCJQqAJ-SC=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipN5ZH-Ay4JrIUHUA-DPPhqMBEhjkIh7TcQrmxDW=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPk3vC6OX6XdJdjHSQ5_YCfZIDlG6wrBsy1i3m2=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMT6tmkUj0Cnyn3GzYns5wiTAHKx0GT3mMZdtKd=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOpiuLe2dPTochVDPzvkcSU6fk1BrU3p-3YL_vX=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNJQNEF9iEYB9VSDN7pKEqL2klrQVmaOJ2v5U28=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipM7CX2IZIMRd4yfVSSSY3sPRAo6vwnIFLNr65db=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPLD12krFdkWZ3zCWpaIzezazH8DkFtqPSySmOm=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMMv8NdaDwfuHSHZ-peHCXnTKvo3sm5tahNN3je=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMi9ZaZEnyNFDOXYI3AZGT3RbXgjIeUwHEWSETQ=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNfK0Vf8GpFIevrRO2pq9QvGhLBAb52dsZJKg7R=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipO5oCMftGSqp8OBudsLBKvL2iB4gKoLMC7QxP-P=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMuH264l5ZNsgCh1uUbNTUFwZFqS2-c-aIa_tEO=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMVS4CKXve3NyQGPi6PleUiMLmEEG9QsAcVjC4b=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOqL0aoIFavxsI0hgFZfYr29Q3WLUDuAIQPbZ6L=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOvY6YLg7GTTlf2uEURi7pS-VBG1t-Jb3SHzjTw=w1024-h576-k-no"
+  ],
+  "topComments": [
+    {
+      "author": "Margot BCN",
+      "photoAuthor": "https://lh3.googleusercontent.com/a/AItbvmm4fDi0aLgrkVMzn59i5lv25K97BLSqSH4ML4uf=w36-h36-p-c0x00000000-rp-mo-ba3-br100",
+      "comment": "(Tradução do Google) Nice caminhada do farol com vistas incríveis; caminhar não é difícil, apenas super ventoso e frio; você pode ver muitos pássaros; se você realmente quiser ver papagaios-do-mar, fique ao lado do farol - é até chamado de penhasco dos papagaios-do-mar :)  (Original) Nice walk from lighthouse up with amazing views; walk is not hard, just super windy and cold;you can see a lot of birds; if you really want to see puffins just stay next to lighthouse-it is even named puffins cliff:)",
+      "gradeComment": 5
+    },
+    {
+      "author": "Bianca",
+      "photoAuthor": "https://lh3.googleusercontent.com/a/AItbvmns41lVbNmUfzBYVcPldUu1bQk5dpjtXQpMTNpB=w36-h36-p-c0x00000000-rp-mo-br100",
+      "comment": "(Tradução do Google) Rochas impressionantes e uma bela trilha circular. As direções (especialmente devido à estrada ruim) são longas, mas devem ser viáveis ​​para qualquer carro. Nós estávamos lá à tarde e tivemos a sorte de ver um papagaio-do-mar após cerca de 30-45min (é melhor vir à noite para mais papagaios-do-mar). Vi muito mais papagaios-do-mar (também voando) durante uma pequena parada na costa norte do Diamond Circle, mas ainda assim foi uma ótima experiência ver um deles tão de perto.  (Original) Beeindruckende Felsen und ein schöner Rundwanderweg. Anfahrt (insb aufgrund der schlechten Straße) lang aber sollte für jedes Auto machbar sein. Wir waren am Nachmittag da und hatten Glück nach etwa 30-45min einen Puffin zu sehen (für mehr Puffins besser am Abend kommen).  Haben bei einem kurzen Stopp an der Nordküste des Diamond Circles deutlich mehr Puffins (auch fliegend) gesehen, war aber trotzdem ein tolles Erlebnis den einen hier so nah zu sehen.",
+      "gradeComment": 4
+    },
+    {
+      "author": "Rhyan Wilson",
+      "photoAuthor": "https://lh3.googleusercontent.com/a/AItbvmkq8oAPul2M15YqgAPi2umJKa6yZa6yAtnTKlRw=w36-h36-p-c0x00000000-rp-mo-br100",
+      "comment": "Worth the drive! We took a 4x4 in late May and had no issue. WC/bathroom at base of location. There were at least 4 different types of birds here, including puffins! It took us awhile to see a puffin and were actually leaving when one flew right up to us and settled about 6 feet away. A super cool experience. I would definitely recommend this view and experience to anyone, and encourage you to be patient when looking for the puffins. I think they may be hard to spot due to the sheer amount of other birds there are and maybe depending on time of day or where on the cliffs you are looking.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Lisa Wiedstruck",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucpDQzwbXPpTISwNSL3hHFM-5zsdPd9Tk6z6wArF=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "(Tradução do Google) Claro, como a maioria das pessoas, viemos aqui pelos papagaios-do-mar. Infelizmente, não vimos um único em nossa caminhada de 1,5 horas. Mas as falésias eram realmente super impressionantes, a vista das aves reprodutoras é realmente espetacular e a altura das falésias é realmente de tirar o fôlego. Quando estávamos voltando para o estacionamento e queríamos nos afastar desapontados, o milagre aconteceu. Um único pequeno papagaio-do-mar espiou do penhasco ao lado do caminho. Claro que ficamos muito felizes e pudemos iniciar nossa jornada de volta ao hotel com esse encontro positivo.  (Original) Wir sind natürlich, wie die meisten, wegen der Papageitaucher hergekommen. Leider haben wir auf unser 1,5 stündigen Wanderung keinen einzigen gesehen. Dafür waren aber die Steilklippen wirklich super beeindruckend der Blick auf die Brütenden Vögel ist wirklich spektakulär und die Höhe der Klippen ist wirklich atemberaubend. Als wir wieder auf dem Weg zum Parkplatz waren und enttäuscht von dannen ziehen wollten geschah dann doch noch das Wunder. Ein einzelner kleiner papageitaucher lugte direkt neben dem Weg von der klippe hervor. Wir haben uns natürlich sehr gefreut und konnten mit dieser Positiven Begegnung unsere Reise zurück zum Hotel antreten.",
+      "gradeComment": 5
+    },
+    {
+      "author": "storm turchi",
+      "photoAuthor": "https://lh3.googleusercontent.com/a/AItbvmnoX9vqhuReousL5Y8tER2yhQh4Wtc7pmSxkY-J=w36-h36-p-c0x00000000-rp-mo-br100",
+      "comment": "(Tradução do Google) Se a observação de pássaros é a sua paixão, você tem que vir a este lugar pelo menos uma vez na vida entre maio e agosto. Do lado da falésia, nidificam todo o tipo de aves marinhas: guillemots, razorbills, fulmars e, claro, papagaios-do-mar que não são tímidos. Na maré baixa, você também pode identificar claramente as focas. Parece estar em um documentário. Mas o oeste da Islândia é tão intocado e selvagem que você também pode ver pássaros do outro lado, aquele que desce para uma praia de areia branca. Eu avistei meu primeiro mergulhão de pescoço vermelho no pequeno lago na praia. E no caminho para Latrabjarg enquanto dirigia, avistei uma bandeira de neve. A costa antes de chegar a Latrabjarg é um local reprodutivo de andorinha, dirija devagar! Em Breidavik avistei um falaropo de pescoço vermelho. Este é puro paraíso para observação de aves. Duas coisas sobre o local: cães não são permitidos e não vão se houver previsão de vento forte. O vento na Islândia é brutal e pode até virar o seu veículo ou empurrá-lo das falésias e ainda por cima na estrada que leva a Latrabjarg existe o risco de ravinas. Verifique vedur.is antes de ir.  (Original) If birdwatching is your passion, you have to come to this place at least once in your life between May and August. On the cliff side, there are all sorts of marine birds nesting: guillemots, razorbills, fulmars and of course puffins who are not shy. On low tide you can clearly spot seals too. It feels like being in a documentary. But West Iceland is so pristine and wild that you can obviously spot birds on the other side too, the one descending into a white sand beach. I spotted my first red necked loon in the little pond by the beach. And on the way to Latrabjarg while driving, I spotted a snow bunting. The shore before you reach Latrabjarg is a tern reproductive site, drive slowly! In Breidavik I spotted a red necked phalarope. This is pure paradise for birdwatching. Two things about the place: dogs are not allowed and don't go there if there's a forecast of strong wind. Wind in Iceland is brutal and can even capsize your vehicle or push you off the cliffs and on top of that on the road that leads to Latrabjarg there is a risk of ravines. Check vedur.is before you go.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Céline van Poucke",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucrAQo5u7Ur5xntl3c5rO5RpF8qfinHbEl1YxTMbcqs=w36-h36-p-c0x00000000-rp-mo-br100",
+      "comment": "(Tradução do Google) Nós fomos aqui com um 4wd no dia 25 de abril. A estrada era boa o suficiente para um 4x4 não recomendado para 2wd. Foi incrível, tivemos que olhar muito bem, mas vimos 5 papagaios-do-mar nas falésias!! Adorei e vale o passeio!  (Original) We went here with a 4wd on the 25th of april. The road was good enough for a 4x4 not recommended for 2wd. It was amazing, we had to look very well but did see 5 puffins at the cliffs!! Loved it & worth the drive!",
+      "gradeComment": 5
+    },
+    {
+      "author": "Tanja F",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucqtncziME2HxO-dgF8sJp_1jkpWPMUhvg1c03OPIQ=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "(Tradução do Google) Mesmo com a neblina e a umidade, é muito bom observar e fotografar as muitas gaivotas e principalmente os papagaios-do-mar. Os papagaios-do-mar estavam a 1 metro do caminho, portanto as melhores condições para vê-los. Estávamos no dia 01/08. aqui de manhã. Quase não havia pessoas. Informações sobre a borda: a estrada de cascalho tem buracos e, em parte, há risco de queda de pedras. Há também uma bela praia nas proximidades.  (Original) Auch trotz Nebel und Nässe total schön, um die vielen Möwen und speziell Papageientaucher zu beobachten und zu fotografieren. Die Puffins waren 1 Meter vom Weg entfernt, also beste Voraussetzungen um sie zu sehen. Wir waren am 01.08. vormittags hier. Es waren nahezu kaum Leute. Randinfo: die Schotterstraße dahin hat Schlaglöcher und ist teilweise Steinschlag gefährdet. In der Nähe gibt es auch einen schönen Strand.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Dan Burke",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucoprs8t2p5lJYtuWPbIOcJ0JIU23JUMygC47DZR=w36-h36-p-c0x00000000-rp-mo-ba3-br100",
+      "comment": "(Tradução do Google) Ótimo lugar para ver papagaios-do-mar de perto! Feito com campervan 2WD sem problemas, estrada de cascalho, não uma estrada F  (Original) Great place to see puffins up close! Made it with 2WD campervan with no issues, gravel road, not an F road",
+      "gradeComment": 5
+    },
+    {
+      "author": "Chloé Kersalé",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucpwRFIwZ_PtgDdSqeZFFdw3nGwbl4A5yCIu7lbomg=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "Very nice and windy cliff. For the best chance of seeing a lot of puffins come in the morning or in the evening as most birds are out at sea during the day.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Taha Raja",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZuco2BzPu9_a0aT9nJdMEtJbrm1CrdiH4tiBVD1q3jw4=w36-h36-p-c0x00000000-rp-mo-ba6-br100",
+      "comment": "(Tradução do Google) Área incrível de observação de pássaros e nidificação nas falésias. Os papagaios-do-mar vêm aqui para vencer, especialmente no final de junho até o início do outono. Um lugar definitivo para observação de pássaros para fotografia. Uma casa decente à beira das falésias para algumas vistas grandiosas também.  (Original) Amazing area of bird viewing and nesting on the cliffs.  Puffins come here to beat especially late June through early Fall.   A definite birding place for photography.  A decent home on the edge of the cliffs for some grand views as well.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Chris and Nicole",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucoTrmBPUKwWEOLfQzUbnL3lDhAGZk04-_JlhMqCXQ=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "(Tradução do Google) Soooo vale a pena a unidade. A unidade é impressionante e as falésias e vendo todos os papagaios foram inacreditável. Um local garantido para ver papagaios-do-mar não muito longe da borda do penhasco. Certifique-se de usar calçado adequado e estar preparado para ventos fortes no topo das falésias. Ouça a sinalização quando ela diz que se deita perto da borda do penhasco, pois as bordas são muito macias.  (Original) Soooo worth the drive. The drive is stunning and the cliffs and seeing all the puffins were unbelievable. A guaranteed spot to see puffins not far from the edge of the cliff. Make sure you wear proper walking shoes and be prepared for high winds at the top of the cliffs. Listen to the signage when it says to lie down near the edge of the cliff as the edges are very soft.",
+      "gradeComment": 5
+    },
+    {
+      "author": "HappiTravels House Rentals Newport Beach California",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucpDcPLe5WULF_p5uew1JA8iCqWBttpRb7QoJueHDA=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "(Tradução do Google) Se você ama Puffins, encontre uma maneira de chegar aqui! Os Puffins estão bem no estacionamento do outro lado da grama nas falésias com vista para o mar! Você quase pode tocá-los !! HappiTravels  (Original) If you love Puffins find a way to get here! The Puffins are right at the parking lot area across the grass on the cliffs overlooking the sea!  You can almost touch them!! HappiTravels",
+      "gradeComment": 5
+    },
+    {
+      "author": "Pierre Veri",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucqm8f2C2xyfdmhCQl6BMZKHVpHIPY2_S8RiBeaeZQ=w36-h36-p-c0x00000000-rp-mo-ba5-br100",
+      "comment": "(Tradução do Google) Vale a pena a longa viagem (se você não se importa gastar algum dinheiro com gás). Nós vimos soooooo muitos papagaios-do-mar, agora nós podemos finalmente voltar para casa com essas criaturas bonitas em mente. A caminhada é muito legal também, você vai encontrar um grande penhasco onde as gaivotas decidiram viver ... e eles são barulhentos, mas é engraçado!  (Original) Worth the long drive (if you dont mind spending some money on gas). We saw soooooo many puffins, now we can finally head back home with those beautiful creatures in mind. The hike is quite cool as well, you will meet a big cliff where seagulls have decided to live... and they are noisy as well but it's funny!",
+      "gradeComment": 5
+    },
+    {
+      "author": "Timothy Palmer",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucrdl6SZXHMrXKuHz2hYIeqS2n8wUhxGQsQiG2XAQQ=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "(Tradução do Google) Ótimo lugar para ver papagaios-do-mar e outras aves marinhas! Em maio de 2020, não havia ninguém por perto, exceto meus amigos e eu, e ao pôr do sol das 23h, foi uma experiência incrível!  (Original) Great place to see puffins and other sea birds! In May, 2020, there was no one else around except my friends and I, and at the 11pm sunset, was an amazing experience!",
+      "gradeComment": 5
+    },
+    {
+      "author": "Sebastian Rahlfs",
+      "photoAuthor": "https://lh3.googleusercontent.com/a/AItbvmlOjJpKt7_C4-toiqMGDj3c8Kb6MdodlGUm3qC3=w36-h36-p-c0x00000000-rp-mo-ba5-br100",
+      "comment": "(Tradução do Google) Absolutamente ótimo local para manchar os papagaios - eles nidificam em cavernas na beira da rocha - à tarde não há muitos para ver - por isso é melhor vir aqui de manhã. Não há banheiros, então é melhor parar antes.  (Original) Absolut toller Spot, um die Papageientaucher (Puffins) zu beobachten - die nisten oben am Rande des Felsens in Höhlen - nachmittags sind nicht mehr viele zu sehen - daher am besten morgens hier herkommen. Toiletten gibt es hier nicht, also besser vorher einen Stop einlegen.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Kolbrún Lára",
+      "photoAuthor": "https://lh3.googleusercontent.com/a/AItbvmm2AR8gOyWZxzcl-yyNNEflhoU6JEp50QGjD61yRg=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "(Tradução do Google) A unidade lá é longa e dura. A estrada é de cascalho e tem muitas curvas e colinas que podem ser bastante perigosas!  A vista de Látrabjarg é única e ótima para ver papagaios-do-mar e outras aves tão perto.  (Original) The drive there is a long and hard. The road is from gravel and has many turns and hills which can be quite dangerous!  The view from Látrabjarg is one of a kind and great to be able to see puffins and other birds this close.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Pierre-Alain Marro",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucqEnLrz5fHyIAtZHmmBIbS30Xu95CYFCaoe0-Zx3A=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "(Tradução do Google) Magnífico local para a observação de aves marinhas e a paisagem sobre o mar é grandiosa  (Original) Magnifique lieu pour l’observation des oiseaux marins et paysage sur la mer est grandiose",
+      "gradeComment": 5
+    },
+    {
+      "author": "Jakob-Pall Johannsson",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucpbge3a67w6qtRT5J3oY4y_UlGJfwuwpy16RnMc=w36-h36-p-c0x00000000-rp-mo-ba5-br100",
+      "comment": "An amazing life experience having been there for the first time in my life at 2 o'clock in the morning June 21st 2022  I strongly recommend you try to be there ...even in the middle of our beautiful bright summer nights in Iceland ❤️  Just check my photos and videos here on Google maps and enjoy.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Davi De",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucp6vfQBz9w3E9sB5dBYJGrWuKICpb9XT5e2r8is=w36-h36-p-c0x00000000-rp-mo-br100",
+      "comment": "(Tradução do Google) Lugar arejado, mas maravilhoso, com vistas espetaculares do oceano Atlântico. E então a atração principal eram os papagaio-do-mar, Pulcinella di mare.  (Original) Posto ventilato ma meraviglioso, con una vista spettacolare sull'oceano Atlantico. E poi l'attrazione principale erano i Puffin, Pulcinella di mare.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Martyna Pływacz",
+      "photoAuthor": "https://lh3.googleusercontent.com/a/AItbvmkjx_hCM5m8NE_Im2AmXGA5-Qt1YVSZbCpliYYl=w36-h36-p-c0x00000000-rp-mo-br100",
+      "comment": "(Tradução do Google) A estrada para chegar lá é longa e de cascalho, mas definitivamente vale a pena  (Original) Road to get there is gravel and long but it's definitely worth it",
+      "gradeComment": 5
+    }
+  ],
+  "peakHours": null,
+  "relatedSearches": [
+    "westfjords",
+    "dyrhólaey",
+    "snæfellsnes",
+    "deildartunguhver",
+    "gullfoss waterfall",
+    "reykjadalur",
+    "dettifoss",
+    "ásbyrgi canyon",
+    "westfjords",
+    "dyrhólaey",
+    "snæfellsnes",
+    "deildartunguhver",
+    "gullfoss waterfall",
+    "reykjadalur",
+    "dettifoss",
+    "ásbyrgi canyon"
+  ],
+  "relateds": [
+    {
+      "mainName": "Bolafjall636 m",
+      "url": null
+    },
+    {
+      "mainName": "Hornbjarg",
+      "url": null
+    },
+    {
+      "mainName": "Hælavíkurbjarg",
+      "url": null
+    },
+    {
+      "mainName": "Tjörnes",
+      "url": null
+    },
+    {
+      "mainName": "Sneffels1.446 m",
+      "url": null
+    },
+    {
+      "mainName": "Tungudalur",
+      "url": null
+    },
+    {
+      "mainName": "Kerlingarfjöll1.477 m",
+      "url": null
+    },
+    {
+      "mainName": "Kaldbakur998 m",
+      "url": null
+    },
+    {
+      "mainName": "Kirkjufell463 m",
+      "url": null
+    },
+    {
+      "mainName": "Hafnaberg",
+      "url": null
+    },
+    {
+      "mainName": "Vatnsdalur",
+      "url": null
+    },
+    {
+      "mainName": "Sandafell",
+      "url": null
+    },
+    {
+      "mainName": "Askja1.516 m",
+      "url": null
+    },
+    {
+      "mainName": "Ásbyrgi",
+      "url": null
+    },
+    {
+      "mainName": "Thórsmörk",
+      "url": null
+    },
+    {
+      "mainName": "Landmannalaugar",
+      "url": null
+    },
+    {
+      "mainName": "Stuðlagil",
+      "url": null
+    },
+    {
+      "mainName": "Vaðalfjöll",
+      "url": null
+    },
+    {
+      "mainName": "Fimmvörðuháls",
+      "url": null
+    },
+    {
+      "mainName": "Laki818 m",
+      "url": null
+    },
+    {
+      "mainName": "Kjölur",
+      "url": null
+    },
+    {
+      "mainName": "Bárðardalur",
+      "url": null
+    },
+    {
+      "mainName": "Bolafjall636 m",
+      "url": null
+    },
+    {
+      "mainName": "Hornbjarg",
+      "url": null
+    },
+    {
+      "mainName": "Hælavíkurbjarg",
+      "url": null
+    },
+    {
+      "mainName": "Tjörnes",
+      "url": null
+    },
+    {
+      "mainName": "Sneffels1.446 m",
+      "url": null
+    },
+    {
+      "mainName": "Tungudalur",
+      "url": null
+    },
+    {
+      "mainName": "Kerlingarfjöll1.477 m",
+      "url": null
+    },
+    {
+      "mainName": "Kaldbakur998 m",
+      "url": null
+    },
+    {
+      "mainName": "Kirkjufell463 m",
+      "url": null
+    },
+    {
+      "mainName": "Hafnaberg",
+      "url": null
+    },
+    {
+      "mainName": "Vatnsdalur",
+      "url": null
+    },
+    {
+      "mainName": "Sandafell",
+      "url": null
+    },
+    {
+      "mainName": "Askja1.516 m",
+      "url": null
+    },
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

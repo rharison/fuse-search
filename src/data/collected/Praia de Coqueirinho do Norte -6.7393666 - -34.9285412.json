@@ -1,0 +1,642 @@
+{
+  "mainName": "Praia de Coqueirinho do Norte",
+  "slug": "praia-de-coqueirinho-do-norte",
+  "category": "Praia",
+  "locationInformation": {
+    "latitude": "-6.7393666",
+    "longitude": "-34.9285412"
+  },
+  "basicInformation": [
+    {
+      "label": "endereço",
+      "tooltip": "Copiar endereço",
+      "text": "Marcação - PB",
+      "icon": "https://www.gstatic.com/images/icons/material/system_gm/1x/place_gm_blue_24dp.png"
+    }
+  ],
+  "ratingInformation": {
+    "basicRatingInformation": {
+      "averageGrade": 4.7,
+      "totalOfEvaluations": 1003
+    },
+    "ratingsByGrade": [
+      {
+        "grade": 5,
+        "totalRatings": 804
+      },
+      {
+        "grade": 4,
+        "totalRatings": 123
+      },
+      {
+        "grade": 3,
+        "totalRatings": 47
+      },
+      {
+        "grade": 2,
+        "totalRatings": 5
+      },
+      {
+        "grade": 1,
+        "totalRatings": 24
+      }
+    ]
+  },
+  "ratingTags": [
+    {
+      "tag": "bar",
+      "count": 24,
+      "tooltip": "bar, mencionado em 24 avaliações"
+    },
+    {
+      "tag": "restaurantes",
+      "count": 23,
+      "tooltip": "restaurantes, mencionado em 23 avaliações"
+    },
+    {
+      "tag": "paisagem",
+      "count": 14,
+      "tooltip": "paisagem, mencionado em 14 avaliações"
+    },
+    {
+      "tag": "beleza",
+      "count": 13,
+      "tooltip": "beleza, mencionado em 13 avaliações"
+    },
+    {
+      "tag": "ondas",
+      "count": 11,
+      "tooltip": "ondas, mencionado em 11 avaliações"
+    },
+    {
+      "tag": "maré",
+      "count": 11,
+      "tooltip": "maré, mencionado em 11 avaliações"
+    },
+    {
+      "tag": "piscinas naturais",
+      "count": 8,
+      "tooltip": "piscinas naturais, mencionado em 8 avaliações"
+    },
+    {
+      "tag": "boi",
+      "count": 5,
+      "tooltip": "boi, mencionado em 5 avaliações"
+    },
+    {
+      "tag": "infraestrutura",
+      "count": 5,
+      "tooltip": "infraestrutura, mencionado em 5 avaliações"
+    },
+    {
+      "tag": "final de semana",
+      "count": 5,
+      "tooltip": "final de semana, mencionado em 5 avaliações"
+    }
+  ],
+  "featuredPhotos": [
+    "https://lh5.googleusercontent.com/p/AF1QipMjTmK761MoOtwDMBN8r7vEyxrZCg3CNWRZ4Z6L=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipN923o0Qn5Ej8hNpg4kcWGXkju7MC7wPBrll8hQ=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOnBeKaE5KixBq1T_VjaaErXOxRZICAZE54bqsj=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPsNGYhxo0I4pm5qgRsL2DevQa3fedy0LsZII4X=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipN1AXoSWcW_u3PjeSAA_KZYqBeB6YHAtqe0DOev=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNt3qXQ2eZtpw5bbrCLgQkwUJZa4w9QKujSzHpV=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOc6zIPuf-KWFrrdmGUktPQbrqeJBXtDE-W2wJf=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPdXr_QcxvQfzFaeyH9sh2xTKNnOG4qbxNngH8r=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipO62LPAW0f5YmPjq463AvF6fTxM44WSriMWdelt=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNykeDRBm4pTpPqAJLFhyUq941n_hze2fQX7SLk=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPZ4qBNsAuSx_1c4Nsr5b2I0HzeOuKgpDe4hpWG=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMnY-vID5spGqpmgTTnYhss-6vQmCKWMxHXA0ON=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPrDmxezdlzDyJcznnwWGmV1BTuuQ8WcEoufZIQ=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPRNDT7PMdtS-ruPUJdWQq-gCh4VhmPd-IqTACd=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipP8ksYJ6vHtqOeKDVAyF2h9w0VaEmc6RxigW2lG=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMAuP47522P8LzocLnpk5qOGUT40ePCB7_TmxHq=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPf98qkUOG1MmYAfGLAQY37vev7i13GeW7lNTyJ=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNX8mXYxHZ6ucgyuo9WT8d-Vn8VXsJ48GQSUMDj=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNB9ujH_nJtVhCSkDUuITwIfIUcLacNLRYYS9UM=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipP0eT4hUZhtGWh-fdn7x03CdZWLWGmNRvAY-mbn=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOHhYBZtEPcpak685yQpPSfKztLONF5XokUEzqz=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMmbgl_n0Lemv-dhxP9bMPvc96Aj7Vbqgd7QcV1=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMRGuAyFHm5u6EI8_McGUeiOINtgkY_mf9Ar08i=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMfU-OdlV-X1EDJywo6DMOTd86A4tDygaGgHF7u=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMsChQrDsW0PNg4ryYarFCHmfFevwZUrtp_TM8Y=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPoC5EEvYOJ3lI-p3RNzEMHp8oLtsFPN6cBD26z=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipN86eNKctciQK6xfO_uPAPZSaU4V6CiFtrE9jKo=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNWgl3cIZp4kpRlO3CkFGQKECTMdorHIu_WYmuA=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPFVATEJhV0y1_kql5ed6j0XgLLEzh3obQTlTeB=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipP-kZY-AkwIaCG48lWGm2NRaTOp-OvKNArx3e-f=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOKr6Do5ng3Q8xfJQzatjZsvQxG1erGOo7f98Yk=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMBLhmCMQ0akiPAk9yv5i0l0KmGL97FpuOTWic=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOEDiwJq9eFx_w3CySFQ_zTgXHIpbicYGtLj4KS=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMHDnYo5eOToXBwc3l50TCzyGrznYW3xMD4jabV=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNzZDk0n8_V5Flejvsyz7xHYwLAfvn8Nfb8oX_o=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMqNyLUqyvw7EiIQKRBcAH4KNYIMEs9Yc9fuUtE=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOF2ApNsb3Hk5ytpWWyp89wyDW4q4E5KMqDTbSh=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMjLzRTXkCJnXyzh9qFog2dF94GJOFBSinhNS-O=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPq4PkYVKK2UwCtLOC4Vfy1qL0_V1CmTiQNIwVi=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNOy5XzkOWZ5KUHoKWTLrO7v3JJdt6nB37-tGNs=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOlmrdU7hgK4_R88Yice881HIafWBZqkfcaYACK=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOQAAGk2iOJn4D8RbTerhsfNe2Kt2-f6FTRmWk5=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOQy8Lxtxd4z9iy5sVVzgh7XElATL3tuiNX0Ih2=w1024-h576-k-no"
+  ],
+  "topComments": [
+    {
+      "author": "Deivid Lima",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucoccgQ385ZrNMxxItmeAuO9bZx_0rr_jj_5BwIhew=w36-h36-p-c0x00000000-rp-mo-br100",
+      "comment": "Uma excelente praia onde encontramos uma maré com poucas ondas e uma larga faixada de areia em alguns pontos. Ótimo pras famílias. Os restaurantes possuem opções regulares de pratos, mas dá pra escolher bem onde fazer uma boa refeição.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Joci Siqueira",
+      "photoAuthor": "https://lh3.googleusercontent.com/a/AItbvmlvjBt4SUC-vZXjztVqd2AHUM-Ukdp6a3jqej3Q=w36-h36-p-c0x00000000-rp-mo-br100",
+      "comment": "Haa minha estadia nesse lugar foi maravilhosa,contando os dias para poder voltar lá novamente.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Marisa maron",
+      "photoAuthor": "https://lh3.googleusercontent.com/a/AItbvmkV7aqJ7s_uJShtR_1e_zW3tK_PlW_JUk8Lbdn1=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "Pé na areia.Belissima paisagem .Local p curtir a praia,banho de mar;descansar.Curtir a natureza com a família.Passeios de bugue.Longe do centrinho comercial , é local p curtir a natureza.Comida boa típica da região.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Luiz Santos",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucr5Xk1D64IBdFZeexfl4AVFbjqYwKiG6EpnyXxtSg=w36-h36-p-c0x00000000-rp-mo-ba3-br100",
+      "comment": "Muito boa praia. Passeios de quadriciclo é ótimo para conhecer os lugares ao redor. Recomendo muito",
+      "gradeComment": 5
+    },
+    {
+      "author": "FERNANDA SILVA",
+      "photoAuthor": "https://lh3.googleusercontent.com/a/AItbvmmSeLbr2FdJryOPm0kqy08zthfiM57pD_ay4ATf=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "Paradisíaco Encantada com tanta beleza.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Paulo Ranieri",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucqOhaiD9VpC-muyGUpj1aA-YiJc0aY30-mJn479jgM=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "Fotos não descrevem a experiência deste local, um estuário bonito relativamente preservado, com locais de banho morno em encontro de águas doces e salgadas, comida boa de preço muito bom, passeio de barco de preço razoável. É possível ver  à distância o peixe boi e tartarugas marinhas nas arrebentações dos arrecifes.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Marcelo Mariano Nunes",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucrtMHYi05To5Y0oUuHhvywzpRwhDTLf8eJOMbBpRPE=w36-h36-p-c0x00000000-rp-mo-ba6-br100",
+      "comment": "Simplicidade é o nome deste lugar. Pra quem quer descanso e tranquilidade. Estrutura de barracas simples porém com bom serviço e muito bom preço.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Jessica Leme",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucogbiJbNmbf0GOUz3JJqVjzZmzbiqIdXbPpcoAhLoA=w36-h36-p-c0x00000000-rp-mo-ba6-br100",
+      "comment": "Praia lindíssima e ótima para banho! Tem pedras lindas para tirar fotos e piscinas naturais.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Denis Amorim Santana",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucoTW2KdW4DpPYiK7AUctt-xg3SxdxSzEQ0p_tuCVnA=w36-h36-p-c0x00000000-rp-mo-ba6-br100",
+      "comment": "Um lugar com uma beleza diferente bonito tranqüilo eu simplesmente amei estar aqui é tem uma parte que tem umas pedras gigantescas que da um ar bem diferente a praia é bem limpa da para ver até alguns peixinho na beira da praia muito show amei conhecer bom é isso",
+      "gradeComment": 5
+    },
+    {
+      "author": "Carlos Henrique",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucpvGjlLK1CJNXxeA_UTYhx-wbnngZrf3_3EOEbc9w=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "Lugar maravilhoso. Praia perfeita para o banho. Paisagem incrível. Areia branquinha e fininha. Pena que a capelinha estava fechada.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Raiff Rodrigues",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucqyULgkx7HPU2LG794N_IwNVI8Pq095jmSvq30JrHE=w36-h36-p-c0x00000000-rp-mo-ba6-br100",
+      "comment": "Merece 5 estrelas quem tem a oportunidade de conhecer está praia esquece as praias do Litoral sul, lugar agradável, praia paradisíaca, tem um rio Antes dos bares que é show de bola, Da pra levar a família sem medo, Pessoas muito acolhedoras .",
+      "gradeComment": 5
+    },
+    {
+      "author": "Lucas Eduardo Silva",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucqx3qIHUvQgEWdpNcg4Y1dzUSijXqUV_LBo02ZCDQ=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "Lugar lindo demais. Dependendo da época bem tranquilo. Amo",
+      "gradeComment": 5
+    },
+    {
+      "author": "giovanni lunz",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZuconAAqqWoFBMfZh413uw8hBT86VwDOKqEaAXGVx1gE=w36-h36-p-c0x00000000-rp-mo-br100",
+      "comment": "Uma praia muito bonita.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Ricardo Junior",
+      "photoAuthor": "https://lh3.googleusercontent.com/a/AItbvmkieJ6qMYyR1MzWl2EPx05mX5UM-CkJxU-7fH_S=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "Praia sensacional! Beleza ímpar, bastante quiosques, há estacionamento e restaurante. Uma das mais belas que visitei! Esta é parada obrigatória! As falésias são maravilhosas e há diversos tipos de paisagens.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Isabelly Rodrigues da Silva",
+      "photoAuthor": "https://lh3.googleusercontent.com/a/AItbvmnUW-CPxUNKcgR-4I5FPu_3MkDFtxXQQyCcdQiQ=w36-h36-p-c0x00000000-rp-mo-br100",
+      "comment": "Muiiiito lindo vale muito a pena ir, no caminho tem outros Rios as coisas mais linda que eu já vi na vida",
+      "gradeComment": 5
+    },
+    {
+      "author": "Arthur Fialho",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucq5etbA9eSWRxWcDtxA3c2l68Von_whtekYIOsofg=w36-h36-p-c0x00000000-rp-mo-ba2-br100",
+      "comment": "Lugar tranquilo, muito bonito, ótimo para relaxar. Achei o mar daqui muito interessante parece alto mar com menos de 1 metro, mas cuidado onde entrar, pode ser perigoso!",
+      "gradeComment": 5
+    },
+    {
+      "author": "sonia maria",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucqfJGScSXs8EE4UGgMTyn66sZcG8tg7IqL__-nPXw=w36-h36-p-c0x00000000-rp-mo-ba3-br100",
+      "comment": "Lindo lugar, vale a pena conhecer,",
+      "gradeComment": 5
+    },
+    {
+      "author": "patricia oliveira",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucqvwHtTBOTLviTFPbuTU4K6ncCO5__bsGPmvxDC1g=w36-h36-p-c0x00000000-rp-mo-ba3-br100",
+      "comment": "Muita tranquilidade, águas maravilhosas para tomar banho.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Patricia Lopes",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZuco3xfkEy7I89qOzCZKK-c9lqRnTVBfXK0nzc3ie4A=w36-h36-p-c0x00000000-rp-mo-br100",
+      "comment": "Lugar perfeito, para quem ama uma conexão com a natureza, aquela paz, incrível demais.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Tiago Loiola",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucpnLTz2RonyhCuyY0oru0yqaTCxKyOvFrnKKJgk=w36-h36-p-c0x00000000-rp-mo-br100",
+      "comment": "Lugar bonito com alimentação regional e preço justo",
+      "gradeComment": 4
+    }
+  ],
+  "peakHours": [
+    {
+      "Sunday": [
+        {
+          "hour": "08:00",
+          "percent": 19
+        },
+        {
+          "hour": "09:00",
+          "percent": 35
+        },
+        {
+          "hour": "10:00",
+          "percent": 57
+        },
+        {
+          "hour": "11:00",
+          "percent": 81
+        },
+        {
+          "hour": "12:00",
+          "percent": 97
+        },
+        {
+          "hour": "13:00",
+          "percent": 100
+        },
+        {
+          "hour": "14:00",
+          "percent": 86
+        },
+        {
+          "hour": "15:00",
+          "percent": 64
+        },
+        {
+          "hour": "16:00",
+          "percent": 41
+        }
+      ]
+    },
+    {
+      "Monday": [
+        {
+          "hour": "08:00",
+          "percent": 6
+        },
+        {
+          "hour": "09:00",
+          "percent": 11
+        },
+        {
+          "hour": "10:00",
+          "percent": 18
+        },
+        {
+          "hour": "11:00",
+          "percent": 26
+        },
+        {
+          "hour": "12:00",
+          "percent": 31
+        },
+        {
+          "hour": "13:00",
+          "percent": 32
+        },
+        {
+          "hour": "14:00",
+          "percent": 28
+        },
+        {
+          "hour": "15:00",
+          "percent": 21
+        },
+        {
+          "hour": "16:00",
+          "percent": 14
+        }
+      ]
+    },
+    {
+      "Tuesday": [
+        {
+          "hour": "09:00",
+          "percent": 1
+        },
+        {
+          "hour": "10:00",
+          "percent": 3
+        },
+        {
+          "hour": "11:00",
+          "percent": 6
+        },
+        {
+          "hour": "12:00",
+          "percent": 8
+        },
+        {
+          "hour": "13:00",
+          "percent": 8
+        },
+        {
+          "hour": "14:00",
+          "percent": 7
+        },
+        {
+          "hour": "15:00",
+          "percent": 5
+        },
+        {
+          "hour": "16:00",
+          "percent": 2
+        }
+      ]
+    },
+    {
+      "Wednesday": [
+        {
+          "hour": "09:00",
+          "percent": 1
+        },
+        {
+          "hour": "10:00",
+          "percent": 3
+        },
+        {
+          "hour": "11:00",
+          "percent": 4
+        },
+        {
+          "hour": "12:00",
+          "percent": 5
+        },
+        {
+          "hour": "13:00",
+          "percent": 5
+        },
+        {
+          "hour": "14:00",
+          "percent": 4
+        },
+        {
+          "hour": "15:00",
+          "percent": 3
+        },
+        {
+          "hour": "16:00",
+          "percent": 2
+        }
+      ]
+    },
+    {
+      "Thursday": [
+        {
+          "hour": "08:00",
+          "percent": 1
+        },
+        {
+          "hour": "10:00",
+          "percent": 2
+        },
+        {
+          "hour": "11:00",
+          "percent": 4
+        },
+        {
+          "hour": "12:00",
+          "percent": 5
+        },
+        {
+          "hour": "13:00",
+          "percent": 6
+        },
+        {
+          "hour": "14:00",
+          "percent": 5
+        },
+        {
+          "hour": "15:00",
+          "percent": 4
+        },
+        {
+          "hour": "16:00",
+          "percent": 2
+        }
+      ]
+    },
+    {
+      "Friday": [
+        {
+          "hour": "08:00",
+          "percent": 1
+        },
+        {
+          "hour": "09:00",
+          "percent": 1
+        },
+        {
+          "hour": "10:00",
+          "percent": 4
+        },
+        {
+          "hour": "11:00",
+          "percent": 8
+        },
+        {
+          "hour": "12:00",
+          "percent": 11
+        },
+        {
+          "hour": "13:00",
+          "percent": 11
+        },
+        {
+          "hour": "14:00",
+          "percent": 10
+        },
+        {
+          "hour": "15:00",
+          "percent": 7
+        },
+        {
+          "hour": "16:00",
+          "percent": 4
+        }
+      ]
+    },
+    {
+      "Saturday": [
+        {
+          "hour": "08:00",
+          "percent": 4
+        },
+        {
+          "hour": "09:00",
+          "percent": 11
+        },
+        {
+          "hour": "10:00",
+          "percent": 20
+        },
+        {
+          "hour": "11:00",
+          "percent": 28
+        },
+        {
+          "hour": "12:00",
+          "percent": 34
+        },
+        {
+          "hour": "13:00",
+          "percent": 37
+        },
+        {
+          "hour": "14:00",
+          "percent": 36
+        },
+        {
+          "hour": "15:00",
+          "percent": 31
+        },
+        {
+          "hour": "16:00",
+          "percent": 26
+        }
+      ]
+    }
+  ],
+  "relatedSearches": [
+    "praia de coqueirinho do norte marcação - pb",
+    "fotos da praia de coqueirinho do norte",
+    "praia de coqueirinho pousada",
+    "praia do coqueirinho onde fica",
+    "melhores praias da paraíba",
+    "praia do bessa",
+    "ônibus para coqueirinho",
+    "restaurantes na praia de coqueirinho"
+  ],
+  "relateds": [
+    {
+      "mainName": "Praia de Tabatinga",
+      "url": null
+    },
+    {
+      "mainName": "Praia da Arapuca",
+      "url": null
+    },
+    {
+      "mainName": "Praia do Amor",
+      "url": null
+    },
+    {
+      "mainName": "Praia Barra De Gramame Norte",
+      "url": null
+    },
+    {
+      "mainName": "Mirante Dedo de Deus",
+      "url": null
+    },
+    {
+      "mainName": "Praia Ponta do Coqueiro",
+      "url": null
+    },
+    {
+      "mainName": "Praia da Barra de Camaratuba",
+      "url": null
+    },
+    {
+      "mainName": "Praia Azul",
+      "url": null
+    },
+    {
+      "mainName": "Praia Das Trincheiras",
+      "url": null
+    },
+    {
+      "mainName": "Praia de Campina",
+      "url": null
+    },
+    {
+      "mainName": "Praia do Jacaré",
+      "url": null
+    },
+    {
+      "mainName": "Praia do Tambá",
+      "url": null
+    },
+    {
+      "mainName": "Praia de Carapibus",
+      "url": null
+    },
+    {
+      "mainName": "Praia Bela",
+      "url": null
+    },
+    {
+      "mainName": "Praia do Oiteiro",
+      "url": null
+    },
+    {
+      "mainName": "Praia de Cabo Branco",
+      "url": null
+    },
+    {
+      "mainName": "Praia da Barra do Graú",
+      "url": null
+    },
+    {
+      "mainName": "Seixas",
+      "url": null
+    },
+    {
+      "mainName": "Praia da Barra do Rio Mamanguape",
+      "url": null
+    },
+    {
+      "mainName": "Ponta De Campina",
+      "url": null
+    },
+    {
+      "mainName": "Picãozinho",
+      "url": null
+    },
+    {
+      "mainName": "Praia de Tambaú",
+      "url": null
+    },
+    {
+      "mainName": "Praia das Cardosas",
+      "url": null
+    },
+    {
+      "mainName": "Praia de Miramar",
+      "url": null
+    }
+  ]
+}

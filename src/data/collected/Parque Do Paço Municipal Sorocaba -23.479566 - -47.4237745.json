@@ -1,0 +1,979 @@
+{
+  "mainName": "Parque Do Paço Municipal Sorocaba",
+  "slug": "parque-do-paco-municipal-sorocaba",
+  "category": "Parque municipal",
+  "locationInformation": {
+    "latitude": "-23.479566",
+    "longitude": "-47.4237745"
+  },
+  "basicInformation": [
+    {
+      "label": "endereço",
+      "tooltip": "Copiar endereço",
+      "text": "Av. Eng. Carlos Reinaldo Mendes, 3041 - Alto da Boa Vista, Sorocaba - SP, 18013-280",
+      "icon": "https://www.gstatic.com/images/icons/material/system_gm/1x/place_gm_blue_24dp.png"
+    },
+    {
+      "label": "website",
+      "tooltip": "Abrir website",
+      "text": "sorocaba.sp.gov.br",
+      "icon": "https://www.gstatic.com/images/icons/material/system_gm/1x/public_gm_blue_24dp.png"
+    },
+    {
+      "label": "telefone",
+      "tooltip": "Copiar número de telefone",
+      "text": "(15) 3238-2100",
+      "icon": "https://www.gstatic.com/images/icons/material/system_gm/1x/phone_gm_blue_24dp.png"
+    },
+    {
+      "label": "Code",
+      "tooltip": "Copiar Plus Code",
+      "text": "GHCG+5F Sorocaba, São Paulo",
+      "icon": "https://maps.gstatic.com/mapfiles/maps_lite/images/2x/ic_plus_code.png"
+    },
+    {
+      "label": "send-to-device",
+      "text": "Enviar para smartphone",
+      "icon": "https://maps.gstatic.com/consumer/images/icons/1x/send_to_mobile_alt_gm_blue_24dp.png"
+    },
+    {
+      "label": "merchant",
+      "text": "Reivindicar esta empresa",
+      "icon": "https://www.gstatic.com/images/icons/material/system_gm/1x/verified_user_gm_blue_24dp.png"
+    }
+  ],
+  "ratingInformation": {
+    "basicRatingInformation": {
+      "averageGrade": 4.6,
+      "totalOfEvaluations": 3911
+    },
+    "ratingsByGrade": [
+      {
+        "grade": 5,
+        "totalRatings": 2709
+      },
+      {
+        "grade": 4,
+        "totalRatings": 841
+      },
+      {
+        "grade": 3,
+        "totalRatings": 252
+      },
+      {
+        "grade": 2,
+        "totalRatings": 38
+      },
+      {
+        "grade": 1,
+        "totalRatings": 71
+      }
+    ]
+  },
+  "ratingTags": [
+    {
+      "tag": "brinquedos",
+      "count": 90,
+      "tooltip": "brinquedos, mencionado em 90 avaliações"
+    },
+    {
+      "tag": "lago",
+      "count": 67,
+      "tooltip": "lago, mencionado em 67 avaliações"
+    },
+    {
+      "tag": "brincar",
+      "count": 65,
+      "tooltip": "brincar, mencionado em 65 avaliações"
+    },
+    {
+      "tag": "biblioteca",
+      "count": 32,
+      "tooltip": "biblioteca, mencionado em 32 avaliações"
+    },
+    {
+      "tag": "bebedouro",
+      "count": 26,
+      "tooltip": "bebedouro, mencionado em 26 avaliações"
+    },
+    {
+      "tag": "a tarde",
+      "count": 15,
+      "tooltip": "a tarde, mencionado em 15 avaliações"
+    },
+    {
+      "tag": "tartarugas",
+      "count": 12,
+      "tooltip": "tartarugas, mencionado em 12 avaliações"
+    },
+    {
+      "tag": "pista",
+      "count": 10,
+      "tooltip": "pista, mencionado em 10 avaliações"
+    },
+    {
+      "tag": "carpas",
+      "count": 9,
+      "tooltip": "carpas, mencionado em 9 avaliações"
+    },
+    {
+      "tag": "marreco",
+      "count": 6,
+      "tooltip": "marreco, mencionado em 6 avaliações"
+    }
+  ],
+  "featuredPhotos": [
+    "https://lh5.googleusercontent.com/p/AF1QipMGJKXxPtc_G3C4beCiHFA7kHOG4_ntk2irrEIw=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOuZEGUQ1AIzpw5noF8NCFiGtdQbB94TGfpFM4M=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOX0aXPnpiCyyBcxaJSWkyLUrmNfCf2_DkV6Qw3=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPmqLqh-j9wpHiCf_Ey2YzcKf4dpzse5ZphoXuG=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOcDWkFS90D8-uvjQTVv3kBbLmhFa87qtZ3c6RO=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNCs8oDjpicj57INTQ5ZheX9JMgy42c9tcvAtH8=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOXtSLJ4pEeDh8qp2Q8fUwKKrK2Aunq12gvYjGL=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNJ6jCdFKb9sqv_moRF-GKhjReO_r5e54GCfmJ_=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNFRuTkV1gscf88928gdWhm2oFTt3l01OXg4o-s=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMpLVAmp5QvWFzLmy6c1XMAy1b7GkY9AN1JjIFT=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOhS7bRQYwgp8D353REzbsTHetno-IWBKUWK3aD=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMbXudVAPBrnBQU-RPtin7G5__DwkfGo_HJKTLU=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPgliJHVHR2_DL7w1es_kiClJdiSdI1RjaCfuwG=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOCSFRjP0AXbQoHuyEWYHLxGbCKH0dtbNPVDX5O=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPIK8Aj6qXzVG_psgEF4_2cDkrdPogthBnVx6Qa=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPcOanYXcigyG6TKplvTI08GSe7ryUgi1ILthXB=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOnlMc7nG_uyCgk_jPw45g5eE6A8d_9jOvEfHLP=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOixtVqc6gmaAfZsbjNvN8P3ZejNb_lo0NtiLHl=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPmPMb08-e4qCFiDizMH4x7gpAbUmrOv81Qkzsu=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPTNQd3wNYkZvQiWP4ingI1q_265y_VYOjyCFbW=w1024-h576-k-no"
+  ],
+  "topComments": [
+    {
+      "author": "Andrei Cruz Fotografia Fotografia",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucrsk4Swh-wF8VjXgRhHmwz8UBagECQUmOS1za19=w36-h36-p-c0x00000000-rp-mo-ba3-br100",
+      "comment": "Lugar muito lindo e organizado. Enorme para se explorar. Um ótimo ambiente gratuito e ao ar livre para se fazer um piquenique ou atividades de lazer. Tudo muito limpo. Possui bancos para se descansar em toda sua extensão e o local proporciona ótimas fotos. Tem um chafariz lindo para ser fotografado.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Gustavo Fermond",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucrBnC_n3SGfw_u79o2FiypX6mHcA1DajRHoXkxRyBs=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "Um excelente lugar para relaxar e passar o final de semana em família e amigos.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Luiz Marques",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucrkDr441xsDfzujXHqwn9SJAp6VtV__7UNBBXqPq1o=w36-h36-p-c0x00000000-rp-mo-ba5-br100",
+      "comment": "Um bom parque para caminhar ou mesmo contemplar as paisagens do local. Finais de semanas e feriados costumam ter muitos visitantes.",
+      "gradeComment": 4
+    },
+    {
+      "author": "Gustavo Cortes",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucpB6gwUzU6YRE_rKzJB1EjDWKtRs7xP3OdQ-HiuyA=w36-h36-p-c0x00000000-rp-mo-ba6-br100",
+      "comment": "Espaço amplo com algumas áreas bem cuidadas e outras que parecem ter sido abandonadas como o parquinho infantil.",
+      "gradeComment": 3
+    },
+    {
+      "author": "MiH Ribeiro",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucqzFOCqD565aUWtza6kc1EiZ14miesCy-pMP3rlKIo=w36-h36-p-c0x00000000-rp-mo-ba2-br100",
+      "comment": "Que Lugar lindo! 🥰🥰 Estacionamento amplo, excelente espaço para caminhar, correr, andar de bicicleta etc. Lá também tem o parquinho infantil que é lindo e tem muitas opções de brinquedos,  tem também os ambulantes de  carrinho de pipoca, algodão doce, churros  e vi também  um quioque de picolé . Na lateral do rio tem três pontes muito bonitas que dão acesso ao parque e ao paço municipal.  O rio que passa pelo paço municipal  tem vários peixes entre eles carpas enormes , tartarugas , patos , marrecos e gansos, os bichinhos parecem ser muito bem tratados, falando nisso você pode levar pães para alimenta-los 🤩🤩. É um lugar  adorável. Super recomendo 😘",
+      "gradeComment": 5
+    },
+    {
+      "author": "Marisa Pedroso",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucpR4vU5VgGYkMIxruE7N5wBUCZ62FyX9s11kIrVmC0=w36-h36-p-c0x00000000-rp-mo-br100",
+      "comment": "Lugar lindo e especial,  a árvore plantada pelo meu bisavô está lá ainda. Amo esse lugar pelo que ele representa para minha vida.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Lucas RR",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucqcKVQcc4sxkDTUAspK95lHuu1P4oTKEp_oNPpO31A=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "Lugar lindo! A grama estava bem cuidada e tem muito lugar para estacionar. Há uma área com briquedos e Barraquinhas de comida. No lago há bastante peixes",
+      "gradeComment": 5
+    },
+    {
+      "author": "Gabriel Chagas",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucr7brIEaEe-TmcJwHkUgM0tKO7mguEohKYmySExxA=w36-h36-p-c0x00000000-rp-mo-br100",
+      "comment": "Um ótimo lugar pra curtir um dia de sol em família ou com a pessoa querida, ótimo lugar pra relaxar, brincar e passear com o cachorro. Bem legal.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Fabricia Ribeiro",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucrvGjZ9-BCPWwxJCDO7DlSLS1XG9v48tfCeE1t8Bg=w36-h36-p-c0x00000000-rp-mo-ba5-br100",
+      "comment": "Um espaço aberto para toda a população, gratuito, bem cuidado e bonito. Do lado da prefeitura da cidade, conta com uma biblioteca, gramado (dá pra fazer piquenique), ciclovia e parquinho para as crianças. Um passeio econômico que agrada todas as idades. Os brinquedos estão bem conservados e não oferecem risco aos pequenos. Estacionamento gratuito (a procura é grande em dias de sol). Tem vários vendedores de guloseimas e acessórios para distrair a criançada. Se preferir comer em um lugar mais reservado, atravessando a avenida pode-se chegar na Padaria Real.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Thomas Suzaki",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucpsE6XArJ9IUKybFLifQZpza8EH-zhDfMRP7VXdMw=w36-h36-p-c0x00000000-rp-mo-ba6-br100",
+      "comment": "O paço é um dos lugares mais agradáveis de Sorocaba para se fazer uma atividade ao ar livre. Tem estacionamento amplo e bem tranquilo nos finais de semana, sendo um ótimo lugar para caminhar, correr, passear com o cachorro, ficar no playground, ler, dar comida aos patos, peixes e tartarugas... enfim um ótimo lugar para desacelerar um pouco da vida cotidiana.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Elvis H. Prado",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucorOcUh5P5EsmRpzA62zeJn99FwbbtmdyWd01vEnQ=w36-h36-p-c0x00000000-rp-mo-ba3-br100",
+      "comment": "Parque muito gostoso, ao lado de um lago. Possui muitas opções para crianças, porém os brinquedos precisam de uma renovação. Outro ponto que precisa melhorar é a segurança, pois ficamos mais de 2 horas no local e não vimos nenhuma equipe da GCM nos arredores.",
+      "gradeComment": 4
+    },
+    {
+      "author": "Lu Silva",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucof2kxFhYn8pn77Y7PbkfVdoPf1-NXe1o0vrQwv7sk=w36-h36-p-c0x00000000-rp-mo-ba6-br100",
+      "comment": "Aberto 24 horas o parque ao redor do Palácio Tropeiro é um lugar para ver o pôr do sol, levar as crianças para brincar nos playgrounds ou curtir a natureza. Conta com estacionamento e uma Padaria Real ao lado da TV Tem.",
+      "gradeComment": 4
+    },
+    {
+      "author": "Vantuir Luiz Junior (Junior Sorocaba)",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucp9CXqigChsSv2n7YnaPPCdEkds8bk6KoSCYBCQqB4=w36-h36-p-c0x00000000-rp-mo-ba5-br100",
+      "comment": "Sorocaba é uma cidade linda o parque municipal do paço é local para entretenimento, seja para caminhadas, dar comidas aos peixes, patos e tartarugas, fazer fotos e  filmagens dos predios da prefeitura, teatro ou câmara dos Vereadores, todas muito bem instaladas com acessibilidade a Todos e todas. Sem conta que foi construída sob a linha imaginária do Trópico de Capricórnio, on tem um Totem demarcando a posição GPS dessa linha divisória...",
+      "gradeComment": 5
+    },
+    {
+      "author": "Sonia Mizuno",
+      "photoAuthor": "https://lh3.googleusercontent.com/a/AItbvmmmasn77dzkwGuSOOAxdmu0ytqHIcGsUWAEEq1U=w36-h36-p-c0x00000000-rp-mo-br100",
+      "comment": "O espaço de alongamento no jardim/quintal aí do Paço está completamente abandonado. Mato alto, aparelho quebrado, as pinturas dos equipamentos está todo  descascando, placa enferrujada.",
+      "gradeComment": 1
+    },
+    {
+      "author": "Freddy Ramos",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucpzJgbgBct0V6em_UGBFxk3P4gwuSKl5SN14PGpHw=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "Local muito bom para levar crianças e para passear ou para fazer exercícios, tais como andar de bicicleta, correr, andar de patins ou skate, até mesmo realizar uma simples caminhada, também é um espaço muito legal para realizar piqueniques e tirar um tempo para relaxar para colocar a cabeça no lugar",
+      "gradeComment": 5
+    },
+    {
+      "author": "Gonzales Gamer",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucrk5o_hSoPCkTSDiVmlzhA-ih12pNk-sFuARgi9npw=w36-h36-p-c0x00000000-rp-mo-ba3-br100",
+      "comment": "Lugar muito bom para passar o dia com a família levar a criançada para brincar.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Veronica Madia",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucrngwCyVvm4Mou-xRqcPwpnou0ZVCQyAwQCXnL_qw=w36-h36-p-c0x00000000-rp-mo-ba3-br100",
+      "comment": "Adoro levar meu filho lá, espaço aberto, ar livre, animais... Só os brinquedos dos parques que estão precisando de manutenção.",
+      "gradeComment": 4
+    },
+    {
+      "author": "André Camargo",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucoxG7oR7CykG3J8c0xE17OrH0YbKGC4GccGRuxa2sQ=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "PREFEITURA MUNICIPAL DE SOROCABA A prefeitura Municipal de Sorocaba não é só um lugar bom pra ir pra cobrar e resolver problemas do município... Com sua pista para caminhar e playground o lazer com a família se torna muito gostoso. Principalmente quando as fontes estão ligadas. Como a prefeitura fica em um parque com um grande lago com uma boa variedade de peixes e aves ...",
+      "gradeComment": 4
+    },
+    {
+      "author": "Dolzani Figueiredo",
+      "photoAuthor": "https://lh3.googleusercontent.com/a/AItbvmmDy5amChnXVMbjbb9Fo4PZ-lylfZfuVbbT9lVj=w36-h36-p-c0x00000000-rp-mo-ba3-br100",
+      "comment": "Lugar ideal para levar a família, tranquilidade e diversão, alimentar os patos, peixes e as tartarugas... meu filho gosta muito de andar de bicicleta e patinete e ver a bandeira do Brasil tremulando sobre o prédio. Parabéns Prefeitura de Sorocaba.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Moises Ribeiro",
+      "photoAuthor": "https://lh3.googleusercontent.com/a/AItbvmltE_I80zHKxLnLLofUsuRTpCe4HQmxNoHD3o1C=w36-h36-p-c0x00000000-rp-mo-ba3-br100",
+      "comment": "Excelente local para fazer caminhada levar crianças e animais passear e seguro",
+      "gradeComment": 5
+    }
+  ],
+  "peakHours": [
+    {
+      "Sunday": [
+        {
+          "hour": "04:00",
+          "percent": 1
+        },
+        {
+          "hour": "05:00",
+          "percent": 1
+        },
+        {
+          "hour": "06:00",
+          "percent": 1
+        },
+        {
+          "hour": "07:00",
+          "percent": 3
+        },
+        {
+          "hour": "08:00",
+          "percent": 9
+        },
+        {
+          "hour": "09:00",
+          "percent": 19
+        },
+        {
+          "hour": "10:00",
+          "percent": 31
+        },
+        {
+          "hour": "11:00",
+          "percent": 38
+        },
+        {
+          "hour": "12:00",
+          "percent": 37
+        },
+        {
+          "hour": "13:00",
+          "percent": 34
+        },
+        {
+          "hour": "14:00",
+          "percent": 46
+        },
+        {
+          "hour": "15:00",
+          "percent": 77
+        },
+        {
+          "hour": "16:00",
+          "percent": 100
+        },
+        {
+          "hour": "17:00",
+          "percent": 85
+        },
+        {
+          "hour": "18:00",
+          "percent": 47
+        },
+        {
+          "hour": "19:00",
+          "percent": 17
+        },
+        {
+          "hour": "20:00",
+          "percent": 4
+        },
+        {
+          "hour": "21:00",
+          "percent": 1
+        },
+        {
+          "hour": "22:00",
+          "percent": 1
+        },
+        {
+          "hour": "23:00",
+          "percent": 1
+        },
+        {
+          "hour": "00:00",
+          "percent": 1
+        },
+        {
+          "hour": "01:00",
+          "percent": 1
+        },
+        {
+          "hour": "02:00",
+          "percent": 1
+        },
+        {
+          "hour": "03:00",
+          "percent": 1
+        }
+      ]
+    },
+    {
+      "Monday": [
+        {
+          "hour": "04:00",
+          "percent": 1
+        },
+        {
+          "hour": "05:00",
+          "percent": 1
+        },
+        {
+          "hour": "07:00",
+          "percent": 1
+        },
+        {
+          "hour": "08:00",
+          "percent": 1
+        },
+        {
+          "hour": "09:00",
+          "percent": 1
+        },
+        {
+          "hour": "10:00",
+          "percent": 1
+        },
+        {
+          "hour": "11:00",
+          "percent": 4
+        },
+        {
+          "hour": "12:00",
+          "percent": 7
+        },
+        {
+          "hour": "13:00",
+          "percent": 3
+        },
+        {
+          "hour": "14:00",
+          "percent": 3
+        },
+        {
+          "hour": "15:00",
+          "percent": 8
+        },
+        {
+          "hour": "16:00",
+          "percent": 13
+        },
+        {
+          "hour": "17:00",
+          "percent": 17
+        },
+        {
+          "hour": "18:00",
+          "percent": 17
+        },
+        {
+          "hour": "19:00",
+          "percent": 14
+        },
+        {
+          "hour": "20:00",
+          "percent": 8
+        },
+        {
+          "hour": "21:00",
+          "percent": 3
+        },
+        {
+          "hour": "23:00",
+          "percent": 1
+        },
+        {
+          "hour": "00:00",
+          "percent": 1
+        },
+        {
+          "hour": "01:00",
+          "percent": 1
+        },
+        {
+          "hour": "02:00",
+          "percent": 1
+        },
+        {
+          "hour": "03:00",
+          "percent": 1
+        }
+      ]
+    },
+    {
+      "Tuesday": [
+        {
+          "hour": "04:00",
+          "percent": 1
+        },
+        {
+          "hour": "05:00",
+          "percent": 1
+        },
+        {
+          "hour": "06:00",
+          "percent": 1
+        },
+        {
+          "hour": "07:00",
+          "percent": 3
+        },
+        {
+          "hour": "08:00",
+          "percent": 1
+        },
+        {
+          "hour": "10:00",
+          "percent": 3
+        },
+        {
+          "hour": "11:00",
+          "percent": 8
+        },
+        {
+          "hour": "12:00",
+          "percent": 6
+        },
+        {
+          "hour": "13:00",
+          "percent": 3
+        },
+        {
+          "hour": "14:00",
+          "percent": 3
+        },
+        {
+          "hour": "15:00",
+          "percent": 5
+        },
+        {
+          "hour": "16:00",
+          "percent": 6
+        },
+        {
+          "hour": "17:00",
+          "percent": 7
+        },
+        {
+          "hour": "18:00",
+          "percent": 7
+        },
+        {
+          "hour": "19:00",
+          "percent": 7
+        },
+        {
+          "hour": "20:00",
+          "percent": 6
+        },
+        {
+          "hour": "21:00",
+          "percent": 4
+        },
+        {
+          "hour": "22:00",
+          "percent": 3
+        },
+        {
+          "hour": "23:00",
+          "percent": 1
+        },
+        {
+          "hour": "01:00",
+          "percent": 1
+        },
+        {
+          "hour": "02:00",
+          "percent": 1
+        },
+        {
+          "hour": "03:00",
+          "percent": 1
+        }
+      ]
+    },
+    {
+      "Wednesday": [
+        {
+          "hour": "04:00",
+          "percent": 1
+        },
+        {
+          "hour": "05:00",
+          "percent": 1
+        },
+        {
+          "hour": "09:00",
+          "percent": 1
+        },
+        {
+          "hour": "10:00",
+          "percent": 1
+        },
+        {
+          "hour": "11:00",
+          "percent": 4
+        },
+        {
+          "hour": "12:00",
+          "percent": 6
+        },
+        {
+          "hour": "13:00",
+          "percent": 3
+        },
+        {
+          "hour": "14:00",
+          "percent": 4
+        },
+        {
+          "hour": "15:00",
+          "percent": 7
+        },
+        {
+          "hour": "16:00",
+          "percent": 10
+        },
+        {
+          "hour": "17:00",
+          "percent": 13
+        },
+        {
+          "hour": "18:00",
+          "percent": 13
+        },
+        {
+          "hour": "19:00",
+          "percent": 12
+        },
+        {
+          "hour": "20:00",
+          "percent": 9
+        },
+        {
+          "hour": "21:00",
+          "percent": 5
+        },
+        {
+          "hour": "23:00",
+          "percent": 1
+        },
+        {
+          "hour": "00:00",
+          "percent": 1
+        },
+        {
+          "hour": "01:00",
+          "percent": 1
+        },
+        {
+          "hour": "02:00",
+          "percent": 1
+        },
+        {
+          "hour": "03:00",
+          "percent": 1
+        }
+      ]
+    },
+    {
+      "Thursday": [
+        {
+          "hour": "04:00",
+          "percent": 1
+        },
+        {
+          "hour": "05:00",
+          "percent": 1
+        },
+        {
+          "hour": "06:00",
+          "percent": 1
+        },
+        {
+          "hour": "07:00",
+          "percent": 2
+        },
+        {
+          "hour": "08:00",
+          "percent": 2
+        },
+        {
+          "hour": "09:00",
+          "percent": 1
+        },
+        {
+          "hour": "10:00",
+          "percent": 1
+        },
+        {
+          "hour": "11:00",
+          "percent": 7
+        },
+        {
+          "hour": "12:00",
+          "percent": 10
+        },
+        {
+          "hour": "13:00",
+          "percent": 6
+        },
+        {
+          "hour": "14:00",
+          "percent": 8
+        },
+        {
+          "hour": "15:00",
+          "percent": 12
+        },
+        {
+          "hour": "16:00",
+          "percent": 15
+        },
+        {
+          "hour": "17:00",
+          "percent": 16
+        },
+        {
+          "hour": "18:00",
+          "percent": 15
+        },
+        {
+          "hour": "19:00",
+          "percent": 13
+        },
+        {
+          "hour": "20:00",
+          "percent": 10
+        },
+        {
+          "hour": "21:00",
+          "percent": 6
+        },
+        {
+          "hour": "22:00",
+          "percent": 3
+        },
+        {
+          "hour": "00:00",
+          "percent": 1
+        },
+        {
+          "hour": "01:00",
+          "percent": 1
+        },
+        {
+          "hour": "02:00",
+          "percent": 1
+        },
+        {
+          "hour": "03:00",
+          "percent": 1
+        }
+      ]
+    },
+    {
+      "Friday": [
+        {
+          "hour": "04:00",
+          "percent": 1
+        },
+        {
+          "hour": "05:00",
+          "percent": 1
+        },
+        {
+          "hour": "07:00",
+          "percent": 1
+        },
+        {
+          "hour": "08:00",
+          "percent": 2
+        },
+        {
+          "hour": "09:00",
+          "percent": 3
+        },
+        {
+          "hour": "10:00",
+          "percent": 4
+        },
+        {
+          "hour": "11:00",
+          "percent": 5
+        },
+        {
+          "hour": "12:00",
+          "percent": 5
+        },
+        {
+          "hour": "13:00",
+          "percent": 6
+        },
+        {
+          "hour": "14:00",
+          "percent": 8
+        },
+        {
+          "hour": "15:00",
+          "percent": 10
+        },
+        {
+          "hour": "16:00",
+          "percent": 12
+        },
+        {
+          "hour": "17:00",
+          "percent": 13
+        },
+        {
+          "hour": "18:00",
+          "percent": 12
+        },
+        {
+          "hour": "19:00",
+          "percent": 10
+        },
+        {
+          "hour": "20:00",
+          "percent": 8
+        },
+        {
+          "hour": "21:00",
+          "percent": 5
+        },
+        {
+          "hour": "22:00",
+          "percent": 3
+        },
+        {
+          "hour": "23:00",
+          "percent": 1
+        },
+        {
+          "hour": "02:00",
+          "percent": 1
+        },
+        {
+          "hour": "03:00",
+          "percent": 1
+        }
+      ]
+    },
+    {
+      "Saturday": [
+        {
+          "hour": "04:00",
+          "percent": 1
+        },
+        {
+          "hour": "05:00",
+          "percent": 1
+        },
+        {
+          "hour": "07:00",
+          "percent": 2
+        },
+        {
+          "hour": "08:00",
+          "percent": 5
+        },
+        {
+          "hour": "09:00",
+          "percent": 8
+        },
+        {
+          "hour": "10:00",
+          "percent": 11
+        },
+        {
+          "hour": "11:00",
+          "percent": 14
+        },
+        {
+          "hour": "12:00",
+          "percent": 14
+        },
+        {
+          "hour": "13:00",
+          "percent": 14
+        },
+        {
+          "hour": "14:00",
+          "percent": 18
+        },
+        {
+          "hour": "15:00",
+          "percent": 31
+        },
+        {
+          "hour": "16:00",
+          "percent": 44
+        },
+        {
+          "hour": "17:00",
+          "percent": 39
+        },
+        {
+          "hour": "18:00",
+          "percent": 22
+        },
+        {
+          "hour": "19:00",
+          "percent": 10
+        },
+        {
+          "hour": "20:00",
+          "percent": 6
+        },
+        {
+          "hour": "21:00",
+          "percent": 6
+        },
+        {
+          "hour": "22:00",
+          "percent": 6
+        },
+        {
+          "hour": "23:00",
+          "percent": 5
+        },
+        {
+          "hour": "00:00",
+          "percent": 3
+        },
+        {
+          "hour": "01:00",
+          "percent": 2
+        },
+        {
+          "hour": "02:00",
+          "percent": 1
+        },
+        {
+          "hour": "03:00",
+          "percent": 1
+        }
+      ]
+    }
+  ],
+  "relatedSearches": [
+    "parque ecológico de sorocaba",
+    "parque campolim",
+    "prefeitura de sorocaba",
+    "agenda sorocaba",
+    "parque campolim hoje",
+    "melhor parque de sorocaba",
+    "evento parque das águas sorocaba",
+    "festa junina parque das águas sorocaba 2022"
+  ],
+  "relateds": [
+    {
+      "mainName": "Parque Natural da Água Vermelha",
+      "url": null
+    },
+    {
+      "mainName": "Parque da Biodiversidade",
+      "url": null
+    },
+    {
+      "mainName": "Parque Kasato Maru",
+      "url": null
+    },
+    {
+      "mainName": "Parque Carlos Alberto de Souza",
+      "url": null
+    },
+    {
+      "mainName": "Parque Natural da Biquinha",
+      "url": null
+    },
+    {
+      "mainName": "Parque Natural Chico Mendes",
+      "url": null
+    },
+    {
+      "mainName": "Jardim Botânico de Sorocaba Irmãos Villas-Bôas",
+      "url": null
+    },
+    {
+      "mainName": "Encontro das águas",
+      "url": null
+    },
+    {
+      "mainName": "Parque dos Espanhóis",
+      "url": null
+    },
+    {
+      "mainName": "Teatro Municipal Teotonio Vilela",
+      "url": null
+    },
+    {
+      "mainName": "Museu Estrada de Ferro Sorocabana",
+      "url": null
+    },
+    {
+      "mainName": "Parque Zoológico Municipal \"Quinzinho de Barros\"",
+      "url": null
+    }
+  ]
+}

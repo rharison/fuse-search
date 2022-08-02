@@ -1,0 +1,552 @@
+{
+  "mainName": "InvadR",
+  "slug": "invadr",
+  "category": "Montanha-russa",
+  "locationInformation": {
+    "latitude": "37.2329623",
+    "longitude": "-76.6487343"
+  },
+  "basicInformation": [
+    {
+      "label": "endereço",
+      "tooltip": "Copiar endereço",
+      "text": "1 Busch Gardens Blvd, Williamsburg, VA 23185, Estados Unidos",
+      "icon": "https://www.gstatic.com/images/icons/material/system_gm/1x/place_gm_blue_24dp.png"
+    },
+    {
+      "label": "locatedin",
+      "text": "Localizado em: Busch Gardens Williamsburg",
+      "icon": "https://www.google.com/images/cleardot.gif"
+    },
+    {
+      "label": "website",
+      "tooltip": "Abrir website",
+      "text": "buschgardens.com",
+      "icon": "https://www.gstatic.com/images/icons/material/system_gm/1x/public_gm_blue_24dp.png"
+    },
+    {
+      "label": "telefone",
+      "tooltip": "Copiar número de telefone",
+      "text": "+1 757-229-4386",
+      "icon": "https://www.gstatic.com/images/icons/material/system_gm/1x/phone_gm_blue_24dp.png"
+    },
+    {
+      "label": "Code",
+      "tooltip": "Copiar Plus Code",
+      "text": "69M2+5G Williamsburg, Virgínia, EUA",
+      "icon": "https://maps.gstatic.com/mapfiles/maps_lite/images/2x/ic_plus_code.png"
+    },
+    {
+      "label": "send-to-device",
+      "text": "Enviar para smartphone",
+      "icon": "https://maps.gstatic.com/consumer/images/icons/1x/send_to_mobile_alt_gm_blue_24dp.png"
+    },
+    {
+      "label": "merchant",
+      "text": "Reivindicar esta empresa",
+      "icon": "https://www.gstatic.com/images/icons/material/system_gm/1x/verified_user_gm_blue_24dp.png"
+    }
+  ],
+  "ratingInformation": {
+    "basicRatingInformation": {
+      "averageGrade": 4.4,
+      "totalOfEvaluations": 174
+    },
+    "ratingsByGrade": [
+      {
+        "grade": 5,
+        "totalRatings": 113
+      },
+      {
+        "grade": 4,
+        "totalRatings": 32
+      },
+      {
+        "grade": 3,
+        "totalRatings": 15
+      },
+      {
+        "grade": 2,
+        "totalRatings": 10
+      },
+      {
+        "grade": 1,
+        "totalRatings": 4
+      }
+    ]
+  },
+  "ratingTags": null,
+  "featuredPhotos": [
+    "https://lh5.googleusercontent.com/p/AF1QipMm8thK7W-kPG7YEK0STc_2B--URbESYuOr2IZK=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNHu-qIk-BQ179LcULEOjWYozVtqe8Lbbk0eLMx=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipO7D-_dLtzbbOVnAO6xIV__rG_F2HpIaZPgCOZU=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMyR_fusubNb8rIkAIhJoYF8nrMCeTJ9HIyNrXl=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipN-vZFnoF1zTT6j6xfWhCHQtTlxqQIuwvaN3ZT5=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOp48rHxvOUaeAlWtQzYLcZcDG1WOTDemY8hRDQ=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipME8C2iGOptIw4wTxFkIjal7-o_0Ze2WubfDm7w=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipN3YhB4ihw39sDpwTJg5YT5u4jcZqZFhBEfD2Y=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMAcFziAP7Ea9V4sCBgTAS4wB3OCMEYhBk4uNys=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNR-n3_eFHe4rPxNxx_xSqfBCgD9YLXwp9iMfk=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOTE1mB6YPtIqs4XcH6edWn2PAb-pupSquTkScm=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOtZl6APAhfwHXVdyyIKQO0DW4VVB40hsUIvcJ1=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMaAUWw1yg1eLVlymXamIbouTEjJB7rgpzfgEO5=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOP21F721LXl79dhm5R_9sVu_BGv9kJVTvW5lb4=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPeNid7UbBCSWdXMd9OcW0gXdu6JubJeghwCzi_=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOcrv1_z8cvJq6tC4hcqTzOSWwRKy8Lu4FqE9Zc=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMvlpwKyd6ftPV57OKKi2i2xGnXyTGiKLCrN1iy=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPUWDd-69-d1feTkguYgV0L25zaUXO2btmYS9df=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPoQKwROQRsSoc0VrxVk9rHZHK3kk4mmlZOeZA0=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMDaMxHoYrajniCtKvif5xs5MPX35masydX76pO=w1024-h576-k-no"
+  ],
+  "topComments": [
+    {
+      "author": "Mike Dee",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucqyp794Zhc9SaaodeNmvA3ZNohuAANNfCgNlmkOlg=w36-h36-p-c0x00000000-rp-mo-ba6-br100",
+      "comment": "(Tradução do Google) Montanha-russa típica do GCI com alguns temas legais na entrada e na estação. O ritmo de carga/descarga parecia se arrastar dolorosamente devagar. Parecia uma eternidade antes que eles enviassem um trem. O passeio é bastante suave para o que é e há alguns bons estalos de ar. Vale a pena esperar muito? Ehhh provavelmente não.  (Original) Typical GCI coaster with some cool theming at the entrance and in the station. The load/unload pacing seemed to drag on painfully slow. It felt like an eternity before they would send a train. The ride is pretty smooth for what it is and there are some nice pops of air. Is it worth a long wait? Ehhh probably not.",
+      "gradeComment": 4
+    },
+    {
+      "author": "Kai Toz68",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucrHzG8z2wk_1VLGs57ukrNVTcVa2zZPrmlqtOuImA=w36-h36-p-c0x00000000-rp-mo-br100",
+      "comment": "(Tradução do Google) A montanha-russa de madeira média ficou mais áspera ao longo dos anos, mas ainda parece um pouco boa em comparação com outros woodies da GCI, mas ainda é um bom passeio com alguns bons momentos de ar  (Original) Average wooden coaster has gotten rougher over the years but still good feels a bit came compared to other GCI woodies but still a good ride with some nice pops of airtime",
+      "gradeComment": 4
+    },
+    {
+      "author": "D. S.",
+      "photoAuthor": "https://lh3.googleusercontent.com/a/AItbvml4cBQyevX4wtBZcp4UqpROpLRupyvpaw6ID1Ya=w36-h36-p-c0x00000000-rp-mo-br100",
+      "comment": "(Tradução do Google) Logo após a subida inicial, este passeio se transforma em uma aventura louca sem parar. Suave apesar de ser uma montanha-russa de madeira, é como estar no banco do passageiro com um homem louco ao volante tomando decisões insanamente ruins enquanto as forças G cuidadosamente o jogam em seu assento. Rimos o tempo todo e nenhum espaço ou tempo é desperdiçado. Os temas Viking são excelentes, com muita sombra e fluxo de ar para ajudar a manter os hóspedes frescos enquanto esperam na fila. Nós o montamos desde que foi inaugurado originalmente e rapidamente se tornou um dos nossos passeios obrigatórios no BGW!  (Original) Just after the initial uphill, this ride turns into a non-stop crazy adventure. Smooth despite being a wooden coaster, it feels like being in the passenger seat with a mad man at the wheel making insanely bad decisions while the g-forces carefully throw you around in your seat. We laugh the whole way and no space or time is wasted. The Viking themes are excellent with lots of shade and airflow to help keep guests cool while waiting in the queue. We've been riding it since it originally opened and it very quickly became one of our must rides at BGW!",
+      "gradeComment": 5
+    },
+    {
+      "author": "Ashleigh C",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucpv9XBEFNbx2ZMpk7VLHY-gvXFUywNgjmbK4rhy=w36-h36-p-c0x00000000-rp-mo-br100",
+      "comment": "(Tradução do Google) Muito suave e amadeirado, essa coisa é um híbrido GCI então é por isso que é tão suave! Essa coisa também é muito rápida e não pareceu me confundir, o que é outra vantagem. Dos GCI's em que estive, este é o melhor! Eu amo o tema todo. A fila de espera não é totalmente temática, mas a entrada e a estação são fortemente temáticas para os vikings. Eu amo o trem que é dourado e tem um monstro na frente dele com cores aqua também. Eu amo o túnel no topo da colina, você tem um bom pop de tempo de antena naquela colina. Adoro o final antes de ir para a estação onde está escrito \"La Victore!\" Acho que soletrei bem, não sou bom com a ortografia francesa.  (Original) Very smooth woody, this thing is a GCI hybrid so that is why it's so smooth! This thing is very fast as well and it didn't seem to throw me around which is another plus. Of the GCI's I've been on this is the best! I love the theming all throughout. The queue line isn't fully themed, but the entrance and the station are heavily themed to Vikings. I love the train that is gold and has a monster on the front of it with aqua colors in it as well. I love the tunnel at the top of the hill, you get a good pop of airtime on that hill. I love the end before going into the station where it says \"La Victore!\" I think I spelled that right, I'm not good with French spelling.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Chaleb 55",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucosYVY6tE4NjYxI-rknIlGK0X2gXKrgf7xIfH1aLA=w36-h36-p-c0x00000000-rp-mo-br100",
+      "comment": "InvadR is okay, however there's really only janky banked turns and small bunny hills. Other than than that, it's a decent GCI wooden coaster that i'd be willing to ride.",
+      "gradeComment": 3
+    },
+    {
+      "author": "Rivers B",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucr8yoxjAL7oCkZOXoXH6zAu-6xVMV7MbQJfvbtYcQ=w36-h36-p-c0x00000000-rp-mo-br100",
+      "comment": "(Tradução do Google) É sempre bom ver que os porta-copos de madeira ainda estão sendo feitos. Este foi uma experiência e tanto! Adorei cada segundo dela!  (Original) It's always nice to see wooden coasters are still being made. This one was quite an experience! Loved every second of it!",
+      "gradeComment": 5
+    },
+    {
+      "author": "Nathan Falk",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucrgI4IGTHpjU4ybgaR2i3qQqUzNc08TuMOOy8dk1w=w36-h36-p-c0x00000000-rp-mo-ba3-br100",
+      "comment": "(Tradução do Google) Dependendo do clima, você pode obter um passeio diferente. No frio, tende a ser mais lento e no calor, corre muito mais rápido. Ótimo complemento para o parque!  (Original) Depending on the weather you might get a different ride. In the cold it tends to be slower and in the warmth​ it runs a lot faster. Great addition to the park!",
+      "gradeComment": 5
+    },
+    {
+      "author": "Angela",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucpT1C1CNH0_gP_NWC5lxyop2TLqODQrNSOmy-pxHA=w36-h36-p-c0x00000000-rp-mo-ba3-br100",
+      "comment": "(Tradução do Google) Muito divertido, mas um passeio muito difícil.  Recomendaria para Newbys para a cena de montanhas-russas e crianças, não para aqueles com problemas nas costas, pescoço ou enjôo.  É muito difícil. Você é constantemente sacudido durante todo o trajeto, especialmente nas curvas. Poderia usar um descanso de cabeça.  (Original) Very fun but a very rough ride.  Would recommend for Newbys to the roller coasters scene and kids, not to those with any back, neck, or motion sickness issues.  It's VERY rough. You're constantly being jerked around the entire ride, especially around the turns. Could use a head rest.",
+      "gradeComment": 3
+    },
+    {
+      "author": "Jennifer MacLachlan",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucqorZ9sLxSwrpC2srGMFu2ITMXmZ1SoD7Lw6F2MTA=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "(Tradução do Google) Montanha-russa de madeira velha clássica. Mais do que eu esperava. Muito divertido!  (Original) Classic old wooden roller coaster. Longer than I expected. Pretty fun!",
+      "gradeComment": 5
+    },
+    {
+      "author": "Wilson",
+      "photoAuthor": "https://lh3.googleusercontent.com/a/AItbvmnzeuP8-ARhWk97CnOWJP7M4eyet3jTtCRG2Lruwg=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "(Tradução do Google) Para uma montanha-russa familiar, essa coisa é incrível! Áspero, mas não é ruim para uma montanha-russa de madeira.  (Original) For a family coaster this thing packs a punch! Rough but not bad for a wooden coaster.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Ethan Dougherty",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucpvBeqjIaSlEPv1iM76fNTFSTqvvMIckZwuW77dVQ=w36-h36-p-c0x00000000-rp-mo-br100",
+      "comment": "(Tradução do Google) Eu entrei pensando que isso seria apenas uma montanha-russa familiar domesticada, mas não, essa coisa é um tremendo soco. Sente-se na parte de trás para o melhor passeio! Além disso, certifique-se de não ligar o telefone, quase tive um ataque cardíaco porque pensei que o tinha perdido.  (Original) I came in thinking this would just be a tame family coaster, but no, this thing packs a hell of a punch. Sit in the back for the best ride! Also, make sure to not bring your phone on, I almost had a heart attack because I thought I lost it.",
+      "gradeComment": 4
+    },
+    {
+      "author": "Ketchup",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucp8NqWQjX4TC29S9osXAcRxGv47wbGJgwNAeLxo=w36-h36-p-c0x00000000-rp-mo-br100",
+      "comment": "(Tradução do Google) Quero dizer, montanha-russa legal, mas chata como qualquer coisa. Parecia que eu ia adormecer é tão manso. primeiro cai bem, mas de outra forma layout chato sem tempo de antena.  (Original) I mean, cool coaster, but boring as anything. Felt like I was gonna fall asleep on it its so tame. first drops alright, but otherwise boring layout with no airtime.",
+      "gradeComment": 2
+    },
+    {
+      "author": "James Maxwell",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucpxBE_eMlQxD_WUEVhmIhTcEu8XktKgMRnJ5eI9gIY=w36-h36-p-c0x00000000-rp-mo-ba5-br100",
+      "comment": "(Tradução do Google) Excelente adição às montanhas-russas de Busch Gardens. Como um amadeirado, tem uma sensação muito diferente, quase instável. É mais lento e menor do que as outras montanhas-russas, mas a escala das curvas ainda a torna emocionante. É quase perigoso, e é exatamente o que você quer que eu seja uma carona como essa. Coaster pequeno impressionante.  (Original) Excellent addition to Busch Gardens' coasters. As a woody, it has a very different, almost rickety feel. It's slower and smaller than the other coasters, but the scale of the turns still makes it exciting. It almost feels dangerous, which is exactly what you want I'm a ride like this. Awesome little coaster.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Adrianna Aleah",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucpgnsh57hHC3On7nNVQ47zV6T_oToK62h9DkTxxrA=w36-h36-p-c0x00000000-rp-mo-br100",
+      "comment": "(Tradução do Google) Um passeio muito divertido. Esta é uma grande montanha russa ao tentar superar o medo de montanhas-russas. Há uma pequena queda de 74 pés e vai moderadamente rápido. Este é o meu top 3 favorito montanhas-russas de madeira com certeza!  (Original) A very fun ride. This is a great starter roller coaster when trying to overcome your fear of roller coasters. There is a small 74 foot drop, and goes moderately fast. This is in my top 3 favorite wooden roller coasters for sure!",
+      "gradeComment": 5
+    },
+    {
+      "author": "Beau Fleurs",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucqtXhDSo8BuhZn_hMRd6x5qzfE4Q6OQqagUDqkjJkY=w36-h36-p-c0x00000000-rp-mo-ba6-br100",
+      "comment": "(Tradução do Google) Tanto quanto nós amamos Busch Gardens, esta foi uma experiência terrível. Meu marido e eu andamos no último carro, e meus dois filhos estavam na nossa frente, um adolescente e um pré-adolescente. Quando nos disseram para puxar o colo de segurança para nós, minhas filhas não se mexiam. Conseguimos a atenção dos trabalhadores, mas eles estavam apenas rindo e atrasaram o passeio por uns bons três minutos, agindo como garotas imaturas tendo dificuldade em puxar o bar para movê-lo. Eles também estavam culpando alto quem era o piloto anterior, dizendo (para todo o grupo) \"Eu gostaria de saber quem foi o piloto anterior, eles quebraram, eles foram estúpidos por bater para a frente, isso é tudo porque eles bateram para a frente! \" Todos nós apenas esperamos em uma fila significativamente longa, nenhum de nós é especialista em seu equipamento, e para você fazer piada publicamente de um hóspede do parque é absolutamente inadequado.  Para piorar a situação, quando eles foram corrigidos, eles disseram a minha filha pré-adolescente que \"deveria ser bom\" e ela estava com medo de que não estava funcionando corretamente. Ela estava tão apreensiva que chorava durante toda a viagem, e tentamos tranquilizá-la de que estava tudo bem, mas honestamente os funcionários do parque deveriam tê-la assegurado antes de a noiva se mudar, que tudo estava funcionando e que ela estaria seguro. Nós, como pais, fizemos o melhor que pudemos, mas a maneira alegre como o pessoal do parque lidou com isso sem dar a ela qualquer tipo de calor que o passeio era seguro, era absolutamente inapropriado. Foi uma experiência horrível, e foi a última montanha que montamos naquela noite, porque minha filha estava com muito medo de que eles não estivessem seguros e que os funcionários do parque não estavam levando isso a sério. Muito frustrado.  (Original) As much as we love Busch Gardens, this was a terrible experience.  My husband and I rode in the last car, and my two children were in front of us, one a teenager and one a preteen. When they told us to pull the lap safety towards us, my daughters would not budge. We got the attention of the workers, but they were just laughing and delayed the ride a good three minutes acting like immature girls having difficulty pulling against the bar to move it. They were also loudly blaming whoever the previous rider was, saying (to the whole group) \" I wish I know who the previous rider was, they broke it, they were stupid for slamming it forward, this is all because they slammed it forward!\"  We had all just waited in a significantly long line, none of us are experts on your equipment , and for you to publicly make fun of a park guest is absolutely inappropriate.  To make matters worse, when they got it fixed,  they told my preteen daughter that it \"should be good\" and she was terrified that it wasn't working properly. She was so apprehensive that she was crying through the whole ride, and we tried to reassure her that it was fine, but honestly the park workers should have reassured her prior to the bride moving, that everything was in working order and that she would be safe. We as parents did the best we could, but the lighthearted way in which the park Personnel dealt with it without giving her any sort of warm fuzzy that the ride was safe, was absolutely inappropriate. It was a horrible experience, and was the last coaster we rode that night, because my daughter was very scared that they were not safe and that the park employees were not taking it seriously. Very frustrated.",
+      "gradeComment": 2
+    },
+    {
+      "author": "Amy Currier",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucrm7eMwIj6O6bqEVxAiNpZ3iaJSq-I9k5TCVUvtww=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "(Tradução do Google) É uma montanha-russa divertida. Não o chamaria de madeira, porque tem uma estrutura metálica. É super divertido, adoro a sensação de voar para fora do seu assento e não sobe muito alto. Meu filho diz que é sua montanha-russa. Ele ama isso.  (Original) It's such a fun rollercoaster.  I wouldn't call it wooden though, because it has a metal structure.   It is super fun, I love the flying out of your seat feeling and it doesn't go too high.  My son says it's his rollercoaster.   He loves it.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Brayden Herum",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucou9AivSrL6cr6ztuYV357dh4qCMnnkt5PUb4l8gw=w36-h36-p-c0x00000000-rp-mo-br100",
+      "comment": "(Tradução do Google) InvadR é uma extraordinária montanha-russa de madeira, atraindo milhares de caçadores de emoções de todo o país. Uma das montanhas-russas mais valiosas de Busch Gardens Williamsburg. Sendo construído em madeira dá uma experiência emocionante durante todo o passeio. Apesar de ser áspero e irregular, este passeio é um favorito dos fãs. A única coisa sobre InvadR que eu desprezo é a grande falta de Precisão Histórica.  BTW eu não recomendo este passeio para adultos mais velhos, devido ao empurrão e aspereza da montanha-russa.  (Original) InvadR is an extraordinary wooden coaster, attracting thousands of thrill seekers from all around the country. One of Busch Gardens Williamsburg's most prized roller coasters. Being constructed out of wood gives it a thrilling experience throughout the whole ride. Despite being rough and jerky, this ride is a fan favorite. The only thing about InvadR that I despise is the great lack of Historical Accuracy.  BTW I don't recommend this ride to older adults, due to the jerk and roughness of the coaster.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Rick Lupton",
+      "photoAuthor": "https://lh3.googleusercontent.com/a/AItbvml3ajlkJOu2anfkt1M7qfsco1lxTlslciupefc=w36-h36-p-c0x00000000-rp-mo-ba6-br100",
+      "comment": "(Tradução do Google) Grande montanha-russa de madeira clássica com tema Viking  (Original) Great classic wooden coaster with Viking theme",
+      "gradeComment": 5
+    },
+    {
+      "author": "Ian Chapman",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucq1VpsWXhQ-Iqk9YZDBpp3I8NA9V1Yvomne0OWNDw=w36-h36-p-c0x00000000-rp-mo-br100",
+      "comment": "(Tradução do Google) Eu não gostei muito, porque os assentos eram pequenos e quase não havia emoção, mas eu estou dando 3 estrelas - é muito bom para fazer o que foi feito, dar à família uma montanha russa t um kiddie coaster, e também tem um woodie na formação da BG.  (Original) I didn’t like it too much, because the seats were small and there was barely any thrill, but I’m giving it 3 stars - it’s really good for doing what it was meant to do, give the family a coaster that wasn’t a kiddie coaster, and also have a woodie in BG’s lineup.",
+      "gradeComment": 3
+    },
+    {
+      "author": "Elaine Hill",
+      "photoAuthor": "https://lh3.googleusercontent.com/a/AItbvmlZD9gvqzoUxbsW4PAceNQ5z3lzVk5LJw7B_Hki=w36-h36-p-c0x00000000-rp-mo-br100",
+      "comment": "(Tradução do Google) O que as pessoas estão falando quando dizem que esta montanha-russa é \"frágil\"? Eu estou em meus 50 anos e não tenho nenhum problema com isso. Eu tenho andado a velha montanha-russa Kings Dominion de madeira desde os anos 70 e sim, se você quiser chamar aqueles velhos e frágeis, então eu concordo totalmente. Eu amo InvadR, linhas de desejo não eram tão longas.  (Original) what are people talking about when they say this coaster is \"rickety\"?  I'm in my 50s and I have no problem with it.  I've been riding the old Kings Dominion wooden roller coasters since the 70s and yes, if you want to call those old and rickety then I totally agree.  I love InvadR, wish lines weren't so long.",
+      "gradeComment": 5
+    }
+  ],
+  "peakHours": [
+    {
+      "Sunday": [
+        {
+          "hour": "10:00",
+          "percent": 35
+        },
+        {
+          "hour": "11:00",
+          "percent": 44
+        },
+        {
+          "hour": "12:00",
+          "percent": 50
+        },
+        {
+          "hour": "13:00",
+          "percent": 50
+        },
+        {
+          "hour": "14:00",
+          "percent": 50
+        },
+        {
+          "hour": "15:00",
+          "percent": 47
+        },
+        {
+          "hour": "16:00",
+          "percent": 50
+        },
+        {
+          "hour": "17:00",
+          "percent": 47
+        },
+        {
+          "hour": "18:00",
+          "percent": 44
+        },
+        {
+          "hour": "19:00",
+          "percent": 35
+        }
+      ]
+    },
+    {
+      "Monday": [
+        {
+          "hour": "10:00",
+          "percent": 23
+        },
+        {
+          "hour": "11:00",
+          "percent": 32
+        },
+        {
+          "hour": "12:00",
+          "percent": 38
+        },
+        {
+          "hour": "13:00",
+          "percent": 35
+        },
+        {
+          "hour": "14:00",
+          "percent": 32
+        },
+        {
+          "hour": "15:00",
+          "percent": 29
+        },
+        {
+          "hour": "16:00",
+          "percent": 32
+        },
+        {
+          "hour": "17:00",
+          "percent": 29
+        },
+        {
+          "hour": "18:00",
+          "percent": 26
+        },
+        {
+          "hour": "19:00",
+          "percent": 17
+        }
+      ]
+    },
+    {
+      "Tuesday": [
+        {
+          "hour": "10:00",
+          "percent": 29
+        },
+        {
+          "hour": "11:00",
+          "percent": 38
+        },
+        {
+          "hour": "12:00",
+          "percent": 41
+        },
+        {
+          "hour": "13:00",
+          "percent": 41
+        },
+        {
+          "hour": "14:00",
+          "percent": 41
+        },
+        {
+          "hour": "15:00",
+          "percent": 38
+        },
+        {
+          "hour": "16:00",
+          "percent": 32
+        },
+        {
+          "hour": "17:00",
+          "percent": 23
+        },
+        {
+          "hour": "18:00",
+          "percent": 20
+        },
+        {
+          "hour": "19:00",
+          "percent": 29
+        }
+      ]
+    },
+    {
+      "Wednesday": [
+        {
+          "hour": "10:00",
+          "percent": 20
+        },
+        {
+          "hour": "11:00",
+          "percent": 29
+        },
+        {
+          "hour": "12:00",
+          "percent": 32
+        },
+        {
+          "hour": "13:00",
+          "percent": 32
+        },
+        {
+          "hour": "14:00",
+          "percent": 29
+        },
+        {
+          "hour": "15:00",
+          "percent": 26
+        },
+        {
+          "hour": "16:00",
+          "percent": 23
+        },
+        {
+          "hour": "17:00",
+          "percent": 29
+        },
+        {
+          "hour": "18:00",
+          "percent": 44
+        },
+        {
+          "hour": "19:00",
+          "percent": 50
+        }
+      ]
+    },
+    {
+      "Thursday": [
+        {
+          "hour": "10:00",
+          "percent": 17
+        },
+        {
+          "hour": "11:00",
+          "percent": 41
+        },
+        {
+          "hour": "12:00",
+          "percent": 64
+        },
+        {
+          "hour": "13:00",
+          "percent": 70
+        },
+        {
+          "hour": "14:00",
+          "percent": 58
+        },
+        {
+          "hour": "15:00",
+          "percent": 44
+        },
+        {
+          "hour": "16:00",
+          "percent": 47
+        },
+        {
+          "hour": "17:00",
+          "percent": 52
+        },
+        {
+          "hour": "18:00",
+          "percent": 52
+        },
+        {
+          "hour": "19:00",
+          "percent": 38
+        }
+      ]
+    },
+    {
+      "Friday": [
+        {
+          "hour": "10:00",
+          "percent": 50
+        },
+        {
+          "hour": "11:00",
+          "percent": 64
+        },
+        {
+          "hour": "12:00",
+          "percent": 82
+        },
+        {
+          "hour": "13:00",
+          "percent": 94
+        },
+        {
+          "hour": "14:00",
+          "percent": 100
+        },
+        {
+          "hour": "15:00",
+          "percent": 97
+        },
+        {
+          "hour": "16:00",
+          "percent": 94
+        },
+        {
+          "hour": "17:00",
+          "percent": 100
+        },
+        {
+          "hour": "18:00",
+          "percent": 100
+        },
+        {
+          "hour": "19:00",
+          "percent": 85
+        }
+      ]
+    },
+    {
+      "Saturday": [
+        {
+          "hour": "10:00",
+          "percent": 41
+        },
+        {
+          "hour": "11:00",
+          "percent": 61
+        },
+        {
+          "hour": "12:00",
+          "percent": 76
+        },
+        {
+          "hour": "13:00",
+          "percent": 79
+        },
+        {
+          "hour": "14:00",
+          "percent": 73
+        },
+        {
+          "hour": "15:00",
+          "percent": 70
+        },
+        {
+          "hour": "16:00",
+          "percent": 73
+        },
+        {
+          "hour": "17:00",
+          "percent": 79
+        },
+        {
+          "hour": "18:00",
+          "percent": 76
+        },
+        {
+          "hour": "19:00",
+          "percent": 64
+        }
+      ]
+    }
+  ],
+  "relatedSearches": [
+    "tempesto",
+    "alpengeist",
+    "invadr drop",
+    "verbolten",
+    "busch gardens",
+    "apollo's chariot",
+    "busch gardens williamsburg",
+    "iron gwazi",
+    "tempesto",
+    "alpengeist",
+    "invadr drop",
+    "verbolten",
+    "busch gardens",
+    "apollo's chariot",
+    "busch gardens williamsburg",
+    "iron gwazi"
+  ],
+  "relateds": []
+}

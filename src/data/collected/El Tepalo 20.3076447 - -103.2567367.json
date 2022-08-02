@@ -1,0 +1,920 @@
+{
+  "mainName": "El Tepalo",
+  "slug": "el-tepalo",
+  "category": "Trilha de Caminhada",
+  "locationInformation": {
+    "latitude": "20.3076447",
+    "longitude": "-103.2567367"
+  },
+  "basicInformation": [
+    {
+      "label": "endereço",
+      "tooltip": "Copiar endereço",
+      "text": "Ajijic, Jalisco, México",
+      "icon": "https://www.gstatic.com/images/icons/material/system_gm/1x/place_gm_blue_24dp.png"
+    },
+    {
+      "label": "endereço",
+      "tooltip": "Copiar endereço",
+      "text": "Ajijic, Jal.",
+      "icon": "https://www.gstatic.com/images/icons/material/system_gm/1x/place_gm_blue_24dp.png"
+    },
+    {
+      "label": "Code",
+      "tooltip": "Copiar Plus Code",
+      "text": "8P5V+38 Ajijic, Jalisco, México",
+      "icon": "https://maps.gstatic.com/mapfiles/maps_lite/images/2x/ic_plus_code.png"
+    },
+    {
+      "label": "send-to-device",
+      "text": "Enviar para smartphone",
+      "icon": "https://maps.gstatic.com/consumer/images/icons/1x/send_to_mobile_alt_gm_blue_24dp.png"
+    },
+    {
+      "label": "merchant",
+      "text": "Reivindicar esta empresa",
+      "icon": "https://www.gstatic.com/images/icons/material/system_gm/1x/verified_user_gm_blue_24dp.png"
+    }
+  ],
+  "ratingInformation": {
+    "basicRatingInformation": {
+      "averageGrade": 4.8,
+      "totalOfEvaluations": 289
+    },
+    "ratingsByGrade": [
+      {
+        "grade": 5,
+        "totalRatings": 239
+      },
+      {
+        "grade": 4,
+        "totalRatings": 40
+      },
+      {
+        "grade": 3,
+        "totalRatings": 8
+      },
+      {
+        "grade": 2,
+        "totalRatings": 1
+      },
+      {
+        "grade": 1,
+        "totalRatings": 1
+      }
+    ]
+  },
+  "ratingTags": [
+    {
+      "tag": "cachoeira",
+      "count": 19,
+      "tooltip": "cachoeira, mencionado em 19 avaliações"
+    },
+    {
+      "tag": "percepção visual",
+      "count": 12,
+      "tooltip": "percepção visual, mencionado em 12 avaliações"
+    },
+    {
+      "tag": "paisagem",
+      "count": 7,
+      "tooltip": "paisagem, mencionado em 7 avaliações"
+    },
+    {
+      "tag": "estação das chuvas",
+      "count": 7,
+      "tooltip": "estação das chuvas, mencionado em 7 avaliações"
+    },
+    {
+      "tag": "vegetação",
+      "count": 7,
+      "tooltip": "vegetação, mencionado em 7 avaliações"
+    },
+    {
+      "tag": "exercícios",
+      "count": 5,
+      "tooltip": "exercícios, mencionado em 5 avaliações"
+    },
+    {
+      "tag": "família",
+      "count": 5,
+      "tooltip": "família, mencionado em 5 avaliações"
+    },
+    {
+      "tag": "mágico",
+      "count": 4,
+      "tooltip": "mágico, mencionado em 4 avaliações"
+    },
+    {
+      "tag": "amarela",
+      "count": 3,
+      "tooltip": "amarela, mencionado em 3 avaliações"
+    },
+    {
+      "tag": "energia",
+      "count": 3,
+      "tooltip": "energia, mencionado em 3 avaliações"
+    }
+  ],
+  "featuredPhotos": [
+    "https://lh5.googleusercontent.com/p/AF1QipNhCCycvGQrybMAD78ATFObxP-SfHb0k6uL1Egg=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNwXgTBrph-6M4Dm5xGoJ1wAcvI2M8ju57xdtWa=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPGCVAB4NhxSMytIIejiIeaXW9RGPsYR9M3O6Aa=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOyVkKJLQ3k0B0FUuAl1xrI4gahV3s9xc3uO3BH=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMkT63eWSsB6JtfRhh6uGNCjwZNT-mf79ix_XA-=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipN1DgjWYQaaRPtF4N7sswbr6aGGolL23EnHMhVy=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMKMGlDVfo4b82CD9I4X9FN1aKHpNxvE4sWrmPe=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMdUtqlVP7HA6APUhprrS3JddqL_V380kOyWQO8=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOU0yuio1TvyIJRz9Di5bG62JOaNBHWuSIu42bp=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipO6Y3MxVWog8VMaKjLXvmQHVZBhGUSIS5mD4_9e=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipONKWHLZIkTnR3pZknqsT3qUqS1DAI-l4fe_98=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMK1AyKylsax_VVIQlbA8xJ5W2rkW90r7_1CTPu=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOHKwjct9heu7n2m5xnPjrmGi8o6geJckaPAeUD=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMC4dU3v0ypIZYG6taPxrkuSSiIFwx5M6W5xBfP=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMtw7T0ImEIVQmgA6-6NgSH-GYQ8muJqwrL6hjL=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOBwWIuECSzKH3f9YMX5hD6Hzxn8fXNxo3uTus=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNdnH-dW6gUUsXaMjguCgFEsmt5QdG3SlC2F3ZA=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPXkXZ--MJdtoOXodpbDHomvtQ5GqI3WDTK78-c=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMQ9a8LYLTmi02ZyhlnWRxLI9wBjbCTyiUC_jk=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNOUJDY1TEtGPjP7VqsQbrmIvo7723pS7ucT4HK=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMTyChMvhHOMvhLzngkALwUdWiXxUqQggRudlDO=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOZgOTnQN0EdTCtbn7l512UgyuYqY_LVQM17r63=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNFk8qRbGqfmK8kbI9qfLUpomeOT5AvqNV_9k1n=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOSpB3fC2CtYIv-S-eoWyIqCpPJsLMqGxa_nODt=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPDUvIfCQYbdOq2weSnt0KuLewv3iazdk-FbcuX=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOMx5FCx52p40_HwR0I60NcNBs0GRGK3cXd2NjO=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipM0Vcv5-Ip5-3Y5FR_N1WyJXd5K1Al0UPUWAgMO=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPN9tr034rsjrl20aRRijZCrdLzqKLcRlXTtmmQ=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipO_NBD7Zoz5WIPJWb3K6VtUCFkTNShf_VM7G4qQ=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPzLuK2vP7drkMCSZzG1tocvkI4c29TG4VdmE9l=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOlg7G63XIv7rNn7GeSlGIrEpiVI-Y9DTmX8LbO=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMcjOzy2AjO-cuN3dcu0ov9iDTPoSHrysE9Ra45=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOpLhtkTbe5PuZP7-BA3JLM5lJEkeSpi9UXVXoT=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMy3yBanmTzYa7qKkOlB5cKxqcw7HrNKFYQ2VdI=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNyI82IvEibw_8tVzUzFk0tsnTWF5fNM3NSChPu=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNqypCKWTrCVir5gaaTW5Zn-1Gsc37KX9aPanM=w1024-h576-k-no"
+  ],
+  "topComments": null,
+  "peakHours": [
+    {
+      "Sunday": [
+        {
+          "hour": "04:00",
+          "percent": 1
+        },
+        {
+          "hour": "05:00",
+          "percent": 1
+        },
+        {
+          "hour": "06:00",
+          "percent": 1
+        },
+        {
+          "hour": "07:00",
+          "percent": 2
+        },
+        {
+          "hour": "08:00",
+          "percent": 8
+        },
+        {
+          "hour": "09:00",
+          "percent": 14
+        },
+        {
+          "hour": "10:00",
+          "percent": 17
+        },
+        {
+          "hour": "11:00",
+          "percent": 19
+        },
+        {
+          "hour": "12:00",
+          "percent": 20
+        },
+        {
+          "hour": "13:00",
+          "percent": 20
+        },
+        {
+          "hour": "14:00",
+          "percent": 20
+        },
+        {
+          "hour": "15:00",
+          "percent": 17
+        },
+        {
+          "hour": "16:00",
+          "percent": 12
+        },
+        {
+          "hour": "17:00",
+          "percent": 7
+        },
+        {
+          "hour": "18:00",
+          "percent": 2
+        },
+        {
+          "hour": "19:00",
+          "percent": 1
+        },
+        {
+          "hour": "20:00",
+          "percent": 1
+        },
+        {
+          "hour": "21:00",
+          "percent": 1
+        },
+        {
+          "hour": "22:00",
+          "percent": 1
+        },
+        {
+          "hour": "23:00",
+          "percent": 1
+        },
+        {
+          "hour": "00:00",
+          "percent": 1
+        },
+        {
+          "hour": "01:00",
+          "percent": 1
+        },
+        {
+          "hour": "02:00",
+          "percent": 1
+        },
+        {
+          "hour": "03:00",
+          "percent": 1
+        }
+      ]
+    },
+    {
+      "Monday": [
+        {
+          "hour": "04:00",
+          "percent": 1
+        },
+        {
+          "hour": "05:00",
+          "percent": 1
+        },
+        {
+          "hour": "06:00",
+          "percent": 12
+        },
+        {
+          "hour": "07:00",
+          "percent": 38
+        },
+        {
+          "hour": "08:00",
+          "percent": 66
+        },
+        {
+          "hour": "09:00",
+          "percent": 77
+        },
+        {
+          "hour": "10:00",
+          "percent": 79
+        },
+        {
+          "hour": "11:00",
+          "percent": 88
+        },
+        {
+          "hour": "12:00",
+          "percent": 89
+        },
+        {
+          "hour": "13:00",
+          "percent": 71
+        },
+        {
+          "hour": "14:00",
+          "percent": 46
+        },
+        {
+          "hour": "15:00",
+          "percent": 31
+        },
+        {
+          "hour": "16:00",
+          "percent": 23
+        },
+        {
+          "hour": "17:00",
+          "percent": 17
+        },
+        {
+          "hour": "18:00",
+          "percent": 12
+        },
+        {
+          "hour": "19:00",
+          "percent": 8
+        },
+        {
+          "hour": "20:00",
+          "percent": 3
+        },
+        {
+          "hour": "22:00",
+          "percent": 1
+        },
+        {
+          "hour": "23:00",
+          "percent": 1
+        },
+        {
+          "hour": "00:00",
+          "percent": 1
+        },
+        {
+          "hour": "01:00",
+          "percent": 1
+        },
+        {
+          "hour": "02:00",
+          "percent": 1
+        },
+        {
+          "hour": "03:00",
+          "percent": 1
+        }
+      ]
+    },
+    {
+      "Tuesday": [
+        {
+          "hour": "04:00",
+          "percent": 1
+        },
+        {
+          "hour": "05:00",
+          "percent": 1
+        },
+        {
+          "hour": "06:00",
+          "percent": 15
+        },
+        {
+          "hour": "07:00",
+          "percent": 42
+        },
+        {
+          "hour": "08:00",
+          "percent": 70
+        },
+        {
+          "hour": "09:00",
+          "percent": 77
+        },
+        {
+          "hour": "10:00",
+          "percent": 73
+        },
+        {
+          "hour": "11:00",
+          "percent": 81
+        },
+        {
+          "hour": "12:00",
+          "percent": 90
+        },
+        {
+          "hour": "13:00",
+          "percent": 75
+        },
+        {
+          "hour": "14:00",
+          "percent": 47
+        },
+        {
+          "hour": "15:00",
+          "percent": 31
+        },
+        {
+          "hour": "16:00",
+          "percent": 24
+        },
+        {
+          "hour": "17:00",
+          "percent": 18
+        },
+        {
+          "hour": "18:00",
+          "percent": 12
+        },
+        {
+          "hour": "19:00",
+          "percent": 6
+        },
+        {
+          "hour": "21:00",
+          "percent": 1
+        },
+        {
+          "hour": "22:00",
+          "percent": 1
+        },
+        {
+          "hour": "23:00",
+          "percent": 1
+        },
+        {
+          "hour": "00:00",
+          "percent": 1
+        },
+        {
+          "hour": "03:00",
+          "percent": 1
+        }
+      ]
+    },
+    {
+      "Wednesday": [
+        {
+          "hour": "04:00",
+          "percent": 1
+        },
+        {
+          "hour": "05:00",
+          "percent": 1
+        },
+        {
+          "hour": "06:00",
+          "percent": 6
+        },
+        {
+          "hour": "07:00",
+          "percent": 58
+        },
+        {
+          "hour": "08:00",
+          "percent": 96
+        },
+        {
+          "hour": "09:00",
+          "percent": 65
+        },
+        {
+          "hour": "10:00",
+          "percent": 67
+        },
+        {
+          "hour": "11:00",
+          "percent": 91
+        },
+        {
+          "hour": "12:00",
+          "percent": 86
+        },
+        {
+          "hour": "13:00",
+          "percent": 61
+        },
+        {
+          "hour": "14:00",
+          "percent": 42
+        },
+        {
+          "hour": "15:00",
+          "percent": 36
+        },
+        {
+          "hour": "16:00",
+          "percent": 33
+        },
+        {
+          "hour": "17:00",
+          "percent": 29
+        },
+        {
+          "hour": "18:00",
+          "percent": 23
+        },
+        {
+          "hour": "19:00",
+          "percent": 17
+        },
+        {
+          "hour": "20:00",
+          "percent": 11
+        },
+        {
+          "hour": "21:00",
+          "percent": 5
+        },
+        {
+          "hour": "22:00",
+          "percent": 1
+        },
+        {
+          "hour": "23:00",
+          "percent": 1
+        },
+        {
+          "hour": "00:00",
+          "percent": 1
+        },
+        {
+          "hour": "01:00",
+          "percent": 1
+        },
+        {
+          "hour": "02:00",
+          "percent": 1
+        },
+        {
+          "hour": "03:00",
+          "percent": 1
+        }
+      ]
+    },
+    {
+      "Thursday": [
+        {
+          "hour": "04:00",
+          "percent": 1
+        },
+        {
+          "hour": "05:00",
+          "percent": 1
+        },
+        {
+          "hour": "06:00",
+          "percent": 12
+        },
+        {
+          "hour": "07:00",
+          "percent": 40
+        },
+        {
+          "hour": "08:00",
+          "percent": 68
+        },
+        {
+          "hour": "09:00",
+          "percent": 80
+        },
+        {
+          "hour": "10:00",
+          "percent": 79
+        },
+        {
+          "hour": "11:00",
+          "percent": 88
+        },
+        {
+          "hour": "12:00",
+          "percent": 100
+        },
+        {
+          "hour": "13:00",
+          "percent": 89
+        },
+        {
+          "hour": "14:00",
+          "percent": 61
+        },
+        {
+          "hour": "15:00",
+          "percent": 42
+        },
+        {
+          "hour": "16:00",
+          "percent": 41
+        },
+        {
+          "hour": "17:00",
+          "percent": 45
+        },
+        {
+          "hour": "18:00",
+          "percent": 42
+        },
+        {
+          "hour": "19:00",
+          "percent": 30
+        },
+        {
+          "hour": "20:00",
+          "percent": 16
+        },
+        {
+          "hour": "21:00",
+          "percent": 4
+        },
+        {
+          "hour": "22:00",
+          "percent": 1
+        },
+        {
+          "hour": "23:00",
+          "percent": 1
+        },
+        {
+          "hour": "00:00",
+          "percent": 1
+        }
+      ]
+    },
+    {
+      "Friday": [
+        {
+          "hour": "04:00",
+          "percent": 1
+        },
+        {
+          "hour": "05:00",
+          "percent": 1
+        },
+        {
+          "hour": "06:00",
+          "percent": 14
+        },
+        {
+          "hour": "07:00",
+          "percent": 48
+        },
+        {
+          "hour": "08:00",
+          "percent": 64
+        },
+        {
+          "hour": "09:00",
+          "percent": 50
+        },
+        {
+          "hour": "10:00",
+          "percent": 50
+        },
+        {
+          "hour": "11:00",
+          "percent": 60
+        },
+        {
+          "hour": "12:00",
+          "percent": 58
+        },
+        {
+          "hour": "13:00",
+          "percent": 45
+        },
+        {
+          "hour": "14:00",
+          "percent": 30
+        },
+        {
+          "hour": "15:00",
+          "percent": 20
+        },
+        {
+          "hour": "16:00",
+          "percent": 15
+        },
+        {
+          "hour": "17:00",
+          "percent": 11
+        },
+        {
+          "hour": "18:00",
+          "percent": 7
+        },
+        {
+          "hour": "19:00",
+          "percent": 3
+        },
+        {
+          "hour": "21:00",
+          "percent": 1
+        },
+        {
+          "hour": "22:00",
+          "percent": 1
+        },
+        {
+          "hour": "23:00",
+          "percent": 1
+        },
+        {
+          "hour": "00:00",
+          "percent": 1
+        },
+        {
+          "hour": "01:00",
+          "percent": 1
+        },
+        {
+          "hour": "02:00",
+          "percent": 1
+        },
+        {
+          "hour": "03:00",
+          "percent": 1
+        }
+      ]
+    },
+    {
+      "Saturday": [
+        {
+          "hour": "04:00",
+          "percent": 1
+        },
+        {
+          "hour": "05:00",
+          "percent": 1
+        },
+        {
+          "hour": "06:00",
+          "percent": 1
+        },
+        {
+          "hour": "07:00",
+          "percent": 3
+        },
+        {
+          "hour": "08:00",
+          "percent": 18
+        },
+        {
+          "hour": "09:00",
+          "percent": 22
+        },
+        {
+          "hour": "10:00",
+          "percent": 20
+        },
+        {
+          "hour": "11:00",
+          "percent": 29
+        },
+        {
+          "hour": "12:00",
+          "percent": 34
+        },
+        {
+          "hour": "13:00",
+          "percent": 25
+        },
+        {
+          "hour": "14:00",
+          "percent": 11
+        },
+        {
+          "hour": "15:00",
+          "percent": 2
+        },
+        {
+          "hour": "16:00",
+          "percent": 1
+        },
+        {
+          "hour": "17:00",
+          "percent": 1
+        },
+        {
+          "hour": "18:00",
+          "percent": 1
+        },
+        {
+          "hour": "19:00",
+          "percent": 1
+        },
+        {
+          "hour": "20:00",
+          "percent": 1
+        },
+        {
+          "hour": "21:00",
+          "percent": 1
+        },
+        {
+          "hour": "22:00",
+          "percent": 1
+        },
+        {
+          "hour": "23:00",
+          "percent": 1
+        },
+        {
+          "hour": "00:00",
+          "percent": 1
+        },
+        {
+          "hour": "01:00",
+          "percent": 1
+        },
+        {
+          "hour": "02:00",
+          "percent": 1
+        },
+        {
+          "hour": "03:00",
+          "percent": 1
+        }
+      ]
+    }
+  ],
+  "relatedSearches": [
+    "sendero tepalo",
+    "el tepalo ajijic",
+    "hiking in ajijic mexico",
+    "tepalo - ajijic",
+    "chupinaya",
+    "cultura ajijic",
+    "chapala jalisco pueblo mágico",
+    "parque ajijic"
+  ],
+  "relateds": [
+    {
+      "mainName": "Caseta de ingreso al tépalo",
+      "url": null
+    },
+    {
+      "mainName": "La Chupinaya Shrine",
+      "url": null
+    },
+    {
+      "mainName": "Sendero \"La Cristina\"",
+      "url": null
+    },
+    {
+      "mainName": "Malecón de Ajijic",
+      "url": null
+    },
+    {
+      "mainName": "Cascadas de cerro Tepame",
+      "url": null
+    },
+    {
+      "mainName": "Tres Cruces",
+      "url": null
+    },
+    {
+      "mainName": "Sendero El Caracol",
+      "url": null
+    },
+    {
+      "mainName": "Sendero Chupinaya",
+      "url": null
+    },
+    {
+      "mainName": "Campamento Xochime",
+      "url": null
+    },
+    {
+      "mainName": "Sendero \"Las Trojes - Chupinaya\"",
+      "url": null
+    },
+    {
+      "mainName": "Waterfall Huentitán",
+      "url": null
+    },
+    {
+      "mainName": "Inmobiliaria El Tapalo S.A. de C.V.",
+      "url": null
+    },
+    {
+      "mainName": "Sierra de San Juan Cosalá",
+      "url": null
+    },
+    {
+      "mainName": "Area Estatal Los Pinos",
+      "url": null
+    },
+    {
+      "mainName": "Tepetates Reserva Natural",
+      "url": null
+    },
+    {
+      "mainName": "Sendero El Sauce",
+      "url": null
+    },
+    {
+      "mainName": "Filo Del Cerro Viejo",
+      "url": null
+    },
+    {
+      "mainName": "AJIJIC JALISCO",
+      "url": null
+    },
+    {
+      "mainName": "Mesa de Ocotes",
+      "url": null
+    },
+    {
+      "mainName": "Club Roca Azul",
+      "url": null
+    }
+  ]
+}

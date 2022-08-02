@@ -1,0 +1,664 @@
+{
+  "mainName": "Armazem Flor de Minas",
+  "slug": "armazem-flor-de-minas",
+  "category": "Armazém",
+  "locationInformation": {
+    "latitude": "-23.7017698",
+    "longitude": "-46.7457025"
+  },
+  "basicInformation": [
+    {
+      "label": "endereço",
+      "tooltip": "Copiar endereço",
+      "text": "Est. da Riviera, 4026 - Riviera Paulista, São Paulo - SP, 04916-000",
+      "icon": "https://www.gstatic.com/images/icons/material/system_gm/1x/place_gm_blue_24dp.png"
+    },
+    {
+      "label": "telefone",
+      "tooltip": "Copiar número de telefone",
+      "text": "(11) 5833-1693",
+      "icon": "https://www.gstatic.com/images/icons/material/system_gm/1x/phone_gm_blue_24dp.png"
+    },
+    {
+      "label": "Code",
+      "tooltip": "Copiar Plus Code",
+      "text": "77X3+7P São Paulo, SP",
+      "icon": "https://maps.gstatic.com/mapfiles/maps_lite/images/2x/ic_plus_code.png"
+    },
+    {
+      "label": "merchant",
+      "text": "Reivindicar esta empresa",
+      "icon": "https://www.gstatic.com/images/icons/material/system_gm/1x/verified_user_gm_blue_24dp.png"
+    }
+  ],
+  "ratingInformation": {
+    "basicRatingInformation": {
+      "averageGrade": 4.7,
+      "totalOfEvaluations": 250
+    },
+    "ratingsByGrade": [
+      {
+        "grade": 5,
+        "totalRatings": 195
+      },
+      {
+        "grade": 4,
+        "totalRatings": 33
+      },
+      {
+        "grade": 3,
+        "totalRatings": 15
+      },
+      {
+        "grade": 2,
+        "totalRatings": 5
+      },
+      {
+        "grade": 1,
+        "totalRatings": 2
+      }
+    ]
+  },
+  "ratingTags": [
+    {
+      "tag": "café",
+      "count": 46,
+      "tooltip": "café, mencionado em 46 avaliações"
+    },
+    {
+      "tag": "queijos",
+      "count": 27,
+      "tooltip": "queijos, mencionado em 27 avaliações"
+    },
+    {
+      "tag": "produtos",
+      "count": 18,
+      "tooltip": "produtos, mencionado em 18 avaliações"
+    },
+    {
+      "tag": "vinhos",
+      "count": 10,
+      "tooltip": "vinhos, mencionado em 10 avaliações"
+    },
+    {
+      "tag": "preço",
+      "count": 7,
+      "tooltip": "preço, mencionado em 7 avaliações"
+    },
+    {
+      "tag": "ambiente",
+      "count": 6,
+      "tooltip": "ambiente, mencionado em 6 avaliações"
+    },
+    {
+      "tag": "doces",
+      "count": 5,
+      "tooltip": "doces, mencionado em 5 avaliações"
+    },
+    {
+      "tag": "biscoitos",
+      "count": 4,
+      "tooltip": "biscoitos, mencionado em 4 avaliações"
+    },
+    {
+      "tag": "decoração",
+      "count": 3,
+      "tooltip": "decoração, mencionado em 3 avaliações"
+    }
+  ],
+  "featuredPhotos": [
+    "https://lh5.googleusercontent.com/p/AF1QipMTDBvEyxP4goyfGRDYo-CEj2Gr3ejqArQ9r1Us=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMZfZhbYbRJfTo2R7ZgkpGa2MbOt5CHWOvDin1Z=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMO_3YmikU69G12P3ygO1J7ACe3I-Sd5EmHjCz0=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOg44oxvLd3cFfsfSCtQKB_hZVSEudX-Mcpxx_0=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNrNRhkHATu-Xxe89lkdQeplpW6dAqDOCqUFMuT=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNJaJwM3CQlR6pP5Usb5udj7_4b6qUIhu_KuBQs=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOlgTqINIT37nttXHIYCr1mMhkfhD8Ey7DBwWN1=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMCppHGKi_bFvdsvoOQo9e0Tr5fAXf1hkvslfMg=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPjpT_h3A35_39uAIhskbQKMcWcjoFYypPFG5CC=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPW736x_ThAEvI602a3UZWyjWeo64N1BxL8HLqM=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPvHzvMRMrRArsKdvQY_kCzCHH_UJLB0QMPcDFK=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPra8yomioy2BUAB-l78AbvNxoFNiqGyRwYoGLs=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPwy3pJdBmAxk8Y4LlriCUP3evI1yFHMerK-q6i=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMRAfboqBkvEUpOrtHlfV5etXd4JPUt5hHRKKc4=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMQzFUpfchp4CgXJWfsuPXnR3-EZEroi08bpW4=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNylUMHBMgR2dXoIGwo1oX1bxLNfc3vGJuYWhlP=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOWgMtQWZgRwyEHwZ7e-XZrvfSwT4fr7c-W5sqt=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNaMSx0mmBRICmIAS7vTNkiXZt_7G9Pwh9v4tT1=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOSmtX0jU6Ndgdh56l0qZ35xQZhuON5AIAWIKLv=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPEIA27EVRJgo5XdMBu8jswCSmZ-_dSicRuD1yr=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMFwaoffXcGr69vQVLtKPQC3KFFWMOlVea2Q45o=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMJ-9QRgzjL4TG_e9i3EVCQFGbZHCBtxsXBIUJ-=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNe6__oz_9UaWKylFv6F-y_-NyF78JgjY-aN_50=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOetHhCyng-1jNiw13Urb0kQRSV_dmbTtFWfwaW=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOTj0xdh8PvY6RTfce0JkUSnJiNOCsuPKkNuCDe=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPuu-1ViR6RIYB794Ib2xv3LU4yQss_DIWJO3Nz=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPcsc77SyQPHdHLbmG2JCygQEm9MnJCpg4A8Nkr=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNqVq7fOVyJIwDJMdAXD7I-xhTHgHVVA0Wvk6-p=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPWOdaHX55TwV7dwtT8QXm_0mURBvg4U443KTzE=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNtxp5rs8XZEAAkSDij806BDdSmbQE8JYB6TXr5=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNA9t05dnA_RpMdKi7en4De6uM027LqmV4CI71W=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipM9yIyyWVsCpESDoEDHG4IZCqdIdvdOK0d9_ak9=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipN3W_wRyPvOEFB2aF9oyU_nAm3cKWR9rn5Cgzes=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOMagIggSv6gjFy1Pk3O4dLSit3lT0AEiV-Jhla=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMJ5m5lZindkebGEzHmtl7f-AQA9VgtGeZmmWX4=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOJUzeDEUh1zri6m2PEHK3YpBW7-gup-twa1X_c=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOyurBaf51PBhL8kVbNW_VU9ZcjtvYnXWCLCpdb=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOI5MYf2GpuxraTAILZ5HwPa_ze_hBr_ZFn_G-t=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipO7AZw5RVuQaFiif7zcs9VBVBU9uX2nyijn-NxV=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOQGFRSb39fLV2ouffi7sL6g-FXGfDxo8px9Q4k=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOU_dc5BtiXF683WnpUteJWAErO-csg8EbxNchf=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNKtMzR7RxqIoGbwlDS10fUS-rY1xyiIe-kelzB=w1024-h576-k-no"
+  ],
+  "topComments": [
+    {
+      "author": "Clayton Oliveira",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucqdHXot2Uh7QKQbBqjxkv4vCPECNBVco1Og1T_E9Qs=w36-h36-p-c0x00000000-rp-mo-ba3-br100",
+      "comment": "Lugarzinho muito agradável, a cara de Minas mesmo, a loja tá ampliando, não vejo a hora de ver tudo pronto, quem for fazer uma caminhada no parque ecológico Guarapiranga, vale a pena passar pra tomar um café nesse lugar, café ☕ feito e coado na hora e na mesa 😍, tem uma broa de milho deliciosa, sem contar nos  queijos... Vendem até um prato pronto com vários biscoitos e queijos para o café, preço bacana, custo benefício sem igual, quem puder, vá, vale a pena 👍🏼.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Emilly Motta",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucrmrdMCwYyhnDrZ2nytZBo59h_f1O0Q1B-YweI9JlU=w36-h36-p-c0x00000000-rp-mo-br100",
+      "comment": "Ambiente muito agradável e decoração linda. Se for tomar um café apenas é ótimo, mas não tem opção saudável nenhuma, poderia ter mais opções de cardápio, tem apenas uns 3 tipos de salgado e bolachinhas doces (não curto bolacha doce pela manhã) Atendimento um pouco demorado quando tem movimento no local.",
+      "gradeComment": 2
+    },
+    {
+      "author": "Magnoria Fernandes carvalho",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucqVRS_9TUKtT1ZspzoyvItrHwPnav1r7PQIdMeuDg=w36-h36-p-c0x00000000-rp-mo-ba3-br100",
+      "comment": "Fiquei decepcionada hoje, frequento lá e adoro, hoje levei um amigo pra conhecer, o atendimento hoje foi péssimo, demorou pra chegar o pedido, aí resolvi pedi um suco porque estava com muita sede, pensei que o suco viria primeiro. Reclamei da demora do suco, perguntei se já estava pronto pelo menos o suco, pra minha surpresa a garçonete disse, '' ah suco já fica pronto , não precisa fazer'' e porque não trouxe?  Aí aínda foi irônica mostrando -nos um casal ao lado, falando que eles são clientes há anos e estavam calmos com a demora. Fiquei super desconcertada, pois falei muito bem pro meu amigo do lugar.",
+      "gradeComment": 2
+    },
+    {
+      "author": "Alessandra Borges",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucp1luJUVZG72EZlqdU9qTtnKOWzklOjyBfguG2MyA=w36-h36-p-c0x00000000-rp-mo-br100",
+      "comment": "Maravilhosoooo Cafe coado na hora, ambiente cazeirinho, minha filha ama tomar café da manhã aqui!  Tudo mto delicioso, fácil de estacionar. Me sinto fora de São Paulo até os beija Flôr (pássaros) contribuem com o ambiente interiorano!",
+      "gradeComment": 5
+    },
+    {
+      "author": "Karina Lopes",
+      "photoAuthor": "https://lh3.googleusercontent.com/a/AItbvmm-HRrzZRQIPL5fYGxgXs30sxwpi7w8dbPXTxir=w36-h36-p-c0x00000000-rp-mo-ba2-br100",
+      "comment": "Pensa em um lugarzinho perfeito para se sentir em Minas ❤ me apaixonei e recomendo.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Vicente Ramos",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucqRgITUzJIJWEhOFnSbIwPrdT0idZmpjKeZG94a=w36-h36-p-c0x00000000-rp-mo-ba5-br100",
+      "comment": "Excelente local para uma pausa para refeição. Ambiente bem decorado com o tema interiorano . Local acolhedor e aconchegante além do excelente atendimento.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Roseane Guerra",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucrQsfrckR-4ZwDjSMutO1RDlWG1Nfz4i3k-XqECK5o=w36-h36-p-c0x00000000-rp-mo-ba3-br100",
+      "comment": "Gente que lugar encantador, você sai de lá com as energias recarregadas, café delicioso, atendimento maravilhoso, venham conhecer e se encantar assim como eu.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Fernando Souza",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucotexii9Jg4AWyQVzlovIFi580wRXbdNPO63gJCsw=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "O lugar é muito legal, bonito, organizado. Dá uma sensação de que estamos no interior. Mas o fato de não ter preço em nada, não ter um cardápio e termos que ficar perguntando o preço de tudo, isso é bastante chato. Os funcionários demoraram muito para nos servir  e pareciam perdidos.",
+      "gradeComment": 3
+    },
+    {
+      "author": "Lar Encantado dos Fantoches",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucpmEktzheLsi9vGKReiwtHDraUpQVcishMPg6vYAlg=w36-h36-p-c0x00000000-rp-mo-ba3-br100",
+      "comment": "Antigamente tinha a parte de degustação e agora não tem mais! Mas gostei da pinga de banana, de café e dos queijos!",
+      "gradeComment": 3
+    },
+    {
+      "author": "Angelica Cristina",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucrpwxiCdAf10W1WC7ZQRRfjWcE6GzrLhCiEgSMfQQ=w36-h36-p-c0x00000000-rp-mo-br100",
+      "comment": "Lugar agradável, ambiente maravilhosa, excelente café da manhã",
+      "gradeComment": 5
+    }
+  ],
+  "peakHours": [
+    {
+      "Sunday": [
+        {
+          "hour": "07:00",
+          "percent": 23
+        },
+        {
+          "hour": "08:00",
+          "percent": 50
+        },
+        {
+          "hour": "09:00",
+          "percent": 82
+        },
+        {
+          "hour": "10:00",
+          "percent": 100
+        },
+        {
+          "hour": "11:00",
+          "percent": 89
+        },
+        {
+          "hour": "12:00",
+          "percent": 61
+        },
+        {
+          "hour": "13:00",
+          "percent": 36
+        },
+        {
+          "hour": "14:00",
+          "percent": 29
+        },
+        {
+          "hour": "15:00",
+          "percent": 36
+        },
+        {
+          "hour": "16:00",
+          "percent": 46
+        },
+        {
+          "hour": "17:00",
+          "percent": 46
+        },
+        {
+          "hour": "18:00",
+          "percent": 36
+        }
+      ]
+    },
+    {
+      "Monday": [
+        {
+          "hour": "07:00",
+          "percent": 16
+        },
+        {
+          "hour": "08:00",
+          "percent": 25
+        },
+        {
+          "hour": "09:00",
+          "percent": 33
+        },
+        {
+          "hour": "10:00",
+          "percent": 36
+        },
+        {
+          "hour": "11:00",
+          "percent": 31
+        },
+        {
+          "hour": "12:00",
+          "percent": 24
+        },
+        {
+          "hour": "13:00",
+          "percent": 20
+        },
+        {
+          "hour": "14:00",
+          "percent": 25
+        },
+        {
+          "hour": "15:00",
+          "percent": 34
+        },
+        {
+          "hour": "16:00",
+          "percent": 37
+        },
+        {
+          "hour": "17:00",
+          "percent": 30
+        },
+        {
+          "hour": "18:00",
+          "percent": 18
+        }
+      ]
+    },
+    {
+      "Tuesday": [
+        {
+          "hour": "07:00",
+          "percent": 19
+        },
+        {
+          "hour": "08:00",
+          "percent": 30
+        },
+        {
+          "hour": "09:00",
+          "percent": 35
+        },
+        {
+          "hour": "10:00",
+          "percent": 30
+        },
+        {
+          "hour": "11:00",
+          "percent": 21
+        },
+        {
+          "hour": "12:00",
+          "percent": 18
+        },
+        {
+          "hour": "13:00",
+          "percent": 21
+        },
+        {
+          "hour": "14:00",
+          "percent": 26
+        },
+        {
+          "hour": "15:00",
+          "percent": 29
+        },
+        {
+          "hour": "16:00",
+          "percent": 28
+        },
+        {
+          "hour": "17:00",
+          "percent": 23
+        },
+        {
+          "hour": "18:00",
+          "percent": 16
+        }
+      ]
+    },
+    {
+      "Wednesday": [
+        {
+          "hour": "07:00",
+          "percent": 19
+        },
+        {
+          "hour": "08:00",
+          "percent": 28
+        },
+        {
+          "hour": "09:00",
+          "percent": 37
+        },
+        {
+          "hour": "10:00",
+          "percent": 41
+        },
+        {
+          "hour": "11:00",
+          "percent": 38
+        },
+        {
+          "hour": "12:00",
+          "percent": 31
+        },
+        {
+          "hour": "13:00",
+          "percent": 23
+        },
+        {
+          "hour": "14:00",
+          "percent": 21
+        },
+        {
+          "hour": "15:00",
+          "percent": 27
+        },
+        {
+          "hour": "16:00",
+          "percent": 34
+        },
+        {
+          "hour": "17:00",
+          "percent": 32
+        },
+        {
+          "hour": "18:00",
+          "percent": 21
+        }
+      ]
+    },
+    {
+      "Thursday": [
+        {
+          "hour": "07:00",
+          "percent": 24
+        },
+        {
+          "hour": "08:00",
+          "percent": 43
+        },
+        {
+          "hour": "09:00",
+          "percent": 56
+        },
+        {
+          "hour": "10:00",
+          "percent": 50
+        },
+        {
+          "hour": "11:00",
+          "percent": 35
+        },
+        {
+          "hour": "12:00",
+          "percent": 25
+        },
+        {
+          "hour": "13:00",
+          "percent": 23
+        },
+        {
+          "hour": "14:00",
+          "percent": 26
+        },
+        {
+          "hour": "15:00",
+          "percent": 29
+        },
+        {
+          "hour": "16:00",
+          "percent": 28
+        },
+        {
+          "hour": "17:00",
+          "percent": 24
+        },
+        {
+          "hour": "18:00",
+          "percent": 18
+        }
+      ]
+    },
+    {
+      "Friday": [
+        {
+          "hour": "07:00",
+          "percent": 17
+        },
+        {
+          "hour": "08:00",
+          "percent": 26
+        },
+        {
+          "hour": "09:00",
+          "percent": 32
+        },
+        {
+          "hour": "10:00",
+          "percent": 32
+        },
+        {
+          "hour": "11:00",
+          "percent": 27
+        },
+        {
+          "hour": "12:00",
+          "percent": 22
+        },
+        {
+          "hour": "13:00",
+          "percent": 21
+        },
+        {
+          "hour": "14:00",
+          "percent": 24
+        },
+        {
+          "hour": "15:00",
+          "percent": 29
+        },
+        {
+          "hour": "16:00",
+          "percent": 32
+        },
+        {
+          "hour": "17:00",
+          "percent": 30
+        },
+        {
+          "hour": "18:00",
+          "percent": 24
+        }
+      ]
+    },
+    {
+      "Saturday": [
+        {
+          "hour": "07:00",
+          "percent": 22
+        },
+        {
+          "hour": "08:00",
+          "percent": 43
+        },
+        {
+          "hour": "09:00",
+          "percent": 61
+        },
+        {
+          "hour": "10:00",
+          "percent": 66
+        },
+        {
+          "hour": "11:00",
+          "percent": 54
+        },
+        {
+          "hour": "12:00",
+          "percent": 39
+        },
+        {
+          "hour": "13:00",
+          "percent": 30
+        },
+        {
+          "hour": "14:00",
+          "percent": 31
+        },
+        {
+          "hour": "15:00",
+          "percent": 35
+        },
+        {
+          "hour": "16:00",
+          "percent": 36
+        },
+        {
+          "hour": "17:00",
+          "percent": 32
+        },
+        {
+          "hour": "18:00",
+          "percent": 24
+        }
+      ]
+    }
+  ],
+  "relatedSearches": null,
+  "relateds": [
+    {
+      "mainName": "ADEGA FLORIDA",
+      "url": null
+    },
+    {
+      "mainName": "Empório De La Fruta",
+      "url": null
+    },
+    {
+      "mainName": "Neide Ieda Morigi Flores-ME",
+      "url": null
+    },
+    {
+      "mainName": "Armazem de Minas",
+      "url": null
+    },
+    {
+      "mainName": "Armazém de Minas Móveis Rústicos",
+      "url": null
+    },
+    {
+      "mainName": "Mercadinho Guarapiranga",
+      "url": null
+    },
+    {
+      "mainName": "Emporio WJ",
+      "url": null
+    },
+    {
+      "mainName": "Mercado camargo",
+      "url": null
+    },
+    {
+      "mainName": "Riviera Garden Floricultura",
+      "url": null
+    },
+    {
+      "mainName": "Doceria André",
+      "url": null
+    },
+    {
+      "mainName": "Empório Mineiro Vila Represa",
+      "url": null
+    },
+    {
+      "mainName": "HortiFrut Minas",
+      "url": null
+    },
+    {
+      "mainName": "Madeirado Loja de Móveis de Madeira Maciça",
+      "url": null
+    },
+    {
+      "mainName": "Mercearia Mineiro Ltda",
+      "url": null
+    },
+    {
+      "mainName": "Maria Flor Alimento Artesanal",
+      "url": null
+    },
+    {
+      "mainName": "Adega Dragon",
+      "url": null
+    },
+    {
+      "mainName": "Mercadão das Flores",
+      "url": null
+    },
+    {
+      "mainName": "Emporio Mine Mercado",
+      "url": null
+    },
+    {
+      "mainName": "Doce benção",
+      "url": null
+    },
+    {
+      "mainName": "J&N Flores",
+      "url": null
+    }
+  ]
+}

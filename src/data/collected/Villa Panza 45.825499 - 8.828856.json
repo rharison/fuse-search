@@ -1,0 +1,521 @@
+{
+  "mainName": "Villa Panza",
+  "slug": "villa-panza",
+  "category": "Marco cultural",
+  "locationInformation": {
+    "latitude": "45.825499",
+    "longitude": "8.828856"
+  },
+  "basicInformation": [
+    {
+      "label": "endereço",
+      "tooltip": "Copiar endereço",
+      "text": "Piazza Litta, 1, 21100 Varese VA, Itália",
+      "icon": "https://www.gstatic.com/images/icons/material/system_gm/1x/place_gm_blue_24dp.png"
+    },
+    {
+      "label": "website",
+      "tooltip": "Abrir website",
+      "text": "fondoambiente.it",
+      "icon": "https://www.gstatic.com/images/icons/material/system_gm/1x/public_gm_blue_24dp.png"
+    },
+    {
+      "label": "telefone",
+      "tooltip": "Copiar número de telefone",
+      "text": "+39 0332 283960",
+      "icon": "https://www.gstatic.com/images/icons/material/system_gm/1x/phone_gm_blue_24dp.png"
+    },
+    {
+      "label": "Code",
+      "tooltip": "Copiar Plus Code",
+      "text": "RRGH+5G Varese, Itália",
+      "icon": "https://maps.gstatic.com/mapfiles/maps_lite/images/2x/ic_plus_code.png"
+    }
+  ],
+  "ratingInformation": {
+    "basicRatingInformation": {
+      "averageGrade": 4.6,
+      "totalOfEvaluations": 2185
+    },
+    "ratingsByGrade": [
+      {
+        "grade": 5,
+        "totalRatings": 1565
+      },
+      {
+        "grade": 4,
+        "totalRatings": 454
+      },
+      {
+        "grade": 3,
+        "totalRatings": 103
+      },
+      {
+        "grade": 2,
+        "totalRatings": 40
+      },
+      {
+        "grade": 1,
+        "totalRatings": 23
+      }
+    ]
+  },
+  "ratingTags": [
+    {
+      "tag": "jardim",
+      "count": 182,
+      "tooltip": "jardim, mencionado em 182 avaliações"
+    },
+    {
+      "tag": "exposições",
+      "count": 179,
+      "tooltip": "exposições, mencionado em 179 avaliações"
+    },
+    {
+      "tag": "arte contemporânea",
+      "count": 96,
+      "tooltip": "arte contemporânea, mencionado em 96 avaliações"
+    },
+    {
+      "tag": "arte moderna",
+      "count": 52,
+      "tooltip": "arte moderna, mencionado em 52 avaliações"
+    },
+    {
+      "tag": "obras",
+      "count": 39,
+      "tooltip": "obras, mencionado em 39 avaliações"
+    },
+    {
+      "tag": "instalações",
+      "count": 34,
+      "tooltip": "instalações, mencionado em 34 avaliações"
+    },
+    {
+      "tag": "luz",
+      "count": 29,
+      "tooltip": "luz, mencionado em 29 avaliações"
+    },
+    {
+      "tag": "voluntários",
+      "count": 27,
+      "tooltip": "voluntários, mencionado em 27 avaliações"
+    },
+    {
+      "tag": "coleção",
+      "count": 14,
+      "tooltip": "coleção, mencionado em 14 avaliações"
+    },
+    {
+      "tag": "contraste",
+      "count": 10,
+      "tooltip": "contraste, mencionado em 10 avaliações"
+    }
+  ],
+  "featuredPhotos": [
+    "https://lh5.googleusercontent.com/p/AF1QipObd5_aLdupI15_lTC7byv1xAV6XaegfG6OcZSm=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOh641-yuVVoNjxhSqOdnNvIcLhzRd93ou6jUYN=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPoEFu233c0BfXv-S4Og2gAOcs0gTMuCk9QIEOl=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMFh6UBYtwxfVAR59CtK4K-lImfxdsB0bjXbDdo=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPaLFOKVVSD7k-7ow4gKncQhkkR3uG3JvFU98P2=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMHSyG2aGO7TzTUVZ2-HOqwYUaSOHHpFzGhqVQI=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOWA-IktQiu5Q52WP0-Viv5zFVBHdqLDWAiNEtD=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMfrM8kbgs6vv9xfnb6inXW5F5xsGyoFYY5nQZT=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipObAvhjToFqDQEV2SlmBJEykkHWLkMo1wIz7AUv=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOsFwTLL_obaKTeKzCnh_5GVqhKICMEXbwZD89u=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipM0IAsqsVa90I6nxXj9llm6RS6Q2Uz0c1PKtT0b=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMxDxrv66oQiQV7CITjD0AGK9LYj8pLVaPGGIm9=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipM5eQSS0rPjfI5j8GLIa42Wuvs5ASp8rvnJpVQc=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMVgCOpzBxyjFpok7uxBFNl2a824SYAchhA45E5=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOxkJDVtsrwSgcRgkgOG5YtP1ezd86qaxe8zRqq=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipP6GexQb768Lh12SBtw2xl0RWTMgMz31rsQmwg5=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNXeNzQnGb6bPXzWYiW7WpyCtZ4k2RR9BQSiceN=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOeM1Mf-7r-3imcz_-WLim-dEaQgpPCfUSIRsRz=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNf6ni406UKcoqTqtqsnQilEfpNV8wTmlmkEwRg=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOVRBS2OWZkk9_5H6rd1ARwwHKn4-s7U7cI3OPK=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNeDUbMAquIJBvO8TL0jvet9O2cCSFtWm9JE66P=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipN_TfJJKbQ76F78-zRBHSpURZO4V2l-ybqQKDOp=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipP5nacMgyUH434cprxv3EogEFxjvuC7pYK6lgPr=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOnIZqLPEio8rCrBMEHwTGU72mYe3r7mTaH2w46=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNMFluZGtvOptl-vBbj-d2Oz0su9E8ebCACdrPx=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMQ53YNTsai0X_tL2FxQcvCM88LMT1osU3Crchw=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMiOL3FdqvKY_8RRqZFMNb-SX5YBz3eTO1_LyGd=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMCz0seTYLnEPCxVnsesSkKX1JHHjMCaYb481EK=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOHcC5v0AUyjh_UiL-HC0PDbxtcZowodlHix83l=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipM96invkjumff4IpBmOrBxRZ7NyOZHyQpKmfV5Q=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOzhTpuKwmAcubqo4tm2AKIalXhsrEJLcqRrfUn=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOmWfGxMWfv9yALnJt1vffv68CuTjpVNSOvMWZy=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipN2nCI7r8TznA9OwleCvsbPKECuUn-hnIGHByDI=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPu81Se0eOKOHHoBnLQrmkPPl64KqRslmTKg5dB=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMASPlnfXQ5jEl2YvCgxFoxB5_fQL--dLw8UwJK=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipP3n0GUuiKb_SXzIjgTrOYsDpuP2qsP8h2ReclG=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPvBdaSdHM5-rdaaeTwR6PVBjJMy5cEOLSTP0m9=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipObFrkNtsjJT6e_bDj3J3qnVbRFD7rLDAlg4idY=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMpUVNhi3YCDymCld-Ii6FOSBknway-SAD3vZDn=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMuXudL0KgvlenkXvAuOHnKmuiG84DdNyIjJlat=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMEtoXQDAnX0OD9evQdxfN-XpHbJB2QSWJL-WTX=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPUHfCp4CVgUW-zUs1I5-83BbEBAicdOeGrDXJi=w1024-h576-k-no"
+  ],
+  "topComments": [
+    {
+      "author": "Thaís Possa",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucrjIjqcHXiX5HX0VX9zziUiZTWnHJMTcORpue4rKA=w36-h36-p-c0x00000000-rp-mo-ba5-br100",
+      "comment": "Achei 12 euros por pessoa um pouco caro, mas o prédio em si é belo e adoro ver as características dos ambientes da época, como é possível ver no térreo. Tivemos uma ótima explicação de uma funcionária sobre o proprietário e sua coleção de arte moderna que também compõe o ambiente. Em uma parte do andar superior já tem algumas artes que já não são muito a minha praia, em ambientes descaracterizados. Vale a pena caminhar pelo jardim super bem cuidado e tranquilo, ainda mais com as cores lindas do outono. O \"túnel\" de árvores é lindo, e chegamos até uma parte onde possuem uma criação de abelhas e um laguinho fofo que lembra uma pintura do Monet.",
+      "gradeComment": 4
+    },
+    {
+      "author": "Simone Lombardo",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucom3h3BNvv8ylPbZdrOJdjPhbYhg_EqM9YJm7zs3Gc=w36-h36-p-c0x00000000-rp-mo-ba6-br100",
+      "comment": "(Tradução do Google) Localizado em Varese, realmente nos encantou. Mesmo que o dia não tenha sido dos melhores, o lugar é realmente maravilhoso, muita natureza faz você esquecer que está na cidade. Tudo estava bem conservado e era muito difícil sair. Linda villa, mas o jardim certamente nos impressionou mais do que qualquer outra coisa. Descontos com o cartão Fai.  (Original) Situata a Varese, ci ha davvero incantato. Anche se la giornata non era delle migliori il posto é davvero meraviglioso, tantissima natura ti fa dimenticare di essere in città. Tutto curatissimo é stato difficilissimo andare via. Villa bellissima, ma sicuramente il giardino ci ha impressionat più di ogni altra cosa. Sconti con la tessera del Fai.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Sam Daverio",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucr5CWd-ctuKLWxAYyloc2pl0mAGiaakTnr3_-Su=w36-h36-p-c0x00000000-rp-mo-ba2-br100",
+      "comment": "(Tradução do Google) Uma maravilhosa coleção de arte, história e cultura. Cada aspecto da moradia é cuidado ao pormenor, realçando a sua beleza. A coleção de arte é impressionante e acessível a todos graças à preparação dos guias. O jardim é lindo e perfeitamente cuidado. Recomendo visitar a vila várias vezes em épocas alternadas.  (Original) Una stupenda raccolta di arte, storia e cultura.  Ogni apetto della villa viene curato al dettaglio valorizzandone la bellezza. La collezione d'arte è impressionante e accessibile a tutti grazie alla preparazione delle guide. Il giardino è bellissimo e mantenuto alla perfezione. Consiglio di visitare la villa più volte a stagioni alterne.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Gaetano Carlo Gaiera",
+      "photoAuthor": "https://lh3.googleusercontent.com/a/AItbvmnKK6B9iO_eUMMBmJgIrZFETYZyXNDLcXAsT5Ni=w36-h36-p-c0x00000000-rp-mo-ba5-br100",
+      "comment": "Luogo stupendo e paradisiaco. Villa suggestiva con arte minimale americana e molto altro. Giardini superbi tenuti cone si deve. Meta consigliata per tutti. Personale gentile e preparato in particolare il volontario Maurizio è stato molto bravo a farci capire quello che vedevamo e in particolare è stato piacevole cogliere i significati e le sfumature dell'arte minimale a colori , statuaria, luminosa e sonora. Bravi una vera eccellenza!",
+      "gradeComment": 5
+    },
+    {
+      "author": "Roberto Brambilla",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucr-7kUT7yrmf1tW7Ew0_qwNu4j-Xdc1Phz3h5nHtQ=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "(Tradução do Google) Villa Panza leva o nome do último proprietário (doado à FAI) É uma mansão extraordinária construída em meados de 1700, rica em obras de arte contemporânea coletadas por Giuseppe Panza, obras adquiridas por artistas americanos na década de 1950. Ao longo do caminho, você pode admirar móveis de valor considerável. Ao final da visita você pode caminhar em um belo parque. Obrigado aos voluntários da FAI que aos poucos nos explicaram o itinerário do museu.  (Original) Villa Panza prende il nome dell’ultimo proprietario (donata al FAI) è una dimora costruita nella metà del ‘700 ,straordinaria, ricca di opere d’arte contemporanea collezionate da Giuseppe Panza, opere acquistate da artisti americani degli anni ‘50. Lungo il percorso si ammirano arredi di notevole pregio. Alla fine della visita si può camminare in un bellissimo parco. Un ringraziamento ai volontari del FAI che ci hanno spiegato man mano il percorso museale.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Franco Pecchio",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucqhnBsf40rswi35EAUJn42l3pu1NM8ZZPqpI2RqhXY=w36-h36-p-c0x00000000-rp-mo-ba6-br100",
+      "comment": "(Tradução do Google) Um museu de arte conceitual e minimalista, uma villa em que arte, mobiliário, arquitetura e jardins se unem em um único que compete apenas com outras ricas coleções internacionais (Louisiana em Copenhague, vila Tugendhat em Brno, Fondation Gianadda em Martigny etc). Pena que não há livraria na altura e um café digno desse nome. Estacionamento interno ou ônibus conveniente n.1 do centro de Varese.  (Original) Un museo di arte concettuale e minimalista, una villa in cui arte, arredi, architettura e giardino si fondono in un unicum che compete solo con altre ricche collezioni internazionali (Louisiana di Copenhagen, vila Tugendhat a Brno, fondation Gianadda a Martigny etc). Peccato manchi un bookshop all'altezza e una caffetteria degna del nome. Parcheggio interno oppure comodo il bus n.1 dal centro di Varese.",
+      "gradeComment": 4
+    },
+    {
+      "author": "Stefano Locatelli",
+      "photoAuthor": "https://lh3.googleusercontent.com/a/AItbvmmMBK52D3gn5A6FT-_-RrYMv8b2EHk3iIgzUvGg=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "(Tradução do Google) Villa pertencente à FAI, aberta durante os dias de primavera (com contribuição gratuita) ou durante todo o ano (consulte os preços no site); como apoiantes da FAI, a entrada é gratuita. No seu interior existe uma exposição permanente de artistas americanos (arte contemporânea) e algumas obras de artistas italianos: recomendo a visita guiada para poder desfrutar plenamente das obras expostas. No interior existe um restaurante onde pode almoçar/jantar. Estacionamento privativo no local. Visita recomendada.  (Original) Villa facente parte del FAI, aperta per le giornate di primavera (con contributo libero) o anche tutto l'anno (vedasi sito web per le tariffe); come sostenitori FAI l'ingresso è libero. All'interno mostra permanente di artisti americani (arte contemporanea) e qualche opera di artisti italiani: consiglio la visita guidata per poter godere appieno delle opere esposte. All'interno presenza di un ristorante dove poter pranzare/cenare. Posteggio privato presente in loco. Visita consigliata.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Federica Labate",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucpfvTpsOqx1rrx1tWyBd6IdCr4uOFqTe2hRi-x7QOA=w36-h36-p-c0x00000000-rp-mo-ba3-br100",
+      "comment": "(Tradução do Google) Maravilhosa casa de campo no coração de Varese. Os jardins são lindos, super bem cuidados. A exposição fotográfica muito sugestiva. As instalações de luz nas várias salas são muito curiosas. Aprovado com nota máxima. A FAI!  (Original) Meravigliosa villa nel cuore di Varese. Bellissimi i giardini, super curati. La mostra fotografica molto suggestiva. Le installazioni luminose nelle varie stanze molto curiose. Promossa a pieni voti. W il FAI!",
+      "gradeComment": 5
+    },
+    {
+      "author": "Mario Maestri",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucr2GJ9lAcLFrJx1bSF1OUV95bmBddU-n2dZc70ZmA=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "(Tradução do Google) Moradia de estilo neoclássico, hoje propriedade da FAI, construída após meados do século XVIII e posteriormente ampliada (Canonica e Portaluppi entre os arquitectos que ali trabalharam). O jardim italiano é esplêndido (o edifício nasceu como uma vila de delícias e o parque não pode faltar). A verdadeira jóia é a coleção do último proprietário, Conde Giuseppe Panza di Bium, amante da arte contemporânea, que colecionou uma grande coleção, convidando também artistas (especialmente americanos, sobretudo Flavin, Irwin e Turrell) a transformar algumas salas do villa em obras de arte. Também expôs as fotografias de Wim Wenders no Groun Zero (2001) De 13 de abril a 22 de setembro de 2022 exposição \"Giorgio Colombo. Fotografias da Coleção Panza\", Visitar!  (Original) Villa di gusto neoclassico, ora di proprietá FAI, edificata dopo la metá del '700 e successivamente ampliata (Canonica e Portaluppi tra gli architetti che vi hanno lavorato). Splendido il giardino all'italiana (la costruzione nasce come villa di delizie e il parco non può mancare). Il vero gioiello è la collezione dell'ultimo proprietario, il conte Giuseppe Panza di Biumo, appassionato di arte contemporanea, che raccolse un'ampia collezione, invitando anche artisti (soprattutto statunitensi, su tutti Flavin, Irwin e Turrell) a trasformare alcune stanze della villa in opere d'arte. Esposte anche le fotografie di Wim Wenders a Groun Zero (2001) Dal 13 aprile al 22 settembre 2022 mostra \"Giorgio Colombo. Fotografie dalla Collezione Panza\", Da visitare!",
+      "gradeComment": 5
+    },
+    {
+      "author": "Giulio Vitale",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucoHq_e6ctapvHaZc-7xC-gzFqp719yF7IDlrP3E=w36-h36-p-c0x00000000-rp-mo-ba3-br100",
+      "comment": "(Tradução do Google) A Villa é realmente linda, muitos quartos e cada um com um tema diferente do outro. A exposição das obras também foi muito interessante. A visita realizada pelos alunos de uma escola secundária em Varese foi muito gratificante  (Original) La Villa è davvero bellissima, molte stanze ed ognuna con tema differente dall'altra. Anche l'esposizione delle opere è stata molto interessante. La visita condotta dai ragazzi di un liceo di Varese è stata molto soddisfacente",
+      "gradeComment": 5
+    },
+    {
+      "author": "Megi Loka",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZuco4J4s4ODA7CvZr0Cu3R_NunfToU2cuM4ZjDdhIAw4=w36-h36-p-c0x00000000-rp-mo-br100",
+      "comment": "(Tradução do Google) É sempre um prazer regressar a esta moradia em diferentes dias do ano. Eu recomendo ir em um dia com o solo para que você possa entender melhor o jogo de luzes de algumas salas realmente especiais. Recomendo fazer o cartão Fai para poder vê-lo quando quiser sem ter que pagar.  (Original) Sempre un piacere ritornare a questa villa in giorni diversi dell’anno. Consiglio di andare in un giorno con il solo in modo da poter capire meglio il gioco delle luci di alcune stanze veramente particolari. Consiglio di fare la tessera Fai per poterla vedere ogni volta che si vuole senza dover pagare.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Ciro D'Amore",
+      "photoAuthor": "https://lh3.googleusercontent.com/a/AItbvmmDcL9hFNQFSvTv88gZmqiFMa9ogJen_ugHIVbm=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "(Tradução do Google) Uma vila \"viva\" não um museu. Cheio de obras de arte espalhadas pela casa e parque. Pequena estufa. Bar, restaurante, livraria. Estacionamento interno.  (Original) Una villa \"viva\" non un museo. Piena di opere d'arte disseminate nella casa e nel parco. Piccola serra. Bar, ristorante, bookshop. Parcheggio interno.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Lili",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucrxcUZxesoWUrrkqOTyB_P4Y6CmlcqNWDMvWFw3uLo=w36-h36-p-c0x00000000-rp-mo-ba5-br100",
+      "comment": "Un posto magico, una villa settecentesca sui colli di Varese, con un meraviglioso giardino all'italiana. All'interno della villa una vasta collezione d'arte contemporanea americana che incanta di bellezza.Da vedere e rivedere.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Isabella_C",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucoBp7accs16WLF__b9w1mbQp6uSOTv4TVnchObEMqs=w36-h36-p-c0x00000000-rp-mo-ba7-br100",
+      "comment": "(Tradução do Google) A arte contemporânea americana encontrou um lar nesta bela vila do século XVIII, com um grande jardim, no topo da colina Biumo em Varese, entre os móveis renascentistas e preciosos artefatos da arte africana e pré-colombiana. Uma incrível coleção inspirada na luz e na cor, hoje famosa em todo o mundo, que aqui se mistura com a beleza do lugar e emoldura as vistas, fazendo-as parte das próprias obras.  (Original) In questa bellissima villa settecentesca, con vasto giardino, sulla sommità del colle di Biumo a Varese, tra gli arredi rinascimentali ed i preziosi manufatti di arte africana e precolombiana, ha trovato dimora l'arte contemporanea americana. Un'incredibile collezione ispirata alla luce ed al colore, ormai famosa in tutto il mondo, che qui si fonde alla bellezza del luogo e ne incornicia i panorami rendendoli parte delle opere stesse.",
+      "gradeComment": 4
+    },
+    {
+      "author": "Elisa Ghislandi",
+      "photoAuthor": "https://lh3.googleusercontent.com/a/AItbvmlmYSg86XM0X-tYh2A28mIqsNvcf8U9LVF1NuB0=w36-h36-p-c0x00000000-rp-mo-ba3-br100",
+      "comment": "(Tradução do Google) Merece! Bonita moradia setecentista com colecções de arte contemporânea de âmbito internacional. O jardim também é sugestivo. Guias muito gentis e preparados, muito bom!  (Original) Merita! Bellissima villa settecentesca con collezioni d'arte contemporanea di respiro internazionale. Suggestivo anche il giardino. Guide molto gentili e preparate, bravissime!",
+      "gradeComment": 5
+    },
+    {
+      "author": "Vincenzo Preziuso",
+      "photoAuthor": "https://lh3.googleusercontent.com/a/AItbvmmryiLtoP8IzBoxxUXXOv-tNdoXrYJdUvqj7o4U=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "(Tradução do Google) Para visitar absolutamente. A coleção de arte moderna abstrata americana é digna de um museu. Sugiro, a menos que seja professor de história da arte, fazer a visita guiada, caso contrário perderá muito do prazer da visita  (Original) Da visitare assolutamente. La collezione di arte moderna astratta americana è degna di un museo . Suggerisco, a meno che non siate insegnanti di storia dell'arte, di fare la visita guidata, altrimenti si perde gran parte del piacere della visita",
+      "gradeComment": 5
+    },
+    {
+      "author": "Daniele Re",
+      "photoAuthor": "https://lh3.googleusercontent.com/a/AItbvmnrUCONry8MiwvtTodpphIqCn9Deae1kT7MjvkzJw=w36-h36-p-c0x00000000-rp-mo-br100",
+      "comment": "(Tradução do Google) Uma das coleções de arte contemporânea mais importantes da Itália, com grande presença de minimalistas americanos. A montagem simples e essencial é capaz de criar ambientes cativantes para o visitante e capaz de restituir o valor das obras. O caminho apresenta grandes telas monocromáticas, instalações minimalistas e os ambientes luminosos de Dan Flavin. É agradável visitar o jardim, do qual se destacam a pequena estufa e o lago.  (Original) Una delle più importanti collezioni di arte contemporanea presenti in Italia, con una grande presenza di minimalisti statunitensi. L'allestimento semplice ed essenziale è capace di creare atmosfere coinvolgenti per il visitatore e capaci di restituire il valore delle opere. Il percorso presenta grandi tele monocrome, installazioni minimaliste e gli ambienti luminosi di Dan Flavin. Piacevole la visita al giardino di cui si segnala la piccola serra e lo stagno.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Alessandra Colombo",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZuco7JWU5VoiPrrc3AMn_pvRHxeUd4neZ2HJYzx9dIw=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "(Tradução do Google) Lugar mágico, muito sugestivo também a coleção e a forma de incluí-la no mobiliário entre o moderno e o antigo. O parque é muito bonito e bem cuidado.  O único inconveniente é o preço (15€) na minha opinião demasiado elevado para quem não está inscrito na FAI e sobretudo sem guias físicos.  (Original) Posto magico, molto suggestiva anche la collezione e il modo di includerla nell'arredamento tra moderno e antico. Il parco è molto bello e curato.  Unico neo è il prezzo (15€) secondo me troppo alto per chi non è iscritto al fai e soprattutto senza guide fisiche.",
+      "gradeComment": 4
+    },
+    {
+      "author": "Marco Morosini",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZuco8TycnaYvw3U0jTzHhOh8pEK6xcW0MMmSNXBNMEw=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "(Tradução do Google) Jardim incrivelmente bonito e bem cuidado. Perfeito para passear e relaxar em um lugar quase \"encantado\". 5€ para a entrada no jardim absolutamente justificado dado o local!  (Original) Giardino incredibilmente bello e ben curato. Perfetto per fare due passi e rilassarsi in un luogo quasi “incantato”. 5€ per l’ingresso al giardino assolutamente giustificati visto il posto!",
+      "gradeComment": 5
+    },
+    {
+      "author": "Laura L.",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucplotcnMXfR5_bKSHvbNKG-56OhE2YyOVabhX_M=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "(Tradução do Google) Villa bonita e bastante sóbria que agora abriga uma coleção de arte contemporânea. O jardim é lindo e o estacionamento adjacente é conveniente  (Original) Bella villa, piuttosto sobria che ora ospita una collezione di arte contemporanea. Bello il giardino e comodo l'adiacente parcheggio convenzionato",
+      "gradeComment": 4
+    }
+  ],
+  "peakHours": [
+    {
+      "Sunday": [
+        {
+          "hour": "10:00",
+          "percent": 38
+        },
+        {
+          "hour": "11:00",
+          "percent": 65
+        },
+        {
+          "hour": "12:00",
+          "percent": 74
+        },
+        {
+          "hour": "13:00",
+          "percent": 66
+        },
+        {
+          "hour": "14:00",
+          "percent": 75
+        },
+        {
+          "hour": "15:00",
+          "percent": 98
+        },
+        {
+          "hour": "16:00",
+          "percent": 100
+        },
+        {
+          "hour": "17:00",
+          "percent": 69
+        }
+      ]
+    },
+    {
+      "Monday": []
+    },
+    {
+      "Tuesday": [
+        {
+          "hour": "10:00",
+          "percent": 23
+        },
+        {
+          "hour": "11:00",
+          "percent": 28
+        },
+        {
+          "hour": "12:00",
+          "percent": 30
+        },
+        {
+          "hour": "13:00",
+          "percent": 31
+        },
+        {
+          "hour": "14:00",
+          "percent": 31
+        },
+        {
+          "hour": "15:00",
+          "percent": 28
+        },
+        {
+          "hour": "16:00",
+          "percent": 24
+        },
+        {
+          "hour": "17:00",
+          "percent": 18
+        }
+      ]
+    },
+    {
+      "Wednesday": [
+        {
+          "hour": "10:00",
+          "percent": 30
+        },
+        {
+          "hour": "11:00",
+          "percent": 36
+        },
+        {
+          "hour": "12:00",
+          "percent": 37
+        },
+        {
+          "hour": "13:00",
+          "percent": 33
+        },
+        {
+          "hour": "14:00",
+          "percent": 28
+        },
+        {
+          "hour": "15:00",
+          "percent": 23
+        },
+        {
+          "hour": "16:00",
+          "percent": 20
+        },
+        {
+          "hour": "17:00",
+          "percent": 18
+        }
+      ]
+    },
+    {
+      "Thursday": [
+        {
+          "hour": "10:00",
+          "percent": 23
+        },
+        {
+          "hour": "11:00",
+          "percent": 29
+        },
+        {
+          "hour": "12:00",
+          "percent": 33
+        },
+        {
+          "hour": "13:00",
+          "percent": 34
+        },
+        {
+          "hour": "14:00",
+          "percent": 33
+        },
+        {
+          "hour": "15:00",
+          "percent": 29
+        },
+        {
+          "hour": "16:00",
+          "percent": 24
+        },
+        {
+          "hour": "17:00",
+          "percent": 19
+        }
+      ]
+    },
+    {
+      "Friday": [
+        {
+          "hour": "10:00",
+          "percent": 28
+        },
+        {
+          "hour": "11:00",
+          "percent": 36
+        },
+        {
+          "hour": "12:00",
+          "percent": 39
+        },
+        {
+          "hour": "13:00",
+          "percent": 39
+        },
+        {
+          "hour": "14:00",
+          "percent": 37
+        },
+        {
+          "hour": "15:00",
+          "percent": 33
+        },
+        {
+          "hour": "16:00",
+          "percent": 25
+        },
+        {
+          "hour": "17:00",
+          "percent": 17
+        }
+      ]
+    },
+    {
+      "Saturday": [
+        {
+          "hour": "10:00",
+          "percent": 36
+        },
+        {
+          "hour": "11:00",
+          "percent": 51
+        },
+        {
+          "hour": "12:00",
+          "percent": 56
+        },
+        {
+          "hour": "13:00",
+          "percent": 52
+        },
+        {
+          "hour": "14:00",
+          "percent": 54
+        },
+        {
+          "hour": "15:00",
+          "percent": 64
+        },
+        {
+          "hour": "16:00",
+          "percent": 70
+        },
+        {
+          "hour": "17:00",
+          "percent": 58
+        }
+      ]
+    }
+  ],
+  "relatedSearches": [
+    "villa panza mostre",
+    "mostra villa panza",
+    "villa panza biglietti",
+    "villa panza ristorante",
+    "ristorante luce villa panza",
+    "villa panza immagini",
+    "villa panza mostra permanente",
+    "villa panza varese immagini",
+    "villa panza mostre",
+    "mostra villa panza",
+    "villa panza biglietti",
+    "villa panza ristorante",
+    "ristorante luce villa panza",
+    "villa panza immagini",
+    "villa panza mostra permanente",
+    "villa panza varese immagini"
+  ],
+  "relateds": []
+}

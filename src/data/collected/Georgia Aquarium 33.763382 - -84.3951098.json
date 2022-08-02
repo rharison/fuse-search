@@ -1,0 +1,735 @@
+{
+  "mainName": "Georgia Aquarium",
+  "slug": "georgia-aquarium",
+  "category": "Aquário",
+  "locationInformation": {
+    "latitude": "33.763382",
+    "longitude": "-84.3951098"
+  },
+  "basicInformation": [
+    {
+      "label": "endereço",
+      "tooltip": "Copiar endereço",
+      "text": "225 Baker St NW, Atlanta, GA 30313, Estados Unidos",
+      "icon": "https://www.gstatic.com/images/icons/material/system_gm/1x/place_gm_blue_24dp.png"
+    },
+    {
+      "label": "locatedin",
+      "text": "Andar: 1 · Pemberton Place",
+      "icon": "https://www.google.com/images/cleardot.gif"
+    },
+    {
+      "label": "website",
+      "tooltip": "Abrir website",
+      "text": "georgiaaquarium.org",
+      "icon": "https://www.gstatic.com/images/icons/material/system_gm/1x/public_gm_blue_24dp.png"
+    },
+    {
+      "label": "telefone",
+      "tooltip": "Copiar número de telefone",
+      "text": "+1 404-581-4000",
+      "icon": "https://www.gstatic.com/images/icons/material/system_gm/1x/phone_gm_blue_24dp.png"
+    },
+    {
+      "label": "Code",
+      "tooltip": "Copiar Plus Code",
+      "text": "QJ73+9X Atlanta, Geórgia, EUA",
+      "icon": "https://maps.gstatic.com/mapfiles/maps_lite/images/2x/ic_plus_code.png"
+    }
+  ],
+  "ratingInformation": {
+    "basicRatingInformation": {
+      "averageGrade": 4.6,
+      "totalOfEvaluations": 59024
+    },
+    "ratingsByGrade": [
+      {
+        "grade": 5,
+        "totalRatings": 45289
+      },
+      {
+        "grade": 4,
+        "totalRatings": 9237
+      },
+      {
+        "grade": 3,
+        "totalRatings": 2637
+      },
+      {
+        "grade": 2,
+        "totalRatings": 862
+      },
+      {
+        "grade": 1,
+        "totalRatings": 999
+      }
+    ]
+  },
+  "ratingTags": [
+    {
+      "tag": "tubarão baleia",
+      "count": 2435,
+      "tooltip": "tubarão baleia, mencionado em 2.435 avaliações"
+    },
+    {
+      "tag": "programa",
+      "count": 1299,
+      "tooltip": "programa, mencionado em 1.299 avaliações"
+    },
+    {
+      "tag": "beluga",
+      "count": 799,
+      "tooltip": "beluga, mencionado em 799 avaliações"
+    },
+    {
+      "tag": "edifício-garagem",
+      "count": 144,
+      "tooltip": "edifício-garagem, mencionado em 144 avaliações"
+    },
+    {
+      "tag": "city pass",
+      "count": 107,
+      "tooltip": "city pass, mencionado em 107 avaliações"
+    },
+    {
+      "tag": "filme ",
+      "count": 4102,
+      "tooltip": "filme 4-d, mencionado em 102 avaliações"
+    },
+    {
+      "tag": "coca cola",
+      "count": 68,
+      "tooltip": "coca cola, mencionado em 68 avaliações"
+    }
+  ],
+  "featuredPhotos": [
+    "https://lh5.googleusercontent.com/p/AF1QipMgJJ7zSmzP2OjxDW0BUApYm_nh5lFQMexIyZcp=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOugS5w31fOXbg7KxQyp-V8Khthx6JH2EzMtZsn=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipO4COXdrnouGvSUSph2FKJwfmPkILH-d6Pz1ITl=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOl3EfHKBLE2sCRgpXibbmIG6KIW_YGpZsj7nD1=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPj9EToLRP72FcK8RmF_EAGgVFUNmJUU-q_gxtv=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipP99zrye2mUtxqSAGuMm8qmwh9uQT9ntXv9XtuB=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNBbkFhMY2ItY-Va9r1qjtTZvApoRmmMthGLdxP=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNJtjWXKl11sf7rdGAiWwd0mY2YfcMSsQ7yhcU=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPAlSkcqxgc3JIK5SCbIsktCC_5eI5FmSADcYPC=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOIKhc_S-Pxj_rNYis0aP9RjbWoQr71c9qn7Po0=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipP5sxyVbE3QexH_5PIPkKv94xdGauMYBIyKQ2ZX=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMFNExdiFstBJdKW62kUAAfoMHiE8ubmLA8t5Lu=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMJk9tiOwufhNhNyl8GgE2ZkRRa4Cmd5nt03p59=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNiYBqxnVu8w93UcdPkWFk5uC-00nzpwyJ1tiON=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMAi_78rLVgqkXYM7H212ja8Bl0q4NYyiTwnN66=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPqzOyqbEr31uh6BrsnVbolaTkeAnToso1jITKW=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNbnIMrvHXJ9aNJ_cCxSWBEw8fXOMWqvDEj5rwv=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMm_mA4cyJiLTF8WCbV7Al6n0qlCkGqbi1m3GE5=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOc9ZxlfY44mCu8D4Iomu1_3WWzkRbrkJSRJH9U=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNABD3FPUhPPKIuIG6GVVt_ba_MTcaH3hYt4lw9=w1024-h576-k-no"
+  ],
+  "topComments": [
+    {
+      "author": "Fernanda Sousa De Oliveira Campos",
+      "photoAuthor": "https://lh3.googleusercontent.com/a/AItbvmkJGsk6X-FPfa75JHXWnlyV7foTyVwaHGQktTP2=w36-h36-p-c0x00000000-rp-mo-br100",
+      "comment": "Lugar maravilhoso para passear em família principalmente para levar as crianças, vale muito a pena a experiência.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Welton Lima",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucoBjA1iMpbGw-BL8uGGPn5eHqe2LQZiSIy5Gyjxbik=w36-h36-p-c0x00000000-rp-mo-ba3-br100",
+      "comment": "Ótimo lugar pra ir com a family",
+      "gradeComment": 5
+    },
+    {
+      "author": "Neusa Vicentini Frazatto",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucoWremBY8qchBRNHRYgPkbmCvBdQFkUovF5ImjTxpM=w36-h36-p-c0x00000000-rp-mo-ba6-br100",
+      "comment": "Maravilhoso! Um lugar inesquecível. Caminhar sem pressa  para admirar as belezas aquáticas é reconfortante. ❤️",
+      "gradeComment": 5
+    },
+    {
+      "author": "Luciana de Sene Bonilha",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucoLShWZ8tcWD7lSBrdVwdJI8_9FslNBR85sp49sng=w36-h36-p-c0x00000000-rp-mo-ba3-br100",
+      "comment": "Você olha as avaliações e imagina um lugar incrível, mas visitei dia 30 de dezembro de 2021 e o lugar estava super lotado. Eles não respeitam as restrições pela pandemia e enfiam gente até não caber mais. Em determinado momento minha filha e eu começamos a passar mal de tanta multidão aglomerada. Filas imensas para ver os peixes. Na parte que você passa por baixo do aquário, com os peixes em cima, a passarela rolante estava quebrada. As pessoas se aglomeravam para ver e a gente não conseguia andar para frente e nem para trás. Sai sem nem ver os golfinhos.",
+      "gradeComment": 3
+    },
+    {
+      "author": "Raphael Vaz",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucqtQQldIi9uSRW5hDccLNUw9yqAS1kV0xsYmhX8l-w=w36-h36-p-c0x00000000-rp-mo-ba6-br100",
+      "comment": "Amei a experiência, mas achei um tanto cara comparado com outros aquários ao redor do mundo. Amo vida marinha e conheço mais de 30 aquários semelhantes a este ao redor do mundo. Esse foi um dos melhores que visitei!",
+      "gradeComment": 4
+    },
+    {
+      "author": "Rodrigo Araujo",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucq4GdplX99AyAvzasBwOg43zH2e8-zp3r863Qwrl-w=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "Muito bonito, muitas variedades de peixes. O que mai me chamou atencao foi os 3 tubarões baleia. Mas não poder filmar nem fotografar os show é algo que é uma falha muito grande na minha opinião.",
+      "gradeComment": 4
+    },
+    {
+      "author": "Debora C",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucp2fE8y4-VSpT5STbxrZSPaxQdioSvwdnAii3qG=w36-h36-p-c0x00000000-rp-mo-ba6-br100",
+      "comment": "Atração imperdível para todas as idades.",
+      "gradeComment": 5
+    },
+    {
+      "author": "sandra carretero",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucqyhwLeM_CVt-EzoPGwCAQX6ZfZ-PZ-SwwNylAAbA=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "Lindo demais vale muito passar por lá, mas compre o ingresso online, pois a diferença é grande quando se compra diretamente no guichê.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Heitor Silva",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucowlwxTv6lMZDcGfHFGESPyAXn7DNVEWmzrHCxf=w36-h36-p-c0x00000000-rp-mo-ba5-br100",
+      "comment": "Em frente ao museu da Coca Cola, no centro de Atlanta. Um verdadeiro investimento. Separação de sessões por climas e países, sessões para tocar em animais, baleias, tibaroes, arraias gigantes e esteiras rolantes que passam dentro dos aquários... Interessante até pra quem não é apreciador do assunto.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Danielle Miranda",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucplvKkEVEUZ5zn3YXt22nxieLAiT7WLJ5LzZ68_SSc=w36-h36-p-c0x00000000-rp-mo-ba2-br100",
+      "comment": "39$ por adulto Tem comida dentro Tem loja de gifts Aquário é fantástico!",
+      "gradeComment": 5
+    },
+    {
+      "author": "Jacqueline Messias",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucq7LNt49L-JKSgZ1OpYRhVXt15cHN8KfTRHcE-JTBw=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "Foi o ponto alto da minha viagem, o lugar é sensacional. Se tiver a oportunidade veja o show dos golfinhos, o lugar é super organizado e bem localizado, em 2 horas e meia vi 2 shows e visitei todas os lugares. Obs:. é preciso ter paciência, pois o principal público é infantil, ou seja, sempre que vai ver algo elas já chegaram primeiro 😁",
+      "gradeComment": 5
+    },
+    {
+      "author": "Camila Benedicto",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucp1hRzcRiCBSdQtl696bV7DrBElu7mKirV5IjvXHA=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "Um dos aquários mais lindos que já visitei! Fiquei impressionada com a variedade animais e a organização do local! Com certeza a atração que nos deixa de queixo caído é o aquário enorme! Dá pra ter a sensação de estar dentro dele! Recomendo a toda família!",
+      "gradeComment": 5
+    },
+    {
+      "author": "Renan Mitio",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucr3TtuzUI1tGX96qgpH-UfX3gp4h7h9k1AEYxfNIEA=w36-h36-p-c0x00000000-rp-mo-ba6-br100",
+      "comment": "Fenomenal. Vale cada centavo com os shows do leão marinho e do golfinho.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Daniela Malvone",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucrzKY71hn0oQoepXJ05CFxDXEpA-dL3rw7WC6jNRZc=w36-h36-p-c0x00000000-rp-mo-ba5-br100",
+      "comment": "Wonderful. O lugar é  lindo. Tem os maiores tubarões. Show de golfinhos. Tudo muito organizado. Separado por sessões, países e espécie de peixes. Vale a pena conhecer. Bem no centro de Atlanta",
+      "gradeComment": 5
+    },
+    {
+      "author": "Abilio José",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucphgV-akZijtd9UL68xNEojq8lv0xH_sfa5fb8Dq8A=w36-h36-p-c0x00000000-rp-mo-ba5-br100",
+      "comment": "Aquário muito legal. Gigantesco, várias espécies de todos os lugares do mundo, e dizem que é o maior de água salgada do mundo.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Lilian Fontes",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucoOiq_qqsHKmTD0BUfMoq1HPYfiCgDsd8NxzzM8raM=w36-h36-p-c0x00000000-rp-mo-ba5-br100",
+      "comment": "O aquário é incrível. Passei um dia maravilhoso, admirando animais que jamais pensei que veria tão de perto.",
+      "gradeComment": 5
+    },
+    {
+      "author": "fabio zafalon",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucqotkVkhMIbXMGR7ep8HB-3sRT3kpHQNos9xuI-EaM=w36-h36-p-c0x00000000-rp-mo-ba6-br100",
+      "comment": "Maravilhoso. Um dos melhores Aquários do mundo.  Vale muito a visita",
+      "gradeComment": 5
+    },
+    {
+      "author": "rubens osorio",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucqKLkGkv0pMgM7vtdUyOoZOSI5nh4LqdVPrZPgQOA=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "Amplo, variado e interessante. Ótimo para crianças e adolescentes.",
+      "gradeComment": 5
+    },
+    {
+      "author": "simone souza",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucoFX1MSlOFGOngPt9eDqRjGw5zoF64Y5iyOdgJU4g=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "Gente, maior aquário do mundo, preciso falar mais alguma coisa? Simplesmente alucinante!",
+      "gradeComment": 5
+    },
+    {
+      "author": "Adimir Souza",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucr4mhTCTWDITT_TK4wzKrtrOEU_UMYwlLfLsbYU9g=w36-h36-p-c0x00000000-rp-mo-br100",
+      "comment": "Tudo muito lindo uma experiência incrível",
+      "gradeComment": 5
+    }
+  ],
+  "peakHours": [
+    {
+      "Sunday": [
+        {
+          "hour": "08:00",
+          "percent": 11
+        },
+        {
+          "hour": "09:00",
+          "percent": 24
+        },
+        {
+          "hour": "10:00",
+          "percent": 44
+        },
+        {
+          "hour": "11:00",
+          "percent": 65
+        },
+        {
+          "hour": "12:00",
+          "percent": 80
+        },
+        {
+          "hour": "13:00",
+          "percent": 86
+        },
+        {
+          "hour": "14:00",
+          "percent": 84
+        },
+        {
+          "hour": "15:00",
+          "percent": 78
+        },
+        {
+          "hour": "16:00",
+          "percent": 68
+        },
+        {
+          "hour": "17:00",
+          "percent": 54
+        },
+        {
+          "hour": "18:00",
+          "percent": 38
+        },
+        {
+          "hour": "19:00",
+          "percent": 23
+        },
+        {
+          "hour": "20:00",
+          "percent": 12
+        }
+      ]
+    },
+    {
+      "Monday": [
+        {
+          "hour": "09:00",
+          "percent": 18
+        },
+        {
+          "hour": "10:00",
+          "percent": 32
+        },
+        {
+          "hour": "11:00",
+          "percent": 47
+        },
+        {
+          "hour": "12:00",
+          "percent": 57
+        },
+        {
+          "hour": "13:00",
+          "percent": 59
+        },
+        {
+          "hour": "14:00",
+          "percent": 56
+        },
+        {
+          "hour": "15:00",
+          "percent": 49
+        },
+        {
+          "hour": "16:00",
+          "percent": 40
+        },
+        {
+          "hour": "17:00",
+          "percent": 31
+        },
+        {
+          "hour": "18:00",
+          "percent": 21
+        },
+        {
+          "hour": "19:00",
+          "percent": 12
+        },
+        {
+          "hour": "20:00",
+          "percent": 6
+        }
+      ]
+    },
+    {
+      "Tuesday": [
+        {
+          "hour": "09:00",
+          "percent": 15
+        },
+        {
+          "hour": "10:00",
+          "percent": 26
+        },
+        {
+          "hour": "11:00",
+          "percent": 37
+        },
+        {
+          "hour": "12:00",
+          "percent": 45
+        },
+        {
+          "hour": "13:00",
+          "percent": 46
+        },
+        {
+          "hour": "14:00",
+          "percent": 43
+        },
+        {
+          "hour": "15:00",
+          "percent": 37
+        },
+        {
+          "hour": "16:00",
+          "percent": 30
+        },
+        {
+          "hour": "17:00",
+          "percent": 23
+        },
+        {
+          "hour": "18:00",
+          "percent": 16
+        },
+        {
+          "hour": "19:00",
+          "percent": 10
+        },
+        {
+          "hour": "20:00",
+          "percent": 5
+        }
+      ]
+    },
+    {
+      "Wednesday": [
+        {
+          "hour": "09:00",
+          "percent": 15
+        },
+        {
+          "hour": "10:00",
+          "percent": 25
+        },
+        {
+          "hour": "11:00",
+          "percent": 36
+        },
+        {
+          "hour": "12:00",
+          "percent": 45
+        },
+        {
+          "hour": "13:00",
+          "percent": 48
+        },
+        {
+          "hour": "14:00",
+          "percent": 46
+        },
+        {
+          "hour": "15:00",
+          "percent": 40
+        },
+        {
+          "hour": "16:00",
+          "percent": 33
+        },
+        {
+          "hour": "17:00",
+          "percent": 27
+        },
+        {
+          "hour": "18:00",
+          "percent": 21
+        },
+        {
+          "hour": "19:00",
+          "percent": 16
+        },
+        {
+          "hour": "20:00",
+          "percent": 11
+        }
+      ]
+    },
+    {
+      "Thursday": [
+        {
+          "hour": "09:00",
+          "percent": 17
+        },
+        {
+          "hour": "10:00",
+          "percent": 30
+        },
+        {
+          "hour": "11:00",
+          "percent": 44
+        },
+        {
+          "hour": "12:00",
+          "percent": 54
+        },
+        {
+          "hour": "13:00",
+          "percent": 56
+        },
+        {
+          "hour": "14:00",
+          "percent": 52
+        },
+        {
+          "hour": "15:00",
+          "percent": 46
+        },
+        {
+          "hour": "16:00",
+          "percent": 39
+        },
+        {
+          "hour": "17:00",
+          "percent": 31
+        },
+        {
+          "hour": "18:00",
+          "percent": 22
+        },
+        {
+          "hour": "19:00",
+          "percent": 14
+        },
+        {
+          "hour": "20:00",
+          "percent": 8
+        }
+      ]
+    },
+    {
+      "Friday": [
+        {
+          "hour": "08:00",
+          "percent": 10
+        },
+        {
+          "hour": "09:00",
+          "percent": 21
+        },
+        {
+          "hour": "10:00",
+          "percent": 37
+        },
+        {
+          "hour": "11:00",
+          "percent": 53
+        },
+        {
+          "hour": "12:00",
+          "percent": 65
+        },
+        {
+          "hour": "13:00",
+          "percent": 69
+        },
+        {
+          "hour": "14:00",
+          "percent": 65
+        },
+        {
+          "hour": "15:00",
+          "percent": 57
+        },
+        {
+          "hour": "16:00",
+          "percent": 48
+        },
+        {
+          "hour": "17:00",
+          "percent": 39
+        },
+        {
+          "hour": "18:00",
+          "percent": 30
+        },
+        {
+          "hour": "19:00",
+          "percent": 21
+        },
+        {
+          "hour": "20:00",
+          "percent": 13
+        }
+      ]
+    },
+    {
+      "Saturday": [
+        {
+          "hour": "08:00",
+          "percent": 14
+        },
+        {
+          "hour": "09:00",
+          "percent": 32
+        },
+        {
+          "hour": "10:00",
+          "percent": 55
+        },
+        {
+          "hour": "11:00",
+          "percent": 79
+        },
+        {
+          "hour": "12:00",
+          "percent": 95
+        },
+        {
+          "hour": "13:00",
+          "percent": 100
+        },
+        {
+          "hour": "14:00",
+          "percent": 98
+        },
+        {
+          "hour": "15:00",
+          "percent": 94
+        },
+        {
+          "hour": "16:00",
+          "percent": 88
+        },
+        {
+          "hour": "17:00",
+          "percent": 76
+        },
+        {
+          "hour": "18:00",
+          "percent": 58
+        },
+        {
+          "hour": "19:00",
+          "percent": 37
+        },
+        {
+          "hour": "20:00",
+          "percent": 20
+        }
+      ]
+    }
+  ],
+  "relatedSearches": [
+    "georgia aquarium webcam",
+    "dubai mall aquarium",
+    "atlanta aquarium tickets",
+    "georgia aquarium instagram",
+    "aquarium estados unidos",
+    "citypass atlanta",
+    "aquarium near me",
+    "aquarium live"
+  ],
+  "relateds": [
+    {
+      "mainName": "World of Coca-Cola",
+      "url": null
+    },
+    {
+      "mainName": "Zoo Atlanta",
+      "url": null
+    },
+    {
+      "mainName": "Six Flags Over Georgia",
+      "url": null
+    },
+    {
+      "mainName": "High Museum of Art",
+      "url": null
+    },
+    {
+      "mainName": "Centennial Olympic Park",
+      "url": null
+    },
+    {
+      "mainName": "Museu de História Natural de Fernbank",
+      "url": null
+    },
+    {
+      "mainName": "Tennessee Aquarium",
+      "url": null
+    },
+    {
+      "mainName": "Chick-fil-A College Football Hall of Fame",
+      "url": null
+    },
+    {
+      "mainName": "Children's Museum of Atlanta",
+      "url": null
+    },
+    {
+      "mainName": "Martin Luther King, Jr., National Historic Site",
+      "url": null
+    },
+    {
+      "mainName": "Six Flags White Water",
+      "url": null
+    },
+    {
+      "mainName": "Jardim Botânico de Atlanta",
+      "url": null
+    },
+    {
+      "mainName": "CNN Center",
+      "url": null
+    },
+    {
+      "mainName": "Pemberton Place",
+      "url": null
+    },
+    {
+      "mainName": "LEGOLAND Discovery Center Atlanta",
+      "url": null
+    },
+    {
+      "mainName": "Riverbanks Zoo & Garden",
+      "url": null
+    },
+    {
+      "mainName": "Birmingham Zoo",
+      "url": null
+    },
+    {
+      "mainName": "Underground Atlanta",
+      "url": null
+    },
+    {
+      "mainName": "Aquário de Shedd",
+      "url": null
+    },
+    {
+      "mainName": "Centro de História de Atlanta",
+      "url": null
+    },
+    {
+      "mainName": "National Center for Civil and Human Rights",
+      "url": null
+    },
+    {
+      "mainName": "Stone Mountain",
+      "url": null
+    },
+    {
+      "mainName": "Center For Puppetry Arts",
+      "url": null
+    },
+    {
+      "mainName": "Monterey Bay Aquarium",
+      "url": null
+    }
+  ]
+}

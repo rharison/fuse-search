@@ -1,0 +1,736 @@
+{
+  "mainName": "Bayside Marketplace",
+  "slug": "bayside-marketplace",
+  "category": "Shopping center",
+  "locationInformation": {
+    "latitude": "25.7784025",
+    "longitude": "-80.1867938"
+  },
+  "basicInformation": [
+    {
+      "label": "endereço",
+      "tooltip": "Copiar endereço",
+      "text": "401 Biscayne Blvd, Miami, FL 33132, Estados Unidos",
+      "icon": "https://www.gstatic.com/images/icons/material/system_gm/1x/place_gm_blue_24dp.png"
+    },
+    {
+      "label": "website",
+      "tooltip": "Abrir website",
+      "text": "baysidemarketplace.com",
+      "icon": "https://www.gstatic.com/images/icons/material/system_gm/1x/public_gm_blue_24dp.png"
+    },
+    {
+      "label": "telefone",
+      "tooltip": "Copiar número de telefone",
+      "text": "+1 305-577-3344",
+      "icon": "https://www.gstatic.com/images/icons/material/system_gm/1x/phone_gm_blue_24dp.png"
+    },
+    {
+      "label": "Code",
+      "tooltip": "Copiar Plus Code",
+      "text": "QRH7+97 Miami, Flórida, EUA",
+      "icon": "https://maps.gstatic.com/mapfiles/maps_lite/images/2x/ic_plus_code.png"
+    },
+    {
+      "label": "send-to-device",
+      "text": "Enviar para smartphone",
+      "icon": "https://maps.gstatic.com/consumer/images/icons/1x/send_to_mobile_alt_gm_blue_24dp.png"
+    }
+  ],
+  "ratingInformation": {
+    "basicRatingInformation": {
+      "averageGrade": 4.5,
+      "totalOfEvaluations": 53842
+    },
+    "ratingsByGrade": [
+      {
+        "grade": 5,
+        "totalRatings": 35237
+      },
+      {
+        "grade": 4,
+        "totalRatings": 12501
+      },
+      {
+        "grade": 3,
+        "totalRatings": 4399
+      },
+      {
+        "grade": 2,
+        "totalRatings": 957
+      },
+      {
+        "grade": 1,
+        "totalRatings": 748
+      }
+    ]
+  },
+  "ratingTags": [
+    {
+      "tag": "estabelecido",
+      "count": 5,
+      "tooltip": "estabelecido, mencionado em 5 avaliações"
+    },
+    {
+      "tag": "navio de cruzeiro",
+      "count": 329,
+      "tooltip": "navio de cruzeiro, mencionado em 329 avaliações"
+    },
+    {
+      "tag": "iate",
+      "count": 147,
+      "tooltip": "iate, mencionado em 147 avaliações"
+    },
+    {
+      "tag": "roda gigante",
+      "count": 142,
+      "tooltip": "roda gigante, mencionado em 142 avaliações"
+    },
+    {
+      "tag": "mojito",
+      "count": 129,
+      "tooltip": "mojito, mencionado em 129 avaliações"
+    },
+    {
+      "tag": "lancha",
+      "count": 127,
+      "tooltip": "lancha, mencionado em 127 avaliações"
+    },
+    {
+      "tag": "bote",
+      "count": 100,
+      "tooltip": "bote, mencionado em 100 avaliações"
+    },
+    {
+      "tag": "mansão",
+      "count": 36,
+      "tooltip": "mansão, mencionado em 36 avaliações"
+    }
+  ],
+  "featuredPhotos": [
+    "https://lh5.googleusercontent.com/p/AF1QipPvXEtltoii3CSK1eLLcrqH4R-BVsDCYuzOQxnD=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipP1NhYq27vfrIC1CokF29QGOcAx2PyxJiE7486K=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipORZaS8YP-O3s7MrCUVlrtQ0dZ91dQEVQrbSa-9=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNDp1tGIHaVrHDhWDDxU-Y7IdCF3DA6ElxuCoxM=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPq4Wc5WRvmkVunLnKTWckCQ3gc-mdQlZImqs8=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPToePnK5YyRgEfKXzqoBgGzKxlVK-WmvCVToT2=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMfwSlnef9fTLvg7_Y15OhKQEpWM__x2TWADesz=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipO6-XqUSvFOJRJWn9TNshCmCHzQ0dI-igDp-rGW=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNRNjm8rpMX-uUQd5LjEjdDDl2R5QRVbDAkJvAE=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMbJbzXT_g9pfFohuTWZcnOxn0hkbN5wiACZxFn=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMtgply9EaQFWFbefEuh4F7mrGyPFGH803arsMu=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMOUt_AaTT9gY0KseLfDo5ozF842gjDz5pKYmnu=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNtWLzsNk4dwxpMW9AbgPBqe82d641vTRiaaWd0=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOCvasnfZ2iSUNUwiTSIfRxB7fM6cPSHId_rchJ=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNFOcd1ZDEx_0olXhVRH2Ne6kG5yq4GDcG8H87E=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNGMzwYJ9SlIaOFwhEOMCbAA8lJwN2WzSbP2JjH=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPWUG02n56u0n5FrdzLN50czi0N0cU2X0X7nvU4=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPkuFVgcrfqYzJTktn18P5aO5HWjhqfSStbUP86=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipON8rwJ8_zvEw76h-YwBjvywM3Ps4Wjp0RapIrO=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipN5uZ8SGCOPqmTn7XuLkj5bZTRa_Q3yC9G8LlFv=w1024-h576-k-no"
+  ],
+  "topComments": [
+    {
+      "author": "Z é",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucqruGozcnYWoNPMf5DICyenVZz9EG1zg6McXKUZ2Q=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "Tem de tudo! Restaurantes com comidas típicas de diversas culturas, brasileira também, claro. Apresentações com música ao vivo. Bares para curtir aquela bebida de sua preferência, dê uma passada no Black Market que ocupa hoje o mesmo local do Hooter's que se encontra agora na Biscayne Blvd (uma loucura!). Vista linda da Baia. Um recanto seguro para te suprir as necessidades. Um Shopping! Não aconselho comprar lá produtos eletrônicos, a não ser que já esteja com os \"piquás\" cheio e não queira ficar batendo pernas para encontrar o que quer, pois são mais caros que na cidade.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Anna Magalhães",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucrrUrMLOnrSi9vrEkZroSP-iMrDK9xgZJyn_fnwGA=w36-h36-p-c0x00000000-rp-mo-ba5-br100",
+      "comment": "O shopping é super agradável, a beira mar, com muita música e restaurantes. As lojas não são de marcas conhecidas e tem um tipo de feira hippie no térreo. O shopping fica meio isolado, sem muita coisa em volta, apenas bons hotéis e o porto de Miami.",
+      "gradeComment": 4
+    },
+    {
+      "author": "Valmirrr Silva",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucrKIwBbG_FCY7o5CsWAT0HKFykqdeg8fsgT4d27RbU=w36-h36-p-c0x00000000-rp-mo-ba5-br100",
+      "comment": "Excelente lugar .limdissimo.boa comida ..ambiente belissimo .indico",
+      "gradeComment": 5
+    },
+    {
+      "author": "Jose Mario Cardoso",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucq7PRb39Gtp2kMBaqMKzfNDmqMZ1tg6Vm4BC8je=w36-h36-p-c0x00000000-rp-mo-ba3-br100",
+      "comment": "Tinha uma boa impressão do mall, mas acredito que a pandemia prejudicou. Muito sujo e restaurntes fechados.",
+      "gradeComment": 3
+    },
+    {
+      "author": "João Carlos Pennachin",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucpOCABsUx7hl3hJ-EIrPrQrWziPB77u47HUeC5C=w36-h36-p-c0x00000000-rp-mo-ba5-br100",
+      "comment": "Ótimo lugar para passear e conhecer mais de Miami Downtown",
+      "gradeComment": 5
+    },
+    {
+      "author": "Leonardo Valente",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucqQfaezKE9oOESViYiUzqoBe_pAstBQPO-_BPl-2w=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "O shopping está largado. Nem a máquina pra pagar estacionamento funciona.",
+      "gradeComment": 3
+    },
+    {
+      "author": "Rod Almeida",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucpRx5VttQrfnNEHetOHGflMr-Ux8oDIe_RgYNGj_kE=w36-h36-p-c0x00000000-rp-mo-ba6-br100",
+      "comment": "Mil lojas para compras. A maioria delas voltada para moda praia, colares, pulseiras e roupas temáticas de Miami. Tem bons restaurantes. Bem movimentado para dançar e ouvir música estilo latina. Bela vista da roda gigante.",
+      "gradeComment": 5
+    },
+    {
+      "author": "BENILSON SANTOS",
+      "photoAuthor": "https://lh3.googleusercontent.com/a/AItbvmmT1SSwHigxnVvS05b9FcIyHENxU5FF42T3eCE5=w36-h36-p-c0x00000000-rp-mo-br100",
+      "comment": "Eu esperava mais opções de compra com bons preços, mas achei caro comparado ao que encontrei no outlet premium em Orlando por exemplo ou em lojas de presentes.",
+      "gradeComment": 3
+    },
+    {
+      "author": "Jefferson Mota",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucp1bfhMal_CA1XLio_10EZd355mTsMIMBnEZUUdwIs=w36-h36-p-c0x00000000-rp-mo-ba7-br100",
+      "comment": "Um bom shopping center a céu aberto",
+      "gradeComment": 4
+    },
+    {
+      "author": "paulo cesar da silva gonçalves",
+      "photoAuthor": "https://lh3.googleusercontent.com/a/AItbvmm3X4MfFC5rMTCscDYpHp2MLXJUHJq3G9GcGHfH=w36-h36-p-c0x00000000-rp-mo-ba3-br100",
+      "comment": "Um espaço agradável onde se encontram bares, restaurantes e serviços de qualidade. Ótimo para passeios e caminhadas em ambientes naturais",
+      "gradeComment": 5
+    },
+    {
+      "author": "Pedro Guimarães",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucq3Bh6NcUGg8S_GN1q8XHeUH2ZuscCfN6jAWSe6cG0=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "Um lugar incrível, muitas lojas pra comprar lembranças de Miami, além de muito restaurante bom. Vale a pena um passeio por lá, e se puder fazer o passeio de barco tambem é bem legal.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Sylvan Bessa",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucrXQemRsR97RMprZF055XBQVqq_Sg_3gW4SPlPXZQ=w36-h36-p-c0x00000000-rp-mo-ba5-br100",
+      "comment": "Um local bonito e cativante. Muitos turistas e moradores locais frequentam esse local. Tem locais para alimentações etc. o estacionamento é pago. Vale a pena dispor de tempo para conhecer todo local. Não deixem de visitar!",
+      "gradeComment": 5
+    },
+    {
+      "author": "Silvio Eduardo Da Silva",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucoKrc-FALP-31wtKxwlEwlK1MXm7apClhw5al8JOEg=w36-h36-p-c0x00000000-rp-mo-ba5-br100",
+      "comment": "O passei de barco é excelente, você tem a oportunidade de conhecer Miami pelo mar, a vista é linda. Ver as casas dos famosos e demais pontos turísticos de Miami é muito bom.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Roseane Barbosa",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZuco558KxuFE1HTeAMDgjHQe0fZKt4ExTPypYczpF5xc=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "O lugar é muito agradável e tem uma vista linda para o mar. Tem estacionamento e muitas lojas para quem quer aproveitar para fazer umas comprinhas. Vale a pena visitar, pois além de tudo isso é possível visitar a América Airline Arena e fazer um passeio pela baía de Biscayne.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Kelly Torres da costa",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucrjq6CUVK13Jb-2ew_3BlM_HQbGF9v54wJiJiZa5SI=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "É um lugar para turista. Tem passeios de barco e várias lojinhas de bugigangas e lembranças. Mas também tem o hard rock, o bubba Gump e outros bares para tomar uns drinks e olhar a baía e os barcos ancorados. Passeio despretensioso.",
+      "gradeComment": 4
+    },
+    {
+      "author": "Adriane Coutinho",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucoxpfpLiRxPbK4cBN__2zFl4Oxi6iyFfW5OCBTCOQ=w36-h36-p-c0x00000000-rp-mo-ba2-br100",
+      "comment": "Local muito animado, com músicas latinas cantadas ao vivo, comidas típicas de vários países. Várias lojinhas charmosas. Recomendo! Adultos e crianças.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Dennison Siqueira",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucqDKHkhq0v-JY6vG1UcZrjK61zhYAPiQzK37fxYBA=w36-h36-p-c0x00000000-rp-mo-ba5-br100",
+      "comment": "Lugar obrigatório para o turismo em Miami, pois de lá saem os passeios de barco e sightseeings de ônibus. O local também é muito bom para fotografar, tem estacionamento em frente por parquímetros, 7 dólares as duas primeiras horas e 3,50 cada hora subsequente. Você tem de estimar a sua permanência pois paga-se antes.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Carla Azario",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucpj_qVOBZqwI5XIrDZTxHQtVMzXp5PSwZ5vuYBmjQ=w36-h36-p-c0x00000000-rp-mo-ba5-br100",
+      "comment": "Lugar lindo com variedade de lojas e produtos! Restaurantes com comidas de diversos lugares e gente bonita e alegre circulando o tempo todo!",
+      "gradeComment": 5
+    },
+    {
+      "author": "Cecilia Paula",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucqBKr2l9MzcjUAAKRpqEYtoZTdh-YxsrOzBhYax=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "Em minha época de voos internacionais, fui muito ao Bayside, bons bares, boas lojas, uma gastronomia diferente. Agora,  totalmente caído 😔. Uma aglomeração, bem diferente de tempos atrás",
+      "gradeComment": 3
+    },
+    {
+      "author": "Paulo Bourguignon",
+      "photoAuthor": "https://lh3.googleusercontent.com/a/AItbvmlMevrxRg8wPJ3gKdayWFyUfo2X2MtRl81wuLR4=w36-h36-p-c0x00000000-rp-mo-ba6-br100",
+      "comment": "Neste pequeno shopping Center pode-se embarcar para um ótimo passeio e águas tranquilas de Miami. Além disto existem boas opções de refeições para diferentes gostos e preços. As lojas tem boas compras de roupas e souvenir de Miami.",
+      "gradeComment": 4
+    }
+  ],
+  "peakHours": [
+    {
+      "Sunday": [
+        {
+          "hour": "11:00",
+          "percent": 42
+        },
+        {
+          "hour": "12:00",
+          "percent": 61
+        },
+        {
+          "hour": "13:00",
+          "percent": 78
+        },
+        {
+          "hour": "14:00",
+          "percent": 90
+        },
+        {
+          "hour": "15:00",
+          "percent": 96
+        },
+        {
+          "hour": "16:00",
+          "percent": 99
+        },
+        {
+          "hour": "17:00",
+          "percent": 100
+        },
+        {
+          "hour": "18:00",
+          "percent": 96
+        },
+        {
+          "hour": "19:00",
+          "percent": 86
+        },
+        {
+          "hour": "20:00",
+          "percent": 71
+        },
+        {
+          "hour": "21:00",
+          "percent": 53
+        },
+        {
+          "hour": "22:00",
+          "percent": 35
+        }
+      ]
+    },
+    {
+      "Monday": [
+        {
+          "hour": "10:00",
+          "percent": 20
+        },
+        {
+          "hour": "11:00",
+          "percent": 30
+        },
+        {
+          "hour": "12:00",
+          "percent": 41
+        },
+        {
+          "hour": "13:00",
+          "percent": 49
+        },
+        {
+          "hour": "14:00",
+          "percent": 53
+        },
+        {
+          "hour": "15:00",
+          "percent": 52
+        },
+        {
+          "hour": "16:00",
+          "percent": 49
+        },
+        {
+          "hour": "17:00",
+          "percent": 46
+        },
+        {
+          "hour": "18:00",
+          "percent": 44
+        },
+        {
+          "hour": "19:00",
+          "percent": 41
+        },
+        {
+          "hour": "20:00",
+          "percent": 35
+        },
+        {
+          "hour": "21:00",
+          "percent": 27
+        }
+      ]
+    },
+    {
+      "Tuesday": [
+        {
+          "hour": "10:00",
+          "percent": 17
+        },
+        {
+          "hour": "11:00",
+          "percent": 26
+        },
+        {
+          "hour": "12:00",
+          "percent": 35
+        },
+        {
+          "hour": "13:00",
+          "percent": 41
+        },
+        {
+          "hour": "14:00",
+          "percent": 45
+        },
+        {
+          "hour": "15:00",
+          "percent": 45
+        },
+        {
+          "hour": "16:00",
+          "percent": 44
+        },
+        {
+          "hour": "17:00",
+          "percent": 42
+        },
+        {
+          "hour": "18:00",
+          "percent": 41
+        },
+        {
+          "hour": "19:00",
+          "percent": 39
+        },
+        {
+          "hour": "20:00",
+          "percent": 35
+        },
+        {
+          "hour": "21:00",
+          "percent": 26
+        }
+      ]
+    },
+    {
+      "Wednesday": [
+        {
+          "hour": "10:00",
+          "percent": 21
+        },
+        {
+          "hour": "11:00",
+          "percent": 29
+        },
+        {
+          "hour": "12:00",
+          "percent": 36
+        },
+        {
+          "hour": "13:00",
+          "percent": 42
+        },
+        {
+          "hour": "14:00",
+          "percent": 47
+        },
+        {
+          "hour": "15:00",
+          "percent": 49
+        },
+        {
+          "hour": "16:00",
+          "percent": 50
+        },
+        {
+          "hour": "17:00",
+          "percent": 48
+        },
+        {
+          "hour": "18:00",
+          "percent": 45
+        },
+        {
+          "hour": "19:00",
+          "percent": 40
+        },
+        {
+          "hour": "20:00",
+          "percent": 34
+        },
+        {
+          "hour": "21:00",
+          "percent": 26
+        }
+      ]
+    },
+    {
+      "Thursday": [
+        {
+          "hour": "10:00",
+          "percent": 20
+        },
+        {
+          "hour": "11:00",
+          "percent": 30
+        },
+        {
+          "hour": "12:00",
+          "percent": 40
+        },
+        {
+          "hour": "13:00",
+          "percent": 48
+        },
+        {
+          "hour": "14:00",
+          "percent": 51
+        },
+        {
+          "hour": "15:00",
+          "percent": 50
+        },
+        {
+          "hour": "16:00",
+          "percent": 47
+        },
+        {
+          "hour": "17:00",
+          "percent": 45
+        },
+        {
+          "hour": "18:00",
+          "percent": 45
+        },
+        {
+          "hour": "19:00",
+          "percent": 44
+        },
+        {
+          "hour": "20:00",
+          "percent": 40
+        },
+        {
+          "hour": "21:00",
+          "percent": 32
+        }
+      ]
+    },
+    {
+      "Friday": [
+        {
+          "hour": "10:00",
+          "percent": 23
+        },
+        {
+          "hour": "11:00",
+          "percent": 33
+        },
+        {
+          "hour": "12:00",
+          "percent": 44
+        },
+        {
+          "hour": "13:00",
+          "percent": 52
+        },
+        {
+          "hour": "14:00",
+          "percent": 57
+        },
+        {
+          "hour": "15:00",
+          "percent": 57
+        },
+        {
+          "hour": "16:00",
+          "percent": 55
+        },
+        {
+          "hour": "17:00",
+          "percent": 53
+        },
+        {
+          "hour": "18:00",
+          "percent": 53
+        },
+        {
+          "hour": "19:00",
+          "percent": 53
+        },
+        {
+          "hour": "20:00",
+          "percent": 52
+        },
+        {
+          "hour": "21:00",
+          "percent": 47
+        },
+        {
+          "hour": "22:00",
+          "percent": 39
+        }
+      ]
+    },
+    {
+      "Saturday": [
+        {
+          "hour": "10:00",
+          "percent": 27
+        },
+        {
+          "hour": "11:00",
+          "percent": 42
+        },
+        {
+          "hour": "12:00",
+          "percent": 57
+        },
+        {
+          "hour": "13:00",
+          "percent": 70
+        },
+        {
+          "hour": "14:00",
+          "percent": 80
+        },
+        {
+          "hour": "15:00",
+          "percent": 84
+        },
+        {
+          "hour": "16:00",
+          "percent": 86
+        },
+        {
+          "hour": "17:00",
+          "percent": 86
+        },
+        {
+          "hour": "18:00",
+          "percent": 86
+        },
+        {
+          "hour": "19:00",
+          "percent": 85
+        },
+        {
+          "hour": "20:00",
+          "percent": 82
+        },
+        {
+          "hour": "21:00",
+          "percent": 75
+        },
+        {
+          "hour": "22:00",
+          "percent": 64
+        }
+      ]
+    }
+  ],
+  "relatedSearches": [
+    "bayside marketplace lojas",
+    "dolphin mall",
+    "onde comer no bayside marketplace",
+    "bayside miami restaurants",
+    "bayside united",
+    "yve hotel miami",
+    "aventura mall",
+    "o que fazer em miami"
+  ],
+  "relateds": [
+    {
+      "mainName": "Bayfront Park",
+      "url": null
+    },
+    {
+      "mainName": "Skyviews Miami Observation Wheel",
+      "url": null
+    },
+    {
+      "mainName": "Jungle Island",
+      "url": null
+    },
+    {
+      "mainName": "Wynwood Walls",
+      "url": null
+    },
+    {
+      "mainName": "Venetian Pool",
+      "url": null
+    },
+    {
+      "mainName": "Villa Vizcaya",
+      "url": null
+    },
+    {
+      "mainName": "Aquário de Miami",
+      "url": null
+    },
+    {
+      "mainName": "Dolphin Mall",
+      "url": null
+    },
+    {
+      "mainName": "AmericanAirlines Arena",
+      "url": null
+    },
+    {
+      "mainName": "Museu de Arte de Miami",
+      "url": null
+    },
+    {
+      "mainName": "Bill Baggs Cape Florida State Park",
+      "url": null
+    },
+    {
+      "mainName": "Fairchild Tropical Botanic Garden",
+      "url": null
+    },
+    {
+      "mainName": "Biscayne Blvd",
+      "url": null
+    },
+    {
+      "mainName": "Lincoln Road",
+      "url": null
+    },
+    {
+      "mainName": "Museu de Ciências Patricia e Phillip Frost",
+      "url": null
+    },
+    {
+      "mainName": "Museu das crianças em Miami",
+      "url": null
+    },
+    {
+      "mainName": "Castelo de Coral",
+      "url": null
+    },
+    {
+      "mainName": "Freedom Tower",
+      "url": null
+    },
+    {
+      "mainName": "Aventura Mall",
+      "url": null
+    },
+    {
+      "mainName": "The Shops at Mary Brickell Village",
+      "url": null
+    },
+    {
+      "mainName": "The Kampong, National Tropical Botanical Garden",
+      "url": null
+    },
+    {
+      "mainName": "The Wharf Miami",
+      "url": null
+    },
+    {
+      "mainName": "Dino Safari Miami: A Walk-Thru Adventure",
+      "url": null
+    },
+    {
+      "mainName": "Holocaust Memorial Miami Beach",
+      "url": null
+    }
+  ]
+}

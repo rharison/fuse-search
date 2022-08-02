@@ -1,0 +1,762 @@
+{
+  "mainName": "Serra das Andorinhas",
+  "slug": "serra-das-andorinhas",
+  "category": "Praia",
+  "locationInformation": {
+    "latitude": "-6.1714672",
+    "longitude": "-48.5680488"
+  },
+  "basicInformation": [
+    {
+      "label": "endereço",
+      "tooltip": "Copiar endereço",
+      "text": "São Geraldo do Araguaia - PA, 68570-000",
+      "icon": "https://www.gstatic.com/images/icons/material/system_gm/1x/place_gm_blue_24dp.png"
+    }
+  ],
+  "ratingInformation": {
+    "basicRatingInformation": {
+      "averageGrade": 4.6,
+      "totalOfEvaluations": 726
+    },
+    "ratingsByGrade": [
+      {
+        "grade": 5,
+        "totalRatings": 565
+      },
+      {
+        "grade": 4,
+        "totalRatings": 102
+      },
+      {
+        "grade": 3,
+        "totalRatings": 33
+      },
+      {
+        "grade": 2,
+        "totalRatings": 8
+      },
+      {
+        "grade": 1,
+        "totalRatings": 18
+      }
+    ]
+  },
+  "ratingTags": [
+    {
+      "tag": "natureza",
+      "count": 47,
+      "tooltip": "natureza, mencionado em 47 avaliações"
+    },
+    {
+      "tag": "cachoeiras",
+      "count": 45,
+      "tooltip": "cachoeiras, mencionado em 45 avaliações"
+    },
+    {
+      "tag": "estrutura",
+      "count": 19,
+      "tooltip": "estrutura, mencionado em 19 avaliações"
+    },
+    {
+      "tag": "perfeito",
+      "count": 17,
+      "tooltip": "perfeito, mencionado em 17 avaliações"
+    },
+    {
+      "tag": "finais de semana",
+      "count": 8,
+      "tooltip": "finais de semana, mencionado em 8 avaliações"
+    },
+    {
+      "tag": "o dia",
+      "count": 7,
+      "tooltip": "o dia, mencionado em 7 avaliações"
+    },
+    {
+      "tag": "taxa",
+      "count": 7,
+      "tooltip": "taxa, mencionado em 7 avaliações"
+    },
+    {
+      "tag": "diversão",
+      "count": 6,
+      "tooltip": "diversão, mencionado em 6 avaliações"
+    },
+    {
+      "tag": "administração",
+      "count": 5,
+      "tooltip": "administração, mencionado em 5 avaliações"
+    },
+    {
+      "tag": "investimento",
+      "count": 5,
+      "tooltip": "investimento, mencionado em 5 avaliações"
+    }
+  ],
+  "featuredPhotos": [
+    "https://lh5.googleusercontent.com/p/AF1QipMZby-Uf987FJ5uuS4ft5pL2Wa6pWQvBE_Huwpl=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNfcpbD8Vjcf-wi0_foUF2mOIvZWRZUIZD1RDsF=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNBdUyrKQHXHOqjtAcgH6hKOuEje52RkSEEAawj=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPQdcIEXGil8-OgvMyfykrZwKXEPV_kDS_4aO19=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNxOg1OPZJDvT5pJqxvveCYo6AeRIEJS-MG991w=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNRkhuWxVE1jzWMMmrIXYaXyeiz2RsBISCy178F=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMIIkmsSe2QA-IbagwSEapGxUpnKCpEh5-Cv0yY=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMT4G9gdYOHrBjMD2CmXbu-NYgQ2MlapcIWLmGE=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPCYuVQBXm5k5TB5FV90dhJEnDHdWMqnZNjwAo_=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNJQekTajgVBHR4DgoaL7ZT39bShQZkKe3GVGwZ=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOGqP-HTWttVJdWuXKxnJ3PsgKRRkW6A9_zclPE=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNzR4braq9w0tTSo8XPlYZTLXQIK4kXahA_XoVq=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOUNBHOaTGombafaMn8mwI8xaAzMUllkSMmRKXE=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNziv3YeSnX46pmMod-P4NYOXhHGZzDs3aWNMFq=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNNe7yoyzjcOe49nLHxAhi72Pfrzr-K_pk1zrJc=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipP7kP7TUsdUhQZd94oA7t64YEL0xAETZgv51kWS=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMBOH6UpsW1rMHJN4gNvccjMwFNWXCAOf-lSaAO=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPu9hXXHd_SXBBqh5jhIANWTaVZs3FPLtWT2ZiT=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipM0Z6i3Nq_wjITeVgZKzHtaL5Q-Z-IBNVdiXJHs=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMiIpkri8EsvcBvnoezkv_dg3ddMfbMnONF0te2=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMgSn8M5QhGocNPEJXobjSsn2pZM76qowSCRoGj=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipN7DxktZ_uYA1Jq9dnntU7qTJfTfEs1ddOeqsu9=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipP8Mh6TP55a50l5vXJct6xlL6qQh1U-saID0Jo2=w1024-h576-k-no"
+  ],
+  "topComments": [
+    {
+      "author": "Gisele Silva",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucq2GASrKtUNaiI6O2rQAmvbpL4256BzKeXkhUxmIUc=w36-h36-p-c0x00000000-rp-mo-ba2-br100",
+      "comment": "Lugar esplêndido 😍 Apaixonada por tudo .. Água limpinha , três cachoeiras vc pode escolher .. Tem restaurante no local e paga a entrada que com certeza compensa !.",
+      "gradeComment": 5
+    },
+    {
+      "author": "A J",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucp8a4stnbwARcV7yv9M6ORaYTZAuvQe8W-Lur66rA=w36-h36-p-c0x00000000-rp-mo-ba3-br100",
+      "comment": "Um lugar belo e receptivo. Sob nova administração, estão sendo realizadas melhorias na estrutura do ambiente. A melhoria mais notável e impactante é a passarela, em construção no momento, que promove uma maior segurança e beleza ao local. Várias lixeiras estão disponíveis no espaço para os banhistas e é importante alertar para a conscientização de todos para preservarem a natureza mantendo a limpeza e evitando a poluição. Vale ressaltar que a entrada está no valor de R$ 30,00 por pessoa adulta (não foi informado o valor para crianças) e este valor é compatível com o local. Outro ponto importante é que não é vendido carvão no local e portanto é necessário que o mesmo seja comprado em outro local. No caso de esquecimento,  o carvão pode ser encontrado em um balneário cerca de 1,5km antes do destino final (serra das andorinhas), basta perguntar para os moradores locais ao longo da estrada de terra. A sacola de carvão é em torno de R$ 10,00 e é importante observar que estes valores foram verificados na data de 29/07/2021. Aos finais de semana o local é lotado de pessoas e para quem gosta de ambientes mais tranquilos, o sugerido é visitar nos dias úteis (quando há poucas pessoas). No momento, estas são minhas contribuições para a comunidade e futuros visitantes. Espero ter ajudado! Atenciosamente, Ayrton José",
+      "gradeComment": 4
+    },
+    {
+      "author": "Allexx Silva",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucpp-an1Xn-w2fwUUbc5UHJJnKAKOIrvf91J9cdy0Q=w36-h36-p-c0x00000000-rp-mo-br100",
+      "comment": "O local é muito bom, a comida é ótima, as cachoeiras são super linda e o preço é acessível um ótimo lugar pra ir com as famílias e amigos",
+      "gradeComment": 5
+    },
+    {
+      "author": "luciana benigno",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucoDqhDEIxONqF5M2kwo-_ppexfpV-we32f7s0v5GzA=w36-h36-p-c0x00000000-rp-mo-ba3-br100",
+      "comment": "Lugar simplesmente maravilhoso, o dia foi muito agradável. Está com uma estrutura bem organizada.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Adeilson Mendes",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucrQiZ_PaVvTsKx4XHNVbHz0p0I5hx0RlhdK21I3Pw=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "Um lugar que é um presente de Deus para nós, natureza exuberante, cachoeiras com águas límpidas, cristalinas e numa temperatura agradabilíssima pra esse verão quente e seco da região onde se encontra essa maravilha de lugar, simplesmente incrível.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Walysson Lima",
+      "photoAuthor": "https://lh3.googleusercontent.com/a/AItbvmnT0FnFn2fg0jraSa2VCDLzxtPyfoGON024aHOb=w36-h36-p-c0x00000000-rp-mo-br100",
+      "comment": "Lugar maravilhoso 🥰 A entrada é 30 reais por pessoa, paga no local msm, de preferência dinheiro em espécie pra facilitar. Tem restaurante no local, vc paga 35 reais e vc recebe um prato e pode comer a vontade (se for um casal que não come muito, dá de comprar um prato só e comer juntinhos 😉) Também se quiser pode levar comida só não pode bebida, da pra assar carne no estacionamento que é uma área de natureza e bem perto da cachoeira ( se quiser economizar com comida) Estradra de Marabá PA até lá ta perfeita.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Rony Midia Play",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucpHuG-qrUPrOMJw5v5Ijo8BKAsfc7FYXmkVOIWXSjo=w36-h36-p-c0x00000000-rp-mo-br100",
+      "comment": "Pra quem ama a natureza, o lugar perfeito é aqui. Aguas Cristalinas e atendimento excelente.",
+      "gradeComment": 5
+    },
+    {
+      "author": "jessica Teixeira",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucrscVtwjEjCYMkO403gUfebA2bvLtEZDyaYqdMMsw=w36-h36-p-c0x00000000-rp-mo-ba3-br100",
+      "comment": "Adoro esse lugar, agora estão cobrando 60 reais por pessoa, seria um preço justo se houvesse mais estrutura. Espero q realmente tenha melhorias pelo preço q estão cobrando.",
+      "gradeComment": 4
+    },
+    {
+      "author": "Rusenrauer Milhomens",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucoSic0gDzQ7GGssYA8F6UFpPQw3qdeRsjnLktBiKNA=w36-h36-p-c0x00000000-rp-mo-br100",
+      "comment": "Lugar maravilhoso. Águas límpidas e na temperatura do corpo humano. Restaurante com boa comida. A galinha caipira estava excelente. Somente os banheiros deixaram a desejar. Os responsáveis pelo local devem deixar os sanitários sempre limpos e os usuários devem sempre pensar que outros também vão usar os banheiros e é saudável contribuir com a limpeza de todo o local, inclusive os vazos sanitários.",
+      "gradeComment": 4
+    },
+    {
+      "author": "Maksom Pereira",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucqZ0YIiaZ-hlHtNXlgFsQ6vGTbddAtwDWcV2J1n=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "Lugar incrível, muito lindo, as três Cachoeiras são muito lindas, água cristalina, local limpo, com cestos para pôr o lixo, espaço para acampar, contando ainda com uma passarela em contrução no momento, o lugar ainda disponibiliza wifi gratuito, restaurante, apesar de achar os valores um pouco caros para quem vai acampar. No momento a entrada esta 30 reais e para acampar mais 30 Vc pode levar bebidas e comidas.",
+      "gradeComment": 4
+    },
+    {
+      "author": "M Santos",
+      "photoAuthor": "https://lh3.googleusercontent.com/a/AItbvmkNJheqGrsBnL95t2iMj-T4K60n1tCApAB3wXWa=w36-h36-p-c0x00000000-rp-mo-ba2-br100",
+      "comment": "Ótimo local porém estão cobrando na entrada, 40 reais por pessoa nesta data (21/07/2022) e segundo o pessoal local não estão permitindo descer para fazer churrasco e nem com cooler, e neste dia que fui não estavam vendendo comida no local, a orientação foi que eu fosse comer na vila mais próxima para depois adentrar no local novamente, um absurdo",
+      "gradeComment": 1
+    },
+    {
+      "author": "Tatiane Carvalho",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucra7ZHkxt2KkaItLJwGIGK9-2P8H45QqtGkJvCg9mA=w36-h36-p-c0x00000000-rp-mo-br100",
+      "comment": "Maravilhosa,  lugar de paz e tranquilidade um paraiso .... surreal",
+      "gradeComment": 5
+    },
+    {
+      "author": "Jean Carlos",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucpJpjlB6aWWcI8K4ApR0n3a4Li_TZTY9XSvsRqr1wU=w36-h36-p-c0x00000000-rp-mo-ba2-br100",
+      "comment": "Lugar muito bom, ficamos acampados 2 dias tranquilo de mais.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Duane Pereira",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucoscJjq0FlhCCnToMvfHk-g49VIftOCtlUCnSV87g=w36-h36-p-c0x00000000-rp-mo-ba3-br100",
+      "comment": "Água geladinha, várias piscinas naturais.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Maria Karoline Moreira Vilarinho",
+      "photoAuthor": "https://lh3.googleusercontent.com/a/AItbvmkeoEpt3MwNJ3rekb0k_viq7x80b_iSXXcmwSta=w36-h36-p-c0x00000000-rp-mo-br100",
+      "comment": "Lugar é simplesmente perfeito paradisíaco,onde você pode contemplar as maravilhas de Deus a obra dele estúpida com uma riqueza de detalhes😍👏👏🙌",
+      "gradeComment": 5
+    },
+    {
+      "author": "Clemerson Lisboa",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucqSXWAbVRgi2lx-gNpK3yd57KvWBSB02XW-egebWw=w36-h36-p-c0x00000000-rp-mo-ba3-br100",
+      "comment": "É um lugar muito lindo, exuberante e encantador. A fauna e a flora são admiráveis, é preciso tomar cuidado para não encontrar com cobras ou escorpiões por lá. Também é bom ter cuidado com as rochas, pois um mínimo deslize pode custar a sua vida. Seja sempre cauteloso e cuidadoso ao visitar o local. É ótimo para tirar fotos e dar uma caminhada, acampar por lá é muito legal e gratificante. O acesso a um bom banheiro público é algo que ainda está em falta, deveriam haver mais investimentos no local sobre esse detalhe. Recomendo, apesar de seus baixos esse com certeza é um lugar que você jamais irá esquecer depois que ir pela primeira vez.",
+      "gradeComment": 4
+    },
+    {
+      "author": "Vérter Guerra",
+      "photoAuthor": "https://lh3.googleusercontent.com/a/AItbvmlLkYoWT67yE1qwMTdaQ78bCt1Bqb1BxB-rCz7n=w36-h36-p-c0x00000000-rp-mo-ba5-br100",
+      "comment": "Otimo local para quem gosta de natureza e cachoeira com facil acesso",
+      "gradeComment": 4
+    },
+    {
+      "author": "Bianca Jost",
+      "photoAuthor": "https://lh3.googleusercontent.com/a/AItbvmkf11Ro2TRzudVOeYPJ0FXXlFCyI_KeBo0xtQI9=w36-h36-p-c0x00000000-rp-mo-ba2-br100",
+      "comment": "Maravilhoso o Lugar, atendimento foi muito bom, notamos que estão em reforma. Mas logo terá à venda comida e bebida.  aguas cristalinas e bem geladinhas, ❤️",
+      "gradeComment": 5
+    },
+    {
+      "author": "Lorena Castro",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucqp3XwnJuUJ5XeqihILkZQ8SjtWgPGQd_Z8yNvMqXU=w36-h36-p-c0x00000000-rp-mo-br100",
+      "comment": "O lugar é fantástico.. No entanto o restaurante deixa a desejar.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Clemerson Lisboa",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucqSXWAbVRgi2lx-gNpK3yd57KvWBSB02XW-egebWw=w36-h36-p-c0x00000000-rp-mo-ba3-br100",
+      "comment": "Um excelente lugar para passar um tempo com a família, os amigos ou curtindo a própria companhia. É um ambiente romântico, super agradável, lindo, exuberante e bem tranquilo. A água é geladinha e bem transparente, tem muitas árvores verdes que cercam o local e dão um tom mais paradisíaco a ele, tem várias cachoeiras mais adiante e há, inclusive, uma trilha envolvendo cavernas como destino. O preço não é alarmante, pelo menos não achei. Tem algunas animais selvagens, tais como cobras e escorpiões peçonhentos, portanto vale lembrar que se deve ter bastante cuidado por onde pisa. Há um banheiro, uma casa que oferece bebidas e uma mesa de sinuca.",
+      "gradeComment": 5
+    }
+  ],
+  "peakHours": [
+    {
+      "Sunday": [
+        {
+          "hour": "07:00",
+          "percent": 5
+        },
+        {
+          "hour": "08:00",
+          "percent": 22
+        },
+        {
+          "hour": "09:00",
+          "percent": 53
+        },
+        {
+          "hour": "10:00",
+          "percent": 88
+        },
+        {
+          "hour": "11:00",
+          "percent": 100
+        },
+        {
+          "hour": "12:00",
+          "percent": 80
+        },
+        {
+          "hour": "13:00",
+          "percent": 54
+        },
+        {
+          "hour": "14:00",
+          "percent": 55
+        },
+        {
+          "hour": "15:00",
+          "percent": 71
+        },
+        {
+          "hour": "16:00",
+          "percent": 52
+        },
+        {
+          "hour": "17:00",
+          "percent": 16
+        },
+        {
+          "hour": "18:00",
+          "percent": 1
+        }
+      ]
+    },
+    {
+      "Monday": [
+        {
+          "hour": "09:00",
+          "percent": 7
+        },
+        {
+          "hour": "10:00",
+          "percent": 20
+        },
+        {
+          "hour": "11:00",
+          "percent": 32
+        },
+        {
+          "hour": "12:00",
+          "percent": 34
+        },
+        {
+          "hour": "13:00",
+          "percent": 36
+        },
+        {
+          "hour": "14:00",
+          "percent": 44
+        },
+        {
+          "hour": "15:00",
+          "percent": 45
+        },
+        {
+          "hour": "16:00",
+          "percent": 33
+        },
+        {
+          "hour": "17:00",
+          "percent": 16
+        },
+        {
+          "hour": "18:00",
+          "percent": 4
+        }
+      ]
+    },
+    {
+      "Tuesday": [
+        {
+          "hour": "10:00",
+          "percent": 1
+        },
+        {
+          "hour": "11:00",
+          "percent": 4
+        },
+        {
+          "hour": "12:00",
+          "percent": 8
+        },
+        {
+          "hour": "13:00",
+          "percent": 10
+        },
+        {
+          "hour": "14:00",
+          "percent": 13
+        },
+        {
+          "hour": "15:00",
+          "percent": 13
+        },
+        {
+          "hour": "16:00",
+          "percent": 10
+        },
+        {
+          "hour": "17:00",
+          "percent": 7
+        },
+        {
+          "hour": "18:00",
+          "percent": 3
+        },
+        {
+          "hour": "19:00",
+          "percent": 1
+        }
+      ]
+    },
+    {
+      "Wednesday": [
+        {
+          "hour": "09:00",
+          "percent": 1
+        },
+        {
+          "hour": "10:00",
+          "percent": 8
+        },
+        {
+          "hour": "11:00",
+          "percent": 17
+        },
+        {
+          "hour": "12:00",
+          "percent": 23
+        },
+        {
+          "hour": "13:00",
+          "percent": 26
+        },
+        {
+          "hour": "14:00",
+          "percent": 29
+        },
+        {
+          "hour": "15:00",
+          "percent": 26
+        },
+        {
+          "hour": "16:00",
+          "percent": 11
+        },
+        {
+          "hour": "17:00",
+          "percent": 1
+        },
+        {
+          "hour": "20:00",
+          "percent": 1
+        },
+        {
+          "hour": "21:00",
+          "percent": 1
+        },
+        {
+          "hour": "22:00",
+          "percent": 2
+        },
+        {
+          "hour": "23:00",
+          "percent": 2
+        },
+        {
+          "hour": "00:00",
+          "percent": 1
+        },
+        {
+          "hour": "01:00",
+          "percent": 1
+        }
+      ]
+    },
+    {
+      "Thursday": [
+        {
+          "hour": "04:00",
+          "percent": 1
+        },
+        {
+          "hour": "07:00",
+          "percent": 2
+        },
+        {
+          "hour": "08:00",
+          "percent": 4
+        },
+        {
+          "hour": "09:00",
+          "percent": 9
+        },
+        {
+          "hour": "10:00",
+          "percent": 11
+        },
+        {
+          "hour": "11:00",
+          "percent": 14
+        },
+        {
+          "hour": "12:00",
+          "percent": 19
+        },
+        {
+          "hour": "13:00",
+          "percent": 23
+        },
+        {
+          "hour": "14:00",
+          "percent": 26
+        },
+        {
+          "hour": "15:00",
+          "percent": 21
+        },
+        {
+          "hour": "16:00",
+          "percent": 13
+        },
+        {
+          "hour": "17:00",
+          "percent": 4
+        },
+        {
+          "hour": "22:00",
+          "percent": 1
+        },
+        {
+          "hour": "23:00",
+          "percent": 3
+        },
+        {
+          "hour": "00:00",
+          "percent": 4
+        },
+        {
+          "hour": "01:00",
+          "percent": 4
+        },
+        {
+          "hour": "02:00",
+          "percent": 3
+        },
+        {
+          "hour": "03:00",
+          "percent": 2
+        }
+      ]
+    },
+    {
+      "Friday": [
+        {
+          "hour": "04:00",
+          "percent": 3
+        },
+        {
+          "hour": "05:00",
+          "percent": 3
+        },
+        {
+          "hour": "06:00",
+          "percent": 4
+        },
+        {
+          "hour": "07:00",
+          "percent": 5
+        },
+        {
+          "hour": "08:00",
+          "percent": 9
+        },
+        {
+          "hour": "09:00",
+          "percent": 11
+        },
+        {
+          "hour": "10:00",
+          "percent": 15
+        },
+        {
+          "hour": "11:00",
+          "percent": 16
+        },
+        {
+          "hour": "12:00",
+          "percent": 17
+        },
+        {
+          "hour": "13:00",
+          "percent": 20
+        },
+        {
+          "hour": "14:00",
+          "percent": 21
+        },
+        {
+          "hour": "15:00",
+          "percent": 20
+        },
+        {
+          "hour": "16:00",
+          "percent": 14
+        },
+        {
+          "hour": "17:00",
+          "percent": 9
+        },
+        {
+          "hour": "18:00",
+          "percent": 5
+        },
+        {
+          "hour": "19:00",
+          "percent": 3
+        },
+        {
+          "hour": "20:00",
+          "percent": 3
+        },
+        {
+          "hour": "21:00",
+          "percent": 3
+        },
+        {
+          "hour": "22:00",
+          "percent": 3
+        },
+        {
+          "hour": "23:00",
+          "percent": 3
+        },
+        {
+          "hour": "00:00",
+          "percent": 3
+        },
+        {
+          "hour": "01:00",
+          "percent": 3
+        },
+        {
+          "hour": "02:00",
+          "percent": 3
+        },
+        {
+          "hour": "03:00",
+          "percent": 3
+        }
+      ]
+    },
+    {
+      "Saturday": [
+        {
+          "hour": "04:00",
+          "percent": 3
+        },
+        {
+          "hour": "05:00",
+          "percent": 5
+        },
+        {
+          "hour": "06:00",
+          "percent": 9
+        },
+        {
+          "hour": "07:00",
+          "percent": 17
+        },
+        {
+          "hour": "08:00",
+          "percent": 28
+        },
+        {
+          "hour": "09:00",
+          "percent": 41
+        },
+        {
+          "hour": "10:00",
+          "percent": 53
+        },
+        {
+          "hour": "11:00",
+          "percent": 64
+        },
+        {
+          "hour": "12:00",
+          "percent": 72
+        },
+        {
+          "hour": "13:00",
+          "percent": 77
+        },
+        {
+          "hour": "14:00",
+          "percent": 73
+        },
+        {
+          "hour": "15:00",
+          "percent": 64
+        },
+        {
+          "hour": "16:00",
+          "percent": 47
+        },
+        {
+          "hour": "17:00",
+          "percent": 30
+        },
+        {
+          "hour": "18:00",
+          "percent": 17
+        },
+        {
+          "hour": "19:00",
+          "percent": 9
+        },
+        {
+          "hour": "20:00",
+          "percent": 4
+        },
+        {
+          "hour": "21:00",
+          "percent": 3
+        },
+        {
+          "hour": "22:00",
+          "percent": 3
+        },
+        {
+          "hour": "23:00",
+          "percent": 2
+        },
+        {
+          "hour": "00:00",
+          "percent": 2
+        },
+        {
+          "hour": "01:00",
+          "percent": 2
+        },
+        {
+          "hour": "02:00",
+          "percent": 2
+        },
+        {
+          "hour": "03:00",
+          "percent": 3
+        }
+      ]
+    }
+  ],
+  "relatedSearches": null,
+  "relateds": [
+    {
+      "mainName": "Praia do Tucunare",
+      "url": null
+    },
+    {
+      "mainName": "Parque Estadual do Utinga Camillo Vianna",
+      "url": null
+    },
+    {
+      "mainName": "Museu Paraense Emílio Goeldi",
+      "url": null
+    },
+    {
+      "mainName": "Usina Hidrelétrica de Tucuruí",
+      "url": null
+    },
+    {
+      "mainName": "Parque Estadual da Serra do Rola-Moça",
+      "url": null
+    },
+    {
+      "mainName": "Serra dos Carajás",
+      "url": null
+    },
+    {
+      "mainName": "Parque Nacional Serra da Capivara",
+      "url": null
+    },
+    {
+      "mainName": "Parque Nacional dos Lençóis Maranhenses",
+      "url": null
+    }
+  ],
+  "editMode": false
+}

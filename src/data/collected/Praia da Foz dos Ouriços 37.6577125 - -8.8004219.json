@@ -1,0 +1,882 @@
+{
+  "mainName": "Praia da Foz dos Ouriços",
+  "slug": "praia-da-foz-dos-ouricos",
+  "category": "Atração turística",
+  "locationInformation": {
+    "latitude": "37.6577125",
+    "longitude": "-8.8004219"
+  },
+  "basicInformation": [
+    {
+      "label": "endereço",
+      "tooltip": "Copiar endereço",
+      "text": "M55X+3RP, Nascedios, Portugal",
+      "icon": "https://www.gstatic.com/images/icons/material/system_gm/1x/place_gm_blue_24dp.png"
+    },
+    {
+      "label": "website",
+      "tooltip": "Abrir website",
+      "text": "playocean.net",
+      "icon": "https://www.gstatic.com/images/icons/material/system_gm/1x/public_gm_blue_24dp.png"
+    },
+    {
+      "label": "merchant",
+      "text": "Reivindicar esta empresa",
+      "icon": "https://www.gstatic.com/images/icons/material/system_gm/1x/verified_user_gm_blue_24dp.png"
+    }
+  ],
+  "ratingInformation": {
+    "basicRatingInformation": {
+      "averageGrade": 4.5,
+      "totalOfEvaluations": 47
+    },
+    "ratingsByGrade": [
+      {
+        "grade": 5,
+        "totalRatings": 32
+      },
+      {
+        "grade": 4,
+        "totalRatings": 11
+      },
+      {
+        "grade": 3,
+        "totalRatings": 1
+      },
+      {
+        "grade": 2,
+        "totalRatings": 3
+      },
+      {
+        "grade": 1,
+        "totalRatings": 0
+      }
+    ]
+  },
+  "ratingTags": [
+    {
+      "tag": "águas",
+      "count": 4,
+      "tooltip": "águas, mencionado em 4 avaliações"
+    }
+  ],
+  "featuredPhotos": [
+    "https://lh5.googleusercontent.com/p/AF1QipMZF2WyNGfHdDz5sHZlVaKf7mgZccYg2XcrLSih=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOQragccBurGJTOEoqy1Q2H0Vt32wEtVxBFeStM=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipP6svhOumneotWws1bZPne0N9M5-3Tisn6SieZe=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMOyoXRu_qksxv40458LukqRA_MRMyX-XtrgPEO=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipP2DpvJAF_0LJ1IhiQnXadDGtkQLMec4vYW9FEB=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNj7Y-6awYbRwQ6Xz2lSPgR9xBlB8eQ2yaaZvbB=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMgvoBIuXKhq7H3MdZq92Krv_Jomc05YekZmcAZ=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPn_sY-5g6vqzy2qW6NMluSYFf5d7s2migHtN0=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOiZlK0UkdsWpwIOl52Z6HrPVcwGkKaE1hD3Dlh=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipN9U_WjXY6lQg-0Z3haZ4wDtQL9jSIyUonmpim5=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNhuMAe3DyZFhknYnalp5bfCsd2NNd-XTv7KBMZ=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMwc4_FoSAj3Z2e2oxxOThpA9c_yAY6Q5dhXM94=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMNE8bhuuK_BUH9sjGzay64PNpSUQmPETWAw8e6=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOciV7HTm0xYAfVGubwB0qPJW3uGPhoHvb07i1v=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipP6pskm2B-HfejzDH77SKCR5HjgHvjZqQXpCyJm=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMai2505m8avYgKoEY8f30TSrvTCPZRdY3jJkZL=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipN6Md-Vp_2OXnuCbLMcVZ6nlKnlMDGkFYG9CXCG=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMdJlMjHTE2GLmTEq9r8rR38dvvffozEt4kCchB=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOLUK3UmDNq7LOKo01EQpuvF4-kh7siYKGZHKDg=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNGELAJYpTbOw4moU9u_-Tmhmiss8sMGgkhlSGJ=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMu7bLO0Jz9fWMDkrLvaL9a1bKf8FF4066sQfc4=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOLKU4Cc45hPP7BMVNb0d68tisHXSnORW3-v2Bm=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipM0C_jpErtxoVpXDGjHiYLg7EVGXfLuDtz7xKs9=w1024-h576-k-no"
+  ],
+  "topComments": null,
+  "peakHours": [
+    {
+      "Sunday": [
+        {
+          "hour": "04:00",
+          "percent": 5
+        },
+        {
+          "hour": "05:00",
+          "percent": 5
+        },
+        {
+          "hour": "06:00",
+          "percent": 15
+        },
+        {
+          "hour": "07:00",
+          "percent": 26
+        },
+        {
+          "hour": "08:00",
+          "percent": 31
+        },
+        {
+          "hour": "09:00",
+          "percent": 42
+        },
+        {
+          "hour": "10:00",
+          "percent": 52
+        },
+        {
+          "hour": "11:00",
+          "percent": 63
+        },
+        {
+          "hour": "12:00",
+          "percent": 68
+        },
+        {
+          "hour": "13:00",
+          "percent": 84
+        },
+        {
+          "hour": "14:00",
+          "percent": 94
+        },
+        {
+          "hour": "15:00",
+          "percent": 100
+        },
+        {
+          "hour": "16:00",
+          "percent": 89
+        },
+        {
+          "hour": "17:00",
+          "percent": 73
+        },
+        {
+          "hour": "18:00",
+          "percent": 47
+        },
+        {
+          "hour": "19:00",
+          "percent": 21
+        },
+        {
+          "hour": "20:00",
+          "percent": 10
+        },
+        {
+          "hour": "21:00",
+          "percent": 5
+        },
+        {
+          "hour": "22:00",
+          "percent": 5
+        },
+        {
+          "hour": "23:00",
+          "percent": 5
+        },
+        {
+          "hour": "00:00",
+          "percent": 5
+        },
+        {
+          "hour": "01:00",
+          "percent": 5
+        },
+        {
+          "hour": "02:00",
+          "percent": 5
+        },
+        {
+          "hour": "03:00",
+          "percent": 5
+        }
+      ]
+    },
+    {
+      "Monday": [
+        {
+          "hour": "04:00",
+          "percent": 5
+        },
+        {
+          "hour": "05:00",
+          "percent": 5
+        },
+        {
+          "hour": "06:00",
+          "percent": 5
+        },
+        {
+          "hour": "07:00",
+          "percent": 5
+        },
+        {
+          "hour": "08:00",
+          "percent": 15
+        },
+        {
+          "hour": "09:00",
+          "percent": 21
+        },
+        {
+          "hour": "10:00",
+          "percent": 26
+        },
+        {
+          "hour": "11:00",
+          "percent": 31
+        },
+        {
+          "hour": "12:00",
+          "percent": 31
+        },
+        {
+          "hour": "13:00",
+          "percent": 31
+        },
+        {
+          "hour": "14:00",
+          "percent": 26
+        },
+        {
+          "hour": "15:00",
+          "percent": 26
+        },
+        {
+          "hour": "16:00",
+          "percent": 36
+        },
+        {
+          "hour": "17:00",
+          "percent": 47
+        },
+        {
+          "hour": "18:00",
+          "percent": 36
+        },
+        {
+          "hour": "19:00",
+          "percent": 10
+        },
+        {
+          "hour": "20:00",
+          "percent": 5
+        },
+        {
+          "hour": "21:00",
+          "percent": 5
+        },
+        {
+          "hour": "22:00",
+          "percent": 5
+        },
+        {
+          "hour": "23:00",
+          "percent": 5
+        },
+        {
+          "hour": "00:00",
+          "percent": 5
+        },
+        {
+          "hour": "01:00",
+          "percent": 5
+        },
+        {
+          "hour": "02:00",
+          "percent": 5
+        },
+        {
+          "hour": "03:00",
+          "percent": 5
+        }
+      ]
+    },
+    {
+      "Tuesday": [
+        {
+          "hour": "04:00",
+          "percent": 5
+        },
+        {
+          "hour": "05:00",
+          "percent": 5
+        },
+        {
+          "hour": "07:00",
+          "percent": 5
+        },
+        {
+          "hour": "08:00",
+          "percent": 5
+        },
+        {
+          "hour": "09:00",
+          "percent": 10
+        },
+        {
+          "hour": "10:00",
+          "percent": 31
+        },
+        {
+          "hour": "11:00",
+          "percent": 47
+        },
+        {
+          "hour": "12:00",
+          "percent": 52
+        },
+        {
+          "hour": "13:00",
+          "percent": 52
+        },
+        {
+          "hour": "14:00",
+          "percent": 63
+        },
+        {
+          "hour": "15:00",
+          "percent": 84
+        },
+        {
+          "hour": "16:00",
+          "percent": 94
+        },
+        {
+          "hour": "17:00",
+          "percent": 89
+        },
+        {
+          "hour": "18:00",
+          "percent": 68
+        },
+        {
+          "hour": "19:00",
+          "percent": 42
+        },
+        {
+          "hour": "20:00",
+          "percent": 21
+        },
+        {
+          "hour": "21:00",
+          "percent": 10
+        },
+        {
+          "hour": "22:00",
+          "percent": 10
+        },
+        {
+          "hour": "23:00",
+          "percent": 10
+        },
+        {
+          "hour": "00:00",
+          "percent": 15
+        },
+        {
+          "hour": "01:00",
+          "percent": 15
+        },
+        {
+          "hour": "02:00",
+          "percent": 5
+        },
+        {
+          "hour": "03:00",
+          "percent": 5
+        }
+      ]
+    },
+    {
+      "Wednesday": [
+        {
+          "hour": "04:00",
+          "percent": 5
+        },
+        {
+          "hour": "05:00",
+          "percent": 10
+        },
+        {
+          "hour": "06:00",
+          "percent": 15
+        },
+        {
+          "hour": "07:00",
+          "percent": 26
+        },
+        {
+          "hour": "08:00",
+          "percent": 36
+        },
+        {
+          "hour": "09:00",
+          "percent": 42
+        },
+        {
+          "hour": "10:00",
+          "percent": 47
+        },
+        {
+          "hour": "11:00",
+          "percent": 52
+        },
+        {
+          "hour": "12:00",
+          "percent": 52
+        },
+        {
+          "hour": "13:00",
+          "percent": 52
+        },
+        {
+          "hour": "14:00",
+          "percent": 57
+        },
+        {
+          "hour": "15:00",
+          "percent": 63
+        },
+        {
+          "hour": "16:00",
+          "percent": 63
+        },
+        {
+          "hour": "17:00",
+          "percent": 57
+        },
+        {
+          "hour": "18:00",
+          "percent": 42
+        },
+        {
+          "hour": "19:00",
+          "percent": 21
+        },
+        {
+          "hour": "20:00",
+          "percent": 5
+        },
+        {
+          "hour": "21:00",
+          "percent": 5
+        },
+        {
+          "hour": "22:00",
+          "percent": 5
+        },
+        {
+          "hour": "23:00",
+          "percent": 5
+        },
+        {
+          "hour": "00:00",
+          "percent": 5
+        },
+        {
+          "hour": "01:00",
+          "percent": 5
+        },
+        {
+          "hour": "02:00",
+          "percent": 5
+        },
+        {
+          "hour": "03:00",
+          "percent": 5
+        }
+      ]
+    },
+    {
+      "Thursday": [
+        {
+          "hour": "04:00",
+          "percent": 5
+        },
+        {
+          "hour": "05:00",
+          "percent": 5
+        },
+        {
+          "hour": "06:00",
+          "percent": 5
+        },
+        {
+          "hour": "07:00",
+          "percent": 5
+        },
+        {
+          "hour": "08:00",
+          "percent": 5
+        },
+        {
+          "hour": "09:00",
+          "percent": 26
+        },
+        {
+          "hour": "10:00",
+          "percent": 52
+        },
+        {
+          "hour": "11:00",
+          "percent": 63
+        },
+        {
+          "hour": "12:00",
+          "percent": 52
+        },
+        {
+          "hour": "13:00",
+          "percent": 31
+        },
+        {
+          "hour": "14:00",
+          "percent": 21
+        },
+        {
+          "hour": "15:00",
+          "percent": 31
+        },
+        {
+          "hour": "16:00",
+          "percent": 52
+        },
+        {
+          "hour": "17:00",
+          "percent": 63
+        },
+        {
+          "hour": "18:00",
+          "percent": 47
+        },
+        {
+          "hour": "19:00",
+          "percent": 15
+        },
+        {
+          "hour": "20:00",
+          "percent": 5
+        },
+        {
+          "hour": "21:00",
+          "percent": 5
+        },
+        {
+          "hour": "22:00",
+          "percent": 5
+        },
+        {
+          "hour": "23:00",
+          "percent": 5
+        },
+        {
+          "hour": "00:00",
+          "percent": 5
+        },
+        {
+          "hour": "01:00",
+          "percent": 10
+        },
+        {
+          "hour": "02:00",
+          "percent": 10
+        },
+        {
+          "hour": "03:00",
+          "percent": 5
+        }
+      ]
+    },
+    {
+      "Friday": [
+        {
+          "hour": "04:00",
+          "percent": 5
+        },
+        {
+          "hour": "05:00",
+          "percent": 10
+        },
+        {
+          "hour": "06:00",
+          "percent": 15
+        },
+        {
+          "hour": "07:00",
+          "percent": 21
+        },
+        {
+          "hour": "08:00",
+          "percent": 26
+        },
+        {
+          "hour": "09:00",
+          "percent": 26
+        },
+        {
+          "hour": "10:00",
+          "percent": 26
+        },
+        {
+          "hour": "11:00",
+          "percent": 26
+        },
+        {
+          "hour": "12:00",
+          "percent": 21
+        },
+        {
+          "hour": "13:00",
+          "percent": 15
+        },
+        {
+          "hour": "14:00",
+          "percent": 15
+        },
+        {
+          "hour": "15:00",
+          "percent": 10
+        },
+        {
+          "hour": "16:00",
+          "percent": 5
+        },
+        {
+          "hour": "17:00",
+          "percent": 5
+        },
+        {
+          "hour": "18:00",
+          "percent": 5
+        },
+        {
+          "hour": "19:00",
+          "percent": 5
+        },
+        {
+          "hour": "20:00",
+          "percent": 5
+        },
+        {
+          "hour": "21:00",
+          "percent": 5
+        },
+        {
+          "hour": "22:00",
+          "percent": 5
+        },
+        {
+          "hour": "23:00",
+          "percent": 5
+        },
+        {
+          "hour": "00:00",
+          "percent": 5
+        },
+        {
+          "hour": "01:00",
+          "percent": 5
+        },
+        {
+          "hour": "02:00",
+          "percent": 5
+        },
+        {
+          "hour": "03:00",
+          "percent": 5
+        }
+      ]
+    },
+    {
+      "Saturday": [
+        {
+          "hour": "04:00",
+          "percent": 5
+        },
+        {
+          "hour": "05:00",
+          "percent": 5
+        },
+        {
+          "hour": "06:00",
+          "percent": 5
+        },
+        {
+          "hour": "07:00",
+          "percent": 5
+        },
+        {
+          "hour": "08:00",
+          "percent": 21
+        },
+        {
+          "hour": "09:00",
+          "percent": 36
+        },
+        {
+          "hour": "10:00",
+          "percent": 52
+        },
+        {
+          "hour": "11:00",
+          "percent": 52
+        },
+        {
+          "hour": "12:00",
+          "percent": 42
+        },
+        {
+          "hour": "13:00",
+          "percent": 26
+        },
+        {
+          "hour": "14:00",
+          "percent": 21
+        },
+        {
+          "hour": "15:00",
+          "percent": 31
+        },
+        {
+          "hour": "16:00",
+          "percent": 42
+        },
+        {
+          "hour": "17:00",
+          "percent": 42
+        },
+        {
+          "hour": "18:00",
+          "percent": 21
+        },
+        {
+          "hour": "19:00",
+          "percent": 5
+        },
+        {
+          "hour": "20:00",
+          "percent": 5
+        },
+        {
+          "hour": "21:00",
+          "percent": 5
+        },
+        {
+          "hour": "22:00",
+          "percent": 5
+        },
+        {
+          "hour": "23:00",
+          "percent": 5
+        },
+        {
+          "hour": "00:00",
+          "percent": 5
+        },
+        {
+          "hour": "01:00",
+          "percent": 5
+        },
+        {
+          "hour": "02:00",
+          "percent": 5
+        },
+        {
+          "hour": "03:00",
+          "percent": 5
+        }
+      ]
+    }
+  ],
+  "relatedSearches": null,
+  "relateds": [
+    {
+      "mainName": "Praia do Brejo Largo",
+      "url": null
+    },
+    {
+      "mainName": "Praia do Almograve",
+      "url": null
+    },
+    {
+      "mainName": "Praia da Pedra da Bica",
+      "url": null
+    },
+    {
+      "mainName": "Praia de Nossa Senhora",
+      "url": null
+    },
+    {
+      "mainName": "Praia do Cavaleiro",
+      "url": null
+    },
+    {
+      "mainName": "Praia da Franquia",
+      "url": null
+    },
+    {
+      "mainName": "Praia do Tonel",
+      "url": null
+    },
+    {
+      "mainName": "Praia do Farol",
+      "url": null
+    },
+    {
+      "mainName": "Praia do Patacho",
+      "url": null
+    },
+    {
+      "mainName": "Praia dos Aivados",
+      "url": null
+    },
+    {
+      "mainName": "Praia das Furnas",
+      "url": null
+    },
+    {
+      "mainName": "Praia da Azenha do Mar",
+      "url": null
+    },
+    {
+      "mainName": "Praia da Amália",
+      "url": null
+    },
+    {
+      "mainName": "Praia do Carreiro da Fazenda",
+      "url": null
+    },
+    {
+      "mainName": "Praia da Zambujeira do Mar",
+      "url": null
+    },
+    {
+      "mainName": "Praia dos Alteirinhos",
+      "url": null
+    },
+    {
+      "mainName": "Praia do Carvalhal",
+      "url": null
+    },
+    {
+      "mainName": "Cabo Sardão",
+      "url": null
+    },
+    {
+      "mainName": "Forte de São Clemente",
+      "url": null
+    },
+    {
+      "mainName": "Parque Natural do Sudoeste Alentejano e Costa Vicentina",
+      "url": null
+    },
+    {
+      "mainName": "Ilha do Pessegueiro",
+      "url": null
+    },
+    {
+      "mainName": "Praia de São Torpes",
+      "url": null
+    },
+    {
+      "mainName": "Praia do Malhão Norte",
+      "url": null
+    }
+  ]
+}

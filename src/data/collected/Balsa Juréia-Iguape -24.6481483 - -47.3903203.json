@@ -1,0 +1,994 @@
+{
+  "mainName": "Balsa Juréia-Iguape",
+  "slug": "balsa-jureia-iguape",
+  "category": "Serviço de barcas",
+  "locationInformation": {
+    "latitude": "-24.6481483",
+    "longitude": "-47.3903203"
+  },
+  "basicInformation": [
+    {
+      "label": "endereço",
+      "tooltip": "Copiar endereço",
+      "text": "Balsa Estrada da Barra, Iguape - SP, 11920-000",
+      "icon": "https://www.gstatic.com/images/icons/material/system_gm/1x/place_gm_blue_24dp.png"
+    },
+    {
+      "label": "telefone",
+      "tooltip": "Copiar número de telefone",
+      "text": "(13) 3849-1282",
+      "icon": "https://www.gstatic.com/images/icons/material/system_gm/1x/phone_gm_blue_24dp.png"
+    },
+    {
+      "label": "Code",
+      "tooltip": "Copiar Plus Code",
+      "text": "9J25+PV Ilha Comprida, São Paulo",
+      "icon": "https://maps.gstatic.com/mapfiles/maps_lite/images/2x/ic_plus_code.png"
+    },
+    {
+      "label": "merchant",
+      "text": "Reivindicar esta empresa",
+      "icon": "https://www.gstatic.com/images/icons/material/system_gm/1x/verified_user_gm_blue_24dp.png"
+    }
+  ],
+  "ratingInformation": {
+    "basicRatingInformation": {
+      "averageGrade": 4.5,
+      "totalOfEvaluations": 981
+    },
+    "ratingsByGrade": [
+      {
+        "grade": 5,
+        "totalRatings": 655
+      },
+      {
+        "grade": 4,
+        "totalRatings": 190
+      },
+      {
+        "grade": 3,
+        "totalRatings": 84
+      },
+      {
+        "grade": 2,
+        "totalRatings": 23
+      },
+      {
+        "grade": 1,
+        "totalRatings": 29
+      }
+    ]
+  },
+  "ratingTags": [
+    {
+      "tag": "rápido",
+      "count": 39,
+      "tooltip": "rápido, mencionado em 39 avaliações"
+    },
+    {
+      "tag": "educados",
+      "count": 16,
+      "tooltip": "educados, mencionado em 16 avaliações"
+    },
+    {
+      "tag": "seguro",
+      "count": 13,
+      "tooltip": "seguro, mencionado em 13 avaliações"
+    },
+    {
+      "tag": "legal",
+      "count": 13,
+      "tooltip": "legal, mencionado em 13 avaliações"
+    },
+    {
+      "tag": "organizado",
+      "count": 11,
+      "tooltip": "organizado, mencionado em 11 avaliações"
+    },
+    {
+      "tag": "segurança",
+      "count": 10,
+      "tooltip": "segurança, mencionado em 10 avaliações"
+    },
+    {
+      "tag": "feriado",
+      "count": 9,
+      "tooltip": "feriado, mencionado em 9 avaliações"
+    },
+    {
+      "tag": "paisagem",
+      "count": 9,
+      "tooltip": "paisagem, mencionado em 9 avaliações"
+    },
+    {
+      "tag": "eficiente",
+      "count": 8,
+      "tooltip": "eficiente, mencionado em 8 avaliações"
+    },
+    {
+      "tag": "pessoal",
+      "count": 7,
+      "tooltip": "pessoal, mencionado em 7 avaliações"
+    }
+  ],
+  "featuredPhotos": [
+    "https://lh5.googleusercontent.com/p/AF1QipMA0VnRlv_QYeeesp78eUldrJflqEzudyA-BX0i=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOzPqiP81x37JFXYvPT5OO9h50rgEo9ykVdytLM=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOnZReQThKwOfezL7VjgVD7SOaPZwUZ2zw3JYNT=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOGAKEydydeHfSBbF-KM3rKvZUNLbNqhrZotNV0=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNFcv94gz92a9aIprHDSjTTpUL53kfsyeoqtm-T=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPlvcMG1Y52iBJPVRISSxqcfk19-bR84M5CJ4kK=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipO2H1p2Ds41C1NNRIU3tokh7sq9vJSH7pCoWfFB=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNuJgT4cVnCJ0Vp0_svuN_eZ_ANiWlwHSf9681X=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipP92gVdHpCgEoOChJVkWpaA2Tg3Ss2sbml3iiAW=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOSO3zvAweHDYtCVw8fKf0SAovTl-wpk9uQYfzC=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMA_Jg_D3u0FcNFmHE7KBUjz--fYdNQqTG7Rjck=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPq4Oyo6pKu2CSwypTupFiMhvA6B1qrRPizd0Kn=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPKz4kSPAhH-jQzIfQjynPeZar43k0t9Do3FiLX=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOobD4WSkfHK1VrYHJXa-vVlfzYXyJbfOI-mWJM=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipO0mSSn6mv56hYPzSKymCfOvhOcm0i1Ex2Hgv6N=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMIaHkQSF30i1ZaVsfWNO-NYDUap7LQStWj2Ui3=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipO-Ocinq9GsrqbDjAt9_-g5ZnoCeys1gAwR4nFK=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOu80CvFt6grPwQHvuqbPNNSCMLTxv9ZUG94bo6=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPDogW_uiUqeoHAYHevepFUWKkiNDME3jdJFGUK=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipM70ZQbRphR6qUOkRN8K7yxYtS9iqDOKxWztaLk=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOupk4yvkVFehzO2M-n4nlmvCXKaLeFgvKM4d7d=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMVqvIXZp8sxyIV2ELLMw4bv8X1HqqZDub_viv7=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPwjXCHtKiV2vkkkpzKP1Tc9y1RcOMl-eER3c3Y=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNXuDuny-IfTjNxE-3gEN0EuAmAAefsv4VRlJVh=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNy8zXs2gTBxk_iS0--H_3qtqtgfvn8l-DaBQ2h=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPjSLVcf3fXjycE-5rj_iJ0kLr5zVPz5B0wdGye=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOs1UqRO6jqr7JKKxqFw1jbyDRBqK8XqWKjWHoE=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipP8ZG8uh0coPwDHO3pg-Os5M9l6VP4lyCgjUhF6=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMwzjH15FtTZ7oBr0GdYr_FX26msgm_WxxUUdiW=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMzwC6qtT6hqqaY2zL5WzrfPRog6nOhwlxYhUEo=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNeng5bSHWB8ObdtmAh2i9C_NrJ75-HVmmbAg63=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNr5nfo7g-z9AI3TrYepJY7AEKBVAk1DfMaAtEh=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOnC5ESoByyX57eUwAhAge3h-uTLeRSWDE3KwkF=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipN_Nmh7g1eOfIaduYIHRIaOJ741pkse_KcEaP2b=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMF_XAisM6glKKEBv1roDUcdHozMUE99kJ1xO4Y=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPZiACItZ1vb9J6dQUnKEcg9hVIt77MDDLNLV3G=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOHB_jaXD_b134ALkXZOBTLQwGuEJPNl5IK9QZp=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipO6D1E4gU89XajocCXuwhPfl-xae1pjlJxKG-x1=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOYStxVfBVaCQMaxed1obJqpTWm1bVLFP9Yi2UT=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOwvmruQQSfdu7Q8WsdEJ2WRlgMAkBbPrjsCPja=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOoHt3oN733ki-IKI2bJ5UAbeRCH656EJBhuFHT=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMR3OvyrN7vSd1troSjjcM4ssdF6Q8bncn46nW_=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOEtCoUwOEBovoG0CpAcEhDMnxR-Efh7mqX53aB=w1024-h576-k-no"
+  ],
+  "topComments": [
+    {
+      "author": "maria cristina marques",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucpwY52UAoa5AvDHWd0U8SGsKaZ_sXK1_NOBXHjOkg=w36-h36-p-c0x00000000-rp-mo-ba3-br100",
+      "comment": "Local rústico mas muito agradável! Precisa ser preservado!",
+      "gradeComment": 5
+    },
+    {
+      "author": "Elisangela",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucqFT06So47pa4JPw6USvyd-9lshpXCwbYajiiIrGWo=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "Lugar bonito, com clima aconchegante, calmo, bem família.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Alan Juliani",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucrapMF29jkHb1bD52IwaegOM2Py8kG3znobrUjI2fU=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "Serviço sempre pontual. Das vezes que usei, nunca tive problemas.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Elizangela Franco",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucoFG1SvZbp2FKAQ5Nwi-o7Nl-t9KgilXC_q6gKR_Q=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "Adorei , voltarei logo mais .",
+      "gradeComment": 5
+    },
+    {
+      "author": "jose hailton dias",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucrDO-vzRu7QNMpK_hxkdPdpUW0M5CGEoX-cD0BiHbY=w36-h36-p-c0x00000000-rp-mo-br100",
+      "comment": "Eu gosto muito desta praia,sempre que posso eu estou lá!!!",
+      "gradeComment": 5
+    },
+    {
+      "author": "Antonio Menino",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucrOQf8mr6l0_BalAmW_89TWGM8GbHh86IrK1sT-hg=w36-h36-p-c0x00000000-rp-mo-br100",
+      "comment": "Adoro esse lugar, sempre que tenho oportunidade vou com minha família. Lugar ideal pra quem realmente quer descansar e curtir uma praia sem tumulto",
+      "gradeComment": 5
+    },
+    {
+      "author": "Max Griot Contatos",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucrPpS002pA4mEYJaa_fUqLzlt8hN9C4qDpBTAdrvFE=w36-h36-p-c0x00000000-rp-mo-ba3-br100",
+      "comment": "Rapidinho, legal gostei, a última vez que fui lá eu tinha uns 6 anos, amei voltar lá",
+      "gradeComment": 5
+    },
+    {
+      "author": "ANTONIO JOSE SANTOS NETO",
+      "photoAuthor": "https://lh3.googleusercontent.com/a/AItbvmlxgaghjzmU3UBusZiVPmANm7iNa7Dx0r1QT8g2=w36-h36-p-c0x00000000-rp-mo-ba5-br100",
+      "comment": "Vc so paga na volta da Jureia, pontuais no horário, funcionários prestativos. So o valor que poderia ser melhor 18.40 reais",
+      "gradeComment": 4
+    },
+    {
+      "author": "Flavia Regina",
+      "photoAuthor": "https://lh3.googleusercontent.com/a/AItbvmnAbF4Zd860WVTGROCPESNOoMLSFTTJUwqhkuRN=w36-h36-p-c0x00000000-rp-mo-br100",
+      "comment": "Gosto muito de ir para Juréia,  é um lugar tranquilo e aconchegante, não tem aglomeração de pessoas na praia. O comércio local é pequeno, e você têm uma variedade de peixes, com um preço justo.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Varnaldo Battaglini",
+      "photoAuthor": "https://lh3.googleusercontent.com/a/AItbvmlIubyHUSicw3QXVJIILvjdLUOdI16-Y8Zb8XP_=w36-h36-p-c0x00000000-rp-mo-ba3-br100",
+      "comment": "Excelente lugar lindo , visão do paraíso.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Leonardo Brunner",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucpW5tjcKytPqjoMvFv1wutLe_in8JzIXhi9OT2SV-c=w36-h36-p-c0x00000000-rp-mo-ba3-br100",
+      "comment": "No dia que usei foi muito, dá um pouco de medo. No anterior não consegui usar, precisa melhorar. Caminhão caiu da balsa, na via deveria ter sinalização que a balsa estava em manutenção.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Cibele Camargo",
+      "photoAuthor": "https://lh3.googleusercontent.com/a/AItbvmk8w5D55b6J7lH1HUzXrOtlJnpJYkmFkNAU770=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "Bem legal, nunca tinha ido, gostei",
+      "gradeComment": 5
+    },
+    {
+      "author": "Cristiano Santos",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucqqeSiJKF5xspqsFZqsXFrPnGisTqZMgP-88BElMLQ=w36-h36-p-c0x00000000-rp-mo-ba5-br100",
+      "comment": "Muita segurança paisagem bonita marinheiro top",
+      "gradeComment": 5
+    },
+    {
+      "author": "CESAR PEREIRA GOMES DA SILVA",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucpzk_Azlzs6LvcxzglbcSMa6KWbe3TJdexiG1CnlKQ=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "Muito top lugar incrível porém tem que pagar pedágio kkk mais vale a pena 😁",
+      "gradeComment": 5
+    },
+    {
+      "author": "Sidney Onarfol",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucrGl69XcgSYb8ugtjwP8uPxZ909TfMH4tvN8Q2C_rA=w36-h36-p-c0x00000000-rp-mo-ba3-br100",
+      "comment": "Para chegar a um paraíso  se faz nescessario  toda segurança e confiança  de uma equipe  da Balsa da Juréia  em  destaque meu amigo \" corintiano \" que num gesto de empatia me auxílio  com malas em plena atrevessia as 22.30  com chuva e vento. Passei 15 dias nesse paraíso \" Jureia\" e me senti como estivesse entre  todos os moradores a palavra Família. Agradeço  especialmente  a toda equipe  da Balsa ⛴",
+      "gradeComment": 5
+    },
+    {
+      "author": "Fernando Antonio Guedes Molina",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucrI9OYgSBk5aCOFi9aUsX1UP6PTABYtD9NzIso7dA=w36-h36-p-c0x00000000-rp-mo-br100",
+      "comment": "Boa experiência. Pessoal treinado e gentil. Valeu.",
+      "gradeComment": 4
+    },
+    {
+      "author": "jailtom nereu",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucqHIt_Lpmt7w6YLbja5AeMmFcINbCwC_pq7r-uqPw=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "Muito bom , amo a Juréia mesmo a balsa estando ruim",
+      "gradeComment": 4
+    },
+    {
+      "author": "Erick",
+      "photoAuthor": "https://lh3.googleusercontent.com/a/AItbvmmN4DDcqv-5cO7i61kbQwBt6j2VNIs3gkXvu9cjgA=w36-h36-p-c0x00000000-rp-mo-ba3-br100",
+      "comment": "Muito boa mas os funcionários acham que tem autoridade necessária para obrigar alguém a usar máscara 🤭",
+      "gradeComment": 5
+    },
+    {
+      "author": "Caroline Aguiar",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucrIZc1Ng8uh8uR5OMvBXbNyupYMYLNBnTy-laDS_7c=w36-h36-p-c0x00000000-rp-mo-ba3-br100",
+      "comment": "18 reais a travessia ida e volta. A praia é realmente linda!! Vale a pena",
+      "gradeComment": 5
+    },
+    {
+      "author": "Marcos Patricio",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucoKRy_DIDW7RX3qsd43cSZAP7CLcm506zWaxEEW=w36-h36-p-c0x00000000-rp-mo-br100",
+      "comment": "Boa.",
+      "gradeComment": 3
+    }
+  ],
+  "peakHours": [
+    {
+      "Sunday": [
+        {
+          "hour": "04:00",
+          "percent": 1
+        },
+        {
+          "hour": "05:00",
+          "percent": 1
+        },
+        {
+          "hour": "06:00",
+          "percent": 1
+        },
+        {
+          "hour": "07:00",
+          "percent": 6
+        },
+        {
+          "hour": "08:00",
+          "percent": 20
+        },
+        {
+          "hour": "09:00",
+          "percent": 35
+        },
+        {
+          "hour": "10:00",
+          "percent": 52
+        },
+        {
+          "hour": "11:00",
+          "percent": 70
+        },
+        {
+          "hour": "12:00",
+          "percent": 86
+        },
+        {
+          "hour": "13:00",
+          "percent": 97
+        },
+        {
+          "hour": "14:00",
+          "percent": 100
+        },
+        {
+          "hour": "15:00",
+          "percent": 93
+        },
+        {
+          "hour": "16:00",
+          "percent": 77
+        },
+        {
+          "hour": "17:00",
+          "percent": 56
+        },
+        {
+          "hour": "19:00",
+          "percent": 13
+        },
+        {
+          "hour": "20:00",
+          "percent": 1
+        },
+        {
+          "hour": "21:00",
+          "percent": 1
+        },
+        {
+          "hour": "22:00",
+          "percent": 1
+        },
+        {
+          "hour": "23:00",
+          "percent": 1
+        },
+        {
+          "hour": "00:00",
+          "percent": 1
+        },
+        {
+          "hour": "01:00",
+          "percent": 1
+        },
+        {
+          "hour": "02:00",
+          "percent": 1
+        },
+        {
+          "hour": "03:00",
+          "percent": 1
+        }
+      ]
+    },
+    {
+      "Monday": [
+        {
+          "hour": "04:00",
+          "percent": 1
+        },
+        {
+          "hour": "05:00",
+          "percent": 1
+        },
+        {
+          "hour": "06:00",
+          "percent": 8
+        },
+        {
+          "hour": "07:00",
+          "percent": 25
+        },
+        {
+          "hour": "08:00",
+          "percent": 41
+        },
+        {
+          "hour": "09:00",
+          "percent": 47
+        },
+        {
+          "hour": "10:00",
+          "percent": 42
+        },
+        {
+          "hour": "11:00",
+          "percent": 30
+        },
+        {
+          "hour": "12:00",
+          "percent": 17
+        },
+        {
+          "hour": "13:00",
+          "percent": 8
+        },
+        {
+          "hour": "14:00",
+          "percent": 4
+        },
+        {
+          "hour": "15:00",
+          "percent": 4
+        },
+        {
+          "hour": "16:00",
+          "percent": 4
+        },
+        {
+          "hour": "17:00",
+          "percent": 2
+        },
+        {
+          "hour": "18:00",
+          "percent": 1
+        },
+        {
+          "hour": "19:00",
+          "percent": 1
+        },
+        {
+          "hour": "20:00",
+          "percent": 1
+        },
+        {
+          "hour": "21:00",
+          "percent": 1
+        },
+        {
+          "hour": "22:00",
+          "percent": 1
+        },
+        {
+          "hour": "23:00",
+          "percent": 1
+        },
+        {
+          "hour": "00:00",
+          "percent": 1
+        },
+        {
+          "hour": "01:00",
+          "percent": 1
+        },
+        {
+          "hour": "02:00",
+          "percent": 1
+        },
+        {
+          "hour": "03:00",
+          "percent": 1
+        }
+      ]
+    },
+    {
+      "Tuesday": [
+        {
+          "hour": "04:00",
+          "percent": 1
+        },
+        {
+          "hour": "05:00",
+          "percent": 1
+        },
+        {
+          "hour": "06:00",
+          "percent": 1
+        },
+        {
+          "hour": "07:00",
+          "percent": 11
+        },
+        {
+          "hour": "08:00",
+          "percent": 25
+        },
+        {
+          "hour": "09:00",
+          "percent": 38
+        },
+        {
+          "hour": "10:00",
+          "percent": 45
+        },
+        {
+          "hour": "11:00",
+          "percent": 47
+        },
+        {
+          "hour": "12:00",
+          "percent": 44
+        },
+        {
+          "hour": "13:00",
+          "percent": 38
+        },
+        {
+          "hour": "14:00",
+          "percent": 30
+        },
+        {
+          "hour": "15:00",
+          "percent": 22
+        },
+        {
+          "hour": "16:00",
+          "percent": 12
+        },
+        {
+          "hour": "17:00",
+          "percent": 2
+        },
+        {
+          "hour": "18:00",
+          "percent": 1
+        },
+        {
+          "hour": "19:00",
+          "percent": 1
+        },
+        {
+          "hour": "20:00",
+          "percent": 1
+        },
+        {
+          "hour": "21:00",
+          "percent": 1
+        },
+        {
+          "hour": "22:00",
+          "percent": 1
+        },
+        {
+          "hour": "23:00",
+          "percent": 1
+        },
+        {
+          "hour": "00:00",
+          "percent": 1
+        },
+        {
+          "hour": "01:00",
+          "percent": 1
+        },
+        {
+          "hour": "02:00",
+          "percent": 1
+        },
+        {
+          "hour": "03:00",
+          "percent": 1
+        }
+      ]
+    },
+    {
+      "Wednesday": [
+        {
+          "hour": "04:00",
+          "percent": 1
+        },
+        {
+          "hour": "05:00",
+          "percent": 1
+        },
+        {
+          "hour": "06:00",
+          "percent": 2
+        },
+        {
+          "hour": "07:00",
+          "percent": 10
+        },
+        {
+          "hour": "08:00",
+          "percent": 19
+        },
+        {
+          "hour": "09:00",
+          "percent": 26
+        },
+        {
+          "hour": "10:00",
+          "percent": 33
+        },
+        {
+          "hour": "11:00",
+          "percent": 38
+        },
+        {
+          "hour": "12:00",
+          "percent": 41
+        },
+        {
+          "hour": "13:00",
+          "percent": 41
+        },
+        {
+          "hour": "14:00",
+          "percent": 39
+        },
+        {
+          "hour": "15:00",
+          "percent": 34
+        },
+        {
+          "hour": "16:00",
+          "percent": 28
+        },
+        {
+          "hour": "17:00",
+          "percent": 22
+        },
+        {
+          "hour": "18:00",
+          "percent": 14
+        },
+        {
+          "hour": "19:00",
+          "percent": 6
+        },
+        {
+          "hour": "20:00",
+          "percent": 1
+        },
+        {
+          "hour": "21:00",
+          "percent": 1
+        },
+        {
+          "hour": "22:00",
+          "percent": 1
+        },
+        {
+          "hour": "23:00",
+          "percent": 1
+        },
+        {
+          "hour": "00:00",
+          "percent": 1
+        },
+        {
+          "hour": "01:00",
+          "percent": 1
+        },
+        {
+          "hour": "02:00",
+          "percent": 1
+        },
+        {
+          "hour": "03:00",
+          "percent": 1
+        }
+      ]
+    },
+    {
+      "Thursday": [
+        {
+          "hour": "04:00",
+          "percent": 1
+        },
+        {
+          "hour": "06:00",
+          "percent": 9
+        },
+        {
+          "hour": "07:00",
+          "percent": 20
+        },
+        {
+          "hour": "08:00",
+          "percent": 32
+        },
+        {
+          "hour": "09:00",
+          "percent": 45
+        },
+        {
+          "hour": "10:00",
+          "percent": 55
+        },
+        {
+          "hour": "11:00",
+          "percent": 61
+        },
+        {
+          "hour": "12:00",
+          "percent": 63
+        },
+        {
+          "hour": "13:00",
+          "percent": 60
+        },
+        {
+          "hour": "14:00",
+          "percent": 54
+        },
+        {
+          "hour": "15:00",
+          "percent": 46
+        },
+        {
+          "hour": "16:00",
+          "percent": 36
+        },
+        {
+          "hour": "17:00",
+          "percent": 27
+        },
+        {
+          "hour": "18:00",
+          "percent": 18
+        },
+        {
+          "hour": "19:00",
+          "percent": 10
+        },
+        {
+          "hour": "20:00",
+          "percent": 1
+        },
+        {
+          "hour": "21:00",
+          "percent": 1
+        },
+        {
+          "hour": "22:00",
+          "percent": 1
+        },
+        {
+          "hour": "23:00",
+          "percent": 1
+        },
+        {
+          "hour": "00:00",
+          "percent": 1
+        },
+        {
+          "hour": "01:00",
+          "percent": 1
+        },
+        {
+          "hour": "02:00",
+          "percent": 1
+        },
+        {
+          "hour": "03:00",
+          "percent": 1
+        }
+      ]
+    },
+    {
+      "Friday": [
+        {
+          "hour": "04:00",
+          "percent": 1
+        },
+        {
+          "hour": "05:00",
+          "percent": 1
+        },
+        {
+          "hour": "06:00",
+          "percent": 1
+        },
+        {
+          "hour": "07:00",
+          "percent": 9
+        },
+        {
+          "hour": "08:00",
+          "percent": 18
+        },
+        {
+          "hour": "09:00",
+          "percent": 26
+        },
+        {
+          "hour": "10:00",
+          "percent": 34
+        },
+        {
+          "hour": "11:00",
+          "percent": 41
+        },
+        {
+          "hour": "12:00",
+          "percent": 47
+        },
+        {
+          "hour": "13:00",
+          "percent": 50
+        },
+        {
+          "hour": "14:00",
+          "percent": 51
+        },
+        {
+          "hour": "15:00",
+          "percent": 50
+        },
+        {
+          "hour": "16:00",
+          "percent": 47
+        },
+        {
+          "hour": "17:00",
+          "percent": 42
+        },
+        {
+          "hour": "18:00",
+          "percent": 35
+        },
+        {
+          "hour": "19:00",
+          "percent": 27
+        },
+        {
+          "hour": "20:00",
+          "percent": 18
+        },
+        {
+          "hour": "21:00",
+          "percent": 10
+        },
+        {
+          "hour": "22:00",
+          "percent": 2
+        },
+        {
+          "hour": "23:00",
+          "percent": 1
+        },
+        {
+          "hour": "00:00",
+          "percent": 1
+        },
+        {
+          "hour": "01:00",
+          "percent": 1
+        },
+        {
+          "hour": "02:00",
+          "percent": 1
+        },
+        {
+          "hour": "03:00",
+          "percent": 1
+        }
+      ]
+    },
+    {
+      "Saturday": [
+        {
+          "hour": "04:00",
+          "percent": 1
+        },
+        {
+          "hour": "05:00",
+          "percent": 1
+        },
+        {
+          "hour": "06:00",
+          "percent": 1
+        },
+        {
+          "hour": "07:00",
+          "percent": 2
+        },
+        {
+          "hour": "08:00",
+          "percent": 18
+        },
+        {
+          "hour": "09:00",
+          "percent": 33
+        },
+        {
+          "hour": "10:00",
+          "percent": 46
+        },
+        {
+          "hour": "11:00",
+          "percent": 52
+        },
+        {
+          "hour": "12:00",
+          "percent": 54
+        },
+        {
+          "hour": "13:00",
+          "percent": 54
+        },
+        {
+          "hour": "14:00",
+          "percent": 57
+        },
+        {
+          "hour": "15:00",
+          "percent": 63
+        },
+        {
+          "hour": "16:00",
+          "percent": 66
+        },
+        {
+          "hour": "17:00",
+          "percent": 62
+        },
+        {
+          "hour": "18:00",
+          "percent": 49
+        },
+        {
+          "hour": "19:00",
+          "percent": 30
+        },
+        {
+          "hour": "20:00",
+          "percent": 12
+        },
+        {
+          "hour": "21:00",
+          "percent": 1
+        },
+        {
+          "hour": "22:00",
+          "percent": 1
+        },
+        {
+          "hour": "23:00",
+          "percent": 1
+        },
+        {
+          "hour": "00:00",
+          "percent": 1
+        },
+        {
+          "hour": "01:00",
+          "percent": 1
+        },
+        {
+          "hour": "02:00",
+          "percent": 1
+        },
+        {
+          "hour": "03:00",
+          "percent": 1
+        }
+      ]
+    }
+  ],
+  "relatedSearches": [
+    "travessia iguape juréia",
+    "balsa de cananéia para ilha do cardoso",
+    "travessia cananéia/ariri",
+    "prioridade balsa ilhabela",
+    "travessia iguape ilha comprida",
+    "balsa guarujá bertioga",
+    "câmera dersa",
+    "quantos carros cabem na balsa de ilhabela",
+    "travessia iguape juréia",
+    "balsa de cananéia para ilha do cardoso",
+    "travessia cananéia/ariri",
+    "prioridade balsa ilhabela",
+    "travessia iguape ilha comprida",
+    "balsa guarujá bertioga",
+    "câmera dersa",
+    "quantos carros cabem na balsa de ilhabela"
+  ],
+  "relateds": []
+}

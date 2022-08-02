@@ -1,0 +1,832 @@
+{
+  "mainName": "Pompei Scavi Villa Dei Misteri",
+  "slug": "pompei-scavi-villa-dei-misteri",
+  "category": "Estação de trem",
+  "locationInformation": {
+    "latitude": "40.748623",
+    "longitude": "14.48125"
+  },
+  "basicInformation": [
+    {
+      "label": "endereço",
+      "tooltip": "Copiar endereço",
+      "text": "80045 Pompeia, Nápoles, Itália",
+      "icon": "https://www.gstatic.com/images/icons/material/system_gm/1x/place_gm_blue_24dp.png"
+    },
+    {
+      "label": "endereço",
+      "tooltip": "Copiar endereço",
+      "text": "80045 Pompei NA",
+      "icon": "https://www.gstatic.com/images/icons/material/system_gm/1x/place_gm_blue_24dp.png"
+    },
+    {
+      "label": "Code",
+      "tooltip": "Copiar Plus Code",
+      "text": "PFXJ+CF Pompeia, Nápoles, Itália",
+      "icon": "https://maps.gstatic.com/mapfiles/maps_lite/images/2x/ic_plus_code.png"
+    }
+  ],
+  "ratingInformation": {
+    "basicRatingInformation": {
+      "averageGrade": 4,
+      "totalOfEvaluations": 368
+    },
+    "ratingsByGrade": [
+      {
+        "grade": 5,
+        "totalRatings": 192
+      },
+      {
+        "grade": 4,
+        "totalRatings": 73
+      },
+      {
+        "grade": 3,
+        "totalRatings": 50
+      },
+      {
+        "grade": 2,
+        "totalRatings": 14
+      },
+      {
+        "grade": 1,
+        "totalRatings": 39
+      }
+    ]
+  },
+  "ratingTags": [
+    {
+      "tag": "ingresso",
+      "count": 31,
+      "tooltip": "ingresso, mencionado em 31 avaliações"
+    },
+    {
+      "tag": "histórias",
+      "count": 18,
+      "tooltip": "histórias, mencionado em 18 avaliações"
+    },
+    {
+      "tag": "turístico",
+      "count": 18,
+      "tooltip": "turístico, mencionado em 18 avaliações"
+    },
+    {
+      "tag": "sítio arqueológico",
+      "count": 17,
+      "tooltip": "sítio arqueológico, mencionado em 17 avaliações"
+    },
+    {
+      "tag": "vida",
+      "count": 9,
+      "tooltip": "vida, mencionado em 9 avaliações"
+    },
+    {
+      "tag": "ônibus",
+      "count": 9,
+      "tooltip": "ônibus, mencionado em 9 avaliações"
+    },
+    {
+      "tag": "experiência",
+      "count": 8,
+      "tooltip": "experiência, mencionado em 8 avaliações"
+    },
+    {
+      "tag": "caminhar",
+      "count": 7,
+      "tooltip": "caminhar, mencionado em 7 avaliações"
+    },
+    {
+      "tag": "assentos",
+      "count": 5,
+      "tooltip": "assentos, mencionado em 5 avaliações"
+    },
+    {
+      "tag": "serviço",
+      "count": 5,
+      "tooltip": "serviço, mencionado em 5 avaliações"
+    }
+  ],
+  "featuredPhotos": [
+    "https://lh5.googleusercontent.com/p/AF1QipOOREthmd4XOOFVI4O-jIJc357pwwVx6UW-hx9B=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPnH5N0h0PkYZFmevWTxBY7Xj5--U8Lhs9cT4WT=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNfChetk4CbMSB0vMslWCToHx7pMQpaLS9J1zAf=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMhpYRiJbZ7gSqr4AqAtFOZBuvljKSyVjNLqx0r=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOkgiq3kn9Gj16DarQ9nT6pqz_fX-EdWMdKwedH=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPWX5TVU4ArTv76EtkKcTseHmvm1oGxr4yx1W9x=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNG-4eK-Gfe5gBkNsJ6MnCEAricXDb19jS7ESFq=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNN4ClGusDqMBtCOV5iJ4oOjti56OJv_Xi52ikz=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipO5eVWVizqe2eDz2-nes6kzsgoDnFmOT1rSEON8=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMwASxsg1z-CU9SVgxhZvv-nWNndB8p4D6TNnAq=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipODGgAJOdVmZogKTyJjwk3PIc_K5cehLZSlVqyS=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOZgW67BJi0FcuS_bM5gckIuD4MmOP9lgv2zXQG=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMYuL0kE4XePv1ymZrWsRkfYZMk4uhxzqzLNvsB=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOFMwhhHP-UgCztYTHgugwbSOX856iPaxJGKCBV=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMrpKaViFYUwDkIz8hsEiK5Xni5trMTT5u0VwFO=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPaheiEyVSBl1i7bem0c6s8XaSsk9q0cFohI-F7=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMcZztxZCfuy4DFtyicQFSFWrgEBL6o6QrVaRqe=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOlKjtGw9pCxO27jDeJT8sApi-60WZoK60OTM6-=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOBHNgIu3DSC6vyiYGAND294MyPLvLlRlutmtyE=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPTL3GJJtUeVb2b-qpxvHmn5Qk3p45O7oxLORr8=w1024-h576-k-no"
+  ],
+  "topComments": [
+    {
+      "author": "Lilian Medeiros",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucojY6pR-MbjpVfImRryS3ZOOqK-SScodQeHncqVPqo=w36-h36-p-c0x00000000-rp-mo-ba5-br100",
+      "comment": "Maravilhoso... É uma grande experiência conhecer um lugar tão cheio de histórias como esse. Um dia só é pouco pra ver tudo, a não ser que se acontente em fazer um breve passeio em modo veloz, do contrário vá peparado para fazer mais de 1 dia. Existe a opção de comprar o bilhete com até 3 visitas. Vale a pena.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Edgar Zoltowski",
+      "photoAuthor": "https://lh3.googleusercontent.com/a/AItbvmkGjSLoNbW9w_GH-O9XmzMBp51saeODFnSlu9Lb=w36-h36-p-c0x00000000-rp-mo-br100",
+      "comment": "Parque lindo. Funcionários muito grossos com as pessoas.",
+      "gradeComment": 1
+    },
+    {
+      "author": "MARIO AUGUSTO COUTO",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucrI2GZG_yWzryvsTxAm0k8KpSwevxDgJ11W2J289A=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "Preparece para andar bastante",
+      "gradeComment": 4
+    },
+    {
+      "author": "Reis Quarteu",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucprBTX3drtvO4b4nF04Um3AJWnR4uheI1V76qm68g=w36-h36-p-c0x00000000-rp-mo-br100",
+      "comment": "Fantástico!",
+      "gradeComment": 5
+    },
+    {
+      "author": "Joanna M.",
+      "photoAuthor": "https://lh3.googleusercontent.com/a/AItbvmn4_7kbw7qb7Sjc243gBr9--lTqK3Ev1BBzwjmK=w36-h36-p-c0x00000000-rp-mo-ba3-br100",
+      "comment": "(Tradução do Google) Um lugar majestoso. Visitar a antiga Pompéia é uma experiência incrível. O prazer é todo meu. Eu recomendo  (Original) Majestatyczne miejsce.  Zwiedzanie starożytnych Pompejów to niesamowite przeżycie.  Jestem zachwycona. Polecam",
+      "gradeComment": 5
+    },
+    {
+      "author": "Samuel Conklin",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucrjH4TRDQX-6270ac5FqvjjBU8Xu2b-34-5CxIOCvI=w36-h36-p-c0x00000000-rp-mo-ba5-br100",
+      "comment": "It’s a very easy to understand station for those of you non-Italian speakers coming to see Pompeii. It’s right next to the ruins so you can walk there. Tickets to here from Naples cost only 2.80 euros.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Frédéric Gonçalves",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucpLIm-cMjJbmpW27pkXabmfJh21nW9z0ahh4BNUJQ=w36-h36-p-c0x00000000-rp-mo-ba6-br100",
+      "comment": "(Tradução do Google) Estação de trem conveniente ao lado do local de Pompeia. Audioguia e bilhete no edifício à direita ao sair no 1º andar. Pegue a linha expressa plis cara, mas mais rápida e com menos problemas de Nápoles garibaldi (sem exibição de trem)  (Original) Gare pratique juste à côté du site de Pompei. Audioguide et billet dans le bâtimt à droite en sortant au 1er étage. Prendre la ligne express plis cher mais plus rapide et moins prise de tête en partant de Naples garibaldi (pas d'afdichage des trains)",
+      "gradeComment": 5
+    },
+    {
+      "author": "Marek Nowicki",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucpEbwWfyKKbBZDaWHPRkfOuEHUrNGRG0mCq0bhj_A=w36-h36-p-c0x00000000-rp-mo-ba6-br100",
+      "comment": "(Tradução do Google) Pompei Scavi-Villa dei Misteri é uma estação ferroviária em Pompeia, Itália, na linha Nápoles-Sorrento do sistema ferroviário suburbano Circumvesuviana. Pompei Scavi é a estação mais próxima das famosas ruínas da antiga cidade romana de Pompeia, com as ruínas do outro lado da rua do prédio da estação principal.  (Original) Pompei Scavi-Villa dei Misteri to stacja kolejowa w Pompejach we Włoszech, na linii Neapol-Sorrento systemu kolei podmiejskiej Circumvesuviana. Pompei Scavi to stacja najbliższa słynnym ruinom starożytnego rzymskiego miasta Pompeje , z ruinami po drugiej stronie ulicy od głównego budynku dworca.",
+      "gradeComment": 5
+    },
+    {
+      "author": "korhael",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucpIE-vMyYYAU5zpAoPJ_HyZ5Y8KllUDPLmbWc-b=w36-h36-p-c0x00000000-rp-mo-ba5-br100",
+      "comment": "(Tradução do Google) A antiga cidade de Pompeia é um lugar a visitar se estiver nas proximidades. O sítio arqueológico é fascinante e leva você de volta ao passado como nenhum livro de história pode descrever. Pode saborear o que era a vida quotidiana, com as ricas vilas, templos, jardins e vinhas de que ainda hoje é produzido o vinho Villa dei Misteri, o anfiteatro que é o mais antigo do mundo.  (Original) L'antica città di Pompei è un luogo da visitare se si trova nelle vicinanze. Il sito archeologico è affascinante e ti riporta nel passato come nessun libro di storia potrà mai descrivere. Si assapora quella che era la vita quotidiana, con le ricche ville, i templi, i giardini e vitigni da cui ancora oggi si produce il vino Villa dei Misteri, l'anfiteatro che è il più antico al mondo.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Gary Varga",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucpkKJDDQnfTWXQ--_PfliKRWHzNVBPZaN5dUl578w=w36-h36-p-c0x00000000-rp-mo-ba5-br100",
+      "comment": "(Tradução do Google) Os ingressos para as escavações vendidos no andar de cima são de uma empresa de turismo privada. Não faço ideia de como são bons, mas também se pode comprar bilhetes para as escavações à entrada (com ou sem tour).  Estação foi mantida bem.  (Original) The tickets for the excavations sold upstairs are by a private tour company. I have no idea how good they are but you can also buy tickets for the excavations at the entrance (with or without a tour).  Station was kept well.",
+      "gradeComment": 4
+    },
+    {
+      "author": "Stefania Bettella",
+      "photoAuthor": "https://lh3.googleusercontent.com/a/AItbvmn5LzM_3FwCVtkXtOMlYU3wLaeqd9mfC9OBfZL4=w36-h36-p-c0x00000000-rp-mo-ba6-br100",
+      "comment": "(Tradução do Google) A cidade de Pompéia, como foi recuperada até agora, demonstra claramente como poderia ter sido a vida há 2000 anos! Tudo foi bem conservado: ruas, colunas, spas, tabernas, vilas, etc. As cores e desenhos nas paredes são únicos em sua clareza. Certamente ser capaz de ver todas as escavações em um dia é impossível! O anfiteatro também é bonito e bem cuidado! Eu definitivamente voltarei!  (Original) La città di Pompei così come è stata finora recuperata dimostra chiaramente come poteva essere la vita 2000 anni fa! Tutto si è ben mantenuto: strade colonne terme, taverne ville, ecc. I colori e i disegni alle pareti sono unici nella loro limpidezza. Sicuramente riuscire a vedere tutti gli scavi in un giorno è impossible! Bellissimo e ben tenuto anche l'anfiteatro! Sicuramente ci tornerò!",
+      "gradeComment": 5
+    },
+    {
+      "author": "Gheorghe Ovidiu Florică",
+      "photoAuthor": "https://lh3.googleusercontent.com/a/AItbvmlRGF1G79wLNj0gc53qKD9YXxd6d2PAtiEo5DGeNQ=w36-h36-p-c0x00000000-rp-mo-ba3-br100",
+      "comment": "(Tradução do Google) A parada não vê a menor manutenção há anos. Ervas daninhas e sujeira em todos os lugares. Não falamos de banheiros. Como um primeiro impacto para os turistas que vêm de todo o mundo para visitar as escavações, é nada menos que embaraçoso. Há alguns bares mas com preços inflacionados para enganar o turista de plantão.  (Original) La fermata non ha visto la minima manutenzione da anni. Erbacce e sporcizia ovunque. Dei bagni non ne parliamo. Come primo impatto per i turisti che vengono da ogni parte del mondo per visitare gli scavi è a dir poco imbarazzante. Ci sono una paio di bar ma con prezzi stragonfiati per fregare il turista di turno.",
+      "gradeComment": 1
+    },
+    {
+      "author": "Peter Cobb",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucraXNh0_AlCANT2A-zF_hetrllf8S0W3jDDAp-2ow=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "(Tradução do Google) Experiência incrível visitando Pompéia. Recomendaria fazer um passeio \"legal\" com um guia local. Dependendo da profundidade de um passeio que você está procurando, será um fator, mas para o turista médio, um passeio de 2 horas será mais do que suficiente e você poderá caminhar pela cidade por conta própria, se quiser. Traga água, traga um chapéu e traga sapatos decentes, o pavimento é irregular. Ao todo, uma experiência maravilhosa e, se você tiver um bom guia, aprenderá e verá muito! Obrigado Daniele!!  (Original) Amazing experience visiting Pompeii.  Would recommend doing a \"legal\" tour with a local guide.  Depending how in depth of a tour you are looking for will be a factor, but for the average tourist a 2 hour tour will be more than enough and then you'll be able to walk the city on your own if you choose.  Bring water, bring a hat, and bring decent shoes, the pavement is uneven.  All in all a wonderful experience and if you have a good guide, you will learn and see a lot!  Thank you Daniele!!",
+      "gradeComment": 5
+    },
+    {
+      "author": "thausa",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucrdG5-PCUKasn4_QIRwKottdhAF7ORmU64lIWrSiA=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "(Tradução do Google) Atenção o trem ou linha 1 está muito muito lotado!! Tentamos em momentos diferentes, estava sempre super cheio. Uma corrida de táxi deste local para Naples Hbf custa cerca de 50 a 70 euros, dependendo de como você age e qual motorista de táxi você pega... Pegamos um táxi para casa por 60 euros porque estava tão lotado quanto os trens na Índia. .. .  (Original) Achtung der Zug oder Linie 1 ist steht's sehr sehr voll !! Übervoll wir haben es zu verschiedenen Zeiten probiert er war immer mega voll . Eine Taxifahrt von diesen Standort nach Neapel Hbf kostet ca. 50 bis 70 Euro je nachdem wie man handelt und welchen Taxifahrer man erwischt... Wir sind mit Taxi für 60 Euro nach Hause da der zu Wiedermails so voll war wie die Züge in Indien ....",
+      "gradeComment": 1
+    },
+    {
+      "author": "Adrian Vasilescu",
+      "photoAuthor": "https://lh3.googleusercontent.com/a/AItbvmmiKCzR3CrfXmyO8lO4CvR6kQMZE8PPbOVIbRIt=w36-h36-p-c0x00000000-rp-mo-br100",
+      "comment": "(Tradução do Google) Impressionante Oásis de Cultura Sem história não existimos  (Original) Impresionant Oaza de cultura Fara istorie nu existam",
+      "gradeComment": 5
+    },
+    {
+      "author": "Darek S.",
+      "photoAuthor": "https://lh3.googleusercontent.com/a/AItbvmnh95b6hJaOauQpiicXMP2fdar0y1ZZMGegsn8U=w36-h36-p-c0x00000000-rp-mo-ba2-br100",
+      "comment": "(Tradução do Google) Estação mais próxima na entrada do Museu Pompéia. A própria estação é o principal ponto logístico de Pompeia. Na estação, você pode comprar um bilhete para o Vesúvio diretamente (se alguém perdeu que você tem que comprar com antecedência e reservar com antecedência). Da estação sai um ônibus direto para Pompéia, bem como ÔNIBUS particulares de empresas que prestam esse serviço. Há muito poucos assentos na própria estação, e considerando quantas pessoas passam por esta estação, isso é um grande menos :( Há uma informação turística e um caixa eletrônico no local se alguém estiver procurando :)  (Original) Najbliższa stacja przy samym wejściu do Muzeum Pompejów. Sama stacja to główny punkt logistyczny z Pompejów. Na stacji można bezpośrednio nabyć (jeśli ktoś przeoczył że trzeba kupować wcześniej i rezerwować wcześniej) bilet na Wezuwiusza. Spod stacji odjeżdża autokar bezpośrednio do Pompejów jak i prywatne BUSy firm, które taką usługę świadczą. Na samej stacji jest bardzo mało miejsc siedzących a biorąc pod uwagę ile osób przetacza się przez tę stację, jest to duży minus:( Na miejscu jest informacja turystyczna i bankomat gdyby ktoś szukał:)",
+      "gradeComment": 4
+    },
+    {
+      "author": "Carl S",
+      "photoAuthor": "https://lh3.googleusercontent.com/a/AItbvmkouH11etsCMQWcUPEHyfUghOiUC0YA8lNO96CO=w36-h36-p-c0x00000000-rp-mo-ba3-br100",
+      "comment": "(Tradução do Google) Use seu cartão sem contato aqui, posso recomendar isso para evitar a fila de ingressos. Para bater na chegada, você precisa ir à bilheteria. Logo à esquerda da bilheteria está o sensor de derivação. Para entrar, para sua viagem de volta, o sensor fica à esquerda da porta que leva da bilheteria aos trilhos do trem. Vai lhe poupar muito tempo.  (Original) Use your contactless card here, I can thoroughly recommend this to avoid the queue for tickets. To tap out on arrival you need to go into the ticket office. Just to the left of the ticket booth is the tapping-out sensor. To tap in, for your return journey, the sensor is to the left of the door that leads from the ticket office to the train tracks. It will save you lots of time.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Tice Terraneo",
+      "photoAuthor": "https://lh3.googleusercontent.com/a/AItbvmnavc4D2Oid_Kgs3zEQLJKhIwHPeTHz7SMYubt3=w36-h36-p-c0x00000000-rp-mo-br100",
+      "comment": "(Tradução do Google) Estação velha e trens superlotados e atrasados. Neste lugar por onde passam milhões de turistas italianos e os estrangeiros vêem o pior do estado de negligência dos equipamentos públicos e do transporte italiano. Um belo cartão de visita, hein? Note que ninguém pode te dizer se existe um ônibus que te leva até o centro da cidade...  (Original) Stazione  vetusta e treni superaffollati e in ritardo. In questo luogo dove passano milioni di turisti italiani e stranieri si vede il peggio dello stato di abbandono in cui versano le strutture pubbliche e i trasporti italiani. Proprio un bel biglietto da visita, eh? Da notare che nessuno sa dirti se esiste un bus che  porta in centro città...",
+      "gradeComment": 1
+    },
+    {
+      "author": "Emmanuel",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucrz2segvePqHgSaVHW3Aio8zJT5KCPmEHi4uRa6s8g=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "(Tradução do Google) Pare para visitar o antigo local de Pompéia. Estação em seu “suco”. Sem portões. Encontramos o caminho para os banheiros pelo cheiro deles!  (Original) Arrêt pour visiter le site antique de Pompéi. Station dans son «jus». Pas de portiques. On trouve le chemin des toilettes à leur parfum !",
+      "gradeComment": 3
+    },
+    {
+      "author": "Veronica Arnone",
+      "photoAuthor": "https://lh3.googleusercontent.com/a/AItbvmlXvkkflZXaNrdB94WDQr_i8H0J7uOAJifBa3Ji=w36-h36-p-c0x00000000-rp-mo-ba5-br100",
+      "comment": "(Tradução do Google) Um pouco mais longe do resto das escavações, mas vale a pena a caminhada. Só isso é plano de história e maravilhas, com uma vista espetacular! Assim que você chega à vila, você é um mistério, é claro que espera quem sabe o quê, mas é uma vila simples e ainda bem preservada que, apesar de estar longe o suficiente no auge da erupção, encontrou os mesmos danos, mas se conservou muito melhor do que a resto do centro. Para visitar absolutamente!  (Original) Un po' più lontana dal resto degli scavi ma vale assolutamente la camminata. Solo quella è piana di storia e di meraviglie, con una vista spettacolare! Non appena di arriva alla villa sei misteri, Certo ti aspetti chissà cosa, Ma si tratta si una semplice villa ancora ben conservata che nonostante si trovasse abbastanza lontano all'apice dell'eruzione, ne ha riscontrato lo stesso i danni conservandosi però molto meglio del resto del centro. Da visitare assolutamente!",
+      "gradeComment": 5
+    }
+  ],
+  "peakHours": [
+    {
+      "Sunday": [
+        {
+          "hour": "05:00",
+          "percent": 1
+        },
+        {
+          "hour": "06:00",
+          "percent": 5
+        },
+        {
+          "hour": "07:00",
+          "percent": 14
+        },
+        {
+          "hour": "08:00",
+          "percent": 35
+        },
+        {
+          "hour": "09:00",
+          "percent": 66
+        },
+        {
+          "hour": "10:00",
+          "percent": 91
+        },
+        {
+          "hour": "11:00",
+          "percent": 100
+        },
+        {
+          "hour": "12:00",
+          "percent": 94
+        },
+        {
+          "hour": "13:00",
+          "percent": 89
+        },
+        {
+          "hour": "14:00",
+          "percent": 87
+        },
+        {
+          "hour": "15:00",
+          "percent": 83
+        },
+        {
+          "hour": "16:00",
+          "percent": 73
+        },
+        {
+          "hour": "17:00",
+          "percent": 58
+        },
+        {
+          "hour": "18:00",
+          "percent": 42
+        },
+        {
+          "hour": "19:00",
+          "percent": 27
+        },
+        {
+          "hour": "20:00",
+          "percent": 17
+        },
+        {
+          "hour": "21:00",
+          "percent": 9
+        },
+        {
+          "hour": "22:00",
+          "percent": 5
+        },
+        {
+          "hour": "23:00",
+          "percent": 2
+        }
+      ]
+    },
+    {
+      "Monday": [
+        {
+          "hour": "06:00",
+          "percent": 4
+        },
+        {
+          "hour": "07:00",
+          "percent": 14
+        },
+        {
+          "hour": "08:00",
+          "percent": 34
+        },
+        {
+          "hour": "09:00",
+          "percent": 60
+        },
+        {
+          "hour": "10:00",
+          "percent": 85
+        },
+        {
+          "hour": "11:00",
+          "percent": 99
+        },
+        {
+          "hour": "12:00",
+          "percent": 100
+        },
+        {
+          "hour": "13:00",
+          "percent": 95
+        },
+        {
+          "hour": "14:00",
+          "percent": 93
+        },
+        {
+          "hour": "15:00",
+          "percent": 91
+        },
+        {
+          "hour": "16:00",
+          "percent": 82
+        },
+        {
+          "hour": "17:00",
+          "percent": 65
+        },
+        {
+          "hour": "18:00",
+          "percent": 45
+        },
+        {
+          "hour": "19:00",
+          "percent": 26
+        },
+        {
+          "hour": "20:00",
+          "percent": 14
+        },
+        {
+          "hour": "21:00",
+          "percent": 7
+        },
+        {
+          "hour": "22:00",
+          "percent": 3
+        },
+        {
+          "hour": "23:00",
+          "percent": 1
+        }
+      ]
+    },
+    {
+      "Tuesday": [
+        {
+          "hour": "05:00",
+          "percent": 2
+        },
+        {
+          "hour": "06:00",
+          "percent": 7
+        },
+        {
+          "hour": "07:00",
+          "percent": 19
+        },
+        {
+          "hour": "08:00",
+          "percent": 40
+        },
+        {
+          "hour": "09:00",
+          "percent": 64
+        },
+        {
+          "hour": "10:00",
+          "percent": 83
+        },
+        {
+          "hour": "11:00",
+          "percent": 91
+        },
+        {
+          "hour": "12:00",
+          "percent": 89
+        },
+        {
+          "hour": "13:00",
+          "percent": 86
+        },
+        {
+          "hour": "14:00",
+          "percent": 85
+        },
+        {
+          "hour": "15:00",
+          "percent": 82
+        },
+        {
+          "hour": "16:00",
+          "percent": 72
+        },
+        {
+          "hour": "17:00",
+          "percent": 54
+        },
+        {
+          "hour": "18:00",
+          "percent": 34
+        },
+        {
+          "hour": "19:00",
+          "percent": 18
+        },
+        {
+          "hour": "20:00",
+          "percent": 9
+        },
+        {
+          "hour": "21:00",
+          "percent": 4
+        },
+        {
+          "hour": "22:00",
+          "percent": 2
+        }
+      ]
+    },
+    {
+      "Wednesday": [
+        {
+          "hour": "05:00",
+          "percent": 1
+        },
+        {
+          "hour": "06:00",
+          "percent": 7
+        },
+        {
+          "hour": "07:00",
+          "percent": 19
+        },
+        {
+          "hour": "08:00",
+          "percent": 41
+        },
+        {
+          "hour": "09:00",
+          "percent": 67
+        },
+        {
+          "hour": "10:00",
+          "percent": 87
+        },
+        {
+          "hour": "11:00",
+          "percent": 96
+        },
+        {
+          "hour": "12:00",
+          "percent": 96
+        },
+        {
+          "hour": "13:00",
+          "percent": 95
+        },
+        {
+          "hour": "14:00",
+          "percent": 95
+        },
+        {
+          "hour": "15:00",
+          "percent": 91
+        },
+        {
+          "hour": "16:00",
+          "percent": 77
+        },
+        {
+          "hour": "17:00",
+          "percent": 56
+        },
+        {
+          "hour": "18:00",
+          "percent": 34
+        },
+        {
+          "hour": "19:00",
+          "percent": 18
+        },
+        {
+          "hour": "20:00",
+          "percent": 9
+        },
+        {
+          "hour": "21:00",
+          "percent": 4
+        },
+        {
+          "hour": "22:00",
+          "percent": 2
+        },
+        {
+          "hour": "23:00",
+          "percent": 1
+        }
+      ]
+    },
+    {
+      "Thursday": [
+        {
+          "hour": "05:00",
+          "percent": 1
+        },
+        {
+          "hour": "06:00",
+          "percent": 5
+        },
+        {
+          "hour": "07:00",
+          "percent": 16
+        },
+        {
+          "hour": "08:00",
+          "percent": 38
+        },
+        {
+          "hour": "09:00",
+          "percent": 66
+        },
+        {
+          "hour": "10:00",
+          "percent": 86
+        },
+        {
+          "hour": "11:00",
+          "percent": 90
+        },
+        {
+          "hour": "12:00",
+          "percent": 88
+        },
+        {
+          "hour": "13:00",
+          "percent": 92
+        },
+        {
+          "hour": "14:00",
+          "percent": 99
+        },
+        {
+          "hour": "15:00",
+          "percent": 99
+        },
+        {
+          "hour": "16:00",
+          "percent": 86
+        },
+        {
+          "hour": "17:00",
+          "percent": 64
+        },
+        {
+          "hour": "18:00",
+          "percent": 42
+        },
+        {
+          "hour": "19:00",
+          "percent": 25
+        },
+        {
+          "hour": "20:00",
+          "percent": 14
+        },
+        {
+          "hour": "21:00",
+          "percent": 8
+        },
+        {
+          "hour": "22:00",
+          "percent": 5
+        },
+        {
+          "hour": "23:00",
+          "percent": 3
+        },
+        {
+          "hour": "00:00",
+          "percent": 1
+        }
+      ]
+    },
+    {
+      "Friday": [
+        {
+          "hour": "05:00",
+          "percent": 1
+        },
+        {
+          "hour": "06:00",
+          "percent": 5
+        },
+        {
+          "hour": "07:00",
+          "percent": 15
+        },
+        {
+          "hour": "08:00",
+          "percent": 35
+        },
+        {
+          "hour": "09:00",
+          "percent": 62
+        },
+        {
+          "hour": "10:00",
+          "percent": 85
+        },
+        {
+          "hour": "11:00",
+          "percent": 93
+        },
+        {
+          "hour": "12:00",
+          "percent": 91
+        },
+        {
+          "hour": "13:00",
+          "percent": 92
+        },
+        {
+          "hour": "14:00",
+          "percent": 96
+        },
+        {
+          "hour": "15:00",
+          "percent": 95
+        },
+        {
+          "hour": "16:00",
+          "percent": 83
+        },
+        {
+          "hour": "17:00",
+          "percent": 61
+        },
+        {
+          "hour": "18:00",
+          "percent": 40
+        },
+        {
+          "hour": "19:00",
+          "percent": 23
+        },
+        {
+          "hour": "20:00",
+          "percent": 12
+        },
+        {
+          "hour": "21:00",
+          "percent": 7
+        },
+        {
+          "hour": "22:00",
+          "percent": 4
+        },
+        {
+          "hour": "23:00",
+          "percent": 2
+        },
+        {
+          "hour": "00:00",
+          "percent": 1
+        }
+      ]
+    },
+    {
+      "Saturday": [
+        {
+          "hour": "06:00",
+          "percent": 4
+        },
+        {
+          "hour": "07:00",
+          "percent": 13
+        },
+        {
+          "hour": "08:00",
+          "percent": 32
+        },
+        {
+          "hour": "09:00",
+          "percent": 59
+        },
+        {
+          "hour": "10:00",
+          "percent": 82
+        },
+        {
+          "hour": "11:00",
+          "percent": 92
+        },
+        {
+          "hour": "12:00",
+          "percent": 92
+        },
+        {
+          "hour": "13:00",
+          "percent": 90
+        },
+        {
+          "hour": "14:00",
+          "percent": 90
+        },
+        {
+          "hour": "15:00",
+          "percent": 86
+        },
+        {
+          "hour": "16:00",
+          "percent": 75
+        },
+        {
+          "hour": "17:00",
+          "percent": 58
+        },
+        {
+          "hour": "18:00",
+          "percent": 41
+        },
+        {
+          "hour": "19:00",
+          "percent": 27
+        },
+        {
+          "hour": "20:00",
+          "percent": 17
+        },
+        {
+          "hour": "21:00",
+          "percent": 11
+        },
+        {
+          "hour": "22:00",
+          "percent": 8
+        },
+        {
+          "hour": "23:00",
+          "percent": 5
+        },
+        {
+          "hour": "00:00",
+          "percent": 3
+        },
+        {
+          "hour": "01:00",
+          "percent": 2
+        },
+        {
+          "hour": "02:00",
+          "percent": 1
+        }
+      ]
+    }
+  ],
+  "relatedSearches": [
+    "circumvesuviana train to pompeii",
+    "transvesuviana",
+    "villa of the mysteries",
+    "circumvesuviana train to pompeii",
+    "transvesuviana",
+    "villa of the mysteries"
+  ],
+  "relateds": []
+}

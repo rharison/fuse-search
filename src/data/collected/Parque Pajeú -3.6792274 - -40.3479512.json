@@ -1,0 +1,987 @@
+{
+  "mainName": "Parque Pajeú",
+  "slug": "parque-pajeu",
+  "category": "Parque municipal",
+  "locationInformation": {
+    "latitude": "-3.6792274",
+    "longitude": "-40.3479512"
+  },
+  "basicInformation": [
+    {
+      "label": "endereço",
+      "tooltip": "Copiar endereço",
+      "text": "Coração de Jesus, Sobral - CE",
+      "icon": "https://www.gstatic.com/images/icons/material/system_gm/1x/place_gm_blue_24dp.png"
+    },
+    {
+      "label": "website",
+      "tooltip": "Abrir website",
+      "text": "seuma.sobral.ce.gov.br",
+      "icon": "https://www.gstatic.com/images/icons/material/system_gm/1x/public_gm_blue_24dp.png"
+    },
+    {
+      "label": "Code",
+      "tooltip": "Copiar Plus Code",
+      "text": "8MC2+8R Coração de Jesus, Sobral - CE",
+      "icon": "https://maps.gstatic.com/mapfiles/maps_lite/images/2x/ic_plus_code.png"
+    },
+    {
+      "label": "merchant",
+      "text": "Reivindicar esta empresa",
+      "icon": "https://www.gstatic.com/images/icons/material/system_gm/1x/verified_user_gm_blue_24dp.png"
+    }
+  ],
+  "ratingInformation": {
+    "basicRatingInformation": {
+      "averageGrade": 4.6,
+      "totalOfEvaluations": 122
+    },
+    "ratingsByGrade": [
+      {
+        "grade": 5,
+        "totalRatings": 88
+      },
+      {
+        "grade": 4,
+        "totalRatings": 23
+      },
+      {
+        "grade": 3,
+        "totalRatings": 8
+      },
+      {
+        "grade": 2,
+        "totalRatings": 1
+      },
+      {
+        "grade": 1,
+        "totalRatings": 2
+      }
+    ]
+  },
+  "ratingTags": [
+    {
+      "tag": "caminhada",
+      "count": 7,
+      "tooltip": "caminhada, mencionado em 7 avaliações"
+    },
+    {
+      "tag": "área",
+      "count": 4,
+      "tooltip": "área, mencionado em 4 avaliações"
+    }
+  ],
+  "featuredPhotos": [
+    "https://lh5.googleusercontent.com/p/AF1QipP9o3uYDun1l4lTAxrvHg8VpB5Hs_zQiuoW2uba=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMLVwhkwpY52mCJgrFHeCJcS64tMd_z5munfQZp=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOrMIMjNub4LpDIdNOd9WqIRxwY94O2DK5Q04XT=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMDYZ9xRLP_UGcNR_EAsKJAQZ7MEAOm03uXEedV=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPn11V21EjaIbtsHD6dRmwlydjXMHEFBybUFVwX=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPgjmhO0LRTLnXUF3x3g0hIMmmI5kUJAcun1n6i=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipN4vfs-ZFCFd3QVKJFOd0_wZKUK6UWaTJcjpPDh=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOhYO_Ux9ry1UKL5H2LDZ73xSh8yAx9g_29_6sQ=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNswaE3dFsGFdUwqAWTkASpFA_O5rGJT4DEdPM4=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMOEi6evem_RXC_4e9eayCirnLcFJCQ_1_By1X1=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNnTWDQ9TsL2AWPPtf61P6SBc6Hub4i_b_nZGJ1=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNF92Oog9JWLuucV-73_R2oy1pft9NTtr6EWddU=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPm3LYigRGD9yH9D7RdSuCVaN3WU0U0jM9HKZWW=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOL084mOYz5Hb4yedRmHgwmr1ekmyUKQNAq95Nb=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNNBpGJCif9HKPQTli3yj1iubZW9zmLg6w5j263=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNibIEywjQbKFBigUMxm2bU9IHZBJuKVsrLg9Pu=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPmS3otbbGgapPPAGHdi03TD8-9lpEOm_uOetmF=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipM9chOl_rRfHKTLVPIVAf3q63_Ydcsmc-4rFnv0=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMIyj3Wv8xXhiGsww7cNRA8AIa6ll8JsBlbOvTy=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipO_hkPV-9pXXk4Xb9xtEmY2ynP4M28Nhuxn76nP=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipODKg2wPeMX0fJmxbfpOEzTP21Hb5SqtCVRZgKC=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMwhMLu-vxrzHvmKkEX29Gxm_TTyKbX3jlewKNC=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipN9fmQyccYQk2anQs-0s39dGOKA04uGUiJt91MH=w1024-h576-k-no"
+  ],
+  "topComments": [
+    {
+      "author": "Amalia Gomes",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucoW1veg31e6kgwlm9p_gOnny_XyKU8BnfnxcEXHbIM=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "Muito bonito e agradável!",
+      "gradeComment": 4
+    },
+    {
+      "author": "Felipe Regino Oliveira",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucpBJ67_te7XqFwMCiHRbg0Lj_x8KbHYMugfXRlX5A=w36-h36-p-c0x00000000-rp-mo-br100",
+      "comment": "Um ambiente muito agradável, bom para fazer caminhadas e com uma ampla área verde!",
+      "gradeComment": 5
+    },
+    {
+      "author": "Alexandre Silva",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucqm-E4-RNYHiul54Z4FRUklgg_Bdg9Lo_hRDqYR=w36-h36-p-c0x00000000-rp-mo-br100",
+      "comment": "tá mais pra cabaré do que campo de futebol",
+      "gradeComment": 3
+    },
+    {
+      "author": "Maryfran Brito",
+      "photoAuthor": "https://lh3.googleusercontent.com/a/AItbvmmPsu5i7qm-zixZfdtHC5MyJa5JjxiwwCFJ7KC6=w36-h36-p-c0x00000000-rp-mo-ba3-br100",
+      "comment": "Trata-se de uma agradável área ambiental urbana, que pede manutenção e vigilância  para comodidade das pessoas que frequentam o ambiente. O Parque valorizou o bairro e pode num futuro breve, oferecer atrativos como pequenos  quiosques com guloseimas, exposição de artigo artesanais e pequenos eventos artisticos que estimulem as pessoas a frequentarem e participarem com entusiasmo. A estrutura pede maiores benefícios e dedicação, inclusive atentar para a quantidade de  lixo que está sendo depositado na referida área. Excelente espaço, que sugere propostas.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Marcilei Minsait",
+      "photoAuthor": "https://lh3.googleusercontent.com/a/AItbvmkqRxEZ8go1R_Il4y9pZ_O28A-cXW0f3SqJiJie=w36-h36-p-c0x00000000-rp-mo-br100",
+      "comment": "Local bem familiar, aconchegante ótimo para passeio e piquenique",
+      "gradeComment": 5
+    },
+    {
+      "author": "Rodrigo Arregue",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucr-lw8B3qjwWRSm2s6bJEO2t36hX0g8Cau6xKvokEk=w36-h36-p-c0x00000000-rp-mo-ba3-br100",
+      "comment": "Excelente local pra prática de esportes e passeios em família.",
+      "gradeComment": 5
+    },
+    {
+      "author": "helio araujo",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucrOUU6CEfyzedcjI3ujHb4-gCtaHqcY6V-Q33sh=w36-h36-p-c0x00000000-rp-mo-ba3-br100",
+      "comment": "Ótimo local para caminhada, prática de esportes.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Alessandro Macedo",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucrSytzf1auAhUriMTF7MiA01rZxRc2HXAhrhXyRzdE=w36-h36-p-c0x00000000-rp-mo-ba3-br100",
+      "comment": "Lugar bonito e bom pra prática de exercícios",
+      "gradeComment": 4
+    },
+    {
+      "author": "Thiago Lima",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucoNz8ie9-MQu_SHGBusz48Arn9iqv7ZFxIXkuwRuw=w36-h36-p-c0x00000000-rp-mo-ba5-br100",
+      "comment": "Ótimo lugar para passear ou fazer atividades ao ao livre. Os jardins filtrantes ainda estão sendo instalados, mas quando ficarem prontos o Parque vai ficar cada vez mais lindo !",
+      "gradeComment": 5
+    },
+    {
+      "author": "Kaylanne Victoria",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucqepIKJ1PZ8RGmCh2lGKDb02wZwox0mAfxfglpX2A=w36-h36-p-c0x00000000-rp-mo-br100",
+      "comment": "Bastante familiar no local e muito arborizado. Perfeito para passar com as crianças ou com o animal de estimação.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Claudio Pires",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucqxbKhYyOdv0MYk1Ai6Lmu3aLvLTdgKAF_-gzYU5iw=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "Um parque com uma dimensão de dar inveja em qualquer cidade e que conta com área para sua caminhada tanto matinal como fim de tarde Tem também uma areninha para jogos de futebol área de academia ao ar livre e muito mais.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Ceneila Sievers",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucpbG357p35IeTZmARY2Ml7A3_RHbuO5D3r7jnO6JIk=w36-h36-p-c0x00000000-rp-mo-br100",
+      "comment": "Lindo um lugar maravilhozo",
+      "gradeComment": 5
+    },
+    {
+      "author": "Jailson Matos",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucpZuCTRsWZOOFW5YmKmaB4KLBh1npGTONUeFiRy128=w36-h36-p-c0x00000000-rp-mo-ba3-br100",
+      "comment": "depois da reforma ..ficou ótimo",
+      "gradeComment": 5
+    },
+    {
+      "author": "HEDU",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucqkdaZ0xURYN0jMEFi3WN44bRB8SKdDZGoAmoewBOU=w36-h36-p-c0x00000000-rp-mo-ba6-br100",
+      "comment": "Área antes degradada em pleno processo de transformação. O equipamento soma-se aos parques da Cidade e da Lagoa da Fazenda e, juntos, compoem a maior área de preservação ambiental, de ocupação e prática de esportes de Sobral. Possuindo 51 mil m² de área verde, o Parque Pajeú é concebido por meio do projeto Infraestrutura Verde e do Plano de Arborização Urbana de Sobral.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Henrique Silva",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucpnnzVnzUvOEjw2diVUJIC7L_mDJ18yi9EY7nkp4Q=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "Ótimo lugar para caminhar e se exercitar",
+      "gradeComment": 5
+    },
+    {
+      "author": "Andre Luis",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucq7FP0pYkYpaUg0O6yxAsW2KBnOf8vY9mjD0SDkU8s=w36-h36-p-c0x00000000-rp-mo-ba2-br100",
+      "comment": "Ótimo lugar para lazer e prática esportiva",
+      "gradeComment": 5
+    },
+    {
+      "author": "adry furtado",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucp-B7MabzCPaK-ga7G7jyi9dNGXNBIA6lf1s15Pe94=w36-h36-p-c0x00000000-rp-mo-br100",
+      "comment": "Bom",
+      "gradeComment": 5
+    },
+    {
+      "author": "Everson Oliveira",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZuco9hL7ECpVLWdU-qaf28hRAUfg2ThueWF6cmhD7=w36-h36-p-c0x00000000-rp-mo-br100",
+      "comment": "Ótimo lugar pra fica com a familia",
+      "gradeComment": 5
+    },
+    {
+      "author": "Patrick Sousa",
+      "photoAuthor": "https://lh3.googleusercontent.com/a/AItbvmkHaE8uqarI7iom7iw7vblOFMSabHdGTxLe-G9O=w36-h36-p-c0x00000000-rp-mo-ba3-br100",
+      "comment": "Precisa melhorar mais, mas é um bom lugar",
+      "gradeComment": 3
+    },
+    {
+      "author": "alexandro alves de lunas alves",
+      "photoAuthor": "https://lh3.googleusercontent.com/a/AItbvmkF1wtI7x-nheeFmWAeLBv4e26v4lO-pfpBWf0n=w36-h36-p-c0x00000000-rp-mo-br100",
+      "comment": "Atlético Master, ótimo local de lazer ⚽👍",
+      "gradeComment": 5
+    }
+  ],
+  "peakHours": [
+    {
+      "Sunday": [
+        {
+          "hour": "04:00",
+          "percent": 1
+        },
+        {
+          "hour": "05:00",
+          "percent": 1
+        },
+        {
+          "hour": "06:00",
+          "percent": 1
+        },
+        {
+          "hour": "07:00",
+          "percent": 6
+        },
+        {
+          "hour": "08:00",
+          "percent": 11
+        },
+        {
+          "hour": "09:00",
+          "percent": 13
+        },
+        {
+          "hour": "10:00",
+          "percent": 12
+        },
+        {
+          "hour": "11:00",
+          "percent": 8
+        },
+        {
+          "hour": "12:00",
+          "percent": 3
+        },
+        {
+          "hour": "13:00",
+          "percent": 1
+        },
+        {
+          "hour": "14:00",
+          "percent": 1
+        },
+        {
+          "hour": "15:00",
+          "percent": 1
+        },
+        {
+          "hour": "16:00",
+          "percent": 1
+        },
+        {
+          "hour": "17:00",
+          "percent": 4
+        },
+        {
+          "hour": "18:00",
+          "percent": 9
+        },
+        {
+          "hour": "19:00",
+          "percent": 11
+        },
+        {
+          "hour": "20:00",
+          "percent": 10
+        },
+        {
+          "hour": "21:00",
+          "percent": 6
+        },
+        {
+          "hour": "22:00",
+          "percent": 1
+        },
+        {
+          "hour": "23:00",
+          "percent": 1
+        },
+        {
+          "hour": "00:00",
+          "percent": 1
+        },
+        {
+          "hour": "01:00",
+          "percent": 1
+        },
+        {
+          "hour": "02:00",
+          "percent": 1
+        },
+        {
+          "hour": "03:00",
+          "percent": 1
+        }
+      ]
+    },
+    {
+      "Monday": [
+        {
+          "hour": "04:00",
+          "percent": 1
+        },
+        {
+          "hour": "05:00",
+          "percent": 1
+        },
+        {
+          "hour": "06:00",
+          "percent": 1
+        },
+        {
+          "hour": "07:00",
+          "percent": 1
+        },
+        {
+          "hour": "08:00",
+          "percent": 1
+        },
+        {
+          "hour": "09:00",
+          "percent": 1
+        },
+        {
+          "hour": "10:00",
+          "percent": 1
+        },
+        {
+          "hour": "12:00",
+          "percent": 1
+        },
+        {
+          "hour": "13:00",
+          "percent": 1
+        },
+        {
+          "hour": "14:00",
+          "percent": 1
+        },
+        {
+          "hour": "15:00",
+          "percent": 1
+        },
+        {
+          "hour": "16:00",
+          "percent": 1
+        },
+        {
+          "hour": "17:00",
+          "percent": 17
+        },
+        {
+          "hour": "18:00",
+          "percent": 44
+        },
+        {
+          "hour": "19:00",
+          "percent": 69
+        },
+        {
+          "hour": "20:00",
+          "percent": 69
+        },
+        {
+          "hour": "21:00",
+          "percent": 42
+        },
+        {
+          "hour": "22:00",
+          "percent": 11
+        },
+        {
+          "hour": "23:00",
+          "percent": 1
+        },
+        {
+          "hour": "00:00",
+          "percent": 1
+        },
+        {
+          "hour": "01:00",
+          "percent": 1
+        },
+        {
+          "hour": "02:00",
+          "percent": 1
+        },
+        {
+          "hour": "03:00",
+          "percent": 1
+        }
+      ]
+    },
+    {
+      "Tuesday": [
+        {
+          "hour": "04:00",
+          "percent": 1
+        },
+        {
+          "hour": "05:00",
+          "percent": 1
+        },
+        {
+          "hour": "06:00",
+          "percent": 1
+        },
+        {
+          "hour": "07:00",
+          "percent": 2
+        },
+        {
+          "hour": "08:00",
+          "percent": 2
+        },
+        {
+          "hour": "09:00",
+          "percent": 1
+        },
+        {
+          "hour": "10:00",
+          "percent": 1
+        },
+        {
+          "hour": "11:00",
+          "percent": 1
+        },
+        {
+          "hour": "12:00",
+          "percent": 1
+        },
+        {
+          "hour": "13:00",
+          "percent": 1
+        },
+        {
+          "hour": "14:00",
+          "percent": 1
+        },
+        {
+          "hour": "15:00",
+          "percent": 1
+        },
+        {
+          "hour": "16:00",
+          "percent": 10
+        },
+        {
+          "hour": "17:00",
+          "percent": 26
+        },
+        {
+          "hour": "18:00",
+          "percent": 51
+        },
+        {
+          "hour": "19:00",
+          "percent": 70
+        },
+        {
+          "hour": "20:00",
+          "percent": 67
+        },
+        {
+          "hour": "21:00",
+          "percent": 41
+        },
+        {
+          "hour": "22:00",
+          "percent": 11
+        },
+        {
+          "hour": "23:00",
+          "percent": 1
+        },
+        {
+          "hour": "00:00",
+          "percent": 1
+        },
+        {
+          "hour": "01:00",
+          "percent": 1
+        },
+        {
+          "hour": "02:00",
+          "percent": 1
+        },
+        {
+          "hour": "03:00",
+          "percent": 1
+        }
+      ]
+    },
+    {
+      "Wednesday": [
+        {
+          "hour": "04:00",
+          "percent": 1
+        },
+        {
+          "hour": "05:00",
+          "percent": 1
+        },
+        {
+          "hour": "06:00",
+          "percent": 1
+        },
+        {
+          "hour": "07:00",
+          "percent": 1
+        },
+        {
+          "hour": "08:00",
+          "percent": 2
+        },
+        {
+          "hour": "09:00",
+          "percent": 2
+        },
+        {
+          "hour": "10:00",
+          "percent": 1
+        },
+        {
+          "hour": "11:00",
+          "percent": 1
+        },
+        {
+          "hour": "12:00",
+          "percent": 1
+        },
+        {
+          "hour": "13:00",
+          "percent": 1
+        },
+        {
+          "hour": "14:00",
+          "percent": 1
+        },
+        {
+          "hour": "15:00",
+          "percent": 1
+        },
+        {
+          "hour": "16:00",
+          "percent": 10
+        },
+        {
+          "hour": "17:00",
+          "percent": 35
+        },
+        {
+          "hour": "18:00",
+          "percent": 62
+        },
+        {
+          "hour": "19:00",
+          "percent": 78
+        },
+        {
+          "hour": "20:00",
+          "percent": 71
+        },
+        {
+          "hour": "21:00",
+          "percent": 46
+        },
+        {
+          "hour": "22:00",
+          "percent": 18
+        },
+        {
+          "hour": "23:00",
+          "percent": 1
+        },
+        {
+          "hour": "00:00",
+          "percent": 1
+        },
+        {
+          "hour": "01:00",
+          "percent": 1
+        },
+        {
+          "hour": "02:00",
+          "percent": 1
+        },
+        {
+          "hour": "03:00",
+          "percent": 1
+        }
+      ]
+    },
+    {
+      "Thursday": [
+        {
+          "hour": "04:00",
+          "percent": 1
+        },
+        {
+          "hour": "05:00",
+          "percent": 1
+        },
+        {
+          "hour": "06:00",
+          "percent": 1
+        },
+        {
+          "hour": "07:00",
+          "percent": 1
+        },
+        {
+          "hour": "08:00",
+          "percent": 1
+        },
+        {
+          "hour": "09:00",
+          "percent": 1
+        },
+        {
+          "hour": "10:00",
+          "percent": 1
+        },
+        {
+          "hour": "11:00",
+          "percent": 1
+        },
+        {
+          "hour": "12:00",
+          "percent": 1
+        },
+        {
+          "hour": "13:00",
+          "percent": 1
+        },
+        {
+          "hour": "14:00",
+          "percent": 2
+        },
+        {
+          "hour": "15:00",
+          "percent": 10
+        },
+        {
+          "hour": "16:00",
+          "percent": 19
+        },
+        {
+          "hour": "17:00",
+          "percent": 34
+        },
+        {
+          "hour": "18:00",
+          "percent": 64
+        },
+        {
+          "hour": "19:00",
+          "percent": 100
+        },
+        {
+          "hour": "20:00",
+          "percent": 95
+        },
+        {
+          "hour": "21:00",
+          "percent": 50
+        },
+        {
+          "hour": "22:00",
+          "percent": 14
+        },
+        {
+          "hour": "23:00",
+          "percent": 1
+        },
+        {
+          "hour": "00:00",
+          "percent": 1
+        },
+        {
+          "hour": "01:00",
+          "percent": 1
+        },
+        {
+          "hour": "02:00",
+          "percent": 1
+        },
+        {
+          "hour": "03:00",
+          "percent": 1
+        }
+      ]
+    },
+    {
+      "Friday": [
+        {
+          "hour": "04:00",
+          "percent": 1
+        },
+        {
+          "hour": "05:00",
+          "percent": 1
+        },
+        {
+          "hour": "06:00",
+          "percent": 1
+        },
+        {
+          "hour": "07:00",
+          "percent": 1
+        },
+        {
+          "hour": "08:00",
+          "percent": 1
+        },
+        {
+          "hour": "09:00",
+          "percent": 1
+        },
+        {
+          "hour": "10:00",
+          "percent": 1
+        },
+        {
+          "hour": "12:00",
+          "percent": 1
+        },
+        {
+          "hour": "13:00",
+          "percent": 1
+        },
+        {
+          "hour": "14:00",
+          "percent": 1
+        },
+        {
+          "hour": "15:00",
+          "percent": 1
+        },
+        {
+          "hour": "16:00",
+          "percent": 3
+        },
+        {
+          "hour": "17:00",
+          "percent": 23
+        },
+        {
+          "hour": "18:00",
+          "percent": 54
+        },
+        {
+          "hour": "19:00",
+          "percent": 81
+        },
+        {
+          "hour": "20:00",
+          "percent": 82
+        },
+        {
+          "hour": "21:00",
+          "percent": 56
+        },
+        {
+          "hour": "22:00",
+          "percent": 23
+        },
+        {
+          "hour": "23:00",
+          "percent": 1
+        },
+        {
+          "hour": "00:00",
+          "percent": 1
+        },
+        {
+          "hour": "01:00",
+          "percent": 1
+        },
+        {
+          "hour": "02:00",
+          "percent": 1
+        },
+        {
+          "hour": "03:00",
+          "percent": 1
+        }
+      ]
+    },
+    {
+      "Saturday": [
+        {
+          "hour": "04:00",
+          "percent": 1
+        },
+        {
+          "hour": "05:00",
+          "percent": 1
+        },
+        {
+          "hour": "06:00",
+          "percent": 1
+        },
+        {
+          "hour": "07:00",
+          "percent": 2
+        },
+        {
+          "hour": "08:00",
+          "percent": 6
+        },
+        {
+          "hour": "09:00",
+          "percent": 8
+        },
+        {
+          "hour": "10:00",
+          "percent": 9
+        },
+        {
+          "hour": "11:00",
+          "percent": 7
+        },
+        {
+          "hour": "12:00",
+          "percent": 4
+        },
+        {
+          "hour": "13:00",
+          "percent": 3
+        },
+        {
+          "hour": "14:00",
+          "percent": 4
+        },
+        {
+          "hour": "15:00",
+          "percent": 12
+        },
+        {
+          "hour": "16:00",
+          "percent": 25
+        },
+        {
+          "hour": "17:00",
+          "percent": 42
+        },
+        {
+          "hour": "18:00",
+          "percent": 54
+        },
+        {
+          "hour": "19:00",
+          "percent": 58
+        },
+        {
+          "hour": "20:00",
+          "percent": 50
+        },
+        {
+          "hour": "21:00",
+          "percent": 32
+        },
+        {
+          "hour": "22:00",
+          "percent": 13
+        },
+        {
+          "hour": "23:00",
+          "percent": 1
+        },
+        {
+          "hour": "00:00",
+          "percent": 1
+        },
+        {
+          "hour": "01:00",
+          "percent": 1
+        },
+        {
+          "hour": "02:00",
+          "percent": 1
+        },
+        {
+          "hour": "03:00",
+          "percent": 1
+        }
+      ]
+    }
+  ],
+  "relatedSearches": null,
+  "relateds": [
+    {
+      "mainName": "Palácio do Bispo",
+      "url": null
+    },
+    {
+      "mainName": "Palácio Da Luz",
+      "url": null
+    },
+    {
+      "mainName": "Museu do Automóvel",
+      "url": null
+    },
+    {
+      "mainName": "Área de Proteção Ambiental do Estuário do Rio Ceará",
+      "url": null
+    },
+    {
+      "mainName": "Praça dos Leões",
+      "url": null
+    },
+    {
+      "mainName": "Museu do Humor Cearense",
+      "url": null
+    },
+    {
+      "mainName": "Farol do Mucuripe",
+      "url": null
+    },
+    {
+      "mainName": "Estoril",
+      "url": null
+    },
+    {
+      "mainName": "Praça José de Alencar",
+      "url": null
+    },
+    {
+      "mainName": "Fortaleza de Nossa Senhora da Assunção",
+      "url": null
+    },
+    {
+      "mainName": "Casa de José de Alencar",
+      "url": null
+    },
+    {
+      "mainName": "Mercado Central de Fortaleza",
+      "url": null
+    },
+    {
+      "mainName": "Praia do Poço da Draga",
+      "url": null
+    },
+    {
+      "mainName": "Museu do Ceará",
+      "url": null
+    },
+    {
+      "mainName": "Parque Estadual do Cocó",
+      "url": null
+    },
+    {
+      "mainName": "Museu da Indústria",
+      "url": null
+    },
+    {
+      "mainName": "Centro Dragão do Mar de Arte e Cultura",
+      "url": null
+    }
+  ],
+  "editMode": false
+}

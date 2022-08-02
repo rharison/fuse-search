@@ -1,0 +1,482 @@
+{
+  "mainName": "Praia do Perequê",
+  "slug": "praia-do-pereque",
+  "category": "Praia",
+  "locationInformation": {
+    "latitude": "-23.8079245",
+    "longitude": "-45.3658116"
+  },
+  "basicInformation": [
+    {
+      "label": "endereço",
+      "tooltip": "Copiar endereço",
+      "text": "São Paulo",
+      "icon": "https://www.gstatic.com/images/icons/material/system_gm/1x/place_gm_blue_24dp.png"
+    },
+    {
+      "label": "send-to-device",
+      "text": "Enviar para smartphone",
+      "icon": "https://maps.gstatic.com/consumer/images/icons/1x/send_to_mobile_alt_gm_blue_24dp.png"
+    }
+  ],
+  "ratingInformation": {
+    "basicRatingInformation": {
+      "averageGrade": 4.6,
+      "totalOfEvaluations": 1764
+    },
+    "ratingsByGrade": [
+      {
+        "grade": 5,
+        "totalRatings": 1229
+      },
+      {
+        "grade": 4,
+        "totalRatings": 355
+      },
+      {
+        "grade": 3,
+        "totalRatings": 132
+      },
+      {
+        "grade": 2,
+        "totalRatings": 24
+      },
+      {
+        "grade": 1,
+        "totalRatings": 24
+      }
+    ]
+  },
+  "ratingTags": [
+    {
+      "tag": "quiosques",
+      "count": 50,
+      "tooltip": "quiosques, mencionado em 50 avaliações"
+    },
+    {
+      "tag": "ondas",
+      "count": 24,
+      "tooltip": "ondas, mencionado em 24 avaliações"
+    },
+    {
+      "tag": "estrutura",
+      "count": 20,
+      "tooltip": "estrutura, mencionado em 20 avaliações"
+    },
+    {
+      "tag": "comércios",
+      "count": 15,
+      "tooltip": "comércios, mencionado em 15 avaliações"
+    },
+    {
+      "tag": "sombra",
+      "count": 13,
+      "tooltip": "sombra, mencionado em 13 avaliações"
+    },
+    {
+      "tag": "aluguel",
+      "count": 13,
+      "tooltip": "aluguel, mencionado em 13 avaliações"
+    },
+    {
+      "tag": "caiaque",
+      "count": 11,
+      "tooltip": "caiaque, mencionado em 11 avaliações"
+    },
+    {
+      "tag": "passeios",
+      "count": 10,
+      "tooltip": "passeios, mencionado em 10 avaliações"
+    },
+    {
+      "tag": "ciclovia",
+      "count": 9,
+      "tooltip": "ciclovia, mencionado em 9 avaliações"
+    },
+    {
+      "tag": "balsa",
+      "count": 5,
+      "tooltip": "balsa, mencionado em 5 avaliações"
+    }
+  ],
+  "featuredPhotos": [
+    "https://lh5.googleusercontent.com/p/AF1QipPolfdurWTD0zxlIKOMe8uS0XAKNkgGyvl61w2n=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMHmuVvF9eCbwD15-_dpMNwvLdWBAXe4y1IisyO=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipM4IyIPLbeNihawXpu3Hisbpp2B6C3a8nyA8CTH=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPHEh3nBvMVxDDzTeiudL1N4YKtrW89Jqbzbdfg=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOs1F8FJukRIeujAHkW7zbVouyX6QqhdWvhj7l0=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNMCtRCZdq09Rr1U0KcDi-Z9GqU0Vbd8UCcXOTU=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipO4_rpd8BUmoUlltugcPu_k2g7Lu27_iI6X2Mn1=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNyD0O1nNxucn5olmu8c2i2XxFaG1ulydwhoYf8=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPUv_BmYPkHw4W1oK_lI6dyOge9U_hNMI6trmW1=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNX87ify3iEEdxnm_rcDmHBeZuN5hF5-RknI6D0=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPHEKdEIyo9k1RNjyhmYYjjr3IWfIpAlyoVhbd5=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPmeHDOuB7F8jXCSq8AVp4qYnUyn3R1LkTC1e9V=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMJKtXSwE_KGehfGsxfmycxUBQmSJ6wyNfZ5feI=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMRl8x4MJhDVwFHVhJrIMEy5nyOFu9eUjCuC2jb=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipP5A9JkUdc5QuWA0TPEu_inBfkC4gjh_ic77b2d=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOE1unqvpwoTdwShmVO_bvrTKI7KzD6u-d9kSgV=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMfmtUYdhlhkDVlDsBgt5THVJad9Ql-FWsFsyXi=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipME7_qxvgwJD5gW0pnaXLvwfN-V4M-3EYvtTGGK=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOf7_Gs_1JslJNTYO-0cNrLaxxPQe-ntSS6IMs-=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPi-x3eL87h-2zAj1B_6oa96Rpgai1K9snhWWEj=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMAK7CIpNJclwkk3vwagr0vXGUWCAsztNF-cGsC=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNI9gz93dIqZBFIlEZS85Zw0TObxO6_sXOIhhYR=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipN82xkBZ0kG773H413FEnzeDL3qcSqWQiQV-DLD=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMrKpTa68c80_MhEcpNgVGBMoTMHijc6SAHYGcN=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipN_KOkCGyonVsgQhY4F0fe3RAY8pEwurLyK8bo9=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNN5LmuxSXuyWNxJKbJuOpuSSNLPkgoNHTqRVym=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMJWlwkas7PPTc2YGmY7dZ0WEOjDhUocZuWSNfD=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMVbZ4lYzZ4Z_Iw7eIYdT8NQxDNxEpKL6GjDNK4=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPLQlF8PhneMCezFmzZEQsZDc8rr9kyK_SFPhia=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOqZpifru97dkV7YS7EcBzC5RbI5m5OjUgF3mfb=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOlahvSHf4c6jnmLSncY3p4-wA0jkMGHXf2EUE5=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPNtl7CuV-NRDkcWSbjp0pZjGsWIcygUD4TehSd=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipO1iR-7MaLAl93fKHxg8QVALAu6_UD5GqNPFie5=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPQ_lbzWYCErp1wJsvHVQgX3X2MxLGtgtms5i07=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPGeo625IC-sz-zO002S1MDr1_D0MwGTpdDAiKC=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOIUjgZ-FwtqhlguyzU5byekFvEeYiEqiN__kQw=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMJ4pIbYUmEeb8FAAu3quYCfSQoUOg6N08L0YPI=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPEEFpWd_vFQGsloWWIgKikyJPRwTa1Ylw2idtr=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipM9HRB3DAtvybNDaAG7VNrfPeh3ifBywJMxcu6x=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOTALo0YlW3JhTDtmE1_foqgYTAoZwvM17l_3Ie=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipN_eUbr4SOEHmLY0pGg43Nm5qXgTaQXLEmhceOp=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNVnKU8uRQlIEI_BKveqvHYCbqslP2ZaYJMD1HO=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNP2twKmdv-99Swc5pH0ExzNLuTI-avgTmV8rqC=w1024-h576-k-no"
+  ],
+  "topComments": [
+    {
+      "author": "ricardo alves de carvalho",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucpHW7M7jkARykW94P1ZL_yJ9rJWvvazU2SFF9NreA=w36-h36-p-c0x00000000-rp-mo-ba6-br100",
+      "comment": "Praia urbana, com estacionamento em frente , boa faixa de areia, mar calmo, recomendo",
+      "gradeComment": 5
+    },
+    {
+      "author": "Thais Maciel",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucqmlVF1YfOdZ-3dmfFZMbGTUw_y-yq0DP3S7r9-5Q=w36-h36-p-c0x00000000-rp-mo-ba3-br100",
+      "comment": "Praia limpa, pouquíssimos barcos/veleiros, sem ondas. Na maré baixa fica bem rasinho. E por ser um bairro mais populoso, então tem menos borrachudos. Recomendo.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Gabriela Santos",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucqqn3k8iCOJf25wiytHoNcRSkGEWDPtIpt4-egRJA=w36-h36-p-c0x00000000-rp-mo-ba5-br100",
+      "comment": "Difícil pra estacionamento, deixei o carro num lugar e tive que andar horrores pra achar um parquinho por meu filho. Tem ducha, e a ciclofaixa por toda a extensão! Ciclistas em alta velocidade, nao respeitao o pedestre! Pelo menos tivemos uma vista linda.",
+      "gradeComment": 4
+    },
+    {
+      "author": "Thayna Luana dos Santos",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucpZcyO5d7RY47aXbJlU0sj5JkN57jkvLiWnAw8lYZE=w36-h36-p-c0x00000000-rp-mo-br100",
+      "comment": "Praia com seu clima agitado e calmo ao mesmo tempo, água tranquila para banho, e por do sol maravilhoso. Vale a pena conhecer.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Diego Riello",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucoM6JdfmJoFl2q-udO7AxeMsyttxF-oHwnSC9H8f4I=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "Excelente praia, ótima infraestrutura, várias vagas para estacionar o carro, praia com a faixa de areia muito grande, mar sem ondas.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Adriana Gomes de Miranda",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucpqONo-eyB0wkJ7JeZ7scalawxzJ3bzjQVQkghvEiU=w36-h36-p-c0x00000000-rp-mo-ba5-br100",
+      "comment": "É ótima pois não tem borrachudo",
+      "gradeComment": 4
+    },
+    {
+      "author": "Cintya Castro",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucrMD0njtWxort3l2YNeShbl8bqqOhV68GOvC-eNVg=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "Excelente para banho de mar sem ondas",
+      "gradeComment": 5
+    },
+    {
+      "author": "Elaine B Costa Palacio",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucopPd85TLIe-cOmlxks-tbt7WYMf4HWCw3nK8CQFLU=w36-h36-p-c0x00000000-rp-mo-ba2-br100",
+      "comment": "De Ilha Bela é a praia com maior extensão de areia, porquê todas as praias lá são pequenas. Muito limpa e com ótimos lugares para comer. Os habitantes extremamente educados. Tem um parquinho na areia para as crianças brincarem. Vale a pena",
+      "gradeComment": 5
+    },
+    {
+      "author": "Eleandro rodrigo martins",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucpQ4Q4byY51ut2iLrjNzZctW_fi_fpQlhyUrElcnhQ=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "Sem palavras, exuberante!",
+      "gradeComment": 5
+    },
+    {
+      "author": "Deyverson Eler De Oliveira",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucrlQxy-en3QsRKkGFCbrUphk0ibAeZDCG7QvdN55Rs=w36-h36-p-c0x00000000-rp-mo-ba3-br100",
+      "comment": "Só lembranças boas , Que lugar top",
+      "gradeComment": 5
+    },
+    {
+      "author": "Fernanda GV",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucoPwuwFUUoq2soqd389YdyZ6wsxFRGmQeryaQJYHQ=w36-h36-p-c0x00000000-rp-mo-br100",
+      "comment": "Cresci aqui, então sim adoro esta praia e este bairro. Ideal para famílias com crianças, pois o mar costuma ser bem calmo e raso, tem parquinho e vários quiosques ótimos por um preço justo. É ótima também para adultos pois temos tardes de musica ao vivo, tem também rede de volei, aluguel de caiaques e o trapiche, quer dizer pier para pular no mar. E para fechar um pôr do sol maravilhoso!",
+      "gradeComment": 5
+    },
+    {
+      "author": "Osvaldo Monaco",
+      "photoAuthor": "https://lh3.googleusercontent.com/a/AItbvmmJXe6AkEQMI6G0w4kSfb11dZ_7PcKUQOEh84yE=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "Não é uma praia para banho, porém como lazer acima da expectativa",
+      "gradeComment": 5
+    },
+    {
+      "author": "Fernanda Gimenez",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucopCUxlBz3urOW7wE4pPBG9mkapHH1j74M3SkKpQfw=w36-h36-p-c0x00000000-rp-mo-br100",
+      "comment": "Super central e muito boa!",
+      "gradeComment": 5
+    },
+    {
+      "author": "priscila santos",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucrfabPOTBdUpTfQ6NzuSnMNnj9UkFui5tF8hpqIgg=w36-h36-p-c0x00000000-rp-mo-ba5-br100",
+      "comment": "Praia curtinha, com pouca faixa de areia. Mar bem calmo e limpo. Bem próxima de restaurantes, quiosques e pista de caminhada e bike.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Sara Alice",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucp4-HhOADdGf5MHDIxHfJfbT-gbGn7WN6MEZ7im7Kw=w36-h36-p-c0x00000000-rp-mo-br100",
+      "comment": "Praia limpa e agradável. Há ducha, parquinho para crianças, salva vidas e ciclovia. Não há ondas, uma maravilha!",
+      "gradeComment": 5
+    },
+    {
+      "author": "Leonardo Ferreira",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucp9RyqpHG-jlhC-bZmHefoMn6nHThLewykL-EwQsQ=w36-h36-p-c0x00000000-rp-mo-ba5-br100",
+      "comment": "Uma boa praia, bonita e com estrutura. Um pouco suja por ser no centro, principalmente comparando com as outras da ilha.",
+      "gradeComment": 4
+    },
+    {
+      "author": "Fábio Reis",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucprise-qMRAWC44_vcfOqOlvce768wpdWtf8MQkFi8=w36-h36-p-c0x00000000-rp-mo-ba6-br100",
+      "comment": "Lugar bonito, tem uma excelente vista, bom para passar o dia com familiares. O que falta é uma melhor estrutura de atendimento, em geral o atendimento não é dos melhores, a areia mais próximo da área de descanso é muito grossa chegando a incomodar um pouco. Valores de consumo são relativamente alto, mas ainda vale a pena.",
+      "gradeComment": 3
+    },
+    {
+      "author": "Varlei Barbato",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucoGEBfA19nFoG9Bqr9n8Ke8iyNFpRwG74d7BdCy=w36-h36-p-c0x00000000-rp-mo-ba5-br100",
+      "comment": "Pensa numa praia boa, aguas tranquilas, boa hotelaria, restaurantes e comércio, uma vida noturna legal, hoje considero centro turístico e comercial de Ilhabela.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Jorge Camilo",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucrKM0zeYJoB8CvqNWNWrqC_j4LT6sD7GfTzXTENFA=w36-h36-p-c0x00000000-rp-mo-ba3-br100",
+      "comment": "Linda praia, próxima das balsas e com uma infraestrutura para turistas perfeita inclusive com duchas grátis e playground para crianças. Água limpa e calma e areia branca ideal para quem está com crianças pequenas.",
+      "gradeComment": 5
+    },
+    {
+      "author": "José Luiz Carvalho",
+      "photoAuthor": "https://lh3.googleusercontent.com/a/AItbvmlZWnH9kZ6Hm2ninKq786RrI_X7ZobmvPmV4jVr=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "Excelnte praia, lindo por do sol",
+      "gradeComment": 5
+    }
+  ],
+  "peakHours": null,
+  "relatedSearches": [
+    "praia perequê guarujá",
+    "praia do perequê ubatuba",
+    "fotos praia do perequê guarujá",
+    "praia do perequê onde fica",
+    "praia do perequê ilhabela e boa",
+    "perequê rj",
+    "restaurantes praia perequê, guarujá",
+    "praia do tombo",
+    "praia perequê guarujá",
+    "fotos praia do perequê guarujá",
+    "praia do perequê ubatuba",
+    "praia do perequê - ilhabela e boa",
+    "praia do perequê onde fica",
+    "praia do perequê, guarujá pousada",
+    "praia do perequê, guarujá restaurantes",
+    "praia do perequê ilhabela própria para banho"
+  ],
+  "relateds": [
+    {
+      "mainName": "Praia Barra Velha",
+      "url": null
+    },
+    {
+      "mainName": "Praia do Itaguaçu",
+      "url": null
+    },
+    {
+      "mainName": "Praia do Curral",
+      "url": null
+    },
+    {
+      "mainName": "Praia do Veloso",
+      "url": null
+    },
+    {
+      "mainName": "Praia do Jabaquara",
+      "url": null
+    },
+    {
+      "mainName": "Praia das Pedras Miudas",
+      "url": null
+    },
+    {
+      "mainName": "Praia Pedra do Sino",
+      "url": null
+    },
+    {
+      "mainName": "Praia da Feiticeira",
+      "url": null
+    },
+    {
+      "mainName": "Praia do Julião",
+      "url": null
+    },
+    {
+      "mainName": "Praia de Itaquanduba",
+      "url": null
+    },
+    {
+      "mainName": "Praia de Castelhanos",
+      "url": null
+    },
+    {
+      "mainName": "Praia da Fome",
+      "url": null
+    },
+    {
+      "mainName": "Praia do Pinto",
+      "url": null
+    },
+    {
+      "mainName": "Praia Grande",
+      "url": null
+    },
+    {
+      "mainName": "Praia do Saco da Capela",
+      "url": null
+    },
+    {
+      "mainName": "Quiosque do Eustáquio",
+      "url": null
+    },
+    {
+      "mainName": "Praia Engenho d'Água",
+      "url": null
+    },
+    {
+      "mainName": "Praia do Bonete",
+      "url": null
+    },
+    {
+      "mainName": "Praia do Pacuiba",
+      "url": null
+    },
+    {
+      "mainName": "Praia do Viana",
+      "url": null
+    },
+    {
+      "mainName": "Praia da Armação",
+      "url": null
+    },
+    {
+      "mainName": "Praia de Indaiauba",
+      "url": null
+    },
+    {
+      "mainName": "Praia do Barreiros",
+      "url": null
+    },
+    {
+      "mainName": "Praia do Itaquanduba",
+      "url": null
+    },
+    {
+      "mainName": "Praia Barra Velha",
+      "url": null
+    },
+    {
+      "mainName": "Praia do Itaguaçu",
+      "url": null
+    },
+    {
+      "mainName": "Praia do Curral",
+      "url": null
+    },
+    {
+      "mainName": "Praia do Veloso",
+      "url": null
+    },
+    {
+      "mainName": "Praia do Jabaquara",
+      "url": null
+    },
+    {
+      "mainName": "Praia das Pedras Miudas",
+      "url": null
+    },
+    {
+      "mainName": "Praia Pedra do Sino",
+      "url": null
+    },
+    {
+      "mainName": "Praia da Feiticeira",
+      "url": null
+    },
+    {
+      "mainName": "Praia do Julião",
+      "url": null
+    },
+    {
+      "mainName": "Praia de Itaquanduba",
+      "url": null
+    },
+    {
+      "mainName": "Praia de Castelhanos",
+      "url": null
+    },
+    {
+      "mainName": "Praia da Fome",
+      "url": null
+    },
+    {
+      "mainName": "Praia do Pinto",
+      "url": null
+    },
+    {
+      "mainName": "Praia Grande",
+      "url": null
+    },
+    {
+      "mainName": "Praia do Saco da Capela",
+      "url": null
+    },
+    {
+      "mainName": "Quiosque do Eustáquio",
+      "url": null
+    },
+    {
+      "mainName": "Praia Engenho d'Água",
+      "url": null
+    },
+    {
+      "mainName": "Praia do Bonete",
+      "url": null
+    },
+    {
+      "mainName": "Praia do Pacuiba",
+      "url": null
+    },
+    {
+      "mainName": "Praia do Viana",
+      "url": null
+    },
+    {
+      "mainName": "Praia da Armação",
+      "url": null
+    },
+    {
+      "mainName": "Praia de Indaiauba",
+      "url": null
+    },
+    {
+      "mainName": "Praia do Barreiros",
+      "url": null
+    },
+    {
+      "mainName": "Praia do Itaquanduba",
+      "url": null
+    }
+  ]
+}

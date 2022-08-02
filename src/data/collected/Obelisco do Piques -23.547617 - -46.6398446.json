@@ -1,0 +1,755 @@
+{
+  "mainName": "Obelisco do Piques",
+  "slug": "obelisco-do-piques",
+  "category": "Monumento",
+  "locationInformation": {
+    "latitude": "-23.547617",
+    "longitude": "-46.6398446"
+  },
+  "basicInformation": [
+    {
+      "label": "endereço",
+      "tooltip": "Copiar endereço",
+      "text": "Consolação, São Paulo - SP, 01048-100",
+      "icon": "https://www.gstatic.com/images/icons/material/system_gm/1x/place_gm_blue_24dp.png"
+    },
+    {
+      "label": "Code",
+      "tooltip": "Copiar Plus Code",
+      "text": "F926+X3 Consolação, São Paulo - SP",
+      "icon": "https://maps.gstatic.com/mapfiles/maps_lite/images/2x/ic_plus_code.png"
+    }
+  ],
+  "ratingInformation": {
+    "basicRatingInformation": {
+      "averageGrade": 3.5,
+      "totalOfEvaluations": 104
+    },
+    "ratingsByGrade": [
+      {
+        "grade": 5,
+        "totalRatings": 36
+      },
+      {
+        "grade": 4,
+        "totalRatings": 20
+      },
+      {
+        "grade": 3,
+        "totalRatings": 20
+      },
+      {
+        "grade": 2,
+        "totalRatings": 16
+      },
+      {
+        "grade": 1,
+        "totalRatings": 12
+      }
+    ]
+  },
+  "ratingTags": [
+    {
+      "tag": "histórico",
+      "count": 15,
+      "tooltip": "histórico, mencionado em 15 avaliações"
+    },
+    {
+      "tag": "moradores de rua",
+      "count": 8,
+      "tooltip": "moradores de rua, mencionado em 8 avaliações"
+    },
+    {
+      "tag": "ponto",
+      "count": 7,
+      "tooltip": "ponto, mencionado em 7 avaliações"
+    },
+    {
+      "tag": "chafariz",
+      "count": 4,
+      "tooltip": "chafariz, mencionado em 4 avaliações"
+    },
+    {
+      "tag": "escadaria",
+      "count": 4,
+      "tooltip": "escadaria, mencionado em 4 avaliações"
+    },
+    {
+      "tag": "pena",
+      "count": 3,
+      "tooltip": "pena, mencionado em 3 avaliações"
+    },
+    {
+      "tag": "estado",
+      "count": 3,
+      "tooltip": "estado, mencionado em 3 avaliações"
+    }
+  ],
+  "featuredPhotos": [
+    "https://lh5.googleusercontent.com/p/AF1QipMsxtt4ogUgi091N10K8_zM3mv41CULmLSgdEjG=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOPtd4VVpf_UKAhmHEJ8aG1_7nsZXgPQIc-eAZe=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMEq1bcABFTBJ6PrlIzcw1-DjxWPzZugXsIF35n=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNLyvbBGt1hW4QT2qQxtjbiE4NQTFizcjZPGdIv=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNyKBX8cTJHcLxDXJ8DyO27-yQ4MuEhzX_s44PE=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOCrpLXV26ZxPw3Y_bQNsnxNdxSEdPjkxLGB2sN=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMQ2JJcioS6g6Z6kuzZt_sT_7eV6zvF3tABToBq=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNbQNQhtfCxtAd8Xz01S5K_aIBoTBcr-7xv1z7s=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMnvks3X2W0-XUibCPZI8TqCe_9SeboGs_Nabr9=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMOMsFpVd_C7ZMUSPizgzNI60xYfTfed1Nw5bRf=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOMXICcVfVxJE8kg5nWrehHcyM-9FlotsbCGZgf=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPrzqu_AyoxFGoc_1fJ8JeVCOpdDP2VSOuwO8rF=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOoXzvVM-K6nj2PuxQjE8aoywzVJo2PVolKIZfk=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNZ7sSLyr--zA0SMBoC4vQT-UIdQqaWmh3fdNWx=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNNdFBvVn0mzvwwj3ecuvqCEiM153p2wCowZTVC=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOQhwvIhQmN9fPMUVJ4O27nkJO3PP7mC7PTDVaE=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipN-2vN8zkV9TCx4_dAWIE8mpv6l8OJpGZI_zipd=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNoSUkdrOCK7cU2fZigESlCCBktBzOI0mVp5obv=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMVDXwYtJ68EuajBjbL8F0LuO3jd911x2pgqAx5=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMeMPzctwEx2kwoMzj2r3gfjI8zTifyDV3DDNAu=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMnXMN_qV62sLbprBj3Lt7P3UZfG-W38rqWUoZy=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOLCVfFAi54BgjbwtaTzUo6VQiuPYXCL-R0G_Pk=w1024-h576-k-no"
+  ],
+  "topComments": [
+    {
+      "author": "Breno De Maio",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucqr6CUN2XKH7EZ6Jfh8igGLodnQTpO9iy3nj-Xj=w36-h36-p-c0x00000000-rp-mo-ba5-br100",
+      "comment": "Um dos locais históricos da cidade, mas que assim como tantos outros, está mal cuidado, sem poder ser explorado de forma turística,  uma vez que não existe investimento algum, um local que poderia ser de lazer e ponto de memória da São Paulo Antiga",
+      "gradeComment": 2
+    },
+    {
+      "author": "Rodrigo Martins",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucqd6dWnS_gwGOhpzmozJQIbRD4h3UVyI9jyGrEpVw=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "Local Perigoso, oque deveria ser um ponto turistico é feio, mal cuidado e Perigoso!",
+      "gradeComment": 2
+    },
+    {
+      "author": "Ícaro Rossatto",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucru4YqShMXinufSjYVfg4vLxhK0wC0SNQ5Bm-YroA=w36-h36-p-c0x00000000-rp-mo-br100",
+      "comment": "Passando pelo local para chegarmos em outro endereço do outro lado da escadaria, fomos assaltados por um grupo de 7 homens armados que levaram nossos celulares e nos aplicaram golpes bancários.  Não sou da cidade, claro que deveria ter pesquisado mais sobre a região. Mas é complicado, a falta de segurança pública e a iluminação decadente não ajudam.",
+      "gradeComment": 1
+    },
+    {
+      "author": "Alan Peixoto Carneiro",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucrfmPzBBu6AYds5Gx4sxHfaSf8ApOiuANgkinAU-w=w36-h36-p-c0x00000000-rp-mo-ba5-br100",
+      "comment": "Um dos locais mais perigosos do centro de SP. Muitos assaltos nessa região.",
+      "gradeComment": 1
+    },
+    {
+      "author": "Bidi Xavier",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucplknUH7Odajf91yxEquumtdPbgoLE247dUnE1SeA=w36-h36-p-c0x00000000-rp-mo-ba2-br100",
+      "comment": "Achava Um Pouco Abandonado em relação a Higiene, porém passei 24 hs no Local, Tem sim gente Da prefeitura fazendo limpeza. Porém não dão conta, São muitos os espíritos de porco que não sabe usar uma lixeira.",
+      "gradeComment": 4
+    },
+    {
+      "author": "Almiro Dias",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucoFKMeqeALUz7mTYNou0olg1DZ88OJJDOPZDXhEMLE=w36-h36-p-c0x00000000-rp-mo-ba3-br100",
+      "comment": "Marco histórico de São Paulo, com mais de 200 anos de construção encontra-se sem manutenção e zeladoria. Deve se ficar atento a assaltos neste ponto.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Nilton de Souza Lima",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucojQ4ikZ1yxAWwzw_rMXjzfiHakRPdZ1BDMk_jN=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "Sujeira pra todo lado. Chafariz desativado que só serve pra lixo. Atualmente serve de abrigo para moradores de rua.",
+      "gradeComment": 2
+    },
+    {
+      "author": "Tania Cabrera",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucoLlQMGos07ZtQvXRCV5Q0k55brFtQSjjcZyIOtVw=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "Um Monumento que conta a história da ocupação do Triângulo Histórico da Cidade de São Paulo, com seus azulejos fruto de um concurso ganho por um renomado artista, mas negligenciado pela geração atual, todo pichado e esquecido...",
+      "gradeComment": 5
+    },
+    {
+      "author": "Sergio Pinheiro",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucoqdGouazim4WX7EhgdJlTtFiMbCvJYXsuBrHG3T1o=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "Sujo, abandonado, pixado, muitos moradores de rua e drogados, além da quantidade enorme de ratos, apesar de ficar a 100 metros da prefeitura ela o abandonou por completo, se restaurado é um belo monumento. Obs o vale do Anhangabaú inteiro é repleto de ratos.",
+      "gradeComment": 2
+    },
+    {
+      "author": "Rafael Bunese",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucqNrw4NT6WhzOKCV8RjLJ93LLu44dJTgVT6Jdn3Qg=w36-h36-p-c0x00000000-rp-mo-ba6-br100",
+      "comment": "Uma pena o descuido das autoridades com esta área. O Obelisco do Piques que está lá é o monumento mais antigo de São Paulo. Foi inaugurado em 1814 e ninguém sabe. O secretário de turismo da cidade prefere jogar fora nossa história e valorizar os \"becos do Batman\" que seguem o dinheiro dos jovens da elite paulistana.",
+      "gradeComment": 1
+    },
+    {
+      "author": "vitoria lima",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucqTvg6B8xpJUx_qlOUYjXQWYzxCFW7KpjA1TVaxlw=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "Já foi um lugar mais chique..mas hoje, mendigos, cheiro de mijo, todo pichado..É um local mais pra visita, chances de ser roubado é muito grande.. e ainda como tem uma escadaria pra descer ainda é complicado, não tem um local para se caso cadeirante queira descer, só ver de cima ..",
+      "gradeComment": 3
+    },
+    {
+      "author": "Glaucia Tardin",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucovKC9Z7Lt1nypHj2gX9w4uEaNoRVycIbPIvInAkQ=w36-h36-p-c0x00000000-rp-mo-ba5-br100",
+      "comment": "O Obelisco merece cinco estrelas por sua história, já que foi o primeiro monumento de São Paulo.  Os tropeiros que chegavam à cidade após longas viagens paravam neste local para dar de beber aos seus cavalos e mulas. Pena estar tão mal conservado e relegado ao abandono. Mesmo assim, merece ser visitado por seu valor histórico.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Fernando Bispo da Silva Bispoeta",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucqPu6vnMvSMCTFnsTgrBfRHls0jbx7mCTAK9FiAxQ=w36-h36-p-c0x00000000-rp-mo-ba8-br100",
+      "comment": "O Obelisco do Piques fica no Largo da Memória e ao lado, bem antes do metrô havia a Ladeira da Memória. Nome muito apropriado, pois este local faz parte de minha vida. Passei minha infância morando na Rua João Adolfo e as escadarias da Ladeira da Memória eram meu trajeto diário para acessar a Rua Coronel Xavier de Toledo. Hoje a praça está ocupada por moradores em estado de fragilidade social.",
+      "gradeComment": 4
+    },
+    {
+      "author": "Viva Cultura",
+      "photoAuthor": "https://lh3.googleusercontent.com/a/AItbvmnpqkBDyyoUXMhziy0gRx1XwZW09cF10wp2Ald6=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "Ali, no centro da cidade, em meio ao caos frenético e diário da região, delimitado pelas ruas Coronel Xavier de Toledo e Quirino de Andrade e pela Ladeira da Memória, próximo ao Vale do Anhangabaú, está o Largo da Memória!  Um logradouro histórico, que abriga, nada mais, nada menos, do que o monumento mais antigo de São Paulo, o Obelisco do Piques, inaugurado em 1814. O Obelisco do Piques, ou Pirâmide do Piques, é tido como o primeiro monumento da cidade, já que, como foi definido por pensadores e críticos do passado, foi a \"primeira obra inútil\" de São Paulo. Obra, cuja \"função não dizia respeito a nenhum aspecto prático da vida\", segundo Roberto Pompeu de Toledo.  O local já foi ponto de encontro de moradores da província, viajantes e escravos, que eram atraídos pela água potável do chafariz do largo. Além disso, o largo era a porta de entrada da São Paulo antiga.  Uma curiosidade, o Largo da Memória leva esse nome, pois o conjunto inteiro (obelisco, chafariz e o largo em si) foram pensados e construídos \"à memória do zelo do bem público\"! Com o tempo, as pessoas começaram a chamá-lo de Largo da Memória e o nome pegou!  Interessante, não é?",
+      "gradeComment": 2
+    },
+    {
+      "author": "Vanderlei de Miranda Cabral Cabral",
+      "photoAuthor": "https://lh3.googleusercontent.com/a/AItbvmkT-WLymmNvyrYAh9tmXaWQw77Zh6kJbIQbzy6b=w36-h36-p-c0x00000000-rp-mo-br100",
+      "comment": "Obelisco do piques abandonado e com águas sujas com animais mortos como ratos e com agua sujeita a dengue e como ponto de drogados,na minha opinião porquê não fazer um Jardim em vez de fonte e com plantas com espinhos para evitar que durmam na mesma e com grades para proteção das plantas.Fica no centro da cidade de São Paulo.",
+      "gradeComment": 1
+    },
+    {
+      "author": "Martiniàno José de Morais",
+      "photoAuthor": "https://lh3.googleusercontent.com/a/AItbvmn-Pezi-1uDHGzAY7n8UyuOd83yaMRH3tmodsNn=w36-h36-p-c0x00000000-rp-mo-br100",
+      "comment": "Nesse tempo do obelisco , o máximo era o mínimo, hoje o mínimo é o salário .No tempo do chicote a comida sobrava, hoje todos somos de quem? Do sistema falido cujo lastro é a DROGA, MAIS CARA QUE UM KILO DE OURO...O QUE NAO EVOLUI DEGENERA.  MARTINIANO DE INTERLAGOS",
+      "gradeComment": 4
+    },
+    {
+      "author": "Mauro Moraes",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucoedEWJocZ2lyoypFXgMh-hKa-r3xSh3cHV-lFrk58=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "Apesar de histórico, o obelisco está em estado crítico. A prefeitura até tenta manter limpo, mas está todo pichado, virou banheiro a céu aberto e o consumo de drogas ali rola solto!",
+      "gradeComment": 2
+    },
+    {
+      "author": "Rodrigo Poulis",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucqVGl3s7FpaXdUWvp-Kax1Ilb3KVrR_c39s1zBE3Q=w36-h36-p-c0x00000000-rp-mo-ba5-br100",
+      "comment": "Lugar bonito e importante pra cidade. Pena que está mal cuidado. As pixações deveriam ser removidas e o monumento cuidado para não ser vandalizado novamente.",
+      "gradeComment": 4
+    },
+    {
+      "author": "Clovis Chiaravalloti",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucp5a9lz6hbBesKWRFDU4toxmx7foTSZSEwUkVKY8OI=w36-h36-p-c0x00000000-rp-mo-ba2-br100",
+      "comment": "Lugar histórico pouco conhecido, nunca tinha ouvido falar nada a respeito.Foi o ponto de partida do tour Cartografia Negra (recomendo)",
+      "gradeComment": 5
+    },
+    {
+      "author": "Pedro Maia Nogueira",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucpON4sY9v_ndsprcv1eQa6YI7F0PQpcvG3lw16zQCQ=w36-h36-p-c0x00000000-rp-mo-ba6-br100",
+      "comment": "Lugar esquecido/abandonado. Descer a escadaria a noite ou simplesmente passar por ali? Pode não acontecer nada, mas todo cuidado é pouco.",
+      "gradeComment": 3
+    }
+  ],
+  "peakHours": [
+    {
+      "Sunday": [
+        {
+          "hour": "05:00",
+          "percent": 11
+        },
+        {
+          "hour": "06:00",
+          "percent": 22
+        },
+        {
+          "hour": "07:00",
+          "percent": 22
+        },
+        {
+          "hour": "08:00",
+          "percent": 33
+        },
+        {
+          "hour": "09:00",
+          "percent": 33
+        },
+        {
+          "hour": "10:00",
+          "percent": 33
+        },
+        {
+          "hour": "11:00",
+          "percent": 33
+        },
+        {
+          "hour": "12:00",
+          "percent": 33
+        },
+        {
+          "hour": "13:00",
+          "percent": 44
+        },
+        {
+          "hour": "14:00",
+          "percent": 88
+        },
+        {
+          "hour": "15:00",
+          "percent": 77
+        },
+        {
+          "hour": "16:00",
+          "percent": 44
+        },
+        {
+          "hour": "17:00",
+          "percent": 33
+        },
+        {
+          "hour": "18:00",
+          "percent": 33
+        },
+        {
+          "hour": "19:00",
+          "percent": 33
+        },
+        {
+          "hour": "20:00",
+          "percent": 22
+        },
+        {
+          "hour": "21:00",
+          "percent": 22
+        }
+      ]
+    },
+    {
+      "Monday": [
+        {
+          "hour": "08:00",
+          "percent": 11
+        },
+        {
+          "hour": "09:00",
+          "percent": 22
+        },
+        {
+          "hour": "10:00",
+          "percent": 33
+        },
+        {
+          "hour": "11:00",
+          "percent": 55
+        },
+        {
+          "hour": "12:00",
+          "percent": 77
+        },
+        {
+          "hour": "13:00",
+          "percent": 88
+        },
+        {
+          "hour": "14:00",
+          "percent": 100
+        },
+        {
+          "hour": "15:00",
+          "percent": 100
+        },
+        {
+          "hour": "16:00",
+          "percent": 88
+        },
+        {
+          "hour": "17:00",
+          "percent": 77
+        },
+        {
+          "hour": "18:00",
+          "percent": 55
+        },
+        {
+          "hour": "19:00",
+          "percent": 33
+        },
+        {
+          "hour": "20:00",
+          "percent": 22
+        }
+      ]
+    },
+    {
+      "Tuesday": [
+        {
+          "hour": "06:00",
+          "percent": 22
+        },
+        {
+          "hour": "07:00",
+          "percent": 33
+        },
+        {
+          "hour": "08:00",
+          "percent": 55
+        },
+        {
+          "hour": "09:00",
+          "percent": 77
+        },
+        {
+          "hour": "10:00",
+          "percent": 88
+        },
+        {
+          "hour": "11:00",
+          "percent": 77
+        },
+        {
+          "hour": "12:00",
+          "percent": 66
+        },
+        {
+          "hour": "13:00",
+          "percent": 44
+        },
+        {
+          "hour": "14:00",
+          "percent": 33
+        },
+        {
+          "hour": "15:00",
+          "percent": 55
+        },
+        {
+          "hour": "16:00",
+          "percent": 100
+        },
+        {
+          "hour": "17:00",
+          "percent": 88
+        },
+        {
+          "hour": "18:00",
+          "percent": 33
+        },
+        {
+          "hour": "19:00",
+          "percent": 11
+        },
+        {
+          "hour": "20:00",
+          "percent": 66
+        },
+        {
+          "hour": "21:00",
+          "percent": 33
+        }
+      ]
+    },
+    {
+      "Wednesday": [
+        {
+          "hour": "07:00",
+          "percent": 11
+        },
+        {
+          "hour": "08:00",
+          "percent": 22
+        },
+        {
+          "hour": "09:00",
+          "percent": 33
+        },
+        {
+          "hour": "10:00",
+          "percent": 44
+        },
+        {
+          "hour": "11:00",
+          "percent": 44
+        },
+        {
+          "hour": "12:00",
+          "percent": 44
+        },
+        {
+          "hour": "13:00",
+          "percent": 33
+        },
+        {
+          "hour": "14:00",
+          "percent": 22
+        },
+        {
+          "hour": "15:00",
+          "percent": 44
+        },
+        {
+          "hour": "16:00",
+          "percent": 88
+        },
+        {
+          "hour": "17:00",
+          "percent": 88
+        },
+        {
+          "hour": "18:00",
+          "percent": 44
+        },
+        {
+          "hour": "19:00",
+          "percent": 11
+        },
+        {
+          "hour": "20:00",
+          "percent": 22
+        },
+        {
+          "hour": "21:00",
+          "percent": 33
+        }
+      ]
+    },
+    {
+      "Thursday": [
+        {
+          "hour": "07:00",
+          "percent": 22
+        },
+        {
+          "hour": "08:00",
+          "percent": 33
+        },
+        {
+          "hour": "09:00",
+          "percent": 33
+        },
+        {
+          "hour": "10:00",
+          "percent": 44
+        },
+        {
+          "hour": "11:00",
+          "percent": 55
+        },
+        {
+          "hour": "12:00",
+          "percent": 55
+        },
+        {
+          "hour": "13:00",
+          "percent": 66
+        },
+        {
+          "hour": "14:00",
+          "percent": 66
+        },
+        {
+          "hour": "15:00",
+          "percent": 66
+        },
+        {
+          "hour": "16:00",
+          "percent": 66
+        },
+        {
+          "hour": "17:00",
+          "percent": 55
+        },
+        {
+          "hour": "18:00",
+          "percent": 55
+        },
+        {
+          "hour": "19:00",
+          "percent": 44
+        },
+        {
+          "hour": "20:00",
+          "percent": 33
+        },
+        {
+          "hour": "21:00",
+          "percent": 22
+        },
+        {
+          "hour": "22:00",
+          "percent": 22
+        },
+        {
+          "hour": "23:00",
+          "percent": 11
+        },
+        {
+          "hour": "00:00",
+          "percent": 11
+        },
+        {
+          "hour": "01:00",
+          "percent": 11
+        },
+        {
+          "hour": "02:00",
+          "percent": 11
+        },
+        {
+          "hour": "03:00",
+          "percent": 11
+        }
+      ]
+    },
+    {
+      "Friday": [
+        {
+          "hour": "05:00",
+          "percent": 11
+        },
+        {
+          "hour": "06:00",
+          "percent": 22
+        },
+        {
+          "hour": "07:00",
+          "percent": 44
+        },
+        {
+          "hour": "08:00",
+          "percent": 66
+        },
+        {
+          "hour": "09:00",
+          "percent": 88
+        },
+        {
+          "hour": "10:00",
+          "percent": 88
+        },
+        {
+          "hour": "11:00",
+          "percent": 77
+        },
+        {
+          "hour": "12:00",
+          "percent": 66
+        },
+        {
+          "hour": "13:00",
+          "percent": 55
+        },
+        {
+          "hour": "14:00",
+          "percent": 55
+        },
+        {
+          "hour": "15:00",
+          "percent": 66
+        },
+        {
+          "hour": "16:00",
+          "percent": 77
+        },
+        {
+          "hour": "17:00",
+          "percent": 66
+        },
+        {
+          "hour": "18:00",
+          "percent": 77
+        },
+        {
+          "hour": "19:00",
+          "percent": 66
+        },
+        {
+          "hour": "20:00",
+          "percent": 44
+        }
+      ]
+    },
+    {
+      "Saturday": []
+    }
+  ],
+  "relatedSearches": [
+    "largo do piques",
+    "praça da bandeira são paulo",
+    "são paulo antiga curiosidades",
+    "são paulo antiga",
+    "cidade de são paulo antiga",
+    "instituto são paulo antiga",
+    "praça da bandeira onde fica",
+    "ladeira da memória"
+  ],
+  "relateds": [
+    {
+      "mainName": "Largo da Memória",
+      "url": null
+    },
+    {
+      "mainName": "Monumento a Ramos de Azevedo",
+      "url": null
+    },
+    {
+      "mainName": "Monumento à Independência",
+      "url": null
+    },
+    {
+      "mainName": "Monumento à Aldeia de Nossa Senhora dos Pinheiros",
+      "url": null
+    },
+    {
+      "mainName": "Obelisco aos Heróis de 32",
+      "url": null
+    },
+    {
+      "mainName": "Glória imortal dos fundadores de São Paulo",
+      "url": null
+    },
+    {
+      "mainName": "Beto Carrero World",
+      "url": null
+    },
+    {
+      "mainName": "Mundo a Vapor",
+      "url": null
+    },
+    {
+      "mainName": "Parque Mutirama",
+      "url": null
+    },
+    {
+      "mainName": "Beach Park",
+      "url": null
+    },
+    {
+      "mainName": "Parque da Mônica",
+      "url": null
+    },
+    {
+      "mainName": "Mirabilandia",
+      "url": null
+    },
+    {
+      "mainName": "Hopi Hari",
+      "url": null
+    },
+    {
+      "mainName": "Monumento às Bandeiras",
+      "url": null
+    },
+    {
+      "mainName": "Índio Pescador",
+      "url": null
+    },
+    {
+      "mainName": "Praça da Sé",
+      "url": null
+    },
+    {
+      "mainName": "Parque Zoológico Municipal \"Quinzinho de Barros\"",
+      "url": null
+    },
+    {
+      "mainName": "Aquário de São Paulo",
+      "url": null
+    },
+    {
+      "mainName": "Zoológico de São Paulo",
+      "url": null
+    },
+    {
+      "mainName": "Ponte Octávio Frias de Oliveira",
+      "url": null
+    },
+    {
+      "mainName": "Museu Paulista",
+      "url": null
+    },
+    {
+      "mainName": "Theatro Municipal de São Paulo",
+      "url": null
+    }
+  ]
+}

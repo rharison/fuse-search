@@ -1,0 +1,945 @@
+{
+  "mainName": "Praia de Rei Cortiço",
+  "slug": "praia-de-rei-cortico",
+  "category": "Praia",
+  "locationInformation": {
+    "latitude": "39.4206625",
+    "longitude": "-9.246658"
+  },
+  "basicInformation": [
+    {
+      "label": "endereço",
+      "tooltip": "Copiar endereço",
+      "text": "Portugal",
+      "icon": "https://www.gstatic.com/images/icons/material/system_gm/1x/place_gm_blue_24dp.png"
+    },
+    {
+      "label": "website",
+      "tooltip": "Abrir website",
+      "text": "playocean.net",
+      "icon": "https://www.gstatic.com/images/icons/material/system_gm/1x/public_gm_blue_24dp.png"
+    },
+    {
+      "label": "send-to-device",
+      "text": "Enviar para smartphone",
+      "icon": "https://maps.gstatic.com/consumer/images/icons/1x/send_to_mobile_alt_gm_blue_24dp.png"
+    }
+  ],
+  "ratingInformation": {
+    "basicRatingInformation": {
+      "averageGrade": 4.5,
+      "totalOfEvaluations": 562
+    },
+    "ratingsByGrade": [
+      {
+        "grade": 5,
+        "totalRatings": 357
+      },
+      {
+        "grade": 4,
+        "totalRatings": 154
+      },
+      {
+        "grade": 3,
+        "totalRatings": 37
+      },
+      {
+        "grade": 2,
+        "totalRatings": 6
+      },
+      {
+        "grade": 1,
+        "totalRatings": 8
+      }
+    ]
+  },
+  "ratingTags": [
+    {
+      "tag": "bar",
+      "count": 10,
+      "tooltip": "bar, mencionado em 10 avaliações"
+    },
+    {
+      "tag": "estacionamento",
+      "count": 10,
+      "tooltip": "estacionamento, mencionado em 10 avaliações"
+    },
+    {
+      "tag": "onda gerada pelo vento",
+      "count": 8,
+      "tooltip": "onda gerada pelo vento, mencionado em 8 avaliações"
+    },
+    {
+      "tag": "beleza",
+      "count": 7,
+      "tooltip": "beleza, mencionado em 7 avaliações"
+    },
+    {
+      "tag": "surf",
+      "count": 7,
+      "tooltip": "surf, mencionado em 7 avaliações"
+    },
+    {
+      "tag": "falésias",
+      "count": 6,
+      "tooltip": "falésias, mencionado em 6 avaliações"
+    },
+    {
+      "tag": "maré",
+      "count": 6,
+      "tooltip": "maré, mencionado em 6 avaliações"
+    },
+    {
+      "tag": "banhos",
+      "count": 5,
+      "tooltip": "banhos, mencionado em 5 avaliações"
+    },
+    {
+      "tag": "natureza",
+      "count": 5,
+      "tooltip": "natureza, mencionado em 5 avaliações"
+    },
+    {
+      "tag": "bandeira",
+      "count": 3,
+      "tooltip": "bandeira, mencionado em 3 avaliações"
+    }
+  ],
+  "featuredPhotos": [
+    "https://lh5.googleusercontent.com/p/AF1QipMSOYBhCjUCETViQYn64At0Olmlossm06dl87Jz=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOm6dynwFmCeWhoe5vDlLwTrg51GFSYkootZIez=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNQq495Na0ojqx0K98U3P7SSajtngOvF2LAGE_I=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMVT3TlLumB995Bn4bOXTWuGa_Cx6IwlSYmID-t=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOD5jopLM9Bh2JbMsVJ62MTgOksOF-zFIZNZCN3=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOP-og5qkrviKwA7EvHGMeu3rl4A5KnzdUzHWKZ=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOhNKFfI2t2vZgwi3uQracqbUTdy1mWuNvd10PJ=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPxD7INbepvENRK4IjgjlS1yA29jt1nQZxkXzux=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNzeDUTcX-eNQ-qOQ0UogvXaY0E4vDYN7xxNIyE=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNDDaqKO8p1abJVOypADtvjCo4Cy0ufLtBh7GYl=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMC7i6T5AQTfCoD6Z_N6vXUcT2LKAXqs_UrRwjO=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOMmeTGq87-TVmrpwpecAy4Po8uo71Rf7VUZy7w=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNIakJI8IzPrqAQTSQU3Kgj6eXEzGRrOuJP3qp2=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNz7whSWqjvXDPwDfsOxcS6MtecCSu5fHM8OhI6=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPJAQhx3mpNNWFXfvd9rXcvJrIrsX70sO0OJnRQ=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPkEvUp3aFuka1w-JRYo0AdYqZvAAyPKDZmcRhv=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipN9onHP5AXA8e8Mow6I_Elza6CsyiAY7dK83Ujt=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNiK1-U-C8Fhg5m8pGHZrl_hIOcmCTNGHLpPKSP=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipM7WPEUPm_vxUTXveM-qpZQjj621VEqAfez73Dx=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipN4xYJsChBQR30L7edgC50J2eMQZEEI7axA30zw=w1024-h576-k-no"
+  ],
+  "topComments": [
+    {
+      "author": "ANTÓNIO BATISTA",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucpXXUTnM7FD7SGhrx_sn6LRZf8c-aRJnp_cLJal1L4=w36-h36-p-c0x00000000-rp-mo-ba6-br100",
+      "comment": "Local de beleza selvagem, bom para quem apreciar a tranquilidade e vista panorâmica descomunal sobre a costa.",
+      "gradeComment": 5
+    },
+    {
+      "author": "José Luís Nabais Fernandes",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucqE5Av7MNRUTABbobq0TctUj2Jov7ih6AluKW8bNw=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "Praia espetacular, calma, tranquila. Pena o estacionamento ser pouco.",
+      "gradeComment": 4
+    },
+    {
+      "author": "João Carlos Flores",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucppiK75on0Bayag59-pRmY1q6Px_aozseKntymC=w36-h36-p-c0x00000000-rp-mo-ba3-br100",
+      "comment": "Natureza, arribas fantásticas, praia pequena em maré cheia. Mas local agradável.",
+      "gradeComment": 4
+    },
+    {
+      "author": "Roberto Moura",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucpwuQzjzRsH7fAgTKmYmRmckqRhgSWxhgFRHvbCfQ=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "Um local muito agradável para se passar várias horas admirando a linda paisagem.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Fatima Reis",
+      "photoAuthor": "https://lh3.googleusercontent.com/a/AItbvmkrG6G1RISfrz0rQ3qRTrPtQhdbQLZaQtb98dkh=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "É uma praia excelente, com um extenso areal de areia limpa e ainda não muito frequentada. Situa-se na margem esquerda da Lagoa de Óbidos, mas no lado do mar, com falésias, algumas de alturas consideráveis. Da Foz do Arelho até lá percorre-se cerca de 20km por entre natureza e matas lindas.",
+      "gradeComment": 4
+    },
+    {
+      "author": "Alexandra Sobral",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucq1p_WBmpXc_q9LgPlcr9MYJPt7u_AD5-2wET5X1w=w36-h36-p-c0x00000000-rp-mo-ba5-br100",
+      "comment": "É um encanto de uma praia, pequena  e bela, como convém.",
+      "gradeComment": 5
+    },
+    {
+      "author": "sofia matos",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucqCxYy8rUe6MRisPqPuf6BHKZrF9XUPa2BIH5_ZMIk=w36-h36-p-c0x00000000-rp-mo-ba3-br100",
+      "comment": "Simplesmente amei! Só é pena estar bandeira vermelha mas a preia é pouco movimentada e é vigiada.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Rui Duarte",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucrTRivkyqNmWvIgK1Ac20nnmRFAP77Yw-4IzwTD=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "Uma pequena, simpática e limpa praia, com um bonito areal e arribas.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Sonia Ponte",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucr0EurLlOm3GrhRKTb-rDs_WIlLxWy9FeE1qGsw0g=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "Sem apoio wc /snack bar.. Sem condições para passar férias apesar de ter vigilância e ser uma praia com uma areal imenso.. Assim é difícil manter as praias limpas...",
+      "gradeComment": 2
+    },
+    {
+      "author": "Valter Marcelino",
+      "photoAuthor": "https://lh3.googleusercontent.com/a/AItbvmkaIa_r1njUUAM-G1TpsRDrPR7Bv6JWlHh90P1D=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "Praia muito boa. Com bom Parque de estacionamento. Sossegada.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Arny Motovlog",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucrMOgr5vDGvC7hb7owdVtakFZdnn8LEBoHHRhztq9w=w36-h36-p-c0x00000000-rp-mo-ba5-br100",
+      "comment": "Praia bonita, pena ter de entrar dentro de um resort para acedela",
+      "gradeComment": 4
+    },
+    {
+      "author": "Fernando Silva",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucpjF15Ig4VFr-YDfdZ3ZAJt4TddQ3tQS_7yaIEteA=w36-h36-p-c0x00000000-rp-mo-ba3-br100",
+      "comment": "Espetacular mas quase deserta nesta altura. Contudo, crrio que toda esta extensão de praia, entre Bom Sucesso e Praia D'El Rey, podia estar bem melhor explorada.",
+      "gradeComment": 4
+    },
+    {
+      "author": "Hugo Carreira",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucoWj4bYpDuI5rrgpTrAj-crBK6nimCnz6IgUNd9nA=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "Praia de ondas fortes e geladas. Se olhar para a esquerda é possível ver as Berlengas a 23km.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Impressão da Papoila",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucrCPoOclCZecRmm0x0cjP78RfvWWVSt686Q1qHz1NY=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "Preenche todos os meus requisitos para a classificar como uma praia excelente. Distante de zona habitacional ou comercial, ladeada por encostas de rochas dando aquela sensação de praia privada, há sempre muito espaço no areal, o mar é puro, vibrante, cristalino e convida a mergulhos nos dias mais calmos de mar. Estando na zona oeste esperem que possa estar ventosa mas nada que um corta-vento não resolva.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Julia Emyli",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucpxGugyJBfEBaCBAU0O0aHMn3lqaxv7cETk0JvGPg=w36-h36-p-c0x00000000-rp-mo-ba3-br100",
+      "comment": "Adoro esta praia, lugar tranquilo para descansar e relaxar com o som do mar.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Delmira Henriques",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucqS-20W2THXa5yjQoljKWTCkntNWx932OPQLqT3EA=w36-h36-p-c0x00000000-rp-mo-br100",
+      "comment": "Maravilhosa..foi a 1.vez, mas se Deus quizer  vou voltar brevemente...",
+      "gradeComment": 4
+    },
+    {
+      "author": "Andreia J. Leal",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucrAwzYoyHs7FM58mdpe0-UatrfA9P_htGMv8c5jTC4=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "Praia com uma vista fabulosa, mar óptimo para surf e rodeado de natureza. Ainda desconhecida para a maioria das pessoas que visitam as praias do Oeste. Sendo assim uma excelente escolha para fugir às enchentes de Verão. Como pontos menos bons tem os poucos lugares de estacionamento e a acessibilidade à praia.",
+      "gradeComment": 4
+    },
+    {
+      "author": "Nuno Fernandes",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucr0OGnNzSqghfJAIYu9pxDQ-nJxQId4P9KSI8PshA=w36-h36-p-c0x00000000-rp-mo-ba6-br100",
+      "comment": "Para quem gosta de relaxar pode Contra com ésta praia, muito tranquilo, vista magnifica para o Már Azul déve-se ter um pouco de cuidado quando se for au banho costuma ter umas correntes fortes,  melhor para a pratica do Surf.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Nô - Leonor Aires Santos",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucpL0NegkhNz3gT919Mfdk7F-ueMe7fTNqpDqm7VX_Q=w36-h36-p-c0x00000000-rp-mo-ba2-br100",
+      "comment": "Sossegado, bons acessos, estacionamento com asfalto, areal extenso na lateral. Tem nadadores salvadores. Apenas dispõe de bebidas no bar de apoio à praia.",
+      "gradeComment": 4
+    },
+    {
+      "author": "Drunfino Dj",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucoS0t3APasuBlvS6V7oI0rw-1V1SemEAeFJCxvNVg=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "Praia deslumbrante com as suas falésias a perder de vista",
+      "gradeComment": 5
+    }
+  ],
+  "peakHours": [
+    {
+      "Sunday": [
+        {
+          "hour": "07:00",
+          "percent": 3
+        },
+        {
+          "hour": "08:00",
+          "percent": 8
+        },
+        {
+          "hour": "09:00",
+          "percent": 15
+        },
+        {
+          "hour": "10:00",
+          "percent": 22
+        },
+        {
+          "hour": "11:00",
+          "percent": 30
+        },
+        {
+          "hour": "12:00",
+          "percent": 38
+        },
+        {
+          "hour": "13:00",
+          "percent": 48
+        },
+        {
+          "hour": "14:00",
+          "percent": 62
+        },
+        {
+          "hour": "15:00",
+          "percent": 81
+        },
+        {
+          "hour": "16:00",
+          "percent": 94
+        },
+        {
+          "hour": "17:00",
+          "percent": 88
+        },
+        {
+          "hour": "18:00",
+          "percent": 62
+        },
+        {
+          "hour": "19:00",
+          "percent": 32
+        },
+        {
+          "hour": "20:00",
+          "percent": 12
+        },
+        {
+          "hour": "21:00",
+          "percent": 3
+        }
+      ]
+    },
+    {
+      "Monday": [
+        {
+          "hour": "09:00",
+          "percent": 4
+        },
+        {
+          "hour": "10:00",
+          "percent": 11
+        },
+        {
+          "hour": "11:00",
+          "percent": 21
+        },
+        {
+          "hour": "12:00",
+          "percent": 30
+        },
+        {
+          "hour": "13:00",
+          "percent": 34
+        },
+        {
+          "hour": "14:00",
+          "percent": 38
+        },
+        {
+          "hour": "15:00",
+          "percent": 42
+        },
+        {
+          "hour": "16:00",
+          "percent": 47
+        },
+        {
+          "hour": "17:00",
+          "percent": 46
+        },
+        {
+          "hour": "18:00",
+          "percent": 34
+        },
+        {
+          "hour": "19:00",
+          "percent": 19
+        },
+        {
+          "hour": "20:00",
+          "percent": 8
+        },
+        {
+          "hour": "21:00",
+          "percent": 3
+        }
+      ]
+    },
+    {
+      "Tuesday": [
+        {
+          "hour": "08:00",
+          "percent": 3
+        },
+        {
+          "hour": "09:00",
+          "percent": 11
+        },
+        {
+          "hour": "10:00",
+          "percent": 24
+        },
+        {
+          "hour": "11:00",
+          "percent": 34
+        },
+        {
+          "hour": "12:00",
+          "percent": 34
+        },
+        {
+          "hour": "13:00",
+          "percent": 32
+        },
+        {
+          "hour": "14:00",
+          "percent": 39
+        },
+        {
+          "hour": "15:00",
+          "percent": 54
+        },
+        {
+          "hour": "16:00",
+          "percent": 62
+        },
+        {
+          "hour": "17:00",
+          "percent": 56
+        },
+        {
+          "hour": "18:00",
+          "percent": 37
+        },
+        {
+          "hour": "19:00",
+          "percent": 19
+        },
+        {
+          "hour": "20:00",
+          "percent": 7
+        },
+        {
+          "hour": "21:00",
+          "percent": 2
+        },
+        {
+          "hour": "22:00",
+          "percent": 2
+        },
+        {
+          "hour": "23:00",
+          "percent": 3
+        },
+        {
+          "hour": "00:00",
+          "percent": 4
+        },
+        {
+          "hour": "01:00",
+          "percent": 4
+        },
+        {
+          "hour": "02:00",
+          "percent": 3
+        },
+        {
+          "hour": "03:00",
+          "percent": 2
+        }
+      ]
+    },
+    {
+      "Wednesday": [
+        {
+          "hour": "04:00",
+          "percent": 1
+        },
+        {
+          "hour": "05:00",
+          "percent": 1
+        },
+        {
+          "hour": "06:00",
+          "percent": 1
+        },
+        {
+          "hour": "07:00",
+          "percent": 1
+        },
+        {
+          "hour": "08:00",
+          "percent": 3
+        },
+        {
+          "hour": "09:00",
+          "percent": 7
+        },
+        {
+          "hour": "10:00",
+          "percent": 15
+        },
+        {
+          "hour": "11:00",
+          "percent": 27
+        },
+        {
+          "hour": "12:00",
+          "percent": 37
+        },
+        {
+          "hour": "13:00",
+          "percent": 42
+        },
+        {
+          "hour": "14:00",
+          "percent": 45
+        },
+        {
+          "hour": "15:00",
+          "percent": 46
+        },
+        {
+          "hour": "16:00",
+          "percent": 46
+        },
+        {
+          "hour": "17:00",
+          "percent": 42
+        },
+        {
+          "hour": "18:00",
+          "percent": 32
+        },
+        {
+          "hour": "19:00",
+          "percent": 21
+        },
+        {
+          "hour": "20:00",
+          "percent": 11
+        },
+        {
+          "hour": "21:00",
+          "percent": 5
+        },
+        {
+          "hour": "22:00",
+          "percent": 2
+        },
+        {
+          "hour": "23:00",
+          "percent": 1
+        },
+        {
+          "hour": "01:00",
+          "percent": 1
+        },
+        {
+          "hour": "02:00",
+          "percent": 1
+        },
+        {
+          "hour": "03:00",
+          "percent": 1
+        }
+      ]
+    },
+    {
+      "Thursday": [
+        {
+          "hour": "09:00",
+          "percent": 3
+        },
+        {
+          "hour": "10:00",
+          "percent": 11
+        },
+        {
+          "hour": "11:00",
+          "percent": 23
+        },
+        {
+          "hour": "12:00",
+          "percent": 32
+        },
+        {
+          "hour": "13:00",
+          "percent": 34
+        },
+        {
+          "hour": "14:00",
+          "percent": 32
+        },
+        {
+          "hour": "15:00",
+          "percent": 36
+        },
+        {
+          "hour": "16:00",
+          "percent": 43
+        },
+        {
+          "hour": "17:00",
+          "percent": 44
+        },
+        {
+          "hour": "18:00",
+          "percent": 34
+        },
+        {
+          "hour": "19:00",
+          "percent": 20
+        },
+        {
+          "hour": "20:00",
+          "percent": 8
+        },
+        {
+          "hour": "21:00",
+          "percent": 2
+        }
+      ]
+    },
+    {
+      "Friday": [
+        {
+          "hour": "09:00",
+          "percent": 2
+        },
+        {
+          "hour": "10:00",
+          "percent": 8
+        },
+        {
+          "hour": "11:00",
+          "percent": 18
+        },
+        {
+          "hour": "12:00",
+          "percent": 26
+        },
+        {
+          "hour": "13:00",
+          "percent": 31
+        },
+        {
+          "hour": "14:00",
+          "percent": 33
+        },
+        {
+          "hour": "15:00",
+          "percent": 37
+        },
+        {
+          "hour": "16:00",
+          "percent": 45
+        },
+        {
+          "hour": "17:00",
+          "percent": 49
+        },
+        {
+          "hour": "18:00",
+          "percent": 44
+        },
+        {
+          "hour": "19:00",
+          "percent": 32
+        },
+        {
+          "hour": "20:00",
+          "percent": 19
+        },
+        {
+          "hour": "21:00",
+          "percent": 10
+        },
+        {
+          "hour": "22:00",
+          "percent": 6
+        },
+        {
+          "hour": "23:00",
+          "percent": 5
+        },
+        {
+          "hour": "00:00",
+          "percent": 5
+        },
+        {
+          "hour": "01:00",
+          "percent": 4
+        },
+        {
+          "hour": "02:00",
+          "percent": 3
+        },
+        {
+          "hour": "03:00",
+          "percent": 1
+        }
+      ]
+    },
+    {
+      "Saturday": [
+        {
+          "hour": "04:00",
+          "percent": 2
+        },
+        {
+          "hour": "05:00",
+          "percent": 1
+        },
+        {
+          "hour": "09:00",
+          "percent": 3
+        },
+        {
+          "hour": "10:00",
+          "percent": 12
+        },
+        {
+          "hour": "11:00",
+          "percent": 26
+        },
+        {
+          "hour": "12:00",
+          "percent": 42
+        },
+        {
+          "hour": "13:00",
+          "percent": 51
+        },
+        {
+          "hour": "14:00",
+          "percent": 61
+        },
+        {
+          "hour": "15:00",
+          "percent": 77
+        },
+        {
+          "hour": "16:00",
+          "percent": 96
+        },
+        {
+          "hour": "17:00",
+          "percent": 100
+        },
+        {
+          "hour": "18:00",
+          "percent": 82
+        },
+        {
+          "hour": "19:00",
+          "percent": 53
+        },
+        {
+          "hour": "20:00",
+          "percent": 28
+        },
+        {
+          "hour": "21:00",
+          "percent": 13
+        },
+        {
+          "hour": "22:00",
+          "percent": 7
+        },
+        {
+          "hour": "23:00",
+          "percent": 4
+        },
+        {
+          "hour": "00:00",
+          "percent": 3
+        },
+        {
+          "hour": "01:00",
+          "percent": 3
+        },
+        {
+          "hour": "02:00",
+          "percent": 3
+        },
+        {
+          "hour": "03:00",
+          "percent": 3
+        }
+      ]
+    }
+  ],
+  "relatedSearches": [
+    "óbidos tem praia",
+    "praias em leiria portugal",
+    "óbidos tem praia",
+    "praias em leiria portugal"
+  ],
+  "relateds": [
+    {
+      "mainName": "Praia da Estrela",
+      "url": null
+    },
+    {
+      "mainName": "Praia do Bom Sucesso",
+      "url": null
+    },
+    {
+      "mainName": "Praia de Covões",
+      "url": null
+    },
+    {
+      "mainName": "Praia da Foz do Arelho",
+      "url": null
+    },
+    {
+      "mainName": "Praia da Fincha Grande",
+      "url": null
+    },
+    {
+      "mainName": "Praia do Barroco da Adega",
+      "url": null
+    },
+    {
+      "mainName": "Lagoa de Óbidos",
+      "url": null
+    },
+    {
+      "mainName": "Holiday Residences Praia Del Rey",
+      "url": null
+    },
+    {
+      "mainName": "Praia do Rei",
+      "url": null
+    },
+    {
+      "mainName": "Parque Cinegético de Óbidos",
+      "url": null
+    },
+    {
+      "mainName": "Praia da Légua",
+      "url": null
+    },
+    {
+      "mainName": "Praia da Gralha",
+      "url": null
+    },
+    {
+      "mainName": "Praia Velha",
+      "url": null
+    },
+    {
+      "mainName": "Praia do Salgado",
+      "url": null
+    },
+    {
+      "mainName": "Praia da Almagreira",
+      "url": null
+    },
+    {
+      "mainName": "Praia de São Bernardino",
+      "url": null
+    },
+    {
+      "mainName": "Praia da Gambôa",
+      "url": null
+    },
+    {
+      "mainName": "Praia do Pico da Mota",
+      "url": null
+    },
+    {
+      "mainName": "Praia do Portinho da Areia Sul",
+      "url": null
+    },
+    {
+      "mainName": "Praia dos Supertubos (Medão Grande)",
+      "url": null
+    },
+    {
+      "mainName": "Castelo de Óbidos",
+      "url": null
+    },
+    {
+      "mainName": "Praia de São Martinho do Porto",
+      "url": null
+    },
+    {
+      "mainName": "Praia das Pedras Negras",
+      "url": null
+    },
+    {
+      "mainName": "Praia D'El Rey Golf Course",
+      "url": null
+    },
+    {
+      "mainName": "Praia da Estrela",
+      "url": null
+    },
+    {
+      "mainName": "Praia do Bom Sucesso",
+      "url": null
+    },
+    {
+      "mainName": "Praia de Covões",
+      "url": null
+    },
+    {
+      "mainName": "Praia da Foz do Arelho",
+      "url": null
+    },
+    {
+      "mainName": "Praia da Fincha Grande",
+      "url": null
+    },
+    {
+      "mainName": "Praia do Barroco da Adega",
+      "url": null
+    },
+    {
+      "mainName": "Lagoa de Óbidos",
+      "url": null
+    },
+    {
+      "mainName": "Holiday Residences Praia Del Rey",
+      "url": null
+    },
+    {
+      "mainName": "Praia do Rei",
+      "url": null
+    },
+    {
+      "mainName": "Parque Cinegético de Óbidos",
+      "url": null
+    },
+    {
+      "mainName": "Praia da Légua",
+      "url": null
+    },
+    {
+      "mainName": "Praia da Gralha",
+      "url": null
+    },
+    {
+      "mainName": "Praia Velha",
+      "url": null
+    },
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

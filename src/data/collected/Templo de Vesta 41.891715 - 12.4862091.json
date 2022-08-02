@@ -1,0 +1,787 @@
+{
+  "mainName": "Templo de Vesta",
+  "slug": "templo-de-vesta",
+  "category": "Sítio arqueológico",
+  "locationInformation": {
+    "latitude": "41.891715",
+    "longitude": "12.4862091"
+  },
+  "basicInformation": [
+    {
+      "label": "endereço",
+      "tooltip": "Copiar endereço",
+      "text": "Via dei Fori Imperiali, 00186 Roma RM, Itália",
+      "icon": "https://www.gstatic.com/images/icons/material/system_gm/1x/place_gm_blue_24dp.png"
+    },
+    {
+      "label": "locatedin",
+      "text": "Localizado em: Fórum Romano",
+      "icon": "https://www.google.com/images/cleardot.gif"
+    },
+    {
+      "label": "website",
+      "tooltip": "Abrir website",
+      "text": "parcocolosseo.it",
+      "icon": "https://www.gstatic.com/images/icons/material/system_gm/1x/public_gm_blue_24dp.png"
+    },
+    {
+      "label": "telefone",
+      "tooltip": "Copiar número de telefone",
+      "text": "+39 06 6998 4443",
+      "icon": "https://www.gstatic.com/images/icons/material/system_gm/1x/phone_gm_blue_24dp.png"
+    },
+    {
+      "label": "Code",
+      "tooltip": "Copiar Plus Code",
+      "text": "VFRP+MF Roma, Itália",
+      "icon": "https://maps.gstatic.com/mapfiles/maps_lite/images/2x/ic_plus_code.png"
+    }
+  ],
+  "ratingInformation": {
+    "basicRatingInformation": {
+      "averageGrade": 4.6,
+      "totalOfEvaluations": 188
+    },
+    "ratingsByGrade": [
+      {
+        "grade": 5,
+        "totalRatings": 129
+      },
+      {
+        "grade": 4,
+        "totalRatings": 43
+      },
+      {
+        "grade": 3,
+        "totalRatings": 13
+      },
+      {
+        "grade": 2,
+        "totalRatings": 1
+      },
+      {
+        "grade": 1,
+        "totalRatings": 2
+      }
+    ]
+  },
+  "ratingTags": [
+    {
+      "tag": "história",
+      "count": 11,
+      "tooltip": "história, mencionado em 11 avaliações"
+    },
+    {
+      "tag": "deusa",
+      "count": 5,
+      "tooltip": "deusa, mencionado em 5 avaliações"
+    },
+    {
+      "tag": "mármore",
+      "count": 5,
+      "tooltip": "mármore, mencionado em 5 avaliações"
+    },
+    {
+      "tag": "sagrado",
+      "count": 5,
+      "tooltip": "sagrado, mencionado em 5 avaliações"
+    },
+    {
+      "tag": "colunas",
+      "count": 4,
+      "tooltip": "colunas, mencionado em 4 avaliações"
+    },
+    {
+      "tag": "ser",
+      "count": 3,
+      "tooltip": "ser, mencionado em 3 avaliações"
+    },
+    {
+      "tag": "plantas",
+      "count": 3,
+      "tooltip": "plantas, mencionado em 3 avaliações"
+    },
+    {
+      "tag": "estrutura",
+      "count": 3,
+      "tooltip": "estrutura, mencionado em 3 avaliações"
+    },
+    {
+      "tag": "ruínas",
+      "count": 3,
+      "tooltip": "ruínas, mencionado em 3 avaliações"
+    }
+  ],
+  "featuredPhotos": [
+    "https://lh5.googleusercontent.com/p/AF1QipPrtQIDPC6iqT8wX8i--0FyeIu8n6U6Fi6ml60l=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPQ-9nJtU_4YpL58jYT6hI6DfobgJViCTfwNDoZ=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPBgjNpeXynr6jlUHMNdumTUDEV66ECkrEiyow4=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPpQmvFCHHlU4FJrDI0Q8NW59-2vy0yqhbCXU5m=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNORcGc-ziYUt3bLGY04ASAYC1_lphAyomqufuW=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPszZufsDKI50ZRlZLJDzrj1UqAL4x0KglgGJsR=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMldo2UR9bEX0k36eUDNT5tiExnHlOnE7BvNnjI=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPY5WZaQ9EuhFteosjR10xSn7wl-o5pY24LUqYm=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPxNRDrtbCKey_iUSlaK0NywpFFaT87aGBJNd1P=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMWEelkabgnxVmFGz7m7s5FBKIwxK6TUN_M7xM=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMSYQTkxYtTpOyBJxgHqU-rx_TiMlCoclokCS_R=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPG8RZX2wfGMNlc2sIeH9_4wZ6jul8QS2YSqnmu=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipM1spwHZsv0Fcl8iXbtyHpVFhl7Vj9MdUK1A50F=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNYjZxGZlLwj6oecrTuna8crCa-VyEdUNOPT7PJ=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipN1G1FIIfcvJ3YhN7RXbOjW8b3ukf3792RA3UJV=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipONnfIrCiWsJzbsmKAthw0wcXZPwNg8q2kagOha=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOUlIJRuaKxbgDVvhEAZEWdR2iMUYj_ST49F1AU=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMSK9OTSfyAgEe1h4KkPic1JVgp2oxJOhAbbK7M=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOVMDRTCHE6vIWf0Fsep9IIj1YqKO0hCyg4DKqM=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNq2OXlEKQtd9CxW9khmR1nlrABp9kZPI1OCLc0=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNrPJs5FJqg2kxlHRWr7DGjjZ5s7zdGjqd16_3C=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOgicPzKxfkWazGol6xZOazmW-SttM2sQEMw8mO=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOynr2zUGPWIubCHfWrC5_tE4OrklzU-vyEqoxu=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNvSGtKga68Xy9Rn7ZLN3kao-Zfu-IBeAjJjrAF=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNmdABxNSr_c2Cr3XVtvFdWT9EFCtOQtH8jzjDf=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPOA737i7B_Ght9mAeRmjU8c-wrm5KeAoe_qAdm=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMaZlGpVpKXwzVOGvqqbCjhCF2N8KXLmZyCzekD=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMR9fLIW371KEY9bUj0BgZ06O-02cHMXWyJ2NK9=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNCA5JcxjEgfWP5SjT7pTlUg0F91MVCSo3L--iT=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipM3FdMsK4nXjBRCQyhss2u0QSssXucOzMDTQJbj=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPDgQqm9pTmWmuj3cdY6iO0AWmjttXXopS8HyjI=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNyOrvORPQDYhQAFQBojoizX624g6AhDUvFnhc=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPwC9tKSXlhfaPlDzEWbZQ9boPe9_2oNDg8zRVV=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipP3eSfXp2a4TJwvUVvJygc0GrGuSkHAuodjb4vm=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPWtxMV4Ap5KcB-gaKY6ny0HQbIBqAeepIPulGo=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMRDMMoskvLF0p9kiHkQwhsYdQifC9F8pfrSfim=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOChuYoA5WclRSWTv3kJm7TNebaLzP68eW1vJXm=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMGvSeaG-pEZdaHtLPLDOhA82tEI0oKNqGPMn9f=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipO5TH6VQ3Ozf9RAyN3CmZMmGqHdQiqRn5wUEHEN=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPNg-dh-XGFkfkvUifPYL9ZMSAsZ0yrFVnXTnI=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMH79BONIpSHAF36dVZnnP50i1gOdebqomvULT3=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMo_dVpe3kY3MqdA3IJMFrCtVyBVkuiRuM7lVZK=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOAFHhI-r0L_n2DkbJo_iJbBeLWC9kIphJRivB3=w1024-h576-k-no"
+  ],
+  "topComments": [
+    {
+      "author": "Roberto Cecchini",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucq55LJNmDmzlISRZykyWBJCh9e_Jlz0MMePsclevw=w36-h36-p-c0x00000000-rp-mo-ba8-br100",
+      "comment": "(Tradução do Google) Este é o original, o da Piazza della Mouth of Truth deve ter sido inspirado nele. Ironicamente, é mais artificial que o outro, sendo resultado de uma reconstrução realizada há menos de um século. Originalmente criado para guardar o fogo sagrado, nunca abrigou estátuas. Foi destruída e restaurada várias vezes e não se sabe se mais tarde também foi convertida em igreja. As colunas coríntias que sugerem a forma circular continuam a ser um dos recantos mais evocativos do fórum. Veja as fotos e outros comentários sobre Roma e suas maravilhas que fiz, principalmente no fórum romano.  (Original) Questo è quello originale, a questo deve essersi ispirato quello su piazza della bocca della verità. Ironia della sorte è più posticcio dell'altro essendo frutto di una ricostruzione operata meno di un secolo fa. Creato in origine per custodire il fuoco sacro, non ha mai ospitato statue. È stato distrutto e ripristinato più volte e non è dato sapere se sia stato poi riconvertito anche come chiesa. Le colonne corinzie che fanno immaginare la forma circolare restano uno degli angoli più suggestivi del foro. Guardate le foto e le altre recensioni su Roma e le sue meraviglie che ho fatto, specie sul foro romano.",
+      "gradeComment": 4
+    },
+    {
+      "author": "Robert Chomicz",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucqEvvxLJzD4QPeCDZ6EVcJcxLI28O1JJfUWXiVq=w36-h36-p-c0x00000000-rp-mo-ba5-br100",
+      "comment": "(Tradução do Google) Restos de um pequeno templo redondo que são alguns dos mais fotogênicos de toda Roma. Uma ruína muito romântica que gerou todo um estilo de jardins no século XIX.  (Original) Remains of a small round temple that are some of the most photogenic in all of Rome. A very romantic ruin that  spawned an entire style of gardens back in the 19th century.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Domenico DiCo",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucrPIcMMETbwn65tZM-sRiX1sAdQqkmQ8mV_B7pK=w36-h36-p-c0x00000000-rp-mo-ba6-br100",
+      "comment": "(Tradução do Google) O templo de Vesta é historicamente um dos mais importantes e antigos santuários de Roma, no seu interior encontrava-se o \"Fogo Sagrado\", que juntamente com a casa das Vestais constituíam um único espaço ou edifício denominado \"Atrium Vestae\". A sua construção deve-se provavelmente ao século IV aC. e sua composição era formada por uma enorme base de cimento revestida de mármore sobre a qual erguia-se uma colunata formada por 20 colunas coríntias que fechavam a cela central com uma parte superior aberta para permitir que a fumaça escapasse. No interior, não havia nenhuma estátua dedicada à deusa, que em vez disso, pensava-se que tinha uma estátua dela dentro da \"Casa das Vestais\", nas proximidades. Infelizmente, durante o grande incêndio neroniano de 64 d.C. muito do templo e da Casa das Vestais foi destruído, foi então reconstruído para um nível mais alto, mas do templo original apenas o que vemos hoje chegou até nós, de fato a aparência e conservação atuais se devem ao grande restauro que teve lugar em 1930 durante o qual graças a peças originais encontradas e materiais semelhantes em travertino foi preservado e feito a magnificência que vemos hoje.  (Original) Il tempio di Vesta è storicamente uno dei più importanti e antichi santuario di Roma, al suo interno vi era il \"Fuoco Sacro\", esso insieme alla casa delle Vestali costituiva un unico spazio o edificio denominato \"Atrium Vestae\". La sua edificazione la si deve molto probabilmente al IV secolo a.C. e la sua composizione era formata da un enorme base cementizia ricoperta di marmo sulla quale poi intorno sorgeva un colonnato formato da 20 colonne corinzie che andavano a chiudere la cella centrale con una parte alta aperta per permettere la fuoriuscita del fumo. Al suo interno non era custodita alcuna statua dedicata alla dea che invece si pensava avesse una sua statua all'interno della vicina \"Casa delle Vestali\". Purtoppo durante il grande incendio neroniano del 64 d.C. gran parte del tempio e della Casa delle Vestali fu distrutto, fu poi ricostruito ad un livello più alto ma del tempio originale è arrivato a noi solo ciò che attualmente vediamo, infatti l'attuale aspetto e conservazione è dovuto al grande restauro avvenuto nel 1930 durante il quale grazie a pezzi originali rinvenuti e a materiali simili in travertino fu preservato e reso la magneficenza che vediamo oggi.",
+      "gradeComment": 4
+    },
+    {
+      "author": "Cesar Garcia de leaniz barcena",
+      "photoAuthor": "https://lh3.googleusercontent.com/a/AItbvmmHWc42QzyK_gJkbJVkKEnAw0nEr0BVyuTZST8x=w36-h36-p-c0x00000000-rp-mo-ba7-br100",
+      "comment": "(Tradução do Google) O Templo de Vesta (latim Aedes Vestae, em italiano Tempio di Vesta) é um dos templos mais antigos de Roma, Itália, localizado no Fórum Romano perto da Regia e da Casa das Vestais, com o qual forma um complexo religioso chamado Atrium Vestae. A característica mais reconhecível do templo é sua planta circular. Desde que a veneração de Vesta começou em casas particulares, a arquitetura parece ser uma lembrança de sua história. O templo existente usava arquitetura grega com colunas coríntias, mármore e uma cela central. A estrutura sobrevivente indica que havia vinte colunas coríntias construídas sobre um pódio de quinze metros de diâmetro. O telhado provavelmente tinha um buraco no topo para permitir que a fumaça escapasse.  (Original) El templo de Vesta (latín Aedes Vestae, en italiano Tempio di Vesta) es uno de los templos más antiguos de Roma, Italia, ubicado en el Foro Romano cerca de la Regia y la Casa de las Vestales, con la que forma un complejo religioso llamado Atrium Vestae. El rasgo más reconocible del templo es su planta circular. Puesto que la veneración de Vesta empezó en casas privadas, la arquitectura parece ser un recuerdo de su historia. El templo existente usó arquitectura griega con columnas corintias, mármol y una cella central. La estructura que se conserva indica que había veinte columnas corintias construidas sobre un podio de quince metros de diámetro. El tejado probablemente tenía un agujero en lo alto para permitir que saliera el humo.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Jose C Poveda",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucrP9Z6f1YSZkznJALCBa_4Hl7MeZx6_DEnmb0aFMw=w36-h36-p-c0x00000000-rp-mo-ba5-br100",
+      "comment": "(Tradução do Google) Originalmente era a casa do rei, onde suas filhas se encarregavam de manter o fogo aceso. Ele data do início do século 7 aC. mas sua aparência atual corresponde à última restauração realizada pelo Sétimo Severo após o incêndio de 191. O templo das Virgens Vestais tinha uma planta circular como uma representação da velha cabana. É composta por uma cela rodeada por vinte colunas coríntias, erguida sobre um pódio revestido de mármore, com acesso por escada. Vesta era a deusa da lareira. Nele o símbolo do fogo sagrado da vida da cidade foi guardado. Seis sacerdotisas, escolhidas entre as famílias mais nobres, estavam destinadas a 30 anos de sacerdócio. Eles fizeram voto de castidade. Estava localizado no Fórum Romano e era um dos templos mais importantes de Roma, do ponto de vista religioso. Originalmente, consistia em quatro andares com quartos ao redor do pátio, nos quais as sacerdotisas mantinham acesa a chama do Templo de Vesta no final do pátio. Pouco do edifício está preservado mas sobressaem os mosaicos do chão do pátio em redor da piscina. Ao lado do templo ficava a casa das vestais. Os vestígios atuais são uma reconstrução de 1930. A Domus Pública foi anexada à casa das Vestais. Foi a residência do Pontifício Máximo. Em janeiro de 2011, foi aberto ao público.  (Original) Originalmente era la casa del rey, donde sus hijas se encargaban de mantener encendido el fuego. Data de principios del siglo VII a.e.c. pero su aspecto actual corresponde a la última restauración llevada a cabo por Séptimio Severo tras el incendio del 191. El templo de las Vírgenes Vestales, era de planta circular como representación de la antigua choza. Está formado por una cela rodeada de veinte columnas corintias, levantada sobre un podio revestido de mármol, al se accedía mediante una escalinata. Vesta era la diosa del hogar. En él se custodiaba el fuego sagrado símbolo de la vida de la ciudad. Seis sacerdotisa elegidas entre las familias más nobles, estaban obligadas a 30 años de sacerdocio. Tenían voto de castidad. Estaba situado en el Foro Romano y era uno de los templos más importante de Roma, desde el punto de vista religioso. Originalmente constaba de cuatro plantas con habitaciones alrededor del patio, en el que las sacerdotisas mantenían viva la llama del Templo de Vesta que se encontraba al fondo del patio. Del edificio se conserva poco pero destacan los mosaicos del suelo en el patio alrededor de la piscina. Junto al templo se ubicaba la casa de las vestales. Los restos actuales son una reconstrucción de 1930. La Domus Pública estaba adosada a la casa de las vestales. Era la residencia del Pontifice Maximus. En enero de 2011, se ha abierto al público.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Vinay Kulkarni",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucpI0pzeloW9kqn8opy2llrFU3byoEZnJrL0qWf_8A=w36-h36-p-c0x00000000-rp-mo-ba6-br100",
+      "comment": "(Tradução do Google) Boa construção antiga. Ruínas. Parte de uma grande história. Antiga glória dos impérios romanos em exibição.  (Original) Good grand old construction. Ruins. Part of great history. Roman empires old glory at display.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Carlos Dominguez",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucp6mVEXV33yChI3vD-i1yPruz7x75rGpZeKPkHRJsc=w36-h36-p-c0x00000000-rp-mo-ba8-br100",
+      "comment": "(Tradução do Google) Quando você visita o fórum romano, não sabe onde procurar. A cada passo, há vestígios de uma construção que abrigava usos diferentes há dois mil anos. O templo de Vesta é um deles. Com um plano circular, como todo templo de Vesta, deusa do fogo, tinha sua entrada para o leste, para ligá-lo ao sol. Os restos sugerem que ele tinha 20 colunas.  (Original) Cuando uno visita el foro romano no sabe hacia dónde mirar. A cada paso hay vestigios de una construcción que albergó distintos usos hace dos mil años. El templo de Vesta es uno de ellos. De planta circular, como todo templo de Vesta, diosa del fuego, tenía su entrada hacia el este, para vincularlo al sol. Los restos sugieren que tenía 20 columnas.w",
+      "gradeComment": 5
+    },
+    {
+      "author": "Alonso Quijada",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucq9k1M9ylHXL9leZ52Z8mbvIwndn1KTLbUZXxIy=w36-h36-p-c0x00000000-rp-mo-ba5-br100",
+      "comment": "(Tradução do Google) Templo de Vesta, a divindade incorpórea encarnada em chamas terrenas cujos representantes na terra eram sacerdotisas virgens, encarregados de alimentar eternamente o fogo do templo. Conhecer a história do culto a Vesta é quase essencial para admirar ainda mais os restos do templo, escassos, mas preciosos. Eu recomendo procurar informações na Internet e lê-las no local, se os serviços de um guia não estiverem disponíveis.  (Original) Templo a Vesta, la deidad incorpórea encarnada en llamas terrenales cuyas representantes en la tierra eran sacerdotisas vírgenes, encargadas de alimentar de forma eterna el fuego del templo. Conocer la historia del culto a Vesta es casi imprescindible para admirar más todavía los restos del templo, escasos pero preciosos. Recomiendo buscar información en Internet y leerla en el lugar si no se dispone de los servicios de un guía.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Andreas K.",
+      "photoAuthor": "https://lh3.googleusercontent.com/a/AItbvmldyHU6qYCe3E7U60UL8TIr6DgY-ogyySwD4048=w36-h36-p-c0x00000000-rp-mo-ba5-br100",
+      "comment": "(Tradução do Google) O Templo de Vesta era o santuário central de Roma no Fórum Romano. Ele estava por trás do César e do Dioskurentempel. Nela queimava o fogo sagrado de Vesta, que era guardado pelas seis vestais. Dentro do templo, foram mantidos os penatos do estado, vários itens que Aeneasangebuerlich deveria ter resgatado de Tróia, incluindo o Palladion, uma antiga estátua da deusa Pallas Athena. O sagrado interior do templo só podia ser penetrado por poucas pessoas, como as vestais ou o Pontifex Maximus.  (Original) Der Tempel der Vesta war das zentrale Heiligtum Roms auf dem Forum Romanum. Er befand sich hinter dem Caesar-und Dioskurentempel. In ihm brannte das Heilige Feuer der Vesta, das von den sechs Vestalinnen bewacht wurde. Im Inneren des Tempels wurden die Penaten des Staates aufbewahrt, verschiedene Gegenstände, die Aeneasangeblich aus Troja gerettet haben sollte, darunter das Palladion, eine alte Statue der Göttin Pallas Athene. Der heilige Innenraum des Tempels durfte nur von wenigen Personen wie den Vestalinnen oder dem Pontifex Maximus betreten werden.",
+      "gradeComment": 4
+    },
+    {
+      "author": "David Smith",
+      "photoAuthor": "https://lh3.googleusercontent.com/a/AItbvmki7ps-P4wcXGLf3laGbHC8WKeFmeO8EedBlxYn=w36-h36-p-c0x00000000-rp-mo-br100",
+      "comment": "(Tradução do Google) Restos do templo das virgens vestais com sua chama sagrada. Parte do fórum romano.  (Original) Remains of the temple of the vestal virgins with their sacred flame.  Part of the Roman forum.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Un tal Cernuda",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucrNxh-CPyrkER9Eetsi--h-4Hlf5JNSLLYWQy-N9Dc=w36-h36-p-c0x00000000-rp-mo-ba5-br100",
+      "comment": "(Tradução do Google) Aqui havia um fogo que estava sempre ligado, algumas sacerdotisas estavam no cargo, foi naquele dia e noite, como se diminuído se acreditava que Roma iria cair, este totalmente reconstruída, com o que você vê hoje não posso imaginar que era uma chave site Roma antiga  (Original) Aquí yacía un fuego que siempre estaba encendido, unas sacerdotisas se encargaban de que fuera así día y noche ya que si se apagaba se creía que Roma caería, esta totalmente reconstruido, con lo que se ve hoy no se imagina que fue un sitio clave en la antigua Roma",
+      "gradeComment": 5
+    },
+    {
+      "author": "Viliam Rubaninsky",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucqz30Nwm-kHYkt_yx98OnJEtQG23RFxmi-2F8W6=w36-h36-p-c0x00000000-rp-mo-ba6-br100",
+      "comment": "(Tradução do Google) A igreja é de formato redondo, dedicada à deusa Colete de fogo. É um dos edifícios mais antigos na Roma Antiga. Foi construído para tinha um fogo constante, muito importante naquela época, porque ele estava conseguindo com alguma dificuldade. Devido à sua função, foi reconstruído várias vezes. Seu rosto vem da reconstrução de 191 n. eu. após outro incêndio. O que vemos hoje é em parte o resultado reconstrução moderna de travertino em 1930.  (Original) Kostol je okrúhleho tvaru venovaný bohyni ohňa Veste. Je jednou z najstarších budov v starom Ríme. Bol postavený k tomu, aby mal trvalý oheň, v tých časoch veľmi dôležitý, pretože bol získavaní s určitými ťažkosťami. Kvôli svojej funkcii bol niekoľkokrát prestavany. Jeho tvár pochádza z rekonštrukcie z roku 191 n. l. po ďalšom požiari. To čo vidíme dnes je čiastočne výsledkom modernej rekonštrukcie travertinu v roku 1930.",
+      "gradeComment": 3
+    },
+    {
+      "author": "Dingo F",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZuco6yLeDbjwdh9bnVAs-KF_g0I_0FdYlEQSlZFCr=w36-h36-p-c0x00000000-rp-mo-br100",
+      "comment": "(Tradução do Google) Bom se você gosta de arquitetura romana. Lembre-se de trazer boas botas de caminhada, a menos que você queira pés machucados.  (Original) Good if you like Roman Architecture. Remember to bring good walking boots unless you want knackered feet.",
+      "gradeComment": 4
+    },
+    {
+      "author": "Gianluca Pica",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucol89bTltKwsay3b5J9NpcP9FHY8kjkKscTmBhvkgk=w36-h36-p-c0x00000000-rp-mo-ba5-br100",
+      "comment": "(Tradução do Google) O chamado Templo de Vesta é um dos ícones do Fórum Romano, um ponto essencial das minhas visitas guiadas que toco sempre para que as pessoas entendam um pouco mais sobre a cultura e a religião da Roma Antiga. O que vemos hoje, uma porção de um edifício circular que foi reconstruído há pouco mais de um século, na verdade representa o ponto onde as famosas vestais realizavam seus ritos. Não só isso, já que o Templo de Vesta também escondia algo fundamental para a própria existência da cidade: uma chama, colocada sobre um tripé, que sempre precisava ser alimentada. Se isso não tivesse acontecido, se a chama tivesse se apagado, Roma teria falhado. As vestais, sacerdotisas devotadas a Vesta, concordaram em viver em castidade por pelo menos 30 anos, tantos quanto a duração de sua missão divina, a fim de poder oficiar os ritos inerentes ao culto de Vesta. Ela foi uma divindade indígena colocada em relação com o lar doméstico e uma dimensão íntima da sociedade romana, imbuída da família. As sacerdotisas eram praticamente intocáveis, qualquer um tinha que parar imediatamente de fazer qualquer atividade ao passar e, principalmente, ninguém podia tocá-las, principalmente do ponto de vista sexual. Entre as atividades realizadas pelas vestais estava a preparação de certos alimentos para certas cerimônias, bem como a preservação de relíquias de certo valor para a comunidade romana.  (Original) Il cosiddetto Tempio di Vesta è uno delle icone del Foro Romano, un punto imprescindibile dei mie tour guidati che tocco sempre per far comprendere qualcosa in più sulla cultura e la religione della Roma antica. Ciò che vediamo oggi, una porzione di un edificio circolare ricostruito però poco più di un secolo fa, rappresenta in realtà il punto in cui le celeberrime Vestali svolgevano i loro riti. Non solo, poiché il Tempio di Vesta celava anche qualcosa di fondamentale per l'esistenza stessa dell'Urbe: una fiamma, posta su un tripode, che doveva sempre essere alimentata. Se così non fosse avvenuto, se la fiamma si fosse spenta, sarebbe venuta meno Roma. Le Vestali, le sacerdotesse devote a Vesta, accettavano di vivere in castità per almeno 30 anni, tanti quanti la durata della loro missione divina, pur di poter officiare i riti inerenti al culto di Vesta. Essa era una divinità autoctona messa in relazione con il focolare domestico ed una dimensione intima della società romana, impregnata sulla famiglia. Le sacerdotesse erano praticamente intoccabili, chiunque doveva immediatamente smettere di fare qualunque attività al loro passaggio e, soprattutto, nessuno poteva toccarle, soprattutto dal punto di vista sessuale. Tra le attività svolte dalle Vestali vi era la preparazione di determinati cibi per determinate cerimonie, così come la preservazione di reliquie di un certo valore per la comunità romana.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Hiroiku Kawai",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucrLZnfBOF3HUAfTypQvh-JdE4ynS-J_m-0kgl5jWA=w36-h36-p-c0x00000000-rp-mo-br100",
+      "comment": "(Tradução do Google) Sinto o peso da história quando penso que depois se tornou o Capitólio dos Estados Unidos por meio de Bramante.  (Original) 後にブラマンテを経てアメリカ議事堂になったと思うと歴史の重みを感じます。",
+      "gradeComment": 5
+    },
+    {
+      "author": "Jan Kalbantner",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucpu9yvS7z3wuqET7YFinoLgCONtuXUjeveXIfoGGDU=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "(Tradução do Google) Impressionante quando se olha da colina palatina sobre todo o fórum romano  (Original) Impressive when looking from palatine hill over the whole Roman forum",
+      "gradeComment": 5
+    },
+    {
+      "author": "David F",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucr0scCyvP1GizOlwrmj_eIM70-4WoBSo80ko_sScko=w36-h36-p-c0x00000000-rp-mo-ba6-br100",
+      "comment": "(Tradução do Google) embora apenas algumas colunas permaneçam, você pode imaginar como o templo teria sido em tempos romanos  (Original) although only a few columns remain you can imagine how the temple would have looked in Roman times",
+      "gradeComment": 4
+    },
+    {
+      "author": "Matt Clarke",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucour4fo5Une_sAgVRAcckG_uVu2OCukz1cDHYiNIQ=w36-h36-p-c0x00000000-rp-mo-ba7-br100",
+      "comment": "(Tradução do Google) Ruínas maravilhosas na área que já foi um templo  (Original) Wonderful ruins in the area that once was a temple",
+      "gradeComment": 5
+    },
+    {
+      "author": "tommaso grenga",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucoGpUxD8FCCHX9kZyYTT9vxg83_T_QM3Us3-ySc=w36-h36-p-c0x00000000-rp-mo-ba7-br100",
+      "comment": "(Tradução do Google) Em todos os povos arcaicos, o fogo tinha uma importância fundamental para o bem-estar da comunidade, para os romanos não era diferente. O templo de vesta era presidido pelas vestais, que tinham a honra e o encargo de zelar pelo fogo sagrado. A homenagem por essas mulheres serem extremamente respeitadas enquanto entre as homenagens foi a de permanecerem virgens durante os 30 anos de serviço no templo, sob pena de serem enterradas vivas. Giulio Cesere, antes de sua ditadura ser eleito para o cargo de Papa Máximo, o cargo religioso mais importante. Entre suas funções estava, entre outras coisas, a nomeação de sacerdotisas.  (Original) In tutti i popoli arcaici il fuoco aveva un'importanza fondamentale per il benessere della comunità, per i romani non era differente. Il tempio di vesta era presieduto dalle vestali, che avevano l'onore e l'onere di accudire il fuoco sacro. L'onore perché queste donne erano estremamente rispettate mentre fra gli onori c'era quello di rimanere vergini per tutta la durata dei 30anni di servizio nel tempio, pena l'essere sepolte vive. Giulio Cesere, prima della sua dittatura venne eletto alla carica di Pontefice Massimo, la più importante carica religiosa. Fra i suoi compiti c'era  fra le altre cose la nomina delle sacerdotesse.",
+      "gradeComment": 4
+    },
+    {
+      "author": "Luigi Garasto",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucrNUVzhELc1Ezkpid0KE6EnHPOYib8rCbN-Eqd9awE=w36-h36-p-c0x00000000-rp-mo-ba7-br100",
+      "comment": "(Tradução do Google) Templo de forma circular dedicado à Deusa Vesta para ser visualizado em sistema com a Casa das Vestais que se encontra, precisamente à sua frente. Muito antigo como um templo, provavelmente datado do segundo rei de Roma, Numa Pompilius. As vestais, sacerdotisas consagradas à deusa Vesta, foram as únicas autorizadas a entrar no Penus Vestae, a parte mais sagrada do templo. Se a avaliação foi útil para você, clique na mão, obrigado.  (Original) Tempio di forma circolare dedicato alla Dea Vesta da guardare in sistema con la Casa delle Vestali che sta, per l'appunto davanti. Molto antico come tempio, probabilmente risalente al secondo Re di Roma, Numa Pompilio. Le Vestali, che erano le sacerdotesse cosacrate alla dea Vesta, erano le uniche autorizzate ad entrare nel Penus Vestae che è la parte più sacra del tempio. Se la recensione ti è stata utile, per favore clicca sulla manina, grazie.",
+      "gradeComment": 4
+    }
+  ],
+  "peakHours": [
+    {
+      "Sunday": [
+        {
+          "hour": "09:00",
+          "percent": 26
+        },
+        {
+          "hour": "10:00",
+          "percent": 44
+        },
+        {
+          "hour": "11:00",
+          "percent": 50
+        },
+        {
+          "hour": "12:00",
+          "percent": 39
+        },
+        {
+          "hour": "13:00",
+          "percent": 23
+        },
+        {
+          "hour": "14:00",
+          "percent": 16
+        },
+        {
+          "hour": "15:00",
+          "percent": 18
+        },
+        {
+          "hour": "16:00",
+          "percent": 17
+        },
+        {
+          "hour": "17:00",
+          "percent": 10
+        },
+        {
+          "hour": "18:00",
+          "percent": 3
+        }
+      ]
+    },
+    {
+      "Monday": [
+        {
+          "hour": "09:00",
+          "percent": 30
+        },
+        {
+          "hour": "10:00",
+          "percent": 72
+        },
+        {
+          "hour": "11:00",
+          "percent": 98
+        },
+        {
+          "hour": "12:00",
+          "percent": 80
+        },
+        {
+          "hour": "13:00",
+          "percent": 48
+        },
+        {
+          "hour": "14:00",
+          "percent": 20
+        },
+        {
+          "hour": "15:00",
+          "percent": 14
+        },
+        {
+          "hour": "16:00",
+          "percent": 44
+        },
+        {
+          "hour": "17:00",
+          "percent": 48
+        },
+        {
+          "hour": "18:00",
+          "percent": 11
+        },
+        {
+          "hour": "19:00",
+          "percent": 1
+        }
+      ]
+    },
+    {
+      "Tuesday": [
+        {
+          "hour": "09:00",
+          "percent": 23
+        },
+        {
+          "hour": "10:00",
+          "percent": 65
+        },
+        {
+          "hour": "11:00",
+          "percent": 84
+        },
+        {
+          "hour": "12:00",
+          "percent": 57
+        },
+        {
+          "hour": "13:00",
+          "percent": 30
+        },
+        {
+          "hour": "14:00",
+          "percent": 27
+        },
+        {
+          "hour": "15:00",
+          "percent": 28
+        },
+        {
+          "hour": "16:00",
+          "percent": 26
+        },
+        {
+          "hour": "17:00",
+          "percent": 18
+        },
+        {
+          "hour": "18:00",
+          "percent": 9
+        },
+        {
+          "hour": "19:00",
+          "percent": 4
+        }
+      ]
+    },
+    {
+      "Wednesday": [
+        {
+          "hour": "09:00",
+          "percent": 41
+        },
+        {
+          "hour": "10:00",
+          "percent": 72
+        },
+        {
+          "hour": "11:00",
+          "percent": 80
+        },
+        {
+          "hour": "12:00",
+          "percent": 58
+        },
+        {
+          "hour": "13:00",
+          "percent": 35
+        },
+        {
+          "hour": "14:00",
+          "percent": 29
+        },
+        {
+          "hour": "15:00",
+          "percent": 28
+        },
+        {
+          "hour": "16:00",
+          "percent": 28
+        },
+        {
+          "hour": "17:00",
+          "percent": 35
+        },
+        {
+          "hour": "18:00",
+          "percent": 22
+        },
+        {
+          "hour": "19:00",
+          "percent": 4
+        }
+      ]
+    },
+    {
+      "Thursday": [
+        {
+          "hour": "09:00",
+          "percent": 53
+        },
+        {
+          "hour": "10:00",
+          "percent": 88
+        },
+        {
+          "hour": "11:00",
+          "percent": 100
+        },
+        {
+          "hour": "12:00",
+          "percent": 76
+        },
+        {
+          "hour": "13:00",
+          "percent": 44
+        },
+        {
+          "hour": "14:00",
+          "percent": 31
+        },
+        {
+          "hour": "15:00",
+          "percent": 43
+        },
+        {
+          "hour": "16:00",
+          "percent": 49
+        },
+        {
+          "hour": "17:00",
+          "percent": 32
+        },
+        {
+          "hour": "18:00",
+          "percent": 11
+        }
+      ]
+    },
+    {
+      "Friday": [
+        {
+          "hour": "09:00",
+          "percent": 43
+        },
+        {
+          "hour": "10:00",
+          "percent": 55
+        },
+        {
+          "hour": "11:00",
+          "percent": 59
+        },
+        {
+          "hour": "12:00",
+          "percent": 53
+        },
+        {
+          "hour": "13:00",
+          "percent": 40
+        },
+        {
+          "hour": "14:00",
+          "percent": 26
+        },
+        {
+          "hour": "15:00",
+          "percent": 14
+        },
+        {
+          "hour": "16:00",
+          "percent": 10
+        },
+        {
+          "hour": "17:00",
+          "percent": 30
+        },
+        {
+          "hour": "18:00",
+          "percent": 18
+        }
+      ]
+    },
+    {
+      "Saturday": [
+        {
+          "hour": "09:00",
+          "percent": 8
+        },
+        {
+          "hour": "10:00",
+          "percent": 42
+        },
+        {
+          "hour": "11:00",
+          "percent": 65
+        },
+        {
+          "hour": "12:00",
+          "percent": 38
+        },
+        {
+          "hour": "13:00",
+          "percent": 20
+        },
+        {
+          "hour": "14:00",
+          "percent": 25
+        },
+        {
+          "hour": "15:00",
+          "percent": 32
+        },
+        {
+          "hour": "16:00",
+          "percent": 32
+        },
+        {
+          "hour": "17:00",
+          "percent": 24
+        },
+        {
+          "hour": "18:00",
+          "percent": 14
+        },
+        {
+          "hour": "19:00",
+          "percent": 6
+        }
+      ]
+    }
+  ],
+  "relatedSearches": [
+    "deusa vesta",
+    "templo de constantino",
+    "templo de rômulo",
+    "templo de antonino e faustina",
+    "poderes da deusa vesta",
+    "vestais da moralidade",
+    "templo de héstia",
+    "vestalia",
+    "deusa vesta",
+    "templo de constantino",
+    "templo de rômulo",
+    "templo de antonino e faustina",
+    "poderes da deusa vesta",
+    "vestais da moralidade",
+    "templo de héstia",
+    "vestalia"
+  ],
+  "relateds": [
+    {
+      "mainName": "Casa das Vestais",
+      "url": null
+    },
+    {
+      "mainName": "Tempio di Vesta",
+      "url": null
+    },
+    {
+      "mainName": "Régia",
+      "url": null
+    },
+    {
+      "mainName": "Templo de Saturno",
+      "url": null
+    },
+    {
+      "mainName": "Templo de Castor e Pólux",
+      "url": null
+    },
+    {
+      "mainName": "Templo de Hércules Vencedor",
+      "url": null
+    },
+    {
+      "mainName": "Templo de César",
+      "url": null
+    },
+    {
+      "mainName": "Basílica Júlia",
+      "url": null
+    },
+    {
+      "mainName": "Basílica Emília",
+      "url": null
+    },
+    {
+      "mainName": "Templo de Portuno",
+      "url": null
+    },
+    {
+      "mainName": "Templo da Concórdia",
+      "url": null
+    },
+    {
+      "mainName": "Fórum Romano",
+      "url": null
+    },
+    {
+      "mainName": "Curia Iulia",
+      "url": null
+    },
+    {
+      "mainName": "Via Sacra",
+      "url": null
+    },
+    {
+      "mainName": "Templo de Vénus e Roma",
+      "url": null
+    },
+    {
+      "mainName": "Tabularium",
+      "url": null
+    },
+    {
+      "mainName": "Basílica de Constantino",
+      "url": null
+    },
+    {
+      "mainName": "Fórum Boário",
+      "url": null
+    },
+    {
+      "mainName": "Templo de Vespasiano e Tito",
+      "url": null
+    },
+    {
+      "mainName": "Rostra",
+      "url": null
+    },
+    {
+      "mainName": "Palatino",
+      "url": null
+    },
+    {
+      "mainName": "Arco de Tito",
+      "url": null
+    },
+    {
+      "mainName": "Bocca della Verità",
+      "url": null
+    },
+    {
+      "mainName": "Templo de Antonino e Faustina",
+      "url": null
+    },
+    {
+      "mainName": "Casa das Vestais",
+      "url": null
+    },
+    {
+      "mainName": "Tempio di Vesta",
+      "url": null
+    },
+    {
+      "mainName": "Régia",
+      "url": null
+    },
+    {
+      "mainName": "Templo de Saturno",
+      "url": null
+    },
+    {
+      "mainName": "Templo de Castor e Pólux",
+      "url": null
+    },
+    {
+      "mainName": "Templo de Hércules Vencedor",
+      "url": null
+    },
+    {
+      "mainName": "Templo de César",
+      "url": null
+    },
+    {
+      "mainName": "Basílica Júlia",
+      "url": null
+    },
+    {
+      "mainName": "Basílica Emília",
+      "url": null
+    },
+    {
+      "mainName": "Templo de Portuno",
+      "url": null
+    },
+    {
+      "mainName": "Templo da Concórdia",
+      "url": null
+    },
+    {
+      "mainName": "Fórum Romano",
+      "url": null
+    },
+    {
+      "mainName": "Curia Iulia",
+      "url": null
+    },
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

@@ -1,0 +1,998 @@
+{
+  "mainName": "Tres de Febrero Park",
+  "slug": "tres-de-febrero-park",
+  "category": "Parque",
+  "locationInformation": {
+    "latitude": "-34.5708801",
+    "longitude": "-58.4171029"
+  },
+  "basicInformation": [
+    {
+      "label": "endereço",
+      "tooltip": "Copiar endereço",
+      "text": "Av. Infanta Isabel 110, Buenos Aires, Argentina",
+      "icon": "https://www.gstatic.com/images/icons/material/system_gm/1x/place_gm_blue_24dp.png"
+    },
+    {
+      "label": "website",
+      "tooltip": "Abrir website",
+      "text": "turismo.buenosaires.gob.ar",
+      "icon": "https://www.gstatic.com/images/icons/material/system_gm/1x/public_gm_blue_24dp.png"
+    },
+    {
+      "label": "Code",
+      "tooltip": "Copiar Plus Code",
+      "text": "CHHM+J5 Buenos Aires, Cidade Autônoma de Buenos Aires, Argentina",
+      "icon": "https://maps.gstatic.com/mapfiles/maps_lite/images/2x/ic_plus_code.png"
+    }
+  ],
+  "ratingInformation": {
+    "basicRatingInformation": {
+      "averageGrade": 4.7,
+      "totalOfEvaluations": 36523
+    },
+    "ratingsByGrade": [
+      {
+        "grade": 5,
+        "totalRatings": 28120
+      },
+      {
+        "grade": 4,
+        "totalRatings": 6453
+      },
+      {
+        "grade": 3,
+        "totalRatings": 1392
+      },
+      {
+        "grade": 2,
+        "totalRatings": 235
+      },
+      {
+        "grade": 1,
+        "totalRatings": 323
+      }
+    ]
+  },
+  "ratingTags": [
+    {
+      "tag": "patins em linha",
+      "count": 346,
+      "tooltip": "patins em linha, mencionado em 346 avaliações"
+    },
+    {
+      "tag": "roseiral",
+      "count": 96,
+      "tooltip": "roseiral, mencionado em 96 avaliações"
+    },
+    {
+      "tag": "planetário",
+      "count": 78,
+      "tooltip": "planetário, mencionado em 78 avaliações"
+    },
+    {
+      "tag": "bote",
+      "count": 68,
+      "tooltip": "bote, mencionado em 68 avaliações"
+    },
+    {
+      "tag": "carlos thays",
+      "count": 17,
+      "tooltip": "carlos thays, mencionado em 17 avaliações"
+    }
+  ],
+  "featuredPhotos": [
+    "https://lh5.googleusercontent.com/p/AF1QipO1qKYN_ElHEujJC3DG2vvIf5sqK7enOENr6iYN=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOOPqVAfVOng9tNNKoGX0TD15Ymt2pZUDEoCxjK=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNyuoSJq9NzwFzISCkzUGmmNgnaPpa4UeaGdTXP=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPpmAaFEo58TxtyIpzLXAx-aTH0vOtSREzWpJyk=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipM4xOXwzcTpFvGF89PIMHCs0oMYfx04FnfAOSvV=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipN4npQswxoH6OEZsb_nm3XGcnJ0St0ULPpNXeOe=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPHpamJj8WfG1iRt4zW7aT0dyhWMwmQKhc5pRww=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOsOb7UL39JhR3nHhOunRJ8JwnMOfrxsMrWjMcC=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNIblB04q5za6puD-7YMieO-oCKNSubVPzHFKJk=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPZ33od8AW_BMxV3RGOYzMA1-Y_6MAYpr-xz-cU=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNrmBpXDRLFdOcVKUYoLzvYdhWVpkIzfp6o4sdq=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPJzlfhkcgGDk_HRN-gfVHL-akzuaVQJigrts9Q=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNtjpxwi6ONKebtZUVbItKcRXpMUVkfVvKD3rJI=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipO0OsGGhpjj9og4ti7OYkfSSPfO3AFVFgHiV04z=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOHe6sKYyu1qpswYHR-0zulgUdnEWh5toY__Yjo=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOFBTxIecjHFGkCt4xsWqRBXLLuRBPCnczDfpJD=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPaQPpsm2_qhSnej3SgK16G3R3SXjZdV8q9ZiVw=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPL77oow4x0hbyliQWM7k0U5grKbmqLa18SLJ_b=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNf1q046MatUaTWGsXLfWXNVo6Vrj3PdnGGTvtx=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPf749jSR4u8HH5mOqObas17u_-40GJaJZvsfad=w1024-h576-k-no"
+  ],
+  "topComments": [
+    {
+      "author": "Maria Eduarda",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucr4lodctSHJwagTgCRCoGhwkcfaLh9uhuLcqiGEfEQ=w36-h36-p-c0x00000000-rp-mo-br100",
+      "comment": "Um dos melhores lugares que visitamos em BA. O parque é liiindo, tem bastante coisa pra ver e lugares para tirar foto. Perfeito para um dia de sol.  Também andamos de pedalinho, é um lago bem grande, vale a pena.  Vale aproveitar a rota e ir no jardim japonês, almoçar nos arcos do rosedal e ir no planetário.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Gizelia Saliby",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucrWvI0G_xB93cYHzYTAd_LfuqIuKID6_P_t0Lso1Go=w36-h36-p-c0x00000000-rp-mo-ba5-br100",
+      "comment": "O rosedal é um dos meus lugares preferidos em buenos Aires. É lindíssimo. Nunca fui na primavera, sempre estive no outono ou inverno e ainda assim é muito lindo. Uma atmosfera muito gostosa. O lago tem muitos patos.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Mathias",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucoiSrWmCf9aJscvP_JRQ1Dj0uUYJnl_hpb1vY3PyhI=w36-h36-p-c0x00000000-rp-mo-ba6-br100",
+      "comment": "Complexo de praças e jardins em Palermo. Ambiente para passeio, prática de esportes e lazer. Neste parque está o El Rosedal com seus canteiros de rosas de diferentes variedades. Há um belo lago artificial, grandes gramados, banheiros públicos, espaços para descansar .",
+      "gradeComment": 5
+    },
+    {
+      "author": "Breno Cunha",
+      "photoAuthor": "https://lh3.googleusercontent.com/a/AItbvmnhtfD5FUqmQ3wT4C4CWDQSYiWyXz7UUhzbVhy8=w36-h36-p-c0x00000000-rp-mo-ba5-br100",
+      "comment": "Próximo ao Parque Japonês e ao Planetário, tem uma infraestrutura excelente, e o passeio de pedalinho no Lago vale muito a pena, para quem está acompanhado e em família.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Brenda Passon",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucoXK1aqbF5Yr9MxmJkjnna6K-ryIMCqtjOR_mf8HAg=w36-h36-p-c0x00000000-rp-mo-ba5-br100",
+      "comment": "Lindo e muito bem cuidado! Certamente vale a pena a visita!",
+      "gradeComment": 5
+    },
+    {
+      "author": "Matheus Alcofra",
+      "photoAuthor": "https://lh3.googleusercontent.com/a/AItbvmnKyzjh70iYWQ7aMgZVkfaNpW7Kc40V4vHcW8M2gg=w36-h36-p-c0x00000000-rp-mo-ba5-br100",
+      "comment": "lugar mais lindo, vale demais a visita. Um parque enorme, ótimo pra fotos, curtir uma paz, aproveitar um pouco do contato com a natureza. Mais do que indicado. Melhor época pra visitar é na primavera, quando todas as flores estão ainda mais bonitas.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Escritora Sandra Ribeiro",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucr5m6qFJzDikArfmi1LY-go1WDBjDGYmX8wXq5_=w36-h36-p-c0x00000000-rp-mo-ba5-br100",
+      "comment": "Local maravilhoso. Paisagismo bem elaborado que encanta os olhos. Recomendo.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Leandro Marcio",
+      "photoAuthor": "https://lh3.googleusercontent.com/a/AItbvmlB03M9-qzKyZbjwcvfJfBB8jIIxjHrmpnkZ5A-=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "Simplesmente lindo, perfeito para uma caminhada, pedalada. Super limpo. Vale a pena visitar.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Rafael Motta Neiva",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucqUFWn-h7oxp02C3wFm-1MGTndpuQoYqDn4VzbxseU=w36-h36-p-c0x00000000-rp-mo-ba6-br100",
+      "comment": "Excelente lugar para relaxar, curtir a natureza, práticas esportivas, caminhadas, etc. Vale a pena visitar.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Jean Freitas",
+      "photoAuthor": "https://lh3.googleusercontent.com/a/AItbvmk-RiyE5TYUKO0StTRyuFCLmhKndtTfL2VAWpbO=w36-h36-p-c0x00000000-rp-mo-ba3-br100",
+      "comment": "Lindo demais, lugar calmo e tranquilo para passear qualquer horário do dia",
+      "gradeComment": 5
+    },
+    {
+      "author": "Karen Swerts",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucq_jRMysqIEsXXoHM5HBBqdAZ308QDqcbMNZAEMGg=w36-h36-p-c0x00000000-rp-mo-ba2-br100",
+      "comment": "Simplesmente espetacular o parque. Como todos os parques de Buenos Aires, um lugar muito bem cuidado com banheiros públicos, fácil acesso e uma experiência visual maravilhosa. Dentro do parque fica situado o Rosedal que tem uma coleção espetacular de rosas. Vale passar uma tarde para conhecer o parque, andar de pedalinho e conhecer parte do lugar que é enorme.",
+      "gradeComment": 5
+    },
+    {
+      "author": "aryane araujo",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucqfiPx15jKZqNr1YSK8u_ITL3r4JEXNGQ9FNJOamgQ=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "Muito lindo. Lugar perfeito para fotos, passear com cachorros, andar de bicicleta, correr ou fazer um piquenique. Vale a pena visitar!",
+      "gradeComment": 5
+    },
+    {
+      "author": "Lucas Lopes",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucqRlZVlAXfFfDipbaklf0dd795XqNb-0sIwESYkIA=w36-h36-p-c0x00000000-rp-mo-ba5-br100",
+      "comment": "Me encantou, el año pasado yo fue pero como era invierno no desfrute mucho. Es ótimo lugar para pasar el día con la familia, hacer unos picnics, tomar mate y...... Tiene la posibilidad de hacer deportes como: paseó de bici, patines, rollers o paseo de bote, súper recomiendo.. Adorei, fui no ano passado mas como era inverno não pude curtir tanto como agora. É o lugar perfeito para passar o dia com a família, fazer alguns piqueniques, com companheiro, amigos e.... Você tem a possibilidade de praticar esportes como: passeio de bike, patins, patinete ou passeio de barco, recomendo vivamente. I loved it, I went last year but as it was winter I couldn't enjoy it as much as now. It is the perfect place to spend the day with the family, have a few picnics, with a partner, friends and .... You have the possibility to practice sports such as: bike ride, rollerblading, scooter or boat ride, I strongly recommend. J'ai adoré, j'y suis allé l'année dernière mais comme c'était l'hiver, je n'ai pas pu en profiter autant que maintenant. C'est l'endroit idéal pour passer la journée en famille, faire quelques pique-niques, en couple, entre amis et .... Vous avez la possibilité de pratiquer des sports tels que: balade à vélo, roller, scooter ou promenade en bateau, je recommande vivement.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Alex Sandro Bernardi",
+      "photoAuthor": "https://lh3.googleusercontent.com/a/AItbvmkKMiAVaOz2mOFnrB-1oaBABNj0s4E4kQ4K-Lzs=w36-h36-p-c0x00000000-rp-mo-ba3-br100",
+      "comment": "Lugar simplesmente lindo, tranqüilo. Tem uns pedalinhos para você andar ao redor do lago, tem ate para 6 pessoas, se nao me engano da uns 1600 pesos para 6 pessoas. Vale muito, nao vai se arrepender.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Ive Marques",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucqeuQueHFLpTQUBmoY2Bx_rzxPNGVFz6lVuN_J4QPY=w36-h36-p-c0x00000000-rp-mo-ba3-br100",
+      "comment": "Morava pertinho!!! Ia muito lá lugar lindoooo super segurO as vezes ia sozinha de madrugada!",
+      "gradeComment": 5
+    },
+    {
+      "author": "Vinícius Martins",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucqrbMK60-ygYKZOhQgUYsZzlkT3PUwZ7r89p5I41k8=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "Agradável, muito bom para passear com crianças!",
+      "gradeComment": 5
+    },
+    {
+      "author": "Melquisedeque Araújo",
+      "photoAuthor": "https://lh3.googleusercontent.com/a/AItbvmmjBpjO0aNO2nIY7f-KXkhOoie5ZNJfkN0zC96scw=w36-h36-p-c0x00000000-rp-mo-ba2-br100",
+      "comment": "Recomendo a todos. Vale lembrar que o lugar tem horário para fechar: as 20:00 no verão e 17:00 no inverno.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Taize Hollas",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucpziG9Mwrpt3_a4ODK3njdgDJApKKISZl7xXDGFrJo=w36-h36-p-c0x00000000-rp-mo-ba6-br100",
+      "comment": "Lindo para passear",
+      "gradeComment": 5
+    },
+    {
+      "author": "Carol Morais Marques Lima",
+      "photoAuthor": "https://lh3.googleusercontent.com/a/AItbvmkJ6h7ra6ne_lC1yxtMl92tGbz_VF9hW6bBHneR=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "Lugar maravilhoso! Ótimo para tirar fotos e curtir um dia de sol.... Recomendo o passeio de pedalinho",
+      "gradeComment": 5
+    },
+    {
+      "author": "Lucas Figueira",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucpxnIwo0DzIonEF6QtHHCKR3bZ7lto__4SOufSYCQ=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "Visitei o parque das rosas e gostei do passeio. Vale a pena conhecer.",
+      "gradeComment": 5
+    }
+  ],
+  "peakHours": [
+    {
+      "Sunday": [
+        {
+          "hour": "04:00",
+          "percent": 1
+        },
+        {
+          "hour": "05:00",
+          "percent": 2
+        },
+        {
+          "hour": "06:00",
+          "percent": 4
+        },
+        {
+          "hour": "07:00",
+          "percent": 5
+        },
+        {
+          "hour": "08:00",
+          "percent": 7
+        },
+        {
+          "hour": "09:00",
+          "percent": 8
+        },
+        {
+          "hour": "10:00",
+          "percent": 11
+        },
+        {
+          "hour": "11:00",
+          "percent": 17
+        },
+        {
+          "hour": "12:00",
+          "percent": 28
+        },
+        {
+          "hour": "13:00",
+          "percent": 47
+        },
+        {
+          "hour": "14:00",
+          "percent": 71
+        },
+        {
+          "hour": "15:00",
+          "percent": 92
+        },
+        {
+          "hour": "16:00",
+          "percent": 100
+        },
+        {
+          "hour": "17:00",
+          "percent": 90
+        },
+        {
+          "hour": "18:00",
+          "percent": 67
+        },
+        {
+          "hour": "19:00",
+          "percent": 41
+        },
+        {
+          "hour": "20:00",
+          "percent": 20
+        },
+        {
+          "hour": "21:00",
+          "percent": 9
+        },
+        {
+          "hour": "22:00",
+          "percent": 6
+        },
+        {
+          "hour": "23:00",
+          "percent": 5
+        },
+        {
+          "hour": "00:00",
+          "percent": 2
+        },
+        {
+          "hour": "01:00",
+          "percent": 1
+        },
+        {
+          "hour": "02:00",
+          "percent": 1
+        },
+        {
+          "hour": "03:00",
+          "percent": 1
+        }
+      ]
+    },
+    {
+      "Monday": [
+        {
+          "hour": "04:00",
+          "percent": 1
+        },
+        {
+          "hour": "05:00",
+          "percent": 1
+        },
+        {
+          "hour": "06:00",
+          "percent": 1
+        },
+        {
+          "hour": "07:00",
+          "percent": 3
+        },
+        {
+          "hour": "08:00",
+          "percent": 5
+        },
+        {
+          "hour": "09:00",
+          "percent": 8
+        },
+        {
+          "hour": "10:00",
+          "percent": 10
+        },
+        {
+          "hour": "11:00",
+          "percent": 11
+        },
+        {
+          "hour": "12:00",
+          "percent": 12
+        },
+        {
+          "hour": "13:00",
+          "percent": 14
+        },
+        {
+          "hour": "14:00",
+          "percent": 16
+        },
+        {
+          "hour": "15:00",
+          "percent": 20
+        },
+        {
+          "hour": "16:00",
+          "percent": 22
+        },
+        {
+          "hour": "17:00",
+          "percent": 21
+        },
+        {
+          "hour": "18:00",
+          "percent": 18
+        },
+        {
+          "hour": "19:00",
+          "percent": 13
+        },
+        {
+          "hour": "20:00",
+          "percent": 8
+        },
+        {
+          "hour": "21:00",
+          "percent": 4
+        },
+        {
+          "hour": "22:00",
+          "percent": 2
+        },
+        {
+          "hour": "23:00",
+          "percent": 1
+        },
+        {
+          "hour": "00:00",
+          "percent": 1
+        },
+        {
+          "hour": "01:00",
+          "percent": 1
+        },
+        {
+          "hour": "02:00",
+          "percent": 1
+        },
+        {
+          "hour": "03:00",
+          "percent": 1
+        }
+      ]
+    },
+    {
+      "Tuesday": [
+        {
+          "hour": "04:00",
+          "percent": 1
+        },
+        {
+          "hour": "05:00",
+          "percent": 1
+        },
+        {
+          "hour": "06:00",
+          "percent": 1
+        },
+        {
+          "hour": "07:00",
+          "percent": 3
+        },
+        {
+          "hour": "08:00",
+          "percent": 5
+        },
+        {
+          "hour": "09:00",
+          "percent": 8
+        },
+        {
+          "hour": "10:00",
+          "percent": 10
+        },
+        {
+          "hour": "11:00",
+          "percent": 11
+        },
+        {
+          "hour": "12:00",
+          "percent": 12
+        },
+        {
+          "hour": "13:00",
+          "percent": 12
+        },
+        {
+          "hour": "14:00",
+          "percent": 12
+        },
+        {
+          "hour": "15:00",
+          "percent": 13
+        },
+        {
+          "hour": "16:00",
+          "percent": 14
+        },
+        {
+          "hour": "17:00",
+          "percent": 16
+        },
+        {
+          "hour": "18:00",
+          "percent": 17
+        },
+        {
+          "hour": "19:00",
+          "percent": 16
+        },
+        {
+          "hour": "20:00",
+          "percent": 14
+        },
+        {
+          "hour": "21:00",
+          "percent": 11
+        },
+        {
+          "hour": "22:00",
+          "percent": 7
+        },
+        {
+          "hour": "23:00",
+          "percent": 4
+        },
+        {
+          "hour": "00:00",
+          "percent": 2
+        },
+        {
+          "hour": "02:00",
+          "percent": 1
+        },
+        {
+          "hour": "03:00",
+          "percent": 1
+        }
+      ]
+    },
+    {
+      "Wednesday": [
+        {
+          "hour": "04:00",
+          "percent": 1
+        },
+        {
+          "hour": "05:00",
+          "percent": 1
+        },
+        {
+          "hour": "07:00",
+          "percent": 3
+        },
+        {
+          "hour": "08:00",
+          "percent": 5
+        },
+        {
+          "hour": "09:00",
+          "percent": 8
+        },
+        {
+          "hour": "10:00",
+          "percent": 9
+        },
+        {
+          "hour": "11:00",
+          "percent": 10
+        },
+        {
+          "hour": "12:00",
+          "percent": 10
+        },
+        {
+          "hour": "13:00",
+          "percent": 10
+        },
+        {
+          "hour": "14:00",
+          "percent": 12
+        },
+        {
+          "hour": "15:00",
+          "percent": 14
+        },
+        {
+          "hour": "16:00",
+          "percent": 16
+        },
+        {
+          "hour": "17:00",
+          "percent": 17
+        },
+        {
+          "hour": "18:00",
+          "percent": 15
+        },
+        {
+          "hour": "19:00",
+          "percent": 13
+        },
+        {
+          "hour": "20:00",
+          "percent": 9
+        },
+        {
+          "hour": "21:00",
+          "percent": 6
+        },
+        {
+          "hour": "23:00",
+          "percent": 1
+        },
+        {
+          "hour": "01:00",
+          "percent": 1
+        },
+        {
+          "hour": "02:00",
+          "percent": 1
+        },
+        {
+          "hour": "03:00",
+          "percent": 1
+        }
+      ]
+    },
+    {
+      "Thursday": [
+        {
+          "hour": "04:00",
+          "percent": 1
+        },
+        {
+          "hour": "05:00",
+          "percent": 1
+        },
+        {
+          "hour": "07:00",
+          "percent": 4
+        },
+        {
+          "hour": "08:00",
+          "percent": 7
+        },
+        {
+          "hour": "09:00",
+          "percent": 11
+        },
+        {
+          "hour": "10:00",
+          "percent": 12
+        },
+        {
+          "hour": "11:00",
+          "percent": 13
+        },
+        {
+          "hour": "12:00",
+          "percent": 13
+        },
+        {
+          "hour": "13:00",
+          "percent": 14
+        },
+        {
+          "hour": "14:00",
+          "percent": 16
+        },
+        {
+          "hour": "15:00",
+          "percent": 19
+        },
+        {
+          "hour": "16:00",
+          "percent": 20
+        },
+        {
+          "hour": "17:00",
+          "percent": 21
+        },
+        {
+          "hour": "18:00",
+          "percent": 20
+        },
+        {
+          "hour": "19:00",
+          "percent": 17
+        },
+        {
+          "hour": "20:00",
+          "percent": 14
+        },
+        {
+          "hour": "21:00",
+          "percent": 11
+        },
+        {
+          "hour": "22:00",
+          "percent": 8
+        },
+        {
+          "hour": "23:00",
+          "percent": 5
+        },
+        {
+          "hour": "00:00",
+          "percent": 2
+        },
+        {
+          "hour": "02:00",
+          "percent": 1
+        },
+        {
+          "hour": "03:00",
+          "percent": 1
+        }
+      ]
+    },
+    {
+      "Friday": [
+        {
+          "hour": "06:00",
+          "percent": 1
+        },
+        {
+          "hour": "07:00",
+          "percent": 2
+        },
+        {
+          "hour": "08:00",
+          "percent": 4
+        },
+        {
+          "hour": "09:00",
+          "percent": 7
+        },
+        {
+          "hour": "10:00",
+          "percent": 10
+        },
+        {
+          "hour": "11:00",
+          "percent": 14
+        },
+        {
+          "hour": "12:00",
+          "percent": 18
+        },
+        {
+          "hour": "13:00",
+          "percent": 21
+        },
+        {
+          "hour": "14:00",
+          "percent": 24
+        },
+        {
+          "hour": "15:00",
+          "percent": 25
+        },
+        {
+          "hour": "16:00",
+          "percent": 25
+        },
+        {
+          "hour": "17:00",
+          "percent": 24
+        },
+        {
+          "hour": "18:00",
+          "percent": 21
+        },
+        {
+          "hour": "19:00",
+          "percent": 18
+        },
+        {
+          "hour": "20:00",
+          "percent": 14
+        },
+        {
+          "hour": "21:00",
+          "percent": 11
+        },
+        {
+          "hour": "22:00",
+          "percent": 9
+        },
+        {
+          "hour": "23:00",
+          "percent": 9
+        },
+        {
+          "hour": "00:00",
+          "percent": 9
+        },
+        {
+          "hour": "01:00",
+          "percent": 6
+        },
+        {
+          "hour": "02:00",
+          "percent": 3
+        },
+        {
+          "hour": "03:00",
+          "percent": 1
+        }
+      ]
+    },
+    {
+      "Saturday": [
+        {
+          "hour": "04:00",
+          "percent": 1
+        },
+        {
+          "hour": "07:00",
+          "percent": 3
+        },
+        {
+          "hour": "08:00",
+          "percent": 8
+        },
+        {
+          "hour": "09:00",
+          "percent": 15
+        },
+        {
+          "hour": "10:00",
+          "percent": 22
+        },
+        {
+          "hour": "11:00",
+          "percent": 27
+        },
+        {
+          "hour": "12:00",
+          "percent": 31
+        },
+        {
+          "hour": "13:00",
+          "percent": 37
+        },
+        {
+          "hour": "14:00",
+          "percent": 48
+        },
+        {
+          "hour": "15:00",
+          "percent": 64
+        },
+        {
+          "hour": "16:00",
+          "percent": 76
+        },
+        {
+          "hour": "17:00",
+          "percent": 73
+        },
+        {
+          "hour": "18:00",
+          "percent": 55
+        },
+        {
+          "hour": "19:00",
+          "percent": 34
+        },
+        {
+          "hour": "20:00",
+          "percent": 20
+        },
+        {
+          "hour": "21:00",
+          "percent": 14
+        },
+        {
+          "hour": "22:00",
+          "percent": 13
+        },
+        {
+          "hour": "23:00",
+          "percent": 13
+        },
+        {
+          "hour": "00:00",
+          "percent": 11
+        },
+        {
+          "hour": "01:00",
+          "percent": 9
+        },
+        {
+          "hour": "02:00",
+          "percent": 6
+        },
+        {
+          "hour": "03:00",
+          "percent": 3
+        }
+      ]
+    }
+  ],
+  "relatedSearches": [
+    "rosedal",
+    "parque palermo buenos aires",
+    "planetario galileo galilei",
+    "puerto madero",
+    "public parks",
+    "feira de san telmo",
+    "ecoparque buenos aires",
+    "ingresso planetário galileo galilei"
+  ],
+  "relateds": [
+    {
+      "mainName": "Paseo El Rosedal Garden",
+      "url": null
+    },
+    {
+      "mainName": "Jardín Japonés",
+      "url": null
+    },
+    {
+      "mainName": "Jardim Botânico de Buenos Aires",
+      "url": null
+    },
+    {
+      "mainName": "Lago de Regatas",
+      "url": null
+    },
+    {
+      "mainName": "Planetario Galileo Galilei",
+      "url": null
+    },
+    {
+      "mainName": "Bosques de Palermo",
+      "url": null
+    },
+    {
+      "mainName": "Palacio Barolo",
+      "url": null
+    },
+    {
+      "mainName": "Museu de Arte Latino-Americana de Buenos Aires",
+      "url": null
+    },
+    {
+      "mainName": "Reserva Ecológica de Buenos Aires",
+      "url": null
+    },
+    {
+      "mainName": "BUENOS AIRES ZOO",
+      "url": null
+    },
+    {
+      "mainName": "Cemitério da Recoleta",
+      "url": null
+    },
+    {
+      "mainName": "Museu Nacional de Artes Decorativas",
+      "url": null
+    },
+    {
+      "mainName": "Museo Sívori",
+      "url": null
+    },
+    {
+      "mainName": "Museu Nacional de Belas Artes",
+      "url": null
+    },
+    {
+      "mainName": "Praça Dorrego",
+      "url": null
+    },
+    {
+      "mainName": "Parque Lezama",
+      "url": null
+    },
+    {
+      "mainName": "Obelisco de Buenos Aires",
+      "url": null
+    },
+    {
+      "mainName": "Monumento al General San Martín",
+      "url": null
+    },
+    {
+      "mainName": "Parque Centenario",
+      "url": null
+    },
+    {
+      "mainName": "Plaza Italia",
+      "url": null
+    },
+    {
+      "mainName": "Costa Park",
+      "url": null
+    },
+    {
+      "mainName": "Monumento a La Carta Magna y las Cuatro Regiones Argentinas",
+      "url": null
+    },
+    {
+      "mainName": "Praça de Maio",
+      "url": null
+    },
+    {
+      "mainName": "Praça do Congresso",
+      "url": null
+    }
+  ]
+}

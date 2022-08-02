@@ -1,0 +1,891 @@
+{
+  "mainName": "Praia do Madeiro",
+  "slug": "praia-do-madeiro",
+  "category": "Atração turística",
+  "locationInformation": {
+    "latitude": "-6.2223972",
+    "longitude": "-35.0708927"
+  },
+  "basicInformation": [
+    {
+      "label": "endereço",
+      "tooltip": "Copiar endereço",
+      "text": "RN-003, 1339-1089, Tibau do Sul - RN, 59178-000",
+      "icon": "https://www.gstatic.com/images/icons/material/system_gm/1x/place_gm_blue_24dp.png"
+    },
+    {
+      "label": "website",
+      "tooltip": "Abrir website",
+      "text": "pipa.com.br",
+      "icon": "https://www.gstatic.com/images/icons/material/system_gm/1x/public_gm_blue_24dp.png"
+    },
+    {
+      "label": "Code",
+      "tooltip": "Copiar Plus Code",
+      "text": "QWHH+2J Tibau do Sul, Rio Grande do Norte",
+      "icon": "https://maps.gstatic.com/mapfiles/maps_lite/images/2x/ic_plus_code.png"
+    },
+    {
+      "label": "merchant",
+      "text": "Reivindicar esta empresa",
+      "icon": "https://www.gstatic.com/images/icons/material/system_gm/1x/verified_user_gm_blue_24dp.png"
+    }
+  ],
+  "ratingInformation": {
+    "basicRatingInformation": {
+      "averageGrade": 4.7,
+      "totalOfEvaluations": 5985
+    },
+    "ratingsByGrade": [
+      {
+        "grade": 5,
+        "totalRatings": 4837
+      },
+      {
+        "grade": 4,
+        "totalRatings": 787
+      },
+      {
+        "grade": 3,
+        "totalRatings": 249
+      },
+      {
+        "grade": 2,
+        "totalRatings": 53
+      },
+      {
+        "grade": 1,
+        "totalRatings": 59
+      }
+    ]
+  },
+  "ratingTags": [
+    {
+      "tag": "só",
+      "count": 3,
+      "tooltip": "só, mencionado em 3 avaliações"
+    },
+    {
+      "tag": "golfinhos",
+      "count": 390,
+      "tooltip": "golfinhos, mencionado em 390 avaliações"
+    },
+    {
+      "tag": "barracas",
+      "count": 257,
+      "tooltip": "barracas, mencionado em 257 avaliações"
+    },
+    {
+      "tag": "pipa",
+      "count": 193,
+      "tooltip": "pipa, mencionado em 193 avaliações"
+    },
+    {
+      "tag": "ondas",
+      "count": 143,
+      "tooltip": "ondas, mencionado em 143 avaliações"
+    },
+    {
+      "tag": "degraus",
+      "count": 104,
+      "tooltip": "degraus, mencionado em 104 avaliações"
+    },
+    {
+      "tag": "guarda sol",
+      "count": 72,
+      "tooltip": "guarda sol, mencionado em 72 avaliações"
+    },
+    {
+      "tag": "quiosques",
+      "count": 56,
+      "tooltip": "quiosques, mencionado em 56 avaliações"
+    },
+    {
+      "tag": "praia bonita",
+      "count": 16,
+      "tooltip": "praia bonita, mencionado em 16 avaliações"
+    },
+    {
+      "tag": "consumação",
+      "count": 15,
+      "tooltip": "consumação, mencionado em 15 avaliações"
+    }
+  ],
+  "featuredPhotos": [
+    "https://lh5.googleusercontent.com/p/AF1QipMJjOodb84cjOFpFFTTfVKaWjdKUBE4ExR4wSc4=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipM41AWCxKF2ERC0LlNo48XmIi0jKD0z8yhlv5vP=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOu8JRW1Ki_pTy-dh8a6AgiT7Atppu23hcv9BDR=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNQUGaD17onVy7wtUDBbDqNXEAx79MhPwVDXHDQ=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipP5CJb34YE2kurw9bh4jYBDv1N-b18SqIXaPmV4=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipM_yywVoKQdziwuD_9mcML4lQ_lyCpT15CSyScp=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipME3MhC6ob-AX5FY76obtS6uIL2kIbHb_99aKzW=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOWW7wWGJECh5AWR_2tsYdKWAUQloRbS9M5KbtG=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPZaiUQVa3OpE6U51no0ClJq9cQd96vLlvutqPI=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOqshEUiXdCHI05YpaYTPpR0JmBPCVJha9HQL1n=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNtTSInzgOxWM_xcTtq_1okTh_ZzmjVzOtPHX5x=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMWeyWo5nPBoqDUMgt4x7phPzi4YZFn3kdQGOId=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPGqO8GALbK_xNoWpFNDqh-aQzz2qb46BdgdHrj=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNNrsKm9NfLftKnRK-NWDRZizWPDkBVWN0Plch4=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOdgJsrAAzvTfjrC3DW_3YUfQ_S51QLDzkZ_3uO=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMPGWooDngIPxgC7Iw_6rb8yZOYz4GEbODefymL=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPZ9keSrCr9G27c1cGfhmMLI1Gq498Yi9uT3SR-=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPRH7ZvsjP_2sGLEXwW0H_2FQaEBSWOpkLlqjJD=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOf4BVwZ28SWkfDGGYUp2e9Mid9rhEnZr3Tnu1U=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNiSdQ6kQHjeoMeQME0XWmLDNklraDSncYOHng5=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOiJPNCo9vovzDGVIp9XmrXyzrxVS_qFria3WIL=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNrBqv6Hzm3rcjdweIEPFdrHnBSEImijtUaxJ0t=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMPKjjmfpS4ZByyoouICvmz_ttnKkMODOVTZ113=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPi8SUhNtMdpydCCqvaGjOBDO4lQUp2woaVD27Q=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipM913Dt_RNtlf3pg9ZuRjsqE-UpYIy_ZDVCXYl-=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPzMLD1_Omdnfx2NXUiPeyqsFR3NmfAl7AL85M5=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOlRg4Nv89GExYJA3nE2QielfhDzxuXK620kVEe=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipM0vEO1UNL5s6moD1CDiFRjcRwWRd51uk6KKRTT=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOjLY_cnLB-D6JG7AGkYDgyt8fp46t39Iece2XC=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMkuwCQx8irczw_ynEE3lye4l-dv66wSHMXxCk2=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPT_GnJzRvhI13qfpZMXzxU3sBy9L7CmYFEsDhS=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipP8ynBtFPCV2kIUCrsX6z3f_z-LBaz-uCTI9Zoi=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipM1bmccA4AAghMz4T2fqKS-DNYtpXVzid_ObKrR=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNeKPIe6z4G_GMBAqPniI2v02bQRoceCw27IUa2=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNuAipZlpbGf5V2b-OmxeoiAvlt_-UWs2fdDsNU=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPb9tEmV0FZNaYg8CvqyQVqRi6KJgG_R8Q8hiX7=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPihMzNE52KeXBcE9HZYDIjVa40OgDOj05rD2nk=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNInAbnxgk70lmOqyh5SYIBVfF4FLQHluI6toLh=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipP6jYLtwePZVMHx-OdtIDTiq5I0gQs0V78lGM2t=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOaqw_TFMQqWPy_Y45NQTJ_sqDFp8KyGcgPx8Gc=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMWw2Drv33nOUyIPD84M55jIPnH-y79av5SrguO=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPh_aPSqS3tO5XxMvJ9rqLTfRZZ0YupBrqya3ZS=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMMjg27VyT1gH_VcDJ0xr6YAwor_303ocqI9_Kz=w1024-h576-k-no"
+  ],
+  "topComments": [
+    {
+      "author": "Widmark Barbosa",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucoTKyloVaQ_D6evzZsna4242SPGumjhTkaHDoBqMw=w36-h36-p-c0x00000000-rp-mo-ba5-br100",
+      "comment": "Uma das melhores, se não a melhor praia para banho nas proximidades de Pipa. A visão \"HD full\" dos golfinhos. E possível ver bandos de golfinhos estando nos guardas-sol da praia. Todas as barracas contam com estrutura de espreguiçadeira, ducha de água doce e banheiro. Algumas possuem sinal de Wi-fi. Eles geralmente cobram consumação mínima para ocupar um guarda-sól. Os petiscos giram em torno de 80 reais. Dá pra alimentar duas pessoas pra passar o dia (dependendo dos comedores, é claro.) Cervejas de 600ml a partir de 17 reais. Mas a experiência de passar o dia lá é top. Indico. Mas o acesso e por uma escadaria de madeira. Então não recomendo para idosos com problemas de locomoção. Pra descer até vai, mas a subida é difícil. Se gostou da minha avaliação, deixe seu like. 😀",
+      "gradeComment": 5
+    },
+    {
+      "author": "Mayara Rocha",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucrmNe8x6ne6H1wx7d14fC9Xbuq_yYcPbaEK4DaLnw=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "A praia é cercada de árvores e para ter acesso ou você desce através de uma escada que é bem grande, ou vem a pé passando pelas outras praias. Achei o mar bem agitado e muita gente praticando surf quando fui. É bem tranquilo o local, mais reservado e com uma vista e beleza espetacular. Só não achei tão deserta como haviam me falado que era. Mas valeu a experiência e ter conhecido essa beleza natural ♥️",
+      "gradeComment": 4
+    },
+    {
+      "author": "CaciqueTur Por Quê, Pra Quê?",
+      "photoAuthor": "https://lh3.googleusercontent.com/a/AItbvmm7XuFF17k2ey9ERUEe4cUcFZp2j3x0aAA5xPBX=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "Acesso por escadas em boas condições e nem tão longa, tem até ponto para descanso e fotos. Pela estrada tem uma placa colorida indicando o acesso. Praia com boa faixa de areia e boa estrutura de barracas. A praia é bem comprida e começa e termina com falésias, mas a parte entre elas não possui pedras. Tem locação de caiaques disponível. Dizem que dá outra ver golfinhos, mas eu não vi nada!",
+      "gradeComment": 5
+    },
+    {
+      "author": "Bruno Cerutti",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucoSYJnFrBxs4zxK-n054uhBGj2fyHXSQorITty_l8M=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "Praia bonita, com opções de comidas e petiscos na beira, junto com as cadeiras, mesas e guarda sol. É possível acessar pela estrada, descendo grande escadaria (não recomendo para pessoas com dificuldades de locomoção) ou via praia, através da Baia dos Golfinhos, que em maré baixa é possível realizar a travessia por cima das pedra (não recomendaria para idosos, crianças e pessoas com dificuldade de locomoção). Na Praia do Madeiro também é possível alugar caiaque, realizar aulas de surfe e dizem ser possível avistar os golfinhos (não tive essa sorte). Ótima praia para crianças, pois forma grandes áreas seguras de banho.",
+      "gradeComment": 4
+    },
+    {
+      "author": "Carlos Beto Jr (Carlão)",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucrezDItY8bAJKg7w-evqXd9SoxLOinsefxUsuiPAvE=w36-h36-p-c0x00000000-rp-mo-ba5-br100",
+      "comment": "Praia muito linda, boa estrutura, ótima para levar crianças, mas o acesso é por grandes escadarias, mas nada de mais, média de 170 degraus, vimos golfinhos de longe na parte da manhã se alimentando.",
+      "gradeComment": 5
+    },
+    {
+      "author": "pablo conde alonso",
+      "photoAuthor": "https://lh3.googleusercontent.com/a/AItbvmnUPrDFLwLoyWGo04hPReRa8w2BUBzqaI4sbW01=w36-h36-p-c0x00000000-rp-mo-ba2-br100",
+      "comment": "Foi a nossa praia favorita na viagem a Pipa, e aquela que repetimos mais vezes durante nossos 8 días de estadía la. Tanto pela falésia com vegetação ao redor da praia, como pelas barracas com boa comida, e uma no final da praia com os melhores e mais baratos caipifrutas. PD: com os caldos que levou a gente na agua☺️",
+      "gradeComment": 5
+    },
+    {
+      "author": "Brenda Reis",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucqZs_gH23XwNHybOo59K95EyKDSY3n65D4tP9yCLjo=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "Lugar maravilhoso! O mirante te dá uma visão linda da baía dos golfinhos, se quiser observar os golfinhos o mirante é o melhor lugar. A praia tem uma escadaria difícil para pessoas mais velhas ou com deficiência motora, o que deve ser analisado antes de ir e acabar se frustrando por não poder chegar até a praia, até para jovens sedentários é um desafio. Mais pro final da praia a areia é cheia de siri que fazem buraquinhos na areia, eles não atacam mas como todo animal, se se sentirem ameaçados podem atacar mas no geral eles se escondem dos humanos, é bom ter um cuidado antes de querer sentar ou deitar na areia nessa parte da praia. A água é linda e quente, a única desvantagem é que a areia é tomada por barracas e muitas pessoas vão tentar te vender uma, o que pode chegar a ser chato e se você não quiser a barraca será difícil encontrar uma área livre na areia.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Corinne Briquet de Sylos",
+      "photoAuthor": "https://lh3.googleusercontent.com/a/AItbvmlUa6oYyuZOKX6HZeTU845oieyshIZ1KpUD2InMOfI=w36-h36-p-c0x00000000-rp-mo-ba3-br100",
+      "comment": "A chegada é difícil com uma escadaria enorme de 160 degraus. O lugar é lindo, mas não tem infraestrutura, os preços são exorbitantes e com a mare alta o mar fica bravo e perigoso. Especial atenção as barracas que cobram R$ 50 pelo aluguel da barraca se não pedirem comida. Gostamos R$ 35 com bebidas no local e ainda queriam cobrar pelo aluguel.",
+      "gradeComment": 3
+    },
+    {
+      "author": "Charles Gomes de Araujo",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucp44lBHHGgQWxzVJQ-kd-8c88QPsHG-qXyfV8g1Dg=w36-h36-p-c0x00000000-rp-mo-ba6-br100",
+      "comment": "Praia é uma delícia. Água quentinha, praia tranquila com ondas para animar a garotada, barracas com excelente atendimento e cerveja gelada. Bem pertinho do centro de Pipa. É lindíssima, com visual para o chapadão. Recomendo!!!!!!",
+      "gradeComment": 5
+    },
+    {
+      "author": "marcia brighente",
+      "photoAuthor": "https://lh3.googleusercontent.com/a/AItbvmmNM75AhEFfpelTpCGc6S0qvg1_r7zn_fGN_yZT=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "Se quer um lugar para perder o fôlego. É essa praia.  E não estou falando pela escadaria que tem pra chegar nela. E sim pela beleza. Lindo demais.  Só não vi golfinhos infelizmente",
+      "gradeComment": 5
+    },
+    {
+      "author": "Rodrigo Pontes",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucpAl1Zk4lzdqUGXx6-_uXpKY6clQWmZzAtVUjaZCY8=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "A praia é muito bonita, com um paredão verde seguido por areia e mar...o acesso é feito por escadarias até a praia, pois o estacionamento fica a uns 70m acima do nível do mar. O preço dos petiscos e almoço é mais elevado que na Praia do Centro e Praia do Amor só que esta é sem dúvida a mais bela das três. Golfinhos aparecem com muita frequência e de fácil visualização da areia. As barracas permitem levar bebidas e consumindo um petisco de fica na casa dos 100 Reias o guarda sol com mesa, cadeira ou espreguiçadeira fica free! Observação, na maré baixa é possível chegar da praia do Centro até Madeiro andando.",
+      "gradeComment": 4
+    },
+    {
+      "author": "Thayna Oliveira",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucquSxLeTnKW712BO7quVUZVWTKgIkz7Pa7MD6tIt3k=w36-h36-p-c0x00000000-rp-mo-ba3-br100",
+      "comment": "Praia linda com uma vista incrível, o mar é agitado bom para quem gosta de surfar. O preço é salgado uma boa dica é levar sua bebida e comida e  saco para não deixar lixo na praia.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Francisco Junior",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucp9wiIt1LJ_qGTUJKEsvre2K1rK7QKnPXaR88HdLMQ=w36-h36-p-c0x00000000-rp-mo-ba3-br100",
+      "comment": "Praia linda, uma experiência incrível com a natureza, aos turistas que a frequentam, estão bem acompanhados dos golfinhos que brincam próximo a praia e dão seus shows para os que ali estão 😍 realmente um lugar incrível, porém é um lugar super valorizado financeiramente. Visitei todas as praias de pipa mas ali no Madeiro, o comércio local, encarece tudo que vende lá, quiosques cobram consumação mínima para tudo ( vc paga se quiser e se usar é óbvio ) porém é exorbitante a diferença de preço para as demais praias que apresentam belezas superiores a praia do Madeiro. Apesar deste ponto financeiramente destacado, vale a pena conhecer este lugar lindo e apreciar a natureza.",
+      "gradeComment": 3
+    },
+    {
+      "author": "Gabriele Soares",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucozFtv9a0wpa-qKKATWZ_9NeZ5lLkpUC4_41MkSWfc=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "A praia é bem estrutura em relação a cadeira e tudo mais, da pra curtir, descansar, MAS eu o mar estava super forte, meu filho não Conseguiu brincar na água, não é das mais bonitas assim, o único jeito de acessar é pela escadaria.",
+      "gradeComment": 4
+    },
+    {
+      "author": "Luciano Gomes",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucrsdVKLdzelICUCpmg-41cJZTajjk1Qe_V5FRDWdw=w36-h36-p-c0x00000000-rp-mo-ba5-br100",
+      "comment": "Boa estrutura, guarda sol e cadeiras confortáveis. A bebida não conseguia chegar gelada. Mesmo o pessoal deixando caixa térmica com gelo. A praia é bonita, a água um pouco mais agitada que outros locais de Pipa. O acesso é bem difícil. Por uma escadaria muito ingrime e grande. Pessoas com pouca mobilidade não devem arriscar.",
+      "gradeComment": 4
+    },
+    {
+      "author": "Geraldo Cruz Filho",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZuco59IKKFx1TNrqVbDbD76TiHSCAZwVVRaFNFD_KJp8=w36-h36-p-c0x00000000-rp-mo-ba7-br100",
+      "comment": "Praia da elite, som tecno, barracas de pé de areia muito boas, atendimento de qualidade, areia muito limpa, águas mornas e transparentes, difícil é descer trezentos metros escada abaixo e depois no final dia cansado subir tudo de novo com os apetrechos que você desceu todo feliz de manhã, rapaziada nova nem sente mas se já passou dos cinquenta pense duas vezes.",
+      "gradeComment": 4
+    },
+    {
+      "author": "Julia Relene de Freitas Rodrigues",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucqhpnJHChgZdU1Zk_F3MjTo15YhL7CmcasNw-xqmTA=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "Praia muito boa para se tomar banho e ir ao famoso passeio de barco para ver os golfinhos e outras belezas de pipa, mas o atendimento das barracas de comida ficaram a desejar. Muuito caras e uma demora intensa.",
+      "gradeComment": 4
+    },
+    {
+      "author": "Murilo Nunes",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucp1Y4gXxKpJsVFnAuos6PhtDzjFXHfM0kJ95EUv624=w36-h36-p-c0x00000000-rp-mo-ba3-br100",
+      "comment": "A praia é muito bonita, mas vá preparado para a escadaria de acesso a ela e também as abordagens dos vendedores oferecendo as cadeiras/guarda sois.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Aninha Silveira",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucp_ZoPUTfNPWVjFexJYERxU06WSPfGCyYAq_1hz8eo=w36-h36-p-c0x00000000-rp-mo-ba5-br100",
+      "comment": "Praia linda, visual incrível. Opções de barracas, com chuveiro, banheiro...bom atendimento.  Em alguns períodos tem DJs e músicas nas barracas tbm. A maioria delas consumindo no local não paga pelas cadeiras e/ou mesas. Tem a galera que vai pra pegar onda, quem vai curtir a praia de boa. O não é tão fácil qto outros praias mas vale demais descer e subir as escadas. Parada obrigatória para quem ativer em Pipa ou Tibau.  Para ir a forma mais tranquila é táxi ou vans saindo do centro de Pipa...Taxi tabelado em R$30,00.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Libia Menezes",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucoP3wl-XT70GAaLw6_OYIFoC0ydHIgpiV2irBgvGw=w36-h36-p-c0x00000000-rp-mo-ba3-br100",
+      "comment": "Maravilhosa! A praia tem ondas e pra quem tem  crianças tem que ter o máximo de atenção. A areia e muito limpa e o mar e sensacional! Tem várias barracas, tem uma lojinha na praia de roupas de banho e cangas, tem uma barraquinha para massagens relaxantes, além de pranchas que você pode alugar.",
+      "gradeComment": 5
+    }
+  ],
+  "peakHours": [
+    {
+      "Sunday": [
+        {
+          "hour": "06:00",
+          "percent": 2
+        },
+        {
+          "hour": "07:00",
+          "percent": 7
+        },
+        {
+          "hour": "08:00",
+          "percent": 19
+        },
+        {
+          "hour": "09:00",
+          "percent": 40
+        },
+        {
+          "hour": "10:00",
+          "percent": 65
+        },
+        {
+          "hour": "11:00",
+          "percent": 84
+        },
+        {
+          "hour": "12:00",
+          "percent": 89
+        },
+        {
+          "hour": "13:00",
+          "percent": 87
+        },
+        {
+          "hour": "14:00",
+          "percent": 85
+        },
+        {
+          "hour": "15:00",
+          "percent": 75
+        },
+        {
+          "hour": "16:00",
+          "percent": 52
+        },
+        {
+          "hour": "17:00",
+          "percent": 24
+        },
+        {
+          "hour": "18:00",
+          "percent": 7
+        },
+        {
+          "hour": "19:00",
+          "percent": 1
+        },
+        {
+          "hour": "21:00",
+          "percent": 1
+        },
+        {
+          "hour": "22:00",
+          "percent": 1
+        },
+        {
+          "hour": "23:00",
+          "percent": 1
+        },
+        {
+          "hour": "00:00",
+          "percent": 1
+        },
+        {
+          "hour": "01:00",
+          "percent": 1
+        },
+        {
+          "hour": "02:00",
+          "percent": 1
+        },
+        {
+          "hour": "03:00",
+          "percent": 1
+        }
+      ]
+    },
+    {
+      "Monday": [
+        {
+          "hour": "04:00",
+          "percent": 1
+        },
+        {
+          "hour": "05:00",
+          "percent": 1
+        },
+        {
+          "hour": "06:00",
+          "percent": 1
+        },
+        {
+          "hour": "07:00",
+          "percent": 4
+        },
+        {
+          "hour": "08:00",
+          "percent": 12
+        },
+        {
+          "hour": "09:00",
+          "percent": 25
+        },
+        {
+          "hour": "10:00",
+          "percent": 40
+        },
+        {
+          "hour": "11:00",
+          "percent": 49
+        },
+        {
+          "hour": "12:00",
+          "percent": 47
+        },
+        {
+          "hour": "13:00",
+          "percent": 42
+        },
+        {
+          "hour": "14:00",
+          "percent": 45
+        },
+        {
+          "hour": "15:00",
+          "percent": 48
+        },
+        {
+          "hour": "16:00",
+          "percent": 32
+        },
+        {
+          "hour": "17:00",
+          "percent": 11
+        },
+        {
+          "hour": "18:00",
+          "percent": 1
+        },
+        {
+          "hour": "20:00",
+          "percent": 1
+        },
+        {
+          "hour": "21:00",
+          "percent": 1
+        },
+        {
+          "hour": "22:00",
+          "percent": 1
+        },
+        {
+          "hour": "23:00",
+          "percent": 1
+        },
+        {
+          "hour": "00:00",
+          "percent": 1
+        },
+        {
+          "hour": "01:00",
+          "percent": 1
+        },
+        {
+          "hour": "02:00",
+          "percent": 1
+        },
+        {
+          "hour": "03:00",
+          "percent": 1
+        }
+      ]
+    },
+    {
+      "Tuesday": [
+        {
+          "hour": "04:00",
+          "percent": 1
+        },
+        {
+          "hour": "05:00",
+          "percent": 1
+        },
+        {
+          "hour": "07:00",
+          "percent": 2
+        },
+        {
+          "hour": "08:00",
+          "percent": 8
+        },
+        {
+          "hour": "09:00",
+          "percent": 21
+        },
+        {
+          "hour": "10:00",
+          "percent": 37
+        },
+        {
+          "hour": "11:00",
+          "percent": 48
+        },
+        {
+          "hour": "12:00",
+          "percent": 48
+        },
+        {
+          "hour": "13:00",
+          "percent": 43
+        },
+        {
+          "hour": "14:00",
+          "percent": 45
+        },
+        {
+          "hour": "15:00",
+          "percent": 47
+        },
+        {
+          "hour": "16:00",
+          "percent": 35
+        },
+        {
+          "hour": "17:00",
+          "percent": 16
+        },
+        {
+          "hour": "18:00",
+          "percent": 4
+        },
+        {
+          "hour": "00:00",
+          "percent": 1
+        },
+        {
+          "hour": "01:00",
+          "percent": 1
+        },
+        {
+          "hour": "02:00",
+          "percent": 1
+        },
+        {
+          "hour": "03:00",
+          "percent": 1
+        }
+      ]
+    },
+    {
+      "Wednesday": [
+        {
+          "hour": "07:00",
+          "percent": 3
+        },
+        {
+          "hour": "08:00",
+          "percent": 10
+        },
+        {
+          "hour": "09:00",
+          "percent": 21
+        },
+        {
+          "hour": "10:00",
+          "percent": 34
+        },
+        {
+          "hour": "11:00",
+          "percent": 42
+        },
+        {
+          "hour": "12:00",
+          "percent": 41
+        },
+        {
+          "hour": "13:00",
+          "percent": 35
+        },
+        {
+          "hour": "14:00",
+          "percent": 39
+        },
+        {
+          "hour": "15:00",
+          "percent": 45
+        },
+        {
+          "hour": "16:00",
+          "percent": 31
+        },
+        {
+          "hour": "17:00",
+          "percent": 10
+        },
+        {
+          "hour": "18:00",
+          "percent": 1
+        },
+        {
+          "hour": "20:00",
+          "percent": 1
+        },
+        {
+          "hour": "21:00",
+          "percent": 1
+        },
+        {
+          "hour": "22:00",
+          "percent": 1
+        },
+        {
+          "hour": "03:00",
+          "percent": 1
+        }
+      ]
+    },
+    {
+      "Thursday": [
+        {
+          "hour": "04:00",
+          "percent": 1
+        },
+        {
+          "hour": "07:00",
+          "percent": 3
+        },
+        {
+          "hour": "08:00",
+          "percent": 11
+        },
+        {
+          "hour": "09:00",
+          "percent": 24
+        },
+        {
+          "hour": "10:00",
+          "percent": 41
+        },
+        {
+          "hour": "11:00",
+          "percent": 53
+        },
+        {
+          "hour": "12:00",
+          "percent": 54
+        },
+        {
+          "hour": "13:00",
+          "percent": 52
+        },
+        {
+          "hour": "14:00",
+          "percent": 58
+        },
+        {
+          "hour": "15:00",
+          "percent": 59
+        },
+        {
+          "hour": "16:00",
+          "percent": 39
+        },
+        {
+          "hour": "17:00",
+          "percent": 14
+        },
+        {
+          "hour": "18:00",
+          "percent": 3
+        },
+        {
+          "hour": "02:00",
+          "percent": 1
+        },
+        {
+          "hour": "03:00",
+          "percent": 1
+        }
+      ]
+    },
+    {
+      "Friday": [
+        {
+          "hour": "06:00",
+          "percent": 1
+        },
+        {
+          "hour": "07:00",
+          "percent": 4
+        },
+        {
+          "hour": "08:00",
+          "percent": 12
+        },
+        {
+          "hour": "09:00",
+          "percent": 25
+        },
+        {
+          "hour": "10:00",
+          "percent": 41
+        },
+        {
+          "hour": "11:00",
+          "percent": 54
+        },
+        {
+          "hour": "12:00",
+          "percent": 58
+        },
+        {
+          "hour": "13:00",
+          "percent": 55
+        },
+        {
+          "hour": "14:00",
+          "percent": 58
+        },
+        {
+          "hour": "15:00",
+          "percent": 61
+        },
+        {
+          "hour": "16:00",
+          "percent": 45
+        },
+        {
+          "hour": "17:00",
+          "percent": 18
+        },
+        {
+          "hour": "18:00",
+          "percent": 4
+        }
+      ]
+    },
+    {
+      "Saturday": [
+        {
+          "hour": "06:00",
+          "percent": 1
+        },
+        {
+          "hour": "07:00",
+          "percent": 4
+        },
+        {
+          "hour": "08:00",
+          "percent": 15
+        },
+        {
+          "hour": "09:00",
+          "percent": 36
+        },
+        {
+          "hour": "10:00",
+          "percent": 65
+        },
+        {
+          "hour": "11:00",
+          "percent": 91
+        },
+        {
+          "hour": "12:00",
+          "percent": 100
+        },
+        {
+          "hour": "13:00",
+          "percent": 91
+        },
+        {
+          "hour": "14:00",
+          "percent": 87
+        },
+        {
+          "hour": "15:00",
+          "percent": 91
+        },
+        {
+          "hour": "16:00",
+          "percent": 71
+        },
+        {
+          "hour": "17:00",
+          "percent": 32
+        },
+        {
+          "hour": "18:00",
+          "percent": 7
+        }
+      ]
+    }
+  ],
+  "relatedSearches": [
+    "praia do madeiro escadaria",
+    "praia do madeiro golfinhos",
+    "barracas praia do madeiro",
+    "praia de cacimbinhas",
+    "melhor barraca praia do madeiro",
+    "mirante praia do madeiro",
+    "praia do madeiro fotos",
+    "o que fazer na praia do madeiro"
+  ],
+  "relateds": [
+    {
+      "mainName": "Praia do Amor",
+      "url": null
+    },
+    {
+      "mainName": "Praia de Pipa",
+      "url": null
+    },
+    {
+      "mainName": "Praia das Minas",
+      "url": null
+    },
+    {
+      "mainName": "Praia Baía dos Golfinhos Pipa",
+      "url": null
+    },
+    {
+      "mainName": "Praia das Cacimbinhas",
+      "url": null
+    },
+    {
+      "mainName": "Praia de Sibaúma",
+      "url": null
+    },
+    {
+      "mainName": "Santuário Ecológico de Pipa",
+      "url": null
+    },
+    {
+      "mainName": "Avenida Baía dos Golfinhos",
+      "url": null
+    },
+    {
+      "mainName": "Chapadão - Falésia da Praia de Pipa",
+      "url": null
+    },
+    {
+      "mainName": "Praia de Tibau",
+      "url": null
+    },
+    {
+      "mainName": "Lagoa Guaraíras - Tibau do Sul - RN",
+      "url": null
+    },
+    {
+      "mainName": "Centro de Pipa",
+      "url": null
+    },
+    {
+      "mainName": "Malembá",
+      "url": null
+    },
+    {
+      "mainName": "Praia de Genipabu",
+      "url": null
+    },
+    {
+      "mainName": "Falésias​ de Cacimbinhas",
+      "url": null
+    },
+    {
+      "mainName": "AcquaPipa",
+      "url": null
+    },
+    {
+      "mainName": "Praia de Ponta Negra",
+      "url": null
+    },
+    {
+      "mainName": "Praia Barra de Cunhau",
+      "url": null
+    },
+    {
+      "mainName": "Praia de Camurupim",
+      "url": null
+    },
+    {
+      "mainName": "Praia de Cotovelo",
+      "url": null
+    },
+    {
+      "mainName": "Praia de Búzios",
+      "url": null
+    },
+    {
+      "mainName": "Dunas de Malembá",
+      "url": null
+    },
+    {
+      "mainName": "Praia do Sagi",
+      "url": null
+    }
+  ]
+}

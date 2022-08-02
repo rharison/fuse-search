@@ -1,0 +1,908 @@
+{
+  "mainName": "Praia Da Lagoinha",
+  "slug": "praia-da-lagoinha",
+  "category": "Praia",
+  "locationInformation": {
+    "latitude": "-23.5198198",
+    "longitude": "-45.1981802"
+  },
+  "basicInformation": [
+    {
+      "label": "endereço",
+      "tooltip": "Copiar endereço",
+      "text": "Av. Copacabana - Lagoinha, Ubatuba - SP, 11680-000",
+      "icon": "https://www.gstatic.com/images/icons/material/system_gm/1x/place_gm_blue_24dp.png"
+    },
+    {
+      "label": "website",
+      "tooltip": "Abrir website",
+      "text": "turismo.ubatuba.sp.gov.br",
+      "icon": "https://www.gstatic.com/images/icons/material/system_gm/1x/public_gm_blue_24dp.png"
+    }
+  ],
+  "ratingInformation": {
+    "basicRatingInformation": {
+      "averageGrade": 4.7,
+      "totalOfEvaluations": 7576
+    },
+    "ratingsByGrade": [
+      {
+        "grade": 5,
+        "totalRatings": 5867
+      },
+      {
+        "grade": 4,
+        "totalRatings": 1229
+      },
+      {
+        "grade": 3,
+        "totalRatings": 309
+      },
+      {
+        "grade": 2,
+        "totalRatings": 67
+      },
+      {
+        "grade": 1,
+        "totalRatings": 104
+      }
+    ]
+  },
+  "ratingTags": [
+    {
+      "tag": "quiosques",
+      "count": 213,
+      "tooltip": "quiosques, mencionado em 213 avaliações"
+    },
+    {
+      "tag": "condomínio",
+      "count": 58,
+      "tooltip": "condomínio, mencionado em 58 avaliações"
+    },
+    {
+      "tag": "estrutura",
+      "count": 53,
+      "tooltip": "estrutura, mencionado em 53 avaliações"
+    },
+    {
+      "tag": "ambulantes",
+      "count": 31,
+      "tooltip": "ambulantes, mencionado em 31 avaliações"
+    },
+    {
+      "tag": "canto",
+      "count": 20,
+      "tooltip": "canto, mencionado em 20 avaliações"
+    },
+    {
+      "tag": "crianças pequenas",
+      "count": 20,
+      "tooltip": "crianças pequenas, mencionado em 20 avaliações"
+    },
+    {
+      "tag": "esgoto",
+      "count": 9,
+      "tooltip": "esgoto, mencionado em 9 avaliações"
+    },
+    {
+      "tag": "trailer",
+      "count": 7,
+      "tooltip": "trailer, mencionado em 7 avaliações"
+    },
+    {
+      "tag": "simuliidae",
+      "count": 6,
+      "tooltip": "simuliidae, mencionado em 6 avaliações"
+    }
+  ],
+  "featuredPhotos": [
+    "https://lh5.googleusercontent.com/p/AF1QipNKGiL7oQAbZ8WHsAkdcU5D4Jy2HWr5pRwpBt54=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipO3arlUhlHA4IbuDSxVAuz3l2ut_muG2vIQLzIY=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMjhBz6cexkMEB_E5zMvBI6Ouu7WS9PypC1qiDL=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOdcMtXwOTfBDxA2DBsEC4Q_yIANtTh4zr3ILLg=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipP1dQLCBnB5td4B7oCflPaDFg-OwPHVAXSnZm9z=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPc0pJDCL04pWqDkCw34BQArGbKOefm3-31CJiJ=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNupGdvlcCIrhXC1RS_o2UR4bh2V7jhLLdLgaDn=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOl4277t3q0HT1YcXtzrexbKaYVmO81pp47IFMM=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipN6vdE3qSyNNRtmFgGfu30sJ34omTuQXpdLxZTI=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPgEF59Xykztncc4uZqtqwTbIz2Qaxlw3K57E37=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPoIvynGs9G6vYWulvHR01jNhYTGK5ysSZ5S4xK=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNf2znmwltqF_1zyH8FFzv9uNp0wC-pi1xrsYYO=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMWhgDMkaMiBCDu2qupiCvOIISus5_9Q__uJkkT=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPxfMjBaw2SrtjlJI44wRaeIFoGGf55s2kONSos=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNV_mJfF9ACGcNlJG0H3f90tONOj4ViHserx_-T=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMppqqaNxjpzHMdDQh-pvxZZ6EZ9QdBHcx5NbRG=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNQP9s8rzX8s4yrzsD1cuwqX5dGKbUHVjCFl-3u=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNyMy1XBiZSw1D8MdXpYmhC1PWiwp-L6pRRLVhv=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOV4GpLWcNttFR8aQe7rULqRIb2ka082f2gSzFM=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMN59Mfsnl_yO0hLfxgA4xnEyBOovoSwFE_nPC2=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNxIaXNcjAwtXBUtbxBN0-IjcM914kuZBEKDzWT=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPaKT3NaTfup9inip_of8wfkNpZjkXk6-o19aN6=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOnLUCZSIEoj3gB_XF1QxX1JgoiSsWEB2BXwcZW=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPBkNSqQsPt413xMIeLur3CESnVjx78fbYXBKJr=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNvUz8UzxTKGeEjWjOtz7V9OD-BFciifcT6CnTX=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipO2-5A7LYBvXPjm0dDxe7fLs9-syXNhnS1lkcFN=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNurZAjxkVDziR3NZ8FgmnyhQ-DO_l1OwpYfjod=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNKPiR0rUE6EO-wiGJei57cptLIto2orOF1-rod=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPA1gG_ARaVbOPIHw7bIWpOqQx4i2hL9pH_3AeL=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMSjedFxI4jelybYfGYqk5iM77lAHP-lM1UoWwW=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipP5QK5VJTEkNsEdxaqRp0xo67VN94HnCZPCzD6i=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipM_uh42MmLbYrFVYRGll3MHDfizWYY4tjBnfnB_=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPX4FPxQqiLC-I0QeOyUK_-BttegTMf2ndLbRr4=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOyUm2KZZrF63IsFNFD6exKyBclnD4UelsINKpW=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOl4WSbn5ZUge_22sBtyPTOOjnqo9vtZzPoWXY0=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPCj0hx2EnlGq4cemaYKBBzWbrH4Md4WxirMGOM=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNfjtHKoawqRSOEDMr83bSXu9vI3oGwbN5NeHVu=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPp5-016yVGANsOmdt52Vstne34Nn72Q3Lt0qkn=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPQzRC9r5GMLfaD4baJqxBS8BETMy5JR_MNzs1i=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPwFUmc2cmVLMpKsq8lQYfQwytihERTzsdr3KHT=w1024-h576-k-no"
+  ],
+  "topComments": [
+    {
+      "author": "Amanda Carrasco Moreno",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucpfHCYAoVHI9LeF3ZZT1CoYaVtEVQR77FbS5DB78w=w36-h36-p-c0x00000000-rp-mo-ba3-br100",
+      "comment": "A praia da lagoinha é extensa, com faixa de areia larga e área verde de recuperação ambiental. Existem casas para aluguel de temporada e feriados, além de casas vendendo bem de frente para o mar. É como se fosse um condomínio, mas sem muito controle de acesso. Se você tem alergia a pernilongos e muriçocas, passe bastante repelente porque em Ubatuba tem muuuitos destes insetos. Na praia tem uma placa avisando da proibição de som alto e a grande maioria das pessoas respeita essa proibição. Na faixa de areia tem algumas barracas vendendo porções e bebidas e tem apenas um quisque (que é muito bom!). Fiz uma viagem em família, no final de abril e pegamos 2 dias de mar mais agitado, mas normalmente essa praia é bem calma. No fim da praia tem um rio desembocando no mar e atravessando este rio começa a trilha das sete praias que passa pelas praias do Bonete, Bonetinho, Cedro e termina na praia da Fortaleza. Até a praia do Bonete a trilha é mais tranquila, depois fica mais difícil. Na praia da lagoinha tem stand up paddle, banana boat e taxi boat. Há também opções de passeios de barco pela costa e passando pelas ilhas com duração de 1 dia que custam em média R$200,00 por pessoa. A praia é bonita, tem um por do sol muito lindo mas estava com a bandeira vermelha da cetesb (imprópria para banho). No geral é uma praia boa para famílias e crianças.",
+      "gradeComment": 4
+    },
+    {
+      "author": "Marcelo Aquino",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucoeM9Y6SOBpc3lNoAb5qrP-dRATuUHzhJVOH2dyeQ=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "As praias de Ubatuba são lindas, essa de Lagoinha é fenomenal, muito bem conservada, com um rio de água doce que se encontra com a água do mar, a montanha contribui para uma paisagem incrível. Tem como fazer trilha onde é possível encontrar algumas casas.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Karina Inagaki",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucp-O6WlNuAt9rdCwhQW-Y1sKPktbNofOA73zgCuG7g=w36-h36-p-c0x00000000-rp-mo-ba3-br100",
+      "comment": "Essa praia faz jus ao nome, pois quase não há ondas e é ótima para crianças. A faixa de areia é larga, extensa e dura. A água é muito clara e límpida, o que me surpreendeu, pois vendo de longe parecia ser mais turva. Existem algumas opções de barracas, mas são bem poucas.",
+      "gradeComment": 4
+    },
+    {
+      "author": "Reinaldo Dantas SP",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucqX35PdrA4LSRnaDlK2dxFrSs35smgwsKOjrYkJ4VI=w36-h36-p-c0x00000000-rp-mo-ba6-br100",
+      "comment": "Uma das melhores praias de Ubatuba-SP, com certeza! Praia calma, limpa, praticamente sem ondas e com um rio bem grande que forma uma piscina natural, muitas pedras, árvores que dão boas sombras para ficar no local. Não tem muitos quiosques, o ideal é levar um cooler para aproveitar melhor a praia.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Marcelo Zanetti",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucqH33kwYeT4ff1jjsx_15X0gm-cZom47Qc9Is5xwQ=w36-h36-p-c0x00000000-rp-mo-ba3-br100",
+      "comment": "Excelente praia, tranquila e com poucas ondas, e tem um riozinho no canto esquerdo que é ótimo também! Fora um por do sol maravilhoso!",
+      "gradeComment": 5
+    },
+    {
+      "author": "Vá Pro Interior",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucrpfhpdMIj1hUENyWvGauadg1hrOanX8pL3iW1muw=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "Praia com extensa faixa de areia. A água fica verde e cristalina quando bate o sol. Do lado direito da praia, tem ondas para os surfistas e um quiosque maravilhoso que se chama Koko Loko. Oferece porções e pratos, mesas e cadeiras e tem banheiros. Do lado esquerdo, a entrada é por um condomínio que faz a segurança 24 horas por dia. A água é tranquila e com poucas ondas. Tem apenas um quiosque chamado Kebra Mar que oferece porções, mesas e cadeiras, mas não tem banheiro. Ao longo da praia você encontra diversos vendedores ambulantes que oferecem comes e bebes. Pra quem gosta de trilha e paisagens paradisíacas, no canto esquerdo da Praia da Lagoinha inicia-se uma das trilhas mais bonitas do litoral, a Trilha das Setes Praias. Pra fazer esta trilha completa recomenda-se contratar um guia e ter um bom preparo físico. Mas se você só quer aproveitar o início da trilha, numa caminhada de 20min, você chega no Pontal do Jorobá. Um quiosque com toda estrutura pra atender o turista e com uma vista linda das Praias de Lagoinha, Sapê e Maranduba.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Marcella Neves",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucreoQkDVAinWhBzf9BpxhtEx6IXJYcM6kfrYFzHzg=w36-h36-p-c0x00000000-rp-mo-ba3-br100",
+      "comment": "Uma praia linda, encontro do  rio  com o mar, extremamente limpa e em  um dia com poucos turista é possível estacionar na Estrada velha. Vale a pena conhecer, super recomendo!",
+      "gradeComment": 5
+    },
+    {
+      "author": "ANCELMO VALENTIM",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZuco8Ov0R08Dc2neYAZpgYwdUPW389mXQ6fRrlxkmsr8=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "Uma praia de faixa de areia bem larga e extensa, com águas calmas e poucas ondas. Ótima para famílias com crianças. Contendo apenas um quiosque (que tem várias porções e bebidas) porém conta alguns trailer's e carrinhos com venda de bebidas, assados e fritos. Alguns ambulantes também realizam venda de diversos produtos na areia, facilitando a vida de quem pretende passar o dia no local.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Patricia Lobo",
+      "photoAuthor": "https://lh3.googleusercontent.com/a/AItbvmnwemnBBEOycrTQ9UvK_2PzmVL-r9tYpEEXMMX-=w36-h36-p-c0x00000000-rp-mo-br100",
+      "comment": "Praia ótima, delícia de ir com a família, as crianças se divertiram a beça. Utilizamos zona azul para estacionar pois entramos por um condomínio. Pagamos R$20,00 mas vc pode deixar o carro o dia inteiro. Voltaremos em breve 😉",
+      "gradeComment": 5
+    },
+    {
+      "author": "Bruno Rafael",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucpPjDeodwAmBOwC3jE7Y_aai_HfmmNHy-EWsKdrCQE=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "Linda praia, limpa e organizada, pra quem gosta de um trilha do lado esquerdo da mesma, te leva para a trilha das 7 praias, uma mais linda que a outra.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Rubinho Regino",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucpWnCU_TnMRLnYG9DZdneO73reLKzJ9xM2a6i8WA-0=w36-h36-p-c0x00000000-rp-mo-ba5-br100",
+      "comment": "Praia muito boa, água de ondas calmas e um ambiente familiar... Recomendo para casal com crianças.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Mariana Rodrigues",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucq7FfHA--FKDLfXYRJak17xG-o9qejZeN5hQqDgwQ=w36-h36-p-c0x00000000-rp-mo-br100",
+      "comment": "Classifiquei com 5 estrelas por causa do Quiosque Kebra’s Mar. O mar é bom e sem ondas bem calmo e tranquilo para descansar mas sinto falta de mais quiosques.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Cleyton Rodrigues",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucriNNuNQOC48BU6D3CxcshrdnUKJpZCS9Rz6lhLQQ=w36-h36-p-c0x00000000-rp-mo-ba2-br100",
+      "comment": "Praia boa mas a água que vem do riacho tem esgoto não devia ser permitido a entrada de pessoas no local.",
+      "gradeComment": 3
+    },
+    {
+      "author": "Robson Kiss",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucrItkikvN-xfprk97GHHxNMReE9D3JhdNVPA414=w36-h36-p-c0x00000000-rp-mo-ba2-br100",
+      "comment": "Lugar lindo, praia maravilhosa, calma e facil acesso!",
+      "gradeComment": 5
+    },
+    {
+      "author": "As aventuras de CAMILI correia",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucqYGN_uA9fHdF4JEuWEgDOL8bYo7vPrle-mIIsH=w36-h36-p-c0x00000000-rp-mo-br100",
+      "comment": "O nome já diz lagoinha sem ondas top demais ,flutua na água ,limpa valeu mto a pena conhecer . Maravilhosa. Tem poucos quiosque mais e o suficiente.  Milho,sorvete várias opções.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Victoria Scarassatti",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucokhNkQPg0iRE8onrz4RRcyE-ROMqihpQi7PtYEBw=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "A Praia da Lagoinha foi o primeiro lugar que conheci ao chegar em Ubatuba pelo fato de ser bem de frente com a casa que estive hospedada. Amei a brisa matinal de acordar e imediatamente, mesmo de roupão, ir ver a praia às 5:40. Apreciar o nascer do sol. Ubatuba é vida!!!",
+      "gradeComment": 5
+    },
+    {
+      "author": "Ramon Rocha",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZuco0JHY8TeUcdhC_fN4YizcHVZTj2FbP7B_I33PK=w36-h36-p-c0x00000000-rp-mo-ba5-br100",
+      "comment": "Excelente praia. Muito tranquila. Não tem quiosques com estrutura. Mas tem varios pontos com carrinhos e trailers que vendem milho, porções e tem bebidas. Super recomendo pela tranquilidade da praia. Principalmente pra crianças.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Ana Carolina",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucq0aekjDHIO5mSzJPzAOsH4zLR_mFppzVWeMWiTWvw=w36-h36-p-c0x00000000-rp-mo-ba2-br100",
+      "comment": "Uma das melhores praias da região, vale muito a pena o passeio!",
+      "gradeComment": 5
+    },
+    {
+      "author": "Beatriz Gouveia",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucrb9JmYme6yaOoatU84xb6kQQBjN79uYmm4mre88zA=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "A Praia da Lagoinha o acesso fica dentro de um condomínio de casas, o qual tem muitas casas lindas e vale a pena observa-las com calma, vai ficar babando. A entrada da praia tem um portal muito bonito, a praia é limpa e o mar é calmo, em alta temporada fica cheia e o estacionamento do condomínio tem limite, precisa chegar cedo. No extremo da praia você encontra o acesso para a trilha das 7 Praias, é de nível leve até a Praia Grande Bonete (5), mas depois começa a ficar mais difícil e a trilha em mata mais fechada, mas vale muitoooo a pena, recomendo.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Ivan Ferreira",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucrDBRblIFQ_3kT3x3SzqBI_cM7f1R91p2s0N81vfzA=w36-h36-p-c0x00000000-rp-mo-ba6-br100",
+      "comment": "Praia bonita, limpa, de fácil acesso, segura pois fica dentro de um condomínio. Há alguns trailers vendendo diversos produtos (sorvete, açaí, porções, salgados, milho, etc) e também o quiosque Kebra Mar, que tem variedade e melhor estrutura. Um outro ponto positivo da Praia da Lagoinha, é que as ondas não são altas, e é super indicada para crianças.",
+      "gradeComment": 5
+    }
+  ],
+  "peakHours": [
+    {
+      "Sunday": [
+        {
+          "hour": "04:00",
+          "percent": 5
+        },
+        {
+          "hour": "05:00",
+          "percent": 5
+        },
+        {
+          "hour": "06:00",
+          "percent": 7
+        },
+        {
+          "hour": "07:00",
+          "percent": 11
+        },
+        {
+          "hour": "08:00",
+          "percent": 19
+        },
+        {
+          "hour": "09:00",
+          "percent": 33
+        },
+        {
+          "hour": "10:00",
+          "percent": 49
+        },
+        {
+          "hour": "11:00",
+          "percent": 62
+        },
+        {
+          "hour": "12:00",
+          "percent": 68
+        },
+        {
+          "hour": "13:00",
+          "percent": 66
+        },
+        {
+          "hour": "14:00",
+          "percent": 60
+        },
+        {
+          "hour": "15:00",
+          "percent": 49
+        },
+        {
+          "hour": "16:00",
+          "percent": 36
+        },
+        {
+          "hour": "17:00",
+          "percent": 23
+        },
+        {
+          "hour": "18:00",
+          "percent": 14
+        },
+        {
+          "hour": "19:00",
+          "percent": 8
+        },
+        {
+          "hour": "20:00",
+          "percent": 6
+        },
+        {
+          "hour": "21:00",
+          "percent": 5
+        },
+        {
+          "hour": "22:00",
+          "percent": 5
+        },
+        {
+          "hour": "23:00",
+          "percent": 5
+        },
+        {
+          "hour": "00:00",
+          "percent": 5
+        },
+        {
+          "hour": "01:00",
+          "percent": 5
+        },
+        {
+          "hour": "02:00",
+          "percent": 5
+        },
+        {
+          "hour": "03:00",
+          "percent": 5
+        }
+      ]
+    },
+    {
+      "Monday": [
+        {
+          "hour": "05:00",
+          "percent": 1
+        },
+        {
+          "hour": "06:00",
+          "percent": 2
+        },
+        {
+          "hour": "07:00",
+          "percent": 5
+        },
+        {
+          "hour": "08:00",
+          "percent": 9
+        },
+        {
+          "hour": "09:00",
+          "percent": 15
+        },
+        {
+          "hour": "10:00",
+          "percent": 21
+        },
+        {
+          "hour": "11:00",
+          "percent": 26
+        },
+        {
+          "hour": "12:00",
+          "percent": 29
+        },
+        {
+          "hour": "13:00",
+          "percent": 28
+        },
+        {
+          "hour": "14:00",
+          "percent": 24
+        },
+        {
+          "hour": "15:00",
+          "percent": 18
+        },
+        {
+          "hour": "16:00",
+          "percent": 12
+        },
+        {
+          "hour": "17:00",
+          "percent": 7
+        },
+        {
+          "hour": "18:00",
+          "percent": 4
+        },
+        {
+          "hour": "19:00",
+          "percent": 2
+        }
+      ]
+    },
+    {
+      "Tuesday": [
+        {
+          "hour": "08:00",
+          "percent": 2
+        },
+        {
+          "hour": "09:00",
+          "percent": 4
+        },
+        {
+          "hour": "10:00",
+          "percent": 6
+        },
+        {
+          "hour": "11:00",
+          "percent": 8
+        },
+        {
+          "hour": "12:00",
+          "percent": 8
+        },
+        {
+          "hour": "13:00",
+          "percent": 8
+        },
+        {
+          "hour": "14:00",
+          "percent": 7
+        },
+        {
+          "hour": "15:00",
+          "percent": 6
+        },
+        {
+          "hour": "16:00",
+          "percent": 3
+        },
+        {
+          "hour": "17:00",
+          "percent": 1
+        }
+      ]
+    },
+    {
+      "Wednesday": [
+        {
+          "hour": "08:00",
+          "percent": 2
+        },
+        {
+          "hour": "09:00",
+          "percent": 6
+        },
+        {
+          "hour": "10:00",
+          "percent": 10
+        },
+        {
+          "hour": "11:00",
+          "percent": 13
+        },
+        {
+          "hour": "12:00",
+          "percent": 15
+        },
+        {
+          "hour": "13:00",
+          "percent": 16
+        },
+        {
+          "hour": "14:00",
+          "percent": 15
+        },
+        {
+          "hour": "15:00",
+          "percent": 13
+        },
+        {
+          "hour": "16:00",
+          "percent": 9
+        },
+        {
+          "hour": "17:00",
+          "percent": 4
+        },
+        {
+          "hour": "18:00",
+          "percent": 1
+        }
+      ]
+    },
+    {
+      "Thursday": [
+        {
+          "hour": "08:00",
+          "percent": 3
+        },
+        {
+          "hour": "09:00",
+          "percent": 8
+        },
+        {
+          "hour": "10:00",
+          "percent": 13
+        },
+        {
+          "hour": "11:00",
+          "percent": 17
+        },
+        {
+          "hour": "12:00",
+          "percent": 19
+        },
+        {
+          "hour": "13:00",
+          "percent": 19
+        },
+        {
+          "hour": "14:00",
+          "percent": 18
+        },
+        {
+          "hour": "15:00",
+          "percent": 16
+        },
+        {
+          "hour": "16:00",
+          "percent": 12
+        },
+        {
+          "hour": "17:00",
+          "percent": 8
+        },
+        {
+          "hour": "18:00",
+          "percent": 4
+        },
+        {
+          "hour": "19:00",
+          "percent": 2
+        },
+        {
+          "hour": "20:00",
+          "percent": 1
+        },
+        {
+          "hour": "21:00",
+          "percent": 1
+        },
+        {
+          "hour": "22:00",
+          "percent": 1
+        },
+        {
+          "hour": "23:00",
+          "percent": 2
+        },
+        {
+          "hour": "00:00",
+          "percent": 2
+        },
+        {
+          "hour": "01:00",
+          "percent": 2
+        },
+        {
+          "hour": "02:00",
+          "percent": 1
+        }
+      ]
+    },
+    {
+      "Friday": [
+        {
+          "hour": "04:00",
+          "percent": 3
+        },
+        {
+          "hour": "05:00",
+          "percent": 1
+        },
+        {
+          "hour": "06:00",
+          "percent": 1
+        },
+        {
+          "hour": "07:00",
+          "percent": 3
+        },
+        {
+          "hour": "08:00",
+          "percent": 8
+        },
+        {
+          "hour": "09:00",
+          "percent": 15
+        },
+        {
+          "hour": "10:00",
+          "percent": 22
+        },
+        {
+          "hour": "11:00",
+          "percent": 28
+        },
+        {
+          "hour": "12:00",
+          "percent": 31
+        },
+        {
+          "hour": "13:00",
+          "percent": 31
+        },
+        {
+          "hour": "14:00",
+          "percent": 30
+        },
+        {
+          "hour": "15:00",
+          "percent": 27
+        },
+        {
+          "hour": "16:00",
+          "percent": 22
+        },
+        {
+          "hour": "17:00",
+          "percent": 16
+        },
+        {
+          "hour": "18:00",
+          "percent": 11
+        },
+        {
+          "hour": "19:00",
+          "percent": 7
+        },
+        {
+          "hour": "20:00",
+          "percent": 6
+        },
+        {
+          "hour": "21:00",
+          "percent": 6
+        },
+        {
+          "hour": "22:00",
+          "percent": 7
+        },
+        {
+          "hour": "23:00",
+          "percent": 8
+        },
+        {
+          "hour": "00:00",
+          "percent": 9
+        },
+        {
+          "hour": "01:00",
+          "percent": 8
+        },
+        {
+          "hour": "02:00",
+          "percent": 7
+        },
+        {
+          "hour": "03:00",
+          "percent": 5
+        }
+      ]
+    },
+    {
+      "Saturday": [
+        {
+          "hour": "04:00",
+          "percent": 7
+        },
+        {
+          "hour": "05:00",
+          "percent": 7
+        },
+        {
+          "hour": "06:00",
+          "percent": 7
+        },
+        {
+          "hour": "07:00",
+          "percent": 12
+        },
+        {
+          "hour": "08:00",
+          "percent": 24
+        },
+        {
+          "hour": "09:00",
+          "percent": 45
+        },
+        {
+          "hour": "10:00",
+          "percent": 70
+        },
+        {
+          "hour": "11:00",
+          "percent": 91
+        },
+        {
+          "hour": "12:00",
+          "percent": 100
+        },
+        {
+          "hour": "13:00",
+          "percent": 98
+        },
+        {
+          "hour": "14:00",
+          "percent": 93
+        },
+        {
+          "hour": "15:00",
+          "percent": 82
+        },
+        {
+          "hour": "16:00",
+          "percent": 62
+        },
+        {
+          "hour": "17:00",
+          "percent": 39
+        },
+        {
+          "hour": "18:00",
+          "percent": 22
+        },
+        {
+          "hour": "19:00",
+          "percent": 14
+        },
+        {
+          "hour": "20:00",
+          "percent": 11
+        },
+        {
+          "hour": "21:00",
+          "percent": 11
+        },
+        {
+          "hour": "22:00",
+          "percent": 12
+        },
+        {
+          "hour": "23:00",
+          "percent": 12
+        },
+        {
+          "hour": "00:00",
+          "percent": 11
+        },
+        {
+          "hour": "01:00",
+          "percent": 11
+        },
+        {
+          "hour": "02:00",
+          "percent": 10
+        },
+        {
+          "hour": "03:00",
+          "percent": 8
+        }
+      ]
+    }
+  ],
+  "relatedSearches": [
+    "Praia Da Lagoinha Morrinhos, GO",
+    "Praia Da Lagoinha Goiânia, GO",
+    "praia de lagoinha ubatuba",
+    "praia da lagoinha bombinhas",
+    "praia da lagoinha ubatuba fotos",
+    "praia da lagoinha sc",
+    "praia da lagoinha ubatuba tem quiosque",
+    "praia da lagoinha, ubatuba pousadas"
+  ],
+  "relateds": [
+    {
+      "mainName": "Praia de Maranduba - Ubatuba",
+      "url": null
+    },
+    {
+      "mainName": "Praia do Lázaro",
+      "url": null
+    },
+    {
+      "mainName": "Praia do Cedro",
+      "url": null
+    },
+    {
+      "mainName": "Praia das Toninhas",
+      "url": null
+    },
+    {
+      "mainName": "Praia da Santa Rita",
+      "url": null
+    },
+    {
+      "mainName": "Praia do Tenorio",
+      "url": null
+    },
+    {
+      "mainName": "Praia do Pulso",
+      "url": null
+    },
+    {
+      "mainName": "Praia do Bonete",
+      "url": null
+    },
+    {
+      "mainName": "Praia do Prumirim",
+      "url": null
+    },
+    {
+      "mainName": "Praia do Peres",
+      "url": null
+    },
+    {
+      "mainName": "Praia do Pereque Acu",
+      "url": null
+    },
+    {
+      "mainName": "Trilha das 7 Praias",
+      "url": null
+    },
+    {
+      "mainName": "Praia Grande",
+      "url": null
+    },
+    {
+      "mainName": "Praia do Itaguá",
+      "url": null
+    },
+    {
+      "mainName": "Praia da Almada",
+      "url": null
+    },
+    {
+      "mainName": "Praia do Sape",
+      "url": null
+    },
+    {
+      "mainName": "Praia do Oeste",
+      "url": null
+    },
+    {
+      "mainName": "Praia Vermelha do Sul",
+      "url": null
+    },
+    {
+      "mainName": "Praia Grande do Bonete",
+      "url": null
+    },
+    {
+      "mainName": "Ruínas da Lagoinha (Fazenda Bom Retiro)",
+      "url": null
+    },
+    {
+      "mainName": "Praia de Itamambuca",
+      "url": null
+    },
+    {
+      "mainName": "Praia Vermelha Do Norte",
+      "url": null
+    },
+    {
+      "mainName": "Praia Do Português(Félix)",
+      "url": null
+    },
+    {
+      "mainName": "Praia Brava da Fortaleza",
+      "url": null
+    }
+  ]
+}

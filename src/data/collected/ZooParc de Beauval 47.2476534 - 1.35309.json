@@ -1,0 +1,665 @@
+{
+  "mainName": "ZooParc de Beauval",
+  "slug": "zooparc-de-beauval",
+  "category": "Zoológico",
+  "locationInformation": {
+    "latitude": "47.2476534",
+    "longitude": "1.35309"
+  },
+  "basicInformation": [
+    {
+      "label": "endereço",
+      "tooltip": "Copiar endereço",
+      "text": "Av. du Blanc, 41110 St Aignan, França",
+      "icon": "https://www.gstatic.com/images/icons/material/system_gm/1x/place_gm_blue_24dp.png"
+    },
+    {
+      "label": "website",
+      "tooltip": "Abrir website",
+      "text": "zoobeauval.com",
+      "icon": "https://www.gstatic.com/images/icons/material/system_gm/1x/public_gm_blue_24dp.png"
+    },
+    {
+      "label": "telefone",
+      "tooltip": "Copiar número de telefone",
+      "text": "+33 2 54 75 50 00",
+      "icon": "https://www.gstatic.com/images/icons/material/system_gm/1x/phone_gm_blue_24dp.png"
+    },
+    {
+      "label": "Code",
+      "tooltip": "Copiar Plus Code",
+      "text": "69X3+36 Saint-Aignan, França",
+      "icon": "https://maps.gstatic.com/mapfiles/maps_lite/images/2x/ic_plus_code.png"
+    }
+  ],
+  "ratingInformation": {
+    "basicRatingInformation": {
+      "averageGrade": 4.7,
+      "totalOfEvaluations": 64649
+    },
+    "ratingsByGrade": [
+      {
+        "grade": 5,
+        "totalRatings": 48682
+      },
+      {
+        "grade": 4,
+        "totalRatings": 12056
+      },
+      {
+        "grade": 3,
+        "totalRatings": 2373
+      },
+      {
+        "grade": 2,
+        "totalRatings": 733
+      },
+      {
+        "grade": 1,
+        "totalRatings": 805
+      }
+    ]
+  },
+  "ratingTags": [
+    {
+      "tag": "julho",
+      "count": 59,
+      "tooltip": "julho, mencionado em 59 avaliações"
+    },
+    {
+      "tag": "fogos",
+      "count": 44,
+      "tooltip": "fogos, mencionado em 44 avaliações"
+    },
+    {
+      "tag": "artes cénicas",
+      "count": 3814,
+      "tooltip": "artes cénicas, mencionado em 3.814 avaliações"
+    },
+    {
+      "tag": "otariidae",
+      "count": 757,
+      "tooltip": "otariidae, mencionado em 757 avaliações"
+    },
+    {
+      "tag": "telecabine",
+      "count": 592,
+      "tooltip": "telecabine, mencionado em 592 avaliações"
+    },
+    {
+      "tag": "reputação",
+      "count": 199,
+      "tooltip": "reputação, mencionado em 199 avaliações"
+    },
+    {
+      "tag": "fantástico",
+      "count": 145,
+      "tooltip": "fantástico, mencionado em 145 avaliações"
+    },
+    {
+      "tag": "peixe-boi",
+      "count": 113,
+      "tooltip": "peixe-boi, mencionado em 113 avaliações"
+    }
+  ],
+  "featuredPhotos": [
+    "https://lh5.googleusercontent.com/p/AF1QipObsvBi1gGtQcakz5YNadoySXHd7oqQIzS1b1Sb=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPjOAdJSBbv4J6oesZANbyz8C62m1bH8P7ytIVB=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipO4OOP2ZY2MBK648YVh8QoPiTCR1fHdewgBq8li=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNzZnuYJntgdWqd5tuUmkhKcoVdrDwXVAqj_wCl=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPos-c_buhlUGph4OfoYO_lLNRK6YwB8SzG0r4e=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipO277ABfs9mbzHyi3xoyZ4EIiP91NJQFrfe3pnV=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNcAv1JJkttODw_rg4T0IcjRDsyeLmbunZdjzRo=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMM2Bz9C7TFQNZ1UiNjkZ5Fy40gkjWrMLTiUC3W=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipO5G4tXwOgxlheonkRYXsD3ncFVvShnJskC99cs=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPp-gKhS4VNnz3IyfZOa7wxrfWwFiSRwjHZtNIJ=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNF-UABBdaYBKgI0jPHIrGXrfGAgDZWUaFpLtPv=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMeo5FfShDjAiOb7k_SVhlHIj8OKm8xpplQOu42=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPDCJbVSuJumQ0O1THMN8gRPSVoKjGxHNDOouwn=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNwiuR8quJ36Aj_m8xj3Oa0u3OvDDL4Ub0oj5od=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipP4GHdVBpxrKbP8SXjuNvilXcZwCrllzgZGHbMN=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPh18b4b3HQlg8bYM84keWlxxkqFdGTx6CJfNxJ=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMQL5LKIEJrtg2IiHhti9FtCm8xfGtMuk9nyRxU=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMwhoddcXdYtX0N0eUMtiYpsETKGimu8pWtJHHs=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMg6Gf4H94tSzBOK3PDxKtcx61SKfWOex1hIfUc=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMJDa5RdROEdmAED-zCXncW__OUvWpPvJw9hXw=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMmveT4kRsNta3fbOmxbWaa2D_72fSubrNpXWkp=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNsWs0O1M6NnTEDFPAiForJ44GPN_MgFC8Kn3B1=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNw63ECLlbSvsh_z1SjGM31ppXhDh5C72hCcmOu=w1024-h576-k-no"
+  ],
+  "topComments": [
+    {
+      "author": "Marcelo L",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucoTy0ZakzQ0N69pTEjAvLj6ZdUrZ5Ov8QhKggUb=w36-h36-p-c0x00000000-rp-mo-ba5-br100",
+      "comment": "Zoológico maravilhoso. Classificado como 1  dos 5 melhores  zoológicos do Mundo. Quem tiver a oportunidade de conhecer vá que vale muito a pena. Conselho,1 dia é cansativo pra fazer a visita,aconselho 2 dias.",
+      "gradeComment": 5
+    },
+    {
+      "author": "jailson Betanzos",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZuco2KjS5JyaApeN3AeTc-DclDIG8n6OBGcV1XtjVAA=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "Um dos melhores zoos que já fui. Parque muito bonito, animais bem cuidados, ótimo ambiente, limpo. Um bom passeio pra família.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Paula Alves",
+      "photoAuthor": "https://lh3.googleusercontent.com/a/AItbvmmBH_qPMciuBEMNwVAgYWXy5jsCZcewCTFUqIak=w36-h36-p-c0x00000000-rp-mo-br100",
+      "comment": "Muito agradável o ambiente . Espetáculo das aves muito bem elaborado .",
+      "gradeComment": 4
+    },
+    {
+      "author": "Jana Leal",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucozXVkTBWO_j2YTsClLdzJB0xcLQQMmWSWX-x5SD-Q=w36-h36-p-c0x00000000-rp-mo-ba3-br100",
+      "comment": "Bilhete um pouco caro, mas boa experiência",
+      "gradeComment": 4
+    },
+    {
+      "author": "Miguel Pereira",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucp9ax3dSJhsA71P5Lw5BKLowEMBQuoiaYwpdSNnzxE=w36-h36-p-c0x00000000-rp-mo-br100",
+      "comment": "Lindo zoo, animais muito bem tratados, espaço e limpeza. Top, recomendo. Vá cedo e leve um snack. Várias wc e espetáculos temáticos e teleférico gratuitamente no interior.",
+      "gradeComment": 5
+    },
+    {
+      "author": "João Sá",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucpP44gj86NRxPs-f36KIfA0mjCwwlMYctjr5GHO-Q=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "Mas que parque fantástico. Compreende-se porque é um dos melhores do mundo.",
+      "gradeComment": 5
+    },
+    {
+      "author": "antonio domingues gil",
+      "photoAuthor": "https://lh3.googleusercontent.com/a/AItbvmlStWhbrVQgSw-ExR_WRqatsESGf4a8PO8Z-1-5=w36-h36-p-c0x00000000-rp-mo-ba3-br100",
+      "comment": "Muito bom parque muito grande muitas variadades de animais. Ponto negativo falta de um parque para merendar",
+      "gradeComment": 4
+    },
+    {
+      "author": "Sérgio Teixeira",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucq3BrgBAGOO1SQ6W7pc4AUBY01fLkMANDJfqxStxlU=w36-h36-p-c0x00000000-rp-mo-ba3-br100",
+      "comment": "É o melhor e maior zoo que já vi até hoje vi animais que nunca tinha visto ao vivo antes, todos os animais parecem estar bem tratados. O parque tem bastante acessibilidades e está tudo muito bem identificado. O trajecto de visita é muito intuitivo. É pena não ter informação noutras línguas à excepção do francês e inglês.",
+      "gradeComment": 5
+    },
+    {
+      "author": "J.R",
+      "photoAuthor": "https://lh3.googleusercontent.com/a/AItbvmmhftpwz9WlXzpYUf74-UEmFt5md4lzFYarqac=w36-h36-p-c0x00000000-rp-mo-ba2-br100",
+      "comment": "Muito bom zoo! Aconselho a todos a irem visitar, não vão ficar desiludidos!",
+      "gradeComment": 5
+    },
+    {
+      "author": "Djalma Carneiro",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucqw_21SwRKna08RIE-xIDE-RFVvy9NfWZ2kQKkmXBA=w36-h36-p-c0x00000000-rp-mo-ba5-br100",
+      "comment": "Zoológico incrível e Bem localizado na Região de Tour, na França,. Essa é a região dos castelos, no Vale do Loire. Esse zoológico foi o maior e mais encantador que eu já frequentei. Tem uma grande variedade de animais dos cinco continentes, principalmente das savanas africanas  e da Amazônia. Tem um serpentário climatizado, e tem.aves exóticas. E satisfizinha curiosidade conhecendo o pequeno suricato, um roedor muito simpático da África do sul, que foi estrela do filme dos estudios Disney, o Timão e Tuba.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Paula Garcia",
+      "photoAuthor": "https://lh3.googleusercontent.com/a/AItbvmld8owIdqRXf_7KvMH4nES2Wy9QxZbnC1SLjGCE=w36-h36-p-c0x00000000-rp-mo-br100",
+      "comment": "Espetacular muito bonito",
+      "gradeComment": 5
+    },
+    {
+      "author": "Geise ROSA",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucrHMDWGSHTmxsw4ftYTf5BdLZ2-Fnm_-2FFAcoPcHE=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "Realmente é  um passeio imperdível para quem é apaixonado por animais, uma boa oportunidade de poder conhecer várias espécies, atração principais os pandas e poder  alimentar as girafas. Passeios para todas as idades!",
+      "gradeComment": 5
+    },
+    {
+      "author": "José Sousa",
+      "photoAuthor": "https://lh3.googleusercontent.com/a/AItbvmnevCWW_yLsNt7oVs7dPsbRRMj1rjTGjd8VSNOk=w36-h36-p-c0x00000000-rp-mo-ba3-br100",
+      "comment": "Esperava mais de parque classificado dentro 10 mais belos do mundo.. O Zoo Lisboa nao fica nada a trás..  Se estão na zona Paris aconselho visitar Zoo Thoiry a 15 min Paris",
+      "gradeComment": 3
+    },
+    {
+      "author": "Jose Diogo",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucrZtm13nCYoaylY-xssLD5eD8lV7Ulbhj2pvhoQ=w36-h36-p-c0x00000000-rp-mo-ba3-br100",
+      "comment": "Bem organizado para que se possa passar um dia em cheio. Recomendo vivamente😀",
+      "gradeComment": 5
+    },
+    {
+      "author": "Mickael Martinet",
+      "photoAuthor": "https://lh3.googleusercontent.com/a/AItbvml4G3tcAApgb-KVCXiYE4OimvJpg5kAHtKkh9wj=w36-h36-p-c0x00000000-rp-mo-br100",
+      "comment": "E",
+      "gradeComment": 2
+    },
+    {
+      "author": "Senna Lobo",
+      "photoAuthor": "https://lh3.googleusercontent.com/a/AItbvmm0bFGtnQ24AHelM_lEIAOpZY26G1BEeFmr5t7-=w36-h36-p-c0x00000000-rp-mo-br100",
+      "comment": "Lindooooo lindooooo 😍😍",
+      "gradeComment": 5
+    },
+    {
+      "author": "José Manuel Tavares Dos Santos",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucohFYOx1hoaxGo8zVFpGyyaXg7N6FiKKxsNwc86=w36-h36-p-c0x00000000-rp-mo-ba2-br100",
+      "comment": "Um zoo, com muitas espécies em vias de extinção,  muito bem cuidadas. Espetáculo de pássaros de sonhar.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Marcos Pedott",
+      "photoAuthor": "https://lh3.googleusercontent.com/a/AItbvmnopVGROYkM6CCHPoRD0Ig1cSAgZbvJoK93tYL9=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "Muito legal! Bem organizado e parece muito cuidadoso com os animais.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Mateus Casotti",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucr4oNJj3hRlGVCgYxjxAwzJDGgb7VQHMIv89wpSPw=w36-h36-p-c0x00000000-rp-mo-br100",
+      "comment": "Diversão garantida com criança pequena. Excelente estrutura (banheiros, restaurantes, informações)",
+      "gradeComment": 5
+    },
+    {
+      "author": "Jorge Delfim Gonçalves",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucrOxGaH40JBTsAGnUXgRE-jIsAQMNxS2ANyI8WP=w36-h36-p-c0x00000000-rp-mo-br100",
+      "comment": "Muito boa organização, muita variedade...",
+      "gradeComment": 5
+    }
+  ],
+  "peakHours": [
+    {
+      "Sunday": [
+        {
+          "hour": "09:00",
+          "percent": 46
+        },
+        {
+          "hour": "10:00",
+          "percent": 74
+        },
+        {
+          "hour": "11:00",
+          "percent": 88
+        },
+        {
+          "hour": "12:00",
+          "percent": 88
+        },
+        {
+          "hour": "13:00",
+          "percent": 84
+        },
+        {
+          "hour": "14:00",
+          "percent": 84
+        },
+        {
+          "hour": "15:00",
+          "percent": 82
+        },
+        {
+          "hour": "16:00",
+          "percent": 69
+        },
+        {
+          "hour": "17:00",
+          "percent": 48
+        },
+        {
+          "hour": "18:00",
+          "percent": 26
+        }
+      ]
+    },
+    {
+      "Monday": [
+        {
+          "hour": "09:00",
+          "percent": 22
+        },
+        {
+          "hour": "10:00",
+          "percent": 36
+        },
+        {
+          "hour": "11:00",
+          "percent": 46
+        },
+        {
+          "hour": "12:00",
+          "percent": 49
+        },
+        {
+          "hour": "13:00",
+          "percent": 48
+        },
+        {
+          "hour": "14:00",
+          "percent": 48
+        },
+        {
+          "hour": "15:00",
+          "percent": 48
+        },
+        {
+          "hour": "16:00",
+          "percent": 42
+        },
+        {
+          "hour": "17:00",
+          "percent": 31
+        },
+        {
+          "hour": "18:00",
+          "percent": 19
+        }
+      ]
+    },
+    {
+      "Tuesday": [
+        {
+          "hour": "09:00",
+          "percent": 27
+        },
+        {
+          "hour": "10:00",
+          "percent": 44
+        },
+        {
+          "hour": "11:00",
+          "percent": 53
+        },
+        {
+          "hour": "12:00",
+          "percent": 54
+        },
+        {
+          "hour": "13:00",
+          "percent": 52
+        },
+        {
+          "hour": "14:00",
+          "percent": 53
+        },
+        {
+          "hour": "15:00",
+          "percent": 54
+        },
+        {
+          "hour": "16:00",
+          "percent": 47
+        },
+        {
+          "hour": "17:00",
+          "percent": 34
+        },
+        {
+          "hour": "18:00",
+          "percent": 19
+        }
+      ]
+    },
+    {
+      "Wednesday": [
+        {
+          "hour": "09:00",
+          "percent": 24
+        },
+        {
+          "hour": "10:00",
+          "percent": 37
+        },
+        {
+          "hour": "11:00",
+          "percent": 45
+        },
+        {
+          "hour": "12:00",
+          "percent": 47
+        },
+        {
+          "hour": "13:00",
+          "percent": 45
+        },
+        {
+          "hour": "14:00",
+          "percent": 45
+        },
+        {
+          "hour": "15:00",
+          "percent": 46
+        },
+        {
+          "hour": "16:00",
+          "percent": 41
+        },
+        {
+          "hour": "17:00",
+          "percent": 31
+        },
+        {
+          "hour": "18:00",
+          "percent": 18
+        }
+      ]
+    },
+    {
+      "Thursday": [
+        {
+          "hour": "09:00",
+          "percent": 30
+        },
+        {
+          "hour": "10:00",
+          "percent": 48
+        },
+        {
+          "hour": "11:00",
+          "percent": 59
+        },
+        {
+          "hour": "12:00",
+          "percent": 62
+        },
+        {
+          "hour": "13:00",
+          "percent": 60
+        },
+        {
+          "hour": "14:00",
+          "percent": 60
+        },
+        {
+          "hour": "15:00",
+          "percent": 61
+        },
+        {
+          "hour": "16:00",
+          "percent": 55
+        },
+        {
+          "hour": "17:00",
+          "percent": 42
+        },
+        {
+          "hour": "18:00",
+          "percent": 26
+        }
+      ]
+    },
+    {
+      "Friday": [
+        {
+          "hour": "09:00",
+          "percent": 26
+        },
+        {
+          "hour": "10:00",
+          "percent": 37
+        },
+        {
+          "hour": "11:00",
+          "percent": 49
+        },
+        {
+          "hour": "12:00",
+          "percent": 57
+        },
+        {
+          "hour": "13:00",
+          "percent": 62
+        },
+        {
+          "hour": "14:00",
+          "percent": 60
+        },
+        {
+          "hour": "15:00",
+          "percent": 54
+        },
+        {
+          "hour": "16:00",
+          "percent": 44
+        },
+        {
+          "hour": "17:00",
+          "percent": 33
+        },
+        {
+          "hour": "18:00",
+          "percent": 22
+        }
+      ]
+    },
+    {
+      "Saturday": [
+        {
+          "hour": "09:00",
+          "percent": 49
+        },
+        {
+          "hour": "10:00",
+          "percent": 78
+        },
+        {
+          "hour": "11:00",
+          "percent": 96
+        },
+        {
+          "hour": "12:00",
+          "percent": 99
+        },
+        {
+          "hour": "13:00",
+          "percent": 97
+        },
+        {
+          "hour": "14:00",
+          "percent": 98
+        },
+        {
+          "hour": "15:00",
+          "percent": 100
+        },
+        {
+          "hour": "16:00",
+          "percent": 90
+        },
+        {
+          "hour": "17:00",
+          "percent": 67
+        },
+        {
+          "hour": "18:00",
+          "percent": 40
+        }
+      ]
+    }
+  ],
+  "relatedSearches": [
+    "zooparc de beauval map",
+    "zooparc de beauval animals",
+    "zoo la palmyre",
+    "parc astérix",
+    "château chambord",
+    "sncf",
+    "oui sncf"
+  ],
+  "relateds": [
+    {
+      "mainName": "Zoo de la Flèche",
+      "url": null
+    },
+    {
+      "mainName": "Futuroscope",
+      "url": null
+    },
+    {
+      "mainName": "Puy du Fou",
+      "url": null
+    },
+    {
+      "mainName": "Zoológico de La Palmyre",
+      "url": null
+    },
+    {
+      "mainName": "Le Pal",
+      "url": null
+    },
+    {
+      "mainName": "Thoiry ZooSafari",
+      "url": null
+    },
+    {
+      "mainName": "Pairi Daiza",
+      "url": null
+    },
+    {
+      "mainName": "Jardim Zoológico de Paris",
+      "url": null
+    },
+    {
+      "mainName": "Parque Astérix",
+      "url": null
+    },
+    {
+      "mainName": "Planète Sauvage",
+      "url": null
+    },
+    {
+      "mainName": "Feline Park",
+      "url": null
+    },
+    {
+      "mainName": "Zoo de Cerza",
+      "url": null
+    },
+    {
+      "mainName": "Disneyland Paris",
+      "url": null
+    },
+    {
+      "mainName": "Château de Chenonceau",
+      "url": null
+    },
+    {
+      "mainName": "Bioparc de Doué-la-Fontaine",
+      "url": null
+    },
+    {
+      "mainName": "La Vallée Des Singes",
+      "url": null
+    },
+    {
+      "mainName": "Nigloland",
+      "url": null
+    },
+    {
+      "mainName": "Dôme Équatorial",
+      "url": null
+    },
+    {
+      "mainName": "Zoo and Botanical Garden of Branféré",
+      "url": null
+    },
+    {
+      "mainName": "Jardin d’acclimatation",
+      "url": null
+    },
+    {
+      "mainName": "Terra Botanica",
+      "url": null
+    },
+    {
+      "mainName": "Castelo de Cheverny",
+      "url": null
+    },
+    {
+      "mainName": "Parc Saint-Paul",
+      "url": null
+    }
+  ]
+}

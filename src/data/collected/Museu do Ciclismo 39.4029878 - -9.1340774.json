@@ -1,0 +1,556 @@
+{
+  "mainName": "Museu do Ciclismo",
+  "slug": "museu-do-ciclismo",
+  "category": "Museu",
+  "locationInformation": {
+    "latitude": "39.4029878",
+    "longitude": "-9.1340774"
+  },
+  "basicInformation": [
+    {
+      "label": "endereço",
+      "tooltip": "Copiar endereço",
+      "text": "R. de Camões, Caldas da Rainha, Portugal",
+      "icon": "https://www.gstatic.com/images/icons/material/system_gm/1x/place_gm_blue_24dp.png"
+    },
+    {
+      "label": "website",
+      "tooltip": "Abrir website",
+      "text": "facebook.com",
+      "icon": "https://www.gstatic.com/images/icons/material/system_gm/1x/public_gm_blue_24dp.png"
+    },
+    {
+      "label": "telefone",
+      "tooltip": "Copiar número de telefone",
+      "text": "+351 262 240 000",
+      "icon": "https://www.gstatic.com/images/icons/material/system_gm/1x/phone_gm_blue_24dp.png"
+    },
+    {
+      "label": "Code",
+      "tooltip": "Copiar Plus Code",
+      "text": "CV38+59 Caldas da Rainha, Portugal",
+      "icon": "https://maps.gstatic.com/mapfiles/maps_lite/images/2x/ic_plus_code.png"
+    },
+    {
+      "label": "merchant",
+      "text": "Reivindicar esta empresa",
+      "icon": "https://www.gstatic.com/images/icons/material/system_gm/1x/verified_user_gm_blue_24dp.png"
+    }
+  ],
+  "ratingInformation": {
+    "basicRatingInformation": {
+      "averageGrade": 4.6,
+      "totalOfEvaluations": 89
+    },
+    "ratingsByGrade": [
+      {
+        "grade": 5,
+        "totalRatings": 63
+      },
+      {
+        "grade": 4,
+        "totalRatings": 19
+      },
+      {
+        "grade": 3,
+        "totalRatings": 6
+      },
+      {
+        "grade": 2,
+        "totalRatings": 1
+      },
+      {
+        "grade": 1,
+        "totalRatings": 0
+      }
+    ]
+  },
+  "ratingTags": [
+    {
+      "tag": "exposição",
+      "count": 11,
+      "tooltip": "exposição, mencionado em 11 avaliações"
+    },
+    {
+      "tag": "história",
+      "count": 8,
+      "tooltip": "história, mencionado em 8 avaliações"
+    },
+    {
+      "tag": "ciclistas",
+      "count": 5,
+      "tooltip": "ciclistas, mencionado em 5 avaliações"
+    }
+  ],
+  "featuredPhotos": [
+    "https://lh5.googleusercontent.com/p/AF1QipMLf094vQNIe33xjzwMqCeGYhSDsKcMg7UDjqtd=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipO5grDcpUqosqpW0sz6d99iasaH81uyARvj5V1w=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNNzAsANoMmZ9N6fgRMu3LLB9yYUSpQR6fbb7HD=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNGq_ufCDgq66lTEXFqhYViCsV3OzliS1VzAAEF=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOCssRGz2O08IQC5NmdKgbVi1Fx5zJBZydt3Y-H=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMZX69ICROdqOwgLpPlNKFolQyPJSgxiIUMD-Kb=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMDopD8ohGo77tOHhCbGI7iI5gvOqK5bk2o5xJp=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipN_cZX1e0QV3ZgFlJQVdkVmfmUZ2FW7OS0WqK0t=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipP_tdV-_fimQIYmemPVvm0c5U3SOPn96qRoAr5J=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMqfAv45E15X1tGDr53oBRi1ZGlkieNBovHiliU=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPGWmXoUqfKe3yNiqqyDcitP3h5ZjFwjL70qB4x=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNjvC5yVIS6Ru0Qpe2_vbdIhk4pJ7jFIsjehZ_B=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPMSVl-rsgFKboaQZW-F8ALvFVWHyX2Up9TxYvT=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOvHuvnR3HRshR9eyxeqadaadF_m5hx_bblfr_R=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOjELhz_JRtsTF_RXCGjJxVV3r6YfaOkDolPXvR=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNP4i-OudcwvS8YzM-18y24WvqW8CxXjH7CxREV=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipM3Ntqbo83gVCAtgoDVNO0og33519T8A265XorX=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNQNRYosLGbbekg8TqW33Mf4Uhy7kEcC8HhjqEZ=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMgePKzjRV581iqUIJbDoFG09ooi-cE5NsTk6Hh=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOVhfI5iamP-wVuwdr9Fy3qeLCMwvbNLCBT-fyS=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipP3kjlYCvny2l1IEFrqE4PQAjA8LjQpZtGlyqft=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipN1Y8dES706LiB2tkhY_jWw3-Q8VYpzBn2qyzOS=w1024-h576-k-no"
+  ],
+  "topComments": [
+    {
+      "author": "José Rui Raposo Raposo",
+      "photoAuthor": "https://lh3.googleusercontent.com/a/AItbvmkRw7XnsHi-JQKhQ_FrLN4ucijGQb40sqKgUcYu=w36-h36-p-c0x00000000-rp-mo-br100",
+      "comment": "Vale a pena visitar a exposição permanente sobre ciclismo e se ainda tiver tempo, vá ver a exposição sobre a Linha do Oeste, aberta ao público até amanhã. Fotos, material ferroviário, documentos e maquetas à escala. Não perca!",
+      "gradeComment": 5
+    },
+    {
+      "author": "Ricardo Conceição",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucp_RU9qhS1i36o2yz-OCHG5VHuMsRMhUPaj_OiupQ=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "Local excelente para aprender sobre cinema e ciclismo. As funcionárias são de uma excelente simpatia onde ajudam a esclarecer as dúvidas que possuímos. Aconselho a visitar!",
+      "gradeComment": 5
+    },
+    {
+      "author": "Jorge Bica",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucoyhBitXK8WuyyRhlh5hq2WtEUkvws6AaoKSBuBAg=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "É um pequeno museu gratuito mas onde somos acolhidos com entusiasmo e fomos acompanhados por uma pessoa verdadeiramente interessada no que faz. Além do ciclismo, também tem uma parte dedicada à história dos cineteatros da terra. Recomendo.",
+      "gradeComment": 4
+    },
+    {
+      "author": "Sónia Ribeiro",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucp0clkWtlKsZSVyf-ijC2vk_NEOfzCIK1JmcYSoSg=w36-h36-p-c0x00000000-rp-mo-ba3-br100",
+      "comment": "Excelente. A exposição e simpatia dos funcionários. Não deixe de visitar",
+      "gradeComment": 5
+    },
+    {
+      "author": "Mónica Ramos - Ramos",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucri7ZeT81MjSJvBxaDltw3pL71N7aYjCN2RnQTO7w=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "O Museu do Ciclismo é um espaço que tem o seu foco em torno da história do Ciclismo, mas também conteúdo etnográfico-histórico e é possuidor de um espólio riquíssimo é sem dúvida um local a visitar nas Caldas da Rainha",
+      "gradeComment": 5
+    },
+    {
+      "author": "Filipe Marques",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucpsyzHpiX0yjRBRdIc1EgwYNfbo7kgJP8Y7xE1VSWk=w36-h36-p-c0x00000000-rp-mo-ba7-br100",
+      "comment": "Como Caldense sinto-me triste por ter um museu do ciclismo que tem exposições de tudo e mais alguma coisa menos de aquilo que deveria de ter, ciclismo! Foi criado para quê e porquê???",
+      "gradeComment": 2
+    },
+    {
+      "author": "Jose Cartaxo",
+      "photoAuthor": "https://lh3.googleusercontent.com/a/AItbvmliapIJ1T0Fxs1gVrpv3YqOi9R39ZcWIqYMh3UZ=w36-h36-p-c0x00000000-rp-mo-ba3-br100",
+      "comment": "Historia interessante, tinha um exibição temporária sobre o cinema quando fui visitar, adoramos ver.",
+      "gradeComment": 4
+    },
+    {
+      "author": "Helder Almeida",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucqlf40kLtO4i8C8bvmjJ_OYHXlosrtsf6ulXDGXwQ4=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "Excelente, a simpatia e o conhecimento do Sr. Mário Lino",
+      "gradeComment": 5
+    },
+    {
+      "author": "Joao Silva",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucqZD7-zSy7apkxPnWb-oKNIoLCWPFc4vdRvq6jc=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "Adoramos, parabéns 👏",
+      "gradeComment": 5
+    },
+    {
+      "author": "Filipa Paulo",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucoch5P1gV78_quKKi0mK9J7sRmIt_PY0MTUoDlO=w36-h36-p-c0x00000000-rp-mo-ba2-br100",
+      "comment": "Experiência muito agradável, bem recebidos, com atenção e explicação. A exposição bem concebida.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Alberto Santos",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucpdvgFccVTSK5LK3rw_r54-CAiRJhFiK8Kp0ErKKQ=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "É  sempre muito bom visitar o Museu e o Sr. Mário  Lino.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Milene Mendonça",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucqYdwpR1XG5Fu6DbrmevagfkvGVi8BOO76EHUJm=w36-h36-p-c0x00000000-rp-mo-ba3-br100",
+      "comment": "Vale a pena a visita, super completa a exposição.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Joao Rodrigues",
+      "photoAuthor": "https://lh3.googleusercontent.com/a/AItbvmk3SSpDPhIWX1LRvzWXQC9B6k8TJcg9AW-31Ve1=w36-h36-p-c0x00000000-rp-mo-br100",
+      "comment": "Muito interessante. Podem encontrar-se as velhas glórias do ciclismo.",
+      "gradeComment": 4
+    },
+    {
+      "author": "rui henriques",
+      "photoAuthor": "https://lh3.googleusercontent.com/a/AItbvml8yx1VzS7OAgRdggl7VLfYAMlzMpo8rZnN0cXm=w36-h36-p-c0x00000000-rp-mo-ba3-br100",
+      "comment": "Sem dúvida um pedaço de história da bicicleta. Muito bom.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Fernando Rodrigues Salvio",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucpk6dpEH9MN2MTPAFiULzNhdxYMsrxaM9qu_7stco4=w36-h36-p-c0x00000000-rp-mo-ba3-br100",
+      "comment": "Muito interessante para os amantes do ciclismo e outros temas.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Alexandra Afonso",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucry0-bZUXvWoIqeLmmCZ1nkHNdWelhtKjto7K0WQQ=w36-h36-p-c0x00000000-rp-mo-br100",
+      "comment": "Museu com peças muito interessantes sobre a modalidade",
+      "gradeComment": 4
+    },
+    {
+      "author": "Filipe Lopo",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucqPsYzSxsboo9XeD2_5OhGXWlJpQUWXWAaFuNTqdw=w36-h36-p-c0x00000000-rp-mo-ba3-br100",
+      "comment": "Excelente local repleto de História e histórias. Acolhimento único.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Cláudia Sofia",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucr7wkxTXC3JbIzdFFmPY-bemuuUSKeGfwPwiULMcg=w36-h36-p-c0x00000000-rp-mo-br100",
+      "comment": "Sempre com exposições diferentes e bem selecionadas!",
+      "gradeComment": 5
+    },
+    {
+      "author": "carlos fernandes",
+      "photoAuthor": "https://lh3.googleusercontent.com/a/AItbvmkaZnIV7GS33sAVRMvtrar2oCUWo-U7RBH8b6A=w36-h36-p-c0x00000000-rp-mo-br100",
+      "comment": "Museu com várias exposições muito interessantes.",
+      "gradeComment": 4
+    },
+    {
+      "author": "antonio simoes",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucqYkWPiGeoEt0fRMDLdAgdlzpdeKapI0Q10hQWNkQ=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "Não posso dizer nada porque não fui lá dentro.",
+      "gradeComment": 3
+    }
+  ],
+  "peakHours": [
+    {
+      "Sunday": [
+        {
+          "hour": "10:00",
+          "percent": 33
+        },
+        {
+          "hour": "11:00",
+          "percent": 54
+        },
+        {
+          "hour": "12:00",
+          "percent": 51
+        },
+        {
+          "hour": "14:00",
+          "percent": 15
+        },
+        {
+          "hour": "15:00",
+          "percent": 27
+        },
+        {
+          "hour": "16:00",
+          "percent": 36
+        }
+      ]
+    },
+    {
+      "Monday": []
+    },
+    {
+      "Tuesday": [
+        {
+          "hour": "10:00",
+          "percent": 48
+        },
+        {
+          "hour": "11:00",
+          "percent": 39
+        },
+        {
+          "hour": "12:00",
+          "percent": 63
+        },
+        {
+          "hour": "14:00",
+          "percent": 57
+        },
+        {
+          "hour": "15:00",
+          "percent": 48
+        },
+        {
+          "hour": "16:00",
+          "percent": 100
+        },
+        {
+          "hour": "17:00",
+          "percent": 21
+        }
+      ]
+    },
+    {
+      "Wednesday": [
+        {
+          "hour": "10:00",
+          "percent": 45
+        },
+        {
+          "hour": "11:00",
+          "percent": 84
+        },
+        {
+          "hour": "12:00",
+          "percent": 93
+        },
+        {
+          "hour": "14:00",
+          "percent": 54
+        },
+        {
+          "hour": "15:00",
+          "percent": 75
+        },
+        {
+          "hour": "16:00",
+          "percent": 93
+        },
+        {
+          "hour": "17:00",
+          "percent": 60
+        }
+      ]
+    },
+    {
+      "Thursday": [
+        {
+          "hour": "10:00",
+          "percent": 69
+        },
+        {
+          "hour": "11:00",
+          "percent": 48
+        },
+        {
+          "hour": "12:00",
+          "percent": 75
+        },
+        {
+          "hour": "14:00",
+          "percent": 63
+        },
+        {
+          "hour": "15:00",
+          "percent": 27
+        },
+        {
+          "hour": "16:00",
+          "percent": 39
+        },
+        {
+          "hour": "17:00",
+          "percent": 39
+        }
+      ]
+    },
+    {
+      "Friday": [
+        {
+          "hour": "10:00",
+          "percent": 51
+        },
+        {
+          "hour": "11:00",
+          "percent": 66
+        },
+        {
+          "hour": "12:00",
+          "percent": 69
+        },
+        {
+          "hour": "14:00",
+          "percent": 60
+        },
+        {
+          "hour": "15:00",
+          "percent": 54
+        },
+        {
+          "hour": "16:00",
+          "percent": 45
+        },
+        {
+          "hour": "17:00",
+          "percent": 33
+        }
+      ]
+    },
+    {
+      "Saturday": [
+        {
+          "hour": "10:00",
+          "percent": 78
+        },
+        {
+          "hour": "11:00",
+          "percent": 100
+        },
+        {
+          "hour": "12:00",
+          "percent": 87
+        },
+        {
+          "hour": "14:00",
+          "percent": 84
+        },
+        {
+          "hour": "15:00",
+          "percent": 96
+        },
+        {
+          "hour": "16:00",
+          "percent": 66
+        }
+      ]
+    }
+  ],
+  "relatedSearches": [
+    "torres vedras",
+    "câmara de torres vedras",
+    "torres vedras",
+    "câmara de torres vedras"
+  ],
+  "relateds": [
+    {
+      "mainName": "Museu do Hospital e das Caldas",
+      "url": null
+    },
+    {
+      "mainName": "Museu Leopoldo de Almeida",
+      "url": null
+    },
+    {
+      "mainName": "Indoor karting Caldas da Rainha",
+      "url": null
+    },
+    {
+      "mainName": "Museu da Cerâmica",
+      "url": null
+    },
+    {
+      "mainName": "Parque Dom Carlos I",
+      "url": null
+    },
+    {
+      "mainName": "Museu José Malhoa",
+      "url": null
+    },
+    {
+      "mainName": "Chafariz das Cinco Bicas",
+      "url": null
+    },
+    {
+      "mainName": "Museu Barata Feyo",
+      "url": null
+    },
+    {
+      "mainName": "Igreja Nossa Senhora do Pópulo",
+      "url": null
+    },
+    {
+      "mainName": "Ermida de São Sebastião",
+      "url": null
+    },
+    {
+      "mainName": "Atelier-Museu António Duarte",
+      "url": null
+    },
+    {
+      "mainName": "Encosta da Quinta | humus wines",
+      "url": null
+    },
+    {
+      "mainName": "Praia da Foz do Arelho",
+      "url": null
+    },
+    {
+      "mainName": "Praça da Fruta",
+      "url": null
+    },
+    {
+      "mainName": "Volta a Portugal em Bicicleta",
+      "url": null
+    },
+    {
+      "mainName": "Mosteiro da Batalha",
+      "url": null
+    },
+    {
+      "mainName": "Museu do Hospital e das Caldas",
+      "url": null
+    },
+    {
+      "mainName": "Museu Leopoldo de Almeida",
+      "url": null
+    },
+    {
+      "mainName": "Indoor karting Caldas da Rainha",
+      "url": null
+    },
+    {
+      "mainName": "Museu da Cerâmica",
+      "url": null
+    },
+    {
+      "mainName": "Parque Dom Carlos I",
+      "url": null
+    },
+    {
+      "mainName": "Museu José Malhoa",
+      "url": null
+    },
+    {
+      "mainName": "Chafariz das Cinco Bicas",
+      "url": null
+    },
+    {
+      "mainName": "Museu Barata Feyo",
+      "url": null
+    },
+    {
+      "mainName": "Igreja Nossa Senhora do Pópulo",
+      "url": null
+    },
+    {
+      "mainName": "Ermida de São Sebastião",
+      "url": null
+    },
+    {
+      "mainName": "Atelier-Museu António Duarte",
+      "url": null
+    },
+    {
+      "mainName": "Encosta da Quinta | humus wines",
+      "url": null
+    },
+    {
+      "mainName": "Praia da Foz do Arelho",
+      "url": null
+    },
+    {
+      "mainName": "Praça da Fruta",
+      "url": null
+    },
+    {
+      "mainName": "Volta a Portugal em Bicicleta",
+      "url": null
+    },
+    {
+      "mainName": "Mosteiro da Batalha",
+      "url": null
+    }
+  ]
+}

@@ -1,0 +1,610 @@
+{
+  "mainName": "Museu do Catetinho",
+  "slug": "museu-do-catetinho",
+  "category": "Museu",
+  "locationInformation": {
+    "latitude": "-15.9476097",
+    "longitude": "-47.9884013"
+  },
+  "basicInformation": [
+    {
+      "label": "endereço",
+      "tooltip": "Copiar endereço",
+      "text": "Rodovia BR 040 s/n Trevo do - Gama, Brasília - DF, 71745-000",
+      "icon": "https://www.gstatic.com/images/icons/material/system_gm/1x/place_gm_blue_24dp.png"
+    },
+    {
+      "label": "telefone",
+      "tooltip": "Copiar número de telefone",
+      "text": "(61) 3338-8803",
+      "icon": "https://www.gstatic.com/images/icons/material/system_gm/1x/phone_gm_blue_24dp.png"
+    },
+    {
+      "label": "Code",
+      "tooltip": "Copiar Plus Code",
+      "text": "3226+XJ Gama, Brasília - DF",
+      "icon": "https://maps.gstatic.com/mapfiles/maps_lite/images/2x/ic_plus_code.png"
+    },
+    {
+      "label": "send-to-device",
+      "text": "Enviar para smartphone",
+      "icon": "https://maps.gstatic.com/consumer/images/icons/1x/send_to_mobile_alt_gm_blue_24dp.png"
+    }
+  ],
+  "ratingInformation": {
+    "basicRatingInformation": {
+      "averageGrade": 4.7,
+      "totalOfEvaluations": 1324
+    },
+    "ratingsByGrade": [
+      {
+        "grade": 5,
+        "totalRatings": 1018
+      },
+      {
+        "grade": 4,
+        "totalRatings": 215
+      },
+      {
+        "grade": 3,
+        "totalRatings": 66
+      },
+      {
+        "grade": 2,
+        "totalRatings": 6
+      },
+      {
+        "grade": 1,
+        "totalRatings": 19
+      }
+    ]
+  },
+  "ratingTags": [
+    {
+      "tag": "JK",
+      "count": 59,
+      "tooltip": "JK, mencionado em 59 avaliações"
+    },
+    {
+      "tag": "nascente",
+      "count": 29,
+      "tooltip": "nascente, mencionado em 29 avaliações"
+    },
+    {
+      "tag": "capital",
+      "count": 28,
+      "tooltip": "capital, mencionado em 28 avaliações"
+    },
+    {
+      "tag": "construção",
+      "count": 26,
+      "tooltip": "construção, mencionado em 26 avaliações"
+    },
+    {
+      "tag": "presidente",
+      "count": 21,
+      "tooltip": "presidente, mencionado em 21 avaliações"
+    },
+    {
+      "tag": "história do brasil",
+      "count": 13,
+      "tooltip": "história do brasil, mencionado em 13 avaliações"
+    },
+    {
+      "tag": "residência oficial",
+      "count": 11,
+      "tooltip": "residência oficial, mencionado em 11 avaliações"
+    },
+    {
+      "tag": "fonte",
+      "count": 9,
+      "tooltip": "fonte, mencionado em 9 avaliações"
+    },
+    {
+      "tag": "oscar niemeyer",
+      "count": 6,
+      "tooltip": "oscar niemeyer, mencionado em 6 avaliações"
+    },
+    {
+      "tag": "conservação",
+      "count": 6,
+      "tooltip": "conservação, mencionado em 6 avaliações"
+    }
+  ],
+  "featuredPhotos": [
+    "https://lh5.googleusercontent.com/p/AF1QipMJHcuBUnaTq5v26i7V0GQ-9L1a8PSFFE3iwQ7J=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOuWFXCpAsEx_YLNcTnrRC7caCxCQgduCcr5NOu=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMlQP3hp5D-REwbYhO1gBoE8IImWJeuiEwWA5US=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipM87UeXl0rP64IZmy5c_CVjbdLB9QkgQuiGybbx=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipM8jNBvjvLzZBeSpZQ7PD1asRvB3HFPza2jOcQi=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPkCKAYVts4a9sCeAT8eNVzFLsaY3uMAlgsQZF_=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNc70D2NxYwoOEAWfB-jeJ2TLHqkeYxKIcwT4Lx=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOsZfwTFGmCDOCP_Ik3H0S_ePD8qhTi-RuHP96K=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPdLv-Xnym6ueXeBJHrLKQT6SiMWpOOyoxh4Dax=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNm15RDh6pxj_163qWxt9eRhXzxIKTF35mJmq-S=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOHskINMzLKjWTaT8rT5aJHdlsyqtV_Hhv8-9ax=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipM_bQj5JnalLrK_R0D9i8o1WNbZGe7gPeXmdXE6=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPktcaoGySCqgOaevIYlV_YaxtTGDMg8FSuOBRj=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMfT1CDQXtzvgpN5JKvjjI7wyIK_zTkVd4mp_yV=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPwjYxUMrhFv8pEsXlMIxlOKqAulXF4JV6cD80E=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipO00AOL0l4bWC1X5C0se6jOo9tDA99nVeqkWJLs=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOA4YEuUhjOJgvBQ4MX7x4YYPkunNW-R_Wj8DSl=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMg8iEAEh5Z7OyBdoRxc2dPRjtzkoDJWfdTG9uB=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNk56iQs4uaaCYRa5nzwbwE96BvlCuLwCgnAWYr=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNJtbJ1NEngBDIe2ScTEy7Tun9v-5BL6AZ-h8eU=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOpcoAXSCHBm3BLMyOGc0kIKyAdksjjBTuXmOaZ=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPiLAsTPQ0G-rOR4ay-8t9eUeUeiMuaah2TeiGd=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNMB629o228lITpGLc1mCp3-Suta9VMjbhGgxfT=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOnRL8VPPbJsty5DQemvFsXoiBOMJJGdvc_Kb60=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipM4JX3ybevDTJC_Bh5xIIOhMjlOuSP5VsoNZIyL=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPFrKTI7vvQqLbH0pRcNjNm8KyraFh6QbHauiln=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMzyPGcp4CPXsAvidaj7YDq41UZeGnS7lsS8KT4=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOC4N5na3YfiJGlzfniJ_8pO029C7IsWu7BA_8M=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOThI5GHvd1mXQ24ts0DuEy9sAX1VNATMQnbBw=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMaOOy13ZW7-8-ygwmXDkStFt6Y6aMk1rQvQb6E=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPYDePnp3rnZWGsecAxj_P3KdKPA7QiruUh_tDO=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMw7acLh4bUO5PAUUpdOF0OcOPw4lwEmRgaZ2_B=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPWWRQzLTaZPWiPjZPrAUUyt1tzN9fCd4QtvlJQ=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMN8vw1RCSG1cFM_uI9tjRLHrHgDKtG5nXm3tlv=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOYkYV1ZVbTBXndUfbhB7AUGr4Q7ViXQoNILZ36=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPpja3ndaYouaw0VkVr-Ablssq0bsS4coFKcRkf=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNaOZXh2eBdsPTqhArn_YSiuXioMVExJwC4aKdi=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOmpIv9H_KLIWwYdx96yo2R6CllmgQyu44ay-dA=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNDdMCCRytcFGqsx_l1QyE7RuD7bjblVRGlqKHb=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMdFXnP4zpu1-xuL6-18arv6G5jXtNA9eLEF5jp=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipM93j2oLfbfygA4OsABFj4kzxJ5LpuCa5l0778w=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOddxsxHKsDGSpQUsKGffTKIMVOCEyACL3b-ouV=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNgkbExE86fiUvoWqz9Qob09M57U9CBratbVpGo=w1024-h576-k-no"
+  ],
+  "topComments": [
+    {
+      "author": "Fany Cecílio Leal",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucrZX_d3da89y1pKzzz5W32uAqWeustPK_PUd_hGyfk=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "Um lugar muito bem preservado. Incrível como construíram um lugar bem dividido e funcional todo em madeira. Tem muita coisa preservada ainda da época do presidente. A visita é auto guiada, entrada gratuita e a parte externa do museu é um lugar maravilhoso. Tem uma nascente e é tudo muito limpinho e bem cuidado. 🥰",
+      "gradeComment": 5
+    },
+    {
+      "author": "Sabrina Monteiro",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucrkidEATN0U248eg4VEcIe9Q-PvxdBuPb_01n8lzw=w36-h36-p-c0x00000000-rp-mo-br100",
+      "comment": "Uma visita ao passado de Brasília. A visita é autoguiada e gratuita. O monumento está bem conservado e narra sua história através de painéis. Também tem a nascente no jardim, que está bem cuidado. Gostei e indico o passeio para quem gosta de história, JK e Brasília. O ruim é que fica bem afastado da cidade, difícil de chegar de ônibus e Uber melhor combinar para ir buscar. Isso dificulta bastante o acesso de turistas no local.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Tercio Costa",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucqjdg_LXEQDRaAnDHSkS9kbzWXESmfVDCyyMfXm0A=w36-h36-p-c0x00000000-rp-mo-ba5-br100",
+      "comment": "O Catetinho foi reaberto em 21.04.22 no aniversário de Brasília. Foi restaurado, sendo inteiramente repintado e telhado refeito. O acervo é o mesmo. O estacionamento ficou maior e mais confortável. Vale a visita. Possibilita uma maior imersão e compreensão da situação da construção de Brasília.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Alvaro Sobrinho",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucqcgwj2hiifQUbu7FNMF6Nuk_39LQ0_wpmLaBK5Lw=w36-h36-p-c0x00000000-rp-mo-ba5-br100",
+      "comment": "Local da semente que originou a capital federal, o Palácio do Catetinho, é um exemplo de que necessitamos de muito pouco para termos um palácio. A construção em madeira abrigou  Juscelino Kubitschek, Presidente Brasileiro, que conseguiu mudar a capital do país, do Palácio do Catete (daí o nome Catetinho), Rio de Janeiro, para o então vazio planalto central. O imagens do palácio falam por si só: nossa história viva em objetos que contam nosso passado.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Marinês Sant",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucpS0eyPKYL7F2Ow47-6jtiiNzZTuAGm55iEL-QTOkg=w36-h36-p-c0x00000000-rp-mo-ba5-br100",
+      "comment": "Um local incrível,  a história muito bem registrada e conservada. Entrada franca. Imaginar que ali traçou-se os planos para a construção  de Brasília!",
+      "gradeComment": 5
+    },
+    {
+      "author": "Lagus Guimaraes",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucqjqZZigK1_0mCWokJNyEpAyaCcV4OMNV1rU2O5sQ=w36-h36-p-c0x00000000-rp-mo-ba3-br100",
+      "comment": "Passeio e museu agradáveis, cerca de 1h a 2h de duração a depender do seu interesse em ler e contemplar os objetos. Tudo muito bem conservado e os seguranças são muito bem informados, sanando dúvidas. A entrada é gratuita e não foi necessário agendar a visita.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Paulo Amorim",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucon72vfBFCFYiIPMlEVaqWft-OhgN13aLNKjpR8jg=w36-h36-p-c0x00000000-rp-mo-ba6-br100",
+      "comment": "Museu emblemático da construção de Brasília e da vida nos anos 50.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Elder Brito",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucrhv88FnW08A3Ev_R4EfANZKIL_-3NeoneTYPYo-Q=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "Lugar muito aconchegante, vale a pena conhecer!!",
+      "gradeComment": 5
+    },
+    {
+      "author": "Laércio Filho",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucrOu_QaU4IUSdqv_vOVAU2p_P3Ny-nxoiyRdPAehw=w36-h36-p-c0x00000000-rp-mo-ba5-br100",
+      "comment": "Simples e essencial. Em seus arredores, o cerrado dá lugar a um bosque com altas copaíbas, paus-d'óleo e outras árvores que protegem a nascente de águas cristalinas que certamente ajudou a determinar o local de instalação do Palácio temporário. Algumas centenas de metros adiante, no interior do Terreno do Country Club, outro local estreitamente ligado ao Catetinho também recebe visitantes, a Casa Velha da Fazenda Gama. Mas voltemo-nos para o barracão de tábuas de madeira que antecipa os pilotis dos edifícios do Plano-Piloto. No térreo, o ambiente de refeições adjacente ao barracão de apoio que abriga a cozinha e outros cômodos. No andar superior, ao longo do corredor, podem ser visitados suítes, bar, sala de música e o gabinete presidencial. Todos recém-restaurados e decorados com mobília temática, porém não original. Sintetiza todo o esforço e heroísmo dos fundadores da Capital. Visita essencial.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Lucy S.S",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucoOBJnXs1i1uyzJa-37pjEdCRBdVjWmfzG_S9Gl=w36-h36-p-c0x00000000-rp-mo-br100",
+      "comment": "Simples e funcional em meio a uma natureza viva belíssima! Adorei!!!",
+      "gradeComment": 5
+    },
+    {
+      "author": "Irma Ferreira",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucpmZibZVV4YJgtksZzArwzD55R__ct8CbSPWg_xDrE=w36-h36-p-c0x00000000-rp-mo-ba3-br100",
+      "comment": "Foi reformado. Para quem gosta de história e de museu, melhor não há. A primeira residência do nosso querido e saudoso presidente JK. Obra de Oscar Niemayer. Um presente dado pelos amigos: Lúcio Costa, Bernardo Sayão,Oscar Niemayer, Israel Pinheiro. Quer saber mais? Me chama.",
+      "gradeComment": 5
+    },
+    {
+      "author": "João Guilherme",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucqInt0vlyQZJ9T7zDr66eO2WJj-KRVJMUvG3ATXVqQ=w36-h36-p-c0x00000000-rp-mo-ba3-br100",
+      "comment": "Muito legal! O espaço está todo reformado, tem réplicas de móveis e utensílios da época, além de várias informações interessantes na parede. Também tem um espaço pra piquenique e acesso a uma fonte.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Rafael Guimarães",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucqA-vlGH7xA9h9udXorTlpRcIOUpLdgXj7ABx5kag=w36-h36-p-c0x00000000-rp-mo-ba3-br100",
+      "comment": "Nossa! Que lugar maravilhoso. Fiquei me imaginando morando lá na época da construção de nossa capital. Um pequeno paraíso no meio dessa selva de pedra no nosso Cerrado.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Rennan Aguiar",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucrlugn8XALEwIbYmmuyhv90HuHOlxYAKTru-1gjlQ=w36-h36-p-c0x00000000-rp-mo-br100",
+      "comment": "Lugar incrível, vc se sente nos anos 50 , funcionários simpáticos e muito educados, lugar limpo e bem cuidado e a natureza impecável. O Catetinho deveria ser parada obrigatória para todo Brasiliense e turista que vem para a Capital. Pena q só tem como dar cinco estrelas🥰🥰",
+      "gradeComment": 5
+    },
+    {
+      "author": "Emanuellle Satê",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucpzTWurMbkZiKcwvPYec_M0vafZnQyHnkKokOP8Sw=w36-h36-p-c0x00000000-rp-mo-br100",
+      "comment": "Local muito agradável, com bons registros da história de Brasília. O espaço em torno da construção é muito arborizado o que torna a experiência ainda melhor.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Ricardo C. Xavier",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucq2MzDfMG2iHuNS0KuSeY5-GUwe7E-pnEgFeEXo_w=w36-h36-p-c0x00000000-rp-mo-br100",
+      "comment": "Amamos os momentos que desfrutamos com toda a equipe de apoio do museu. Um lugar para ser revisitado sempre.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Antonio Juliani",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucqr0KsmUpORp6I6MYvsJUM0FA_oNsI-L0UiqE2t=w36-h36-p-c0x00000000-rp-mo-ba5-br100",
+      "comment": "Essas fotos são do Country Club de Brasília, muito próximo do Catetinho. Esse clube é um dos lugares mais lindos de Brasília onde a história do Brasil e a natureza exuberante do cerrado convivem harmoniosamente. Conheça esse lugar! Melhor fique sócio, tua família vai agradecer. É um paraíso no meio da Capital do Brasil! Fantástico.",
+      "gradeComment": 5
+    },
+    {
+      "author": "hudson teles",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucpdZHzVlXZWlXyf6LhLcAvJ-7WJ2poP8zyWqpPR6w=w36-h36-p-c0x00000000-rp-mo-ba5-br100",
+      "comment": "O museu do Catetinho é bem simples, podendo dizer que é muito humilde, a visitação é capaz de ser feita em apenas uma hora, é um local bem pequeno e bem afastado de Brasília, fica mais próximo à cidade do Gama. Nota-se que a administração do GDF não tem dado a atenção devida ao local, nem entrada tinha no mês de outubro de 2018, os carros tinham que passar pela saída para entrar. Mas é super gratificante ver um pedaço da história da construção de Brasília, onde tudo praticamente começou, a parte ecológica do museu é muito agradável, sendo inclusive possível fazer piqueniques na área verde.",
+      "gradeComment": 3
+    },
+    {
+      "author": "Thais Cristina Oliveira",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucpR3oBL4lNlgFGeUt_cTBbKtqwtApy8MBlmMk42Qw=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "Nossa realmente foi uma experiência incrível, amei cada detalhe desse lugar e conhecer a história que ele carrega é inspirador. Mais de 60 anos da construção desse lugar e o mesmo ainda é incrível. É um lugar que eu recomendo que você conheça é inspirador poder imaginar tudo que aconteceu ali. E saber como foi a história da construção de Brasília e como eles trabalharam muito pra isso. Estou realmente impactada de como esse homem JK fez história e de fato uma história que vale muito a pena conhecer. Surpresas indico!",
+      "gradeComment": 5
+    },
+    {
+      "author": "Myerson Santos",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucobzhmvmWaFWKph1tttvLtVaHbnDVapsVE1oQkRvg=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "Excelente lugar para visitação, e ótimo também para fotos, guias bem atenciosos, uma bonita vista e uma breve trilha até a nascente que por si só já é linda, e ajuda a embelezar o conjunto do lugar. Tem algumas mesinhas de concreto no começo da trilha que pode ser usada pra fazer piquenique, ou só sentar pra conversar e aproveitar a vista. O banheiro estava bem limpo e conservado.",
+      "gradeComment": 5
+    }
+  ],
+  "peakHours": [
+    {
+      "Sunday": [
+        {
+          "hour": "09:00",
+          "percent": 15
+        },
+        {
+          "hour": "10:00",
+          "percent": 48
+        },
+        {
+          "hour": "11:00",
+          "percent": 79
+        },
+        {
+          "hour": "12:00",
+          "percent": 71
+        },
+        {
+          "hour": "13:00",
+          "percent": 57
+        },
+        {
+          "hour": "14:00",
+          "percent": 68
+        },
+        {
+          "hour": "15:00",
+          "percent": 71
+        },
+        {
+          "hour": "16:00",
+          "percent": 45
+        }
+      ]
+    },
+    {
+      "Monday": []
+    },
+    {
+      "Tuesday": [
+        {
+          "hour": "09:00",
+          "percent": 33
+        },
+        {
+          "hour": "10:00",
+          "percent": 57
+        },
+        {
+          "hour": "11:00",
+          "percent": 52
+        },
+        {
+          "hour": "12:00",
+          "percent": 28
+        },
+        {
+          "hour": "13:00",
+          "percent": 24
+        },
+        {
+          "hour": "14:00",
+          "percent": 43
+        },
+        {
+          "hour": "15:00",
+          "percent": 51
+        },
+        {
+          "hour": "16:00",
+          "percent": 33
+        }
+      ]
+    },
+    {
+      "Wednesday": [
+        {
+          "hour": "09:00",
+          "percent": 65
+        },
+        {
+          "hour": "10:00",
+          "percent": 76
+        },
+        {
+          "hour": "11:00",
+          "percent": 53
+        },
+        {
+          "hour": "12:00",
+          "percent": 28
+        },
+        {
+          "hour": "13:00",
+          "percent": 29
+        },
+        {
+          "hour": "14:00",
+          "percent": 49
+        },
+        {
+          "hour": "15:00",
+          "percent": 66
+        },
+        {
+          "hour": "16:00",
+          "percent": 63
+        }
+      ]
+    },
+    {
+      "Thursday": [
+        {
+          "hour": "09:00",
+          "percent": 56
+        },
+        {
+          "hour": "10:00",
+          "percent": 93
+        },
+        {
+          "hour": "11:00",
+          "percent": 98
+        },
+        {
+          "hour": "12:00",
+          "percent": 70
+        },
+        {
+          "hour": "13:00",
+          "percent": 50
+        },
+        {
+          "hour": "14:00",
+          "percent": 60
+        },
+        {
+          "hour": "15:00",
+          "percent": 66
+        },
+        {
+          "hour": "16:00",
+          "percent": 40
+        }
+      ]
+    },
+    {
+      "Friday": [
+        {
+          "hour": "09:00",
+          "percent": 48
+        },
+        {
+          "hour": "10:00",
+          "percent": 65
+        },
+        {
+          "hour": "11:00",
+          "percent": 64
+        },
+        {
+          "hour": "12:00",
+          "percent": 46
+        },
+        {
+          "hour": "13:00",
+          "percent": 28
+        },
+        {
+          "hour": "14:00",
+          "percent": 34
+        },
+        {
+          "hour": "15:00",
+          "percent": 64
+        },
+        {
+          "hour": "16:00",
+          "percent": 58
+        }
+      ]
+    },
+    {
+      "Saturday": [
+        {
+          "hour": "09:00",
+          "percent": 25
+        },
+        {
+          "hour": "10:00",
+          "percent": 46
+        },
+        {
+          "hour": "11:00",
+          "percent": 54
+        },
+        {
+          "hour": "12:00",
+          "percent": 46
+        },
+        {
+          "hour": "13:00",
+          "percent": 40
+        },
+        {
+          "hour": "14:00",
+          "percent": 70
+        },
+        {
+          "hour": "15:00",
+          "percent": 100
+        },
+        {
+          "hour": "16:00",
+          "percent": 64
+        }
+      ]
+    }
+  ],
+  "relatedSearches": [
+    "museu nacional",
+    "catetinho fotos",
+    "catetinho localização",
+    "palácio de tábuas",
+    "quem fez o desenho do projeto do catetinho",
+    "desenho do catetinho",
+    "catetinho está aberto",
+    "visita congresso nacional"
+  ],
+  "relateds": [
+    {
+      "mainName": "Museu Vivo da Memória Candanga",
+      "url": null
+    },
+    {
+      "mainName": "Memorial JK",
+      "url": null
+    },
+    {
+      "mainName": "Espaço Lucio Costa",
+      "url": null
+    },
+    {
+      "mainName": "Museu Histórico de Brasília",
+      "url": null
+    },
+    {
+      "mainName": "Casa Velha da Fazenda Gama",
+      "url": null
+    },
+    {
+      "mainName": "Museu Nacional da República",
+      "url": null
+    },
+    {
+      "mainName": "Memorial dos Povos Indígenas",
+      "url": null
+    },
+    {
+      "mainName": "Museu de Arte de Brasília - MAB",
+      "url": null
+    },
+    {
+      "mainName": "Mosteiro de São Bento de Brasília",
+      "url": null
+    },
+    {
+      "mainName": "Parque Ecológico Dom Bosco",
+      "url": null
+    },
+    {
+      "mainName": "Ermida Dom Bosco",
+      "url": null
+    },
+    {
+      "mainName": "Praça dos Três Poderes",
+      "url": null
+    },
+    {
+      "mainName": "Santuário São João Bosco",
+      "url": null
+    },
+    {
+      "mainName": "Parque Olhos D'Água",
+      "url": null
+    },
+    {
+      "mainName": "Centro Cultural Três Poderes",
+      "url": null
+    },
+    {
+      "mainName": "Museu da República",
+      "url": null
+    },
+    {
+      "mainName": "Museu Histórico e Artístico de Planaltina",
+      "url": null
+    },
+    {
+      "mainName": "Ponte Juscelino Kubitschek",
+      "url": null
+    },
+    {
+      "mainName": "Palácio da Alvorada",
+      "url": null
+    },
+    {
+      "mainName": "Complexo Cultural da República",
+      "url": null
+    },
+    {
+      "mainName": "Centro Cultural Banco do Brasil - CCBB Brasília",
+      "url": null
+    },
+    {
+      "mainName": "Caixa Cultural Brasília",
+      "url": null
+    },
+    {
+      "mainName": "Palácio Itamaraty",
+      "url": null
+    },
+    {
+      "mainName": "Espaço Cultural Renato Russo",
+      "url": null
+    }
+  ]
+}

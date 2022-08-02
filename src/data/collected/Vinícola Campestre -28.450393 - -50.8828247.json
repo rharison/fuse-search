@@ -1,0 +1,642 @@
+{
+  "mainName": "Vinícola Campestre",
+  "slug": "vinicola-campestre",
+  "category": "Vinícola",
+  "locationInformation": {
+    "latitude": "-28.450393",
+    "longitude": "-50.8828247"
+  },
+  "basicInformation": [
+    {
+      "label": "endereço",
+      "tooltip": "Copiar endereço",
+      "text": "Rod. Régis Bittencourt, 194 - Passo da Porteira, Vacaria - RS, 95205-000",
+      "icon": "https://www.gstatic.com/images/icons/material/system_gm/1x/place_gm_blue_24dp.png"
+    },
+    {
+      "label": "oh",
+      "text": "Fechado ⋅ Abre sáb. às 08:30\n\nOutros horários",
+      "icon": "https://www.gstatic.com/images/icons/material/system_gm/1x/schedule_gm_blue_24dp.png"
+    },
+    {
+      "label": "website",
+      "tooltip": "Abrir website",
+      "text": "vinicolacampestre.com.br",
+      "icon": "https://www.gstatic.com/images/icons/material/system_gm/1x/public_gm_blue_24dp.png"
+    },
+    {
+      "label": "telefone",
+      "tooltip": "Copiar número de telefone",
+      "text": "(54) 3511-6060",
+      "icon": "https://www.gstatic.com/images/icons/material/system_gm/1x/phone_gm_blue_24dp.png"
+    },
+    {
+      "label": "Code",
+      "tooltip": "Copiar Plus Code",
+      "text": "G4X8+RV Passo da Porteira, Vacaria - RS",
+      "icon": "https://maps.gstatic.com/mapfiles/maps_lite/images/2x/ic_plus_code.png"
+    }
+  ],
+  "ratingInformation": {
+    "basicRatingInformation": {
+      "averageGrade": 4.8,
+      "totalOfEvaluations": 573
+    },
+    "ratingsByGrade": [
+      {
+        "grade": 5,
+        "totalRatings": 493
+      },
+      {
+        "grade": 4,
+        "totalRatings": 61
+      },
+      {
+        "grade": 3,
+        "totalRatings": 12
+      },
+      {
+        "grade": 2,
+        "totalRatings": 1
+      },
+      {
+        "grade": 1,
+        "totalRatings": 6
+      }
+    ]
+  },
+  "ratingTags": [
+    {
+      "tag": "produtos",
+      "count": 30,
+      "tooltip": "produtos, mencionado em 30 avaliações"
+    },
+    {
+      "tag": "preços",
+      "count": 20,
+      "tooltip": "preços, mencionado em 20 avaliações"
+    },
+    {
+      "tag": "espumantes",
+      "count": 13,
+      "tooltip": "espumantes, mencionado em 13 avaliações"
+    },
+    {
+      "tag": "suco de uva",
+      "count": 8,
+      "tooltip": "suco de uva, mencionado em 8 avaliações"
+    },
+    {
+      "tag": "organizado",
+      "count": 8,
+      "tooltip": "organizado, mencionado em 8 avaliações"
+    },
+    {
+      "tag": "restaurante",
+      "count": 5,
+      "tooltip": "restaurante, mencionado em 5 avaliações"
+    },
+    {
+      "tag": "pérgola",
+      "count": 4,
+      "tooltip": "pérgola, mencionado em 4 avaliações"
+    },
+    {
+      "tag": "turístico",
+      "count": 4,
+      "tooltip": "turístico, mencionado em 4 avaliações"
+    },
+    {
+      "tag": "gostos",
+      "count": 4,
+      "tooltip": "gostos, mencionado em 4 avaliações"
+    },
+    {
+      "tag": "almoço",
+      "count": 4,
+      "tooltip": "almoço, mencionado em 4 avaliações"
+    }
+  ],
+  "featuredPhotos": [
+    "https://lh5.googleusercontent.com/p/AF1QipPXRU_Sp7ZmXzdPVSG8cvRJKO20php3Ob-0jZ7Q=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMUXBpgVO9Buuku9khSfpzGSW1PJGNUgf8ap9rc=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNe5-Zpm1ThXirSykMByf6ogpzSvVY1xy6zMLd8=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOc8edN8YRqiHzKYeBGQd1RIrOE4c26gNt9C5Cb=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipM2h2UNXB7tAaMiyeTVDyuzhJ6f7dwDZ3z1Y2Q2=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPD1ow9ZPThH-yrQp6C14AlAyWW79Tuxdovk0o7=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPL6YkvCLGMXdJEBL-4mJLZ5FmJi35i9yHb_RFt=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOJ8Pe8s9EDaxIpovNiuUKqVVnVE1EwF_tJRE5v=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNyTWhIagaBMArqDo0xkhD4v6-7DNRMrXfzJUgn=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNcMqWkeTHn5JPnJ2mEFHd8Me4LYfK7R6JeGMkf=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPIt4Wi4AYUV55Yg1YKKwHsoY09Lm5EM8762WLs=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOfXArvEyybGWSHg0g7FmydAUskcNjfjIKIw6zB=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipP4ZJ3DvFuBrJBL4M2VTOFHs8HFW58jHi9vKZxd=w1024-h576-k-no"
+  ],
+  "topComments": [
+    {
+      "author": "Letícia do Nascimento Santana",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucrnF7Z_QmNP91VaRA-TeyQMMp3p-JW6CCGQzQi3=w36-h36-p-c0x00000000-rp-mo-br100",
+      "comment": "Linda vinícola! Espaço muito agradável, com ótimo restaurante e linda vista. A visita bem foi explicativa e a degustação incluiu 4 variedades de vinho, 1 espumante, suco de uva e tábua de frios. Adoramos!",
+      "gradeComment": 5
+    },
+    {
+      "author": "Liara Morgana",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucpBs6WtWrmDO53D0rNFHbuhMh-YlGUAvXt1Ib5BvQ=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "Incrível!!! A visita guiada é sensacional. Muito bonito ver a preservação da história do lugar, da história do vinho, da cultura italiana. As pessoas que nos atenderam foram super atenciosas e simpáticas. A valorização de artistas locais é impressionante. Vale a pena a visite também o almoço no restaurante, os pratos são deliciosos e o serviço é impecável. Recomendadissimo. A todos, parabéns!",
+      "gradeComment": 5
+    },
+    {
+      "author": "Amanda Françolozo Silva",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucpZwn1JJEktz0EfGfdGio-Pxe_Vxbs1bPlwy233PlA=w36-h36-p-c0x00000000-rp-mo-ba3-br100",
+      "comment": "O almoço na vinícola é uma delícia, ótimo atendimento, todos os funcionários muito atenciosos, a vinícola é um espetáculo a parte. Recomendo a todos esta experiência.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Paolla Ferreira Borges",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucpZNQBhST3vrUvx6cScJd7Cxrpas6pUs7NNO9n8wQ=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "Lugar lindo para visitação, degustação ótima e atendimento muito bom, para visitar agende antes.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Ketrin Santos Waltrick",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucq4AzZfI28FC-Qp1RGSmONcz7Vl19VIer0SmniYvH4=w36-h36-p-c0x00000000-rp-mo-ba3-br100",
+      "comment": "Lugar espetacular, organização sem igual , produtos de primeira qualidade e valores super acessíveis.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Raquel Manica",
+      "photoAuthor": "https://lh3.googleusercontent.com/a/AItbvmlMMuTa_8ItESWaTAXhAH2JNLFq0zzPPzQnHl0_ew=w36-h36-p-c0x00000000-rp-mo-br100",
+      "comment": "Vale muito apena fazer a visita dentro da vinícola, restaurante ótimo, ótimos vinhos e muita arte, encantada com este lugar.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Alesio Tomas Boni",
+      "photoAuthor": "https://lh3.googleusercontent.com/a/AItbvmlo9za-Yxh9aCLYpQnuHgTjC59rCNItWzx80VZq=w36-h36-p-c0x00000000-rp-mo-ba3-br100",
+      "comment": "Excelente! Produtos de boa qualidade e a visitação guiada com degustação é um espetáculo",
+      "gradeComment": 5
+    },
+    {
+      "author": "Toni Adriano",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucoJUJM3ovjavEGViItlxnhzrEPRsnVB1cM2j0JraQ=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "Quem passar por Vacaria deve visitar cada metro quadrado desse paraíso na cidade de Vacaria RS tão bom quanto os principais pontos turísticos dessa categoria nível nacional e internacional.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Raquel De Arruda Cruz",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucqRIfQ0irQE32kJTDdzn7F-YTCMk9IFogrRC2ohOw=w36-h36-p-c0x00000000-rp-mo-ba3-br100",
+      "comment": "Lugar lindo, vinhos excelentes e atendimento nota 10. Super recomendo",
+      "gradeComment": 5
+    },
+    {
+      "author": "Thais Lanutti",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucoXqp3PbBZgCn2LvVsXk-I6HJThoTQ6ZRbPSGkTqw=w36-h36-p-c0x00000000-rp-mo-ba6-br100",
+      "comment": "Lugar liiiindo,  cheio de história e curiosidades.  O enólogo André foi nosso guia e nós permitiu uma experiência incrível.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Dan Marcos",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucpA663nJXpw2LmpY-skFYDiMGu50dEpheP7vPbkLOs=w36-h36-p-c0x00000000-rp-mo-ba6-br100",
+      "comment": "Lugar fantástico, ótimo atendimento, excelente loja, tudo perfeito neste local",
+      "gradeComment": 5
+    },
+    {
+      "author": "Martin Vahldiek",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucrJSDLh44LwTrDirtGwId8fg8rp0bU1W2haT7erew=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "Vinicola sensacional. A melhor visitação que fiz. Muito bem cuidada todas as etapas da visitação .",
+      "gradeComment": 5
+    },
+    {
+      "author": "Eduardo Benini Fotografia",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucrQMx2R_mdbvez3MW74Ntk0x_XtOUjIqvGb2suJ=w36-h36-p-c0x00000000-rp-mo-ba5-br100",
+      "comment": "O lugar é lindo, muito bem cuidado. Os produtos são excelentes e a vista do deck é maravilhosa. Ótimo atendimento e receptividade. Os jardins são lindos e a vinícola é de tirar o fôlego.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Jorge Bazaga",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucomk8t06zKy5hEfx6L2yvB8aS9kl-h4azgdWycZD6o=w36-h36-p-c0x00000000-rp-mo-ba5-br100",
+      "comment": "Local lindo, super bem organizado e cuidado! Recepção nota dez!!!!",
+      "gradeComment": 5
+    },
+    {
+      "author": "Giovani Scodro",
+      "photoAuthor": "https://lh3.googleusercontent.com/a/AItbvmmZIo_hTa5nt0BlgYshJd_Bx_WqtOeDPgaScZOs=w36-h36-p-c0x00000000-rp-mo-ba5-br100",
+      "comment": "Lugar incrível, vale a pena marcar a visitação e conhecer toda a estrutura do local com degustação dos vinhos.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Angelo Oliver",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucrZqRcL1XqNRU2di4ZlD3CC31McIu5pSFk3KZ8xCdg=w36-h36-p-c0x00000000-rp-mo-ba6-br100",
+      "comment": "Linda vinícola com ótimos vinhos e excelente atendimento.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Junielle S.",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucqRNSvaoqavc7SpBsJ6WImYbglByB8YJdPutELX0Q=w36-h36-p-c0x00000000-rp-mo-ba5-br100",
+      "comment": "Excelente lugar, vista maravilhosa. Recomento o moscato branco.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Claudio Lohse",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucrN_9lx3wZ5weJMQFydq7_hAFhKAGR86RFniV1hdQ=w36-h36-p-c0x00000000-rp-mo-ba3-br100",
+      "comment": "Importante ponto de parada em Vacaria. O tour com hora marcada na vinicula mostra o quanto está viva a tradição dos imigrantes europeus.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Gesse Filho",
+      "photoAuthor": "https://lh3.googleusercontent.com/a/AItbvml3lt69Zm-RWzTB7XDJcBOxMnloIm7xEHqO1tU=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "Experiência incrível. O lugar é lindo, o atendimento de todos (loja, fábrica e passeio) é perfeito e possuem ótimos produtos.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Eliseu Guerra",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucoOSqD-t_KzOp1t7Xwp6rcaTEdp7ZX2mjO2awjt=w36-h36-p-c0x00000000-rp-mo-ba3-br100",
+      "comment": "Local muito lindo e aconchegante,vale a pena ir visitar!",
+      "gradeComment": 5
+    }
+  ],
+  "peakHours": [
+    {
+      "Sunday": [
+        {
+          "hour": "08:00",
+          "percent": 7
+        },
+        {
+          "hour": "09:00",
+          "percent": 20
+        },
+        {
+          "hour": "10:00",
+          "percent": 37
+        },
+        {
+          "hour": "11:00",
+          "percent": 53
+        },
+        {
+          "hour": "12:00",
+          "percent": 63
+        },
+        {
+          "hour": "13:00",
+          "percent": 67
+        },
+        {
+          "hour": "14:00",
+          "percent": 67
+        },
+        {
+          "hour": "15:00",
+          "percent": 63
+        },
+        {
+          "hour": "16:00",
+          "percent": 52
+        },
+        {
+          "hour": "17:00",
+          "percent": 36
+        },
+        {
+          "hour": "18:00",
+          "percent": 19
+        },
+        {
+          "hour": "19:00",
+          "percent": 7
+        }
+      ]
+    },
+    {
+      "Monday": [
+        {
+          "hour": "08:00",
+          "percent": 40
+        },
+        {
+          "hour": "09:00",
+          "percent": 51
+        },
+        {
+          "hour": "10:00",
+          "percent": 59
+        },
+        {
+          "hour": "11:00",
+          "percent": 64
+        },
+        {
+          "hour": "12:00",
+          "percent": 64
+        },
+        {
+          "hour": "13:00",
+          "percent": 60
+        },
+        {
+          "hour": "14:00",
+          "percent": 53
+        },
+        {
+          "hour": "15:00",
+          "percent": 44
+        },
+        {
+          "hour": "16:00",
+          "percent": 35
+        },
+        {
+          "hour": "17:00",
+          "percent": 26
+        },
+        {
+          "hour": "18:00",
+          "percent": 17
+        },
+        {
+          "hour": "19:00",
+          "percent": 11
+        }
+      ]
+    },
+    {
+      "Tuesday": [
+        {
+          "hour": "08:00",
+          "percent": 40
+        },
+        {
+          "hour": "09:00",
+          "percent": 50
+        },
+        {
+          "hour": "10:00",
+          "percent": 57
+        },
+        {
+          "hour": "11:00",
+          "percent": 61
+        },
+        {
+          "hour": "12:00",
+          "percent": 61
+        },
+        {
+          "hour": "13:00",
+          "percent": 58
+        },
+        {
+          "hour": "14:00",
+          "percent": 51
+        },
+        {
+          "hour": "15:00",
+          "percent": 43
+        },
+        {
+          "hour": "16:00",
+          "percent": 33
+        },
+        {
+          "hour": "17:00",
+          "percent": 23
+        },
+        {
+          "hour": "18:00",
+          "percent": 15
+        },
+        {
+          "hour": "19:00",
+          "percent": 8
+        }
+      ]
+    },
+    {
+      "Wednesday": [
+        {
+          "hour": "08:00",
+          "percent": 44
+        },
+        {
+          "hour": "09:00",
+          "percent": 57
+        },
+        {
+          "hour": "10:00",
+          "percent": 67
+        },
+        {
+          "hour": "11:00",
+          "percent": 74
+        },
+        {
+          "hour": "12:00",
+          "percent": 76
+        },
+        {
+          "hour": "13:00",
+          "percent": 74
+        },
+        {
+          "hour": "14:00",
+          "percent": 68
+        },
+        {
+          "hour": "15:00",
+          "percent": 59
+        },
+        {
+          "hour": "16:00",
+          "percent": 48
+        },
+        {
+          "hour": "17:00",
+          "percent": 38
+        },
+        {
+          "hour": "18:00",
+          "percent": 28
+        },
+        {
+          "hour": "19:00",
+          "percent": 18
+        }
+      ]
+    },
+    {
+      "Thursday": [
+        {
+          "hour": "08:00",
+          "percent": 58
+        },
+        {
+          "hour": "09:00",
+          "percent": 74
+        },
+        {
+          "hour": "10:00",
+          "percent": 87
+        },
+        {
+          "hour": "11:00",
+          "percent": 95
+        },
+        {
+          "hour": "12:00",
+          "percent": 100
+        },
+        {
+          "hour": "13:00",
+          "percent": 97
+        },
+        {
+          "hour": "14:00",
+          "percent": 88
+        },
+        {
+          "hour": "15:00",
+          "percent": 73
+        },
+        {
+          "hour": "16:00",
+          "percent": 54
+        },
+        {
+          "hour": "17:00",
+          "percent": 34
+        },
+        {
+          "hour": "18:00",
+          "percent": 19
+        },
+        {
+          "hour": "19:00",
+          "percent": 8
+        }
+      ]
+    },
+    {
+      "Friday": [
+        {
+          "hour": "08:00",
+          "percent": 58
+        },
+        {
+          "hour": "09:00",
+          "percent": 73
+        },
+        {
+          "hour": "10:00",
+          "percent": 74
+        },
+        {
+          "hour": "11:00",
+          "percent": 69
+        },
+        {
+          "hour": "12:00",
+          "percent": 69
+        },
+        {
+          "hour": "13:00",
+          "percent": 76
+        },
+        {
+          "hour": "14:00",
+          "percent": 78
+        },
+        {
+          "hour": "15:00",
+          "percent": 68
+        },
+        {
+          "hour": "16:00",
+          "percent": 47
+        },
+        {
+          "hour": "17:00",
+          "percent": 24
+        },
+        {
+          "hour": "18:00",
+          "percent": 7
+        },
+        {
+          "hour": "19:00",
+          "percent": 1
+        }
+      ]
+    },
+    {
+      "Saturday": [
+        {
+          "hour": "08:00",
+          "percent": 12
+        },
+        {
+          "hour": "09:00",
+          "percent": 25
+        },
+        {
+          "hour": "10:00",
+          "percent": 42
+        },
+        {
+          "hour": "11:00",
+          "percent": 59
+        },
+        {
+          "hour": "12:00",
+          "percent": 73
+        },
+        {
+          "hour": "13:00",
+          "percent": 82
+        },
+        {
+          "hour": "14:00",
+          "percent": 82
+        },
+        {
+          "hour": "15:00",
+          "percent": 75
+        },
+        {
+          "hour": "16:00",
+          "percent": 61
+        },
+        {
+          "hour": "17:00",
+          "percent": 45
+        },
+        {
+          "hour": "18:00",
+          "percent": 30
+        },
+        {
+          "hour": "19:00",
+          "percent": 19
+        }
+      ]
+    }
+  ],
+  "relatedSearches": [
+    "vinícola campestre onde fica",
+    "vinícola campestre visita",
+    "vinícola campestre telefone",
+    "vinícola campestre vacaria",
+    "vinicola campestre cnpj",
+    "vinícola zanotto",
+    "vinícola campestre pérgola",
+    "vinícola campestre restaurante",
+    "vinícola campestre onde fica",
+    "vinícola campestre visita",
+    "vinícola campestre telefone",
+    "vinícola campestre vacaria",
+    "vinicola campestre cnpj",
+    "vinícola zanotto",
+    "vinícola campestre pérgola",
+    "vinícola campestre restaurante"
+  ],
+  "relateds": []
+}

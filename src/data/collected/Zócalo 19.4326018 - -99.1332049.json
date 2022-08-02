@@ -1,0 +1,920 @@
+{
+  "mainName": "Zócalo",
+  "slug": "zocalo",
+  "category": "Praça",
+  "locationInformation": {
+    "latitude": "19.4326018",
+    "longitude": "-99.1332049"
+  },
+  "basicInformation": [
+    {
+      "label": "endereço",
+      "tooltip": "Copiar endereço",
+      "text": "P.za de la Constitución S/N, Centro Histórico de la Cdad. de México, Centro, Cuauhtémoc, 06010 Ciudad de México, CDMX, México",
+      "icon": "https://www.gstatic.com/images/icons/material/system_gm/1x/place_gm_blue_24dp.png"
+    },
+    {
+      "label": "Code",
+      "tooltip": "Copiar Plus Code",
+      "text": "CVM8+2P Cidade do México, Distrito Federal, México",
+      "icon": "https://maps.gstatic.com/mapfiles/maps_lite/images/2x/ic_plus_code.png"
+    }
+  ],
+  "ratingInformation": {
+    "basicRatingInformation": {
+      "averageGrade": 4.7,
+      "totalOfEvaluations": 256927
+    },
+    "ratingsByGrade": [
+      {
+        "grade": 5,
+        "totalRatings": 195074
+      },
+      {
+        "grade": 4,
+        "totalRatings": 44490
+      },
+      {
+        "grade": 3,
+        "totalRatings": 12292
+      },
+      {
+        "grade": 2,
+        "totalRatings": 2267
+      },
+      {
+        "grade": 1,
+        "totalRatings": 2804
+      }
+    ]
+  },
+  "ratingTags": [
+    {
+      "tag": "ideal",
+      "count": 7,
+      "tooltip": "ideal, mencionado em 7 avaliações"
+    },
+    {
+      "tag": "mario hermoso",
+      "count": 3688,
+      "tooltip": "mario hermoso, mencionado em 3.688 avaliações"
+    },
+    {
+      "tag": "evento",
+      "count": 3307,
+      "tooltip": "evento, mencionado em 3.307 avaliações"
+    },
+    {
+      "tag": "emblemático",
+      "count": 1529,
+      "tooltip": "emblemático, mencionado em 1.529 avaliações"
+    },
+    {
+      "tag": "bandeira",
+      "count": 1228,
+      "tooltip": "bandeira, mencionado em 1.228 avaliações"
+    },
+    {
+      "tag": "manifestações",
+      "count": 1216,
+      "tooltip": "manifestações, mencionado em 1.216 avaliações"
+    },
+    {
+      "tag": "rinque de patinagem",
+      "count": 464,
+      "tooltip": "rinque de patinagem, mencionado em 464 avaliações"
+    },
+    {
+      "tag": "umbigo",
+      "count": 185,
+      "tooltip": "umbigo, mencionado em 185 avaliações"
+    },
+    {
+      "tag": "antepassados",
+      "count": 150,
+      "tooltip": "antepassados, mencionado em 150 avaliações"
+    },
+    {
+      "tag": "ornamento",
+      "count": 124,
+      "tooltip": "ornamento, mencionado em 124 avaliações"
+    }
+  ],
+  "featuredPhotos": [
+    "https://lh5.googleusercontent.com/p/AF1QipPF9u7NAgVEFQY752s0W-jm7Yj6Sw7dU4Ik00Pa=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNJ-TOLBjV7EILmA1t0sP7oj9Hrn7sGYtOdCiGa=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOMbUGP1StuBztZ7jSFptxqxOqiDPXcaIwPMq1T=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPgDnHCM3UGw44X5Fw3UAlrDQw3X5LwwPkA_via=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNTc-UxnDyGVqod0e43fjzdVbiT-S6RY7Wf52d3=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPQjPJ0H_nl9QVuGAKiIx1oDSvcR4cr5r_xVcQl=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNtGG07JJpsoZveJM1kO-83UVl_O4BwgmVB2FMx=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOqG75yu5jnfcf9PH2-8XSvTcpSWGdsnaOW0FLP=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMBBNKIYxSZh0FMaxRkhEz8gmexSqVJpQyDxiV6=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipO8Os6XSoMEzCV1rXGtLKxZQ4f6E2k8tj891d7_=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNT_0WqugDwUS_AHcE7bCjahcQl4xJlyoGLEcbQ=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMi1H4uOpVnpGjYE8E0lbmCksI41Co5ZLaUPUZg=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPBLlnIhtk8ZbHzAGi8lPfuZd2CZWU7hazIHs6w=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPa2hwX63uthpPnpzfFW47fvLEZsXBsLzil0ch6=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipO_nXOCtA2gRCiAffLu8j_8iQjiXJHpQA8rWEU=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipM3xMUCPqJdwKq6cVoxBQry5GbDia9YKfAch0gc=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMxKBvs4zmzA0lIJEqVqRyuQ_i1UYGr25HpnrZ7=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMtPfkvYHmB4FBx_zC2RV6GRDWcde6tbdw56FdV=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNnjCqurlXW30t7EsDqbKOZP-uxQMEsCz0sqZmb=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNyKoilZlVKIKpBQjmDJOSlhAqFOUVvEodOIUDE=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNuBGhCMdLm-PRcGVcfkAkq9hxNwPf7T-U4jbEF=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMN51wSPMY8KQ9iWTCWvNo8pZ_VzfaRzqKkT9OR=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPY_qMWvjwARDbhY_b8UgI9QDEw0t1Ds1WJbgyT=w1024-h576-k-no"
+  ],
+  "topComments": [
+    {
+      "author": "Paulo Sergio De Oliveira",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucqxgT_mI4mrx_FEJmBa2K2qojQP_guEZDXqD9_Jtg=w36-h36-p-c0x00000000-rp-mo-ba5-br100",
+      "comment": "Local limpo e seguro. É um dos pontos principais da cidade do México. A policiamento por toda local para garantir uma boa visitação.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Anderson de Lima",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucqbqi3hBbtmLJnHXQ2kPZa2lTKui-bvqoZfBrxT=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "Nesse lugar podemos ver as ruínas do Templo Mayor, a Catedral Metropolitana de la Ciudad de México e una serie de edificios histórico.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Simone Rafael",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucqLjEDR0t4iIj5bH9OcxlrcupC2qCQo1zu3m5u0f5I=w36-h36-p-c0x00000000-rp-mo-ba5-br100",
+      "comment": "Trata-se de uma região... então lá tem: centro comercial, centro histórico, museus, feiras e comisa de rua... Enfim, muita coisa ora fazer. É meio tumultuado, mas vale a pena!",
+      "gradeComment": 4
+    },
+    {
+      "author": "Adriana Felix da Silva",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucpMLP40KZvVDlYgOHwKF79G8JqapbsKIHRo4CCLn_A=w36-h36-p-c0x00000000-rp-mo-ba3-br100",
+      "comment": "Zocalo é imenso. Tem de tudo ali e o que impressiona é a arquitetura barroca e arqueológica da área total. Há museus, teatros, restaurantes, lojas, o Palácio Nacional e etc. Eu adoro esse lugar",
+      "gradeComment": 5
+    },
+    {
+      "author": "José Carlos Campos Velho",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucr0rRDIKNV3nezFJLhqZ81WzLjohxQgtc0GvsX4Yg=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "Não dá para ir à Cidade do México sem conhecer o seu centro histórico. Bonito e cheio das mais diversas atrações.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Wilson Moura",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucqHxEopdpvzom-O6xUjIOrDcGA3alUCBz1aeUL8tg=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "O grande centro da cidade. Lá é basicamente onde tudo se concentra. Também é local de passagem de muita gente, o que pode parecer confuso inicialmente mas logo você de habitua. No período que fui 13 22 de dezembro/2019, tinha um patrulhamento ostensivo impressionante. Anda-se com a câmera pendurada no pescoço tranquilamente.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Claudio Alves",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucpqBiBUowaL7hJpPqxyKIkAWImICuqU8zkYBeqfk7Q=w36-h36-p-c0x00000000-rp-mo-ba5-br100",
+      "comment": "Praça da Constituição rodeada por prédios históricos e a Catedral.Metropolitana. Atualmente com uma exposição do Exército mexicano. Muito interessante para a criançada também",
+      "gradeComment": 4
+    },
+    {
+      "author": "Murilo Souza",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucpQ-Ggr_tUvuF-1XEmz72hnUPr9wXR-QWgiWnQ8AIY=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "Fui informado que está é a maior praça das Américas e terceira maior praça do mundo. O local é muito bonito, tem uma igreja gigante na frente e também tem um monumento que marca o centro da cidade do México. Para comer tem um restaurante muito próximo à praça que se chama Novo México , comida muito boa e barata... você vai pagar cerca de 120 pesos mexicanos com bebida.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Cristina Soares Mateus",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucoZ4qlOe_cBcvanCYkbx7SFfcSNF14-T9U2y-KxFK0=w36-h36-p-c0x00000000-rp-mo-ba5-br100",
+      "comment": "É o coração da Cidade do México, gasta-se um dia andando por lá. São várias construções históricas, restaurantes e uma multidão andando por todos os lados. Quando cheguei lá, estava tendo uma manifestação, vários mexicanos estavam participando de uma passeata, o que é comum neste local.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Thais Lanutti",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucoXqp3PbBZgCn2LvVsXk-I6HJThoTQ6ZRbPSGkTqw=w36-h36-p-c0x00000000-rp-mo-ba6-br100",
+      "comment": "Lugar muito interessante. Olhar os monumentos é incrível, Principalmente para nos brasileiros que quase não temos coisas desse tipo no nosso pais.",
+      "gradeComment": 5
+    },
+    {
+      "author": "luciano madeira",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucq0g9DFLS7lVM0044KiGmQeOOOUR-o26yck_xkCItQ=w36-h36-p-c0x00000000-rp-mo-ba5-br100",
+      "comment": "Incrível. A Praça fica iluminada e com público até tarde de noite. Se chegar as 6pm, você acompanha o exército guardando a bandeira do México que fica no meio da Praça. Procure pelo hotel com terraças para apreciar um tacos e algumas margaritas.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Camila Barros",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucqwp61gaaFWahezwE9JSWJx2abV73dnzrvzIpDinXc=w36-h36-p-c0x00000000-rp-mo-ba5-br100",
+      "comment": "Praça linda.. cheia de história e cultura para todos lados.. ótimos restaurantes, metrô perto.. lugar pra deitar debaixo das tendas. Muita polícia e muitos simpáticos.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Stella Fernandes",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucrbMiZXMNlP83Mzr4LvXOoq_HTEPZ5gW5g84tvL9L8=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "Lugar sempre cheio de gente, e que todos os ângulos dão uma boa foto. Cuidado com seus pertences e aproveite o passeio!",
+      "gradeComment": 5
+    },
+    {
+      "author": "Beto Leski",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucqCqpULaHXx3sGFn1uSK6YLq5akb3ziEpzbv4YFMg=w36-h36-p-c0x00000000-rp-mo-ba3-br100",
+      "comment": "Experiência incrível! Centro historico da Cidade do Mexico. Catedral, palacios e casas super conservadas. A catedral que afunda mm a cada ano foi construída com as pedras da pirâmide Azteca. O sítio arqueológico com o que sobrou dessa pirâmide pode ser encontrado para visitação logo ao lado da Catedral.",
+      "gradeComment": 5
+    },
+    {
+      "author": "R. Feijó",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucooYMLsTKrZ6rWfSuXXS0cvC96TbF87Gxl7v4bdu_E=w36-h36-p-c0x00000000-rp-mo-ba5-br100",
+      "comment": "Visita obrigatória para conhecer a história e a cultura deste fantástico país.",
+      "gradeComment": 4
+    },
+    {
+      "author": "Luiz Ballas",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucrOyIJpTWzhOfn54BGuBrlWK8DcW7eB1noD2hb46nE=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "Um ponto histórico e importante para o México, super grande e cercado de outros lugares marcantes da história mexicana. Recomendo a todos os turistas!",
+      "gradeComment": 5
+    },
+    {
+      "author": "Elisiane Silva",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucqpkYn3Dgbz7LkmREjPUfHcF4jUIFrwt53HURbYeA=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "Zocalo é uma praça onde acontece as maiores manifestações da Cidade do Mexico, fui em outro ano e estava fechada com um evento....tipo nossas feiras de tecnologia. Como toda cidade grande, aqui deve ter üm olho no gato e outro no peixe\" kkkk, cuidado com sua bolsa e carteira....sempre tem uns de olho. Vale a pena conhecer.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Siddharta Fernandes",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucq9VPHqYwDoij_yIG6XOXK-tvK3dF5CQWc65yMbPW8=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "Merece um dia para conhecer a parte história, os museus e restaurantes. O antigo palácio do governo tem murais de Diego Rivera. Imperdível! As ruínas, para quem visitou as cidades próximas, podem ser vistas por fora. Sem necessidade de comprar ingresso. Aproveite para comer em um dia restaurantes que tem nas coberturas dos prédios.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Irapuan Peixoto Lima Filho",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucqoPl6g9UPg2jPWJ18HybgjsTJ03jo4vC-nkbSX7Ys=w36-h36-p-c0x00000000-rp-mo-ba6-br100",
+      "comment": "Praça bonita, rodeada de prédios históricos, muito agradável e até com Wi-Fi grátis! É melhor ainda à noite, com a iluminação.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Sergio Koloszuk",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucriuPtkckpktQSCAcjEQ1aeFyDjzN2hThIkjYolRNc=w36-h36-p-c0x00000000-rp-mo-ba3-br100",
+      "comment": "Ponto de visita obrigatório para quem visita a Cidade do México. Para quem sai da catedral e segue em direção ao teatro de Belas Artes, vai encontrar um centro histórico bem conservado com ótimos restaurantes. Vale o passeio.",
+      "gradeComment": 5
+    }
+  ],
+  "peakHours": [
+    {
+      "Sunday": [
+        {
+          "hour": "06:00",
+          "percent": 1
+        },
+        {
+          "hour": "07:00",
+          "percent": 2
+        },
+        {
+          "hour": "08:00",
+          "percent": 5
+        },
+        {
+          "hour": "09:00",
+          "percent": 11
+        },
+        {
+          "hour": "10:00",
+          "percent": 20
+        },
+        {
+          "hour": "11:00",
+          "percent": 28
+        },
+        {
+          "hour": "12:00",
+          "percent": 35
+        },
+        {
+          "hour": "13:00",
+          "percent": 37
+        },
+        {
+          "hour": "14:00",
+          "percent": 38
+        },
+        {
+          "hour": "16:00",
+          "percent": 36
+        },
+        {
+          "hour": "17:00",
+          "percent": 32
+        },
+        {
+          "hour": "18:00",
+          "percent": 25
+        },
+        {
+          "hour": "19:00",
+          "percent": 17
+        },
+        {
+          "hour": "20:00",
+          "percent": 10
+        },
+        {
+          "hour": "21:00",
+          "percent": 5
+        },
+        {
+          "hour": "22:00",
+          "percent": 1
+        }
+      ]
+    },
+    {
+      "Monday": [
+        {
+          "hour": "05:00",
+          "percent": 1
+        },
+        {
+          "hour": "06:00",
+          "percent": 2
+        },
+        {
+          "hour": "07:00",
+          "percent": 4
+        },
+        {
+          "hour": "08:00",
+          "percent": 7
+        },
+        {
+          "hour": "09:00",
+          "percent": 10
+        },
+        {
+          "hour": "10:00",
+          "percent": 13
+        },
+        {
+          "hour": "11:00",
+          "percent": 16
+        },
+        {
+          "hour": "12:00",
+          "percent": 19
+        },
+        {
+          "hour": "13:00",
+          "percent": 21
+        },
+        {
+          "hour": "14:00",
+          "percent": 22
+        },
+        {
+          "hour": "15:00",
+          "percent": 22
+        },
+        {
+          "hour": "16:00",
+          "percent": 21
+        },
+        {
+          "hour": "17:00",
+          "percent": 19
+        },
+        {
+          "hour": "18:00",
+          "percent": 16
+        },
+        {
+          "hour": "19:00",
+          "percent": 12
+        },
+        {
+          "hour": "20:00",
+          "percent": 9
+        },
+        {
+          "hour": "21:00",
+          "percent": 6
+        },
+        {
+          "hour": "22:00",
+          "percent": 3
+        },
+        {
+          "hour": "23:00",
+          "percent": 1
+        }
+      ]
+    },
+    {
+      "Tuesday": [
+        {
+          "hour": "04:00",
+          "percent": 1
+        },
+        {
+          "hour": "05:00",
+          "percent": 2
+        },
+        {
+          "hour": "06:00",
+          "percent": 4
+        },
+        {
+          "hour": "07:00",
+          "percent": 6
+        },
+        {
+          "hour": "08:00",
+          "percent": 10
+        },
+        {
+          "hour": "09:00",
+          "percent": 13
+        },
+        {
+          "hour": "10:00",
+          "percent": 17
+        },
+        {
+          "hour": "11:00",
+          "percent": 21
+        },
+        {
+          "hour": "12:00",
+          "percent": 24
+        },
+        {
+          "hour": "13:00",
+          "percent": 26
+        },
+        {
+          "hour": "14:00",
+          "percent": 27
+        },
+        {
+          "hour": "15:00",
+          "percent": 28
+        },
+        {
+          "hour": "16:00",
+          "percent": 28
+        },
+        {
+          "hour": "17:00",
+          "percent": 26
+        },
+        {
+          "hour": "18:00",
+          "percent": 23
+        },
+        {
+          "hour": "19:00",
+          "percent": 18
+        },
+        {
+          "hour": "20:00",
+          "percent": 12
+        },
+        {
+          "hour": "21:00",
+          "percent": 7
+        },
+        {
+          "hour": "22:00",
+          "percent": 3
+        }
+      ]
+    },
+    {
+      "Wednesday": [
+        {
+          "hour": "05:00",
+          "percent": 1
+        },
+        {
+          "hour": "06:00",
+          "percent": 3
+        },
+        {
+          "hour": "07:00",
+          "percent": 5
+        },
+        {
+          "hour": "08:00",
+          "percent": 8
+        },
+        {
+          "hour": "09:00",
+          "percent": 12
+        },
+        {
+          "hour": "10:00",
+          "percent": 16
+        },
+        {
+          "hour": "11:00",
+          "percent": 21
+        },
+        {
+          "hour": "12:00",
+          "percent": 25
+        },
+        {
+          "hour": "13:00",
+          "percent": 28
+        },
+        {
+          "hour": "14:00",
+          "percent": 30
+        },
+        {
+          "hour": "15:00",
+          "percent": 30
+        },
+        {
+          "hour": "16:00",
+          "percent": 29
+        },
+        {
+          "hour": "17:00",
+          "percent": 25
+        },
+        {
+          "hour": "18:00",
+          "percent": 21
+        },
+        {
+          "hour": "19:00",
+          "percent": 16
+        },
+        {
+          "hour": "20:00",
+          "percent": 11
+        },
+        {
+          "hour": "21:00",
+          "percent": 7
+        },
+        {
+          "hour": "22:00",
+          "percent": 4
+        },
+        {
+          "hour": "23:00",
+          "percent": 1
+        }
+      ]
+    },
+    {
+      "Thursday": [
+        {
+          "hour": "05:00",
+          "percent": 1
+        },
+        {
+          "hour": "06:00",
+          "percent": 2
+        },
+        {
+          "hour": "07:00",
+          "percent": 4
+        },
+        {
+          "hour": "08:00",
+          "percent": 7
+        },
+        {
+          "hour": "09:00",
+          "percent": 12
+        },
+        {
+          "hour": "10:00",
+          "percent": 18
+        },
+        {
+          "hour": "11:00",
+          "percent": 24
+        },
+        {
+          "hour": "12:00",
+          "percent": 28
+        },
+        {
+          "hour": "13:00",
+          "percent": 31
+        },
+        {
+          "hour": "14:00",
+          "percent": 32
+        },
+        {
+          "hour": "15:00",
+          "percent": 31
+        },
+        {
+          "hour": "16:00",
+          "percent": 31
+        },
+        {
+          "hour": "17:00",
+          "percent": 29
+        },
+        {
+          "hour": "18:00",
+          "percent": 25
+        },
+        {
+          "hour": "19:00",
+          "percent": 20
+        },
+        {
+          "hour": "20:00",
+          "percent": 14
+        },
+        {
+          "hour": "21:00",
+          "percent": 8
+        },
+        {
+          "hour": "22:00",
+          "percent": 4
+        },
+        {
+          "hour": "23:00",
+          "percent": 1
+        }
+      ]
+    },
+    {
+      "Friday": [
+        {
+          "hour": "06:00",
+          "percent": 2
+        },
+        {
+          "hour": "07:00",
+          "percent": 5
+        },
+        {
+          "hour": "08:00",
+          "percent": 8
+        },
+        {
+          "hour": "09:00",
+          "percent": 13
+        },
+        {
+          "hour": "10:00",
+          "percent": 17
+        },
+        {
+          "hour": "11:00",
+          "percent": 22
+        },
+        {
+          "hour": "12:00",
+          "percent": 26
+        },
+        {
+          "hour": "13:00",
+          "percent": 29
+        },
+        {
+          "hour": "14:00",
+          "percent": 31
+        },
+        {
+          "hour": "15:00",
+          "percent": 32
+        },
+        {
+          "hour": "16:00",
+          "percent": 32
+        },
+        {
+          "hour": "17:00",
+          "percent": 35
+        },
+        {
+          "hour": "18:00",
+          "percent": 41
+        },
+        {
+          "hour": "19:00",
+          "percent": 51
+        },
+        {
+          "hour": "20:00",
+          "percent": 62
+        },
+        {
+          "hour": "21:00",
+          "percent": 67
+        },
+        {
+          "hour": "22:00",
+          "percent": 53
+        },
+        {
+          "hour": "23:00",
+          "percent": 27
+        },
+        {
+          "hour": "00:00",
+          "percent": 8
+        }
+      ]
+    },
+    {
+      "Saturday": [
+        {
+          "hour": "05:00",
+          "percent": 3
+        },
+        {
+          "hour": "06:00",
+          "percent": 7
+        },
+        {
+          "hour": "07:00",
+          "percent": 13
+        },
+        {
+          "hour": "08:00",
+          "percent": 18
+        },
+        {
+          "hour": "09:00",
+          "percent": 23
+        },
+        {
+          "hour": "10:00",
+          "percent": 27
+        },
+        {
+          "hour": "11:00",
+          "percent": 29
+        },
+        {
+          "hour": "12:00",
+          "percent": 32
+        },
+        {
+          "hour": "13:00",
+          "percent": 41
+        },
+        {
+          "hour": "14:00",
+          "percent": 57
+        },
+        {
+          "hour": "15:00",
+          "percent": 78
+        },
+        {
+          "hour": "16:00",
+          "percent": 95
+        },
+        {
+          "hour": "17:00",
+          "percent": 100
+        },
+        {
+          "hour": "18:00",
+          "percent": 89
+        },
+        {
+          "hour": "19:00",
+          "percent": 67
+        },
+        {
+          "hour": "20:00",
+          "percent": 43
+        },
+        {
+          "hour": "21:00",
+          "percent": 25
+        },
+        {
+          "hour": "22:00",
+          "percent": 13
+        },
+        {
+          "hour": "23:00",
+          "percent": 6
+        },
+        {
+          "hour": "00:00",
+          "percent": 3
+        },
+        {
+          "hour": "01:00",
+          "percent": 1
+        }
+      ]
+    }
+  ],
+  "relatedSearches": [
+    "zócalo méxico",
+    "zócalo tradução",
+    "xochimilco",
+    "plaza de la constitución",
+    "zócalo centro histórico",
+    "plaza de la constitución mexico",
+    "plaza constitución montevideo",
+    "palacio de belas artes",
+    "zócalo méxico",
+    "zócalo tradução",
+    "xochimilco",
+    "plaza de la constitución",
+    "zócalo centro histórico",
+    "plaza de la constitución mexico",
+    "plaza constitución montevideo",
+    "palacio de belas artes"
+  ],
+  "relateds": [
+    {
+      "mainName": "Centro Histórico da Cidade do México",
+      "url": null
+    },
+    {
+      "mainName": "Zócalo/tenochtitlan",
+      "url": null
+    },
+    {
+      "mainName": "Palácio Nacional",
+      "url": null
+    },
+    {
+      "mainName": "Templo Mayor",
+      "url": null
+    },
+    {
+      "mainName": "El Ángel de la Independencia",
+      "url": null
+    },
+    {
+      "mainName": "Praça da Constituição",
+      "url": null
+    },
+    {
+      "mainName": "Catedral Metropolitana da Cidade do México",
+      "url": null
+    },
+    {
+      "mainName": "Palacio de Bellas Artes",
+      "url": null
+    },
+    {
+      "mainName": "Chapultepec",
+      "url": null
+    },
+    {
+      "mainName": "Monumento a la Revolución",
+      "url": null
+    },
+    {
+      "mainName": "Basílica de Nossa Senhora de Guadalupe",
+      "url": null
+    },
+    {
+      "mainName": "Museu Nacional de Antropologia",
+      "url": null
+    },
+    {
+      "mainName": "Alameda Central",
+      "url": null
+    },
+    {
+      "mainName": "Castelo de Chapultepec",
+      "url": null
+    },
+    {
+      "mainName": "Museu Soumaya",
+      "url": null
+    },
+    {
+      "mainName": "Zoológico de Chapultepec",
+      "url": null
+    },
+    {
+      "mainName": "Aquário Inbursa",
+      "url": null
+    },
+    {
+      "mainName": "Museu Frida Kahlo",
+      "url": null
+    },
+    {
+      "mainName": "Praça de Maio",
+      "url": null
+    },
+    {
+      "mainName": "Pirâmide do Sol",
+      "url": null
+    },
+    {
+      "mainName": "Estatua Ecuestre de Carlos IV",
+      "url": null
+    },
+    {
+      "mainName": "Torre Latinoamericana",
+      "url": null
+    },
+    {
+      "mainName": "Instituto Nacional de Antropologia e História",
+      "url": null
+    }
+  ]
+}

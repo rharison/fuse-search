@@ -1,0 +1,758 @@
+{
+  "mainName": "Praia Saco do Major",
+  "slug": "praia-saco-do-major",
+  "category": "Praia",
+  "locationInformation": {
+    "latitude": "-24.0200917",
+    "longitude": "-46.3137512"
+  },
+  "basicInformation": [
+    {
+      "label": "endereço",
+      "tooltip": "Copiar endereço",
+      "text": "Guarujá, SP",
+      "icon": "https://www.gstatic.com/images/icons/material/system_gm/1x/place_gm_blue_24dp.png"
+    },
+    {
+      "label": "send-to-device",
+      "text": "Enviar para smartphone",
+      "icon": "https://maps.gstatic.com/consumer/images/icons/1x/send_to_mobile_alt_gm_blue_24dp.png"
+    }
+  ],
+  "ratingInformation": {
+    "basicRatingInformation": {
+      "averageGrade": 4.8,
+      "totalOfEvaluations": 202
+    },
+    "ratingsByGrade": [
+      {
+        "grade": 5,
+        "totalRatings": 182
+      },
+      {
+        "grade": 4,
+        "totalRatings": 11
+      },
+      {
+        "grade": 3,
+        "totalRatings": 4
+      },
+      {
+        "grade": 2,
+        "totalRatings": 2
+      },
+      {
+        "grade": 1,
+        "totalRatings": 3
+      }
+    ]
+  },
+  "ratingTags": [
+    {
+      "tag": "barco",
+      "count": 8,
+      "tooltip": "barco, mencionado em 8 avaliações"
+    },
+    {
+      "tag": "natureza",
+      "count": 7,
+      "tooltip": "natureza, mencionado em 7 avaliações"
+    },
+    {
+      "tag": "trilha",
+      "count": 6,
+      "tooltip": "trilha, mencionado em 6 avaliações"
+    },
+    {
+      "tag": "ondas",
+      "count": 4,
+      "tooltip": "ondas, mencionado em 4 avaliações"
+    },
+    {
+      "tag": "deserto",
+      "count": 3,
+      "tooltip": "deserto, mencionado em 3 avaliações"
+    },
+    {
+      "tag": "camping",
+      "count": 3,
+      "tooltip": "camping, mencionado em 3 avaliações"
+    }
+  ],
+  "featuredPhotos": [
+    "https://lh5.googleusercontent.com/p/AF1QipM6DwL6EeCs2UDrBCnSEsjGsGC1vR51ynjwdqrA=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOlkAp47aM7wwfB32xTpqv36bTEtlszTNte_jLD=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOFNrsYPMyjK4lF3KMUp87r5SuZ5pkCAl-X9QOW=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOvXuY9OouNoi9kt2fDU9eNougDYjefzLLqO0-i=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOagdW_9wchk2QAxeFVtb2MfoOcCAB_u9qIJyoE=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNufm_8tOnEftyEQjZvaiQH6PM9r7wTt5H_BuAE=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNXrWiH-CM4K9R4dS0c9Gsvv5Fo-frlVulRRYmv=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNuuyQww2JcTEzjPV9zY2Sh9hiN9DoRlEWN6Zc3=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMVOLOn0zstkh2JIiZjvGaiM2rPI6Kh9rS48z5Q=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPep-OZ0__IpMBbUGfqOvdSTK_BLIqUz-OUDAgl=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMHPUgb-4IgrbKGZzdZ1JBIV5Y6QkA40WZFqwqd=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipORRwtipeHmNdl-R-U-w4AeT6mItbCFg4-HLyl1=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipN4-NCgzf4qH_HsDDDRKdhzE5LmAalRBhB5UhsJ=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipO32efK1Y-kjZTPzZMdi0cEDAV-BwhDtSjnWBKK=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMRUXbePDaMiDl-Ik-1LIhtYVERfl8tdzxbmfWW=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOxDde8PA91rpp3SXAlvcVR--KP-QWCN6C5Vzyq=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPNvgTcoO47EgOHFmT6LUGLdjYpRizaoPv64gZl=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNYva-Uhz__4NDyIuR8J5UZZQW-NcpsntWjyUmN=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPaIrT48PY4dS-2dLXYwqSd69V-zj7PB5JPq59L=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPL0eRePIEjvrksvs-gNUyLQhCGupxPeAqZG_6J=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNRV2JiZWHaS6I_n9E0oJkzi9FGEtJRoW5NARND=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOjVMJ5pUOpf6YSpu5GYoujpxSJxRNcuegn1HAB=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNADHbEo6Do2EII5PThp-BuLlGYAwQASVsZqclM=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipP94TWy_ZCyTHfguxCbgBzJv81O-O-Fpdk_dCbK=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMz4GmIf-uOsIXSUBFYr8ZyAX4YQVaoR4uuD0cX=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMAUrBYpEZAXQiGkF99j7aKpv_2D-3y4IhuNH6o=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOl-QnSkUoLHF52cEMOy3_m8Uvrc-7tsTWfOSDx=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOa-66552xja6UHrNGFn42_66LoQcVcq1xpQvJ-=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPEvRtDPGq2c5IkTbz4VqRT9KtnMspZIph_t3gf=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNofBFZ8fO6IaZepwbZFxRXFZXNlZN30BK-WTZo=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNZ7o-JiEMpVMr5GIyB-QVHulWYlpqXH8bQhwhT=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipONJXWvortLVgUSpkRod-EqN-XVAhgnpsK4J43x=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMZ98w_Y-YIsUFJK_eoh6vpY7Wc-KQemrzUkwUy=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPK79Cf7_nJZbJu5Su7uidKqICQZNPyw50vS8bG=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOlyF9VVcIGkLfIA4tbsG66z4kGxMnwW1b-f62R=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNL3u58zYDpYqo_ats9JxewwNT8mBdCpuAUwDAQ=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipN7DjSyr0iQhmg2MBBI8b6nbeFB8FVFpAPnH8SH=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOerABMAaYQYQilBCz8y16TXYZiNZRFoMOdrl93=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMRQzy0UcI9YCMoZS-4oAGfv7HdXelC29CmTzAN=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPcAiavv8aoO-QbA7t_Tml0VXKa-1c3qwoSPpG3=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOLJyvK8xWqi0Mn9_SN4uG3PWxckrB8kJDotOTN=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipM9dN6dzO1YiehTtX-C5go6hR9u0dO89PHQDt_Z=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNBjkVj1FLAZoc4LP-6vLafrz2Nsvcs7svf_sEg=w1024-h576-k-no"
+  ],
+  "topComments": [
+    {
+      "author": "Leandro Paschoalin",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucr9VLIiMQzfehVa0OeF17MD-TkLBbraL0yngE_tdrs=w36-h36-p-c0x00000000-rp-mo-ba6-br100",
+      "comment": "Praia bem preservada com bica de água doce, ótima para camping... com acesso via mar de caiaque demora 1h 20 min partindo do Guaiuba e 3 opções de trilha, a mais fácil é pela propriedade particular Sítio mato grosso ou mais conhecida por fazenda dos búfalos na estrada para Santa Cruz dos Navegantes( 50 min) geralmente não deixam,, a segunda opção de trilha  moderada se inicia no costão direito na praia do Guaiuba (2 horas) e a terceira e mais distante se inicia no início da estrada de Santa Cruz em frente a caixa d'água da Sabesp (3 horas e meia) todas com belos visuais...Vale o passeio .",
+      "gradeComment": 5
+    },
+    {
+      "author": "Airton Lucas",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucrIOzMlpNTexiioQzwjR66s51IoG1P0DacMAHf2sac=w36-h36-p-c0x00000000-rp-mo-ba3-br100",
+      "comment": "Lugar maravilhoso, tranquilo, calmo, com poucas pessoas e ótimo para camping selvagem. É muito lindo e da para fazer ótimas fotos!!!",
+      "gradeComment": 5
+    },
+    {
+      "author": "Carlos Santos",
+      "photoAuthor": "https://lh3.googleusercontent.com/a/AItbvmljbYBqkyJ17Wp2QLVAwkAuNwdCDLHcFlompIep=w36-h36-p-c0x00000000-rp-mo-ba5-br100",
+      "comment": "Lugar maravilhoso, paradisíaco, deserto. Ótimo para quem curte fazer trilhas, contemplar uma excelente paisagem e tomar banho num mar limpo e maravilhoso. Recomendo",
+      "gradeComment": 5
+    },
+    {
+      "author": "Moura",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucqFKpsr6GyimaHnZ9HzXeKzJi4pJygnHwzADCWG9T8=w36-h36-p-c0x00000000-rp-mo-ba6-br100",
+      "comment": "Um verdadeiro Paraíso. Unamo-nos de arte divina em pleno Litoral Paulista. Preservado e com pouca frequência de visitantes até porque o acesso só acontece pelo mar. Refúgio de Aguas límpidas e muito verde. Um passeio inesquecível pra quem visita. Não deixe de conhecer.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Thamires xavier",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucr4wPhZWckDPm7020PWnM24VEVwuwKCQ4MabcHhf4c=w36-h36-p-c0x00000000-rp-mo-br100",
+      "comment": "Praia maravilhosa, da para chegar através  da trilha(a trilha é um pouco pesada e demorada , mas indo de boa, da tudo certo) ou barco. Quando fui tinha bastante  gente  acampanhando,então acho que é  bom pra isso, a vista é  incrível!",
+      "gradeComment": 5
+    },
+    {
+      "author": "Nelson de Marco",
+      "photoAuthor": "https://lh3.googleusercontent.com/a/AItbvmm1-6OLNv7Eh6492eq5BbQexhkYe-ewzl2HbZHR=w36-h36-p-c0x00000000-rp-mo-ba2-br100",
+      "comment": "Lugar excelente, isolado, acesso somente por mar ou trilha em mata fechada, tem bica de agua doce, agua limpa, areia limpa, lindo local.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Cíntia Carvalho",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucoSs5VbUyqu0TyGVOvi_rRGCnssonkaYLz3V_46Eg=w36-h36-p-c0x00000000-rp-mo-ba3-br100",
+      "comment": "Natureza pura e preservada. Acesso por embarcação ou trilha partindo do Guaiuba. Para quem vem de embarcação a remo cuidar com as mudanças na maré que dificultam a saída da areia.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Marcio Bittencourt",
+      "photoAuthor": "https://lh3.googleusercontent.com/a/AItbvmlkF9VFXglT5c9Ptwb7Su4LB0wcWdHyfHiDYb6K=w36-h36-p-c0x00000000-rp-mo-ba2-br100",
+      "comment": "Lugar muito bonito, mais o ser humano consegue estragar, não tem jeito, a galera tem q ter mais consciência.",
+      "gradeComment": 5
+    },
+    {
+      "author": "pedro alexandre ortega",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucrIuZr29WXgoS0hZ0CfM3JhT0t4xy4pYIl_0agW=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "Sensacional, principalmente se quiser relaxar durante a semana, só que nos finais de semana é bem cheio, mas vale a pena !!!",
+      "gradeComment": 5
+    },
+    {
+      "author": "Marcio Shark",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucqID0eOqwtZ4I_DD9nmcve460vF6oG6pBTEuF8NxVA=w36-h36-p-c0x00000000-rp-mo-ba5-br100",
+      "comment": "Ótima, isolada, porém para acesso de caiaque ou canoa, verificar tábua de marés, pois é uma praia de tombo com ondas altas.",
+      "gradeComment": 5
+    },
+    {
+      "author": "AndreaSena Reis",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucpgR0VkbgrHka7Bbs0OxxqGBiWxWep0X7pWR0NjvA=w36-h36-p-c0x00000000-rp-mo-br100",
+      "comment": "Lugar lindooooo,ótimo para renovar energias e se deslumbrar com essa paisagem maravilhosa.♥️♥️",
+      "gradeComment": 5
+    },
+    {
+      "author": "Thays Demétrio",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucrPK07Ka_-_NgABT9gmKaKxshb173hfJZD5bqsyrxA=w36-h36-p-c0x00000000-rp-mo-ba3-br100",
+      "comment": "Praia maravilhosa... Trilha estava com lama, portanto foi difícil a subida inicial por ser bastante íngreme... Mas valeu mto a pena. Na minha opinião é a praia mais bonita de Guarujá até o momento. Existe a opção de ir e voltar de barco tb.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Waltensy Lima de Souza",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucrK8bQvqRMd0vJpQGc8QtIcwZKZdGcvb2GKhOeWvg=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "Praia tranquila,sem muita onda ,belas paisagens,além de ter uma bica de água doce e geladinha",
+      "gradeComment": 5
+    },
+    {
+      "author": "Wagner Gonçalves",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucpT2eKXvC0q28oBjZ8rYvgO7vDmW6mp3tz4KgBzPA=w36-h36-p-c0x00000000-rp-mo-br100",
+      "comment": "Trilha desafiadora, mas tem que tomar cuidado!",
+      "gradeComment": 5
+    },
+    {
+      "author": "Uilson Nonato",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucrj40LvOI4jvFx6n4Y1KNSEPEHlbXUQyx5Cggm_xg=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "Muito boa para ir com a família mas tem que ser de lancha",
+      "gradeComment": 5
+    },
+    {
+      "author": "Mário luiz",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucpVdON9AhBabA4QDMCaQkvK5LFRRGw-UVpfW8j8QLk=w36-h36-p-c0x00000000-rp-mo-ba3-br100",
+      "comment": "Lugar lindo, natureza perfeita",
+      "gradeComment": 5
+    },
+    {
+      "author": "Paulo Barbosa",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucp55r9wbehWoNzI66tE4QlRv_L23u1nFk_dvLcr9w=w36-h36-p-c0x00000000-rp-mo-ba3-br100",
+      "comment": "Lugar maravilhoso para descansar e aproveita com a família!!!!!",
+      "gradeComment": 5
+    },
+    {
+      "author": "Karem Priscila",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucobafR8vgvh5e8ykkxyuCEgRr7SwYxkpXmWzsqrPCQ=w36-h36-p-c0x00000000-rp-mo-br100",
+      "comment": "Lugar magnífico! Cuidem bem. Levem apenas fotos, e deixem apenas suas pegadas.",
+      "gradeComment": 5
+    },
+    {
+      "author": "André Luis Carvalho Delgado",
+      "photoAuthor": "https://lh3.googleusercontent.com/a/AItbvmlERHAiRck4UApasiJR_wdo3U5eJZxKVr-2rfsV=w36-h36-p-c0x00000000-rp-mo-br100",
+      "comment": "O namorado da minha irmã nos levou até esta praia e adorei o local, ainda mais porque fez um dia maravilhoso!! Espero voltar novamente.",
+      "gradeComment": 5
+    },
+    {
+      "author": "André Lima",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucr4G4QN2F2wVyoDFCNV0jBkVphhUOsHYNZbu7BNlA=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "Trilha fácil para chegar até lá.",
+      "gradeComment": 5
+    }
+  ],
+  "peakHours": [
+    {
+      "Sunday": [
+        {
+          "hour": "04:00",
+          "percent": 9
+        },
+        {
+          "hour": "05:00",
+          "percent": 19
+        },
+        {
+          "hour": "06:00",
+          "percent": 27
+        },
+        {
+          "hour": "07:00",
+          "percent": 34
+        },
+        {
+          "hour": "08:00",
+          "percent": 38
+        },
+        {
+          "hour": "09:00",
+          "percent": 47
+        },
+        {
+          "hour": "10:00",
+          "percent": 62
+        },
+        {
+          "hour": "11:00",
+          "percent": 81
+        },
+        {
+          "hour": "12:00",
+          "percent": 97
+        },
+        {
+          "hour": "13:00",
+          "percent": 100
+        },
+        {
+          "hour": "14:00",
+          "percent": 87
+        },
+        {
+          "hour": "15:00",
+          "percent": 65
+        },
+        {
+          "hour": "16:00",
+          "percent": 40
+        },
+        {
+          "hour": "17:00",
+          "percent": 20
+        },
+        {
+          "hour": "18:00",
+          "percent": 8
+        },
+        {
+          "hour": "19:00",
+          "percent": 2
+        },
+        {
+          "hour": "03:00",
+          "percent": 2
+        }
+      ]
+    },
+    {
+      "Monday": [
+        {
+          "hour": "09:00",
+          "percent": 5
+        },
+        {
+          "hour": "10:00",
+          "percent": 4
+        },
+        {
+          "hour": "11:00",
+          "percent": 1
+        },
+        {
+          "hour": "12:00",
+          "percent": 6
+        },
+        {
+          "hour": "13:00",
+          "percent": 9
+        },
+        {
+          "hour": "14:00",
+          "percent": 6
+        },
+        {
+          "hour": "15:00",
+          "percent": 1
+        }
+      ]
+    },
+    {
+      "Tuesday": [
+        {
+          "hour": "07:00",
+          "percent": 1
+        },
+        {
+          "hour": "08:00",
+          "percent": 1
+        },
+        {
+          "hour": "09:00",
+          "percent": 4
+        },
+        {
+          "hour": "10:00",
+          "percent": 5
+        },
+        {
+          "hour": "11:00",
+          "percent": 8
+        },
+        {
+          "hour": "12:00",
+          "percent": 9
+        },
+        {
+          "hour": "13:00",
+          "percent": 8
+        },
+        {
+          "hour": "14:00",
+          "percent": 5
+        },
+        {
+          "hour": "15:00",
+          "percent": 2
+        }
+      ]
+    },
+    {
+      "Wednesday": [
+        {
+          "hour": "05:00",
+          "percent": 1
+        },
+        {
+          "hour": "08:00",
+          "percent": 2
+        },
+        {
+          "hour": "09:00",
+          "percent": 4
+        },
+        {
+          "hour": "10:00",
+          "percent": 1
+        },
+        {
+          "hour": "12:00",
+          "percent": 1
+        }
+      ]
+    },
+    {
+      "Thursday": [
+        {
+          "hour": "10:00",
+          "percent": 4
+        },
+        {
+          "hour": "11:00",
+          "percent": 11
+        },
+        {
+          "hour": "12:00",
+          "percent": 15
+        },
+        {
+          "hour": "13:00",
+          "percent": 15
+        },
+        {
+          "hour": "14:00",
+          "percent": 9
+        },
+        {
+          "hour": "15:00",
+          "percent": 2
+        }
+      ]
+    },
+    {
+      "Friday": [
+        {
+          "hour": "11:00",
+          "percent": 2
+        },
+        {
+          "hour": "12:00",
+          "percent": 13
+        },
+        {
+          "hour": "13:00",
+          "percent": 19
+        },
+        {
+          "hour": "14:00",
+          "percent": 18
+        },
+        {
+          "hour": "15:00",
+          "percent": 15
+        },
+        {
+          "hour": "16:00",
+          "percent": 6
+        },
+        {
+          "hour": "02:00",
+          "percent": 1
+        }
+      ]
+    },
+    {
+      "Saturday": [
+        {
+          "hour": "04:00",
+          "percent": 6
+        },
+        {
+          "hour": "05:00",
+          "percent": 4
+        },
+        {
+          "hour": "06:00",
+          "percent": 2
+        },
+        {
+          "hour": "07:00",
+          "percent": 4
+        },
+        {
+          "hour": "08:00",
+          "percent": 19
+        },
+        {
+          "hour": "09:00",
+          "percent": 43
+        },
+        {
+          "hour": "10:00",
+          "percent": 56
+        },
+        {
+          "hour": "11:00",
+          "percent": 51
+        },
+        {
+          "hour": "12:00",
+          "percent": 48
+        },
+        {
+          "hour": "13:00",
+          "percent": 55
+        },
+        {
+          "hour": "14:00",
+          "percent": 59
+        },
+        {
+          "hour": "15:00",
+          "percent": 50
+        },
+        {
+          "hour": "16:00",
+          "percent": 31
+        },
+        {
+          "hour": "17:00",
+          "percent": 15
+        },
+        {
+          "hour": "18:00",
+          "percent": 8
+        },
+        {
+          "hour": "19:00",
+          "percent": 5
+        },
+        {
+          "hour": "20:00",
+          "percent": 8
+        },
+        {
+          "hour": "21:00",
+          "percent": 9
+        },
+        {
+          "hour": "22:00",
+          "percent": 12
+        },
+        {
+          "hour": "23:00",
+          "percent": 13
+        },
+        {
+          "hour": "00:00",
+          "percent": 13
+        },
+        {
+          "hour": "01:00",
+          "percent": 13
+        },
+        {
+          "hour": "02:00",
+          "percent": 12
+        },
+        {
+          "hour": "03:00",
+          "percent": 9
+        }
+      ]
+    }
+  ],
+  "relatedSearches": [
+    "praia saco do major onde fica",
+    "praia saco do major acesso",
+    "praia saco do major trilha",
+    "praia do sangava",
+    "praia do góes",
+    "saco do major camping",
+    "praia do monduba",
+    "praia do mar casado",
+    "praia saco do major onde fica",
+    "praia saco do major acesso",
+    "praia saco do major trilha",
+    "praia do sangava",
+    "praia do góes",
+    "saco do major camping",
+    "praia do monduba",
+    "praia do mar casado"
+  ],
+  "relateds": [
+    {
+      "mainName": "Praia do Bueno",
+      "url": null
+    },
+    {
+      "mainName": "Praia do Cheira Limao",
+      "url": null
+    },
+    {
+      "mainName": "Praia Santa Cruz dos Navegantes",
+      "url": null
+    },
+    {
+      "mainName": "Praia do Camburi",
+      "url": null
+    },
+    {
+      "mainName": "Praia do Pinheiro",
+      "url": null
+    },
+    {
+      "mainName": "Praia do Góis",
+      "url": null
+    },
+    {
+      "mainName": "Praia do Monduba",
+      "url": null
+    },
+    {
+      "mainName": "Praia do Sangava",
+      "url": null
+    },
+    {
+      "mainName": "Praia do Goes",
+      "url": null
+    },
+    {
+      "mainName": "Praia Preta",
+      "url": null
+    },
+    {
+      "mainName": "Praia de Fora",
+      "url": null
+    },
+    {
+      "mainName": "Praia do Guaiúba",
+      "url": null
+    },
+    {
+      "mainName": "Praia do Sorocotuba",
+      "url": null
+    },
+    {
+      "mainName": "Praia do Éden",
+      "url": null
+    },
+    {
+      "mainName": "Praia de São Pedro",
+      "url": null
+    },
+    {
+      "mainName": "Ilha Pompeba",
+      "url": null
+    },
+    {
+      "mainName": "Ilha dos Arvoredos",
+      "url": null
+    },
+    {
+      "mainName": "Praia do Iporanga",
+      "url": null
+    },
+    {
+      "mainName": "Praia do Mar Casado",
+      "url": null
+    },
+    {
+      "mainName": "Ilha do Mar Casado",
+      "url": null
+    },
+    {
+      "mainName": "Ilha de Santo Amaro",
+      "url": null
+    },
+    {
+      "mainName": "Mirante do Morro da Campina",
+      "url": null
+    },
+    {
+      "mainName": "Praia Preta da Costa do Sul",
+      "url": null
+    },
+    {
+      "mainName": "Praia do Perequê",
+      "url": null
+    },
+    {
+      "mainName": "Praia do Bueno",
+      "url": null
+    },
+    {
+      "mainName": "Praia do Cheira Limao",
+      "url": null
+    },
+    {
+      "mainName": "Praia Santa Cruz dos Navegantes",
+      "url": null
+    },
+    {
+      "mainName": "Praia do Camburi",
+      "url": null
+    },
+    {
+      "mainName": "Praia do Pinheiro",
+      "url": null
+    },
+    {
+      "mainName": "Praia do Góis",
+      "url": null
+    },
+    {
+      "mainName": "Praia do Monduba",
+      "url": null
+    },
+    {
+      "mainName": "Praia do Sangava",
+      "url": null
+    },
+    {
+      "mainName": "Praia do Goes",
+      "url": null
+    },
+    {
+      "mainName": "Praia Preta",
+      "url": null
+    },
+    {
+      "mainName": "Praia de Fora",
+      "url": null
+    },
+    {
+      "mainName": "Praia do Guaiúba",
+      "url": null
+    },
+    {
+      "mainName": "Praia do Sorocotuba",
+      "url": null
+    },
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

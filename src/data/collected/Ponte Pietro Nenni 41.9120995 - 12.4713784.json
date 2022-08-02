@@ -1,0 +1,971 @@
+{
+  "mainName": "Ponte Pietro Nenni",
+  "slug": "ponte-pietro-nenni",
+  "category": "Ponte",
+  "locationInformation": {
+    "latitude": "41.9120995",
+    "longitude": "12.4713784"
+  },
+  "basicInformation": [
+    {
+      "label": "endereço",
+      "tooltip": "Copiar endereço",
+      "text": "Ponte Pietro Nenni, 00192 Roma RM, Itália",
+      "icon": "https://www.gstatic.com/images/icons/material/system_gm/1x/place_gm_blue_24dp.png"
+    },
+    {
+      "label": "website",
+      "tooltip": "Abrir website",
+      "text": "roma2pass.it",
+      "icon": "https://www.gstatic.com/images/icons/material/system_gm/1x/public_gm_blue_24dp.png"
+    },
+    {
+      "label": "Code",
+      "tooltip": "Copiar Plus Code",
+      "text": "WF6C+RH Roma, Itália",
+      "icon": "https://maps.gstatic.com/mapfiles/maps_lite/images/2x/ic_plus_code.png"
+    },
+    {
+      "label": "merchant",
+      "text": "Reivindicar esta empresa",
+      "icon": "https://www.gstatic.com/images/icons/material/system_gm/1x/verified_user_gm_blue_24dp.png"
+    }
+  ],
+  "ratingInformation": {
+    "basicRatingInformation": {
+      "averageGrade": 4.2,
+      "totalOfEvaluations": 197
+    },
+    "ratingsByGrade": [
+      {
+        "grade": 5,
+        "totalRatings": 102
+      },
+      {
+        "grade": 4,
+        "totalRatings": 58
+      },
+      {
+        "grade": 3,
+        "totalRatings": 17
+      },
+      {
+        "grade": 2,
+        "totalRatings": 11
+      },
+      {
+        "grade": 1,
+        "totalRatings": 9
+      }
+    ]
+  },
+  "ratingTags": [
+    {
+      "tag": "metrô",
+      "count": 4,
+      "tooltip": "metrô, mencionado em 4 avaliações"
+    },
+    {
+      "tag": "rio",
+      "count": 4,
+      "tooltip": "rio, mencionado em 4 avaliações"
+    },
+    {
+      "tag": "arquiteto",
+      "count": 3,
+      "tooltip": "arquiteto, mencionado em 3 avaliações"
+    },
+    {
+      "tag": "projeto",
+      "count": 3,
+      "tooltip": "projeto, mencionado em 3 avaliações"
+    },
+    {
+      "tag": "estacionamento",
+      "count": 3,
+      "tooltip": "estacionamento, mencionado em 3 avaliações"
+    },
+    {
+      "tag": "percepção visual",
+      "count": 3,
+      "tooltip": "percepção visual, mencionado em 3 avaliações"
+    }
+  ],
+  "featuredPhotos": [
+    "https://lh5.googleusercontent.com/p/AF1QipMm4Z0u1BQkpzj9IryhlxnI7V44KXuHMPl6j5RQ=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOUWk-mi-3K3Th3trKQ2OeDpjjFFX70eQmirs_s=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipM8Cd0zViFW1IIC-FZorngUgHHx4Pu1M2506pZV=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipO66_dB0OAeBWOmgTVhdxeK9XMK7tj_l1HuYF2C=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPriWMRskdqBp7Fz4-7QkAWt-6kOHGA5Qlsr3Q1=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipO6tjca4wnmVoSmWDHKGSWnowClZRVu-IQ_5lBh=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOEK_dqEETqZF-2ZQBQAU8oXkgTwEJv7MnmHpfk=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipM_FzcSYphw0luuwE6Jablcnw-5FZYdHftSt3Z5=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOi8VUXPl-n0H1vBWQ1t9vHkfS9M2SgvTcb5Tn4=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMKnMP5hVqGVGPPwlPwjPGDJeaIT-Kkq4fDpnOe=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipP1I6a5uVZNcqU0FWtU-chTw96zsuwRNEIQ9TzT=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOJ9BN7moqePeT6l2q_4bBMw_o8oBYCsvJ6Rih-=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPy_rckymtzjiUs2J-AjUqFLy_G4lz2L79Iu0OO=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPvtfwWflSx_7wZdZhD84F4HjhocKBOYcQxQs-i=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipODoaemRpSTUSUIp8PwDqAGXGQnc2wtL_E5Do_H=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOT7qbPg8xZDuk8Nlavk2q7WDgyiEKtfYMw0GP9=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMbEdCdN6ecEIv1tXk00ez_5HN2z9D3qEQxDm93=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMItxqU4UD5HkouoR9QdSN6qq2-u1AeSAcCuD_c=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNfdTnBDphEo74AJn-0PvcZWQ-AbEA22q3G1xJs=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipM21mpLWBrUu70YgPYDpaVGJiF-vTp1CUJkTRP1=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMZte5jDMcD79Y7IDlcc1EvYKrL_LM0VAZLzQPl=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPRVZ_CbiLRqVaw1vxF7PyntQmLNyKxLJSL29bE=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOGpkbUf7Ls6xX4XZW5UeD7Lf7i1QQdep3xClnC=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPdWcjLl-HAQ7-mVOyTNXv85y23JuwuuCjcTkS2=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNZxlE5-aokPHVAL0A6wKPVyHQMKS49y7vHp9eN=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOEZ0M2NzyZg0ig9VRLXZdy6IueJUaHURz7J2CY=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPFraMmo7Onsapar8ijlEgYBGZexcqXdANvTcKG=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPeSuI72veALA-Amr4BGMpHppjulgdStyqxMpLO=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMKWA5bwhLBTxs4KKSm-6FacwB-h_xoJtmp3RoV=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMypaxnMjcUFtFWV5VfrPwADLIWSemcjqoVCMkG=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMaehdJjjix7YKsNcGdT85oOsxr4ciBFLDmabzf=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPx8qMMzsDqJ6UqbokLKP0NOgWyMaVNpx4KWupX=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPJFk4M02CbtA1HL2wtylWHkUWj-ihNKUjKFL5c=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipORlE4C5HwTqLXvhLcqSJI8TNVQvsWReZ1kXD5e=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMWWxfjGMXR-hBwCh3LJd4Z4FY6uOWAXowzv9Kr=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipODKemzkDjd560BAEI1HND35iq-IAMPKR1jphQj=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPV6uiow5rTv6xDwpqkBSVl0kM5p_dq_E2oDbkY=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOJKDXVdjIzKHbkUhjccX8pF9j1WnUbbfZiI9DI=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOyhxNJ8pF3wHJTsq6H9Sst7hpFqWeI6EC_Lo7A=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNtq4XG62wDpuJThdCzylryzYBYRYHu-BT_AmS5=w1024-h576-k-no"
+  ],
+  "topComments": [
+    {
+      "author": "Alcântara Junior",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucr94995y3zEJeQ4zbU31cV86Plkgc-LNLsdknOnpsI=w36-h36-p-c0x00000000-rp-mo-ba3-br100",
+      "comment": "Muito bonita!",
+      "gradeComment": 4
+    },
+    {
+      "author": "Massimiliano Di Maio",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucqJfXvzP95TfRV8Kepevu5P09bEGcSeyKdLtL3Gvg=w36-h36-p-c0x00000000-rp-mo-ba7-br100",
+      "comment": "(Tradução do Google) Ponte entre as mais modernas construídas no Tibre e atravessada pelo metro \"A\" ... entre as mais feias e abandonadas. Devido ao fechamento parcial é quase sempre utilizado como estacionamento.  (Original) Ponte fra i più moderni costruiti sul Tevere ed attraversato dalla metro \"A\"... fra i più brutti e trascurati. A causa della parziale chiusura è quasi sempre utilizzato come parcheggio.",
+      "gradeComment": 2
+    },
+    {
+      "author": "Fabrizio Tosti",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucosV8aByNvPpgS_iNWP9Ifvx_QAKJdAlyGtMZA3zw=w36-h36-p-c0x00000000-rp-mo-ba6-br100",
+      "comment": "(Tradução do Google) Certamente não é um lugar inesquecível... vítima das obras do metrô, é uma encruzilhada de carros que correm ao lado de ervas daninhas. Não é um bom cartão de visita para Roma.  (Original) Sicuramente un posto non indimenticabile...vittima dei lavori della metropolitana, e' un crocevia di automobili che costeggiano erbacce incolte. Non un bel biglietto da visita per Roma.",
+      "gradeComment": 2
+    },
+    {
+      "author": "Stefano Rossetti",
+      "photoAuthor": "https://lh3.googleusercontent.com/a/AItbvmmJfSfPaf-HrM0ddil0YgYHqvQM7BArRPEI78VJ=w36-h36-p-c0x00000000-rp-mo-ba8-br100",
+      "comment": "(Tradução do Google) Projeto do arquiteto Luigi Moretti. Estruturalista Silvano Zorzi.  (Original) Progetto dell'architetto Luigi Moretti. Strutturista Silvano Zorzi.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Carlo Sanson",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucrHPI9yjY9nTUnELBx_CHCykKFGjUzertxgxmiKhA=w36-h36-p-c0x00000000-rp-mo-ba6-br100",
+      "comment": "(Tradução do Google) Uma ponte um pouco deslocada entre todas as outras por ser a mais recente. Foi construído na década de 70 quando havia canteiros de obras do metrô A. NÃO ESTACIONE ESTE, é proibido estacionar e desperdício de multas, principalmente nos finais de semana! melhor estacionar por uma taxa em alguma rua vizinha  (Original) Un ponte che stona un po' tra tutti gli altri perché è il più recente. È stato costruito negli anni 70 quando ci furono i cantieri per la metro A. NON PARCHEGGIATECI, c'è il divieto di sosta e le multe si sprecano, specialmente nel week end! meglio parcheggiare a pagamento in qualche via limitrofa",
+      "gradeComment": 4
+    },
+    {
+      "author": "roberta scrive",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucqbgFwedbJyTM1QDrQiUag0Ecq6xI7XORRynb8lJ6s=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "(Tradução do Google) Suja, no final da ponte pilhas de jornais e coisas quebradas, canteiros de flores e vários excrementos  (Original) Sporco,alla fine del ponte accumuli di giornali e cose rotte, aiuole incolte ed escrementi vari",
+      "gradeComment": 1
+    },
+    {
+      "author": "Luigi (Lu)",
+      "photoAuthor": "https://lh3.googleusercontent.com/a/AItbvmkhEL4R2iBu6CYv5bJkmm0I9RPqAourktSfpZI=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "(Tradução do Google) Vista espetacular do Tibre da ponte  (Original) Spettacolare vista del Tevere dal ponte",
+      "gradeComment": 5
+    },
+    {
+      "author": "Gianki Franki (Gianki)",
+      "photoAuthor": "https://lh3.googleusercontent.com/a/AItbvmmvc3Rcp10ZMBnJedFbEq1BgfPk_9NPTOWQOTBj=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "(Tradução do Google) Ótimo para tirar belas fotos do Tibre e pontes próximas. Não recomendado para estacionamento, não há estacionamento.  (Original) Ottimo per fare belle foto del Tevere e dei ponti vicini. Sconsigliato per il parcheggio, c'è il divieto di sosta.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Roberto Dall' Angelo",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucof9BLedrWNBDqHvpmIIE5rRecXF5_HR5KipLzLAQ=w36-h36-p-c0x00000000-rp-mo-ba5-br100",
+      "comment": "(Tradução do Google) Com todo o respeito que posso ter pelo arquiteto que o projetou, fico imaginando o que tem a ver com o contexto arquitetônico das pontes que o precedem e seguem. Honestamente, poderíamos ter feito melhor.  (Original) Con tutto il rispetto che posso avere per l'architetto che lo ha progettato mi domando che cosa c'entra nel contesto architettonico dei ponti che lo precedono e lo seguono. Sinceramente si poteva fare di meglio.",
+      "gradeComment": 1
+    },
+    {
+      "author": "Marco Coaccioli",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucphN2MnPN2ozi2qc1cRBN5d5vJQ-X49TyJFRjmQ=w36-h36-p-c0x00000000-rp-mo-ba5-br100",
+      "comment": "(Tradução do Google) Uma das belas pontes sobre o rio Tibre. Bela vista e passagem segura durante um passeio no centro. A ciclovia subjacente conecta-se bem até mesmo para veículos não motorizados.  (Original) Uno dei bellissimi ponti sul fiume Tevere. Bella la vista e sicuro passaggio durante una passeggiata al centro. Pista ciclabile sottostante lo collega bene anche per i non motorizzati.",
+      "gradeComment": 4
+    },
+    {
+      "author": "giuseppe micheli",
+      "photoAuthor": "https://lh3.googleusercontent.com/a/AItbvmmaiXooJAzQ8FlHXuXkRQ3bwxO-cI9PjW3XHwcy=w36-h36-p-c0x00000000-rp-mo-ba8-br100",
+      "comment": "(Tradução do Google) As pontes de Roma têm uma mágica apenas em atravessá-las, mas também uma particularidade de que em Roma não conectam bairros semelhantes e não une os bairros.Eles estão lá e para entendê-los é preciso atravessar a ponte em todas as direções, ver o rio e a cauda veja no final da ponte.Os nomes das pontes não são conhecidos pelos romanos e eu não entendo por que  (Original) I ponti di Roma hanno una magia soltanto nell'attraversarli,ma anche una particolarita' che a Roma non collegano quartieri simili e non unisce i quartieri.Sono li e per capirli devi attraversare il ponte in tutte le direzioni ,vedere il fiume e coda si vede alla fine del ponte.I nomi dei ponti non sono conosciuti dai romani e non ne capisco la ragione",
+      "gradeComment": 5
+    },
+    {
+      "author": "Fabrizio Crespi",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucpSprE2qAjQrf7VS46YyJcw5Rf44gM3rld9feCC=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "(Tradução do Google) Movida, luzes e agradáveis ​​passeios ao longo do Lungo Tevere  (Original) Movida, luci e piacevoli passeggiate sul Lungo Tevere",
+      "gradeComment": 5
+    },
+    {
+      "author": "Simone Longo",
+      "photoAuthor": "https://lh3.googleusercontent.com/a/AItbvmmdTheOloaw48ZpebqfsIKQ3GriaoXH6ug9sABJ=w36-h36-p-c0x00000000-rp-mo-ba5-br100",
+      "comment": "(Tradução do Google) Oferece uma bela vista do rio Tibre. No cais existem várias barcaças-restaurante e uma ciclovia que liga a ponte Milvio à ponte sublicio da posta Portese.  (Original) Offre una bella vista sul fiume tevere. Sulle banchine ci sono diversi barconi ristorante e una pista ciclabile che unisce ponte Milvio con ponte sublicio a posta Portese.",
+      "gradeComment": 3
+    },
+    {
+      "author": "Ilenia Galasso",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucp8tp6-u7J061G7691Tylur6eRJ8DXXy9r7BS-T=w36-h36-p-c0x00000000-rp-mo-ba3-br100",
+      "comment": "(Tradução do Google) Entre os Flaminio e Lepanto estações de metro A. Todas as manhãs, quando eu sei que o tempo virá quando o medidor de volta à superfície, ouvindo o espanto e admiração de turistas. É um pequeno prazer que roubo todas as manhãs.  (Original) Tra le fermate Flaminio e Lepanto della metro A. Ogni mattina, quando so che arriverà il momento in cui la metro torna a galla, ascolto lo stupore e la meraviglia dei turisti. È un piccolo piacere che rubo ogni mattina.",
+      "gradeComment": 4
+    },
+    {
+      "author": "Michele Zucchini",
+      "photoAuthor": "https://lh3.googleusercontent.com/a/AItbvmmx01DekX37CTEiCS6aLbyOQPKCoVlFoYoKr4m2=w36-h36-p-c0x00000000-rp-mo-ba5-br100",
+      "comment": "(Tradução do Google) Fiquei perdido com o navegador 🤣🤣  (Original) Mi ero.perso col navigatore 🤣🤣",
+      "gradeComment": 4
+    },
+    {
+      "author": "mara grandi",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucqVfZ-fMUrAM6XUmTd2T9JYnxKm3-znjjecrExwJA=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "(Tradução do Google) Projetado pelo arquiteto Luigi Moretti e pelo engenheiro Silvano Zorzi, foi construído entre 1969 e 1972 e inaugurado em 1980; foi dedicado a Pietro Nenni, um líder socialista que morreu um mês antes da inauguração da ponte. Ele é usado pelos trens da Linha A do metrô de Roma e, portanto, também é comumente conhecido como \"ponte subterrânea\": a linha férrea emerge da Via Cesare Beccaria até a Viale Giulio Cesare e é o único trecho de superfície de toda a line. Em ambos os lados da ferrovia existem faixas de tráfego de veículos. (Citado pela Wikipedia)  (Original) Progettato dall'architetto Luigi Moretti e dall'ingegnere Silvano Zorzi, fu costruito tra il 1969 e il 1972 e inaugurato nel 1980; fu dedicato a Pietro Nenni, leader socialista morto un mese prima dell'inaugurazione del ponte. È utilizzato dai convogli della Linea A della metropolitana di Roma ed è perciò comunemente detto anche «ponte della Metropolitana»: il tracciato ferroviario emerge da via Cesare Beccaria fino all'altezza di viale Giulio Cesare e costituisce l'unico tratto in superficie dell'intera linea. Ai due lati della ferrovia sono presenti corsie di traffico veicolare. (Cit. da Wikipedia)",
+      "gradeComment": 4
+    },
+    {
+      "author": "Paulos Papakwnstantinou",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucqtDUeFCmVzXkbEgksW83BZU3GOA9Tm0LWc2jqY=w36-h36-p-c0x00000000-rp-mo-ba6-br100",
+      "comment": "(Tradução do Google) Ponte de 1972. Ponte mais moderna  (Original) Μια γέφυρα του 1972.Πιο μοντέρνα γέφυρα",
+      "gradeComment": 4
+    },
+    {
+      "author": "vincenzo marsella",
+      "photoAuthor": "https://lh3.googleusercontent.com/a/AItbvmnpdq76oBDsUcL7KL4sMmxx3NopLrheyTCqovxe=w36-h36-p-c0x00000000-rp-mo-ba6-br100",
+      "comment": "(Tradução do Google) Não é nada especial. Construído no final dos anos 70. Este é o custo chamado ponte do metrô  (Original) Non è nulla di che. Costruito alla fine e degli anni'70. É il costo detto ponte della metropolitana",
+      "gradeComment": 2
+    },
+    {
+      "author": "Fiamma Bedendo",
+      "photoAuthor": "https://lh3.googleusercontent.com/a/AItbvmkFCeUfpLHNHLA-LGSSRcgpA-bOv_d57gZIAO-y=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "(Tradução do Google) Eu dirigi de carro e levei um quarto de hora para chegar ao outro lado do rio Tibre. Houve um tráfego louco.  (Original) L'ho percorso in auto ed ho impiegato un quarto d'ora per arrivare sull'altra sponda del Tevere. C'era un traffico pazzesco.",
+      "gradeComment": 2
+    },
+    {
+      "author": "Carmelo Giorgio Alati",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZuco0TDHWFoVymnrbG1JEEsyv7yb8-sl0ZbM2vjW7UCg=w36-h36-p-c0x00000000-rp-mo-ba8-br100",
+      "comment": "(Tradução do Google) Lugar que revela um encanto especial, uma fotografia de \"tempo\" que, apesar de ser implacável nesta coisa pode ser ... 4 estrelas 4  (Original) Luogo che rivela un fascino particolare, una fotografia del \" tempo \" che nonostante scorre inesorabile in questo cosa lo si può fermare ... 4 stelle⚓💙",
+      "gradeComment": 4
+    }
+  ],
+  "peakHours": [
+    {
+      "Sunday": [
+        {
+          "hour": "04:00",
+          "percent": 2
+        },
+        {
+          "hour": "05:00",
+          "percent": 2
+        },
+        {
+          "hour": "06:00",
+          "percent": 2
+        },
+        {
+          "hour": "07:00",
+          "percent": 8
+        },
+        {
+          "hour": "08:00",
+          "percent": 27
+        },
+        {
+          "hour": "09:00",
+          "percent": 55
+        },
+        {
+          "hour": "10:00",
+          "percent": 73
+        },
+        {
+          "hour": "11:00",
+          "percent": 68
+        },
+        {
+          "hour": "12:00",
+          "percent": 50
+        },
+        {
+          "hour": "13:00",
+          "percent": 42
+        },
+        {
+          "hour": "14:00",
+          "percent": 51
+        },
+        {
+          "hour": "15:00",
+          "percent": 70
+        },
+        {
+          "hour": "16:00",
+          "percent": 87
+        },
+        {
+          "hour": "17:00",
+          "percent": 96
+        },
+        {
+          "hour": "18:00",
+          "percent": 93
+        },
+        {
+          "hour": "19:00",
+          "percent": 78
+        },
+        {
+          "hour": "20:00",
+          "percent": 56
+        },
+        {
+          "hour": "21:00",
+          "percent": 35
+        },
+        {
+          "hour": "22:00",
+          "percent": 19
+        },
+        {
+          "hour": "23:00",
+          "percent": 8
+        },
+        {
+          "hour": "00:00",
+          "percent": 2
+        },
+        {
+          "hour": "01:00",
+          "percent": 2
+        },
+        {
+          "hour": "02:00",
+          "percent": 2
+        },
+        {
+          "hour": "03:00",
+          "percent": 2
+        }
+      ]
+    },
+    {
+      "Monday": [
+        {
+          "hour": "04:00",
+          "percent": 2
+        },
+        {
+          "hour": "05:00",
+          "percent": 2
+        },
+        {
+          "hour": "06:00",
+          "percent": 3
+        },
+        {
+          "hour": "07:00",
+          "percent": 47
+        },
+        {
+          "hour": "08:00",
+          "percent": 32
+        },
+        {
+          "hour": "09:00",
+          "percent": 43
+        },
+        {
+          "hour": "10:00",
+          "percent": 50
+        },
+        {
+          "hour": "11:00",
+          "percent": 48
+        },
+        {
+          "hour": "12:00",
+          "percent": 45
+        },
+        {
+          "hour": "13:00",
+          "percent": 48
+        },
+        {
+          "hour": "14:00",
+          "percent": 55
+        },
+        {
+          "hour": "15:00",
+          "percent": 63
+        },
+        {
+          "hour": "16:00",
+          "percent": 67
+        },
+        {
+          "hour": "17:00",
+          "percent": 67
+        },
+        {
+          "hour": "18:00",
+          "percent": 64
+        },
+        {
+          "hour": "19:00",
+          "percent": 56
+        },
+        {
+          "hour": "20:00",
+          "percent": 45
+        },
+        {
+          "hour": "21:00",
+          "percent": 34
+        },
+        {
+          "hour": "22:00",
+          "percent": 22
+        },
+        {
+          "hour": "23:00",
+          "percent": 12
+        },
+        {
+          "hour": "00:00",
+          "percent": 3
+        },
+        {
+          "hour": "01:00",
+          "percent": 2
+        },
+        {
+          "hour": "02:00",
+          "percent": 2
+        },
+        {
+          "hour": "03:00",
+          "percent": 2
+        }
+      ]
+    },
+    {
+      "Tuesday": [
+        {
+          "hour": "04:00",
+          "percent": 2
+        },
+        {
+          "hour": "05:00",
+          "percent": 2
+        },
+        {
+          "hour": "06:00",
+          "percent": 18
+        },
+        {
+          "hour": "07:00",
+          "percent": 56
+        },
+        {
+          "hour": "08:00",
+          "percent": 65
+        },
+        {
+          "hour": "09:00",
+          "percent": 42
+        },
+        {
+          "hour": "10:00",
+          "percent": 32
+        },
+        {
+          "hour": "11:00",
+          "percent": 39
+        },
+        {
+          "hour": "12:00",
+          "percent": 50
+        },
+        {
+          "hour": "13:00",
+          "percent": 59
+        },
+        {
+          "hour": "14:00",
+          "percent": 67
+        },
+        {
+          "hour": "15:00",
+          "percent": 71
+        },
+        {
+          "hour": "16:00",
+          "percent": 71
+        },
+        {
+          "hour": "17:00",
+          "percent": 67
+        },
+        {
+          "hour": "18:00",
+          "percent": 59
+        },
+        {
+          "hour": "19:00",
+          "percent": 49
+        },
+        {
+          "hour": "20:00",
+          "percent": 39
+        },
+        {
+          "hour": "21:00",
+          "percent": 26
+        },
+        {
+          "hour": "22:00",
+          "percent": 16
+        },
+        {
+          "hour": "23:00",
+          "percent": 6
+        },
+        {
+          "hour": "00:00",
+          "percent": 2
+        },
+        {
+          "hour": "01:00",
+          "percent": 2
+        },
+        {
+          "hour": "02:00",
+          "percent": 2
+        },
+        {
+          "hour": "03:00",
+          "percent": 2
+        }
+      ]
+    },
+    {
+      "Wednesday": [
+        {
+          "hour": "04:00",
+          "percent": 2
+        },
+        {
+          "hour": "05:00",
+          "percent": 2
+        },
+        {
+          "hour": "06:00",
+          "percent": 4
+        },
+        {
+          "hour": "07:00",
+          "percent": 33
+        },
+        {
+          "hour": "08:00",
+          "percent": 59
+        },
+        {
+          "hour": "09:00",
+          "percent": 60
+        },
+        {
+          "hour": "10:00",
+          "percent": 41
+        },
+        {
+          "hour": "11:00",
+          "percent": 25
+        },
+        {
+          "hour": "12:00",
+          "percent": 26
+        },
+        {
+          "hour": "13:00",
+          "percent": 36
+        },
+        {
+          "hour": "14:00",
+          "percent": 50
+        },
+        {
+          "hour": "15:00",
+          "percent": 60
+        },
+        {
+          "hour": "16:00",
+          "percent": 67
+        },
+        {
+          "hour": "17:00",
+          "percent": 67
+        },
+        {
+          "hour": "18:00",
+          "percent": 60
+        },
+        {
+          "hour": "19:00",
+          "percent": 50
+        },
+        {
+          "hour": "20:00",
+          "percent": 36
+        },
+        {
+          "hour": "21:00",
+          "percent": 24
+        },
+        {
+          "hour": "22:00",
+          "percent": 17
+        },
+        {
+          "hour": "23:00",
+          "percent": 14
+        },
+        {
+          "hour": "00:00",
+          "percent": 16
+        },
+        {
+          "hour": "01:00",
+          "percent": 14
+        },
+        {
+          "hour": "02:00",
+          "percent": 6
+        },
+        {
+          "hour": "03:00",
+          "percent": 2
+        }
+      ]
+    },
+    {
+      "Thursday": [
+        {
+          "hour": "04:00",
+          "percent": 2
+        },
+        {
+          "hour": "05:00",
+          "percent": 2
+        },
+        {
+          "hour": "06:00",
+          "percent": 9
+        },
+        {
+          "hour": "07:00",
+          "percent": 22
+        },
+        {
+          "hour": "08:00",
+          "percent": 39
+        },
+        {
+          "hour": "09:00",
+          "percent": 52
+        },
+        {
+          "hour": "10:00",
+          "percent": 60
+        },
+        {
+          "hour": "11:00",
+          "percent": 64
+        },
+        {
+          "hour": "12:00",
+          "percent": 65
+        },
+        {
+          "hour": "13:00",
+          "percent": 68
+        },
+        {
+          "hour": "14:00",
+          "percent": 75
+        },
+        {
+          "hour": "15:00",
+          "percent": 83
+        },
+        {
+          "hour": "16:00",
+          "percent": 90
+        },
+        {
+          "hour": "17:00",
+          "percent": 95
+        },
+        {
+          "hour": "18:00",
+          "percent": 93
+        },
+        {
+          "hour": "19:00",
+          "percent": 85
+        },
+        {
+          "hour": "20:00",
+          "percent": 71
+        },
+        {
+          "hour": "21:00",
+          "percent": 55
+        },
+        {
+          "hour": "22:00",
+          "percent": 37
+        },
+        {
+          "hour": "23:00",
+          "percent": 22
+        },
+        {
+          "hour": "00:00",
+          "percent": 10
+        },
+        {
+          "hour": "01:00",
+          "percent": 2
+        },
+        {
+          "hour": "02:00",
+          "percent": 2
+        },
+        {
+          "hour": "03:00",
+          "percent": 2
+        }
+      ]
+    },
+    {
+      "Friday": [
+        {
+          "hour": "04:00",
+          "percent": 2
+        },
+        {
+          "hour": "05:00",
+          "percent": 1
+        },
+        {
+          "hour": "06:00",
+          "percent": 17
+        },
+        {
+          "hour": "07:00",
+          "percent": 39
+        },
+        {
+          "hour": "08:00",
+          "percent": 58
+        },
+        {
+          "hour": "09:00",
+          "percent": 67
+        },
+        {
+          "hour": "10:00",
+          "percent": 63
+        },
+        {
+          "hour": "11:00",
+          "percent": 51
+        },
+        {
+          "hour": "12:00",
+          "percent": 43
+        },
+        {
+          "hour": "13:00",
+          "percent": 41
+        },
+        {
+          "hour": "14:00",
+          "percent": 45
+        },
+        {
+          "hour": "15:00",
+          "percent": 52
+        },
+        {
+          "hour": "16:00",
+          "percent": 59
+        },
+        {
+          "hour": "17:00",
+          "percent": 63
+        },
+        {
+          "hour": "18:00",
+          "percent": 63
+        },
+        {
+          "hour": "19:00",
+          "percent": 58
+        },
+        {
+          "hour": "20:00",
+          "percent": 51
+        },
+        {
+          "hour": "21:00",
+          "percent": 41
+        },
+        {
+          "hour": "22:00",
+          "percent": 31
+        },
+        {
+          "hour": "23:00",
+          "percent": 20
+        },
+        {
+          "hour": "00:00",
+          "percent": 10
+        },
+        {
+          "hour": "01:00",
+          "percent": 2
+        },
+        {
+          "hour": "02:00",
+          "percent": 2
+        },
+        {
+          "hour": "03:00",
+          "percent": 2
+        }
+      ]
+    },
+    {
+      "Saturday": [
+        {
+          "hour": "04:00",
+          "percent": 2
+        },
+        {
+          "hour": "05:00",
+          "percent": 2
+        },
+        {
+          "hour": "06:00",
+          "percent": 2
+        },
+        {
+          "hour": "07:00",
+          "percent": 1
+        },
+        {
+          "hour": "08:00",
+          "percent": 21
+        },
+        {
+          "hour": "09:00",
+          "percent": 48
+        },
+        {
+          "hour": "10:00",
+          "percent": 67
+        },
+        {
+          "hour": "11:00",
+          "percent": 68
+        },
+        {
+          "hour": "12:00",
+          "percent": 54
+        },
+        {
+          "hour": "13:00",
+          "percent": 37
+        },
+        {
+          "hour": "14:00",
+          "percent": 36
+        },
+        {
+          "hour": "15:00",
+          "percent": 55
+        },
+        {
+          "hour": "16:00",
+          "percent": 82
+        },
+        {
+          "hour": "17:00",
+          "percent": 100
+        },
+        {
+          "hour": "18:00",
+          "percent": 95
+        },
+        {
+          "hour": "19:00",
+          "percent": 77
+        },
+        {
+          "hour": "20:00",
+          "percent": 59
+        },
+        {
+          "hour": "21:00",
+          "percent": 55
+        },
+        {
+          "hour": "22:00",
+          "percent": 62
+        },
+        {
+          "hour": "23:00",
+          "percent": 66
+        },
+        {
+          "hour": "00:00",
+          "percent": 58
+        },
+        {
+          "hour": "01:00",
+          "percent": 39
+        },
+        {
+          "hour": "02:00",
+          "percent": 16
+        },
+        {
+          "hour": "03:00",
+          "percent": 2
+        }
+      ]
+    }
+  ],
+  "relatedSearches": [
+    "pietro nenni tomba",
+    "pietro nenni biografia breve",
+    "pietro nenni partigiano",
+    "pietro nenni costituzione",
+    "pietro nenni tomba",
+    "pietro nenni biografia breve",
+    "pietro nenni partigiano",
+    "pietro nenni costituzione"
+  ],
+  "relateds": []
+}

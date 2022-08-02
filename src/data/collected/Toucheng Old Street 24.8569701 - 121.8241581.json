@@ -1,0 +1,953 @@
+{
+  "mainName": "Toucheng Old Street",
+  "slug": "toucheng-old-street",
+  "category": "Local histórico",
+  "locationInformation": {
+    "latitude": "24.8569701",
+    "longitude": "121.8241581"
+  },
+  "basicInformation": [
+    {
+      "label": "endereço",
+      "tooltip": "Copiar endereço",
+      "text": "Heping St, Toucheng Township, Yilan County, Taiwan 261",
+      "icon": "https://www.gstatic.com/images/icons/material/system_gm/1x/place_gm_blue_24dp.png"
+    },
+    {
+      "label": "endereço",
+      "tooltip": "Copiar endereço",
+      "text": "261宜蘭縣頭城鎮和平街",
+      "icon": "https://www.gstatic.com/images/icons/material/system_gm/1x/place_gm_blue_24dp.png"
+    },
+    {
+      "label": "Code",
+      "tooltip": "Copiar Plus Code",
+      "text": "VR4F+QM Jiaoxi Township, Condado de Yilan, Taiwan",
+      "icon": "https://maps.gstatic.com/mapfiles/maps_lite/images/2x/ic_plus_code.png"
+    }
+  ],
+  "ratingInformation": {
+    "basicRatingInformation": {
+      "averageGrade": 3.8,
+      "totalOfEvaluations": 7235
+    },
+    "ratingsByGrade": [
+      {
+        "grade": 5,
+        "totalRatings": 2337
+      },
+      {
+        "grade": 4,
+        "totalRatings": 2354
+      },
+      {
+        "grade": 3,
+        "totalRatings": 1822
+      },
+      {
+        "grade": 2,
+        "totalRatings": 441
+      },
+      {
+        "grade": 1,
+        "totalRatings": 281
+      }
+    ]
+  },
+  "ratingTags": [
+    {
+      "tag": "sensação",
+      "count": 3,
+      "tooltip": "sensação, mencionado em 3 avaliações"
+    },
+    {
+      "tag": "beco",
+      "count": 73,
+      "tooltip": "beco, mencionado em 73 avaliações"
+    },
+    {
+      "tag": "nostalgia",
+      "count": 73,
+      "tooltip": "nostalgia, mencionado em 73 avaliações"
+    },
+    {
+      "tag": "humanas",
+      "count": 34,
+      "tooltip": "humanas, mencionado em 34 avaliações"
+    },
+    {
+      "tag": "ambulantes",
+      "count": 29,
+      "tooltip": "ambulantes, mencionado em 29 avaliações"
+    },
+    {
+      "tag": "indústrias criativas",
+      "count": 24,
+      "tooltip": "indústrias criativas, mencionado em 24 avaliações"
+    },
+    {
+      "tag": "taiwan sob domínio japonês",
+      "count": 16,
+      "tooltip": "taiwan sob domínio japonês, mencionado em 16 avaliações"
+    }
+  ],
+  "featuredPhotos": [
+    "https://lh5.googleusercontent.com/p/AF1QipMcNN0sg8WpCyz2D7kZiswdL0rd4WnvmKhjsdA=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOWXE0YpQyzxY45EWLAlsPvyxppsPZtdpNjU4bD=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMQbWz0iZ_FYBsAqu3O8UnIGv7vsqCrlZYK7NXo=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPu4PI6PmIRkFsAHIy7kvu2j7zkJp4uywP7zV-L=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMw1_LWrNam-zd_YkEQzt4BegDv2EY4mS5CwxJf=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPBnqQ_C7gmXAMVJ52jAgShj8YWsBOxxP0jaZXf=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPYoI7ek8jZZmqIxYbW3YAHqCaxEqKXSlvj-ejk=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMcWIJMrFWGmfbQhOCEph9hXv4sksO0CHVw8GC8=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipO_uLhHGZlCCb2Mc82_Sn01OZBJ9RqF1GW5rkF9=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipN7GyR9Mh353SHhW-PjCFY37MtdkK099LjIfuDv=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMUudy-zvmYcK4758jpK6L3Sn7gwNGIs8wLMZuT=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipN4Yt5z8n_Ad3KtM_3zTHrQVr-WcLstINuOiDNN=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipN0uPN02YEqvlmk7e1bX755grXcpplBYjZNxG0=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMmpI__KRXq7hncDo2VtyTNtfG5nLcm9foyXCbi=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipONTwQEHWufqIUK3_SOstLc_dDjFxeJi5duzmvt=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOkKrqwUx5JvsXS5l_VRccvZ2A7U9CGyCdHVI0f=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipND9TGIBgsU1lV51RloWY7w7U7H6iLUzoB7iDfW=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNYsoxEdXgvBxO1GD-8R7m9uBAh6uJ_Zq296tuJ=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipM8VQCjaZtAgPQi4BIzRCAltzEnJXJosbyg-Zpa=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOxbxtEt1fcy_ktrrA0aO2jF6GBHPw09m6BVyfM=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipN03HW5Kkf2k4zY_4OozSgiVFsZCyf5nJYCkV-w=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOSpsneGj5mLu9_Ljne0JMLSX1epAbNL8XHwMXg=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOk7IgOnisi-9HMkt-YkBrp_72kux5oyjpbhm2P=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMjOcS9uivjeSRGtqtFul-w9fLM9V-lmZEx4CRE=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipM_3waIiJQptvsM6CazeDaWZCozNSo6f0YXrFg8=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipM80iri0SiRWnRYEyxLDHh9-PtUP6KWsBpWlWyg=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMG5wDZ4IfLOJGB795OeRg2VjgTwtjOH438hQUq=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMz3SYrU4l898IaPzPH6KVthgSJNYFQpzveNcSZ=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPdccFSx_2yRsLObZ4rJUNqgtXSsrFcWFONYPHO=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipP1m6eSCBmpDLTTyb4DLWS1t0qPHj3DHzAPMuQW=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipO0IPVMMuK5IF_hHo98pxq7aEypjbqWiSm3PrUT=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNaaNWSixUBhAb2AQxG6PS-DbLsSW06IewSQfmW=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOoVBjeNt1CX8ie9VJNW6tOJhdoF6DG7KVVmLQg=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOZ4rm_n8AmIqHGI-VqA4HpeuJUQXsEvodTm6hi=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipO5AfQVL98Q-xGylhNfv7ai8_0Vsm4a3Sn1EIpW=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMxlFH6IDP1uaJ6lWIgv4s48-GVvZpp8z3o_S89=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOh4KEe6CWJ07DVhdCjbCxz8sXU97h5z8Yu1vGn=w1024-h576-k-no"
+  ],
+  "topComments": [
+    {
+      "author": "郭明煌",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucqTKY05YXqm4qgoXiU9_7WQDa683XipxzqvgiS9Wpo=w36-h36-p-c0x00000000-rp-mo-ba7-br100",
+      "comment": "(Tradução do Google) A rua antiga foi renovada várias vezes em Toucheng. Desta vez, posso finalmente apreciar a aparência da rua antiga. A rua antiga parece ter sido renovada com intenção, e alguns elementos artísticos, rua da literatura, rua da arte, etc. Obviamente, toda a rua antiga tem alguns pontos cênicos esporádicos, que não me inspiraram muito entusiasmo. No entanto, o lado do portão sul da Yuanhe Street House e o antigo Hong Changxing , o novo Changxing Shuji e outros edifícios históricos ainda são atraentes.  (Original) 來頭城幾次老街都在整修,這次總算可以好好欣賞老街樣貌.老街看起來有用心整修,還設置了一些藝術元素,文學巷,藝術巷等等,不過加分效果似乎並不顯著,整條老街就是幾個零星景點,對我來說並沒激出多少熱情.不過南門這邊源合成街屋和老洪長興,新長興樹記等古蹟建築還是吸引人,是我個人比較喜歡的.",
+      "gradeComment": 3
+    },
+    {
+      "author": "木星",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucpA4rauwxgmvE7vwMknEULHgx0mr2R81WWpN7QJkg=w36-h36-p-c0x00000000-rp-mo-ba6-br100",
+      "comment": "(Tradução do Google) Andando pelas antigas ruas de Toucheng para digerir a comida no meu estômago, só tenho que tocar em Wen Qing para cultivar meu temperamento estilo da rua antiga. Há um templo terrestre no norte e sul da rua antiga. Já que você está aqui, visite e ore por bênçãos e bênçãos para que todos estejam seguros, saudáveis ​​e felizes.  (Original) 頭城老街 走走消化肚中的食物   硬是要跟文青沾上邊陶冶性情😂第一眼看到就是財神龜🐢一定要從頭摸到尾背要摸個夠本才能賺錢穩當當🤣不過我是真的蠻愛文創或老街的風貌  老街南北各有一座土地公廟  既然來了就好好參拜祈福  保佑大家都順利平安健康愉快",
+      "gradeComment": 5
+    },
+    {
+      "author": "黎志強",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucpXdysWazWILTxR-zl29P6cRVnPBbISYf6Dk5iraKk=w36-h36-p-c0x00000000-rp-mo-ba6-br100",
+      "comment": "(Tradução do Google) Toucheng é conhecida como \"a primeira cidade em Kailan\". É o local de desenvolvimento mais antigo em Yilan. Na era do transporte terrestre subdesenvolvido, as mercadorias só podiam ser transportadas para Toucheng por mar e depois transportadas para vários lugares através da \"Rua Touwei \". Esta \"Rua Touwei\" é a atual \"Rua da Paz\" de Toucheng Old Street. Os bons tempos não duraram muito, uma inundação repentina eclodiu em 1924, causando o assoreamento do porto. No mesmo ano, a ferrovia em Yilan foi aberta ao tráfego, o transporte marítimo foi substituído pelo transporte terrestre e o foco comercial mudou. A prosperidade de Toucheng Old Street tornou-se uma nuvem do passado. No entanto, é sempre difícil contar a felicidade e a desgraça do mundo.O declínio do desenvolvimento comercial permitiu que a aparência original da antiga rua fosse preservada. A rua velha tem o estilo Fujian do sul da Dinastia Qing, o estilo ocidental do período de ocupação japonesa ou o estilo eclético dos japoneses e ocidentais.Não é difícil imaginar a prosperidade e elegância da antiga rua! Em 2019, a Toucheng Old Street renasceu. A prefeitura selecionou dois becos e usou caligrafia, literatura, arte e outros elementos para criar \"becos de arte\" e \"becos de literatura\". Além das construções históricas com vicissitudes da vida, deixe que as ruas antigas também tenham pontos turísticos para você fazer check-in e tirar fotos na estação da comunidade.  (Original) 頭城有「開蘭第一城」之稱，是宜蘭最早開發之地，在陸路交通不發達的時代，貨物只能透過海運來到頭城，再經由「頭圍街」河道運送到各地，這「頭圍街」就是現今的頭城老街「和平街」。好景不長，1924年的一場山洪爆發，導致港口淤塞，同年宜蘭的鐵路通車，海運被陸運交通取代，商業重心轉移，頭城老街的繁華成了過往雲煙 。然而世間事的幸與不幸總難說得清楚，商業發展的沒落反而使老街的原貌得以保存。老街有從清朝傳來的閩南風格、也有日治時期的洋樓風格或者是和洋折衷風格，不難想像老街曾經的繁榮與風華絕代！ 2019年，頭城老街有了新的創生，鎮公所選定兩條巷弄，用書法、文學、美術等元素，打造成「藝術巷」、「文學巷」。讓老街除了有滄桑思幽的歷史建築，還有網美景點讓你在社群綱站上打卡拍照。",
+      "gradeComment": 5
+    },
+    {
+      "author": "流浪",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucpVvmT5Hxdi6PLhaV4u5S_O7E8hKKYc32T_p7Ib1MY=w36-h36-p-c0x00000000-rp-mo-ba6-br100",
+      "comment": "(Tradução do Google) A Rua Antiga de Toucheng é a Rua Heping da Cidade de Toucheng, Condado de Yilan, Taiwan, conhecida como a \"Primeira Rua de Kailan\" e o antigo nome de \"Rua Touwei\", a parte com cerca de 600 metros de comprimento entre o Santuário Toku. A antiga rua está mais ou menos na direção norte-sul. Foi desenvolvida com base no porto de Toucheng, a leste, e na estrada portuária que leva ao porto de Wushi, no norte. Costumava ser um próspero centro de distribuição de carga. A inundação afetou o declínio do porto de Toucheng e fatores como o transporte terrestre substituindo o transporte marítimo. Hoje, na antiga rua de Toucheng, existem vários locais históricos e templos antigos, além da preciosa figueira antiga. Agora, há muitos elementos inovadores da literatura, que injetam nova vida nas ruas antigas, entre no beco do arco-íris, no beco da literatura, no beco pintado, encontre um ângulo de foto único, venha para uma tigela de sorvete de flor de pedra legal, o recém-inaugurada Little White House, Realce a beleza da antiga rua. Finalmente, comi uma grande tigela de sorvete de leite condensado de morango na parede retrô, e o verão acabou.Toucheng Old Street é realmente diferente.  (Original) 頭城老街即有「開蘭第一街」之稱、古名「頭圍街」的臺灣宜蘭縣頭城鎮和平街，其範圍是從該街的「南門福德祠」到「北門福德祠」之間約長600公尺的部分。老街大致成南北走向，依靠東邊的頭城港與北邊通往烏石港的港道發展起來，曾為繁華的的貨物集散中心，但後來因為日治時期大正十三年（1924年）的洪水影響了頭城港與陸運取代海運等因素而沒落。今在頭城老街上，有數座古蹟與老廟，此外還有珍貴的老榕樹。現在多了好多文創新元素，讓老街注入新生命，鑽進彩虹小巷、文學小巷、彩繪小巷，尋找獨特的拍照角度，來一碗清涼的石花凍冰淇淋，新開幕的小白宮，讓老街的美更提升了。最後在復古牆面上吃一大碗草莓煉乳冰，暑意全消，頭城老街真的不一樣。",
+      "gradeComment": 5
+    },
+    {
+      "author": "Sundra Wei",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucrxa2kdIZ1qiBuLGzgZDBaXptLfoBFhwVaWRiMRe-4=w36-h36-p-c0x00000000-rp-mo-ba8-br100",
+      "comment": "(Tradução do Google) Há muito pensamento na arte da instalação, há tartarugas de riqueza, becos de arte, edifícios na época da ocupação japonesa, sentindo a prosperidade e emoção do passado, e o pequeno restaurante da Casa Branca com atraentes edifícios barrocos. O desenvolvimento cultural continua uma compreensão mais profunda.  (Original) 裝置藝術上有琢磨用心，有財神龜、藝術小巷、日據時代的建築、感受到曾經的繁華熱鬧，還有醒目巴洛克建築的小白宮餐廳，除了吃東西外能走走逛逛也是對文化發展延續更深一步的了解。",
+      "gradeComment": 3
+    },
+    {
+      "author": "霽錄台灣-李霽",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucpAkEVTNORmOpFPnTs-IsJ62xDf2mcxuqHrtnKKzQ=w36-h36-p-c0x00000000-rp-mo-ba8-br100",
+      "comment": "(Tradução do Google) Com uma história de mais de 200 anos, a Toucheng Old Street em Yilan tem o título de \"a primeira rua em Kailan\". É a rua mais antiga desenvolvida em Toucheng e a única rua antiga remanescente em Yilan. de Nanmen Ford A casa de rua a cerca de 600 metros entre o templo ancestral e o Templo Beimen Fude conserva os edifícios da Dinastia Qing e da era da ocupação japonesa, e vale a pena visitar.  (Original) 有200多年歷史的宜蘭頭城老街，有著「開蘭第一街」的稱號，是頭城最早發展的街道，也是宜蘭僅存的老街，頭城老街的範圍是從南門福德祠到北門福德祠之間約600公尺的街屋，保留了清朝與日治時代的建築，蠻值得細細欣賞遊覽",
+      "gradeComment": 5
+    },
+    {
+      "author": "方秀華",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucqVQhjWREDQ0VFL_393-ybD9tr3hAgT7NHQjF31ogk=w36-h36-p-c0x00000000-rp-mo-ba6-br100",
+      "comment": "(Tradução do Google) Costumo passar por Toucheng, mas esta é a primeira vez que vou às compras na Toucheng Old Street. Fica a apenas algumas centenas de metros. Há edifícios com uma longa história, becos cheios de atmosfera literária e jovem. Injetando frescura, não não demore muito para apreciar as surpresas que esta velha rua traz para as pessoas.  (Original) 常常經過頭城，卻是第一次進頭城老街逛逛，短短幾百公尺，有歷史悠久的建築，富有文青氣息的巷弄，經過繪畫的牆面或建築，為老街注入新鮮感，不需要太長時間就可以領略這個老街帶給人們的驚豔。",
+      "gradeComment": 5
+    },
+    {
+      "author": "Shelley Chang",
+      "photoAuthor": "https://lh3.googleusercontent.com/a/AItbvmlVsHIaTprPyBl6vDBxuZVJJJZfP6wvCH7lxB3yNyI=w36-h36-p-c0x00000000-rp-mo-ba6-br100",
+      "comment": "(Tradução do Google) Vá ao Porto de Pesca de Daxi para comprar frutos do mar, e passe pela rua velha para ver. Não há turistas em dias de chuva, e não há lojas. Apenas a área próxima à estação de trem vende lanches. Comum, pode-se ver que este lugar já foi próspero, muitas casas na rua velha têm vestígios do tempo, e a tarde tranquila mistura-se com um pouco de frescura de declínio...  (Original) 去大溪漁港買海鮮，經過老街來看看，下雨天沒什麼遊客，也沒見到什麼商鋪，只有火車站旁ㄧ區有賣小吃，滷肉大腸麵線大碗好吃，餡餅則普通，看得出這裡曾繁華，老街上很多房子有著歲月的痕跡，安靜的午後參雜著少許沒落的涼意…",
+      "gradeComment": 3
+    },
+    {
+      "author": "Chennie Yang",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucrS2scLYtM-E3QkR3FzKfKtwAS2r-jjlyHGUz98ZQ=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "(Tradução do Google) Há uma atmosfera muito humanista e um bairro antigo característico. É muito confortável caminhar devagar. Você pode caminhar por mais de uma hora. Se você for a outro mercado, poderá passear e experimentar a vida local!  (Original) 很有人文氣息，有特色的老街區，慢慢走真的很舒服，可以走一個小時多，如果再逛個市場可以再走走體驗當地生活！",
+      "gradeComment": 5
+    },
+    {
+      "author": "Joshua Tei",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucq1e0jTUaErInviC21Zc5_tHwJhN2KPs5vG4rffeOE=w36-h36-p-c0x00000000-rp-mo-ba6-br100",
+      "comment": "(Tradução do Google) Ao longo do caminho, existem muitas casas antigas características e ruelas de arte para passeios de lazer. A rota é provavelmente do Templo da Terra do Portão Norte até o Templo da Terra do Portão Sul.  (Original) 一路上有許多特色古宅與藝文小巷弄可以悠閒散步。 路線大概北從北門土地公廟到南門土地公廟間。",
+      "gradeComment": 5
+    }
+  ],
+  "peakHours": [
+    {
+      "Sunday": [
+        {
+          "hour": "04:00",
+          "percent": 7
+        },
+        {
+          "hour": "05:00",
+          "percent": 14
+        },
+        {
+          "hour": "06:00",
+          "percent": 23
+        },
+        {
+          "hour": "07:00",
+          "percent": 36
+        },
+        {
+          "hour": "08:00",
+          "percent": 53
+        },
+        {
+          "hour": "09:00",
+          "percent": 71
+        },
+        {
+          "hour": "10:00",
+          "percent": 86
+        },
+        {
+          "hour": "11:00",
+          "percent": 97
+        },
+        {
+          "hour": "12:00",
+          "percent": 100
+        },
+        {
+          "hour": "13:00",
+          "percent": 96
+        },
+        {
+          "hour": "14:00",
+          "percent": 88
+        },
+        {
+          "hour": "15:00",
+          "percent": 78
+        },
+        {
+          "hour": "16:00",
+          "percent": 69
+        },
+        {
+          "hour": "17:00",
+          "percent": 60
+        },
+        {
+          "hour": "18:00",
+          "percent": 49
+        },
+        {
+          "hour": "19:00",
+          "percent": 37
+        },
+        {
+          "hour": "20:00",
+          "percent": 25
+        },
+        {
+          "hour": "21:00",
+          "percent": 14
+        },
+        {
+          "hour": "22:00",
+          "percent": 6
+        },
+        {
+          "hour": "00:00",
+          "percent": 1
+        },
+        {
+          "hour": "01:00",
+          "percent": 1
+        },
+        {
+          "hour": "02:00",
+          "percent": 1
+        },
+        {
+          "hour": "03:00",
+          "percent": 3
+        }
+      ]
+    },
+    {
+      "Monday": [
+        {
+          "hour": "04:00",
+          "percent": 1
+        },
+        {
+          "hour": "05:00",
+          "percent": 1
+        },
+        {
+          "hour": "06:00",
+          "percent": 8
+        },
+        {
+          "hour": "07:00",
+          "percent": 17
+        },
+        {
+          "hour": "08:00",
+          "percent": 28
+        },
+        {
+          "hour": "09:00",
+          "percent": 39
+        },
+        {
+          "hour": "10:00",
+          "percent": 47
+        },
+        {
+          "hour": "11:00",
+          "percent": 50
+        },
+        {
+          "hour": "12:00",
+          "percent": 50
+        },
+        {
+          "hour": "13:00",
+          "percent": 47
+        },
+        {
+          "hour": "14:00",
+          "percent": 43
+        },
+        {
+          "hour": "15:00",
+          "percent": 40
+        },
+        {
+          "hour": "16:00",
+          "percent": 37
+        },
+        {
+          "hour": "17:00",
+          "percent": 33
+        },
+        {
+          "hour": "18:00",
+          "percent": 28
+        },
+        {
+          "hour": "19:00",
+          "percent": 21
+        },
+        {
+          "hour": "20:00",
+          "percent": 14
+        },
+        {
+          "hour": "21:00",
+          "percent": 7
+        },
+        {
+          "hour": "22:00",
+          "percent": 1
+        },
+        {
+          "hour": "23:00",
+          "percent": 1
+        },
+        {
+          "hour": "00:00",
+          "percent": 1
+        },
+        {
+          "hour": "01:00",
+          "percent": 1
+        },
+        {
+          "hour": "02:00",
+          "percent": 1
+        },
+        {
+          "hour": "03:00",
+          "percent": 1
+        }
+      ]
+    },
+    {
+      "Tuesday": [
+        {
+          "hour": "04:00",
+          "percent": 1
+        },
+        {
+          "hour": "05:00",
+          "percent": 1
+        },
+        {
+          "hour": "06:00",
+          "percent": 7
+        },
+        {
+          "hour": "07:00",
+          "percent": 15
+        },
+        {
+          "hour": "08:00",
+          "percent": 25
+        },
+        {
+          "hour": "09:00",
+          "percent": 35
+        },
+        {
+          "hour": "10:00",
+          "percent": 43
+        },
+        {
+          "hour": "11:00",
+          "percent": 46
+        },
+        {
+          "hour": "12:00",
+          "percent": 45
+        },
+        {
+          "hour": "13:00",
+          "percent": 41
+        },
+        {
+          "hour": "14:00",
+          "percent": 36
+        },
+        {
+          "hour": "15:00",
+          "percent": 32
+        },
+        {
+          "hour": "16:00",
+          "percent": 28
+        },
+        {
+          "hour": "17:00",
+          "percent": 25
+        },
+        {
+          "hour": "18:00",
+          "percent": 21
+        },
+        {
+          "hour": "19:00",
+          "percent": 16
+        },
+        {
+          "hour": "20:00",
+          "percent": 10
+        },
+        {
+          "hour": "21:00",
+          "percent": 5
+        },
+        {
+          "hour": "23:00",
+          "percent": 1
+        },
+        {
+          "hour": "00:00",
+          "percent": 1
+        },
+        {
+          "hour": "01:00",
+          "percent": 1
+        },
+        {
+          "hour": "02:00",
+          "percent": 1
+        },
+        {
+          "hour": "03:00",
+          "percent": 1
+        }
+      ]
+    },
+    {
+      "Wednesday": [
+        {
+          "hour": "04:00",
+          "percent": 1
+        },
+        {
+          "hour": "05:00",
+          "percent": 2
+        },
+        {
+          "hour": "06:00",
+          "percent": 9
+        },
+        {
+          "hour": "07:00",
+          "percent": 17
+        },
+        {
+          "hour": "08:00",
+          "percent": 26
+        },
+        {
+          "hour": "09:00",
+          "percent": 33
+        },
+        {
+          "hour": "10:00",
+          "percent": 37
+        },
+        {
+          "hour": "11:00",
+          "percent": 38
+        },
+        {
+          "hour": "12:00",
+          "percent": 36
+        },
+        {
+          "hour": "13:00",
+          "percent": 34
+        },
+        {
+          "hour": "14:00",
+          "percent": 33
+        },
+        {
+          "hour": "15:00",
+          "percent": 32
+        },
+        {
+          "hour": "16:00",
+          "percent": 31
+        },
+        {
+          "hour": "17:00",
+          "percent": 28
+        },
+        {
+          "hour": "18:00",
+          "percent": 23
+        },
+        {
+          "hour": "19:00",
+          "percent": 17
+        },
+        {
+          "hour": "20:00",
+          "percent": 10
+        },
+        {
+          "hour": "21:00",
+          "percent": 4
+        },
+        {
+          "hour": "22:00",
+          "percent": 1
+        },
+        {
+          "hour": "23:00",
+          "percent": 1
+        },
+        {
+          "hour": "00:00",
+          "percent": 1
+        },
+        {
+          "hour": "01:00",
+          "percent": 1
+        },
+        {
+          "hour": "02:00",
+          "percent": 1
+        },
+        {
+          "hour": "03:00",
+          "percent": 1
+        }
+      ]
+    },
+    {
+      "Thursday": [
+        {
+          "hour": "04:00",
+          "percent": 1
+        },
+        {
+          "hour": "06:00",
+          "percent": 5
+        },
+        {
+          "hour": "08:00",
+          "percent": 23
+        },
+        {
+          "hour": "09:00",
+          "percent": 32
+        },
+        {
+          "hour": "10:00",
+          "percent": 38
+        },
+        {
+          "hour": "11:00",
+          "percent": 40
+        },
+        {
+          "hour": "12:00",
+          "percent": 39
+        },
+        {
+          "hour": "13:00",
+          "percent": 35
+        },
+        {
+          "hour": "14:00",
+          "percent": 32
+        },
+        {
+          "hour": "15:00",
+          "percent": 31
+        },
+        {
+          "hour": "16:00",
+          "percent": 30
+        },
+        {
+          "hour": "17:00",
+          "percent": 28
+        },
+        {
+          "hour": "18:00",
+          "percent": 24
+        },
+        {
+          "hour": "19:00",
+          "percent": 18
+        },
+        {
+          "hour": "20:00",
+          "percent": 11
+        },
+        {
+          "hour": "21:00",
+          "percent": 4
+        },
+        {
+          "hour": "22:00",
+          "percent": 1
+        },
+        {
+          "hour": "23:00",
+          "percent": 1
+        },
+        {
+          "hour": "00:00",
+          "percent": 1
+        },
+        {
+          "hour": "01:00",
+          "percent": 1
+        },
+        {
+          "hour": "02:00",
+          "percent": 1
+        },
+        {
+          "hour": "03:00",
+          "percent": 1
+        }
+      ]
+    },
+    {
+      "Friday": [
+        {
+          "hour": "04:00",
+          "percent": 1
+        },
+        {
+          "hour": "06:00",
+          "percent": 6
+        },
+        {
+          "hour": "07:00",
+          "percent": 15
+        },
+        {
+          "hour": "08:00",
+          "percent": 26
+        },
+        {
+          "hour": "09:00",
+          "percent": 36
+        },
+        {
+          "hour": "10:00",
+          "percent": 43
+        },
+        {
+          "hour": "11:00",
+          "percent": 45
+        },
+        {
+          "hour": "12:00",
+          "percent": 44
+        },
+        {
+          "hour": "13:00",
+          "percent": 41
+        },
+        {
+          "hour": "14:00",
+          "percent": 38
+        },
+        {
+          "hour": "15:00",
+          "percent": 37
+        },
+        {
+          "hour": "16:00",
+          "percent": 37
+        },
+        {
+          "hour": "17:00",
+          "percent": 35
+        },
+        {
+          "hour": "18:00",
+          "percent": 30
+        },
+        {
+          "hour": "19:00",
+          "percent": 23
+        },
+        {
+          "hour": "20:00",
+          "percent": 16
+        },
+        {
+          "hour": "21:00",
+          "percent": 10
+        },
+        {
+          "hour": "22:00",
+          "percent": 6
+        },
+        {
+          "hour": "23:00",
+          "percent": 4
+        },
+        {
+          "hour": "00:00",
+          "percent": 2
+        },
+        {
+          "hour": "02:00",
+          "percent": 1
+        },
+        {
+          "hour": "03:00",
+          "percent": 1
+        }
+      ]
+    },
+    {
+      "Saturday": [
+        {
+          "hour": "04:00",
+          "percent": 2
+        },
+        {
+          "hour": "05:00",
+          "percent": 7
+        },
+        {
+          "hour": "06:00",
+          "percent": 16
+        },
+        {
+          "hour": "07:00",
+          "percent": 29
+        },
+        {
+          "hour": "08:00",
+          "percent": 45
+        },
+        {
+          "hour": "09:00",
+          "percent": 61
+        },
+        {
+          "hour": "10:00",
+          "percent": 74
+        },
+        {
+          "hour": "11:00",
+          "percent": 82
+        },
+        {
+          "hour": "12:00",
+          "percent": 85
+        },
+        {
+          "hour": "13:00",
+          "percent": 85
+        },
+        {
+          "hour": "14:00",
+          "percent": 83
+        },
+        {
+          "hour": "15:00",
+          "percent": 80
+        },
+        {
+          "hour": "16:00",
+          "percent": 74
+        },
+        {
+          "hour": "17:00",
+          "percent": 66
+        },
+        {
+          "hour": "18:00",
+          "percent": 56
+        },
+        {
+          "hour": "19:00",
+          "percent": 44
+        },
+        {
+          "hour": "20:00",
+          "percent": 32
+        },
+        {
+          "hour": "21:00",
+          "percent": 23
+        },
+        {
+          "hour": "22:00",
+          "percent": 16
+        },
+        {
+          "hour": "23:00",
+          "percent": 10
+        },
+        {
+          "hour": "00:00",
+          "percent": 6
+        },
+        {
+          "hour": "01:00",
+          "percent": 3
+        },
+        {
+          "hour": "02:00",
+          "percent": 1
+        }
+      ]
+    }
+  ],
+  "relatedSearches": null,
+  "relateds": [
+    {
+      "mainName": "頭城十三行",
+      "url": null
+    },
+    {
+      "mainName": "頭城老街南門路出入口",
+      "url": null
+    },
+    {
+      "mainName": "Toucheng Night Market",
+      "url": null
+    },
+    {
+      "mainName": "老街懷舊食堂",
+      "url": null
+    },
+    {
+      "mainName": "Dongshan Old Street",
+      "url": null
+    },
+    {
+      "mainName": "老街麻辣",
+      "url": null
+    },
+    {
+      "mainName": "Li Ze Jian Old Street",
+      "url": null
+    },
+    {
+      "mainName": "鳳萊市-頭城老街故事館",
+      "url": null
+    },
+    {
+      "mainName": "Lanyang Museum",
+      "url": null
+    },
+    {
+      "mainName": "Qing Dynasty Wushi Harbor Relics",
+      "url": null
+    },
+    {
+      "mainName": "Toucheng Sports Park",
+      "url": null
+    },
+    {
+      "mainName": "頭城老街南門市集",
+      "url": null
+    },
+    {
+      "mainName": "頭城老街涼亭",
+      "url": null
+    },
+    {
+      "mainName": "頭城搶孤民俗教育園區",
+      "url": null
+    },
+    {
+      "mainName": "Houdongkeng Waterfall",
+      "url": null
+    },
+    {
+      "mainName": "頭圍港遺址",
+      "url": null
+    },
+    {
+      "mainName": "雙獅海灘",
+      "url": null
+    },
+    {
+      "mainName": "外澳雙獅",
+      "url": null
+    },
+    {
+      "mainName": "Toucheng Seaside Forest Park",
+      "url": null
+    },
+    {
+      "mainName": "宜蘭九芎埕",
+      "url": null
+    }
+  ],
+  "editMode": false
+}

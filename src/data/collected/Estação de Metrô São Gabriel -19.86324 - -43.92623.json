@@ -1,0 +1,969 @@
+{
+  "mainName": "Estação de Metrô São Gabriel",
+  "slug": "estacao-de-metro-sao-gabriel",
+  "category": "Estação de metrô",
+  "locationInformation": {
+    "latitude": "-19.86324",
+    "longitude": "-43.92623"
+  },
+  "basicInformation": [
+    {
+      "label": "endereço",
+      "tooltip": "Copiar endereço",
+      "text": "Av. Cristiano Machado, 5600 - Vila Suzana, Belo Horizonte - MG",
+      "icon": "https://www.gstatic.com/images/icons/material/system_gm/1x/place_gm_blue_24dp.png"
+    },
+    {
+      "label": "Code",
+      "tooltip": "Copiar Plus Code",
+      "text": "43PF+PG Vila Suzana, Belo Horizonte - MG",
+      "icon": "https://maps.gstatic.com/mapfiles/maps_lite/images/2x/ic_plus_code.png"
+    }
+  ],
+  "ratingInformation": {
+    "basicRatingInformation": {
+      "averageGrade": 3.8,
+      "totalOfEvaluations": 305
+    },
+    "ratingsByGrade": [
+      {
+        "grade": 5,
+        "totalRatings": 123
+      },
+      {
+        "grade": 4,
+        "totalRatings": 64
+      },
+      {
+        "grade": 3,
+        "totalRatings": 64
+      },
+      {
+        "grade": 2,
+        "totalRatings": 27
+      },
+      {
+        "grade": 1,
+        "totalRatings": 27
+      }
+    ]
+  },
+  "ratingTags": [
+    {
+      "tag": "ônibus",
+      "count": 29,
+      "tooltip": "ônibus, mencionado em 29 avaliações"
+    },
+    {
+      "tag": "organizado",
+      "count": 11,
+      "tooltip": "organizado, mencionado em 11 avaliações"
+    },
+    {
+      "tag": "segurança",
+      "count": 9,
+      "tooltip": "segurança, mencionado em 9 avaliações"
+    },
+    {
+      "tag": "deficientes",
+      "count": 6,
+      "tooltip": "deficientes, mencionado em 6 avaliações"
+    },
+    {
+      "tag": "região metropolitana",
+      "count": 5,
+      "tooltip": "região metropolitana, mencionado em 5 avaliações"
+    },
+    {
+      "tag": "lanchonetes",
+      "count": 5,
+      "tooltip": "lanchonetes, mencionado em 5 avaliações"
+    },
+    {
+      "tag": "usuários",
+      "count": 5,
+      "tooltip": "usuários, mencionado em 5 avaliações"
+    },
+    {
+      "tag": "bairro",
+      "count": 5,
+      "tooltip": "bairro, mencionado em 5 avaliações"
+    },
+    {
+      "tag": "sentar",
+      "count": 4,
+      "tooltip": "sentar, mencionado em 4 avaliações"
+    },
+    {
+      "tag": "banheiro",
+      "count": 4,
+      "tooltip": "banheiro, mencionado em 4 avaliações"
+    }
+  ],
+  "featuredPhotos": [
+    "https://lh5.googleusercontent.com/p/AF1QipPX0G0uIvrhtAw4o39l_Kx_th3E_RkJjxIyGUOz=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMC6KJJt6DtHtBveBl4kB1245-VMZ7AY6ylCVua=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNSnZTHhTjOqj5r7huw6xTwaFVbF-pJjx0dBbBn=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOpamfKbRnqzQJkdjR-OmXuX_swung-5PYQveKG=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipP6v1S4Ub143f3BAdcqbZuz8EAgF3pGYcAxK_Et=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMdVRYS94u1VeaHMLHzf9UqEKuHFphlEWIk5Qk0=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNV_n0r2zGP2gdu_cTM523RSBMyUkLXPGc_hYTF=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPT1JSgRRZfO9VgM2Suyueo5kinJbqQnb2B-CW-=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNtYN83AqPykzK_-vjBCRl8VXl4CIbAVYyRupOG=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOnYmjczpOm80aeAmG3YHCTyvvO4jS2Ei8hxLu2=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNU-LS3KHiHRePSJpt95wjbDZ0wdksh8V9gCdMP=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPMrFuOgvtOCHjzIwOHw9ihR8OAtzqeysxjxNJy=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOfHdkQHOuVIIs2CxwMtSHXkyoqv9Z9Kj6sVfez=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNQAM18uugOnLss4d2S2y7lkGM9UpZ80CXfeK3T=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPHmW9Pyw-Sb_1gCE_fH9kXes2LyKUlwhc9xUHc=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipODB96xdez5sB_jclY5m-UQQ_YKSyqPkZfIkZpo=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPtIwAIVs4OieLu9-EXWvHJ_2GAPZnhySCHdbsJ=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipODsHzFNRGu8fsUMjBOdekz88vrGjNdihzvM0UP=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOKgqgBmEPKljd6pe1gB1vXB4dJ65ikcKKC_-Tp=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMsLSVK5ru21wmcHwf5H42dn3wjzXrAzeKy2_DH=w1024-h576-k-no"
+  ],
+  "topComments": [
+    {
+      "author": "CIRLEIDE TEIXEIRA D MORAIS",
+      "photoAuthor": "https://lh3.googleusercontent.com/a/AItbvmkzC0t-LDJKFCc4S9ea6-7uhCIDUuMsScs0aojX=w36-h36-p-c0x00000000-rp-mo-br100",
+      "comment": "Bom dia gostaria de uma resposta, a respeito da fila do 85, ela começa é no banco onde tem um poste? Ou onde tem um banco comprido? Pq todo dia no intervalo de 06:00 às 06:20..... Gera confusão, uma tremenda falta de respeito.....falta um cartaz, ou correntes, indicando o início da fila, pq os responsáveis para auxiliar os usuários da estação, nunca aparecem .....povo ignorante, não respeitam nem idosos, onde recorro, para resolver minha indignação?",
+      "gradeComment": 2
+    },
+    {
+      "author": "Julio Souza",
+      "photoAuthor": "https://lh3.googleusercontent.com/a/AItbvml0V-dwk6YOYgJFab20ZIFY95CdjUKoUa_gIP3i=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "Estação de metrô e ônibus da região nordeste de Belo Horizonte, situado no bairro São Gabriel. Possui banheiro gratuito, escada rolante, elevador e varias lanchonetes com produtos com preços acessíveis. Estação com pouca segurança e boa estrutura para pessoas deficientes.",
+      "gradeComment": 3
+    },
+    {
+      "author": "Argentino lourenço",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucqH4FumAJkVQf3QZXOUljkOajrleCV9SLZWnKoFWrE=w36-h36-p-c0x00000000-rp-mo-br100",
+      "comment": "Estava são Gabriel é uma gambiarra puchadinho.gastou dinheiro do povo  obra mau pranejada . projeto de estagiário.od ônibus para fora da estação,os passageiro tem que saltar as vias correndo risco de vida um",
+      "gradeComment": 1
+    },
+    {
+      "author": "Deny sje",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucp9NbyE-xVQ4i0riM60XuTwID_HAMpoTBXJgcSL=w36-h36-p-c0x00000000-rp-mo-ba2-br100",
+      "comment": "Só falta ter mais ônibus disponível pra ser um lugar melhor",
+      "gradeComment": 4
+    },
+    {
+      "author": "Marcelo Junio Alves Alves",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucrPQF3T3_5UFRPGtwFiOuxSAxItWzRN02C9Xi9Gpw=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "Muito bom es tão fazendo muitas Refomas nó local espero que venha ficar bom!!!",
+      "gradeComment": 5
+    },
+    {
+      "author": "Magda Suely",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucrsLz41yM7Lmtu9B8lq-gHe184a03NVfIpqByCk=w36-h36-p-c0x00000000-rp-mo-ba3-br100",
+      "comment": "Muito limpa a estação viu o horário estava correto porém muito cheio lotadaso",
+      "gradeComment": 4
+    },
+    {
+      "author": "Jogatina Malada",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucplotl2UPXcjZJRJ4lDc74iq_H5d2zhw5e659lGjg=w36-h36-p-c0x00000000-rp-mo-br100",
+      "comment": "Quando estava indo para pegar meu ônibus na estação São Gabriel, o segurança da estação começou a me encarar ate pensei que estava fazendo coisa errada de tanto que olhou para mim. Ai fui esperar o meu ônibus, o segurança começou a olhar para mim o tempo todo. Queria saber se com todas pessoas ele fazem isso? Porque o tempo que ele perdeu tempo comigo, um suspeito poderia passar despercebido.",
+      "gradeComment": 1
+    },
+    {
+      "author": "Aline Cristina",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucrdos7ZMuIL7wXN1R3PQGYrRIFo4Sb-mfTlyh2f7bI=w36-h36-p-c0x00000000-rp-mo-ba2-br100",
+      "comment": "Demora demais sem contar que faça chuva ao faça sol nos usuários saímos prejudicados seja pela chuva que molha os bancos seja pelo sol que bate na cara da gente que não tem como ficar sentado nos bancos além do mais o ônibus 4165 que a gente morfa 1h e 30 minutos nos dias úteis por que eles não disponibilizam mais ônibus O DR tá de parabéns serviço de péssima qualidade",
+      "gradeComment": 1
+    },
+    {
+      "author": "Wedson Alves",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucrsiMbRVckginJBQJFLfZWT0anS8G5GJPOLWT7P=w36-h36-p-c0x00000000-rp-mo-ba6-br100",
+      "comment": "Rápido, e não tão cheio pelo menos no horário que eu estive lá.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Josimar das Graças",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucpVF7OjgWeXkeAVbZ7wtvVEftnj1yNPda9XPE19uA=w36-h36-p-c0x00000000-rp-mo-ba5-br100",
+      "comment": "Lugar muito cheio, com pouca iluminação e meio bagunçado.",
+      "gradeComment": 3
+    },
+    {
+      "author": "GustavoAlves Oliveira",
+      "photoAuthor": "https://lh3.googleusercontent.com/a/AItbvmnkhrqPCkxWdwe4QUkYVc0xiUZOeMs3gbrwip3L8g=w36-h36-p-c0x00000000-rp-mo-ba2-br100",
+      "comment": "Muitas opções de ônibus, ponto central.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Camila Assis",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucqb8Q3EO-l-25xY4jXqcR9myZ7okkops_3uoH6AzgQ=w36-h36-p-c0x00000000-rp-mo-ba2-br100",
+      "comment": "Falta mais organização e ascenso com obstáculos na saída",
+      "gradeComment": 3
+    },
+    {
+      "author": "Adriana Cristina",
+      "photoAuthor": "https://lh3.googleusercontent.com/a/AItbvmku6iaJi4M3E0u7tPwytzXBjntqSqlS1RqH27Wl=w36-h36-p-c0x00000000-rp-mo-ba2-br100",
+      "comment": "Estação muito confusa, mau sinalizada.",
+      "gradeComment": 2
+    },
+    {
+      "author": "DJ DENTINHO LOPES",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucopz968QV3l1D6YQDKI57SdbCStcjUl3F0furB0=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "Estação limpa e organizada , pessoal do metrô muito educado e profissional também ... Possui banheiro e acesso a pessoas com deficiência .. Nas proximidades existe lanchonetes para alimentação.. também existe acesso aos terminais de ônibus , tanto o municipal e os metropolitanos, ou seja , acesso a toda a cidade e região metropolitana de Belo Horizonte",
+      "gradeComment": 5
+    },
+    {
+      "author": "Gabriely Carolina",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucovPORO_WDGEhM61X5uw8cbC2XMuIEvAg5sIB_wzw=w36-h36-p-c0x00000000-rp-mo-br100",
+      "comment": "Muito fácil acesso muito bom",
+      "gradeComment": 5
+    },
+    {
+      "author": "Ana Luiza Coelho",
+      "photoAuthor": "https://lh3.googleusercontent.com/a/AItbvmk9QQ4dyDOdlrm0e_uC76DH1MslgvXQZcXmnm9l=w36-h36-p-c0x00000000-rp-mo-ba2-br100",
+      "comment": "Está tendo uma obra do lado de fora e dificultou muito o acesso! Passarela atual é de madeira e nada da obrs acabar. Fora isso tem bastante opções de ônibus mas com horários reduzidos.",
+      "gradeComment": 3
+    },
+    {
+      "author": "Sandrinha Caldeira",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucqvCBOTlTQ_Cjww-iDNQ5CzRvIr-lzzAjnKK7NbLg=w36-h36-p-c0x00000000-rp-mo-ba2-br100",
+      "comment": "Todas as vezes que precisei  resolveu meu problema",
+      "gradeComment": 5
+    },
+    {
+      "author": "Ingrid Nunes",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucqnSLOj55rGeBJnD0FIlURF8gq-gXuZYN40wUIy0Q=w36-h36-p-c0x00000000-rp-mo-ba3-br100",
+      "comment": "Desorganizada , não tem quem informe sobre os ônibus direito , ônibus sempre atrasado e lotado , além de que não respeitam em NADA. O distanciamento por conta do vírus! Uma falta de respeito com o usuário.",
+      "gradeComment": 1
+    },
+    {
+      "author": "Jersica Meira",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucrrQVis9GJsJ5-lREqWtMwZkQI7kU6VzN3nKTpmOw=w36-h36-p-c0x00000000-rp-mo-br100",
+      "comment": "Nas plataformas da estação São Gabriel não tem uma fiscalização que preste para os preferenciais. Ninguém respeita as entradas dos idosos, deficientes e gestantes. Todos os dias pego o 82D sentido Área hospitalar e não fica um fiscal na fila de preferência, fica uma bagunça pq ninguém respeita.  Deveriam priorizar esse atendimento, já vi pessoas empurrando idosos só pra poderem  tomar entrar, os responsáveis pela ESTAÇÃO SÃO GABRIEL deveriam  vergonha na cara e fazer algo por essas pessoas. Infelizmente LEIS não funciona no nosso PAÍS E ISSO É UMA VERGONHA.",
+      "gradeComment": 1
+    },
+    {
+      "author": "Orlando Alves castoura Alves",
+      "photoAuthor": "https://lh3.googleusercontent.com/a/AItbvmkoUS0yzBEsSlCDV3b7XjKP53c0o9xtBrNYCp85=w36-h36-p-c0x00000000-rp-mo-ba3-br100",
+      "comment": "Pego ônibus lá todo dia 😂😂😂",
+      "gradeComment": 5
+    }
+  ],
+  "peakHours": [
+    {
+      "Sunday": [
+        {
+          "hour": "04:00",
+          "percent": 2
+        },
+        {
+          "hour": "05:00",
+          "percent": 7
+        },
+        {
+          "hour": "06:00",
+          "percent": 11
+        },
+        {
+          "hour": "07:00",
+          "percent": 15
+        },
+        {
+          "hour": "08:00",
+          "percent": 16
+        },
+        {
+          "hour": "09:00",
+          "percent": 15
+        },
+        {
+          "hour": "10:00",
+          "percent": 13
+        },
+        {
+          "hour": "11:00",
+          "percent": 12
+        },
+        {
+          "hour": "12:00",
+          "percent": 12
+        },
+        {
+          "hour": "13:00",
+          "percent": 14
+        },
+        {
+          "hour": "14:00",
+          "percent": 15
+        },
+        {
+          "hour": "15:00",
+          "percent": 17
+        },
+        {
+          "hour": "16:00",
+          "percent": 19
+        },
+        {
+          "hour": "17:00",
+          "percent": 21
+        },
+        {
+          "hour": "18:00",
+          "percent": 21
+        },
+        {
+          "hour": "19:00",
+          "percent": 20
+        },
+        {
+          "hour": "20:00",
+          "percent": 17
+        },
+        {
+          "hour": "21:00",
+          "percent": 12
+        },
+        {
+          "hour": "22:00",
+          "percent": 7
+        },
+        {
+          "hour": "23:00",
+          "percent": 3
+        }
+      ]
+    },
+    {
+      "Monday": [
+        {
+          "hour": "04:00",
+          "percent": 9
+        },
+        {
+          "hour": "05:00",
+          "percent": 41
+        },
+        {
+          "hour": "06:00",
+          "percent": 86
+        },
+        {
+          "hour": "07:00",
+          "percent": 95
+        },
+        {
+          "hour": "08:00",
+          "percent": 59
+        },
+        {
+          "hour": "09:00",
+          "percent": 27
+        },
+        {
+          "hour": "10:00",
+          "percent": 27
+        },
+        {
+          "hour": "11:00",
+          "percent": 43
+        },
+        {
+          "hour": "12:00",
+          "percent": 46
+        },
+        {
+          "hour": "13:00",
+          "percent": 36
+        },
+        {
+          "hour": "14:00",
+          "percent": 32
+        },
+        {
+          "hour": "15:00",
+          "percent": 42
+        },
+        {
+          "hour": "16:00",
+          "percent": 61
+        },
+        {
+          "hour": "17:00",
+          "percent": 77
+        },
+        {
+          "hour": "18:00",
+          "percent": 84
+        },
+        {
+          "hour": "19:00",
+          "percent": 77
+        },
+        {
+          "hour": "20:00",
+          "percent": 61
+        },
+        {
+          "hour": "21:00",
+          "percent": 40
+        },
+        {
+          "hour": "22:00",
+          "percent": 22
+        },
+        {
+          "hour": "23:00",
+          "percent": 9
+        },
+        {
+          "hour": "00:00",
+          "percent": 2
+        }
+      ]
+    },
+    {
+      "Tuesday": [
+        {
+          "hour": "04:00",
+          "percent": 9
+        },
+        {
+          "hour": "05:00",
+          "percent": 44
+        },
+        {
+          "hour": "06:00",
+          "percent": 92
+        },
+        {
+          "hour": "07:00",
+          "percent": 100
+        },
+        {
+          "hour": "08:00",
+          "percent": 58
+        },
+        {
+          "hour": "09:00",
+          "percent": 27
+        },
+        {
+          "hour": "10:00",
+          "percent": 29
+        },
+        {
+          "hour": "11:00",
+          "percent": 43
+        },
+        {
+          "hour": "12:00",
+          "percent": 46
+        },
+        {
+          "hour": "13:00",
+          "percent": 37
+        },
+        {
+          "hour": "14:00",
+          "percent": 33
+        },
+        {
+          "hour": "15:00",
+          "percent": 43
+        },
+        {
+          "hour": "16:00",
+          "percent": 62
+        },
+        {
+          "hour": "17:00",
+          "percent": 79
+        },
+        {
+          "hour": "18:00",
+          "percent": 87
+        },
+        {
+          "hour": "19:00",
+          "percent": 81
+        },
+        {
+          "hour": "20:00",
+          "percent": 64
+        },
+        {
+          "hour": "21:00",
+          "percent": 43
+        },
+        {
+          "hour": "22:00",
+          "percent": 24
+        },
+        {
+          "hour": "23:00",
+          "percent": 10
+        },
+        {
+          "hour": "00:00",
+          "percent": 2
+        }
+      ]
+    },
+    {
+      "Wednesday": [
+        {
+          "hour": "04:00",
+          "percent": 9
+        },
+        {
+          "hour": "05:00",
+          "percent": 44
+        },
+        {
+          "hour": "06:00",
+          "percent": 92
+        },
+        {
+          "hour": "07:00",
+          "percent": 99
+        },
+        {
+          "hour": "08:00",
+          "percent": 59
+        },
+        {
+          "hour": "09:00",
+          "percent": 27
+        },
+        {
+          "hour": "10:00",
+          "percent": 30
+        },
+        {
+          "hour": "11:00",
+          "percent": 44
+        },
+        {
+          "hour": "12:00",
+          "percent": 46
+        },
+        {
+          "hour": "13:00",
+          "percent": 38
+        },
+        {
+          "hour": "14:00",
+          "percent": 34
+        },
+        {
+          "hour": "15:00",
+          "percent": 43
+        },
+        {
+          "hour": "16:00",
+          "percent": 63
+        },
+        {
+          "hour": "17:00",
+          "percent": 81
+        },
+        {
+          "hour": "18:00",
+          "percent": 90
+        },
+        {
+          "hour": "19:00",
+          "percent": 83
+        },
+        {
+          "hour": "20:00",
+          "percent": 65
+        },
+        {
+          "hour": "21:00",
+          "percent": 43
+        },
+        {
+          "hour": "22:00",
+          "percent": 23
+        },
+        {
+          "hour": "23:00",
+          "percent": 9
+        },
+        {
+          "hour": "00:00",
+          "percent": 2
+        }
+      ]
+    },
+    {
+      "Thursday": [
+        {
+          "hour": "04:00",
+          "percent": 7
+        },
+        {
+          "hour": "05:00",
+          "percent": 37
+        },
+        {
+          "hour": "06:00",
+          "percent": 83
+        },
+        {
+          "hour": "07:00",
+          "percent": 91
+        },
+        {
+          "hour": "08:00",
+          "percent": 54
+        },
+        {
+          "hour": "09:00",
+          "percent": 25
+        },
+        {
+          "hour": "10:00",
+          "percent": 27
+        },
+        {
+          "hour": "11:00",
+          "percent": 40
+        },
+        {
+          "hour": "12:00",
+          "percent": 42
+        },
+        {
+          "hour": "13:00",
+          "percent": 34
+        },
+        {
+          "hour": "14:00",
+          "percent": 31
+        },
+        {
+          "hour": "15:00",
+          "percent": 41
+        },
+        {
+          "hour": "16:00",
+          "percent": 57
+        },
+        {
+          "hour": "17:00",
+          "percent": 72
+        },
+        {
+          "hour": "18:00",
+          "percent": 78
+        },
+        {
+          "hour": "19:00",
+          "percent": 72
+        },
+        {
+          "hour": "20:00",
+          "percent": 57
+        },
+        {
+          "hour": "21:00",
+          "percent": 39
+        },
+        {
+          "hour": "22:00",
+          "percent": 22
+        },
+        {
+          "hour": "23:00",
+          "percent": 10
+        },
+        {
+          "hour": "00:00",
+          "percent": 2
+        }
+      ]
+    },
+    {
+      "Friday": [
+        {
+          "hour": "04:00",
+          "percent": 7
+        },
+        {
+          "hour": "05:00",
+          "percent": 37
+        },
+        {
+          "hour": "06:00",
+          "percent": 78
+        },
+        {
+          "hour": "07:00",
+          "percent": 85
+        },
+        {
+          "hour": "08:00",
+          "percent": 50
+        },
+        {
+          "hour": "09:00",
+          "percent": 24
+        },
+        {
+          "hour": "10:00",
+          "percent": 26
+        },
+        {
+          "hour": "11:00",
+          "percent": 36
+        },
+        {
+          "hour": "12:00",
+          "percent": 38
+        },
+        {
+          "hour": "13:00",
+          "percent": 33
+        },
+        {
+          "hour": "14:00",
+          "percent": 33
+        },
+        {
+          "hour": "15:00",
+          "percent": 43
+        },
+        {
+          "hour": "16:00",
+          "percent": 57
+        },
+        {
+          "hour": "17:00",
+          "percent": 68
+        },
+        {
+          "hour": "18:00",
+          "percent": 71
+        },
+        {
+          "hour": "19:00",
+          "percent": 65
+        },
+        {
+          "hour": "20:00",
+          "percent": 51
+        },
+        {
+          "hour": "21:00",
+          "percent": 35
+        },
+        {
+          "hour": "22:00",
+          "percent": 20
+        },
+        {
+          "hour": "23:00",
+          "percent": 9
+        },
+        {
+          "hour": "00:00",
+          "percent": 3
+        }
+      ]
+    },
+    {
+      "Saturday": [
+        {
+          "hour": "04:00",
+          "percent": 4
+        },
+        {
+          "hour": "05:00",
+          "percent": 17
+        },
+        {
+          "hour": "06:00",
+          "percent": 35
+        },
+        {
+          "hour": "07:00",
+          "percent": 42
+        },
+        {
+          "hour": "08:00",
+          "percent": 34
+        },
+        {
+          "hour": "09:00",
+          "percent": 24
+        },
+        {
+          "hour": "10:00",
+          "percent": 21
+        },
+        {
+          "hour": "11:00",
+          "percent": 25
+        },
+        {
+          "hour": "12:00",
+          "percent": 30
+        },
+        {
+          "hour": "13:00",
+          "percent": 32
+        },
+        {
+          "hour": "14:00",
+          "percent": 32
+        },
+        {
+          "hour": "15:00",
+          "percent": 31
+        },
+        {
+          "hour": "16:00",
+          "percent": 30
+        },
+        {
+          "hour": "17:00",
+          "percent": 29
+        },
+        {
+          "hour": "18:00",
+          "percent": 27
+        },
+        {
+          "hour": "19:00",
+          "percent": 25
+        },
+        {
+          "hour": "20:00",
+          "percent": 21
+        },
+        {
+          "hour": "21:00",
+          "percent": 16
+        },
+        {
+          "hour": "22:00",
+          "percent": 12
+        },
+        {
+          "hour": "23:00",
+          "percent": 7
+        },
+        {
+          "hour": "00:00",
+          "percent": 4
+        },
+        {
+          "hour": "01:00",
+          "percent": 1
+        }
+      ]
+    }
+  ],
+  "relatedSearches": [
+    "estação são gabriel endereço",
+    "estação são gabriel linhas",
+    "estação são gabriel telefone",
+    "estação são gabriel horário de ônibus",
+    "estação são gabriel cep",
+    "ônibus da estação são gabriel para estação pampulha",
+    "ônibus estação são gabriel/bh shopping",
+    "bairro são gabriel bh"
+  ],
+  "relateds": [
+    {
+      "mainName": "Estação Vilarinho",
+      "url": null
+    },
+    {
+      "mainName": "Estação Eldorado",
+      "url": null
+    },
+    {
+      "mainName": "Estação Primeiro de Maio",
+      "url": null
+    },
+    {
+      "mainName": "Estação Minas Shopping",
+      "url": null
+    },
+    {
+      "mainName": "Estação Barreiro",
+      "url": null
+    },
+    {
+      "mainName": "Estação Lagoinha",
+      "url": null
+    },
+    {
+      "mainName": "Estação Floramar",
+      "url": null
+    },
+    {
+      "mainName": "Estação Cidade Industrial",
+      "url": null
+    },
+    {
+      "mainName": "Rua Gustavo Da Silveira 1820",
+      "url": null
+    },
+    {
+      "mainName": "Estação Central",
+      "url": null
+    },
+    {
+      "mainName": "Estação Horto",
+      "url": null
+    },
+    {
+      "mainName": "Estação Gameleira",
+      "url": null
+    },
+    {
+      "mainName": "Estação Calafate",
+      "url": null
+    },
+    {
+      "mainName": "Minas Shopping",
+      "url": null
+    },
+    {
+      "mainName": "Estação Vila Oeste",
+      "url": null
+    },
+    {
+      "mainName": "Estação Santa Teresa",
+      "url": null
+    },
+    {
+      "mainName": "Estação Carlos Prates",
+      "url": null
+    },
+    {
+      "mainName": "Estação Santa Inês",
+      "url": null
+    },
+    {
+      "mainName": "Estação Santa Efigênia",
+      "url": null
+    },
+    {
+      "mainName": "Terminal Justinópolis",
+      "url": null
+    },
+    {
+      "mainName": "Rodoviária de Belo Horizonte",
+      "url": null
+    },
+    {
+      "mainName": "BH Shopping",
+      "url": null
+    },
+    {
+      "mainName": "Ribeirão da Onça",
+      "url": null
+    }
+  ]
+}

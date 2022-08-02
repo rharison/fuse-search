@@ -1,0 +1,989 @@
+{
+  "mainName": "Praia do Brejo Largo",
+  "slug": "praia-do-brejo-largo",
+  "category": "Atração turística",
+  "locationInformation": {
+    "latitude": "37.6747222",
+    "longitude": "-8.7958333"
+  },
+  "basicInformation": [
+    {
+      "label": "endereço",
+      "tooltip": "Copiar endereço",
+      "text": "Portugal",
+      "icon": "https://www.gstatic.com/images/icons/material/system_gm/1x/place_gm_blue_24dp.png"
+    },
+    {
+      "label": "Code",
+      "tooltip": "Copiar Plus Code",
+      "text": "M6F3+VM Nascedios, Portugal",
+      "icon": "https://maps.gstatic.com/mapfiles/maps_lite/images/2x/ic_plus_code.png"
+    },
+    {
+      "label": "merchant",
+      "text": "Reivindicar esta empresa",
+      "icon": "https://www.gstatic.com/images/icons/material/system_gm/1x/verified_user_gm_blue_24dp.png"
+    }
+  ],
+  "ratingInformation": {
+    "basicRatingInformation": {
+      "averageGrade": 4.7,
+      "totalOfEvaluations": 139
+    },
+    "ratingsByGrade": [
+      {
+        "grade": 5,
+        "totalRatings": 112
+      },
+      {
+        "grade": 4,
+        "totalRatings": 18
+      },
+      {
+        "grade": 3,
+        "totalRatings": 4
+      },
+      {
+        "grade": 2,
+        "totalRatings": 1
+      },
+      {
+        "grade": 1,
+        "totalRatings": 4
+      }
+    ]
+  },
+  "ratingTags": [
+    {
+      "tag": "carro",
+      "count": 5,
+      "tooltip": "carro, mencionado em 5 avaliações"
+    },
+    {
+      "tag": "natureza",
+      "count": 5,
+      "tooltip": "natureza, mencionado em 5 avaliações"
+    },
+    {
+      "tag": "estado",
+      "count": 3,
+      "tooltip": "estado, mencionado em 3 avaliações"
+    },
+    {
+      "tag": "escadas",
+      "count": 3,
+      "tooltip": "escadas, mencionado em 3 avaliações"
+    }
+  ],
+  "featuredPhotos": [
+    "https://lh5.googleusercontent.com/p/AF1QipPX-sLAD8vdOVV0wCIwRppd_ZfJPxkqQl5-EbL9=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMvkQ0aiSC111YzBVI-PZObE_AJZhqe1_8_NFJB=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPZTwxjml8OH0YDeds5UzlqoUz3avR-wg1FxeLv=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMRDzy99c-Yz35gVl41DZoxwFP6jGPUUcDvO5Pn=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNnfYSssYozZh-wX2WBlMIRfQMZACZ5qwa3EW7C=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNJjA4M_ZJaOe6UWqPPiwj-Y-zfP6tfidIJ_Xgm=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNCS98_PvbEffysYNNaWLOhc588tG-oGWxMi3Ir=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNskmIRPLcHyHWImwCRLxZgyDpa9k2XK0Zqtffb=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPgDwiWBKT7VjfUbAqJt5lNcGkXsXVoX_bGkUg0=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMaqdDNayWgoFoT2-0n6OMRJiPCY_ahaPql2SaE=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMJogdLUf1HEl6w7ShhWzE5J4I2AU2d3OBLUb_S=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPYZ-PW0fhltAcThprgdDWWDnogepT0UZ65ZnhR=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPX1BJfOgsvFsBls4WBDVhwjR04YOAP-FGJuUqn=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOTmH8mDPAMTDBGge9orLO3ewqtv07qQqeJ9IPg=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPUKWRVkAopKa-jFmVnvV3_6zJwQvhl5q4KYBAC=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPZOnOaCCZkRhfEwkpbK1JH9QWEdFzsW9Gw7H07=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPMD09dMIO7sGadRTqBf-Q2Bp95s7zNXR7lQsMA=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMPGwTOvqyJ9Ft7qq8evYV2x8yQdVs6Rfjn25bi=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNme_Au0Gy3hZ1XDAcKaam5LlT2zGg4lctOB8hz=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNE1bQkoB7oJSI19sh62YphY4TPqLOGhx07sQIW=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNwYc2E1gNlATba7--OOohfEOcq5IT4QZuxynzs=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMZgCV-rjZ52vHYqkhRmiNHeVXOYcfEfjK6hLLa=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNa3ghlq9J-tNb3luBkcykIsA__bHyJtdyJjMPu=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipO16O55cMz_FJmEHDb8cW_OvkzUzypYM_eYr2bu=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipONGSTS6cU5RhJ_7yZdbcDtV1Hj4LMwhJ7rAja0=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipM-c77uF1OLZyH65EoqU4WqVtwVA75zpm0wj0Jr=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipN49lUsoVU3yyFzopONyHAYQX8w8InU5kYdjYtG=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMDiBf6QfZMpt07JgGnXVo6WwA9hHwfwBKDS053=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNJIBeLU268kZE_iMg0-vqvqvyslAjd4wuwOy5U=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMSoR-FkOXvSScxvgILu_HS5hPZoxBhPualRn00=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMvz4zcQVXsU7fjqyEDWCnxqK3Oh0ZginXB2xuK=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNtj-EiBedlbae10eJvdNUAuxQ44cMadytswXLR=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipO3bxTFMLGFPMf_RHrNc6bDmaVApsHf9NZxrQCH=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNgkbKKNribAd6YleXS1zcs6GqVQTCc6JVD16gC=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNH9wIZQ78o12I1AWXrXLHsxEvfi1-wzIkJG8Xk=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMYhfoSV7ap39FRvssmcsXFGLHpbsE9fJvGCUDg=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMK-nTjkEuHNx-z6qqK-CHJ42zKpcIQ4VvT6WvL=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipP_SA4b__DBDCZaLXoj3Ri1fFqKJBJbFGh-wbV_=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNcN_Zyyk8OvQUvc1jv51Bo4Qw0AoQFSWvHtZ3b=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPLIWCbIp7RbvI2BHqSjMS2XWhcIhg_Db0GB9bN=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPAEGDkOeUxKUau1abmkcpf7m396ZZqUNvYunNz=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPICkF7awhWng68qbtnf8cPCcXwVhf58nQlKV6j=w1024-h576-k-no"
+  ],
+  "topComments": [
+    {
+      "author": "Filipe Fernandes",
+      "photoAuthor": "https://lh3.googleusercontent.com/a/AItbvmk3E99MuRgXAyjBIJen6WKu6VuYXJTdj5-78GHP=w36-h36-p-c0x00000000-rp-mo-ba3-br100",
+      "comment": "A Praia mais incrível de Portugal. A natureza no seu estado mais selvagem e puro. Praia enorme, areal limpo e pouquíssima gente. È aconselhável levar um 4x4 porque o acesso é em terra batida e o carro pode atolar.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Luís Storytailors",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucp3F_qdvJL61tcec6MPeG0jEXqEgYGIYH_Fp_gDYqw=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "Praia selvagem. É a minha praia preferida da Costa Vicentina. Adoro a diversidade geológica que nos transporta para outros mundos.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Paulo Carvalho",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucp3YyFdksu5PylmlBGgzyr9mJwCbwCMqIuHyuczzBI=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "Um dos últimos tesouros naturais, em estado selvagem da Costa Vicentina. Chiu, não digam a ninguém! 😊",
+      "gradeComment": 5
+    },
+    {
+      "author": "Marcia",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucooirPBliQd0DoqvzG0Zm-GvO6gDHPT9N0zDmVfOq4=w36-h36-p-c0x00000000-rp-mo-ba2-br100",
+      "comment": "Praia tranquila, de difícil acesso!Temos de descer uma escada esculpida na descida com o apoio de uma corda!",
+      "gradeComment": 5
+    },
+    {
+      "author": "Pedro Rupio",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucrpKpTE8hJWHXVOn3yD5IR35rynEdRgmdqqPsLFjg=w36-h36-p-c0x00000000-rp-mo-ba3-br100",
+      "comment": "O difícil acesso à praia torna o sítio ainda mais apetecível. Pouca gente, sossego e uma linda vista sobre o Atlântico.",
+      "gradeComment": 5
+    },
+    {
+      "author": "David Pinto",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucrkMkiEhrPyRvxmutaS98abM1iBy96GKG3pt2msSuE=w36-h36-p-c0x00000000-rp-mo-ba5-br100",
+      "comment": "Praia com acesso de dificuldade acima da média. Pode ser de difícil acesso a carros normais e a pessoas menos aptas fisicamente (tem uma descida mais complicada íngreme). Não vigiada mas com um contexto natural muito bonito. Praia limpa e com relativamente poucas pessoas. Recomendada.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Viviana Lopes",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucp10ayc42GS1krZmiCMp-kVkFz1tubJ4u6dQIM=w36-h36-p-c0x00000000-rp-mo-br100",
+      "comment": "Praia onde não há caixotes de lixo mas também não há lixo só o proveniente do mar. Praia onde cão e dono partilham momentos inesquecíveis e que não se ouve reclamar ou pelo cócó ou por ir ter á toalha do vizinho porque a paz da mesma leva á tolerância. Praia a manter como está porque é um paraíso!!!",
+      "gradeComment": 5
+    },
+    {
+      "author": "Paula Morgado",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucpGPXm0DGqZrWkusmp4WG-SRSTZI88BenP36BhN=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "Praia espetacular, muito ampla mas de difícil acesso, tem escadas e corda. Além disso atenção que o caminho até lá é todo areal e só dá para irem jeeps ou motas 4 senão correm o risco de se atolarem como eu presenciei várias situações",
+      "gradeComment": 4
+    },
+    {
+      "author": "Artur Silva",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucqarWGNWsjtS8a898hsBDyQb32crnQk5IJY0MfXEg=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "Local muito tranquilo, mas de difícil acesso. Não é a praia ideal para ir a banhos já que existem correntes muito fortes. Paisagem incrível.",
+      "gradeComment": 4
+    },
+    {
+      "author": "João Velez",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucouMWaG0sIzOPp4d9EWyz9Cz8jlbl5kb1eqgMqpkGA=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "Praia com muito espaço mas com muitas rochas na água e os acessos um bocado complicados, apesar de se fazer bem só a parte final é que é um bocado íngreme.",
+      "gradeComment": 4
+    },
+    {
+      "author": "Carlos Modesto Gonçalves",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucphWiKdzesU2NeaokbmF9D5Ph_UTVTL86037CZ_H4A=w36-h36-p-c0x00000000-rp-mo-ba5-br100",
+      "comment": "Uma praia muito bonita com um areal bastante extenso. Os difíceis acessos permitem desfrutar de uma paisagem única e garantem um dia de praia extremamente sossegado.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Joao Silva",
+      "photoAuthor": "https://lh3.googleusercontent.com/a/AItbvmmAAYLkIyyprE7AjKoRuoUFhP5zkMIF9E2_OftD=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "Uma praia \"morna\" , algum nudismo  , algum surf , alguma dificuldade de acesso , uma ou outra zona para nadar , mas nada de muito extremo ou deslumbrante .",
+      "gradeComment": 3
+    },
+    {
+      "author": "Antonio Sinfronio",
+      "photoAuthor": "https://lh3.googleusercontent.com/a/AItbvmn3Zs8P8KnqMO8y68HDttqER_jMLYQkjLy71mDi=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "Praia com difícil acesso, mas muito bonita e com pouca gente",
+      "gradeComment": 5
+    },
+    {
+      "author": "Vando Arrais",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucrQOLPvf7BHNc9M8422hZLkqqJ1H9WA6VaeeQrw=w36-h36-p-c0x00000000-rp-mo-ba3-br100",
+      "comment": "Bonita Praia, com pouca gente, apenas acessível de 4x4",
+      "gradeComment": 5
+    },
+    {
+      "author": "Tiago Afonso Morgado",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucqErxlCCH35xFRycdus_KjH3qituHmH2_TDD0V7WPY=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "Praia muito bonita mas cuidado com o acesso de carro, perigo de atolamento!!",
+      "gradeComment": 5
+    },
+    {
+      "author": "Dina Martins",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucq1bC6bDJbRrtl00RqYBXIniYHpK9RLi57vYr_G=w36-h36-p-c0x00000000-rp-mo-br100",
+      "comment": "Excelente praia mas o acesso é limitado",
+      "gradeComment": 5
+    },
+    {
+      "author": "Pet World",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucph5pM-WaAYB-tJ_JWQtDyFEynqJjnuNIxntdhT1Q=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "Praia enorme, lindissima! Acesso complicado!",
+      "gradeComment": 5
+    },
+    {
+      "author": "Tiago Piedade",
+      "photoAuthor": "https://lh3.googleusercontent.com/a/AItbvmmkYMPImg-ZI5vxUKepkRjf-Bi9lZkzl5XUAWOAU0g=w36-h36-p-c0x00000000-rp-mo-ba3-br100",
+      "comment": "Natureza em estado puro. Acesso muito complicado e ainda bem.",
+      "gradeComment": 5
+    },
+    {
+      "author": "João Pereira",
+      "photoAuthor": "https://lh3.googleusercontent.com/a/AItbvmnfa_yGfIq0i56FldCJ0UJMjkK888EmQmfuyB5NoQ=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "Praia de difícil acesso mas muito sossegada",
+      "gradeComment": 4
+    },
+    {
+      "author": "Marta Gomes",
+      "photoAuthor": "https://lh3.googleusercontent.com/a/AItbvmkg28BItpaggDjZnvHdIxbHaVDX8hvLsYhtNeHg=w36-h36-p-c0x00000000-rp-mo-ba3-br100",
+      "comment": "Óptima praia quase sem acesso",
+      "gradeComment": 3
+    }
+  ],
+  "peakHours": [
+    {
+      "Sunday": [
+        {
+          "hour": "04:00",
+          "percent": 2
+        },
+        {
+          "hour": "05:00",
+          "percent": 5
+        },
+        {
+          "hour": "06:00",
+          "percent": 5
+        },
+        {
+          "hour": "07:00",
+          "percent": 8
+        },
+        {
+          "hour": "08:00",
+          "percent": 11
+        },
+        {
+          "hour": "09:00",
+          "percent": 13
+        },
+        {
+          "hour": "10:00",
+          "percent": 25
+        },
+        {
+          "hour": "11:00",
+          "percent": 55
+        },
+        {
+          "hour": "12:00",
+          "percent": 94
+        },
+        {
+          "hour": "13:00",
+          "percent": 100
+        },
+        {
+          "hour": "14:00",
+          "percent": 66
+        },
+        {
+          "hour": "15:00",
+          "percent": 55
+        },
+        {
+          "hour": "16:00",
+          "percent": 80
+        },
+        {
+          "hour": "17:00",
+          "percent": 69
+        },
+        {
+          "hour": "18:00",
+          "percent": 27
+        },
+        {
+          "hour": "19:00",
+          "percent": 5
+        },
+        {
+          "hour": "20:00",
+          "percent": 2
+        },
+        {
+          "hour": "21:00",
+          "percent": 2
+        },
+        {
+          "hour": "22:00",
+          "percent": 2
+        },
+        {
+          "hour": "23:00",
+          "percent": 2
+        },
+        {
+          "hour": "00:00",
+          "percent": 2
+        },
+        {
+          "hour": "01:00",
+          "percent": 2
+        },
+        {
+          "hour": "02:00",
+          "percent": 2
+        },
+        {
+          "hour": "03:00",
+          "percent": 2
+        }
+      ]
+    },
+    {
+      "Monday": [
+        {
+          "hour": "04:00",
+          "percent": 2
+        },
+        {
+          "hour": "05:00",
+          "percent": 2
+        },
+        {
+          "hour": "06:00",
+          "percent": 2
+        },
+        {
+          "hour": "07:00",
+          "percent": 2
+        },
+        {
+          "hour": "08:00",
+          "percent": 2
+        },
+        {
+          "hour": "09:00",
+          "percent": 2
+        },
+        {
+          "hour": "10:00",
+          "percent": 8
+        },
+        {
+          "hour": "11:00",
+          "percent": 25
+        },
+        {
+          "hour": "12:00",
+          "percent": 44
+        },
+        {
+          "hour": "13:00",
+          "percent": 55
+        },
+        {
+          "hour": "14:00",
+          "percent": 52
+        },
+        {
+          "hour": "15:00",
+          "percent": 33
+        },
+        {
+          "hour": "16:00",
+          "percent": 19
+        },
+        {
+          "hour": "17:00",
+          "percent": 27
+        },
+        {
+          "hour": "18:00",
+          "percent": 11
+        },
+        {
+          "hour": "19:00",
+          "percent": 2
+        },
+        {
+          "hour": "00:00",
+          "percent": 2
+        },
+        {
+          "hour": "01:00",
+          "percent": 2
+        }
+      ]
+    },
+    {
+      "Tuesday": [
+        {
+          "hour": "10:00",
+          "percent": 5
+        },
+        {
+          "hour": "11:00",
+          "percent": 25
+        },
+        {
+          "hour": "12:00",
+          "percent": 50
+        },
+        {
+          "hour": "13:00",
+          "percent": 66
+        },
+        {
+          "hour": "14:00",
+          "percent": 55
+        },
+        {
+          "hour": "15:00",
+          "percent": 33
+        },
+        {
+          "hour": "16:00",
+          "percent": 16
+        },
+        {
+          "hour": "17:00",
+          "percent": 11
+        },
+        {
+          "hour": "18:00",
+          "percent": 11
+        },
+        {
+          "hour": "19:00",
+          "percent": 11
+        },
+        {
+          "hour": "20:00",
+          "percent": 8
+        },
+        {
+          "hour": "21:00",
+          "percent": 5
+        },
+        {
+          "hour": "22:00",
+          "percent": 2
+        },
+        {
+          "hour": "23:00",
+          "percent": 2
+        },
+        {
+          "hour": "00:00",
+          "percent": 2
+        },
+        {
+          "hour": "01:00",
+          "percent": 2
+        }
+      ]
+    },
+    {
+      "Wednesday": [
+        {
+          "hour": "04:00",
+          "percent": 2
+        },
+        {
+          "hour": "05:00",
+          "percent": 2
+        },
+        {
+          "hour": "06:00",
+          "percent": 2
+        },
+        {
+          "hour": "07:00",
+          "percent": 2
+        },
+        {
+          "hour": "08:00",
+          "percent": 2
+        },
+        {
+          "hour": "09:00",
+          "percent": 2
+        },
+        {
+          "hour": "10:00",
+          "percent": 2
+        },
+        {
+          "hour": "11:00",
+          "percent": 11
+        },
+        {
+          "hour": "12:00",
+          "percent": 22
+        },
+        {
+          "hour": "13:00",
+          "percent": 25
+        },
+        {
+          "hour": "14:00",
+          "percent": 13
+        },
+        {
+          "hour": "15:00",
+          "percent": 5
+        },
+        {
+          "hour": "16:00",
+          "percent": 5
+        },
+        {
+          "hour": "17:00",
+          "percent": 5
+        },
+        {
+          "hour": "18:00",
+          "percent": 5
+        },
+        {
+          "hour": "19:00",
+          "percent": 5
+        },
+        {
+          "hour": "20:00",
+          "percent": 5
+        },
+        {
+          "hour": "21:00",
+          "percent": 5
+        },
+        {
+          "hour": "22:00",
+          "percent": 5
+        },
+        {
+          "hour": "23:00",
+          "percent": 5
+        },
+        {
+          "hour": "00:00",
+          "percent": 2
+        },
+        {
+          "hour": "01:00",
+          "percent": 2
+        },
+        {
+          "hour": "02:00",
+          "percent": 2
+        },
+        {
+          "hour": "03:00",
+          "percent": 2
+        }
+      ]
+    },
+    {
+      "Thursday": [
+        {
+          "hour": "04:00",
+          "percent": 2
+        },
+        {
+          "hour": "05:00",
+          "percent": 2
+        },
+        {
+          "hour": "06:00",
+          "percent": 2
+        },
+        {
+          "hour": "07:00",
+          "percent": 2
+        },
+        {
+          "hour": "08:00",
+          "percent": 2
+        },
+        {
+          "hour": "09:00",
+          "percent": 5
+        },
+        {
+          "hour": "10:00",
+          "percent": 8
+        },
+        {
+          "hour": "11:00",
+          "percent": 11
+        },
+        {
+          "hour": "12:00",
+          "percent": 13
+        },
+        {
+          "hour": "13:00",
+          "percent": 13
+        },
+        {
+          "hour": "14:00",
+          "percent": 13
+        },
+        {
+          "hour": "15:00",
+          "percent": 11
+        },
+        {
+          "hour": "16:00",
+          "percent": 13
+        },
+        {
+          "hour": "17:00",
+          "percent": 25
+        },
+        {
+          "hour": "18:00",
+          "percent": 16
+        },
+        {
+          "hour": "19:00",
+          "percent": 5
+        },
+        {
+          "hour": "20:00",
+          "percent": 5
+        },
+        {
+          "hour": "21:00",
+          "percent": 5
+        },
+        {
+          "hour": "22:00",
+          "percent": 5
+        },
+        {
+          "hour": "23:00",
+          "percent": 5
+        },
+        {
+          "hour": "00:00",
+          "percent": 5
+        },
+        {
+          "hour": "01:00",
+          "percent": 5
+        },
+        {
+          "hour": "02:00",
+          "percent": 5
+        },
+        {
+          "hour": "03:00",
+          "percent": 2
+        }
+      ]
+    },
+    {
+      "Friday": [
+        {
+          "hour": "04:00",
+          "percent": 2
+        },
+        {
+          "hour": "05:00",
+          "percent": 2
+        },
+        {
+          "hour": "06:00",
+          "percent": 2
+        },
+        {
+          "hour": "07:00",
+          "percent": 2
+        },
+        {
+          "hour": "08:00",
+          "percent": 2
+        },
+        {
+          "hour": "09:00",
+          "percent": 2
+        },
+        {
+          "hour": "10:00",
+          "percent": 11
+        },
+        {
+          "hour": "11:00",
+          "percent": 27
+        },
+        {
+          "hour": "12:00",
+          "percent": 55
+        },
+        {
+          "hour": "13:00",
+          "percent": 72
+        },
+        {
+          "hour": "14:00",
+          "percent": 61
+        },
+        {
+          "hour": "15:00",
+          "percent": 47
+        },
+        {
+          "hour": "16:00",
+          "percent": 50
+        },
+        {
+          "hour": "17:00",
+          "percent": 55
+        },
+        {
+          "hour": "18:00",
+          "percent": 44
+        },
+        {
+          "hour": "19:00",
+          "percent": 25
+        },
+        {
+          "hour": "20:00",
+          "percent": 11
+        },
+        {
+          "hour": "21:00",
+          "percent": 2
+        },
+        {
+          "hour": "22:00",
+          "percent": 2
+        },
+        {
+          "hour": "23:00",
+          "percent": 2
+        },
+        {
+          "hour": "00:00",
+          "percent": 2
+        },
+        {
+          "hour": "01:00",
+          "percent": 2
+        },
+        {
+          "hour": "02:00",
+          "percent": 2
+        },
+        {
+          "hour": "03:00",
+          "percent": 2
+        }
+      ]
+    },
+    {
+      "Saturday": [
+        {
+          "hour": "04:00",
+          "percent": 5
+        },
+        {
+          "hour": "05:00",
+          "percent": 5
+        },
+        {
+          "hour": "06:00",
+          "percent": 5
+        },
+        {
+          "hour": "07:00",
+          "percent": 5
+        },
+        {
+          "hour": "08:00",
+          "percent": 5
+        },
+        {
+          "hour": "09:00",
+          "percent": 11
+        },
+        {
+          "hour": "10:00",
+          "percent": 22
+        },
+        {
+          "hour": "11:00",
+          "percent": 41
+        },
+        {
+          "hour": "12:00",
+          "percent": 61
+        },
+        {
+          "hour": "13:00",
+          "percent": 72
+        },
+        {
+          "hour": "14:00",
+          "percent": 77
+        },
+        {
+          "hour": "15:00",
+          "percent": 83
+        },
+        {
+          "hour": "16:00",
+          "percent": 86
+        },
+        {
+          "hour": "17:00",
+          "percent": 75
+        },
+        {
+          "hour": "18:00",
+          "percent": 50
+        },
+        {
+          "hour": "19:00",
+          "percent": 25
+        },
+        {
+          "hour": "20:00",
+          "percent": 11
+        },
+        {
+          "hour": "21:00",
+          "percent": 5
+        },
+        {
+          "hour": "22:00",
+          "percent": 5
+        },
+        {
+          "hour": "23:00",
+          "percent": 5
+        },
+        {
+          "hour": "00:00",
+          "percent": 5
+        },
+        {
+          "hour": "01:00",
+          "percent": 5
+        },
+        {
+          "hour": "02:00",
+          "percent": 5
+        },
+        {
+          "hour": "03:00",
+          "percent": 5
+        }
+      ]
+    }
+  ],
+  "relatedSearches": null,
+  "relateds": [
+    {
+      "mainName": "Praia da Foz dos Ouriços",
+      "url": null
+    },
+    {
+      "mainName": "Praia do Almograve",
+      "url": null
+    },
+    {
+      "mainName": "Praia do Cavaleiro",
+      "url": null
+    },
+    {
+      "mainName": "Praia das Furnas",
+      "url": null
+    },
+    {
+      "mainName": "Praia dos Aivados",
+      "url": null
+    },
+    {
+      "mainName": "Praia da Franquia",
+      "url": null
+    },
+    {
+      "mainName": "Praia do Malhao",
+      "url": null
+    },
+    {
+      "mainName": "Praia do Farol",
+      "url": null
+    },
+    {
+      "mainName": "Praia do Tonel",
+      "url": null
+    },
+    {
+      "mainName": "Praia da Pedra da Bica",
+      "url": null
+    },
+    {
+      "mainName": "Praia do Malhão Norte",
+      "url": null
+    },
+    {
+      "mainName": "Cabo Sardão",
+      "url": null
+    },
+    {
+      "mainName": "Praia da Amália",
+      "url": null
+    },
+    {
+      "mainName": "Praia da Angra da Vaca",
+      "url": null
+    },
+    {
+      "mainName": "Praia de Nossa Senhora",
+      "url": null
+    },
+    {
+      "mainName": "Ilha do Pessegueiro",
+      "url": null
+    },
+    {
+      "mainName": "Praia da Azenha do Mar",
+      "url": null
+    },
+    {
+      "mainName": "Praia do Carvalhal",
+      "url": null
+    },
+    {
+      "mainName": "Praia da Zambujeira do Mar",
+      "url": null
+    },
+    {
+      "mainName": "Praia dos Alteirinhos",
+      "url": null
+    },
+    {
+      "mainName": "Praia do Carreiro da Fazenda",
+      "url": null
+    },
+    {
+      "mainName": "Praia do Patacho",
+      "url": null
+    },
+    {
+      "mainName": "Praia de Vale dos Homens",
+      "url": null
+    },
+    {
+      "mainName": "Praia da Ilha do Pessegueiro",
+      "url": null
+    }
+  ]
+}

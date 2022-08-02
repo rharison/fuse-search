@@ -1,0 +1,815 @@
+{
+  "mainName": "Il Dito",
+  "slug": "il-dito",
+  "category": "Atração turística",
+  "locationInformation": {
+    "latitude": "45.4648182",
+    "longitude": "9.1832735"
+  },
+  "basicInformation": [
+    {
+      "label": "endereço",
+      "tooltip": "Copiar endereço",
+      "text": "P.za degli Affari, 20123 Milano MI, Itália",
+      "icon": "https://www.gstatic.com/images/icons/material/system_gm/1x/place_gm_blue_24dp.png"
+    },
+    {
+      "label": "locatedin",
+      "text": "Localizado em: Piazza Affari",
+      "icon": "https://www.google.com/images/cleardot.gif"
+    },
+    {
+      "label": "Code",
+      "tooltip": "Copiar Plus Code",
+      "text": "F57M+W8 Milão, Itália",
+      "icon": "https://maps.gstatic.com/mapfiles/maps_lite/images/2x/ic_plus_code.png"
+    },
+    {
+      "label": "send-to-device",
+      "text": "Enviar para smartphone",
+      "icon": "https://maps.gstatic.com/consumer/images/icons/1x/send_to_mobile_alt_gm_blue_24dp.png"
+    },
+    {
+      "label": "merchant",
+      "text": "Reivindicar esta empresa",
+      "icon": "https://www.gstatic.com/images/icons/material/system_gm/1x/verified_user_gm_blue_24dp.png"
+    }
+  ],
+  "ratingInformation": {
+    "basicRatingInformation": {
+      "averageGrade": 4.4,
+      "totalOfEvaluations": 1662
+    },
+    "ratingsByGrade": [
+      {
+        "grade": 5,
+        "totalRatings": 1012
+      },
+      {
+        "grade": 4,
+        "totalRatings": 413
+      },
+      {
+        "grade": 3,
+        "totalRatings": 154
+      },
+      {
+        "grade": 2,
+        "totalRatings": 22
+      },
+      {
+        "grade": 1,
+        "totalRatings": 61
+      }
+    ]
+  },
+  "ratingTags": [
+    {
+      "tag": "estátua",
+      "count": 43,
+      "tooltip": "estátua, mencionado em 43 avaliações"
+    },
+    {
+      "tag": "bolsa de valores",
+      "count": 39,
+      "tooltip": "bolsa de valores, mencionado em 39 avaliações"
+    },
+    {
+      "tag": "opera",
+      "count": 28,
+      "tooltip": "opera, mencionado em 28 avaliações"
+    },
+    {
+      "tag": "dedo médio",
+      "count": 17,
+      "tooltip": "dedo médio, mencionado em 17 avaliações"
+    },
+    {
+      "tag": "eternidade",
+      "count": 14,
+      "tooltip": "eternidade, mencionado em 14 avaliações"
+    },
+    {
+      "tag": "fascismo",
+      "count": 9,
+      "tooltip": "fascismo, mencionado em 9 avaliações"
+    },
+    {
+      "tag": "acrónimo",
+      "count": 8,
+      "tooltip": "acrónimo, mencionado em 8 avaliações"
+    },
+    {
+      "tag": "mármore de carrara",
+      "count": 7,
+      "tooltip": "mármore de carrara, mencionado em 7 avaliações"
+    },
+    {
+      "tag": "vendeta",
+      "count": 6,
+      "tooltip": "vendeta, mencionado em 6 avaliações"
+    }
+  ],
+  "featuredPhotos": [
+    "https://lh5.googleusercontent.com/p/AF1QipMzEsFE_MAeiOrWfg22wy1BGdCnJnc1Y6JdkhzZ=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPvB-XBlhJmfHfmEYXSUYURmQA-KGtTEUlywkoe=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNdCxgs2XWHEDWwZb4X6OjUxBLMgAJ2H4siLIHg=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOy5Qs48wxo9EgTogXWcTkFOVAncePNxc5U1ybU=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOMIaYy62RZaJNHGumEWg6MiJpxOab-ppemFUa3=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipN8PZprrOtaIT6HT6RaawdDBWj_ABGFcGqhHJQS=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNXcd3JmD8CBs2AlK6LrzzUsDLl54Pl5qYyWKSs=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipO82S84bIOvS1r_lg10LMl9AAciZjORTYoZEfpf=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNwBRUYVr3WuEyASjtjBNi-BO1bzc14ORVWCS3Z=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPo-CK3ELEOxuWOMfFWaPN735AGhOwMdMDcquhq=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNPa-P7TTEKb3A7cRDlI18uDGTGz64yiRz4K9UO=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMHsDgB8s1mq0wRP1yqbkMFdLJ42wByffGu4OA-=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPy8LLdBQqxj3LwG1Rylw9XwmUoko0wexyYzDnF=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNNF73mMbcbmTRzqZk4Nk8E5lKgE9P3WRsvLGeW=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPghsK7ruU2uo9OqsNQ6iHeCMOFOP7KylAmiHoZ=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPKp5xPwUyRY2KaH-jILOgUXr7DLD3VgrWX2QML=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipM4htQlrv5zVbLDoYZDcV5DDOTheKSOOEfGUWQ1=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipP940hNahWFMKYHcepLBFnEGB7HZxi1gbuw_7CA=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMxj4lA3crOXVj8V8GZm8Lt7T_wGLt3VxN5ZLWY=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMIPG0pyQsnas81BRrndLXvj2e1jdhp0HIO6hSe=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNOipysxTlnGNdP_8dXE7tASpOpvyt3DXcdrOoh=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOW6T9u0ImZwObqG4XZ7S0X6IdRuSdQ1sPdWAyP=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMn31dDRAGAD2XCOs07HmZa9SzkoF6GRmqjHIdV=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipO30fcF6ykMMnZU6u4ODIUGFPrkWfthk_ovEIwd=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPOQ3o2EUC14NrK39pgfWRywWLKrVVCpKrVGvox=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMab23FsvHAWQKxRChJ-AB1Wdi_HiUlgf8z9aju=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipO_XCdkxrvTRX9gsgUOy1gWWqXg6dvBRmGjLw67=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMNcNDpBenS6G5Re7X0S2Mm6uRQeP4C1bfw2WB6=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPgU_uJqYbIylY5GpbfZqkKGoasS4aNZPB_qGcI=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOwtxA6b9kpChJuGwr7ChNQvt7-qdn-it7KMDfl=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipN_5bB5pPAzr4iNNVkZxr5Ov3e7rDyUuownIeDn=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipO1BDsJaaMvHuFuzryh0VpUjOvG2oPj41yYMAwc=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOY_YbGKa_YorYQJclScVkxfI6z-YRkl-I31zRd=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOj2n7nlP4wJpW86sf9Y8kBCAgfU-kv1a9ehycf=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMnkfLOqrfLw-m-QOP7M_L2B8Gj3Wbo2PgaWPS2=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipN4JC2M8kt73NjIOUvWzh0kCAaLlcf5VIRFVGi3=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipO8Ks6ZRyOERYerE_-WOej3rezVu2cV0jA7HniQ=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipO5IA2BxlYFHxdZgODx8cdLf7onyYpGQblZZEnC=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNwtnx5F3Cxs104O1CmJrDOkpNde6jqUod46Eqq=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOciVgwxHhZD5TkU1Q-_wrPUT3u1nZjuK_THudz=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNn9LHo2B3vL5C4EqoRUIXwm6NK4trSaPPTQ8Wh=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMK5oz4n1zAsrksOh7c81E7vlsUEdN3CABR3V7H=w1024-h576-k-no"
+  ],
+  "topComments": [
+    {
+      "author": "Joao Paulo Varandas",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucqcYjGuGWX_H2GXL3-xqGNXkeKbSkwgH-AytGOJCtQ=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "Um exemplo de liberdade de expressão. Contudo, \"os cães ladram mas a caravana passa\". A mudança vem de dentro ou não...",
+      "gradeComment": 5
+    },
+    {
+      "author": "Lia Brandão",
+      "photoAuthor": "https://lh3.googleusercontent.com/a/AItbvmlxLpS9gtL_U_4BBfYPhv2frl20M-0RMtBaPJU=w36-h36-p-c0x00000000-rp-mo-ba3-br100",
+      "comment": "Escultura audaciosa e ao mesmo tempo misteriosa, uma vez que existem muitas teorias para o seu significado. Escolha um ou a interprete a sua maneira, de qualquer forma vale uma visita nem que seja pela foto curiosa!",
+      "gradeComment": 4
+    },
+    {
+      "author": "Tarcísio Mendonça Ferreira",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucrSUy9pOzmP2ihH6SyZ37keAaTM0_sK3XEKC2aw3nw=w36-h36-p-c0x00000000-rp-mo-ba5-br100",
+      "comment": "A estátua é uma saudação romana com os dedos decepados. Ela retrata uma mão com dedos cortados, como se tivessem sido corroída pelo tempo, com o dedo médio em pé sozinho. Foi colocado no meio da Piazza degli Affari, proximo a Bolsa de Valores. Vale a pena passar para tirar uma foto e pesquisar sobre seu significado.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Cleber Fregatto",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucptVlYGMLQKN2LsjSyCxBL5dPuI-JrWJLVgDyGuF4A=w36-h36-p-c0x00000000-rp-mo-ba5-br100",
+      "comment": "Incrível e polêmica escultura, virou um símbolo “contra” o capitalismo e de Milão.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Mayara Madeira Trevisol",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucrQsreFZM0nAOImQZCetPEnR0geMc3mUmLizumS-w=w36-h36-p-c0x00000000-rp-mo-ba3-br100",
+      "comment": "O monumento tem uma historia interessante, mas a praça em si não tem nada além disso.",
+      "gradeComment": 3
+    },
+    {
+      "author": "Rafaela Piccinin",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucqblezKdxEOLsUOLvDE2hBmrlXoAuiMy11ZTrsTsxE=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "Monumento bem curioso. Mas não muito turístico.",
+      "gradeComment": 4
+    },
+    {
+      "author": "Fabiano M. Barbosa",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucqyskrddTblKPG64xuCXARbNzfa_miFJoU_lij_CQ=w36-h36-p-c0x00000000-rp-mo-ba2-br100",
+      "comment": "No minimo curioso o monumento do dedo médio.... da uma bela foto para vc mandar para aquela seu camarada gente boa... kkk",
+      "gradeComment": 4
+    },
+    {
+      "author": "Stay safe",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucphpLIjQcOgrrzRzgcx27Lx0nUqw6oq2lL-lA3rcg=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "Admirável, coloquial e oportuno... Em frente ao prédio da bolsa de valores em Milão.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Paulo Parreira",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucrztnYtZfClPVu5kWnJEqhF_-KzESQ7G0XQXz15Hg=w36-h36-p-c0x00000000-rp-mo-ba3-br100",
+      "comment": "No coments",
+      "gradeComment": 5
+    },
+    {
+      "author": "Robson Werneck",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucoZZlgUkmQttuhgK-kHCewMl0coEXgiuxWr0gZaOok=w36-h36-p-c0x00000000-rp-mo-ba6-br100",
+      "comment": "Dedinho mixuruca",
+      "gradeComment": 3
+    }
+  ],
+  "peakHours": [
+    {
+      "Sunday": [
+        {
+          "hour": "04:00",
+          "percent": 1
+        },
+        {
+          "hour": "05:00",
+          "percent": 1
+        },
+        {
+          "hour": "06:00",
+          "percent": 1
+        },
+        {
+          "hour": "07:00",
+          "percent": 1
+        },
+        {
+          "hour": "08:00",
+          "percent": 1
+        },
+        {
+          "hour": "10:00",
+          "percent": 2
+        },
+        {
+          "hour": "11:00",
+          "percent": 4
+        },
+        {
+          "hour": "12:00",
+          "percent": 5
+        },
+        {
+          "hour": "13:00",
+          "percent": 4
+        },
+        {
+          "hour": "14:00",
+          "percent": 3
+        },
+        {
+          "hour": "15:00",
+          "percent": 2
+        },
+        {
+          "hour": "16:00",
+          "percent": 3
+        },
+        {
+          "hour": "17:00",
+          "percent": 3
+        },
+        {
+          "hour": "18:00",
+          "percent": 3
+        },
+        {
+          "hour": "19:00",
+          "percent": 2
+        },
+        {
+          "hour": "20:00",
+          "percent": 1
+        },
+        {
+          "hour": "00:00",
+          "percent": 1
+        },
+        {
+          "hour": "01:00",
+          "percent": 1
+        },
+        {
+          "hour": "02:00",
+          "percent": 1
+        },
+        {
+          "hour": "03:00",
+          "percent": 1
+        }
+      ]
+    },
+    {
+      "Monday": [
+        {
+          "hour": "04:00",
+          "percent": 1
+        },
+        {
+          "hour": "05:00",
+          "percent": 1
+        },
+        {
+          "hour": "06:00",
+          "percent": 1
+        },
+        {
+          "hour": "08:00",
+          "percent": 1
+        },
+        {
+          "hour": "09:00",
+          "percent": 1
+        },
+        {
+          "hour": "10:00",
+          "percent": 3
+        },
+        {
+          "hour": "11:00",
+          "percent": 4
+        },
+        {
+          "hour": "12:00",
+          "percent": 5
+        },
+        {
+          "hour": "13:00",
+          "percent": 5
+        },
+        {
+          "hour": "14:00",
+          "percent": 4
+        },
+        {
+          "hour": "15:00",
+          "percent": 3
+        },
+        {
+          "hour": "17:00",
+          "percent": 2
+        },
+        {
+          "hour": "18:00",
+          "percent": 2
+        },
+        {
+          "hour": "19:00",
+          "percent": 1
+        },
+        {
+          "hour": "20:00",
+          "percent": 1
+        },
+        {
+          "hour": "23:00",
+          "percent": 1
+        },
+        {
+          "hour": "00:00",
+          "percent": 1
+        },
+        {
+          "hour": "01:00",
+          "percent": 1
+        },
+        {
+          "hour": "02:00",
+          "percent": 1
+        },
+        {
+          "hour": "03:00",
+          "percent": 1
+        }
+      ]
+    },
+    {
+      "Tuesday": [
+        {
+          "hour": "04:00",
+          "percent": 1
+        },
+        {
+          "hour": "05:00",
+          "percent": 1
+        },
+        {
+          "hour": "08:00",
+          "percent": 1
+        },
+        {
+          "hour": "09:00",
+          "percent": 3
+        },
+        {
+          "hour": "10:00",
+          "percent": 4
+        },
+        {
+          "hour": "11:00",
+          "percent": 5
+        },
+        {
+          "hour": "12:00",
+          "percent": 6
+        },
+        {
+          "hour": "13:00",
+          "percent": 6
+        },
+        {
+          "hour": "14:00",
+          "percent": 5
+        },
+        {
+          "hour": "15:00",
+          "percent": 4
+        },
+        {
+          "hour": "16:00",
+          "percent": 3
+        },
+        {
+          "hour": "17:00",
+          "percent": 3
+        },
+        {
+          "hour": "18:00",
+          "percent": 9
+        },
+        {
+          "hour": "19:00",
+          "percent": 27
+        },
+        {
+          "hour": "20:00",
+          "percent": 48
+        },
+        {
+          "hour": "21:00",
+          "percent": 78
+        },
+        {
+          "hour": "22:00",
+          "percent": 100
+        },
+        {
+          "hour": "23:00",
+          "percent": 73
+        },
+        {
+          "hour": "00:00",
+          "percent": 28
+        },
+        {
+          "hour": "01:00",
+          "percent": 5
+        },
+        {
+          "hour": "03:00",
+          "percent": 1
+        }
+      ]
+    },
+    {
+      "Wednesday": [
+        {
+          "hour": "04:00",
+          "percent": 1
+        },
+        {
+          "hour": "05:00",
+          "percent": 1
+        },
+        {
+          "hour": "06:00",
+          "percent": 1
+        },
+        {
+          "hour": "08:00",
+          "percent": 1
+        },
+        {
+          "hour": "09:00",
+          "percent": 2
+        },
+        {
+          "hour": "10:00",
+          "percent": 4
+        },
+        {
+          "hour": "11:00",
+          "percent": 5
+        },
+        {
+          "hour": "12:00",
+          "percent": 5
+        },
+        {
+          "hour": "13:00",
+          "percent": 5
+        },
+        {
+          "hour": "14:00",
+          "percent": 4
+        },
+        {
+          "hour": "15:00",
+          "percent": 3
+        },
+        {
+          "hour": "16:00",
+          "percent": 3
+        },
+        {
+          "hour": "17:00",
+          "percent": 2
+        },
+        {
+          "hour": "18:00",
+          "percent": 2
+        },
+        {
+          "hour": "19:00",
+          "percent": 3
+        },
+        {
+          "hour": "20:00",
+          "percent": 4
+        },
+        {
+          "hour": "21:00",
+          "percent": 7
+        },
+        {
+          "hour": "22:00",
+          "percent": 8
+        },
+        {
+          "hour": "23:00",
+          "percent": 6
+        },
+        {
+          "hour": "00:00",
+          "percent": 3
+        },
+        {
+          "hour": "02:00",
+          "percent": 1
+        },
+        {
+          "hour": "03:00",
+          "percent": 1
+        }
+      ]
+    },
+    {
+      "Thursday": [
+        {
+          "hour": "04:00",
+          "percent": 1
+        },
+        {
+          "hour": "05:00",
+          "percent": 1
+        },
+        {
+          "hour": "08:00",
+          "percent": 1
+        },
+        {
+          "hour": "09:00",
+          "percent": 3
+        },
+        {
+          "hour": "10:00",
+          "percent": 4
+        },
+        {
+          "hour": "11:00",
+          "percent": 5
+        },
+        {
+          "hour": "12:00",
+          "percent": 6
+        },
+        {
+          "hour": "13:00",
+          "percent": 5
+        },
+        {
+          "hour": "14:00",
+          "percent": 5
+        },
+        {
+          "hour": "15:00",
+          "percent": 4
+        },
+        {
+          "hour": "16:00",
+          "percent": 3
+        },
+        {
+          "hour": "17:00",
+          "percent": 3
+        },
+        {
+          "hour": "18:00",
+          "percent": 3
+        },
+        {
+          "hour": "19:00",
+          "percent": 2
+        },
+        {
+          "hour": "20:00",
+          "percent": 1
+        },
+        {
+          "hour": "21:00",
+          "percent": 1
+        },
+        {
+          "hour": "00:00",
+          "percent": 1
+        },
+        {
+          "hour": "01:00",
+          "percent": 1
+        },
+        {
+          "hour": "02:00",
+          "percent": 1
+        },
+        {
+          "hour": "03:00",
+          "percent": 1
+        }
+      ]
+    },
+    {
+      "Friday": [
+        {
+          "hour": "04:00",
+          "percent": 1
+        },
+        {
+          "hour": "05:00",
+          "percent": 1
+        },
+        {
+          "hour": "08:00",
+          "percent": 1
+        },
+        {
+          "hour": "09:00",
+          "percent": 2
+        },
+        {
+          "hour": "10:00",
+          "percent": 3
+        },
+        {
+          "hour": "11:00",
+          "percent": 4
+        },
+        {
+          "hour": "12:00",
+          "percent": 4
+        },
+        {
+          "hour": "13:00",
+          "percent": 4
+        },
+        {
+          "hour": "14:00",
+          "percent": 4
+        },
+        {
+          "hour": "15:00",
+          "percent": 3
+        },
+        {
+          "hour": "16:00",
+          "percent": 3
+        },
+        {
+          "hour": "17:00",
+          "percent": 3
+        },
+        {
+          "hour": "18:00",
+          "percent": 3
+        },
+        {
+          "hour": "19:00",
+          "percent": 2
+        },
+        {
+          "hour": "20:00",
+          "percent": 1
+        },
+        {
+          "hour": "02:00",
+          "percent": 1
+        },
+        {
+          "hour": "03:00",
+          "percent": 1
+        }
+      ]
+    },
+    {
+      "Saturday": [
+        {
+          "hour": "04:00",
+          "percent": 1
+        },
+        {
+          "hour": "05:00",
+          "percent": 1
+        },
+        {
+          "hour": "06:00",
+          "percent": 1
+        },
+        {
+          "hour": "09:00",
+          "percent": 2
+        },
+        {
+          "hour": "10:00",
+          "percent": 3
+        },
+        {
+          "hour": "11:00",
+          "percent": 4
+        },
+        {
+          "hour": "12:00",
+          "percent": 5
+        },
+        {
+          "hour": "13:00",
+          "percent": 5
+        },
+        {
+          "hour": "14:00",
+          "percent": 5
+        },
+        {
+          "hour": "15:00",
+          "percent": 4
+        },
+        {
+          "hour": "16:00",
+          "percent": 4
+        },
+        {
+          "hour": "17:00",
+          "percent": 4
+        },
+        {
+          "hour": "18:00",
+          "percent": 3
+        },
+        {
+          "hour": "19:00",
+          "percent": 2
+        },
+        {
+          "hour": "20:00",
+          "percent": 1
+        },
+        {
+          "hour": "21:00",
+          "percent": 2
+        },
+        {
+          "hour": "22:00",
+          "percent": 3
+        },
+        {
+          "hour": "23:00",
+          "percent": 4
+        },
+        {
+          "hour": "00:00",
+          "percent": 3
+        },
+        {
+          "hour": "01:00",
+          "percent": 2
+        },
+        {
+          "hour": "03:00",
+          "percent": 1
+        }
+      ]
+    }
+  ],
+  "relatedSearches": null,
+  "relateds": null
+}

@@ -1,0 +1,616 @@
+{
+  "mainName": "Tenerife Zoo Monkey Park",
+  "slug": "tenerife-zoo-monkey-park",
+  "category": "Zoológico",
+  "locationInformation": {
+    "latitude": "28.0600739",
+    "longitude": "-16.6926688"
+  },
+  "basicInformation": [
+    {
+      "label": "endereço",
+      "tooltip": "Copiar endereço",
+      "text": "Camino Moreque,Llano Azul,17 Tf662 Km 2, 38627, Santa Cruz de Tenerife, Espanha",
+      "icon": "https://www.gstatic.com/images/icons/material/system_gm/1x/place_gm_blue_24dp.png"
+    },
+    {
+      "label": "website",
+      "tooltip": "Abrir website",
+      "text": "monkeypark.com",
+      "icon": "https://www.gstatic.com/images/icons/material/system_gm/1x/public_gm_blue_24dp.png"
+    },
+    {
+      "label": "telefone",
+      "tooltip": "Copiar número de telefone",
+      "text": "+34 922 79 07 20",
+      "icon": "https://www.gstatic.com/images/icons/material/system_gm/1x/phone_gm_blue_24dp.png"
+    },
+    {
+      "label": "Code",
+      "tooltip": "Copiar Plus Code",
+      "text": "3864+2W Los Cristianos, Espanha",
+      "icon": "https://maps.gstatic.com/mapfiles/maps_lite/images/2x/ic_plus_code.png"
+    },
+    {
+      "label": "send-to-device",
+      "text": "Enviar para smartphone",
+      "icon": "https://maps.gstatic.com/consumer/images/icons/1x/send_to_mobile_alt_gm_blue_24dp.png"
+    }
+  ],
+  "ratingInformation": {
+    "basicRatingInformation": {
+      "averageGrade": 4.5,
+      "totalOfEvaluations": 5596
+    },
+    "ratingsByGrade": [
+      {
+        "grade": 5,
+        "totalRatings": 3596
+      },
+      {
+        "grade": 4,
+        "totalRatings": 1300
+      },
+      {
+        "grade": 3,
+        "totalRatings": 444
+      },
+      {
+        "grade": 2,
+        "totalRatings": 117
+      },
+      {
+        "grade": 1,
+        "totalRatings": 139
+      }
+    ]
+  },
+  "ratingTags": [
+    {
+      "tag": "perto",
+      "count": 3,
+      "tooltip": "perto, mencionado em 3 avaliações"
+    },
+    {
+      "tag": "porquinho-da-índia",
+      "count": 486,
+      "tooltip": "porquinho-da-índia, mencionado em 486 avaliações"
+    },
+    {
+      "tag": "lêmure",
+      "count": 123,
+      "tooltip": "lêmure, mencionado em 123 avaliações"
+    },
+    {
+      "tag": "simiiformes",
+      "count": 92,
+      "tooltip": "simiiformes, mencionado em 92 avaliações"
+    },
+    {
+      "tag": "uva",
+      "count": 50,
+      "tooltip": "uva, mencionado em 50 avaliações"
+    },
+    {
+      "tag": "iguana",
+      "count": 45,
+      "tooltip": "iguana, mencionado em 45 avaliações"
+    },
+    {
+      "tag": "frutas",
+      "count": 41,
+      "tooltip": "frutas, mencionado em 41 avaliações"
+    },
+    {
+      "tag": "loro parque",
+      "count": 40,
+      "tooltip": "loro parque, mencionado em 40 avaliações"
+    },
+    {
+      "tag": "mandril",
+      "count": 11,
+      "tooltip": "mandril, mencionado em 11 avaliações"
+    },
+    {
+      "tag": "milho doce",
+      "count": 9,
+      "tooltip": "milho doce, mencionado em 9 avaliações"
+    }
+  ],
+  "featuredPhotos": [
+    "https://lh5.googleusercontent.com/p/AF1QipMbbM8i9lTMnrmSM_54zEjiwsDXX_jA1gtgkQLe=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOdgco7ZTCfXhMtKvxTf3BiPWsZvsAwGtUxeN4x=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMKEK5rv4zuUKmS8X1m2gMUR0dw6TV8ztptqtbD=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMH2UfZlJThd5xZQXvXMMtPoT8D5j5Z5xWOitRF=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMhVE6qLGJfNCilQW5ExtmJOM3Vb_sBrTMXcwsK=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOQqfz79Z1HFwZGSX7hO_Oq5LH2mTE8DNanlX7J=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPLkjuYaV0I3lzfzMikdqNCKcN8VrINbsAa5nPO=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipP59TKUOrjJI1mhChSRX26DVW2QHyq26vWEI0o9=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPwJJg7Tbw26j16CvnOlKCgSQwAmYGNMD5S8P4Q=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNwABAQHPJqgDB2gxrFU9DRacKy55WCVW0quY3O=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPg7113_MFEpKUVlLwtYQRQwP5tZ0PkymrMnho9=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNlp_1TcgLCfnuM0gQkZOV9vYyYybzoIvhXsBB5=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMG4JFkWgQdrQ0SHCtMEStDstc47cMVMIeMH_Yd=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipP5QcG6ek-P5la9-KhkebOGwpzxYBFqdDeOTN4_=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPolNVCAhL9QZq7hPURoY41lnL_HkWQxB9Pqq8=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipO3Z4PViTpFOtmmHzK88zZJasS-5mpLnpj0p8dK=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOEm-KLJkwxJIXjPeSxx8dvLCO6SDoXd1B3A5cZ=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPoAOd9qp1B_5gw56xA3NqV6sG_RYOrFMGuc1vx=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOnUFziiGb1Mek6DWil0tr0gSIpbE3SYumN8Ml-=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMz-ixw2pjF1_fzRq8ugJUNxkv_BeuK7bhPnfV9=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNsdzHYZvZ8PYTbawqn-OjyUCgKK7FJJJ8jjGwt=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNzasDHcNk_2dCh6_EZwjWQGaKE50KgGNt_RWP4=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNeWkYULIFYTzaO20YA0OTUvNVP4beqTH304bkX=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNaPoJeLbtXvNbE2wvUBtfGC0YWSexqBmPnzYlX=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOqMe7L_0ij2GO8O2Ho7n-fS-CaVzrUCtwhkfLv=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipP0EXLjFj8YwcmGuzEjTQuhxY2xA46TAYzfTW4J=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNe5aqqV_8u_Gf5GGCmq8nBrBdNRdv5JvYyjM_0=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipN1HVzHatZCtnqbDCjhIVBFkimNeO6ySs1oE2oG=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPV6Tc06NoOyqIP9slNIsdkBX-QO7KyU7AVB8yf=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNBhNvUWyS7Gfw3xaIinbeJphiep_UlI9_d_G_G=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOBRxcelVqUXLOni7--Nbe9GGUxPjTsIj7znJAL=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMiVOjAduwdtAZiWONLyqc-JbUFHbr33pygF4YD=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipP2ZQ5_wbIIjAzTlYXQTgn7Cs-GPUCNrNGF5Qdw=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMYC7yCky_6Dd7ms6oG8i4kwLoWJ6q738kQMHnK=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPlgGZ50uVYF_nbYV0upAroMbBrzckk2Q8lRIkb=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPXYyP9AWeHYVd-hBaaaPn9ImjxRfjAW56a9hWD=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMDdNnjkdz5MRE-lEo87NCKzA_3smDiCxcdEOfN=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNKcI2riwoX1CmHvlJe_iOg9qX2zzLePXa2otI2=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOExTc2S-wH8N694KbACk7luGhVM7Os0CWJhmPo=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMSP3YaCqL0iydOP_b47RMLhufF361acnt8kXSh=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPruJ5F4z_XW5JOuKh09Wvvvbc3wuKoXLO5xFcF=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipM6-OCcd1qLqGlLj-hBk0c6y_nTNln4WGVr3NG7=w1024-h576-k-no"
+  ],
+  "topComments": [
+    {
+      "author": "Edgar Gomes",
+      "photoAuthor": "https://lh3.googleusercontent.com/a/AItbvmlhasZQA8wOUAtZamfrME1fiQ8sQGBVu4DSuP0i=w36-h36-p-c0x00000000-rp-mo-ba3-br100",
+      "comment": "2h em media. Possível andar entre alguns animais, iguanas, lémures, etc. Bom. Depois do almoço, os animais estão mais sonolento s.",
+      "gradeComment": 4
+    },
+    {
+      "author": "Rui Miranda",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucrN1ChzsAuR31au-OTpnLienJZRruLrwjuSEf3l=w36-h36-p-c0x00000000-rp-mo-ba5-br100",
+      "comment": "Excelente..podes interagir com alguns dos animais..",
+      "gradeComment": 5
+    },
+    {
+      "author": "Linda Ornelas",
+      "photoAuthor": "https://lh3.googleusercontent.com/a/AItbvmmkehnGE6LQEhMpawtrr5b326eF5DZlOoeVdvy7=w36-h36-p-c0x00000000-rp-mo-br100",
+      "comment": "Adorei a experiência de ver tantos macacos e poder estar com os animais que andavam à solta. O preço é acessível.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Filipa Araujo",
+      "photoAuthor": "https://lh3.googleusercontent.com/a/AItbvmna01Jsn9mI9_21544asqXTjWN5HI33T3XyGYLy=w36-h36-p-c0x00000000-rp-mo-br100",
+      "comment": "Um parque muito giro de se visitar, a interação com os animais não tem preço 😍",
+      "gradeComment": 5
+    },
+    {
+      "author": "Rui Ferreira",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucrpp5YgmhWSsvfXqCN4ol8en-5Smkh4TjF6SMjuBA=w36-h36-p-c0x00000000-rp-mo-ba3-br100",
+      "comment": "Engraçado... Jovens vão adorar!",
+      "gradeComment": 4
+    },
+    {
+      "author": "Diogo Monteiro",
+      "photoAuthor": "https://lh3.googleusercontent.com/a/AItbvmmhXwQ18wL78LpmSZsPvNmjyUhUjapxmyMlvaGv=w36-h36-p-c0x00000000-rp-mo-br100",
+      "comment": "Adorei",
+      "gradeComment": 5
+    },
+    {
+      "author": "Jennie Court",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucpHn7ZTDnWHWlmCG5rWv6PUtYjWi6w_zfdOVhwpmg=w36-h36-p-c0x00000000-rp-mo-br100",
+      "comment": "(Tradução do Google) Visitei Monkey Park com meu marido e filho de 3 anos. Nós realmente gostamos; foi um ótimo custo-benefício em € 20 para adultos e menores de 5 anos são gratuitos. Também compramos ração animal, que custava apenas € 3, pois você pode alimentar alguns dos macacos, pássaros, répteis e cobaias.  Eles têm alguns recintos pelos quais você pode caminhar e se alimentar, como acima, e outros para ver como um zoológico normal. Grandes recintos para que os animais tenham muito espaço dentro e as informações estão em inglês e espanhol.  A única desvantagem é que não há restaurante/café, são apenas os animais, então esteja preparado e leve comida/bebida com você.  (Original) I visited Monkey Park with my husband and 3 year old son. We really enjoyed it; it was great value for money at €20 for both adults and under 5s are free. We bought animal food also which was only €3 as you can feed some of the monkeys, birds, reptiles and guinea pigs.  They have some enclosures you can walk through and feed, as above, and others to view like a normal zoo. Large enclosures so animals have lots of space inside and information is in English and Spanish.  Only downside is there's no restaurant/cafe, its just the animals, so be prepared and take food/drink with you.",
+      "gradeComment": 4
+    },
+    {
+      "author": "Nicole Schmidt",
+      "photoAuthor": "https://lh3.googleusercontent.com/a/AItbvmlIsyf-qiLr7yCtX5NpXZqfw3jIXf8Oo9IoOR5s=w36-h36-p-c0x00000000-rp-mo-br100",
+      "comment": "(Tradução do Google) Este Monkey Park é um destaque absoluto. Há muitos porquinhos da índia que você pode se alimentar com vegetais frescos.O recinto é enorme e muito agradável para os animais. Existem muitas espécies diferentes de macacos e recintos muito grandes. O parque é muito claro e tudo lindamente projetado para os animais. Muitos tratadores cuidam dos animais, todos com comida fresca. Nós gostamos muito. É um pouco difícil de encontrar e a entrada custa apenas 10 euros, acho que é muito pouco para um parque tão amigo dos animais. Com certeza foi uma experiência muito legal.  (Original) Dieser Monkey Park ist ein absolutes Highlight. Es gibt dort sehr viele Meerschweinchen die man selber mit frischen Gemüse füttern kann das Gehege ist riesig und sehr schön für die Tiere. Es gibt sehr viele verschiedene Affenarten und sehr große Gehege. Der Park ist sehr übersichtlich und schön gestaltet alles für die Tiere. Um die Tiere kümmern sich viele Pfleger alle haben frisches Futter. Es hat uns sehr gut gefallen. Ist etwas schwierig zu finden und der Eintritt kostet nur 10 Euro ich finde das ist viel zu wenig Eintritt für so einen Tiergerechten Park. War auf jeden Fall ein sehr sehr schönes Erlebnis.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Not so Plain",
+      "photoAuthor": "https://lh3.googleusercontent.com/a/AItbvmk26y3yMxu8bdeFbbYi70P6rY1u_Vrb1XuaDe_M=w36-h36-p-c0x00000000-rp-mo-ba5-br100",
+      "comment": "(Tradução do Google) Tempo fabuloso no zoológico de macacos. Você pode alimentar alguns dos animais, os macacos são super, as cobaias estavam aos milhares, os recintos de pássaros pareciam fantásticos. Grande viagem para um par de horas. 10€ por pessoa. Estacionamento disponível. Máquinas de venda automática se precisar de uma bebida gelada.  (Original) Fabulous time at the monkey zoo. You can feed some of the animals, the monkeys are super, the guinea pigs were in the thousands, bird enclosures sounded fantastic. Great trip out for a couple of hours. €10 per person. Parking available. Vending machines if you need a cold drink.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Natalie Bedder",
+      "photoAuthor": "https://lh3.googleusercontent.com/a/AItbvmkTCWNKyEuPT1TY10OAghHSYXWuk7ldg-3lpW8K=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "(Tradução do Google) Um lugar tão lindo. A entrada é de 10€ por adulto e 5€ por criança. Demora cerca de duas horas para dar a volta.. Você não pode levar sua própria comida com você, pois os animais estão em uma dieta rigorosa, mas há um pote de comida que pode ser comprado na entrada por € 3 o pote. porcos e macacos com ele você mesmo. Uma viagem tão linda para que todos possam desfrutar. X  (Original) Such a lovely place. Its €10 per adult entry and €5 per child. It takes around a couple of hours to go round.. You can't take your own food with you as the animals are on a strict diet but there is a pot of food which can be purchased on entry for €3 a pot.. this is a well worth purchase as you can feed the guinea pigs and monkeys with it yourself. Such a lovely trip out for all to enjoy. X",
+      "gradeComment": 5
+    },
+    {
+      "author": "Dario De Lucia",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucrXR5J_u6KPirtK-MNDN47bAHPBT-C1MnfQDm-8ZG8=w36-h36-p-c0x00000000-rp-mo-ba6-br100",
+      "comment": "(Tradução do Google) Três estrelas para o custo de entrada 10€ para adultos e 3€ para comida para animais. A experiência dura 1h, mas além de 1 tartaruga, 2 iguanas, 5 macacos e 200 porquinhos-da-índia peruanos, você não poderá alimentar outros animais.  Para quem tem crianças, por outro lado, é altamente recomendado. O parque tem estacionamento, área de lanche e é limpo.  (Original) Tre stelle per il costo dell'ingresso 10€ adulti e con 3€ ti il cibo per gli animali. Esperienza dura 1h ma a parte 1 tartaruga, 2 iguane, 5 scimmie e 200 cavie peruviane non potrete dare da mangiare ad altri animali.  Per chi ha bambini invece molto consigliato. Il parco ha parcheggio, ha area snack ed è pulito.",
+      "gradeComment": 3
+    },
+    {
+      "author": "Anais D",
+      "photoAuthor": "https://lh3.googleusercontent.com/a/AItbvmmYU7RPRDMP5MKU7gY6OYz-AgYMJOrB36Un23aO=w36-h36-p-c0x00000000-rp-mo-br100",
+      "comment": "(Tradução do Google) Pequeno parque que não parece muito mas muito agradável!! Você pode entrar nas jaulas de certos animais e ver certas espécies bem de perto! Tínhamos levado a caixa de comida a 3€, as crianças gostaram muito de alimentar os animais!  A visita é feita de forma bastante rápida mas é muito agradável e o preço é razoável! Passeio para fazer com as crianças! A foto de recordação com os pássaros agradou muito as nossas crianças!  (Original) Petit parc qui ne paye pas de mine mais très sympa !! On peut entrer dans les cages de certains animaux et voir de très près certaines espèces ! Nous avions pris la boîte de nourriture à 3€ les enfants ont beaucoup aimé nourrir les animaux !  La visite se fait assez rapidement mais elle est très agréable et le prix est raisonnable ! Sortie à faire avec les enfants ! La photo souvenir avec les oiseaux à beaucoup plu à nos enfants !",
+      "gradeComment": 5
+    },
+    {
+      "author": "Danielle Scott",
+      "photoAuthor": "https://lh3.googleusercontent.com/a/AItbvmkgqRR3XOlqZWgAxp8hMAJwapTjXXeElYVE7twA=w36-h36-p-c0x00000000-rp-mo-ba2-br100",
+      "comment": "(Tradução do Google) Experiência absolutamente incrível poder segurar papagaios e alimentar lêmures, algo que você não pode fazer no Reino Unido. E pelo preço vale a pena planejar fazer! As crianças adoraram a variedade de animais e macacos que nunca viram, como babuínos. Não apenas macacos também pássaros, cobaias (centenas) tartarugas gigantes e iguanas. Todos os recintos eram bem conservados e grandes, com itens de enriquecimento. Definitivamente, compre alguns potes de comida para levar com você.  (Original) Absolutely amazing experience to be able to hold parrots and feed lemurs not something you are able to do in the UK. And for the price it is definitely worth planning to do! The kids loved the variety of animals and monkeys many they have never seen such as baboons. Not just monkeys also birds, guinea pigs (hundreds) giant tortoises and iguanas. All enclosures were well kept and large with enrichment items in. Definitely buy a couple of pots of food to take round with you.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Юлия Овсиенко",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucrKxgtGBgN0YGWLH6gXq88swJ-9R3hHW_cH7gOUlw=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "(Tradução do Google) Gostei do zoológico. A oportunidade de alimentar os porquinhos-da-índia (o parque está simplesmente repleto deles), tocar as tartarugas gigantes e iguanas, alimentar o macaco. Infelizmente, os lêmures estavam cheios, embora não tenhamos chegado tarde e fomos especiais para eles. Mas não tivemos sucesso (apenas olhamos para eles), mas eu recomendo. Talvez você tenha mais sorte. Comida 3 euros, bilhete 10 euros.  (Original) Понравился контактный зоопарк. Возможность покормить морских свинок ( парк просто кишит ними) потрогать гигантских черепах и игуан, покормит мартышку. Увы Лемуры были сыты, хотя пришли мы не поздно и шли спец на них. Но нам не удалось ( только посмотрели на них ) а так рекомендую. Может вам больше повезёт. Еда 3 евро , билетик 10 евро.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Anders Hejlsvig",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucqAmGBwAteMngRXWF2PPk0kDDCtT3QM7HNobx3ALQ=w36-h36-p-c0x00000000-rp-mo-ba5-br100",
+      "comment": "(Tradução do Google) Um parque pequeno, mas agradável, com uma variedade de macacos diferentes que eu nem sabia que existiam. Além disso, há muitos pássaros diferentes, cobaias e um crocodilo cubano. É possível alimentar alguns dos animais também. No geral, uma experiência agradável e barata por 2-3 horas. Parece que os animais são bem tratados.  (Original) A small, but nice park with a variety of different monkeys that I didn’t even know existed. Also, there is a lot of different birds, guinea pigs and a Cuban crocodile. It is possible to feed some of the animals too. Overall a nice and cheap experience for 2-3 hours. Looks like the animals are treated well.",
+      "gradeComment": 4
+    },
+    {
+      "author": "Hata Hata",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucrOT_uZGtNxHwzbPwrxfSAAlmfv7Pd7--F5-jZNqw=w36-h36-p-c0x00000000-rp-mo-ba5-br100",
+      "comment": "(Tradução do Google) Preço justo. Não é um zoológico muito grande, mas um lugar bastante divertido para ir.  Como você pode ver nas fotos, os animais são bem tratados neste zoológico. Eles não têm medo de que as pessoas se aproximem deles.  Todo o zoológico é bastante limpo, os funcionários trabalham muito bem em manter a limpeza. Nenhum cheiro estranho.  O estacionamento fica em frente à entrada e é gratuito.  Muito adequado para a família para visitar lá.  (Original) Fair price. It’s not a very big zoo but quite a fun place to go.  As you can see from the pictures, animals are well-treated in this zoo. They are not afraid of people getting closer to them.  The entire zoo is quite clean, staffs work quite well on keeping the cleanliness. No strange smell at all.  Parking is just in front of the entrance and it’s free of charge.  Very suitable for family to visit there.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Remek Rytlewski",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucqGfHGvgonDuyDepQHFANB_m9f12jN2cpigpsBaqg=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "(Tradução do Google) Um parque pequeno, mas interessante, com macacos e, embora isso seja um eufemismo, porque provavelmente há muito mais cobaias, é uma boa alternativa a outras atrações desse tipo. Não há muitos macacos e o parque em si não é demais, mas vale muito a pena ver. As crianças pequenas que terão contato próximo com cobaias, macacos e pássaros ficarão especialmente satisfeitas. Não que pode ser alimentado com alimentos especiais adquiridos localmente. Eu recomendo  (Original) A small but interesting park with monkeys and although this is an understatement because there are probably so many more guinea pigs, it is a nice alternative to other attractions of this type.  There are not many monkeys and the park itself is not too many, but it is really worth seeing.  Young children who will have close contact with guinea pigs, monkeys and birds will be especially pleased.  Not which can be fed with special food purchased locally.  I recommend",
+      "gradeComment": 3
+    },
+    {
+      "author": "Mal Bel",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucpsZDYFzqYZzuSwPKlZ7SSpe9hiLd1j7XEt_PbHYJc=w36-h36-p-c0x00000000-rp-mo-br100",
+      "comment": "(Tradução do Google) Melhor atração de Tenerife para meus filhos de 7 e 9 anos. (E fomos ao parque Siam - eles ainda preferiam o zoológico de macacos). Eles adoraram tanto que fomos duas vezes - taxa de entrada muito acessível a € 30 para 2 crianças e 2 adultos. Oportunidade de segurar papagaios e tirar fotos por 8€. Você pode alimentar macacos, mas por volta das 12 horas eles não estavam tão interessados ​​em comer, talvez chegar mais cedo seria melhor. Oportunidade incrível de estar tão perto de tantos animais diferentes. Qualquer amante dos animais irá apreciar este pequeno local. O cenário era tão limpo, arrumado. Parque de estacionamento gratuito no exterior.  (Original) Best Tenerife attraction for my children 7 and 9. ( And we went to the Siam park-they still preferred the monkey zoo).They loved it so much we went twice- entrance fee very affordable at €30 for 2 kids and 2 adults.  Opportunity to hold Parrots and have pic taken for €8. You can feed monkeys but at around 12 they weren't so interested in eating, maybe coming earlier would be better. Amazing opportunity to be so close to so many different animals. Any animal lover   will appreciate this little place. The setting was so clean, tidy. Free car park outside.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Rachael Harrison",
+      "photoAuthor": "https://lh3.googleusercontent.com/a/AItbvmnGb51phxcFkTGoHcQzsjKIFj3bWHGBNXZgbqpW=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "(Tradução do Google) Muito limpo e arrumado. Os animais são claramente bem cuidados. Não espere um café chique ou uma grande loja de presentes. É bom e pequeno, discreto, excelente custo-benefício.  (Original) Very clean and tidy.  Animals are clearly well looked after.  Don't expect fancy café or big gift shop.  It's nice and small, low-key, excellent value for money.",
+      "gradeComment": 4
+    },
+    {
+      "author": "Holger v.d. Linde",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZuco1k7VXe33KxnfMbHWGF3hnMgB1T4vZd17O_ktpVrM=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "We had an awesome experience here with beautiful animals and great people working here. Wonderful lady from Peru at ticket office, great guy from Argentina taking care of the animals. We had monkeys and parrots sitting on our shoulders, we hand -fed several animals. Parrots were repeating what were saying. We had a marvelous time here!",
+      "gradeComment": 5
+    }
+  ],
+  "peakHours": [
+    {
+      "Sunday": [
+        {
+          "hour": "09:00",
+          "percent": 21
+        },
+        {
+          "hour": "10:00",
+          "percent": 48
+        },
+        {
+          "hour": "11:00",
+          "percent": 81
+        },
+        {
+          "hour": "12:00",
+          "percent": 100
+        },
+        {
+          "hour": "13:00",
+          "percent": 88
+        },
+        {
+          "hour": "14:00",
+          "percent": 56
+        },
+        {
+          "hour": "15:00",
+          "percent": 26
+        }
+      ]
+    },
+    {
+      "Monday": [
+        {
+          "hour": "09:00",
+          "percent": 29
+        },
+        {
+          "hour": "10:00",
+          "percent": 59
+        },
+        {
+          "hour": "11:00",
+          "percent": 88
+        },
+        {
+          "hour": "12:00",
+          "percent": 94
+        },
+        {
+          "hour": "13:00",
+          "percent": 74
+        },
+        {
+          "hour": "14:00",
+          "percent": 42
+        },
+        {
+          "hour": "15:00",
+          "percent": 19
+        }
+      ]
+    },
+    {
+      "Tuesday": [
+        {
+          "hour": "09:00",
+          "percent": 22
+        },
+        {
+          "hour": "10:00",
+          "percent": 53
+        },
+        {
+          "hour": "11:00",
+          "percent": 84
+        },
+        {
+          "hour": "12:00",
+          "percent": 92
+        },
+        {
+          "hour": "13:00",
+          "percent": 73
+        },
+        {
+          "hour": "14:00",
+          "percent": 46
+        },
+        {
+          "hour": "15:00",
+          "percent": 25
+        }
+      ]
+    },
+    {
+      "Wednesday": [
+        {
+          "hour": "09:00",
+          "percent": 34
+        },
+        {
+          "hour": "10:00",
+          "percent": 61
+        },
+        {
+          "hour": "11:00",
+          "percent": 83
+        },
+        {
+          "hour": "12:00",
+          "percent": 88
+        },
+        {
+          "hour": "13:00",
+          "percent": 72
+        },
+        {
+          "hour": "14:00",
+          "percent": 47
+        },
+        {
+          "hour": "15:00",
+          "percent": 25
+        }
+      ]
+    },
+    {
+      "Thursday": [
+        {
+          "hour": "09:00",
+          "percent": 24
+        },
+        {
+          "hour": "10:00",
+          "percent": 53
+        },
+        {
+          "hour": "11:00",
+          "percent": 85
+        },
+        {
+          "hour": "12:00",
+          "percent": 98
+        },
+        {
+          "hour": "13:00",
+          "percent": 82
+        },
+        {
+          "hour": "14:00",
+          "percent": 50
+        },
+        {
+          "hour": "15:00",
+          "percent": 24
+        }
+      ]
+    },
+    {
+      "Friday": [
+        {
+          "hour": "09:00",
+          "percent": 18
+        },
+        {
+          "hour": "10:00",
+          "percent": 58
+        },
+        {
+          "hour": "11:00",
+          "percent": 88
+        },
+        {
+          "hour": "12:00",
+          "percent": 76
+        },
+        {
+          "hour": "13:00",
+          "percent": 61
+        },
+        {
+          "hour": "14:00",
+          "percent": 48
+        },
+        {
+          "hour": "15:00",
+          "percent": 26
+        }
+      ]
+    },
+    {
+      "Saturday": [
+        {
+          "hour": "09:00",
+          "percent": 26
+        },
+        {
+          "hour": "10:00",
+          "percent": 53
+        },
+        {
+          "hour": "11:00",
+          "percent": 81
+        },
+        {
+          "hour": "12:00",
+          "percent": 95
+        },
+        {
+          "hour": "13:00",
+          "percent": 84
+        },
+        {
+          "hour": "14:00",
+          "percent": 57
+        },
+        {
+          "hour": "15:00",
+          "percent": 30
+        }
+      ]
+    }
+  ],
+  "relatedSearches": [
+    "monkey park tenerife tickets",
+    "monkey park tenerife bus",
+    "jungle park or monkey park tenerife",
+    "monkey park tickets",
+    "monkey park tenerife map",
+    "monkey park tenerife animal welfare",
+    "monkey park tenerife reviews",
+    "monkey park tenerife tripadvisor"
+  ],
+  "relateds": [
+    {
+      "mainName": "Park Los Cristianos",
+      "url": null
+    },
+    {
+      "mainName": "Jungle Park",
+      "url": null
+    },
+    {
+      "mainName": "Siam Park",
+      "url": null
+    },
+    {
+      "mainName": "Loro Parque",
+      "url": null
+    },
+    {
+      "mainName": "Los Cristianos Harbour",
+      "url": null
+    },
+    {
+      "mainName": "Camel Park",
+      "url": null
+    },
+    {
+      "mainName": "Central Park of Arona",
+      "url": null
+    },
+    {
+      "mainName": "Aqualand Costa Adeje",
+      "url": null
+    },
+    {
+      "mainName": "Pirâmides de Güímar",
+      "url": null
+    },
+    {
+      "mainName": "Mariposario del Drago",
+      "url": null
+    },
+    {
+      "mainName": "Aloe Park Tenerife",
+      "url": null
+    },
+    {
+      "mainName": "Lanzarote Aquarium",
+      "url": null
+    },
+    {
+      "mainName": "Karting Club Tenerife",
+      "url": null
+    },
+    {
+      "mainName": "Playa Punta De Teno",
+      "url": null
+    },
+    {
+      "mainName": "Beach of the Views",
+      "url": null
+    },
+    {
+      "mainName": "Cueva del Viento",
+      "url": null
+    },
+    {
+      "mainName": "Playa De Los Tarajales",
+      "url": null
+    },
+    {
+      "mainName": "Barranco del Infierno",
+      "url": null
+    },
+    {
+      "mainName": "Chinyero",
+      "url": null
+    },
+    {
+      "mainName": "Cocodrilo Park Gran Canaria",
+      "url": null
+    },
+    {
+      "mainName": "Rancho Texas Lanzarote park",
+      "url": null
+    },
+    {
+      "mainName": "Oasis Wildlife Fuerteventura",
+      "url": null
+    },
+    {
+      "mainName": "Palmitos Park",
+      "url": null
+    }
+  ]
+}

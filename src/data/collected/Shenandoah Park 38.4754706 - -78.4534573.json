@@ -1,0 +1,904 @@
+{
+  "mainName": "Shenandoah Park",
+  "slug": "parque-nacional-de-shenandoah",
+  "category": "Parque nacional",
+  "locationInformation": {
+    "latitude": "38.4754706",
+    "longitude": "-78.4534573"
+  },
+  "basicInformation": [
+    {
+      "label": "endereço",
+      "tooltip": "Copiar endereço",
+      "text": "Virginia, Estados Unidos",
+      "icon": "https://www.gstatic.com/images/icons/material/system_gm/1x/place_gm_blue_24dp.png"
+    },
+    {
+      "label": "website",
+      "tooltip": "Abrir website",
+      "text": "nps.gov",
+      "icon": "https://www.gstatic.com/images/icons/material/system_gm/1x/public_gm_blue_24dp.png"
+    },
+    {
+      "label": "telefone",
+      "tooltip": "Copiar número de telefone",
+      "text": "+1 540-999-3500",
+      "icon": "https://www.gstatic.com/images/icons/material/system_gm/1x/phone_gm_blue_24dp.png"
+    },
+    {
+      "label": "Code",
+      "tooltip": "Copiar Plus Code",
+      "text": "FGGW+5J Jollett, Virgínia, EUA",
+      "icon": "https://maps.gstatic.com/mapfiles/maps_lite/images/2x/ic_plus_code.png"
+    }
+  ],
+  "ratingInformation": {
+    "basicRatingInformation": {
+      "averageGrade": 4.8,
+      "totalOfEvaluations": 13885
+    },
+    "ratingsByGrade": [
+      {
+        "grade": 5,
+        "totalRatings": 12066
+      },
+      {
+        "grade": 4,
+        "totalRatings": 1423
+      },
+      {
+        "grade": 3,
+        "totalRatings": 250
+      },
+      {
+        "grade": 2,
+        "totalRatings": 52
+      },
+      {
+        "grade": 1,
+        "totalRatings": 94
+      }
+    ]
+  },
+  "ratingTags": [
+    {
+      "tag": "mirante",
+      "count": 362,
+      "tooltip": "mirante, mencionado em 362 avaliações"
+    },
+    {
+      "tag": "guarda de caça",
+      "count": 169,
+      "tooltip": "guarda de caça, mencionado em 169 avaliações"
+    },
+    {
+      "tag": "folhagem de outono",
+      "count": 140,
+      "tooltip": "folhagem de outono, mencionado em 140 avaliações"
+    },
+    {
+      "tag": "centro de informações turísticas",
+      "count": 102,
+      "tooltip": "centro de informações turísticas, mencionado em 102 avaliações"
+    },
+    {
+      "tag": "urso-negro",
+      "count": 87,
+      "tooltip": "urso-negro, mencionado em 87 avaliações"
+    },
+    {
+      "tag": "passo de montanha",
+      "count": 85,
+      "tooltip": "passo de montanha, mencionado em 85 avaliações"
+    },
+    {
+      "tag": "circuito turístico",
+      "count": 48,
+      "tooltip": "circuito turístico, mencionado em 48 avaliações"
+    },
+    {
+      "tag": "mochileiro",
+      "count": 35,
+      "tooltip": "mochileiro, mencionado em 35 avaliações"
+    }
+  ],
+  "featuredPhotos": [
+    "https://lh5.googleusercontent.com/p/AF1QipPl7O_Yvc1xDlyFfSZr9612fYbFTPpRNdWZGCo=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipO4pneFHBZzu2KRVCZYF6tg7nAJNBega4KKZ3iv=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipO0tPXqTUtqZsU3DusRAOSeJHxDZu2pJFhvU6FE=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMxWzDW7Vb0BRJ3E9VGAWPmvecahULeCYkLGY5_=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOWtsIyxlBn2OeuvL_BehOlNFHowabZmpusXqZB=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOcNYki5pCZ2Uqy_tIvqj1c-1XUoCFrNTSgDbI=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMQT_SQEYnoNY5KgOblFz6qqGp6pBnaBLyGtXmv=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipN0FD3fWUdOrY2qetJWaZYBI1ZFFxBn_ZRDtaGW=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOw0VE_SQm3R_-Kd5_3TopiFWtNxMeKjBPtu8kn=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPbWQa69ZxS2sQow6UauJ4DrojrkfO9bXQFTAhC=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPrk6G8goF6TZzNcJgv4EbJyMHTvBE-iWzN4Jwt=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMCj5hQeJj4FbG3Vn86P6pVgT_dbhxZs8dWIeUd=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMCAbiGfagZqWaro2RmW1qG3ZfB6WRzLseLL9H3=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPueCyI4tbzOXKL4ZBqmW30sq6-us8gPnQxnrit=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNA9PdD4uHehD8tbB6ZuIBhHY1rWHBRdafa00tN=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNxDkL4Wy_S_49TfX-TEmNL48eX1EmU96xBhX_s=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPXxccgcC5k7XA7_Hu-Q55B3m8M2-tnBSm-8jiz=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNKXsuyYnHzi1yF7LG2jS5yx-yZSBSTGcSm64Xg=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipP2a-tOVSOAT3LYNRuB2dDP2qOFqOEp1nyHwnNI=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNXW0Mj62gHuBXCnFMUSneicSJ7vj_-xnNMv6PM=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPYiuc8D16eMACwQ0DeSjAgshbmSzTuT91bUXra=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOXwE-GCkABzMYCP6Yj-1V4o0Wg5Buedv3tLpwN=w1024-h576-k-no"
+  ],
+  "topComments": [
+    {
+      "author": "Cristiano Peres",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucomcIHYyGEvGFiUk00F3D1HcwijPyV2ZzQ9CZDjOw=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "Estrutura muito boa mais eu não voltaria",
+      "gradeComment": 4
+    },
+    {
+      "author": "Antonio Silva (Tonze)",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucpjb69glCMCxJ-f3jGwAY7YhDOs_9z1awJYin1uzu4=w36-h36-p-c0x00000000-rp-mo-ba5-br100",
+      "comment": "Muito bom",
+      "gradeComment": 5
+    },
+    {
+      "author": "José Roosevelt",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucraKx0AfLyppoO_SUDW5c3H0jGAs6yiOB4Y_8HkEhg=w36-h36-p-c0x00000000-rp-mo-ba5-br100",
+      "comment": "não é o que você vai encontrar o pai de uma forma uma hora para a sua atenção att eu não vou poder fazer a outra pessoa não tem o mesmo que seja feito pra comer um pedaço da manhã do meu iPad de 333 e não consegui abrir a página da internet tá impossível para que possamos dar baixa em sistema não está mais do meu deus e não consegui abrir os anexos que te enviei no meu e-mail com os dados do cartão também eu não aguento esse é meu deus e vc como 8 8 pra você é uma pessoa muito obrigado pelo seu idolo e não consegui falar no seu computador é muito mais fácil pra você e não consegui falar contigo mas é claro oq é muito linda tá aí na agência do Itaú é azul com certeza vai ter um contato de e-mail com os dados do meu pai eu to de volta das eleições municipais e vc me enviou a mensagem reencaminhada para o meu",
+      "gradeComment": 5
+    },
+    {
+      "author": "Murilo Prando",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucpUP-RyiCGO5DCVyvfb7IsipfW5-VyLaNruQkJpdQ=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "Parque destinado principalmente a quem quer se dirigir de ponta a ponta e também a quem quer acampar. Conta com diversas áreas próprias para acampamento, com estrutura excelente",
+      "gradeComment": 5
+    },
+    {
+      "author": "Felipe Medeiros",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucqZPwYfvyclkQF0SSjj0KMnIgOYljqGR--x10-LUoA=w36-h36-p-c0x00000000-rp-mo-ba3-br100",
+      "comment": "Parque muito bonito, inclusive com neve no inverno!",
+      "gradeComment": 5
+    },
+    {
+      "author": "Dromo !!",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucrB68fdqjMHyQw2AGX7sW-FdZRD3MAq-mZcabh8=w36-h36-p-c0x00000000-rp-mo-br100",
+      "comment": "Lindo",
+      "gradeComment": 5
+    },
+    {
+      "author": "Sérgio Stella",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucq6robHnXAWjcTB8G8lLb6DSZ3u0qvbXPWphLXw9VM=w36-h36-p-c0x00000000-rp-mo-ba5-br100",
+      "comment": "Maravilhoso! Gostaria de dispor de mais tempo para explorar com mais intensidade.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Gláucia Salem",
+      "photoAuthor": "https://lh3.googleusercontent.com/a/AItbvmlZtM60ZGXLSWwUY9oB9PepZi4NsZEpKH_mH-Ar=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "Lindo Parque. Natureza exuberante!",
+      "gradeComment": 5
+    },
+    {
+      "author": "LUIZ HENRIQUE GUERRERO",
+      "photoAuthor": "https://lh3.googleusercontent.com/a/AItbvmn8vL917jqbLj2ApILFAzCRzVVpNnPtB6gaJPBE=w36-h36-p-c0x00000000-rp-mo-ba5-br100",
+      "comment": "Um lindo passeio. Principalmente no outono.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Lane Santos",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucqVFwOnBo93IGYsK17mimWJ0WwQQkPgQsVsHGqUlw=w36-h36-p-c0x00000000-rp-mo-ba3-br100",
+      "comment": "É sem dúvidas um lugar maravilhoso!",
+      "gradeComment": 4
+    },
+    {
+      "author": "Nathalia Akucewich",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucqngnceg9oL47TYP4csULzItOMwbx1WZD6yrJ3AU2c=w36-h36-p-c0x00000000-rp-mo-br100",
+      "comment": "Umas das melhores experiências da vida.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Ubiratan Modesto",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucqsV3RZ6776D6igZhzJNQuhWVyOOvRaXS-OFJWBsKc=w36-h36-p-c0x00000000-rp-mo-ba3-br100",
+      "comment": "Muito bom",
+      "gradeComment": 1
+    },
+    {
+      "author": "Richard Estevam",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucrnU3drDl5ux0bNK48IJjIFybNZjnc0LB8W2A05TQ=w36-h36-p-c0x00000000-rp-mo-ba3-br100",
+      "comment": "Muito bom",
+      "gradeComment": 5
+    },
+    {
+      "author": "simcha weinberger",
+      "photoAuthor": "https://lh3.googleusercontent.com/a/AItbvmlqNXYOt981JTwBntx0lvrBuRF4e4k4Zj1AdQOC=w36-h36-p-c0x00000000-rp-mo-br100",
+      "comment": "Lindo",
+      "gradeComment": 5
+    },
+    {
+      "author": "Waldenor Nunes",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucp143B2zsZzh9UwjvKcQuFBcSq5DYLOf2lCJmry_nI=w36-h36-p-c0x00000000-rp-mo-ba3-br100",
+      "comment": "Ótimo",
+      "gradeComment": 5
+    },
+    {
+      "author": "Conrado Braga",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucpT68gvNb2ucxcGyKo1s2bRXTipwLWwnKW-axIH-Kg=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "Lugar maravilhoso!",
+      "gradeComment": 5
+    },
+    {
+      "author": "João Gretzitz (Jan)",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucr2SfG_4tELXjaZkp1vBkx8D8MEd9AO8ymgwbbc6g=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "Excelente",
+      "gradeComment": 5
+    },
+    {
+      "author": "Hercules Neves Dias",
+      "photoAuthor": "https://lh3.googleusercontent.com/a/AItbvmm_YxOQG-W58Y_uNCR21-AbMFyWhEQcfo2XOKSl=w36-h36-p-c0x00000000-rp-mo-ba2-br100",
+      "comment": "Ótimo",
+      "gradeComment": 5
+    },
+    {
+      "author": "Leyb Queiroz",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucpkP_SvdeZ5_X5Oxtw_GHe0f1ESKHel9lZOpxnqSYE=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "Excelente.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Heráclito de Freitas Valle Corrêa",
+      "photoAuthor": "https://lh3.googleusercontent.com/a/AItbvmkLSWLDwr5n-R0jh7vFIJuA8IVBzZsw4DoEyzCQ=w36-h36-p-c0x00000000-rp-mo-ba3-br100",
+      "comment": "Excelente.",
+      "gradeComment": 5
+    }
+  ],
+  "peakHours": [
+    {
+      "Sunday": [
+        {
+          "hour": "04:00",
+          "percent": 14
+        },
+        {
+          "hour": "05:00",
+          "percent": 19
+        },
+        {
+          "hour": "06:00",
+          "percent": 25
+        },
+        {
+          "hour": "07:00",
+          "percent": 33
+        },
+        {
+          "hour": "08:00",
+          "percent": 41
+        },
+        {
+          "hour": "09:00",
+          "percent": 51
+        },
+        {
+          "hour": "10:00",
+          "percent": 62
+        },
+        {
+          "hour": "11:00",
+          "percent": 73
+        },
+        {
+          "hour": "12:00",
+          "percent": 82
+        },
+        {
+          "hour": "13:00",
+          "percent": 87
+        },
+        {
+          "hour": "14:00",
+          "percent": 84
+        },
+        {
+          "hour": "15:00",
+          "percent": 74
+        },
+        {
+          "hour": "16:00",
+          "percent": 58
+        },
+        {
+          "hour": "17:00",
+          "percent": 42
+        },
+        {
+          "hour": "18:00",
+          "percent": 28
+        },
+        {
+          "hour": "19:00",
+          "percent": 17
+        },
+        {
+          "hour": "20:00",
+          "percent": 11
+        },
+        {
+          "hour": "21:00",
+          "percent": 7
+        },
+        {
+          "hour": "22:00",
+          "percent": 5
+        },
+        {
+          "hour": "23:00",
+          "percent": 5
+        },
+        {
+          "hour": "00:00",
+          "percent": 5
+        },
+        {
+          "hour": "01:00",
+          "percent": 6
+        },
+        {
+          "hour": "02:00",
+          "percent": 8
+        },
+        {
+          "hour": "03:00",
+          "percent": 10
+        }
+      ]
+    },
+    {
+      "Monday": [
+        {
+          "hour": "04:00",
+          "percent": 2
+        },
+        {
+          "hour": "05:00",
+          "percent": 4
+        },
+        {
+          "hour": "06:00",
+          "percent": 8
+        },
+        {
+          "hour": "07:00",
+          "percent": 13
+        },
+        {
+          "hour": "08:00",
+          "percent": 18
+        },
+        {
+          "hour": "09:00",
+          "percent": 25
+        },
+        {
+          "hour": "10:00",
+          "percent": 31
+        },
+        {
+          "hour": "11:00",
+          "percent": 37
+        },
+        {
+          "hour": "12:00",
+          "percent": 41
+        },
+        {
+          "hour": "13:00",
+          "percent": 43
+        },
+        {
+          "hour": "14:00",
+          "percent": 41
+        },
+        {
+          "hour": "15:00",
+          "percent": 35
+        },
+        {
+          "hour": "16:00",
+          "percent": 27
+        },
+        {
+          "hour": "17:00",
+          "percent": 17
+        },
+        {
+          "hour": "18:00",
+          "percent": 9
+        },
+        {
+          "hour": "19:00",
+          "percent": 4
+        },
+        {
+          "hour": "20:00",
+          "percent": 1
+        }
+      ]
+    },
+    {
+      "Tuesday": [
+        {
+          "hour": "07:00",
+          "percent": 2
+        },
+        {
+          "hour": "08:00",
+          "percent": 7
+        },
+        {
+          "hour": "09:00",
+          "percent": 13
+        },
+        {
+          "hour": "10:00",
+          "percent": 20
+        },
+        {
+          "hour": "11:00",
+          "percent": 26
+        },
+        {
+          "hour": "12:00",
+          "percent": 29
+        },
+        {
+          "hour": "13:00",
+          "percent": 30
+        },
+        {
+          "hour": "14:00",
+          "percent": 27
+        },
+        {
+          "hour": "15:00",
+          "percent": 23
+        },
+        {
+          "hour": "16:00",
+          "percent": 17
+        },
+        {
+          "hour": "17:00",
+          "percent": 11
+        },
+        {
+          "hour": "18:00",
+          "percent": 7
+        },
+        {
+          "hour": "19:00",
+          "percent": 4
+        },
+        {
+          "hour": "20:00",
+          "percent": 2
+        },
+        {
+          "hour": "21:00",
+          "percent": 1
+        }
+      ]
+    },
+    {
+      "Wednesday": [
+        {
+          "hour": "04:00",
+          "percent": 1
+        },
+        {
+          "hour": "05:00",
+          "percent": 2
+        },
+        {
+          "hour": "06:00",
+          "percent": 3
+        },
+        {
+          "hour": "07:00",
+          "percent": 5
+        },
+        {
+          "hour": "08:00",
+          "percent": 9
+        },
+        {
+          "hour": "09:00",
+          "percent": 15
+        },
+        {
+          "hour": "10:00",
+          "percent": 23
+        },
+        {
+          "hour": "11:00",
+          "percent": 31
+        },
+        {
+          "hour": "12:00",
+          "percent": 37
+        },
+        {
+          "hour": "13:00",
+          "percent": 37
+        },
+        {
+          "hour": "14:00",
+          "percent": 31
+        },
+        {
+          "hour": "15:00",
+          "percent": 22
+        },
+        {
+          "hour": "16:00",
+          "percent": 14
+        },
+        {
+          "hour": "17:00",
+          "percent": 7
+        },
+        {
+          "hour": "18:00",
+          "percent": 4
+        },
+        {
+          "hour": "19:00",
+          "percent": 3
+        },
+        {
+          "hour": "20:00",
+          "percent": 2
+        },
+        {
+          "hour": "21:00",
+          "percent": 2
+        },
+        {
+          "hour": "22:00",
+          "percent": 1
+        }
+      ]
+    },
+    {
+      "Thursday": [
+        {
+          "hour": "05:00",
+          "percent": 2
+        },
+        {
+          "hour": "06:00",
+          "percent": 4
+        },
+        {
+          "hour": "07:00",
+          "percent": 6
+        },
+        {
+          "hour": "08:00",
+          "percent": 9
+        },
+        {
+          "hour": "09:00",
+          "percent": 14
+        },
+        {
+          "hour": "10:00",
+          "percent": 21
+        },
+        {
+          "hour": "11:00",
+          "percent": 28
+        },
+        {
+          "hour": "12:00",
+          "percent": 33
+        },
+        {
+          "hour": "13:00",
+          "percent": 34
+        },
+        {
+          "hour": "14:00",
+          "percent": 31
+        },
+        {
+          "hour": "15:00",
+          "percent": 24
+        },
+        {
+          "hour": "16:00",
+          "percent": 15
+        },
+        {
+          "hour": "17:00",
+          "percent": 8
+        },
+        {
+          "hour": "18:00",
+          "percent": 2
+        }
+      ]
+    },
+    {
+      "Friday": [
+        {
+          "hour": "08:00",
+          "percent": 1
+        },
+        {
+          "hour": "09:00",
+          "percent": 7
+        },
+        {
+          "hour": "10:00",
+          "percent": 13
+        },
+        {
+          "hour": "11:00",
+          "percent": 19
+        },
+        {
+          "hour": "12:00",
+          "percent": 24
+        },
+        {
+          "hour": "13:00",
+          "percent": 26
+        },
+        {
+          "hour": "14:00",
+          "percent": 25
+        },
+        {
+          "hour": "15:00",
+          "percent": 22
+        },
+        {
+          "hour": "16:00",
+          "percent": 18
+        },
+        {
+          "hour": "17:00",
+          "percent": 13
+        },
+        {
+          "hour": "18:00",
+          "percent": 9
+        },
+        {
+          "hour": "19:00",
+          "percent": 6
+        },
+        {
+          "hour": "20:00",
+          "percent": 5
+        },
+        {
+          "hour": "21:00",
+          "percent": 6
+        },
+        {
+          "hour": "22:00",
+          "percent": 7
+        },
+        {
+          "hour": "23:00",
+          "percent": 9
+        },
+        {
+          "hour": "00:00",
+          "percent": 9
+        },
+        {
+          "hour": "01:00",
+          "percent": 8
+        },
+        {
+          "hour": "02:00",
+          "percent": 6
+        },
+        {
+          "hour": "03:00",
+          "percent": 2
+        }
+      ]
+    },
+    {
+      "Saturday": [
+        {
+          "hour": "04:00",
+          "percent": 15
+        },
+        {
+          "hour": "05:00",
+          "percent": 11
+        },
+        {
+          "hour": "06:00",
+          "percent": 11
+        },
+        {
+          "hour": "07:00",
+          "percent": 15
+        },
+        {
+          "hour": "08:00",
+          "percent": 24
+        },
+        {
+          "hour": "09:00",
+          "percent": 39
+        },
+        {
+          "hour": "10:00",
+          "percent": 56
+        },
+        {
+          "hour": "11:00",
+          "percent": 74
+        },
+        {
+          "hour": "12:00",
+          "percent": 89
+        },
+        {
+          "hour": "13:00",
+          "percent": 98
+        },
+        {
+          "hour": "14:00",
+          "percent": 100
+        },
+        {
+          "hour": "15:00",
+          "percent": 93
+        },
+        {
+          "hour": "16:00",
+          "percent": 82
+        },
+        {
+          "hour": "17:00",
+          "percent": 67
+        },
+        {
+          "hour": "18:00",
+          "percent": 52
+        },
+        {
+          "hour": "19:00",
+          "percent": 40
+        },
+        {
+          "hour": "20:00",
+          "percent": 32
+        },
+        {
+          "hour": "21:00",
+          "percent": 29
+        },
+        {
+          "hour": "22:00",
+          "percent": 28
+        },
+        {
+          "hour": "23:00",
+          "percent": 29
+        },
+        {
+          "hour": "00:00",
+          "percent": 29
+        },
+        {
+          "hour": "01:00",
+          "percent": 28
+        },
+        {
+          "hour": "02:00",
+          "percent": 25
+        },
+        {
+          "hour": "03:00",
+          "percent": 20
+        }
+      ]
+    }
+  ],
+  "relatedSearches": null,
+  "relateds": [
+    {
+      "mainName": "Old Rag",
+      "url": null
+    },
+    {
+      "mainName": "Vale do Shenandoah",
+      "url": null
+    },
+    {
+      "mainName": "Cavernas de Luray",
+      "url": null
+    },
+    {
+      "mainName": "Montanhas Blue Ridge",
+      "url": null
+    },
+    {
+      "mainName": "Big Meadows Lodge",
+      "url": null
+    },
+    {
+      "mainName": "Hawksbill Mountain",
+      "url": null
+    },
+    {
+      "mainName": "Big Meadows",
+      "url": null
+    },
+    {
+      "mainName": "Caminho dos Apalaches",
+      "url": null
+    },
+    {
+      "mainName": "Dickey Ridge Visitor Center",
+      "url": null
+    },
+    {
+      "mainName": "Whiteoak Canyon Trail",
+      "url": null
+    },
+    {
+      "mainName": "Shenandoah River State Park",
+      "url": null
+    },
+    {
+      "mainName": "Overall Run Falls",
+      "url": null
+    },
+    {
+      "mainName": "Dark Hollow Falls, Shenandoah National Park",
+      "url": null
+    },
+    {
+      "mainName": "New River Gorge National Park & Preserve",
+      "url": null
+    },
+    {
+      "mainName": "Montanhas Great Smoky",
+      "url": null
+    },
+    {
+      "mainName": "Shenandoah Caverns",
+      "url": null
+    },
+    {
+      "mainName": "Parque Nacional de Acadia",
+      "url": null
+    },
+    {
+      "mainName": "Busch Gardens Williamsburg",
+      "url": null
+    },
+    {
+      "mainName": "Harry F. Byrd, Sr. Visitor Center",
+      "url": null
+    },
+    {
+      "mainName": "Mount Vernon",
+      "url": null
+    },
+    {
+      "mainName": "Parque Nacional das Grandes Montanhas Fumegantes",
+      "url": null
+    },
+    {
+      "mainName": "Crescent Rock Overlook",
+      "url": null
+    }
+  ]
+}

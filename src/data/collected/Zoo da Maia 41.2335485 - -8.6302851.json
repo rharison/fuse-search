@@ -1,0 +1,637 @@
+{
+  "mainName": "Zoo da Maia",
+  "slug": "zoo-da-maia",
+  "category": "Zoológico",
+  "locationInformation": {
+    "latitude": "41.2335485",
+    "longitude": "-8.6302851"
+  },
+  "basicInformation": [
+    {
+      "label": "endereço",
+      "tooltip": "Copiar endereço",
+      "text": "R. Estação, 4470-184 Maia, Portugal",
+      "icon": "https://www.gstatic.com/images/icons/material/system_gm/1x/place_gm_blue_24dp.png"
+    },
+    {
+      "label": "website",
+      "tooltip": "Abrir website",
+      "text": "zoodamaia.pt",
+      "icon": "https://www.gstatic.com/images/icons/material/system_gm/1x/public_gm_blue_24dp.png"
+    },
+    {
+      "label": "telefone",
+      "tooltip": "Copiar número de telefone",
+      "text": "+351 22 944 2303",
+      "icon": "https://www.gstatic.com/images/icons/material/system_gm/1x/phone_gm_blue_24dp.png"
+    },
+    {
+      "label": "Code",
+      "tooltip": "Copiar Plus Code",
+      "text": "69M9+CV Maia, Portugal",
+      "icon": "https://maps.gstatic.com/mapfiles/maps_lite/images/2x/ic_plus_code.png"
+    }
+  ],
+  "ratingInformation": {
+    "basicRatingInformation": {
+      "averageGrade": 4.2,
+      "totalOfEvaluations": 6427
+    },
+    "ratingsByGrade": [
+      {
+        "grade": 5,
+        "totalRatings": 3140
+      },
+      {
+        "grade": 4,
+        "totalRatings": 2092
+      },
+      {
+        "grade": 3,
+        "totalRatings": 852
+      },
+      {
+        "grade": 2,
+        "totalRatings": 196
+      },
+      {
+        "grade": 1,
+        "totalRatings": 147
+      }
+    ]
+  },
+  "ratingTags": [
+    {
+      "tag": "leão-marinho",
+      "count": 120,
+      "tooltip": "leão-marinho, mencionado em 120 avaliações"
+    },
+    {
+      "tag": "espetáculo",
+      "count": 81,
+      "tooltip": "espetáculo, mencionado em 81 avaliações"
+    },
+    {
+      "tag": "tratados",
+      "count": 62,
+      "tooltip": "tratados, mencionado em 62 avaliações"
+    },
+    {
+      "tag": "sítio",
+      "count": 34,
+      "tooltip": "sítio, mencionado em 34 avaliações"
+    },
+    {
+      "tag": "passado",
+      "count": 20,
+      "tooltip": "passado, mencionado em 20 avaliações"
+    },
+    {
+      "tag": "tigre branco",
+      "count": 16,
+      "tooltip": "tigre branco, mencionado em 16 avaliações"
+    },
+    {
+      "tag": "visto",
+      "count": 14,
+      "tooltip": "visto, mencionado em 14 avaliações"
+    },
+    {
+      "tag": "esqueleto",
+      "count": 13,
+      "tooltip": "esqueleto, mencionado em 13 avaliações"
+    },
+    {
+      "tag": "dimensão",
+      "count": 13,
+      "tooltip": "dimensão, mencionado em 13 avaliações"
+    },
+    {
+      "tag": "o dia",
+      "count": 11,
+      "tooltip": "o dia, mencionado em 11 avaliações"
+    }
+  ],
+  "featuredPhotos": [
+    "https://lh5.googleusercontent.com/p/AF1QipOBWpm94HxmiVNqG_SGqfZrlKupDjzHqUxkUmcJ=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipP5DHD5Pg8KpRgcdATqv78k2VQRSZccSG2uaJ2g=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPn6lTQntcHrqploZh68-BRa9L-uYfkbroTizqg=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOPgsGubZnbfcLgWg1oFBolxzXSbCj40AsTtm2s=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNIXMPpdrSZeJQs1i8YsBwGY3quxSMfcJAhmTED=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNtO2RJRqXsZyqVc4iSMgGWAMqRCutkeA_PXheC=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMRbhwB99POv5Ny6tb9PN19S85e0YeeyI1-YUS0=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPjQ_g9A-wpACYMic4iNXq-rkC6irXDkZPVmqCT=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMmTHiToh9oRmz8c88xrPZd1i9J9LPouobHY2Te=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOD2yrqKVFUlBesV3dH84rwDIOuSyTDxSfIXOSC=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPOFpifU7an073YPeyAJJncCyDd5VJ2t5WrVIlT=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOk8Fbqoth1SDOCuj8W25foUKw2V8-_mf2NxyRn=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOw20800aYlcptLpsR6jRpw_JWGCT6pmVqJJPjH=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMZGBoEAbLwqfB-JJ4ufdxcxQgouV05K9w1zfrs=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOSaKV7UVFBMrUvPV2pq6J7ZYHgFclYCqu8w31k=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipM2xhd-jFsc2N1534e2kj6PQoTJoY-VSrK5mf6l=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOaz8tFgXQS3AVyZLQ-uCQ-SPRsKoKBpubYRSK9=w1024-h576-k-no"
+  ],
+  "topComments": [
+    {
+      "author": "Sr. Manwell Dos",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucq5TUeQuU3mUU7LhOPmwi7fYWi6GHx421Kx_KrbTg=w36-h36-p-c0x00000000-rp-mo-ba5-br100",
+      "comment": "Impecável! Tivemos uma manhã maravilhosa, cheia de boas memórias.  Cheguei cedo ao aeroporto Sá Carneiro, apanha o autocarro 406, 4 euros dois bilhetes, desci em frente ao zoo, na igreja. Depois esperei no parque de acolhimento, sentado e com sombra. O zoo abra as 10h. Fomos super bem recebidos na recepção, pessoas simpáticas e prestáveis, paguei 15 euros por dois bilhetes. Passeamos a manhã toda a ver os animais, andamos por locais cheio de vida, limpos e muito bem frequentados.  Escolhemos almoçar dentro do zoo, as pessoas foram super bem educadas, atenciosas, acolhedoras e eficazes. Pagamos 23 euros pelo prato do dia, com bebidas, sobremesa e café, duas pessoas. Fomos servidos à mesa, numa esplanada com vista para os animais. Tudo impecável.  Muito feliz!!  Flawless!  We had a wonderful morning full of good memories.  I arrived early to the airport Sá Carneiro, catch the bus 406, 4 euros two tickets, went down in front of the zoo, in the church, waited in the host park, sitting and shady.  The zoo open 10am.  We were very well received at the reception, people friendly and helpful, I paid 15 euros for two tickets.  We walked all morning to see the animals, walk by places full of life, clean and very well attended.  We chose to have lunch inside the zoo, people were very well educated, thoughtful, warm and efficient.  We paid 23 euros for the dish of the day, with drinks, dessert and coffee, two people.  We were served the table, on a terrace overlooking the animals.  All impeccable.  Very happy.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Joyce Moura",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucpqhfhFUej_FZ1s_0iKX7n2hZ6XN-jOxl_55O7azw=w36-h36-p-c0x00000000-rp-mo-ba2-br100",
+      "comment": "Foi uma experiência única! O zoologico fica de fácil acesso quem sai de Gaia, valor muito acessível a experiência que você viverá lá entro. Pretendo ir mais vezes, eu estou apaixonada por esta zebra super simpática.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Leila Souza",
+      "photoAuthor": "https://lh3.googleusercontent.com/a/AItbvmmtQFezgCdDpldQb2nd05CuECwR_8X2kUGmk0ln=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "Não é muito grande porém tem muitos animais. Achei muito bom porque não cansa muito. Os animais parecem bem cuidados. Um ótimo passeio para família",
+      "gradeComment": 5
+    },
+    {
+      "author": "Olga Delgado",
+      "photoAuthor": "https://lh3.googleusercontent.com/a/AItbvmk1ZMW-EKw7eQtabhFFJCIBXGm1eOKUcCqRYx5j=w36-h36-p-c0x00000000-rp-mo-ba3-br100",
+      "comment": "Foi uma actividade diferente para fazer com crianças. O zoo está bem tratado assim como os animais. Penso que poderia haver uma maior variedade de animais.",
+      "gradeComment": 4
+    },
+    {
+      "author": "Antonio Manuel Leitão Teixeira",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucpAquuMf5ca6PE6v810CZfi0CnHryxpZ_A5Va1nI9M=w36-h36-p-c0x00000000-rp-mo-ba5-br100",
+      "comment": "Local agradável, e pena ter pouca diversidade de animais, recomendo espetáculo com as aves.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Diogo Borges",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucpNNoeusSNcE2JQCBwSnb9caToN-gIOBr4MBEbe7g=w36-h36-p-c0x00000000-rp-mo-ba3-br100",
+      "comment": "Boa diversidade, tendo em conta o tamanho o zoo, que não é muito grande. Gostava de poder contar com evolução nesse aspecto. A primeira vez que visitei o zoo da maia tinha uns 7/8 anos, atualmente, 15 anos mais velho voltei lá e voltei a adorar! Atualmente o zoo está a apresentar ao público uma coleção de esqueletos, super interessante! Recomendo 👍",
+      "gradeComment": 4
+    },
+    {
+      "author": "Cristiano Oliveira",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucr8Da16NkcbLWkaDUkSSM5d_LwwnJWU6LdMsyzyBRg=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "Zoo de boa diversidade e excelentes tratadores/guias, óptimo espaço para festas infantis. Obrigado!",
+      "gradeComment": 5
+    },
+    {
+      "author": "Helder Robalo",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucrivnwNQefwD_VnnQsgXhxYeGg2Ttt8QZ7AVdFj0g=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "Experiência muito interessante, sobretudo para os mais novos dado que lhes permite contactar com espécies que, muitas vezes, apenas conhecem de ver na televisão. A apresentação de aves podia ser um pouco diferente, mas os mais novos adoraram na mesma.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Luffy é o rei",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucr5mZcpXLd7SZlZbF7PcVKGB2AI999Bh_1aNqHCeg=w36-h36-p-c0x00000000-rp-mo-ba2-br100",
+      "comment": "Espaço mal tratado e muita falta de organização, já foi um espaço de referência mas está um pouco ao abandono.",
+      "gradeComment": 3
+    },
+    {
+      "author": "DuQuE Mc",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucpC2heoQWx6JcBtPXPsmVa2SjsbFOAvNxsMP-Ui1Q=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "Gostei embora acho que falte algo mais atrativo para as crianças. Mas foi uma bela manhã lá passada",
+      "gradeComment": 5
+    },
+    {
+      "author": "Bruno Tavares",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZuco-kzG0nEyDRzgIFmgIFJgZeMZPyDMEb4I43gBBeQ=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "Muito bom,consegue se ver tudo e sem aglomerados...os miudos adoraram...",
+      "gradeComment": 5
+    },
+    {
+      "author": "Nádia Aires",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucrxrWt09AgsNSQUEiRlCf749xSFWChlWXnqPWFmqA=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "Espaço agradável, não muito grande, com sombra e alguma variedade. Gostei do espectáculo das aves mas o urso não me pareceu em muito bom estado. Houve animais que não consegui ver.",
+      "gradeComment": 4
+    },
+    {
+      "author": "Antonio Carneiro",
+      "photoAuthor": "https://lh3.googleusercontent.com/a/AItbvmkMvJVFlWdeJkLsTKZX39yEMo2IROS8rPDBpvbF=w36-h36-p-c0x00000000-rp-mo-ba3-br100",
+      "comment": "Não muito grande mas vale a pena, o valor para quem não mora na Maia um pouco elevado.",
+      "gradeComment": 4
+    },
+    {
+      "author": "Pedro Costa",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucr29M50B0epavdYCn_3V0aqGktYzdZBPDQLvO4BgYM=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "Zoológico com alguns animais. Incomparável ao zoo de Lisboa ou até ao de Santo Inácio pois esses têm mais animais. Todos os animais aparentavam boa saúde e cuidados necessários o que denota a atenção dos tratadores. Reptilário com um grande número de cobras, de variadíssimas espécies.  Pena, os visitantes que teimam em bater nos vidros e dar de comer aos animais. Falta muito bom senso.",
+      "gradeComment": 4
+    },
+    {
+      "author": "Joana Gomes",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucrBxMH14uJWSiBtrzTOK6Kc5GpvVxONTPLcgLhppA=w36-h36-p-c0x00000000-rp-mo-ba5-br100",
+      "comment": "Dá para passar uma tarde diferente. Os animais parecem bem tratados, porém poderia ter mais variedade. Não havia focas e leões marinhos. Assistimos a um bom espetáculo de aves.",
+      "gradeComment": 4
+    },
+    {
+      "author": "Franklin Soares",
+      "photoAuthor": "https://lh3.googleusercontent.com/a/AItbvmlxIMsUip1Yd9n38nuH-AfII_-W9ZteECkW2NfZ=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "Um zoo pequeno e muito bem cuidado. Ambientes limpos, os animais estão em espaços amplos e com fácil visualização, todos com o aspeto de serem bem cuidados.  Os vidros para visualização são novos e limpos o que deixa a experiência de observação incrível. Estive em outros zoo e o vidro geralmente muito arranhado não permite uma boa visualização.  O site possui todas as informações de acesso e a distância da estação do metro do fórum até o zoo não é grande, pode ser feita a pé de forma confortável.  Possui uma área com espaço infantil, mesas e casa de banho. Possui um restaurante com preços razoáveis.  Dos zoológicos de pequeno porte que conheço, este é o melhor até então.",
+      "gradeComment": 5
+    },
+    {
+      "author": "ELTON SANTOS",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucpkR-gL6hJNbvRdQww-lL_24XpHtqcz19L--NAP5w=w36-h36-p-c0x00000000-rp-mo-ba7-br100",
+      "comment": "O Zoo da Maia é pequeno mas bem cuidado, agradável limpo e aconchegante. O destaque é o seu serpentário com uma interessante gama de ofídeos de várias regiões do planeta, além de animais exóticos variados como tigre, leão marinho, zebra emu maciços e aves diversas incluindo animais domésticos e alguns répteis. Uma visita interessante e educativa para os jovens e adultos.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Mário Santos",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZuco48UjComVPQtqjK1KhnQPmjCL9KEBVl1j0Ow23=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "Poucos animais. Vê-se tudo em uma hora. Espetáculo das aves é giro.",
+      "gradeComment": 4
+    },
+    {
+      "author": "Mauro Vieira",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucpVbIUPiWStQ1rP6FtbUDQIVRT5CzKt0uaBiYegdw=w36-h36-p-c0x00000000-rp-mo-ba3-br100",
+      "comment": "Zoo pequeno mas com grande variedade de animais. Um dia bem passado com a família. A pequenita adorou ver os animais. Único ponto que a meu ver necessita de melhorias: podia ter mais indicações no interior do tipo \"você está aqui.\" juntamente com mapas do recinto, de modo a saber o que já visitei e o que falta visitar. Mas no global apesar de ser um ZOO mais pequeno vale bem a visita.",
+      "gradeComment": 4
+    },
+    {
+      "author": "Paula Silva",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucqVUHit7OQ5kqpYJVrc_SHPHya0eWtcAFGIdddUDQ=w36-h36-p-c0x00000000-rp-mo-ba3-br100",
+      "comment": "Local ótimo para passar uma tarde com as crianças. Local sossegado e limpo. Quando fui em Setembro de 2021 os locais para lanchar não estavam a funcionar",
+      "gradeComment": 4
+    }
+  ],
+  "peakHours": [
+    {
+      "Sunday": [
+        {
+          "hour": "10:00",
+          "percent": 23
+        },
+        {
+          "hour": "11:00",
+          "percent": 37
+        },
+        {
+          "hour": "12:00",
+          "percent": 46
+        },
+        {
+          "hour": "13:00",
+          "percent": 51
+        },
+        {
+          "hour": "14:00",
+          "percent": 65
+        },
+        {
+          "hour": "15:00",
+          "percent": 90
+        },
+        {
+          "hour": "16:00",
+          "percent": 100
+        },
+        {
+          "hour": "17:00",
+          "percent": 74
+        },
+        {
+          "hour": "18:00",
+          "percent": 36
+        }
+      ]
+    },
+    {
+      "Monday": [
+        {
+          "hour": "10:00",
+          "percent": 19
+        },
+        {
+          "hour": "11:00",
+          "percent": 27
+        },
+        {
+          "hour": "12:00",
+          "percent": 29
+        },
+        {
+          "hour": "13:00",
+          "percent": 29
+        },
+        {
+          "hour": "14:00",
+          "percent": 31
+        },
+        {
+          "hour": "15:00",
+          "percent": 33
+        },
+        {
+          "hour": "16:00",
+          "percent": 31
+        },
+        {
+          "hour": "17:00",
+          "percent": 22
+        },
+        {
+          "hour": "18:00",
+          "percent": 12
+        }
+      ]
+    },
+    {
+      "Tuesday": [
+        {
+          "hour": "10:00",
+          "percent": 14
+        },
+        {
+          "hour": "11:00",
+          "percent": 19
+        },
+        {
+          "hour": "12:00",
+          "percent": 23
+        },
+        {
+          "hour": "13:00",
+          "percent": 26
+        },
+        {
+          "hour": "14:00",
+          "percent": 28
+        },
+        {
+          "hour": "15:00",
+          "percent": 27
+        },
+        {
+          "hour": "16:00",
+          "percent": 22
+        },
+        {
+          "hour": "17:00",
+          "percent": 14
+        },
+        {
+          "hour": "18:00",
+          "percent": 8
+        }
+      ]
+    },
+    {
+      "Wednesday": [
+        {
+          "hour": "10:00",
+          "percent": 16
+        },
+        {
+          "hour": "11:00",
+          "percent": 19
+        },
+        {
+          "hour": "12:00",
+          "percent": 21
+        },
+        {
+          "hour": "13:00",
+          "percent": 25
+        },
+        {
+          "hour": "14:00",
+          "percent": 29
+        },
+        {
+          "hour": "15:00",
+          "percent": 29
+        },
+        {
+          "hour": "16:00",
+          "percent": 24
+        },
+        {
+          "hour": "17:00",
+          "percent": 16
+        },
+        {
+          "hour": "18:00",
+          "percent": 8
+        }
+      ]
+    },
+    {
+      "Thursday": [
+        {
+          "hour": "10:00",
+          "percent": 22
+        },
+        {
+          "hour": "11:00",
+          "percent": 29
+        },
+        {
+          "hour": "12:00",
+          "percent": 32
+        },
+        {
+          "hour": "13:00",
+          "percent": 34
+        },
+        {
+          "hour": "14:00",
+          "percent": 36
+        },
+        {
+          "hour": "15:00",
+          "percent": 35
+        },
+        {
+          "hour": "16:00",
+          "percent": 29
+        },
+        {
+          "hour": "17:00",
+          "percent": 21
+        },
+        {
+          "hour": "18:00",
+          "percent": 13
+        }
+      ]
+    },
+    {
+      "Friday": [
+        {
+          "hour": "10:00",
+          "percent": 28
+        },
+        {
+          "hour": "11:00",
+          "percent": 37
+        },
+        {
+          "hour": "12:00",
+          "percent": 39
+        },
+        {
+          "hour": "13:00",
+          "percent": 40
+        },
+        {
+          "hour": "14:00",
+          "percent": 45
+        },
+        {
+          "hour": "15:00",
+          "percent": 50
+        },
+        {
+          "hour": "16:00",
+          "percent": 47
+        },
+        {
+          "hour": "17:00",
+          "percent": 36
+        },
+        {
+          "hour": "18:00",
+          "percent": 21
+        }
+      ]
+    },
+    {
+      "Saturday": [
+        {
+          "hour": "10:00",
+          "percent": 25
+        },
+        {
+          "hour": "11:00",
+          "percent": 36
+        },
+        {
+          "hour": "12:00",
+          "percent": 40
+        },
+        {
+          "hour": "13:00",
+          "percent": 41
+        },
+        {
+          "hour": "14:00",
+          "percent": 49
+        },
+        {
+          "hour": "15:00",
+          "percent": 63
+        },
+        {
+          "hour": "16:00",
+          "percent": 67
+        },
+        {
+          "hour": "17:00",
+          "percent": 52
+        },
+        {
+          "hour": "18:00",
+          "percent": 28
+        }
+      ]
+    }
+  ],
+  "relatedSearches": null,
+  "relateds": [
+    {
+      "mainName": "Zoo Santo Inácio",
+      "url": null
+    },
+    {
+      "mainName": "Zoo de Lourosa",
+      "url": null
+    },
+    {
+      "mainName": "SEA LIFE Porto",
+      "url": null
+    },
+    {
+      "mainName": "Parque Biológico de Gaia",
+      "url": null
+    },
+    {
+      "mainName": "Parque Urbano dos Moutidos",
+      "url": null
+    },
+    {
+      "mainName": "Monte Selvagem Reserva Animal",
+      "url": null
+    },
+    {
+      "mainName": "Ecocaminho",
+      "url": null
+    },
+    {
+      "mainName": "Torre do Lidador",
+      "url": null
+    },
+    {
+      "mainName": "Magikland",
+      "url": null
+    },
+    {
+      "mainName": "Jardim Zoológico de Lisboa",
+      "url": null
+    },
+    {
+      "mainName": "Zoomarine Algarve, Portugal",
+      "url": null
+    },
+    {
+      "mainName": "Badoca Safari Park",
+      "url": null
+    },
+    {
+      "mainName": "Igreja de Águas Santas",
+      "url": null
+    },
+    {
+      "mainName": "Fluviário de Mora",
+      "url": null
+    },
+    {
+      "mainName": "Monumento à Comunidade Maiata",
+      "url": null
+    },
+    {
+      "mainName": "Zoo - Parque Zoológico de Lagos",
+      "url": null
+    },
+    {
+      "mainName": "Europaradise | Parque Zoológico",
+      "url": null
+    },
+    {
+      "mainName": "Forum Maia",
+      "url": null
+    },
+    {
+      "mainName": "Aquamuseu do Rio Minho",
+      "url": null
+    },
+    {
+      "mainName": "Estátua do Lidador",
+      "url": null
+    },
+    {
+      "mainName": "Santuário de Nossa Senhora do Bom Despacho",
+      "url": null
+    },
+    {
+      "mainName": "Zoo de Lourosa - Parque Ornitológico de Lourosa",
+      "url": null
+    },
+    {
+      "mainName": "Parque Biológico da Serra da Lousã",
+      "url": null
+    },
+    {
+      "mainName": "Parque da Maia",
+      "url": null
+    }
+  ]
+}

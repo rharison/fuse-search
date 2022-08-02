@@ -1,0 +1,977 @@
+{
+  "mainName": "Ponte dos Suspiros",
+  "slug": "ponte-dos-suspiros",
+  "category": "Ponte",
+  "locationInformation": {
+    "latitude": "-27.0948835",
+    "longitude": "-48.612318"
+  },
+  "basicInformation": [
+    {
+      "label": "endereço",
+      "tooltip": "Copiar endereço",
+      "text": "Orla Praia Central e rua 123 - Centro, Itapema - SC, 88220-000",
+      "icon": "https://www.gstatic.com/images/icons/material/system_gm/1x/place_gm_blue_24dp.png"
+    },
+    {
+      "label": "website",
+      "tooltip": "Abrir website",
+      "text": "itapema.sc.gov.br",
+      "icon": "https://www.gstatic.com/images/icons/material/system_gm/1x/public_gm_blue_24dp.png"
+    },
+    {
+      "label": "Code",
+      "tooltip": "Copiar Plus Code",
+      "text": "W94Q+23 Centro, Itapema - SC",
+      "icon": "https://maps.gstatic.com/mapfiles/maps_lite/images/2x/ic_plus_code.png"
+    },
+    {
+      "label": "merchant",
+      "text": "Reivindicar esta empresa",
+      "icon": "https://www.gstatic.com/images/icons/material/system_gm/1x/verified_user_gm_blue_24dp.png"
+    }
+  ],
+  "ratingInformation": {
+    "basicRatingInformation": {
+      "averageGrade": 4.6,
+      "totalOfEvaluations": 3560
+    },
+    "ratingsByGrade": [
+      {
+        "grade": 5,
+        "totalRatings": 2551
+      },
+      {
+        "grade": 4,
+        "totalRatings": 649
+      },
+      {
+        "grade": 3,
+        "totalRatings": 267
+      },
+      {
+        "grade": 2,
+        "totalRatings": 45
+      },
+      {
+        "grade": 1,
+        "totalRatings": 48
+      }
+    ]
+  },
+  "ratingTags": [
+    {
+      "tag": "mar",
+      "count": 64,
+      "tooltip": "mar, mencionado em 64 avaliações"
+    },
+    {
+      "tag": "fotos",
+      "count": 59,
+      "tooltip": "fotos, mencionado em 59 avaliações"
+    },
+    {
+      "tag": "turístico",
+      "count": 40,
+      "tooltip": "turístico, mencionado em 40 avaliações"
+    },
+    {
+      "tag": "pichação",
+      "count": 38,
+      "tooltip": "pichação, mencionado em 38 avaliações"
+    },
+    {
+      "tag": "paisagem",
+      "count": 25,
+      "tooltip": "paisagem, mencionado em 25 avaliações"
+    },
+    {
+      "tag": "cartão postal",
+      "count": 16,
+      "tooltip": "cartão postal, mencionado em 16 avaliações"
+    },
+    {
+      "tag": "romântico",
+      "count": 13,
+      "tooltip": "romântico, mencionado em 13 avaliações"
+    },
+    {
+      "tag": "cheiro",
+      "count": 12,
+      "tooltip": "cheiro, mencionado em 12 avaliações"
+    },
+    {
+      "tag": "esgoto",
+      "count": 10,
+      "tooltip": "esgoto, mencionado em 10 avaliações"
+    },
+    {
+      "tag": "pedra",
+      "count": 10,
+      "tooltip": "pedra, mencionado em 10 avaliações"
+    }
+  ],
+  "featuredPhotos": [
+    "https://lh5.googleusercontent.com/p/AF1QipMFijMj-O74CpmDpFLUyjCdCZduOKzhuFUnJCt0=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPAeKfu7mtPoCNKOWj6ii0nRqSMnvqY21Gf0k7y=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipM6Y-b_31ETKLEpfSoemUvoyqSLk1q9rZiDITU=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMKPZ33gHhp5Fcrk4sV5378q1YR6VNqan4Y1RVs=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOsBP72TyBaptZrVM9kDuzRWt0onvOzSgS4jg2M=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNk6CSTUuxTRGujdWKwWLnXKKhIZ9Us9OzkBKqL=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipM344_-M9Ot6_KNGBEPthK5diw3syhIcyWzrS6O=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMVYA8Bh2Xan0QU8tvpMZPDIi9W_L8JjWLEirxD=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNWAIN-0ArSGzM_qQhFHM4arP4QFTTquPzdaoM=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPiKsLsgNAAgpA-qNphNl2ds_LC1Isc6G-poWYM=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPR2Y4-m8r_5i2r7yzF95IOFLSuqBIDVj8rR-xt=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOJE9nG_y2IAGi9QhgI7VmBJR04Vz1qP6ZzrZ0=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMOXPYKRaxSq6WZkizVgn8SgI8ZGCJKqF5JaAPP=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipP0dde1mtuiPvfz5zW54YYkAeYbQJHylOuBzGLz=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPTicC-Uzp7QBlgO-9NpQ4OfRonlqb0iLMqOGzP=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOoQVpmY3hBRG2MKgcDYWdWstpjhps9SQiQttkv=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOSU-YRXLoirVtd9RK-jSGFDW2VaR9lXvHymto2=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPXOqrkiKGvNdmo7cW4Aj12Hkrsza1U-lqWVPuv=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOhijOqYWJldmkJdLBnHAmpnBWgIltYZqxZ91jB=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPjlfI1gtJdgveHatASHy4FlIdw5_zqT1s5_tRG=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOeZvDZsNMU2l6bm9G_fd4et6EQ5MANgg2kB9tN=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOSUa7n8IOVqGzmye_PeqjihNZe5GQw0OvjCrQ5=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMpd7FJxwWyJ9xLN60H70ntQwpndgUrallF_Whb=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMVkVbs5J94tkbCjdeEAXmVwzYaEI4WqjlD2s62=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMY-4qF917mUNu7Aqtgh45Ohjxib7ttbuJmz7_u=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMPPOMnGYLCinmPqbfUKHO9-9YWqZpIV6lEjkHU=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMleTppMzCxm15nMvLIS8i9ZdLvSgfNwrLzQMZS=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipM2yNq1UYCchESU0oiT3LMg-5mXfNyUxFRqfw-d=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMabHXwOaEs0myzNNsWUxWO9MEM-06L2GicpcfE=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipM6H1Xk-h36dm5soBRFxnPdkOC_sERCJ2rNsQ1n=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMVTeHgjlkPHK0l4UWqN4AwcFFXlzaN6fUpcbyn=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOTDpwy5H90wZtpM1SEg6o1DWFbqyvcivMM_nKH=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNugZEBdOFfB67Ye9xCdU5bHfcU4mn05USsV1dS=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPlEh9zwial6TFO7H8hk9OPyjzbhAvoh5SzkFPC=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOZ8LCMTOPrpWR-oMum2Jtw2XX-mzqcP0oDrtOc=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipM5gQ9u3_efSg9M3r6FmqeyUR9ch4lDtToq5bEg=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipO6203uXrodp7F12mTR-ZFTHy6AllG6zjqNVaTU=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipODqwgwRA1R0oeRlD5nQXCSgvnkSrVtac7NQiAz=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOU1Scgdf9f_o74zDGd5qr0NN6b9WyNIEqoOQ4-=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipO37w7VzUd7YCs-TzWKNxTkUz89yjUxD9FXmkip=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipO3O2RsD_0rXicYNWOt-B_W-Phag7-iXQWjByM0=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPt3y2ItKb9ovKU1ovkkUQRJzy5OImkIMsgUoBx=w1024-h576-k-no"
+  ],
+  "topComments": [
+    {
+      "author": "RODRIGO Valente",
+      "photoAuthor": "https://lh3.googleusercontent.com/a/AItbvmn2759q0GEXmpMKTzQPR8gGcl-_mFfMedLGxjI8=w36-h36-p-c0x00000000-rp-mo-ba3-br100",
+      "comment": "Lindo lugar . Bem iluminado . Um pena que já está todo pichado",
+      "gradeComment": 5
+    },
+    {
+      "author": "Fabio Schon",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucouS051JXQUBBXH-af8ZdbfgQYfqSf2zKYL0vS77k0=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "Bonita ponte, cartão postal de Itapema.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Dirlene A Rodrigues Bal.Camboriú",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucqBmxEEleWi-9k-x-Lx4ls0QrNTjsjnJER2TZhyja8=w36-h36-p-c0x00000000-rp-mo-ba5-br100",
+      "comment": "Cartão postal do canto da praia, foi bacana passar a manhã na cidade de Itapema.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Rodrigo Vargas B",
+      "photoAuthor": "https://lh3.googleusercontent.com/a/AItbvmkU4rgeJJ5kG58-_JCcxcHdom2LGTziU4IV8h0H=w36-h36-p-c0x00000000-rp-mo-ba6-br100",
+      "comment": "Fácil acesso, lindo local e conta com um balanço. Várias fotos bonitas desse local, recomendo.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Marina Godoy",
+      "photoAuthor": "https://lh3.googleusercontent.com/a/AItbvmmk6Gl99RZdoYrZuOoQdXm26bV1u5UQCoBtAhn-=w36-h36-p-c0x00000000-rp-mo-ba3-br100",
+      "comment": "É uma bela ponte em Itapema, o lugar para alguns, é de pura nostalgia.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Leila de Vargas",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucqCTGIXdLVc2DFECAcQasTvRh2Tn1QZtwOPj7czuys=w36-h36-p-c0x00000000-rp-mo-br100",
+      "comment": "Lugar lindo demais",
+      "gradeComment": 5
+    },
+    {
+      "author": "Patricia Ruiz Criado",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucoxK15PryVzQWt79KzGuaJpUjdRHp9odPwJ49CHHUs=w36-h36-p-c0x00000000-rp-mo-br100",
+      "comment": "Lugar bonito, porem está pichado, tem que escolher lugar para tirar foto para que não apareça, quando fui estava com um Cheiro ruim, acho que do Rio, e tinha andarilho dormindo tb, precisa de cuidados, nao vale a pena ir, tem locaia melhoras para visitar,infelizmente",
+      "gradeComment": 2
+    },
+    {
+      "author": "Drikaa Chagas",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucpvcqv95g02m54ObFg7kxlBTlRnofl1B-ct0zwr_xY=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "Lugar lindo, organizado e limpo. Muito inspirador!",
+      "gradeComment": 5
+    },
+    {
+      "author": "Cleiasantana Santana",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucpg90-PS2bVgAxK-gTIxay-H54OegKQezLfn2ys6aI=w36-h36-p-c0x00000000-rp-mo-ba3-br100",
+      "comment": "Lugar lindo amei",
+      "gradeComment": 5
+    },
+    {
+      "author": "Lidiany a Lidy",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZuco9CuInitKuofqSZMpqpjqwY2MSfJn0Ybbr4W9v_DM=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "A ponte é muito bonita, principalmente a noite, lugar lindo pra tirar fotos, e super romântico! tem os decks próximo, onde vc pode sentar pra conversar ou ver o mar. Quem gosta de bike ou caminhada, pode ir pela Orla até chegar na ponte que fica quase no canto da praia!",
+      "gradeComment": 4
+    },
+    {
+      "author": "JJosuka",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucrBdCl7CdDX9lzW8KttyFbeglkmJydPXAULzn3frtc=w36-h36-p-c0x00000000-rp-mo-ba7-br100",
+      "comment": "Uma ponte feita de pedras que faz ligação entre o Rio Bela Cruz com o mar, ligando dois trechos para pedestres na praia de Itapema.Bonita e imponente, possui cobertura, com arcos nas laterais , dando um toque de romantismo para o local, que rende belas fotos com um visual espetacular. Vale muito a pena visitar até por ser de graça. Aberta ao público 24 horas.",
+      "gradeComment": 4
+    },
+    {
+      "author": "Larissa Domareski",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucqvVexEAN6iQx0adlCwM28jN4n4kUtAjuHpFeRn_g=w36-h36-p-c0x00000000-rp-mo-br100",
+      "comment": "A ponte é muito bonita e dá todo um charme ao local. Para quem gosta de registrar momentos e encontrar os melhores ângulos para uma foto \"panorâmica\" é o lugar ideal. Praia tranquila, água morna, porém não muito transparente. Super indico.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Fabio Schon",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucouS051JXQUBBXH-af8ZdbfgQYfqSf2zKYL0vS77k0=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "Bonita ponte, cartão postal de Itapema.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Rodrigo Vargas B",
+      "photoAuthor": "https://lh3.googleusercontent.com/a/AItbvmkU4rgeJJ5kG58-_JCcxcHdom2LGTziU4IV8h0H=w36-h36-p-c0x00000000-rp-mo-ba6-br100",
+      "comment": "Fácil acesso, lindo local e conta com um balanço. Várias fotos bonitas desse local, recomendo.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Cleiasantana Santana",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucpg90-PS2bVgAxK-gTIxay-H54OegKQezLfn2ys6aI=w36-h36-p-c0x00000000-rp-mo-ba3-br100",
+      "comment": "Lugar lindo amei",
+      "gradeComment": 5
+    },
+    {
+      "author": "Haruo Horiuti",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucquuc2RvzCYWWKZcbHSc1A2DpN7WY0TkHh9v4np-g=w36-h36-p-c0x00000000-rp-mo-ba5-br100",
+      "comment": "Hoje feita de pedra, mas na minha infância era um simples ponte pênsil! Apesar de gostar mais da antiga, essa nova ainda tem seu charme! Itapema sempre linda....",
+      "gradeComment": 5
+    },
+    {
+      "author": "maria cristina Brisolara nieckel",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucrTSlx-onvn4Om8-yZxI_YMlvSY0pykZrg_488G=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "Linda e agora tem um balanço bem ao lado....",
+      "gradeComment": 5
+    },
+    {
+      "author": "Hélida Torres",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucpJHpI28VtdlnSDyUdOFQ3LBiRPqF3sA1UrF6yqgg=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "Apesar do dia nublado o lugar é lindo, aceito que em dia de sol é mais encantador ainda.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Katia Farias",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucoJbC6dMGg-E2yLovpgGVHNJOMTFfdYvRt1jfI6cjk=w36-h36-p-c0x00000000-rp-mo-ba5-br100",
+      "comment": "Lugar lindo..muito bom para passeio  em família",
+      "gradeComment": 5
+    },
+    {
+      "author": "Wagner Marques",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucqdf0-3XwrhXwGT8Qk_Qw87ivTppCTDl3tlrYIXQQ=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "Divide praia Central e praia do Canto em Itapema. Lugar pitoresco para sua foto",
+      "gradeComment": 5
+    }
+  ],
+  "peakHours": [
+    {
+      "Sunday": [
+        {
+          "hour": "04:00",
+          "percent": 1
+        },
+        {
+          "hour": "05:00",
+          "percent": 5
+        },
+        {
+          "hour": "06:00",
+          "percent": 10
+        },
+        {
+          "hour": "07:00",
+          "percent": 18
+        },
+        {
+          "hour": "08:00",
+          "percent": 32
+        },
+        {
+          "hour": "09:00",
+          "percent": 50
+        },
+        {
+          "hour": "10:00",
+          "percent": 70
+        },
+        {
+          "hour": "11:00",
+          "percent": 87
+        },
+        {
+          "hour": "12:00",
+          "percent": 97
+        },
+        {
+          "hour": "13:00",
+          "percent": 100
+        },
+        {
+          "hour": "14:00",
+          "percent": 95
+        },
+        {
+          "hour": "15:00",
+          "percent": 86
+        },
+        {
+          "hour": "16:00",
+          "percent": 75
+        },
+        {
+          "hour": "17:00",
+          "percent": 66
+        },
+        {
+          "hour": "18:00",
+          "percent": 56
+        },
+        {
+          "hour": "19:00",
+          "percent": 46
+        },
+        {
+          "hour": "20:00",
+          "percent": 35
+        },
+        {
+          "hour": "21:00",
+          "percent": 24
+        },
+        {
+          "hour": "22:00",
+          "percent": 14
+        },
+        {
+          "hour": "23:00",
+          "percent": 5
+        },
+        {
+          "hour": "01:00",
+          "percent": 1
+        },
+        {
+          "hour": "02:00",
+          "percent": 1
+        },
+        {
+          "hour": "03:00",
+          "percent": 1
+        }
+      ]
+    },
+    {
+      "Monday": [
+        {
+          "hour": "04:00",
+          "percent": 1
+        },
+        {
+          "hour": "05:00",
+          "percent": 1
+        },
+        {
+          "hour": "06:00",
+          "percent": 5
+        },
+        {
+          "hour": "07:00",
+          "percent": 16
+        },
+        {
+          "hour": "08:00",
+          "percent": 26
+        },
+        {
+          "hour": "09:00",
+          "percent": 33
+        },
+        {
+          "hour": "10:00",
+          "percent": 37
+        },
+        {
+          "hour": "11:00",
+          "percent": 37
+        },
+        {
+          "hour": "12:00",
+          "percent": 37
+        },
+        {
+          "hour": "13:00",
+          "percent": 37
+        },
+        {
+          "hour": "14:00",
+          "percent": 37
+        },
+        {
+          "hour": "15:00",
+          "percent": 36
+        },
+        {
+          "hour": "16:00",
+          "percent": 34
+        },
+        {
+          "hour": "17:00",
+          "percent": 31
+        },
+        {
+          "hour": "18:00",
+          "percent": 26
+        },
+        {
+          "hour": "19:00",
+          "percent": 21
+        },
+        {
+          "hour": "20:00",
+          "percent": 15
+        },
+        {
+          "hour": "21:00",
+          "percent": 9
+        },
+        {
+          "hour": "22:00",
+          "percent": 4
+        },
+        {
+          "hour": "23:00",
+          "percent": 1
+        },
+        {
+          "hour": "00:00",
+          "percent": 1
+        },
+        {
+          "hour": "01:00",
+          "percent": 1
+        },
+        {
+          "hour": "02:00",
+          "percent": 1
+        },
+        {
+          "hour": "03:00",
+          "percent": 1
+        }
+      ]
+    },
+    {
+      "Tuesday": [
+        {
+          "hour": "04:00",
+          "percent": 1
+        },
+        {
+          "hour": "05:00",
+          "percent": 1
+        },
+        {
+          "hour": "07:00",
+          "percent": 12
+        },
+        {
+          "hour": "08:00",
+          "percent": 27
+        },
+        {
+          "hour": "09:00",
+          "percent": 34
+        },
+        {
+          "hour": "10:00",
+          "percent": 32
+        },
+        {
+          "hour": "11:00",
+          "percent": 28
+        },
+        {
+          "hour": "12:00",
+          "percent": 29
+        },
+        {
+          "hour": "13:00",
+          "percent": 32
+        },
+        {
+          "hour": "14:00",
+          "percent": 36
+        },
+        {
+          "hour": "15:00",
+          "percent": 37
+        },
+        {
+          "hour": "16:00",
+          "percent": 37
+        },
+        {
+          "hour": "17:00",
+          "percent": 34
+        },
+        {
+          "hour": "18:00",
+          "percent": 29
+        },
+        {
+          "hour": "19:00",
+          "percent": 23
+        },
+        {
+          "hour": "20:00",
+          "percent": 16
+        },
+        {
+          "hour": "21:00",
+          "percent": 10
+        },
+        {
+          "hour": "22:00",
+          "percent": 4
+        },
+        {
+          "hour": "00:00",
+          "percent": 1
+        },
+        {
+          "hour": "01:00",
+          "percent": 1
+        },
+        {
+          "hour": "02:00",
+          "percent": 1
+        },
+        {
+          "hour": "03:00",
+          "percent": 1
+        }
+      ]
+    },
+    {
+      "Wednesday": [
+        {
+          "hour": "04:00",
+          "percent": 1
+        },
+        {
+          "hour": "05:00",
+          "percent": 1
+        },
+        {
+          "hour": "06:00",
+          "percent": 2
+        },
+        {
+          "hour": "07:00",
+          "percent": 15
+        },
+        {
+          "hour": "08:00",
+          "percent": 30
+        },
+        {
+          "hour": "09:00",
+          "percent": 39
+        },
+        {
+          "hour": "10:00",
+          "percent": 39
+        },
+        {
+          "hour": "11:00",
+          "percent": 34
+        },
+        {
+          "hour": "12:00",
+          "percent": 33
+        },
+        {
+          "hour": "13:00",
+          "percent": 40
+        },
+        {
+          "hour": "14:00",
+          "percent": 47
+        },
+        {
+          "hour": "15:00",
+          "percent": 48
+        },
+        {
+          "hour": "16:00",
+          "percent": 42
+        },
+        {
+          "hour": "17:00",
+          "percent": 33
+        },
+        {
+          "hour": "18:00",
+          "percent": 29
+        },
+        {
+          "hour": "19:00",
+          "percent": 27
+        },
+        {
+          "hour": "20:00",
+          "percent": 27
+        },
+        {
+          "hour": "21:00",
+          "percent": 24
+        },
+        {
+          "hour": "22:00",
+          "percent": 18
+        },
+        {
+          "hour": "23:00",
+          "percent": 11
+        },
+        {
+          "hour": "00:00",
+          "percent": 4
+        },
+        {
+          "hour": "01:00",
+          "percent": 1
+        },
+        {
+          "hour": "02:00",
+          "percent": 1
+        },
+        {
+          "hour": "03:00",
+          "percent": 1
+        }
+      ]
+    },
+    {
+      "Thursday": [
+        {
+          "hour": "04:00",
+          "percent": 1
+        },
+        {
+          "hour": "05:00",
+          "percent": 1
+        },
+        {
+          "hour": "06:00",
+          "percent": 4
+        },
+        {
+          "hour": "07:00",
+          "percent": 16
+        },
+        {
+          "hour": "08:00",
+          "percent": 32
+        },
+        {
+          "hour": "09:00",
+          "percent": 45
+        },
+        {
+          "hour": "10:00",
+          "percent": 51
+        },
+        {
+          "hour": "11:00",
+          "percent": 50
+        },
+        {
+          "hour": "12:00",
+          "percent": 47
+        },
+        {
+          "hour": "13:00",
+          "percent": 49
+        },
+        {
+          "hour": "14:00",
+          "percent": 55
+        },
+        {
+          "hour": "15:00",
+          "percent": 59
+        },
+        {
+          "hour": "16:00",
+          "percent": 57
+        },
+        {
+          "hour": "17:00",
+          "percent": 49
+        },
+        {
+          "hour": "18:00",
+          "percent": 40
+        },
+        {
+          "hour": "19:00",
+          "percent": 33
+        },
+        {
+          "hour": "20:00",
+          "percent": 28
+        },
+        {
+          "hour": "21:00",
+          "percent": 25
+        },
+        {
+          "hour": "22:00",
+          "percent": 20
+        },
+        {
+          "hour": "23:00",
+          "percent": 15
+        },
+        {
+          "hour": "00:00",
+          "percent": 10
+        },
+        {
+          "hour": "01:00",
+          "percent": 4
+        },
+        {
+          "hour": "02:00",
+          "percent": 1
+        },
+        {
+          "hour": "03:00",
+          "percent": 1
+        }
+      ]
+    },
+    {
+      "Friday": [
+        {
+          "hour": "04:00",
+          "percent": 1
+        },
+        {
+          "hour": "05:00",
+          "percent": 1
+        },
+        {
+          "hour": "06:00",
+          "percent": 10
+        },
+        {
+          "hour": "07:00",
+          "percent": 21
+        },
+        {
+          "hour": "08:00",
+          "percent": 31
+        },
+        {
+          "hour": "09:00",
+          "percent": 38
+        },
+        {
+          "hour": "10:00",
+          "percent": 40
+        },
+        {
+          "hour": "11:00",
+          "percent": 38
+        },
+        {
+          "hour": "12:00",
+          "percent": 38
+        },
+        {
+          "hour": "13:00",
+          "percent": 40
+        },
+        {
+          "hour": "14:00",
+          "percent": 45
+        },
+        {
+          "hour": "15:00",
+          "percent": 48
+        },
+        {
+          "hour": "16:00",
+          "percent": 48
+        },
+        {
+          "hour": "17:00",
+          "percent": 43
+        },
+        {
+          "hour": "18:00",
+          "percent": 37
+        },
+        {
+          "hour": "19:00",
+          "percent": 31
+        },
+        {
+          "hour": "21:00",
+          "percent": 21
+        },
+        {
+          "hour": "22:00",
+          "percent": 16
+        },
+        {
+          "hour": "23:00",
+          "percent": 10
+        },
+        {
+          "hour": "00:00",
+          "percent": 5
+        },
+        {
+          "hour": "02:00",
+          "percent": 1
+        },
+        {
+          "hour": "03:00",
+          "percent": 1
+        }
+      ]
+    },
+    {
+      "Saturday": [
+        {
+          "hour": "04:00",
+          "percent": 1
+        },
+        {
+          "hour": "06:00",
+          "percent": 6
+        },
+        {
+          "hour": "07:00",
+          "percent": 17
+        },
+        {
+          "hour": "08:00",
+          "percent": 31
+        },
+        {
+          "hour": "09:00",
+          "percent": 46
+        },
+        {
+          "hour": "10:00",
+          "percent": 62
+        },
+        {
+          "hour": "11:00",
+          "percent": 74
+        },
+        {
+          "hour": "12:00",
+          "percent": 79
+        },
+        {
+          "hour": "13:00",
+          "percent": 79
+        },
+        {
+          "hour": "14:00",
+          "percent": 74
+        },
+        {
+          "hour": "15:00",
+          "percent": 66
+        },
+        {
+          "hour": "16:00",
+          "percent": 60
+        },
+        {
+          "hour": "17:00",
+          "percent": 56
+        },
+        {
+          "hour": "18:00",
+          "percent": 55
+        },
+        {
+          "hour": "19:00",
+          "percent": 54
+        },
+        {
+          "hour": "20:00",
+          "percent": 52
+        },
+        {
+          "hour": "21:00",
+          "percent": 47
+        },
+        {
+          "hour": "22:00",
+          "percent": 40
+        },
+        {
+          "hour": "23:00",
+          "percent": 30
+        },
+        {
+          "hour": "00:00",
+          "percent": 19
+        },
+        {
+          "hour": "01:00",
+          "percent": 10
+        },
+        {
+          "hour": "02:00",
+          "percent": 3
+        },
+        {
+          "hour": "03:00",
+          "percent": 1
+        }
+      ]
+    }
+  ],
+  "relatedSearches": [
+    "ponte dos suspiros veneza significado",
+    "ponte dos suspiros veneza história",
+    "ponte dos suspiros itapema",
+    "ponte dos suspiros ouro preto",
+    "ponte dos suspiros novela",
+    "ponte dos suspiros itália",
+    "ponte rialto",
+    "ponte de veneza",
+    "ponte dos suspiros veneza significado",
+    "ponte dos suspiros veneza história",
+    "ponte dos suspiros itapema",
+    "ponte dos suspiros ouro preto",
+    "ponte dos suspiros novela",
+    "ponte dos suspiros itália",
+    "ponte rialto",
+    "ponte de veneza"
+  ],
+  "relateds": []
+}

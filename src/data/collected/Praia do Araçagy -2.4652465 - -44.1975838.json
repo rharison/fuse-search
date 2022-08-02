@@ -1,0 +1,814 @@
+{
+  "mainName": "Praia do Araçagy",
+  "slug": "praia-do-aracagy",
+  "category": "Atração turística",
+  "locationInformation": {
+    "latitude": "-2.4652465",
+    "longitude": "-44.1975838"
+  },
+  "basicInformation": [
+    {
+      "label": "endereço",
+      "tooltip": "Copiar endereço",
+      "text": "Av. Atlântica, 1088 - Araçagy, São José de Ribamar - MA, 65110-000",
+      "icon": "https://www.gstatic.com/images/icons/material/system_gm/1x/place_gm_blue_24dp.png"
+    },
+    {
+      "label": "Code",
+      "tooltip": "Copiar Plus Code",
+      "text": "GRM2+WX Araçagy, São José de Ribamar - MA",
+      "icon": "https://maps.gstatic.com/mapfiles/maps_lite/images/2x/ic_plus_code.png"
+    },
+    {
+      "label": "merchant",
+      "text": "Reivindicar esta empresa",
+      "icon": "https://www.gstatic.com/images/icons/material/system_gm/1x/verified_user_gm_blue_24dp.png"
+    }
+  ],
+  "ratingInformation": {
+    "basicRatingInformation": {
+      "averageGrade": 4.4,
+      "totalOfEvaluations": 8941
+    },
+    "ratingsByGrade": [
+      {
+        "grade": 5,
+        "totalRatings": 5825
+      },
+      {
+        "grade": 4,
+        "totalRatings": 1859
+      },
+      {
+        "grade": 3,
+        "totalRatings": 777
+      },
+      {
+        "grade": 2,
+        "totalRatings": 211
+      },
+      {
+        "grade": 1,
+        "totalRatings": 269
+      }
+    ]
+  },
+  "ratingTags": [
+    {
+      "tag": "barracas",
+      "count": 206,
+      "tooltip": "barracas, mencionado em 206 avaliações"
+    },
+    {
+      "tag": "areia",
+      "count": 196,
+      "tooltip": "areia, mencionado em 196 avaliações"
+    },
+    {
+      "tag": "banho",
+      "count": 146,
+      "tooltip": "banho, mencionado em 146 avaliações"
+    },
+    {
+      "tag": "bares",
+      "count": 130,
+      "tooltip": "bares, mencionado em 130 avaliações"
+    },
+    {
+      "tag": "esgoto",
+      "count": 31,
+      "tooltip": "esgoto, mencionado em 31 avaliações"
+    },
+    {
+      "tag": "quiosques",
+      "count": 26,
+      "tooltip": "quiosques, mencionado em 26 avaliações"
+    },
+    {
+      "tag": "sujeira",
+      "count": 21,
+      "tooltip": "sujeira, mencionado em 21 avaliações"
+    },
+    {
+      "tag": "velocidade",
+      "count": 18,
+      "tooltip": "velocidade, mencionado em 18 avaliações"
+    },
+    {
+      "tag": "atropelado",
+      "count": 8,
+      "tooltip": "atropelado, mencionado em 8 avaliações"
+    },
+    {
+      "tag": "balneabilidade",
+      "count": 6,
+      "tooltip": "balneabilidade, mencionado em 6 avaliações"
+    }
+  ],
+  "featuredPhotos": [
+    "https://lh5.googleusercontent.com/p/AF1QipNWVv0g_2tx1wMNJnSDG8ubUZURsElNX9Is7nau=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMsi4CoEweU2CRPgxy0BCLIU_XxaT7Jf_xcscYz=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipP0WUQIilP8gH45GC72MhjYXH2ch95rTIcnhF2B=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipO9CNWIXly4apAT0yDjxzgjW_ZNFrSCgBftOzU2=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipM1iqUxo-Sa6LTAiqWabAuO1bzkmZh0gagq0ANa=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOm_ZAcYUwBQzMBQ_Je804FjY9_RXPsR0SB_bNi=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipM35oqEhI2kTO8gYulScz5A1yE6It_iVq0Jzege=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNmUsXMFSyjUTNc2Jb0dIxxFBw08R0LK7Ktg4Y2=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNgGh_II2DQ72CP41Dj7Qgl7wQLh9uUDue48TC0=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPTHXsGV2KP4TPvN5gZi0rfSNJZcQ63_EuL2uXE=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNpy38zc9HhnJB5zEgk3KqM0DotUJ90g9UJsRZg=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOOq__MtkPZPEnBADrh8EKvV6NTGYLbJPBi5674=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipP3q6j4jmylAk-kC-dJGqPOG2Bs1vwP3-HCTacp=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNQnGVKAwYYuicCO9wM8h92XgtNd8KkHzHDc-CL=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipN-sksUi194yu8cggOv5dEpu4aFccEdrZstjZP_=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipML7_fkZwQnSyz2oSILl9p9KTEfRsmEx3geTVHq=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPSr5jOpBytUV2p_W37easS8f57gMez6PbPZcaZ=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOh-dIPAiaARv0FT9lVVyUNxxy-q40bT-mBfwbl=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOnkw5GXSgY9IaDQ5oMWJi_8j6y2qqCpUFviTR8=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPJc-1K7xcUNx4EJWcPAPK8VI_2PDqmKbbKE9Dv=w1024-h576-k-no"
+  ],
+  "topComments": [
+    {
+      "author": "Luciana Bandeira",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucpaAxXd_YkyvNVrzKq0Spjqv38hhFdxZI5kgfhjA0M=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "Nessa praia é possível entrar na areia com o carro. Parece que as pessoas aqui curtem essa ideia (eu não coloco meu carro na areia 😄) e é uma experiência no mínimo interessante. O ruim é que sempre tem um sem noção que coloca um som altíssimo. No mais, a praia é ampla, o mar é uma delícia e a comida das barracas do entorno é top!!",
+      "gradeComment": 5
+    },
+    {
+      "author": "Rithielly Lira",
+      "photoAuthor": "https://lh3.googleusercontent.com/a/AItbvmk9FcR5dXpg7NztsvusTe3zZRCKexjDmEojv7WpRrQ=w36-h36-p-c0x00000000-rp-mo-ba3-br100",
+      "comment": "não é mtu limpa e o atendimento na barraca que ficamos, acho que toca da praia o nome, não foi mtu bom. No domingo recomendo ir cedo pra ir embora cedo tbm, pq na hora da volta parecia impossível sair de tanto carro que tinha",
+      "gradeComment": 3
+    },
+    {
+      "author": "Lane Santos",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucqVFwOnBo93IGYsK17mimWJ0WwQQkPgQsVsHGqUlw=w36-h36-p-c0x00000000-rp-mo-ba3-br100",
+      "comment": "Achei ótima, muito tranquila e boa pra passar um fim de semana com os amigos e familia. ( só não gostei de um pequeno detalhe, quando passamos de carro para olhar as barracas e escolher uma para ficar, fomos abordados por várias pessoas insistindo para ficarmos na barraca delas. Achei muito chato isso, quando não parávamos pra eles, eles falavam algo desagradável, teve um que correu quase a praia toda pra falar com a gente pra ficar na barraca dele.)",
+      "gradeComment": 3
+    },
+    {
+      "author": "Fábio J. Maia",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucpl_IHRvaAyzxid34m6sZApNEEJvtgizjUm3LTd_u0=w36-h36-p-c0x00000000-rp-mo-ba6-br100",
+      "comment": "Praia tem pouca extensão de areia e bastante resto de garrafinhas d'água e casca de coco",
+      "gradeComment": 3
+    },
+    {
+      "author": "Ana Suzhyne",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucoqcDmKZNMYeRXjLqJ0DS6Zdpz4Khs0ACyXNiwz_Q=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "Praia linda, bem movimentada,  cheia de bares e restaurantes com barracas na areia dispondo de redes e balanço para crianças.  A praia é muito boa mesmo, só o que torna o local estressante é  grande quantidade de vendedores ambulantes e o movimento de carro entre as barracas, que deixa as pessoas muito vulneráveis a esses carros muita das vezes em alta velocidade.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Ayslan Dias",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucoMxaf3q7QL2KdXoyUF_W5cRgIyG7NyQGngybkA2g=w36-h36-p-c0x00000000-rp-mo-ba2-br100",
+      "comment": "Lugar Excelente para visitar , paisagem Excelente ...O preço das comidas um pouco caro ..Mas vale a pena pagar o preço",
+      "gradeComment": 5
+    },
+    {
+      "author": "Carol Pinto",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucoThhu54Lna1E7M1OVTV18XZO74hwPBdIVilgjZaw=w36-h36-p-c0x00000000-rp-mo-ba3-br100",
+      "comment": "A praia é uma das melhorzinhas para banho... o ruim é as pessoas jogam mt lixo embaixo das mesas e quando a maré ta subindo fica aquela sujeira horrível",
+      "gradeComment": 4
+    },
+    {
+      "author": "Jonatha de Sousa Sousa",
+      "photoAuthor": "https://lh3.googleusercontent.com/a/AItbvmkKQn5aO3XWVCFj3YOCCfFAAxhy_E4HVDmxPa9A=w36-h36-p-c0x00000000-rp-mo-br100",
+      "comment": "Muito bom, de fácil acesso, cerveja gelada, balanço para crianças, cardápio excelente, porém, preços meio pro alto 😅👏🏼",
+      "gradeComment": 5
+    },
+    {
+      "author": "Lívia Thamara",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucqspR6yyR_hwxyoRJ1g28oecUPhZqfUR5sTb13E0dU=w36-h36-p-c0x00000000-rp-mo-ba3-br100",
+      "comment": "Gosto muito dessa praia, o ponto negativo é devido ao tráfego de veículos na área, mesmo com histórico de carros perdidos por conta da maré alta o cenário nunca muda.",
+      "gradeComment": 3
+    },
+    {
+      "author": "ROBERTO WILLAME",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucpvQEFiL6Zqk8gFc285BhuYiEz10zPR1_kiExAIpw=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "Local de estrutura  precária.  Carros transitando na areia  da praia oferecendo  riscos.",
+      "gradeComment": 2
+    }
+  ],
+  "peakHours": [
+    {
+      "Sunday": [
+        {
+          "hour": "07:00",
+          "percent": 3
+        },
+        {
+          "hour": "08:00",
+          "percent": 9
+        },
+        {
+          "hour": "09:00",
+          "percent": 22
+        },
+        {
+          "hour": "10:00",
+          "percent": 41
+        },
+        {
+          "hour": "11:00",
+          "percent": 61
+        },
+        {
+          "hour": "12:00",
+          "percent": 78
+        },
+        {
+          "hour": "13:00",
+          "percent": 91
+        },
+        {
+          "hour": "14:00",
+          "percent": 100
+        },
+        {
+          "hour": "15:00",
+          "percent": 96
+        },
+        {
+          "hour": "16:00",
+          "percent": 76
+        },
+        {
+          "hour": "17:00",
+          "percent": 48
+        },
+        {
+          "hour": "18:00",
+          "percent": 23
+        },
+        {
+          "hour": "19:00",
+          "percent": 9
+        },
+        {
+          "hour": "20:00",
+          "percent": 3
+        },
+        {
+          "hour": "21:00",
+          "percent": 1
+        },
+        {
+          "hour": "22:00",
+          "percent": 1
+        },
+        {
+          "hour": "23:00",
+          "percent": 1
+        },
+        {
+          "hour": "00:00",
+          "percent": 1
+        }
+      ]
+    },
+    {
+      "Monday": [
+        {
+          "hour": "08:00",
+          "percent": 1
+        },
+        {
+          "hour": "09:00",
+          "percent": 3
+        },
+        {
+          "hour": "10:00",
+          "percent": 4
+        },
+        {
+          "hour": "11:00",
+          "percent": 7
+        },
+        {
+          "hour": "12:00",
+          "percent": 9
+        },
+        {
+          "hour": "13:00",
+          "percent": 10
+        },
+        {
+          "hour": "14:00",
+          "percent": 12
+        },
+        {
+          "hour": "15:00",
+          "percent": 13
+        },
+        {
+          "hour": "16:00",
+          "percent": 12
+        },
+        {
+          "hour": "17:00",
+          "percent": 8
+        },
+        {
+          "hour": "18:00",
+          "percent": 4
+        },
+        {
+          "hour": "19:00",
+          "percent": 1
+        },
+        {
+          "hour": "21:00",
+          "percent": 1
+        },
+        {
+          "hour": "22:00",
+          "percent": 1
+        },
+        {
+          "hour": "23:00",
+          "percent": 1
+        },
+        {
+          "hour": "00:00",
+          "percent": 1
+        },
+        {
+          "hour": "01:00",
+          "percent": 1
+        }
+      ]
+    },
+    {
+      "Tuesday": [
+        {
+          "hour": "04:00",
+          "percent": 1
+        },
+        {
+          "hour": "05:00",
+          "percent": 1
+        },
+        {
+          "hour": "06:00",
+          "percent": 1
+        },
+        {
+          "hour": "09:00",
+          "percent": 1
+        },
+        {
+          "hour": "10:00",
+          "percent": 2
+        },
+        {
+          "hour": "11:00",
+          "percent": 4
+        },
+        {
+          "hour": "12:00",
+          "percent": 5
+        },
+        {
+          "hour": "13:00",
+          "percent": 5
+        },
+        {
+          "hour": "14:00",
+          "percent": 6
+        },
+        {
+          "hour": "15:00",
+          "percent": 7
+        },
+        {
+          "hour": "16:00",
+          "percent": 8
+        },
+        {
+          "hour": "17:00",
+          "percent": 5
+        },
+        {
+          "hour": "18:00",
+          "percent": 2
+        },
+        {
+          "hour": "01:00",
+          "percent": 1
+        },
+        {
+          "hour": "02:00",
+          "percent": 1
+        },
+        {
+          "hour": "03:00",
+          "percent": 1
+        }
+      ]
+    },
+    {
+      "Wednesday": [
+        {
+          "hour": "04:00",
+          "percent": 1
+        },
+        {
+          "hour": "05:00",
+          "percent": 1
+        },
+        {
+          "hour": "06:00",
+          "percent": 1
+        },
+        {
+          "hour": "08:00",
+          "percent": 1
+        },
+        {
+          "hour": "09:00",
+          "percent": 3
+        },
+        {
+          "hour": "10:00",
+          "percent": 6
+        },
+        {
+          "hour": "11:00",
+          "percent": 8
+        },
+        {
+          "hour": "12:00",
+          "percent": 10
+        },
+        {
+          "hour": "13:00",
+          "percent": 12
+        },
+        {
+          "hour": "14:00",
+          "percent": 14
+        },
+        {
+          "hour": "15:00",
+          "percent": 15
+        },
+        {
+          "hour": "16:00",
+          "percent": 14
+        },
+        {
+          "hour": "17:00",
+          "percent": 10
+        },
+        {
+          "hour": "18:00",
+          "percent": 5
+        },
+        {
+          "hour": "19:00",
+          "percent": 1
+        },
+        {
+          "hour": "22:00",
+          "percent": 1
+        },
+        {
+          "hour": "23:00",
+          "percent": 1
+        },
+        {
+          "hour": "00:00",
+          "percent": 1
+        },
+        {
+          "hour": "01:00",
+          "percent": 1
+        },
+        {
+          "hour": "02:00",
+          "percent": 1
+        },
+        {
+          "hour": "03:00",
+          "percent": 1
+        }
+      ]
+    },
+    {
+      "Thursday": [
+        {
+          "hour": "05:00",
+          "percent": 1
+        },
+        {
+          "hour": "06:00",
+          "percent": 1
+        },
+        {
+          "hour": "08:00",
+          "percent": 1
+        },
+        {
+          "hour": "09:00",
+          "percent": 4
+        },
+        {
+          "hour": "10:00",
+          "percent": 8
+        },
+        {
+          "hour": "11:00",
+          "percent": 12
+        },
+        {
+          "hour": "12:00",
+          "percent": 15
+        },
+        {
+          "hour": "13:00",
+          "percent": 17
+        },
+        {
+          "hour": "14:00",
+          "percent": 19
+        },
+        {
+          "hour": "15:00",
+          "percent": 20
+        },
+        {
+          "hour": "16:00",
+          "percent": 18
+        },
+        {
+          "hour": "17:00",
+          "percent": 12
+        },
+        {
+          "hour": "18:00",
+          "percent": 6
+        },
+        {
+          "hour": "19:00",
+          "percent": 2
+        },
+        {
+          "hour": "01:00",
+          "percent": 1
+        },
+        {
+          "hour": "02:00",
+          "percent": 1
+        },
+        {
+          "hour": "03:00",
+          "percent": 1
+        }
+      ]
+    },
+    {
+      "Friday": [
+        {
+          "hour": "04:00",
+          "percent": 1
+        },
+        {
+          "hour": "05:00",
+          "percent": 1
+        },
+        {
+          "hour": "06:00",
+          "percent": 1
+        },
+        {
+          "hour": "08:00",
+          "percent": 1
+        },
+        {
+          "hour": "09:00",
+          "percent": 3
+        },
+        {
+          "hour": "10:00",
+          "percent": 6
+        },
+        {
+          "hour": "11:00",
+          "percent": 9
+        },
+        {
+          "hour": "12:00",
+          "percent": 10
+        },
+        {
+          "hour": "13:00",
+          "percent": 12
+        },
+        {
+          "hour": "14:00",
+          "percent": 13
+        },
+        {
+          "hour": "15:00",
+          "percent": 13
+        },
+        {
+          "hour": "16:00",
+          "percent": 12
+        },
+        {
+          "hour": "17:00",
+          "percent": 8
+        },
+        {
+          "hour": "18:00",
+          "percent": 4
+        },
+        {
+          "hour": "19:00",
+          "percent": 2
+        },
+        {
+          "hour": "20:00",
+          "percent": 1
+        },
+        {
+          "hour": "01:00",
+          "percent": 1
+        },
+        {
+          "hour": "02:00",
+          "percent": 1
+        },
+        {
+          "hour": "03:00",
+          "percent": 1
+        }
+      ]
+    },
+    {
+      "Saturday": [
+        {
+          "hour": "04:00",
+          "percent": 1
+        },
+        {
+          "hour": "05:00",
+          "percent": 1
+        },
+        {
+          "hour": "07:00",
+          "percent": 1
+        },
+        {
+          "hour": "08:00",
+          "percent": 4
+        },
+        {
+          "hour": "09:00",
+          "percent": 9
+        },
+        {
+          "hour": "10:00",
+          "percent": 17
+        },
+        {
+          "hour": "11:00",
+          "percent": 23
+        },
+        {
+          "hour": "12:00",
+          "percent": 27
+        },
+        {
+          "hour": "13:00",
+          "percent": 30
+        },
+        {
+          "hour": "14:00",
+          "percent": 32
+        },
+        {
+          "hour": "15:00",
+          "percent": 32
+        },
+        {
+          "hour": "16:00",
+          "percent": 28
+        },
+        {
+          "hour": "17:00",
+          "percent": 19
+        },
+        {
+          "hour": "18:00",
+          "percent": 10
+        },
+        {
+          "hour": "19:00",
+          "percent": 4
+        },
+        {
+          "hour": "20:00",
+          "percent": 1
+        }
+      ]
+    }
+  ],
+  "relatedSearches": [
+    "fotos da praia do araçagy",
+    "praia do meio araçagy",
+    "praia do araçagy ontem",
+    "bairro araçagy",
+    "araçagy são josé de ribamar - ma",
+    "araçagi ou araçagy",
+    "parque araçagy",
+    "praias de são luís"
+  ],
+  "relateds": [
+    {
+      "mainName": "Praia Do Olho D'água",
+      "url": null
+    },
+    {
+      "mainName": "Praia do Panaquatira",
+      "url": null
+    },
+    {
+      "mainName": "Praia do Mangue Seco",
+      "url": null
+    },
+    {
+      "mainName": "Praia de São Marcos",
+      "url": null
+    },
+    {
+      "mainName": "Praia da Raposa",
+      "url": null
+    },
+    {
+      "mainName": "Praia da Guia",
+      "url": null
+    },
+    {
+      "mainName": "Praia De Caburé",
+      "url": null
+    },
+    {
+      "mainName": "Praia de Juçatuba",
+      "url": null
+    },
+    {
+      "mainName": "Praia do Calhau",
+      "url": null
+    },
+    {
+      "mainName": "Ilha Upaon-Açu",
+      "url": null
+    },
+    {
+      "mainName": "Praia de Carimã",
+      "url": null
+    },
+    {
+      "mainName": "Praia do Caúra",
+      "url": null
+    },
+    {
+      "mainName": "Palácio dos Leões",
+      "url": null
+    },
+    {
+      "mainName": "Caúra",
+      "url": null
+    },
+    {
+      "mainName": "Museu Histórico e Artístico do Maranhão",
+      "url": null
+    },
+    {
+      "mainName": "Casa de Nhozinho",
+      "url": null
+    },
+    {
+      "mainName": "Parque Nacional dos Lençóis Maranhenses",
+      "url": null
+    },
+    {
+      "mainName": "Praia do Caolho",
+      "url": null
+    },
+    {
+      "mainName": "Dunas de Carimã - Fronhas Maranhenses",
+      "url": null
+    },
+    {
+      "mainName": "Cafúa das Mercês",
+      "url": null
+    },
+    {
+      "mainName": "Valparaíso Adventure Park",
+      "url": null
+    }
+  ]
+}

@@ -1,0 +1,715 @@
+{
+  "mainName": "Jardins de Bomarzo",
+  "slug": "jardins-de-bomarzo",
+  "category": "Parque",
+  "locationInformation": {
+    "latitude": "42.4916599",
+    "longitude": "12.2475933"
+  },
+  "basicInformation": [
+    {
+      "label": "endereço",
+      "tooltip": "Copiar endereço",
+      "text": "Località Giardino, 01020 Bomarzo VT, Itália",
+      "icon": "https://www.gstatic.com/images/icons/material/system_gm/1x/place_gm_blue_24dp.png"
+    },
+    {
+      "label": "website",
+      "tooltip": "Abrir website",
+      "text": "sacrobosco.it",
+      "icon": "https://www.gstatic.com/images/icons/material/system_gm/1x/public_gm_blue_24dp.png"
+    },
+    {
+      "label": "telefone",
+      "tooltip": "Copiar número de telefone",
+      "text": "+39 0761 924029",
+      "icon": "https://www.gstatic.com/images/icons/material/system_gm/1x/phone_gm_blue_24dp.png"
+    },
+    {
+      "label": "Code",
+      "tooltip": "Copiar Plus Code",
+      "text": "F6RX+M2 Bomarzo, Viterbo, Itália",
+      "icon": "https://maps.gstatic.com/mapfiles/maps_lite/images/2x/ic_plus_code.png"
+    },
+    {
+      "label": "send-to-device",
+      "text": "Enviar para smartphone",
+      "icon": "https://maps.gstatic.com/consumer/images/icons/1x/send_to_mobile_alt_gm_blue_24dp.png"
+    }
+  ],
+  "ratingInformation": {
+    "basicRatingInformation": {
+      "averageGrade": 4.3,
+      "totalOfEvaluations": 12760
+    },
+    "ratingsByGrade": [
+      {
+        "grade": 5,
+        "totalRatings": 7380
+      },
+      {
+        "grade": 4,
+        "totalRatings": 3276
+      },
+      {
+        "grade": 3,
+        "totalRatings": 1250
+      },
+      {
+        "grade": 2,
+        "totalRatings": 338
+      },
+      {
+        "grade": 1,
+        "totalRatings": 516
+      }
+    ]
+  },
+  "ratingTags": [
+    {
+      "tag": "julho",
+      "count": 6,
+      "tooltip": "julho, mencionado em 6 avaliações"
+    },
+    {
+      "tag": "estátua",
+      "count": 585,
+      "tooltip": "estátua, mencionado em 585 avaliações"
+    },
+    {
+      "tag": "mitologia",
+      "count": 90,
+      "tooltip": "mitologia, mencionado em 90 avaliações"
+    },
+    {
+      "tag": "século xvi",
+      "count": 51,
+      "tooltip": "século xvi, mencionado em 51 avaliações"
+    },
+    {
+      "tag": "grotesco",
+      "count": 45,
+      "tooltip": "grotesco, mencionado em 45 avaliações"
+    },
+    {
+      "tag": "pingente",
+      "count": 45,
+      "tooltip": "pingente, mencionado em 45 avaliações"
+    },
+    {
+      "tag": "esoterismo",
+      "count": 39,
+      "tooltip": "esoterismo, mencionado em 39 avaliações"
+    },
+    {
+      "tag": "ogro",
+      "count": 30,
+      "tooltip": "ogro, mencionado em 30 avaliações"
+    }
+  ],
+  "featuredPhotos": [
+    "https://lh5.googleusercontent.com/p/AF1QipOsrcWqVQmWnA0Jtq2OsG1GA3ojiIMMItyZDrHr=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipO3mfCEUgqd0GM1esSgtM7dC7rLARb8FzGJopxi=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOW9JJpWphGSwLyegb_Cc-u6LkigIISRhjclBbH=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPW4kowJZq2PUqkGjT3d9MUlOi1aBXyT86zGPii=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPu8jaVEr9ynUZx2prnUrutNzBjqxMZF-zX0dTz=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNAdKXzQsQAT1Dqj3CRZtHAtGpZ8BSQ3QurOy_R=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMq7YpJIXY1OnpDXklxcQ1Di0oefjIJ1_0TL1ak=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipN1avBlYqnj5t67DNrgTcVWn_SI13bR9ry0d_sJ=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMg0tk-DM9vBoYG_98jitpltgC71zkC3iKkUw5b=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNj6awi1Wjw1O8QwslwI4emt5zTTijafAjKX7mb=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOqJiw_wEdEsYI7WAp53afkEPtv3rzeYWfskzI4=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipM_So72A1MB7LvrQnBJMW4VENpAFRaGbrVxWLiL=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMhNNX2k6jp3qfJRFUSxhBK9Zev3JE9B7OeifvV=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOtj3Xt6Wj1OPS8n-i3qGP6oKDTrgiiU9YToiGj=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPPlFkxSQ2nFPQlpjF8IqaQjMx4R0DEh4j9xcHh=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOdxVfb9KWPqCtsEy8HrPeiuzzKPkDhbTFxgkrQ=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPOUmi2ZKsp0JFEolUzwMcXJBl42F1ztKyYuD-q=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPOgAsmohRBt6PxLKWdoEp03mMfax4V8pUiIcFZ=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOuIFx1YP4gf_ZgJ9BTEEDXvHqcKs6rB7I5Q3u8=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNPDkuJiyUmOy5goKhOUTqEMjayImSGc5PFB17e=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMJwma_J3OOl3DzBACFR6QEYuRfMigz5aGSC27C=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNB9x3oqv222GacNdNySG0hQK47NWE26KetDOhV=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNoV78LLUu-BgrOGPybcbMNsrT3LndgehQN1Fa5=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNx82pdLcRrxJvEIxmoFp9QmHzf53xp0B25AqIV=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOQYHxcOsXOINI3UiDScYXPWYspOxLHf8zm0akT=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPupyWH-dLTWiBU0qwUqvAgv1e3MoA0bH7tSmkQ=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipN30j60ZIc5dHhjGinw98MzdJslcPGCNmZdQSYg=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMfN_8hHTCsYgblKX2_-5iVhg2LVuckmkscRyHK=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPZOg4NR4oxfVR7wIJdg6g1kfUWw5fGbj3s71ZA=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNRVqxPCI3Bb9qPQUnvxyH-YHiwLw5unj8opcAE=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPPGyKQ2IlaLZjKUQxrHOmsEytaqwEEi7OThVTP=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOPeIr274yGHbS7E4ft1_OIY3HMqoLu2VjO2cqg=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipO8EQWYiHMK5TIHoiGcZEXZg5-kZqUJJdLWn5lk=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOZE2jX4XEukXw4VJ-ditbIGmm6wlro8alseQ7O=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNH5cHINO2LdieUlvgbT2ub_HrcI_PiuipkzPDF=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOZXcQxj6qh436qJyXV5N7uhFgXdX3lZScJgghN=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPeMNysd2imev7lkT3klU3QhtqP5wWLUJHE1f5N=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMoXyvMckZS-VgU9_QxfJgHpPstc-Bv0TYX0LjF=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMZZ84MGIceJhSacjDOkBBBq5k17Gw2nlx2SNIe=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOH7OaKmmHV7OZQ1efmJXBY3jlgpCjjpxTE3U_h=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOb7JPHA8JsnsG8OQhhPwAqT9IC_Ttt88NgaRhn=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMDGGBvBAQjqlJatwVP9T4v9khYqorQdLercuY0=w1024-h576-k-no"
+  ],
+  "topComments": [
+    {
+      "author": "Fabian Kronenberger",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucoL0DP9BIHSPB7Y5PYaECBaWWyZMuYOh3bu5-SFJTo=w36-h36-p-c0x00000000-rp-mo-ba6-br100",
+      "comment": "Em meio ao bosque, encontra-se várias esculturas, muitas com características monstruosas, cobertas de limo, surpreendendo o passeio pela mata.   O tom monstruoso e um tanto macabro do lugar foi resultado da expressão do sentimento de seu dono, no século X!V, o Príncipe Pier, que havia acabada de perder a esposa e um grande amigo.  Os jardins meio que ressaltam o sentimento de beleza vindo dos olhos daquele protagonista.  O passeio é curioso e agradável, onde nos deparamos com figuras mitológicas, uma casa torta, um ambiente mágico num bosque verdejante.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Gislaine Zorzin Gerin",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucr0BnN5IbjUIxlzmfFHOwA2jIvbSYtx12ozR84HYoo=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "Lugar lindo, passeio bem interessante, Poucos turistas, entrada paga, em junho 2019 €11 por pessoa. Vale a pena visitar",
+      "gradeComment": 4
+    },
+    {
+      "author": "Elizabete Poliana Souza Santos",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucp4a2T2H1aA-jjThAnBlFJJ8j18hvWMHD_UY1W7=w36-h36-p-c0x00000000-rp-mo-ba3-br100",
+      "comment": "Achei o preço meio exagerado (11€ adulto e 8 € criança). O parque é muito bonito, mas credo que faltam alguns detalhes explicativos pra cada escultura (meu telefone não pegava sinal lá dentro, então tentar procurar na internet ao momento pode ser complicado). E também não é muito grande: seguindo o mapa vc consegue ver tudo em menos de 2h. Não é permitido comer ou fazer picnic onde estão as esculturas, mas logo depois da entrada tem um grande espaço com grama, com vista pra cidade do Bomarzo no alto, que é agradável, onde fizemos um lanchinho depois de fazer o giro do parque. Outra alternativa é o bar perto da bilheteria. O estacionamento é gratuito.",
+      "gradeComment": 3
+    },
+    {
+      "author": "Luiz Da Rosa",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZuco-_iYBdcZEBiOskWKkn_xKKW1zOZM4FH8hnvCrLA=w36-h36-p-c0x00000000-rp-mo-ba6-br100",
+      "comment": "Um parque, com um bosque bonito e muitas curiosidades monstruosas. Passeio bonito",
+      "gradeComment": 5
+    },
+    {
+      "author": "Jeferson Santos",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucpkZHmbm7Nldzwa2IxIEca8iicxGHt-Me7tYreoag=w36-h36-p-c0x00000000-rp-mo-ba3-br100",
+      "comment": "Lindo",
+      "gradeComment": 5
+    },
+    {
+      "author": "Anísio Franco",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucplC1iVX9av2B8ieyTM0aNuSfRMYHL6IsePXtuNQg=w36-h36-p-c0x00000000-rp-mo-ba5-br100",
+      "comment": "Sítio místico, mas tem de se ler antes o livro Bomarzo.",
+      "gradeComment": 5
+    },
+    {
+      "author": "josemari Kanthack Conceição",
+      "photoAuthor": "https://lh3.googleusercontent.com/a/AItbvmlDtGOZYSrCVegU0muriTQr2puS_39okHN9M6-L=w36-h36-p-c0x00000000-rp-mo-br100",
+      "comment": "Experiência encantadora! Belíssimo lugar.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Catia Teixeira",
+      "photoAuthor": "https://lh3.googleusercontent.com/a/AItbvmlJ7XJ2qHib14uEa-yvLv0IglyIf8mXehLYdTxl=w36-h36-p-c0x00000000-rp-mo-br100",
+      "comment": "🥰🥰",
+      "gradeComment": 5
+    },
+    {
+      "author": "Andrea Gonçalves",
+      "photoAuthor": "https://lh3.googleusercontent.com/a/AItbvmkaoz1AIBJC8p85AQaIip7oOzqdLyqP2plzOBFk=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "Fabuloso. Mágico. Único. Tem e deve ser visto.",
+      "gradeComment": 5
+    },
+    {
+      "author": "jose luis nunes freire",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucrITE0pjXkenbeHEQg7uk9_kRynOI1KFpkSzI_BeUU=w36-h36-p-c0x00000000-rp-mo-ba6-br100",
+      "comment": "Que riqueza de cultura italiana",
+      "gradeComment": 5
+    },
+    {
+      "author": "Anna de Lucia",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucpb073IS8Gs2BfnUb9huC0eu5eFnQrvg9T2p_jvsQ=w36-h36-p-c0x00000000-rp-mo-br100",
+      "comment": "Maravilhoso",
+      "gradeComment": 5
+    },
+    {
+      "author": "Viajando com Raffo",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucom6pKbsCSHJhbL1ETKcOgaMUuSVp-ohB2eZjD8=w36-h36-p-c0x00000000-rp-mo-ba3-br100",
+      "comment": "Muito lindo!!",
+      "gradeComment": 5
+    },
+    {
+      "author": "Giovanni Melandri",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucoZgSODAbMGH-7064Wxk2UFuug2RnFQmzRPrLwmBQc=w36-h36-p-c0x00000000-rp-mo-ba6-br100",
+      "comment": "(Tradução do Google) Local muito agradável, uma caminhada agradável, as estátuas são esculpidas na rocha por volta de 1580. Muito movimentado nos dias e horários de pico, você pode encontrar filas tanto para estacionar quanto para entrar. Custo 16 euros para adultos e 8 para crianças, não é barato.  (Original) Posto molto piacevole, una bella passeggiata, le statue sono scavate nella roccia intorno al 1580. Molto frequentato nei giorni e negli orari di punta, si può trovare fila sia per parcheggiare che per entrare. Costo 16 euro per adulti ed 8 per bambini, non economico.",
+      "gradeComment": 4
+    },
+    {
+      "author": "Roberta Arcangeli",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucqCe0XPlR49APTVvIs9suVaykdVQ-v3PZMradFA=w36-h36-p-c0x00000000-rp-mo-ba6-br100",
+      "comment": "(Tradução do Google) Parque muito agradável recomendado para um passeio em família. Muito adequado para crianças. O caminho é sugestivo e muito bonito dentro de uma floresta com pequenas cachoeiras naturais. As estátuas de pedra são esplêndidas. Há estacionamento bem em frente e ao redor, no horário central fica mais cheio. Você só paga o ingresso para o parque, o estacionamento é gratuito. O almoço embalado é recomendado mesmo que haja um bar dentro.  (Original) Parco molto bello consigliato per una gita in famiglia. Molto adatto per i bambini. Il percorso è evocativo è molto bello all’interno di un bosco con piccole cascate naturali. Splendide le statue di rocce. C’è il parcheggio proprio davanti e intorno, nelle ore centrali è più affollato. Si paga solo il biglietto di ingresso al parco, il parcheggio è gratuito. Pranzo al sacco consigliato anche se all’interno c’è un bar.",
+      "gradeComment": 5
+    },
+    {
+      "author": "SsaLaroLana",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucp-b29xUH9VSQF_GSSSjlxeCzeOWaGhSL9bel5iqA=w36-h36-p-c0x00000000-rp-mo-ba5-br100",
+      "comment": "(Tradução do Google) Um lugar muito bonito para visitar se você passar por aqui ou mesmo se estiver interessado em específico. A vegetação é muito bem cuidada e existem vários relvados bem cuidados para passar um dia tranquilo e relaxante. Recomendo visitar o parque com um guia que certamente fará você apreciar mais sua beleza.  (Original) Un luogo molto bello e da visitare se passate di qui o anche se vi interessa nello specifico. Il verde risulta molto ben curato e sono presenti vari prati ben tenuti per passare una tranquilla e rilassante giornata. Consiglio di visitare il parco con una guida che sicuramente ne farà apprezzare maggiormente la bellezza.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Simonetta Zanieri",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucrfUKdPE2aHetMqfHcAJWuhl54io4xf9z9pxrgQ2Q=w36-h36-p-c0x00000000-rp-mo-br100",
+      "comment": "(Tradução do Google) Um belo parque cheio de história e magia! Andar por lá é realmente fantástico. As estátuas gigantes bem preservadas. O parque pode ser visitado em uma hora e meia, mas você pode ficar dentro o tempo que quiser. Equipado com estacionamento. Bom para visitar para adultos e crianças !!  (Original) Un bellissimo parco ricco di storia e magia! Passeggiare al suo interno è davvero fantastico. Le statue giganti ben conservate. Il parco è visitabile in un ora e mezzo ma puoi trattenerti all'interno tutto il tempo che vuoi. Dotato di parcheggio. Bello da visitare sia per grandi che per piccoli!!",
+      "gradeComment": 5
+    },
+    {
+      "author": "Gianluca Alcaro",
+      "photoAuthor": "https://lh3.googleusercontent.com/a/AItbvmkkt9vft6nYTrPOoUKmCzoDKJFoQWUVS8OYmOI5=w36-h36-p-c0x00000000-rp-mo-ba5-br100",
+      "comment": "(Tradução do Google) Local intrigante e sugestivo, para um passeio relaxante imerso na arte e na natureza. Divertido e estimulante até para as crianças. As estátuas, monumentais, são de grande impacto. No entanto, acho o custo da entrada excessivo (13 euros para adultos, 8 euros para crianças dos 4 aos 13 anos), sobretudo não justificável, tendo em conta que não há animais para alimentar, muita energia para consumir, jardinagem cara, serviços prestados (banheiro separado e área de piquenique), aluguel de obras, extensão alta, etc. Considerando também a alta afluência, digamos que 5-9 euros por pessoa seria um preço razoável (e cerca de 3-4 euros para crianças entre os 7 e os 13 anos). Então a vigilância em pares, como a polícia, qual é o sentido? Mas desloque-os em áreas diferentes e, se houver, muitos, reduza seu número. Por outro lado, o custo do guia do parque é bom: 8 euros, com informações úteis e belas imagens. O parque está bem conservado, mas quase completamente desprovido de legendas explicativas. Portanto, é necessário comprar o guia para encontrar informações sobre o parque e suas obras. Ou faça uma visita guiada ou um guia de áudio, que de qualquer forma quando visitamos ambos não estavam disponíveis. No entanto, em geral recomendou o mesmo.  (Original) Luogo intrigante e suggestivo, per una passeggiata rilassante immersi fra arte e natura. Divertente e stimolante anche per i bambini. Le statue, monumentali, sono di grande impatto. Trovo però eccessivo il costo di ingresso (13 euro per gli adulti, 8 euro per i bambini da 4 a 13 anni), soprattutto non giustificabile, considerato che non ci sono animali da sfamare, ingente energia da consumare, giardinaggio oneroso, servizi particolari forniti (wc e area pic-nic a parte), affitto di opere, elevata estensione,  ecc . Considerata anche l'alta affluenza, diciamo che 5-9 euro a persona sarebbe un prezzo considerabile congruo (e circa 3-4 euro per i bambini fra 7 e 13 anni). Poi la vigilanza in coppia, come le forze dell'ordine, che senso ha? Ma dislocarli in zone diverse e, semmai troppi, diminuirne il numero. Buono invece il costo del libro-guida del parco: 8 euro, con utili informazioni e belle immagini. Il parco è tenuto bene, ma quasi del tutto privo di didascalie esplicative. Necessario quindi acquistare il libro-guida per reperire le informazioni sul parco e le sue opere. O dotarsi di visita guidata o audioguida,  che comunque quando abbiamo effettuato la visita entrambi non erano disponibili. Comunque nel complesso consigliato lo stesso.",
+      "gradeComment": 4
+    },
+    {
+      "author": "michael bardeggia",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucr_GAKeGz-8CtGH8eM77jGSoazmuWeD936OuUmnML8=w36-h36-p-c0x00000000-rp-mo-ba6-br100",
+      "comment": "(Tradução do Google) O Parco dei Mostri, também chamado de Sacro Bosco ou Villa delle Meraviglie em Bomarzo, na província de Viterbo, é um complexo monumental italiano. É um parque natural adornado com inúmeras esculturas de basalto que datam do século XVI e retratam animais mitológicos, deuses e monstros. O arquiteto e antiquário Pirro Ligorio encomendado pelo príncipe Pier Francesco Orsini (conhecido como Vicino Orsini) projetou e supervisionou a construção, em 1547, do parque, elevando o gênero do grotesco a um sistema nas figuras mitológicas ali representadas. Alguns estudiosos erroneamente atribuíram a \"direção\" a Michelangelo Buonarroti (E. Guidoni), enquanto outros, em particular para o Templo, citaram o nome de Jacopo Barozzi da Vignola. A realização das esculturas foi provavelmente confiada a Simone Moschino. Orsini chamou o parque simplesmente de \"bosque\" e o dedicou a sua esposa, Giulia Farnese (não confundir com a concubina homônima do Papa Alexandre VI). Arquiteturas impossíveis, como a casa inclinada, ou algumas estátuas enigmáticas, segundo alguns, representam as etapas de um itinerário de origem alquímica. Cientistas históricos e filólogos fizeram várias tentativas para explicar o labirinto de símbolos e encontraram temas e motivos antigos da literatura renascentista, por exemplo, de Canzoniere de Francesco Petrarca, Orlando furioso de Ludovico Ariosto e os poemas Amadigi e Floridante de Bernardo Tasso (neste último, por exemplo, um dragão de aço aparece com uma sala dentro e de cuja boca saíram Amazonas a cavalo). Restam, no entanto, tantos mistérios que um esquema interpretativo homogêneo, no final, talvez nem pudesse ser encontrado; em um pilar há uma possível inscrição chave: \"Sol para ventilar o núcleo\". John Shearman, que menciona o parque várias vezes em seu Maneirismo, fala de \"ficções incríveis, agradáveis ​​e sobretudo manifestas - produtos da fuga artística e literária\". Em 1585, após a morte do último príncipe Orsini, o parque foi abandonado e na segunda metade do século XX foi restaurado pelo casal Giancarlo e Tina Severi Bettini, que estão sepultados no pequeno templo dentro do parque, que é talvez também o sepulcro de Giulia, Farnese. Em 1948 o parque foi visitado por Salvator Dalì que para a ocasião se enquadrou em poses originais entre os principais monumentos e definiu o local como uma invenção histórica única.  (Original) Il Parco dei Mostri, denominato anche Sacro Bosco o Villa delle Meraviglie di Bomarzo, in provincia di Viterbo, è un complesso monumentale italiano. Si tratta di un parco naturale ornato da numerose sculture in basalto risalenti al XVI secolo e ritraenti animali mitologici, divinità e mostri. L'architetto e antiquario Pirro Ligorio su commissione del principe Pier Francesco Orsini (detto Vicino Orsini) progettò e sovrintese alla realizzazione, nel 1547, del parco, elevando a sistema, nelle figure mitologiche ivi rappresentate, il genere del grotesque. Alcuni studiosi, erroneamente, facevano risalire la \"regia\" a Michelangelo Buonarroti (E. Guidoni), mentre altri, in particolare per il Tempio citavano il nome di Jacopo Barozzi da Vignola. La realizzazione delle opere scultoree fu probabilmente affidata a Simone Moschino. L'Orsini chiamò il parco semplicemente \"boschetto\" e lo dedicò a sua moglie, Giulia Farnese (da non confondere con l'omonima concubina del papa Alessandro VI). Le architetture impossibili, come la casa inclinata, o alcune statue enigmatiche rappresenterebbero secondo alcuni le tappe di un itinerario di matrice alchemica. Scienziati storici e filologi hanno fatto parecchi tentativi per spiegare il labirinto di simboli, e hanno trovato temi antichi e motivi della letteratura rinascimentale, per esempio del Canzoniere di Francesco Petrarca, dell'Orlando furioso di Ludovico Ariosto e dei poemi Amadigi e Floridante di Bernardo Tasso (in quest'ultimo compare ad esempio un dragone d'acciaio con una stanza all'interno, e dalla cui bocca uscivano amazzoni a cavallo). Sono rimasti, però, talmente tanti misteri che uno schema interpretativo omogeneo, alla fine, forse non potrebbe nemmeno essere trovato; su un pilastro compare una possibile iscrizione-chiave: «Sol per sfogare il core». John Shearman, che cita più volte il parco nel suo Mannerism, parla di «incredibili, piacevoli e soprattutto manifeste finzioni – prodotti d'evasione artistica e letteraria». Nel 1585, dopo la morte dell'ultimo principe Orsini, il parco fu abbandonato e nella seconda metà del Novecento fu restaurato dalla coppia Giancarlo e Tina Severi Bettini, i quali sono sepolti nel tempietto interno al parco, che forse è anche il sepolcro di Giulia Farnese. Nel 1948 il parco fu visitato da Salvator Dalì che per l'occasione si fece inquadrare in pose originali tra i principali monumenti e definì il luogo un'invenzione storica unica.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Roberto Cossu",
+      "photoAuthor": "https://lh3.googleusercontent.com/a/AItbvmknTGQBCvDmqsK28mG8x-gQCM0ze0yX6nzar93O=w36-h36-p-c0x00000000-rp-mo-br100",
+      "comment": "(Tradução do Google) Uma floresta verdadeiramente encantada não muito longe de Roma, onde você pode voltar a ser criança por pelo menos algumas horas. O preço do ingresso é um pouco alto quando comparado a outros locais notáveis ​​​​na área. No entanto, vale a pena visitar pelo menos uma vez. Recomendado👍  (Original) Bosco davvero incantato a poca distanza da Roma,dove poter tornare bambini almeno per un paio d'ore.  Prezzo del biglietto un po' alto se confrontato ad altre località della zona,degne di nota. Vale comunque la pena visitarlo almeno una volta. Consigliato👍",
+      "gradeComment": 5
+    },
+    {
+      "author": "ROBERTO ROMANO",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucoiveuA9ishxqxBM-rgOA3mNXzjYyxQ-HJqFRNMH-k=w36-h36-p-c0x00000000-rp-mo-ba5-br100",
+      "comment": "(Tradução do Google) Lugar mágico. Voltei lá depois de cerca de 10 anos. Eu achei que melhorou. Agora há também um restaurante que infelizmente ainda não experimentei. Mas do qual publicarei o cardápio. Aproveitamos a área de piquenique. As esculturas estão sempre bem preservadas. Você respira um ar às vezes místico. Além disso, algumas estátuas são impressionantes. Recomendado para ir lá para uma visita. O pessoal é muito cortês. Cumprimento cobiçoso muito estrito. E isso é uma vantagem para mim.  (Original) Luogo magico. Ci sono tornato dopo circa 10 anni. L'ho trovato migliorato. Ora c'è anche un ristorantino che purtroppo non ho provato. Ma di cui pubblicherò il menu. Abbiamo sfruttato l'area picnic. Le sculture sono sempre ben conservate. Si Respira un'aria a tratti mistica. Peraltro alcune statue sono imponenti. Consigliato passarci per una visita. Il personale è molto cortese. Rispetto delle norme covid molto rigoroso. E questo per me è un plus.",
+      "gradeComment": 4
+    }
+  ],
+  "peakHours": [
+    {
+      "Sunday": [
+        {
+          "hour": "08:00",
+          "percent": 6
+        },
+        {
+          "hour": "09:00",
+          "percent": 22
+        },
+        {
+          "hour": "10:00",
+          "percent": 52
+        },
+        {
+          "hour": "11:00",
+          "percent": 86
+        },
+        {
+          "hour": "12:00",
+          "percent": 100
+        },
+        {
+          "hour": "13:00",
+          "percent": 92
+        },
+        {
+          "hour": "14:00",
+          "percent": 83
+        },
+        {
+          "hour": "15:00",
+          "percent": 77
+        },
+        {
+          "hour": "16:00",
+          "percent": 65
+        },
+        {
+          "hour": "17:00",
+          "percent": 45
+        },
+        {
+          "hour": "18:00",
+          "percent": 24
+        }
+      ]
+    },
+    {
+      "Monday": [
+        {
+          "hour": "08:00",
+          "percent": 3
+        },
+        {
+          "hour": "09:00",
+          "percent": 10
+        },
+        {
+          "hour": "10:00",
+          "percent": 25
+        },
+        {
+          "hour": "11:00",
+          "percent": 41
+        },
+        {
+          "hour": "12:00",
+          "percent": 48
+        },
+        {
+          "hour": "13:00",
+          "percent": 46
+        },
+        {
+          "hour": "14:00",
+          "percent": 44
+        },
+        {
+          "hour": "15:00",
+          "percent": 44
+        },
+        {
+          "hour": "16:00",
+          "percent": 41
+        },
+        {
+          "hour": "17:00",
+          "percent": 29
+        },
+        {
+          "hour": "18:00",
+          "percent": 16
+        }
+      ]
+    },
+    {
+      "Tuesday": [
+        {
+          "hour": "08:00",
+          "percent": 1
+        },
+        {
+          "hour": "09:00",
+          "percent": 5
+        },
+        {
+          "hour": "10:00",
+          "percent": 12
+        },
+        {
+          "hour": "11:00",
+          "percent": 17
+        },
+        {
+          "hour": "12:00",
+          "percent": 18
+        },
+        {
+          "hour": "13:00",
+          "percent": 16
+        },
+        {
+          "hour": "14:00",
+          "percent": 15
+        },
+        {
+          "hour": "15:00",
+          "percent": 15
+        },
+        {
+          "hour": "16:00",
+          "percent": 13
+        },
+        {
+          "hour": "17:00",
+          "percent": 9
+        },
+        {
+          "hour": "18:00",
+          "percent": 5
+        }
+      ]
+    },
+    {
+      "Wednesday": [
+        {
+          "hour": "08:00",
+          "percent": 1
+        },
+        {
+          "hour": "09:00",
+          "percent": 6
+        },
+        {
+          "hour": "10:00",
+          "percent": 13
+        },
+        {
+          "hour": "11:00",
+          "percent": 19
+        },
+        {
+          "hour": "12:00",
+          "percent": 20
+        },
+        {
+          "hour": "13:00",
+          "percent": 17
+        },
+        {
+          "hour": "14:00",
+          "percent": 14
+        },
+        {
+          "hour": "15:00",
+          "percent": 12
+        },
+        {
+          "hour": "16:00",
+          "percent": 11
+        },
+        {
+          "hour": "17:00",
+          "percent": 9
+        },
+        {
+          "hour": "18:00",
+          "percent": 5
+        }
+      ]
+    },
+    {
+      "Thursday": [
+        {
+          "hour": "08:00",
+          "percent": 2
+        },
+        {
+          "hour": "09:00",
+          "percent": 9
+        },
+        {
+          "hour": "10:00",
+          "percent": 19
+        },
+        {
+          "hour": "11:00",
+          "percent": 28
+        },
+        {
+          "hour": "12:00",
+          "percent": 32
+        },
+        {
+          "hour": "13:00",
+          "percent": 29
+        },
+        {
+          "hour": "14:00",
+          "percent": 25
+        },
+        {
+          "hour": "15:00",
+          "percent": 22
+        },
+        {
+          "hour": "16:00",
+          "percent": 19
+        },
+        {
+          "hour": "17:00",
+          "percent": 15
+        },
+        {
+          "hour": "18:00",
+          "percent": 9
+        }
+      ]
+    },
+    {
+      "Friday": [
+        {
+          "hour": "08:00",
+          "percent": 2
+        },
+        {
+          "hour": "09:00",
+          "percent": 9
+        },
+        {
+          "hour": "10:00",
+          "percent": 19
+        },
+        {
+          "hour": "11:00",
+          "percent": 27
+        },
+        {
+          "hour": "12:00",
+          "percent": 28
+        },
+        {
+          "hour": "13:00",
+          "percent": 24
+        },
+        {
+          "hour": "14:00",
+          "percent": 21
+        },
+        {
+          "hour": "15:00",
+          "percent": 20
+        },
+        {
+          "hour": "16:00",
+          "percent": 18
+        },
+        {
+          "hour": "17:00",
+          "percent": 14
+        },
+        {
+          "hour": "18:00",
+          "percent": 8
+        }
+      ]
+    },
+    {
+      "Saturday": [
+        {
+          "hour": "08:00",
+          "percent": 4
+        },
+        {
+          "hour": "09:00",
+          "percent": 16
+        },
+        {
+          "hour": "10:00",
+          "percent": 35
+        },
+        {
+          "hour": "11:00",
+          "percent": 54
+        },
+        {
+          "hour": "12:00",
+          "percent": 59
+        },
+        {
+          "hour": "13:00",
+          "percent": 52
+        },
+        {
+          "hour": "14:00",
+          "percent": 46
+        },
+        {
+          "hour": "15:00",
+          "percent": 48
+        },
+        {
+          "hour": "16:00",
+          "percent": 47
+        },
+        {
+          "hour": "17:00",
+          "percent": 37
+        },
+        {
+          "hour": "18:00",
+          "percent": 22
+        }
+      ]
+    }
+  ],
+  "relatedSearches": [
+    "bomarzo monster park"
+  ],
+  "relateds": [
+    {
+      "mainName": "Tarot Garden",
+      "url": null
+    },
+    {
+      "mainName": "Villa Lante em Bagnaia",
+      "url": null
+    },
+    {
+      "mainName": "The Gardens Of Ninfa",
+      "url": null
+    },
+    {
+      "mainName": "Etruscan Pyramid of Bomarzo",
+      "url": null
+    },
+    {
+      "mainName": "Bomarzo",
+      "url": null
+    },
+    {
+      "mainName": "Lago Bolsena",
+      "url": null
+    },
+    {
+      "mainName": "La Scarzuola",
+      "url": null
+    },
+    {
+      "mainName": "Foof Museum of the Dog Mondragone",
+      "url": null
+    },
+    {
+      "mainName": "Villa D'Este",
+      "url": null
+    },
+    {
+      "mainName": "Cascata delle Marmore",
+      "url": null
+    },
+    {
+      "mainName": "Villa Farnese",
+      "url": null
+    },
+    {
+      "mainName": "Riserva naturale provinciale Monte Casoli di Bomarzo",
+      "url": null
+    },
+    {
+      "mainName": "Parco Giardino Sigurtà",
+      "url": null
+    },
+    {
+      "mainName": "Well of St. Patrick",
+      "url": null
+    },
+    {
+      "mainName": "The Tarot Garden",
+      "url": null
+    },
+    {
+      "mainName": "Parco del Grassano",
+      "url": null
+    },
+    {
+      "mainName": "Frasassi Caves",
+      "url": null
+    },
+    {
+      "mainName": "Bergamo Adventure Park",
+      "url": null
+    },
+    {
+      "mainName": "Il Paese delle Fiabe",
+      "url": null
+    },
+    {
+      "mainName": "Waterfall Park of Molina",
+      "url": null
+    },
+    {
+      "mainName": "Parco Avventura Fregene",
+      "url": null
+    },
+    {
+      "mainName": "Faggeta del Monte Cimino",
+      "url": null
+    },
+    {
+      "mainName": "Bocca della Verità",
+      "url": null
+    },
+    {
+      "mainName": "Faunistic Park Le Cornelle",
+      "url": null
+    }
+  ]
+}

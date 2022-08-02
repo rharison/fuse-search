@@ -1,0 +1,930 @@
+{
+  "mainName": "Estação Aeroporto - Guarulhos",
+  "slug": "estacao-aeroporto-guarulhos",
+  "category": "Empresa ferroviária metropolitana",
+  "locationInformation": {
+    "latitude": "-23.4334082",
+    "longitude": "-46.4938165"
+  },
+  "basicInformation": [
+    {
+      "label": "endereço",
+      "tooltip": "Copiar endereço",
+      "text": "R. Interna do Aeroporto Internacional de Guarulhos - Aeroporto, Guarulhos - SP, 07190-100",
+      "icon": "https://www.gstatic.com/images/icons/material/system_gm/1x/place_gm_blue_24dp.png"
+    },
+    {
+      "label": "locatedin",
+      "text": "Localizado em: Aeroporto-Guarulhos",
+      "icon": "https://www.google.com/images/cleardot.gif"
+    },
+    {
+      "label": "website",
+      "tooltip": "Abrir website",
+      "text": "cptm.sp.gov.br",
+      "icon": "https://www.gstatic.com/images/icons/material/system_gm/1x/public_gm_blue_24dp.png"
+    },
+    {
+      "label": "telefone",
+      "tooltip": "Copiar número de telefone",
+      "text": "0800 055 0121",
+      "icon": "https://www.gstatic.com/images/icons/material/system_gm/1x/phone_gm_blue_24dp.png"
+    },
+    {
+      "label": "Code",
+      "tooltip": "Copiar Plus Code",
+      "text": "HG84+JF Aeroporto, Guarulhos - SP",
+      "icon": "https://maps.gstatic.com/mapfiles/maps_lite/images/2x/ic_plus_code.png"
+    },
+    {
+      "label": "send-to-device",
+      "text": "Enviar para smartphone",
+      "icon": "https://maps.gstatic.com/consumer/images/icons/1x/send_to_mobile_alt_gm_blue_24dp.png"
+    },
+    {
+      "label": "merchant",
+      "text": "Reivindicar esta empresa",
+      "icon": "https://www.gstatic.com/images/icons/material/system_gm/1x/verified_user_gm_blue_24dp.png"
+    }
+  ],
+  "ratingInformation": {
+    "basicRatingInformation": {
+      "averageGrade": 4.5,
+      "totalOfEvaluations": 5565
+    },
+    "ratingsByGrade": [
+      {
+        "grade": 5,
+        "totalRatings": 3705
+      },
+      {
+        "grade": 4,
+        "totalRatings": 1178
+      },
+      {
+        "grade": 3,
+        "totalRatings": 443
+      },
+      {
+        "grade": 2,
+        "totalRatings": 113
+      },
+      {
+        "grade": 1,
+        "totalRatings": 126
+      }
+    ]
+  },
+  "ratingTags": [
+    {
+      "tag": "organizado",
+      "count": 157,
+      "tooltip": "organizado, mencionado em 157 avaliações"
+    },
+    {
+      "tag": "aeroporto de guarulhos",
+      "count": 70,
+      "tooltip": "aeroporto de guarulhos, mencionado em 70 avaliações"
+    },
+    {
+      "tag": "segurança",
+      "count": 57,
+      "tooltip": "segurança, mencionado em 57 avaliações"
+    },
+    {
+      "tag": "estação da luz",
+      "count": 30,
+      "tooltip": "estação da luz, mencionado em 30 avaliações"
+    },
+    {
+      "tag": "embarque",
+      "count": 28,
+      "tooltip": "embarque, mencionado em 28 avaliações"
+    },
+    {
+      "tag": "destino",
+      "count": 21,
+      "tooltip": "destino, mencionado em 21 avaliações"
+    },
+    {
+      "tag": "malas",
+      "count": 21,
+      "tooltip": "malas, mencionado em 21 avaliações"
+    },
+    {
+      "tag": "vagões",
+      "count": 18,
+      "tooltip": "vagões, mencionado em 18 avaliações"
+    },
+    {
+      "tag": "primeiro mundo",
+      "count": 9,
+      "tooltip": "primeiro mundo, mencionado em 9 avaliações"
+    },
+    {
+      "tag": "bilhete único",
+      "count": 6,
+      "tooltip": "bilhete único, mencionado em 6 avaliações"
+    }
+  ],
+  "featuredPhotos": [
+    "https://lh5.googleusercontent.com/p/AF1QipPn-tUvtCGJPTlfjMIQzj7QhBPmU3NMg9N08ABE=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPH-F2IDRXhfbPqsIRLExAgobN5jO_WedAUhtPu=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOdJRn7nl-Hb3r1vK7DIwctU3p9NuKsSihtkXPV=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipN0lD0yyp7tJXQ6WfnTudrU-80o91EewGuj8qEN=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMUdrY045dEwtMdF4Kbp-JUjrD2IrZtxmomTwXI=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOWrJXL-JZCKIo8lE50jw10mJSlJVDV01G8mLeN=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipP2Dku_TO0Nst5cSwX6q9EdWT1rQY5IqGMcT_0L=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMxIf31lP2-8EE605tLS0z2zP697ivtAPTvvMuC=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPwKZqF5SSSWYj1mQn2T-gDNY8RFz_v-BrfucuM=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOFHXax43admTHsYjohbv1B3trwHJzwkqwDLyiH=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipObFfWJuZ8aH9JRAx7GFq-joEjpWwBIhdpslyjC=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipO-YVCoCUoueG6oL--Fkm-y0cvgp3Cqz86EG2gi=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipME1FHV43acLQu1emIsdOZ0JKeT4kwtCgOoTV8B=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPgxk0n2Ivgvhg2Fa8qjVQdQNz0iWDOLAxiJb8E=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNF5euShcad9Wxd8kOktn3QsVkAISnkUVNBP40W=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMoCHJGlxq_GeKaDgzyTJbCR8SMBZcLofspyDx-=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipN3J1lFfWDKMNSNSovoiW90aeOHXydqbKK-C_ko=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNgiewFK2JHIcc88_P_x04DqdQWpZwpdDU5vW8M=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOlOQuZjqSdZlWwiQXSjdwQ2MnTyOV_mtmhxk69=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOtDM0rk0KJaI8uS4e07b9meYIVE4XDhfSxvIvr=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPI80DSe4uUfqU6_oGnsAQETKeKqorkbgJrY04C=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNNgT1iibwc2fILwRfA4YYd6VEO0UD8obeZOQjC=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNHXy7OLNnYEtqOu0oKSa6LA_4c3KeVAr2JF-ym=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPbViLkvp39GnGcMnFERvsmVeBQQQ1raT7maDe0=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOKCYzrzLbgWH8qvp8Xeg6XmWiT52K8eBln3dJK=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMI0OSQgg--O0qG5_1ZIWLjcKlpLq-JznBX7ocs=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPyUSQlNK3Q23VF1Bu-jOwJlEUXP1WlIHKCUI8D=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNAOPmA0rJMEFohvxrkbnXhzyW3CexG-5avYpZc=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipM57o3qmeXtQEnuJLSh565bLHuMtYsQYKfudqL2=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMs1_P3l9tbEpWMntG80DceJOI6RKx7AEwUjg7C=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPQMQDZtkwit2I_5lIOXuCsgPCMS7jCY7Ql91Nb=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPLMFyvk7A_2cU2MXtHixFwMpFqCK79H5FUu2P2=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipO8_hV9TPvThALUY8tjtVc54aBcpQxnJFddVDsj=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNAV35K-_H5VDUIAKJjVIdofhtBATiAsEF1fykr=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipM-jDJKWpGgUwXu5lQgLZcs5c5G4RaXjgFH6RsR=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOV1qC3vMtuZ5903Ao9UT2ARZSQcNwZDDhpJ-pF=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipP5hx0eiRJmnbH63IjF47u7Yd17WxM3Y7bNjbll=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOob2GyINiTFGuOe-7ZoGIALLPCDj5O_KADslrZ=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipO23-q0alzOA5AeS4B9sX7yKrS8D9an9GdY39sC=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipP8WXYJv3qqPiDFuUgYsevNKShAEom9YHc_52lZ=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOW_fFev-SRFESumZXHlDmFRzm3MtFfI9X5KCHl=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPnBL6uY_cOeHMgYFMDfKngTaVVwy--b1n3OlZ9=w1024-h576-k-no"
+  ],
+  "topComments": [
+    {
+      "author": "Vagner RB",
+      "photoAuthor": "https://lh3.googleusercontent.com/a/AItbvmmmuSgQ5-Ax5qYyQHIRSHYlI3VYaMFH703luHmh=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "Uma grande evolução o trem vir até o Aeroporto. Infelizmente a Cidade de Guarulhos ainda não percebeu deste potencial meio de transporte para evoluir as areas ao redor.  Futuros prefeitos invistam em recolhimento de aguas de chuvas, são mais baratas para tratamento. Invistam na educação para que nossas crianças saibam não sujar as ruas e queiram criar planos de sustentabilidade. Invistam não apenas nos meios de transporte urbanos e corredores, realizem a revitalização de ruas e avenidas tapando seus buracos e aumentando a luminosidade. Invistam na saude preventiva melhorando as UBS, e valorizando quem lá trabalha para que ao menos nos deem um bom dia ao buscar atendimento. ... tem mto mais, mas nem irão ler este comentário.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Liège Gonçalves Teixeira",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucpJHIeCDAnd4g6Ek7KjLj_cEaD2catkzD1GXWRHVgM=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "Decidi ir até a Estação Luz para conhecer o serviço, fazendo paralelos inevitáveis com os de outras grandes cidades mundo afora.  À parte do intervalo longo entre um trem e outro (provavelmente pela pouca procura ainda) foi uma grata surpresa, visto que não temos boa utilização de trilhos no Brasil.  Vagões impecavelmente limpos, painéis informativos modernos, espaço e conforto suficientes para um trajeto até rápido. Funcionários acompanham o percurso, dando suporte. Muito bom !!!!",
+      "gradeComment": 4
+    },
+    {
+      "author": "Toni Roberto",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucpi6J30vYOGBjvybE4945wtV-2HAK7C89pfhwE0Aw=w36-h36-p-c0x00000000-rp-mo-ba5-br100",
+      "comment": "Seguro, limpo e bem organizado. Só se atente ao seu portão de embarque, pois é muito fácil se perder ou andar literalmente quilômetros por lá. Chegue cedo, faça seu check-in online e aproveite um cafezinho antes do embarque ;)",
+      "gradeComment": 5
+    },
+    {
+      "author": "Cida Costa",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucoAJ1ua0aqqqaUl93LmRuPZXsHUI7Rp1FN58l2EJIg=w36-h36-p-c0x00000000-rp-mo-ba5-br100",
+      "comment": "Muito bom,grande, limpa!Tem ônibus translado gratuito para o aeroporto e vice-versa, os ônibus são verdes. A passagem do trem é R$4,40.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Caio Silva",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucqCkGCUmdUscEtLaIEMtyZnFjBBVPrSg76Iirzmqw=w36-h36-p-c0x00000000-rp-mo-br100",
+      "comment": "As estações são bem sinalizadas e com funcionários dispostos a ajudar, o ponto negativo que o intervalo entre trens, porém é ate que entendível, basta acessar o PDF que consta o horário das partidas que você consegue se programar com facilidade para realizar a viagem.  O trem é o modelo mais recente que está rodando nos trilhos da CPTM até hoje (Jan/2022), espaçoso, moderno, iluminação incrível, display com informações e compartimentos para colocar as malas de viagem.  O trajeto total desta linha é longo e demorado, porém o trem dispõe conforto o suficiente para não se sentir incomodado.  Em todas vezes que usufrui desta linha, nunca esteve lotado, sempre trafeguei sentado.  Os avisos sonoros ocorrem tanto em inglês quanto em português, bem como as placas de orientações.  A saída da estação te deixa de cara com os ônibus do aeroporto, para uma integração prática , segura e gratuita.",
+      "gradeComment": 5
+    },
+    {
+      "author": "ana santosbra",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucpMnJ9hVdeWAoVvhvAgT7SMUbLqGkOVaPHrEIYM8g=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "Estação de trem CPTM (Linha Jade) para o aeroporto de Guarulhos (GRU) muito bem projetada, ampla, com banheiros, e escadas rolantes,elevadores,  tendo placas de sinalização por todos os lado! Mas se você precisar perguntar alguma coisa para os funcionários do local, será bem atendido. Transporte gratuito, que faz conexão com a Estação da Luz (Linha Amarela), Também é o local, no Térreo,  de onde saem os ônibus que transportam, para os terminais 1,2 e 3 do aeroporto, de 15 em 15.minutos, de forma gratuita e tudo bem identificado!!!",
+      "gradeComment": 5
+    },
+    {
+      "author": "Alexandre Malki J.",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucrtbu-agAMUT6o2r49OI9Ji_38x7aQ9dE3W-aquVg=w36-h36-p-c0x00000000-rp-mo-ba6-br100",
+      "comment": "Infelizmente o trem não chega aos terminais do aeroporto. Temos que pegar um ônibus até os terminais. O trem é limpo, más no horário de pico fica difícil usar o trem super lotado com malas.",
+      "gradeComment": 3
+    },
+    {
+      "author": "Rafisa Cavalcante",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucrPx3Cvebi9MsLgHo_Llroe9t00mZD18B9ZH9aw6w=w36-h36-p-c0x00000000-rp-mo-ba3-br100",
+      "comment": "O trem está super novo. Acesso também bastante facilitado. Você pega o transfer gratuito no desembarque do terminal 2 do aeroporto de Guarulhos e ele te leva até a estação. Lá você paga R$ 4,40 pelo ticket e pode descer na estação Brás ou na Luz (essa última da acesso a todas as linhas de metrô de SP). Muito bom.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Thaiane Verly",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucoeu2p-VndQPhkVzTrJTEL7PvZM1aTJJLNrA3eK_pA=w36-h36-p-c0x00000000-rp-mo-ba5-br100",
+      "comment": "Só não dou 5 estrelas pq tem poucos bancos para aguardar o voo. Fora que os preços são abusivos. Paguei 35 reais em misto + café! Fora que para subir para a conexão não tinha escada rolante. Tem que subir as escadas segurando a mala.",
+      "gradeComment": 4
+    },
+    {
+      "author": "Raphael Rogger Vieira",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucrJn6MAkfvTiRPkURg-Rh3Pf9cihnMm6B3E7MN1nA=w36-h36-p-c0x00000000-rp-mo-ba5-br100",
+      "comment": "Excelente Aeroporto Internacional. Um gigantesco Aeroporto, tem voos nacionais e internacionais de diversas companhias aéreas. Possui diversas lojas, parece um shopping. Praça de alimentação com muitas opções de lanches e refeições. Quando você desembarca pela primeira vez nesse Aeroporto fica surpreendido.",
+      "gradeComment": 5
+    }
+  ],
+  "peakHours": [
+    {
+      "Sunday": [
+        {
+          "hour": "04:00",
+          "percent": 13
+        },
+        {
+          "hour": "05:00",
+          "percent": 17
+        },
+        {
+          "hour": "06:00",
+          "percent": 22
+        },
+        {
+          "hour": "07:00",
+          "percent": 26
+        },
+        {
+          "hour": "08:00",
+          "percent": 30
+        },
+        {
+          "hour": "09:00",
+          "percent": 32
+        },
+        {
+          "hour": "10:00",
+          "percent": 33
+        },
+        {
+          "hour": "11:00",
+          "percent": 33
+        },
+        {
+          "hour": "12:00",
+          "percent": 32
+        },
+        {
+          "hour": "13:00",
+          "percent": 31
+        },
+        {
+          "hour": "14:00",
+          "percent": 31
+        },
+        {
+          "hour": "15:00",
+          "percent": 32
+        },
+        {
+          "hour": "16:00",
+          "percent": 33
+        },
+        {
+          "hour": "17:00",
+          "percent": 34
+        },
+        {
+          "hour": "18:00",
+          "percent": 35
+        },
+        {
+          "hour": "19:00",
+          "percent": 35
+        },
+        {
+          "hour": "20:00",
+          "percent": 32
+        },
+        {
+          "hour": "21:00",
+          "percent": 28
+        },
+        {
+          "hour": "22:00",
+          "percent": 22
+        },
+        {
+          "hour": "23:00",
+          "percent": 17
+        }
+      ]
+    },
+    {
+      "Monday": [
+        {
+          "hour": "04:00",
+          "percent": 30
+        },
+        {
+          "hour": "05:00",
+          "percent": 63
+        },
+        {
+          "hour": "06:00",
+          "percent": 89
+        },
+        {
+          "hour": "07:00",
+          "percent": 85
+        },
+        {
+          "hour": "08:00",
+          "percent": 62
+        },
+        {
+          "hour": "09:00",
+          "percent": 44
+        },
+        {
+          "hour": "10:00",
+          "percent": 40
+        },
+        {
+          "hour": "11:00",
+          "percent": 42
+        },
+        {
+          "hour": "12:00",
+          "percent": 45
+        },
+        {
+          "hour": "13:00",
+          "percent": 46
+        },
+        {
+          "hour": "14:00",
+          "percent": 47
+        },
+        {
+          "hour": "15:00",
+          "percent": 48
+        },
+        {
+          "hour": "16:00",
+          "percent": 50
+        },
+        {
+          "hour": "17:00",
+          "percent": 53
+        },
+        {
+          "hour": "18:00",
+          "percent": 56
+        },
+        {
+          "hour": "19:00",
+          "percent": 55
+        },
+        {
+          "hour": "20:00",
+          "percent": 48
+        },
+        {
+          "hour": "21:00",
+          "percent": 38
+        },
+        {
+          "hour": "22:00",
+          "percent": 26
+        },
+        {
+          "hour": "23:00",
+          "percent": 15
+        }
+      ]
+    },
+    {
+      "Tuesday": [
+        {
+          "hour": "04:00",
+          "percent": 33
+        },
+        {
+          "hour": "05:00",
+          "percent": 69
+        },
+        {
+          "hour": "06:00",
+          "percent": 94
+        },
+        {
+          "hour": "07:00",
+          "percent": 88
+        },
+        {
+          "hour": "08:00",
+          "percent": 64
+        },
+        {
+          "hour": "09:00",
+          "percent": 48
+        },
+        {
+          "hour": "10:00",
+          "percent": 48
+        },
+        {
+          "hour": "11:00",
+          "percent": 50
+        },
+        {
+          "hour": "12:00",
+          "percent": 47
+        },
+        {
+          "hour": "13:00",
+          "percent": 42
+        },
+        {
+          "hour": "14:00",
+          "percent": 39
+        },
+        {
+          "hour": "15:00",
+          "percent": 42
+        },
+        {
+          "hour": "16:00",
+          "percent": 47
+        },
+        {
+          "hour": "17:00",
+          "percent": 52
+        },
+        {
+          "hour": "18:00",
+          "percent": 53
+        },
+        {
+          "hour": "19:00",
+          "percent": 50
+        },
+        {
+          "hour": "20:00",
+          "percent": 43
+        },
+        {
+          "hour": "21:00",
+          "percent": 34
+        },
+        {
+          "hour": "22:00",
+          "percent": 24
+        },
+        {
+          "hour": "23:00",
+          "percent": 15
+        }
+      ]
+    },
+    {
+      "Wednesday": [
+        {
+          "hour": "04:00",
+          "percent": 34
+        },
+        {
+          "hour": "05:00",
+          "percent": 71
+        },
+        {
+          "hour": "06:00",
+          "percent": 100
+        },
+        {
+          "hour": "07:00",
+          "percent": 95
+        },
+        {
+          "hour": "08:00",
+          "percent": 68
+        },
+        {
+          "hour": "09:00",
+          "percent": 47
+        },
+        {
+          "hour": "10:00",
+          "percent": 43
+        },
+        {
+          "hour": "11:00",
+          "percent": 43
+        },
+        {
+          "hour": "12:00",
+          "percent": 40
+        },
+        {
+          "hour": "13:00",
+          "percent": 36
+        },
+        {
+          "hour": "14:00",
+          "percent": 34
+        },
+        {
+          "hour": "15:00",
+          "percent": 37
+        },
+        {
+          "hour": "16:00",
+          "percent": 43
+        },
+        {
+          "hour": "17:00",
+          "percent": 48
+        },
+        {
+          "hour": "18:00",
+          "percent": 51
+        },
+        {
+          "hour": "19:00",
+          "percent": 48
+        },
+        {
+          "hour": "20:00",
+          "percent": 42
+        },
+        {
+          "hour": "21:00",
+          "percent": 34
+        },
+        {
+          "hour": "22:00",
+          "percent": 25
+        },
+        {
+          "hour": "23:00",
+          "percent": 16
+        }
+      ]
+    },
+    {
+      "Thursday": [
+        {
+          "hour": "04:00",
+          "percent": 33
+        },
+        {
+          "hour": "05:00",
+          "percent": 67
+        },
+        {
+          "hour": "06:00",
+          "percent": 89
+        },
+        {
+          "hour": "08:00",
+          "percent": 56
+        },
+        {
+          "hour": "09:00",
+          "percent": 41
+        },
+        {
+          "hour": "10:00",
+          "percent": 39
+        },
+        {
+          "hour": "11:00",
+          "percent": 43
+        },
+        {
+          "hour": "12:00",
+          "percent": 46
+        },
+        {
+          "hour": "13:00",
+          "percent": 47
+        },
+        {
+          "hour": "14:00",
+          "percent": 46
+        },
+        {
+          "hour": "15:00",
+          "percent": 45
+        },
+        {
+          "hour": "16:00",
+          "percent": 43
+        },
+        {
+          "hour": "17:00",
+          "percent": 43
+        },
+        {
+          "hour": "18:00",
+          "percent": 44
+        },
+        {
+          "hour": "19:00",
+          "percent": 44
+        },
+        {
+          "hour": "20:00",
+          "percent": 42
+        },
+        {
+          "hour": "21:00",
+          "percent": 36
+        },
+        {
+          "hour": "22:00",
+          "percent": 27
+        },
+        {
+          "hour": "23:00",
+          "percent": 18
+        }
+      ]
+    },
+    {
+      "Friday": [
+        {
+          "hour": "04:00",
+          "percent": 26
+        },
+        {
+          "hour": "05:00",
+          "percent": 56
+        },
+        {
+          "hour": "06:00",
+          "percent": 83
+        },
+        {
+          "hour": "07:00",
+          "percent": 84
+        },
+        {
+          "hour": "08:00",
+          "percent": 63
+        },
+        {
+          "hour": "09:00",
+          "percent": 43
+        },
+        {
+          "hour": "10:00",
+          "percent": 37
+        },
+        {
+          "hour": "11:00",
+          "percent": 39
+        },
+        {
+          "hour": "12:00",
+          "percent": 43
+        },
+        {
+          "hour": "13:00",
+          "percent": 45
+        },
+        {
+          "hour": "14:00",
+          "percent": 46
+        },
+        {
+          "hour": "15:00",
+          "percent": 46
+        },
+        {
+          "hour": "16:00",
+          "percent": 46
+        },
+        {
+          "hour": "17:00",
+          "percent": 45
+        },
+        {
+          "hour": "18:00",
+          "percent": 45
+        },
+        {
+          "hour": "19:00",
+          "percent": 43
+        },
+        {
+          "hour": "20:00",
+          "percent": 38
+        },
+        {
+          "hour": "21:00",
+          "percent": 31
+        },
+        {
+          "hour": "22:00",
+          "percent": 23
+        },
+        {
+          "hour": "23:00",
+          "percent": 15
+        }
+      ]
+    },
+    {
+      "Saturday": [
+        {
+          "hour": "04:00",
+          "percent": 22
+        },
+        {
+          "hour": "05:00",
+          "percent": 38
+        },
+        {
+          "hour": "06:00",
+          "percent": 54
+        },
+        {
+          "hour": "07:00",
+          "percent": 59
+        },
+        {
+          "hour": "08:00",
+          "percent": 54
+        },
+        {
+          "hour": "09:00",
+          "percent": 45
+        },
+        {
+          "hour": "10:00",
+          "percent": 39
+        },
+        {
+          "hour": "11:00",
+          "percent": 40
+        },
+        {
+          "hour": "12:00",
+          "percent": 43
+        },
+        {
+          "hour": "13:00",
+          "percent": 47
+        },
+        {
+          "hour": "14:00",
+          "percent": 49
+        },
+        {
+          "hour": "15:00",
+          "percent": 48
+        },
+        {
+          "hour": "16:00",
+          "percent": 45
+        },
+        {
+          "hour": "17:00",
+          "percent": 41
+        },
+        {
+          "hour": "18:00",
+          "percent": 39
+        },
+        {
+          "hour": "19:00",
+          "percent": 37
+        },
+        {
+          "hour": "20:00",
+          "percent": 36
+        },
+        {
+          "hour": "21:00",
+          "percent": 33
+        },
+        {
+          "hour": "22:00",
+          "percent": 27
+        },
+        {
+          "hour": "23:00",
+          "percent": 19
+        },
+        {
+          "hour": "00:00",
+          "percent": 11
+        }
+      ]
+    }
+  ],
+  "relatedSearches": [
+    "estação aeroporto guarulhos horários",
+    "trem aeroporto-guarulhos mapa",
+    "como ir de metrô para o aeroporto de guarulhos",
+    "endereço estação aeroporto guarulhos",
+    "trem para o aeroporto de guarulhos",
+    "como sair do aeroporto de guarulhos de trem",
+    "expresso aeroporto horários",
+    "horário do trem de guarulhos para o brás"
+  ],
+  "relateds": [
+    {
+      "mainName": "Eng. Goulart",
+      "url": null
+    },
+    {
+      "mainName": "Terminal Metropolitano Cecap",
+      "url": null
+    },
+    {
+      "mainName": "Brás",
+      "url": null
+    },
+    {
+      "mainName": "Estação da Luz",
+      "url": null
+    },
+    {
+      "mainName": "Luz",
+      "url": null
+    },
+    {
+      "mainName": "Terminal 1",
+      "url": null
+    },
+    {
+      "mainName": "Calmon Viana",
+      "url": null
+    },
+    {
+      "mainName": "Tucuruvi",
+      "url": null
+    },
+    {
+      "mainName": "Penha",
+      "url": null
+    },
+    {
+      "mainName": "Terminal 2",
+      "url": null
+    },
+    {
+      "mainName": "USP - Leste",
+      "url": null
+    },
+    {
+      "mainName": "Terminal Intermodal Palmeiras-Barra Funda",
+      "url": null
+    },
+    {
+      "mainName": "Estação Tatuapé",
+      "url": null
+    },
+    {
+      "mainName": "Comendador Ermelino",
+      "url": null
+    },
+    {
+      "mainName": "Osasco",
+      "url": null
+    },
+    {
+      "mainName": "Itaim Paulista",
+      "url": null
+    },
+    {
+      "mainName": "Vila Olímpia",
+      "url": null
+    },
+    {
+      "mainName": "Terminal 3 Edifício Garagem",
+      "url": null
+    },
+    {
+      "mainName": "Estação Utinga",
+      "url": null
+    },
+    {
+      "mainName": "Cidade Jardim",
+      "url": null
+    },
+    {
+      "mainName": "Lapa",
+      "url": null
+    },
+    {
+      "mainName": "Capão Redondo",
+      "url": null
+    },
+    {
+      "mainName": "Chácara Klabin",
+      "url": null
+    }
+  ]
+}

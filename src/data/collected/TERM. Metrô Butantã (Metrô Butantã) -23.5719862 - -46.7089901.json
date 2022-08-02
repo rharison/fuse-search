@@ -1,0 +1,911 @@
+{
+  "mainName": "TERM. Metrô Butantã (Metrô Butantã)",
+  "slug": "term.-metro-butanta-(metro-butanta)",
+  "category": "Estação de ônibus",
+  "locationInformation": {
+    "latitude": "-23.5719862",
+    "longitude": "-46.7089901"
+  },
+  "basicInformation": [
+    {
+      "label": "endereço",
+      "tooltip": "Copiar endereço",
+      "text": "Butantã, São Paulo - SP, 05510-021",
+      "icon": "https://www.gstatic.com/images/icons/material/system_gm/1x/place_gm_blue_24dp.png"
+    },
+    {
+      "label": "Code",
+      "tooltip": "Copiar Plus Code",
+      "text": "C7HR+6C Butantã, São Paulo - SP",
+      "icon": "https://maps.gstatic.com/mapfiles/maps_lite/images/2x/ic_plus_code.png"
+    }
+  ],
+  "ratingInformation": {
+    "basicRatingInformation": {
+      "averageGrade": 3.6,
+      "totalOfEvaluations": 87
+    },
+    "ratingsByGrade": [
+      {
+        "grade": 5,
+        "totalRatings": 32
+      },
+      {
+        "grade": 4,
+        "totalRatings": 19
+      },
+      {
+        "grade": 3,
+        "totalRatings": 16
+      },
+      {
+        "grade": 2,
+        "totalRatings": 7
+      },
+      {
+        "grade": 1,
+        "totalRatings": 13
+      }
+    ]
+  },
+  "ratingTags": [
+    {
+      "tag": "organizado",
+      "count": 5,
+      "tooltip": "organizado, mencionado em 5 avaliações"
+    },
+    {
+      "tag": "usuários",
+      "count": 4,
+      "tooltip": "usuários, mencionado em 4 avaliações"
+    },
+    {
+      "tag": "bancos",
+      "count": 4,
+      "tooltip": "bancos, mencionado em 4 avaliações"
+    },
+    {
+      "tag": "sentar",
+      "count": 3,
+      "tooltip": "sentar, mencionado em 3 avaliações"
+    },
+    {
+      "tag": "segurança",
+      "count": 3,
+      "tooltip": "segurança, mencionado em 3 avaliações"
+    }
+  ],
+  "featuredPhotos": [
+    "https://lh5.googleusercontent.com/p/AF1QipNSXI5psNmjWRo_99c5Er6KBGsgqYl4y_73e3mA=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNZcNHhsONpSnHMXTb62526uDLt84qLhSw3Td46=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipP-hEXLC9n2urafo8PixYTRYB8wsxAYWWWYEx1K=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOuIoNAL5tt0yRDXgVoOTpnULe3LTFMaKbAuibP=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNJb9KMkkhpnBhgto7DGKE5eiAgKj89MsBiv3_j=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipP09PJy3mxWxmV6N4u7uOoO8l-WNpCPrRzjuDol=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOM_PI-ik6P6su9UqnVruT1c91r2ZYmzy8aIRLh=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipONo8Ot3FO4TwlVDgwnS1vti-4F4auuBglYpVid=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNQNKTZn9uid7GDq4mP5fbRoxQuiUxZE00TRIJi=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMREFy9xazs2JczRqzM-ZCzNTI1AYXk4_4128-1=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMt9eNEAweDK1pRJsTk6wMNfzxF3_m6J1DcmZoA=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOF_ozJzJalqOFJuPaj8wjdPqz6FWDz90Xo6AzY=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNjGi9zav8BlTdvSmq2c3n2LYL8Rn6rt3eXZFsA=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOuRn8SHe09Csf9j4fSMndXRSgnpxfW_oAnT2dx=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNPzOnEiaQHy_bAUQpVigbj7gmS5A02Tcf8_Mp5=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPTakDobEHRJCkHePWQzrr-teve7NTYGR49Z0pK=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPKCVjhDZ1ZaBghdNcyo8Mo1-GWbNP4m18oEjjn=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMh_gIgolhHGbIVCAsPSioiZ_u2f0yLEsYdtahg=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipO84BEU4ZfGCgrc8hjyEPhNk8G8rrJ4wZ3QSOzM=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMWXUwk0DS_iV0sge_QHHCDTOEvgEp_5YaO1WUr=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipN8uAoaA7zmM8rwfwkqImMq-Xto9c-b50kmqVaj=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPRo-3dPE7_soJ1zysJ0AT6KKR7Udp1eGgUICwr=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPwKeiK-6rUMp1bdxfJQWwIL8LwLv9RAjjk8PTO=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNEhpOp0MSYLPQZxGisjBSuk39EGA7P8mCq3z8Y=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPnvPUGadaLqO9ndq5Xn-F5MhSsHGYiCyNNWfl4=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNAbPdbqXskey5-G5x_I0eML0sT7g4ZVkJJYkx7=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipN_2cs6YfktiqVLcp3Nu7A7UjMqbbWCaBQ-tmed=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOamE2ipW4VbP2Ypys1SyeJ6dUYQz6-3zB2AzAS=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOnjW2PD8o9s_KmiLSUUdbch8Z8-nIwQFe4Fxr6=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMFi7aEjN09AeCUeXd7y2RRuWyxEYEI8TuCKwUx=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOS5uIZuwW_0urWtw-c9SIo2VHqBqvgT43VA4AF=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipM8dnxjV9EOSgTbUBDckOhguVJ9DTgQACNz-FQP=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOr2fmUUTM3F_N5yuTbt4eLn6iRWtlPipPwSNGk=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNfrHrLumtq0sa8FzBHnwHtvbHihzAk4tcxSFHD=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMTX_sdXsjJi-4WkBDqjcIIrBlNtHzaGW3chvsT=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipN2KN5gijIbLkHkKkFGPIDbB06TLt3B-Jt-FjZm=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMGkfYlj9V8qARPGeHfAWzQ6ibUKYnYZ4gn2d28=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPUzEYoRfHs0dAhtncEM--sEOfQmd0PbNFVncBS=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMOVqH3mhWiye2E6vtPjUwQQQw1dMuzC7gmWa_F=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOwH7ePJMMo4LfMfJBMOK3m3lUgbDbJpvDY3bw3=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipO2Tet19EZ01R42wl7v4-KIKwtAZrzHajviDH-9=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPMUUwpo5MMAq7mJ8jNo5SV-hwRDyG-N2PL95RP=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPw6WiSF3_-4pmrMNLxwbY6AzdhLz3jlEsA42IW=w1024-h576-k-no"
+  ],
+  "topComments": [
+    {
+      "author": "JAG JAG (JAG)",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucrML-K63V9VfnOW3vbj3ESD0ZBFfja1LmCTf7ho0Ro=w36-h36-p-c0x00000000-rp-mo-ba6-br100",
+      "comment": "Arte , concreto um lugar de partidas e chegadas, onde muitos nem percebem o que esta lá, para ser visto e apreciado. Limpesa, beleza subindo as escadas voce admira .cada estaçao de metrô tem sua diferença e a estação do Butantã  é uma delas. Adorei. Godoi.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Saul Simonetti",
+      "photoAuthor": "https://lh3.googleusercontent.com/a/AItbvmmKm-l6v-w-1NbnRzEE-r70YjBACow-nSFq_RrA=w36-h36-p-c0x00000000-rp-mo-br100",
+      "comment": "A estação é ótima em questão de organização/limpeza, mas peca por não ter um daqueles terminais para liberação/carregamento de saldo do cartão Bom. Tenho que me deslocar até outra estação somente para liberar o saldo do meu cartão, pois nas catracas da maioria dos ônibus da EMTU, não está liberando",
+      "gradeComment": 4
+    },
+    {
+      "author": "Antonio Sousa",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucq_oz2vjCbIoekg1-HeEKCk2e4-b_UkaIMISQiYxfY=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "Pouquíssimos ônibus para atendimento a população, todas as linhas sempre a fila.",
+      "gradeComment": 1
+    },
+    {
+      "author": "moacir ferreira",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucqkDZ1lJKWB8liqzvXAvh6vcdxey_PzBznS9vNS=w36-h36-p-c0x00000000-rp-mo-br100",
+      "comment": "PEGO ELE FREQUENTEMENTE PRA TER ACESSO A RAPOUSO TAVARES,É RAPIDÃO!",
+      "gradeComment": 5
+    },
+    {
+      "author": "Fred Moreira da Silva",
+      "photoAuthor": "https://lh3.googleusercontent.com/a/AItbvmnXEdQX1OQx9BOHIMEteFQVov00LHabUdximdiX=w36-h36-p-c0x00000000-rp-mo-ba3-br100",
+      "comment": "Caótico sair de ônibus desse \"terminal\". O trânsito da um nó. Sem agentes da CET, sem fiscais. Muito onibus e pouco espaço. Não tem bancos para espera. Não tem horários dos ônibus. Não tem segurança. Já ficou superlotado. Sujo. Desculpa, uso a 4 anos esse terminal e só piora.",
+      "gradeComment": 1
+    },
+    {
+      "author": "João JC",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucrjhNcq2Ue2CcOOfz1wUSrupWn6ETNFuI3ueCXN70Q=w36-h36-p-c0x00000000-rp-mo-ba2-br100",
+      "comment": "Alguem sabe se e integrado com o metro? Ou paga a passagem e separada pra metropolitano?",
+      "gradeComment": 1
+    },
+    {
+      "author": "Renato Gamberini",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucqC4AzCbHlSzrBxdeaqgw0tyayMOnem5YQhQn_cTGI=w36-h36-p-c0x00000000-rp-mo-ba5-br100",
+      "comment": "Falta um pouco mais de estrutura o redor, como estacionamentos e áreas para aguardar passageiros, a área de embarque e desembarque também é uma faixa de ônibus o que em alguns casos geram multas de forma errada por parte dos agentes de trânsito.",
+      "gradeComment": 4
+    },
+    {
+      "author": "Maria Oliveira",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucrKdqXWh0z00B3By981Cr3JzqDjbsGRKBzb3uJd7gQ=w36-h36-p-c0x00000000-rp-mo-ba5-br100",
+      "comment": "Fácil acesso, lugar limpo e organizado, era o que faltava para a região.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Ricardo Caitano",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucpAp9uUIJSnFUppVHHHqt9WrSwJ9dw0stnLfuVVZbs=w36-h36-p-c0x00000000-rp-mo-ba5-br100",
+      "comment": "Os ônibus que antes seguiam até o largo de Pinheiros, agora param aqui neste terminal. Para ir até o largo de Pinheiros é necessário seguir de metrô ou utilizar o ônibus de linha circular 576 (Metrô Butantã - Largo da Batata), com o uso do cartão BOM não é cobrado tarifa. É um bom terminal com boas opções de linhas, inclusive linhas durante a madrugada atendem o terminal.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Selma Ligia Da Rocha",
+      "photoAuthor": "https://lh3.googleusercontent.com/a/AItbvmlZGyLRZChUOFhSpk_5qF0sNJ6Z_BhfHar6vcC_=w36-h36-p-c0x00000000-rp-mo-br100",
+      "comment": "Uso constantemente a linha amarela do metrô ..até o dia de hj nunca tive nenhum tipo de problemas. Acho limpo...trens sempre pontuais .",
+      "gradeComment": 5
+    }
+  ],
+  "peakHours": [
+    {
+      "Sunday": [
+        {
+          "hour": "05:00",
+          "percent": 3
+        },
+        {
+          "hour": "06:00",
+          "percent": 7
+        },
+        {
+          "hour": "07:00",
+          "percent": 7
+        },
+        {
+          "hour": "08:00",
+          "percent": 5
+        },
+        {
+          "hour": "09:00",
+          "percent": 3
+        },
+        {
+          "hour": "10:00",
+          "percent": 3
+        },
+        {
+          "hour": "11:00",
+          "percent": 5
+        },
+        {
+          "hour": "12:00",
+          "percent": 7
+        },
+        {
+          "hour": "13:00",
+          "percent": 8
+        },
+        {
+          "hour": "14:00",
+          "percent": 8
+        },
+        {
+          "hour": "15:00",
+          "percent": 8
+        },
+        {
+          "hour": "16:00",
+          "percent": 10
+        },
+        {
+          "hour": "17:00",
+          "percent": 13
+        },
+        {
+          "hour": "18:00",
+          "percent": 15
+        },
+        {
+          "hour": "19:00",
+          "percent": 16
+        },
+        {
+          "hour": "20:00",
+          "percent": 14
+        },
+        {
+          "hour": "21:00",
+          "percent": 10
+        },
+        {
+          "hour": "22:00",
+          "percent": 5
+        },
+        {
+          "hour": "23:00",
+          "percent": 1
+        }
+      ]
+    },
+    {
+      "Monday": [
+        {
+          "hour": "04:00",
+          "percent": 9
+        },
+        {
+          "hour": "05:00",
+          "percent": 21
+        },
+        {
+          "hour": "06:00",
+          "percent": 34
+        },
+        {
+          "hour": "07:00",
+          "percent": 44
+        },
+        {
+          "hour": "08:00",
+          "percent": 46
+        },
+        {
+          "hour": "09:00",
+          "percent": 39
+        },
+        {
+          "hour": "10:00",
+          "percent": 27
+        },
+        {
+          "hour": "11:00",
+          "percent": 17
+        },
+        {
+          "hour": "12:00",
+          "percent": 13
+        },
+        {
+          "hour": "13:00",
+          "percent": 17
+        },
+        {
+          "hour": "14:00",
+          "percent": 29
+        },
+        {
+          "hour": "15:00",
+          "percent": 45
+        },
+        {
+          "hour": "16:00",
+          "percent": 62
+        },
+        {
+          "hour": "17:00",
+          "percent": 72
+        },
+        {
+          "hour": "18:00",
+          "percent": 72
+        },
+        {
+          "hour": "19:00",
+          "percent": 61
+        },
+        {
+          "hour": "20:00",
+          "percent": 44
+        },
+        {
+          "hour": "21:00",
+          "percent": 28
+        },
+        {
+          "hour": "22:00",
+          "percent": 24
+        },
+        {
+          "hour": "23:00",
+          "percent": 10
+        },
+        {
+          "hour": "03:00",
+          "percent": 2
+        }
+      ]
+    },
+    {
+      "Tuesday": [
+        {
+          "hour": "04:00",
+          "percent": 10
+        },
+        {
+          "hour": "05:00",
+          "percent": 29
+        },
+        {
+          "hour": "06:00",
+          "percent": 47
+        },
+        {
+          "hour": "07:00",
+          "percent": 50
+        },
+        {
+          "hour": "08:00",
+          "percent": 37
+        },
+        {
+          "hour": "09:00",
+          "percent": 23
+        },
+        {
+          "hour": "10:00",
+          "percent": 18
+        },
+        {
+          "hour": "11:00",
+          "percent": 20
+        },
+        {
+          "hour": "12:00",
+          "percent": 26
+        },
+        {
+          "hour": "13:00",
+          "percent": 32
+        },
+        {
+          "hour": "14:00",
+          "percent": 37
+        },
+        {
+          "hour": "15:00",
+          "percent": 41
+        },
+        {
+          "hour": "16:00",
+          "percent": 50
+        },
+        {
+          "hour": "17:00",
+          "percent": 79
+        },
+        {
+          "hour": "18:00",
+          "percent": 100
+        },
+        {
+          "hour": "19:00",
+          "percent": 71
+        },
+        {
+          "hour": "20:00",
+          "percent": 34
+        },
+        {
+          "hour": "21:00",
+          "percent": 19
+        },
+        {
+          "hour": "22:00",
+          "percent": 12
+        },
+        {
+          "hour": "23:00",
+          "percent": 7
+        },
+        {
+          "hour": "00:00",
+          "percent": 3
+        },
+        {
+          "hour": "03:00",
+          "percent": 1
+        }
+      ]
+    },
+    {
+      "Wednesday": [
+        {
+          "hour": "04:00",
+          "percent": 7
+        },
+        {
+          "hour": "05:00",
+          "percent": 24
+        },
+        {
+          "hour": "06:00",
+          "percent": 46
+        },
+        {
+          "hour": "07:00",
+          "percent": 54
+        },
+        {
+          "hour": "08:00",
+          "percent": 42
+        },
+        {
+          "hour": "09:00",
+          "percent": 26
+        },
+        {
+          "hour": "10:00",
+          "percent": 19
+        },
+        {
+          "hour": "11:00",
+          "percent": 22
+        },
+        {
+          "hour": "12:00",
+          "percent": 27
+        },
+        {
+          "hour": "13:00",
+          "percent": 33
+        },
+        {
+          "hour": "14:00",
+          "percent": 38
+        },
+        {
+          "hour": "15:00",
+          "percent": 41
+        },
+        {
+          "hour": "16:00",
+          "percent": 46
+        },
+        {
+          "hour": "17:00",
+          "percent": 71
+        },
+        {
+          "hour": "18:00",
+          "percent": 96
+        },
+        {
+          "hour": "19:00",
+          "percent": 67
+        },
+        {
+          "hour": "20:00",
+          "percent": 31
+        },
+        {
+          "hour": "21:00",
+          "percent": 18
+        },
+        {
+          "hour": "23:00",
+          "percent": 7
+        },
+        {
+          "hour": "00:00",
+          "percent": 3
+        }
+      ]
+    },
+    {
+      "Thursday": [
+        {
+          "hour": "04:00",
+          "percent": 7
+        },
+        {
+          "hour": "05:00",
+          "percent": 24
+        },
+        {
+          "hour": "06:00",
+          "percent": 44
+        },
+        {
+          "hour": "07:00",
+          "percent": 51
+        },
+        {
+          "hour": "08:00",
+          "percent": 41
+        },
+        {
+          "hour": "09:00",
+          "percent": 23
+        },
+        {
+          "hour": "10:00",
+          "percent": 13
+        },
+        {
+          "hour": "11:00",
+          "percent": 13
+        },
+        {
+          "hour": "12:00",
+          "percent": 21
+        },
+        {
+          "hour": "13:00",
+          "percent": 31
+        },
+        {
+          "hour": "14:00",
+          "percent": 43
+        },
+        {
+          "hour": "15:00",
+          "percent": 53
+        },
+        {
+          "hour": "16:00",
+          "percent": 60
+        },
+        {
+          "hour": "17:00",
+          "percent": 62
+        },
+        {
+          "hour": "18:00",
+          "percent": 59
+        },
+        {
+          "hour": "19:00",
+          "percent": 51
+        },
+        {
+          "hour": "20:00",
+          "percent": 40
+        },
+        {
+          "hour": "21:00",
+          "percent": 28
+        },
+        {
+          "hour": "22:00",
+          "percent": 18
+        },
+        {
+          "hour": "23:00",
+          "percent": 9
+        },
+        {
+          "hour": "00:00",
+          "percent": 3
+        }
+      ]
+    },
+    {
+      "Friday": [
+        {
+          "hour": "04:00",
+          "percent": 3
+        },
+        {
+          "hour": "05:00",
+          "percent": 13
+        },
+        {
+          "hour": "06:00",
+          "percent": 29
+        },
+        {
+          "hour": "07:00",
+          "percent": 39
+        },
+        {
+          "hour": "08:00",
+          "percent": 35
+        },
+        {
+          "hour": "09:00",
+          "percent": 24
+        },
+        {
+          "hour": "10:00",
+          "percent": 17
+        },
+        {
+          "hour": "11:00",
+          "percent": 17
+        },
+        {
+          "hour": "12:00",
+          "percent": 22
+        },
+        {
+          "hour": "13:00",
+          "percent": 28
+        },
+        {
+          "hour": "14:00",
+          "percent": 33
+        },
+        {
+          "hour": "15:00",
+          "percent": 38
+        },
+        {
+          "hour": "16:00",
+          "percent": 44
+        },
+        {
+          "hour": "17:00",
+          "percent": 61
+        },
+        {
+          "hour": "18:00",
+          "percent": 74
+        },
+        {
+          "hour": "19:00",
+          "percent": 54
+        },
+        {
+          "hour": "20:00",
+          "percent": 33
+        },
+        {
+          "hour": "21:00",
+          "percent": 23
+        },
+        {
+          "hour": "22:00",
+          "percent": 17
+        },
+        {
+          "hour": "23:00",
+          "percent": 11
+        },
+        {
+          "hour": "00:00",
+          "percent": 7
+        },
+        {
+          "hour": "01:00",
+          "percent": 3
+        },
+        {
+          "hour": "02:00",
+          "percent": 1
+        }
+      ]
+    },
+    {
+      "Saturday": [
+        {
+          "hour": "04:00",
+          "percent": 1
+        },
+        {
+          "hour": "05:00",
+          "percent": 10
+        },
+        {
+          "hour": "06:00",
+          "percent": 19
+        },
+        {
+          "hour": "07:00",
+          "percent": 21
+        },
+        {
+          "hour": "08:00",
+          "percent": 16
+        },
+        {
+          "hour": "09:00",
+          "percent": 11
+        },
+        {
+          "hour": "10:00",
+          "percent": 11
+        },
+        {
+          "hour": "11:00",
+          "percent": 14
+        },
+        {
+          "hour": "12:00",
+          "percent": 18
+        },
+        {
+          "hour": "13:00",
+          "percent": 20
+        },
+        {
+          "hour": "14:00",
+          "percent": 20
+        },
+        {
+          "hour": "15:00",
+          "percent": 19
+        },
+        {
+          "hour": "16:00",
+          "percent": 19
+        },
+        {
+          "hour": "17:00",
+          "percent": 19
+        },
+        {
+          "hour": "18:00",
+          "percent": 20
+        },
+        {
+          "hour": "19:00",
+          "percent": 19
+        },
+        {
+          "hour": "20:00",
+          "percent": 17
+        },
+        {
+          "hour": "21:00",
+          "percent": 13
+        },
+        {
+          "hour": "22:00",
+          "percent": 9
+        },
+        {
+          "hour": "23:00",
+          "percent": 4
+        },
+        {
+          "hour": "00:00",
+          "percent": 1
+        }
+      ]
+    }
+  ],
+  "relatedSearches": [
+    "metrô butantã",
+    "estação butantã metrô endereço",
+    "metrô butantã rota",
+    "metrô butantã horario",
+    "linha amarela metrô",
+    "linha amarela metrô hoje",
+    "linha amarela metrô mapa",
+    "metrô linha amarela horário"
+  ],
+  "relateds": [
+    {
+      "mainName": "Pinheiros",
+      "url": null
+    },
+    {
+      "mainName": "Cidade Universitária",
+      "url": null
+    },
+    {
+      "mainName": "Vila Sônia",
+      "url": null
+    },
+    {
+      "mainName": "Luz",
+      "url": null
+    },
+    {
+      "mainName": "República",
+      "url": null
+    },
+    {
+      "mainName": "Faria Lima",
+      "url": null
+    },
+    {
+      "mainName": "Ana Rosa",
+      "url": null
+    },
+    {
+      "mainName": "Paulista",
+      "url": null
+    },
+    {
+      "mainName": "Estação da Luz",
+      "url": null
+    },
+    {
+      "mainName": "Estação Morumbi",
+      "url": null
+    },
+    {
+      "mainName": "Hopi Hari",
+      "url": null
+    },
+    {
+      "mainName": "Fradique Coutinho",
+      "url": null
+    },
+    {
+      "mainName": "Beto Carrero World",
+      "url": null
+    },
+    {
+      "mainName": "Mundo a Vapor",
+      "url": null
+    },
+    {
+      "mainName": "Parque Mutirama",
+      "url": null
+    },
+    {
+      "mainName": "Beach Park",
+      "url": null
+    },
+    {
+      "mainName": "Parque da Mônica",
+      "url": null
+    },
+    {
+      "mainName": "Mirabilandia",
+      "url": null
+    },
+    {
+      "mainName": "Estação Oscar Freire",
+      "url": null
+    },
+    {
+      "mainName": "Instituto Butantan",
+      "url": null
+    },
+    {
+      "mainName": "Palmeiras-Barra Funda",
+      "url": null
+    },
+    {
+      "mainName": "Consolação",
+      "url": null
+    },
+    {
+      "mainName": "Zoológico de São Paulo",
+      "url": null
+    },
+    {
+      "mainName": "Praça da Sé",
+      "url": null
+    }
+  ]
+}

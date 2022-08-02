@@ -1,0 +1,611 @@
+{
+  "mainName": "Parque Nacional de Ubajara",
+  "slug": "parque-nacional-de-ubajara",
+  "category": "Parque nacional",
+  "locationInformation": {
+    "latitude": "-3.8388004",
+    "longitude": "-40.8981235"
+  },
+  "basicInformation": [
+    {
+      "label": "endereço",
+      "tooltip": "Copiar endereço",
+      "text": "Ubajara - CE",
+      "icon": "https://www.gstatic.com/images/icons/material/system_gm/1x/place_gm_blue_24dp.png"
+    },
+    {
+      "label": "website",
+      "tooltip": "Abrir website",
+      "text": "icmbio.gov.br",
+      "icon": "https://www.gstatic.com/images/icons/material/system_gm/1x/public_gm_blue_24dp.png"
+    },
+    {
+      "label": "Code",
+      "tooltip": "Copiar Plus Code",
+      "text": "5462+FQ Ubajara, Ceará",
+      "icon": "https://maps.gstatic.com/mapfiles/maps_lite/images/2x/ic_plus_code.png"
+    },
+    {
+      "label": "send-to-device",
+      "text": "Enviar para smartphone",
+      "icon": "https://maps.gstatic.com/consumer/images/icons/1x/send_to_mobile_alt_gm_blue_24dp.png"
+    },
+    {
+      "label": "merchant",
+      "text": "Reivindicar esta empresa",
+      "icon": "https://www.gstatic.com/images/icons/material/system_gm/1x/verified_user_gm_blue_24dp.png"
+    }
+  ],
+  "ratingInformation": {
+    "basicRatingInformation": {
+      "averageGrade": 4.7,
+      "totalOfEvaluations": 4095
+    },
+    "ratingsByGrade": [
+      {
+        "grade": 5,
+        "totalRatings": 3362
+      },
+      {
+        "grade": 4,
+        "totalRatings": 516
+      },
+      {
+        "grade": 3,
+        "totalRatings": 130
+      },
+      {
+        "grade": 2,
+        "totalRatings": 35
+      },
+      {
+        "grade": 1,
+        "totalRatings": 52
+      }
+    ]
+  },
+  "ratingTags": [
+    {
+      "tag": "cachoeiras",
+      "count": 153,
+      "tooltip": "cachoeiras, mencionado em 153 avaliações"
+    },
+    {
+      "tag": "gruta",
+      "count": 141,
+      "tooltip": "gruta, mencionado em 141 avaliações"
+    },
+    {
+      "tag": "mirante",
+      "count": 91,
+      "tooltip": "mirante, mencionado em 91 avaliações"
+    },
+    {
+      "tag": "teleférico",
+      "count": 71,
+      "tooltip": "teleférico, mencionado em 71 avaliações"
+    },
+    {
+      "tag": "clima",
+      "count": 59,
+      "tooltip": "clima, mencionado em 59 avaliações"
+    },
+    {
+      "tag": "banho",
+      "count": 45,
+      "tooltip": "banho, mencionado em 45 avaliações"
+    },
+    {
+      "tag": "perfeito",
+      "count": 34,
+      "tooltip": "perfeito, mencionado em 34 avaliações"
+    },
+    {
+      "tag": "espetáculo",
+      "count": 16,
+      "tooltip": "espetáculo, mencionado em 16 avaliações"
+    },
+    {
+      "tag": "bonde",
+      "count": 11,
+      "tooltip": "bonde, mencionado em 11 avaliações"
+    },
+    {
+      "tag": "roteiro",
+      "count": 7,
+      "tooltip": "roteiro, mencionado em 7 avaliações"
+    }
+  ],
+  "featuredPhotos": [
+    "https://lh5.googleusercontent.com/p/AF1QipNJRPJIt5qEDn4EPNHiyrqnE_rEm0S3lNDWBi6C=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMHt3crxRpWZd4M-kvt5mFO0y8hhbYC9twjDeB9=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNK4cRpkYKIO3KZSASlEDgkR-AeKrfh_eC-WmoA=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipN7YsiSQ5TCRZxdQXJ_BYlcYXof0lGU9tS5ynto=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipO3pBQhUtW7XgnxG0-w6eIKxWb5GjPwKDZ5W7kO=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipO1S4NlrcObJBAJ8y1WYCiC9C65ut_nPe43PBXN=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNlyUE4qZfoWuZ9GbwlLBd6vdqQYEyaRBVQx0k3=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPRTFt0RfWbILuy0Y14515BCy0T0_1d1_URvSwG=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPvwmDOBikCTKFL7WSrSzN1wfCrlh9T5rNF7YDl=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNMuoqscl_eCN83U3fegrSudKyTSdW8tsj3UGDR=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPNTO_lXJuqAOO6b7OhPD_jH7gSJx6c7oXX-T8l=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNLYe5Xt3cfdty_TP9VHuP2O96wFd1qFMy5i81-=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOnrlJEOfRRvuAULoL-52lzyKoP6VBq-h1MI2l5=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPJkH9wxGH27pIVl-jIh-Woh4zxyPhmbnX6b14h=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPSSTQJbdPnDk6Zh9pcMwK_yiUb46SlO1aBmr9A=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipP-yYqXxIIWZByD-9Obdy9DT0Lm7MatybBK8Cd_=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMq0DGHa0dljvO9VDp7YwN5zKj0vqhij-oHe58R=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNKpYdtrBwfYA9xSSYyoHy7ruzMQNJSbkNuZw0R=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPlzTcuFNgN2Wuyo4a9dYHfGcWjSex_389v5hYl=w1024-h576-k-no"
+  ],
+  "topComments": [
+    {
+      "author": "Marcelo Viana",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucqIwx7xzVPOCKVGiaP-RZh6k1NzynF6zlbNkBoZ=w36-h36-p-c0x00000000-rp-mo-br100",
+      "comment": "Uma experiência inesquecível! Os guias são bem preparados, animados e super gentis. Recomendo os guias Luis, Daniel e André. A infraestrutura do parque não deixa em nada a desejar e o passeio no bondinho foi muito agradável e rápido com a possibilidade de ver o parque através de um outro ponto de vista. Já os preços são bem acessíveis. Não é possível entrar com o pet. Esteja preparado fisicamente para fazer a trilha que leva até a gruta! Um dos trechos é bem escorregadio.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Francisco Alexandre",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucrgG2b5hZuoW37yNkfLxKsC24vJXRUsDkIp5wJr=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "O parque em si é bem bonito. Fácil acesso para visitantes, tranquilo para estacionar o carro. Mas vamos aos detalhes: fizemos uma trilha completa passando pela cachoeira gameleira, cafundó e depois a gruta para subir no bondinho de volta à base. O trecho que vale a pena mesmo é somente até a primeira cachoeira. Não percam tempo além disso. O trecho a pé é péssimo e o banho de cachoeira já foi feito. Os guias também deveriam fazer um aquecimento físico antes de sair com turistas e levar um pequeno kit de primeiros socorros. No nosso grupo uma moça cortou o dedo na trilha e foi sofrido pra ela continuar. São sugestões.",
+      "gradeComment": 4
+    },
+    {
+      "author": "Igor Peixe",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZuco1_rboK2ILggVbKEkdnzoty7uVtWctL_k1VxC8Ctg=w36-h36-p-c0x00000000-rp-mo-ba5-br100",
+      "comment": "Minha terceira vez no Parque. Sempre muito agradável. Apesar desta vez finalmente ter vindo como turista e não a trabalho. Tem roteiro pra tudo quanto é gosto, idade e mobilidade. Conta com uma boa infraestrutura para visitantes e os guias são muito bem preparados. Atualmente (julho de 2022) o bondinho está com número limitado de visitantes porém está gratuito, mas é preciso chegar antes do Parque abrir pra garantir uma senha. Para ir a cachoeira sem pegar a grande trilha, só a tarde por enquanto.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Rafael Silva",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucrWGxO5h0oy7VIqeBaps7vtnP-GrQ7Wunvk-l3de0M=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "Ambiente lindo, que transmite muita paz, tranquilidade. Bondinho voltou a funcionar dia 22 de fevereiro e está gratos até 24 de março. Bela vista. Vale descer pelo bondinho. Recomendo também fazer as trilhas. A mais longa tem 7km com 4 horas meia em média de duração. Fazer o passeio da caverna também recomendo.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Alber Araújo",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucrTc_5_lgkZytm7aYz6cB4nqmrQDodTOYEky7e5ZA=w36-h36-p-c0x00000000-rp-mo-ba5-br100",
+      "comment": "Ubajara e seu Parque Nacional é uma joia a 848 metros de altitude que se traduz em  temperaturas agradáveis de serra e a peculiaridade de harmonizar a caatinga que é a vegetação predominante e outras três vegetações encontradas na região: a Floresta Atlântica, a Floresta Subcaducifólia Amazônica e o Cerrado. No mesmo parque há uma gruta/caverna cuja visitação guiada é um espetáculo a parte. Esta pode ser alcançada por trilha - indicada para quem está em boa forma (uma experiência de sentidos, cheiros da mata/terra molhada, sons dos animais e vento, das águas e um visual deslumbrante) - ou através do teleférico, o Bondinho de Ubajara  - seguro moderno, a vista desde o topo até a chegada na gruta é indescritivelmente bela. O parque conta com o suporte de pessoas bem preparadas. SUPER INDICO ESTE PASSEIO. Ubajara and its National Park is a gem at an altitude of 848 meters that translates into pleasant mountain temperatures and the peculiarity of harmonizing the caatinga that is the predominant vegetation and three other vegetation found in the region: the Atlantic Forest, the Amazon Subdeciduous Forest and the Cerrado.  In the same park there is a grotto/cave whose guided visit is a spectacle on its own.  This can be reached by trail - suitable for those who are in good shape (an experience of senses, smells of the forest/wet earth, sounds of animals and wind, of the waters and a stunning view) - or through the cable car, the Ubajara Cable Car - modern safe, the view from the top to the grotto is indescribably beautiful.  The park has the support of well-prepared people.  SUPER INDICATE THIS TOUR.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Betu Martins",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucpIVBmSAgfsL8Jy4hI0vO8T0hFcJNt9zczyZakUCzQ=w36-h36-p-c0x00000000-rp-mo-ba3-br100",
+      "comment": "Trilha com guia bem explicada te levando a cachoeiras, mirante com vista perfeita há também um bondinho que além da vista impecável te leva até uma gruta exploravel sendo um das melhores experiências que já tive em um parque ambiental. Clima agradável. Os valores são um pouco salgados, mas vale apena.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Milly Liniey Mattos Freire",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucrR5KN9oSSRcSMirCadtshvrRld9LyMt0vrxNtK=w36-h36-p-c0x00000000-rp-mo-br100",
+      "comment": "Ótima opção de lazer para toda a família, um lugar com extraordinárias paisagem, uma beleza que é incapaz de ser mensurada apenas por fotos, é preciso ir e viver pessoalmente as maravilhas do parque. O visitante encontrará diversas opção de trilhas guiadas pela equipe do parque, lanchonetes no local, banheiro e bebedouro a disposição do público, no momento o uso do Bondinho(teleférico) está sendo gratuito, mas com fichas limitadas que começam a ser distribuídas por volta de 7:30 / 8h da manhã.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Ruy Smith",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucp5XTP1eDPoWAIJyf2OkZhSvT9tCpAjSNK6yTPUHQ=w36-h36-p-c0x00000000-rp-mo-ba5-br100",
+      "comment": "Um dos passeios mais legais de toda a região: um bondinho pequeno (capacidade para 7 pessoas mais o cabineiro) com direito a um visual muito radical e o destino uma trilha em uma caverna que não deixa nada a perder para nenhuma outra no mundo. A trilha dura 1h ou 30min se algumas galerias estiverem \"alagadas\", por motivos de segurança. Todos os funcionários do parque são muito preparados e atenciosos, fazendo com que a experiência seja ainda mais agradável. Se decidir ir, chegue cedo (entre 08h e 09h da manhã, pois os ingressos são limitados).",
+      "gradeComment": 5
+    },
+    {
+      "author": "Pedro Junior",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZuco6PuJ_OJu1cnvoJgAjlbBLiiEqB_Uuq8tkcpFL=w36-h36-p-c0x00000000-rp-mo-br100",
+      "comment": "Sensacional... lugar muito bonito, com boa infraestrutura... Guias bastante atenciosos... Destaque para a guia Kaline, que me foi muito excepcional em seu trabalho... Existem varias trilhas, todas com belas paisagens para todos os gostos.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Rogério Germano",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucqfVXfOt8DbsB6r5tMPqhDFoGoknffIO5yLwRScVA=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "Vale conhecer! A experiência das trilhas é bem legal (mas vá preparado fisicamente rsrsrs)! Com direito a cachoeira e mirantes pelo caminho. Ao final você conhece a gruta e retorna de bondinho (que já voltou a funcionar;)!",
+      "gradeComment": 5
+    },
+    {
+      "author": "Pedro Tavares",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucpiryJmqJSqNoUFl0sRl671rT53BR8_qm4YG8ZeNA=w36-h36-p-c0x00000000-rp-mo-ba3-br100",
+      "comment": "Uma dos lugares mais bonitos do estado, o atendimento é excelente e as trilhas são ótimas. Vale muito a pena conhecer. Recomendo ir de tênis, calça e levar água e repelente caso desejem fazem uma das trilhas mais longas. Todo cearense deveria conhecer!",
+      "gradeComment": 5
+    },
+    {
+      "author": "Ale Ben",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucqaIgnNtU2SWUGX7tGezHg6xhPXhk-lSxKlg6wOjA=w36-h36-p-c0x00000000-rp-mo-ba5-br100",
+      "comment": "O parque nacional passou pelo menos cinco anos com o seu teleférico parado e as pessoas não poderiam ir à gruta. Agora o bondinho foi reaberto. Você pode curtir o parque e fazer diversas trilhas, de fáceis a difíceis. Pode fazer trilha inclusive de bicicleta.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Sofia Luiza",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucoA_RM1MxofZNqpsTF62OYHAZ22AcZPcDAIkSpca6w=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "Muito lindo. Diversas trilhas para conhecer as belezas serranas, só tem que tá atento ao horário, o melhor é de manhã e se prepare para andar horas e bastante, mas vale muito a pena, e leve roupas para tomar banho durante as trilhas por cachoeiras. Uma pena que no dia que fui o bondinho não estava funcionando. Há um pequeno museu que vende suvenirs, que é super em conta. Vale a pena o passeio.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Fabio Sousa silva",
+      "photoAuthor": "https://lh3.googleusercontent.com/a/AItbvmmncFRlpMh10FPmXOX0YwRSnyZfCCvBcPgOZm25=w36-h36-p-c0x00000000-rp-mo-ba2-br100",
+      "comment": "Lugar muito lindo vale muito a pena visitar entrada no parque grates voce so paga algumas taxas para fazer alguns passeios dentro do parque mais tudo muito barato .nao ha restaurantes dentro do parque ,apenas lanchonetes na area do bondinho tem wifi aberto",
+      "gradeComment": 5
+    },
+    {
+      "author": "Eliane Marques",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucpmVcO9hJSafi3fcLMhiLm0SfMDNqbqlxpBgB7ZyJA=w36-h36-p-c0x00000000-rp-mo-ba2-br100",
+      "comment": "Lugar lindo, um paraíso! Eu amei.   Os atendentes são atenciosos, temos trilhas com guia, visita na gruta, passeio no bondinho com muita segurança.  Vale muito a pena a visita🥰",
+      "gradeComment": 5
+    },
+    {
+      "author": "Katrinna Lavigne",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucrh9uv_lp8t1zW3QSyDwOmA_iz_Em33rtZeY7plc18=w36-h36-p-c0x00000000-rp-mo-br100",
+      "comment": "Lindo, a paisagem de lá é incrível. Infelizmente o bondinho estava fechado quando eu fui, mas já tinha ido uma outra vez e já tinha ido no bondinho, na gruta... Lá tem trilhas pra você fazer a pé, de bicicleta... Vale muito a pena! Recomendo 😉❤️",
+      "gradeComment": 5
+    },
+    {
+      "author": "Pablo Duarte",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucqVMRipJIbrh4Fe9tm7uF-WPwYeohX7_MVVCR_Lxw=w36-h36-p-c0x00000000-rp-mo-ba3-br100",
+      "comment": "Parque maravilhoso, turismo ecológico sem igual, experiências únicas de trilha e o bondinho e a gruta do parque finalizaram a visita com chave de ouro, maravilha, parabéns ao ICMBio e ao Cooptur de Ubajara pelo cuidado com essa recurso natural maravilhoso.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Natália Garcia",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucq6qE8XH6nn7J2j85SENuIp0nC_6C8lwwq7vrg7=w36-h36-p-c0x00000000-rp-mo-ba3-br100",
+      "comment": "Maravilhoso! Mas recomendo que cheguem cedo pra pegar a fila do bondinho. São um pouco mais de 300 visitas por dia e lota muito cedo.  Os trabalhadores são muito receptivos e educados e a natureza do parque é incrível.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Silvana Ramos",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucpwL11FKEM_9cSMvOEa6DXaOUm479Ui7l8wS63W=w36-h36-p-c0x00000000-rp-mo-ba3-br100",
+      "comment": "Super passeio!!!! O Bondinho voltou a funcionar, a vista é maravilhosa.Pra quem gosta de fazer trilha, vale a pena fazer a trilha pra cachoeira do Cafundó. Indico tbm o guia Alex, procurei-o no Instagram alexguiaubajara. Ele nos levou tbm a cachoeira do Frade, um espetáculo a parte.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Allan Coelho",
+      "photoAuthor": "https://lh3.googleusercontent.com/a/AItbvmmWLMe9dzw-LWVb4q-k7zvhtkCU2jpL1CdW7LPN=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "Lindo! você paga R$5,00 por pessoa para conhecer as instalações e conhecer a história da fauna e flora local, o bondinho ainda não funciona. Para conhecer a gruta só fazendo a trilha de 7km, é pagou outro valor para isso.",
+      "gradeComment": 5
+    }
+  ],
+  "peakHours": [
+    {
+      "Sunday": [
+        {
+          "hour": "08:00",
+          "percent": 44
+        },
+        {
+          "hour": "09:00",
+          "percent": 72
+        },
+        {
+          "hour": "10:00",
+          "percent": 85
+        },
+        {
+          "hour": "11:00",
+          "percent": 79
+        },
+        {
+          "hour": "12:00",
+          "percent": 66
+        },
+        {
+          "hour": "13:00",
+          "percent": 60
+        },
+        {
+          "hour": "14:00",
+          "percent": 58
+        },
+        {
+          "hour": "15:00",
+          "percent": 49
+        },
+        {
+          "hour": "16:00",
+          "percent": 31
+        }
+      ]
+    },
+    {
+      "Monday": []
+    },
+    {
+      "Tuesday": [
+        {
+          "hour": "08:00",
+          "percent": 5
+        },
+        {
+          "hour": "09:00",
+          "percent": 7
+        },
+        {
+          "hour": "10:00",
+          "percent": 9
+        },
+        {
+          "hour": "11:00",
+          "percent": 10
+        },
+        {
+          "hour": "12:00",
+          "percent": 11
+        },
+        {
+          "hour": "13:00",
+          "percent": 10
+        },
+        {
+          "hour": "14:00",
+          "percent": 9
+        },
+        {
+          "hour": "15:00",
+          "percent": 7
+        },
+        {
+          "hour": "16:00",
+          "percent": 5
+        }
+      ]
+    },
+    {
+      "Wednesday": [
+        {
+          "hour": "08:00",
+          "percent": 11
+        },
+        {
+          "hour": "09:00",
+          "percent": 15
+        },
+        {
+          "hour": "10:00",
+          "percent": 17
+        },
+        {
+          "hour": "11:00",
+          "percent": 18
+        },
+        {
+          "hour": "12:00",
+          "percent": 16
+        },
+        {
+          "hour": "13:00",
+          "percent": 14
+        },
+        {
+          "hour": "14:00",
+          "percent": 12
+        },
+        {
+          "hour": "15:00",
+          "percent": 10
+        },
+        {
+          "hour": "16:00",
+          "percent": 7
+        }
+      ]
+    },
+    {
+      "Thursday": [
+        {
+          "hour": "08:00",
+          "percent": 11
+        },
+        {
+          "hour": "09:00",
+          "percent": 16
+        },
+        {
+          "hour": "10:00",
+          "percent": 20
+        },
+        {
+          "hour": "11:00",
+          "percent": 22
+        },
+        {
+          "hour": "12:00",
+          "percent": 23
+        },
+        {
+          "hour": "13:00",
+          "percent": 21
+        },
+        {
+          "hour": "14:00",
+          "percent": 17
+        },
+        {
+          "hour": "15:00",
+          "percent": 13
+        },
+        {
+          "hour": "16:00",
+          "percent": 9
+        }
+      ]
+    },
+    {
+      "Friday": [
+        {
+          "hour": "08:00",
+          "percent": 19
+        },
+        {
+          "hour": "09:00",
+          "percent": 30
+        },
+        {
+          "hour": "10:00",
+          "percent": 36
+        },
+        {
+          "hour": "11:00",
+          "percent": 34
+        },
+        {
+          "hour": "12:00",
+          "percent": 29
+        },
+        {
+          "hour": "13:00",
+          "percent": 24
+        },
+        {
+          "hour": "14:00",
+          "percent": 21
+        },
+        {
+          "hour": "15:00",
+          "percent": 18
+        },
+        {
+          "hour": "16:00",
+          "percent": 13
+        }
+      ]
+    },
+    {
+      "Saturday": [
+        {
+          "hour": "08:00",
+          "percent": 49
+        },
+        {
+          "hour": "09:00",
+          "percent": 84
+        },
+        {
+          "hour": "10:00",
+          "percent": 100
+        },
+        {
+          "hour": "11:00",
+          "percent": 89
+        },
+        {
+          "hour": "12:00",
+          "percent": 69
+        },
+        {
+          "hour": "13:00",
+          "percent": 55
+        },
+        {
+          "hour": "14:00",
+          "percent": 46
+        },
+        {
+          "hour": "15:00",
+          "percent": 37
+        },
+        {
+          "hour": "16:00",
+          "percent": 24
+        }
+      ]
+    }
+  ],
+  "relatedSearches": [
+    "parque nacional de ubajara telefone",
+    "parque nacional de ubajara valor da entrada",
+    "parque nacional de ubajara wikipedia",
+    "parque nacional de ubajara bondinho",
+    "o que tem no parque nacional de ubajara",
+    "bondinho de ubajara volta a funcionar",
+    "história do parque nacional de ubajara",
+    "quando foi criado o parque nacional de ubajara"
+  ],
+  "relateds": [
+    {
+      "mainName": "Gruta de Ubajara",
+      "url": null
+    },
+    {
+      "mainName": "Cachoeira do Boi Morto",
+      "url": null
+    },
+    {
+      "mainName": "Cachoeira do Frade",
+      "url": null
+    },
+    {
+      "mainName": "Parque Nacional de Sete Cidades",
+      "url": null
+    },
+    {
+      "mainName": "Parque Nacional de Jericoacoara",
+      "url": null
+    },
+    {
+      "mainName": "Cachoeira do Cafundó",
+      "url": null
+    },
+    {
+      "mainName": "Parque Nacional Serra das Confusões",
+      "url": null
+    },
+    {
+      "mainName": "Parque Nacional das Araucárias",
+      "url": null
+    },
+    {
+      "mainName": "Parque Nacional de São Joaquim",
+      "url": null
+    },
+    {
+      "mainName": "Sede administrativa do Parque Nacional das Sempre-Vivas",
+      "url": null
+    },
+    {
+      "mainName": "Parque Nacional do Alto Cariri",
+      "url": null
+    },
+    {
+      "mainName": "Parque Nacional Marinho dos Abrolhos",
+      "url": null
+    },
+    {
+      "mainName": "Parque Nacional de Ilha Grande",
+      "url": null
+    },
+    {
+      "mainName": "Parque Nacional de Saint-Hilaire/Lange",
+      "url": null
+    },
+    {
+      "mainName": "Parque Nacional da Furna Feia",
+      "url": null
+    },
+    {
+      "mainName": "Parque Nacional do Monte Roraima",
+      "url": null
+    },
+    {
+      "mainName": "Parque Nacional do Araguaia",
+      "url": null
+    },
+    {
+      "mainName": "Parque Nacional da Chapada dos Guimarães",
+      "url": null
+    },
+    {
+      "mainName": "Parque Nacional Cavernas do Peruaçu",
+      "url": null
+    },
+    {
+      "mainName": "Parque Nacional Boqueirão da Onça",
+      "url": null
+    },
+    {
+      "mainName": "Parque Nacional da Amazônia",
+      "url": null
+    },
+    {
+      "mainName": "Parque Nacional do Pico da Neblina",
+      "url": null
+    },
+    {
+      "mainName": "Parque Nacional de Pacaás Novos",
+      "url": null
+    }
+  ]
+}

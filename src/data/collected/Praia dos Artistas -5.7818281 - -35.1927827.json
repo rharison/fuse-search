@@ -1,0 +1,945 @@
+{
+  "mainName": "Praia dos Artistas",
+  "slug": "praia-dos-artistas",
+  "category": "Praia pública",
+  "locationInformation": {
+    "latitude": "-5.7818281",
+    "longitude": "-35.1927827"
+  },
+  "basicInformation": [
+    {
+      "label": "endereço",
+      "tooltip": "Copiar endereço",
+      "text": "Av. Pres. Café Filho, 860-1006 - Praia do Meio, Natal - RN, 59010-000",
+      "icon": "https://www.gstatic.com/images/icons/material/system_gm/1x/place_gm_blue_24dp.png"
+    },
+    {
+      "label": "Code",
+      "tooltip": "Copiar Plus Code",
+      "text": "6R94+7V Praia do Meio, Natal - RN",
+      "icon": "https://maps.gstatic.com/mapfiles/maps_lite/images/2x/ic_plus_code.png"
+    }
+  ],
+  "ratingInformation": {
+    "basicRatingInformation": {
+      "averageGrade": 4.4,
+      "totalOfEvaluations": 15667
+    },
+    "ratingsByGrade": [
+      {
+        "grade": 5,
+        "totalRatings": 10156
+      },
+      {
+        "grade": 4,
+        "totalRatings": 3225
+      },
+      {
+        "grade": 3,
+        "totalRatings": 1668
+      },
+      {
+        "grade": 2,
+        "totalRatings": 325
+      },
+      {
+        "grade": 1,
+        "totalRatings": 293
+      }
+    ]
+  },
+  "ratingTags": [
+    {
+      "tag": "artesanato",
+      "count": 297,
+      "tooltip": "artesanato, mencionado em 297 avaliações"
+    },
+    {
+      "tag": "feira",
+      "count": 107,
+      "tooltip": "feira, mencionado em 107 avaliações"
+    },
+    {
+      "tag": "piscinas naturais",
+      "count": 96,
+      "tooltip": "piscinas naturais, mencionado em 96 avaliações"
+    },
+    {
+      "tag": "passeio",
+      "count": 72,
+      "tooltip": "passeio, mencionado em 72 avaliações"
+    },
+    {
+      "tag": "água de coco",
+      "count": 50,
+      "tooltip": "água de coco, mencionado em 50 avaliações"
+    },
+    {
+      "tag": "calçadão",
+      "count": 40,
+      "tooltip": "calçadão, mencionado em 40 avaliações"
+    },
+    {
+      "tag": "praia bonita",
+      "count": 38,
+      "tooltip": "praia bonita, mencionado em 38 avaliações"
+    },
+    {
+      "tag": "poder público",
+      "count": 37,
+      "tooltip": "poder público, mencionado em 37 avaliações"
+    },
+    {
+      "tag": "shopping",
+      "count": 27,
+      "tooltip": "shopping, mencionado em 27 avaliações"
+    },
+    {
+      "tag": "esgoto",
+      "count": 16,
+      "tooltip": "esgoto, mencionado em 16 avaliações"
+    }
+  ],
+  "featuredPhotos": [
+    "https://lh5.googleusercontent.com/p/AF1QipPSRhJFNhkFlEz8IoEp7JQbA0Mm3jdPopZ0qy6c=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipP-UJnzGvHww0UGGpBJIUh9stlnS0kbZXXQSYwf=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipODw325UWGw2i9NSyvdcjLzWmzSSs_4FFbaK7n5=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMXmV8ixK3VFkJN6BkYgStGtHzkdCMnvk6mZPXa=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPSeh_gu_foARpUWI0W_fmlXNa0I23N0ZpBvLwu=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOKKJNneKw0EkAbdcgzycInx-sCY1FK1zidOmV4=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMb399WFenCfw6iTpNluSGpVTi90YMpcaxnFkIr=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNkrkq6edJcBrQgL7HOvTmgpjSuGAwaU9QwFk-x=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMhCU7EaCJ7Ow5WsJnaKUYgrxnjK0StdayzIU1Y=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNRpspSEfTUwsN7QguhUPLCA-TN-TPHRmzwXetW=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPbGJ5giE12lSdMh41fwpT5NFPfyUAJ52_x869_=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMwI4xtJyddEwWNpjDDYgm5iT-6JaG1AVK5GnUF=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOiC3I0Sxd85fmIsX1fUhZ2NvuCRAen7NWYW-J6=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipO4EZQSuIwZJXck36MCVP8py48VjeyBoVB7eUBn=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOupAJ3Xbu-YUYLIY2fZY1PECEfe52GikFQVjEt=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMcvONkXIFBMb2ArSmqSZAXPu6Q5gKA18ii6vxD=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNluTw_zZB_h8awbnm_doxGQ9RNYmmaH0K9l5k-=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMMqURkYSQlP_qXvjyWcHCK_wTWMccrNOowfCHq=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMGqdzMOMv_L8RkGqSTT_nKMM0mtqaRGfhdgCFv=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipM_9od641ntUAtOAmAua7uh0l99NQgsBSr24tpC=w1024-h576-k-no"
+  ],
+  "topComments": [
+    {
+      "author": "Rivaldo Firmino",
+      "photoAuthor": "https://lh3.googleusercontent.com/a/AItbvmk4qDiA-FGAe2Dg1gSAjy7THsWPow1T9AZQtSca=w36-h36-p-c0x00000000-rp-mo-br100",
+      "comment": "Bom fiquei esse ano.hotel praia hotel proximo a praia dos artistas para conhecer.os funcionarios sempre atentos e prestativos.ponto negativo almoco ruim o quarto que paguei pela agencia prisma e tem parceria com a cvc cheguei que pelo hotel simples paguei febre e levei gato.paguei bem caro e chegando no quarto tive que pagar a diferenca de mais 900.00 reais.e nao é la essas coisas antes tivesse me hospedado em ponta negra que ja conheco e sempre tem tudo.enfim fiquei no prejuizo.melhor lugar para se hospedar é em ponta negra.aprendir a licao",
+      "gradeComment": 3
+    },
+    {
+      "author": "Grazielle Santana",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucoHoYjFn2zyoipp_vlSIO6zYZQusvzap4fsy-z3Fpo=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "A vista da praia é linda e é uma região movimentada, com a feira de artesanato e restaurantes, mas a praia em si é suja e descuidada. Infelizmente a sensação é de descaso ao andar pela orla.",
+      "gradeComment": 3
+    },
+    {
+      "author": "Ariane Gondim",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZuconxvl74Tiew7oKR2MLsa1yxiqSLCfc30IDTv0Q3w=w36-h36-p-c0x00000000-rp-mo-ba3-br100",
+      "comment": "Achei a parte da falta de fiscalização com relação aos vendedores ruim,eles trabalham bem, porém precisam de Orientação de cm manter os alimentos, organizar pra não deixar sujo e assim entregar um serviço de qualidade. Tirando isso a praia tem tudo pra ser top. Uma pena mesmo a vigilância sanitária e a própria prefeitura não investirem nessa praia.",
+      "gradeComment": 3
+    },
+    {
+      "author": "Olha o Cheiro! Rapido mas diferente",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucr29N2SqLa1GRK7YnrIaww-5f5QIQXNzoyhlZh-=w36-h36-p-c0x00000000-rp-mo-ba5-br100",
+      "comment": "Lugar com mesas e cadeiras onde é pago somente o consumo, bom para crianças, mas tem que tomar cuidado, pois fica funda próximo as pedras.",
+      "gradeComment": 4
+    },
+    {
+      "author": "Guilherme Wolfat",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucrYA4bTsg4yQ69ML1VudiQBZ8WLzC1dG5TDHZmJrKA=w36-h36-p-c0x00000000-rp-mo-ba2-br100",
+      "comment": "A praia em si é  muito boa, mas a noite tem pouco entretenimento! Os lanches na orla principalmente o Prensado Gourmet é  excelente, hambúrgueres artesanais muito bons! Você também encontra churrasquinho, tapioca e sushi, tudo na orla e sempre a noite! Tem uma feira com produtos artesanais com produtos típicos muito interessante!",
+      "gradeComment": 5
+    },
+    {
+      "author": "Lidiane Sousa Lima",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucqjqLYX39jSzL_f1xlTCpyUO3eAfbKcrZ3-peLWsA=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "Achei lindo para uma bela foto. Não banhei, não tinha tanto movimento. Fui mais para conhecer a Paisagem. Achei belíssima. Natal é todo lindo!",
+      "gradeComment": 5
+    },
+    {
+      "author": "Mário Silvestre",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucplxjgVuI29fQgaplSkDXAEkNZTnpxIkjZBbcmT8A=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "A praia é belíssima e de fácil acesso por Uber, táxi, etc... O problema dela é estar sempre atento à maré, pois na alta, a faixa de areia chega a sumir, ou ficar muito restrita e com ondas quebrando mais forte. Consulte sempre a tábua de maré do dia que você pretende visitar. Outro ponto é a qualidade dos quiosques, tanto na \"Artistas\" quanto na praia do forte. Eles são limitados e frequentemente não têm alguns (ou vários) itens do cardápio. Quem procura glamour e tratamento de artista tem que ir buscar em outras praias, pois as praias dessa região são mais frequentadas pelos nativos da região, onde há 3 comunidades. Portanto, os gostos do cardápio e atrações estão direcionados para o agrado desse público mais frequente. Um ponto forte nesse aspecto é o preço sensivelmente mais baixo das refeições e bebidas do que em outros locais da cidade. Não presenciei ou percebi perigos reais no tocante à segurança, mas o Brasil como um todo é um país onde precisamos estar sempre de olhos abertos ao redor.",
+      "gradeComment": 4
+    },
+    {
+      "author": "Lucas Oliveira",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucrB6vNJcmeDOL8vhlgwcbgzg_sMa_73TOW6AJ-9RA=w36-h36-p-c0x00000000-rp-mo-ba3-br100",
+      "comment": "Praia legal, não é tipo \"UAU\", mas é calma e o centro de artesanato lá perto é muito bom, aconselho a subirem no mirante, é lindo demais!",
+      "gradeComment": 5
+    },
+    {
+      "author": "Magda Lacerda",
+      "photoAuthor": "https://lh3.googleusercontent.com/a/AItbvml8tIG-58ktABvG0_gLdJMA1HqdET7OjwAILpSy=w36-h36-p-c0x00000000-rp-mo-ba2-br100",
+      "comment": "Razoável, só achei caro uma jarra de suco custar 25,00, 2 cervejas Budweiser e porção de fritas e no final a conta ficar em 153,00. Achei um absurdo esse valor. Mas a praia é limpa e tranquila.",
+      "gradeComment": 4
+    },
+    {
+      "author": "Maveriq",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucpUZoOH9KyZj9srI2GKx9Pbho4DrLxsz9kPsGzqnB8=w36-h36-p-c0x00000000-rp-mo-ba2-br100",
+      "comment": "Praia ótima, principalmente pela manhã quando a maré está recuada. A maioria dos donos de mesas e cadeiras não cobram para se sentar, apenas pelo que você consome, então aproveite! Ótimos hotéis pela região, principalmente o Brisa do Mar Beach Hotel.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Juliana de Faria da Silva",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucpxqWcpnkU98g4WEBH3zvLtnepurD8iQObiwmIa9T8=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "Tem um churrasquinho na frente do hotel, fica um casal e a filha deles , é muito gostoso.....jantinha completa por 5 reais, isso com a carne junto,, eu não sei se é normal esse valor, achei muito barato demais pela qualidade , quantidade e diversidade que vêm no prato. Realmene espero que ela consiga ter muitos clientes e prospere na vida dela. Fiquei admirada com valor. Quem puder ir jante no churrasquinho dela pra ajudar, eles estavam começando essa semana que me disseram. Estou torcendo por eles.",
+      "gradeComment": 5
+    },
+    {
+      "author": "brasilio ramon Hashizume",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucpSXzur2bD3KWP0Jd0kWllqEXsPUaroQT-SqrdM=w36-h36-p-c0x00000000-rp-mo-ba5-br100",
+      "comment": "Muito boa. ALL in. Local amplo e tranquilo e muito lindo. Bem cuidado.",
+      "gradeComment": 3
+    },
+    {
+      "author": "Emerson Penteado",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucrS327a7X0ODREQlELwf9AYBIIILe7KLCrrpFFysjE=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "Forma piscinas na maré baixa, linda praia, muita gente pedindo e chorando da vida",
+      "gradeComment": 4
+    },
+    {
+      "author": "lisania soares silva",
+      "photoAuthor": "https://lh3.googleusercontent.com/a/AItbvmkZlQLBNaIVaXeyQbKDcM_0A4O5nVQh5A2yRFUx=w36-h36-p-c0x00000000-rp-mo-ba2-br100",
+      "comment": "É Tranquilo, perto do shopping de artesanato, tem opções de comida no shopping para quem não quiser comer na praia, no dia em que eu fui o mar estava meio bravo rsrs mais deu pra curtir",
+      "gradeComment": 3
+    },
+    {
+      "author": "Renizia Medeiros",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucpYAEI3YTZNZlXNt4pr41tIYUXASBC43q_JSnKvxQ=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "Praia de mar mais revolto. Ondas mais fortes. Menos servida que ponta negra, mas tem seu charme. Vale a pena atravessar a rua e ir centro de artesanato comer ou comprar lembrancinhas",
+      "gradeComment": 5
+    },
+    {
+      "author": "Barbara Teodoro",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucpiT3bd5AQlUjRSAYI2o_7NIpfaoGfIbhnaja1TjwY=w36-h36-p-c0x00000000-rp-mo-ba3-br100",
+      "comment": "É uma praia linda, porém menos movimentada por turistas, um lugar um pouco mais perigoso conforme feedback do pessoal daqui. Mas é bem bonita.",
+      "gradeComment": 4
+    },
+    {
+      "author": "Sthiven Ferreira",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucqVT_Kr0tYmtyf3ODK-msM0YnFLK_FUVU7o2E4ciA=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "Belíssima praia com excelente área para banho e para tomar sol. Há diversos pontos para comer e beber na própria praia mas também há restaurantes nos arredores. Logo em frente há uma feirinha vendendo artes locais e outros itens para levar como lembrança. O acesso é fácil porém não há estacionamento muito próximo.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Maria Vancin",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucpA0WxlounnYUp5EkQ30wncwfL-EWT4NmhC-cz_wyE=w36-h36-p-c0x00000000-rp-mo-ba3-br100",
+      "comment": "Gostei muito da Praia dos artistas, mais tranquila, fiquei no hotel bem pertinho, centro comercial bem animado, com música,  ótimo passear no calçadão.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Carlos Magno Serrano",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucpw9XK3f2YjVIlqD92p6X0Uy-7B3YLt2hn7EUAadbI=w36-h36-p-c0x00000000-rp-mo-ba7-br100",
+      "comment": "Uma excelente praia, próxima ao centro da cidade, com arrecifes e pequenas lagoas que se formam quando a maré está baixa, o local é relativamente seguro, também não dê bobeira com suas coisas, existe também vários restaurantes, lanchonetes, farmácia para melhor atender.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Gylmar Santos",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucrAYg3Nmly7geM8bSd865yPVuuIG3F4XuxWIgGdLGM=w36-h36-p-c0x00000000-rp-mo-ba5-br100",
+      "comment": "A praia em si é maravilhosa! Só peca com os banheiros públicos abandonados,  uma carniça que espalha pela orla da praia,  muito sujo mesmo.",
+      "gradeComment": 3
+    }
+  ],
+  "peakHours": [
+    {
+      "Sunday": [
+        {
+          "hour": "04:00",
+          "percent": 1
+        },
+        {
+          "hour": "05:00",
+          "percent": 2
+        },
+        {
+          "hour": "06:00",
+          "percent": 5
+        },
+        {
+          "hour": "07:00",
+          "percent": 11
+        },
+        {
+          "hour": "08:00",
+          "percent": 20
+        },
+        {
+          "hour": "09:00",
+          "percent": 31
+        },
+        {
+          "hour": "10:00",
+          "percent": 42
+        },
+        {
+          "hour": "11:00",
+          "percent": 52
+        },
+        {
+          "hour": "12:00",
+          "percent": 57
+        },
+        {
+          "hour": "13:00",
+          "percent": 59
+        },
+        {
+          "hour": "14:00",
+          "percent": 60
+        },
+        {
+          "hour": "15:00",
+          "percent": 67
+        },
+        {
+          "hour": "16:00",
+          "percent": 79
+        },
+        {
+          "hour": "17:00",
+          "percent": 94
+        },
+        {
+          "hour": "18:00",
+          "percent": 100
+        },
+        {
+          "hour": "19:00",
+          "percent": 91
+        },
+        {
+          "hour": "20:00",
+          "percent": 69
+        },
+        {
+          "hour": "21:00",
+          "percent": 45
+        },
+        {
+          "hour": "22:00",
+          "percent": 26
+        },
+        {
+          "hour": "23:00",
+          "percent": 14
+        },
+        {
+          "hour": "00:00",
+          "percent": 7
+        },
+        {
+          "hour": "01:00",
+          "percent": 4
+        },
+        {
+          "hour": "02:00",
+          "percent": 2
+        },
+        {
+          "hour": "03:00",
+          "percent": 1
+        }
+      ]
+    },
+    {
+      "Monday": [
+        {
+          "hour": "05:00",
+          "percent": 2
+        },
+        {
+          "hour": "06:00",
+          "percent": 5
+        },
+        {
+          "hour": "07:00",
+          "percent": 9
+        },
+        {
+          "hour": "08:00",
+          "percent": 13
+        },
+        {
+          "hour": "09:00",
+          "percent": 18
+        },
+        {
+          "hour": "10:00",
+          "percent": 22
+        },
+        {
+          "hour": "11:00",
+          "percent": 25
+        },
+        {
+          "hour": "12:00",
+          "percent": 27
+        },
+        {
+          "hour": "13:00",
+          "percent": 27
+        },
+        {
+          "hour": "14:00",
+          "percent": 29
+        },
+        {
+          "hour": "15:00",
+          "percent": 38
+        },
+        {
+          "hour": "16:00",
+          "percent": 51
+        },
+        {
+          "hour": "17:00",
+          "percent": 53
+        },
+        {
+          "hour": "18:00",
+          "percent": 45
+        },
+        {
+          "hour": "19:00",
+          "percent": 42
+        },
+        {
+          "hour": "20:00",
+          "percent": 40
+        },
+        {
+          "hour": "21:00",
+          "percent": 31
+        },
+        {
+          "hour": "22:00",
+          "percent": 18
+        },
+        {
+          "hour": "23:00",
+          "percent": 6
+        }
+      ]
+    },
+    {
+      "Tuesday": [
+        {
+          "hour": "06:00",
+          "percent": 3
+        },
+        {
+          "hour": "07:00",
+          "percent": 7
+        },
+        {
+          "hour": "08:00",
+          "percent": 13
+        },
+        {
+          "hour": "09:00",
+          "percent": 18
+        },
+        {
+          "hour": "10:00",
+          "percent": 22
+        },
+        {
+          "hour": "11:00",
+          "percent": 25
+        },
+        {
+          "hour": "12:00",
+          "percent": 26
+        },
+        {
+          "hour": "13:00",
+          "percent": 28
+        },
+        {
+          "hour": "14:00",
+          "percent": 32
+        },
+        {
+          "hour": "15:00",
+          "percent": 39
+        },
+        {
+          "hour": "16:00",
+          "percent": 49
+        },
+        {
+          "hour": "17:00",
+          "percent": 56
+        },
+        {
+          "hour": "18:00",
+          "percent": 57
+        },
+        {
+          "hour": "19:00",
+          "percent": 51
+        },
+        {
+          "hour": "20:00",
+          "percent": 41
+        },
+        {
+          "hour": "21:00",
+          "percent": 30
+        },
+        {
+          "hour": "22:00",
+          "percent": 19
+        },
+        {
+          "hour": "23:00",
+          "percent": 11
+        },
+        {
+          "hour": "00:00",
+          "percent": 5
+        },
+        {
+          "hour": "01:00",
+          "percent": 1
+        }
+      ]
+    },
+    {
+      "Wednesday": [
+        {
+          "hour": "06:00",
+          "percent": 2
+        },
+        {
+          "hour": "07:00",
+          "percent": 5
+        },
+        {
+          "hour": "08:00",
+          "percent": 10
+        },
+        {
+          "hour": "09:00",
+          "percent": 15
+        },
+        {
+          "hour": "10:00",
+          "percent": 19
+        },
+        {
+          "hour": "11:00",
+          "percent": 23
+        },
+        {
+          "hour": "12:00",
+          "percent": 26
+        },
+        {
+          "hour": "13:00",
+          "percent": 29
+        },
+        {
+          "hour": "14:00",
+          "percent": 34
+        },
+        {
+          "hour": "15:00",
+          "percent": 40
+        },
+        {
+          "hour": "16:00",
+          "percent": 48
+        },
+        {
+          "hour": "17:00",
+          "percent": 54
+        },
+        {
+          "hour": "18:00",
+          "percent": 55
+        },
+        {
+          "hour": "19:00",
+          "percent": 48
+        },
+        {
+          "hour": "20:00",
+          "percent": 38
+        },
+        {
+          "hour": "21:00",
+          "percent": 26
+        },
+        {
+          "hour": "22:00",
+          "percent": 16
+        },
+        {
+          "hour": "23:00",
+          "percent": 9
+        },
+        {
+          "hour": "00:00",
+          "percent": 5
+        },
+        {
+          "hour": "01:00",
+          "percent": 1
+        }
+      ]
+    },
+    {
+      "Thursday": [
+        {
+          "hour": "06:00",
+          "percent": 1
+        },
+        {
+          "hour": "07:00",
+          "percent": 4
+        },
+        {
+          "hour": "08:00",
+          "percent": 9
+        },
+        {
+          "hour": "09:00",
+          "percent": 15
+        },
+        {
+          "hour": "10:00",
+          "percent": 20
+        },
+        {
+          "hour": "11:00",
+          "percent": 26
+        },
+        {
+          "hour": "12:00",
+          "percent": 31
+        },
+        {
+          "hour": "13:00",
+          "percent": 37
+        },
+        {
+          "hour": "14:00",
+          "percent": 44
+        },
+        {
+          "hour": "15:00",
+          "percent": 54
+        },
+        {
+          "hour": "16:00",
+          "percent": 65
+        },
+        {
+          "hour": "17:00",
+          "percent": 72
+        },
+        {
+          "hour": "18:00",
+          "percent": 71
+        },
+        {
+          "hour": "19:00",
+          "percent": 62
+        },
+        {
+          "hour": "20:00",
+          "percent": 48
+        },
+        {
+          "hour": "21:00",
+          "percent": 32
+        },
+        {
+          "hour": "22:00",
+          "percent": 19
+        },
+        {
+          "hour": "23:00",
+          "percent": 10
+        },
+        {
+          "hour": "00:00",
+          "percent": 5
+        },
+        {
+          "hour": "01:00",
+          "percent": 1
+        }
+      ]
+    },
+    {
+      "Friday": [
+        {
+          "hour": "06:00",
+          "percent": 2
+        },
+        {
+          "hour": "07:00",
+          "percent": 7
+        },
+        {
+          "hour": "08:00",
+          "percent": 14
+        },
+        {
+          "hour": "09:00",
+          "percent": 21
+        },
+        {
+          "hour": "10:00",
+          "percent": 28
+        },
+        {
+          "hour": "11:00",
+          "percent": 31
+        },
+        {
+          "hour": "12:00",
+          "percent": 32
+        },
+        {
+          "hour": "13:00",
+          "percent": 33
+        },
+        {
+          "hour": "14:00",
+          "percent": 37
+        },
+        {
+          "hour": "15:00",
+          "percent": 48
+        },
+        {
+          "hour": "16:00",
+          "percent": 62
+        },
+        {
+          "hour": "17:00",
+          "percent": 72
+        },
+        {
+          "hour": "18:00",
+          "percent": 71
+        },
+        {
+          "hour": "20:00",
+          "percent": 50
+        },
+        {
+          "hour": "21:00",
+          "percent": 38
+        },
+        {
+          "hour": "22:00",
+          "percent": 26
+        },
+        {
+          "hour": "23:00",
+          "percent": 15
+        },
+        {
+          "hour": "00:00",
+          "percent": 7
+        },
+        {
+          "hour": "01:00",
+          "percent": 1
+        }
+      ]
+    },
+    {
+      "Saturday": [
+        {
+          "hour": "06:00",
+          "percent": 2
+        },
+        {
+          "hour": "07:00",
+          "percent": 6
+        },
+        {
+          "hour": "08:00",
+          "percent": 12
+        },
+        {
+          "hour": "09:00",
+          "percent": 20
+        },
+        {
+          "hour": "10:00",
+          "percent": 27
+        },
+        {
+          "hour": "11:00",
+          "percent": 33
+        },
+        {
+          "hour": "12:00",
+          "percent": 37
+        },
+        {
+          "hour": "13:00",
+          "percent": 41
+        },
+        {
+          "hour": "14:00",
+          "percent": 48
+        },
+        {
+          "hour": "15:00",
+          "percent": 58
+        },
+        {
+          "hour": "16:00",
+          "percent": 71
+        },
+        {
+          "hour": "17:00",
+          "percent": 82
+        },
+        {
+          "hour": "18:00",
+          "percent": 86
+        },
+        {
+          "hour": "19:00",
+          "percent": 81
+        },
+        {
+          "hour": "20:00",
+          "percent": 70
+        },
+        {
+          "hour": "21:00",
+          "percent": 56
+        },
+        {
+          "hour": "22:00",
+          "percent": 41
+        },
+        {
+          "hour": "23:00",
+          "percent": 28
+        },
+        {
+          "hour": "00:00",
+          "percent": 18
+        },
+        {
+          "hour": "01:00",
+          "percent": 11
+        },
+        {
+          "hour": "02:00",
+          "percent": 5
+        },
+        {
+          "hour": "03:00",
+          "percent": 2
+        }
+      ]
+    }
+  ],
+  "relatedSearches": null,
+  "relateds": [
+    {
+      "mainName": "Praia do Forte",
+      "url": null
+    },
+    {
+      "mainName": "Praia de Areia Preta",
+      "url": null
+    },
+    {
+      "mainName": "Praia de Ponta Negra",
+      "url": null
+    },
+    {
+      "mainName": "Morro do Careca",
+      "url": null
+    },
+    {
+      "mainName": "Praia da Redinha",
+      "url": null
+    },
+    {
+      "mainName": "Porto Mirim Beach",
+      "url": null
+    },
+    {
+      "mainName": "Praia de Genipabu",
+      "url": null
+    },
+    {
+      "mainName": "Lagoa de Pitangui",
+      "url": null
+    },
+    {
+      "mainName": "Praia Barra do Rio",
+      "url": null
+    },
+    {
+      "mainName": "Praia de Búzios",
+      "url": null
+    },
+    {
+      "mainName": "Bosque dos Namorados do Parque das Dunas",
+      "url": null
+    },
+    {
+      "mainName": "Ponte Newton Navarro",
+      "url": null
+    },
+    {
+      "mainName": "Forte dos Reis Magos",
+      "url": null
+    },
+    {
+      "mainName": "Ponta do Morcego",
+      "url": null
+    },
+    {
+      "mainName": "Praia de Barra de Tabatinga",
+      "url": null
+    },
+    {
+      "mainName": "Ponta Negra Beach",
+      "url": null
+    },
+    {
+      "mainName": "O que fazer em natal",
+      "url": null
+    },
+    {
+      "mainName": "Praia de Cotovelo",
+      "url": null
+    },
+    {
+      "mainName": "Praia de Santa Rita",
+      "url": null
+    },
+    {
+      "mainName": "Centro de Artesanato",
+      "url": null
+    },
+    {
+      "mainName": "Relógio de Sol",
+      "url": null
+    },
+    {
+      "mainName": "Othon Suites Natal",
+      "url": null
+    }
+  ],
+  "editMode": false
+}

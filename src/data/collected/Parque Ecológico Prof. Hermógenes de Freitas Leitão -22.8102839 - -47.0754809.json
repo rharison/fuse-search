@@ -1,0 +1,653 @@
+{
+  "mainName": "Parque Ecológico Prof. Hermógenes de Freitas Leitão",
+  "slug": "parque-ecologico-prof.-hermogenes-de-freitas-leitao",
+  "category": "Parque",
+  "locationInformation": {
+    "latitude": "-22.8102839",
+    "longitude": "-47.0754809"
+  },
+  "basicInformation": [
+    {
+      "label": "endereço",
+      "tooltip": "Copiar endereço",
+      "text": "Av. Dr. Luís de Tella - Cidade Universitária, Campinas - SP",
+      "icon": "https://www.gstatic.com/images/icons/material/system_gm/1x/place_gm_blue_24dp.png"
+    },
+    {
+      "label": "website",
+      "tooltip": "Abrir website",
+      "text": "campinas.sp.gov.br",
+      "icon": "https://www.gstatic.com/images/icons/material/system_gm/1x/public_gm_blue_24dp.png"
+    },
+    {
+      "label": "telefone",
+      "tooltip": "Copiar número de telefone",
+      "text": "(19) 3289-1112",
+      "icon": "https://www.gstatic.com/images/icons/material/system_gm/1x/phone_gm_blue_24dp.png"
+    },
+    {
+      "label": "Code",
+      "tooltip": "Copiar Plus Code",
+      "text": "5WQF+VR Cidade Universitária, Campinas - SP",
+      "icon": "https://maps.gstatic.com/mapfiles/maps_lite/images/2x/ic_plus_code.png"
+    },
+    {
+      "label": "merchant",
+      "text": "Reivindicar esta empresa",
+      "icon": "https://www.gstatic.com/images/icons/material/system_gm/1x/verified_user_gm_blue_24dp.png"
+    }
+  ],
+  "ratingInformation": {
+    "basicRatingInformation": {
+      "averageGrade": 4.6,
+      "totalOfEvaluations": 2201
+    },
+    "ratingsByGrade": [
+      {
+        "grade": 5,
+        "totalRatings": 1570
+      },
+      {
+        "grade": 4,
+        "totalRatings": 480
+      },
+      {
+        "grade": 3,
+        "totalRatings": 113
+      },
+      {
+        "grade": 2,
+        "totalRatings": 22
+      },
+      {
+        "grade": 1,
+        "totalRatings": 16
+      }
+    ]
+  },
+  "ratingTags": [
+    {
+      "tag": "corridas",
+      "count": 30,
+      "tooltip": "corridas, mencionado em 30 avaliações"
+    },
+    {
+      "tag": "água de coco",
+      "count": 20,
+      "tooltip": "água de coco, mencionado em 20 avaliações"
+    },
+    {
+      "tag": "carrapatos",
+      "count": 19,
+      "tooltip": "carrapatos, mencionado em 19 avaliações"
+    },
+    {
+      "tag": "quiosque",
+      "count": 18,
+      "tooltip": "quiosque, mencionado em 18 avaliações"
+    },
+    {
+      "tag": "gansos",
+      "count": 17,
+      "tooltip": "gansos, mencionado em 17 avaliações"
+    },
+    {
+      "tag": "brincar",
+      "count": 14,
+      "tooltip": "brincar, mencionado em 14 avaliações"
+    },
+    {
+      "tag": "atividades físicas",
+      "count": 12,
+      "tooltip": "atividades físicas, mencionado em 12 avaliações"
+    },
+    {
+      "tag": "capivaras",
+      "count": 10,
+      "tooltip": "capivaras, mencionado em 10 avaliações"
+    },
+    {
+      "tag": "lagoa",
+      "count": 9,
+      "tooltip": "lagoa, mencionado em 9 avaliações"
+    },
+    {
+      "tag": "febre maculosa",
+      "count": 6,
+      "tooltip": "febre maculosa, mencionado em 6 avaliações"
+    }
+  ],
+  "featuredPhotos": [
+    "https://lh5.googleusercontent.com/p/AF1QipMpwokAqW3GYn64GV3Ih2uLqS8ESFzvA3XB6ZDv=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPOuXFIIaCjD53G7YV31qZOhvTPVGsHzyvvbyDw=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNqQvnZ08mfVJR90f7mUHumz2SEAnpf7BAIbo1R=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipO4318apBSBLDwuS-1VFinL5urWInAwp6_y-pQK=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipO48nsww3ePygmjP-YeGXvGgJt9bCjwHmiGug03=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNO97Par71QleOyhdQmT-kEgoROSe1Oli59dmWb=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMv5AvtIiQ9MuMP6Vppx9ptFP6NJQAHABHDTKqb=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOYk7z68Bh_t2kF8smAEtnHnXNw2ULLOuJnKrc4=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNcjHcFecJZf-G3w5Y48jTQfRzCv8QFiqGVZnra=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNJCJ3saICZj939oNx2Rv633vL9e_QdZ_XLSMod=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOBA5ZzJAS99HfQh3BHM0tLgc2_wcj1IStAhi3r=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPTWxB4k4L-fva-ZxcYRYzysuVlMTnS5sKWdZo6=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipM-nRaEnmzpY3HXRSkhBrc5qyOEV16Li33WTrh6=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMfdX0I1p_TJdoJKPOfXcuPA9xBvT7NdYfcj7on=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMceJNCLgnoT0Ir4rH8YYP1aw3EUScFO67GrNXi=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOztiTwmaqcQLG3gtQO5pnP_dvmhZazUaSoL_Wf=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNSYGFZwl-qe8-eT6fXEQD5rk-81xVxymJHntbr=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOE5QMwrWRzzrGGL3-xVlYIAc9CixPOJnLKKXnS=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipN8MpAbxq2AgSeZ4BnyccOloK3_TmBJrPgSPZI6=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipP600o64fUvREiiv3oEvdEWXstbgZ2rCdtCeNNW=w1024-h576-k-no"
+  ],
+  "topComments": [
+    {
+      "author": "Mariana de Silvério Arantes",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucoMJIR99mw8HsAtxap1IkkA3DnusbXMvP_PuAsC=w36-h36-p-c0x00000000-rp-mo-ba3-br100",
+      "comment": "Parque maravilhoso, excelente para caminhadas, corridas e para levar crianças. Conta com um parque infantil excelente, espaçoso e muito bem cuidado. As crianças se divertem brincando e também alimentando os gansos e patos do lago.  A natureza é exuberante.  Tem um quiosque na entrada com várias opções de lanches e sucos naturais.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Paulo Pinheiro",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucpRUXPEWAuOzRJkNyngAQMWoG3PCBiDkdKBcliHuw=w36-h36-p-c0x00000000-rp-mo-ba3-br100",
+      "comment": "Lugar muito tranquilo para caminhar, com bastante sombra. A lagoa ajuda a deixar o lugar sempre fresco. Seria interessante ter mais de um portão de acesso",
+      "gradeComment": 5
+    },
+    {
+      "author": "Fernanda Azevedo",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZuco6F6wN8GgQbSxHWcv5zt7OzfHSOao2u1DDjiy4Gw=w36-h36-p-c0x00000000-rp-mo-ba2-br100",
+      "comment": "Lugar maravilhoso. Extremamente bem cuidado. Muitas aves, natureza maravilhosa 💜 No final da tarde as garças se reúnem lá. Mais de 200, são muitas mesmo. Nunca vi nada igual.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Dirce Thomaz",
+      "photoAuthor": "https://lh3.googleusercontent.com/a/AItbvmk3QVoAdVv5fpcw8xKoPvRw0QLlZZGYiGgq6H8F=w36-h36-p-c0x00000000-rp-mo-ba3-br100",
+      "comment": "Lugar maravilhoso.... bem cuidado, contato com a natureza, fazer caminhada sentindo o ar puro as aves ao redor com seus cantos....os patos te dando boas vindas, com ou sem companhia, recomendo vale muito a pena ...",
+      "gradeComment": 5
+    },
+    {
+      "author": "Deise Hellen Ribeiro",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucodKh_vtRhC5Q1ApAPRyfJfwi1r6ekU2gMOp0FcTn8=w36-h36-p-c0x00000000-rp-mo-ba2-br100",
+      "comment": "Lugar lindo, mais não me senti bem com a quantidade de espada de São Jorge que tem lá, não sei pq, eu me senti com falta de ar e muito cansaço.",
+      "gradeComment": 3
+    },
+    {
+      "author": "Claudia Costa Dominguite",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucrkVaIIDw7e7hMdihowBkx7sQ4PHVbh9wZtJ1jqtQ=w36-h36-p-c0x00000000-rp-mo-ba5-br100",
+      "comment": "Um lugar lindo para caminhar e curtir a natureza. Além disso é muito organizado e bem estruturado.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Maria Cláudia Dominguite",
+      "photoAuthor": "https://lh3.googleusercontent.com/a/AItbvmmEZuUzMuj5D0eqGrFYVYIP-eb3h68ntHBVqgBG=w36-h36-p-c0x00000000-rp-mo-ba3-br100",
+      "comment": "Um dos lugares lindos para caminhada em Campinas. Pessoas educadas, local bem arrumado com banheiros simples, mas sempre limpos.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Leticia Araujo",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucpWN2mmXhuOvs1J9uxD-3nl6LgJkq7juygI6Tmx16Q=w36-h36-p-c0x00000000-rp-mo-br100",
+      "comment": "Excelente para passear sozinhx ou com a família, tem espaço para crianças e academia ao ar livre, só não tem opções para alimentação.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Rubens Cividati",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucrmns752ohDuUoSzgHc_IDhErq9McGMDP_7bVXa2w=w36-h36-p-c0x00000000-rp-mo-br100",
+      "comment": "Bosque super gostoso para se fazer as caminhadas matinais!! Ao finalizar o percurso do lago, recomendo tomar uma água de coco geladinha",
+      "gradeComment": 5
+    },
+    {
+      "author": "Harian Braga",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucr3u2RDZu2T57JIhcP2pGkVYBoT4KVT5XVuvs_v7Ng=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "Um lugar belíssimo. A trilha é muito boa para caminhadas, mas também para corridas com um pouco mais de intensidades. Há trechos de aclive e declive que ajudam a modular a intensidade. Há uma boa área de alongamento, inclusive com uma balança. Os funcionários do parque são muito atenciosos, quando precisei de ajuda, fui muito bem tratado. Um dos lugares mais bonitos de Barão, vale muito a pena conhecer e ser frequentador/a.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Mauricio Vianna",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucrp_l366WdA9UgQ-_zXfr0NHL1KmqPuK5s2CnCxzmU=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "Gosto muito do parque. Tem parquinho simples, mas atende bem as crianças. Gansos, garças dividem a trilha com pessoas correndo e caminhando. Tem um quiosque na entrada que serve para um lanche rápido.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Lucas O. Ornaghi",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZuco8vUhmKlnq7twWd-DIHhLlse8AGJM70yFJEGuvww=w36-h36-p-c0x00000000-rp-mo-ba2-br100",
+      "comment": "Lugar agradável pra uma caminhada em família, fácil de estacionar e bem arborizado. A estrutura, porém, está sem muitas melhorias e com mato alto em alguns pontos. E alguns trechos de caminhada têm muita areia, o que atrapalha um pouco, especialmente quem vai com um carrinho de bebê.",
+      "gradeComment": 3
+    },
+    {
+      "author": "Christiane Lisboa",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucpI1BuCPCVj5gOd0aQPRk7-n3zC2_19Ri6hYt3yKJ8=w36-h36-p-c0x00000000-rp-mo-ba2-br100",
+      "comment": "Local calmo e bem cuidado, perfeito para exercícios, corridas, caminhadas e relaxamento, conta com equipamento paraalongamento e 2 playgrounds. Não aceita pets ou bicicletas (mas há bicicletário). àreas bem arborizadas, lagoa e aves. Entrada gratuita. Administrado pela Prefeitura Municipal de Campinas. Há quiosque que vende água de côco com mesinhas em área sombreada. Estacionamento fácil a via lateral.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Evelyn Cardoso",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucoE97Ktgt2-JTRbEKah-OJjv88vgJuW9O6ZHTwTX5Y=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "Muito lindo. Parquinho para crianças e academia ao ar livre, muito bem conservados e limpos. Lixeiras por todo trajeto, ótimo pra gente porca não ter desculpa pra jogar lixo fora da lixeira. Bancos também por todo trajeto, e até alguns quiosques. Bem arborizado, e quem precisar de espada de São Jorge, lá tem de monte rsrsrs. O parque das espadas de São Jorge.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Douglas F. Rocha",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucqkUs7v--tKOGE_Th5ZKZX0ZMNevAk66RFYRXFbHSA=w36-h36-p-c0x00000000-rp-mo-ba5-br100",
+      "comment": "Um parque interessante e atraente, mas demonstra necessitar de mais cuidados",
+      "gradeComment": 3
+    },
+    {
+      "author": "Eder Ferreira",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucqmpOXTRU66vRBcw9ExfrUO5WRotxX5EeIj5mzVtw=w36-h36-p-c0x00000000-rp-mo-ba3-br100",
+      "comment": "Há como todo parque de campinas la é ótimo pra fazer uma boa caminhada o lugar la é bem fresquinho um ar gostoso de respirar lugar legal seguro ...mas como todo parque de campinas faltam os animais  não tem muito la ...mas é legal pra dar umas voltas caminhando e conversando pois o ambiente é bem gostoso ...",
+      "gradeComment": 3
+    },
+    {
+      "author": "Thalita Capuano",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucqndQOxV3_uSjWiBgjFry6ZVmJJdz3yq2raDxoS8g=w36-h36-p-c0x00000000-rp-mo-ba2-br100",
+      "comment": "O parque é legal e tem parquinho para as crianças, porém não tem fraldário... O q é um absurdo pq a maioria das crianças q vão lá são bem pequenas e usam fralda.",
+      "gradeComment": 3
+    },
+    {
+      "author": "Josiano Martins",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucrnfQDqG0iKn0w9qTk_bVdpWZIZbqkHBCXxF9ET5Q=w36-h36-p-c0x00000000-rp-mo-ba5-br100",
+      "comment": "Local incrível, muito bem cuidado com trajeto bem leve. O percurso é de estrada de barro, melhor não ir com tênis branco. Algumas aves se exibem no caminho. Espaço com vários quiosques e bancos para sentar, tem banheiro e tudo gratuito.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Francisco Martins",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucoXeZF7P8nt5F2zlf7E46T6ANYv50f_YeKLkNweqck=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "Bastante agradável. Com muita sombra, parquinhos para as crianças, água e ótima manutenção. Alguns gansos e um grande lago.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Gildo Confortin",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucpRR2X5UQ9WThjIsmMcrZi-bd8-vyleBDRmKo7a=w36-h36-p-c0x00000000-rp-mo-ba3-br100",
+      "comment": "Lindo. Gosto demais de fazer caminhadas e algum exercicio físico. E tiro muitas fotos do lago e das aves.",
+      "gradeComment": 5
+    }
+  ],
+  "peakHours": [
+    {
+      "Sunday": [
+        {
+          "hour": "06:00",
+          "percent": 1
+        },
+        {
+          "hour": "07:00",
+          "percent": 7
+        },
+        {
+          "hour": "08:00",
+          "percent": 27
+        },
+        {
+          "hour": "09:00",
+          "percent": 58
+        },
+        {
+          "hour": "10:00",
+          "percent": 89
+        },
+        {
+          "hour": "11:00",
+          "percent": 100
+        },
+        {
+          "hour": "12:00",
+          "percent": 82
+        },
+        {
+          "hour": "13:00",
+          "percent": 53
+        },
+        {
+          "hour": "14:00",
+          "percent": 38
+        },
+        {
+          "hour": "15:00",
+          "percent": 53
+        },
+        {
+          "hour": "16:00",
+          "percent": 68
+        },
+        {
+          "hour": "17:00",
+          "percent": 50
+        }
+      ]
+    },
+    {
+      "Monday": [
+        {
+          "hour": "06:00",
+          "percent": 14
+        },
+        {
+          "hour": "07:00",
+          "percent": 19
+        },
+        {
+          "hour": "08:00",
+          "percent": 24
+        },
+        {
+          "hour": "09:00",
+          "percent": 28
+        },
+        {
+          "hour": "10:00",
+          "percent": 32
+        },
+        {
+          "hour": "11:00",
+          "percent": 34
+        },
+        {
+          "hour": "12:00",
+          "percent": 34
+        },
+        {
+          "hour": "13:00",
+          "percent": 33
+        },
+        {
+          "hour": "14:00",
+          "percent": 31
+        },
+        {
+          "hour": "15:00",
+          "percent": 27
+        },
+        {
+          "hour": "16:00",
+          "percent": 22
+        },
+        {
+          "hour": "17:00",
+          "percent": 17
+        }
+      ]
+    },
+    {
+      "Tuesday": [
+        {
+          "hour": "06:00",
+          "percent": 15
+        },
+        {
+          "hour": "07:00",
+          "percent": 29
+        },
+        {
+          "hour": "08:00",
+          "percent": 42
+        },
+        {
+          "hour": "09:00",
+          "percent": 47
+        },
+        {
+          "hour": "10:00",
+          "percent": 42
+        },
+        {
+          "hour": "11:00",
+          "percent": 31
+        },
+        {
+          "hour": "12:00",
+          "percent": 23
+        },
+        {
+          "hour": "13:00",
+          "percent": 23
+        },
+        {
+          "hour": "14:00",
+          "percent": 31
+        },
+        {
+          "hour": "15:00",
+          "percent": 36
+        },
+        {
+          "hour": "16:00",
+          "percent": 33
+        },
+        {
+          "hour": "17:00",
+          "percent": 22
+        }
+      ]
+    },
+    {
+      "Wednesday": [
+        {
+          "hour": "06:00",
+          "percent": 7
+        },
+        {
+          "hour": "07:00",
+          "percent": 20
+        },
+        {
+          "hour": "08:00",
+          "percent": 32
+        },
+        {
+          "hour": "09:00",
+          "percent": 37
+        },
+        {
+          "hour": "10:00",
+          "percent": 34
+        },
+        {
+          "hour": "11:00",
+          "percent": 25
+        },
+        {
+          "hour": "12:00",
+          "percent": 20
+        },
+        {
+          "hour": "13:00",
+          "percent": 20
+        },
+        {
+          "hour": "14:00",
+          "percent": 26
+        },
+        {
+          "hour": "15:00",
+          "percent": 30
+        },
+        {
+          "hour": "16:00",
+          "percent": 29
+        },
+        {
+          "hour": "17:00",
+          "percent": 22
+        }
+      ]
+    },
+    {
+      "Thursday": [
+        {
+          "hour": "06:00",
+          "percent": 9
+        },
+        {
+          "hour": "07:00",
+          "percent": 20
+        },
+        {
+          "hour": "08:00",
+          "percent": 33
+        },
+        {
+          "hour": "09:00",
+          "percent": 43
+        },
+        {
+          "hour": "10:00",
+          "percent": 46
+        },
+        {
+          "hour": "11:00",
+          "percent": 42
+        },
+        {
+          "hour": "12:00",
+          "percent": 34
+        },
+        {
+          "hour": "13:00",
+          "percent": 31
+        },
+        {
+          "hour": "14:00",
+          "percent": 36
+        },
+        {
+          "hour": "15:00",
+          "percent": 45
+        },
+        {
+          "hour": "16:00",
+          "percent": 44
+        },
+        {
+          "hour": "17:00",
+          "percent": 29
+        }
+      ]
+    },
+    {
+      "Friday": [
+        {
+          "hour": "06:00",
+          "percent": 5
+        },
+        {
+          "hour": "07:00",
+          "percent": 17
+        },
+        {
+          "hour": "08:00",
+          "percent": 33
+        },
+        {
+          "hour": "09:00",
+          "percent": 46
+        },
+        {
+          "hour": "10:00",
+          "percent": 48
+        },
+        {
+          "hour": "11:00",
+          "percent": 40
+        },
+        {
+          "hour": "12:00",
+          "percent": 31
+        },
+        {
+          "hour": "13:00",
+          "percent": 28
+        },
+        {
+          "hour": "14:00",
+          "percent": 30
+        },
+        {
+          "hour": "15:00",
+          "percent": 32
+        },
+        {
+          "hour": "16:00",
+          "percent": 31
+        },
+        {
+          "hour": "17:00",
+          "percent": 26
+        }
+      ]
+    },
+    {
+      "Saturday": [
+        {
+          "hour": "06:00",
+          "percent": 3
+        },
+        {
+          "hour": "07:00",
+          "percent": 13
+        },
+        {
+          "hour": "08:00",
+          "percent": 30
+        },
+        {
+          "hour": "09:00",
+          "percent": 49
+        },
+        {
+          "hour": "10:00",
+          "percent": 63
+        },
+        {
+          "hour": "11:00",
+          "percent": 66
+        },
+        {
+          "hour": "12:00",
+          "percent": 55
+        },
+        {
+          "hour": "13:00",
+          "percent": 38
+        },
+        {
+          "hour": "14:00",
+          "percent": 28
+        },
+        {
+          "hour": "15:00",
+          "percent": 41
+        },
+        {
+          "hour": "16:00",
+          "percent": 61
+        },
+        {
+          "hour": "17:00",
+          "percent": 52
+        }
+      ]
+    }
+  ],
+  "relatedSearches": null,
+  "relateds": [
+    {
+      "mainName": "Lago do Café",
+      "url": null
+    },
+    {
+      "mainName": "Pedreira do Chapadão",
+      "url": null
+    },
+    {
+      "mainName": "Parque Ecológico Monsenhor Emílio José Salim",
+      "url": null
+    },
+    {
+      "mainName": "Parque Bosque dos Jequitibás",
+      "url": null
+    },
+    {
+      "mainName": "Parque Portugal - Lagoa do Taquaral",
+      "url": null
+    }
+  ]
+}

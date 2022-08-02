@@ -1,0 +1,952 @@
+{
+  "mainName": "Parque Lage",
+  "slug": "parque-lage",
+  "category": "Parque",
+  "locationInformation": {
+    "latitude": "-22.9581535",
+    "longitude": "-43.2116429"
+  },
+  "basicInformation": [
+    {
+      "label": "endereço",
+      "tooltip": "Copiar endereço",
+      "text": "R. Jardim Botânico, 414 - Jardim Botânico, Rio de Janeiro - RJ, 22461-000",
+      "icon": "https://www.gstatic.com/images/icons/material/system_gm/1x/place_gm_blue_24dp.png"
+    },
+    {
+      "label": "website",
+      "tooltip": "Abrir website",
+      "text": "eavparquelage.rj.gov.br",
+      "icon": "https://www.gstatic.com/images/icons/material/system_gm/1x/public_gm_blue_24dp.png"
+    },
+    {
+      "label": "telefone",
+      "tooltip": "Copiar número de telefone",
+      "text": "(21) 2334-4088",
+      "icon": "https://www.gstatic.com/images/icons/material/system_gm/1x/phone_gm_blue_24dp.png"
+    },
+    {
+      "label": "Code",
+      "tooltip": "Copiar Plus Code",
+      "text": "2QRQ+P8 Rio de Janeiro, RJ",
+      "icon": "https://maps.gstatic.com/mapfiles/maps_lite/images/2x/ic_plus_code.png"
+    }
+  ],
+  "ratingInformation": {
+    "basicRatingInformation": {
+      "averageGrade": 4.7,
+      "totalOfEvaluations": 38146
+    },
+    "ratingsByGrade": [
+      {
+        "grade": 5,
+        "totalRatings": 29367
+      },
+      {
+        "grade": 4,
+        "totalRatings": 6021
+      },
+      {
+        "grade": 3,
+        "totalRatings": 1890
+      },
+      {
+        "grade": 2,
+        "totalRatings": 418
+      },
+      {
+        "grade": 1,
+        "totalRatings": 450
+      }
+    ]
+  },
+  "ratingTags": [
+    {
+      "tag": "cristo redentor",
+      "count": 396,
+      "tooltip": "cristo redentor, mencionado em 396 avaliações"
+    },
+    {
+      "tag": "arquitetura",
+      "count": 272,
+      "tooltip": "arquitetura, mencionado em 272 avaliações"
+    },
+    {
+      "tag": "grutas",
+      "count": 241,
+      "tooltip": "grutas, mencionado em 241 avaliações"
+    },
+    {
+      "tag": "escola de artes",
+      "count": 141,
+      "tooltip": "escola de artes, mencionado em 141 avaliações"
+    },
+    {
+      "tag": "palácio",
+      "count": 139,
+      "tooltip": "palácio, mencionado em 139 avaliações"
+    },
+    {
+      "tag": "brunch",
+      "count": 72,
+      "tooltip": "brunch, mencionado em 72 avaliações"
+    },
+    {
+      "tag": "mansão",
+      "count": 35,
+      "tooltip": "mansão, mencionado em 35 avaliações"
+    },
+    {
+      "tag": "lagoa rodrigo de freitas",
+      "count": 32,
+      "tooltip": "lagoa rodrigo de freitas, mencionado em 32 avaliações"
+    },
+    {
+      "tag": "artes visuais",
+      "count": 28,
+      "tooltip": "artes visuais, mencionado em 28 avaliações"
+    },
+    {
+      "tag": "engenho de açúcar",
+      "count": 16,
+      "tooltip": "engenho de açúcar, mencionado em 16 avaliações"
+    }
+  ],
+  "featuredPhotos": [
+    "https://lh5.googleusercontent.com/p/AF1QipN8Jkg4eEGDYy6-ofDxTuQEtOM0SgEh939uYXTT=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMpnZqKuOTNAL2GlM231W9-NhitTrIX1fs8QH3X=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMEG6CjGdvSgAgpe40D_sjiEUU2s0v05evR7HTy=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNkEaAV0pXv3e4bF79PbJhb2zRx3Mp1iQf9-Mxq=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOklxP0Kj_VDdeIX-RiLQHqaFc_3J0VMVDht-Zd=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipP7zw5psRZfS3L1YSJUpjE6ZXMMDNWJXGr3JD6b=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPxdfUtBuKLY8M57LnytwBhLECcW4ToUvphCRxu=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMuMmfKtXGf4vlm-MLsqgdK9ANg1SeN7qpRjLch=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOLyG98P58tUNih8PAMISc0K2lwxwPBOhpcxxPY=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNjY7E-lnD35AlHf5IBCLF_Wly-gdpWCXBnrl5j=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPmhocqyJamMWvSNJvimUpQPNF0lvZDcsBgqUoB=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOXEii4bcqhCAMjW2Qf8n3Z6JKS6Nv2JpiCdhg=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOnGfCybHcpNRk7pOSw00obZYN-NGHmlYCTRxej=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOTPawsSjAPgdahKClhvkOfQ5hIj33PNTZbRYc=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPIbQR5BcvLsR6a1K6o_wL1Wg8kbB50z6rmcQxH=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMmWzBSn1V2JZCwst1UxtGFwcAy_WNvWCa_f6iZ=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMbG2VTUtuqZonqN6SEwbV04zsxL_KEzfdJMkfB=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipO8wHxy6hBfHs1wOEHSS1ITxW6QhzmxDdX9PRxD=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOHICiLp4KoWHUOL4q-5WzyzSuqLFy3xLaEW4wM=w1024-h576-k-no"
+  ],
+  "topComments": [
+    {
+      "author": "Mery Rose Galvão",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucoFOJf16OIKleO5EFFpqhQv3DBOYqRXcJ41f32jDnM=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "Encantada! Assim que fiquei quando conheci este lindo lugar! Uma área verde exuberante e um palacete monumental e com uma belíssima história, tudo isso encravado no meio de uma cidade... quase uma selva! Entrada gratuita no parque, sendo necessário fazer apenas o agendamento pela Internet, sem custo nenhum, da visita ao palacete, por medidas de segurança quanto à pandemia, o número de entrada de pessoas é limitado de hora em hora, mas agende pela internet que dará tudo certo! Não fiz refeição no local, por isso, não posso opinar sobre preço e atendimento do restaurante que tem lá, mega ultra recomendo o passeio! Simplesmente maravilhoso! Fotos incríveis! Apenas relaxem e curtam o passeio!!",
+      "gradeComment": 5
+    },
+    {
+      "author": "Erlane Mota",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucp91yt2KzEiIXC8PnDHbM-7wTH30sSsQs29Basl5w=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "Parque Lage é lindo, vale a pena conhecer. Chegamos lá e nos perguntaram se iríamos pra visitação ou pra o restaurante, dissemos q iríamos pra o restaurante pq iríamos almoçar. Logo depois percebemos que pra ter acesso sem ir pra o restaurante precisa agendar. O restaurante é um pouco caro, pedi um cortadinho de carne que n estava saboroso e o custo benefício não foi nada interessante. Mas vale a pena o café e o sanduíche que são bem saborosos. A visitação na parte de cima só pode até às 16:00 horas é pra ter acesso tem que comprar na lojinha. Não conseguimos. Infelizmente colocaram uns toldos pra proteger da chuva, mas tirou um pouco da beleza do casarão. As fotos lá são lindas, mas precisa pegar uma fila que demora um pouco. Consegue ver o Cristo Redentor de lá. A parte de fora, tem uma parte verde bem legal e a poucos minutos fica o Jardim Botânico que não conseguimos ir por conta do horário. Super indico a visita.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Carla Feijó",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucrbDtH5o-ZBrrANuk4Da17H8snY5ilqHUDsNncI4OY=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "Já visitei o Parque Lage 2 vezes. A entrada no parque é gratuita! Se atente ao horário de entrada 9 as 17h! Abre em feriados, mas se informe ligando. _  Sugiro que entre onde tem o café pois o passeio fica completo e você conhece tudo o que o lugar proporciona mesmo que não vá tomar o café você consegue ver a piscina e a linda estrutura.(Pátio do palácio, com a floresta da Tijuca e o morro do Corcovado ao fundo). _ Para subir no terraço precisa consumir R$10,00 dos materiais da Escola que há dentro do Parque, para gerar renda e a manter. Peguei uma bolsinha fofa que vou mostrar na foto. A bolsa custou R$ 20,00, deu para 2 acessos. Eu e meu acompanhante. _ É um belo lugar! Vá de roupas e calçado confortáveis. Dá para fazer piquenique lá dentro. O jardim é lindo! Eu amo saber as histórias dos lugares e essa não deixa a desejar. Bem no final tem um tipo de casinha rosa linda. Na história que eu saiba, diz que um Rei/príncipe deu para sua amada.🥰 Vale a pensa conhecer. _ 🚫 Já fui fazer ensaio fotográfico com balões mas não pode entrar por questão de segurança e caso venha voar para não acabar com habitate dos micos e nem comerem o balão e acabar morrendo. Então não leve balões pois não é permitido. Em frente ao parque tem um restaurante. Não cheguei a ir e nem pesquisei os preços. Na porta tem barraquinhas de doce, bebidas, pipoca etc. _ Ótimo passeio em família. Ah, lá dentro tem restaurantes e banheiros.( banheiro gratuito) _ O Parque Lage está ligado à memória de nossa cidade. Antigo engenho de açúcar na época do Brasil Colonial, suas terras se estendiam até as margens da lagoa, (atual Rodrigo de Freitas), conhecida na época pelos índios como de Sacopenapã – lagoa de raízes chatas, em Tupi-Guarani.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Ariane Costa",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucpR_Y-fx0EIsn-Vy8B40VPmlVA8ykBNiy5DoLQSZcI=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "Um ponto turístico bem conhecido no Rio de Janeiro o parque Lage localiza-se no jardim botânico por onde pode passear e curtir o parque que oferece muito verde, aquario, trilhas e grutas.  Para entrar no palácio está sendo pedido agendamento prévio pois o limite é de 100 pessoas por vez. No agendamento há vários horários disponíveis para visitação. Outra forma de acessar é pelo café PLage pois fica dentro do palácio, e sendo assim, para entrar é preciso consumir. Os preços não são os mais em conta, como em qualquer outro ponto turístico, mas tem várias opções de bebidas (alcoólicas ou não, lanches, brunch, etc).  A vista é linda, ao pé do corcovado é possível fazer vários clicks e registrar lindas memórias.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Alana Filippi",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucqDq-tsmdmlSi7vZ_AAJWVUbUrZ24uUpwoxDwPD-w=w36-h36-p-c0x00000000-rp-mo-ba3-br100",
+      "comment": "Parque lindo, com muita arborização e ao fundo da pra ter uma vista do Cristo de tirar o fôlego. Para entrar no café precisa fazer uma reserva antecipada. É gratuito. Mas se você for sem reserva é só dizer que vai no restaurante que eles te colocam na fila de espera. Comprando um suvenir na lojinha você ganha acesso a parte de cima do café. Lugar muito bom para fotos e sem aglomerado de pessoas atrapalhando. Vale a pena.",
+      "gradeComment": 4
+    },
+    {
+      "author": "Maíra Cristina",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucr1fBtfYNVCJv5T0mZjhyxiOPDpDorFN8cRxC8M=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "Atenção: Tem que AGENDAR PARA VISITAR! Não é só chegar e entrar! A outra opção que você vai e solicita que quer ir no CAFÉ LAGE vc aguarda na fila e consegue entrar no restaurante que consequentemente pode tirar a famosa foto, lembrando que é caríssimo este restaurante uma água mineral é uns 7 reais, um absurdo, para entrar lá em cima tbm tem que comprar algo na lojinha, enfim se programar, agendar e levar suas coisas torna um passeio viável pq a diversas linhas de ônibus que passam na frente! Lembrando que é dentro do jardim botânico, pela experiência VALE a pena!",
+      "gradeComment": 5
+    },
+    {
+      "author": "Katia Rizzo Kengen",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucom4ME61nUw9fc-6F9eVmvoow9P_9fUQ3OlafvtJLU=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "Gostei muito do lugar (tem que agendar,  acesso gratuito), tranquilo, bastante natureza, bonito, ótimo para tirar fotos, só está muito maltratado, algumas partes deteriorando. Fui com um cadeirante e fomos MUITO bem recepcionados no acesso ao elevador. Vista maravilhosa para tirar fotos. Fotos na piscina, se leva um hora ou mais nos fins de semana, pois a fila é enorme, mas vale muito a pena. Na compra de algum item na biblioteca no valor de 20 reais, se tem o direito de ir al terraço. O Plage café serve café da manhã, almoço, drinks, petiscos com vista maravilhosa para a piscina. Atendimento rápido. Valor $$$$$. Não esqueçam de levar repelente, muitos mosquitos, muita atenção nas caminhadas, pois tem cobra. Ponto negativo: Infelizmente não tem NADA contando a história do Palacete e ao seu redor.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Rafael Corrêa",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucrRmvFD-2PgEjg4hGXZ3O-wKpA-qrVFbSvjQeTNeQ=w36-h36-p-c0x00000000-rp-mo-ba5-br100",
+      "comment": "Local em que você pode ver um pouco da natureza em tese nativa do Rio de Janeiro, bem preservada. Há árvores muito grandes e trilhas espaçosas para um leve passeio. A esso aberto para a população, logo, encontrará pessoas de variadas preferências. Infelizmente na minha visita encontramos um casal e um outro grupo de três homens fumando mac0nh@ o que nos deixou desconfortáveis. Achamos a piscina da área de construção suja. Muitos pombos voando na área do Restaurante e ao redor das mesas, o que nos fez não comer nada no local.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Maria Carolina Quirino",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucrxcApz1NMu0vDn0lA8KSAch_Sx1XxtXEahBjShahE=w36-h36-p-c0x00000000-rp-mo-ba5-br100",
+      "comment": "Lugar lindo, natureza magnífica e estrutura muito bem preservada. Fácil acesso de carro, dentro do parque, existe um restaurante, então vale muito a pena passar a tarde no local. Lindo demais com excelente comida e ótimos preços. Super recomendo, e iria novamente se fosse ao Rio. Vista incrível do Cristo, um mergulho no passado colonial do Brasil.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Marcelo Braga",
+      "photoAuthor": "https://lh3.googleusercontent.com/a/AItbvmnBwWy4jJgyNXwL9TcZoBLw1obTVZ81mpsfpnd5=w36-h36-p-c0x00000000-rp-mo-ba3-br100",
+      "comment": "Sem estacionamento, jardins mal cuidados, manutenção das áreas visitaveis bem caótica. Preferível cobrar a entrada para oferecer estrutura digna de parque. O mais ridículo é ter que agendar para visitar a área construida. 100 pessoas por dia  num momento que nem se exige usar máscara. Não existe divulgação sobre as regras que já não têm mais justificativa. Mais uma atração abandonada na cidade maravilhosa.(2022)",
+      "gradeComment": 3
+    },
+    {
+      "author": "Rute Gomes",
+      "photoAuthor": "https://lh3.googleusercontent.com/a/AItbvmnwmM62_Zfyr5lkZ6pGxyIvKZQldCLtkuhBx0mm=w36-h36-p-c0x00000000-rp-mo-br100",
+      "comment": "O lugar é muito bonito, gostei da experiência, porém algumas coisas deixam a desejar. É preciso fazer reserva e aguardar em torno de 40min-1h na lateral e não existe nenhum tipo de recepção ou banquinhos; sentamos em toquinhos de árvores mais adentro da floresta rsrs Depois que fomos chamados aguardamos mais um pouco na entrada pra ir as mesas. O cardápio não é tão comum, portanto, é preciso ter um paladar diferenciado e estar aberto a uma nova culinária rsrs O atendimento foi excelente, os preços condizem com a fama do espaço.",
+      "gradeComment": 3
+    },
+    {
+      "author": "Thamires Valle",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucpvAJ_f_Sr7EZBfK1dJ5JfUwaiqpEqM7wqZ9NqTMw=w36-h36-p-c0x00000000-rp-mo-ba2-br100",
+      "comment": "Já conhecia o Jardim Botânico, mas não o Parque Lage. Minha impressão é de um jardim natural, orgânico... Diferente do Jardim Botânico que é mais sistematizado. Há grutas, córregos, cachoeira, aquário... muita coisa me surpreendeu! Porém, não conheci o prédio central e a piscina pois havia fila para entrar e eu preferi não perder tempo ali. Minha crítica foi não haver controle na entrada quanto a pessoas com/sem máscara ou comprovante de vacinação. O que se ameniza por ser um local amplo e aberto, permitindo evitar aglomerações.",
+      "gradeComment": 4
+    },
+    {
+      "author": "Edival Martin",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucpEAW0htKsHiin-_1YKN2eMSbUKiAnjg0m-EwQeYlk=w36-h36-p-c0x00000000-rp-mo-br100",
+      "comment": "Durante a pandemia é necessário agendar a entrada no palacete pra conseguir a famosa foto de frente à piscina. O lugar é muito bonito, mas não tem tanto o que fazer lá dentro se não for no café. Os outros ambientes do parque também são interessantes, mas precisam de certos reparos/limpezas, como a torre e o lago dos patos. A sinalização desse locais também precisa melhorar.",
+      "gradeComment": 4
+    },
+    {
+      "author": "Fabbio Barbosa",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucqGNyM2hDgqegeNf_JRft1VjlDWh-kHBDahmkp0A5Y=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "Lugar belíssimo, organizado, limpo. Devido pandemia COVID tens que agendar a visitação por dentro do casarão. Restaurante funcionando normalmente. Vale muito apena dar aquela visitada. Ao redor uma floresta que te deixa encantado e um cheiro de natureza super presente. Aaaaaahhhh entrada gratuita!",
+      "gradeComment": 5
+    },
+    {
+      "author": "Nicole Nogueira",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucojxK3I5NxUtn0QJy3gSQhzMD2R1vH4x5Z-XNfJvkI=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "Agendamos nossa visita ao palacete pelo site, estava bem vazio pela manhã, conseguimos tirar muitas fotos e aproveitar o local. Para subir no terraço é necessário gastar R$10 na lojinha, vale a pena porque a vista é linda. Saímos do palacete e fomos caminhar pelo parque. Encontramos uma gruta e um aquário pelo caminho, ambos muito legais. Super indico esse passeio!",
+      "gradeComment": 5
+    },
+    {
+      "author": "Tarcila Martins",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucogZ3Tmzh6X0JHk8Izwn2hFlNUDhqFaTx7eLb_3VjE=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "É gratuito a entrada e é lindo para tirar fotos. Eu amei esse lugar e voltaria de novo. Precisa ser agendado com antecedencia pelo site e é preciso ter comprovante de vacinação para apresentar junto do documento pessoal. Aconselho ir no primeiro horário da manhã ou final da tarde pra não pegar muito sol durante o passeio.",
+      "gradeComment": 5
+    },
+    {
+      "author": "greicy kelly gonçalves",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucrxdWM5vjX7tFZC2de8WRrDw1XVjLwD52Vx7bGZjNc=w36-h36-p-c0x00000000-rp-mo-ba5-br100",
+      "comment": "Local com uma arquitetura incrível! Vale muito incluir a visita se estiver turistando pelo Rio. Fomos muito bem recepcionados. Pra quem deseja conhecer o segundo piso, basta adquirir qualquer peça vendida na loja anexa ao Parque Lage, no valor mínimo de 10,00/pessoa. Tem uma vista linda para o Cristo. Estávamos em grupo de 8 pessoas, guiados pelo @tx.well.tour ,sem fila, sem estresse! Passeio guiado e com fotógrafo, foi uma experiência incrível no Rio!",
+      "gradeComment": 5
+    },
+    {
+      "author": "Rafael Thadeo",
+      "photoAuthor": "https://lh3.googleusercontent.com/a/AItbvmmyLUmMDIUvOjtBuceXJ6gs7p09mCYbYb_pA5zj=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "Eu adoro o Parque Lage. Infelizmente não conseguimos entrar no casarão porque chegamos um pouco tarde e não havia mais disponibilidade de vagas. A entrada é gratuita, mas estão controlando a entrada em função da pandemia, através de um site bem simples e o agendamento pode ser feito antes de entrar. Ainda assim aproveitamos pra passear nos jardins, são maiores do que eu me lembrava.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Dan Lisboa",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucqiuRANreBU5DJWKIlmZqyzHn3LkIBcDzD6iS2Dcw=w36-h36-p-c0x00000000-rp-mo-ba5-br100",
+      "comment": "As pessoas costumam visitar o parque para tirar a famosa selfie da piscina e postar no Instagram, mas é um programa totalmente dispensável, porque para entrar tem que marcar horário ou entrar na fila do restaurante e esperar no mínimo 1h pra quando entrar ser mal atendido e ficar torrando no sol, sem contar os preços altos pra coisas que não tem nada demais e depois ainda tem que pegar uma fila interna e ficar esperando o povo tirar suas selfies. Para acessar o andar superior tem que comprar coisas na lojinha. O casarão é lindo,mas está deteriorado, sem cuidados.  A visita ao parque vale pelos atrativos da área externa que são lindas.",
+      "gradeComment": 4
+    },
+    {
+      "author": "lemos viajantes",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucr6UhOyInjRzT-ljI_TwQ19uKgbOPD-oz78LUvo=w36-h36-p-c0x00000000-rp-mo-ba5-br100",
+      "comment": "Adorei o passeio. O parque possui entrada gratuita e te permite visita um arborizado bosque com uma vista incrível para o Cristo Redentor. A arquitetura do local é bem conservada e belíssima. Todo o cenário rende belíssimas fotos. Próximo a área da pisciana conta comum restaurante que serve um delicioso café. Vale a pena o passeio. @lemosviajantes",
+      "gradeComment": 5
+    }
+  ],
+  "peakHours": [
+    {
+      "Sunday": [
+        {
+          "hour": "04:00",
+          "percent": 1
+        },
+        {
+          "hour": "05:00",
+          "percent": 1
+        },
+        {
+          "hour": "06:00",
+          "percent": 3
+        },
+        {
+          "hour": "07:00",
+          "percent": 8
+        },
+        {
+          "hour": "08:00",
+          "percent": 22
+        },
+        {
+          "hour": "09:00",
+          "percent": 46
+        },
+        {
+          "hour": "10:00",
+          "percent": 74
+        },
+        {
+          "hour": "11:00",
+          "percent": 94
+        },
+        {
+          "hour": "12:00",
+          "percent": 100
+        },
+        {
+          "hour": "13:00",
+          "percent": 98
+        },
+        {
+          "hour": "14:00",
+          "percent": 97
+        },
+        {
+          "hour": "15:00",
+          "percent": 92
+        },
+        {
+          "hour": "16:00",
+          "percent": 77
+        },
+        {
+          "hour": "17:00",
+          "percent": 54
+        },
+        {
+          "hour": "18:00",
+          "percent": 31
+        },
+        {
+          "hour": "19:00",
+          "percent": 14
+        },
+        {
+          "hour": "20:00",
+          "percent": 6
+        },
+        {
+          "hour": "21:00",
+          "percent": 2
+        },
+        {
+          "hour": "22:00",
+          "percent": 1
+        },
+        {
+          "hour": "23:00",
+          "percent": 1
+        },
+        {
+          "hour": "00:00",
+          "percent": 1
+        },
+        {
+          "hour": "01:00",
+          "percent": 1
+        },
+        {
+          "hour": "02:00",
+          "percent": 1
+        },
+        {
+          "hour": "03:00",
+          "percent": 1
+        }
+      ]
+    },
+    {
+      "Monday": [
+        {
+          "hour": "07:00",
+          "percent": 6
+        },
+        {
+          "hour": "08:00",
+          "percent": 19
+        },
+        {
+          "hour": "09:00",
+          "percent": 37
+        },
+        {
+          "hour": "10:00",
+          "percent": 55
+        },
+        {
+          "hour": "11:00",
+          "percent": 65
+        },
+        {
+          "hour": "12:00",
+          "percent": 67
+        },
+        {
+          "hour": "13:00",
+          "percent": 64
+        },
+        {
+          "hour": "14:00",
+          "percent": 62
+        },
+        {
+          "hour": "15:00",
+          "percent": 60
+        },
+        {
+          "hour": "16:00",
+          "percent": 53
+        },
+        {
+          "hour": "17:00",
+          "percent": 38
+        },
+        {
+          "hour": "18:00",
+          "percent": 22
+        },
+        {
+          "hour": "19:00",
+          "percent": 10
+        },
+        {
+          "hour": "20:00",
+          "percent": 3
+        }
+      ]
+    },
+    {
+      "Tuesday": [
+        {
+          "hour": "06:00",
+          "percent": 2
+        },
+        {
+          "hour": "07:00",
+          "percent": 11
+        },
+        {
+          "hour": "08:00",
+          "percent": 24
+        },
+        {
+          "hour": "09:00",
+          "percent": 39
+        },
+        {
+          "hour": "10:00",
+          "percent": 52
+        },
+        {
+          "hour": "11:00",
+          "percent": 59
+        },
+        {
+          "hour": "12:00",
+          "percent": 62
+        },
+        {
+          "hour": "13:00",
+          "percent": 63
+        },
+        {
+          "hour": "14:00",
+          "percent": 63
+        },
+        {
+          "hour": "15:00",
+          "percent": 60
+        },
+        {
+          "hour": "16:00",
+          "percent": 51
+        },
+        {
+          "hour": "17:00",
+          "percent": 36
+        },
+        {
+          "hour": "18:00",
+          "percent": 21
+        },
+        {
+          "hour": "19:00",
+          "percent": 9
+        },
+        {
+          "hour": "20:00",
+          "percent": 4
+        },
+        {
+          "hour": "21:00",
+          "percent": 2
+        },
+        {
+          "hour": "22:00",
+          "percent": 1
+        },
+        {
+          "hour": "23:00",
+          "percent": 1
+        },
+        {
+          "hour": "00:00",
+          "percent": 1
+        }
+      ]
+    },
+    {
+      "Wednesday": [
+        {
+          "hour": "06:00",
+          "percent": 1
+        },
+        {
+          "hour": "07:00",
+          "percent": 9
+        },
+        {
+          "hour": "08:00",
+          "percent": 22
+        },
+        {
+          "hour": "09:00",
+          "percent": 38
+        },
+        {
+          "hour": "10:00",
+          "percent": 53
+        },
+        {
+          "hour": "11:00",
+          "percent": 62
+        },
+        {
+          "hour": "12:00",
+          "percent": 65
+        },
+        {
+          "hour": "13:00",
+          "percent": 64
+        },
+        {
+          "hour": "14:00",
+          "percent": 63
+        },
+        {
+          "hour": "15:00",
+          "percent": 61
+        },
+        {
+          "hour": "16:00",
+          "percent": 55
+        },
+        {
+          "hour": "17:00",
+          "percent": 42
+        },
+        {
+          "hour": "18:00",
+          "percent": 28
+        },
+        {
+          "hour": "19:00",
+          "percent": 15
+        },
+        {
+          "hour": "20:00",
+          "percent": 8
+        },
+        {
+          "hour": "21:00",
+          "percent": 5
+        },
+        {
+          "hour": "23:00",
+          "percent": 3
+        },
+        {
+          "hour": "00:00",
+          "percent": 2
+        }
+      ]
+    },
+    {
+      "Thursday": [
+        {
+          "hour": "06:00",
+          "percent": 2
+        },
+        {
+          "hour": "07:00",
+          "percent": 12
+        },
+        {
+          "hour": "08:00",
+          "percent": 27
+        },
+        {
+          "hour": "09:00",
+          "percent": 47
+        },
+        {
+          "hour": "10:00",
+          "percent": 65
+        },
+        {
+          "hour": "11:00",
+          "percent": 75
+        },
+        {
+          "hour": "12:00",
+          "percent": 75
+        },
+        {
+          "hour": "13:00",
+          "percent": 73
+        },
+        {
+          "hour": "14:00",
+          "percent": 73
+        },
+        {
+          "hour": "15:00",
+          "percent": 72
+        },
+        {
+          "hour": "16:00",
+          "percent": 62
+        },
+        {
+          "hour": "17:00",
+          "percent": 43
+        },
+        {
+          "hour": "18:00",
+          "percent": 23
+        },
+        {
+          "hour": "19:00",
+          "percent": 10
+        },
+        {
+          "hour": "20:00",
+          "percent": 5
+        },
+        {
+          "hour": "21:00",
+          "percent": 3
+        },
+        {
+          "hour": "22:00",
+          "percent": 3
+        },
+        {
+          "hour": "23:00",
+          "percent": 2
+        },
+        {
+          "hour": "00:00",
+          "percent": 1
+        }
+      ]
+    },
+    {
+      "Friday": [
+        {
+          "hour": "06:00",
+          "percent": 5
+        },
+        {
+          "hour": "07:00",
+          "percent": 13
+        },
+        {
+          "hour": "08:00",
+          "percent": 27
+        },
+        {
+          "hour": "09:00",
+          "percent": 43
+        },
+        {
+          "hour": "10:00",
+          "percent": 58
+        },
+        {
+          "hour": "11:00",
+          "percent": 69
+        },
+        {
+          "hour": "12:00",
+          "percent": 74
+        },
+        {
+          "hour": "13:00",
+          "percent": 73
+        },
+        {
+          "hour": "14:00",
+          "percent": 68
+        },
+        {
+          "hour": "15:00",
+          "percent": 60
+        },
+        {
+          "hour": "16:00",
+          "percent": 49
+        },
+        {
+          "hour": "17:00",
+          "percent": 37
+        },
+        {
+          "hour": "18:00",
+          "percent": 26
+        },
+        {
+          "hour": "19:00",
+          "percent": 17
+        },
+        {
+          "hour": "20:00",
+          "percent": 12
+        },
+        {
+          "hour": "21:00",
+          "percent": 9
+        },
+        {
+          "hour": "22:00",
+          "percent": 7
+        },
+        {
+          "hour": "23:00",
+          "percent": 6
+        },
+        {
+          "hour": "00:00",
+          "percent": 6
+        },
+        {
+          "hour": "01:00",
+          "percent": 4
+        },
+        {
+          "hour": "02:00",
+          "percent": 2
+        }
+      ]
+    },
+    {
+      "Saturday": [
+        {
+          "hour": "04:00",
+          "percent": 2
+        },
+        {
+          "hour": "05:00",
+          "percent": 1
+        },
+        {
+          "hour": "06:00",
+          "percent": 3
+        },
+        {
+          "hour": "07:00",
+          "percent": 11
+        },
+        {
+          "hour": "08:00",
+          "percent": 29
+        },
+        {
+          "hour": "09:00",
+          "percent": 52
+        },
+        {
+          "hour": "10:00",
+          "percent": 74
+        },
+        {
+          "hour": "11:00",
+          "percent": 86
+        },
+        {
+          "hour": "12:00",
+          "percent": 88
+        },
+        {
+          "hour": "13:00",
+          "percent": 83
+        },
+        {
+          "hour": "14:00",
+          "percent": 77
+        },
+        {
+          "hour": "15:00",
+          "percent": 71
+        },
+        {
+          "hour": "16:00",
+          "percent": 63
+        },
+        {
+          "hour": "17:00",
+          "percent": 51
+        },
+        {
+          "hour": "18:00",
+          "percent": 39
+        },
+        {
+          "hour": "19:00",
+          "percent": 27
+        },
+        {
+          "hour": "20:00",
+          "percent": 19
+        },
+        {
+          "hour": "21:00",
+          "percent": 15
+        },
+        {
+          "hour": "22:00",
+          "percent": 13
+        },
+        {
+          "hour": "23:00",
+          "percent": 12
+        },
+        {
+          "hour": "00:00",
+          "percent": 11
+        },
+        {
+          "hour": "01:00",
+          "percent": 10
+        },
+        {
+          "hour": "02:00",
+          "percent": 8
+        },
+        {
+          "hour": "03:00",
+          "percent": 5
+        }
+      ]
+    }
+  ],
+  "relatedSearches": [
+    "parque lage preço",
+    "parque lage ingresso",
+    "parque lage história",
+    "parque lage agendamento",
+    "sympla parque lage",
+    "parque lage restaurante",
+    "parque lage horário",
+    "parque lage fotos"
+  ],
+  "relateds": [
+    {
+      "mainName": "Parque Nacional da Tijuca",
+      "url": null
+    },
+    {
+      "mainName": "Museu do Amanhã",
+      "url": null
+    },
+    {
+      "mainName": "Escadaria Selarón",
+      "url": null
+    },
+    {
+      "mainName": "Forte de Copacabana",
+      "url": null
+    },
+    {
+      "mainName": "Cristo Redentor",
+      "url": null
+    },
+    {
+      "mainName": "Lagoa Rodrigo de Freitas",
+      "url": null
+    },
+    {
+      "mainName": "Corcovado",
+      "url": null
+    },
+    {
+      "mainName": "Parque das Ruínas",
+      "url": null
+    },
+    {
+      "mainName": "Mirante Dona Marta",
+      "url": null
+    },
+    {
+      "mainName": "Vista Chinesa",
+      "url": null
+    },
+    {
+      "mainName": "Quinta da Boa Vista",
+      "url": null
+    },
+    {
+      "mainName": "Bondinho Pão de Açúcar",
+      "url": null
+    },
+    {
+      "mainName": "Confeitaria Colombo",
+      "url": null
+    },
+    {
+      "mainName": "AquaRio",
+      "url": null
+    },
+    {
+      "mainName": "Praia do Arpoador",
+      "url": null
+    },
+    {
+      "mainName": "Santa Teresa",
+      "url": null
+    },
+    {
+      "mainName": "Aqueduto da Carioca",
+      "url": null
+    },
+    {
+      "mainName": "Pão de Açucar",
+      "url": null
+    },
+    {
+      "mainName": "Museu da República",
+      "url": null
+    },
+    {
+      "mainName": "Museu de Arte Moderna do Rio de Janeiro",
+      "url": null
+    },
+    {
+      "mainName": "Theatro Municipal do Rio de Janeiro",
+      "url": null
+    },
+    {
+      "mainName": "Museu Nacional de Belas Artes",
+      "url": null
+    },
+    {
+      "mainName": "Maracanã",
+      "url": null
+    },
+    {
+      "mainName": "Real Gabinete Português de Leitura",
+      "url": null
+    }
+  ]
+}

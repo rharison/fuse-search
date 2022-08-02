@@ -1,0 +1,619 @@
+{
+  "mainName": "Vinhos Larentis",
+  "slug": "vinhos-larentis",
+  "category": "Vinícola",
+  "locationInformation": {
+    "latitude": "-29.1761182",
+    "longitude": "-51.5595365"
+  },
+  "basicInformation": [
+    {
+      "label": "endereço",
+      "tooltip": "Copiar endereço",
+      "text": "Via Trento - Vale dos Vinhedos, Bento Gonçalves - RS, 95711-000",
+      "icon": "https://www.gstatic.com/images/icons/material/system_gm/1x/place_gm_blue_24dp.png"
+    },
+    {
+      "label": "agendamento",
+      "tooltip": "Abrir link de agendamento",
+      "text": "whatsapp.com",
+      "icon": "https://fonts.gstatic.com/s/i/googlematerialicons/event/v14/gm_blue-24dp/1x/gm_event_gm_blue_24dp.png"
+    },
+    {
+      "label": "website",
+      "tooltip": "Abrir website",
+      "text": "larentis.com.br",
+      "icon": "https://www.gstatic.com/images/icons/material/system_gm/1x/public_gm_blue_24dp.png"
+    },
+    {
+      "label": "telefone",
+      "tooltip": "Copiar número de telefone",
+      "text": "(54) 3453-6469",
+      "icon": "https://www.gstatic.com/images/icons/material/system_gm/1x/phone_gm_blue_24dp.png"
+    },
+    {
+      "label": "Code",
+      "tooltip": "Copiar Plus Code",
+      "text": "RCFR+H5 Bento Gonçalves, Rio Grande do Sul",
+      "icon": "https://maps.gstatic.com/mapfiles/maps_lite/images/2x/ic_plus_code.png"
+    }
+  ],
+  "ratingInformation": {
+    "basicRatingInformation": {
+      "averageGrade": 4.8,
+      "totalOfEvaluations": 321
+    },
+    "ratingsByGrade": [
+      {
+        "grade": 5,
+        "totalRatings": 276
+      },
+      {
+        "grade": 4,
+        "totalRatings": 29
+      },
+      {
+        "grade": 3,
+        "totalRatings": 6
+      },
+      {
+        "grade": 2,
+        "totalRatings": 3
+      },
+      {
+        "grade": 1,
+        "totalRatings": 7
+      }
+    ]
+  },
+  "ratingTags": [
+    {
+      "tag": "piquenique",
+      "count": 40,
+      "tooltip": "piquenique, mencionado em 40 avaliações"
+    },
+    {
+      "tag": "experiência",
+      "count": 36,
+      "tooltip": "experiência, mencionado em 36 avaliações"
+    },
+    {
+      "tag": "espumante",
+      "count": 24,
+      "tooltip": "espumante, mencionado em 24 avaliações"
+    },
+    {
+      "tag": "familiar",
+      "count": 22,
+      "tooltip": "familiar, mencionado em 22 avaliações"
+    },
+    {
+      "tag": "videiras",
+      "count": 11,
+      "tooltip": "videiras, mencionado em 11 avaliações"
+    },
+    {
+      "tag": "frios",
+      "count": 9,
+      "tooltip": "frios, mencionado em 9 avaliações"
+    },
+    {
+      "tag": "rótulos",
+      "count": 9,
+      "tooltip": "rótulos, mencionado em 9 avaliações"
+    },
+    {
+      "tag": "simpatia",
+      "count": 7,
+      "tooltip": "simpatia, mencionado em 7 avaliações"
+    },
+    {
+      "tag": "paisagem",
+      "count": 5,
+      "tooltip": "paisagem, mencionado em 5 avaliações"
+    },
+    {
+      "tag": "custo",
+      "count": 5,
+      "tooltip": "custo, mencionado em 5 avaliações"
+    }
+  ],
+  "featuredPhotos": [
+    "https://lh5.googleusercontent.com/p/AF1QipO4qM96D3kzqtVyuc-ShZPXnEtMRNp7ik2Uv16C=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPVCgFkm8kLamZaYnomIm2UHm_wdnHoMoNvW6rZ=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipM3AEd53M57fIm6mC3h9lDuon0CUzUzBhWMQ7Gu=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOXXcfGpRXdPg-28QjibqZTz1jj4UI9Ct7Vt8Iv=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNe9NHRcoHG5qCff5YSt3SsT_9IjIQmZlyRHZ37=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNAAuKfic0kltKhO17PU32zpfCvJHxw5KfKNNVH=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPkaqic7N6T1hdrQc396HKSDzdrdUvTwkktvYrS=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipM8FlVPr3M8auIEzdtSnp-SB3APeWdqocXKyBfc=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNIfpdOnlUVRcKy5bOyasU6bDpSXGvlV7RV9ZH9=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMp1GGSr_4dM4YzUHD8V-8xBbGZoyg8vu5mU3HO=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOueluh582mEVKL-Oh8kAqEcX_gMDtvD1orUfJ5=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPs4W2tUwuWfAlrF1VU6UKcFDBA0lA9IKWt6rAG=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPSi_SziLGCliNQt8n-go6BZr0re3evc4CIItjU=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipP_VTrLbXV2Vdqg1DH5mLXaKyF9pLUXZI3wLTsy=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNxssD26CXxq_EAONz9hJ82MUN-v9g9HMBEz_yH=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPPeHbY5IPtliOD2rwxHVXey54s4pmuNIMrk5Ao=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOJvFUZbinjffrcC2HJlX5mUPUHqwHQnta1Xvgw=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNZye4VcXOdGamNsZmvH7s4hPYXTHclSh-WbBam=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOMhTC2V3XK59mSD6w5VH9eUz7ZdvHFak4M5Med=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPn5_JsJPYNmLp_3jZnZpu81OwkGjFuoK6723vN=w1024-h576-k-no"
+  ],
+  "topComments": [
+    {
+      "author": "Victor Angelo",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucpfTLPqBjZhpPR1mSw4F2loxhrjP4wmCmn9_xlyJmk=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "O piquenique ao ar livre, no meio dos parreirais, foi de longe a melhor experiência que tivemos no vale dos vinhedos. Tudo perfeito, a estrutura, o espaço verde e o atendimento. Compramos antecipadamente pelo site wine locals e, ao chegar na vinícola, tivemos uma degustação de três rótulos a nossa escolha. Depois, escolhida a bebida, eles nos entregam uma cesta super fofa e recheada de comida, além de uma garrafa de água e um balde de gelo. O tempo de duração é de aproximadamente 2:30h e super indicamos. Parada obrigatória!",
+      "gradeComment": 5
+    },
+    {
+      "author": "Brenda Barcelos",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucoMLD3P8trDMZ1at8FEF1WfAmsDBwaOSOX8Euwb-Hs=w36-h36-p-c0x00000000-rp-mo-ba5-br100",
+      "comment": "Vinícola maravilhosa repleto de vinhos excelentes. Fomos atrás da visita porque gostamos muito do cabernet sauvignon num restaurante. Optamos por fazer o piquenique, fizemos a degustação de 4 rótulos e escolhemos um, o Marselan maravilhoso, para fazer o piquenique. Tem um espaço muito gostoso perto das videiras para fazer o piquenique. Fomos muito bem atendidos!",
+      "gradeComment": 5
+    },
+    {
+      "author": "Tarcisio Carvalho",
+      "photoAuthor": "https://lh3.googleusercontent.com/a/AItbvmlg2UehfkvcAYM8m5Wqq7Q1R47ste3qP2J5wKXH=w36-h36-p-c0x00000000-rp-mo-br100",
+      "comment": "Adoramos a experiência de fazer picnic sob as parreiras! Fizemos a reserva com antecedência no site. Chegando lá, fomos muito bem recebidos Recebemos uma cesta com alimentos, um vinho que escolhemos na degustação,  uma toalha de mesa e almofadas. Escolhemos um lugar e ficamos lá comendo e descansando por 2 hrs. Nesse ínterim, quisemos repetir 2 itens da cesta e eles nos repuseram gentilmente!",
+      "gradeComment": 5
+    },
+    {
+      "author": "David Passos",
+      "photoAuthor": "https://lh3.googleusercontent.com/a/AItbvmnifxjaIIvFC4uWjiI18hyv8pv1DbSMXGz_cetC=w36-h36-p-c0x00000000-rp-mo-ba5-br100",
+      "comment": "Visita fantástica!!! Foi a primeira vinícola que fomos, e a cabamos indo porque as maiores estavam lotadas (a miolo que é por ordem de chegada estava lotada desde as 10h da manhã). A princípio estávamos atrás de uma vinícola com tour guiado e degustação, mas nessa só tem degustação. Acabamos indo por conta da lotação, e pelo visual bem bonito que ela tem, mesmo no inverno, os parreirais secos fornecem belas fotos.  Mas agora falando da degustação! Na degustação simples (35 reais), são servidos 5 rótulos, podendo optar entre 7 vinhos tintos, 1 branco, 1 Rosé, e 4 espumantes. Os vinhos são muuuiiiitoooo bem servidos, e a explicação da degustação é exclusiva para você, não é feita em grupos como nas vinícolas maiores, o que torna a experiência muito melhor. Eu particularmente não gosto de espumante, mas os de lá (especialmente o naturale) são fantásticos, até levei um pra casa depois da degustação.  Também tem a degustação Premium, que incluem mais 3 vinhos da casa (os grand reservas que não estão na degustação simples), além de uma tábua de queijos e frios para harmonização (130 reais).  Aproveitamos para almoçar lá também, e comemos uma pizza de carne cozida (meio dura, mas muito saborosa). A pizza é individual, mas deu pra segurar a fome minha e da esposa.  Fomos atendidos pela Aline, que sabia muito e fez da nossa visita ainda melhor!",
+      "gradeComment": 5
+    },
+    {
+      "author": "Leonardo Almeida",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucqHwp2iG1YBkvjaXpZ_PXAff08EZl9Urno9lU2yhFY=w36-h36-p-c0x00000000-rp-mo-ba3-br100",
+      "comment": "O lugar é lindo. Já o atendimento deixa muito a desejar. Ao degustar os vinhos, sequer ofereceram um copo de água. Quando pedimos uma tábua de frios com uma garrafa de vinho, reclamaram de levar a tábua até onde estávamos sentados e ainda nos cobraram um preço absurdo (muito mais alto que qualquer estabelecimento) por uma garrafinha de água (onde em qualquer lugar oferecem gratuitamente).",
+      "gradeComment": 2
+    },
+    {
+      "author": "Felipe Chapchap",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucrxVntvpuk9KjJKfUvpTW-CS1mprb1IqyV9dunlbA=w36-h36-p-c0x00000000-rp-mo-ba6-br100",
+      "comment": "Vinícola pequena mas vale a pena conhecer. Os vinhos são excelentes, fora que o ambiente também, você pode caminhar entre as vinhas.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Nathalya gonçalves",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucqiqRjwiQT7Alu4GgJPPJibF0CzhTvzfl472FtU=w36-h36-p-c0x00000000-rp-mo-br100",
+      "comment": "Lugar simplesmente maravilhoso e atendimento incrível! O piquenique no meio do vinhedo é uma experiência única! Já estamos querendo voltar",
+      "gradeComment": 5
+    },
+    {
+      "author": "Victor Mansilla",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucpBngiRdmjdHCxk8kB3D2tczIQM36owFLYdaFpKSg=w36-h36-p-c0x00000000-rp-mo-ba3-br100",
+      "comment": "Ontem tivemos a oportunidade de conhecer Larentis e a experiência foi excelente, fizemos uma degustação muito personalizada com Suelen, uma excelente profissional, muito gentil e educada. O lugar é lindo, para ir e tirar muitas e muitas fotos! Voltaremos na próxima vez com mais tempo! Obrigado por tudo!",
+      "gradeComment": 5
+    },
+    {
+      "author": "Jessyca Montenegro",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucpGVCBspyYjfQNEoizca-519LxNOdlKN-6C6ii5iw=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "Lugar lindo lindo lindo, acabei nao ficando pra degustaçao, mas compramos uma caixa de vinhos branco!",
+      "gradeComment": 5
+    },
+    {
+      "author": "Nely Silveira",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucrqb9EZPBHabp657dKRuywTmr1_3gOdwZaFT94ZkyY=w36-h36-p-c0x00000000-rp-mo-ba5-br100",
+      "comment": "Os espaços para descanso e picnic no meio das parreiras são maravilhosos, mas acho que seria legal ter opções de café ou bolos no cardápio fora do horário de picnic. Não gostei que não me deixaram pegar almofadas para aproveitar o espaço dos pallets na vincula só pq não era horário de picnic. Os preços são bem elevados em relação a outros lugares",
+      "gradeComment": 3
+    },
+    {
+      "author": "Adolfo Possamai",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucp-oetc_1mSVR4godkB_DF9_MRZqx1KJXnMjQ2GuQ=w36-h36-p-c0x00000000-rp-mo-ba3-br100",
+      "comment": "Minha quarta visita na Larentis. Conheci há 18 anos. A última tinha sido há 3 anos, ainda antes da reforma. A experiência, até então, foi sempre maravilhosa. Fiquei muito curioso para ver como havia ficado após a reforma. Gostaria de fazer o piquenique e aproveitar o espaço nos vinhedos, mas quando liguei, na véspera, já não havia mais vagas. Tudo bem quanto a isso, afinal as vagas são limitadas mesmo. Ainda assim, resolvi conhecer o espaço que ficou muito bonito, moderno, mas perdeu calor humano. Compramos 2 espumantes enquanto descansávamos nos vinhedos, em bancos de pallets. Como vi que algumas pessoas que conseguiram comprar o piquenique tinham pequenas almofadas, solicitei à garçonete que nos empretasse 2, pois os bancos são bem desconfortáveis para permanecer por mais de 1 hora. Fiquei muito desapontado com a negativa e mais ainda quando a atendente do caixa, sem nos olhar nos olhos, apresentou a justificativa de que o empréstimo da almofada é exclusivo para quem compra o pacote do piquenique. Tentei argumentar mas ela nem sequer me dirigiu mais a palavra. Tremenda mendigaria. É muita falta de carinho com o cliente que está consumindo, gastando. Acredito que estejam se adaptando ao fluxo maior de pessoas decorrente do aumento da área de visitação. Sugiro fortemente que revisem algumas coisas. Outros espaços semelhantes do Vale dos Vinhedos disponibilizam almofadas, toalhas de mesa e rede para quem consome. Vale a pena tratar bem o cliente. Bem tratado, o cliente volta, como voltei várias vezes levando diferentes pessoas comigo e quero voltar novamente. Mais empatia, flexibilidade e alegria no rosto.",
+      "gradeComment": 2
+    },
+    {
+      "author": "Tales M.S",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucpxEtCXofuL0tkyyDqzNH2f5iwpGOvalIyMdJtV=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "Lugar com um visual muito bonito, degustação e venda de vinhos . Se gostar de vinhos,vale a pena conferir.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Adriano Duncan",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucqMMEEEDt7nsDUgbbDmi_jt5Z17SIL_uWfCcx2xtQ=w36-h36-p-c0x00000000-rp-mo-ba5-br100",
+      "comment": "Falar o quê desta maravilhosa vinícola familiar. Segunda vez que participamos de sua Vindima. A primeira em 2019. O crescimento como um todo da Larentis é notado desde a evolução dos seus vinhos como o excelente espaço montado para receber o cliente. Indico muito a marca. Sempre bem atendido. Voltaremos.",
+      "gradeComment": 5
+    },
+    {
+      "author": "L A D",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucrVWS7qsIIb4D9elUr6bfdq1VYP3fAGybB_HKbQrKM=w36-h36-p-c0x00000000-rp-mo-ba3-br100",
+      "comment": "Vinícola bonita, charmosa e familiar. Fizemos a degustação de 5 rótulos, ótimos vinhos! Andamos pelos parreirais, local muito bonito pra passar um período do dia apreciando a paisagem.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Paulo Lataguia Junior",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucpr3LE3p5A1RfNhGeqPhmEXDdvKQ1DTjm1JM1g4ADQ=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "A degustação é bem bacana, com direito a 5 rótulos que você escolhe livremente. Fomos atendidos por uma colaboradora muito atenciosa, que tirou várias dúvidas nossas e que, com sua simpatia, contribuiu para uma ótima experiência. A vista do campo de videiras é linda.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Rodrigo Del Giudice",
+      "photoAuthor": "https://lh3.googleusercontent.com/a/AItbvmlAn2UNeRSavDxbKlQmgNX0FQMKdl9msnX_wUDd=w36-h36-p-c0x00000000-rp-mo-ba3-br100",
+      "comment": "Atendimento excelente e uma vista maravilhosa das parreiras. Ótimo lugar para tomar um vinho e fazer um piquenique. Na degustação você pode escolher os vinhos que quer experimentar. Super recomendo.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Jhonald Hernández",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucqzFEd7Wh1VVI6jeCuo74SeJx5HWORkwFvuL9-KvKw=w36-h36-p-c0x00000000-rp-mo-ba5-br100",
+      "comment": "Que experiência inesquecível. Fomos atendidos pela Amanda e fizemos degustação com ela. A Larentis vai ficar certamente nas nossas memórias. Com certeza voltaremos mais vezes e já compramos com envio para garantir. Vinhos excelentes. Parabéns.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Pedro Bona",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucp19DIjhQT2SvEmAnx7Casi1oRn_vCajI5GYpgVqQ=w36-h36-p-c0x00000000-rp-mo-ba2-br100",
+      "comment": "Experiência maravilhosa, com certeza a melhor recepção, atendimento, preços, espaço, local PET friendly, tudo perfeito",
+      "gradeComment": 5
+    },
+    {
+      "author": "Walter Longhi",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucowmvlLBNO_lS82cnEg4w592A5XRBlm6CoMvyKjSg=w36-h36-p-c0x00000000-rp-mo-br100",
+      "comment": "Estivemos aí em Outubro 2021, gostamos bastante dos espumantes e do Merlot que conhecemos num restaurante, mais recentemente fizemos compra on line, chegou td em ordem aqui em Campinas, certamente compraremos novamente, bom trabalho!",
+      "gradeComment": 5
+    },
+    {
+      "author": "Márcio",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucqTFRDpIbCIPF-4BVznylei5W83_GaO5g2WPrhkbQ=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "Um dos melhores locais que conhecemos no Vale dos Vinhedos. Pode-se realizar a degustação (R$ 35), o piquenique nos parrerais (agendado previamente) ou simplesmente comprar uma garrafa de vinho ou espumante e tomá-la junto aos vinhedos. Equipe muito simpática e atenciosa!",
+      "gradeComment": 5
+    }
+  ],
+  "peakHours": [
+    {
+      "Sunday": [
+        {
+          "hour": "10:00",
+          "percent": 18
+        },
+        {
+          "hour": "11:00",
+          "percent": 27
+        },
+        {
+          "hour": "12:00",
+          "percent": 34
+        },
+        {
+          "hour": "13:00",
+          "percent": 40
+        },
+        {
+          "hour": "14:00",
+          "percent": 47
+        },
+        {
+          "hour": "15:00",
+          "percent": 47
+        },
+        {
+          "hour": "16:00",
+          "percent": 34
+        }
+      ]
+    },
+    {
+      "Monday": [
+        {
+          "hour": "09:00",
+          "percent": 16
+        },
+        {
+          "hour": "10:00",
+          "percent": 19
+        },
+        {
+          "hour": "11:00",
+          "percent": 24
+        },
+        {
+          "hour": "12:00",
+          "percent": 29
+        },
+        {
+          "hour": "13:00",
+          "percent": 33
+        },
+        {
+          "hour": "14:00",
+          "percent": 33
+        },
+        {
+          "hour": "15:00",
+          "percent": 29
+        },
+        {
+          "hour": "16:00",
+          "percent": 20
+        }
+      ]
+    },
+    {
+      "Tuesday": [
+        {
+          "hour": "09:00",
+          "percent": 13
+        },
+        {
+          "hour": "10:00",
+          "percent": 14
+        },
+        {
+          "hour": "11:00",
+          "percent": 15
+        },
+        {
+          "hour": "12:00",
+          "percent": 17
+        },
+        {
+          "hour": "13:00",
+          "percent": 21
+        },
+        {
+          "hour": "14:00",
+          "percent": 25
+        },
+        {
+          "hour": "15:00",
+          "percent": 26
+        },
+        {
+          "hour": "16:00",
+          "percent": 22
+        }
+      ]
+    },
+    {
+      "Wednesday": [
+        {
+          "hour": "09:00",
+          "percent": 16
+        },
+        {
+          "hour": "10:00",
+          "percent": 18
+        },
+        {
+          "hour": "11:00",
+          "percent": 18
+        },
+        {
+          "hour": "12:00",
+          "percent": 16
+        },
+        {
+          "hour": "13:00",
+          "percent": 16
+        },
+        {
+          "hour": "14:00",
+          "percent": 21
+        },
+        {
+          "hour": "15:00",
+          "percent": 26
+        },
+        {
+          "hour": "16:00",
+          "percent": 22
+        }
+      ]
+    },
+    {
+      "Thursday": [
+        {
+          "hour": "09:00",
+          "percent": 18
+        },
+        {
+          "hour": "10:00",
+          "percent": 24
+        },
+        {
+          "hour": "11:00",
+          "percent": 28
+        },
+        {
+          "hour": "12:00",
+          "percent": 32
+        },
+        {
+          "hour": "13:00",
+          "percent": 38
+        },
+        {
+          "hour": "14:00",
+          "percent": 46
+        },
+        {
+          "hour": "15:00",
+          "percent": 48
+        },
+        {
+          "hour": "16:00",
+          "percent": 38
+        }
+      ]
+    },
+    {
+      "Friday": [
+        {
+          "hour": "09:00",
+          "percent": 19
+        },
+        {
+          "hour": "10:00",
+          "percent": 25
+        },
+        {
+          "hour": "11:00",
+          "percent": 28
+        },
+        {
+          "hour": "12:00",
+          "percent": 27
+        },
+        {
+          "hour": "13:00",
+          "percent": 28
+        },
+        {
+          "hour": "14:00",
+          "percent": 35
+        },
+        {
+          "hour": "15:00",
+          "percent": 44
+        },
+        {
+          "hour": "16:00",
+          "percent": 38
+        }
+      ]
+    },
+    {
+      "Saturday": [
+        {
+          "hour": "10:00",
+          "percent": 35
+        },
+        {
+          "hour": "11:00",
+          "percent": 54
+        },
+        {
+          "hour": "12:00",
+          "percent": 65
+        },
+        {
+          "hour": "13:00",
+          "percent": 69
+        },
+        {
+          "hour": "14:00",
+          "percent": 79
+        },
+        {
+          "hour": "15:00",
+          "percent": 100
+        },
+        {
+          "hour": "16:00",
+          "percent": 91
+        }
+      ]
+    }
+  ],
+  "relatedSearches": [
+    "vinhos larentis onde comprar",
+    "degustacao premium larentis",
+    "lavoro larentis",
+    "piquenique larentis",
+    "sobrenome larentis",
+    "vinícola almaúnica",
+    "enoturismo",
+    "angheben vinhos finos"
+  ],
+  "relateds": [
+    {
+      "mainName": "Vinícola Torcello",
+      "url": null
+    },
+    {
+      "mainName": "PIZZATO Vinhas e Vinhos (Vinícola Pizzato Ltda)",
+      "url": null
+    },
+    {
+      "mainName": "Vinícola Dom Cândido",
+      "url": null
+    },
+    {
+      "mainName": "Dal Pizzol Vinhos Únicos",
+      "url": null
+    },
+    {
+      "mainName": "Vinícola Peculiare",
+      "url": null
+    },
+    {
+      "mainName": "Vinícola Cainelli",
+      "url": null
+    },
+    {
+      "mainName": "Vinícola Marco Luigi",
+      "url": null
+    },
+    {
+      "mainName": "ANGHEBEN VINHOS FINOS",
+      "url": null
+    },
+    {
+      "mainName": "Cristofoli - Vinhos de Família",
+      "url": null
+    },
+    {
+      "mainName": "Adega Cavalleri",
+      "url": null
+    },
+    {
+      "mainName": "Vinícola Cave de Pedra",
+      "url": null
+    },
+    {
+      "mainName": "Vinícola Almaúnica",
+      "url": null
+    },
+    {
+      "mainName": "Lidio Carraro Vinícola Boutique",
+      "url": null
+    },
+    {
+      "mainName": "Dom Eliziario",
+      "url": null
+    },
+    {
+      "mainName": "Vinícola e Cantina Strapazzon",
+      "url": null
+    },
+    {
+      "mainName": "Vinícola Michele Carraro",
+      "url": null
+    },
+    {
+      "mainName": "Vinícola Lovara",
+      "url": null
+    },
+    {
+      "mainName": "Vinícola Calza",
+      "url": null
+    },
+    {
+      "mainName": "Cave do Sol",
+      "url": null
+    },
+    {
+      "mainName": "Vinícola Miolo",
+      "url": null
+    },
+    {
+      "mainName": "Miolo",
+      "url": null
+    },
+    {
+      "mainName": "Família Geisse",
+      "url": null
+    },
+    {
+      "mainName": "Parque Da Ovelha",
+      "url": null
+    },
+    {
+      "mainName": "Vistamontes Vinícola",
+      "url": null
+    }
+  ]
+}

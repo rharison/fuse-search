@@ -1,0 +1,891 @@
+{
+  "mainName": "Praça do Conjunto Alvorada",
+  "slug": "praca-do-conjunto-alvorada",
+  "category": "Parque municipal",
+  "locationInformation": {
+    "latitude": "-3.7905781",
+    "longitude": "-38.4758444"
+  },
+  "basicInformation": [
+    {
+      "label": "endereço",
+      "tooltip": "Copiar endereço",
+      "text": "Av. Eng. Leal Lima Verde, 221 - Lagoa Sapiranga (Coité), Fortaleza - CE, 60833-175",
+      "icon": "https://www.gstatic.com/images/icons/material/system_gm/1x/place_gm_blue_24dp.png"
+    },
+    {
+      "label": "Code",
+      "tooltip": "Copiar Plus Code",
+      "text": "6G5F+QM Lagoa Sapiranga (Coité), Fortaleza - CE",
+      "icon": "https://maps.gstatic.com/mapfiles/maps_lite/images/2x/ic_plus_code.png"
+    },
+    {
+      "label": "merchant",
+      "text": "Reivindicar esta empresa",
+      "icon": "https://www.gstatic.com/images/icons/material/system_gm/1x/verified_user_gm_blue_24dp.png"
+    }
+  ],
+  "ratingInformation": {
+    "basicRatingInformation": {
+      "averageGrade": 4.2,
+      "totalOfEvaluations": 330
+    },
+    "ratingsByGrade": [
+      {
+        "grade": 5,
+        "totalRatings": 184
+      },
+      {
+        "grade": 4,
+        "totalRatings": 64
+      },
+      {
+        "grade": 3,
+        "totalRatings": 50
+      },
+      {
+        "grade": 2,
+        "totalRatings": 16
+      },
+      {
+        "grade": 1,
+        "totalRatings": 16
+      }
+    ]
+  },
+  "ratingTags": [
+    {
+      "tag": "lazer",
+      "count": 7,
+      "tooltip": "lazer, mencionado em 7 avaliações"
+    },
+    {
+      "tag": "familiar",
+      "count": 5,
+      "tooltip": "familiar, mencionado em 5 avaliações"
+    },
+    {
+      "tag": "brinquedos",
+      "count": 4,
+      "tooltip": "brinquedos, mencionado em 4 avaliações"
+    },
+    {
+      "tag": "comunidade",
+      "count": 3,
+      "tooltip": "comunidade, mencionado em 3 avaliações"
+    },
+    {
+      "tag": "basquete",
+      "count": 3,
+      "tooltip": "basquete, mencionado em 3 avaliações"
+    },
+    {
+      "tag": "área",
+      "count": 3,
+      "tooltip": "área, mencionado em 3 avaliações"
+    },
+    {
+      "tag": "caminhar",
+      "count": 3,
+      "tooltip": "caminhar, mencionado em 3 avaliações"
+    }
+  ],
+  "featuredPhotos": [
+    "https://lh5.googleusercontent.com/p/AF1QipMFpJIAmv7hzlOnLi9hiFAK_LH5xt00laW3_M0j=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMZ5D2XHDB9XeY6U3u9AjqC4IBC60Dni-8o6TNX=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOi4atpXR7hF4O4kDo8M9QQLrPYchjlLmg0KhsT=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOIDau9tzcNL4wp6ot9IaELCR0LcgkqKlrQnxjJ=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPF2NIxXp-EteQiGhqL2BWAqKWv2TtSXJFmR0T5=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOVmCLD1UFvHB1ILtpzReGhpS3QN_ANLDakYkXR=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNtJ9S3y8pMEzpXphB9mRS_YEa7IkVcDSEKir2e=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNqZbyfisuuKpTc7-QvRLzn1Pf5hm08VqQhbAJL=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOutsvR9GNWIaxxKbq_fHgl-UTYM_btISh7m5tF=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipM2Ywf5s5OplG3V8tZnQjykD7sop3fdC6J8vS_l=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMi45mYeMRkp2ofVYlbXoaESIHaTriQ1aYe8WVM=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNGhOMxOXYKucvtA_G8PLIh7PwGGn8ABdilLO96=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNqZ6eU4aO8FwFB38WbZu-t9OFijy-f7NVAaV80=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipM0zsVchcNtroxW-_-blGlWKCBR7ZyebRL-SIhl=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOby3hOM_-PAeoNnbT0rhJPU3hn44zP2uZJ8tOy=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPZoFJeRYugbqMWDK6MXQW6TQcu9zEK5KXJbe15=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPyEuRLy0WNICW4x5sDVOktCIxf2fWjE-jgh69H=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMKt3DtnFxOy5mLzcoKsrXreBLosy-ftpgcg6ZP=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOmVglKnNkCX1YVenaSSNG9V8bm-WxTo8kPo6n-=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPpldpMkfi78eUYO5lAJW8fPPq2SUFeoc5ZaISl=w1024-h576-k-no"
+  ],
+  "topComments": [
+    {
+      "author": "Erivaldo Teixeira",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucpPVNKAG5ypnLKc6PzdgJcllyAKyhux0-dNZjQ5GVE=w36-h36-p-c0x00000000-rp-mo-ba6-br100",
+      "comment": "Requalificada e ocupada pela população da Sapiranga. Sempre com eventos organizados pelo Wander Oliveira e amigos do Conj Alvorada.",
+      "gradeComment": 4
+    },
+    {
+      "author": "Valeria Araujo",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucrk1SxuNOMldC6DOJV-PIDq744Z_xDiMy2mmKZ3Lz0=w36-h36-p-c0x00000000-rp-mo-br100",
+      "comment": "Amei,as quadrilhas, principalmente a paixão nordestina,muito linda A praça então nem se fala,show de bola!",
+      "gradeComment": 5
+    },
+    {
+      "author": "Lise Ximenes",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucryz-aQJvh88ZuAj1sbOHznuNXa981NvnfQOlYn=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "Local um pouco sujo, cheio de lixo nas calçadas. Mas muito bem servido de comércio.",
+      "gradeComment": 3
+    },
+    {
+      "author": "Rodolfo Rodrigues",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucqRLRrlsl0NzVfCXjsC3HNefxwbOHVU-LeE3HcEVIs=w36-h36-p-c0x00000000-rp-mo-ba5-br100",
+      "comment": "Show só de estar com meu filhão vida do papai",
+      "gradeComment": 5
+    },
+    {
+      "author": "Davi Messias",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucrLk1Wd3pXCSTRG0Q1tGuEINIESNSuRtP7qmYqAoA=w36-h36-p-c0x00000000-rp-mo-ba3-br100",
+      "comment": "A gostei de mais tem pessoas e uma praça bonita bastante iluminada e acessível para todos. ❤️👏😸",
+      "gradeComment": 5
+    },
+    {
+      "author": "Paulo César Lima Cavalcante",
+      "photoAuthor": "https://lh3.googleusercontent.com/a/AItbvmm0-QHLbENZvbXRbcWChFEniHxkpLMNPJaAOvUA=w36-h36-p-c0x00000000-rp-mo-br100",
+      "comment": "Amei o atendimento no auto atendimento",
+      "gradeComment": 5
+    },
+    {
+      "author": "Raissa Barros",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucqQsBuj3b_gXjwqlJkPqk04bEF0LPoPy56AvM69pg=w36-h36-p-c0x00000000-rp-mo-ba3-br100",
+      "comment": "Essa praça é bastante acessível",
+      "gradeComment": 5
+    },
+    {
+      "author": "João Roberto Leitão",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucpH3AAaiCpXhyWWHF7gM_DeRC7ViereVkjg-SRzlrE=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "Muito bom, pessoas divertidas e brinquedos pra crianças nos fins de semana, local familiar. Tem tbm uma banquinha q funciona  até as e da madrugada. Dica,  se a porta estiver fechada sem cadeado pode chamar, sr Raimundo",
+      "gradeComment": 5
+    },
+    {
+      "author": "Daniem Santos",
+      "photoAuthor": "https://lh3.googleusercontent.com/a/AItbvmmS1qEGjMuYDDwqViK-nq3NVi2zTB4tfFY492-3=w36-h36-p-c0x00000000-rp-mo-br100",
+      "comment": "Precisa de um pouco mais atenção em relação aos brinquedos e limpeza.",
+      "gradeComment": 4
+    },
+    {
+      "author": "Leonardo Barros de Santanna",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucoUzY1kPts5p6ydYhtAsVw6PfjNezS8sZDBMXCtQlc=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "Ótimo local pra jogar basquete Tem uma turma que jogo todas os sábados",
+      "gradeComment": 5
+    }
+  ],
+  "peakHours": [
+    {
+      "Sunday": [
+        {
+          "hour": "04:00",
+          "percent": 1
+        },
+        {
+          "hour": "05:00",
+          "percent": 1
+        },
+        {
+          "hour": "06:00",
+          "percent": 1
+        },
+        {
+          "hour": "08:00",
+          "percent": 10
+        },
+        {
+          "hour": "09:00",
+          "percent": 24
+        },
+        {
+          "hour": "10:00",
+          "percent": 36
+        },
+        {
+          "hour": "11:00",
+          "percent": 39
+        },
+        {
+          "hour": "12:00",
+          "percent": 29
+        },
+        {
+          "hour": "13:00",
+          "percent": 15
+        },
+        {
+          "hour": "14:00",
+          "percent": 4
+        },
+        {
+          "hour": "16:00",
+          "percent": 5
+        },
+        {
+          "hour": "17:00",
+          "percent": 20
+        },
+        {
+          "hour": "18:00",
+          "percent": 45
+        },
+        {
+          "hour": "19:00",
+          "percent": 70
+        },
+        {
+          "hour": "20:00",
+          "percent": 81
+        },
+        {
+          "hour": "21:00",
+          "percent": 71
+        },
+        {
+          "hour": "22:00",
+          "percent": 46
+        },
+        {
+          "hour": "23:00",
+          "percent": 21
+        },
+        {
+          "hour": "00:00",
+          "percent": 5
+        },
+        {
+          "hour": "01:00",
+          "percent": 1
+        },
+        {
+          "hour": "02:00",
+          "percent": 1
+        },
+        {
+          "hour": "03:00",
+          "percent": 1
+        }
+      ]
+    },
+    {
+      "Monday": [
+        {
+          "hour": "04:00",
+          "percent": 1
+        },
+        {
+          "hour": "05:00",
+          "percent": 1
+        },
+        {
+          "hour": "06:00",
+          "percent": 8
+        },
+        {
+          "hour": "07:00",
+          "percent": 14
+        },
+        {
+          "hour": "08:00",
+          "percent": 18
+        },
+        {
+          "hour": "09:00",
+          "percent": 20
+        },
+        {
+          "hour": "10:00",
+          "percent": 20
+        },
+        {
+          "hour": "11:00",
+          "percent": 17
+        },
+        {
+          "hour": "12:00",
+          "percent": 14
+        },
+        {
+          "hour": "13:00",
+          "percent": 11
+        },
+        {
+          "hour": "14:00",
+          "percent": 13
+        },
+        {
+          "hour": "15:00",
+          "percent": 23
+        },
+        {
+          "hour": "16:00",
+          "percent": 40
+        },
+        {
+          "hour": "17:00",
+          "percent": 59
+        },
+        {
+          "hour": "18:00",
+          "percent": 71
+        },
+        {
+          "hour": "19:00",
+          "percent": 68
+        },
+        {
+          "hour": "20:00",
+          "percent": 50
+        },
+        {
+          "hour": "21:00",
+          "percent": 26
+        },
+        {
+          "hour": "22:00",
+          "percent": 5
+        },
+        {
+          "hour": "23:00",
+          "percent": 1
+        },
+        {
+          "hour": "00:00",
+          "percent": 1
+        },
+        {
+          "hour": "01:00",
+          "percent": 1
+        },
+        {
+          "hour": "02:00",
+          "percent": 1
+        },
+        {
+          "hour": "03:00",
+          "percent": 1
+        }
+      ]
+    },
+    {
+      "Tuesday": [
+        {
+          "hour": "04:00",
+          "percent": 1
+        },
+        {
+          "hour": "05:00",
+          "percent": 1
+        },
+        {
+          "hour": "06:00",
+          "percent": 5
+        },
+        {
+          "hour": "07:00",
+          "percent": 11
+        },
+        {
+          "hour": "08:00",
+          "percent": 16
+        },
+        {
+          "hour": "09:00",
+          "percent": 18
+        },
+        {
+          "hour": "10:00",
+          "percent": 18
+        },
+        {
+          "hour": "11:00",
+          "percent": 16
+        },
+        {
+          "hour": "12:00",
+          "percent": 14
+        },
+        {
+          "hour": "13:00",
+          "percent": 13
+        },
+        {
+          "hour": "14:00",
+          "percent": 16
+        },
+        {
+          "hour": "15:00",
+          "percent": 26
+        },
+        {
+          "hour": "16:00",
+          "percent": 40
+        },
+        {
+          "hour": "17:00",
+          "percent": 55
+        },
+        {
+          "hour": "18:00",
+          "percent": 66
+        },
+        {
+          "hour": "19:00",
+          "percent": 67
+        },
+        {
+          "hour": "20:00",
+          "percent": 56
+        },
+        {
+          "hour": "21:00",
+          "percent": 38
+        },
+        {
+          "hour": "22:00",
+          "percent": 19
+        },
+        {
+          "hour": "23:00",
+          "percent": 3
+        },
+        {
+          "hour": "00:00",
+          "percent": 1
+        },
+        {
+          "hour": "01:00",
+          "percent": 1
+        },
+        {
+          "hour": "02:00",
+          "percent": 1
+        },
+        {
+          "hour": "03:00",
+          "percent": 1
+        }
+      ]
+    },
+    {
+      "Wednesday": [
+        {
+          "hour": "04:00",
+          "percent": 1
+        },
+        {
+          "hour": "05:00",
+          "percent": 1
+        },
+        {
+          "hour": "06:00",
+          "percent": 4
+        },
+        {
+          "hour": "07:00",
+          "percent": 8
+        },
+        {
+          "hour": "08:00",
+          "percent": 9
+        },
+        {
+          "hour": "09:00",
+          "percent": 11
+        },
+        {
+          "hour": "10:00",
+          "percent": 16
+        },
+        {
+          "hour": "11:00",
+          "percent": 23
+        },
+        {
+          "hour": "12:00",
+          "percent": 26
+        },
+        {
+          "hour": "13:00",
+          "percent": 24
+        },
+        {
+          "hour": "14:00",
+          "percent": 23
+        },
+        {
+          "hour": "15:00",
+          "percent": 28
+        },
+        {
+          "hour": "16:00",
+          "percent": 39
+        },
+        {
+          "hour": "17:00",
+          "percent": 52
+        },
+        {
+          "hour": "18:00",
+          "percent": 59
+        },
+        {
+          "hour": "19:00",
+          "percent": 58
+        },
+        {
+          "hour": "20:00",
+          "percent": 48
+        },
+        {
+          "hour": "21:00",
+          "percent": 33
+        },
+        {
+          "hour": "22:00",
+          "percent": 16
+        },
+        {
+          "hour": "23:00",
+          "percent": 2
+        },
+        {
+          "hour": "00:00",
+          "percent": 1
+        },
+        {
+          "hour": "01:00",
+          "percent": 1
+        },
+        {
+          "hour": "02:00",
+          "percent": 1
+        },
+        {
+          "hour": "03:00",
+          "percent": 1
+        }
+      ]
+    },
+    {
+      "Thursday": [
+        {
+          "hour": "04:00",
+          "percent": 1
+        },
+        {
+          "hour": "05:00",
+          "percent": 1
+        },
+        {
+          "hour": "06:00",
+          "percent": 1
+        },
+        {
+          "hour": "07:00",
+          "percent": 7
+        },
+        {
+          "hour": "08:00",
+          "percent": 13
+        },
+        {
+          "hour": "09:00",
+          "percent": 16
+        },
+        {
+          "hour": "10:00",
+          "percent": 18
+        },
+        {
+          "hour": "11:00",
+          "percent": 17
+        },
+        {
+          "hour": "12:00",
+          "percent": 16
+        },
+        {
+          "hour": "13:00",
+          "percent": 17
+        },
+        {
+          "hour": "14:00",
+          "percent": 23
+        },
+        {
+          "hour": "15:00",
+          "percent": 33
+        },
+        {
+          "hour": "16:00",
+          "percent": 46
+        },
+        {
+          "hour": "17:00",
+          "percent": 59
+        },
+        {
+          "hour": "18:00",
+          "percent": 66
+        },
+        {
+          "hour": "19:00",
+          "percent": 66
+        },
+        {
+          "hour": "20:00",
+          "percent": 56
+        },
+        {
+          "hour": "21:00",
+          "percent": 41
+        },
+        {
+          "hour": "22:00",
+          "percent": 23
+        },
+        {
+          "hour": "23:00",
+          "percent": 8
+        },
+        {
+          "hour": "00:00",
+          "percent": 1
+        },
+        {
+          "hour": "01:00",
+          "percent": 1
+        },
+        {
+          "hour": "02:00",
+          "percent": 1
+        },
+        {
+          "hour": "03:00",
+          "percent": 1
+        }
+      ]
+    },
+    {
+      "Friday": [
+        {
+          "hour": "04:00",
+          "percent": 1
+        },
+        {
+          "hour": "05:00",
+          "percent": 1
+        },
+        {
+          "hour": "06:00",
+          "percent": 5
+        },
+        {
+          "hour": "07:00",
+          "percent": 10
+        },
+        {
+          "hour": "08:00",
+          "percent": 13
+        },
+        {
+          "hour": "09:00",
+          "percent": 15
+        },
+        {
+          "hour": "10:00",
+          "percent": 16
+        },
+        {
+          "hour": "11:00",
+          "percent": 16
+        },
+        {
+          "hour": "12:00",
+          "percent": 17
+        },
+        {
+          "hour": "13:00",
+          "percent": 18
+        },
+        {
+          "hour": "14:00",
+          "percent": 23
+        },
+        {
+          "hour": "15:00",
+          "percent": 31
+        },
+        {
+          "hour": "16:00",
+          "percent": 41
+        },
+        {
+          "hour": "17:00",
+          "percent": 51
+        },
+        {
+          "hour": "18:00",
+          "percent": 57
+        },
+        {
+          "hour": "20:00",
+          "percent": 49
+        },
+        {
+          "hour": "21:00",
+          "percent": 37
+        },
+        {
+          "hour": "22:00",
+          "percent": 22
+        },
+        {
+          "hour": "23:00",
+          "percent": 8
+        },
+        {
+          "hour": "00:00",
+          "percent": 1
+        },
+        {
+          "hour": "01:00",
+          "percent": 1
+        },
+        {
+          "hour": "02:00",
+          "percent": 1
+        },
+        {
+          "hour": "03:00",
+          "percent": 1
+        }
+      ]
+    },
+    {
+      "Saturday": [
+        {
+          "hour": "04:00",
+          "percent": 1
+        },
+        {
+          "hour": "05:00",
+          "percent": 1
+        },
+        {
+          "hour": "06:00",
+          "percent": 1
+        },
+        {
+          "hour": "07:00",
+          "percent": 5
+        },
+        {
+          "hour": "08:00",
+          "percent": 12
+        },
+        {
+          "hour": "09:00",
+          "percent": 20
+        },
+        {
+          "hour": "10:00",
+          "percent": 25
+        },
+        {
+          "hour": "11:00",
+          "percent": 28
+        },
+        {
+          "hour": "12:00",
+          "percent": 27
+        },
+        {
+          "hour": "13:00",
+          "percent": 25
+        },
+        {
+          "hour": "14:00",
+          "percent": 23
+        },
+        {
+          "hour": "15:00",
+          "percent": 30
+        },
+        {
+          "hour": "16:00",
+          "percent": 50
+        },
+        {
+          "hour": "17:00",
+          "percent": 79
+        },
+        {
+          "hour": "18:00",
+          "percent": 100
+        },
+        {
+          "hour": "19:00",
+          "percent": 95
+        },
+        {
+          "hour": "20:00",
+          "percent": 69
+        },
+        {
+          "hour": "21:00",
+          "percent": 37
+        },
+        {
+          "hour": "22:00",
+          "percent": 15
+        },
+        {
+          "hour": "23:00",
+          "percent": 4
+        },
+        {
+          "hour": "00:00",
+          "percent": 1
+        },
+        {
+          "hour": "01:00",
+          "percent": 1
+        },
+        {
+          "hour": "02:00",
+          "percent": 1
+        },
+        {
+          "hour": "03:00",
+          "percent": 1
+        }
+      ]
+    }
+  ],
+  "relatedSearches": null,
+  "relateds": [
+    {
+      "mainName": "Messejana",
+      "url": null
+    },
+    {
+      "mainName": "Praça Terminal Papicu",
+      "url": null
+    },
+    {
+      "mainName": "Centro de Eventos do Ceará",
+      "url": null
+    },
+    {
+      "mainName": "Praia de Iracema",
+      "url": null
+    },
+    {
+      "mainName": "Shopping RioMar Fortaleza",
+      "url": null
+    }
+  ],
+  "editMode": false
+}

@@ -1,0 +1,621 @@
+{
+  "mainName": "Centro de Arte Popular",
+  "slug": "centro-de-arte-popular",
+  "category": "Museu de arte",
+  "locationInformation": {
+    "latitude": "-19.930357",
+    "longitude": "-43.9398422"
+  },
+  "basicInformation": [
+    {
+      "label": "endereço",
+      "tooltip": "Copiar endereço",
+      "text": "R. Gonçalves Dias, 1608 - Lourdes, Belo Horizonte - MG, 30140-092",
+      "icon": "https://www.gstatic.com/images/icons/material/system_gm/1x/place_gm_blue_24dp.png"
+    },
+    {
+      "label": "telefone",
+      "tooltip": "Copiar número de telefone",
+      "text": "(31) 98407-9444",
+      "icon": "https://www.gstatic.com/images/icons/material/system_gm/1x/phone_gm_blue_24dp.png"
+    },
+    {
+      "label": "Code",
+      "tooltip": "Copiar Plus Code",
+      "text": "3396+V3 Lourdes, Belo Horizonte - MG",
+      "icon": "https://maps.gstatic.com/mapfiles/maps_lite/images/2x/ic_plus_code.png"
+    }
+  ],
+  "ratingInformation": {
+    "basicRatingInformation": {
+      "averageGrade": 4.7,
+      "totalOfEvaluations": 284
+    },
+    "ratingsByGrade": [
+      {
+        "grade": 5,
+        "totalRatings": 216
+      },
+      {
+        "grade": 4,
+        "totalRatings": 49
+      },
+      {
+        "grade": 3,
+        "totalRatings": 14
+      },
+      {
+        "grade": 2,
+        "totalRatings": 3
+      },
+      {
+        "grade": 1,
+        "totalRatings": 2
+      }
+    ]
+  },
+  "ratingTags": [
+    {
+      "tag": "exposição",
+      "count": 16,
+      "tooltip": "exposição, mencionado em 16 avaliações"
+    },
+    {
+      "tag": "cultura",
+      "count": 13,
+      "tooltip": "cultura, mencionado em 13 avaliações"
+    },
+    {
+      "tag": "obras",
+      "count": 12,
+      "tooltip": "obras, mencionado em 12 avaliações"
+    },
+    {
+      "tag": "acervo",
+      "count": 9,
+      "tooltip": "acervo, mencionado em 9 avaliações"
+    },
+    {
+      "tag": "artesanato",
+      "count": 8,
+      "tooltip": "artesanato, mencionado em 8 avaliações"
+    },
+    {
+      "tag": "organizado",
+      "count": 5,
+      "tooltip": "organizado, mencionado em 5 avaliações"
+    },
+    {
+      "tag": "regional",
+      "count": 4,
+      "tooltip": "regional, mencionado em 4 avaliações"
+    },
+    {
+      "tag": "bordado",
+      "count": 3,
+      "tooltip": "bordado, mencionado em 3 avaliações"
+    },
+    {
+      "tag": "oficina",
+      "count": 3,
+      "tooltip": "oficina, mencionado em 3 avaliações"
+    },
+    {
+      "tag": "andares",
+      "count": 3,
+      "tooltip": "andares, mencionado em 3 avaliações"
+    }
+  ],
+  "featuredPhotos": [
+    "https://lh5.googleusercontent.com/p/AF1QipNhb3joPrnvGIgFz2E7i8L7uU6fo9_yjVU7FSeT=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipP4ApUMHPWRCuiHaISbE9tuYCI7hf1tLh5a9wlC=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPMnf4HuQIoBW0f49IZ2Y3QLj-pkMBHzJvi3T_1=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOErKj4PWZoXkJghPZQPg6FOem_pYBO2_QZDeYF=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOh4wZanl0SMPNaoWgDtAR3L8wTkykd7n-x8clW=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMmjThAgzBHhESra9gqQabf_Ke8t2VYpFSIhN_Q=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNhxxwNf5zyzpkTaZmyd8NnoxA82lt1Q_Ck6bwp=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNKdvccqhuLYsNi1bgNhpJbCmi065BZVzUYXIbv=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPsm2RxDRCw9dHqFGfIB7s73tB0Nb7_PM7wJpOq=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipN-IwJ4OiD20sHbUYjMqKieRN66UXIXq1wsSdVP=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNVk2SzSMb9T8jdIV0_Tw-A_maGvEnRujhSSTFF=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOGpm5G1rCQGkMoLSc1VVyTtupmYGh3jGqL628S=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipP7ZQyPDxMmEC77f6y-JK7vxG1efwJGIBQ5LDqz=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOweOZ_4mlPMZbKHMColHW45eBs2RG-d5cTwrRF=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipN6PfFiNIzYbFLwSejrlpqXsmKhJ0SAGnuxsD_y=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOjOitcrORukPsNBC59Hquqa3I9XMezvpyWzIRY=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPWCkXpxTJrRKoJBOHS2MM9IMG30ELaoOZFCw2C=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipM1niVbtyDzHiTxqZGMiZObUtRwoiWDbr13D0Wi=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipP6XZhhfGM_7_xf6xfo9Sz_jAfz1RyJoNwh8Jyx=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPHd1ORoBgjAaSZCA1vR7toEycRrMInKF7W_LEw=w1024-h576-k-no"
+  ],
+  "topComments": [
+    {
+      "author": "Rafael Silva (Guia Zipão)",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucqtoIdb87X6SbineH7fRD-wo5F9spokxzxvq_pggw=w36-h36-p-c0x00000000-rp-mo-ba3-br100",
+      "comment": "Que espaço fantástico!!! Sem palavras pra poder descrever o conteúdo incrível deste centro. De 0 à 10 eu dou mais de 100. Parabéns à toda a equipe!",
+      "gradeComment": 5
+    },
+    {
+      "author": "Wagner Douglas",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucrCvhx2meycyagLzomfM8nmuyP3InMT4SvEG3lRg1M=w36-h36-p-c0x00000000-rp-mo-ba5-br100",
+      "comment": "Centro de Arte Popular tem um acervo que revela a nossa mineiridade, a nossa cultura e religiosidade popular. Vale a pena visitar. Entrada gratuita.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Rafael Coelho",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucoBN6kKzaUAGzm5_XReGJQB34DYNjDCvdMimjiNbJ0=w36-h36-p-c0x00000000-rp-mo-ba5-br100",
+      "comment": "Museu de qualidade que vale a visita, com equipe atenciosa. Detalhes sobre a arte produzida no norte de Minas Gerais, com fico para o Vale do Jequitinhonha. Espaço limpo e extremante bem cuidado.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Alexandre Milagres",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucoJm_sowcAWsBcENQuQ5fNqe0mzsuMXC_MHPLf6Dvs=w36-h36-p-c0x00000000-rp-mo-ba3-br100",
+      "comment": "Uma referência em mineiridade. Os maiores nomes do artesanato e da arte popular.. Expografia super contemporânea.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Alexandre Brum Correa",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucqpp3LN-nh-ndmrO7ONgRyaCcjFcwcjyVJlVGlKPg=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "Esta é uma joia com um acervo muito importante daquilo que se constitui como o mais representativo das tradições artesanais relacionadas à cultura mineira: barro, arte sacra, bordado, e artefatos ligados à produção de alimentos. De grande impacto são as obras de Mestre Ulisses e as bonecas de diversas mestras do Jequitinhonha. A visitação é muito agradável por que não é maçante. E o melhor: O museu é gratuito!!",
+      "gradeComment": 5
+    },
+    {
+      "author": "Hotavyo Ramalho",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucotdKwwstsWMQPHRzjZ9oy1jE8j9nThNZwjZKI-UA=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "O museu tem uma experiência artística e sensorial realmente incrível. As amostras permanentes de arte do Vale do Jequitinhonha chamou especialmente minha atenção, todas as obras de arte e artesanato expostos são muito belas e carregam um pouco da cultura do regional do interior do estado. Além disso a mistura de som e luzes foram muito bem preparados.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Lucimara Moreira da Silva",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucr7MTWGQqLffCX82DgUzbJru1MQ_HoHvG0CdBwOwb8=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "Fácil acesso, bem cuidado e ótimo acervo",
+      "gradeComment": 5
+    },
+    {
+      "author": "Pedro Baldi",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZuco1iNxQPviTqVn9QJ3_nhSvphgB2kO7jGTWuIWG=w36-h36-p-c0x00000000-rp-mo-br100",
+      "comment": "Museu gratuito e muito lindo. Possui oficina sempre e gratuito. Não possui estacionamento mas de fácil acesso. Faz parte do circuito da praça da liberdade.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Sandrinne Monteiro Dias",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucqbmzNF495Ga_qdAj7m0eN08lEpebs6LjRNzYH56g=w36-h36-p-c0x00000000-rp-mo-br100",
+      "comment": "Adorei! Museu gratuito, bem bonito e organizado. As artes transmitem uma energia muito boa 😄",
+      "gradeComment": 5
+    },
+    {
+      "author": "Victor Lazarini",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucpDrcjfwDEIoDdEDq3UE1bm6JDo6Zp5kkTBA8vjQQ=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "Lugar muito bonito. Vale a pena sair um pouco da praça da Liberdade para conhecer esse espaço bem mineiro. Obras de artesanato e religiosas muito bonitas neste local.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Gustavo Bazom",
+      "photoAuthor": "https://lh3.googleusercontent.com/a/AItbvmnqV6GVfCulF5qhw-h8Na17A8SzlKMfuxWl0aVg=w36-h36-p-c0x00000000-rp-mo-ba3-br100",
+      "comment": "Lugar iradissimo d visitar, funcionários bem preparados, recebem muito o visitante, vou volta.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Ivo Michalick",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucqFDD58IPZFEKhdFiNOLD8k5D0IvLliIdW94O7vQx4=w36-h36-p-c0x00000000-rp-mo-ba3-br100",
+      "comment": "Excelente amostra da arte popular mineira, vale muito a pena visitar!",
+      "gradeComment": 5
+    },
+    {
+      "author": "jorge luiz",
+      "photoAuthor": "https://lh3.googleusercontent.com/a/AItbvmkhtJZ6w0pYV7MzStDHhfQFhbNcWeIafY9S6mM=w36-h36-p-c0x00000000-rp-mo-ba5-br100",
+      "comment": "Centro muito  bacana com peças lindas .  Estive no domingo a tarde e estava praticamente vazio. São 4 andares com exposições permanentes e exposição temporária. Vale a pena conferir. Peças maravilhosas. Entrada gratuita.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Nadya Hoffmann",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucpG0V71w7qrZcgbXelUnTnkamiLq64sEnleAsYo_w=w36-h36-p-c0x00000000-rp-mo-ba2-br100",
+      "comment": "Mto bom, exposição bastante variada.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Ariane Oliveira",
+      "photoAuthor": "https://lh3.googleusercontent.com/a/AItbvmmyV_3WgTVAzc0NofftJcwtIxaPS0WqmlJbPw59=w36-h36-p-c0x00000000-rp-mo-br100",
+      "comment": "Algumas obras expostas. Arte popular mesmo.",
+      "gradeComment": 3
+    },
+    {
+      "author": "Camila Mortari Udihara",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucp199G95PXM9Pk969vsjle1N3Uhi2XQGALg_uO4mMs=w36-h36-p-c0x00000000-rp-mo-ba5-br100",
+      "comment": "Museu pequeno, mas interessante, com obras de arte típicas de Minas Gerais. Entrada gratuita.",
+      "gradeComment": 4
+    },
+    {
+      "author": "Lorraine Fraga",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucqjUcZOpTME-4A-0t5hSA6l278cxGDiomnrMzYt=w36-h36-p-c0x00000000-rp-mo-br100",
+      "comment": "Sensacional ! Museu  com acervo de objetos cerâmicos, bordados, religiosos, esculpidos em madeira. Mostra de artistas mineiros, e objetos antigos. fabricação de queijo, que não poderia falar \"uai\". rssr Possui uma área externa com grafitis bem interessantes também! São três andares de pura satisfação Vale muito apena conhecer !!!",
+      "gradeComment": 5
+    },
+    {
+      "author": "Luciana Maia",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucoDrw3S52aJFHNTDXZDcwdxs8xPV5Fu7HX8bIoI=w36-h36-p-c0x00000000-rp-mo-ba3-br100",
+      "comment": "Tudo muito organizado e bem sinalizado, entrda franca, vale visitar...",
+      "gradeComment": 4
+    },
+    {
+      "author": "Priscila Faria lima",
+      "photoAuthor": "https://lh3.googleusercontent.com/a/AItbvmk8UDPHe3rPd4JBU6jWREiCl7ReF4UdiENKJ5Ax=w36-h36-p-c0x00000000-rp-mo-ba3-br100",
+      "comment": "Não conhecia. Fiquei impressionada com o lugar. Trabalhos e história da arte de Minas Gerais. Ótima exposição que todos os mineiros deviam conhecer. Parabéns! Orgulho de ser mineira!",
+      "gradeComment": 5
+    },
+    {
+      "author": "Alexsandro Gomes",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucqwU4Px9dnKo5MwtDOGgJBdmTt5lpi0mvKiUxcjKZM=w36-h36-p-c0x00000000-rp-mo-ba6-br100",
+      "comment": "Museu localizado bem próximo da praça da liberdade. Com amplo acervo com diversos segmentos, com três andares de pura cultura mineira e brasileira, destaque para os grafites do 1 andar. Entrada gratuita.",
+      "gradeComment": 5
+    }
+  ],
+  "peakHours": [
+    {
+      "Sunday": [
+        {
+          "hour": "11:00",
+          "percent": 11
+        },
+        {
+          "hour": "12:00",
+          "percent": 14
+        },
+        {
+          "hour": "13:00",
+          "percent": 16
+        },
+        {
+          "hour": "14:00",
+          "percent": 16
+        },
+        {
+          "hour": "15:00",
+          "percent": 15
+        },
+        {
+          "hour": "16:00",
+          "percent": 12
+        }
+      ]
+    },
+    {
+      "Monday": []
+    },
+    {
+      "Tuesday": [
+        {
+          "hour": "12:00",
+          "percent": 18
+        },
+        {
+          "hour": "13:00",
+          "percent": 25
+        },
+        {
+          "hour": "14:00",
+          "percent": 35
+        },
+        {
+          "hour": "15:00",
+          "percent": 40
+        },
+        {
+          "hour": "16:00",
+          "percent": 33
+        },
+        {
+          "hour": "17:00",
+          "percent": 20
+        },
+        {
+          "hour": "18:00",
+          "percent": 9
+        }
+      ]
+    },
+    {
+      "Wednesday": [
+        {
+          "hour": "12:00",
+          "percent": 29
+        },
+        {
+          "hour": "13:00",
+          "percent": 22
+        },
+        {
+          "hour": "14:00",
+          "percent": 22
+        },
+        {
+          "hour": "15:00",
+          "percent": 36
+        },
+        {
+          "hour": "16:00",
+          "percent": 33
+        },
+        {
+          "hour": "17:00",
+          "percent": 33
+        },
+        {
+          "hour": "18:00",
+          "percent": 33
+        }
+      ]
+    },
+    {
+      "Thursday": [
+        {
+          "hour": "12:00",
+          "percent": 29
+        },
+        {
+          "hour": "13:00",
+          "percent": 46
+        },
+        {
+          "hour": "14:00",
+          "percent": 55
+        },
+        {
+          "hour": "15:00",
+          "percent": 49
+        },
+        {
+          "hour": "16:00",
+          "percent": 32
+        },
+        {
+          "hour": "17:00",
+          "percent": 18
+        },
+        {
+          "hour": "18:00",
+          "percent": 10
+        }
+      ]
+    },
+    {
+      "Friday": [
+        {
+          "hour": "12:00",
+          "percent": 24
+        },
+        {
+          "hour": "13:00",
+          "percent": 27
+        },
+        {
+          "hour": "14:00",
+          "percent": 27
+        },
+        {
+          "hour": "15:00",
+          "percent": 41
+        },
+        {
+          "hour": "16:00",
+          "percent": 54
+        },
+        {
+          "hour": "17:00",
+          "percent": 36
+        },
+        {
+          "hour": "18:00",
+          "percent": 11
+        }
+      ]
+    },
+    {
+      "Saturday": [
+        {
+          "hour": "11:00",
+          "percent": 38
+        },
+        {
+          "hour": "12:00",
+          "percent": 57
+        },
+        {
+          "hour": "13:00",
+          "percent": 67
+        },
+        {
+          "hour": "14:00",
+          "percent": 77
+        },
+        {
+          "hour": "15:00",
+          "percent": 100
+        },
+        {
+          "hour": "16:00",
+          "percent": 98
+        }
+      ]
+    }
+  ],
+  "relatedSearches": [
+    "museu dos brinquedos",
+    "museu de arte popular diadema",
+    "museu de artes e ofícios",
+    "o que e arte popular",
+    "centro cultural liberdade",
+    "centro de cultura popular",
+    "circuito praça da liberdade",
+    "museu das minas e do metal",
+    "museu dos brinquedos",
+    "museu de arte popular diadema",
+    "museu de artes e ofícios",
+    "o que e arte popular",
+    "centro cultural liberdade",
+    "centro de cultura popular",
+    "circuito praça da liberdade",
+    "museu das minas e do metal"
+  ],
+  "relateds": [
+    {
+      "mainName": "Museu Mineiro",
+      "url": null
+    },
+    {
+      "mainName": "Circuito Liberdade",
+      "url": null
+    },
+    {
+      "mainName": "Museu dos Militares Mineiros",
+      "url": null
+    },
+    {
+      "mainName": "Museu Inimá de Paula",
+      "url": null
+    },
+    {
+      "mainName": "MM Gerdau – Museu das Minas e do Metal",
+      "url": null
+    },
+    {
+      "mainName": "Museu da Moda",
+      "url": null
+    },
+    {
+      "mainName": "Museu da Imagem e do Som de Belo Horizonte",
+      "url": null
+    },
+    {
+      "mainName": "Museu Casa Guignard",
+      "url": null
+    },
+    {
+      "mainName": "Museu Casa de Alphonsus de Guimaraens",
+      "url": null
+    },
+    {
+      "mainName": "Memorial Minas Gerais Vale",
+      "url": null
+    },
+    {
+      "mainName": "Museu Casa Guimarães Rosa",
+      "url": null
+    },
+    {
+      "mainName": "Palácio dos Despachos",
+      "url": null
+    },
+    {
+      "mainName": "Predio da Rainha da Sucata",
+      "url": null
+    },
+    {
+      "mainName": "Museu Brasileiro do Futebol",
+      "url": null
+    },
+    {
+      "mainName": "Museu de Artes e Ofícios",
+      "url": null
+    },
+    {
+      "mainName": "Palácio da Liberdade",
+      "url": null
+    },
+    {
+      "mainName": "Museu dos Brinquedos",
+      "url": null
+    },
+    {
+      "mainName": "Biblioteca Pública Estadual de Minas Gerais",
+      "url": null
+    },
+    {
+      "mainName": "Praça da Liberdade",
+      "url": null
+    },
+    {
+      "mainName": "Espaço do Conhecimento UFMG",
+      "url": null
+    },
+    {
+      "mainName": "Museu Histórico Abílio Barreto",
+      "url": null
+    },
+    {
+      "mainName": "Museu de Ciências Naturais PUC Minas",
+      "url": null
+    },
+    {
+      "mainName": "Museu de Arte da Pampulha (MAP)",
+      "url": null
+    },
+    {
+      "mainName": "Centro Cultural Banco do Brasil",
+      "url": null
+    },
+    {
+      "mainName": "Museu Mineiro",
+      "url": null
+    },
+    {
+      "mainName": "Circuito Liberdade",
+      "url": null
+    },
+    {
+      "mainName": "Museu dos Militares Mineiros",
+      "url": null
+    },
+    {
+      "mainName": "Museu Inimá de Paula",
+      "url": null
+    },
+    {
+      "mainName": "MM Gerdau – Museu das Minas e do Metal",
+      "url": null
+    },
+    {
+      "mainName": "Museu da Moda",
+      "url": null
+    },
+    {
+      "mainName": "Museu da Imagem e do Som de Belo Horizonte",
+      "url": null
+    },
+    {
+      "mainName": "Museu Casa Guignard",
+      "url": null
+    },
+    {
+      "mainName": "Museu Casa de Alphonsus de Guimaraens",
+      "url": null
+    },
+    {
+      "mainName": "Memorial Minas Gerais Vale",
+      "url": null
+    },
+    {
+      "mainName": "Museu Casa Guimarães Rosa",
+      "url": null
+    },
+    {
+      "mainName": "Palácio dos Despachos",
+      "url": null
+    },
+    {
+      "mainName": "Predio da Rainha da Sucata",
+      "url": null
+    },
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

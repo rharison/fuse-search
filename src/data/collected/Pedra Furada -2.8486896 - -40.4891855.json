@@ -1,0 +1,729 @@
+{
+  "mainName": "Pedra Furada",
+  "slug": "pedra-furada",
+  "category": "Atração turística",
+  "locationInformation": {
+    "latitude": "-2.8486896",
+    "longitude": "-40.4891855"
+  },
+  "basicInformation": [
+    {
+      "label": "endereço",
+      "tooltip": "Copiar endereço",
+      "text": "Vila de Jericoacoara, Jijoca de Jericoacoara - CE, 62598-000",
+      "icon": "https://www.gstatic.com/images/icons/material/system_gm/1x/place_gm_blue_24dp.png"
+    },
+    {
+      "label": "website",
+      "tooltip": "Abrir website",
+      "text": "vemprajeri.com",
+      "icon": "https://www.gstatic.com/images/icons/material/system_gm/1x/public_gm_blue_24dp.png"
+    },
+    {
+      "label": "Code",
+      "tooltip": "Copiar Plus Code",
+      "text": "6F8X+5M Jijoca de Jericoacoara, Ceará",
+      "icon": "https://maps.gstatic.com/mapfiles/maps_lite/images/2x/ic_plus_code.png"
+    }
+  ],
+  "ratingInformation": {
+    "basicRatingInformation": {
+      "averageGrade": 4.6,
+      "totalOfEvaluations": 7764
+    },
+    "ratingsByGrade": [
+      {
+        "grade": 5,
+        "totalRatings": 5766
+      },
+      {
+        "grade": 4,
+        "totalRatings": 1281
+      },
+      {
+        "grade": 3,
+        "totalRatings": 487
+      },
+      {
+        "grade": 2,
+        "totalRatings": 123
+      },
+      {
+        "grade": 1,
+        "totalRatings": 107
+      }
+    ]
+  },
+  "ratingTags": [
+    {
+      "tag": "julho",
+      "count": 21,
+      "tooltip": "julho, mencionado em 21 avaliações"
+    },
+    {
+      "tag": "é",
+      "count": 3,
+      "tooltip": "é, mencionado em 3 avaliações"
+    },
+    {
+      "tag": "charrete",
+      "count": 238,
+      "tooltip": "charrete, mencionado em 238 avaliações"
+    },
+    {
+      "tag": "cartão postal",
+      "count": 73,
+      "tooltip": "cartão postal, mencionado em 73 avaliações"
+    },
+    {
+      "tag": "serrote",
+      "count": 67,
+      "tooltip": "serrote, mencionado em 67 avaliações"
+    },
+    {
+      "tag": "ingrime",
+      "count": 40,
+      "tooltip": "ingrime, mencionado em 40 avaliações"
+    },
+    {
+      "tag": "buggy",
+      "count": 30,
+      "tooltip": "buggy, mencionado em 30 avaliações"
+    },
+    {
+      "tag": "locomoção",
+      "count": 23,
+      "tooltip": "locomoção, mencionado em 23 avaliações"
+    },
+    {
+      "tag": "só",
+      "count": 3,
+      "tooltip": "só, mencionado em 3 avaliações"
+    }
+  ],
+  "featuredPhotos": [
+    "https://lh5.googleusercontent.com/p/AF1QipNnP17K-q8HPam93AtcCICjCpEJtadyQUu4GOAL=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMHTrvElklOfMCEjXuxN0GfJ1kdjsHR4iErWvJp=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMhP2j4B4E37SR7BgAWgRdYM2CQIYnLlkUnV3TD=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNHNj0x2RjQRgstygoESOlyodXU3BPKDivktVWv=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMeHPTAKhctQ-7flaUQGVx9jI7C5pse8jY-sBLr=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNhUHnBIDwrbUrmHaNezE9m_Lsz_KB4smpFDMmb=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMfUDYX_p6tuAU_It_TJG-r6UPx2QpcMElVaVj8=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPo2hDESELb7Q20SsjzB6htwKfYZe9xbsX0bvJ4=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNbTjpbdYkYyjr7r94TR-uwcoyjn5LI4-IwGLBo=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNYfxlN7r56DBDB9vXFTs4caCSXRv8AxwY_XDY2=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNDUvfJZ4s8xwMLf8tWoZCAu-7OmDhKf0zTdhFN=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPsqQHKqUPhDNlXvmOrEiAfwA_xM7tBMqJPjh5g=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMU3oUTE9zfZmAuLAJP3yyqZ5X0-Qo21FlUGU0W=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPnIDl1pmuh2rq-Rb9Y1VLcaudoUmcl9DONNhew=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNMQ710GPscD65XI_mDKS0VTiV18wgSnxb4mC68=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNML7iOLKH6iYqC7cje6k1aFqZkhC7bGgD5okhq=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNKElHP03A0Wn9lN5HxwR1wcdke3j2vmNZiPrjV=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPj-8A5Hgx0zFGaiGiEmmR-kXYHWuKS38dkZj-k=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipO3CvWALM38iFmHxH7BFOy4bVLcRfnJVJXktPNf=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMPmK2Uv2sbns1pwK4lDA6PfGoEpijMeAqSZ9Xm=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNeK-m3WBHMr91G83UcvQZ9_i41lpGrUUjuALae=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOFycah1uIeV9LNlKcMgLrT5WlBBK7QfdVcQi6H=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOs-SyCQf8-uAWvFESDau0pDnlIRpgMO7oP5xxe=w1024-h576-k-no"
+  ],
+  "topComments": [
+    {
+      "author": "Carlos Augusto",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucryz7n6nrF_B9H651G6OvbwcdThRKXBHkMy50qg=w36-h36-p-c0x00000000-rp-mo-ba5-br100",
+      "comment": "Para chegar lá, é necessário fazer uma caminhada de 30 minutos (ou então pagar por uma charrete). Chegando lá, dá pra ter uma bela visão da pedra de cima, porém não dá pra tirar fotos sem aparecer um monte de gente. Curtir a praia próximo da pedra é bem bacana,  caso queira ficar num local mais isolado, com bastante contato com a natureza. A volta eu recomendo fazer uma parte pela praia, já que tem muitas pedras de cores e recortes super bonitos.",
+      "gradeComment": 4
+    },
+    {
+      "author": "Samuel Oliveira",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucq02BhRCGpqIdo9cePjH3LlSlhCPqPH6dmbJUJ_yK4=w36-h36-p-c0x00000000-rp-mo-ba3-br100",
+      "comment": "Lugar lindo, de natureza encantadora. Acessível do centro de Jericoacoara, até mesmo a pé, sem necessidade de pagar bugs. Fica a 40-60 min do centro, com uma subida um pouco ingrime. Uma boa parte do caminho pode ser abreviada com o pagamento pra ser levado de charrete. Particularmente, acho um pouco contraditórios falar tanto em resto a natureza e se utilizar de meia de tração animal para se locomover. Fica a opção por cerca de 30 reais / pessoa . Após esse caminho, há um paredão de pedra muuuuito ingrime, um pouco complicado de descer. Não recomendo o caminho para idosos ou pessoas com dificuldade de locomoção. Ao descer, você se depara com um ambiente bonito e preservado. Recomendo que vá cedo, chegando antes das 9h (que é o horário que os visitantes que vão de bugs começam a chegar), possibilitando clicks belíssima desse lugar encantador .",
+      "gradeComment": 4
+    },
+    {
+      "author": "Oscar Wei",
+      "photoAuthor": "https://lh3.googleusercontent.com/a/AItbvmn4G7pThJpwApkw1t8R_RFLeJaHB18tKYjUPsfhvPM=w36-h36-p-c0x00000000-rp-mo-ba2-br100",
+      "comment": "Linda obra da natureza, Linda história de amor com Portal da Sereia.  Cansativa mas vale a pena bater ponto lá. Para chegar lá há dois caminhos, ambos demora 30mins ir e 30mins voltar andando. Mas SUPER RECOMENDO chegar pela praia, sem ser pela Vila Jeri. Motivo principal é mais fácil acesso e gratuito, automóvel estaciona no porta de acesso, vc desce uma rampa de areia e caminha pela praia, pode pisar na água para refrescar e tem paisagem linda para tirar fotos. Já outro caminho pela Vila Jeri, vc precisa descer um penhasco de rocha, para idoso e criança é perigoso acho, ainda para voltar pelo mesmo caminho vc precisa subir a penhasco. Kkk boa sorte. E outro motivo é burocracia e demora acessar pela Vila Jeri, Para quem mora fora da vila, tem que pagar uma taxa de turismo ao entrar da Vila (R$35 por pessoa, não lembro certinho) e uma burocracia sem sentido, pega fila 30mins, depois pede documento, não entrega NFs, te dar um voucher que vale por uns dias, caso perder, eles não tem registro, tem que pagar novamente.",
+      "gradeComment": 4
+    },
+    {
+      "author": "APaula vn",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucrK1OFGbPG8ZEzFZTOh3OLfrUaAjBcENXsfAkiOaw=w36-h36-p-c0x00000000-rp-mo-br100",
+      "comment": "Recomendo demais.Fui pelo morro do Serrote. Caminhada de 30 min. Passa rápido e vc aproveita a paisagem por ser a beira mar e um ponto alto para avistar o redor do Parque de Jeri e as dunas. No final se quiser desce pra perto da Pedra Furada. Ficamos lá no alto um bom tempo desfrutando a paisagem. Da próxima irei pela praia em maré baixa para ver as rochas, grutas e piscinas naturais. Cansa as pernas de quem não tem costume, mas amei demais.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Luis Alberto Brandl",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucqK7Vxl6GAhTG-uY7gWVVxTSbzX3YPSXRYBF_MUFA=w36-h36-p-c0x00000000-rp-mo-ba3-br100",
+      "comment": "De charretinha ou de caminhada, só conhecendo para saber se vai gostar deste local, no percurso tem simplesmente uma vista incrivel do mar aquela coisa parece o final de tudo misturado com o inicio de um mar enorme, muito top. recomendo visitar de manhã tem melhor posição do sol. \"dica paga a charrete que é melhor kk\".",
+      "gradeComment": 4
+    },
+    {
+      "author": "Romulo Costa",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucqqgJ80qjHJMaUpHYSX3y-4_DzHK8nV59DgWbX0FiI=w36-h36-p-c0x00000000-rp-mo-ba6-br100",
+      "comment": "Única atração natural de Jeri além da \"finada\" duna do por do sol, isso sim é Jeri, ambas são Jeri. Para ser em. Jeri, tem que ser dentro da cerca. O que é fora, não é Jeri. O visual matador da montanha e da pedra furada também são matadores. Igualmente matador é o esforço para descer e depois subir o caminho até a carroça que nos lava para lá. Tudo isso vale muito a pena, pois o visual é lindo, incrível, único! As fotos mostram o que digo. Achei caro os R$ 100,00 para ir e voltar com 3 pessoas na carroça. Pelo menos também é divertido...",
+      "gradeComment": 5
+    },
+    {
+      "author": "carlos nilton santana barbosa",
+      "photoAuthor": "https://lh3.googleusercontent.com/a/AItbvmlmlv4ZAXDvABF8b51znKiTD4ZJICcSrOMRehxD=w36-h36-p-c0x00000000-rp-mo-ba3-br100",
+      "comment": "Um lugar incrível de lindo !! Parada obrigatória pra quem visita Jeri!! Vale a pena a viagem! Dá pra ir pela praia, se a maré estiver baixa. O caminho é mais logo mas é lindo!! Várias formações rochosas e piscinas naturais no caminho. Mas o caminho mais curto é pelo morro do serrote. Na pedra, sempre tem vendedores de água, água de coco de cerveja por um preço ok!! Água de coco a 8 reais( não acho caro, pelo trabalho que dá pra levar ). Alguns até te ajudam torando fotos !!",
+      "gradeComment": 5
+    },
+    {
+      "author": "Edvaldo Camargo",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucrCZEsnKzaOEb2Yq7EZH0Vg5mfC_ArXHpJi93AJNw=w36-h36-p-c0x00000000-rp-mo-ba5-br100",
+      "comment": "Trajeto foi apé! Precisa estar bem em forma para encarar a subida de uns 2km e depois descida muito perigosa pois muitas pedras soltas, de chinelo é muito arriscado, recomendo tênis ou sapatilha. E depois o retorno foi pela praia é bem cansativo porque tem obstáculos de pedras que tem que ser desviado pelo morro.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Eliana Della Nina",
+      "photoAuthor": "https://lh3.googleusercontent.com/a/AItbvmmIcBYs2JvM2n-n2pz9X3KS1v5oYpbxR9uD30-i=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "Amei! Fizemos a trilha do centro até a pedra à pé! A vista do alto é maravilhosa! Voltamos pela praia que é plano e bem mais tranquilo! Importante: fique atento à maré baixa, porque se estiver alta não dá pra passar. Vá cedinho e volte a antes da maré subir!",
+      "gradeComment": 5
+    },
+    {
+      "author": "Marcos L Padeti Jr",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucoDzOqO1-QaOc6jx81J56vkVHPm0tLgkSeyKrM9dT0=w36-h36-p-c0x00000000-rp-mo-ba5-br100",
+      "comment": "Lindo cartão postal, as fotos são incríveis e o caminho é um bônus, vale muito ir cedo pela praia, saindo pela praia da malhada, indo em meio a um caminho lindo de pedras e voltar pelo morro do serrote, se voltar pelo morro, vale vir pelas trilhas do lado direito, seguindo o litoral, tem uma linda vista, o barulho da água e umas plantações de cactus que valem muitas fotos!",
+      "gradeComment": 5
+    }
+  ],
+  "peakHours": [
+    {
+      "Sunday": [
+        {
+          "hour": "04:00",
+          "percent": 1
+        },
+        {
+          "hour": "05:00",
+          "percent": 5
+        },
+        {
+          "hour": "06:00",
+          "percent": 15
+        },
+        {
+          "hour": "07:00",
+          "percent": 34
+        },
+        {
+          "hour": "08:00",
+          "percent": 60
+        },
+        {
+          "hour": "09:00",
+          "percent": 81
+        },
+        {
+          "hour": "10:00",
+          "percent": 86
+        },
+        {
+          "hour": "11:00",
+          "percent": 70
+        },
+        {
+          "hour": "12:00",
+          "percent": 45
+        },
+        {
+          "hour": "13:00",
+          "percent": 23
+        },
+        {
+          "hour": "14:00",
+          "percent": 18
+        },
+        {
+          "hour": "15:00",
+          "percent": 37
+        },
+        {
+          "hour": "16:00",
+          "percent": 53
+        },
+        {
+          "hour": "17:00",
+          "percent": 36
+        },
+        {
+          "hour": "18:00",
+          "percent": 11
+        }
+      ]
+    },
+    {
+      "Monday": [
+        {
+          "hour": "04:00",
+          "percent": 1
+        },
+        {
+          "hour": "05:00",
+          "percent": 3
+        },
+        {
+          "hour": "06:00",
+          "percent": 6
+        },
+        {
+          "hour": "07:00",
+          "percent": 10
+        },
+        {
+          "hour": "08:00",
+          "percent": 21
+        },
+        {
+          "hour": "09:00",
+          "percent": 48
+        },
+        {
+          "hour": "10:00",
+          "percent": 76
+        },
+        {
+          "hour": "11:00",
+          "percent": 64
+        },
+        {
+          "hour": "12:00",
+          "percent": 34
+        },
+        {
+          "hour": "13:00",
+          "percent": 20
+        },
+        {
+          "hour": "14:00",
+          "percent": 15
+        },
+        {
+          "hour": "15:00",
+          "percent": 16
+        },
+        {
+          "hour": "16:00",
+          "percent": 50
+        },
+        {
+          "hour": "17:00",
+          "percent": 48
+        },
+        {
+          "hour": "18:00",
+          "percent": 7
+        },
+        {
+          "hour": "19:00",
+          "percent": 1
+        },
+        {
+          "hour": "21:00",
+          "percent": 1
+        },
+        {
+          "hour": "01:00",
+          "percent": 1
+        }
+      ]
+    },
+    {
+      "Tuesday": [
+        {
+          "hour": "05:00",
+          "percent": 3
+        },
+        {
+          "hour": "06:00",
+          "percent": 12
+        },
+        {
+          "hour": "07:00",
+          "percent": 22
+        },
+        {
+          "hour": "08:00",
+          "percent": 27
+        },
+        {
+          "hour": "09:00",
+          "percent": 40
+        },
+        {
+          "hour": "10:00",
+          "percent": 68
+        },
+        {
+          "hour": "11:00",
+          "percent": 81
+        },
+        {
+          "hour": "12:00",
+          "percent": 58
+        },
+        {
+          "hour": "13:00",
+          "percent": 25
+        },
+        {
+          "hour": "14:00",
+          "percent": 12
+        },
+        {
+          "hour": "15:00",
+          "percent": 35
+        },
+        {
+          "hour": "16:00",
+          "percent": 58
+        },
+        {
+          "hour": "17:00",
+          "percent": 30
+        },
+        {
+          "hour": "18:00",
+          "percent": 4
+        }
+      ]
+    },
+    {
+      "Wednesday": [
+        {
+          "hour": "05:00",
+          "percent": 3
+        },
+        {
+          "hour": "06:00",
+          "percent": 7
+        },
+        {
+          "hour": "07:00",
+          "percent": 12
+        },
+        {
+          "hour": "08:00",
+          "percent": 24
+        },
+        {
+          "hour": "09:00",
+          "percent": 51
+        },
+        {
+          "hour": "10:00",
+          "percent": 88
+        },
+        {
+          "hour": "11:00",
+          "percent": 91
+        },
+        {
+          "hour": "12:00",
+          "percent": 51
+        },
+        {
+          "hour": "13:00",
+          "percent": 16
+        },
+        {
+          "hour": "14:00",
+          "percent": 9
+        },
+        {
+          "hour": "15:00",
+          "percent": 31
+        },
+        {
+          "hour": "16:00",
+          "percent": 59
+        },
+        {
+          "hour": "17:00",
+          "percent": 43
+        },
+        {
+          "hour": "18:00",
+          "percent": 11
+        }
+      ]
+    },
+    {
+      "Thursday": [
+        {
+          "hour": "04:00",
+          "percent": 3
+        },
+        {
+          "hour": "05:00",
+          "percent": 6
+        },
+        {
+          "hour": "06:00",
+          "percent": 9
+        },
+        {
+          "hour": "07:00",
+          "percent": 14
+        },
+        {
+          "hour": "08:00",
+          "percent": 21
+        },
+        {
+          "hour": "09:00",
+          "percent": 38
+        },
+        {
+          "hour": "10:00",
+          "percent": 74
+        },
+        {
+          "hour": "11:00",
+          "percent": 75
+        },
+        {
+          "hour": "12:00",
+          "percent": 39
+        },
+        {
+          "hour": "13:00",
+          "percent": 21
+        },
+        {
+          "hour": "14:00",
+          "percent": 15
+        },
+        {
+          "hour": "15:00",
+          "percent": 19
+        },
+        {
+          "hour": "16:00",
+          "percent": 67
+        },
+        {
+          "hour": "17:00",
+          "percent": 48
+        },
+        {
+          "hour": "18:00",
+          "percent": 5
+        },
+        {
+          "hour": "20:00",
+          "percent": 1
+        },
+        {
+          "hour": "21:00",
+          "percent": 1
+        },
+        {
+          "hour": "00:00",
+          "percent": 1
+        },
+        {
+          "hour": "01:00",
+          "percent": 1
+        },
+        {
+          "hour": "03:00",
+          "percent": 1
+        }
+      ]
+    },
+    {
+      "Friday": [
+        {
+          "hour": "05:00",
+          "percent": 2
+        },
+        {
+          "hour": "06:00",
+          "percent": 15
+        },
+        {
+          "hour": "07:00",
+          "percent": 26
+        },
+        {
+          "hour": "08:00",
+          "percent": 26
+        },
+        {
+          "hour": "09:00",
+          "percent": 40
+        },
+        {
+          "hour": "10:00",
+          "percent": 60
+        },
+        {
+          "hour": "11:00",
+          "percent": 61
+        },
+        {
+          "hour": "12:00",
+          "percent": 41
+        },
+        {
+          "hour": "13:00",
+          "percent": 18
+        },
+        {
+          "hour": "14:00",
+          "percent": 7
+        },
+        {
+          "hour": "15:00",
+          "percent": 23
+        },
+        {
+          "hour": "16:00",
+          "percent": 66
+        },
+        {
+          "hour": "17:00",
+          "percent": 39
+        },
+        {
+          "hour": "18:00",
+          "percent": 4
+        }
+      ]
+    },
+    {
+      "Saturday": [
+        {
+          "hour": "05:00",
+          "percent": 6
+        },
+        {
+          "hour": "06:00",
+          "percent": 16
+        },
+        {
+          "hour": "07:00",
+          "percent": 23
+        },
+        {
+          "hour": "08:00",
+          "percent": 30
+        },
+        {
+          "hour": "09:00",
+          "percent": 65
+        },
+        {
+          "hour": "10:00",
+          "percent": 100
+        },
+        {
+          "hour": "11:00",
+          "percent": 84
+        },
+        {
+          "hour": "12:00",
+          "percent": 38
+        },
+        {
+          "hour": "13:00",
+          "percent": 14
+        },
+        {
+          "hour": "14:00",
+          "percent": 24
+        },
+        {
+          "hour": "15:00",
+          "percent": 48
+        },
+        {
+          "hour": "16:00",
+          "percent": 50
+        },
+        {
+          "hour": "17:00",
+          "percent": 27
+        },
+        {
+          "hour": "18:00",
+          "percent": 7
+        }
+      ]
+    }
+  ],
+  "relatedSearches": null,
+  "relateds": [
+    {
+      "mainName": "Cachoeira da Pedra Furada",
+      "url": null
+    },
+    {
+      "mainName": "Cachoeira Pedra Furada",
+      "url": null
+    },
+    {
+      "mainName": "Cachoeira da Pedra Furada",
+      "url": null
+    },
+    {
+      "mainName": "Cachoeira da Pedra Furada",
+      "url": null
+    },
+    {
+      "mainName": "Toca Da Pedra Furada",
+      "url": null
+    },
+    {
+      "mainName": "Cachoeira da Pedra Furada",
+      "url": null
+    },
+    {
+      "mainName": "Pedra Furada de Cima",
+      "url": null
+    },
+    {
+      "mainName": "Pedra Furada - Manhuaçu",
+      "url": null
+    },
+    {
+      "mainName": "Cachoeira Pedra Furada",
+      "url": null
+    },
+    {
+      "mainName": "Cachoeira da Pedra Furada",
+      "url": null
+    },
+    {
+      "mainName": "Corredeira Pedra Furada",
+      "url": null
+    },
+    {
+      "mainName": "Cachoeira da Pedra Furada, Biritiba Mirim",
+      "url": null
+    },
+    {
+      "mainName": "Pousada Pedra Furada",
+      "url": null
+    },
+    {
+      "mainName": "Cachoeira Pedra Furada",
+      "url": null
+    },
+    {
+      "mainName": "Cachoeira da pedra furada",
+      "url": null
+    },
+    {
+      "mainName": "Trilha da Pedreira da pedra furada , Bairro alegre de cima.",
+      "url": null
+    },
+    {
+      "mainName": "Pedra furada de Itaimbé",
+      "url": null
+    }
+  ],
+  "editMode": false
+}

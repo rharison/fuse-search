@@ -1,0 +1,707 @@
+{
+  "mainName": "Cânion Fortaleza",
+  "slug": "canion-fortaleza",
+  "category": "Parque nacional",
+  "locationInformation": {
+    "latitude": "-29.0627286",
+    "longitude": "-49.9565318"
+  },
+  "basicInformation": [
+    {
+      "label": "endereço",
+      "tooltip": "Copiar endereço",
+      "text": "Cambará do Sul, RS, 88950-000",
+      "icon": "https://www.gstatic.com/images/icons/material/system_gm/1x/place_gm_blue_24dp.png"
+    },
+    {
+      "label": "website",
+      "tooltip": "Abrir website",
+      "text": "canionsverdes.com.br",
+      "icon": "https://www.gstatic.com/images/icons/material/system_gm/1x/public_gm_blue_24dp.png"
+    },
+    {
+      "label": "Code",
+      "tooltip": "Copiar Plus Code",
+      "text": "W2PV+W9 Cambará do Sul, Rio Grande do Sul",
+      "icon": "https://maps.gstatic.com/mapfiles/maps_lite/images/2x/ic_plus_code.png"
+    },
+    {
+      "label": "merchant",
+      "text": "Reivindicar esta empresa",
+      "icon": "https://www.gstatic.com/images/icons/material/system_gm/1x/verified_user_gm_blue_24dp.png"
+    }
+  ],
+  "ratingInformation": {
+    "basicRatingInformation": {
+      "averageGrade": 4.9,
+      "totalOfEvaluations": 2935
+    },
+    "ratingsByGrade": [
+      {
+        "grade": 5,
+        "totalRatings": 2661
+      },
+      {
+        "grade": 4,
+        "totalRatings": 215
+      },
+      {
+        "grade": 3,
+        "totalRatings": 27
+      },
+      {
+        "grade": 2,
+        "totalRatings": 10
+      },
+      {
+        "grade": 1,
+        "totalRatings": 22
+      }
+    ]
+  },
+  "ratingTags": [
+    {
+      "tag": "cânions",
+      "count": 105,
+      "tooltip": "cânions, mencionado em 105 avaliações"
+    },
+    {
+      "tag": "passeio",
+      "count": 63,
+      "tooltip": "passeio, mencionado em 63 avaliações"
+    },
+    {
+      "tag": "de chão",
+      "count": 61,
+      "tooltip": "de chão, mencionado em 61 avaliações"
+    },
+    {
+      "tag": "neblina",
+      "count": 57,
+      "tooltip": "neblina, mencionado em 57 avaliações"
+    },
+    {
+      "tag": "espetáculo",
+      "count": 30,
+      "tooltip": "espetáculo, mencionado em 30 avaliações"
+    },
+    {
+      "tag": "fantástico",
+      "count": 30,
+      "tooltip": "fantástico, mencionado em 30 avaliações"
+    },
+    {
+      "tag": "asfalto",
+      "count": 29,
+      "tooltip": "asfalto, mencionado em 29 avaliações"
+    },
+    {
+      "tag": "privatizado",
+      "count": 19,
+      "tooltip": "privatizado, mencionado em 19 avaliações"
+    },
+    {
+      "tag": "trecho",
+      "count": 15,
+      "tooltip": "trecho, mencionado em 15 avaliações"
+    },
+    {
+      "tag": "litoral",
+      "count": 12,
+      "tooltip": "litoral, mencionado em 12 avaliações"
+    }
+  ],
+  "featuredPhotos": [
+    "https://lh5.googleusercontent.com/p/AF1QipObg2Wwmq3eW9RR3YWFsKIpgY-04WQ06av7jBUU=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNWbFxLHZGC5cZjhthOWXIRwfPPBuS2ZAdmMx-a=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPG9XoPvYfCuAaQ13CuaDyCHUfu5QLTsT6ts10r=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOhMeOYrgaro8AGxUFb8ePNrC1Wk7EST11ARKom=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOC6LMUpuqP_Dgo4oV4NLS7Q37wQrLxJ9dhtovj=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMyEH9bzCzpbdIUmM-DCcx9_E7ivDufSidYLVNo=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipN6B93xc9V4H6QhxmIZcxjDDdVlbI-mApzNNzwD=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMRLniQ-ieSMJPsO-d_m6f62O47kY8pF94JRnE3=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPu4Oe-_-V95b233PvqTfLC7rsaD89WcUsOu4j1=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMVVyhHIv-bs-JH59GlRCYQzM6357RBbzuvuECY=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPJ3VqyVl6akFOUMT9gUWNlsgaNMa78MEEEINPd=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipP4Vk0LpeS430pGtkTEnP6Celhwr6dlDLkY6DkF=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipN9dTGGxc6v3qAcGEz0vaEc_CN_DwVfFCRgb1k8=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipM5Xg1G7MWUmnveJvDVX6CLeXmdsw4Bvdc3bu3b=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipN7Nx5JPWdC1oDWDGSowTjH50xpXw0koviItnjF=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipO3iDnxVKe7-3FXOPkcvoyDl_ZEiucwgYrBE6OZ=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNnqQfa0I5gMN2_Sm2ZU90jhRAOYcjD7U2cvUpN=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNy8lGj2TIhx7KQ5q9ZP_fFf44hH1doRb0zMohM=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOvJr1T1GNUOStVKLCQOgOpFf4uOwrY0jT_n9Er=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOMD2Xm0uJTlfLf7GsdZyflo0s3akcV-xE_lDN4=w1024-h576-k-no"
+  ],
+  "topComments": [
+    {
+      "author": "Marcia Kessler",
+      "photoAuthor": "https://lh3.googleusercontent.com/a/AItbvmk7ErVVQP5j-mxsS98Zxry3zsGS-12zTEuW9AEL=w36-h36-p-c0x00000000-rp-mo-ba3-br100",
+      "comment": "Realmente, vale a pena a visita! São 18 km da cidade de Cambará do Sul. Cerca de 10 km asfaltados pela ERS 429 (com bastantes curvas e mal sinalizados os quebra molas) e 8 km na estrada de terra (demora cerca de 30 minutos da cidade até a entrada do cânion). Na entrada é feita a cobrança do ingresso. Aceitam cartões de crédito, débito e dinheiro (R$50 por pessoa + R$10 para estacionar). Se você já foi no mesmo dia no cânion Itaibezinho você só paga o estacionamento (o ingresso em um cânion isenta o pagamento do ingresso no outro). Importante dizer que não é possível entrar com animais domésticos. Da entrada até a trilha do mirante do cânion Fortaleza são cerca de km de estrada de terra (cerca de 20 minutos). No estacionamento do mirante existe uma estrutura com equipe de resgate/suporte, food truck, banheiros e uma lojinha de souvenirs. São dois caminhos para chegar ao mirante: um mais direto e outro pelas bordas. Sugiro subir pelas bordas, aproveitando a paisagem e depois descer direto para economizar caminhada. A subida é um pouco íngreme somente em dois pontos, sendo acessível para idosos sem problemas de locomoção. Não possui acessibilidade para PCDs. Para essa trilha é interessante escolher um dia com sol e sem nuvens pra conseguir curtir a vista lá de cima que é magnífica para admirar as formações basálticas!",
+      "gradeComment": 5
+    },
+    {
+      "author": "Raquel Pereira",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucqomVmDJpkBsZ0xnYPEpOtUvfiDDzbYcrXVXmmVxA=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "Vista deslumbrante do alto do mirante, vale a pena o esforço para chegar lá. Estrutura do Parque boa, com banheiros limpos, equipe de segurança nas areas do canion e funcionários prestativos e atenciosos. O unico quiosque que tem para venda de bebidas e lanches fecha cedo, quando ainda tem muita gente retirnando do mirante.",
+      "gradeComment": 4
+    },
+    {
+      "author": "Mauro Barth Paiva Junior",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZuco-e9dCnMHO9ws0pUT0wzzvV-2jPXi_3o3XUwh1SA=w36-h36-p-c0x00000000-rp-mo-ba3-br100",
+      "comment": "O gasto para acessar o parque com um veículo e duas pessoas foi de R$80,00.  A chegada ao parque é simples vindo de cambará do Sul. Boa parte da estrada até lá conta com asfalto.  Cuidado com a velocidade, animais silvestres podem atravessar a estrada há qualquer momento!  O geoparque fica distante cerca de 18 Km de Cambará do Sul, sendo possível visitar o Itaimbezinho no mesmo dia, caso o passeio inicie cedo.  Caso a ideia seja visitar ambos parques (Fortaleza e Itaimbezinho), recomendo a compra do combo de ingressos para visitação dos dois parques, há um pequeno desconto na aquisição de ingressos para visitação dos dois parques.  A compra do ingresso pode ser realizada pelo site cânions verdes ou na entrada dos parques, em dinheiro ou cartão.  A visita vale super a pena, o lugar é encantador.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Tábitha Yuki",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucoVyocktkpiYvxuQjSCnrTWnbox0JYrrDIgVO7AU7s=w36-h36-p-c0x00000000-rp-mo-ba5-br100",
+      "comment": "Infelizmente no dia da visita o tempo não ajudou muito. Mas mesmo com chuva foi uma experiência boa e um percurso tranquilo de se realizar. Pena que não teve a vista deslumbrante que esperávamos mas com certeza voltaremos para conhecer.",
+      "gradeComment": 4
+    },
+    {
+      "author": "Canal Travelife",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucpeD7BDeIls7NP5fTicoYMZLGCWS18uFA3K28HN2Q=w36-h36-p-c0x00000000-rp-mo-ba6-br100",
+      "comment": "Lugar bem legal, mesmo com tudo nublado 😬 fiquem atentos, pq a caminhada é por pedras grandes, acesso bem difícil para quem tem necessidades especiais. Alguns ciclistas estavam na nossa frente e conseguiram andar apenas por 300 m, o resto foi feito a pé empurrando as bikes. Deram a orientação de q seria possível, mas não é.",
+      "gradeComment": 4
+    },
+    {
+      "author": "Solange Santos",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucpAKCkEMTZ9mnV8IgJGMGJgVHlxh5H4yMaOyTN2gA0=w36-h36-p-c0x00000000-rp-mo-ba5-br100",
+      "comment": "Experiência incrível. A trilha é de nível fácil e dura em média 1h30m para subir e descer fora o tempo que fica observando a natureza e a beleza desse Canion.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Gabriela Moreira",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucpfAmDT9vIh7Aahb62jA95WU1hdGW0Q4tBciEf8uOo=w36-h36-p-c0x00000000-rp-mo-ba2-br100",
+      "comment": "O local foi privatizado e atualmente cobra-se uma taxa de 50 reais por dia para visitação. Há alguns banheiros no local. A estrada é de chão e considero de fácil acesso (dezembro2021). A trilha é curta e a vista que se tem do Cânion é espetacular! O local tem uma energia incrível, natureza no seu mais puro esplendor. Aprecie a vista! Em alguns momentos do dia pode ter bastante neblina.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Alexsandro Seidler",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucqgramqBrsdOWEwjYkx9DjAEo4dGuzGUwKgBiRC1uc=w36-h36-p-c0x00000000-rp-mo-ba5-br100",
+      "comment": "Não tem como explicar a energia deste local. O parque foi privatizado e agora cobra-se um valor para visitar. A trilha do estacionamento até o mirante é curta e fácil de fazer, tome bastante cuidado nas bordas do cânion, evite qualquer tipo de acidente. Indicaria ir pela manhã que tem menos chance de pegar a viração, condição climática que fecha o canion com neblina impossibilitando visualizar o esplendor do mesmo",
+      "gradeComment": 5
+    },
+    {
+      "author": "Emanuel Moraes",
+      "photoAuthor": "https://lh3.googleusercontent.com/a/AItbvmmTpAztRhBjPcV2UEywipxQdMOlJZywajOFZtYQ=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "Lugar espetacular, vale ir cedo e aproveitar o dia, agora tem uma loja de conveniência onde comprar água etc também foram instalados banheiros ecológicos. Atenção: A entrada é paga. Foi solicitado comprovante de vacinação em 18/04/22 Não funciona na terça feira.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Dayana Moraes",
+      "photoAuthor": "https://lh3.googleusercontent.com/a/AItbvmkGU1QICFjZafaU85e3u3pgJIq2iIzy0pQ7w9c=w36-h36-p-c0x00000000-rp-mo-ba3-br100",
+      "comment": "Lugar lindíssimo. Super recomendo! Todo o caminho é de uma paz, e as paisagens são incríveis, únicas e inimagináveis!!!",
+      "gradeComment": 5
+    },
+    {
+      "author": "LUCAS VEIGA RAVAZZI",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZuco5dqi7qJnFZjHrJEZ_ui1fs5LfVy7l3YD-JBvh=w36-h36-p-c0x00000000-rp-mo-ba5-br100",
+      "comment": "Local incrível! Das vistas mais bonitas que já vi! Difícil saber qual o melhor dia para visitar devido à rápida mudança de tempo e neblina nos canions",
+      "gradeComment": 5
+    },
+    {
+      "author": "Lucas Prediger",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucqjyScw9rIYV4HMronOAVgHZfuObXw-U2oLY9VH=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "O acesso é chatinho, tendo o um trecho de 8km de estrada de chão. Há obras de pavimentação ao longo do trecho, mas o acesso é difícil. Não recomendo ir com motos estilo custom ou speed/naked. De carro rebaixado é impossível. Com carros normais cai sofrer um pouco mas dá pra ir. O lugar é espetacular e vale a pena se programar para passar ao menos 1 turno lá, pois caminha-se bastante e tem muitas vistas para olhar.  Ao chegarmos havia bastante nebulosidade sendo difícil fotografar ou visualizar o fundo do vale. Em alguns momentos as nuvens davam trégua e conseguíamos vislumbrar à distância. Por volta do meio dia o céu limpou e ficou perfeito. Faz frio e tem bastante umidade. Recomendo levar um corta vento e um agasalho extra.  Não há nenhuma infraestrutura de banheiro ou agua/lanche na volta. Um piquenique é uma alternativa interessante aos visitantes.",
+      "gradeComment": 5
+    },
+    {
+      "author": "FK DRONES",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucoemr_cVW1vY6ojXJDUh4vcD4cejAnSjUsJ4JchOg=w36-h36-p-c0x00000000-rp-mo-ba5-br100",
+      "comment": "Lugar fantástico demais  muito top Vale muito apena visitar essa obra chamada natureza...",
+      "gradeComment": 5
+    },
+    {
+      "author": "Rubens Figueredo",
+      "photoAuthor": "https://lh3.googleusercontent.com/a/AItbvmnmpdo4PDITQdG0mEHIxvBfmVr9CZ9tkUyrqmBO=w36-h36-p-c0x00000000-rp-mo-ba3-br100",
+      "comment": "Uma obra maravilhosa da natureza, apesar das mudanças climáticas no dia não permitirem vislumbrar sua totalidade, o local é simplesmente lindo.",
+      "gradeComment": 5
+    },
+    {
+      "author": "LsA",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucq7BepXD9HeBqtsvl58d0_F-usfEZavAVFbP6xpEQ=w36-h36-p-c0x00000000-rp-mo-br100",
+      "comment": "Lugar magnífico, grandioso! Visitamos Gramado e depois Cambará do Sul, em uma viagem de 1,5h por uma estrada tranquila e charmosa. Nos canyons Fortaleza e Itaimbezinho, fizemos todas as trilhas. O suficiente para se ter um ótimo contato e visual dos canyons e as plantas da região. As trilhas mais compridas fizemos, em média, em três horas. Fui logo após o início da privatização do Parque e as obras de estruturação já se iniciaram, com a disponibilização de estacionamento, banheiros, guias e até lojinhas vendendo bebidas e café. A estrada até o canyon Fortaleza está sendo reformada, assim como o acesso interno. Logo, os canyons estarão bem estruturados para receber melhor os turistas. É um lugar perto que vale a pena conhecer para quem vai ao RS visitar Gramado e a região.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Juan Rocha",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucqUA_InbOVxn0M28c2OKXlxgBk6jRJQ63NDm9lEcMQ=w36-h36-p-c0x00000000-rp-mo-ba5-br100",
+      "comment": "Um lugar espetacular, lindo pôr do sol, muitas trilhas e surpresas agradáveis dentro de um parque preservado!",
+      "gradeComment": 5
+    },
+    {
+      "author": "Douglas Rodrigues",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucr85820CCNIyGT8OmCpjwYcfJPnvbxPgD5YSYoPSg=w36-h36-p-c0x00000000-rp-mo-br100",
+      "comment": "Fomos no Fortaleza e Itaimbezinho no mesmo dia pois já haviamos comprado ingresso, infelizmente não conseguimos ver nada devido a neblina/chuva. No outro dia retornamos ao Fortaleza e tava 100% de visibilidade. A estrada do Fortaleza é uns, 13km de asfalto e uns 10 km de chão, mas meu carro é um Honda City e passou tranquilo mesmo no dia de chuva (claro, tem que andar com calma). No trecho mais crítico da estrada do Fortaleza a empresa estava lá para ajudar quem ficasse atolado. A estrada do itaimbezinho está mais difícil, bastante pedra e é uns 20 km de estrada de chão, mas o carro foi bem também (fomos e voltamos bem devagar). Ficamos hospedados em Cambará na Pousada ENCANTO DOS CANION que é excelente, nota 10. A cidade de Cambará do Sul não possui muitos atrativos, 2 dias são o suficiente para conhecer os canions com tranquilidade.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Daniel Nunes",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucqqhJzwDNYdlMrUgh5THGyb9VtTw4HkLInyvkcL1Fk=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "No momento o parque passa por reformas, e devem melhorar o trecho de estrada sem pavimentacao dos ultimos 5 km da estrada. Tambem falta sinalizacao para as trilhas. Mas a natureza exuberante faz todo esforço valer a pena.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Carlos Dellalibera",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucqSQiwqT4Hv-hVUhf1YpLwivsWjUU167JOjkD0GZUs=w36-h36-p-c0x00000000-rp-mo-ba3-br100",
+      "comment": "Lugar fantástico...imperdível o mirante do cânion....da para fazer no mesmo dia do Itaimbezinho.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Priscila Escuissato",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucpW-3IuhXPh13wtqNe5cQxUxELKFruoJJZD4ta-lA=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "Lugar magnífico! Visita imperdível. Apesar da infraestrutura fraca (que está recebendo melhorias) vale a pena ir e fazer todas as trilhas. Comece pela trilha de cima (vá o mais de manhã possível pra tentar tempo limpo) e se surpreenda com a imensidão do Cânion. Depois faça a trilha da borda e por último conheça a Cachoeira do Tigre Preto, atravesse o rio e siga a trilha até a Pedra do Segredo para mais uma vista surpreendente.",
+      "gradeComment": 5
+    }
+  ],
+  "peakHours": [
+    {
+      "Sunday": [
+        {
+          "hour": "08:00",
+          "percent": 1
+        },
+        {
+          "hour": "09:00",
+          "percent": 10
+        },
+        {
+          "hour": "10:00",
+          "percent": 42
+        },
+        {
+          "hour": "11:00",
+          "percent": 86
+        },
+        {
+          "hour": "12:00",
+          "percent": 87
+        },
+        {
+          "hour": "13:00",
+          "percent": 45
+        },
+        {
+          "hour": "14:00",
+          "percent": 33
+        },
+        {
+          "hour": "15:00",
+          "percent": 39
+        },
+        {
+          "hour": "16:00",
+          "percent": 11
+        },
+        {
+          "hour": "17:00",
+          "percent": 2
+        },
+        {
+          "hour": "18:00",
+          "percent": 1
+        },
+        {
+          "hour": "19:00",
+          "percent": 2
+        },
+        {
+          "hour": "20:00",
+          "percent": 2
+        },
+        {
+          "hour": "21:00",
+          "percent": 2
+        },
+        {
+          "hour": "22:00",
+          "percent": 1
+        },
+        {
+          "hour": "23:00",
+          "percent": 1
+        },
+        {
+          "hour": "00:00",
+          "percent": 1
+        },
+        {
+          "hour": "01:00",
+          "percent": 1
+        }
+      ]
+    },
+    {
+      "Monday": [
+        {
+          "hour": "06:00",
+          "percent": 1
+        },
+        {
+          "hour": "07:00",
+          "percent": 2
+        },
+        {
+          "hour": "08:00",
+          "percent": 6
+        },
+        {
+          "hour": "09:00",
+          "percent": 11
+        },
+        {
+          "hour": "10:00",
+          "percent": 17
+        },
+        {
+          "hour": "11:00",
+          "percent": 23
+        },
+        {
+          "hour": "12:00",
+          "percent": 25
+        },
+        {
+          "hour": "13:00",
+          "percent": 24
+        },
+        {
+          "hour": "14:00",
+          "percent": 19
+        },
+        {
+          "hour": "15:00",
+          "percent": 13
+        },
+        {
+          "hour": "16:00",
+          "percent": 7
+        },
+        {
+          "hour": "17:00",
+          "percent": 4
+        },
+        {
+          "hour": "18:00",
+          "percent": 1
+        }
+      ]
+    },
+    {
+      "Tuesday": []
+    },
+    {
+      "Wednesday": [
+        {
+          "hour": "08:00",
+          "percent": 1
+        },
+        {
+          "hour": "09:00",
+          "percent": 5
+        },
+        {
+          "hour": "10:00",
+          "percent": 12
+        },
+        {
+          "hour": "11:00",
+          "percent": 18
+        },
+        {
+          "hour": "12:00",
+          "percent": 15
+        },
+        {
+          "hour": "13:00",
+          "percent": 9
+        },
+        {
+          "hour": "14:00",
+          "percent": 11
+        },
+        {
+          "hour": "15:00",
+          "percent": 21
+        },
+        {
+          "hour": "16:00",
+          "percent": 18
+        },
+        {
+          "hour": "17:00",
+          "percent": 5
+        }
+      ]
+    },
+    {
+      "Thursday": [
+        {
+          "hour": "07:00",
+          "percent": 3
+        },
+        {
+          "hour": "08:00",
+          "percent": 7
+        },
+        {
+          "hour": "09:00",
+          "percent": 14
+        },
+        {
+          "hour": "10:00",
+          "percent": 20
+        },
+        {
+          "hour": "11:00",
+          "percent": 22
+        },
+        {
+          "hour": "12:00",
+          "percent": 19
+        },
+        {
+          "hour": "13:00",
+          "percent": 14
+        },
+        {
+          "hour": "14:00",
+          "percent": 14
+        },
+        {
+          "hour": "15:00",
+          "percent": 27
+        },
+        {
+          "hour": "16:00",
+          "percent": 27
+        },
+        {
+          "hour": "17:00",
+          "percent": 10
+        }
+      ]
+    },
+    {
+      "Friday": [
+        {
+          "hour": "08:00",
+          "percent": 1
+        },
+        {
+          "hour": "09:00",
+          "percent": 7
+        },
+        {
+          "hour": "10:00",
+          "percent": 23
+        },
+        {
+          "hour": "11:00",
+          "percent": 31
+        },
+        {
+          "hour": "12:00",
+          "percent": 22
+        },
+        {
+          "hour": "13:00",
+          "percent": 16
+        },
+        {
+          "hour": "14:00",
+          "percent": 18
+        },
+        {
+          "hour": "15:00",
+          "percent": 16
+        },
+        {
+          "hour": "16:00",
+          "percent": 9
+        },
+        {
+          "hour": "17:00",
+          "percent": 3
+        }
+      ]
+    },
+    {
+      "Saturday": [
+        {
+          "hour": "07:00",
+          "percent": 1
+        },
+        {
+          "hour": "08:00",
+          "percent": 10
+        },
+        {
+          "hour": "09:00",
+          "percent": 36
+        },
+        {
+          "hour": "10:00",
+          "percent": 79
+        },
+        {
+          "hour": "11:00",
+          "percent": 100
+        },
+        {
+          "hour": "12:00",
+          "percent": 77
+        },
+        {
+          "hour": "13:00",
+          "percent": 48
+        },
+        {
+          "hour": "14:00",
+          "percent": 45
+        },
+        {
+          "hour": "15:00",
+          "percent": 51
+        },
+        {
+          "hour": "16:00",
+          "percent": 41
+        },
+        {
+          "hour": "17:00",
+          "percent": 20
+        },
+        {
+          "hour": "18:00",
+          "percent": 7
+        },
+        {
+          "hour": "19:00",
+          "percent": 3
+        },
+        {
+          "hour": "20:00",
+          "percent": 3
+        },
+        {
+          "hour": "21:00",
+          "percent": 3
+        },
+        {
+          "hour": "22:00",
+          "percent": 1
+        }
+      ]
+    }
+  ],
+  "relatedSearches": [
+    "cânion fortaleza valor entrada",
+    "cânion fortaleza horário de funcionamento",
+    "como visitar o cânion fortaleza",
+    "cânion fortaleza ou itaimbezinho",
+    "cânion fortaleza acesso",
+    "cânion fortaleza rio",
+    "cânion fortaleza fotos",
+    "cânion fortaleza onde fica"
+  ],
+  "relateds": [
+    {
+      "mainName": "Cânion do Itaibezinho",
+      "url": null
+    },
+    {
+      "mainName": "Parque Nacional de Aparados da Serra",
+      "url": null
+    },
+    {
+      "mainName": "Cachoeira do Tigre Preto",
+      "url": null
+    },
+    {
+      "mainName": "Pedra do Segredo",
+      "url": null
+    },
+    {
+      "mainName": "Cânion Itaimbezinho Trilha do Cotovelo",
+      "url": null
+    },
+    {
+      "mainName": "Parque Nacional da Serra Geral",
+      "url": null
+    },
+    {
+      "mainName": "Canion Malacara",
+      "url": null
+    },
+    {
+      "mainName": "Cachoeira do Tio França",
+      "url": null
+    },
+    {
+      "mainName": "Canion Índios Coroados",
+      "url": null
+    },
+    {
+      "mainName": "Trilha do vértice",
+      "url": null
+    },
+    {
+      "mainName": "Canion Monte Negro",
+      "url": null
+    },
+    {
+      "mainName": "Cânion Indios Coroados",
+      "url": null
+    },
+    {
+      "mainName": "Aparados da Serra Adventure",
+      "url": null
+    },
+    {
+      "mainName": "Rio do Boi",
+      "url": null
+    },
+    {
+      "mainName": "Lajeado das Margaridas",
+      "url": null
+    },
+    {
+      "mainName": "Trilha do Tigre Preto - interior do Cânion Fortaleza",
+      "url": null
+    },
+    {
+      "mainName": "Trilha do Canyon Malacara",
+      "url": null
+    },
+    {
+      "mainName": "Mirante - Cânion Fortaleza",
+      "url": null
+    },
+    {
+      "mainName": "Parque Natural Municipal Pedra do Segredo",
+      "url": null
+    },
+    {
+      "mainName": "Canion Churriado",
+      "url": null
+    },
+    {
+      "mainName": "Geoparque Caminhos dos Cânions do Sul",
+      "url": null
+    },
+    {
+      "mainName": "Desnivel dos Rios",
+      "url": null
+    },
+    {
+      "mainName": "Cânion Boa Vista",
+      "url": null
+    },
+    {
+      "mainName": "Cânion das Laranjeiras",
+      "url": null
+    }
+  ]
+}

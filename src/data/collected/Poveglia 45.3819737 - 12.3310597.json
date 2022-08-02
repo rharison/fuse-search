@@ -1,0 +1,427 @@
+{
+  "mainName": "Poveglia",
+  "slug": "poveglia",
+  "category": "Ilha",
+  "locationInformation": {
+    "latitude": "45.3819737",
+    "longitude": "12.3310597"
+  },
+  "basicInformation": [
+    {
+      "label": "endereço",
+      "tooltip": "Copiar endereço",
+      "text": "30100 Veneza, Itália",
+      "icon": "https://www.gstatic.com/images/icons/material/system_gm/1x/place_gm_blue_24dp.png"
+    },
+    {
+      "label": "endereço",
+      "tooltip": "Copiar endereço",
+      "text": "30100 Venezia VE",
+      "icon": "https://www.gstatic.com/images/icons/material/system_gm/1x/place_gm_blue_24dp.png"
+    }
+  ],
+  "ratingInformation": {
+    "basicRatingInformation": {
+      "averageGrade": 4.2,
+      "totalOfEvaluations": 555
+    },
+    "ratingsByGrade": [
+      {
+        "grade": 5,
+        "totalRatings": 384
+      },
+      {
+        "grade": 4,
+        "totalRatings": 49
+      },
+      {
+        "grade": 3,
+        "totalRatings": 39
+      },
+      {
+        "grade": 2,
+        "totalRatings": 19
+      },
+      {
+        "grade": 1,
+        "totalRatings": 64
+      }
+    ]
+  },
+  "ratingTags": [
+    {
+      "tag": "peste",
+      "count": 18,
+      "tooltip": "peste, mencionado em 18 avaliações"
+    },
+    {
+      "tag": "história",
+      "count": 15,
+      "tooltip": "história, mencionado em 15 avaliações"
+    },
+    {
+      "tag": "casa assombrada",
+      "count": 13,
+      "tooltip": "casa assombrada, mencionado em 13 avaliações"
+    },
+    {
+      "tag": "alma",
+      "count": 7,
+      "tooltip": "alma, mencionado em 7 avaliações"
+    },
+    {
+      "tag": "médico",
+      "count": 7,
+      "tooltip": "médico, mencionado em 7 avaliações"
+    },
+    {
+      "tag": "experiência",
+      "count": 7,
+      "tooltip": "experiência, mencionado em 7 avaliações"
+    },
+    {
+      "tag": "quarentena",
+      "count": 5,
+      "tooltip": "quarentena, mencionado em 5 avaliações"
+    },
+    {
+      "tag": "hospital",
+      "count": 5,
+      "tooltip": "hospital, mencionado em 5 avaliações"
+    },
+    {
+      "tag": "cadáver",
+      "count": 4,
+      "tooltip": "cadáver, mencionado em 4 avaliações"
+    },
+    {
+      "tag": "solo",
+      "count": 4,
+      "tooltip": "solo, mencionado em 4 avaliações"
+    }
+  ],
+  "featuredPhotos": [
+    "https://lh5.googleusercontent.com/p/AF1QipMNb3cVs63l4KZeVBy3jcjEpVKrgtL7kUC_66-M=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPMsfa74A6lbcnZQSUzQjF8nwrvhCdb-a_pssIa=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipO9r68m-bx4kL_jME1nmFAsP1JqPEgsWILXUKtL=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNconbTu3o6Cr6D0rwuykqOCY-H-G3y1qTuS7Em=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMTxbC-YGUHhnVzUsImO3PunTdNVO0KNJU31JKA=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPYTy_Pfwj7yV6nsbCDbQqIrF6vrkDm8oHzPI-n=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMIDHwgQ47_TE1HkQEcqOEfIeX94an9zuTK8w52=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNCSPMsrpK0KV7iraCAn5Cz2P7WNKhLkscengHY=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPm2gaONoNuBi6-JDVKiPk44va0a-37kc3AZtOr=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNcR0Mkx0brmvyUDTPmSy4dIm68ErNqWwsOWnIK=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMu66qK0_44Km9VpQ-4oAdIC--aXZwyCZFf6yXy=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNk0dRNa8GHJc_My7Hii_EiKKLuGzoMX5-9wZ34=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNEAknK8sQmw1q43hhOJHYZT74KkxhFtjjFxNV6=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMgAb83csPE3PPVIubkpthgXZS4WX5mkCf8hZso=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipO2bjoGnxskzsNz4scluKxZJuWFOKrmJ9ds1UyO=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipP0Wg_FDq_6I4oXX4CIky_BeYnnLaASV2VCz1km=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMC8zXvXc0KXrf0A4ALSILiN_PPHK-kGpzKH9VM=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOMpzlIvsF41KFX-apWCpFdYLqdiOVt3JKZz-mL=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipODVpUmi7z7vGQa5U1vMm3I0DE7zCBRs-DkgXdp=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNJ07igCiot-ehUbg1-WtDJdb-CW1ijxAL6wvwo=w1024-h576-k-no"
+  ],
+  "topComments": [
+    {
+      "author": "Alan Barbosa",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucpoNCbXV_UPUyhx-oKSv25cPHs2h3_QC05qUPobbw=w36-h36-p-c0x00000000-rp-mo-br100",
+      "comment": "Lugar excelente para passar um final de semana tranquilo sem ser incomodado por ninguém! Silêncio sepulcral na ilha toda.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Daniel Da Silva Santana",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucrcYx9qxd7AAPxucjaiJYex5wPpvbUIDjxriut1VQ=w36-h36-p-c0x00000000-rp-mo-br100",
+      "comment": "Mano eu tava olhando pra com meu celular e sentir alguém derrubando meu celular,Triste mais ele ta de volta.",
+      "gradeComment": 1
+    },
+    {
+      "author": "Paulo Gomes",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucp8mBVpDevQ-RLzFbrxG-70LSA0nru3X3X42QkDTqs=w36-h36-p-c0x00000000-rp-mo-ba5-br100",
+      "comment": "Ilha italiana",
+      "gradeComment": 5
+    },
+    {
+      "author": "Viaggiatori Brutti",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucpH-mKyDuC5J0zm2Lzij8Wrpaf5VP_fUGpioaU5YQ=w36-h36-p-c0x00000000-rp-mo-ba5-br100",
+      "comment": "(Tradução do Google) “Respeite quem aí habita, sofrendo, pela eternidade”. Um lugar envolto em mistério, que passou de ilha dos ricos à ilha das vítimas da peste, para então se tornar a ilha da 'cura'.  (Original) \"Rispettate coloro che vi dimorano, sofferenti, per l'eternità\". Un luogo avvolto dal mistero, passato dall'essere l'isola dei benestanti all'isola degli appestati, per diventare poi l'isola per 'curare'.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Alice Lisa",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucpOKlZu9UqC_wdnaJ9fKzfUScpw15bOAHmTmrgH9c8=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "(Tradução do Google) Muito sugestivo. Uma ilha rica em história e emoções.  (Original) Molto suggestiva. Un'isola ricca di storia ed emozioni.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Vanya",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucouEMpAe_ETWKcrqMy-YO1z0eiZcWmR11w_IXDI=w36-h36-p-c0x00000000-rp-mo-br100",
+      "comment": "(Tradução do Google) A história não é muito boa, mas as camas são confortáveis  (Original) История не очень но кроватки удобные",
+      "gradeComment": 5
+    },
+    {
+      "author": "Willem",
+      "photoAuthor": "https://lh3.googleusercontent.com/a/AItbvmnTv4DCyH-xA_xgIBGfXaPf2_k9JwLLRUF2TQin=w36-h36-p-c0x00000000-rp-mo-ba2-br100",
+      "comment": "(Tradução do Google) Fomos para a ilha em um barco inflável a remo, embarcamos no Lido di Venizia no local 45 ° 22'48.0 \"N 12 ° 20'29.3\" E. Nesse local existem escadas na costa. Você pode chegar facilmente a este local usando os ônibus de transporte público. A ilha era realmente incrível.  (Original) We went to the island by using an inflatable rowboat, we boarded the water on Lido di Venizia at location 45°22'48.0\"N 12°20'29.3\"E. At that location there are stairs at the shore. You can reach this location easy by using the public transport busses. The island was really awesome.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Metus 767",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucrBsFfqRq_9SMuvTgHkTAN4-fpTTCQqT2ZA6FhH4Q=w36-h36-p-c0x00000000-rp-mo-br100",
+      "comment": "(Tradução do Google) Interessante, mas em Marghera vi coisas muito mais assustadoras.  (Original) Interessante, ma a Marghera ho visto cose decisamente più spaventose.",
+      "gradeComment": 4
+    },
+    {
+      "author": "Lilly Hatton",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucr0p5MEpWRVVyMb6DJ2-HU2dmiT1WJRqRpEsfdL6A=w36-h36-p-c0x00000000-rp-mo-br100",
+      "comment": "(Tradução do Google) Um lugar tão incrível para visitar iria novamente. Desde que eu tinha 12 anos eu sonhei em ir a esta ilha, agora com 21 anos meu sonho finalmente se tornou realidade. Eu sempre me interessei pelo paranormal, assim como a história de lá, quero dizer que muitas pessoas perderam a vida, e não a praga ou o louco Dr que torturou suas vítimas. Foi uma ótima experiência, havia tantos sinais de fantasmas presentes. Eu amei. 🥰🥰🥰  (Original) Such an amazing place to visit would go again. Ever since I was 12 I have dreamed of going to this island, now as a 21 yr old my dream has finally come true. I have always been interested in the paranormal, as well as the history there I mean so many people have lost there live, rather it be from the plague or from the crazy Dr who tortured his victims. It was such a great experience, there were so many signs of ghosts presents. I loved it. 🥰🥰🥰",
+      "gradeComment": 5
+    },
+    {
+      "author": "Ron Rico",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucpbWtlzcT_AClCfqwxlsPpqM3R4Xg9Moj54R8GC=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "(Tradução do Google) Conheci minha ex-mulher aqui. Ela claramente teve uma lobotomia, e é por isso que ela estava muito calma no início. Mas então ela ficou amarga e as veias em sua testa começaram a pulsar. Quando seu nariz caiu para ofender seu próprio rosto, isso foi o suficiente. Ouvi dizer que ela ainda é uma paciente fantasmagórica depois de ser incinerada. Eu ainda estou assombrado por seu cheiro desagradável.  (Original) Met my ex-wife here.  She clearly had a lobotomy, which is why she was very calm at first.  But then she got bitter and the veins on her forehead started pulsating.  When her nose fell off to spite her own face, that was enough.  I heard she is still a ghostly patient there after being incinerated.  I'm still haunted by her nasty smell.",
+      "gradeComment": 3
+    },
+    {
+      "author": "gnigni mignigni",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucq8Em_I6XViZCXYbFR3YXYn1BlXJjHmnnnrWGBn1w=w36-h36-p-c0x00000000-rp-mo-ba6-br100",
+      "comment": "(Tradução do Google) Incrível .. Sugestivo .. Assustador, mas emocionante .. Tive a sorte de poder visitá-lo  (Original) Incredibile .. Suggestiva.. Paurosa ma entusiasmante.. È una fortuna che l abbia potuta visitare",
+      "gradeComment": 5
+    },
+    {
+      "author": "Luca Zagagnin (ZAK)",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucroJ1_8k_mwcHVJNNbK0F4aEwHLPh3kC8CvdYLnfg=w36-h36-p-c0x00000000-rp-mo-ba5-br100",
+      "comment": "(Tradução do Google) Eu gostei. Fazia muito tempo que eu queria visitá-lo  (Original) Mi è piaciuto. Era tanto che volevo visitarlo",
+      "gradeComment": 5
+    },
+    {
+      "author": "Fran Montes",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucrlBpyy2PgTJegd-BtOifZcfNYSVuFzfYgkHRaBGdc=w36-h36-p-c0x00000000-rp-mo-ba3-br100",
+      "comment": "(Tradução do Google) Eu não tenho sido como todos aqueles que revisam  (Original) No he estado como todos los que hacen  reseña",
+      "gradeComment": 5
+    },
+    {
+      "author": "윤승주",
+      "photoAuthor": "https://lh3.googleusercontent.com/a/AItbvmlUxhvQQ2CeEokgCFkQgakHqdP4jLvsGybuZOVU=w36-h36-p-c0x00000000-rp-mo-br100",
+      "comment": "(Tradução do Google) Não vá para aquela ilha!Realmente existem fantasmas!!  (Original) 그섬에 가지마세요!!진짜로 귀신있음!!",
+      "gradeComment": 1
+    },
+    {
+      "author": "Agata Be",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucpIEbe24V8tR95zBxTQuAYYgSJHA3PZ4Sq2s8P1mds=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "(Tradução do Google) Atmosfera misteriosa incrível em toda a ilha. Abandonado, esquecido, com uma história assustadora.  (Original) Niesamowity tajemniczy klimat na całej wyspie. Opuszczona, zapomniana, z przerażającą historią.",
+      "gradeComment": 5
+    },
+    {
+      "author": "sarcazm",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucoPmruzOHNFKuE-gmODjJNkYaYMz8EFOTuE3GDK=w36-h36-p-c0x00000000-rp-mo-br100",
+      "comment": "(Tradução do Google) Ilha legal!! 🥳🥳 Nós saímos com amigos lá durante a praga, é legal😎  (Original) Крутой остров!!🥳🥳Мы там во время чумы тусили с друзьями ваще круто😎",
+      "gradeComment": 5
+    },
+    {
+      "author": "최누리",
+      "photoAuthor": "https://lh3.googleusercontent.com/a/AItbvmnz_6nh12Px_UHbg3EmulzfZQ7V_EFm8NqhReUK=w36-h36-p-c0x00000000-rp-mo-br100",
+      "comment": "(Tradução do Google) Eu sou real porque sou real  (Original) 나유투부봔는데 진짜로있어서 가봔는데진짜로있음",
+      "gradeComment": 1
+    },
+    {
+      "author": "Shotokan ZH",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucp0Fukkz1fyoNgiO5rF7bCKUMOfgbxqOYQ1qDyHKV8=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "(Tradução do Google) Eu escolhi esta pequena ilha para comer ossos com os amigos. Infelizmente, tivemos uma experiência muito ruim: alguém escondido jogou fora as cadeiras e apagou o fogo. No começo, culpamos o vento, mas também entramos. Eles começaram a tirar sarro de nós e jogaram armários no chão nas salas vizinhas. Não voltarei a comer lá.  (Original) Ho scelto quest'isoletta per mangiare ossetti con gli amici. Purtroppo abbiamo avuto una pessima esperienza: qualcuno nascosto ci lanciava via le sedie e spegneva il fuoco. All'inizio avevamo dato la colpa al vento ma anche entrati hanno iniziato a farci burle e buttavano a terra armadi nelle stanze vicine. Non tornerò a mangiare lì.",
+      "gradeComment": 2
+    },
+    {
+      "author": "Rielana knaup",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucqcj5u1hDdxRdY09TGLJ-plQVcZxQbMg4f7amg1pXM=w36-h36-p-c0x00000000-rp-mo-br100",
+      "comment": "(Tradução do Google) Antigamente, as pessoas eram trazidas para cá quando estavam doentes, porque quando ainda estavam na sua própria aldeia, mais e mais pessoas adoeciam. Portanto, foram trazidos para a ilha, também havia médicos lá na ilha, mas eles também estavam doente que mais tarde cometeu suicídio na ilha subterrânea são pessoas mortas que estão enterradas pessoas que morreram foram queimadas em um cremador Você se atreve a ir lá Eu não ouço Eu vou achar muito bonito assim como pedaço de TV  (Original) Vroeger in de oude tijd werden hier mensen naar toe gebracht als ze ziek waren want als ze bij hun eigen dorp nog waren werden er steeds meer mensen ziek Daarom werden ze naar de het eiland gebracht er waren daar ook dokters op het eiland maar die werden ook ziek die gingen later zelfmoord plegen op het eiland onder de grond zijn dode mensen die zijn begraven mensen die dood gingen werden verbrand in een crematieoven Durf jij daar naartoe te gaan Ik niet hoor Ik zal het heel knap vinden net als stuk Tv",
+      "gradeComment": 3
+    },
+    {
+      "author": "りんしさかぽ",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucp_37Ha2nM-gA1Jli2LzokWjjh25x1SkIkdUh3zlA=w36-h36-p-c0x00000000-rp-mo-br100",
+      "comment": "(Tradução do Google) Eu quero coletar 50 dos médiuns espíritas mais fortes do mundo e enviá-los para esta ilha  (Original) 世界最強クラスの霊媒師50人集めてこの島に送り込たい",
+      "gradeComment": 5
+    }
+  ],
+  "peakHours": null,
+  "relatedSearches": [
+    "ilha de poveglia wikipedia",
+    "ilha de poveglia filme",
+    "codex poveglia",
+    "ilha sentinela do norte",
+    "atol das rocas",
+    "a ilha maldita livro",
+    "uma história a mais",
+    "ilha na itália assombrada",
+    "ilha de poveglia wikipedia",
+    "ilha de poveglia filme",
+    "codex poveglia",
+    "ilha sentinela do norte",
+    "atol das rocas",
+    "a ilha maldita livro",
+    "uma história a mais",
+    "ilha na itália assombrada"
+  ],
+  "relateds": [
+    {
+      "mainName": "Ilha das Bonecas",
+      "url": null
+    },
+    {
+      "mainName": "Lazzaretto Vecchio",
+      "url": null
+    },
+    {
+      "mainName": "Ilha de Queimada Grande",
+      "url": null
+    },
+    {
+      "mainName": "San Servolo",
+      "url": null
+    },
+    {
+      "mainName": "Lagoa de Veneza",
+      "url": null
+    },
+    {
+      "mainName": "Ilha Gruinard",
+      "url": null
+    },
+    {
+      "mainName": "Fidonisi",
+      "url": null
+    },
+    {
+      "mainName": "Bostel di Rotzo",
+      "url": null
+    },
+    {
+      "mainName": "Surtsey",
+      "url": null
+    },
+    {
+      "mainName": "Santa Maria del Rosario, Alcamo",
+      "url": null
+    },
+    {
+      "mainName": "Vignole",
+      "url": null
+    },
+    {
+      "mainName": "São Miguel",
+      "url": null
+    },
+    {
+      "mainName": "Niihau",
+      "url": null
+    },
+    {
+      "mainName": "Lido",
+      "url": null
+    },
+    {
+      "mainName": "Floresta de Hoia-Baciu",
+      "url": null
+    },
+    {
+      "mainName": "San Lazzaro degli Armeni",
+      "url": null
+    },
+    {
+      "mainName": "Lago Natron",
+      "url": null
+    },
+    {
+      "mainName": "Sacca Fisola",
+      "url": null
+    },
+    {
+      "mainName": "San Giorgio Maggiore",
+      "url": null
+    },
+    {
+      "mainName": "Ilha Vozrozhdeniya",
+      "url": null
+    },
+    {
+      "mainName": "Foof Museum of the Dog Mondragone",
+      "url": null
+    },
+    {
+      "mainName": "Isola di San Secondo",
+      "url": null
+    },
+    {
+      "mainName": "Lazzaretto Nuovo",
+      "url": null
+    },
+    {
+      "mainName": "San Pietro di Castello",
+      "url": null
+    },
+    {
+      "mainName": "Ilha das Bonecas",
+      "url": null
+    },
+    {
+      "mainName": "Lazzaretto Vecchio",
+      "url": null
+    },
+    {
+      "mainName": "Ilha de Queimada Grande",
+      "url": null
+    },
+    {
+      "mainName": "San Servolo",
+      "url": null
+    },
+    {
+      "mainName": "Lagoa de Veneza",
+      "url": null
+    },
+    {
+      "mainName": "Ilha Gruinard",
+      "url": null
+    },
+    {
+      "mainName": "Fidonisi",
+      "url": null
+    },
+    {
+      "mainName": "Bostel di Rotzo",
+      "url": null
+    },
+    {
+      "mainName": "Surtsey",
+      "url": null
+    },
+    {
+      "mainName": "Santa Maria del Rosario, Alcamo",
+      "url": null
+    },
+    {
+      "mainName": "Vignole",
+      "url": null
+    },
+    {
+      "mainName": "São Miguel",
+      "url": null
+    },
+    {
+      "mainName": "Niihau",
+      "url": null
+    },
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

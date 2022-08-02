@@ -1,0 +1,812 @@
+{
+  "mainName": "Mirante das Galhetas",
+  "slug": "mirante-das-galhetas",
+  "category": "Ponto panorâmico",
+  "locationInformation": {
+    "latitude": "-24.0132551",
+    "longitude": "-46.2645973"
+  },
+  "basicInformation": [
+    {
+      "label": "endereço",
+      "tooltip": "Copiar endereço",
+      "text": "R. das Galhetas - Jardim Asturias, Guarujá - SP, 11420-100",
+      "icon": "https://www.gstatic.com/images/icons/material/system_gm/1x/place_gm_blue_24dp.png"
+    },
+    {
+      "label": "website",
+      "tooltip": "Abrir website",
+      "text": "guaruja.sp.gov.br",
+      "icon": "https://www.gstatic.com/images/icons/material/system_gm/1x/public_gm_blue_24dp.png"
+    },
+    {
+      "label": "Code",
+      "tooltip": "Copiar Plus Code",
+      "text": "XPPP+M5 Jardim Asturias, Guarujá - SP",
+      "icon": "https://maps.gstatic.com/mapfiles/maps_lite/images/2x/ic_plus_code.png"
+    }
+  ],
+  "ratingInformation": {
+    "basicRatingInformation": {
+      "averageGrade": 4.8,
+      "totalOfEvaluations": 3523
+    },
+    "ratingsByGrade": [
+      {
+        "grade": 5,
+        "totalRatings": 2868
+      },
+      {
+        "grade": 4,
+        "totalRatings": 483
+      },
+      {
+        "grade": 3,
+        "totalRatings": 128
+      },
+      {
+        "grade": 2,
+        "totalRatings": 22
+      },
+      {
+        "grade": 1,
+        "totalRatings": 22
+      }
+    ]
+  },
+  "ratingTags": [
+    {
+      "tag": "mar",
+      "count": 112,
+      "tooltip": "mar, mencionado em 112 avaliações"
+    },
+    {
+      "tag": "seguro",
+      "count": 19,
+      "tooltip": "seguro, mencionado em 19 avaliações"
+    },
+    {
+      "tag": "ondas",
+      "count": 18,
+      "tooltip": "ondas, mencionado em 18 avaliações"
+    },
+    {
+      "tag": "contemplar",
+      "count": 16,
+      "tooltip": "contemplar, mencionado em 16 avaliações"
+    },
+    {
+      "tag": "vidro",
+      "count": 16,
+      "tooltip": "vidro, mencionado em 16 avaliações"
+    },
+    {
+      "tag": "admirar",
+      "count": 15,
+      "tooltip": "admirar, mencionado em 15 avaliações"
+    },
+    {
+      "tag": "pescar",
+      "count": 12,
+      "tooltip": "pescar, mencionado em 12 avaliações"
+    },
+    {
+      "tag": "namorar",
+      "count": 10,
+      "tooltip": "namorar, mencionado em 10 avaliações"
+    },
+    {
+      "tag": "relaxar",
+      "count": 6,
+      "tooltip": "relaxar, mencionado em 6 avaliações"
+    },
+    {
+      "tag": "calmo",
+      "count": 5,
+      "tooltip": "calmo, mencionado em 5 avaliações"
+    }
+  ],
+  "featuredPhotos": [
+    "https://lh5.googleusercontent.com/p/AF1QipMZGV4i1ssjH3-_U0DPOUxQnerXPsWumtEgvnG9=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNdBwz0PU8oJUjwSyoGyxXHiuh1Y4eNo9lBIg0y=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPvv_cdYGsAZSb9-Yzi2DdRf01oN3RWRntC4pwx=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNAb_hk8jfBTLg0Fx0F22kb7iQlnyX6mxFWzfo4=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMiHLWnNzoH1TtnziEIqpylZUFPXneoDn2pNSoA=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMzD6XlxQ3s7zp-zXpaU3SRkub3V5B9Qh3AobuB=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMgUfOinVf2uSfwiQIHUrHZdin3ODSh43qyKzmu=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMm28dBY737qEh10M6yFp-kKkAE4vtVdEuwPLIV=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNod9ONO58reMuG2-qXR0-3iAXKiwtLjnrpTzwt=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOAwTDiOwMUp5DOeNDFq_MIZgxGCCiBRjC0z8op=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNLkBRK1zYGmSkjZI6J1DdKtQx1nJO2Ceqn8dm8=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipM-pzTx4NBg_JZnexUc-pfCauwqgDOwJZ9zhFdX=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNZ_cu0ysKkkapkKkHdrKF8Yl5lMlBufbBwitV2=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipObKLr1sffd4OISZMYbe5uE4MD-qt5t2jDCUK6c=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNquEWak_f7tOXiGlF4kYHz5b7hVt75WBpS4dzb=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMGap2UZASFJnCEHFALOocICr6zqDXy44N46B4H=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMi6EE6LvkyhLcgNDvm88oGC7res46pyfdgdyXO=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPdLntBDj2Yo6TfouYulz0IwxnlBisEJlAW5SXo=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNcePpOSNv4hIlmCTajNSQ2B_kGyJARaRZY40kU=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMXS_KTEDsIf5sSCv58gRqIVhxFPVZu6B_PRdwI=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOh3tGk_H3PDV2l0NwpTRj30_HexM-hbrW43P85=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMxabu0OziUwE5P0TbjnQek5S4TlzzNBh-KFwtR=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipN_EuNyWSSv9hyxedq29-gYbvt91Hb7FVrNO_FM=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipO_ybKmnfo4gNVHN49LoQ85o12O94z3wrkeXRjc=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipN65kvy9uI6bOb5wq9CNuj_Khw8QOjAMWu8NJw4=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipM15vxyo1G_dq2UUQWBjLgeJtdi1tbl70WJyuE_=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPGI4m0NHF3446Ig4rqsulZ36_gcMkmhXy7kaiG=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOduzXdA110qP9n0lfYAnUCIoTH6MBmhkeRZ2te=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOphXdJd7trcMoc4HUSGRrW8_a18ziBCzw1oalZ=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipM0QyXFF68FjjilR3bPXr6ZDLQzw_aJFhPu4IBt=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOOrpbjXu1OaitFoknV_Lbr8Q5GB4PDCNmrJnou=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMdDhlFzPEUMMi66pZvHqCZQPBbByQE4pJqXNn_=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMAFg97Hl0brzr9alkH8LURAxQ94JEhOdE2u-1M=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOkExx0o4V2NcoUqLmAFWJooSJfx6lHIL_frNIC=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPYnIW3YIXHmXLCkBg_da3Ahr3S2j011mCFPwjf=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNPwWHfLeixR5KlxJujyw-gRlAXIOmsO-2QpOt0=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNG3zmFl_ZeBhIj_U6ZBT8GsWkSLQpVXT7CLcgK=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMP0u5yvUsaZJOfRIiSzl4jbOctwUbmmxIU22cp=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMmvldUheFAkpd4n4MRK_Gz2C-epVQFVmF6S6yb=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNDokkQVmPSmviLWNSIZyAWQDnS-2fgDN63xQWA=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipM1NKVKYqJBicVF5p3LBc4dk9ZYDlY5ilWclnu6=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipP8vhNr8oUec_XxkwGpF0TlZ7J4fnxDRefdxgCd=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMPHj_28fWNhXMWRXy3eXltSA2_GlfDnW-4a0Kh=w1024-h576-k-no"
+  ],
+  "topComments": [
+    {
+      "author": "Luana Lima",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucrf25p8Azg-i7ciXHG8pqAQ4W0bgPdbkqypKhHk72Y=w36-h36-p-c0x00000000-rp-mo-ba3-br100",
+      "comment": "Vista maravilhosa, não paga nada para entrar , mas eles arrecadam alimentos na entrada, eu fui sem porque não sabia, mas pode entrar mesmo assim, tinha uma filinha só para tirar fotos no balanço mas é bem rápida.O piso de vidro estava bem embasado não dava pra ver direto lá em baixo, mas pra mim estava de boas pq tenho medo kkkkkk mas caso for na intenção de tirar foto no vidro , não vão ficar tão legais. Tinha um moço tocando saxofone e muito bem por sinal, deixou a vista ainda mais linda 🤍 enfim ameiiii, pretendo ir novamente e ficar por mais tempo! (Só sentir falta de banheiros lá em cima).",
+      "gradeComment": 5
+    },
+    {
+      "author": "Rafaela Honorato",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucrEUXdrvx5jEyTmFqdC6IS-6n9SV5SfEdSSfYs1Xw=w36-h36-p-c0x00000000-rp-mo-ba3-br100",
+      "comment": "Poder voltar a minha terra depois de 3 anos e ver o quanto mudou, foi um momento incrivel. Mirante das Galhetas ta incrivel e vale muito a pena ser visitado. A vista sempre foi linda, mas a melhoria que fizeram no local, super organizado e principalmente muito seguro. Se estiverem pelo Guaruja, passem por la, uma vista linda de parte da perola do Atlantico:)",
+      "gradeComment": 5
+    },
+    {
+      "author": "Rocco Belletti",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucqQtFuItucPKTuyxOSZO37jOCj4prkpTgBL3p9748U=w36-h36-p-c0x00000000-rp-mo-ba2-br100",
+      "comment": "Acompanhei uma família de venezuelanos em visita no Brasil e essa vista fez o passeio bem mais lindo e panorâmico.  Lindíssima surpresa.  Dava para ver de forma fantástica a vista da praia do Tombo e as manovras incríveis dos surfistas alí presentes ! Recomendo ! #rocktourguide",
+      "gradeComment": 5
+    },
+    {
+      "author": "Elaine Andrade",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucr5e0UcZgzXuuuH3WUAom8y0Ony5Ru8ofceRSN3QQ=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "Vista maravilhosa! Gratuito! Quem for de carro pedem que leve uma doação, quilo de alimento não perecível.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Victor Gabriel",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucoPvDsrOjGKhXuuCu4bsH5YL-I1n8NDcI0e3vI2tWQ=w36-h36-p-c0x00000000-rp-mo-br100",
+      "comment": "Acesso ao mirante facilmente por Uber que te deixa no topo do mirante ou apé. Local de fácil acesso, vista extraordinário, local limpo e muito organizado, bom pra tirar fotos e apreciar a paisagem.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Raissa Ferreira",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucqmSFvvZ12S3gh85r7wy2gaiq-T3b9rcobhlc_G=w36-h36-p-c0x00000000-rp-mo-ba3-br100",
+      "comment": "Um visual maravilhoso!! Com vista para a praia do Tombo. Um mezanino que leva a uma sensação maravilhosa!! E um balanço para tirar várias fotos ótimas!!",
+      "gradeComment": 5
+    },
+    {
+      "author": "Cathia Alves",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucqsdLp_6eQ7NMVtFOhM64W3pLprHqDw-elDvMmeog=w36-h36-p-c0x00000000-rp-mo-ba5-br100",
+      "comment": "Lugar de contemplação! Pode subir a pé (exigência média) e pode subir de carro. Não paga nada pra visitar, mas pode doar 1kg de alimento! Guarujá se reinventando !",
+      "gradeComment": 5
+    },
+    {
+      "author": "Vivian Erlichman",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucqN2q9yhx-McxYT8aF0vtmHkGFInyxSW-2r5SMIaSs=w36-h36-p-c0x00000000-rp-mo-ba3-br100",
+      "comment": "Lindo lugar, linda vista, vale a pena levar uma canga e sentar na grama para apreciar a vista. Aceitam doacoes de alimentos. Seguranca na entrada. Recomendo.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Luiz Gustavo Gondo",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucq5CwvTc_7QSLX4S4vmPLGB358nZDbVOFQIQqTSCg=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "Um lugar incrível, sua vista e espetacular. Vale muito a pena visitar a tirar fotos maravilhosas.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Andreza Luiza",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucpByB9uTProPu8EJyAcL7Dgap5BA59SqwDZ8xCcYmY=w36-h36-p-c0x00000000-rp-mo-ba3-br100",
+      "comment": "vista linda que vale a pena ver pois o local é de fácil acesso, próximo a praia de astúrias, porém, não encontramos o que tem vidros assim como tem as fotos aqui, deve ter outra entrada.",
+      "gradeComment": 3
+    },
+    {
+      "author": "Carlos Santos",
+      "photoAuthor": "https://lh3.googleusercontent.com/a/AItbvmljbYBqkyJ17Wp2QLVAwkAuNwdCDLHcFlompIep=w36-h36-p-c0x00000000-rp-mo-ba5-br100",
+      "comment": "Lugar magnífico para se contemplar uma excelente visão da Praia do Tombo. Tanto de dia quanto a noite. Recomendo",
+      "gradeComment": 5
+    },
+    {
+      "author": "Giorgio Raffel",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucq6CORi3zRDfzcd88jIxyFmLX9DWqPRwtyzNrsJb5U=w36-h36-p-c0x00000000-rp-mo-ba5-br100",
+      "comment": "Lugar sensacional para tirar belas fotos!  A pouco mais de 3 kms da balsa",
+      "gradeComment": 5
+    },
+    {
+      "author": "Manu Az",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucoWHZBKKzkX5h8s1aIghIt2BxoC-256cBAkrAnBxrY=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "Lugar lindo, infelizmente nos dois dias que fui, estava bem nublado, mas isso não tirou a beleza do lugar, na verdade, acredito que realçou ainda mais 😅, as pedras estavam bem escuras por conta da chuvinha e o mar um pouco agitado, então fotos na ponta das pedras da frente, ficaram um pouco mais perigosas e deu um pouquinho mais de medo quando a onda vinha kKkkk, mas se tu gosta, só vai.  Pra chegar nas pedras, tu vai subir a ruazinha até o mirante, e no lado esquerdo da cerca, tem um tipo de trilha, cuidado pra não torcer o pé, é só passar pela cerca, por baixo ou por cima, como se sentir mais confortável 💁🏽‍♀️tem matinho nessa parte, então fique ligado pra ver se não tem nenhum animalzinho que tu possa machucar ou ele te machucar e cuidado na hora de subir também, se for em companhia, já lança o \"pezinho\" pra ajudar os mais baixinhos e os mais \"fraquinhos\" a subir, poisé um pouquinho alto, +/- 1,5m, tem uma pedra de apoio e tals, mas tem uma galera que não tem os molejo pra subir.  A partir daí é só aproveitar, tem pessoas que pescam, outros vão tirar fotos maravilindas, é um local muito bonito, mesmo que seja só para ficar observando, só fiquei ali no meio mesmo, não pude dar uma explorada maior, quem sabe numa próxima.  *Uma moradora disse que da pra ver ou o nascer ou o por do sol por ali, imagina que lindo deve ser quando o céu está limpo (e eu não pude ver ಥ‿ಥ), quando eu lembrar qual dos dois da pra ver melhor, atualizo aqui.*  Espero ter ajudado em algo e se tu for, tenha um bom passeio😘  #MalsPeloTexto",
+      "gradeComment": 5
+    },
+    {
+      "author": "Marley Lopes",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucq9XJFfCiX_aQ-naYObqLuetPOg5OOcI7uXIMcV=w36-h36-p-c0x00000000-rp-mo-ba5-br100",
+      "comment": "Local lindo com vistas para praias exuberantes, muito organizado e bem cuidado, vagas demarcadas para automóveis e bem sinalizado visando a segurança. Recomendo o passeio.",
+      "gradeComment": 5
+    },
+    {
+      "author": "sabrina vieira",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucq4cdgTxdSdJtMNMb6ReHXUfDG3gmd2hGD8VjcRDrw=w36-h36-p-c0x00000000-rp-mo-br100",
+      "comment": "Vista panorâmica maravilhosa, excelente para ver o pôr do sol. Vale a pena visitar",
+      "gradeComment": 5
+    },
+    {
+      "author": "Thaisa Aidar",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucqV6kH99OLqkAL6VRlXkWlVTG-0Qyn2D1637gTH3MY=w36-h36-p-c0x00000000-rp-mo-ba6-br100",
+      "comment": "Espaço muito legal, bem policiado e com vista excelente da cidade...super recomendo a visita",
+      "gradeComment": 5
+    },
+    {
+      "author": "Victor Oliveira",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucpiJ4iRkAukFDCICKvM0BiSaROhsEAjiDtA_pkgsw=w36-h36-p-c0x00000000-rp-mo-ba3-br100",
+      "comment": "Lugar muito bonito, dá acesso a uma vista linda.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Ana Mendes",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucqaPU6aoZYv2awDWgxX0BdOMf-MfWP0YhDHno3hwjM=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "A vista é incrível. Tem limites de carros . O  local é muito bem sinalizado. Logo na subida os colaboradores entregarão um número de identificação, que é onde  deverão estacionar .sorte de quem pegar números baixos,porque,quanto mais alto é o número ,mais longe do mirante  irá estacionar . A propósito ainda estão recebendo alimentos.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Ricardo Bussioli",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucpUDRUPG_qvpJwYKmn_PqyRD2uP7AE9r0R1aicDN-w=w36-h36-p-c0x00000000-rp-mo-ba5-br100",
+      "comment": "Possui uma boa quantidade de vagas para estacionar, mas fique preparado para caminhar alguns metros pois as vagas ficam ao longo da subida. Passe protetor solar pois não há sombra. A vista dispensa comentários e vale muito a pena a visita.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Marcelo Marino",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZuco0nqbQtoTzL2DZlFjdNP2Duz9ZRtpk8De685898OU=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "Muito bonito! Apesar do dia feio e chuvoso o visual é incrível..",
+      "gradeComment": 5
+    }
+  ],
+  "peakHours": [
+    {
+      "Sunday": [
+        {
+          "hour": "08:00",
+          "percent": 43
+        },
+        {
+          "hour": "09:00",
+          "percent": 56
+        },
+        {
+          "hour": "10:00",
+          "percent": 69
+        },
+        {
+          "hour": "11:00",
+          "percent": 81
+        },
+        {
+          "hour": "12:00",
+          "percent": 90
+        },
+        {
+          "hour": "13:00",
+          "percent": 97
+        },
+        {
+          "hour": "14:00",
+          "percent": 100
+        },
+        {
+          "hour": "15:00",
+          "percent": 97
+        },
+        {
+          "hour": "16:00",
+          "percent": 90
+        },
+        {
+          "hour": "17:00",
+          "percent": 77
+        },
+        {
+          "hour": "18:00",
+          "percent": 62
+        },
+        {
+          "hour": "19:00",
+          "percent": 46
+        }
+      ]
+    },
+    {
+      "Monday": [
+        {
+          "hour": "08:00",
+          "percent": 31
+        },
+        {
+          "hour": "09:00",
+          "percent": 51
+        },
+        {
+          "hour": "10:00",
+          "percent": 66
+        },
+        {
+          "hour": "11:00",
+          "percent": 69
+        },
+        {
+          "hour": "12:00",
+          "percent": 63
+        },
+        {
+          "hour": "13:00",
+          "percent": 54
+        },
+        {
+          "hour": "14:00",
+          "percent": 54
+        },
+        {
+          "hour": "15:00",
+          "percent": 59
+        },
+        {
+          "hour": "16:00",
+          "percent": 50
+        },
+        {
+          "hour": "17:00",
+          "percent": 27
+        },
+        {
+          "hour": "18:00",
+          "percent": 8
+        },
+        {
+          "hour": "19:00",
+          "percent": 1
+        }
+      ]
+    },
+    {
+      "Tuesday": [
+        {
+          "hour": "08:00",
+          "percent": 38
+        },
+        {
+          "hour": "09:00",
+          "percent": 61
+        },
+        {
+          "hour": "10:00",
+          "percent": 74
+        },
+        {
+          "hour": "11:00",
+          "percent": 73
+        },
+        {
+          "hour": "12:00",
+          "percent": 60
+        },
+        {
+          "hour": "13:00",
+          "percent": 49
+        },
+        {
+          "hour": "14:00",
+          "percent": 50
+        },
+        {
+          "hour": "15:00",
+          "percent": 58
+        },
+        {
+          "hour": "16:00",
+          "percent": 50
+        },
+        {
+          "hour": "17:00",
+          "percent": 28
+        },
+        {
+          "hour": "18:00",
+          "percent": 8
+        },
+        {
+          "hour": "19:00",
+          "percent": 1
+        }
+      ]
+    },
+    {
+      "Wednesday": [
+        {
+          "hour": "08:00",
+          "percent": 27
+        },
+        {
+          "hour": "09:00",
+          "percent": 48
+        },
+        {
+          "hour": "10:00",
+          "percent": 60
+        },
+        {
+          "hour": "11:00",
+          "percent": 60
+        },
+        {
+          "hour": "12:00",
+          "percent": 52
+        },
+        {
+          "hour": "13:00",
+          "percent": 47
+        },
+        {
+          "hour": "14:00",
+          "percent": 52
+        },
+        {
+          "hour": "15:00",
+          "percent": 57
+        },
+        {
+          "hour": "16:00",
+          "percent": 50
+        },
+        {
+          "hour": "17:00",
+          "percent": 31
+        },
+        {
+          "hour": "18:00",
+          "percent": 13
+        },
+        {
+          "hour": "19:00",
+          "percent": 3
+        }
+      ]
+    },
+    {
+      "Thursday": [
+        {
+          "hour": "08:00",
+          "percent": 25
+        },
+        {
+          "hour": "09:00",
+          "percent": 50
+        },
+        {
+          "hour": "10:00",
+          "percent": 69
+        },
+        {
+          "hour": "11:00",
+          "percent": 74
+        },
+        {
+          "hour": "12:00",
+          "percent": 70
+        },
+        {
+          "hour": "13:00",
+          "percent": 65
+        },
+        {
+          "hour": "14:00",
+          "percent": 66
+        },
+        {
+          "hour": "15:00",
+          "percent": 70
+        },
+        {
+          "hour": "16:00",
+          "percent": 72
+        },
+        {
+          "hour": "17:00",
+          "percent": 68
+        },
+        {
+          "hour": "18:00",
+          "percent": 58
+        },
+        {
+          "hour": "19:00",
+          "percent": 44
+        }
+      ]
+    },
+    {
+      "Friday": [
+        {
+          "hour": "08:00",
+          "percent": 42
+        },
+        {
+          "hour": "09:00",
+          "percent": 66
+        },
+        {
+          "hour": "10:00",
+          "percent": 76
+        },
+        {
+          "hour": "11:00",
+          "percent": 72
+        },
+        {
+          "hour": "12:00",
+          "percent": 64
+        },
+        {
+          "hour": "13:00",
+          "percent": 64
+        },
+        {
+          "hour": "14:00",
+          "percent": 73
+        },
+        {
+          "hour": "15:00",
+          "percent": 82
+        },
+        {
+          "hour": "16:00",
+          "percent": 84
+        },
+        {
+          "hour": "17:00",
+          "percent": 75
+        },
+        {
+          "hour": "18:00",
+          "percent": 59
+        },
+        {
+          "hour": "19:00",
+          "percent": 41
+        }
+      ]
+    },
+    {
+      "Saturday": [
+        {
+          "hour": "08:00",
+          "percent": 39
+        },
+        {
+          "hour": "09:00",
+          "percent": 59
+        },
+        {
+          "hour": "10:00",
+          "percent": 75
+        },
+        {
+          "hour": "11:00",
+          "percent": 83
+        },
+        {
+          "hour": "12:00",
+          "percent": 82
+        },
+        {
+          "hour": "13:00",
+          "percent": 76
+        },
+        {
+          "hour": "14:00",
+          "percent": 72
+        },
+        {
+          "hour": "15:00",
+          "percent": 69
+        },
+        {
+          "hour": "16:00",
+          "percent": 69
+        },
+        {
+          "hour": "17:00",
+          "percent": 66
+        },
+        {
+          "hour": "19:00",
+          "percent": 51
+        }
+      ]
+    }
+  ],
+  "relatedSearches": [
+    "mirante das galhetas preço",
+    "mirante das galhetas telefone",
+    "mirante das galhetas horário de funcionamento",
+    "mirante das galhetas onde fica",
+    "mirante das galhetas fotos",
+    "mirante das galhetas restaurante",
+    "mirante guarujá astúrias",
+    "mirante do guarujá",
+    "mirante das galhetas preço",
+    "mirante das galhetas telefone",
+    "mirante das galhetas horário de funcionamento",
+    "mirante das galhetas onde fica",
+    "mirante das galhetas fotos",
+    "mirante das galhetas restaurante",
+    "mirante guarujá astúrias",
+    "mirante do guarujá"
+  ],
+  "relateds": [
+    {
+      "mainName": "Mirante do Morro da Campina",
+      "url": null
+    },
+    {
+      "mainName": "Praia das Astúrias",
+      "url": null
+    },
+    {
+      "mainName": "Mirante do Morro das Galhetas",
+      "url": null
+    },
+    {
+      "mainName": "Praia do Tombo",
+      "url": null
+    },
+    {
+      "mainName": "Praia do Guaiúba",
+      "url": null
+    },
+    {
+      "mainName": "Forte dos Andradas",
+      "url": null
+    },
+    {
+      "mainName": "Praia Preta",
+      "url": null
+    },
+    {
+      "mainName": "Praia de Fora",
+      "url": null
+    },
+    {
+      "mainName": "Praia do Pinheiro",
+      "url": null
+    },
+    {
+      "mainName": "Praia do Sangava",
+      "url": null
+    },
+    {
+      "mainName": "Acqua Mundo",
+      "url": null
+    },
+    {
+      "mainName": "Praia do Góis",
+      "url": null
+    },
+    {
+      "mainName": "Edifício Sobre as Ondas",
+      "url": null
+    },
+    {
+      "mainName": "Feira de Artesanato das Astúrias",
+      "url": null
+    },
+    {
+      "mainName": "Praia Branca",
+      "url": null
+    },
+    {
+      "mainName": "Praia do Éden",
+      "url": null
+    },
+    {
+      "mainName": "Museu Histórico da Fortaleza de Santo Amaro da Barra Grande",
+      "url": null
+    },
+    {
+      "mainName": "Ilha do Mar Casado",
+      "url": null
+    },
+    {
+      "mainName": "Ilha dos Arvoredos",
+      "url": null
+    },
+    {
+      "mainName": "Ilha de Santo Amaro",
+      "url": null
+    },
+    {
+      "mainName": "Forte São Luiz",
+      "url": null
+    },
+    {
+      "mainName": "Praia do Goes",
+      "url": null
+    },
+    {
+      "mainName": "Praia Saco do Major",
+      "url": null
+    },
+    {
+      "mainName": "Mirante do Morro da Campina",
+      "url": null
+    },
+    {
+      "mainName": "Praia das Astúrias",
+      "url": null
+    },
+    {
+      "mainName": "Mirante do Morro das Galhetas",
+      "url": null
+    },
+    {
+      "mainName": "Praia do Tombo",
+      "url": null
+    },
+    {
+      "mainName": "Praia do Guaiúba",
+      "url": null
+    },
+    {
+      "mainName": "Forte dos Andradas",
+      "url": null
+    },
+    {
+      "mainName": "Praia Preta",
+      "url": null
+    },
+    {
+      "mainName": "Praia de Fora",
+      "url": null
+    },
+    {
+      "mainName": "Praia do Pinheiro",
+      "url": null
+    },
+    {
+      "mainName": "Praia do Sangava",
+      "url": null
+    },
+    {
+      "mainName": "Acqua Mundo",
+      "url": null
+    },
+    {
+      "mainName": "Praia do Góis",
+      "url": null
+    },
+    {
+      "mainName": "Edifício Sobre as Ondas",
+      "url": null
+    },
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

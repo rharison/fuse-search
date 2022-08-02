@@ -1,0 +1,611 @@
+{
+  "mainName": "La Chascona",
+  "slug": "la-chascona",
+  "category": "Museu",
+  "locationInformation": {
+    "latitude": "-33.4311212",
+    "longitude": "-70.6344175"
+  },
+  "basicInformation": [
+    {
+      "label": "endereço",
+      "tooltip": "Copiar endereço",
+      "text": "Fernando Márquez de La Plata 0192, Santiago, Providencia, Región Metropolitana, Chile",
+      "icon": "https://www.gstatic.com/images/icons/material/system_gm/1x/place_gm_blue_24dp.png"
+    },
+    {
+      "label": "website",
+      "tooltip": "Abrir website",
+      "text": "fundacionneruda.org",
+      "icon": "https://www.gstatic.com/images/icons/material/system_gm/1x/public_gm_blue_24dp.png"
+    },
+    {
+      "label": "telefone",
+      "tooltip": "Copiar número de telefone",
+      "text": "+56 2 2777 8741",
+      "icon": "https://www.gstatic.com/images/icons/material/system_gm/1x/phone_gm_blue_24dp.png"
+    },
+    {
+      "label": "Code",
+      "tooltip": "Copiar Plus Code",
+      "text": "H998+H6 Providencia, Chile",
+      "icon": "https://maps.gstatic.com/mapfiles/maps_lite/images/2x/ic_plus_code.png"
+    }
+  ],
+  "ratingInformation": {
+    "basicRatingInformation": {
+      "averageGrade": 4.6,
+      "totalOfEvaluations": 4042
+    },
+    "ratingsByGrade": [
+      {
+        "grade": 5,
+        "totalRatings": 2886
+      },
+      {
+        "grade": 4,
+        "totalRatings": 763
+      },
+      {
+        "grade": 3,
+        "totalRatings": 247
+      },
+      {
+        "grade": 2,
+        "totalRatings": 56
+      },
+      {
+        "grade": 1,
+        "totalRatings": 90
+      }
+    ]
+  },
+  "ratingTags": [
+    {
+      "tag": "pablo neruda",
+      "count": 561,
+      "tooltip": "pablo neruda, mencionado em 561 avaliações"
+    },
+    {
+      "tag": "poeta",
+      "count": 157,
+      "tooltip": "poeta, mencionado em 157 avaliações"
+    },
+    {
+      "tag": "audioguia",
+      "count": 127,
+      "tooltip": "audioguia, mencionado em 127 avaliações"
+    },
+    {
+      "tag": "mario hermoso",
+      "count": 69,
+      "tooltip": "mario hermoso, mencionado em 69 avaliações"
+    },
+    {
+      "tag": "escritor",
+      "count": 49,
+      "tooltip": "escritor, mencionado em 49 avaliações"
+    },
+    {
+      "tag": "vale",
+      "count": 39,
+      "tooltip": "vale, mencionado em 39 avaliações"
+    },
+    {
+      "tag": "história do chile",
+      "count": 33,
+      "tooltip": "história do chile, mencionado em 33 avaliações"
+    },
+    {
+      "tag": "nobel de literatura",
+      "count": 15,
+      "tooltip": "nobel de literatura, mencionado em 15 avaliações"
+    },
+    {
+      "tag": "intimidade",
+      "count": 11,
+      "tooltip": "intimidade, mencionado em 11 avaliações"
+    },
+    {
+      "tag": "idiomas",
+      "count": 9,
+      "tooltip": "idiomas, mencionado em 9 avaliações"
+    }
+  ],
+  "featuredPhotos": [
+    "https://lh5.googleusercontent.com/p/AF1QipOx40R4miPBki8xgd4yQXCg2tDaxEiQ3dHvHNFa=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNuS1Vr0U5tF8d9KepHXwbFDkNqXqGH6TmjFKnm=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMsGiulmGhSLhNmDtTqjlhPzVniffKkWSPBccst=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipO487G_uzhyXiPI-NUGIU9b1BpNdfS2-5hQnvGq=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOIaqz578NhbFSy72D63TQSNeK7uriuGs9oLHjE=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipN20ai9wWBlunQ6KgagF3uXDurKrsw4Ztj0iIF3=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNV2CTXoWOBslmenv9Hlye2FsqaCkGW-kUK_bym=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPXq5jZip3dakwwGxsx6rFtSTv3UJVdhaO5OL8p=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNIajF9QQ4bHyUZFAFRd0S6rIhupVAR1gRqNW6C=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPlAaZv-j0oHiCctsNTCeqQq7Ksoc40rG1qylwq=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOdnfEhJwdE5EPYL6ygtAu943ER6ytLWwtAMD4j=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOYRFr_nLSgdyJEAPU9A-4rav44sNUndSahcvfK=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMtMH7fDvIJgzG6cRneG2RU_DTmR0JVHYpFwB3w=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipObvn3Tbrt6KRTcsUgufIDjxKpI_PnNUTFXXiy4=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOMEK9fxPQmEeSk9NApy_mwsUwL6KVH6KkewzXt=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipN9TXOMs2jnFUonHp-Xy1K-O628vqNiLrNZZDEy=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNdnIHYce88lfXRgnRYgh0FFlqVAiyfr3j12pdJ=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNMQ-iWh96cTF8iwRfWlPFX9invfgt2UeuIK7I9=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNLmTx5oTwmd0ZE0d2mFabdPkPHp_Kr6EUODZ3r=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipM9hlF-FtplAJ3qY6t9A6uGq8_HR6acEHD0Jqu2=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMcG0jBskJ-2LTnvNRBa-Llh4V5-LF6opbM6lGa=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNp75-78zIidstRbwpO7KmH8X0uINekPaR7vuWN=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNdd2o9thPQjoDt1wK8T_l0cm18ic5Qw0eeRtAz=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipN9HBsji5lLbIqNw6m5V95QQLq_oAaeInDuha_2=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNeRsViQYWAtyRfdvhdpYQMofnSeMhs45RXZAfe=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipN7FzWq3C4ZTT-vRhoX-XTY5blO65A6bgdmifKw=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMHS5UFsbpbqkb-ZYO5fEgQSHpCineC0xFxaG3T=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOGTP3T4CAU5Y9zSuJqJowaGD62fFcJQPx9gf34=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPkh2C79bB0DY8fePyhjTTHJCqmhSM5D-2Z--aJ=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOcn_CDlILrjiV3bmivcgbLt7YRjDgpmUJf9C8O=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPFUfwwCxtJwuyqKic4OC-86Xuf-uX4HqebO_ZE=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNdwwN7C1zzk6JBGAMlnkjIY4-5gkpSeZr7VpQl=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNUve5fgHPAOwGynmC7WVUePy33-1AMxvyf6nFe=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMbO96aVx9WSW1-IMmqZLogkhfvrFNlu8UYmQ-O=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPx-iNmLPgvSJHZ98lT4o2pSq6mWZRLdBHcEVdL=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipM5HuxptCrccTFyTO_vATJEFUVxXkunIDdPrnB0=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPwmAzV11M1AT7FbCQmYoOmFeM0CCGjpo9e-yTY=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPFdEx-1LH1wAHuRIW7Pdc4dM35lxWRZs_R6IBM=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNPig6Ddouh4Ma3WCAKIfyn6Bgbyy5r8cIvuECU=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMlHxusPd8YRIqP7Ge_O1XHZLbEwz1Fir3Drtaa=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipP8q__BVsZUhphY6bDZLWduCZAhNbXx3cH4TL2L=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMLRLE9QpzTSu0MUjQlEKvO7pLG-YbKwLbgqEQE=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPxVTxacdCBwJ60hpI1_PwRJsChwxWc21100I7c=w1024-h576-k-no"
+  ],
+  "topComments": [
+    {
+      "author": "Marianna Leão",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucrn9Jo9ar99M4WD9bFKJXSKDKRaVoou8Pjta7ciTl4=w36-h36-p-c0x00000000-rp-mo-ba6-br100",
+      "comment": "Emocionante! Poder conhecer mais um pedacinho da vida de Neruda e ver como ele vivia com seu amor não tem preço! A visita fica ainda mais especial pra leitores que, como eu, já eram apaixonados pelo trabalho do poeta.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Thamires Costa",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucoZT4Btq6pnu1KMEdMV-v9rA2ydkuzqnfKq8rlrmw=w36-h36-p-c0x00000000-rp-mo-ba3-br100",
+      "comment": "A casa é interessante, mas tem várias salas fechadas. O ingresso custa 7000 pesos - 50 reais (aprox), muito caro para pouca exposição. Há pouca referência a suas obras na casa. Mesmo que o Google diga que abre terça, não abre. Só de quarta a domingo. Os itens da lojinha são absurdamente caros. Não vale o preço que custa.",
+      "gradeComment": 1
+    },
+    {
+      "author": "Juliano Andrade",
+      "photoAuthor": "https://lh3.googleusercontent.com/a/AItbvmljz70VsoZrVpgk5mTc06KmCYloEOxScX9aV6ub=w36-h36-p-c0x00000000-rp-mo-br100",
+      "comment": "Esperava mais deste museu. A entrada é muito cara ($7.000 ~ R$50,00) para o que a visita te proporciona. Há pouco ou quase nada sobre as suas obras. Há muitos museus em Santiago que valem mais a pena de serem visitados.",
+      "gradeComment": 1
+    },
+    {
+      "author": "Maria Solange Santana",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucp8yP-KeT3yMdMGEJw47KsZlSwdi3Qpj3zdWH09ccM=w36-h36-p-c0x00000000-rp-mo-ba3-br100",
+      "comment": "Aqui conta a história de Pablo neruda, essa é  a casa que ele fez pra sua mulher, mas lá não podemos fotografar,  mas vi várias fotos postadas em um dos ambientes,  e numa dessas fotos estava Vinicius de Moraes,  fiquei maravilhada valeu a pena a visita.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Daniel Nascimento",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucqFm-Rs1sbh7yWdfnrdwKgjTaWvSHx5rrdgTZITH4Y=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "Museu muito bem cuidado e interessante. A visita é \"guiada\" por um aparelho que reproduz narrações dos espaços. É possível usar o aparelho em espanhol, português e inglês.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Glaucia Alves",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucqbvLvGQxhtFbXXWJraHykivyA79WeEw4zPDiz7eBQ=w36-h36-p-c0x00000000-rp-mo-ba5-br100",
+      "comment": "Minha vontade era morar lá dentro. Que lugar encantador. Que vista é aquela? Valeu cada centavo. Eu super indico esse passeio. Pena que não se pode tirar fotos no interior da casa.  Fomos em cada cantinho da casa de Neruda. Vivenciamos casa detalhe.  Eles dão um aparelho para vc ouvir toda a história de cada compartimento da casa. Vc pode escolher seu idioma. São riquezas de detalhes. Curiosidades.  Deixei tudo registrado no meu Instagram.  Instagram: @glauciafdelima",
+      "gradeComment": 5
+    },
+    {
+      "author": "Jessica Ramos",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZuco2Z5tR3Lvi1HfLBQbZsSiKcZJiDlaAkGdlqsiDqtg=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "A casa em que morou Pablo Neruda é muito bonita, tem diversos itens dele e de sua última mulher. Vale muito a pena a visitação, além de ter um áudio guia na sua língua (seja português, espanhol, italiano, inglês entre outros) que estão incluídos no valor da visita, de 7 mil pesos por pessoa",
+      "gradeComment": 5
+    },
+    {
+      "author": "Teresa Cristina Pereira",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucqPTS9URz_ufFHRwc5brdKXuNrqEne2Ai9ysatL0w=w36-h36-p-c0x00000000-rp-mo-ba6-br100",
+      "comment": "Cultura, história e magia nesta casa que morou Pablo Neruda,  bem conservada, um rico tour onde se pode apreciar locais e utensílios do poeta . A loja na saída é parada obrigatória com grande quantidade de souvenirs, livros e lembranças pertinentes com bons preços. A localização no centro de Santiago também faz do local visita obrigatória .",
+      "gradeComment": 5
+    },
+    {
+      "author": "Ana Paula Oliveira",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucrItZHF4QLFq0j9TNAT3zDDP4yNSTPQA-paac2IZqw=w36-h36-p-c0x00000000-rp-mo-ba6-br100",
+      "comment": "Casa museu do poeta Pablo Neruda, localizada em Santiago. É uma visita muito interessante. São disponibilizados áudio guia em espanhol, português e inglês. No final da visita há uma loja de souvenir. Visitei em agosto de 2018 e paguei 7000 pesos chilenos. Fica próximo ao Cerro San Cristóbal.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Rafael T. R.",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucq1Frw_gRlq38tIE-HVyBKoO_OIOu-xG0HyIpYm=w36-h36-p-c0x00000000-rp-mo-ba3-br100",
+      "comment": "Belo lugar. Imperiosa a visita para quem vai á Santiago. Muita historia que permeia a vida de Pablo Neruda. Alguns cômodos da casa são inacessíveis, mas não ofusca o brilho do local.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Cláudia R Anjos",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucp1SOjQqaobeh9wzCWbUPFPLOpbJ418XxcPXP-8ew=w36-h36-p-c0x00000000-rp-mo-ba5-br100",
+      "comment": "La Chascona - Ótimo ponto turístico. Vale a pena visitar. Uma das três casas do poeta Pablo Neruda. Fica localizada no centro de Santiago no bairro de Bela Vista. Nas proximidades há também uma escola de música e dança. Para entrar na casa tem que comprar ingresso.",
+      "gradeComment": 5
+    },
+    {
+      "author": "J. Garcia",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucqgFDBfB4quRCctxO1nV_s9hvuGYA1lvDLSt3JpRc4=w36-h36-p-c0x00000000-rp-mo-ba6-br100",
+      "comment": "Confesso que eu esperava mais da casa museu, considerada a mais importante de Pablo Neruda. Se vc não for tão fã do escritor, talvez tenha a mesma sensação. Achei que o ingresso de quase R$ 50,00 por pessoa, acaba saindo caro, por exemplo, para uma família de 4 pessoas. Vc não pode tirar fotos e os espaços são apertados para os grupos de visitação. A parte externa é a mais agradável. Existem outros museus gratuitos em Santiago que valem a visita e seu tempo.",
+      "gradeComment": 3
+    },
+    {
+      "author": "Larissa Gil",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucpAeeOV-M5WHaay0ZZWLdHI1znklBsDf9zH3xPQ7Hg=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "Casa do Pablo Neruda. Uma ótima experiência nesse museu com o áudio guia em diversas linguas como espanhol, portugues, ingles e frances. Adorei",
+      "gradeComment": 5
+    },
+    {
+      "author": "Mara M.C. Hermes",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucoHIjHRiqZDnSuPSOAJYOZWetVHR-MF3El1PF99miU=w36-h36-p-c0x00000000-rp-mo-ba7-br100",
+      "comment": "Casa Museu La Chascona Uma das três casas de Neruda no Chile. Fica no charmoso bairro da Bellavista. Abriga em seu interior móveis, objetos antigos e uma pinacoteca.  Na entrada, vê-se um agradável jardim, que Matilde cultivou até morrer, em 1985. Destaque desse museu o retrato de Matilde pintado pelo artista mexicano Diego Rivera, além de peças  africanas que Neruda trouxe do continente na época em que serviu como diplomata na região. Para quem curte a bibliografia de Neruda vale a visita. Ingresso: 5.000,00 alguns guias dizem que é possível fazer uma pequena vista sem custo, a qual se restringe ao pátio e entrada principal.",
+      "gradeComment": 3
+    },
+    {
+      "author": "Willian Washington Wives",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucqTfd87e5nQWFHzWocd6S4v-Oib_xHu6lOdJUt5=w36-h36-p-c0x00000000-rp-mo-ba5-br100",
+      "comment": "É um lugar incrível, vale a pena ouvir o áudio guia, é uma aula de história do Chile e de Pablo Neruda!",
+      "gradeComment": 5
+    },
+    {
+      "author": "Denise Franken",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucrDJkoahHf1K48_8ICtueTv8oY7FB1KWc4f1eHQdg=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "Saber um pouco de história sempre é bom. Pablo Neruda foi um dos mais importantes poetas da história e lá podemos conhecer um pouco mais sobre ele.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Gustavo Telles",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucpYjcDkBlgs-yiPdjvCn5TUwd_RsUbZnY7pgh8QSVI=w36-h36-p-c0x00000000-rp-mo-ba3-br100",
+      "comment": "Visita com guia de audio em portugues em uma das casas de pablo neruda. fica próximo ao serro san cristobal, dá pra fazer os dois no mesmo passeio. Conta a historia de parte da vida de neruda ate sua morte, com algumas de suas poesias no enredo.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Andrezza Helena",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucoVotg_QUkWr_bE4t7KpPX45WI_UHPZbNnhQSdMZoc=w36-h36-p-c0x00000000-rp-mo-ba5-br100",
+      "comment": "Um lugar muito legal para se conhecer em Santiago. La Chascona é uma das três casas de Pablo Neruda. A visita é  audioguiada. Quando você chegar receberá uma espécie de telefone e em cada cômodo é  só digitar o número correspondente  e ouvir sobre ele. O áudio é  detalhista. No início da visitação há um filme introdutório. Recomendo que seja assistido, principalmente pelos que não conhecem Pablo Neruda e sua contribuição para a história do Chile. Só se permite fazer fotos na área externa.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Alynne Cavalcante",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucqxm0EcaJPtn89aamyNTc3BKBjxTN8TiEoLdMVgq6I=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "Casa museu de Pablo Neruda onde a gente consegue de fato entrar no cotidiano do poeta. Acho um ponto maravilhoso para visitar em Santiago. Quem é fã dele vai amar.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Pablo Benely",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucowOD_H4-J1Wn2CNj9H9l7MppkcNRziaG3MinhZM_E=w36-h36-p-c0x00000000-rp-mo-ba5-br100",
+      "comment": "Casa completamente reconstruída após ter sido vandalizada no golpe de 11 de setembro. Grande parte dela não tem acesso  livre a visitantes,  mas o que é, vale muito a pena de se ver. Mostra um breve documentário no início,  podemos ver salas, o \"bar do capitão\", quartos e passagens secretas dessa obra de arte arquitetônica em seu estilo não linear e sem forma definida. Construído para sua terceira esposa Matilde, a Chascona, um termo Mapuche que significa \"despenteada\".",
+      "gradeComment": 4
+    }
+  ],
+  "peakHours": [
+    {
+      "Sunday": [
+        {
+          "hour": "10:00",
+          "percent": 6
+        },
+        {
+          "hour": "11:00",
+          "percent": 14
+        },
+        {
+          "hour": "12:00",
+          "percent": 20
+        },
+        {
+          "hour": "13:00",
+          "percent": 20
+        },
+        {
+          "hour": "14:00",
+          "percent": 21
+        },
+        {
+          "hour": "15:00",
+          "percent": 27
+        },
+        {
+          "hour": "16:00",
+          "percent": 30
+        },
+        {
+          "hour": "17:00",
+          "percent": 29
+        }
+      ]
+    },
+    {
+      "Monday": []
+    },
+    {
+      "Tuesday": [
+        {
+          "hour": "10:00",
+          "percent": 10
+        },
+        {
+          "hour": "11:00",
+          "percent": 21
+        },
+        {
+          "hour": "12:00",
+          "percent": 27
+        },
+        {
+          "hour": "13:00",
+          "percent": 25
+        },
+        {
+          "hour": "14:00",
+          "percent": 18
+        },
+        {
+          "hour": "15:00",
+          "percent": 16
+        },
+        {
+          "hour": "16:00",
+          "percent": 18
+        },
+        {
+          "hour": "17:00",
+          "percent": 22
+        }
+      ]
+    },
+    {
+      "Wednesday": [
+        {
+          "hour": "10:00",
+          "percent": 34
+        },
+        {
+          "hour": "11:00",
+          "percent": 64
+        },
+        {
+          "hour": "12:00",
+          "percent": 78
+        },
+        {
+          "hour": "13:00",
+          "percent": 71
+        },
+        {
+          "hour": "14:00",
+          "percent": 60
+        },
+        {
+          "hour": "15:00",
+          "percent": 58
+        },
+        {
+          "hour": "16:00",
+          "percent": 59
+        },
+        {
+          "hour": "17:00",
+          "percent": 53
+        }
+      ]
+    },
+    {
+      "Thursday": [
+        {
+          "hour": "10:00",
+          "percent": 43
+        },
+        {
+          "hour": "11:00",
+          "percent": 57
+        },
+        {
+          "hour": "12:00",
+          "percent": 62
+        },
+        {
+          "hour": "13:00",
+          "percent": 62
+        },
+        {
+          "hour": "14:00",
+          "percent": 63
+        },
+        {
+          "hour": "15:00",
+          "percent": 69
+        },
+        {
+          "hour": "16:00",
+          "percent": 73
+        },
+        {
+          "hour": "17:00",
+          "percent": 73
+        }
+      ]
+    },
+    {
+      "Friday": [
+        {
+          "hour": "10:00",
+          "percent": 32
+        },
+        {
+          "hour": "11:00",
+          "percent": 49
+        },
+        {
+          "hour": "12:00",
+          "percent": 61
+        },
+        {
+          "hour": "13:00",
+          "percent": 62
+        },
+        {
+          "hour": "14:00",
+          "percent": 55
+        },
+        {
+          "hour": "15:00",
+          "percent": 50
+        },
+        {
+          "hour": "16:00",
+          "percent": 57
+        },
+        {
+          "hour": "17:00",
+          "percent": 75
+        }
+      ]
+    },
+    {
+      "Saturday": [
+        {
+          "hour": "10:00",
+          "percent": 32
+        },
+        {
+          "hour": "11:00",
+          "percent": 56
+        },
+        {
+          "hour": "12:00",
+          "percent": 69
+        },
+        {
+          "hour": "13:00",
+          "percent": 70
+        },
+        {
+          "hour": "14:00",
+          "percent": 77
+        },
+        {
+          "hour": "15:00",
+          "percent": 93
+        },
+        {
+          "hour": "16:00",
+          "percent": 100
+        },
+        {
+          "hour": "17:00",
+          "percent": 86
+        }
+      ]
+    }
+  ],
+  "relatedSearches": [
+    "la chascona significado",
+    "la chascona ticket",
+    "pablo neruda",
+    "la chascona precio",
+    "museo la chascona chile",
+    "isla negra",
+    "palacio de la moneda",
+    "mercado central santiago"
+  ],
+  "relateds": [
+    {
+      "mainName": "La Sebastiana",
+      "url": null
+    },
+    {
+      "mainName": "Fundación Pablo Neruda",
+      "url": null
+    },
+    {
+      "mainName": "Cerro San Cristóbal",
+      "url": null
+    },
+    {
+      "mainName": "Museo de Arte Colonial de San Francisco",
+      "url": null
+    },
+    {
+      "mainName": "Casa de Isla Negra",
+      "url": null
+    },
+    {
+      "mainName": "Museu Nacional de História Natural do Chile",
+      "url": null
+    },
+    {
+      "mainName": "Museum of Memory and Human Rights",
+      "url": null
+    },
+    {
+      "mainName": "Casa Colorada",
+      "url": null
+    },
+    {
+      "mainName": "Plaza de Armas",
+      "url": null
+    },
+    {
+      "mainName": "Museo Chileno de Arte Precolombino",
+      "url": null
+    },
+    {
+      "mainName": "Cerro Santa Lucía",
+      "url": null
+    },
+    {
+      "mainName": "Centro Cultural Palacio de La Moneda",
+      "url": null
+    },
+    {
+      "mainName": "Museo Pablo Neruda",
+      "url": null
+    },
+    {
+      "mainName": "Museu Nacional de Belas Artes",
+      "url": null
+    },
+    {
+      "mainName": "Parque Metropolitano de Santiago",
+      "url": null
+    },
+    {
+      "mainName": "Zoológico Nacional",
+      "url": null
+    },
+    {
+      "mainName": "Museo de Arte Contemporáneo Quinta Normal",
+      "url": null
+    },
+    {
+      "mainName": "Catedral Metropolitana de Santiago",
+      "url": null
+    },
+    {
+      "mainName": "Palácio de La Moneda",
+      "url": null
+    },
+    {
+      "mainName": "Costanera Center",
+      "url": null
+    },
+    {
+      "mainName": "Parque Forestal",
+      "url": null
+    },
+    {
+      "mainName": "Parroquia de Santa Filomena",
+      "url": null
+    },
+    {
+      "mainName": "Patronato",
+      "url": null
+    },
+    {
+      "mainName": "Valle Nevado",
+      "url": null
+    }
+  ]
+}

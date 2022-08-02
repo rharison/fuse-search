@@ -1,0 +1,779 @@
+{
+  "mainName": "Pantano De Siurana",
+  "slug": "pantano-de-siurana",
+  "category": "Reserva natural",
+  "locationInformation": {
+    "latitude": "41.2508273",
+    "longitude": "0.9126746"
+  },
+  "basicInformation": [
+    {
+      "label": "endereço",
+      "tooltip": "Copiar endereço",
+      "text": "43362 Siurana, Tarragona, Espanha",
+      "icon": "https://www.gstatic.com/images/icons/material/system_gm/1x/place_gm_blue_24dp.png"
+    },
+    {
+      "label": "Code",
+      "tooltip": "Copiar Plus Code",
+      "text": "7W27+83 Siurana, Espanha",
+      "icon": "https://maps.gstatic.com/mapfiles/maps_lite/images/2x/ic_plus_code.png"
+    },
+    {
+      "label": "merchant",
+      "text": "Reivindicar esta empresa",
+      "icon": "https://www.gstatic.com/images/icons/material/system_gm/1x/verified_user_gm_blue_24dp.png"
+    }
+  ],
+  "ratingInformation": {
+    "basicRatingInformation": {
+      "averageGrade": 4.5,
+      "totalOfEvaluations": 1426
+    },
+    "ratingsByGrade": [
+      {
+        "grade": 5,
+        "totalRatings": 875
+      },
+      {
+        "grade": 4,
+        "totalRatings": 413
+      },
+      {
+        "grade": 3,
+        "totalRatings": 102
+      },
+      {
+        "grade": 2,
+        "totalRatings": 22
+      },
+      {
+        "grade": 1,
+        "totalRatings": 14
+      }
+    ]
+  },
+  "ratingTags": [
+    {
+      "tag": "caiaque",
+      "count": 40,
+      "tooltip": "caiaque, mencionado em 40 avaliações"
+    },
+    {
+      "tag": "banho",
+      "count": 31,
+      "tooltip": "banho, mencionado em 31 avaliações"
+    },
+    {
+      "tag": "canoa",
+      "count": 22,
+      "tooltip": "canoa, mencionado em 22 avaliações"
+    },
+    {
+      "tag": "reservatório",
+      "count": 17,
+      "tooltip": "reservatório, mencionado em 17 avaliações"
+    },
+    {
+      "tag": "montanhas",
+      "count": 15,
+      "tooltip": "montanhas, mencionado em 15 avaliações"
+    },
+    {
+      "tag": "excursão",
+      "count": 14,
+      "tooltip": "excursão, mencionado em 14 avaliações"
+    },
+    {
+      "tag": "verão",
+      "count": 13,
+      "tooltip": "verão, mencionado em 13 avaliações"
+    },
+    {
+      "tag": "vácuo",
+      "count": 10,
+      "tooltip": "vácuo, mencionado em 10 avaliações"
+    },
+    {
+      "tag": "aldeia",
+      "count": 10,
+      "tooltip": "aldeia, mencionado em 10 avaliações"
+    }
+  ],
+  "featuredPhotos": [
+    "https://lh5.googleusercontent.com/p/AF1QipMrxCUv0LK3x4VdVFkWzj0lFjskRC5NkpuNy4FK=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOiztB-sHzj-ntNLle5IJHhvaRSRaSr9ZrMdR4l=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPLig1sHb2mC5atHt2Fue3A825fqLPM8OTrS55a=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMACy2Oc5bwUHdQKYK49WpUeNXdBfwhsU9QBncF=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPknxYWICutnt9fLb0AqG3ZImyUSH5fal9Nggcz=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPeXvU39Vi95N_DX5c6pJOJcncmVPzuDQjjOcpX=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPignXynivxWTck6yNgNmmm-Bwm1V2GmeFk6eCr=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipN0bJPc5Uyg5CDvcL_U85L9MztFN7Geu1B6_FsS=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMKhjbtBYL2uFu6ASxzHGgzVgmRLrXqXBXvMvyv=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMpJQvuDbLK6IeUmnbUuG1JbCrYhd5RriFaQ6fV=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipN3EFtkTEgSID49q7bvS0KhEHwI2W0TPr5nFo3a=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipO7zIfb1eGv1s03YRYmblBSgWrIyGfKc4Tdza6d=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNmbhyq4SVauC60T6EUDLwq8djLzoVRxjpM8_4M=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipM1_L-mMR6wgOPERfNge6V94D0tr9q5x4ZRddV0=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNGJxibe3UvKhR9m_6CBgZIjqWwQoG9MJoJNYOB=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNo4vGLJoYPMBiLNjM5hQC1ZCRG-IM_mzVbErfK=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNQkhsYwYMZ6qs69cJakzY3372Qe5I0Rl5uxig3=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMSk3kj4-n8uQSq_MRh8io_NkjyOJONRgsMl5rW=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipO68aJ0DSODT2RlMNE00YnBBATPqsG1vSUPzDZd=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMt1c5jjVeRBdUNokyWkYFqP6EujJXlUthLYTWM=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNpherdgDFfe4Tf4N1ie8C0G8BmrDfuTdp2xg8w=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNGEQgXXgRtekpnSnrbL3nhz_blsd9rWqJUq6RW=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOPiUvCMLo0uzNweqvHXd0Ym3DwTy_OnSerEgUf=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPDKDGQV22nBW9YH8kiLfeFVNsKYDgJkrzIVwIw=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipP0hjMptfoHQjbWgLEvdnZmet6Mq7mU0LFHoYx5=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipODx-rkgKWtWjO9BFRz0WCYQvAfKYUK6G-CnhJ1=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNnHnoBPZwAedMzslaOlFVAFqNE9h_1-8NAPD4P=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMW1xOQfUnJIvmeNJllaFt5musmcdkPsmyo3BEs=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPNVMdUayNTfuesrV1qN4PtiRCv5_I5VAPBCncg=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNtv9S8IAXH4CQycAUhajN8zAcDIoopqV95YlRT=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOOoa0Q81Zk8LZDdJ_0YqySl5jCLyDissuZW_vv=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNO2gvxdrhJ5Q8LSs0_xN3yNJ2-l39wi2GA1xe0=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNZb9lPN9kW85smVx-GFgBCPu6LDXjAzKIJRn0e=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNr6rGm1gSWijxiahH3TGmufeFwTEWsKYj1zjG4=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMns9DKU4TXF_6ZAP_UkInOs0L5vYwM-Tez0NQX=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipM0ntjexL2L0xkhqL2czleRtc0s1Vuar4SkEV6p=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMc2OifNptDGYI0KuZ4FlVngBGK4YI29fBK_IQ1=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNKQnAE0l7FV6b8-HF3K9Pql2APPwkWyZY4yXGN=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNWb_BBw_vsSoDYyCRst8G4Zd7lkIN9wJvcHaZH=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMWp0aTzU8-mopxhjCfxZfuoWY13Iov4IvVYdK_=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPh9m1834VMD4KVQAcFxszj3nihjyso0aX8TbfL=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPSBGKWB8VlJffztBbAFairb1Z6xpf7Kvko49ji=w1024-h576-k-no"
+  ],
+  "topComments": [
+    {
+      "author": "Cristina Sataniuc",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucr-gYqJ1fEIgvYlBa546wwxn49tLs8m05JVh0ezvw=w36-h36-p-c0x00000000-rp-mo-br100",
+      "comment": "Mui bonito",
+      "gradeComment": 5
+    },
+    {
+      "author": "Adnilson alves",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucp-IofH4sO9trigwTONUmM7leJu4pPl9Elg8263uA=w36-h36-p-c0x00000000-rp-mo-ba5-br100",
+      "comment": "Lindooo",
+      "gradeComment": 5
+    },
+    {
+      "author": "Alfons Tormo -Alquimista 3.0-",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucovSoLQAXFQ7MMKI5o4I0z6c4LexmwkIo9AOQ4DnJo=w36-h36-p-c0x00000000-rp-mo-ba5-br100",
+      "comment": "(Tradução do Google) Pobre pântano de Siurana, é água muito baixa. No entanto, ainda existem atividades aquáticas com canoas. Vistas deslumbrantes da represa ao penhasco da vila de Siurana.  (Original) Pobre pantà de Siurana, està molt baix d'aigua. Tot i això encara hi ha activitats aquàtiques amb canoa. Vistes impressionants des de la presa cap al cingle del poble de Siurana.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Jose Garcia",
+      "photoAuthor": "https://lh3.googleusercontent.com/a/AItbvml3BF9Dz3F-NF1CYl2XUPyt79_JECqMg2EX0Y0Y=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "(Tradução do Google) Lugar tranquilo no meio da natureza recomendo passar o dia Dê uns mergulhos com a família O ponto ruim da estrada muitas curvas Portanto, recomendo proceder com cautela.  (Original) Lugar tranquilo y en plena naturaleza Recomiendo para pasar el día Darse unos chapuzones en familia El punto malo la carretera muchas curvas Así que recomiendo ir con precaución",
+      "gradeComment": 5
+    },
+    {
+      "author": "Belinda Luperon Portales",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucr8FotGCdTWyI5s7OSa4r1TS42QidNT1WHA_JdV6A=w36-h36-p-c0x00000000-rp-mo-br100",
+      "comment": "(Tradução do Google) O reservatório Siurana é um ambiente mágico, onde você pode passar um dia relaxante. Com suas vistas impressionantes. Vale a pena visitar este paraíso.  (Original) El pantano de Siurana es un entorno mágico, donde puedes pasar un día de relax. Con sus impresionantes vistas. Vale la pena visitar esta paraíso.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Jordina Recasens",
+      "photoAuthor": "https://lh3.googleusercontent.com/a/AItbvmmAPr_W8UbqayhudoFhGH8BjqKp4rtHKWrhIMO0=w36-h36-p-c0x00000000-rp-mo-br100",
+      "comment": "(Tradução do Google) Belas paisagens e experiências de caiaque muito divertidas. Cães são permitidos em caiaques e canoas 😯 Pena que o pântano é muito seco e o preço do aluguel do caiaque não é muito barato. De qualquer forma, altamente recomendado!  (Original) Paisatge preciós i experiències en Kayak molt divertida. Accepten gossos als kayak i canoa 😯 Llàstima que el pantà està molt sec i el preu del lloguer del kayak no és massa barat. De totes maneres, molt recomanable!",
+      "gradeComment": 4
+    },
+    {
+      "author": "María García Avilés",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucpjzvr2hX_n0XoUmHZn7Szv0qMzWoOFCTvep1wcSyc=w36-h36-p-c0x00000000-rp-mo-ba5-br100",
+      "comment": "(Tradução do Google) Eu adorei, não é só ver o pântano da barragem, mas há caminhos ao lado. Você tem que chegar cedo, caso contrário não terá lugar para estacionar Se você planeja passar o dia comendo comida, não tem bar  (Original) Me ha encantado, no es solo ver el pantano desde la presa, sino que hay caminos por al lado. Hay que llegar pronto, sino no tendrás sitio para aparcar Si piensas pasar el día llévate comida, no hay ningún bar",
+      "gradeComment": 5
+    },
+    {
+      "author": "Meeli Tali-Aruväli",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucocOyqFsnJnTYb1nYLvf2agAc_4o4M6pj0RoW24eQ=w36-h36-p-c0x00000000-rp-mo-ba5-br100",
+      "comment": "(Tradução do Google) Linda vista, pouca água. Você pode visitar se já estiver lá.  (Original) Ilus vaade, vett oli vähe. Võib külastada, kui juba seal kandis oled.",
+      "gradeComment": 4
+    },
+    {
+      "author": "Ialga",
+      "photoAuthor": "https://lh3.googleusercontent.com/a/AItbvmlCNRjTnSHJ-mGs61azMqKLpjBuU6eMOoWZqTk9=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "El agua muy limpia y cristalina, con bastantes sitios para poder hacer rutas y donde ponder remojarse. Una lástima que haya dueños de perros marranos que no limpien las cacas.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Josep Llobet",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucqG53c2kgA3FDDYWfKsbZr9iJqPVlU266M-nDby4g=w36-h36-p-c0x00000000-rp-mo-ba3-br100",
+      "comment": "(Tradução do Google) Belo reservatório de Siurana. Foi bem baixo. Muito calor, sem sombras.  (Original) Bonic embassament de Siurana. Estava bastant baix. Molta calor, no hi ha ombres.",
+      "gradeComment": 4
+    },
+    {
+      "author": "EvA",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucqH1TudQUkRzJmYFy9og02hgs2N9eDuji1iBP2S=w36-h36-p-c0x00000000-rp-mo-ba5-br100",
+      "comment": "El embalse de Siurana está situado en un entorno magnífico, rodeado por la Sierra de Montsant y las montañas de Prades, recibe las aguas del río Siurana, el principal afluente del Ebro en la tierra de Tarragona. Se llega por la carretera C-242 justo después de pasar el pueblo de Cornudella. En el pantano uno puede disfrutar de un agradable baño o bien pasear por sus aguas en Kayak, ya que hay una empresa que gestiona su alquiler. También es muy agradable hacer una excursión por la pista que rodea el pantano y acercarse hasta el Toll de la Palla donde uno también puede refrescarse",
+      "gradeComment": 5
+    },
+    {
+      "author": "Asun Gonzalez",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucoW0Rb8zRdzlJ5aYGwHXX-V23biV4W6Fvpdnmq6YNU=w36-h36-p-c0x00000000-rp-mo-ba7-br100",
+      "comment": "(Tradução do Google) Localizado em um ambiente privilegiado rodeado pela Serra de Montsan e as montanhas de Prades. Recebe as águas do rio Siurana, principal afluente do Ebro. Possui um pequeno cais para navegar nas suas águas calmas, embora já esteja encerrado, tem uma placa que anuncia a sua abertura para Abril de 2022. Tem estacionamento muito próximo.  (Original) Situado en un entorno privilegiado rodeado por la sierra de Montsan y las montañas de Prades. Recibe las aguas del río Siurana, el principal afluente del Ebro. Tiene un pequeño embarcadero para poder navegar por sus tranquilas aguas, aunque ahora está cerrado, tiene un cartel que anuncia su apertura para abril 2022. Tiene aparcamiento muy cerca.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Gemma Brewer",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucogIWURguE2A7Bbyya4tmuD6_9-CVHlN1sg85N8=w36-h36-p-c0x00000000-rp-mo-ba3-br100",
+      "comment": "(Tradução do Google) Belas vistas e adorável pequena cidade para explorar. Adorei o bar/café construído na lateral das rochas 👍🏼  (Original) Beautiful views and lovely little town to explore. Loved the bar/cafe built into the side of the rocks 👍🏼",
+      "gradeComment": 5
+    },
+    {
+      "author": "alfonso garcia ruiz",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucpts6_YhO1VgVekeNsFLyrJRbKtSTOiiUcOwNT5C24=w36-h36-p-c0x00000000-rp-mo-ba5-br100",
+      "comment": "(Tradução do Google) Um passeio muito agradável, pelos arredores de Siurana  (Original) Un recorrido Muy bonito,por el entorno de Siurana",
+      "gradeComment": 4
+    },
+    {
+      "author": "María Pilar Alquézar Abrié",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucqW75TzOtSzpXTptVV7-YJkhYoFyqzxm3jYMlPC=w36-h36-p-c0x00000000-rp-mo-ba6-br100",
+      "comment": "(Tradução do Google) É uma pena vê-lo tão vazio de água  (Original) És una llàstima veure'l tan buit d'aigua",
+      "gradeComment": 3
+    },
+    {
+      "author": "Nombre Apellido",
+      "photoAuthor": "https://lh3.googleusercontent.com/a/AItbvmlyXlS-A7LvogtVvBbmT83HLainoUg0-B0QzBd_=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "(Tradução do Google) Boa caminhada para a cidade. Recomendado em tempos de água para poder tomar banho nas piscinas que ficam no rio  (Original) Buen paseo hasta el pueblo. Recomendable en epoca de agua para poder bañarse en las pozas que hay en el rio",
+      "gradeComment": 4
+    },
+    {
+      "author": "Jose Zurita",
+      "photoAuthor": "https://lh3.googleusercontent.com/a/AItbvmlX2P10zA4rh0QijGvgnfN5CDigYKvqoDIym9oV=w36-h36-p-c0x00000000-rp-mo-ba5-br100",
+      "comment": "(Tradução do Google) Pântano com fácil acesso e tranquilo, dói a falta de água quando fomos.  (Original) Pantano con fácil acceso y tranquilo,lastima la falta de agua cuando fuimos.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Isabel Ferrer",
+      "photoAuthor": "https://lh3.googleusercontent.com/a/AItbvmlrpgwfda_q6mOTBpOicweuOPg5vxCVltAkQllS=w36-h36-p-c0x00000000-rp-mo-ba3-br100",
+      "comment": "(Tradução do Google) Apesar de não ter muita água, ainda é lindo  (Original) Encara que no té gaire aigua, continua sent bonic",
+      "gradeComment": 4
+    },
+    {
+      "author": "Marcelo Barchetti",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucp0hG2BU5CgzM4HYA6lW9h84E6Tb1f2wMDET_EuPw=w36-h36-p-c0x00000000-rp-mo-ba3-br100",
+      "comment": "(Tradução do Google) Lindo reservatório para passear, nadar ou alugar um caiaque 🛶 .... Fomos com meu companheiro em um sábado e havia pouquíssimas pessoas. Muito recomendável!  (Original) Hermoso embalse para pasar el rato, bañarse o alquilar kayak 🛶.... Fuimos con mi pareja un día sábado y había muy poca gente. Muy recomendable!",
+      "gradeComment": 5
+    },
+    {
+      "author": "Francesc Galbany",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucra5YBjJBmEwfwS4wcZuJi3Kxj_UPnqislFw4GazCY=w36-h36-p-c0x00000000-rp-mo-ba5-br100",
+      "comment": "(Tradução do Google) Bem cuidado, mas parece ruim vê-lo tão vazio  (Original) Ben cuidat però dona mala imatge veure'l tant buit",
+      "gradeComment": 3
+    }
+  ],
+  "peakHours": [
+    {
+      "Sunday": [
+        {
+          "hour": "04:00",
+          "percent": 3
+        },
+        {
+          "hour": "05:00",
+          "percent": 3
+        },
+        {
+          "hour": "06:00",
+          "percent": 4
+        },
+        {
+          "hour": "07:00",
+          "percent": 7
+        },
+        {
+          "hour": "08:00",
+          "percent": 14
+        },
+        {
+          "hour": "09:00",
+          "percent": 27
+        },
+        {
+          "hour": "10:00",
+          "percent": 46
+        },
+        {
+          "hour": "11:00",
+          "percent": 68
+        },
+        {
+          "hour": "12:00",
+          "percent": 84
+        },
+        {
+          "hour": "13:00",
+          "percent": 88
+        },
+        {
+          "hour": "14:00",
+          "percent": 88
+        },
+        {
+          "hour": "15:00",
+          "percent": 92
+        },
+        {
+          "hour": "16:00",
+          "percent": 100
+        },
+        {
+          "hour": "17:00",
+          "percent": 91
+        },
+        {
+          "hour": "18:00",
+          "percent": 59
+        },
+        {
+          "hour": "19:00",
+          "percent": 26
+        },
+        {
+          "hour": "20:00",
+          "percent": 9
+        },
+        {
+          "hour": "21:00",
+          "percent": 4
+        },
+        {
+          "hour": "22:00",
+          "percent": 3
+        },
+        {
+          "hour": "23:00",
+          "percent": 3
+        },
+        {
+          "hour": "00:00",
+          "percent": 3
+        },
+        {
+          "hour": "01:00",
+          "percent": 3
+        },
+        {
+          "hour": "02:00",
+          "percent": 3
+        },
+        {
+          "hour": "03:00",
+          "percent": 3
+        }
+      ]
+    },
+    {
+      "Monday": [
+        {
+          "hour": "07:00",
+          "percent": 1
+        },
+        {
+          "hour": "08:00",
+          "percent": 4
+        },
+        {
+          "hour": "09:00",
+          "percent": 11
+        },
+        {
+          "hour": "10:00",
+          "percent": 20
+        },
+        {
+          "hour": "11:00",
+          "percent": 29
+        },
+        {
+          "hour": "12:00",
+          "percent": 34
+        },
+        {
+          "hour": "13:00",
+          "percent": 31
+        },
+        {
+          "hour": "14:00",
+          "percent": 26
+        },
+        {
+          "hour": "15:00",
+          "percent": 20
+        },
+        {
+          "hour": "16:00",
+          "percent": 17
+        },
+        {
+          "hour": "17:00",
+          "percent": 14
+        },
+        {
+          "hour": "18:00",
+          "percent": 10
+        },
+        {
+          "hour": "19:00",
+          "percent": 4
+        }
+      ]
+    },
+    {
+      "Tuesday": []
+    },
+    {
+      "Wednesday": [
+        {
+          "hour": "10:00",
+          "percent": 2
+        },
+        {
+          "hour": "11:00",
+          "percent": 7
+        },
+        {
+          "hour": "12:00",
+          "percent": 11
+        },
+        {
+          "hour": "13:00",
+          "percent": 11
+        },
+        {
+          "hour": "14:00",
+          "percent": 10
+        },
+        {
+          "hour": "15:00",
+          "percent": 9
+        },
+        {
+          "hour": "16:00",
+          "percent": 7
+        },
+        {
+          "hour": "17:00",
+          "percent": 5
+        },
+        {
+          "hour": "18:00",
+          "percent": 2
+        }
+      ]
+    },
+    {
+      "Thursday": [
+        {
+          "hour": "09:00",
+          "percent": 1
+        },
+        {
+          "hour": "10:00",
+          "percent": 4
+        },
+        {
+          "hour": "11:00",
+          "percent": 6
+        },
+        {
+          "hour": "12:00",
+          "percent": 8
+        },
+        {
+          "hour": "13:00",
+          "percent": 8
+        },
+        {
+          "hour": "14:00",
+          "percent": 8
+        },
+        {
+          "hour": "15:00",
+          "percent": 7
+        },
+        {
+          "hour": "16:00",
+          "percent": 5
+        },
+        {
+          "hour": "17:00",
+          "percent": 3
+        },
+        {
+          "hour": "18:00",
+          "percent": 1
+        }
+      ]
+    },
+    {
+      "Friday": [
+        {
+          "hour": "04:00",
+          "percent": 1
+        },
+        {
+          "hour": "08:00",
+          "percent": 2
+        },
+        {
+          "hour": "09:00",
+          "percent": 7
+        },
+        {
+          "hour": "10:00",
+          "percent": 15
+        },
+        {
+          "hour": "11:00",
+          "percent": 21
+        },
+        {
+          "hour": "12:00",
+          "percent": 22
+        },
+        {
+          "hour": "13:00",
+          "percent": 19
+        },
+        {
+          "hour": "14:00",
+          "percent": 14
+        },
+        {
+          "hour": "15:00",
+          "percent": 13
+        },
+        {
+          "hour": "16:00",
+          "percent": 18
+        },
+        {
+          "hour": "17:00",
+          "percent": 25
+        },
+        {
+          "hour": "18:00",
+          "percent": 27
+        },
+        {
+          "hour": "19:00",
+          "percent": 20
+        },
+        {
+          "hour": "20:00",
+          "percent": 10
+        },
+        {
+          "hour": "21:00",
+          "percent": 2
+        },
+        {
+          "hour": "01:00",
+          "percent": 1
+        },
+        {
+          "hour": "02:00",
+          "percent": 2
+        },
+        {
+          "hour": "03:00",
+          "percent": 2
+        }
+      ]
+    },
+    {
+      "Saturday": [
+        {
+          "hour": "04:00",
+          "percent": 6
+        },
+        {
+          "hour": "05:00",
+          "percent": 4
+        },
+        {
+          "hour": "06:00",
+          "percent": 3
+        },
+        {
+          "hour": "07:00",
+          "percent": 6
+        },
+        {
+          "hour": "08:00",
+          "percent": 13
+        },
+        {
+          "hour": "09:00",
+          "percent": 29
+        },
+        {
+          "hour": "10:00",
+          "percent": 50
+        },
+        {
+          "hour": "11:00",
+          "percent": 68
+        },
+        {
+          "hour": "12:00",
+          "percent": 75
+        },
+        {
+          "hour": "13:00",
+          "percent": 67
+        },
+        {
+          "hour": "14:00",
+          "percent": 54
+        },
+        {
+          "hour": "15:00",
+          "percent": 50
+        },
+        {
+          "hour": "16:00",
+          "percent": 60
+        },
+        {
+          "hour": "17:00",
+          "percent": 69
+        },
+        {
+          "hour": "18:00",
+          "percent": 62
+        },
+        {
+          "hour": "19:00",
+          "percent": 40
+        },
+        {
+          "hour": "20:00",
+          "percent": 19
+        },
+        {
+          "hour": "21:00",
+          "percent": 9
+        },
+        {
+          "hour": "22:00",
+          "percent": 8
+        },
+        {
+          "hour": "23:00",
+          "percent": 8
+        },
+        {
+          "hour": "00:00",
+          "percent": 9
+        },
+        {
+          "hour": "01:00",
+          "percent": 9
+        },
+        {
+          "hour": "02:00",
+          "percent": 9
+        },
+        {
+          "hour": "03:00",
+          "percent": 8
+        }
+      ]
+    }
+  ],
+  "relatedSearches": [
+    "que ver en siurana",
+    "kayak siurana",
+    "camping siurana",
+    "siurana de prades",
+    "gorgs de la febró"
+  ],
+  "relateds": [
+    {
+      "mainName": "Panta Siurana",
+      "url": null
+    },
+    {
+      "mainName": "Presa de Riudecanyes",
+      "url": null
+    },
+    {
+      "mainName": "Mirador de Siurana",
+      "url": null
+    },
+    {
+      "mainName": "rio siurana",
+      "url": null
+    },
+    {
+      "mainName": "Gorg de la Febró",
+      "url": null
+    },
+    {
+      "mainName": "Toll Del Forn",
+      "url": null
+    },
+    {
+      "mainName": "Canoa Kayak Siurana S.L.",
+      "url": null
+    },
+    {
+      "mainName": "Paseo circular Siurana",
+      "url": null
+    },
+    {
+      "mainName": "Toll De La Palla - Siurana",
+      "url": null
+    },
+    {
+      "mainName": "Castell de Siurana",
+      "url": null
+    },
+    {
+      "mainName": "El Balcó de Siurana",
+      "url": null
+    },
+    {
+      "mainName": "La Trona",
+      "url": null
+    },
+    {
+      "mainName": "Mirador de Siurana 3",
+      "url": null
+    },
+    {
+      "mainName": "Sierra de Montsant Natural Park",
+      "url": null
+    },
+    {
+      "mainName": "Mas del Siurana",
+      "url": null
+    },
+    {
+      "mainName": "Passera de fusta",
+      "url": null
+    },
+    {
+      "mainName": "Presa del riu Montsant",
+      "url": null
+    },
+    {
+      "mainName": "Mirador de Siurana 2",
+      "url": null
+    },
+    {
+      "mainName": "La Punta",
+      "url": null
+    },
+    {
+      "mainName": "Camping y Bungalow Siurana",
+      "url": null
+    }
+  ]
+}

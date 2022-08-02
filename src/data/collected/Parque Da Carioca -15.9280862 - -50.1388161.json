@@ -1,0 +1,967 @@
+{
+  "mainName": "Parque Da Carioca",
+  "slug": "parque-da-carioca",
+  "category": "Parque",
+  "locationInformation": {
+    "latitude": "-15.9280862",
+    "longitude": "-50.1388161"
+  },
+  "basicInformation": [
+    {
+      "label": "endereço",
+      "tooltip": "Copiar endereço",
+      "text": "R. da Carioca, 249 - Centro, Goiás - GO, 76600-000",
+      "icon": "https://www.gstatic.com/images/icons/material/system_gm/1x/place_gm_blue_24dp.png"
+    },
+    {
+      "label": "website",
+      "tooltip": "Abrir website",
+      "text": "prefeituradegoias.go.gov.br",
+      "icon": "https://www.gstatic.com/images/icons/material/system_gm/1x/public_gm_blue_24dp.png"
+    },
+    {
+      "label": "telefone",
+      "tooltip": "Copiar número de telefone",
+      "text": "(62) 3371-7726",
+      "icon": "https://www.gstatic.com/images/icons/material/system_gm/1x/phone_gm_blue_24dp.png"
+    },
+    {
+      "label": "Code",
+      "tooltip": "Copiar Plus Code",
+      "text": "3VC6+QF Goiás, GO",
+      "icon": "https://maps.gstatic.com/mapfiles/maps_lite/images/2x/ic_plus_code.png"
+    },
+    {
+      "label": "merchant",
+      "text": "Reivindicar esta empresa",
+      "icon": "https://www.gstatic.com/images/icons/material/system_gm/1x/verified_user_gm_blue_24dp.png"
+    }
+  ],
+  "ratingInformation": {
+    "basicRatingInformation": {
+      "averageGrade": 4.5,
+      "totalOfEvaluations": 834
+    },
+    "ratingsByGrade": [
+      {
+        "grade": 5,
+        "totalRatings": 570
+      },
+      {
+        "grade": 4,
+        "totalRatings": 159
+      },
+      {
+        "grade": 3,
+        "totalRatings": 70
+      },
+      {
+        "grade": 2,
+        "totalRatings": 17
+      },
+      {
+        "grade": 1,
+        "totalRatings": 18
+      }
+    ]
+  },
+  "ratingTags": [
+    {
+      "tag": "restaurante",
+      "count": 40,
+      "tooltip": "restaurante, mencionado em 40 avaliações"
+    },
+    {
+      "tag": "banho",
+      "count": 26,
+      "tooltip": "banho, mencionado em 26 avaliações"
+    },
+    {
+      "tag": "história",
+      "count": 12,
+      "tooltip": "história, mencionado em 12 avaliações"
+    },
+    {
+      "tag": "lazer",
+      "count": 11,
+      "tooltip": "lazer, mencionado em 11 avaliações"
+    },
+    {
+      "tag": "gelada",
+      "count": 10,
+      "tooltip": "gelada, mencionado em 10 avaliações"
+    },
+    {
+      "tag": "vermelho",
+      "count": 8,
+      "tooltip": "vermelho, mencionado em 8 avaliações"
+    },
+    {
+      "tag": "bar",
+      "count": 8,
+      "tooltip": "bar, mencionado em 8 avaliações"
+    },
+    {
+      "tag": "empada",
+      "count": 6,
+      "tooltip": "empada, mencionado em 6 avaliações"
+    },
+    {
+      "tag": "margens",
+      "count": 5,
+      "tooltip": "margens, mencionado em 5 avaliações"
+    },
+    {
+      "tag": "fonte",
+      "count": 5,
+      "tooltip": "fonte, mencionado em 5 avaliações"
+    }
+  ],
+  "featuredPhotos": [
+    "https://lh5.googleusercontent.com/p/AF1QipPvFLYAQ30UXyc0IXe_dWcHVafO1_dtR1XN0apN=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNsG-tR822HD_nIW4r_-TgiGjfq6R7Fz88Nj2_7=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPmdfjcUw94hbkEOgRCGSZ-UbxrEBXA7-3g-dJX=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMVm5nnArBO_MqUkGyYw01gJvJ9hHTDciqmv6Wo=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPhw62zRBXosLfvUeaBBlAmthW1YEOv-7yz5DCY=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPjp-Hfau37hpWTSvFCsiYMPBAakD9fp3XrqJgW=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPrYPedRoCMfaS6-1cgciClVSnrW3gSFAlN57kn=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipP30ZsH-auRtLav3FgFlt1wqAQf3_zT7CtEb91F=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOJgGW_-sV_lUW39l76ycVmxJA6SWQsHTINQvOv=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPMGuTOxbbyN0tZEhS15UV9Z5UNzh_vWU_Kti3R=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipN2jfyOCTdEGWfxzf2v9YgsvZKHUypFfy6tKujF=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNH5itEj6yh3osG152lcBS7Inc__J_ANgPKXfup=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPW313B-mxO0fd_OlVn-hgNUEldW0s59locrnEA=w1024-h576-k-no"
+  ],
+  "topComments": [
+    {
+      "author": "Henriques Turíbio",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucqyj5NXBK3ox9FMkn4aCvXXm4j6FTxzIkCzem_PzYc=w36-h36-p-c0x00000000-rp-mo-ba3-br100",
+      "comment": "Se você vai à Goiás para turistar, deve visitar esse parque. Local bonito e agradável, ao som do Rio Vermelho. Me foi informado que é um balneário quando no período de seca. A fonte d'água carece de manutenção, possui uma trilha e espaço para piqueniques.",
+      "gradeComment": 4
+    },
+    {
+      "author": "Marcos Vinícius Gonçalves",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucqHlLpe5KAHn64wGK-HCw5MkWxk8cMFf77SA3EyKw=w36-h36-p-c0x00000000-rp-mo-ba5-br100",
+      "comment": "Visita obrigatória para quem vai à Goiás. grande local com rio, brinquedos para crianças, área de lazer, restaurante, trilhas e muita paz. Lá também é onde está localizada a Fonte da Carioca. A parte ruim é a rua que dá acesso ser muito estreita, com muitos carros ocupando a via.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Sueli Eneas De Sousa",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucoZXjLjMYF3FA4tniDo0x6kDTn5YG_wlcvqb1NbpuU=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "Lugar lindo!! Ótimo para relaxar e se refrescar. Restaurante com uma comida e atendimento perfeitos.",
+      "gradeComment": 5
+    },
+    {
+      "author": "elson lopes",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucpkp7Q3aqRk50rNLGI7UHVIR0nHaCUkRO7EO36SyEc=w36-h36-p-c0x00000000-rp-mo-ba3-br100",
+      "comment": "Restaurante amplo à beira do rio Vermelho com o melhor empadão da cidade.",
+      "gradeComment": 4
+    },
+    {
+      "author": "MARCINHA RIBEIRO",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucp0erTbtO6ZKzCCsVUDWu-Y2tV0KH9kXf8fCDlrhA=w36-h36-p-c0x00000000-rp-mo-ba3-br100",
+      "comment": "Vale a pena conhecer. Tranquilo e um pouco romântico.",
+      "gradeComment": 3
+    },
+    {
+      "author": "Augusto Loureiro",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucp3FZqwB6OwE0-LgapsD8P630Pp4YC1oIiDpscL9qc=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "Um dos lugares mais  bonitos de Goiás Velho. Clima gostoso, árvores, parque infantil  restaurante, Ponte de madeira, água própria p banho, estacionamento, banheiros, entrada gratuita, Chafariz( n funciona, mas tem mta história). Veja o vídeo q fiz de Goiás Velho antes de ir p a cidade, pois irá te ajudar a aproveitar tudo q há de bom por lá. AUGUSTO LOUREIRO, meu canal no youube. Abraço!",
+      "gradeComment": 5
+    },
+    {
+      "author": "Eduardo",
+      "photoAuthor": "https://lh3.googleusercontent.com/a/AItbvmm6fK3A1QFgt3L7gdH87idw_11v022bo1X-LErU=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "Muito bom o parque! Bem cuidado, gratuito, bom para banhar no rio.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Laura Coelho (na conta de Laura Coelho)",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucqiZw-DB2fGh3-A3J1DfzyJgPVPtawdNfSjzxhjDFA=w36-h36-p-c0x00000000-rp-mo-ba3-br100",
+      "comment": "Bom para levar crianças! Natureza linda",
+      "gradeComment": 5
+    },
+    {
+      "author": "Elisa P.L.",
+      "photoAuthor": "https://lh3.googleusercontent.com/a/AItbvmnjtpWLqmXHN6RCLpenVZ_70eaMJGZWtPBG1svv=w36-h36-p-c0x00000000-rp-mo-br100",
+      "comment": "Ótimo lugar para dar um passeio curto  com crianças pequenas. Tem um parquecinho bonito onde as crianças podem brincar. Facil acesso ao parque. O parque deveria estar sinalizado assim para já saber que é ato para crianças. Infelizmente o parque tinha lados onde o lixo estava acumulado. A gente não comeu no restaurante por tanto não posso dizer se a comida é boa.",
+      "gradeComment": 4
+    },
+    {
+      "author": "Sandra Faria",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucoOYY99HK8o20DmyP6CJTdCoJBpC8qQsJkc0evl1Eg=w36-h36-p-c0x00000000-rp-mo-ba3-br100",
+      "comment": "Lugar lindo! Muito  limpo e preservado. Água  cristalina. Vale a pena visitar. 😍",
+      "gradeComment": 5
+    },
+    {
+      "author": "Carlos Roberto Mendes",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucpBtxZ5dxlM9DYI1e8xBuxu1zDaQpeEcvFirwJY=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "Lugar histórico e aprazível. Excelente restaurante. Pessoal atencioso e animado. Recomendo.",
+      "gradeComment": 4
+    },
+    {
+      "author": "Joana D'Ark",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucrpX-XDTgCssOaiGt3vg2ric6Cp4aTR2XjrSzCQlQ=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "O Rio tem água cristalina porém é muito gelada . O lugar é bonito e gratuito. Tem um bar que tem comida e bebida para vender. Tem banheiro.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Só games",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucomsgNOniBfoTQRIt3xnExo6Z21uxJ2iBh0eNE3zg=w36-h36-p-c0x00000000-rp-mo-ba5-br100",
+      "comment": "Parque top demais, cachoeira bem geladinha, restaurante com um empadão goiano Divino 😍👏🏾👏🏾👏🏾",
+      "gradeComment": 5
+    },
+    {
+      "author": "Albuquerque Flores",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZuco8qeZ3tuddIGd-XyksXOM5kwUE0g_rnpcktXW3=w36-h36-p-c0x00000000-rp-mo-ba3-br100",
+      "comment": "O prefeito deveria ter mais carinho com este lugar. Tá com a jardinagem abandonada e os brinquedos para crianças precisam ser renovados. Renovado, digo, comprado novo. Na última reforma pintaram o brinquedo velho. Político de interior pensa que só a mãe deles q faz filho esperto",
+      "gradeComment": 2
+    },
+    {
+      "author": "Gisele Brito",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucocKaZbe3JjvdysRDKZOLmYYeI0dL4P1aUjJzAuFGA=w36-h36-p-c0x00000000-rp-mo-ba3-br100",
+      "comment": "Linda e maravilhosa como sempre ❤️❤️",
+      "gradeComment": 5
+    },
+    {
+      "author": "IVAN GARCIA",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucpjcc9Qssv8ZLQKWgfmlW9vOyEUTZTgKisA9Og3XMc=w36-h36-p-c0x00000000-rp-mo-br100",
+      "comment": "Está abandonado!! Bancos estragados,sujeira para todo lado,fonte depredada. Onde está a prefeitura? Não tem um jardineiro sequer no local!!",
+      "gradeComment": 1
+    },
+    {
+      "author": "Cleiton Silva Barbosa",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucrLxlz9T5qyo7zBIyACIi1uE3Qrahn6cs_b1Ima4PA=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "Local bem preservado, com um rio bem agradável que completa o clima quente da cidade. Possui um restaurante dentro do parque, que apesar de ter um atendimento demorado, vale pela refeição bem preparada.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Dário Ferreira",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucraIZk6cqjch7UfHmVF7-PNKcLzNJ0f3HOryUAA=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "Muito bom tomar um banho no rio vermelho, água extremamente gelada.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Katiane Peres",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucoP97yCWkOT0P_iqAJp130Q1IpmHzflbIDHGnWXRoA=w36-h36-p-c0x00000000-rp-mo-br100",
+      "comment": "Lugar agradável,  sombreado com parque para crianças e Rio com água limpa",
+      "gradeComment": 5
+    },
+    {
+      "author": "Luiz Irany Alves Ferreira",
+      "photoAuthor": "https://lh3.googleusercontent.com/a/AItbvmmyaZWAjMS1BsFxx40nqmM7HXiBnZHttTGA2wZT=w36-h36-p-c0x00000000-rp-mo-br100",
+      "comment": "Ótimo restaurante lugar perfeito pra reunirlr uns amigo a beira do lago muito bom. Cervejinha estupidamente gelada bom clima sem poluição perfeito",
+      "gradeComment": 5
+    }
+  ],
+  "peakHours": [
+    {
+      "Sunday": [
+        {
+          "hour": "04:00",
+          "percent": 1
+        },
+        {
+          "hour": "05:00",
+          "percent": 1
+        },
+        {
+          "hour": "06:00",
+          "percent": 1
+        },
+        {
+          "hour": "07:00",
+          "percent": 1
+        },
+        {
+          "hour": "08:00",
+          "percent": 4
+        },
+        {
+          "hour": "09:00",
+          "percent": 14
+        },
+        {
+          "hour": "10:00",
+          "percent": 29
+        },
+        {
+          "hour": "11:00",
+          "percent": 46
+        },
+        {
+          "hour": "12:00",
+          "percent": 60
+        },
+        {
+          "hour": "13:00",
+          "percent": 73
+        },
+        {
+          "hour": "14:00",
+          "percent": 88
+        },
+        {
+          "hour": "15:00",
+          "percent": 100
+        },
+        {
+          "hour": "16:00",
+          "percent": 94
+        },
+        {
+          "hour": "17:00",
+          "percent": 68
+        },
+        {
+          "hour": "18:00",
+          "percent": 35
+        },
+        {
+          "hour": "19:00",
+          "percent": 13
+        },
+        {
+          "hour": "20:00",
+          "percent": 2
+        },
+        {
+          "hour": "21:00",
+          "percent": 1
+        },
+        {
+          "hour": "22:00",
+          "percent": 1
+        },
+        {
+          "hour": "23:00",
+          "percent": 1
+        },
+        {
+          "hour": "00:00",
+          "percent": 1
+        },
+        {
+          "hour": "01:00",
+          "percent": 1
+        },
+        {
+          "hour": "02:00",
+          "percent": 1
+        },
+        {
+          "hour": "03:00",
+          "percent": 1
+        }
+      ]
+    },
+    {
+      "Monday": [
+        {
+          "hour": "04:00",
+          "percent": 1
+        },
+        {
+          "hour": "05:00",
+          "percent": 1
+        },
+        {
+          "hour": "06:00",
+          "percent": 1
+        },
+        {
+          "hour": "08:00",
+          "percent": 2
+        },
+        {
+          "hour": "09:00",
+          "percent": 4
+        },
+        {
+          "hour": "10:00",
+          "percent": 6
+        },
+        {
+          "hour": "11:00",
+          "percent": 8
+        },
+        {
+          "hour": "12:00",
+          "percent": 10
+        },
+        {
+          "hour": "13:00",
+          "percent": 12
+        },
+        {
+          "hour": "14:00",
+          "percent": 14
+        },
+        {
+          "hour": "15:00",
+          "percent": 15
+        },
+        {
+          "hour": "16:00",
+          "percent": 15
+        },
+        {
+          "hour": "17:00",
+          "percent": 14
+        },
+        {
+          "hour": "18:00",
+          "percent": 11
+        },
+        {
+          "hour": "19:00",
+          "percent": 8
+        },
+        {
+          "hour": "20:00",
+          "percent": 5
+        },
+        {
+          "hour": "21:00",
+          "percent": 1
+        },
+        {
+          "hour": "22:00",
+          "percent": 1
+        },
+        {
+          "hour": "23:00",
+          "percent": 1
+        },
+        {
+          "hour": "00:00",
+          "percent": 1
+        },
+        {
+          "hour": "01:00",
+          "percent": 1
+        },
+        {
+          "hour": "02:00",
+          "percent": 1
+        },
+        {
+          "hour": "03:00",
+          "percent": 1
+        }
+      ]
+    },
+    {
+      "Tuesday": [
+        {
+          "hour": "04:00",
+          "percent": 1
+        },
+        {
+          "hour": "05:00",
+          "percent": 1
+        },
+        {
+          "hour": "06:00",
+          "percent": 1
+        },
+        {
+          "hour": "07:00",
+          "percent": 1
+        },
+        {
+          "hour": "09:00",
+          "percent": 1
+        },
+        {
+          "hour": "10:00",
+          "percent": 3
+        },
+        {
+          "hour": "11:00",
+          "percent": 4
+        },
+        {
+          "hour": "12:00",
+          "percent": 6
+        },
+        {
+          "hour": "13:00",
+          "percent": 9
+        },
+        {
+          "hour": "14:00",
+          "percent": 11
+        },
+        {
+          "hour": "15:00",
+          "percent": 12
+        },
+        {
+          "hour": "16:00",
+          "percent": 12
+        },
+        {
+          "hour": "17:00",
+          "percent": 10
+        },
+        {
+          "hour": "18:00",
+          "percent": 8
+        },
+        {
+          "hour": "19:00",
+          "percent": 5
+        },
+        {
+          "hour": "20:00",
+          "percent": 2
+        },
+        {
+          "hour": "22:00",
+          "percent": 1
+        },
+        {
+          "hour": "23:00",
+          "percent": 1
+        },
+        {
+          "hour": "00:00",
+          "percent": 1
+        },
+        {
+          "hour": "01:00",
+          "percent": 1
+        },
+        {
+          "hour": "02:00",
+          "percent": 1
+        },
+        {
+          "hour": "03:00",
+          "percent": 1
+        }
+      ]
+    },
+    {
+      "Wednesday": [
+        {
+          "hour": "04:00",
+          "percent": 1
+        },
+        {
+          "hour": "05:00",
+          "percent": 1
+        },
+        {
+          "hour": "06:00",
+          "percent": 1
+        },
+        {
+          "hour": "07:00",
+          "percent": 1
+        },
+        {
+          "hour": "08:00",
+          "percent": 1
+        },
+        {
+          "hour": "09:00",
+          "percent": 2
+        },
+        {
+          "hour": "10:00",
+          "percent": 4
+        },
+        {
+          "hour": "11:00",
+          "percent": 6
+        },
+        {
+          "hour": "12:00",
+          "percent": 8
+        },
+        {
+          "hour": "13:00",
+          "percent": 10
+        },
+        {
+          "hour": "14:00",
+          "percent": 12
+        },
+        {
+          "hour": "15:00",
+          "percent": 14
+        },
+        {
+          "hour": "16:00",
+          "percent": 14
+        },
+        {
+          "hour": "17:00",
+          "percent": 13
+        },
+        {
+          "hour": "18:00",
+          "percent": 11
+        },
+        {
+          "hour": "19:00",
+          "percent": 7
+        },
+        {
+          "hour": "20:00",
+          "percent": 4
+        },
+        {
+          "hour": "21:00",
+          "percent": 1
+        },
+        {
+          "hour": "22:00",
+          "percent": 1
+        },
+        {
+          "hour": "23:00",
+          "percent": 1
+        },
+        {
+          "hour": "00:00",
+          "percent": 1
+        },
+        {
+          "hour": "01:00",
+          "percent": 1
+        },
+        {
+          "hour": "02:00",
+          "percent": 1
+        },
+        {
+          "hour": "03:00",
+          "percent": 1
+        }
+      ]
+    },
+    {
+      "Thursday": [
+        {
+          "hour": "04:00",
+          "percent": 1
+        },
+        {
+          "hour": "05:00",
+          "percent": 1
+        },
+        {
+          "hour": "06:00",
+          "percent": 1
+        },
+        {
+          "hour": "07:00",
+          "percent": 1
+        },
+        {
+          "hour": "08:00",
+          "percent": 1
+        },
+        {
+          "hour": "09:00",
+          "percent": 4
+        },
+        {
+          "hour": "10:00",
+          "percent": 8
+        },
+        {
+          "hour": "11:00",
+          "percent": 13
+        },
+        {
+          "hour": "12:00",
+          "percent": 20
+        },
+        {
+          "hour": "13:00",
+          "percent": 26
+        },
+        {
+          "hour": "14:00",
+          "percent": 31
+        },
+        {
+          "hour": "15:00",
+          "percent": 32
+        },
+        {
+          "hour": "16:00",
+          "percent": 29
+        },
+        {
+          "hour": "17:00",
+          "percent": 23
+        },
+        {
+          "hour": "18:00",
+          "percent": 17
+        },
+        {
+          "hour": "19:00",
+          "percent": 11
+        },
+        {
+          "hour": "20:00",
+          "percent": 6
+        },
+        {
+          "hour": "21:00",
+          "percent": 2
+        },
+        {
+          "hour": "23:00",
+          "percent": 1
+        },
+        {
+          "hour": "00:00",
+          "percent": 1
+        },
+        {
+          "hour": "01:00",
+          "percent": 1
+        },
+        {
+          "hour": "02:00",
+          "percent": 1
+        },
+        {
+          "hour": "03:00",
+          "percent": 1
+        }
+      ]
+    },
+    {
+      "Friday": [
+        {
+          "hour": "04:00",
+          "percent": 1
+        },
+        {
+          "hour": "05:00",
+          "percent": 1
+        },
+        {
+          "hour": "06:00",
+          "percent": 1
+        },
+        {
+          "hour": "08:00",
+          "percent": 3
+        },
+        {
+          "hour": "09:00",
+          "percent": 6
+        },
+        {
+          "hour": "10:00",
+          "percent": 10
+        },
+        {
+          "hour": "11:00",
+          "percent": 13
+        },
+        {
+          "hour": "12:00",
+          "percent": 17
+        },
+        {
+          "hour": "13:00",
+          "percent": 22
+        },
+        {
+          "hour": "14:00",
+          "percent": 27
+        },
+        {
+          "hour": "15:00",
+          "percent": 31
+        },
+        {
+          "hour": "16:00",
+          "percent": 32
+        },
+        {
+          "hour": "17:00",
+          "percent": 29
+        },
+        {
+          "hour": "18:00",
+          "percent": 22
+        },
+        {
+          "hour": "19:00",
+          "percent": 13
+        },
+        {
+          "hour": "20:00",
+          "percent": 7
+        },
+        {
+          "hour": "23:00",
+          "percent": 1
+        },
+        {
+          "hour": "00:00",
+          "percent": 1
+        },
+        {
+          "hour": "01:00",
+          "percent": 1
+        },
+        {
+          "hour": "02:00",
+          "percent": 1
+        },
+        {
+          "hour": "03:00",
+          "percent": 1
+        }
+      ]
+    },
+    {
+      "Saturday": [
+        {
+          "hour": "04:00",
+          "percent": 1
+        },
+        {
+          "hour": "05:00",
+          "percent": 1
+        },
+        {
+          "hour": "06:00",
+          "percent": 1
+        },
+        {
+          "hour": "08:00",
+          "percent": 4
+        },
+        {
+          "hour": "09:00",
+          "percent": 11
+        },
+        {
+          "hour": "10:00",
+          "percent": 21
+        },
+        {
+          "hour": "11:00",
+          "percent": 33
+        },
+        {
+          "hour": "12:00",
+          "percent": 44
+        },
+        {
+          "hour": "13:00",
+          "percent": 54
+        },
+        {
+          "hour": "14:00",
+          "percent": 67
+        },
+        {
+          "hour": "15:00",
+          "percent": 87
+        },
+        {
+          "hour": "16:00",
+          "percent": 96
+        },
+        {
+          "hour": "17:00",
+          "percent": 73
+        },
+        {
+          "hour": "18:00",
+          "percent": 37
+        },
+        {
+          "hour": "19:00",
+          "percent": 15
+        },
+        {
+          "hour": "20:00",
+          "percent": 6
+        },
+        {
+          "hour": "21:00",
+          "percent": 4
+        },
+        {
+          "hour": "22:00",
+          "percent": 2
+        },
+        {
+          "hour": "23:00",
+          "percent": 1
+        },
+        {
+          "hour": "01:00",
+          "percent": 1
+        },
+        {
+          "hour": "02:00",
+          "percent": 1
+        },
+        {
+          "hour": "03:00",
+          "percent": 1
+        }
+      ]
+    }
+  ],
+  "relatedSearches": [
+    "o que fazer em goiás velho",
+    "balneário goiás velho",
+    "o que fazer em goiás velho a noite",
+    "sucuri goiás",
+    "o que fazer em goiás velho",
+    "balneário goiás velho",
+    "o que fazer em goiás velho a noite",
+    "sucuri goiás"
+  ],
+  "relateds": [
+    {
+      "mainName": "Carioca Piscina's",
+      "url": null
+    },
+    {
+      "mainName": "Praça da vila Carioca",
+      "url": null
+    },
+    {
+      "mainName": "Parque Carioca",
+      "url": null
+    },
+    {
+      "mainName": "Seu Carioca",
+      "url": null
+    },
+    {
+      "mainName": "Carioca Piscina's",
+      "url": null
+    },
+    {
+      "mainName": "Praça da vila Carioca",
+      "url": null
+    },
+    {
+      "mainName": "Parque Carioca",
+      "url": null
+    },
+    {
+      "mainName": "Seu Carioca",
+      "url": null
+    }
+  ]
+}

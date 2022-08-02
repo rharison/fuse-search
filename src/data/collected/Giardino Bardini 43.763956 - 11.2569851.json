@@ -1,0 +1,772 @@
+{
+  "mainName": "Giardino Bardini",
+  "slug": "giardino-bardini",
+  "category": "Jardim",
+  "locationInformation": {
+    "latitude": "43.763956",
+    "longitude": "11.2569851"
+  },
+  "basicInformation": [
+    {
+      "label": "endereço",
+      "tooltip": "Copiar endereço",
+      "text": "Via de' Bardi, 1, 50125 Firenze FI, Itália",
+      "icon": "https://www.gstatic.com/images/icons/material/system_gm/1x/place_gm_blue_24dp.png"
+    },
+    {
+      "label": "website",
+      "tooltip": "Abrir website",
+      "text": "villabardini.it",
+      "icon": "https://www.gstatic.com/images/icons/material/system_gm/1x/public_gm_blue_24dp.png"
+    },
+    {
+      "label": "telefone",
+      "tooltip": "Copiar número de telefone",
+      "text": "+39 055 263 8599",
+      "icon": "https://www.gstatic.com/images/icons/material/system_gm/1x/phone_gm_blue_24dp.png"
+    },
+    {
+      "label": "Code",
+      "tooltip": "Copiar Plus Code",
+      "text": "Q774+HQ Florença, Itália",
+      "icon": "https://maps.gstatic.com/mapfiles/maps_lite/images/2x/ic_plus_code.png"
+    },
+    {
+      "label": "send-to-device",
+      "text": "Enviar para smartphone",
+      "icon": "https://maps.gstatic.com/consumer/images/icons/1x/send_to_mobile_alt_gm_blue_24dp.png"
+    }
+  ],
+  "ratingInformation": {
+    "basicRatingInformation": {
+      "averageGrade": 4.5,
+      "totalOfEvaluations": 4342
+    },
+    "ratingsByGrade": [
+      {
+        "grade": 5,
+        "totalRatings": 3052
+      },
+      {
+        "grade": 4,
+        "totalRatings": 837
+      },
+      {
+        "grade": 3,
+        "totalRatings": 255
+      },
+      {
+        "grade": 2,
+        "totalRatings": 89
+      },
+      {
+        "grade": 1,
+        "totalRatings": 109
+      }
+    ]
+  },
+  "ratingTags": [
+    {
+      "tag": "wisteria",
+      "count": 136,
+      "tooltip": "wisteria, mencionado em 136 avaliações"
+    },
+    {
+      "tag": "villa",
+      "count": 68,
+      "tooltip": "villa, mencionado em 68 avaliações"
+    },
+    {
+      "tag": "ingresso",
+      "count": 67,
+      "tooltip": "ingresso, mencionado em 67 avaliações"
+    },
+    {
+      "tag": "primavera",
+      "count": 60,
+      "tooltip": "primavera, mencionado em 60 avaliações"
+    },
+    {
+      "tag": "exposições",
+      "count": 42,
+      "tooltip": "exposições, mencionado em 42 avaliações"
+    },
+    {
+      "tag": "abril",
+      "count": 34,
+      "tooltip": "abril, mencionado em 34 avaliações"
+    },
+    {
+      "tag": "morro",
+      "count": 27,
+      "tooltip": "morro, mencionado em 27 avaliações"
+    },
+    {
+      "tag": "panorâmica",
+      "count": 22,
+      "tooltip": "panorâmica, mencionado em 22 avaliações"
+    },
+    {
+      "tag": "túnel",
+      "count": 22,
+      "tooltip": "túnel, mencionado em 22 avaliações"
+    },
+    {
+      "tag": "pérgula",
+      "count": 18,
+      "tooltip": "pérgula, mencionado em 18 avaliações"
+    }
+  ],
+  "featuredPhotos": [
+    "https://lh5.googleusercontent.com/p/AF1QipNtTaJCNp3L-y_zgad9EgQM_WVE7Fyx7ED0W8Ft=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOSgWPiuH8M4gMdHuunHQpkmOqyxqzR-2fSrYsZ=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMi7Pr2C9APhKSDhfSB44O4FW5n3465q2IDROgl=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNBzA5KTvXf-QfaTEs_v_XaTPS06MAnoAPIEB4G=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipP8cQLBsS0fmrwU_InpAEyOIQxjkLWSwm0pUeA0=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNKadVXDicqBhYx4A-xh73ffAu7OdGBS6_eajl2=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMdFGbo761wO9qicPiSG_D9C0YXJy_nSrtSd-j2=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPXv3rm0OcVUz6GG35KfiMhIYdhmEviKX5azs00=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNexAtTcpgA4QmLKVpElfNZLe6OZF5fHKJw4Bqc=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNJlQW2jnPXNP5WBcZXzIwf6dHNGAs1gq8Mkb2X=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOcGwF5IsM92atFwPrjLzoakdGZoFSp-CS7Zr4Y=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNEyAqAyspXxItvC_g4nm8XZ4IE3ml63hpje4rY=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPDxvk3GuprALk6eNTCeIoSWkVqQQqBgk0lSkoS=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMx8agbM5npC6BPfZQJDVZ-5ozau4JPic4PM_gm=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPOxaGJFXq9CwmfxBcDJz-fjGI7V5-LFkgzntk6=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPi-cP-5m9kE-KetpLMnI1MRmEs37JxWaFtSbdG=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNxRyK611nbgDzWOn-Q7UPILFoUeHU6XfhQ5xZ8=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOOsElEICSQK51dOZ719xJWIXkDVN7DP8qvVmsy=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPTfeP86VMbD5J5O3IM5f7QzuuqTdAxKFeOi_Te=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOM_uSBmp-4HVbarXHIsE72bXURFClZRnOPXp7K=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPYpkB_EtTd_ZxQeaNiRTseVgmKmcNDzlN7hCLh=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNc9-t3riVZ3R3yIpk_hAlxJALAlf7IJLziSnR4=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNCgNeAjnfXkRp2t6khCzSY7FpZ7XhumJ8cgCJX=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOvobbSk7pPAeso-ez9L0zRpOs9JvkneGrvPRry=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipN3HXALjVIguuMqqhNLGIh65ZidEZfDiQJNLYow=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPX5JCm69FhHGy8wDgy5O7r6TMd6zGL0ohLTuO8=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMmsfDtBBLz-c25QDGHbUFpe4XRCKcCziLUG3CU=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMsExA_JXH-3f5EMlRgrETWnxMdDvLT-HLjXI30=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMI9fr4vTHMY4ah5AXb5fJOx4unrSvynNNcw8bl=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMgkiKiTh6iK34HAKwFpynCaBjyHGQ2OXDkq68=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNoTH21bxfveJegv7mEZRwSOyHWWRHSHDfzW17C=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNeVSZ-0VwotzIk2FW1dWEMPzeLH4LtZvvDiKzY=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOc8est3WubSC_9de54QYQPWAcvFtiMaCMyenzp=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOxg2aR9B6l04eUFdlnG_kRJoPK8YH5-pipwSaX=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPFpaJUaqYIY7z3nFdRgrWceJW6GamIYit-jfeB=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipP-_j2--vqFcbSuCX2HO0RusQIDT7-DQZHsvanL=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMpTPjJzi-A704GNl6ZJ4E8Qh-k_qLlVOJKfTIZ=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNG4SOFswAxKNwPF3BuGHBGzg7aob-Rq8_E8WnM=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOUAIpJFO7sbL6xrRG0jwDGwExoxHnmwSi0AukV=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNkk1lUs7KGoBHmQz178FaNRxoU3t5FtND2JX_w=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipM4zWl1Q4_ImdAbUK2QEHY5H4ydpdj4haFspER9=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOHihw0xTO8Ry4oOYwVParcwXPhaznvoE6Fs-wA=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPLN_86fwv3lBfk5iaarp8pUJCXRcA3YZYlDoT8=w1024-h576-k-no"
+  ],
+  "topComments": [
+    {
+      "author": "João Vitor Perilo Bahia",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucrF0ttcg-NNJSLA_QLFe22oUPge51e-2qC1Vu_GCA=w36-h36-p-c0x00000000-rp-mo-ba3-br100",
+      "comment": "Jardim maravilhoso. Vale a pena ir usando a Via Belvedere. Compre o ingresso que dê acesso ao jardins de Bardini e o de Boboli. Tem-se uma vista ímpar de toda Florença. Espetacular.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Rafael Longo",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucoALyHvpYX_vmbtmd3XTkUsKR9_9_axwKMzSx_-8MY=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "Legal!!! Quando visitamos não estava com flores, mas o lugar é muito bonito, ideal para um bom passeio e ótimas fotos. Recomendo!!",
+      "gradeComment": 4
+    },
+    {
+      "author": "Telmo Leal",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucptin6C3iTQWaCfr_kIBCuey6J2i1ACvLcPiJmSag=w36-h36-p-c0x00000000-rp-mo-ba5-br100",
+      "comment": "Neste pequeno jardim conseguimos uma perspetiva diferente sobre a cidade de Florença, ao mesmo tempo que descansamos da azáfama em que aquela vive constantemente. Podemos olhar descansadamente para paisagem, onde se destaca a catedral com a sua cúpula, o campanário e a torre do palácio vecchio. É como olhar para um mapa em tamanho real, encontramos aquele ponto onde passamos e apontamos o que nos falta visitar, sempre debaixo da sombra de uma árvore enorme e ao som das aves nos seus ritmos naturais.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Willian Washington Wives",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucqTfd87e5nQWFHzWocd6S4v-Oib_xHu6lOdJUt5=w36-h36-p-c0x00000000-rp-mo-ba5-br100",
+      "comment": "Um lindo jardim que foi restaurado. No terraço mais alto há um café/restaurante, foi a pior refeição que fiz na Itália, o café era Nespresso e a lasanha congelada, não perca seu tempo no restaurante. Dentro estava acontecendo também uma exposição temporária com  fotografias e gravuras,  valeu a pena ir também. Compre o ingresso que dá acesso também ao Jardim Boboli.",
+      "gradeComment": 4
+    },
+    {
+      "author": "Luiz Ferreira",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucq2kkQHGtzz-yySSu-OtKcRR4mW8LVcMA-8fBkqMw=w36-h36-p-c0x00000000-rp-mo-ba5-br100",
+      "comment": "Uma opção \"sossegada\" dentro de Florença, um belo jardim, com uma linda vista da cidade. Quando eu fui, algumas áreas estavam fechadas, mas isto não afetou muito o passeio. Uma opção para os \"sem pressa\"",
+      "gradeComment": 4
+    },
+    {
+      "author": "Sueli Cristina Macedo",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucpZjSc8sq1skKvkgEaRlMIRkG6NXRoFlUkqw6rBvA=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "Muito mal cuidado",
+      "gradeComment": 5
+    },
+    {
+      "author": "Clodoaldo Frozza Sanches",
+      "photoAuthor": "https://lh3.googleusercontent.com/a/AItbvmmI1KMfqes1sQW8tS8eQYz_7-yX6YKWg6DnTANu=w36-h36-p-c0x00000000-rp-mo-ba5-br100",
+      "comment": "Lugar incrível com uma vista deslumbrante da cidade, tome cuidado apenas com os pontoa de estacionamento. Local fechado as segundas feiras.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Tatiana Motta",
+      "photoAuthor": "https://lh3.googleusercontent.com/a/AItbvmmuZQMBpBTgVwVEI9Isb9pL7xYdWFYFnVJL3onF=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "Lindo lugar, ao lado do Jardim de Boboli. A entrada era gratuita. Vale a pena visitar.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Cláudia Rocha Coppoli",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucp5g4L1zUVh4u8_xwsqLwd67_8oUz9lpJPFHglcMg=w36-h36-p-c0x00000000-rp-mo-ba2-br100",
+      "comment": "Q lugar maravilhoso!! Oferece uma vista linda de Florença",
+      "gradeComment": 5
+    },
+    {
+      "author": "Mathisa Stachuk",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucqNLlLIHp8Rq7a8ri5cifh1mNeUqHoRIbziRX2Lh1w=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "Melhor vista de Firenze e uma recepcionista fofissima que fez questão de tentar falar em português conosco!!!",
+      "gradeComment": 5
+    },
+    {
+      "author": "Bruna Silva Marques",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucoHhN5mhghSiVWfelO3VIoc-HLtcDCxUezeHKk8UA=w36-h36-p-c0x00000000-rp-mo-ba3-br100",
+      "comment": "Belíssimo! Fui na semana em que florescem as Glicines e fiquei admirada!",
+      "gradeComment": 5
+    },
+    {
+      "author": "João Luiz Harres Harres",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucqzqfgDDz9jODuTm2-8KxVphC2zbPylQJzhBkhR010=w36-h36-p-c0x00000000-rp-mo-ba6-br100",
+      "comment": "Muito lindo com uma vista incrível da cidade.",
+      "gradeComment": 5
+    },
+    {
+      "author": "MILO VARGAS",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucr-gy1Eb5op87T91C7biViHJ14unUBeig2C67Gpyg=w36-h36-p-c0x00000000-rp-mo-ba6-br100",
+      "comment": "Muito bonito. Melhor visitar na primavera.",
+      "gradeComment": 4
+    },
+    {
+      "author": "Lourenço Lourenço",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucoox252UKToYtDFmfL0B5kEq3ok0OcytVXadWl8Fg=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "Expetacular para quem gosta de ver um bocado da história do Pinóquio",
+      "gradeComment": 5
+    },
+    {
+      "author": "Chumbo Santos",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucry9P467jKSM1TCksFeordnuuwX7X5aRtns3kMZn3E=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "Lindo jardim, belíssima vista da cidade",
+      "gradeComment": 5
+    },
+    {
+      "author": "Renato Schoen",
+      "photoAuthor": "https://lh3.googleusercontent.com/a/AItbvmk9253HLWK7JnCU_urasefgEcv3f-AuxIN9F6ln=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "Bonito jardim, com bela vista",
+      "gradeComment": 5
+    },
+    {
+      "author": "Maria Elisa",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucrNAp31rOl8_bLmSBxdrIo4C_bt_9soWKZQtAP_cOE=w36-h36-p-c0x00000000-rp-mo-ba3-br100",
+      "comment": "Nao tinha flores....",
+      "gradeComment": 3
+    },
+    {
+      "author": "André Martins",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucpbuee2C5JkZTI6P2Ix0UsPLz7tj2k9sP3-b6FXPQ=w36-h36-p-c0x00000000-rp-mo-br100",
+      "comment": "Jardim em mau estado de conservação",
+      "gradeComment": 2
+    },
+    {
+      "author": "Kelly N. Mulinari",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucqUCjTaXAmnof2jKmXcMti4iQvqJmkzLhOvYlYxUw=w36-h36-p-c0x00000000-rp-mo-br100",
+      "comment": "Lindo, perfeito!",
+      "gradeComment": 5
+    },
+    {
+      "author": "Beatriz Pinto Lemos",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucrSU4FQRZYUN6AW2MjBmo71FYd4ODXjVGIiYADW6Q=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "Muito lindo !!",
+      "gradeComment": 5
+    }
+  ],
+  "peakHours": [
+    {
+      "Sunday": [
+        {
+          "hour": "10:00",
+          "percent": 40
+        },
+        {
+          "hour": "11:00",
+          "percent": 76
+        },
+        {
+          "hour": "12:00",
+          "percent": 84
+        },
+        {
+          "hour": "13:00",
+          "percent": 66
+        },
+        {
+          "hour": "14:00",
+          "percent": 64
+        },
+        {
+          "hour": "15:00",
+          "percent": 83
+        },
+        {
+          "hour": "16:00",
+          "percent": 100
+        },
+        {
+          "hour": "18:00",
+          "percent": 79
+        },
+        {
+          "hour": "19:00",
+          "percent": 52
+        }
+      ]
+    },
+    {
+      "Monday": [
+        {
+          "hour": "10:00",
+          "percent": 18
+        },
+        {
+          "hour": "11:00",
+          "percent": 28
+        },
+        {
+          "hour": "12:00",
+          "percent": 33
+        },
+        {
+          "hour": "13:00",
+          "percent": 35
+        },
+        {
+          "hour": "14:00",
+          "percent": 41
+        },
+        {
+          "hour": "15:00",
+          "percent": 51
+        },
+        {
+          "hour": "16:00",
+          "percent": 55
+        },
+        {
+          "hour": "17:00",
+          "percent": 46
+        },
+        {
+          "hour": "18:00",
+          "percent": 28
+        },
+        {
+          "hour": "19:00",
+          "percent": 13
+        }
+      ]
+    },
+    {
+      "Tuesday": [
+        {
+          "hour": "10:00",
+          "percent": 27
+        },
+        {
+          "hour": "11:00",
+          "percent": 39
+        },
+        {
+          "hour": "12:00",
+          "percent": 42
+        },
+        {
+          "hour": "13:00",
+          "percent": 40
+        },
+        {
+          "hour": "14:00",
+          "percent": 42
+        },
+        {
+          "hour": "15:00",
+          "percent": 49
+        },
+        {
+          "hour": "16:00",
+          "percent": 49
+        },
+        {
+          "hour": "17:00",
+          "percent": 38
+        },
+        {
+          "hour": "18:00",
+          "percent": 23
+        },
+        {
+          "hour": "19:00",
+          "percent": 13
+        }
+      ]
+    },
+    {
+      "Wednesday": [
+        {
+          "hour": "10:00",
+          "percent": 30
+        },
+        {
+          "hour": "11:00",
+          "percent": 41
+        },
+        {
+          "hour": "12:00",
+          "percent": 38
+        },
+        {
+          "hour": "13:00",
+          "percent": 35
+        },
+        {
+          "hour": "14:00",
+          "percent": 38
+        },
+        {
+          "hour": "15:00",
+          "percent": 45
+        },
+        {
+          "hour": "16:00",
+          "percent": 48
+        },
+        {
+          "hour": "17:00",
+          "percent": 44
+        },
+        {
+          "hour": "18:00",
+          "percent": 35
+        },
+        {
+          "hour": "19:00",
+          "percent": 24
+        }
+      ]
+    },
+    {
+      "Thursday": [
+        {
+          "hour": "10:00",
+          "percent": 26
+        },
+        {
+          "hour": "11:00",
+          "percent": 31
+        },
+        {
+          "hour": "12:00",
+          "percent": 32
+        },
+        {
+          "hour": "13:00",
+          "percent": 33
+        },
+        {
+          "hour": "14:00",
+          "percent": 37
+        },
+        {
+          "hour": "15:00",
+          "percent": 44
+        },
+        {
+          "hour": "16:00",
+          "percent": 46
+        },
+        {
+          "hour": "17:00",
+          "percent": 40
+        },
+        {
+          "hour": "18:00",
+          "percent": 31
+        },
+        {
+          "hour": "19:00",
+          "percent": 24
+        }
+      ]
+    },
+    {
+      "Friday": [
+        {
+          "hour": "10:00",
+          "percent": 20
+        },
+        {
+          "hour": "11:00",
+          "percent": 27
+        },
+        {
+          "hour": "12:00",
+          "percent": 33
+        },
+        {
+          "hour": "13:00",
+          "percent": 38
+        },
+        {
+          "hour": "14:00",
+          "percent": 40
+        },
+        {
+          "hour": "15:00",
+          "percent": 41
+        },
+        {
+          "hour": "16:00",
+          "percent": 40
+        },
+        {
+          "hour": "17:00",
+          "percent": 39
+        },
+        {
+          "hour": "18:00",
+          "percent": 38
+        },
+        {
+          "hour": "19:00",
+          "percent": 37
+        }
+      ]
+    },
+    {
+      "Saturday": [
+        {
+          "hour": "10:00",
+          "percent": 43
+        },
+        {
+          "hour": "11:00",
+          "percent": 72
+        },
+        {
+          "hour": "12:00",
+          "percent": 74
+        },
+        {
+          "hour": "13:00",
+          "percent": 64
+        },
+        {
+          "hour": "14:00",
+          "percent": 69
+        },
+        {
+          "hour": "15:00",
+          "percent": 85
+        },
+        {
+          "hour": "16:00",
+          "percent": 95
+        },
+        {
+          "hour": "17:00",
+          "percent": 92
+        },
+        {
+          "hour": "18:00",
+          "percent": 77
+        },
+        {
+          "hour": "19:00",
+          "percent": 56
+        }
+      ]
+    }
+  ],
+  "relatedSearches": [
+    "giardino bardini wiki",
+    "is giardino bardini free",
+    "giardino bardini tickets",
+    "giardino bardini hours",
+    "giardino di boboli e giardino bardini",
+    "bardini gardens vs boboli",
+    "villa bardini restaurant",
+    "villa bardini parcheggio",
+    "giardino bardini wiki",
+    "is giardino bardini free",
+    "giardino bardini tickets",
+    "giardino bardini hours",
+    "giardino di boboli e giardino bardini",
+    "bardini gardens vs boboli",
+    "villa bardini restaurant",
+    "villa bardini parcheggio"
+  ],
+  "relateds": [
+    {
+      "mainName": "Villa Bardini",
+      "url": null
+    },
+    {
+      "mainName": "Jardins de Boboli",
+      "url": null
+    },
+    {
+      "mainName": "Museu Stefano Bardini",
+      "url": null
+    },
+    {
+      "mainName": "Rose Garden",
+      "url": null
+    },
+    {
+      "mainName": "Palazzo Mozzi",
+      "url": null
+    },
+    {
+      "mainName": "Piazzale Michelangelo",
+      "url": null
+    },
+    {
+      "mainName": "Forte Belvedere",
+      "url": null
+    },
+    {
+      "mainName": "giardino",
+      "url": null
+    },
+    {
+      "mainName": "Foundation Cassa Di Risparmio di Firenze",
+      "url": null
+    },
+    {
+      "mainName": "Palácio Pitti",
+      "url": null
+    },
+    {
+      "mainName": "Jardim dos simples de Florença",
+      "url": null
+    },
+    {
+      "mainName": "Villa Medicea La Petraia",
+      "url": null
+    },
+    {
+      "mainName": "Knight’s Building and Rampart",
+      "url": null
+    },
+    {
+      "mainName": "Villa Medicea di Castello",
+      "url": null
+    },
+    {
+      "mainName": "Galleria degli Uffizi",
+      "url": null
+    },
+    {
+      "mainName": "Giardino Torrigiani",
+      "url": null
+    },
+    {
+      "mainName": "Campanário de Giotto",
+      "url": null
+    },
+    {
+      "mainName": "Igreja di San Miniato al Monte",
+      "url": null
+    },
+    {
+      "mainName": "Foof Museum of the Dog Mondragone",
+      "url": null
+    },
+    {
+      "mainName": "Chiesa del SS. Crocifisso a Fontelucente",
+      "url": null
+    },
+    {
+      "mainName": "Piazza della Repubblica",
+      "url": null
+    },
+    {
+      "mainName": "Palazzo Vecchio",
+      "url": null
+    },
+    {
+      "mainName": "Basílica do Espírito Santo",
+      "url": null
+    },
+    {
+      "mainName": "Ponte Vecchio",
+      "url": null
+    },
+    {
+      "mainName": "Villa Bardini",
+      "url": null
+    },
+    {
+      "mainName": "Jardins de Boboli",
+      "url": null
+    },
+    {
+      "mainName": "Museu Stefano Bardini",
+      "url": null
+    },
+    {
+      "mainName": "Rose Garden",
+      "url": null
+    },
+    {
+      "mainName": "Palazzo Mozzi",
+      "url": null
+    },
+    {
+      "mainName": "Piazzale Michelangelo",
+      "url": null
+    },
+    {
+      "mainName": "Forte Belvedere",
+      "url": null
+    },
+    {
+      "mainName": "giardino",
+      "url": null
+    },
+    {
+      "mainName": "Foundation Cassa Di Risparmio di Firenze",
+      "url": null
+    },
+    {
+      "mainName": "Palácio Pitti",
+      "url": null
+    },
+    {
+      "mainName": "Jardim dos simples de Florença",
+      "url": null
+    },
+    {
+      "mainName": "Villa Medicea La Petraia",
+      "url": null
+    },
+    {
+      "mainName": "Knight’s Building and Rampart",
+      "url": null
+    },
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

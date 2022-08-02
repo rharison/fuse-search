@@ -1,0 +1,596 @@
+{
+  "mainName": "Bosque dos Alemães",
+  "slug": "bosque-dos-alemaes",
+  "category": "Parque",
+  "locationInformation": {
+    "latitude": "-22.8902013",
+    "longitude": "-47.0685112"
+  },
+  "basicInformation": [
+    {
+      "label": "endereço",
+      "tooltip": "Copiar endereço",
+      "text": "Jardim Guanabara, Campinas - SP, 13073-220",
+      "icon": "https://www.gstatic.com/images/icons/material/system_gm/1x/place_gm_blue_24dp.png"
+    },
+    {
+      "label": "website",
+      "tooltip": "Abrir website",
+      "text": "campinas.sp.gov.br",
+      "icon": "https://www.gstatic.com/images/icons/material/system_gm/1x/public_gm_blue_24dp.png"
+    },
+    {
+      "label": "Code",
+      "tooltip": "Copiar Plus Code",
+      "text": "4W5J+WH Jardim Guanabara, Campinas - SP",
+      "icon": "https://maps.gstatic.com/mapfiles/maps_lite/images/2x/ic_plus_code.png"
+    },
+    {
+      "label": "merchant",
+      "text": "Reivindicar esta empresa",
+      "icon": "https://www.gstatic.com/images/icons/material/system_gm/1x/verified_user_gm_blue_24dp.png"
+    }
+  ],
+  "ratingInformation": {
+    "basicRatingInformation": {
+      "averageGrade": 4.5,
+      "totalOfEvaluations": 261
+    },
+    "ratingsByGrade": [
+      {
+        "grade": 5,
+        "totalRatings": 173
+      },
+      {
+        "grade": 4,
+        "totalRatings": 53
+      },
+      {
+        "grade": 3,
+        "totalRatings": 26
+      },
+      {
+        "grade": 2,
+        "totalRatings": 7
+      },
+      {
+        "grade": 1,
+        "totalRatings": 2
+      }
+    ]
+  },
+  "ratingTags": [
+    {
+      "tag": "caminhada",
+      "count": 18,
+      "tooltip": "caminhada, mencionado em 18 avaliações"
+    },
+    {
+      "tag": "crianças",
+      "count": 14,
+      "tooltip": "crianças, mencionado em 14 avaliações"
+    },
+    {
+      "tag": "árvores",
+      "count": 11,
+      "tooltip": "árvores, mencionado em 11 avaliações"
+    },
+    {
+      "tag": "natureza",
+      "count": 10,
+      "tooltip": "natureza, mencionado em 10 avaliações"
+    },
+    {
+      "tag": "brinquedos",
+      "count": 8,
+      "tooltip": "brinquedos, mencionado em 8 avaliações"
+    },
+    {
+      "tag": "passeio",
+      "count": 5,
+      "tooltip": "passeio, mencionado em 5 avaliações"
+    },
+    {
+      "tag": "paz",
+      "count": 5,
+      "tooltip": "paz, mencionado em 5 avaliações"
+    },
+    {
+      "tag": "ler",
+      "count": 4,
+      "tooltip": "ler, mencionado em 4 avaliações"
+    },
+    {
+      "tag": "bancos",
+      "count": 4,
+      "tooltip": "bancos, mencionado em 4 avaliações"
+    },
+    {
+      "tag": "pássaros",
+      "count": 3,
+      "tooltip": "pássaros, mencionado em 3 avaliações"
+    }
+  ],
+  "featuredPhotos": [
+    "https://lh5.googleusercontent.com/p/AF1QipODxDAarq6ZvCYFKJ6r32zWor9voqqvS2WoI23J=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipN0YI_gtFzHRTLbl-XITTo6QbXka1hzB7pmNl8s=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMSqqEFsevjoQf3ZbchTaZ-lXO3g3PBylKdEGbk=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPdDIyYEwUtwqFwSQoyZSr_JkR8cWDm85KziHVZ=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipP5g3kR21B5U-TA3J-T6erH6uOfplagr56Vp-77=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOffMEe962mG-CA6W88AaNp1pmKa6q6cnur0NAL=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMVee6wmzq6Szne6edzGyyyMDtdr_adGUzs7kQm=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOvnE0CsBHaI0-AsRgiWK4O5OLpA-UdmUwmqTh9=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPe7ht4TC5YF39UfOv4nYZtIo0VWy7oE0ekHQ2w=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMUagW-K7cQVxs9PG6leonwVTV9OKBLt2tOXUfn=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOP7b-DmzEPhkxbLIhoyR6xp62Os8t0A3YPR_Lc=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPyC1cIUD7x1FnVCcqs4w5bTT2AaMWDMCmNUghi=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNYSgMjySni0jNBczJE7_qFLwenasElIR7nHjk_=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNNEr0RUvF3OqdYZcv--KiDO1plzhpE2Aa0yvj7=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOkBhYoRsDzMBq1F_DLZT0G97mIiPaPnGwdvAa8=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOrqRxb60hCMq9yOVT5iWId2H-Ccu1nhjcaIjSV=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNuA-OQWEBuPWfGD6__JwDTDpIHTv1JI_94SYLe=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNlYjXRmjA4yUlaQGn4sAAaellAXkV0hS9w5_DB=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPpV5Jtw1znk49cCicULR497FnpDqONIYoopKyw=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMef8iYkMyuokeNYRaQGwr_w50_DZhBI5V_C_FU=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipP9jdCKoB0fSYdexx_8141p-Gh6iOwPjHG2kZ-I=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipN6EXmSLL2TQMaOJF4FFcMv4ajXMmTtvDTdVFZf=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMCiyii_g03tJroLEoq36htjSpmAecFwe-Zh7_i=w1024-h576-k-no"
+  ],
+  "topComments": [
+    {
+      "author": "Guilherme Paes Leme Cordeiro",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucqqpZBmeme2jVSLaI89asKAYBt1QP2ma755ivZfIw=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "✒️ Descrição: bosque e parque. 📌 Localização e estacionamento: facil. 🍝 Produto: - ✍️ Qualidade do produto e serviço: - ⚖️ Custo-benefício: - 🤵 Atendimento: - 🏨 Estrutura: adequada. ⏰ Tempo de espera: - 🎉 Experiência: positiva. 🔄 Retorno: sim. 🗣️ Recomendo : sim",
+      "gradeComment": 5
+    },
+    {
+      "author": "Bruna Dobelin",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucobirvUl_nbqcJBigezjnN48Gp_eGJwZVf57uXqays=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "Local lindo e tranquilo, tem sanitários, parque para as crianças, banquinhos de pedra e pouco movimento. Excelente para sentar em meio a natureza e ler um bom livro. É um refúgio no meio da cidade. É bem pequeno o local mas vale a pena conhecer.",
+      "gradeComment": 5
+    },
+    {
+      "author": "José Luiz Caetano",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucrAsRzaAzT0iW4uWJKSZzvbojUmmYWTQx_2exgEHQ=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "Gosto muito desse pedaço de natureza assim no meio da cidade. Fui pensar, refletir. Quando estou triste preciso me conectar com a natureza e o bosque é o melhor lugar",
+      "gradeComment": 5
+    },
+    {
+      "author": "Gisela Pizzatto Art",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucqkVKh7B0V0r0KbS4twcpajWVKkhoZA_iObRh2W5g=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "Bem cuidado. Faltam muitos pontos de luz, alguns postes estão totalmente caídos. Parquinho grande e com vários brinquedos. Bom lugar para levar as crianças. Uma atração interessante é o numero de árvores nativas, muitas identificadas, que o visitante pode recorrer ao SID (sistema de identificação digital de arvores) pra conhecer detalhes sobre aquele espécime. O problema é que muitas estão com as placas quebradas e outras com as placas trocadas. Uma pena, pois poderia ser bastante educativo e interessante para as crianças.",
+      "gradeComment": 4
+    },
+    {
+      "author": "Ulisses Lebre",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucqsJ2WlbqNG_Z19pTpE8evnxLa1444pfqKE0S26PrM=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "Local de preservação lindo, com belas árvores e um parquinho para crianças. As árvores contém identificação e um QRCode que fornece informações sobre a espécie entre outros dados. O lugar é muito limpo. Muito legal!",
+      "gradeComment": 5
+    },
+    {
+      "author": "adriano meneses",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucrhCUfpsgB-iNAVeAEsYAwJZfTAEswmk3k4Xxl_ToE=w36-h36-p-c0x00000000-rp-mo-ba3-br100",
+      "comment": "Bom pra meditar, em plena Guanabara de Campinas",
+      "gradeComment": 5
+    },
+    {
+      "author": "Douglas Bezerra Beniz",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucqE6Dtbg53KhkyGBVz9MbWLNYhZ2eXvxGe25eUMDg=w36-h36-p-c0x00000000-rp-mo-ba3-br100",
+      "comment": "Parque tranquilo, com belas árvores, passeio relativamente bem conservado, alguns bancos rústicos de pedra que dão um ar de autenticidade ao lugar mas não são muito limpos pela própria natureza do local. Há um parquinho para crianças com alguns brinquedos em bom estado (escorregador, balanços, gangorras, etc.). Em certos horários praticamente não há visitantes. A minha nota só não foi melhor porque, infelizmente, em certos horários há visitantes com a intenção de consumir drogas ilícitas, apesar da ronda de GCMs em alguns momentos. Pais fiquem atentos.",
+      "gradeComment": 3
+    },
+    {
+      "author": "Vilma Aparecida Alves",
+      "photoAuthor": "https://lh3.googleusercontent.com/a/AItbvmkUFPT8qqL83jt_Rc-MqtUIKgkrMfyVlP5cggJ2=w36-h36-p-c0x00000000-rp-mo-br100",
+      "comment": "E um lugar muito agradável  muito bom ver a paisagem os miquinhos  olha que maravilha.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Rafhael Basso",
+      "photoAuthor": "https://lh3.googleusercontent.com/a/AItbvml6xyUgeCZ1BAImlXVLs9V6kFOhAozwt9ivnngf=w36-h36-p-c0x00000000-rp-mo-br100",
+      "comment": "Lugar bonito, agradável e bem localizado, possue um boa churrascaria bem ao lado na esquina.",
+      "gradeComment": 4
+    },
+    {
+      "author": "Frederico Ruegger",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucpsPIfOghhU2Yo3KhNiu9bjX1E6WsuSG_5rxrBgng=w36-h36-p-c0x00000000-rp-mo-br100",
+      "comment": "Muito natural... Precisa no entanto de mais cuidados... Vale a pena ver como a natureza era no passado...",
+      "gradeComment": 4
+    }
+  ],
+  "peakHours": [
+    {
+      "Sunday": [
+        {
+          "hour": "07:00",
+          "percent": 27
+        },
+        {
+          "hour": "08:00",
+          "percent": 66
+        },
+        {
+          "hour": "09:00",
+          "percent": 99
+        },
+        {
+          "hour": "10:00",
+          "percent": 100
+        },
+        {
+          "hour": "11:00",
+          "percent": 77
+        },
+        {
+          "hour": "12:00",
+          "percent": 59
+        },
+        {
+          "hour": "13:00",
+          "percent": 53
+        },
+        {
+          "hour": "14:00",
+          "percent": 50
+        },
+        {
+          "hour": "15:00",
+          "percent": 41
+        },
+        {
+          "hour": "16:00",
+          "percent": 30
+        },
+        {
+          "hour": "17:00",
+          "percent": 19
+        }
+      ]
+    },
+    {
+      "Monday": [
+        {
+          "hour": "07:00",
+          "percent": 19
+        },
+        {
+          "hour": "08:00",
+          "percent": 25
+        },
+        {
+          "hour": "09:00",
+          "percent": 31
+        },
+        {
+          "hour": "10:00",
+          "percent": 36
+        },
+        {
+          "hour": "11:00",
+          "percent": 40
+        },
+        {
+          "hour": "12:00",
+          "percent": 49
+        },
+        {
+          "hour": "13:00",
+          "percent": 59
+        },
+        {
+          "hour": "14:00",
+          "percent": 66
+        },
+        {
+          "hour": "15:00",
+          "percent": 62
+        },
+        {
+          "hour": "16:00",
+          "percent": 46
+        },
+        {
+          "hour": "17:00",
+          "percent": 27
+        }
+      ]
+    },
+    {
+      "Tuesday": [
+        {
+          "hour": "07:00",
+          "percent": 19
+        },
+        {
+          "hour": "08:00",
+          "percent": 28
+        },
+        {
+          "hour": "09:00",
+          "percent": 35
+        },
+        {
+          "hour": "10:00",
+          "percent": 39
+        },
+        {
+          "hour": "11:00",
+          "percent": 41
+        },
+        {
+          "hour": "12:00",
+          "percent": 45
+        },
+        {
+          "hour": "13:00",
+          "percent": 52
+        },
+        {
+          "hour": "14:00",
+          "percent": 59
+        },
+        {
+          "hour": "15:00",
+          "percent": 60
+        },
+        {
+          "hour": "16:00",
+          "percent": 52
+        },
+        {
+          "hour": "17:00",
+          "percent": 38
+        }
+      ]
+    },
+    {
+      "Wednesday": [
+        {
+          "hour": "07:00",
+          "percent": 15
+        },
+        {
+          "hour": "08:00",
+          "percent": 29
+        },
+        {
+          "hour": "09:00",
+          "percent": 43
+        },
+        {
+          "hour": "10:00",
+          "percent": 52
+        },
+        {
+          "hour": "11:00",
+          "percent": 56
+        },
+        {
+          "hour": "12:00",
+          "percent": 61
+        },
+        {
+          "hour": "13:00",
+          "percent": 71
+        },
+        {
+          "hour": "14:00",
+          "percent": 80
+        },
+        {
+          "hour": "15:00",
+          "percent": 77
+        },
+        {
+          "hour": "16:00",
+          "percent": 59
+        },
+        {
+          "hour": "17:00",
+          "percent": 35
+        }
+      ]
+    },
+    {
+      "Thursday": [
+        {
+          "hour": "07:00",
+          "percent": 30
+        },
+        {
+          "hour": "08:00",
+          "percent": 55
+        },
+        {
+          "hour": "09:00",
+          "percent": 69
+        },
+        {
+          "hour": "10:00",
+          "percent": 64
+        },
+        {
+          "hour": "11:00",
+          "percent": 53
+        },
+        {
+          "hour": "12:00",
+          "percent": 48
+        },
+        {
+          "hour": "13:00",
+          "percent": 48
+        },
+        {
+          "hour": "14:00",
+          "percent": 48
+        },
+        {
+          "hour": "15:00",
+          "percent": 46
+        },
+        {
+          "hour": "16:00",
+          "percent": 40
+        },
+        {
+          "hour": "17:00",
+          "percent": 32
+        }
+      ]
+    },
+    {
+      "Friday": [
+        {
+          "hour": "07:00",
+          "percent": 15
+        },
+        {
+          "hour": "08:00",
+          "percent": 26
+        },
+        {
+          "hour": "09:00",
+          "percent": 38
+        },
+        {
+          "hour": "10:00",
+          "percent": 48
+        },
+        {
+          "hour": "11:00",
+          "percent": 54
+        },
+        {
+          "hour": "12:00",
+          "percent": 54
+        },
+        {
+          "hour": "13:00",
+          "percent": 52
+        },
+        {
+          "hour": "14:00",
+          "percent": 49
+        },
+        {
+          "hour": "15:00",
+          "percent": 45
+        },
+        {
+          "hour": "16:00",
+          "percent": 39
+        },
+        {
+          "hour": "17:00",
+          "percent": 31
+        }
+      ]
+    },
+    {
+      "Saturday": [
+        {
+          "hour": "07:00",
+          "percent": 3
+        },
+        {
+          "hour": "08:00",
+          "percent": 20
+        },
+        {
+          "hour": "09:00",
+          "percent": 49
+        },
+        {
+          "hour": "10:00",
+          "percent": 77
+        },
+        {
+          "hour": "11:00",
+          "percent": 87
+        },
+        {
+          "hour": "12:00",
+          "percent": 77
+        },
+        {
+          "hour": "13:00",
+          "percent": 63
+        },
+        {
+          "hour": "14:00",
+          "percent": 58
+        },
+        {
+          "hour": "15:00",
+          "percent": 54
+        },
+        {
+          "hour": "16:00",
+          "percent": 47
+        },
+        {
+          "hour": "17:00",
+          "percent": 35
+        }
+      ]
+    }
+  ],
+  "relatedSearches": [
+    "bosque dos jequitibás"
+  ],
+  "relateds": [
+    {
+      "mainName": "Bosque dos Italianos",
+      "url": null
+    },
+    {
+      "mainName": "Bosque dos Guarantãs",
+      "url": null
+    },
+    {
+      "mainName": "Lago do Café",
+      "url": null
+    },
+    {
+      "mainName": "Praça Doutor João Lech Junior",
+      "url": null
+    },
+    {
+      "mainName": "Parque Bosque dos Jequitibás",
+      "url": null
+    },
+    {
+      "mainName": "Pedreira do Chapadão",
+      "url": null
+    },
+    {
+      "mainName": "Parque Ecológico Monsenhor Emílio José Salim",
+      "url": null
+    },
+    {
+      "mainName": "Parque das Águas",
+      "url": null
+    },
+    {
+      "mainName": "Parque Ecológico Luciano do Valle",
+      "url": null
+    },
+    {
+      "mainName": "Parque Portugal - Lagoa do Taquaral",
+      "url": null
+    },
+    {
+      "mainName": "Área de Relevante Interesse Ecológico Mata de Santa Genebra",
+      "url": null
+    },
+    {
+      "mainName": "Praça Carlos Gomes",
+      "url": null
+    },
+    {
+      "mainName": "Fazenda Floresta Park",
+      "url": null
+    }
+  ]
+}

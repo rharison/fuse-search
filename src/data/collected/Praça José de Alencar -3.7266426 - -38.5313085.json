@@ -1,0 +1,983 @@
+{
+  "mainName": "Praça José de Alencar",
+  "slug": "praca-jose-de-alencar",
+  "category": "Parque municipal",
+  "locationInformation": {
+    "latitude": "-3.7266426",
+    "longitude": "-38.5313085"
+  },
+  "basicInformation": [
+    {
+      "label": "endereço",
+      "tooltip": "Copiar endereço",
+      "text": "R. Gen. Sampaio, S/N - Centro, Fortaleza - CE, 60015-000",
+      "icon": "https://www.gstatic.com/images/icons/material/system_gm/1x/place_gm_blue_24dp.png"
+    },
+    {
+      "label": "Code",
+      "tooltip": "Copiar Plus Code",
+      "text": "7FF9+8F Centro, Fortaleza - CE",
+      "icon": "https://maps.gstatic.com/mapfiles/maps_lite/images/2x/ic_plus_code.png"
+    },
+    {
+      "label": "send-to-device",
+      "text": "Enviar para smartphone",
+      "icon": "https://maps.gstatic.com/consumer/images/icons/1x/send_to_mobile_alt_gm_blue_24dp.png"
+    },
+    {
+      "label": "merchant",
+      "text": "Reivindicar esta empresa",
+      "icon": "https://www.gstatic.com/images/icons/material/system_gm/1x/verified_user_gm_blue_24dp.png"
+    }
+  ],
+  "ratingInformation": {
+    "basicRatingInformation": {
+      "averageGrade": 4,
+      "totalOfEvaluations": 3024
+    },
+    "ratingsByGrade": [
+      {
+        "grade": 5,
+        "totalRatings": 1581
+      },
+      {
+        "grade": 4,
+        "totalRatings": 528
+      },
+      {
+        "grade": 3,
+        "totalRatings": 498
+      },
+      {
+        "grade": 2,
+        "totalRatings": 183
+      },
+      {
+        "grade": 1,
+        "totalRatings": 234
+      }
+    ]
+  },
+  "ratingTags": [
+    {
+      "tag": "teatro",
+      "count": 66,
+      "tooltip": "teatro, mencionado em 66 avaliações"
+    },
+    {
+      "tag": "ambulantes",
+      "count": 53,
+      "tooltip": "ambulantes, mencionado em 53 avaliações"
+    },
+    {
+      "tag": "segurança",
+      "count": 43,
+      "tooltip": "segurança, mencionado em 43 avaliações"
+    },
+    {
+      "tag": "moradores de rua",
+      "count": 32,
+      "tooltip": "moradores de rua, mencionado em 32 avaliações"
+    },
+    {
+      "tag": "poder público",
+      "count": 20,
+      "tooltip": "poder público, mencionado em 20 avaliações"
+    },
+    {
+      "tag": "barracas",
+      "count": 17,
+      "tooltip": "barracas, mencionado em 17 avaliações"
+    },
+    {
+      "tag": "autoridades",
+      "count": 14,
+      "tooltip": "autoridades, mencionado em 14 avaliações"
+    },
+    {
+      "tag": "roubo",
+      "count": 13,
+      "tooltip": "roubo, mencionado em 13 avaliações"
+    },
+    {
+      "tag": "espetáculo",
+      "count": 9,
+      "tooltip": "espetáculo, mencionado em 9 avaliações"
+    },
+    {
+      "tag": "praça do mercado histórico",
+      "count": 5,
+      "tooltip": "praça do mercado histórico, mencionado em 5 avaliações"
+    }
+  ],
+  "featuredPhotos": [
+    "https://lh5.googleusercontent.com/p/AF1QipPWxfT7deK64AmeQil001rH-cUBKjcLi_JRwYqU=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNXAtxLRftTTbdvPVCk9ptMjpBS1GkOzRlogkYr=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipORqTT2S8c6wPJiMcEQe0t7nH1537m9-fGoHku9=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOiZ3K6XqJ4PNB0ctxDcj7pXQEZ_2qrR5iZ-SY=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOSQ62rfsapmXEWoDl01E0JcUZ6MoPlC0HQwpi8=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOgMIprn9PPlZfmiwjeIyDiM5DQadI0DQMZi8AN=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNa1DAuX2X-w1HrBiBjFkgXteDBCn0C7-AQhZ1B=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOJKv3arZqGf46YSGkMakr4YWGTSzD6h31GjC3n=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipO1hTOcRcQJyLh2O9eSeoB0_s1kBsqnncKjfIUt=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOpIfjqgZ083mAcxoSrRLSti_IYHrOyNXbNsXJG=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPlbbGSOjHgaI_Y0F_GS8RjuiMY_6UJPqem1dM=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOKYqkhavLHuoUUd8hR5nfCdB64s6gp3RQKjRvH=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipN4WvcDS01vsYEB88guiuQxKTA4JpqXg7nzRfmG=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNjyAlzn8ny9lSwlJa-XNKHUx91LnqngbQj0_GX=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNDaJi8UPx1ZEcAlW_Ra-5x5nWFLsj_yxX5IYRw=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPmHECYjVWGUu875ffba-5SeQB6FfKFQ6dVIgA=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPr-5QAO4onpeqv7LM18fSsngScF7anB9BqvDZY=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOQ6-8s7GXHmgrOQHXoASwFhIyA_j-k_x-fUWPW=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMVAGwZHFQu6GgU6IOR_OhbjiMeVYkCFTG4foIf=w1024-h576-k-no"
+  ],
+  "topComments": [
+    {
+      "author": "Gabriel Araujo",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucp1UqTcSaFKfN31Y-pavLeKkZW0Sa-Hor43FfR_gA=w36-h36-p-c0x00000000-rp-mo-ba3-br100",
+      "comment": "Lá você conhece um pouco da história do Ceará, Arte e cultura, o teatro já passou por reformas, e está conservado.. A guia narra alguns fatos relevantes sobre a história do teatro! Dependendo do dia ela tá \"sem saco\" e fica parecendo um robô!",
+      "gradeComment": 4
+    },
+    {
+      "author": "Joao paulo Sampaio de sousa",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucoR7fXpC1-3Tpfu4MxzZXXEhGRDvhv9qdUlCpl37Q=w36-h36-p-c0x00000000-rp-mo-ba5-br100",
+      "comment": "Uma das principais praça de Fortaleza, a praça José de Alencar esta localizada no centro de Fortaleza. Logisticamente centralizada a praça fica no entorno das principais lojas da cidade...",
+      "gradeComment": 5
+    },
+    {
+      "author": "Panga Santos",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucriR5QotoK3gVujEy3uNDdeamW4HfmRLmAWrQf7T94=w36-h36-p-c0x00000000-rp-mo-ba6-br100",
+      "comment": "Antes de homenagear o escritor cearense José de Alencar, o logradouro era conhecido como Praça do Patrocínio, por estar em frente à Igreja de Nossa Senhora do Patrocínio. Mas, a partir de 1870, passou a se chamar Marquês de Herval. No dia 17 de julho de 1910, a praça recebe o Theatro José de Alencar e, em 1929, por iniciativa do jornalista Gilberto Câmara, foi colocada no centro da praça uma estátua de José de Alencar. Com isso, a praça passou a ser conhecida pelo nome do escritor,  permanecendo até hoje.",
+      "gradeComment": 5
+    },
+    {
+      "author": "thiagaosk420",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucrg6BYBQedAYMRKRL5h9skwYv4W1bQ5-BNO--MOUA=w36-h36-p-c0x00000000-rp-mo-br100",
+      "comment": "Praça José de Alencar, um dos melhores pico de rua para dar um rolê de skate, no centro de Fortaleza Ce. @thsk420",
+      "gradeComment": 4
+    },
+    {
+      "author": "Netty Soares",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucpNY7K7NS8rLyrYbfZF7dai98Mgd7TaOteQpc2FpG4=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "Amo!!!!! Que coisa linda! Que prazer ter esse prédio na minha cidade, que bela homenagem ao nosso escritório. Amo cada pedacinho, o café , a visita guiada, os espetáculos, o Jardim.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Luiz Eduardo Brasileiro",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucpqNfb3lvzhr_ZwXBIv5rRSWj_nU-16sGQQIpN_Hko=w36-h36-p-c0x00000000-rp-mo-ba5-br100",
+      "comment": "A recente reforma deu uma revigorada no espaço que abriga o Teatro mais importante da cultura alencarina. A praça por aí só é belíssima, uma justa homenagem ao maior romancista Brasileiro. José Martiniano de Alencar.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Francielton Pires",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucqh19L2NPtAbJrOo2H8Bu7ZjtwUAwRUX2IGIVPd2tE=w36-h36-p-c0x00000000-rp-mo-ba5-br100",
+      "comment": "Cuidadoooooooo com os malandros que tem demais  mas fora isso a.praca foi reformada tá em excelentes  condições   e não tem mas aqueles montes de barracas veias atrapalhado os pedestres  não  dá para teansitat tranquilidade....... só não tem mas aquelas mulheres da vidas   foram deslocadas para outro local",
+      "gradeComment": 3
+    },
+    {
+      "author": "Aprenda Radiestesia",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucqcO40Ey-V4sgyV_t9vizBbgokkIe4mm3hvL2ErjA=w36-h36-p-c0x00000000-rp-mo-ba3-br100",
+      "comment": "Recentemente reformada, essa praça é um dos marcos simbólicos de Fortaleza haja vista estar em frente ao TJA Teatro Jose de Alencar um dos cartões postais da cidade. No termino de 2020 essa praça foi entregue pela gestão municipal do momento sob a ideia de uma “praça para todos” com ambiente para ambulantes de alimentos e outros ambientes paisagísticos como bancos debaixo de árvores.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Marina Albuquerque",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucroSiTJGM35TNQQc2QPvxAzv9wh3k8qmJrsAbK24g=w36-h36-p-c0x00000000-rp-mo-ba2-br100",
+      "comment": "A praça está reformada, bonita por incrível que pareça está limpa, só que tem alguns pedintes que acabam estressando vc e quem fica por la",
+      "gradeComment": 4
+    },
+    {
+      "author": "Victor Calixto",
+      "photoAuthor": "https://lh3.googleusercontent.com/a/AItbvmmdom02CAqi5QKZnTL8IPZBbTUZRYK7JizaJIJ9=w36-h36-p-c0x00000000-rp-mo-ba6-br100",
+      "comment": "Grande área historica onde possui vários prédios, lojas, igreja, metrô entre outros ao seu redor! Local recentemente reformado, tonando um ambiente mais agradável!",
+      "gradeComment": 5
+    }
+  ],
+  "peakHours": [
+    {
+      "Sunday": [
+        {
+          "hour": "04:00",
+          "percent": 1
+        },
+        {
+          "hour": "05:00",
+          "percent": 1
+        },
+        {
+          "hour": "06:00",
+          "percent": 5
+        },
+        {
+          "hour": "07:00",
+          "percent": 10
+        },
+        {
+          "hour": "08:00",
+          "percent": 14
+        },
+        {
+          "hour": "09:00",
+          "percent": 18
+        },
+        {
+          "hour": "10:00",
+          "percent": 19
+        },
+        {
+          "hour": "11:00",
+          "percent": 18
+        },
+        {
+          "hour": "12:00",
+          "percent": 17
+        },
+        {
+          "hour": "13:00",
+          "percent": 17
+        },
+        {
+          "hour": "14:00",
+          "percent": 21
+        },
+        {
+          "hour": "15:00",
+          "percent": 27
+        },
+        {
+          "hour": "16:00",
+          "percent": 33
+        },
+        {
+          "hour": "17:00",
+          "percent": 34
+        },
+        {
+          "hour": "18:00",
+          "percent": 30
+        },
+        {
+          "hour": "19:00",
+          "percent": 21
+        },
+        {
+          "hour": "20:00",
+          "percent": 11
+        },
+        {
+          "hour": "21:00",
+          "percent": 3
+        },
+        {
+          "hour": "22:00",
+          "percent": 1
+        },
+        {
+          "hour": "23:00",
+          "percent": 1
+        },
+        {
+          "hour": "00:00",
+          "percent": 1
+        },
+        {
+          "hour": "01:00",
+          "percent": 1
+        },
+        {
+          "hour": "02:00",
+          "percent": 1
+        },
+        {
+          "hour": "03:00",
+          "percent": 1
+        }
+      ]
+    },
+    {
+      "Monday": [
+        {
+          "hour": "04:00",
+          "percent": 1
+        },
+        {
+          "hour": "05:00",
+          "percent": 1
+        },
+        {
+          "hour": "06:00",
+          "percent": 3
+        },
+        {
+          "hour": "07:00",
+          "percent": 10
+        },
+        {
+          "hour": "08:00",
+          "percent": 19
+        },
+        {
+          "hour": "09:00",
+          "percent": 26
+        },
+        {
+          "hour": "10:00",
+          "percent": 32
+        },
+        {
+          "hour": "11:00",
+          "percent": 34
+        },
+        {
+          "hour": "12:00",
+          "percent": 36
+        },
+        {
+          "hour": "13:00",
+          "percent": 39
+        },
+        {
+          "hour": "14:00",
+          "percent": 44
+        },
+        {
+          "hour": "15:00",
+          "percent": 50
+        },
+        {
+          "hour": "16:00",
+          "percent": 52
+        },
+        {
+          "hour": "17:00",
+          "percent": 48
+        },
+        {
+          "hour": "18:00",
+          "percent": 37
+        },
+        {
+          "hour": "19:00",
+          "percent": 25
+        },
+        {
+          "hour": "20:00",
+          "percent": 13
+        },
+        {
+          "hour": "21:00",
+          "percent": 5
+        },
+        {
+          "hour": "23:00",
+          "percent": 1
+        },
+        {
+          "hour": "00:00",
+          "percent": 1
+        },
+        {
+          "hour": "01:00",
+          "percent": 1
+        },
+        {
+          "hour": "02:00",
+          "percent": 1
+        },
+        {
+          "hour": "03:00",
+          "percent": 1
+        }
+      ]
+    },
+    {
+      "Tuesday": [
+        {
+          "hour": "04:00",
+          "percent": 1
+        },
+        {
+          "hour": "06:00",
+          "percent": 4
+        },
+        {
+          "hour": "07:00",
+          "percent": 12
+        },
+        {
+          "hour": "08:00",
+          "percent": 21
+        },
+        {
+          "hour": "09:00",
+          "percent": 29
+        },
+        {
+          "hour": "10:00",
+          "percent": 34
+        },
+        {
+          "hour": "11:00",
+          "percent": 36
+        },
+        {
+          "hour": "12:00",
+          "percent": 36
+        },
+        {
+          "hour": "13:00",
+          "percent": 40
+        },
+        {
+          "hour": "14:00",
+          "percent": 48
+        },
+        {
+          "hour": "15:00",
+          "percent": 57
+        },
+        {
+          "hour": "16:00",
+          "percent": 60
+        },
+        {
+          "hour": "17:00",
+          "percent": 55
+        },
+        {
+          "hour": "18:00",
+          "percent": 41
+        },
+        {
+          "hour": "19:00",
+          "percent": 25
+        },
+        {
+          "hour": "20:00",
+          "percent": 12
+        },
+        {
+          "hour": "21:00",
+          "percent": 3
+        },
+        {
+          "hour": "22:00",
+          "percent": 1
+        },
+        {
+          "hour": "23:00",
+          "percent": 1
+        },
+        {
+          "hour": "00:00",
+          "percent": 1
+        },
+        {
+          "hour": "01:00",
+          "percent": 1
+        },
+        {
+          "hour": "02:00",
+          "percent": 1
+        },
+        {
+          "hour": "03:00",
+          "percent": 1
+        }
+      ]
+    },
+    {
+      "Wednesday": [
+        {
+          "hour": "04:00",
+          "percent": 1
+        },
+        {
+          "hour": "05:00",
+          "percent": 1
+        },
+        {
+          "hour": "06:00",
+          "percent": 5
+        },
+        {
+          "hour": "07:00",
+          "percent": 13
+        },
+        {
+          "hour": "08:00",
+          "percent": 23
+        },
+        {
+          "hour": "09:00",
+          "percent": 32
+        },
+        {
+          "hour": "10:00",
+          "percent": 37
+        },
+        {
+          "hour": "11:00",
+          "percent": 40
+        },
+        {
+          "hour": "12:00",
+          "percent": 42
+        },
+        {
+          "hour": "13:00",
+          "percent": 46
+        },
+        {
+          "hour": "14:00",
+          "percent": 53
+        },
+        {
+          "hour": "15:00",
+          "percent": 57
+        },
+        {
+          "hour": "16:00",
+          "percent": 57
+        },
+        {
+          "hour": "17:00",
+          "percent": 51
+        },
+        {
+          "hour": "18:00",
+          "percent": 39
+        },
+        {
+          "hour": "19:00",
+          "percent": 25
+        },
+        {
+          "hour": "20:00",
+          "percent": 13
+        },
+        {
+          "hour": "21:00",
+          "percent": 5
+        },
+        {
+          "hour": "22:00",
+          "percent": 1
+        },
+        {
+          "hour": "23:00",
+          "percent": 1
+        },
+        {
+          "hour": "00:00",
+          "percent": 1
+        },
+        {
+          "hour": "01:00",
+          "percent": 1
+        },
+        {
+          "hour": "02:00",
+          "percent": 1
+        },
+        {
+          "hour": "03:00",
+          "percent": 1
+        }
+      ]
+    },
+    {
+      "Thursday": [
+        {
+          "hour": "04:00",
+          "percent": 1
+        },
+        {
+          "hour": "05:00",
+          "percent": 1
+        },
+        {
+          "hour": "06:00",
+          "percent": 3
+        },
+        {
+          "hour": "07:00",
+          "percent": 12
+        },
+        {
+          "hour": "08:00",
+          "percent": 25
+        },
+        {
+          "hour": "09:00",
+          "percent": 37
+        },
+        {
+          "hour": "10:00",
+          "percent": 44
+        },
+        {
+          "hour": "11:00",
+          "percent": 45
+        },
+        {
+          "hour": "12:00",
+          "percent": 44
+        },
+        {
+          "hour": "13:00",
+          "percent": 44
+        },
+        {
+          "hour": "14:00",
+          "percent": 48
+        },
+        {
+          "hour": "15:00",
+          "percent": 52
+        },
+        {
+          "hour": "16:00",
+          "percent": 53
+        },
+        {
+          "hour": "17:00",
+          "percent": 48
+        },
+        {
+          "hour": "18:00",
+          "percent": 38
+        },
+        {
+          "hour": "19:00",
+          "percent": 26
+        },
+        {
+          "hour": "20:00",
+          "percent": 15
+        },
+        {
+          "hour": "21:00",
+          "percent": 6
+        },
+        {
+          "hour": "23:00",
+          "percent": 1
+        },
+        {
+          "hour": "00:00",
+          "percent": 1
+        },
+        {
+          "hour": "01:00",
+          "percent": 1
+        },
+        {
+          "hour": "02:00",
+          "percent": 1
+        },
+        {
+          "hour": "03:00",
+          "percent": 1
+        }
+      ]
+    },
+    {
+      "Friday": [
+        {
+          "hour": "04:00",
+          "percent": 1
+        },
+        {
+          "hour": "06:00",
+          "percent": 3
+        },
+        {
+          "hour": "07:00",
+          "percent": 10
+        },
+        {
+          "hour": "08:00",
+          "percent": 20
+        },
+        {
+          "hour": "09:00",
+          "percent": 31
+        },
+        {
+          "hour": "10:00",
+          "percent": 41
+        },
+        {
+          "hour": "11:00",
+          "percent": 48
+        },
+        {
+          "hour": "12:00",
+          "percent": 50
+        },
+        {
+          "hour": "13:00",
+          "percent": 50
+        },
+        {
+          "hour": "14:00",
+          "percent": 53
+        },
+        {
+          "hour": "15:00",
+          "percent": 60
+        },
+        {
+          "hour": "16:00",
+          "percent": 65
+        },
+        {
+          "hour": "17:00",
+          "percent": 59
+        },
+        {
+          "hour": "18:00",
+          "percent": 43
+        },
+        {
+          "hour": "20:00",
+          "percent": 12
+        },
+        {
+          "hour": "21:00",
+          "percent": 8
+        },
+        {
+          "hour": "22:00",
+          "percent": 6
+        },
+        {
+          "hour": "23:00",
+          "percent": 6
+        },
+        {
+          "hour": "00:00",
+          "percent": 5
+        },
+        {
+          "hour": "01:00",
+          "percent": 3
+        },
+        {
+          "hour": "02:00",
+          "percent": 1
+        },
+        {
+          "hour": "03:00",
+          "percent": 1
+        }
+      ]
+    },
+    {
+      "Saturday": [
+        {
+          "hour": "04:00",
+          "percent": 2
+        },
+        {
+          "hour": "05:00",
+          "percent": 7
+        },
+        {
+          "hour": "06:00",
+          "percent": 16
+        },
+        {
+          "hour": "07:00",
+          "percent": 29
+        },
+        {
+          "hour": "08:00",
+          "percent": 45
+        },
+        {
+          "hour": "09:00",
+          "percent": 63
+        },
+        {
+          "hour": "10:00",
+          "percent": 81
+        },
+        {
+          "hour": "11:00",
+          "percent": 94
+        },
+        {
+          "hour": "12:00",
+          "percent": 100
+        },
+        {
+          "hour": "13:00",
+          "percent": 97
+        },
+        {
+          "hour": "14:00",
+          "percent": 88
+        },
+        {
+          "hour": "15:00",
+          "percent": 73
+        },
+        {
+          "hour": "16:00",
+          "percent": 57
+        },
+        {
+          "hour": "17:00",
+          "percent": 41
+        },
+        {
+          "hour": "18:00",
+          "percent": 28
+        },
+        {
+          "hour": "19:00",
+          "percent": 18
+        },
+        {
+          "hour": "20:00",
+          "percent": 11
+        },
+        {
+          "hour": "21:00",
+          "percent": 6
+        },
+        {
+          "hour": "22:00",
+          "percent": 3
+        },
+        {
+          "hour": "00:00",
+          "percent": 1
+        },
+        {
+          "hour": "01:00",
+          "percent": 1
+        },
+        {
+          "hour": "02:00",
+          "percent": 1
+        },
+        {
+          "hour": "03:00",
+          "percent": 1
+        }
+      ]
+    }
+  ],
+  "relatedSearches": [
+    "praça josé de alencar 8",
+    "praça josé de alencar história",
+    "praça josé de alencar salvador",
+    "estátua josé de alencar",
+    "estátua josé de alencar fortaleza",
+    "josé de alencar -- wikipédia",
+    "josé de alencar religião",
+    "josé de alencar descendentes"
+  ],
+  "relateds": [
+    {
+      "mainName": "Theatro José de Alencar",
+      "url": null
+    },
+    {
+      "mainName": "Praça dos Leões",
+      "url": null
+    },
+    {
+      "mainName": "Praça dos Mártires",
+      "url": null
+    },
+    {
+      "mainName": "Parque Marinho Cearense da Pedra da Risca do Meio",
+      "url": null
+    },
+    {
+      "mainName": "José de Alencar",
+      "url": null
+    },
+    {
+      "mainName": "Casa de José de Alencar",
+      "url": null
+    },
+    {
+      "mainName": "Praça da Estação",
+      "url": null
+    },
+    {
+      "mainName": "Lord Hotel",
+      "url": null
+    },
+    {
+      "mainName": "Praça do Ferreira - Centro",
+      "url": null
+    },
+    {
+      "mainName": "Estoril",
+      "url": null
+    },
+    {
+      "mainName": "Palácio do Bispo",
+      "url": null
+    },
+    {
+      "mainName": "Farol do Mucuripe",
+      "url": null
+    },
+    {
+      "mainName": "Zoológico Municipal Sargento Prata",
+      "url": null
+    },
+    {
+      "mainName": "Parque Pajeú",
+      "url": null
+    },
+    {
+      "mainName": "Área de Proteção Ambiental do Estuário do Rio Ceará",
+      "url": null
+    },
+    {
+      "mainName": "Parque Adahil Barreto",
+      "url": null
+    },
+    {
+      "mainName": "São Benedito",
+      "url": null
+    },
+    {
+      "mainName": "Fortaleza de Nossa Senhora da Assunção",
+      "url": null
+    },
+    {
+      "mainName": "Ponte dos Ingleses",
+      "url": null
+    },
+    {
+      "mainName": "Teatro Carlos Câmara",
+      "url": null
+    },
+    {
+      "mainName": "Palácio Da Luz",
+      "url": null
+    },
+    {
+      "mainName": "Praça Gal. Murilo Borges",
+      "url": null
+    },
+    {
+      "mainName": "Museu do Automóvel",
+      "url": null
+    },
+    {
+      "mainName": "Santuário Sagrado Coração de Jesus",
+      "url": null
+    }
+  ],
+  "editMode": false
+}

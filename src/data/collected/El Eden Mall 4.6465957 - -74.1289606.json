@@ -1,0 +1,684 @@
+{
+  "mainName": "El Eden Mall",
+  "slug": "el-eden-mall",
+  "category": "Shopping center",
+  "locationInformation": {
+    "latitude": "4.6465957",
+    "longitude": "-74.1289606"
+  },
+  "basicInformation": [
+    {
+      "label": "endereço",
+      "tooltip": "Copiar endereço",
+      "text": "Avenida Boyacá #72 #12b-18, Bogotá, Colômbia",
+      "icon": "https://www.gstatic.com/images/icons/material/system_gm/1x/place_gm_blue_24dp.png"
+    },
+    {
+      "label": "website",
+      "tooltip": "Abrir website",
+      "text": "eledencc.com",
+      "icon": "https://www.gstatic.com/images/icons/material/system_gm/1x/public_gm_blue_24dp.png"
+    },
+    {
+      "label": "telefone",
+      "tooltip": "Copiar número de telefone",
+      "text": "+57 17460638",
+      "icon": "https://www.gstatic.com/images/icons/material/system_gm/1x/phone_gm_blue_24dp.png"
+    }
+  ],
+  "ratingInformation": {
+    "basicRatingInformation": {
+      "averageGrade": 4.3,
+      "totalOfEvaluations": 18012
+    },
+    "ratingsByGrade": [
+      {
+        "grade": 5,
+        "totalRatings": 10032
+      },
+      {
+        "grade": 4,
+        "totalRatings": 4796
+      },
+      {
+        "grade": 3,
+        "totalRatings": 2084
+      },
+      {
+        "grade": 2,
+        "totalRatings": 581
+      },
+      {
+        "grade": 1,
+        "totalRatings": 519
+      }
+    ]
+  },
+  "ratingTags": [
+    {
+      "tag": "ponto",
+      "count": 3,
+      "tooltip": "ponto, mencionado em 3 avaliações"
+    },
+    {
+      "tag": "armazém",
+      "count": 397,
+      "tooltip": "armazém, mencionado em 397 avaliações"
+    },
+    {
+      "tag": "vácuo",
+      "count": 164,
+      "tooltip": "vácuo, mencionado em 164 avaliações"
+    },
+    {
+      "tag": "cinema",
+      "count": 159,
+      "tooltip": "cinema, mencionado em 159 avaliações"
+    },
+    {
+      "tag": "espaços",
+      "count": 79,
+      "tooltip": "espaços, mencionado em 79 avaliações"
+    },
+    {
+      "tag": "semáforo",
+      "count": 49,
+      "tooltip": "semáforo, mencionado em 49 avaliações"
+    },
+    {
+      "tag": "hall",
+      "count": 45,
+      "tooltip": "hall, mencionado em 45 avaliações"
+    },
+    {
+      "tag": "inauguração",
+      "count": 43,
+      "tooltip": "inauguração, mencionado em 43 avaliações"
+    },
+    {
+      "tag": "ponte pedonal",
+      "count": 39,
+      "tooltip": "ponte pedonal, mencionado em 39 avaliações"
+    }
+  ],
+  "featuredPhotos": [
+    "https://lh5.googleusercontent.com/p/AF1QipPlfYF1kqaZueUL2k4c8jNzb0_7W9AzirnxSJcU=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPWsHB2NDKXfObj1znFOxwJmDiWOcQo_Hd9WVu7=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipN5GeAUvCMNd5vDiz09i1hniW_ZpAkqV39O3Pso=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNxQL-SgRyVFsNKk0BYOONS5wS59WnnJqRt6MRz=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipP2tmC-qp0QSd5g8s9JIEE6oCVVkzTYySGhiXUs=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOhQGjSsgpaEH-TbFI2Z9SuysjSoQQfnI_0YFpZ=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOHj2yYEO9PqXn_Ao7m8Yu0fxjK5TGJPVWKoQsU=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNxSK6XNiPddeyUewglISp9Tx2ELVvUmpyUO5aW=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPQCO_yW28FnTDULL_15XDMzhrws3wHRZNF7xJG=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOc4Iw3cOqM2uuHp2IGLPvsaSPa1nlYBzppklSK=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNUfqppK9uLEyOlOkPbAEMdkjVfababS9XMfULP=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOkFF2iFMkCCAli1tEeY5nrsfko9oNIEBdF3WRb=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNsJ-MUIQRqh9hd1un65Aw6AG3zYLLRX2xaK0cv=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPgylyFfGwx5P-reASXUuf0DcyrvRgQ6qkyQAzr=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOznFwp7te2RHN6xgcbu6CEGusl2Tk4s1cpzB47=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipO380ao0LMZFI3z9HE3eONZlzAaH7TkpWWkgbid=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipON5Od4-ztyF_YeGDl_cRtAI4f4vzXefNrLOtNa=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNxW3_JA95p7zui7kWYrS3tvoYp1E0A5nnU50mG=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPbJsAQLWJZDnqeGGvBp1O7DQxDdiR-6WBvkP5t=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPpoo2lCqTh2Qy9tj9TnabMnGpcT5FrVJIvW8hW=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNUjCGUcxLUVjzWQidgQ04Y79laAaFSSQQ0ksg1=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipM5o78hDwCUvg3PGQQcY6il2KS-zvpIzK6PPog6=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMOXRLrxcJwD-U3u5W2ibdrh9zcWbVtldYZF39i=w1024-h576-k-no"
+  ],
+  "topComments": [
+    {
+      "author": "Rosa Torres",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucoF3YcKUdOm68NPPEc7ZYKqd0owS5UW_v5vq3e0=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "Super grande",
+      "gradeComment": 5
+    },
+    {
+      "author": "Celso Machado",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucr28KS6FKq2Z5ml8hFokR-DrrBt78tGzT2O5M1O-r4=w36-h36-p-c0x00000000-rp-mo-ba6-br100",
+      "comment": "Un lugar con multimarcas de grande porte.",
+      "gradeComment": 4
+    },
+    {
+      "author": "Cristian Camilo Moreno Narvaez",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucorUIJxxOOwJOtr285P8_hidcaGziFMaLE8gtr1DGA=w36-h36-p-c0x00000000-rp-mo-ba3-br100",
+      "comment": "Lindo centro comercial",
+      "gradeComment": 5
+    },
+    {
+      "author": "Sr Murillo",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucoIZXPrIcqpwgVs22avdaEshxzj9Ma_QJnb8ZAfUA=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "Inovador",
+      "gradeComment": 4
+    },
+    {
+      "author": "LEIDY LEON",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucobULBzqaxvCRumKeC-vugM4Q1sUh879wnrJkK7eT4=w36-h36-p-c0x00000000-rp-mo-ba3-br100",
+      "comment": "Super bonito",
+      "gradeComment": 5
+    },
+    {
+      "author": "marcelo alves dos santos",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucq3BO-i1MLRYIC41k7SzMpwokrWqzEoVtRHfsLDanc=w36-h36-p-c0x00000000-rp-mo-ba5-br100",
+      "comment": "Ótimo ambiente com muitas opções para alimentação",
+      "gradeComment": 5
+    },
+    {
+      "author": "Yolanda Aldana",
+      "photoAuthor": "https://lh3.googleusercontent.com/a/AItbvmk6B1U_4ZQv-jM1zUsNSYRwf0f2gnCwvoKH84NJ=w36-h36-p-c0x00000000-rp-mo-ba2-br100",
+      "comment": "Super lindo",
+      "gradeComment": 5
+    },
+    {
+      "author": "luis Mojica",
+      "photoAuthor": "https://lh3.googleusercontent.com/a/AItbvmkZNB0PAhaI23FQ-nIkeZyqY-psfY3_8VoJZ6Qe=w36-h36-p-c0x00000000-rp-mo-br100",
+      "comment": "Super organizado...",
+      "gradeComment": 5
+    },
+    {
+      "author": "Danis yubeli Rodriguez",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZuco_jy1sj2rUWqTyfrygVUXSBrSKHmbaCyUt3CY0VQ=w36-h36-p-c0x00000000-rp-mo-br100",
+      "comment": "Super lindo",
+      "gradeComment": 5
+    },
+    {
+      "author": "Diana Rojas",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucrVcA4gfUMoSy1IbkMmofL06PLF06TQhRyIzw_7zJs=w36-h36-p-c0x00000000-rp-mo-ba3-br100",
+      "comment": "Super lindo",
+      "gradeComment": 5
+    },
+    {
+      "author": "Diana Ramirez",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucrCIMOK-cfESnajwZKjqeK0aoD_ZvLTXwiIxksizg=w36-h36-p-c0x00000000-rp-mo-ba3-br100",
+      "comment": "Super grande",
+      "gradeComment": 5
+    },
+    {
+      "author": "Joselito Carnaval",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucqhCy8I3g9SKu4pBLC0S2zfL18_4VWRo7Mps1h6NeQ=w36-h36-p-c0x00000000-rp-mo-ba5-br100",
+      "comment": "👌",
+      "gradeComment": 4
+    },
+    {
+      "author": "andres santana",
+      "photoAuthor": "https://lh3.googleusercontent.com/a/AItbvmmd36_XmDpL-zYACHE5njWwVTZ3hhWgIGC32ObW=w36-h36-p-c0x00000000-rp-mo-ba2-br100",
+      "comment": "Lindo",
+      "gradeComment": 4
+    },
+    {
+      "author": "Mayra Chacon",
+      "photoAuthor": "https://lh3.googleusercontent.com/a/AItbvmkcjqZ6yrZFT-UxhIKiQSx-D873YzJR-aWp2nwTnQ=w36-h36-p-c0x00000000-rp-mo-br100",
+      "comment": "Lindísimo",
+      "gradeComment": 5
+    },
+    {
+      "author": "DANIEL GARAVITO",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucovswpbwqpkiDVnTokqeXX_togZiXsxgKjHELzF=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "Super recomendado",
+      "gradeComment": 5
+    },
+    {
+      "author": "Edwin DURAN MARTINEZ",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucqzFa-Ok9ZAO1X3G19ozxCePuqN1BdaWYnVj2qrHA=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "Super grande",
+      "gradeComment": 5
+    },
+    {
+      "author": "nellydanyi castro",
+      "photoAuthor": "https://lh3.googleusercontent.com/a/AItbvmlGFehWdS3KOowuy_cjeyKYA315HDEqgTJYJ-ed=w36-h36-p-c0x00000000-rp-mo-br100",
+      "comment": "Super lindo",
+      "gradeComment": 5
+    },
+    {
+      "author": "Karol Navarro",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucot_xaxIm5-J0-Wl0tLZPytVsJbOghvBMAKdovphA=w36-h36-p-c0x00000000-rp-mo-ba2-br100",
+      "comment": "Super lindoo",
+      "gradeComment": 5
+    },
+    {
+      "author": "Rafael Moisés Pinaud Velasco",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucrKt5Y_NswCL4seyE6zf9EllY6pFldEB5b9FftY8w=w36-h36-p-c0x00000000-rp-mo-br100",
+      "comment": "Por Decatlon",
+      "gradeComment": 5
+    },
+    {
+      "author": "Hector Romero",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucq8wtzFSiDEnltLL8CimZU3pDkmbcxP2h08J6QpOA=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "Super centro",
+      "gradeComment": 5
+    }
+  ],
+  "peakHours": [
+    {
+      "Sunday": [
+        {
+          "hour": "08:00",
+          "percent": 12
+        },
+        {
+          "hour": "09:00",
+          "percent": 20
+        },
+        {
+          "hour": "10:00",
+          "percent": 30
+        },
+        {
+          "hour": "11:00",
+          "percent": 44
+        },
+        {
+          "hour": "12:00",
+          "percent": 59
+        },
+        {
+          "hour": "13:00",
+          "percent": 73
+        },
+        {
+          "hour": "14:00",
+          "percent": 86
+        },
+        {
+          "hour": "15:00",
+          "percent": 96
+        },
+        {
+          "hour": "16:00",
+          "percent": 100
+        },
+        {
+          "hour": "17:00",
+          "percent": 95
+        },
+        {
+          "hour": "18:00",
+          "percent": 80
+        },
+        {
+          "hour": "19:00",
+          "percent": 58
+        },
+        {
+          "hour": "20:00",
+          "percent": 36
+        },
+        {
+          "hour": "21:00",
+          "percent": 19
+        }
+      ]
+    },
+    {
+      "Monday": [
+        {
+          "hour": "08:00",
+          "percent": 7
+        },
+        {
+          "hour": "09:00",
+          "percent": 11
+        },
+        {
+          "hour": "10:00",
+          "percent": 17
+        },
+        {
+          "hour": "11:00",
+          "percent": 24
+        },
+        {
+          "hour": "12:00",
+          "percent": 33
+        },
+        {
+          "hour": "13:00",
+          "percent": 41
+        },
+        {
+          "hour": "14:00",
+          "percent": 47
+        },
+        {
+          "hour": "15:00",
+          "percent": 51
+        },
+        {
+          "hour": "16:00",
+          "percent": 53
+        },
+        {
+          "hour": "17:00",
+          "percent": 52
+        },
+        {
+          "hour": "18:00",
+          "percent": 46
+        },
+        {
+          "hour": "19:00",
+          "percent": 36
+        },
+        {
+          "hour": "20:00",
+          "percent": 24
+        },
+        {
+          "hour": "21:00",
+          "percent": 13
+        }
+      ]
+    },
+    {
+      "Tuesday": [
+        {
+          "hour": "08:00",
+          "percent": 8
+        },
+        {
+          "hour": "09:00",
+          "percent": 12
+        },
+        {
+          "hour": "10:00",
+          "percent": 17
+        },
+        {
+          "hour": "11:00",
+          "percent": 22
+        },
+        {
+          "hour": "12:00",
+          "percent": 27
+        },
+        {
+          "hour": "13:00",
+          "percent": 30
+        },
+        {
+          "hour": "14:00",
+          "percent": 31
+        },
+        {
+          "hour": "15:00",
+          "percent": 31
+        },
+        {
+          "hour": "16:00",
+          "percent": 32
+        },
+        {
+          "hour": "17:00",
+          "percent": 33
+        },
+        {
+          "hour": "18:00",
+          "percent": 34
+        },
+        {
+          "hour": "19:00",
+          "percent": 30
+        },
+        {
+          "hour": "20:00",
+          "percent": 22
+        },
+        {
+          "hour": "21:00",
+          "percent": 12
+        }
+      ]
+    },
+    {
+      "Wednesday": [
+        {
+          "hour": "08:00",
+          "percent": 7
+        },
+        {
+          "hour": "09:00",
+          "percent": 12
+        },
+        {
+          "hour": "10:00",
+          "percent": 17
+        },
+        {
+          "hour": "11:00",
+          "percent": 23
+        },
+        {
+          "hour": "12:00",
+          "percent": 28
+        },
+        {
+          "hour": "13:00",
+          "percent": 30
+        },
+        {
+          "hour": "14:00",
+          "percent": 31
+        },
+        {
+          "hour": "15:00",
+          "percent": 32
+        },
+        {
+          "hour": "16:00",
+          "percent": 35
+        },
+        {
+          "hour": "17:00",
+          "percent": 37
+        },
+        {
+          "hour": "18:00",
+          "percent": 37
+        },
+        {
+          "hour": "19:00",
+          "percent": 33
+        },
+        {
+          "hour": "20:00",
+          "percent": 24
+        },
+        {
+          "hour": "21:00",
+          "percent": 15
+        }
+      ]
+    },
+    {
+      "Thursday": [
+        {
+          "hour": "08:00",
+          "percent": 7
+        },
+        {
+          "hour": "09:00",
+          "percent": 11
+        },
+        {
+          "hour": "10:00",
+          "percent": 16
+        },
+        {
+          "hour": "11:00",
+          "percent": 23
+        },
+        {
+          "hour": "12:00",
+          "percent": 28
+        },
+        {
+          "hour": "13:00",
+          "percent": 32
+        },
+        {
+          "hour": "14:00",
+          "percent": 33
+        },
+        {
+          "hour": "15:00",
+          "percent": 34
+        },
+        {
+          "hour": "16:00",
+          "percent": 36
+        },
+        {
+          "hour": "17:00",
+          "percent": 40
+        },
+        {
+          "hour": "18:00",
+          "percent": 41
+        },
+        {
+          "hour": "19:00",
+          "percent": 37
+        },
+        {
+          "hour": "20:00",
+          "percent": 27
+        },
+        {
+          "hour": "21:00",
+          "percent": 16
+        }
+      ]
+    },
+    {
+      "Friday": [
+        {
+          "hour": "08:00",
+          "percent": 7
+        },
+        {
+          "hour": "09:00",
+          "percent": 12
+        },
+        {
+          "hour": "10:00",
+          "percent": 18
+        },
+        {
+          "hour": "11:00",
+          "percent": 25
+        },
+        {
+          "hour": "12:00",
+          "percent": 31
+        },
+        {
+          "hour": "13:00",
+          "percent": 35
+        },
+        {
+          "hour": "14:00",
+          "percent": 38
+        },
+        {
+          "hour": "15:00",
+          "percent": 39
+        },
+        {
+          "hour": "16:00",
+          "percent": 42
+        },
+        {
+          "hour": "17:00",
+          "percent": 45
+        },
+        {
+          "hour": "19:00",
+          "percent": 46
+        },
+        {
+          "hour": "20:00",
+          "percent": 38
+        },
+        {
+          "hour": "21:00",
+          "percent": 26
+        }
+      ]
+    },
+    {
+      "Saturday": [
+        {
+          "hour": "08:00",
+          "percent": 7
+        },
+        {
+          "hour": "09:00",
+          "percent": 12
+        },
+        {
+          "hour": "10:00",
+          "percent": 20
+        },
+        {
+          "hour": "11:00",
+          "percent": 30
+        },
+        {
+          "hour": "12:00",
+          "percent": 40
+        },
+        {
+          "hour": "13:00",
+          "percent": 50
+        },
+        {
+          "hour": "14:00",
+          "percent": 58
+        },
+        {
+          "hour": "15:00",
+          "percent": 66
+        },
+        {
+          "hour": "16:00",
+          "percent": 72
+        },
+        {
+          "hour": "17:00",
+          "percent": 76
+        },
+        {
+          "hour": "18:00",
+          "percent": 75
+        },
+        {
+          "hour": "19:00",
+          "percent": 66
+        },
+        {
+          "hour": "20:00",
+          "percent": 50
+        },
+        {
+          "hour": "21:00",
+          "percent": 32
+        }
+      ]
+    }
+  ],
+  "relatedSearches": [
+    "cineland",
+    "tiendas gran estación",
+    "titán plaza",
+    "centro comercial plaza central",
+    "multiplaza bogotá",
+    "centro mayor bogotá",
+    "cineland",
+    "tiendas gran estación",
+    "titán plaza",
+    "centro comercial plaza central",
+    "multiplaza bogotá",
+    "centro mayor bogotá"
+  ],
+  "relateds": []
+}

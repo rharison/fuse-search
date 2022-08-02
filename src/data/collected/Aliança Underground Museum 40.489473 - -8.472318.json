@@ -1,0 +1,686 @@
+{
+  "mainName": "Aliança Underground Museum",
+  "slug": "alianca-underground-museum",
+  "category": "Museu",
+  "locationInformation": {
+    "latitude": "40.489473",
+    "longitude": "-8.472318"
+  },
+  "basicInformation": [
+    {
+      "label": "endereço",
+      "tooltip": "Copiar endereço",
+      "text": "R. Comércio 444, 3781-908 Sangalhos, Portugal",
+      "icon": "https://www.gstatic.com/images/icons/material/system_gm/1x/place_gm_blue_24dp.png"
+    },
+    {
+      "label": "website",
+      "tooltip": "Abrir website",
+      "text": "bacalhoa.pt",
+      "icon": "https://www.gstatic.com/images/icons/material/system_gm/1x/public_gm_blue_24dp.png"
+    },
+    {
+      "label": "telefone",
+      "tooltip": "Copiar número de telefone",
+      "text": "+351 234 732 000",
+      "icon": "https://www.gstatic.com/images/icons/material/system_gm/1x/phone_gm_blue_24dp.png"
+    },
+    {
+      "label": "Code",
+      "tooltip": "Copiar Plus Code",
+      "text": "FGQH+Q3 Sangalhos, Portugal",
+      "icon": "https://maps.gstatic.com/mapfiles/maps_lite/images/2x/ic_plus_code.png"
+    }
+  ],
+  "ratingInformation": {
+    "basicRatingInformation": {
+      "averageGrade": 4.6,
+      "totalOfEvaluations": 943
+    },
+    "ratingsByGrade": [
+      {
+        "grade": 5,
+        "totalRatings": 687
+      },
+      {
+        "grade": 4,
+        "totalRatings": 203
+      },
+      {
+        "grade": 3,
+        "totalRatings": 31
+      },
+      {
+        "grade": 2,
+        "totalRatings": 10
+      },
+      {
+        "grade": 1,
+        "totalRatings": 12
+      }
+    ]
+  },
+  "ratingTags": [
+    {
+      "tag": "espumante",
+      "count": 42,
+      "tooltip": "espumante, mencionado em 42 avaliações"
+    },
+    {
+      "tag": "prova de vinhos",
+      "count": 28,
+      "tooltip": "prova de vinhos, mencionado em 28 avaliações"
+    },
+    {
+      "tag": "vinícola",
+      "count": 22,
+      "tooltip": "vinícola, mencionado em 22 avaliações"
+    },
+    {
+      "tag": "aguardente",
+      "count": 14,
+      "tooltip": "aguardente, mencionado em 14 avaliações"
+    },
+    {
+      "tag": "mineral",
+      "count": 14,
+      "tooltip": "mineral, mencionado em 14 avaliações"
+    },
+    {
+      "tag": "adega",
+      "count": 12,
+      "tooltip": "adega, mencionado em 12 avaliações"
+    },
+    {
+      "tag": "fósseis",
+      "count": 12,
+      "tooltip": "fósseis, mencionado em 12 avaliações"
+    },
+    {
+      "tag": "mistura",
+      "count": 8,
+      "tooltip": "mistura, mencionado em 8 avaliações"
+    },
+    {
+      "tag": "túnel",
+      "count": 7,
+      "tooltip": "túnel, mencionado em 7 avaliações"
+    },
+    {
+      "tag": "arte de áfrica",
+      "count": 6,
+      "tooltip": "arte de áfrica, mencionado em 6 avaliações"
+    }
+  ],
+  "featuredPhotos": [
+    "https://lh5.googleusercontent.com/p/AF1QipNkt9i8hWSxZNjiEUyA16l8uFm-yPdl3kYlziF1=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNPSWyF0R32OKIkGQno8-avwIZo1n-UO2JZTXGh=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNBXz5nI_ZRsDxHog_WiLYWIcKWu4HPDp-1W5nN=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOzGyTFL1wf1ust8YcC4u3vjMRj3no58e7l_-bu=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNOiuhESCmKcXjpAKBTN49okkThV8fvTiwbqUbi=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOX1gqIFVmSi47VahqixDRMxfueWEBv2XkdxazA=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNMBWTIuKTRXumEx2Aeso4zWiiyn0jE-9pdcHiW=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOMjqwwLdsfnZp5sPxDn0tQBd6jZX8wBsl9eMHZ=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOneL3gNE30GBZHk2QHhG2ICLLPra0EYmv9x8UI=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipN2qAFrbGt5Zeknd0KPpk59ozBfyHZAMEF4FYot=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOsDmz5zf5JSnGIwXqUGiD4DMZl8Hd62uQXMdm6=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOiQrAI4bjGVKe6sHEF4Sbef2r3_4G3AfX_zLUf=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNUwCYYAknMwaDUfLQe_op6BpKMItRebVu4gG_I=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPv9m4-TPe_d6quqliPYq14J0xZQ8fCYerHRkuj=w1024-h576-k-no"
+  ],
+  "topComments": [
+    {
+      "author": "Zé Silva",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucrzDQAFamjlFb8oB9_AR1AtKq3cdV3deBL6Dhsk4Q=w36-h36-p-c0x00000000-rp-mo-ba5-br100",
+      "comment": "Experiencia fantástica, bem que nos tinham avisado :) o espaço é muito bem conseguido e de um requinte inigualável, os tuneis outrora cheios de espumante deram lugar a arte, e que arte, grandes gemas preciosas, azulejos, fosseis, loiças de Bordalo Pinheiro e muito mais, o nosso guia Gonçalo foi precioso nos ensinamentos, um muito obrigado pela partilha. no final provamos os espumantes brutos, muito bons e aprendemos mais umas coisas com o Lucas, um mestre e com grande conhecimento e amor pelo que faz. aconselho a visita e irei repetir sem duvida, pois fica muita coisa por ver nas quase 2 horas de visita.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Ana Costa",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucqidOiR-8UKtXJWdCanbNHJBersOEkBDP8DY85RUA=w36-h36-p-c0x00000000-rp-mo-ba5-br100",
+      "comment": "O Museu é interessante, com imensas peças de arte. Faltam legendas em quase todas as peças, ficando nós dependentes da guia (magnífica) que nos ajuda com explicações. Julgo que deveriam explorar mais a parte vinícola e dar a conhecer ao público.",
+      "gradeComment": 4
+    },
+    {
+      "author": "Marco Pinto",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucoTcgA9k4ofKwjv1uR32Rve0AdeHNgA2Q-gZH6s2w=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "Museu muito bem organizado, equipa de animadores muito competente e simpática. As caves também são magníficas. No final há uma loja com todas as referências disponíveis, para compra.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Roberto Calisto",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucqcFX9a0l3PB2dv_NUx8utsvN-HKvna5V1u4bNbUg=w36-h36-p-c0x00000000-rp-mo-ba5-br100",
+      "comment": "Merece de facto uma visita é um museu com um vasto espólio Berardo, bem organizado e surpreendente. Visita guiada agradável muito bem explicada e com direito a prova final de alguns dos 'néctares' bacorianos das Caves Aliança.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Mariana Figueiredo",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucrf_qEBl-u0bX96J2m4rnw64a_cCNuTCEOWTmfr7g=w36-h36-p-c0x00000000-rp-mo-br100",
+      "comment": "Foi maravilhoso ter tido a oportunidade de visitar o museu. Espectacular. Parabéns aos proprietários pela iniciativa de criar um espaço como aquele. No final, a prova dos vinhos e do pão de carne foi simplesmente divinal. Amei. Aconselho aos casais apaixonados por arte e vinhos. Amei 😍😘",
+      "gradeComment": 5
+    },
+    {
+      "author": "Rui Mcm",
+      "photoAuthor": "https://lh3.googleusercontent.com/a/AItbvml8vG_HxLHGtt_uCGASnDYcJMNdTSDEXmlOgBrW=w36-h36-p-c0x00000000-rp-mo-ba2-br100",
+      "comment": "Uma experiência recomendável, uma grande exposição de arte aliada a caves vínicas.",
+      "gradeComment": 5
+    },
+    {
+      "author": "José António Costa",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucojCUkZTRmq27HbRmFODZL8XrEdeerkRg4H0Ere5Kk=w36-h36-p-c0x00000000-rp-mo-ba5-br100",
+      "comment": "A visita é espetacular e merece ser visitado outravez",
+      "gradeComment": 5
+    },
+    {
+      "author": "anapinto pereira",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucrtoPCKhpVXKyDC0-9wrzI8vtFazK3eHcehBSPm3w=w36-h36-p-c0x00000000-rp-mo-ba5-br100",
+      "comment": "Tem uma colecção de pedras preciosa, uma colecção de quadros onde demonstram verdadeira arte e imagens inesquecível de um trabalho incrível. Chegando a parte mais profunda da cave eis uma parte importante da visita, como é conservado o espumante, a aguardente em tuneís. Cumpre normas de segurança. Recomendo",
+      "gradeComment": 5
+    },
+    {
+      "author": "Rui Costa Neto",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucoR7lGMkEI89OCQwd7jKPl-69NJrRg6omiQgyKbeA=w36-h36-p-c0x00000000-rp-mo-ba3-br100",
+      "comment": "Local extraordinário. A guia super conhecedora e simpática. Vinhos Premium,  arte raríssima. Fósseis com 200 milhões de anos",
+      "gradeComment": 5
+    },
+    {
+      "author": "David de Oliveira",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZuco8BpT2q0SAeR15tonJQjImadif_WFBCQCVP5szLA=w36-h36-p-c0x00000000-rp-mo-ba6-br100",
+      "comment": "Uma experiência única. Excelente combinação arte com produção de espumante e aguardente vinícola.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Cristiana Romao",
+      "photoAuthor": "https://lh3.googleusercontent.com/a/AItbvmmkaRBBAQ9jDjg_VY3hUeX_7sFjMsftKzV7844_=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "Adorei a experiência  e recomendo obrigado ao guia Alexandre",
+      "gradeComment": 5
+    },
+    {
+      "author": "Sérgio Oliveira",
+      "photoAuthor": "https://lh3.googleusercontent.com/a/AItbvmkhxc7wuT1WHUTnPpXLo31UmiuWiQBKp4yxXd0o=w36-h36-p-c0x00000000-rp-mo-ba3-br100",
+      "comment": "Bonito espaço onde se encontram várias coleções ao longo de mais de 1Km. Parte deste museu é subterrâneo. Nos tuneis onde estagiavam as garrafas de espumante, estas, foram substituídas por obras de arte africana ,minerais, fósseis, azulejaria, cerâmica e um interessante acervo histórico do Rafael Bordalo Pinheiro. No fim da visita, temos a prova de vinhos e acesso à loja onde podemos comprar vários vinhos do grupo e as sua famosas aguardentes. Local que vale a pena visitar.",
+      "gradeComment": 5
+    },
+    {
+      "author": "André Duarte",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucoxYbaAS0ChRdhio2T9Kd7kw1Yp33C31Io_kp_Dvmk=w36-h36-p-c0x00000000-rp-mo-ba5-br100",
+      "comment": "Um museu do grupo bacalhoa, com uma coleção de arte bastante abrangente, passando pela india, África, minerais e fósseis como também um pouco da história das bebidas do grupo, com visita guiada e prova de produtos no final com um valor simbólico, no final temos a loja onde podemos adquirir produtos a um preço satisfatório",
+      "gradeComment": 5
+    },
+    {
+      "author": "André Filipe Correia da Fonseca",
+      "photoAuthor": "https://lh3.googleusercontent.com/a/AItbvmloiicxFiVkfXNQEF_AyPhyL_3YF6P_9qvfeEN7=w36-h36-p-c0x00000000-rp-mo-ba5-br100",
+      "comment": "Museu incrível com exposições diversas com uma ótima visita guiada. No final conta com diversas provas de espumante e sangria.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Henrique Simões",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucp6aFMMRRprI1lU6OwNfBBEqj6UtXBVeWY7ElVy274=w36-h36-p-c0x00000000-rp-mo-ba6-br100",
+      "comment": "ACONSELHO VIVAMENTE A VISITA TANTO À CAVE COMO AO MUSEU E À DEGUSTAÇÃO",
+      "gradeComment": 4
+    },
+    {
+      "author": "Joao Macedo",
+      "photoAuthor": "https://lh3.googleusercontent.com/a/AItbvml_a-oSaTYmqHei1K046nSoQ7MsDa0PBX1YYfcO=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "Local muito bonito e com imensa arte à mistura. As guias são espectaculares e bastante esclarecedoras nas questões dos visitantes. Parabéns",
+      "gradeComment": 4
+    },
+    {
+      "author": "Agavin 82",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucrCm9za1gcbhaWzizSKlolo-el7Uihe9mwb6gp44g=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "Surpreendente,desconhecia por completo muita arte,cultura e história sem dúvida um lugar a visitar",
+      "gradeComment": 5
+    },
+    {
+      "author": "Manuel Costa",
+      "photoAuthor": "https://lh3.googleusercontent.com/a/AItbvmnbmfy8XzMwq96lf0BHDZeL_WSHyjmZGaro58qY=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "Museu top com arte de qualidade, prova de bons vinhos e comprei, a bom preço",
+      "gradeComment": 5
+    },
+    {
+      "author": "Manuel Brito",
+      "photoAuthor": "https://lh3.googleusercontent.com/a/AItbvmkb3fXaHXYj_BmlcBEN3wBTtmEK2p5P5WAdpfu9=w36-h36-p-c0x00000000-rp-mo-ba5-br100",
+      "comment": "Visita muito agradável, com guia muito intessado e disponível. Muita variedade de obras de arte, pecando a exposição por falta de luz e as obras de arte por pouco espaçamento entre as peças expostas. Nalgumas zonas existe uma forte densidade de obras expostas e grande falta de luz o que não permite uma avaliação das peças expostas. Mas mesmo assim é um local que merece uma visita.",
+      "gradeComment": 4
+    },
+    {
+      "author": "Ricardo Machado",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucqv15q_aVn8keeNs30axnl-pJfk0msCBHnw-Jfs=w36-h36-p-c0x00000000-rp-mo-ba5-br100",
+      "comment": "Um conceito diferente de ver arte. Recursos das caves da Aliança muito bem aproveitados para expor peças de arte e outras peças da Colecção Berardo. No final da visita faz-se um prova de alguns produtos das Caves Aliança e podem também fazer-se compras com preço especial na loja. Um programa ideal para dias de calor abrasador.",
+      "gradeComment": 4
+    }
+  ],
+  "peakHours": [
+    {
+      "Sunday": [
+        {
+          "hour": "10:00",
+          "percent": 75
+        },
+        {
+          "hour": "11:00",
+          "percent": 99
+        },
+        {
+          "hour": "12:00",
+          "percent": 69
+        },
+        {
+          "hour": "13:00",
+          "percent": 28
+        },
+        {
+          "hour": "14:00",
+          "percent": 20
+        },
+        {
+          "hour": "15:00",
+          "percent": 41
+        },
+        {
+          "hour": "16:00",
+          "percent": 60
+        },
+        {
+          "hour": "17:00",
+          "percent": 50
+        }
+      ]
+    },
+    {
+      "Monday": [
+        {
+          "hour": "10:00",
+          "percent": 55
+        },
+        {
+          "hour": "11:00",
+          "percent": 58
+        },
+        {
+          "hour": "12:00",
+          "percent": 58
+        },
+        {
+          "hour": "13:00",
+          "percent": 62
+        },
+        {
+          "hour": "14:00",
+          "percent": 69
+        },
+        {
+          "hour": "15:00",
+          "percent": 74
+        },
+        {
+          "hour": "16:00",
+          "percent": 67
+        },
+        {
+          "hour": "17:00",
+          "percent": 51
+        }
+      ]
+    },
+    {
+      "Tuesday": [
+        {
+          "hour": "10:00",
+          "percent": 79
+        },
+        {
+          "hour": "11:00",
+          "percent": 77
+        },
+        {
+          "hour": "12:00",
+          "percent": 65
+        },
+        {
+          "hour": "13:00",
+          "percent": 58
+        },
+        {
+          "hour": "14:00",
+          "percent": 65
+        },
+        {
+          "hour": "15:00",
+          "percent": 78
+        },
+        {
+          "hour": "16:00",
+          "percent": 80
+        },
+        {
+          "hour": "17:00",
+          "percent": 65
+        }
+      ]
+    },
+    {
+      "Wednesday": [
+        {
+          "hour": "10:00",
+          "percent": 79
+        },
+        {
+          "hour": "11:00",
+          "percent": 76
+        },
+        {
+          "hour": "12:00",
+          "percent": 66
+        },
+        {
+          "hour": "13:00",
+          "percent": 63
+        },
+        {
+          "hour": "14:00",
+          "percent": 70
+        },
+        {
+          "hour": "15:00",
+          "percent": 77
+        },
+        {
+          "hour": "16:00",
+          "percent": 74
+        },
+        {
+          "hour": "17:00",
+          "percent": 58
+        }
+      ]
+    },
+    {
+      "Thursday": [
+        {
+          "hour": "10:00",
+          "percent": 81
+        },
+        {
+          "hour": "11:00",
+          "percent": 82
+        },
+        {
+          "hour": "12:00",
+          "percent": 72
+        },
+        {
+          "hour": "13:00",
+          "percent": 62
+        },
+        {
+          "hour": "14:00",
+          "percent": 63
+        },
+        {
+          "hour": "15:00",
+          "percent": 72
+        },
+        {
+          "hour": "16:00",
+          "percent": 76
+        },
+        {
+          "hour": "17:00",
+          "percent": 66
+        }
+      ]
+    },
+    {
+      "Friday": [
+        {
+          "hour": "10:00",
+          "percent": 71
+        },
+        {
+          "hour": "11:00",
+          "percent": 77
+        },
+        {
+          "hour": "12:00",
+          "percent": 71
+        },
+        {
+          "hour": "13:00",
+          "percent": 59
+        },
+        {
+          "hour": "14:00",
+          "percent": 54
+        },
+        {
+          "hour": "15:00",
+          "percent": 63
+        },
+        {
+          "hour": "16:00",
+          "percent": 81
+        },
+        {
+          "hour": "17:00",
+          "percent": 84
+        }
+      ]
+    },
+    {
+      "Saturday": [
+        {
+          "hour": "10:00",
+          "percent": 56
+        },
+        {
+          "hour": "11:00",
+          "percent": 97
+        },
+        {
+          "hour": "12:00",
+          "percent": 100
+        },
+        {
+          "hour": "13:00",
+          "percent": 64
+        },
+        {
+          "hour": "14:00",
+          "percent": 45
+        },
+        {
+          "hour": "15:00",
+          "percent": 67
+        },
+        {
+          "hour": "16:00",
+          "percent": 89
+        },
+        {
+          "hour": "17:00",
+          "percent": 70
+        }
+      ]
+    }
+  ],
+  "relatedSearches": [
+    "aliança pt",
+    "spa salinico aveiro",
+    "turismo in aveiro",
+    "bacalhôa",
+    "rota da bairrada",
+    "quinta de bacalhoa",
+    "quinta da bacalhôa enoturismo",
+    "bacalhôa vinho",
+    "aliança pt",
+    "spa salinico aveiro",
+    "turismo in aveiro",
+    "bacalhôa",
+    "rota da bairrada",
+    "quinta de bacalhoa",
+    "quinta da bacalhôa enoturismo",
+    "bacalhôa vinho"
+  ],
+  "relateds": [
+    {
+      "mainName": "Aliança Vinhos de Portugal",
+      "url": null
+    },
+    {
+      "mainName": "Museu do Vinho da Bairrada",
+      "url": null
+    },
+    {
+      "mainName": "Museu José Luciano de Castro",
+      "url": null
+    },
+    {
+      "mainName": "Museu do Brincar",
+      "url": null
+    },
+    {
+      "mainName": "Museu de Aveiro",
+      "url": null
+    },
+    {
+      "mainName": "Museu Marítimo de Ílhavo e Aquário dos Bacalhaus",
+      "url": null
+    },
+    {
+      "mainName": "Praias da Figueira da Foz",
+      "url": null
+    },
+    {
+      "mainName": "Museu Nacional Ferroviário - Núcleo Museológico de Macinhata do Vouga",
+      "url": null
+    },
+    {
+      "mainName": "Museu Coleção Berardo, Lisboa",
+      "url": null
+    },
+    {
+      "mainName": "Museu Militar do Buçaco",
+      "url": null
+    },
+    {
+      "mainName": "Praia de São Jacinto",
+      "url": null
+    },
+    {
+      "mainName": "Navio Museu Santo André",
+      "url": null
+    },
+    {
+      "mainName": "Jardim Oriental Bacalhôa Buddha Eden",
+      "url": null
+    },
+    {
+      "mainName": "Pateira de Fermentelos",
+      "url": null
+    },
+    {
+      "mainName": "Quinta da Bacalhoa",
+      "url": null
+    },
+    {
+      "mainName": "Museu 2 Rodas",
+      "url": null
+    },
+    {
+      "mainName": "Alegre Hotel Bussaco",
+      "url": null
+    },
+    {
+      "mainName": "Museu de Arte Nova",
+      "url": null
+    },
+    {
+      "mainName": "Biblioteca Joanina",
+      "url": null
+    },
+    {
+      "mainName": "Portugal dos Pequenitos",
+      "url": null
+    },
+    {
+      "mainName": "Mata Nacional do Buçaco",
+      "url": null
+    },
+    {
+      "mainName": "CAA Centro de Artes de Águeda",
+      "url": null
+    },
+    {
+      "mainName": "Bacalhôa - Vinhos de Portugal",
+      "url": null
+    },
+    {
+      "mainName": "Grande Hotel de Luso",
+      "url": null
+    },
+    {
+      "mainName": "Aliança Vinhos de Portugal",
+      "url": null
+    },
+    {
+      "mainName": "Museu do Vinho da Bairrada",
+      "url": null
+    },
+    {
+      "mainName": "Museu José Luciano de Castro",
+      "url": null
+    },
+    {
+      "mainName": "Museu do Brincar",
+      "url": null
+    },
+    {
+      "mainName": "Museu de Aveiro",
+      "url": null
+    },
+    {
+      "mainName": "Museu Marítimo de Ílhavo e Aquário dos Bacalhaus",
+      "url": null
+    },
+    {
+      "mainName": "Praias da Figueira da Foz",
+      "url": null
+    },
+    {
+      "mainName": "Museu Nacional Ferroviário - Núcleo Museológico de Macinhata do Vouga",
+      "url": null
+    },
+    {
+      "mainName": "Museu Coleção Berardo, Lisboa",
+      "url": null
+    },
+    {
+      "mainName": "Museu Militar do Buçaco",
+      "url": null
+    },
+    {
+      "mainName": "Praia de São Jacinto",
+      "url": null
+    },
+    {
+      "mainName": "Navio Museu Santo André",
+      "url": null
+    },
+    {
+      "mainName": "Jardim Oriental Bacalhôa Buddha Eden",
+      "url": null
+    },
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

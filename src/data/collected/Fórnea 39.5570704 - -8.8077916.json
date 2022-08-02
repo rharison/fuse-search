@@ -1,0 +1,998 @@
+{
+  "mainName": "Fórnea",
+  "slug": "fornea",
+  "category": "Ponto panorâmico",
+  "locationInformation": {
+    "latitude": "39.5570704",
+    "longitude": "-8.8077916"
+  },
+  "basicInformation": [
+    {
+      "label": "endereço",
+      "tooltip": "Copiar endereço",
+      "text": "Alcaria, Portugal",
+      "icon": "https://www.gstatic.com/images/icons/material/system_gm/1x/place_gm_blue_24dp.png"
+    },
+    {
+      "label": "telefone",
+      "tooltip": "Copiar número de telefone",
+      "text": "+351 244 499 600",
+      "icon": "https://www.gstatic.com/images/icons/material/system_gm/1x/phone_gm_blue_24dp.png"
+    },
+    {
+      "label": "Code",
+      "tooltip": "Copiar Plus Code",
+      "text": "H54R+RV Alcaria, Portugal",
+      "icon": "https://maps.gstatic.com/mapfiles/maps_lite/images/2x/ic_plus_code.png"
+    },
+    {
+      "label": "merchant",
+      "text": "Reivindicar esta empresa",
+      "icon": "https://www.gstatic.com/images/icons/material/system_gm/1x/verified_user_gm_blue_24dp.png"
+    }
+  ],
+  "ratingInformation": {
+    "basicRatingInformation": {
+      "averageGrade": 4.6,
+      "totalOfEvaluations": 522
+    },
+    "ratingsByGrade": [
+      {
+        "grade": 5,
+        "totalRatings": 357
+      },
+      {
+        "grade": 4,
+        "totalRatings": 124
+      },
+      {
+        "grade": 3,
+        "totalRatings": 29
+      },
+      {
+        "grade": 2,
+        "totalRatings": 6
+      },
+      {
+        "grade": 1,
+        "totalRatings": 6
+      }
+    ]
+  },
+  "ratingTags": [
+    {
+      "tag": "natureza",
+      "count": 28,
+      "tooltip": "natureza, mencionado em 28 avaliações"
+    },
+    {
+      "tag": "cascata",
+      "count": 27,
+      "tooltip": "cascata, mencionado em 27 avaliações"
+    },
+    {
+      "tag": "chuvas",
+      "count": 19,
+      "tooltip": "chuvas, mencionado em 19 avaliações"
+    },
+    {
+      "tag": "inverno",
+      "count": 15,
+      "tooltip": "inverno, mencionado em 15 avaliações"
+    },
+    {
+      "tag": "vale",
+      "count": 15,
+      "tooltip": "vale, mencionado em 15 avaliações"
+    },
+    {
+      "tag": "anfiteatro",
+      "count": 11,
+      "tooltip": "anfiteatro, mencionado em 11 avaliações"
+    },
+    {
+      "tag": "gruta",
+      "count": 8,
+      "tooltip": "gruta, mencionado em 8 avaliações"
+    },
+    {
+      "tag": "calcário",
+      "count": 6,
+      "tooltip": "calcário, mencionado em 6 avaliações"
+    },
+    {
+      "tag": "geologia",
+      "count": 6,
+      "tooltip": "geologia, mencionado em 6 avaliações"
+    },
+    {
+      "tag": "diâmetro",
+      "count": 5,
+      "tooltip": "diâmetro, mencionado em 5 avaliações"
+    }
+  ],
+  "featuredPhotos": [
+    "https://lh5.googleusercontent.com/p/AF1QipOTXwDjYEkBRbYgaeLgJlt7978a5eMse8LpVsxL=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipP8ikJiO9MXOT93pCQ1Xssts2cCBRQVIuzw7Qwu=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOGL245O9izebnaX_KuvPL9ypw9TbeRlYmdhwGJ=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOzPY6s_xgfAzlqOTK8dd1-H1N2BN6qmTHPIl2m=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOSdgQWPC6CgE5-tb-kHBzYU2dCvrb85dwyFbE=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNuj2Jp1JhKhPiXAvlTHxzxnbMEIFj0RM3beQ31=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipM4C0hJpZ99DIHREPZvIP1SlDP9D1IV8ite5_3f=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMR56N8vZjbtnovNPX_5HHI2wjkDTrsmtI0e99X=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNGImw929UUE9HOtw59ULijg6ixp21caE4-Ouyn=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNbIXDdgMGDdU-PW_Of_S1KeIdJuhv9dC00DU8M=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNMqiMRlmsPd3fQzflZ-CTIoEUMh9NBzpStbzve=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOEupGNMG-SyXI8bbo02fKSQkc7kXvoIdtpZNml=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNFINBTMvFRb3bdjth-AKQLh5iwlElUEXziGTqA=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNA9ZZrtR11XMQEbDsYEQoULbH_XWs-4CkwvF6b=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMRqhqf3tCcHvPhjCs68znCqfnBDc3G7ZUnLcoP=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipO_GDpv77wPq7grQ2vczPTpCSaAkKFry1mTNBtB=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPkfc9uT8PWaAeKYwf71z2dr6aFzHmxC7zSJ0BZ=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipN5On6DomK3qOYeR765KaauHyUvRruSM2WJuyHW=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNk8YW98osvHY1_ckTHrWBNiiT3Rfy8sF3N1YYV=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOPBk6CXQbfSWP86vz68LOlWTSB-lzHHdommTX6=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipO8TChwfnuAXb84uzLxhrzv9QLEDWxdaDiaZSyt=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOoeLMBCJOCBJb0LfbyEVmwyYWzk-_h9_BW0rrc=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipO1A-076vf3f_KsC4wvFI8NlXMe5GjZVgX34Y9M=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOUn9te2QK0ULIiKIRYmiXgDB5MqmIMvy-x2rc=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNVXdoEHOLJfVfJJrPf29qIOwrh-NO5fvgcGNC5=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPf2gowZye8L9VJtxA43RLY2S-8ljMRg_MgSD1O=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNkGsq1Fm1-3Z1f6GuBbtlpybsvEkn6l9oGkuWd=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPr6b7kE54HcKEKGE69Y_o4AmVyKlIP6MmEnDBh=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMEkRMDWKVblJ6HPbg_G8dDNBmy3K4VsP5_JmRr=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPEGXwiONhAPDqpdiDg0GeBnCpq0M2fXb9nstPZ=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPV_mSLyp_A_ZptB1rzU04ZvBVS0k1vgv4RSWeI=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPDXbc1lNGQfwSHRq-nEVnwf960_yW4qWG1F_y0=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNuG28DejW87Z6bsURBfqwEGnOUn2uwwUCnSVMy=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipP3qmu_Vmj48jgyQq_IitO-MoeRtHqEpJltBJCE=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOtFRm0fJX5upMDL8q4FSPjWEoyChFBK5sl6f2F=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPU8idtbDKzGitJ18LtIci_X2qA539D40ELnSYs=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipN8XKa9w_pbyJf6bHtdmr8Vs8V8xvmr4fCmpeHl=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOOVp54aYFrdVWX11p_Iqz1JlkEbjIIKetmYgVK=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNqBW0srr2e4CUtf2H7B088svR2yegmDJu78opH=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOJZW4kn7pjAhiPgn_SBRS13vJMm1sc1S5uZNw4=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOOrPYmHKdbPVAfKgLik2S1dT_aUdOSjwoxeaaD=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMHP9tr32VtEzI3DcDYPkXFXwtqzkG7EUZ86DkG=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOq3zOwKQU4FwWOmffMbnigevN7cTGgNx7cuYTL=w1024-h576-k-no"
+  ],
+  "topComments": [
+    {
+      "author": "Paulo Costa",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucpYJ9YEGh3QKBxXsyz6G-4vmNn3yDAN5zxGvcfzCH4=w36-h36-p-c0x00000000-rp-mo-ba7-br100",
+      "comment": "Um estranho fenómeno geológico dá a ilusão de ser um anfiteatro natural. A Fórnea assemelha-se a um enorme abatimento da crosta terrestre começando em Chão das Pias e descendo até Alcaria.  Porque os solos da Serra de Aire e Candeeiros são ocos e apresentam vácuos, puderam dar origem às grutas, mas também a este local: uma depressão de milhões de anos rodeada de cursos de água.  Na zona da várzea existe um vale de oliveiras, enquanto que no espaço envolvente se encontram duas cascatas, e duas nascentes. A zona do semi-circulo é envolvida pela Serra de Ladeiras, Pena de Águia e Cabeço Raposeiro. As erosões provocadas pelas chuvas e pelas águas nascentes criaram um cenário natural impressionante. No interior da Fórnea encontra-se a Cova da Velha, uma cavidade com uma nascente que alimenta o Ribeiro da Fórnea.  Flora: matos baixos compostos por roselhas, alecrins e pilriteiros. Existem também algumas figueiras, loureiros e medronheiros. Podem, também, ser encontrados exemplares de uma árvore rara em Portugal: a zelha. Em termos de plantas aromáticas, pode encontrar-se o poejo.  Fauna: pelas suas características, a Fórnea permite a existência de uma grande variedade de habitats levando a que existam diferentes espécies de fauna: répteis - cobra-de-escada, cobra-de-ferradura, sardão e lagartiza-do-mato; aves - peneireiro-de-dorso-malhado, águia-cobreira, águia-de-asa-redonda, cartaxo, tentilhão-comum, toutinegra-real, verdilhão, milheiriça, perdiz, rola, escrevedeira-de-garganta-preta; mamíferos - raposa, doninha, texugo e ouriço-cacheiro.  Pontos de Interesse:  Ribeira da Fórnea: ribeira temporária alimentada pelas águas que provêm da Fórnea. Contém água em quantidade considerável no Inverno e seca no Verão.  Conglomerados: situam-se no leito da Ribeira. Grandes blocos calcários de cor esbranquiçada constituídos por fragmentos de rocha, mais ou menos arredondados.  Cascata/cascalheiras: depósitos de crioclastos e escombreiras. Típicos do clima frio, são vestígios do gelo aqui presente noutras eras.  Fórnea: anfiteatro natural com 500 metros de diâmetro e 250 metros de altura.  Cova da Velha: Cavidade penetrável localizada na Fórnea, onde existe uma nascente que alimenta a Ribeira da Fórnea.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Paula Coutinho",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucrFVtN_C-NOiHXVpAuY-h-g3hnGTe_nSoArDE2mmQ0=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "Vista fantástica...trilhos bem sinalizados",
+      "gradeComment": 5
+    },
+    {
+      "author": "Beatriz Blodau",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucqm--2Vcm2uin2f2oMUuO4VfXBGeFCp3aj0armnGw=w36-h36-p-c0x00000000-rp-mo-ba3-br100",
+      "comment": "No verão não tem muito o que ver, é época  de seca, mas depois das chuvas deve ser incrível.  Com certeza voltei no inverno Vale a pena o passeio mesmo no verão",
+      "gradeComment": 4
+    },
+    {
+      "author": "Beatriz Dias",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucrtyxpuTHjQYxCqKKS3KN3vcJZBckV2PjqbB3UIEc8=w36-h36-p-c0x00000000-rp-mo-br100",
+      "comment": "Muito ventoso mas a vista vale a pena",
+      "gradeComment": 5
+    },
+    {
+      "author": "Marco Costa",
+      "photoAuthor": "https://lh3.googleusercontent.com/a/AItbvmmlrZXtzKOW2MhSf9SbQ5efz_AlRpzIRPZSGuDN=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "Miradouro da Fórnea. Pequena subida até ao topo acessível a pessoas sem mobilidade reduzida. Semelhante a um anfiteatro ou à cratera de um vulcão com uma abertura. Mesas junto ao estacionamento.",
+      "gradeComment": 4
+    },
+    {
+      "author": "Pedro Pereira",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucqR_Y9lIvlYEviVYY_8fZDb3aUQVG3rIF8qv0IRyw=w36-h36-p-c0x00000000-rp-mo-ba3-br100",
+      "comment": "Excelente local para passear. No entanto, recomendo que o visitem depois da época das chuvas para conseguirem disfrutar da cascata que se encontra mais em baixo.",
+      "gradeComment": 4
+    },
+    {
+      "author": "Rodolfo Ferreira",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucr3nTUOWZIw4B9h387BBXpb4esTsrJpi0ZuzSFTqD0=w36-h36-p-c0x00000000-rp-mo-ba6-br100",
+      "comment": "Extremamente bonito. A Fórnea de Alvados é um espectacular anfiteatro com cerca de 1 km de diâmetro e 250 metros de altura escavado nos calcários margosos, margas e calcários do Jurássico inferior e médio, ricos em fósseis de amonites e belemnites. A meia encosta, é possível visitar uma das nascentes mais elevadas, onde a água brota da gruta da Cova da Velha, apenas em algumas alturas do ano. Esta gruta, visitável na sua parte inicial, tem uma galeria rectilínea com cerca de meio quilómetro de extensão e envolvida ao longo de uma falha. Vários trilhos, para todos os gostos, medios até difíceis. Trilho com fósseis lindíssimos e com uns 100metros de extensão.... A nível geológico: O papel das falhas à escala das Fórneas: Uma falha corresponde a uma zona de descontinuidade geológica, preferencialmente erodível, que se transforma num dreno privilegiado para as águas de superfície. Quanto às águas subterrâneas, vão poder infiltrar-se, cavando redes subterrâneas, arrastando pedras e saibros que contribuem para a erosão da rocha, até formar uma profunda depressão que estará na origem da Fórnea. Entre diversos tipos de falhas, podemos distinguir as principais: Falha por distensão, por compressão, por desligamento, ou falha oblíqua.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Manuel Pereira",
+      "photoAuthor": "https://lh3.googleusercontent.com/a/AItbvmkfC4gBhyVwNZMfVGonlS8QINQjBobvVpKkyeRL=w36-h36-p-c0x00000000-rp-mo-br100",
+      "comment": "Pena o excesso de vegetação, fruto de um inverno pouco chuvoso! Mas continua a ser impressionante.",
+      "gradeComment": 4
+    },
+    {
+      "author": "Nuchaz Gracias",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucoyDUqkdhLISEnhoHOWomjQM-xqPlhIt79Cw9Br=w36-h36-p-c0x00000000-rp-mo-br100",
+      "comment": "Um local maravilhoso de uma beleza monumental. Para quem gosta de caminhadas á seria, totalmente recomendável, vem se de alma cheia.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Ricardo Canelas",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucp0ajtpu7CZx9YWR-aj8rE-SvoVfLoT9eU2G-WrXjU=w36-h36-p-c0x00000000-rp-mo-ba3-br100",
+      "comment": "Local paradisíaco de comunhão com a natureza. Podemos dividir o passeio em duas partes: numa delas temos o miradouro, com uma vista fenomenal de todo o vale. Numa segunda parte, podemos deslocar-nos (de carro) para a parte inferior do vale e aí fazer o percurso pedestre pelo meio da flora e das cachoeiras (só têm água em tempo de chuvas) e disfrutar de um cenário natural unico. As fotos publicadas têm imagens tanto do miradouro como do caminho pedestre.  Na ida para o caminho pedestre, sugiro deixar o carro no estacionamento à beira da estrada e fazer todo o percurso a pé, pois é de difícil acesso para carros.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Mario Alves",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucofBTKAJUNTYbjh8GKWjaHhWiaG_c72ozOTL7tfsw=w36-h36-p-c0x00000000-rp-mo-br100",
+      "comment": "Vista maravilhosa 🤩😎",
+      "gradeComment": 5
+    },
+    {
+      "author": "Tiago Medeiros",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucpvnqYMNdQW1hISA0CeiiqLkgW0wn_Iw9IClh8u6w=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "Local a não perder de visitar. Acesso só a pé ou de bicicleta mas vale a pena o esforço.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Nuchaz Gracias",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucoyDUqkdhLISEnhoHOWomjQM-xqPlhIt79Cw9Br=w36-h36-p-c0x00000000-rp-mo-br100",
+      "comment": "Um local maravilhoso de uma beleza monumental. Para quem gosta de caminhadas á seria, totalmente recomendável, vem se de alma cheia.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Rodolfo Ferreira",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucr3nTUOWZIw4B9h387BBXpb4esTsrJpi0ZuzSFTqD0=w36-h36-p-c0x00000000-rp-mo-ba6-br100",
+      "comment": "Extremamente bonito. A Fórnea de Alvados é um espectacular anfiteatro com cerca de 1 km de diâmetro e 250 metros de altura escavado nos calcários margosos, margas e calcários do Jurássico inferior e médio, ricos em fósseis de amonites e belemnites. A meia encosta, é possível visitar uma das nascentes mais elevadas, onde a água brota da gruta da Cova da Velha, apenas em algumas alturas do ano. Esta gruta, visitável na sua parte inicial, tem uma galeria rectilínea com cerca de meio quilómetro de extensão e envolvida ao longo de uma falha. Vários trilhos, para todos os gostos, medios até difíceis. Trilho com fósseis lindíssimos e com uns 100metros de extensão.... A nível geológico: O papel das falhas à escala das Fórneas: Uma falha corresponde a uma zona de descontinuidade geológica, preferencialmente erodível, que se transforma num dreno privilegiado para as águas de superfície. Quanto às águas subterrâneas, vão poder infiltrar-se, cavando redes subterrâneas, arrastando pedras e saibros que contribuem para a erosão da rocha, até formar uma profunda depressão que estará na origem da Fórnea. Entre diversos tipos de falhas, podemos distinguir as principais: Falha por distensão, por compressão, por desligamento, ou falha oblíqua.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Carlos Manuel Costa Costa",
+      "photoAuthor": "https://lh3.googleusercontent.com/a/AItbvmkKzDFnmW5TAvJO8WPxjvuW5SD1ekYvvwuHpDM=w36-h36-p-c0x00000000-rp-mo-ba2-br100",
+      "comment": "Espectacular Natureza pura",
+      "gradeComment": 5
+    },
+    {
+      "author": "Ana Filipa Patrício",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucq9s1uFZomMSwkaEJL6YprU03HgtX_04fOVKyZVoA=w36-h36-p-c0x00000000-rp-mo-ba5-br100",
+      "comment": "Daqui deste local não se vê as cascatas, mas é lindíssima a vista do miradouro.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Francisco Carvalho",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucqPRIDA1NAAA_Z1S9sI1xtH5A-_WHu6hexS9a5n4A=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "Local mais bonito da serra dos candeeiros",
+      "gradeComment": 5
+    },
+    {
+      "author": "Ricardo Canelas",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucp0ajtpu7CZx9YWR-aj8rE-SvoVfLoT9eU2G-WrXjU=w36-h36-p-c0x00000000-rp-mo-ba3-br100",
+      "comment": "Local paradisíaco de comunhão com a natureza. Podemos dividir o passeio em duas partes: numa delas temos o miradouro, com uma vista fenomenal de todo o vale. Numa segunda parte, podemos deslocar-nos (de carro) para a parte inferior do vale e aí fazer o percurso pedestre pelo meio da flora e das cachoeiras (só têm água em tempo de chuvas) e disfrutar de um cenário natural unico. As fotos publicadas têm imagens tanto do miradouro como do caminho pedestre.  Na ida para o caminho pedestre, sugiro deixar o carro no estacionamento à beira da estrada e fazer todo o percurso a pé, pois é de difícil acesso para carros.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Pedro Pereira",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucqR_Y9lIvlYEviVYY_8fZDb3aUQVG3rIF8qv0IRyw=w36-h36-p-c0x00000000-rp-mo-ba3-br100",
+      "comment": "Excelente local para passear. No entanto, recomendo que o visitem depois da época das chuvas para conseguirem disfrutar da cascata que se encontra mais em baixo.",
+      "gradeComment": 4
+    },
+    {
+      "author": "dina roque",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucr5CqoqT2lXo0oYy20jXQBYcPHhSHr-Crug401y=w36-h36-p-c0x00000000-rp-mo-ba2-br100",
+      "comment": "Lugar muito bonito para respirar ar puro, e caminhar pela natureza.",
+      "gradeComment": 5
+    }
+  ],
+  "peakHours": [
+    {
+      "Sunday": [
+        {
+          "hour": "04:00",
+          "percent": 2
+        },
+        {
+          "hour": "05:00",
+          "percent": 2
+        },
+        {
+          "hour": "06:00",
+          "percent": 2
+        },
+        {
+          "hour": "07:00",
+          "percent": 2
+        },
+        {
+          "hour": "08:00",
+          "percent": 5
+        },
+        {
+          "hour": "09:00",
+          "percent": 30
+        },
+        {
+          "hour": "10:00",
+          "percent": 67
+        },
+        {
+          "hour": "11:00",
+          "percent": 82
+        },
+        {
+          "hour": "12:00",
+          "percent": 65
+        },
+        {
+          "hour": "13:00",
+          "percent": 57
+        },
+        {
+          "hour": "14:00",
+          "percent": 77
+        },
+        {
+          "hour": "15:00",
+          "percent": 100
+        },
+        {
+          "hour": "16:00",
+          "percent": 100
+        },
+        {
+          "hour": "17:00",
+          "percent": 75
+        },
+        {
+          "hour": "18:00",
+          "percent": 42
+        },
+        {
+          "hour": "19:00",
+          "percent": 17
+        },
+        {
+          "hour": "20:00",
+          "percent": 5
+        },
+        {
+          "hour": "21:00",
+          "percent": 2
+        },
+        {
+          "hour": "22:00",
+          "percent": 2
+        },
+        {
+          "hour": "23:00",
+          "percent": 2
+        },
+        {
+          "hour": "00:00",
+          "percent": 2
+        },
+        {
+          "hour": "01:00",
+          "percent": 2
+        },
+        {
+          "hour": "02:00",
+          "percent": 2
+        },
+        {
+          "hour": "03:00",
+          "percent": 2
+        }
+      ]
+    },
+    {
+      "Monday": [
+        {
+          "hour": "04:00",
+          "percent": 2
+        },
+        {
+          "hour": "05:00",
+          "percent": 2
+        },
+        {
+          "hour": "06:00",
+          "percent": 2
+        },
+        {
+          "hour": "07:00",
+          "percent": 2
+        },
+        {
+          "hour": "08:00",
+          "percent": 2
+        },
+        {
+          "hour": "09:00",
+          "percent": 2
+        },
+        {
+          "hour": "10:00",
+          "percent": 7
+        },
+        {
+          "hour": "11:00",
+          "percent": 12
+        },
+        {
+          "hour": "12:00",
+          "percent": 17
+        },
+        {
+          "hour": "13:00",
+          "percent": 17
+        },
+        {
+          "hour": "14:00",
+          "percent": 15
+        },
+        {
+          "hour": "15:00",
+          "percent": 12
+        },
+        {
+          "hour": "16:00",
+          "percent": 10
+        },
+        {
+          "hour": "17:00",
+          "percent": 12
+        },
+        {
+          "hour": "18:00",
+          "percent": 17
+        },
+        {
+          "hour": "19:00",
+          "percent": 20
+        },
+        {
+          "hour": "20:00",
+          "percent": 20
+        },
+        {
+          "hour": "21:00",
+          "percent": 17
+        },
+        {
+          "hour": "22:00",
+          "percent": 12
+        },
+        {
+          "hour": "23:00",
+          "percent": 10
+        },
+        {
+          "hour": "00:00",
+          "percent": 5
+        },
+        {
+          "hour": "01:00",
+          "percent": 2
+        },
+        {
+          "hour": "02:00",
+          "percent": 2
+        },
+        {
+          "hour": "03:00",
+          "percent": 2
+        }
+      ]
+    },
+    {
+      "Tuesday": [
+        {
+          "hour": "04:00",
+          "percent": 2
+        },
+        {
+          "hour": "05:00",
+          "percent": 2
+        },
+        {
+          "hour": "06:00",
+          "percent": 2
+        },
+        {
+          "hour": "07:00",
+          "percent": 2
+        },
+        {
+          "hour": "09:00",
+          "percent": 5
+        },
+        {
+          "hour": "10:00",
+          "percent": 20
+        },
+        {
+          "hour": "11:00",
+          "percent": 22
+        },
+        {
+          "hour": "12:00",
+          "percent": 7
+        },
+        {
+          "hour": "13:00",
+          "percent": 2
+        },
+        {
+          "hour": "14:00",
+          "percent": 2
+        },
+        {
+          "hour": "15:00",
+          "percent": 2
+        },
+        {
+          "hour": "16:00",
+          "percent": 2
+        },
+        {
+          "hour": "17:00",
+          "percent": 2
+        },
+        {
+          "hour": "18:00",
+          "percent": 2
+        },
+        {
+          "hour": "19:00",
+          "percent": 2
+        },
+        {
+          "hour": "20:00",
+          "percent": 2
+        },
+        {
+          "hour": "21:00",
+          "percent": 2
+        },
+        {
+          "hour": "22:00",
+          "percent": 2
+        },
+        {
+          "hour": "23:00",
+          "percent": 2
+        },
+        {
+          "hour": "00:00",
+          "percent": 2
+        },
+        {
+          "hour": "01:00",
+          "percent": 2
+        },
+        {
+          "hour": "02:00",
+          "percent": 2
+        },
+        {
+          "hour": "03:00",
+          "percent": 2
+        }
+      ]
+    },
+    {
+      "Wednesday": [
+        {
+          "hour": "04:00",
+          "percent": 2
+        },
+        {
+          "hour": "05:00",
+          "percent": 2
+        },
+        {
+          "hour": "06:00",
+          "percent": 2
+        },
+        {
+          "hour": "07:00",
+          "percent": 2
+        },
+        {
+          "hour": "08:00",
+          "percent": 2
+        },
+        {
+          "hour": "09:00",
+          "percent": 2
+        },
+        {
+          "hour": "10:00",
+          "percent": 2
+        },
+        {
+          "hour": "11:00",
+          "percent": 2
+        },
+        {
+          "hour": "12:00",
+          "percent": 5
+        },
+        {
+          "hour": "13:00",
+          "percent": 10
+        },
+        {
+          "hour": "14:00",
+          "percent": 12
+        },
+        {
+          "hour": "15:00",
+          "percent": 12
+        },
+        {
+          "hour": "16:00",
+          "percent": 10
+        },
+        {
+          "hour": "17:00",
+          "percent": 5
+        },
+        {
+          "hour": "18:00",
+          "percent": 2
+        },
+        {
+          "hour": "19:00",
+          "percent": 2
+        },
+        {
+          "hour": "20:00",
+          "percent": 2
+        },
+        {
+          "hour": "21:00",
+          "percent": 7
+        },
+        {
+          "hour": "22:00",
+          "percent": 10
+        },
+        {
+          "hour": "23:00",
+          "percent": 12
+        },
+        {
+          "hour": "00:00",
+          "percent": 12
+        },
+        {
+          "hour": "01:00",
+          "percent": 10
+        },
+        {
+          "hour": "02:00",
+          "percent": 7
+        },
+        {
+          "hour": "03:00",
+          "percent": 5
+        }
+      ]
+    },
+    {
+      "Thursday": [
+        {
+          "hour": "04:00",
+          "percent": 2
+        },
+        {
+          "hour": "05:00",
+          "percent": 2
+        },
+        {
+          "hour": "06:00",
+          "percent": 5
+        },
+        {
+          "hour": "07:00",
+          "percent": 5
+        },
+        {
+          "hour": "08:00",
+          "percent": 5
+        },
+        {
+          "hour": "09:00",
+          "percent": 5
+        },
+        {
+          "hour": "10:00",
+          "percent": 10
+        },
+        {
+          "hour": "11:00",
+          "percent": 15
+        },
+        {
+          "hour": "12:00",
+          "percent": 22
+        },
+        {
+          "hour": "13:00",
+          "percent": 35
+        },
+        {
+          "hour": "14:00",
+          "percent": 45
+        },
+        {
+          "hour": "15:00",
+          "percent": 50
+        },
+        {
+          "hour": "16:00",
+          "percent": 50
+        },
+        {
+          "hour": "17:00",
+          "percent": 45
+        },
+        {
+          "hour": "18:00",
+          "percent": 35
+        },
+        {
+          "hour": "19:00",
+          "percent": 27
+        },
+        {
+          "hour": "20:00",
+          "percent": 25
+        },
+        {
+          "hour": "21:00",
+          "percent": 25
+        },
+        {
+          "hour": "22:00",
+          "percent": 20
+        },
+        {
+          "hour": "23:00",
+          "percent": 7
+        },
+        {
+          "hour": "00:00",
+          "percent": 2
+        },
+        {
+          "hour": "01:00",
+          "percent": 2
+        },
+        {
+          "hour": "02:00",
+          "percent": 2
+        },
+        {
+          "hour": "03:00",
+          "percent": 2
+        }
+      ]
+    },
+    {
+      "Friday": [
+        {
+          "hour": "04:00",
+          "percent": 2
+        },
+        {
+          "hour": "05:00",
+          "percent": 2
+        },
+        {
+          "hour": "06:00",
+          "percent": 2
+        },
+        {
+          "hour": "07:00",
+          "percent": 2
+        },
+        {
+          "hour": "08:00",
+          "percent": 2
+        },
+        {
+          "hour": "09:00",
+          "percent": 10
+        },
+        {
+          "hour": "10:00",
+          "percent": 22
+        },
+        {
+          "hour": "11:00",
+          "percent": 25
+        },
+        {
+          "hour": "12:00",
+          "percent": 17
+        },
+        {
+          "hour": "13:00",
+          "percent": 12
+        },
+        {
+          "hour": "14:00",
+          "percent": 17
+        },
+        {
+          "hour": "15:00",
+          "percent": 22
+        },
+        {
+          "hour": "16:00",
+          "percent": 27
+        },
+        {
+          "hour": "17:00",
+          "percent": 30
+        },
+        {
+          "hour": "18:00",
+          "percent": 32
+        },
+        {
+          "hour": "19:00",
+          "percent": 30
+        },
+        {
+          "hour": "20:00",
+          "percent": 27
+        },
+        {
+          "hour": "21:00",
+          "percent": 25
+        },
+        {
+          "hour": "22:00",
+          "percent": 20
+        },
+        {
+          "hour": "23:00",
+          "percent": 15
+        },
+        {
+          "hour": "00:00",
+          "percent": 10
+        },
+        {
+          "hour": "01:00",
+          "percent": 7
+        },
+        {
+          "hour": "02:00",
+          "percent": 5
+        },
+        {
+          "hour": "03:00",
+          "percent": 2
+        }
+      ]
+    },
+    {
+      "Saturday": [
+        {
+          "hour": "04:00",
+          "percent": 5
+        },
+        {
+          "hour": "05:00",
+          "percent": 7
+        },
+        {
+          "hour": "06:00",
+          "percent": 10
+        },
+        {
+          "hour": "07:00",
+          "percent": 15
+        },
+        {
+          "hour": "08:00",
+          "percent": 25
+        },
+        {
+          "hour": "09:00",
+          "percent": 35
+        },
+        {
+          "hour": "10:00",
+          "percent": 47
+        },
+        {
+          "hour": "11:00",
+          "percent": 62
+        },
+        {
+          "hour": "12:00",
+          "percent": 72
+        },
+        {
+          "hour": "13:00",
+          "percent": 80
+        },
+        {
+          "hour": "14:00",
+          "percent": 82
+        },
+        {
+          "hour": "15:00",
+          "percent": 80
+        },
+        {
+          "hour": "16:00",
+          "percent": 72
+        },
+        {
+          "hour": "17:00",
+          "percent": 62
+        },
+        {
+          "hour": "18:00",
+          "percent": 50
+        },
+        {
+          "hour": "19:00",
+          "percent": 40
+        },
+        {
+          "hour": "20:00",
+          "percent": 32
+        },
+        {
+          "hour": "21:00",
+          "percent": 25
+        },
+        {
+          "hour": "22:00",
+          "percent": 20
+        },
+        {
+          "hour": "23:00",
+          "percent": 15
+        },
+        {
+          "hour": "00:00",
+          "percent": 12
+        },
+        {
+          "hour": "01:00",
+          "percent": 10
+        },
+        {
+          "hour": "02:00",
+          "percent": 7
+        },
+        {
+          "hour": "03:00",
+          "percent": 5
+        }
+      ]
+    }
+  ],
+  "relatedSearches": [
+    "edifício belvedere hauer",
+    "rua schiller, 126",
+    "mira de aire",
+    "national geographic viagens",
+    "edifício belize curitiba",
+    "parque natural das serras de aire e candeeiros",
+    "grutas de mira de aire",
+    "edifício lyon curitiba",
+    "edifício belvedere hauer",
+    "rua schiller, 126",
+    "mira de aire",
+    "national geographic viagens",
+    "edifício belize curitiba",
+    "parque natural das serras de aire e candeeiros",
+    "grutas de mira de aire",
+    "edifício lyon curitiba"
+  ],
+  "relateds": []
+}

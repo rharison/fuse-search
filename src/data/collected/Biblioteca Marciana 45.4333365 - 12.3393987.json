@@ -1,0 +1,714 @@
+{
+  "mainName": "Biblioteca Marciana",
+  "slug": "biblioteca-marciana",
+  "category": "Biblioteca",
+  "locationInformation": {
+    "latitude": "45.4333365",
+    "longitude": "12.3393987"
+  },
+  "basicInformation": [
+    {
+      "label": "endereço",
+      "tooltip": "Copiar endereço",
+      "text": "P.za San Marco, 7, 30124 Venezia VE, Itália",
+      "icon": "https://www.gstatic.com/images/icons/material/system_gm/1x/place_gm_blue_24dp.png"
+    },
+    {
+      "label": "website",
+      "tooltip": "Abrir website",
+      "text": "marciana.venezia.sbn.it",
+      "icon": "https://www.gstatic.com/images/icons/material/system_gm/1x/public_gm_blue_24dp.png"
+    },
+    {
+      "label": "telefone",
+      "tooltip": "Copiar número de telefone",
+      "text": "+39 041 240 7211",
+      "icon": "https://www.gstatic.com/images/icons/material/system_gm/1x/phone_gm_blue_24dp.png"
+    },
+    {
+      "label": "Code",
+      "tooltip": "Copiar Plus Code",
+      "text": "C8MQ+8Q Veneza, Itália",
+      "icon": "https://maps.gstatic.com/mapfiles/maps_lite/images/2x/ic_plus_code.png"
+    }
+  ],
+  "ratingInformation": {
+    "basicRatingInformation": {
+      "averageGrade": 4.2,
+      "totalOfEvaluations": 214
+    },
+    "ratingsByGrade": [
+      {
+        "grade": 5,
+        "totalRatings": 131
+      },
+      {
+        "grade": 4,
+        "totalRatings": 45
+      },
+      {
+        "grade": 3,
+        "totalRatings": 9
+      },
+      {
+        "grade": 2,
+        "totalRatings": 11
+      },
+      {
+        "grade": 1,
+        "totalRatings": 18
+      }
+    ]
+  },
+  "ratingTags": [
+    {
+      "tag": "manuscrito",
+      "count": 9,
+      "tooltip": "manuscrito, mencionado em 9 avaliações"
+    },
+    {
+      "tag": "palácio",
+      "count": 9,
+      "tooltip": "palácio, mencionado em 9 avaliações"
+    },
+    {
+      "tag": "história",
+      "count": 5,
+      "tooltip": "história, mencionado em 5 avaliações"
+    },
+    {
+      "tag": "estátua",
+      "count": 3,
+      "tooltip": "estátua, mencionado em 3 avaliações"
+    },
+    {
+      "tag": "decoração",
+      "count": 3,
+      "tooltip": "decoração, mencionado em 3 avaliações"
+    },
+    {
+      "tag": "frescos",
+      "count": 3,
+      "tooltip": "frescos, mencionado em 3 avaliações"
+    },
+    {
+      "tag": "exposições",
+      "count": 3,
+      "tooltip": "exposições, mencionado em 3 avaliações"
+    },
+    {
+      "tag": "museu",
+      "count": 3,
+      "tooltip": "museu, mencionado em 3 avaliações"
+    },
+    {
+      "tag": "turístico",
+      "count": 3,
+      "tooltip": "turístico, mencionado em 3 avaliações"
+    },
+    {
+      "tag": "arte",
+      "count": 3,
+      "tooltip": "arte, mencionado em 3 avaliações"
+    }
+  ],
+  "featuredPhotos": [
+    "https://lh5.googleusercontent.com/p/AF1QipOG-nEJqQO8EBshaZ7jDva0TJQTCnQHIHOYTuzY=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPIxBzq0-DycJbWiGnFS9fqy0nq0-gUq8at4aeL=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNg8J8vpHW_GSrIfjNZG9BuiV5D73w3SRmmmUA=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipM8r_pggWgY5CuincVABeXfxqRCw576JomJZg5X=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipO8H4ZZNOXypuicFjK7wTjmGyvCIxIt6izWUJV5=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPJ671RM9eri-toTdG4BmY91HM_sNo79-WrWkNk=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMWZV6oNZXvr1aIzkwq-7mq9Wn37msBZP85ojX4=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOVtuKmLvqo-5soqBNv-yQXNpB8tF2anPuZvWNq=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOfa2HL_xDskN0lLSo6k5giCN3iVQ6DDxAzYhxw=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOo-xHcrXlWbYm0bfSFi7EbD_ACeA7qAdPoJG4r=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOgw0TeyFhwqcEew8cDAmst-aMWO3O06CAtpkLk=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipO3We6veVBIynu2Vrh03LnUkdQgQ93xyw8gDdMz=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMScXQ28bPPQxHOSvDUiMGI119B0fzpt-UjmGuh=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNIQnmJHyuT9r4S813K8FqVv7J6ct-99Dwkdd6c=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNAjYs1Y8IbvR9JJsYxXje7RsNOO-Q4eR7fP_l8=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNXOJ0pgckPHLd2-w6SMwOBtScAKVxGhE6OyyJ6=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipN-4PA7aB_GrJ2YdL2ep2FhZwWNRCCockvgpN4E=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipME9ngT4cgcO_G6lV7pfjdi625WkfVFSlqUQRt9=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNSkSeFgtZljVZV1eHpyHseIv9iH1jhzzjIOMZ1=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPW5zj1kXZvVQ0Yf5I0I_5fHzTcF7rnFdbWZDHB=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPqWuUJwOSJQ4zgbsLzBy-igk4Iw_2pFzjyi17F=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMZCzPZxW6SfYc13QVgzuLCA-SLcFWzPSE4bsTX=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNrO4D06kM5P5Q33qGZbWzCS2Dn-kXNpaQmj3m7=w1024-h576-k-no"
+  ],
+  "topComments": [
+    {
+      "author": "Ralph Schmidt",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucoeltiDvwtAYuRQpRSAwdoI-GQJg-V9jDLXvfrVLtU=w36-h36-p-c0x00000000-rp-mo-ba7-br100",
+      "comment": "Biblioteca Nacional Marciana, Esta é a principal biblioteca de Veneza, na Itália. Foi dedicada ao padroeiro da cidade, São Marcos. É conhecida por abrigar mais de 13 mil manuscritos.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Lúcio Costa",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucrspGU6dyC01NjXA17gANAKy8ffzhmPh78UxAZMFg=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "A Biblioteca Marciana ou de San Marco é uma maiores de toda Itália. Data do século XIV quando Petrarca e o cardeal Bressarion doaram suas bibliotecas particulares para a formação de uma biblioteca pública. O prédio ocupa grande parte da Praça de San Marco na sua porção sul. Seu acervo conta com mais de 1 milhão de peças, entre livros, manuscritos e artigos diversos.",
+      "gradeComment": 5
+    },
+    {
+      "author": "André Finato",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucqi2kCprLXcpZDG2qldfyfKIlwJbUWAVTHwOzPDOw=w36-h36-p-c0x00000000-rp-mo-br100",
+      "comment": "Espetacular",
+      "gradeComment": 5
+    },
+    {
+      "author": "giannis gouletas",
+      "photoAuthor": "https://lh3.googleusercontent.com/a/AItbvmmcVsjtze7Rx0Q5zKl9-xOFIXGIikmmqJt3W-wr=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "Η βιβλιοθήκη στεγάζεται σε ένα πανέμορφο κτήριο έχει εισιτήριο για να μπείτε που κοστίζει 31€ αλλά περιέχει και άλλα αξιοθέατα όπως το παλάτι των δόγηδων και άλλα δύο ή τρία μουσεία το οποίο αξίζει.",
+      "gradeComment": 4
+    },
+    {
+      "author": "Cali Martina",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucrIBCdPhxMYQoPEUYfcGqw0JS0wn9_-lhMBy_X27g=w36-h36-p-c0x00000000-rp-mo-br100",
+      "comment": "(Tradução do Google) Agradeço ao pessoal que nestes tempos difíceis sempre me tornou acessível tanto material nesta biblioteca extraordinária e bem organizada. Com certeza o covid revelou algumas falhas que devem ser melhoradas; mas no geral achei muito pronto para enfrentar a emergência do covid (principalmente se você comparar com outras realidades do território nacional). Sinceros parabéns  (Original) Ringrazio il personale che in questi tempi difficili mi ha reso accessibile sempre tanto materiale in questa biblioteca straordinaria e ben organizzata. Sicuramente il covid ha fatto emergere qualche pecca che andrebbe migliorata; ma nel complesso l'ho trovata molto pronta ad affrontare l'emergenza covid (soprattutto se si fa il confronto con altre realtà nel territorio nazionale). Complimenti davvero",
+      "gradeComment": 5
+    },
+    {
+      "author": "nicole Fracheschi",
+      "photoAuthor": "https://lh3.googleusercontent.com/a/AItbvmmn8Y30Fm9ZtcRLf3O_mZ_DbeyZ5H3A14DUqJyJ=w36-h36-p-c0x00000000-rp-mo-br100",
+      "comment": "(Tradução do Google) Frequento a biblioteca há alguns meses, o acervo de livros é imenso e muito precioso para nós universitários, mas o verdadeiro defeito são os funcionários: rudes e apáticos. Todas as vezes que eu ia lá eu era maltratado, secretários dando informações pouco claras e contrastantes, como se trabalhassem para bibliotecas diferentes. Aproveitar-se de seus serviços quase parece irritá-los.  (Original) Frequento la biblioteca da qualche mese ormai, il patrimonio librario è immenso e preziosissimo per noi studenti universitari, ma la vera pecca è il personale: sgarbato e svogliato. Ogni volta che ci sono andata sono stata trattata in malo modo, segretarie che danno informazioni poco chiare e contrastanti, quasi lavorassero per biblioteche differenti. Usufruire dei loro servizi sembra quasi far loro un dispetto.",
+      "gradeComment": 2
+    },
+    {
+      "author": "sylvia workvideo",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucp8s-Ef3f6Vvtvns5ZSLjjgLTijBBwA5zxYVFkLBts=w36-h36-p-c0x00000000-rp-mo-ba5-br100",
+      "comment": "(Tradução do Google) Muito difícil encontrar a entrada entre os cafés e boutiques. Sem suspiros. Fecha às 17h, mas 19h foi anunciado.  (Original) Very hard to find the entrance among the cafes and boutiques. No sighns. Closes at 5pm, but 7 pm was announced.",
+      "gradeComment": 1
+    },
+    {
+      "author": "Asiyah Noemi Koso",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucq-1GlPcgSBuVNfCJPRZfvIQVOYv3q-JbDz0HHl=w36-h36-p-c0x00000000-rp-mo-ba6-br100",
+      "comment": "(Tradução do Google) É um grande prazer estar na Piazzetta e observar este belo edifício, a Biblioteca Marciana. Sua história e significado são extremamente interessantes e seu interior é de tirar o fôlego. O interior é lindamente decorado e ricamente decorado com afrescos e pinturas de artistas como Tintoretto e Domenico Molin, seu teto, com a pintura alegórica de Ticiano, Sapienza, é amplamente considerado o elemento decorativo mais importante da sala. A Biblioteca Nacional de São Marcos é uma biblioteca e edifício renascentista, uma das bibliotecas públicas mais antigas do país e uma das maiores coleções de textos clássicos do mundo. A biblioteca foi nomeada em homenagem a São Marcos, santo padroeiro de Veneza. A Biblioteca Marciana é um símbolo da riqueza da cidade e de sua longa tradição de investimento cívico em atividades intelectuais e artísticas. A construção do edifício começou em 1537 e foi concluída nos 50 anos seguintes. A biblioteca, projetada por Jacopo Sansovino, completa 16 das 21 baías com arcadas da fachada antes de sua morte em 1570. Dezoito anos depois, Vincenzo Scamozzi terminou a estrutura de acordo com os planos de Sansovino. Os livros para a biblioteca começaram a ser recolhidos antes mesmo da construção do edifício. O núcleo da coleção foi uma doação de valiosos manuscritos bizantinos e renascentistas do Serenissimi coletados pelo cientista, patrono e colecionador Cardeal Bessarion, que doou sua coleção em 31 de maio de 1468. Continha cerca de 750 códices em latim e grego, com 250 manuscritos e alguns livros impressos (incunábulos), foi a primeira biblioteca pública aberta a acadêmicos e estudantes em Veneza. O acervo da Biblioteca Marciana foi significativamente enriquecido no século XVIII, quando as coleções foram coletadas em vários mosteiros, como o Santo. Giovanni e Paolo de Veneza e St. Giovanni di Verdara de Pádua, entregue a Marciana para posterior proteção. Com a queda da República de Veneza em 1797, as propriedades Marciana foram enriquecidas com a entrada de um grande número de manuscritos e livros de instituições religiosas (igrejas e mosteiros) que foram proibidos e dissolvidos durante o governo de Napoleão. Em 1811, a biblioteca foi transferida para as instalações mais espaçosas do Palácio Ducal. Em 1904, a coleção foi transferida para o prédio da Sansovinova Zecca, uma casa da moeda (construída em 1537-1547). Desde então, a biblioteca voltou ao seu espaço original, mas também se expandiu para partes da vizinha Procuratie Nuova. Hoje, Marciana tem cerca de um milhão de livros impressos e cerca de 13.000 manuscritos, 2.883 incunábulos e 24.055 obras impressas entre 1500 e 1600.  (Original) It is a great pleasure to stand on the Piazzetta and observe this beautiful building, the Biblioteca Marciana. Its history and significance is extremely interesting, and its interior is breathtaking. The interior is beautifully decorated, and richly decorated with frescoes and paintings by artists like Tintoretto and Domenico Molin, its ceiling, featuring Titian’s allegorical painting, Sapienza, is widely considered the room’s most important decorative element. National Library of St. Mark is a library and Renaissance building, one of the oldest public libraries in the country and one of the largest collections of classical texts in the world. The library was named after St. Mark, patron saint of Venice. The Marciana Library stands as a symbol of the city’s wealth and its long tradition of civic investment in intellectual and artistic pursuits. The building’s construction began in 1537 and was completed over the next 50 years. The library, designed by Jacopo Sansovino, he is completed 16 of the façade’s 21 arcaded bays before his death in 1570. Eighteen years later, Vincenzo Scamozzi finished the structure according to Sansovino’s plans. Books for the library began to be collected even before the building was built. The nucleus of the collection was a donation of valuable Byzantine and Renaissance Serenissimi manuscripts collected by the scientist, patron and collector, Cardinal Bessarion, who donated his collection on May 31, 1468. It contained about 750 codices in Latin and Greek, with 250 manuscripts and some printed books (incunabula), it was the first public library open to scholars and students in Venice. The holdings of the Marciana Library were significantly enriched in the 18th century when collections were collected in several monasteries, such as Sts. Giovanni e Paolo from Venice and St. Giovanni di Verdara of Padua, handed over to Marciana for further safekeeping. With the fall of the Venetian Republic in 1797, the Marciana holdings were enriched by the entry of a large number of manuscripts and books from religious institutions (churches and monasteries) that had been banned and disbanded during Napoleon's rule. In 1811, the library was moved to the more spacious premises of the Doge's Palace. In 1904, the collection was moved to the building of Sansovinova Zecca, a mint (built in 1537-1547). The library has since returned to its original space, but has also expanded to parts of the neighboring Procuratie Nuova. Today, Marciana has about a million printed books, and about 13,000 manuscripts, 2,883 incunabula, and 24,055 works printed between 1500 and 1600.",
+      "gradeComment": 5
+    },
+    {
+      "author": "rossella tritto",
+      "photoAuthor": "https://lh3.googleusercontent.com/a/AItbvmk366FBvnekYof9MryerbN_o_Zt2wsXItBJWqVq=w36-h36-p-c0x00000000-rp-mo-br100",
+      "comment": "(Tradução do Google) Certamente há graça no diálogo, mas zero humanidade. Pedi com urgência para ir ao banheiro e com muita graça o dono me deu a \"dica\" e que é usar e procurar em outro lugar  (Original) C'è sicuramente garbo nel dialogo ma umanità zero. Urgentemente ho chiesto di andare in bagno e con tanto di garbo il proprietario mi ha dato la \"dritta\" e cioè di usire e cercare altrove",
+      "gradeComment": 2
+    },
+    {
+      "author": "Ruth Eastelow",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucoo5DYoNiq2p-nEcRHdR2KYSw7BwZ7Zs0LrbY4H2yE=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "(Tradução do Google) Belo cenário. Bom serviço, comida bastante cara, mas isso é de se esperar. Música ao vivo muito boa e contribui para a atmosfera. Vale um mimo.  (Original) Beautiful setting. Good service, food quite expensive but that’s to be expected. Live music very good and adds to the atmosphere. Worth a treat.",
+      "gradeComment": 4
+    },
+    {
+      "author": "Danielle Bergoin",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucr7EfWik5JiZv4pboyp_4GsaAj-9HCmKhOWnbYz-aY=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "(Tradução do Google) Trabalhos muito interessantes de Heinz Mack! Vibração de Luz! Durante a Bienal você terá a chance de entrar na sala de leitura da biblioteca.  (Original) Très intéressantes œuvres de Heinz Mack ! Vibration of Light !Pendant la Biennale vous aurez la chance de pénétrer dans la salle de lecture de la bibliothèque.",
+      "gradeComment": 5
+    },
+    {
+      "author": "gio mari",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucpVfGnadtbl9lwM9P-7Wc8Q-EIju2r1X1-3gmFgMA=w36-h36-p-c0x00000000-rp-mo-ba6-br100",
+      "comment": "(Tradução do Google) A Biblioteca Nacional Marciana faz parte dos edifícios histórico-artísticos de Veneza. Construído entre 1537 e 1588 em um projeto de Jacopo Sansovino. Em frente ao Palácio Ducal com a torre sineira à sua esquerda. Arquitetura magnífica, abriga uma enorme coleção de manuscritos gregos, latinos e orientais. Muitos textos de história e arte. É necessário possuir o cartão que pode ser obtido na secretaria da Biblioteca. Para entrar você deve reservar online no dia escolhido. Muito confortável por dentro, com longas mesas de madeira maciça. O passe verde é obrigatório.  (Original) La biblioteca nazionale Marciana rientra nell'ambito degli edifici storico-artistici di Venezia. Costruita tra il 1537 e il e il 1588 su progetto di Jacopo Sansovino.  Di fronte a Palazzo ducale  con il campanile alla sua sinistra. Architettura magnifica.Ospita una vastissima raccolta di manoscritti greci,latini ed orientali. Moltissimi testi di storia e arte. Occorre avere la tessera che si può ottenere presso la segreteria della Biblioteca. Per entrare occorre prenotare online il giorno prescelto.  Comodissima all'interno con lunghi tavoli di legno massiccio. Obbligatorio il green pass.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Baaranjo 84",
+      "photoAuthor": "https://lh3.googleusercontent.com/a/AItbvmnbB_UJIlkCjhEvyvJ6m3hTouctnvw9ADbNyEdE=w36-h36-p-c0x00000000-rp-mo-ba5-br100",
+      "comment": "(Tradução do Google) Localizada no Museu Correr, a bliblioteca é na verdade apenas uma sala, mas vale a pena dar uma olhada  (Original) Située dans le musée Correr, la bliblioteca n'est en réalité qu'une seule pièce mais qui vaut le coup d'œil",
+      "gradeComment": 5
+    },
+    {
+      "author": "Gio",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZuco0B3q7_w0DWRTUe4OJ9SG02QamoOQgrxhuGdoBBA=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "(Tradução do Google) Não pude visitar a Biblioteca Nacional de Marciana, mas a parte externa me impressionou literalmente. Fantásticas arcadas simétricas e artísticas não só podem tornar fascinante o simples passeio de um turista, como também fazem da praça envolvente uma mais-valia a tanta beleza.  (Original) Non ho potuto visitare l biblioteca nazionale marciana , ma la parte esterna mi ha letteralmente colpito . Portici fantastici simmetrici ,artistici possono non solo rendere affascinante una semplice passeggiata di un turista , ma rende al piazza circostante un valore aggiunto a così tanta bellezza.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Dmitry Ignatov",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucqI9XnUC71JypkJDcqlxgUjNyP2NPDCoUlQ5CEfCNE=w36-h36-p-c0x00000000-rp-mo-ba8-br100",
+      "comment": "(Tradução do Google) A maior biblioteca de Veneza é a Biblioteca Nacional de São Marcos. Completa a \"entrada principal\" da cidade - um complexo de edifícios com vista para a praça (Catedral de San Marco, Palácio Ducal, Campanilla). Anteriormente, havia um zoológico pessoal doge neste local.  (Original) Крупнейшая библиотека Венеции - национальная библиотека святого Марка. Завершает \"парадный вход\" в город - комплекс зданий, выходящих на площадь (собор Сан-Марко, Дворец дожей, Кампанилья). Раньше на этом месте был личный зоопарк дожей.",
+      "gradeComment": 4
+    },
+    {
+      "author": "Syed Asif Ali Shah",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucqqLrhP2fbo2wdsF4LobH23DxAS6Bkx7Y5JkXzQdw=w36-h36-p-c0x00000000-rp-mo-ba5-br100",
+      "comment": "(Tradução do Google) maricana libraray na praça san marco é um lugar imperdível. esta é uma biblioteca pública que é uma das bibliotecas mais antigas que contém muitos manuscritos clássicos antigos.  (Original) maricana libraray at  the san marco square is a must see place . this is a public library which is one of the oldest library contaning many old classical manuscripts .",
+      "gradeComment": 5
+    },
+    {
+      "author": "diana brioschi",
+      "photoAuthor": "https://lh3.googleusercontent.com/a/AItbvmmbdIaJA1tK8jPs3iQAsisxP3YSHEILi8FBWV2e=w36-h36-p-c0x00000000-rp-mo-br100",
+      "comment": "(Tradução do Google) A biblioteca é maravilhosa, entramos às 16h pagando o ingresso completo e às 16h30 os inúmeros funcionários grosseiros começaram a nos empurrar para a saída, para fechar os banheiros e as venezianas das janelas atrás de nós. Incrível!!! Às 16h59 nos expulsaram sem nos deixarem ir ao banheiro. Uma vergonha!! Vá de manhã, caso contrário, jogue fora o ingresso!  (Original) La biblioteca è meravigliosa, siamo entrati alle h 16 pagando il biglietto pieno e alle 16.30 gli innumerevoli, maleducatissimi impiegati hanno incominciato a spingerci verso l'uscita, a chiudere i bagni e le scuri delle finestre dietro di noi. Incredibile!!! Alle 16. 59 ci avevano buttato fuori senza neanche lasciarci andare in bagno. Una vergogna!! Andate di mattina, altrimenti buttate via il biglietto!",
+      "gradeComment": 1
+    },
+    {
+      "author": "Alexandra Dumitru",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucpcCoHmH5OV23b5DOOGbYT23_xhp_STdt_1tRXVUNA=w36-h36-p-c0x00000000-rp-mo-ba5-br100",
+      "comment": "(Tradução do Google) Pinturas impressionantes nas paredes  (Original) Impressive paintings on the walls",
+      "gradeComment": 5
+    },
+    {
+      "author": "Albert Miret",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucpG47zBQlbtYxcz1xZ8aZlpvX7LkpDDVBVhB69weJE=w36-h36-p-c0x00000000-rp-mo-ba5-br100",
+      "comment": "(Tradução do Google) Um grande navio que fazia parte da Procuradoria Geral de Veneza. Lá, são organizadas exposições. Quando eu estava lá, era ourives. Só para ver as calçadas e tetos vale a pena. É visitado juntamente com o Museu Civico Correr e o Museu Arqueológico.  (Original) Una gran nau que formava part de la procuraduria de Venècia. Allà s'hi organitzen exposicions. Quan jo vaig estar era d'orfebreria. Només per veure el paviments i els sostres ja val la pena. Es visita juntament amb el Museo Civico Correr i el Museu Arqueològic.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Dariusz Szuchalski",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucqcHkiasCEgsW8pM097Spk0P6QAZRtZGBDTbhm0dSc=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "(Tradução do Google) Visitando a parte do museu perto do Museu Correr, infelizmente é difícil aprender alguma coisa com a equipe.  (Original) Zwiedzanie części muzealnej przez Muzeum Correr, niestetety od pracowników ciężko się dowiedzieć czegokolwiek.",
+      "gradeComment": 3
+    }
+  ],
+  "peakHours": [
+    {
+      "Sunday": []
+    },
+    {
+      "Monday": [
+        {
+          "hour": "08:00",
+          "percent": 34
+        },
+        {
+          "hour": "09:00",
+          "percent": 69
+        },
+        {
+          "hour": "10:00",
+          "percent": 94
+        },
+        {
+          "hour": "11:00",
+          "percent": 93
+        },
+        {
+          "hour": "12:00",
+          "percent": 82
+        },
+        {
+          "hour": "13:00",
+          "percent": 75
+        },
+        {
+          "hour": "14:00",
+          "percent": 71
+        },
+        {
+          "hour": "15:00",
+          "percent": 58
+        },
+        {
+          "hour": "16:00",
+          "percent": 37
+        },
+        {
+          "hour": "17:00",
+          "percent": 19
+        },
+        {
+          "hour": "18:00",
+          "percent": 7
+        }
+      ]
+    },
+    {
+      "Tuesday": [
+        {
+          "hour": "08:00",
+          "percent": 32
+        },
+        {
+          "hour": "09:00",
+          "percent": 64
+        },
+        {
+          "hour": "10:00",
+          "percent": 88
+        },
+        {
+          "hour": "11:00",
+          "percent": 93
+        },
+        {
+          "hour": "12:00",
+          "percent": 94
+        },
+        {
+          "hour": "13:00",
+          "percent": 100
+        },
+        {
+          "hour": "14:00",
+          "percent": 99
+        },
+        {
+          "hour": "15:00",
+          "percent": 82
+        },
+        {
+          "hour": "16:00",
+          "percent": 54
+        },
+        {
+          "hour": "17:00",
+          "percent": 28
+        },
+        {
+          "hour": "18:00",
+          "percent": 11
+        }
+      ]
+    },
+    {
+      "Wednesday": [
+        {
+          "hour": "08:00",
+          "percent": 34
+        },
+        {
+          "hour": "09:00",
+          "percent": 59
+        },
+        {
+          "hour": "10:00",
+          "percent": 79
+        },
+        {
+          "hour": "11:00",
+          "percent": 89
+        },
+        {
+          "hour": "12:00",
+          "percent": 90
+        },
+        {
+          "hour": "13:00",
+          "percent": 86
+        },
+        {
+          "hour": "14:00",
+          "percent": 77
+        },
+        {
+          "hour": "15:00",
+          "percent": 62
+        },
+        {
+          "hour": "16:00",
+          "percent": 43
+        },
+        {
+          "hour": "17:00",
+          "percent": 26
+        },
+        {
+          "hour": "18:00",
+          "percent": 14
+        }
+      ]
+    },
+    {
+      "Thursday": [
+        {
+          "hour": "08:00",
+          "percent": 30
+        },
+        {
+          "hour": "09:00",
+          "percent": 57
+        },
+        {
+          "hour": "10:00",
+          "percent": 77
+        },
+        {
+          "hour": "11:00",
+          "percent": 82
+        },
+        {
+          "hour": "12:00",
+          "percent": 79
+        },
+        {
+          "hour": "13:00",
+          "percent": 77
+        },
+        {
+          "hour": "14:00",
+          "percent": 76
+        },
+        {
+          "hour": "15:00",
+          "percent": 68
+        },
+        {
+          "hour": "16:00",
+          "percent": 52
+        },
+        {
+          "hour": "17:00",
+          "percent": 33
+        },
+        {
+          "hour": "18:00",
+          "percent": 17
+        }
+      ]
+    },
+    {
+      "Friday": [
+        {
+          "hour": "08:00",
+          "percent": 21
+        },
+        {
+          "hour": "09:00",
+          "percent": 43
+        },
+        {
+          "hour": "10:00",
+          "percent": 67
+        },
+        {
+          "hour": "11:00",
+          "percent": 79
+        },
+        {
+          "hour": "12:00",
+          "percent": 78
+        },
+        {
+          "hour": "13:00",
+          "percent": 71
+        },
+        {
+          "hour": "14:00",
+          "percent": 68
+        },
+        {
+          "hour": "15:00",
+          "percent": 61
+        },
+        {
+          "hour": "16:00",
+          "percent": 46
+        },
+        {
+          "hour": "17:00",
+          "percent": 26
+        },
+        {
+          "hour": "18:00",
+          "percent": 11
+        }
+      ]
+    },
+    {
+      "Saturday": [
+        {
+          "hour": "08:00",
+          "percent": 5
+        },
+        {
+          "hour": "09:00",
+          "percent": 14
+        },
+        {
+          "hour": "10:00",
+          "percent": 25
+        },
+        {
+          "hour": "11:00",
+          "percent": 31
+        },
+        {
+          "hour": "12:00",
+          "percent": 28
+        },
+        {
+          "hour": "13:00",
+          "percent": 22
+        }
+      ]
+    }
+  ],
+  "relatedSearches": [
+    "biblioteca marciana arquitectura",
+    "piazza san marco veneza",
+    "cultura de veneza",
+    "veneza na itália",
+    "festa de são marcos itália",
+    "veneza geografia",
+    "palacio ducal de venecia",
+    "teogonia",
+    "biblioteca marciana arquitectura",
+    "piazza san marco veneza",
+    "cultura de veneza",
+    "veneza na itália",
+    "festa de são marcos itália",
+    "veneza geografia",
+    "palacio ducal de venecia",
+    "teogonia"
+  ],
+  "relateds": [
+    {
+      "mainName": "Museu Correr",
+      "url": null
+    },
+    {
+      "mainName": "Procuratie Vecchie",
+      "url": null
+    },
+    {
+      "mainName": "Campanário de São Marcos",
+      "url": null
+    },
+    {
+      "mainName": "Palácio Ducal",
+      "url": null
+    },
+    {
+      "mainName": "Musée archéologique national de Venise",
+      "url": null
+    },
+    {
+      "mainName": "Zecca of Venice",
+      "url": null
+    },
+    {
+      "mainName": "Villa Duodo",
+      "url": null
+    },
+    {
+      "mainName": "Villa Capra",
+      "url": null
+    },
+    {
+      "mainName": "Basílica de São Marcos",
+      "url": null
+    },
+    {
+      "mainName": "Palazzo Thiene Bonin Longare",
+      "url": null
+    },
+    {
+      "mainName": "Villa Pisani",
+      "url": null
+    },
+    {
+      "mainName": "Santa Maria del Rosario, Alcamo",
+      "url": null
+    },
+    {
+      "mainName": "Praça de São Marcos",
+      "url": null
+    },
+    {
+      "mainName": "Piazzetta San Marco",
+      "url": null
+    },
+    {
+      "mainName": "Colonna di San Todaro",
+      "url": null
+    },
+    {
+      "mainName": "Torre do Relógio de S. Marcos",
+      "url": null
+    },
+    {
+      "mainName": "Museo di Palazzo Grimani",
+      "url": null
+    },
+    {
+      "mainName": "Chiesa di San Nicola da Tolentino",
+      "url": null
+    },
+    {
+      "mainName": "Escola Grande de S. Marcos",
+      "url": null
+    },
+    {
+      "mainName": "Ponte dos Suspiros",
+      "url": null
+    },
+    {
+      "mainName": "Palácio Contarini del Bovolo",
+      "url": null
+    },
+    {
+      "mainName": "San Giorgio Maggiore",
+      "url": null
+    },
+    {
+      "mainName": "Loggetta del Sansovino",
+      "url": null
+    },
+    {
+      "mainName": "Igreja de São Zacarias",
+      "url": null
+    },
+    {
+      "mainName": "Museu Correr",
+      "url": null
+    },
+    {
+      "mainName": "Procuratie Vecchie",
+      "url": null
+    },
+    {
+      "mainName": "Campanário de São Marcos",
+      "url": null
+    },
+    {
+      "mainName": "Palácio Ducal",
+      "url": null
+    },
+    {
+      "mainName": "Musée archéologique national de Venise",
+      "url": null
+    },
+    {
+      "mainName": "Zecca of Venice",
+      "url": null
+    },
+    {
+      "mainName": "Villa Duodo",
+      "url": null
+    },
+    {
+      "mainName": "Villa Capra",
+      "url": null
+    },
+    {
+      "mainName": "Basílica de São Marcos",
+      "url": null
+    },
+    {
+      "mainName": "Palazzo Thiene Bonin Longare",
+      "url": null
+    },
+    {
+      "mainName": "Villa Pisani",
+      "url": null
+    },
+    {
+      "mainName": "Santa Maria del Rosario, Alcamo",
+      "url": null
+    },
+    {
+      "mainName": "Praça de São Marcos",
+      "url": null
+    },
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

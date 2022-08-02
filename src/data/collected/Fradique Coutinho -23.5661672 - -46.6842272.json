@@ -1,0 +1,970 @@
+{
+  "mainName": "Fradique Coutinho",
+  "slug": "fradique-coutinho",
+  "category": "Estação de metrô",
+  "locationInformation": {
+    "latitude": "-23.5661672",
+    "longitude": "-46.6842272"
+  },
+  "basicInformation": [
+    {
+      "label": "endereço",
+      "tooltip": "Copiar endereço",
+      "text": "R. dos Pinheiros, 623 - Pinheiros, São Paulo - SP, 05422-011",
+      "icon": "https://www.gstatic.com/images/icons/material/system_gm/1x/place_gm_blue_24dp.png"
+    },
+    {
+      "label": "website",
+      "tooltip": "Abrir website",
+      "text": "metro.sp.gov.br",
+      "icon": "https://www.gstatic.com/images/icons/material/system_gm/1x/public_gm_blue_24dp.png"
+    },
+    {
+      "label": "Code",
+      "tooltip": "Copiar Plus Code",
+      "text": "C8M8+G8 Pinheiros, São Paulo - SP",
+      "icon": "https://maps.gstatic.com/mapfiles/maps_lite/images/2x/ic_plus_code.png"
+    }
+  ],
+  "ratingInformation": {
+    "basicRatingInformation": {
+      "averageGrade": 4.5,
+      "totalOfEvaluations": 450
+    },
+    "ratingsByGrade": [
+      {
+        "grade": 5,
+        "totalRatings": 294
+      },
+      {
+        "grade": 4,
+        "totalRatings": 119
+      },
+      {
+        "grade": 3,
+        "totalRatings": 23
+      },
+      {
+        "grade": 2,
+        "totalRatings": 5
+      },
+      {
+        "grade": 1,
+        "totalRatings": 9
+      }
+    ]
+  },
+  "ratingTags": [
+    {
+      "tag": "restaurantes",
+      "count": 20,
+      "tooltip": "restaurantes, mencionado em 20 avaliações"
+    },
+    {
+      "tag": "bares",
+      "count": 18,
+      "tooltip": "bares, mencionado em 18 avaliações"
+    },
+    {
+      "tag": "segurança",
+      "count": 8,
+      "tooltip": "segurança, mencionado em 8 avaliações"
+    },
+    {
+      "tag": "banheiros",
+      "count": 8,
+      "tooltip": "banheiros, mencionado em 8 avaliações"
+    },
+    {
+      "tag": "região",
+      "count": 8,
+      "tooltip": "região, mencionado em 8 avaliações"
+    },
+    {
+      "tag": "bicicletário",
+      "count": 5,
+      "tooltip": "bicicletário, mencionado em 5 avaliações"
+    },
+    {
+      "tag": "decoração",
+      "count": 4,
+      "tooltip": "decoração, mencionado em 4 avaliações"
+    },
+    {
+      "tag": "opções",
+      "count": 4,
+      "tooltip": "opções, mencionado em 4 avaliações"
+    },
+    {
+      "tag": "ponto",
+      "count": 3,
+      "tooltip": "ponto, mencionado em 3 avaliações"
+    },
+    {
+      "tag": "porta",
+      "count": 3,
+      "tooltip": "porta, mencionado em 3 avaliações"
+    }
+  ],
+  "featuredPhotos": [
+    "https://lh5.googleusercontent.com/p/AF1QipPkG22BIBefWYQd3Y7SAQcKe-nkOAUPX3srvywk=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNdof_ULxITJKVgyf1AkcIMCcjYRvB_SCVV_Z2s=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOOy15PibSs3_s96CL6Onnzl1mW3le9XZQ46EeB=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNi0yVmIWuFghjw24JAGdBH2pri8w0dlS9Bcpw=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOMHrOMU-K_KnpxDJwPWCSxy-ewbHPF8fbAWpNm=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPCajn62IWf7hb46B-Oqg7hSMg_QQ67nOsqQEuc=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMl_kMj4GRW7q17aAxLJEjULi-Oy8Q-BD91bESR=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOI6_0sH_1lT_-WyeUYM9TlSYY-jXM58ik9Ai3H=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPR2VL4-cZl7c2Wy5lKuP3mQLdpKyA1mcFF8u-g=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPqp1v5cRmKweQbYZ0pIe7a9km2557VJXsK77PP=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPYTEFYuN0C_wBBf1Bu-1NJW_THvBkJ-dtJXcTZ=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOw5fFkTkAjFfJyBDslnfmDDy0uVB5NcrJrE-pN=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMV-FQAgRog1trNMvwgKoPeYDIy5ozszlpJxhDg=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMkJhqUNMDYLgEgYPNnie_I2ocx7NU5MtqvnPUy=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipODBvmTdWKgScmXHzxu5gVouevJtPpo50pAAH0O=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNLSTMg9r4nEMyK3lDvcOPVmiDJq_AfvwFqrK19=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipM0O5Pr4fkbWy3k50I01IcymGYlCkes7U18tq3U=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOEnLZffnUVLlMQGhYmAHB_ISO6nJmEvMsPamJR=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNvblYai5yp1Xid0ZPFZ9H1MWUE5GWqSxJF5XS-=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipP-jJ8SvQsWUJh0bRh1zeYoMvaDzZv_YrQUpgBm=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPPwf26j4XB0vTnmeIOor18g-g8VPRljT5W4cYx=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMmza_WH_LxEnIFgUqllMENgM5FIVNucHxl3AxI=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPOl5yr0rT4dq3X5iP45RVHguSSY5NXfCIJKGyu=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipN1bqeWIGD52Eia81W3pOtbV4NosPesS0PVEqti=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPVLXoTg_t-IcCH0S1QuU3j4VlltA-hvvYHhDRz=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOXpCi49n6ownctNCVGLXs4U9pjEKw5bSmteJm4=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOM1PZ4OXgxA6SfbV8gkxaIRBtFRaEZAGGUQuMa=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMutUlYboY825KAxK1L2LHZsabsmRHqAJLmU3BU=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMlqNCeUkXJP_d0k-WLfDwcnWr1YkCXI1RlleRi=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMcsqBKsg66mZQa3b-WnFvOOa8ww33xIKEAlmRR=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMmTCkoeHJ0qXuzmh8rJDPax4f4k82VWb4TPBp0=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPXLQWQyXQHviLv5Q6sxfX_HzhmTjsizAECFqPr=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMMVV1ArnWS0nVOOjn7jPJuS6sDzQOlpI-H2QWZ=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPictt0nmqr-t9aOgOm1jQ2u6tMPACy-XqMmtMo=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOjHSzTVRlPnKMX802mRyrI0350-ag1WMdQIlkX=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNTE5gu4RKluyyylflEo8buoue5wrvNnzV1f1Jq=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPvwMfcSsIAUAxfbVbAQsuef7cYMDoEssmWp_fC=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipN44P71T9s4fGVG7KBHgsYDU1Pc2INmqcGNecG3=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipO4M4xUasMdc3LL3HDmLFAcBsMbcW5pxZDtoZ2c=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMJzogJUh0qfyKP0y--9ZOMm6Oy9aBuP2gLbsYp=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPwRxzJFkatFtQMaLD17L-fembBokq9G9WsgfHs=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMWI5yL7eTZsbI5mUUNHk6qx2opOu86iV5dlxM1=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOhQcx7DJ26oS3U47ceXLT2_llIsFIUx6lr4vq6=w1024-h576-k-no"
+  ],
+  "topComments": [
+    {
+      "author": "Marcos Perini",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucr_Tc0VXHaFgoHJkyZKRlG2xhAzhGdOgoGap9kl4Q=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "A estação Fradique Coutinho recebeu decoração sensacional pela Netflix, para promover a 4ª temporada de Stranger Things. Um trabalho primoroso é incrível. Pena que nos primeiros dias era possível tocar e interagir com o cenário. Aproveite para tirar fotos!",
+      "gradeComment": 5
+    },
+    {
+      "author": "Katia Lima",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucr10DCd9y7Irdg0vVeMKLipMDluzz8ifvH_5Wkm5w=w36-h36-p-c0x00000000-rp-mo-ba3-br100",
+      "comment": "Incrível a instalação Stranger Station sobre a série Stranger Things! A estação ficou linda, os cenários perfeitos! Eu amei!",
+      "gradeComment": 5
+    },
+    {
+      "author": "Raiza Pelais",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucrwsaN35hZSb83ZfmYpX46e80lHnBfR5qjOIqTSeZw=w36-h36-p-c0x00000000-rp-mo-ba3-br100",
+      "comment": "A marketing da estação Fradique está de Parabéns, super legal a estação decorada com o tema do Stranger, foram várias fotos, mas infelizmente a sala e a floresta estavam fechadas, elas abrem das 8 as 17, mas não foi um problema",
+      "gradeComment": 5
+    },
+    {
+      "author": "HTC G1",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucpjFN8of7iDvyZZqdBfl4cwFmmuIiRKRctJtFV3iA=w36-h36-p-c0x00000000-rp-mo-ba7-br100",
+      "comment": "Excelente infraestrutura. Estação novinha em folha !!",
+      "gradeComment": 5
+    },
+    {
+      "author": "carlos eduardo",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucrjZ9v-KZ_SGZTtWv649h3IUDNiVcpdZckBxQXJDjM=w36-h36-p-c0x00000000-rp-mo-ba5-br100",
+      "comment": "Estação limpa, iluminada e bem localizada. O horário de funcionamento é das 4:40h às 00:00. Tá rolando uma mini expo da nova temporada de Stranger Things bem legal por lá. Vale a pena conferir😊",
+      "gradeComment": 4
+    },
+    {
+      "author": "Jessica Sampaio",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucrvCppTe6Ek8F_3Gvq7EjA2HHVAEQDvl4DtxGtcJfk=w36-h36-p-c0x00000000-rp-mo-ba6-br100",
+      "comment": "A estação Fradique Coutinho está linda com a decoração de uma das séries que adoro, Stranger Things. Está havendo fila pra apreciar todo o ambiente, mas vale a pena.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Pedro Uemura",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucpDIck-Dg9f-g0ClB5ja4o3SEL42Gr4lLL3lJJL4YU=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "A estação com certeza facilita muito a vida de quem trabalha na região, visando que abrange uma lista enorme de comércios e empresas próximas, também facilita a vida de quem quer passear ou curtir pela cidade pelo mesmo motivo, vários bares e comércios próximos.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Daiany Cristina Oliveira Félix",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZuconEZYb-pzFOER-ggC8l-Vu61bi_hc7r2gCzXdbkno=w36-h36-p-c0x00000000-rp-mo-br100",
+      "comment": "Bem limpa a estação. Seguranças do local bem solícitos.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Luiz Ojeda",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucrDHQO84zY2pl_Qzh9XWEddwpACPUSNz1jjYeRYeSI=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "só achei daora por causa da decoração de stranger things, fora isso é uma estação comum",
+      "gradeComment": 5
+    },
+    {
+      "author": "Alexandre",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZuco_OXBf3tR863YdrhJQYKxkZWjFqUsQxoh1dZ_05w=w36-h36-p-c0x00000000-rp-mo-ba8-br100",
+      "comment": "A estação Fradique Coutinho com infraestrutura confortável  tem um bicicletário com capacidade para comportar 83 bicicletas. Tem saída para Rua dos Pinheiros  fica paralela com a avenida Rebouças possibilitando acesso a diversas lojas nível Premium de qualidade.",
+      "gradeComment": 5
+    }
+  ],
+  "peakHours": [
+    {
+      "Sunday": [
+        {
+          "hour": "04:00",
+          "percent": 4
+        },
+        {
+          "hour": "05:00",
+          "percent": 8
+        },
+        {
+          "hour": "06:00",
+          "percent": 11
+        },
+        {
+          "hour": "07:00",
+          "percent": 13
+        },
+        {
+          "hour": "08:00",
+          "percent": 15
+        },
+        {
+          "hour": "09:00",
+          "percent": 17
+        },
+        {
+          "hour": "10:00",
+          "percent": 20
+        },
+        {
+          "hour": "11:00",
+          "percent": 26
+        },
+        {
+          "hour": "12:00",
+          "percent": 35
+        },
+        {
+          "hour": "13:00",
+          "percent": 46
+        },
+        {
+          "hour": "14:00",
+          "percent": 56
+        },
+        {
+          "hour": "15:00",
+          "percent": 64
+        },
+        {
+          "hour": "16:00",
+          "percent": 67
+        },
+        {
+          "hour": "17:00",
+          "percent": 64
+        },
+        {
+          "hour": "18:00",
+          "percent": 56
+        },
+        {
+          "hour": "19:00",
+          "percent": 44
+        },
+        {
+          "hour": "20:00",
+          "percent": 31
+        },
+        {
+          "hour": "21:00",
+          "percent": 24
+        },
+        {
+          "hour": "22:00",
+          "percent": 22
+        },
+        {
+          "hour": "23:00",
+          "percent": 15
+        },
+        {
+          "hour": "00:00",
+          "percent": 3
+        }
+      ]
+    },
+    {
+      "Monday": [
+        {
+          "hour": "04:00",
+          "percent": 3
+        },
+        {
+          "hour": "05:00",
+          "percent": 14
+        },
+        {
+          "hour": "06:00",
+          "percent": 29
+        },
+        {
+          "hour": "07:00",
+          "percent": 45
+        },
+        {
+          "hour": "08:00",
+          "percent": 57
+        },
+        {
+          "hour": "09:00",
+          "percent": 62
+        },
+        {
+          "hour": "10:00",
+          "percent": 61
+        },
+        {
+          "hour": "11:00",
+          "percent": 57
+        },
+        {
+          "hour": "12:00",
+          "percent": 57
+        },
+        {
+          "hour": "13:00",
+          "percent": 61
+        },
+        {
+          "hour": "14:00",
+          "percent": 69
+        },
+        {
+          "hour": "15:00",
+          "percent": 77
+        },
+        {
+          "hour": "16:00",
+          "percent": 81
+        },
+        {
+          "hour": "17:00",
+          "percent": 79
+        },
+        {
+          "hour": "18:00",
+          "percent": 71
+        },
+        {
+          "hour": "19:00",
+          "percent": 59
+        },
+        {
+          "hour": "20:00",
+          "percent": 44
+        },
+        {
+          "hour": "21:00",
+          "percent": 30
+        },
+        {
+          "hour": "22:00",
+          "percent": 18
+        },
+        {
+          "hour": "23:00",
+          "percent": 8
+        },
+        {
+          "hour": "00:00",
+          "percent": 1
+        }
+      ]
+    },
+    {
+      "Tuesday": [
+        {
+          "hour": "04:00",
+          "percent": 4
+        },
+        {
+          "hour": "05:00",
+          "percent": 15
+        },
+        {
+          "hour": "06:00",
+          "percent": 31
+        },
+        {
+          "hour": "07:00",
+          "percent": 48
+        },
+        {
+          "hour": "08:00",
+          "percent": 62
+        },
+        {
+          "hour": "09:00",
+          "percent": 69
+        },
+        {
+          "hour": "10:00",
+          "percent": 68
+        },
+        {
+          "hour": "11:00",
+          "percent": 64
+        },
+        {
+          "hour": "12:00",
+          "percent": 62
+        },
+        {
+          "hour": "13:00",
+          "percent": 67
+        },
+        {
+          "hour": "14:00",
+          "percent": 76
+        },
+        {
+          "hour": "15:00",
+          "percent": 86
+        },
+        {
+          "hour": "16:00",
+          "percent": 92
+        },
+        {
+          "hour": "17:00",
+          "percent": 92
+        },
+        {
+          "hour": "18:00",
+          "percent": 85
+        },
+        {
+          "hour": "19:00",
+          "percent": 72
+        },
+        {
+          "hour": "20:00",
+          "percent": 55
+        },
+        {
+          "hour": "21:00",
+          "percent": 38
+        },
+        {
+          "hour": "22:00",
+          "percent": 23
+        },
+        {
+          "hour": "23:00",
+          "percent": 12
+        },
+        {
+          "hour": "00:00",
+          "percent": 3
+        }
+      ]
+    },
+    {
+      "Wednesday": [
+        {
+          "hour": "04:00",
+          "percent": 5
+        },
+        {
+          "hour": "05:00",
+          "percent": 15
+        },
+        {
+          "hour": "06:00",
+          "percent": 29
+        },
+        {
+          "hour": "07:00",
+          "percent": 45
+        },
+        {
+          "hour": "08:00",
+          "percent": 59
+        },
+        {
+          "hour": "09:00",
+          "percent": 69
+        },
+        {
+          "hour": "10:00",
+          "percent": 72
+        },
+        {
+          "hour": "11:00",
+          "percent": 70
+        },
+        {
+          "hour": "12:00",
+          "percent": 68
+        },
+        {
+          "hour": "13:00",
+          "percent": 71
+        },
+        {
+          "hour": "14:00",
+          "percent": 79
+        },
+        {
+          "hour": "15:00",
+          "percent": 91
+        },
+        {
+          "hour": "16:00",
+          "percent": 100
+        },
+        {
+          "hour": "17:00",
+          "percent": 99
+        },
+        {
+          "hour": "18:00",
+          "percent": 89
+        },
+        {
+          "hour": "19:00",
+          "percent": 72
+        },
+        {
+          "hour": "20:00",
+          "percent": 54
+        },
+        {
+          "hour": "21:00",
+          "percent": 40
+        },
+        {
+          "hour": "23:00",
+          "percent": 18
+        },
+        {
+          "hour": "00:00",
+          "percent": 9
+        },
+        {
+          "hour": "01:00",
+          "percent": 2
+        }
+      ]
+    },
+    {
+      "Thursday": [
+        {
+          "hour": "04:00",
+          "percent": 7
+        },
+        {
+          "hour": "05:00",
+          "percent": 17
+        },
+        {
+          "hour": "06:00",
+          "percent": 31
+        },
+        {
+          "hour": "07:00",
+          "percent": 45
+        },
+        {
+          "hour": "08:00",
+          "percent": 58
+        },
+        {
+          "hour": "09:00",
+          "percent": 66
+        },
+        {
+          "hour": "10:00",
+          "percent": 69
+        },
+        {
+          "hour": "11:00",
+          "percent": 67
+        },
+        {
+          "hour": "12:00",
+          "percent": 66
+        },
+        {
+          "hour": "13:00",
+          "percent": 68
+        },
+        {
+          "hour": "14:00",
+          "percent": 75
+        },
+        {
+          "hour": "15:00",
+          "percent": 86
+        },
+        {
+          "hour": "16:00",
+          "percent": 94
+        },
+        {
+          "hour": "17:00",
+          "percent": 95
+        },
+        {
+          "hour": "18:00",
+          "percent": 86
+        },
+        {
+          "hour": "19:00",
+          "percent": 70
+        },
+        {
+          "hour": "20:00",
+          "percent": 54
+        },
+        {
+          "hour": "21:00",
+          "percent": 45
+        },
+        {
+          "hour": "22:00",
+          "percent": 38
+        },
+        {
+          "hour": "23:00",
+          "percent": 26
+        },
+        {
+          "hour": "00:00",
+          "percent": 11
+        },
+        {
+          "hour": "01:00",
+          "percent": 1
+        }
+      ]
+    },
+    {
+      "Friday": [
+        {
+          "hour": "04:00",
+          "percent": 6
+        },
+        {
+          "hour": "05:00",
+          "percent": 16
+        },
+        {
+          "hour": "06:00",
+          "percent": 28
+        },
+        {
+          "hour": "07:00",
+          "percent": 41
+        },
+        {
+          "hour": "08:00",
+          "percent": 52
+        },
+        {
+          "hour": "09:00",
+          "percent": 58
+        },
+        {
+          "hour": "10:00",
+          "percent": 60
+        },
+        {
+          "hour": "11:00",
+          "percent": 58
+        },
+        {
+          "hour": "12:00",
+          "percent": 58
+        },
+        {
+          "hour": "13:00",
+          "percent": 63
+        },
+        {
+          "hour": "14:00",
+          "percent": 72
+        },
+        {
+          "hour": "15:00",
+          "percent": 82
+        },
+        {
+          "hour": "16:00",
+          "percent": 89
+        },
+        {
+          "hour": "17:00",
+          "percent": 89
+        },
+        {
+          "hour": "18:00",
+          "percent": 82
+        },
+        {
+          "hour": "19:00",
+          "percent": 71
+        },
+        {
+          "hour": "20:00",
+          "percent": 60
+        },
+        {
+          "hour": "21:00",
+          "percent": 52
+        },
+        {
+          "hour": "22:00",
+          "percent": 42
+        },
+        {
+          "hour": "23:00",
+          "percent": 30
+        },
+        {
+          "hour": "00:00",
+          "percent": 17
+        },
+        {
+          "hour": "01:00",
+          "percent": 6
+        },
+        {
+          "hour": "02:00",
+          "percent": 1
+        },
+        {
+          "hour": "03:00",
+          "percent": 1
+        }
+      ]
+    },
+    {
+      "Saturday": [
+        {
+          "hour": "04:00",
+          "percent": 8
+        },
+        {
+          "hour": "05:00",
+          "percent": 13
+        },
+        {
+          "hour": "06:00",
+          "percent": 19
+        },
+        {
+          "hour": "07:00",
+          "percent": 25
+        },
+        {
+          "hour": "08:00",
+          "percent": 31
+        },
+        {
+          "hour": "09:00",
+          "percent": 37
+        },
+        {
+          "hour": "10:00",
+          "percent": 42
+        },
+        {
+          "hour": "11:00",
+          "percent": 47
+        },
+        {
+          "hour": "12:00",
+          "percent": 52
+        },
+        {
+          "hour": "13:00",
+          "percent": 58
+        },
+        {
+          "hour": "14:00",
+          "percent": 64
+        },
+        {
+          "hour": "15:00",
+          "percent": 69
+        },
+        {
+          "hour": "16:00",
+          "percent": 71
+        },
+        {
+          "hour": "17:00",
+          "percent": 70
+        },
+        {
+          "hour": "18:00",
+          "percent": 66
+        },
+        {
+          "hour": "19:00",
+          "percent": 62
+        },
+        {
+          "hour": "20:00",
+          "percent": 56
+        },
+        {
+          "hour": "21:00",
+          "percent": 49
+        },
+        {
+          "hour": "22:00",
+          "percent": 39
+        },
+        {
+          "hour": "23:00",
+          "percent": 26
+        },
+        {
+          "hour": "00:00",
+          "percent": 15
+        },
+        {
+          "hour": "01:00",
+          "percent": 7
+        },
+        {
+          "hour": "02:00",
+          "percent": 4
+        },
+        {
+          "hour": "03:00",
+          "percent": 5
+        }
+      ]
+    }
+  ],
+  "relatedSearches": [
+    "fradique coutinho stranger things",
+    "fradique coutinho cep",
+    "fradique coutinho metrô",
+    "fradique coutinho mapa",
+    "fradique coutinho, 212",
+    "fradique coutinho quem foi",
+    "fradique coutinho bar",
+    "fradique coutinho exposição"
+  ],
+  "relateds": [
+    {
+      "mainName": "Faria Lima",
+      "url": null
+    },
+    {
+      "mainName": "Estação Oscar Freire",
+      "url": null
+    },
+    {
+      "mainName": "Pinheiros",
+      "url": null
+    },
+    {
+      "mainName": "Paulista",
+      "url": null
+    },
+    {
+      "mainName": "Luz",
+      "url": null
+    },
+    {
+      "mainName": "Higienópolis-Mackenzie",
+      "url": null
+    },
+    {
+      "mainName": "Vila Sônia",
+      "url": null
+    },
+    {
+      "mainName": "Vila Madalena",
+      "url": null
+    },
+    {
+      "mainName": "Estação Washington Luís",
+      "url": null
+    },
+    {
+      "mainName": "TERM. Metrô Butantã (Metrô Butantã)",
+      "url": null
+    },
+    {
+      "mainName": "República",
+      "url": null
+    },
+    {
+      "mainName": "Pin Home Design",
+      "url": null
+    },
+    {
+      "mainName": "Santuário N.Sra. de Fátima - Sumaré",
+      "url": null
+    },
+    {
+      "mainName": "Consolação",
+      "url": null
+    },
+    {
+      "mainName": "Oratório",
+      "url": null
+    },
+    {
+      "mainName": "Avenida Washignton Luís, 6160-6274",
+      "url": null
+    },
+    {
+      "mainName": "Ana Rosa",
+      "url": null
+    },
+    {
+      "mainName": "Jardim Colonial",
+      "url": null
+    },
+    {
+      "mainName": "São Lucas",
+      "url": null
+    },
+    {
+      "mainName": "Vila União",
+      "url": null
+    },
+    {
+      "mainName": "Hebraica-Rebouças",
+      "url": null
+    },
+    {
+      "mainName": "Clínicas",
+      "url": null
+    },
+    {
+      "mainName": "Campo Belo",
+      "url": null
+    },
+    {
+      "mainName": "Sapopemba",
+      "url": null
+    }
+  ]
+}

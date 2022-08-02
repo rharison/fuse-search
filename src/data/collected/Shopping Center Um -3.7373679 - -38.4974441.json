@@ -1,0 +1,592 @@
+{
+  "mainName": "Shopping Center Um",
+  "slug": "shopping-center-um",
+  "category": "Shopping center",
+  "locationInformation": {
+    "latitude": "-3.7373679",
+    "longitude": "-38.4974441"
+  },
+  "basicInformation": [
+    {
+      "label": "endereço",
+      "tooltip": "Copiar endereço",
+      "text": "Av. Santos Dumont, 3130 - Aldeota, Fortaleza - CE, 60177-415",
+      "icon": "https://www.gstatic.com/images/icons/material/system_gm/1x/place_gm_blue_24dp.png"
+    },
+    {
+      "label": "website",
+      "tooltip": "Abrir website",
+      "text": "centerumshopping.com.br",
+      "icon": "https://www.gstatic.com/images/icons/material/system_gm/1x/public_gm_blue_24dp.png"
+    },
+    {
+      "label": "telefone",
+      "tooltip": "Copiar número de telefone",
+      "text": "(85) 3261-9756",
+      "icon": "https://www.gstatic.com/images/icons/material/system_gm/1x/phone_gm_blue_24dp.png"
+    },
+    {
+      "label": "Code",
+      "tooltip": "Copiar Plus Code",
+      "text": "7G73+32 Aldeota, Fortaleza - CE",
+      "icon": "https://maps.gstatic.com/mapfiles/maps_lite/images/2x/ic_plus_code.png"
+    }
+  ],
+  "ratingInformation": {
+    "basicRatingInformation": {
+      "averageGrade": 4.2,
+      "totalOfEvaluations": 6295
+    },
+    "ratingsByGrade": [
+      {
+        "grade": 5,
+        "totalRatings": 3090
+      },
+      {
+        "grade": 4,
+        "totalRatings": 1670
+      },
+      {
+        "grade": 3,
+        "totalRatings": 1153
+      },
+      {
+        "grade": 2,
+        "totalRatings": 220
+      },
+      {
+        "grade": 1,
+        "totalRatings": 162
+      }
+    ]
+  },
+  "ratingTags": [
+    {
+      "tag": "supermercado",
+      "count": 97,
+      "tooltip": "supermercado, mencionado em 97 avaliações"
+    },
+    {
+      "tag": "gosto",
+      "count": 44,
+      "tooltip": "gosto, mencionado em 44 avaliações"
+    },
+    {
+      "tag": "ar condicionado",
+      "count": 22,
+      "tooltip": "ar condicionado, mencionado em 22 avaliações"
+    },
+    {
+      "tag": "história",
+      "count": 20,
+      "tooltip": "história, mencionado em 20 avaliações"
+    },
+    {
+      "tag": "dança",
+      "count": 14,
+      "tooltip": "dança, mencionado em 14 avaliações"
+    },
+    {
+      "tag": "tradição",
+      "count": 14,
+      "tooltip": "tradição, mencionado em 14 avaliações"
+    },
+    {
+      "tag": "loteria",
+      "count": 11,
+      "tooltip": "loteria, mencionado em 11 avaliações"
+    },
+    {
+      "tag": "self service",
+      "count": 11,
+      "tooltip": "self service, mencionado em 11 avaliações"
+    },
+    {
+      "tag": "panelas",
+      "count": 8,
+      "tooltip": "panelas, mencionado em 8 avaliações"
+    },
+    {
+      "tag": "",
+      "count": 19746,
+      "tooltip": "1974, mencionado em 6 avaliações"
+    }
+  ],
+  "featuredPhotos": [
+    "https://lh5.googleusercontent.com/p/AF1QipNSb_8XE59quAWnHNUJLcCp24SUqY2BwhDB-EI_=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipN77rzm4GQxpvSZbD_asbhmHcy5jSxwWNQuGt39=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMTeTzpguwloakUwmjFeUKNv821U3qh4uzsw1LU=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOJ4XGRrusFrqqySs7tbmgZRQ0yCiNdlWss9_1s=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNqYshupyK3uUq9kx8XbVL7aS5ELO7mp2SRS6Us=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOQ_Q03If9I1z9gtDigX8pylTUNdc_2vhoc-OB9=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOlqZoELYFq87e2QtfC2bt9G-dxevy_8Kg3NImv=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipM38i4gGYWPAJ7lL2eiGciV0qnbwNtXIgdXjTx0=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMZZupYgL_MEKRmbW63rzGeBJMhOgqN1_NZyyLc=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPiObZrElm7IzXbqO53CrnNXH7zhEOAeleo1T3Y=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPNUqiqo4ZKLNmQ02xMrVVAQluG86J0bYeG50qu=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNjkb2qx2DgGd2rovBUP9g-NARF9KmlwXnlNmY6=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPGVyxgH5LdOeVztaVWrTU0PF8vkAGbG1Ab7UcD=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOCEnRMlSKKSlsOaWK3xFLKWRxOdJ_x4PIrolTQ=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMaRFGhqEuzRfprQoQ49ITqDcfrBDTpABLhnrv7=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMbTFf2lB2rovB6_Jg5JY1n-COxCvZ7JcWUhmTG=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNmtpvcizv7LQlLfMUsIXoa7ml5YeW64d8rdrVw=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMpYHzajgbYWU6TbWeGKt2YOiTW9ci6liW3XXVp=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOHNjtDTXPMwrtwLw4BxzqZ8VOCiI-2j7SB9-9d=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNC9myyEYthah1iP9sO9_QQjesX1oqohagE_1iw=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMo1bJ0g0vqzp5aVviFRPgROEgRAuJGXLBQ-Nvi=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNt5tXvWwZ6QN13Fn_5hpMLXv31NvHVIXgR-HkB=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipN-YJLJZITLWsT3uVIrKf3VTl4T2epmr_i_Z1_J=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOBqY4giMYw2kCB3uVIKAODLuSDJxIbYYgqAGiO=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipP8cydwbVQ3DCNnXtfgEkiQkXu21swhQ8JTbM3L=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMs-ORGECaqrlcq3D7KCauz13SxI86XUTniQhFR=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipM22mQyU5A0o6F0I7To-GsIZr0_XAxFtg8xWn5d=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOpk6oyLUnyjgouoiRu1n9SDEQae0XjljgCluQu=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMxr2pDGWhtGocVoct1ZwXGeormbM0dhxU_c-W2=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOYHTJ9Cd_EHK2wm2fK2n4wrkXvjS7BudQEv8bz=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMIOPdIOuAoKt7jFmOdUN8AjTE1ddI11j2DYt7E=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipN6nkWDukKFS0TPDQzfVArNqOuhLhs5llXDk2-w=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPOGx06WgBV99VcT8C7XkVcyRwGXDTAcsfxCXKj=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOBMJRmfMydA-_yInCX5PKdM4swcgXtR8ca_3JG=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNRCu1y69KnHZwyIsmc59rhrobsXRHAKjxIFICH=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipM9LmJApbBAtYvZuLhET9OWgtudN1en1RD1_5wM=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOmAZK6pmekLFPuA2t4cuXqWt3ab0_PXYFO5vXO=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNu4n6-86htaBUCiZ266MNtVUqKOGNLj16PIf9z=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipND5c9Sz81UreRfPCez04MKml98JHnzQkT05fLJ=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNpza2K4KqVzxfKkBVQvu6461J_aet_wJxqVWhv=w1024-h576-k-no"
+  ],
+  "topComments": [
+    {
+      "author": "Danny Noir",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucpn838puX6cnnfYrZZ-Iyg0cNss1hfXXidb8BNYGl4=w36-h36-p-c0x00000000-rp-mo-ba5-br100",
+      "comment": "Por ser o primeiro sua estrutura esta um pouco ultrapassada, pois novos e mais modernos shoppings foram criados. O estacionamento é pequeno, onde tem uma alameda de serviços. O ambiente é climatizado, tem elevador panorâmico, a praça de alimentação é pequena e com poucas opções, o mesmo para as lojas. Tem um hipermercado integrado ao shopping, o que salva é isso. Um ponto positivo é a integração do shopping com a comunidade, diversas atrações gratuitas e feiras são organizadas com o apoio do shopping.",
+      "gradeComment": 3
+    },
+    {
+      "author": "Guilherme Rodrigues",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucq5b0J6GNr6_iPnAJGYMZrvNOIgvJfD5T2kuHl1RQ=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "Um shopping espremido no meio da Aldeota. Eu gosto do local, tem boas lojas, a praça de alimentação podia ser melhor, mas o que faz muita falta é o cinema, que existia nós anos 80/90. Mesmo tendo a concorrência do shopping em frente, seria ótimo termos mais uma sala de cinema/teatro de bairro. Iria dar outra vida ao shopping. Voltarei sempre.",
+      "gradeComment": 4
+    },
+    {
+      "author": "Natiely Pereira",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucrgb9iHuFkMjOq33VXFNEe6P45NSq4WOenjZ9JAOw=w36-h36-p-c0x00000000-rp-mo-ba3-br100",
+      "comment": "Muita variedade. Da pra encontrar muitas coisas e muitas opções, tem várias empresas lá que disponibilizão ótimos serviços e produtos muito bons. Gostei do interior do shopping, más daria pra dar uma melhorada na entrada. Não é algo muito atrativo e bonito aos olhos. Mais depois de entrar tudo muda.",
+      "gradeComment": 4
+    },
+    {
+      "author": "Patriota da Caatinga",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucqahmbVGXrydd6e50mOteHp8g4rje-8kcv6KBrifg=w36-h36-p-c0x00000000-rp-mo-ba6-br100",
+      "comment": "Gosto de ir almoçar lá sempre que estou resolvendo coisas pela Aldeota ou Meireles. O estacionamento sai de graça, não só para quem almoça, mas tbm para qualquer coisa que for resolver em uma das lojas tem 1 hora de estacionamento grátis.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Luis Cordeiro",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucrC0rEgZqmz4slF9CiE_2r2_IJiFOqZvm2jzaNwQx4=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "Amo este local demais faz parte da minha história de vida aqui tem uma boa comida,um bom café, loteria para pagar às contas,um bom mercado pra fazer compras,center um, tenho 101 motivo pra gostar!",
+      "gradeComment": 5
+    },
+    {
+      "author": "Milk",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucr9aEEMP3EeZYWUYNq8PeVZrioFx1yeZtdm2xMn3w=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "Primeiro shopping de fortaleza, conta com algumas lojas essenciais e rápidos, tendo serviço de produtos eletrônicos a supermercado, também conta com caixa lotérica e algumas lojas de celulares e roupas, ambiente pequeno para quem quer coisas específicas, diria que não é um bom espaço para encontrar com seu date!",
+      "gradeComment": 4
+    },
+    {
+      "author": "Rosiane Chaves",
+      "photoAuthor": "https://lh3.googleusercontent.com/a/AItbvmnsF3MDO8gbmci0q0Scdm5XwDFJuV86fR_lyRTM=w36-h36-p-c0x00000000-rp-mo-br100",
+      "comment": "Gostaria que o Shopping  disponibilizasse para os clientes estação de recarga para Carros e Veículos Elétricos como os que já existem no Rio Mar Papicu e Iguatemi.",
+      "gradeComment": 3
+    },
+    {
+      "author": "_marley _wallace",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucrPrtgCZnQlwIDhlfhv0JtmeX9CGfGo3dbUpyslLRo=w36-h36-p-c0x00000000-rp-mo-br100",
+      "comment": "É um shopping pra você que é de idade ou simplesmente vai para andar mesmo, shopping pequeno com pouco movimento, mas uma ótima estrutura.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Paulo Anderson Matias",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucoo92lBs8VmJLgFMGToh0uLZgRAkVWN1b3WVxZVz2U=w36-h36-p-c0x00000000-rp-mo-ba5-br100",
+      "comment": "Shopping muito bem organizado, os profissionais do estabelecimento estão de parabéns pela forma com que cada um desempenha suas funções. Poderia haver mais lojas, mas tudo bem. É um bom local para se freqüentar.",
+      "gradeComment": 5
+    },
+    {
+      "author": "ANTONIO POMPEU",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucr0oOiN-GyhoKq-tVS8lPqChx4zdsOC6UA_KEP0L0E=w36-h36-p-c0x00000000-rp-mo-ba2-br100",
+      "comment": "Bem conservado e limpo. Excelente para pequenas comprar. Infelizmente não tem muitas opções de lazer. Somente música ao vivo",
+      "gradeComment": 4
+    },
+    {
+      "author": "Ana Neiva",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucpZMKFY_Fz2hB7eDelxtlsJ3ElnmvEkbnpKc28nZzI=w36-h36-p-c0x00000000-rp-mo-ba3-br100",
+      "comment": "Sem muitas variedades, estacionamento de R$ 8,00, meio antiquado, mas é um clássico da cidade",
+      "gradeComment": 4
+    },
+    {
+      "author": "Dalton Bezerra",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucoar5LZFnvTyJVe7gzM42PniK53uo2r2ZBJPOXlNg=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "É tranquilo para ir resolver coisas rápidas. Mas não espere muita diversidade igual a outros shoppings de Fortaleza. Acho que vale a pena ir se tem algo específico lá que vc já conheça.",
+      "gradeComment": 4
+    },
+    {
+      "author": "Antonioni Figueiredo",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucq9hc4aNVk65i0aZw4sMTTZwjlcQPiv7KtuAbltqg=w36-h36-p-c0x00000000-rp-mo-ba5-br100",
+      "comment": "Local de fácil acesso, melhor caracterizado como centro comercial, com várias lojas, supermercado, serviços como loteria, farmácia, conserto de roupas, é um pequeno shopping, com praça de alimentação, estacionamento amplo. Preços medianos para a localização e estilos de serviços.",
+      "gradeComment": 4
+    },
+    {
+      "author": "Zarita Coreau",
+      "photoAuthor": "https://lh3.googleusercontent.com/a/AItbvmn0xKjhy8UaKXQhN-FdUh-R0pux0agQmTUHCvoR=w36-h36-p-c0x00000000-rp-mo-br100",
+      "comment": "É lugar tranquilo com praça de alimentação excelente e lojas c preços rasoaveis",
+      "gradeComment": 5
+    },
+    {
+      "author": "Synthia Santiago",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucqdNejXkuGXERpZI4j5vWWmkI2KsAOqVmTsI3LZ-zA=w36-h36-p-c0x00000000-rp-mo-ba3-br100",
+      "comment": "O mais charmoso e saudosista Shopping de Fortaleza 👍♾️💕💗🤗 eu adoro esse lugar e tem muitos outros pontos comerciais nos arredores; e no estacionamento uma série de serviços tipo sapateiro, conserto de eletrônicos, celulares, e o Café ☕😀🤓😌 do Bigode 🥤😋☕🙏🙌",
+      "gradeComment": 5
+    },
+    {
+      "author": "Leonardo Cabral",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucr4cV7F9zpcoBhkfVkJ1kNsShHtJgwI_SpYWscuaQ=w36-h36-p-c0x00000000-rp-mo-ba2-br100",
+      "comment": "Shopping tradicional de Fortaleza, conhecido por ser o 1º de Fortaleza e até hoje mantem ótimas lojas como a Ótica Diadema e o Supermercado Pão de Açúcar!",
+      "gradeComment": 5
+    },
+    {
+      "author": "Marcia soares rocha",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucql7aH3Xqn8SZmvhmv4l30ul-kq8S22ZCm1styyL58=w36-h36-p-c0x00000000-rp-mo-ba3-br100",
+      "comment": "Muito bom para compras e passeio com sua família, e em dias de festejos eles investem muito,olha aí o trenzinho.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Euclides Queiroz",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucqCOHQJxYJL7mGCsrNrKbB53tJLp3C-fjm2wvgK=w36-h36-p-c0x00000000-rp-mo-ba3-br100",
+      "comment": "Local aparência bem simples mas cheio de surpresas .  Superou as minhas espectativas . Gostei muito",
+      "gradeComment": 5
+    },
+    {
+      "author": "Felipe Ponce de Leon",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucpowJfyAEvttrZGUiHjBeMLD4TcTwbjepXlDmWmzb8=w36-h36-p-c0x00000000-rp-mo-ba5-br100",
+      "comment": "Bom shopping... Tradicional... Lojas variadas com bons produtos e serviços. Atende bem ao público da região.",
+      "gradeComment": 4
+    },
+    {
+      "author": "Karla Juliane",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucr3ylFH4RYe02TGB-RD292xXy8G1rZhXvb0Vizf1sM=w36-h36-p-c0x00000000-rp-mo-ba3-br100",
+      "comment": "Shopping pequenino, mas você encontra os serviços basicos: supermercado, farmácia, chaveiro, lavanderia, amolador, conserta óculos, tem uma loja de produtos naturais muito boa tb. Mas não é um shopping pra \"passear\"..",
+      "gradeComment": 4
+    }
+  ],
+  "peakHours": [
+    {
+      "Sunday": []
+    },
+    {
+      "Monday": [
+        {
+          "hour": "09:00",
+          "percent": 45
+        },
+        {
+          "hour": "10:00",
+          "percent": 65
+        },
+        {
+          "hour": "11:00",
+          "percent": 80
+        },
+        {
+          "hour": "12:00",
+          "percent": 84
+        },
+        {
+          "hour": "13:00",
+          "percent": 81
+        },
+        {
+          "hour": "14:00",
+          "percent": 75
+        },
+        {
+          "hour": "15:00",
+          "percent": 75
+        },
+        {
+          "hour": "16:00",
+          "percent": 77
+        },
+        {
+          "hour": "17:00",
+          "percent": 71
+        },
+        {
+          "hour": "18:00",
+          "percent": 53
+        }
+      ]
+    },
+    {
+      "Tuesday": [
+        {
+          "hour": "09:00",
+          "percent": 51
+        },
+        {
+          "hour": "10:00",
+          "percent": 74
+        },
+        {
+          "hour": "11:00",
+          "percent": 91
+        },
+        {
+          "hour": "12:00",
+          "percent": 97
+        },
+        {
+          "hour": "13:00",
+          "percent": 90
+        },
+        {
+          "hour": "14:00",
+          "percent": 81
+        },
+        {
+          "hour": "15:00",
+          "percent": 78
+        },
+        {
+          "hour": "16:00",
+          "percent": 82
+        },
+        {
+          "hour": "17:00",
+          "percent": 79
+        },
+        {
+          "hour": "18:00",
+          "percent": 60
+        }
+      ]
+    },
+    {
+      "Wednesday": [
+        {
+          "hour": "09:00",
+          "percent": 51
+        },
+        {
+          "hour": "10:00",
+          "percent": 75
+        },
+        {
+          "hour": "11:00",
+          "percent": 93
+        },
+        {
+          "hour": "12:00",
+          "percent": 100
+        },
+        {
+          "hour": "13:00",
+          "percent": 94
+        },
+        {
+          "hour": "14:00",
+          "percent": 84
+        },
+        {
+          "hour": "15:00",
+          "percent": 81
+        },
+        {
+          "hour": "16:00",
+          "percent": 85
+        },
+        {
+          "hour": "17:00",
+          "percent": 82
+        },
+        {
+          "hour": "18:00",
+          "percent": 61
+        }
+      ]
+    },
+    {
+      "Thursday": [
+        {
+          "hour": "09:00",
+          "percent": 49
+        },
+        {
+          "hour": "10:00",
+          "percent": 72
+        },
+        {
+          "hour": "11:00",
+          "percent": 89
+        },
+        {
+          "hour": "12:00",
+          "percent": 96
+        },
+        {
+          "hour": "13:00",
+          "percent": 90
+        },
+        {
+          "hour": "14:00",
+          "percent": 80
+        },
+        {
+          "hour": "15:00",
+          "percent": 77
+        },
+        {
+          "hour": "16:00",
+          "percent": 82
+        },
+        {
+          "hour": "17:00",
+          "percent": 78
+        },
+        {
+          "hour": "18:00",
+          "percent": 58
+        }
+      ]
+    },
+    {
+      "Friday": [
+        {
+          "hour": "09:00",
+          "percent": 48
+        },
+        {
+          "hour": "10:00",
+          "percent": 69
+        },
+        {
+          "hour": "11:00",
+          "percent": 85
+        },
+        {
+          "hour": "12:00",
+          "percent": 91
+        },
+        {
+          "hour": "13:00",
+          "percent": 86
+        },
+        {
+          "hour": "14:00",
+          "percent": 79
+        },
+        {
+          "hour": "15:00",
+          "percent": 77
+        },
+        {
+          "hour": "16:00",
+          "percent": 80
+        },
+        {
+          "hour": "17:00",
+          "percent": 76
+        },
+        {
+          "hour": "18:00",
+          "percent": 58
+        }
+      ]
+    },
+    {
+      "Saturday": [
+        {
+          "hour": "09:00",
+          "percent": 45
+        },
+        {
+          "hour": "10:00",
+          "percent": 67
+        },
+        {
+          "hour": "11:00",
+          "percent": 82
+        },
+        {
+          "hour": "12:00",
+          "percent": 84
+        },
+        {
+          "hour": "13:00",
+          "percent": 75
+        },
+        {
+          "hour": "14:00",
+          "percent": 66
+        },
+        {
+          "hour": "15:00",
+          "percent": 64
+        },
+        {
+          "hour": "16:00",
+          "percent": 66
+        },
+        {
+          "hour": "17:00",
+          "percent": 62
+        },
+        {
+          "hour": "18:00",
+          "percent": 46
+        }
+      ]
+    }
+  ],
+  "relatedSearches": null,
+  "relateds": [
+    {
+      "mainName": "Praça das Flores (Praça Carlos Alberto Studart Gomes)",
+      "url": null
+    },
+    {
+      "mainName": "Shopping RioMar Fortaleza",
+      "url": null
+    },
+    {
+      "mainName": "Praça Terminal Papicu",
+      "url": null
+    },
+    {
+      "mainName": "Praça dos Mártires",
+      "url": null
+    },
+    {
+      "mainName": "Parque Bisão",
+      "url": null
+    },
+    {
+      "mainName": "Parque Rio Branco",
+      "url": null
+    },
+    {
+      "mainName": "Iguatemi Bosque",
+      "url": null
+    },
+    {
+      "mainName": "Praia de Iracema",
+      "url": null
+    },
+    {
+      "mainName": "Praia do Meireles",
+      "url": null
+    },
+    {
+      "mainName": "Shopping Iguatemi São Paulo",
+      "url": null
+    }
+  ],
+  "editMode": false
+}

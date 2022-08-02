@@ -1,0 +1,908 @@
+{
+  "mainName": "Cais do Valongo",
+  "slug": "cais-do-valongo",
+  "category": "Marco histórico",
+  "locationInformation": {
+    "latitude": "-22.8966195",
+    "longitude": "-43.1871808"
+  },
+  "basicInformation": [
+    {
+      "label": "endereço",
+      "tooltip": "Copiar endereço",
+      "text": "Av. Barão de Tefé - Saúde, Rio de Janeiro - RJ, 20220-460",
+      "icon": "https://www.gstatic.com/images/icons/material/system_gm/1x/place_gm_blue_24dp.png"
+    },
+    {
+      "label": "Code",
+      "tooltip": "Copiar Plus Code",
+      "text": "4R37+94 Rio de Janeiro, RJ",
+      "icon": "https://maps.gstatic.com/mapfiles/maps_lite/images/2x/ic_plus_code.png"
+    },
+    {
+      "label": "merchant",
+      "text": "Reivindicar esta empresa",
+      "icon": "https://www.gstatic.com/images/icons/material/system_gm/1x/verified_user_gm_blue_24dp.png"
+    }
+  ],
+  "ratingInformation": {
+    "basicRatingInformation": {
+      "averageGrade": 4.6,
+      "totalOfEvaluations": 1270
+    },
+    "ratingsByGrade": [
+      {
+        "grade": 5,
+        "totalRatings": 940
+      },
+      {
+        "grade": 4,
+        "totalRatings": 214
+      },
+      {
+        "grade": 3,
+        "totalRatings": 91
+      },
+      {
+        "grade": 2,
+        "totalRatings": 11
+      },
+      {
+        "grade": 1,
+        "totalRatings": 14
+      }
+    ]
+  },
+  "ratingTags": [
+    {
+      "tag": "escravos",
+      "count": 50,
+      "tooltip": "escravos, mencionado em 50 avaliações"
+    },
+    {
+      "tag": "história do brasil",
+      "count": 20,
+      "tooltip": "história do brasil, mencionado em 20 avaliações"
+    },
+    {
+      "tag": "patrimônio mundial",
+      "count": 19,
+      "tooltip": "patrimônio mundial, mencionado em 19 avaliações"
+    },
+    {
+      "tag": "triste",
+      "count": 17,
+      "tooltip": "triste, mencionado em 17 avaliações"
+    },
+    {
+      "tag": "antepassados",
+      "count": 11,
+      "tooltip": "antepassados, mencionado em 11 avaliações"
+    },
+    {
+      "tag": "lugares de memória",
+      "count": 9,
+      "tooltip": "lugares de memória, mencionado em 9 avaliações"
+    },
+    {
+      "tag": "pedro ii",
+      "count": 7,
+      "tooltip": "pedro ii, mencionado em 7 avaliações"
+    },
+    {
+      "tag": "",
+      "count": 18116,
+      "tooltip": "1811, mencionado em 6 avaliações"
+    },
+    {
+      "tag": "",
+      "count": 18436,
+      "tooltip": "1843, mencionado em 6 avaliações"
+    },
+    {
+      "tag": "humanidade",
+      "count": 6,
+      "tooltip": "humanidade, mencionado em 6 avaliações"
+    }
+  ],
+  "featuredPhotos": [
+    "https://lh5.googleusercontent.com/p/AF1QipPMfSH45KzoNfYLq8HKI6g3gRosOnIBnJV0npDV=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOvJ_XR6ZlCaLGCmk6XgL8SdFAXTnfSHZOSMZ9A=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMl8TIVImnEhOYMXGfzucvEHd-ZCO0xuHlChGH7=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipN_ssR_mfwM0T1lnJRu8nqOL1eg8HQX1wQK0k_w=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNkabdibyDWvUjPSGE_VevX1ZseXmjT_sxz2HmH=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipON73HPUsoAOCrTgR0eDAPO7z15pxTmBBfqQSGO=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPd4iANLP91B5Zd71hBZ6l-r1PVaBXZWx8p1ry6=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMjKjJhH_gVNXqw1iXJtp24gYLqKda8EktKzkwK=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMfsSq-kU1a7iRp9ods_94x-s7p18kSJQS3V0jy=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipN_TwlyjhNC5_JhBW9kc6E-3W_IlQUYpVX8KEO3=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNuhdzZ8bI3MC38xl37VoY0_MjzR4Jd1ZMv658=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipO3EvRQqM20xtNrynR9Quaf2nIuSPlYN-GQFi1X=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOJp3DZomrAcgzevAgPEh1MkQ6_ee2xvfZMrFkO=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNV_VHyHNdUgD2-_jhXwgtT6pFmx5CrwfClbIlv=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipO7wG8eXLab2kFHFW3oRIu6nNN57O_B_qcfuupN=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMtTzg0a_qAm38VOS3c6ptNxzCNdDyqTuiL7Vfv=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOWaWOHd_pHDxKr27N4VQL4HrdqFuxmt3lN5R2q=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMgmAqqwO2N-Q7jzshAlDZ_G_NWWBB2ekIyxv-B=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPgMT0ooMpK9LC6CeUqJNz1jWec68LUwNYLAukH=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipN2-iIQtZRj7zMKYzsTpIESloGrji2giReQWHEE=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPg-0-2Gw1mkZvFhLq4DGp-0VpbySMKvFGx0bz7=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMumy0og79h6HJLDremJ95ra6W4zSF-uISAYdIZ=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipM_zw-flO3NOEiiWxq--B_velgN1GK1ehcoHwtq=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNfrVtjXawgXvQt3OepzQ8BkAICn0BU8f8DXqQV=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPYr2EQx1XmtzQ5d4LZxp8bwIFUH2C5iRL3aLLC=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMo_VmVw2uG5xh0d8u3c1sT0_Xhwd3E3VXmI725=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOrdeSvseD3k4ic0W2a-r8DWtE1FT8mU5HREh2S=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMPworwR2ME4lLZoB3sQbfbbtJ5PrW6nJGAY0vA=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNGIWdWBNwP46TSMrz0VXRke65vb-olRGxs-QjA=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNYGPXAdvZZIQTavo-DLQisOmzHIndsScIjFxDg=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOPDB9M0bVll-sPJ9eHEEViYnBrBFy8vEZcJBoG=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPXPMSrJK49zdBKLJHBRiP78jeO45fjxhxa3e2_=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPNeOv0SKCC-Y56rl9epDJFRYM61-Pewoc_AQXm=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNXEwjQ221I_D4BcimhJ2ODD_nKOCMa84b0nLox=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNyCr40YQHEPoLpsQ6Ex5DK3gCisp0eOyqAlHLE=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipM94uwA2QQPyaAgwB6vtx1FgAs-VOeBQkivzFdT=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipN1cavRElHaX3GEmZMxcpO4VRXRn2pemu-A5lhg=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNybTS21W_sWDs5zV07i1yIsnHvB8f9re7Iij6L=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNq3E_akdeH6kRlTNDeLVUN64xCOC--6x1MCKo3=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOeiG-1BGwzck4Bc8G7viTYjQlTLva9doKEyWR9=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipN4rObXs26HggXCcFkCBfBgfN8fmtd-4z8v93Vd=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNT7vGbRWmQ86-89tmkxnN0ekzT7U6cqN-p8n2a=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPAWmulq7P-Xjpm-fELM-M9Izuojoa7MN-sLuZm=w1024-h576-k-no"
+  ],
+  "topComments": [
+    {
+      "author": "Rosangela Ramos",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucrOJY-TihxD59lI4RZPDwsaVQT0yGeugdF5id9v=w36-h36-p-c0x00000000-rp-mo-ba6-br100",
+      "comment": "Ponto importantíssimo  e histórico, com a finalidade  de concientizar sobre a nossa história,  triste , onde seres humanos eram negociado como uma mercadoria.Aqui era o desembarque  e comércio  de escravos. E importantíssimo ressaltar que  quando foi feito a obra do Porto Maravilha em 2011,foi redescoberto. O resgate da nossa história, a chegada  de navios, a chegada dos negros escravos, que além  de muito sofrimento,trouxe muita cultura ao nosso país.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Hendel Miranda",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucrArE1BR7oZJK2m_bDgrO2vqybQsMIPSbmZytP6UQ=w36-h36-p-c0x00000000-rp-mo-ba5-br100",
+      "comment": "Lindo lugar. Dá pra imaginar a época... É o lugar onde desembarcaram reis e rainhas do Brasil imperial. Tem placa informando os acontecimentos do local. Por lá também chegaram muitos escravos que eram vendidos pouco acima no jardim do valongo. Outro ponto que vale a pena ver. Há como perceber as partes mais antigas do cais e renovações para receber rainhas da época. E o mais incrível é que foi descoberto por acaso. Iriam realizar uma construção no local e o acharam. Mantiveram e montaram o ponto de visitações.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Jair Silva",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucqVBF5Wm_pJddMIONswHhXAOGPSTT49UPbzDmo_SLc=w36-h36-p-c0x00000000-rp-mo-ba3-br100",
+      "comment": "Local de grande importância histórica.  Deveria receber mais atenção das autoridades. Vale a pena ir com a presença de um guia especializado, ou com uma leitura prévia acerca desse atrativo histórico-cultural.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Alvaroluiz Silva Conceição",
+      "photoAuthor": "https://lh3.googleusercontent.com/a/AItbvmltUIUgjpXSbFnclr8fCshPQ5mW3lCq_k2WXYS4=w36-h36-p-c0x00000000-rp-mo-br100",
+      "comment": "Muito interessante conhecer a história do rio antigo.tour karioka top.",
+      "gradeComment": 5
+    },
+    {
+      "author": "leandro apicelo",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucpN64W03zNdkVRVry2VSTUZdLvRbTAlOUXisAW3bLk=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "Gente, local muuiiito histórico. Foi durante um tempo, a principal entrada de escravizados do Brasil, foi posteriormente foi reformado pra receber a então noiva de Dom Pedro II, e por isso também foi chamado de caís da imperatriz. Foi aterrado no início do século 20, pelo prefeito Pereira Passos, e depois  redescoberto nas obras do porto maravilha.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Jorge Marques",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucpjjyrn6tizK5T67OCm4tNPnWDAw2JUr_l8dRuviQ=w36-h36-p-c0x00000000-rp-mo-ba3-br100",
+      "comment": "É um sítio arqueológico muito importante para a nossa história que infelizmente a escravidão durou 400 anos!",
+      "gradeComment": 5
+    },
+    {
+      "author": "Wilson Servulo",
+      "photoAuthor": "https://lh3.googleusercontent.com/a/AItbvmlWIQEmx5mcoWrVEKtBwqWmSLq8GMrZmeMD8vg5=w36-h36-p-c0x00000000-rp-mo-ba6-br100",
+      "comment": "O Cais do Valongo é  uma construção do século XIX que serviu de local de desembarque para milhares de escravizados vindos da África e, após reformas,  em 1843, para recepcionar D. Tereza Cristina, futura esposa de D. Pedro II,foi renomeado Cais da Imperatriz. Recentemente,  em 2017 durante as obras de revitalização da zona portuária,  os dois Cais, sobrepostos, foram reencontrados. O IPHAN, junto com a Prefeitura, elaboraram um dossiê candidatando o local a Patrimônio Histórico da Humanidade,  título obtido em 2017, como único vestigio material da chegada dos escravizados da África nas Américas.",
+      "gradeComment": 3
+    },
+    {
+      "author": "Randal Adriano",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucozt-AgaoH-ZQemx9E09SdCGrfgSgNCkb_t42yP1A=w36-h36-p-c0x00000000-rp-mo-ba5-br100",
+      "comment": "Local de reflexão e imersão sobre um passado extremamente triste e vergonhoso para a história do Brasil. De importância ímpar para o entendimento da atual situação do negro carioca e brasileiro. É uma parte do circuito da História Africana no Rio de Janeiro.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Trilhas Turismo Trekking",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucrHl1mGN32ibSnHaf4q6fuBRSbkuGA0lUT5g7mqUus=w36-h36-p-c0x00000000-rp-mo-br100",
+      "comment": "Chamado de Pequena Africa, o local reconhecido pela UNESCO como Patrimônio da Humanidade, foi o local de Desembarque da Imperatriz Leopoldina Bourbon para se casar com o Imperador na época e também local de desembarque de escravos vindo da Africa, pois bem o lugar ta informado, lugar tranquilo paa se visitar e não á guias no local, área aberta visita qualquer dia e qualquer horário super recomendo.",
+      "gradeComment": 4
+    },
+    {
+      "author": "Everton Vedovato",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucqehjnbBW_o8Wx7gFHSntjLyUx9qr8DmgbL_DkaQQ=w36-h36-p-c0x00000000-rp-mo-ba3-br100",
+      "comment": "Histórico! Vale a visita para pensarmos na nossa realidade brasileira, com base no contexto das construções. Tudo isso para nós fazer refletir e evoluir como sociedade.",
+      "gradeComment": 4
+    }
+  ],
+  "peakHours": [
+    {
+      "Sunday": [
+        {
+          "hour": "00:00",
+          "percent": 8
+        },
+        {
+          "hour": "01:00",
+          "percent": 7
+        },
+        {
+          "hour": "02:00",
+          "percent": 7
+        },
+        {
+          "hour": "03:00",
+          "percent": 7
+        },
+        {
+          "hour": "04:00",
+          "percent": 9
+        },
+        {
+          "hour": "05:00",
+          "percent": 13
+        },
+        {
+          "hour": "06:00",
+          "percent": 18
+        },
+        {
+          "hour": "07:00",
+          "percent": 22
+        },
+        {
+          "hour": "08:00",
+          "percent": 29
+        },
+        {
+          "hour": "09:00",
+          "percent": 37
+        },
+        {
+          "hour": "10:00",
+          "percent": 46
+        },
+        {
+          "hour": "11:00",
+          "percent": 56
+        },
+        {
+          "hour": "12:00",
+          "percent": 65
+        },
+        {
+          "hour": "13:00",
+          "percent": 71
+        },
+        {
+          "hour": "14:00",
+          "percent": 74
+        },
+        {
+          "hour": "15:00",
+          "percent": 71
+        },
+        {
+          "hour": "16:00",
+          "percent": 65
+        },
+        {
+          "hour": "17:00",
+          "percent": 54
+        },
+        {
+          "hour": "18:00",
+          "percent": 42
+        },
+        {
+          "hour": "19:00",
+          "percent": 30
+        },
+        {
+          "hour": "20:00",
+          "percent": 18
+        },
+        {
+          "hour": "21:00",
+          "percent": 10
+        },
+        {
+          "hour": "22:00",
+          "percent": 5
+        },
+        {
+          "hour": "23:00",
+          "percent": 2
+        }
+      ]
+    },
+    {
+      "Monday": [
+        {
+          "hour": "00:00",
+          "percent": 1
+        },
+        {
+          "hour": "01:00",
+          "percent": 2
+        },
+        {
+          "hour": "02:00",
+          "percent": 4
+        },
+        {
+          "hour": "03:00",
+          "percent": 6
+        },
+        {
+          "hour": "04:00",
+          "percent": 1
+        },
+        {
+          "hour": "06:00",
+          "percent": 3
+        },
+        {
+          "hour": "07:00",
+          "percent": 6
+        },
+        {
+          "hour": "08:00",
+          "percent": 8
+        },
+        {
+          "hour": "09:00",
+          "percent": 10
+        },
+        {
+          "hour": "10:00",
+          "percent": 12
+        },
+        {
+          "hour": "11:00",
+          "percent": 12
+        },
+        {
+          "hour": "12:00",
+          "percent": 12
+        },
+        {
+          "hour": "13:00",
+          "percent": 12
+        },
+        {
+          "hour": "14:00",
+          "percent": 10
+        },
+        {
+          "hour": "15:00",
+          "percent": 8
+        },
+        {
+          "hour": "16:00",
+          "percent": 21
+        },
+        {
+          "hour": "17:00",
+          "percent": 88
+        },
+        {
+          "hour": "18:00",
+          "percent": 56
+        },
+        {
+          "hour": "19:00",
+          "percent": 11
+        },
+        {
+          "hour": "20:00",
+          "percent": 15
+        },
+        {
+          "hour": "21:00",
+          "percent": 21
+        },
+        {
+          "hour": "22:00",
+          "percent": 18
+        },
+        {
+          "hour": "23:00",
+          "percent": 7
+        }
+      ]
+    },
+    {
+      "Tuesday": [
+        {
+          "hour": "00:00",
+          "percent": 1
+        },
+        {
+          "hour": "01:00",
+          "percent": 1
+        },
+        {
+          "hour": "02:00",
+          "percent": 1
+        },
+        {
+          "hour": "03:00",
+          "percent": 1
+        },
+        {
+          "hour": "04:00",
+          "percent": 1
+        },
+        {
+          "hour": "05:00",
+          "percent": 4
+        },
+        {
+          "hour": "06:00",
+          "percent": 10
+        },
+        {
+          "hour": "07:00",
+          "percent": 5
+        },
+        {
+          "hour": "08:00",
+          "percent": 6
+        },
+        {
+          "hour": "09:00",
+          "percent": 19
+        },
+        {
+          "hour": "10:00",
+          "percent": 28
+        },
+        {
+          "hour": "11:00",
+          "percent": 25
+        },
+        {
+          "hour": "12:00",
+          "percent": 25
+        },
+        {
+          "hour": "13:00",
+          "percent": 29
+        },
+        {
+          "hour": "14:00",
+          "percent": 35
+        },
+        {
+          "hour": "15:00",
+          "percent": 39
+        },
+        {
+          "hour": "16:00",
+          "percent": 40
+        },
+        {
+          "hour": "17:00",
+          "percent": 37
+        },
+        {
+          "hour": "18:00",
+          "percent": 33
+        },
+        {
+          "hour": "19:00",
+          "percent": 26
+        },
+        {
+          "hour": "20:00",
+          "percent": 18
+        },
+        {
+          "hour": "21:00",
+          "percent": 11
+        },
+        {
+          "hour": "22:00",
+          "percent": 4
+        },
+        {
+          "hour": "23:00",
+          "percent": 1
+        }
+      ]
+    },
+    {
+      "Wednesday": [
+        {
+          "hour": "00:00",
+          "percent": 1
+        },
+        {
+          "hour": "01:00",
+          "percent": 1
+        },
+        {
+          "hour": "02:00",
+          "percent": 1
+        },
+        {
+          "hour": "03:00",
+          "percent": 1
+        },
+        {
+          "hour": "05:00",
+          "percent": 2
+        },
+        {
+          "hour": "06:00",
+          "percent": 3
+        },
+        {
+          "hour": "07:00",
+          "percent": 6
+        },
+        {
+          "hour": "08:00",
+          "percent": 10
+        },
+        {
+          "hour": "09:00",
+          "percent": 15
+        },
+        {
+          "hour": "10:00",
+          "percent": 21
+        },
+        {
+          "hour": "11:00",
+          "percent": 28
+        },
+        {
+          "hour": "12:00",
+          "percent": 33
+        },
+        {
+          "hour": "13:00",
+          "percent": 36
+        },
+        {
+          "hour": "14:00",
+          "percent": 37
+        },
+        {
+          "hour": "15:00",
+          "percent": 36
+        },
+        {
+          "hour": "16:00",
+          "percent": 35
+        },
+        {
+          "hour": "17:00",
+          "percent": 36
+        },
+        {
+          "hour": "18:00",
+          "percent": 38
+        },
+        {
+          "hour": "19:00",
+          "percent": 40
+        },
+        {
+          "hour": "20:00",
+          "percent": 40
+        },
+        {
+          "hour": "21:00",
+          "percent": 34
+        },
+        {
+          "hour": "22:00",
+          "percent": 24
+        },
+        {
+          "hour": "23:00",
+          "percent": 14
+        }
+      ]
+    },
+    {
+      "Thursday": [
+        {
+          "hour": "00:00",
+          "percent": 6
+        },
+        {
+          "hour": "01:00",
+          "percent": 2
+        },
+        {
+          "hour": "03:00",
+          "percent": 1
+        },
+        {
+          "hour": "04:00",
+          "percent": 1
+        },
+        {
+          "hour": "05:00",
+          "percent": 3
+        },
+        {
+          "hour": "06:00",
+          "percent": 8
+        },
+        {
+          "hour": "07:00",
+          "percent": 13
+        },
+        {
+          "hour": "08:00",
+          "percent": 18
+        },
+        {
+          "hour": "09:00",
+          "percent": 22
+        },
+        {
+          "hour": "10:00",
+          "percent": 25
+        },
+        {
+          "hour": "11:00",
+          "percent": 28
+        },
+        {
+          "hour": "12:00",
+          "percent": 29
+        },
+        {
+          "hour": "13:00",
+          "percent": 31
+        },
+        {
+          "hour": "14:00",
+          "percent": 34
+        },
+        {
+          "hour": "15:00",
+          "percent": 37
+        },
+        {
+          "hour": "16:00",
+          "percent": 40
+        },
+        {
+          "hour": "17:00",
+          "percent": 42
+        },
+        {
+          "hour": "18:00",
+          "percent": 40
+        },
+        {
+          "hour": "19:00",
+          "percent": 35
+        },
+        {
+          "hour": "20:00",
+          "percent": 26
+        },
+        {
+          "hour": "21:00",
+          "percent": 17
+        },
+        {
+          "hour": "22:00",
+          "percent": 7
+        }
+      ]
+    },
+    {
+      "Friday": []
+    },
+    {
+      "Saturday": [
+        {
+          "hour": "00:00",
+          "percent": 37
+        },
+        {
+          "hour": "01:00",
+          "percent": 18
+        },
+        {
+          "hour": "02:00",
+          "percent": 5
+        },
+        {
+          "hour": "03:00",
+          "percent": 1
+        },
+        {
+          "hour": "04:00",
+          "percent": 7
+        },
+        {
+          "hour": "05:00",
+          "percent": 7
+        },
+        {
+          "hour": "06:00",
+          "percent": 7
+        },
+        {
+          "hour": "07:00",
+          "percent": 9
+        },
+        {
+          "hour": "08:00",
+          "percent": 13
+        },
+        {
+          "hour": "09:00",
+          "percent": 32
+        },
+        {
+          "hour": "10:00",
+          "percent": 69
+        },
+        {
+          "hour": "11:00",
+          "percent": 100
+        },
+        {
+          "hour": "12:00",
+          "percent": 93
+        },
+        {
+          "hour": "13:00",
+          "percent": 68
+        },
+        {
+          "hour": "14:00",
+          "percent": 53
+        },
+        {
+          "hour": "15:00",
+          "percent": 52
+        },
+        {
+          "hour": "16:00",
+          "percent": 50
+        },
+        {
+          "hour": "17:00",
+          "percent": 45
+        },
+        {
+          "hour": "18:00",
+          "percent": 37
+        },
+        {
+          "hour": "19:00",
+          "percent": 27
+        },
+        {
+          "hour": "20:00",
+          "percent": 18
+        },
+        {
+          "hour": "21:00",
+          "percent": 13
+        },
+        {
+          "hour": "22:00",
+          "percent": 10
+        },
+        {
+          "hour": "23:00",
+          "percent": 9
+        }
+      ]
+    }
+  ],
+  "relatedSearches": [
+    "cais do valongo hoje",
+    "cais do valongo antes e depois",
+    "cais do valongo resumo",
+    "cais do valongo escravos",
+    "cais do valongo antigamente",
+    "cais do valongo fotos",
+    "onde está localizado o cais do valongo",
+    "cais do valongo unesco"
+  ],
+  "relateds": [
+    {
+      "mainName": "Instituto de Pesquisa e Memória Pretos Novos",
+      "url": null
+    },
+    {
+      "mainName": "Pedra do Sal",
+      "url": null
+    },
+    {
+      "mainName": "Jardim Suspenso do Valongo",
+      "url": null
+    },
+    {
+      "mainName": "Centro Cultural José Bonifácio",
+      "url": null
+    },
+    {
+      "mainName": "Praça dos Estivadores",
+      "url": null
+    },
+    {
+      "mainName": "Praça Mauá",
+      "url": null
+    },
+    {
+      "mainName": "Morro da Conceicao",
+      "url": null
+    },
+    {
+      "mainName": "MUHCAB - Museu da História e Cultura Afro-Brasileira",
+      "url": null
+    },
+    {
+      "mainName": "Praça São Francisco",
+      "url": null
+    },
+    {
+      "mainName": "Conjunto Arquitetônico da Pampulha",
+      "url": null
+    },
+    {
+      "mainName": "Museu do Amanhã",
+      "url": null
+    },
+    {
+      "mainName": "Centro Histórico de Olinda",
+      "url": null
+    },
+    {
+      "mainName": "Atol das Rocas",
+      "url": null
+    },
+    {
+      "mainName": "Parque Nacional das Emas (ICMBio-Instituto Chico Mendes de Conservação da Biodiversidade)",
+      "url": null
+    },
+    {
+      "mainName": "São Miguel das Missões",
+      "url": null
+    },
+    {
+      "mainName": "Parque Nacional do Jaú",
+      "url": null
+    },
+    {
+      "mainName": "Santuário do Senhor Bom Jesus de Matosinhos - Patrimônio Mundial",
+      "url": null
+    },
+    {
+      "mainName": "Laboratório Aberto de Arqueologia Urbana",
+      "url": null
+    },
+    {
+      "mainName": "Museu de Arte do Rio",
+      "url": null
+    },
+    {
+      "mainName": "Praça XV de Novembro",
+      "url": null
+    },
+    {
+      "mainName": "Parque Nacional da Serra da Capivara",
+      "url": null
+    },
+    {
+      "mainName": "Centro Histórico - UNESCO",
+      "url": null
+    },
+    {
+      "mainName": "Ruinas de Nuestra Señora de Loreto",
+      "url": null
+    }
+  ]
+}

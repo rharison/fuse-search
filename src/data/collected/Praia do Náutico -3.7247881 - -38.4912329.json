@@ -1,0 +1,911 @@
+{
+  "mainName": "Praia do Náutico",
+  "slug": "praia-do-nautico",
+  "category": "Praia",
+  "locationInformation": {
+    "latitude": "-3.7247881",
+    "longitude": "-38.4912329"
+  },
+  "basicInformation": [
+    {
+      "label": "endereço",
+      "tooltip": "Copiar endereço",
+      "text": "Av. Beira Mar, 3301-3399 - Meireles, Fortaleza - CE, 60165-121",
+      "icon": "https://www.gstatic.com/images/icons/material/system_gm/1x/place_gm_blue_24dp.png"
+    }
+  ],
+  "ratingInformation": {
+    "basicRatingInformation": {
+      "averageGrade": 4.5,
+      "totalOfEvaluations": 741
+    },
+    "ratingsByGrade": [
+      {
+        "grade": 5,
+        "totalRatings": 478
+      },
+      {
+        "grade": 4,
+        "totalRatings": 179
+      },
+      {
+        "grade": 3,
+        "totalRatings": 65
+      },
+      {
+        "grade": 2,
+        "totalRatings": 9
+      },
+      {
+        "grade": 1,
+        "totalRatings": 10
+      }
+    ]
+  },
+  "ratingTags": [
+    {
+      "tag": "barracas",
+      "count": 23,
+      "tooltip": "barracas, mencionado em 23 avaliações"
+    },
+    {
+      "tag": "banho",
+      "count": 19,
+      "tooltip": "banho, mencionado em 19 avaliações"
+    },
+    {
+      "tag": "passeio",
+      "count": 15,
+      "tooltip": "passeio, mencionado em 15 avaliações"
+    },
+    {
+      "tag": "comida",
+      "count": 10,
+      "tooltip": "comida, mencionado em 10 avaliações"
+    },
+    {
+      "tag": "preços",
+      "count": 10,
+      "tooltip": "preços, mencionado em 10 avaliações"
+    },
+    {
+      "tag": "noite",
+      "count": 8,
+      "tooltip": "noite, mencionado em 8 avaliações"
+    },
+    {
+      "tag": "por do sol",
+      "count": 8,
+      "tooltip": "por do sol, mencionado em 8 avaliações"
+    },
+    {
+      "tag": "ambulantes",
+      "count": 5,
+      "tooltip": "ambulantes, mencionado em 5 avaliações"
+    },
+    {
+      "tag": "calmo",
+      "count": 4,
+      "tooltip": "calmo, mencionado em 4 avaliações"
+    },
+    {
+      "tag": "corrida",
+      "count": 4,
+      "tooltip": "corrida, mencionado em 4 avaliações"
+    }
+  ],
+  "featuredPhotos": [
+    "https://lh5.googleusercontent.com/p/AF1QipOk0b_BwIYcrs4-dhqLg3a8iuKoiISIBE-6RMQv=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOiEr997wSbOAcULNIldGNlIP6Ha5wy5JQ8QFFv=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipN5AN-IrX6H6I5Zvk4NAs49Opdqq42k2VgFPvCK=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNxELIlchHDKe1vznmUuy9ldAw7mvSLbdtPAHze=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipN3tfMMg-xBvBouMQJAaMjBOTglsq-HV48pm06m=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipN6BErGTerSvvByUaLe2Ev3DnSV75azcPZqFGx-=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPiBmpQEcA-mWqqK3wi1jyWxwQoZUdUktuFI6xJ=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMmzisHnlg0-piEDs8L0NsqudAv5VmWwAhCdIil=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOVdR_Ko98aWP_ME-iX_WKs5fJ8lpa-OiH4y4mA=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNJAwZrNwVK8VLnsxRWLo0_cgOzm9VO2Z8qPgnB=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNlXAon8-VprYdANnd9EE5wWJ2Eqd1ouBezQRGd=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOAlZwLxVbp-a3oW_OC2wuU9w_dV87a9ucLDSM3=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPWbTrTxxA2OIzk-ltmD6vdxvTGN_UACWmV6_01=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPkqZGuTC4zpUqEJ48mrh-BDTLRT-cjyERQhtBe=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipN-EJxz86Sc2CfiVhYaWGxxitmRwB6H9SCT0Kz3=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNIz6uewRN-dSij6GJ6bdPxdk-siL8LIu8y4wET=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOli_OLxMmG_5MqBX_J_RhhWxbOezGmnObPWtWx=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNtuiL_kiYAAuI_FlAr_2eUuvltPkz4zM6rxxM=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOiW5ONMQzEWxHVV-vWpr6UZYsjE7L30wPA3Qpx=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMmKWduMw84lrvhSL2uVBmlr0Oi34hMiiZlyRY=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPjGWDmxhjPfP-d0NRcU58ufuUDv5sTsxzHUkfd=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNwRtY0jDt8HGWfocGAMyFxNfVWnVlX-e0o7sfN=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNfP6uV3HKwt3TCKMtqfcuDSJOrt9SOWD-bzYt3=w1024-h576-k-no"
+  ],
+  "topComments": [
+    {
+      "author": "Matheus Macedo",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucrcrWJC0EiTgA3MrJPaSlCRn8yL-d85684tPe2pGg=w36-h36-p-c0x00000000-rp-mo-ba2-br100",
+      "comment": "O melhor point para o por do sol de Fortaleza. Só digo uma coisa, se você ainda não teve a experiência de contemplar a beleza do nosso por do sol, não deixe de ir. Simplesmente magnífico.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Jamille Soares",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZuco4kDX_lIT87J8Ahj4uJnPPE5ingqXGKFSVtB9nw6c=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "Ótimo para tomar banho! Mar calmo,sem ondas, raros ambulantes. O ideal é levar guarda sol, cadeirinha, pois a área de sombra é longe do mar e as barracas são muito lotadas!",
+      "gradeComment": 5
+    },
+    {
+      "author": "Apolinario Ap",
+      "photoAuthor": "https://lh3.googleusercontent.com/a/AItbvmnxTrIgfStQSqv5m5NyyCeegHFZ3h-tApfboS5N=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "É uma praia excelente muito bem estruturada, foi reformada e inaugurada a pouco tempo e está linda.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Edson Lima",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucq9E-UDhushS_Y-MAvGxQjHkgW79NP6Vq3MIuwh_go=w36-h36-p-c0x00000000-rp-mo-ba6-br100",
+      "comment": "Fortaleza, principalmente aqueles que visitam a cidade pela primeira vez – é onde fica a “Praia do Náutico”, a “Praia da Beira Mar” e a “Praia do Meireles”. Na verdade, essas três praias são a mesma, os nomes que variam de acordo com o ponto em que você se localiza  Praia do Náutico se deu por um histórico clube que tem também no bairro e que virou ponto de referência para quem chegava por aqui.  Aqui você encontrará atrações mais para o período da noite do que para o dia. Se quiser aproveitar o sol, dá para fazer aquela caminhada no calçadão da Avenida Beira Mar, que começa no final da  Praia de Iracema e vai até Mercado dos Peixes de Fortaleza São poucos mais de 3 quilômetros, mas se você não tem aquele pique para caminhar, não se preocupe porque vai passear de ponta a ponta sem nem perceber. Feirinha de artesanato Você encontra produtos de madeira, roupas, calçados, bijuterias, artigos para enfeitar casa, comidas típicas e tudo mais.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Daiane Brito",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucqdWb3ZviXi2gOynWpeZLhivFqRHIL_4qpOC9ckE8k=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "Lugar cheio de pessoas praticando esportes, caminhada, vôlei, corrida, dança e tantas outras coisas que deixam o lugar cheio de vida.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Maria Luiza Quinderé",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucqvbAwTqTynpJ1XXPrD2MaD3pQCNuoim_wK85tgqDQ=w36-h36-p-c0x00000000-rp-mo-ba6-br100",
+      "comment": "O banho de mar é maravilhoso e a vista é um espetáculo! Muito bom!!!",
+      "gradeComment": 5
+    },
+    {
+      "author": "Marian0jr Jr (_Nan0.•′•.)",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucojv-7AIO0wavKJ1IFxuly5qtFKnt61-Fp_7zBpeoA=w36-h36-p-c0x00000000-rp-mo-ba3-br100",
+      "comment": "Seja para ver o nascer só sol o estar lá ao poente é bem satisfatório pois a segurança é bem reforçada é bem frequentada e super agradável para um passeio!",
+      "gradeComment": 4
+    },
+    {
+      "author": "Igor Ferreira",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucpjZKuoZt325I4-VKynFbOHymny7KkHn6O7UcVI=w36-h36-p-c0x00000000-rp-mo-ba2-br100",
+      "comment": "muito top.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Professor Santino",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucqn7oE6_3sTmietVWtO8UwQlWYkrfgwpzMdBRapLA=w36-h36-p-c0x00000000-rp-mo-ba6-br100",
+      "comment": "Melhor localização de Fortaleza para turistas. Há muitas barracas, várias opções de comida boa e bebidas geladas. Passar por Fortaleza é andar pelo náutico. A feirinha também é incrível!",
+      "gradeComment": 5
+    },
+    {
+      "author": "Lucas Felipe",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZuco1egdyODbsKC1174PdcpIaFXsnu6bApQABCQO35g=w36-h36-p-c0x00000000-rp-mo-ba3-br100",
+      "comment": "Umas das melhores partes da beira-mar de Fortaleza!",
+      "gradeComment": 5
+    }
+  ],
+  "peakHours": [
+    {
+      "Sunday": [
+        {
+          "hour": "06:00",
+          "percent": 6
+        },
+        {
+          "hour": "07:00",
+          "percent": 15
+        },
+        {
+          "hour": "08:00",
+          "percent": 29
+        },
+        {
+          "hour": "09:00",
+          "percent": 50
+        },
+        {
+          "hour": "10:00",
+          "percent": 73
+        },
+        {
+          "hour": "11:00",
+          "percent": 92
+        },
+        {
+          "hour": "12:00",
+          "percent": 100
+        },
+        {
+          "hour": "13:00",
+          "percent": 96
+        },
+        {
+          "hour": "14:00",
+          "percent": 82
+        },
+        {
+          "hour": "15:00",
+          "percent": 64
+        },
+        {
+          "hour": "16:00",
+          "percent": 46
+        },
+        {
+          "hour": "17:00",
+          "percent": 34
+        },
+        {
+          "hour": "18:00",
+          "percent": 25
+        },
+        {
+          "hour": "19:00",
+          "percent": 20
+        },
+        {
+          "hour": "20:00",
+          "percent": 15
+        },
+        {
+          "hour": "21:00",
+          "percent": 10
+        },
+        {
+          "hour": "22:00",
+          "percent": 7
+        },
+        {
+          "hour": "23:00",
+          "percent": 6
+        },
+        {
+          "hour": "00:00",
+          "percent": 3
+        },
+        {
+          "hour": "01:00",
+          "percent": 1
+        },
+        {
+          "hour": "02:00",
+          "percent": 1
+        },
+        {
+          "hour": "03:00",
+          "percent": 1
+        }
+      ]
+    },
+    {
+      "Monday": [
+        {
+          "hour": "05:00",
+          "percent": 1
+        },
+        {
+          "hour": "06:00",
+          "percent": 1
+        },
+        {
+          "hour": "08:00",
+          "percent": 4
+        },
+        {
+          "hour": "09:00",
+          "percent": 9
+        },
+        {
+          "hour": "10:00",
+          "percent": 15
+        },
+        {
+          "hour": "11:00",
+          "percent": 23
+        },
+        {
+          "hour": "12:00",
+          "percent": 31
+        },
+        {
+          "hour": "13:00",
+          "percent": 37
+        },
+        {
+          "hour": "14:00",
+          "percent": 40
+        },
+        {
+          "hour": "15:00",
+          "percent": 40
+        },
+        {
+          "hour": "16:00",
+          "percent": 37
+        },
+        {
+          "hour": "17:00",
+          "percent": 31
+        },
+        {
+          "hour": "18:00",
+          "percent": 23
+        },
+        {
+          "hour": "19:00",
+          "percent": 17
+        },
+        {
+          "hour": "20:00",
+          "percent": 9
+        },
+        {
+          "hour": "21:00",
+          "percent": 4
+        },
+        {
+          "hour": "00:00",
+          "percent": 1
+        }
+      ]
+    },
+    {
+      "Tuesday": [
+        {
+          "hour": "05:00",
+          "percent": 1
+        },
+        {
+          "hour": "06:00",
+          "percent": 1
+        },
+        {
+          "hour": "07:00",
+          "percent": 3
+        },
+        {
+          "hour": "08:00",
+          "percent": 4
+        },
+        {
+          "hour": "09:00",
+          "percent": 6
+        },
+        {
+          "hour": "10:00",
+          "percent": 7
+        },
+        {
+          "hour": "11:00",
+          "percent": 10
+        },
+        {
+          "hour": "12:00",
+          "percent": 10
+        },
+        {
+          "hour": "13:00",
+          "percent": 12
+        },
+        {
+          "hour": "14:00",
+          "percent": 12
+        },
+        {
+          "hour": "15:00",
+          "percent": 12
+        },
+        {
+          "hour": "16:00",
+          "percent": 14
+        },
+        {
+          "hour": "17:00",
+          "percent": 17
+        },
+        {
+          "hour": "18:00",
+          "percent": 18
+        },
+        {
+          "hour": "19:00",
+          "percent": 18
+        },
+        {
+          "hour": "20:00",
+          "percent": 15
+        },
+        {
+          "hour": "21:00",
+          "percent": 10
+        },
+        {
+          "hour": "22:00",
+          "percent": 6
+        },
+        {
+          "hour": "23:00",
+          "percent": 1
+        }
+      ]
+    },
+    {
+      "Wednesday": [
+        {
+          "hour": "06:00",
+          "percent": 1
+        },
+        {
+          "hour": "07:00",
+          "percent": 1
+        },
+        {
+          "hour": "08:00",
+          "percent": 4
+        },
+        {
+          "hour": "09:00",
+          "percent": 9
+        },
+        {
+          "hour": "10:00",
+          "percent": 14
+        },
+        {
+          "hour": "11:00",
+          "percent": 20
+        },
+        {
+          "hour": "12:00",
+          "percent": 23
+        },
+        {
+          "hour": "13:00",
+          "percent": 25
+        },
+        {
+          "hour": "14:00",
+          "percent": 23
+        },
+        {
+          "hour": "15:00",
+          "percent": 20
+        },
+        {
+          "hour": "16:00",
+          "percent": 17
+        },
+        {
+          "hour": "17:00",
+          "percent": 14
+        },
+        {
+          "hour": "18:00",
+          "percent": 12
+        },
+        {
+          "hour": "19:00",
+          "percent": 10
+        },
+        {
+          "hour": "20:00",
+          "percent": 9
+        },
+        {
+          "hour": "21:00",
+          "percent": 7
+        },
+        {
+          "hour": "22:00",
+          "percent": 4
+        },
+        {
+          "hour": "00:00",
+          "percent": 1
+        },
+        {
+          "hour": "01:00",
+          "percent": 1
+        },
+        {
+          "hour": "02:00",
+          "percent": 1
+        }
+      ]
+    },
+    {
+      "Thursday": [
+        {
+          "hour": "05:00",
+          "percent": 1
+        },
+        {
+          "hour": "06:00",
+          "percent": 1
+        },
+        {
+          "hour": "07:00",
+          "percent": 1
+        },
+        {
+          "hour": "08:00",
+          "percent": 3
+        },
+        {
+          "hour": "09:00",
+          "percent": 10
+        },
+        {
+          "hour": "10:00",
+          "percent": 12
+        },
+        {
+          "hour": "11:00",
+          "percent": 4
+        },
+        {
+          "hour": "12:00",
+          "percent": 1
+        },
+        {
+          "hour": "13:00",
+          "percent": 1
+        },
+        {
+          "hour": "14:00",
+          "percent": 1
+        },
+        {
+          "hour": "15:00",
+          "percent": 1
+        },
+        {
+          "hour": "16:00",
+          "percent": 1
+        },
+        {
+          "hour": "17:00",
+          "percent": 3
+        },
+        {
+          "hour": "18:00",
+          "percent": 3
+        },
+        {
+          "hour": "19:00",
+          "percent": 4
+        },
+        {
+          "hour": "20:00",
+          "percent": 4
+        },
+        {
+          "hour": "21:00",
+          "percent": 4
+        },
+        {
+          "hour": "22:00",
+          "percent": 4
+        },
+        {
+          "hour": "23:00",
+          "percent": 4
+        },
+        {
+          "hour": "00:00",
+          "percent": 4
+        },
+        {
+          "hour": "01:00",
+          "percent": 3
+        },
+        {
+          "hour": "02:00",
+          "percent": 3
+        },
+        {
+          "hour": "03:00",
+          "percent": 1
+        }
+      ]
+    },
+    {
+      "Friday": [
+        {
+          "hour": "04:00",
+          "percent": 4
+        },
+        {
+          "hour": "05:00",
+          "percent": 6
+        },
+        {
+          "hour": "06:00",
+          "percent": 7
+        },
+        {
+          "hour": "07:00",
+          "percent": 9
+        },
+        {
+          "hour": "08:00",
+          "percent": 10
+        },
+        {
+          "hour": "09:00",
+          "percent": 12
+        },
+        {
+          "hour": "10:00",
+          "percent": 14
+        },
+        {
+          "hour": "11:00",
+          "percent": 14
+        },
+        {
+          "hour": "12:00",
+          "percent": 15
+        },
+        {
+          "hour": "13:00",
+          "percent": 17
+        },
+        {
+          "hour": "14:00",
+          "percent": 18
+        },
+        {
+          "hour": "15:00",
+          "percent": 18
+        },
+        {
+          "hour": "16:00",
+          "percent": 18
+        },
+        {
+          "hour": "17:00",
+          "percent": 17
+        },
+        {
+          "hour": "18:00",
+          "percent": 15
+        },
+        {
+          "hour": "19:00",
+          "percent": 12
+        },
+        {
+          "hour": "20:00",
+          "percent": 10
+        },
+        {
+          "hour": "21:00",
+          "percent": 7
+        },
+        {
+          "hour": "22:00",
+          "percent": 6
+        },
+        {
+          "hour": "23:00",
+          "percent": 4
+        },
+        {
+          "hour": "00:00",
+          "percent": 3
+        },
+        {
+          "hour": "01:00",
+          "percent": 3
+        },
+        {
+          "hour": "02:00",
+          "percent": 3
+        },
+        {
+          "hour": "03:00",
+          "percent": 3
+        }
+      ]
+    },
+    {
+      "Saturday": [
+        {
+          "hour": "04:00",
+          "percent": 1
+        },
+        {
+          "hour": "05:00",
+          "percent": 1
+        },
+        {
+          "hour": "06:00",
+          "percent": 1
+        },
+        {
+          "hour": "07:00",
+          "percent": 4
+        },
+        {
+          "hour": "08:00",
+          "percent": 7
+        },
+        {
+          "hour": "09:00",
+          "percent": 12
+        },
+        {
+          "hour": "10:00",
+          "percent": 18
+        },
+        {
+          "hour": "11:00",
+          "percent": 26
+        },
+        {
+          "hour": "12:00",
+          "percent": 35
+        },
+        {
+          "hour": "13:00",
+          "percent": 46
+        },
+        {
+          "hour": "14:00",
+          "percent": 54
+        },
+        {
+          "hour": "15:00",
+          "percent": 54
+        },
+        {
+          "hour": "16:00",
+          "percent": 50
+        },
+        {
+          "hour": "17:00",
+          "percent": 39
+        },
+        {
+          "hour": "18:00",
+          "percent": 28
+        },
+        {
+          "hour": "19:00",
+          "percent": 21
+        },
+        {
+          "hour": "20:00",
+          "percent": 17
+        },
+        {
+          "hour": "21:00",
+          "percent": 14
+        },
+        {
+          "hour": "22:00",
+          "percent": 9
+        },
+        {
+          "hour": "23:00",
+          "percent": 3
+        },
+        {
+          "hour": "00:00",
+          "percent": 1
+        },
+        {
+          "hour": "01:00",
+          "percent": 1
+        },
+        {
+          "hour": "02:00",
+          "percent": 1
+        }
+      ]
+    }
+  ],
+  "relatedSearches": [
+    "praia do náutico onde fica",
+    "praia do futuro",
+    "praia de iracema",
+    "náutico",
+    "náutico praia clube caldas novas",
+    "telefone do náutico clube",
+    "náutico praia clube telefone",
+    "cupom de desconto náutico praia clube"
+  ],
+  "relateds": [
+    {
+      "mainName": "Espigão do Náutico",
+      "url": null
+    },
+    {
+      "mainName": "Espigão da João Cordeiro",
+      "url": null
+    },
+    {
+      "mainName": "Praia do Meireles",
+      "url": null
+    },
+    {
+      "mainName": "Interceptor Oceânico",
+      "url": null
+    },
+    {
+      "mainName": "Praia de Iracema",
+      "url": null
+    },
+    {
+      "mainName": "Feirinha Beira Mar",
+      "url": null
+    },
+    {
+      "mainName": "Priaia da Volta da Jurema",
+      "url": null
+    },
+    {
+      "mainName": "Estação Mucuripe",
+      "url": null
+    },
+    {
+      "mainName": "Beira Mar de Fortaleza",
+      "url": null
+    },
+    {
+      "mainName": "Praia de Sabiaguaba",
+      "url": null
+    },
+    {
+      "mainName": "Praia do Futuro",
+      "url": null
+    },
+    {
+      "mainName": "Jardim Japonês",
+      "url": null
+    },
+    {
+      "mainName": "Praia do Poço da Draga",
+      "url": null
+    },
+    {
+      "mainName": "Praia da Barra do Ceará",
+      "url": null
+    },
+    {
+      "mainName": "Ponte do Ingleses",
+      "url": null
+    },
+    {
+      "mainName": "Praça Terminal Papicu",
+      "url": null
+    },
+    {
+      "mainName": "Ponte dos Ingleses",
+      "url": null
+    },
+    {
+      "mainName": "Aterro da Praia de Iracema",
+      "url": null
+    },
+    {
+      "mainName": "Mercado Central de Fortaleza",
+      "url": null
+    },
+    {
+      "mainName": "Terminal Rodoviário Eng. João Thomé",
+      "url": null
+    },
+    {
+      "mainName": "Praia de Flexeiras",
+      "url": null
+    },
+    {
+      "mainName": "Centro Dragão do Mar de Arte e Cultura",
+      "url": null
+    },
+    {
+      "mainName": "Praia de Cumbuco",
+      "url": null
+    }
+  ],
+  "editMode": false
+}

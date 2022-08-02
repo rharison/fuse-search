@@ -1,0 +1,612 @@
+{
+  "mainName": "Parque das Garças",
+  "slug": "parque-das-garcas",
+  "category": "Parque",
+  "locationInformation": {
+    "latitude": "-15.7714764",
+    "longitude": "-47.8329699"
+  },
+  "basicInformation": [
+    {
+      "label": "endereço",
+      "tooltip": "Copiar endereço",
+      "text": "St. de Habitações Individuais Norte QL 15 - Lago Norte, Brasília - DF, 71535-295",
+      "icon": "https://www.gstatic.com/images/icons/material/system_gm/1x/place_gm_blue_24dp.png"
+    },
+    {
+      "label": "website",
+      "tooltip": "Abrir website",
+      "text": "wikimapia.org",
+      "icon": "https://www.gstatic.com/images/icons/material/system_gm/1x/public_gm_blue_24dp.png"
+    },
+    {
+      "label": "Code",
+      "tooltip": "Copiar Plus Code",
+      "text": "65H8+CR Lago Norte, Brasília - DF",
+      "icon": "https://maps.gstatic.com/mapfiles/maps_lite/images/2x/ic_plus_code.png"
+    }
+  ],
+  "ratingInformation": {
+    "basicRatingInformation": {
+      "averageGrade": 4.6,
+      "totalOfEvaluations": 1739
+    },
+    "ratingsByGrade": [
+      {
+        "grade": 5,
+        "totalRatings": 1275
+      },
+      {
+        "grade": 4,
+        "totalRatings": 316
+      },
+      {
+        "grade": 3,
+        "totalRatings": 113
+      },
+      {
+        "grade": 2,
+        "totalRatings": 19
+      },
+      {
+        "grade": 1,
+        "totalRatings": 16
+      }
+    ]
+  },
+  "ratingTags": [
+    {
+      "tag": "lago",
+      "count": 111,
+      "tooltip": "lago, mencionado em 111 avaliações"
+    },
+    {
+      "tag": "banho",
+      "count": 52,
+      "tooltip": "banho, mencionado em 52 avaliações"
+    },
+    {
+      "tag": "pôr do sol",
+      "count": 39,
+      "tooltip": "pôr do sol, mencionado em 39 avaliações"
+    },
+    {
+      "tag": "infraestrutura",
+      "count": 30,
+      "tooltip": "infraestrutura, mencionado em 30 avaliações"
+    },
+    {
+      "tag": "caiaque",
+      "count": 22,
+      "tooltip": "caiaque, mencionado em 22 avaliações"
+    },
+    {
+      "tag": "lazer",
+      "count": 20,
+      "tooltip": "lazer, mencionado em 20 avaliações"
+    },
+    {
+      "tag": "passeio",
+      "count": 18,
+      "tooltip": "passeio, mencionado em 18 avaliações"
+    },
+    {
+      "tag": "mergulho",
+      "count": 9,
+      "tooltip": "mergulho, mencionado em 9 avaliações"
+    },
+    {
+      "tag": "bebedouros",
+      "count": 7,
+      "tooltip": "bebedouros, mencionado em 7 avaliações"
+    },
+    {
+      "tag": "stand up",
+      "count": 6,
+      "tooltip": "stand up, mencionado em 6 avaliações"
+    }
+  ],
+  "featuredPhotos": [
+    "https://lh5.googleusercontent.com/p/AF1QipMqgdVwnoAVacZYWQwCRRuyl-OtTfB4Xwi9cILk=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNv82xNs2LHX8PYaZWlqZquJr1dASJOvwjv6d5h=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOacKZaUl3Kq8vqcRA2FtpXammeUlBAjSUlUrJd=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNSb7JdBcjIQ9tkuT_cIqJa-WkyjZZQTqCauofO=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPOBs_Fe8OYFuGu6CJ6PDzo8dayAk8pz7sgXGPI=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNHB1yFQF4gj-2CRd0KomzuwB6rq1lggsKjsR1I=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMQBiLcJjQdWcZx_tKnFdeV_WLbrjBQW2r5v-hk=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPPUaJUaRzmFKRTWRMIZp5nIsKTap3O2jwYpaMt=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipP6zTtnrzwr2iL8US_SMPJCoZ29nqGXYl0ZU9hH=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMM7ac8CtYdW73wxeRgpx8hp9NckcDafJQErdtQ=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPH-DLnnhtf4J7MXHdJT7-_WhzZBx05q7fnKQ33=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMces3oywPQjQ73zEnLXzIX_dsdde_IUBB0Da4=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOGWalHxANbQozblhufeY6Y4P2FIkOunxZ3vj7J=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOxU3tVrhIiBI_ROssWD-pMgAzSBYddzgHubM0g=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPVdGm9V58pTnjsqTeJRe2QfsVwK1XlkLUBs4Gx=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNLyHk7h2y15b-EXy9DFCpBwUggibF864XJsuSV=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNlMI0eCDe3w5mtn6p1Cch-vQFdld05NUKgDgiA=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPnX_0HJ4optU57EVP_orw-jyGis9L3HJQtTVCx=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOJHm1FzrSsMMqoz_EHO4bloNG6xj6H9EfeZONB=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNZDW3VPwfDw_MusmUHmWj5mgAEf0cLLS13HvjU=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPO_CJ3ucdTTavxOUjxafeG813WQobrxweCGaMN=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOZz4voj-FTRDTJhV1nlhE8XiZE1WBY3r39uzNR=w1024-h576-k-no"
+  ],
+  "topComments": null,
+  "peakHours": [
+    {
+      "Sunday": [
+        {
+          "hour": "06:00",
+          "percent": 7
+        },
+        {
+          "hour": "07:00",
+          "percent": 15
+        },
+        {
+          "hour": "08:00",
+          "percent": 26
+        },
+        {
+          "hour": "09:00",
+          "percent": 37
+        },
+        {
+          "hour": "10:00",
+          "percent": 45
+        },
+        {
+          "hour": "11:00",
+          "percent": 47
+        },
+        {
+          "hour": "12:00",
+          "percent": 45
+        },
+        {
+          "hour": "13:00",
+          "percent": 45
+        },
+        {
+          "hour": "14:00",
+          "percent": 58
+        },
+        {
+          "hour": "15:00",
+          "percent": 84
+        },
+        {
+          "hour": "16:00",
+          "percent": 100
+        },
+        {
+          "hour": "17:00",
+          "percent": 85
+        },
+        {
+          "hour": "18:00",
+          "percent": 50
+        },
+        {
+          "hour": "19:00",
+          "percent": 21
+        }
+      ]
+    },
+    {
+      "Monday": [
+        {
+          "hour": "06:00",
+          "percent": 1
+        },
+        {
+          "hour": "07:00",
+          "percent": 3
+        },
+        {
+          "hour": "08:00",
+          "percent": 5
+        },
+        {
+          "hour": "09:00",
+          "percent": 7
+        },
+        {
+          "hour": "10:00",
+          "percent": 7
+        },
+        {
+          "hour": "11:00",
+          "percent": 6
+        },
+        {
+          "hour": "12:00",
+          "percent": 5
+        },
+        {
+          "hour": "13:00",
+          "percent": 4
+        },
+        {
+          "hour": "14:00",
+          "percent": 9
+        },
+        {
+          "hour": "15:00",
+          "percent": 19
+        },
+        {
+          "hour": "16:00",
+          "percent": 23
+        },
+        {
+          "hour": "17:00",
+          "percent": 14
+        },
+        {
+          "hour": "18:00",
+          "percent": 4
+        },
+        {
+          "hour": "19:00",
+          "percent": 1
+        }
+      ]
+    },
+    {
+      "Tuesday": [
+        {
+          "hour": "06:00",
+          "percent": 1
+        },
+        {
+          "hour": "07:00",
+          "percent": 3
+        },
+        {
+          "hour": "08:00",
+          "percent": 5
+        },
+        {
+          "hour": "09:00",
+          "percent": 7
+        },
+        {
+          "hour": "10:00",
+          "percent": 8
+        },
+        {
+          "hour": "11:00",
+          "percent": 8
+        },
+        {
+          "hour": "12:00",
+          "percent": 8
+        },
+        {
+          "hour": "13:00",
+          "percent": 7
+        },
+        {
+          "hour": "14:00",
+          "percent": 8
+        },
+        {
+          "hour": "15:00",
+          "percent": 15
+        },
+        {
+          "hour": "16:00",
+          "percent": 22
+        },
+        {
+          "hour": "17:00",
+          "percent": 17
+        },
+        {
+          "hour": "18:00",
+          "percent": 6
+        },
+        {
+          "hour": "19:00",
+          "percent": 1
+        }
+      ]
+    },
+    {
+      "Wednesday": [
+        {
+          "hour": "06:00",
+          "percent": 1
+        },
+        {
+          "hour": "07:00",
+          "percent": 4
+        },
+        {
+          "hour": "08:00",
+          "percent": 8
+        },
+        {
+          "hour": "09:00",
+          "percent": 12
+        },
+        {
+          "hour": "10:00",
+          "percent": 15
+        },
+        {
+          "hour": "11:00",
+          "percent": 15
+        },
+        {
+          "hour": "12:00",
+          "percent": 12
+        },
+        {
+          "hour": "13:00",
+          "percent": 8
+        },
+        {
+          "hour": "14:00",
+          "percent": 8
+        },
+        {
+          "hour": "15:00",
+          "percent": 15
+        },
+        {
+          "hour": "16:00",
+          "percent": 22
+        },
+        {
+          "hour": "17:00",
+          "percent": 20
+        },
+        {
+          "hour": "18:00",
+          "percent": 9
+        },
+        {
+          "hour": "19:00",
+          "percent": 1
+        }
+      ]
+    },
+    {
+      "Thursday": [
+        {
+          "hour": "07:00",
+          "percent": 2
+        },
+        {
+          "hour": "08:00",
+          "percent": 5
+        },
+        {
+          "hour": "09:00",
+          "percent": 9
+        },
+        {
+          "hour": "10:00",
+          "percent": 13
+        },
+        {
+          "hour": "11:00",
+          "percent": 15
+        },
+        {
+          "hour": "12:00",
+          "percent": 17
+        },
+        {
+          "hour": "13:00",
+          "percent": 17
+        },
+        {
+          "hour": "14:00",
+          "percent": 19
+        },
+        {
+          "hour": "15:00",
+          "percent": 26
+        },
+        {
+          "hour": "16:00",
+          "percent": 32
+        },
+        {
+          "hour": "17:00",
+          "percent": 26
+        },
+        {
+          "hour": "18:00",
+          "percent": 12
+        },
+        {
+          "hour": "19:00",
+          "percent": 3
+        }
+      ]
+    },
+    {
+      "Friday": [
+        {
+          "hour": "06:00",
+          "percent": 1
+        },
+        {
+          "hour": "07:00",
+          "percent": 4
+        },
+        {
+          "hour": "08:00",
+          "percent": 8
+        },
+        {
+          "hour": "09:00",
+          "percent": 11
+        },
+        {
+          "hour": "10:00",
+          "percent": 13
+        },
+        {
+          "hour": "11:00",
+          "percent": 12
+        },
+        {
+          "hour": "12:00",
+          "percent": 10
+        },
+        {
+          "hour": "13:00",
+          "percent": 10
+        },
+        {
+          "hour": "14:00",
+          "percent": 13
+        },
+        {
+          "hour": "15:00",
+          "percent": 21
+        },
+        {
+          "hour": "16:00",
+          "percent": 26
+        },
+        {
+          "hour": "17:00",
+          "percent": 21
+        },
+        {
+          "hour": "18:00",
+          "percent": 11
+        },
+        {
+          "hour": "19:00",
+          "percent": 3
+        }
+      ]
+    },
+    {
+      "Saturday": [
+        {
+          "hour": "07:00",
+          "percent": 4
+        },
+        {
+          "hour": "08:00",
+          "percent": 10
+        },
+        {
+          "hour": "09:00",
+          "percent": 18
+        },
+        {
+          "hour": "10:00",
+          "percent": 28
+        },
+        {
+          "hour": "11:00",
+          "percent": 34
+        },
+        {
+          "hour": "12:00",
+          "percent": 34
+        },
+        {
+          "hour": "13:00",
+          "percent": 30
+        },
+        {
+          "hour": "14:00",
+          "percent": 29
+        },
+        {
+          "hour": "15:00",
+          "percent": 38
+        },
+        {
+          "hour": "16:00",
+          "percent": 50
+        },
+        {
+          "hour": "17:00",
+          "percent": 44
+        },
+        {
+          "hour": "18:00",
+          "percent": 23
+        },
+        {
+          "hour": "19:00",
+          "percent": 8
+        }
+      ]
+    }
+  ],
+  "relatedSearches": [
+    "parque das garças alvarenga",
+    "onde fica parque das garças",
+    "parque das garças está aberto",
+    "parque das garças cemitério",
+    "telefone do cemitério parque das garças",
+    "parque das garças são bernardo do campo",
+    "parque das garças lago norte",
+    "parque das garças belém"
+  ],
+  "relateds": [
+    {
+      "mainName": "Parque Ecológico Península Sul",
+      "url": null
+    },
+    {
+      "mainName": "Parque Ecológico Dom Bosco",
+      "url": null
+    },
+    {
+      "mainName": "Parque Olhos D'Água",
+      "url": null
+    },
+    {
+      "mainName": "Prainha Lago Norte",
+      "url": null
+    },
+    {
+      "mainName": "Parque Vivencial do Lago Norte",
+      "url": null
+    },
+    {
+      "mainName": "Parque Nacional de Brasília",
+      "url": null
+    },
+    {
+      "mainName": "Container In Natura Convenience - Parque da Cidade",
+      "url": null
+    },
+    {
+      "mainName": "Ermida Dom Bosco",
+      "url": null
+    },
+    {
+      "mainName": "Lago Paranoá",
+      "url": null
+    },
+    {
+      "mainName": "Ponte Juscelino Kubitschek",
+      "url": null
+    },
+    {
+      "mainName": "Pontão do Lago Sul",
+      "url": null
+    },
+    {
+      "mainName": "Jardim Botânico de Brasília",
+      "url": null
+    },
+    {
+      "mainName": "Palácio da Alvorada",
+      "url": null
+    }
+  ]
+}

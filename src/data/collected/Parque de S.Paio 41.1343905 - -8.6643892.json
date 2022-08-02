@@ -1,0 +1,849 @@
+{
+  "mainName": "Parque de S.Paio",
+  "slug": "parque-de-s.paio",
+  "category": "Parque municipal",
+  "locationInformation": {
+    "latitude": "41.1343905",
+    "longitude": "-8.6643892"
+  },
+  "basicInformation": [
+    {
+      "label": "endereço",
+      "tooltip": "Copiar endereço",
+      "text": "R. Areias do Cabedelo, 4400-369 Vila Nova de Gaia, Portugal",
+      "icon": "https://www.gstatic.com/images/icons/material/system_gm/1x/place_gm_blue_24dp.png"
+    },
+    {
+      "label": "Code",
+      "tooltip": "Copiar Plus Code",
+      "text": "48MP+Q6 Vila Nova de Gaia, Portugal",
+      "icon": "https://maps.gstatic.com/mapfiles/maps_lite/images/2x/ic_plus_code.png"
+    },
+    {
+      "label": "merchant",
+      "text": "Reivindicar esta empresa",
+      "icon": "https://www.gstatic.com/images/icons/material/system_gm/1x/verified_user_gm_blue_24dp.png"
+    }
+  ],
+  "ratingInformation": {
+    "basicRatingInformation": {
+      "averageGrade": 4.4,
+      "totalOfEvaluations": 119
+    },
+    "ratingsByGrade": [
+      {
+        "grade": 5,
+        "totalRatings": 68
+      },
+      {
+        "grade": 4,
+        "totalRatings": 37
+      },
+      {
+        "grade": 3,
+        "totalRatings": 11
+      },
+      {
+        "grade": 2,
+        "totalRatings": 2
+      },
+      {
+        "grade": 1,
+        "totalRatings": 1
+      }
+    ]
+  },
+  "ratingTags": [
+    {
+      "tag": "passeio",
+      "count": 5,
+      "tooltip": "passeio, mencionado em 5 avaliações"
+    },
+    {
+      "tag": "caminhadas",
+      "count": 5,
+      "tooltip": "caminhadas, mencionado em 5 avaliações"
+    },
+    {
+      "tag": "área",
+      "count": 4,
+      "tooltip": "área, mencionado em 4 avaliações"
+    },
+    {
+      "tag": "rio",
+      "count": 3,
+      "tooltip": "rio, mencionado em 3 avaliações"
+    },
+    {
+      "tag": "estacionamento",
+      "count": 3,
+      "tooltip": "estacionamento, mencionado em 3 avaliações"
+    }
+  ],
+  "featuredPhotos": [
+    "https://lh5.googleusercontent.com/p/AF1QipPXEJ0dlfjauYGUr3NBdr420LLlEYbHqfbetmV5=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMs8XIPWNfTnZRzbshrljtE2GuLa4WlHv34MFWJ=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipP9oblwSpvdnrDGmXx4IE7sTBVHM1XW5IlQBS_D=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMkhXqO2-ClgBfH5u6IjFsVyLlZ4yCB9ir5X3h3=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNvUvamxq4oFw3LqriKT4tHvyngvpU6MN_lBbqN=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOn_TDtktUChE7uNU6jrQZ9Bp-iDxtau8fYTs09=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOgEbBZm5KIz7jTqYABQ_BJbsmCQfEotw12SusS=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOHgqd1u8gcWCDa3xDi8_yDaOA4w67Aog10cIpZ=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMHDwPgls3DAaxwH7-jR63YA0FS0ag32GUg0Suf=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipM3mb2oAl6Pt90GvI9K3YQSxK78sFVqICrz0z-7=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPzOm1Gen0QdrJ-ug3dk7hD-3faQTjhQIInU6LP=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMMiTYqR0T20WkIeE3ibWdoOAkqsfAbG-XqEqnv=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOrBnfaeTqRA6q1vqDDd9Kf9wYQVmvV9MqbvAV-=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipM4M4u4qSGAt-JNrHoaoTB-h-hws-XaYlpJuIeL=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOdqyRxgPCf1x5K6hynBqL-P3DOtgkpmH-iDh7Q=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNcMAbk9J63Fy9Nv25M84bCOXolDTsjMzKWMQzY=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNlPlkUFELEfy5bGYQRQKCnukrjc1w31TgBD6p5=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMEvyD4clHy2-epPyatXK6XXprqWmv_MX-dMxs3=w1024-h576-k-no"
+  ],
+  "topComments": null,
+  "peakHours": [
+    {
+      "Sunday": [
+        {
+          "hour": "04:00",
+          "percent": 1
+        },
+        {
+          "hour": "05:00",
+          "percent": 4
+        },
+        {
+          "hour": "06:00",
+          "percent": 6
+        },
+        {
+          "hour": "07:00",
+          "percent": 13
+        },
+        {
+          "hour": "08:00",
+          "percent": 22
+        },
+        {
+          "hour": "09:00",
+          "percent": 30
+        },
+        {
+          "hour": "10:00",
+          "percent": 36
+        },
+        {
+          "hour": "11:00",
+          "percent": 37
+        },
+        {
+          "hour": "12:00",
+          "percent": 34
+        },
+        {
+          "hour": "13:00",
+          "percent": 33
+        },
+        {
+          "hour": "14:00",
+          "percent": 43
+        },
+        {
+          "hour": "15:00",
+          "percent": 66
+        },
+        {
+          "hour": "16:00",
+          "percent": 93
+        },
+        {
+          "hour": "17:00",
+          "percent": 100
+        },
+        {
+          "hour": "18:00",
+          "percent": 80
+        },
+        {
+          "hour": "19:00",
+          "percent": 47
+        },
+        {
+          "hour": "20:00",
+          "percent": 20
+        },
+        {
+          "hour": "21:00",
+          "percent": 6
+        },
+        {
+          "hour": "22:00",
+          "percent": 1
+        },
+        {
+          "hour": "23:00",
+          "percent": 1
+        },
+        {
+          "hour": "00:00",
+          "percent": 1
+        },
+        {
+          "hour": "01:00",
+          "percent": 1
+        },
+        {
+          "hour": "02:00",
+          "percent": 1
+        },
+        {
+          "hour": "03:00",
+          "percent": 1
+        }
+      ]
+    },
+    {
+      "Monday": [
+        {
+          "hour": "04:00",
+          "percent": 1
+        },
+        {
+          "hour": "05:00",
+          "percent": 1
+        },
+        {
+          "hour": "06:00",
+          "percent": 1
+        },
+        {
+          "hour": "07:00",
+          "percent": 2
+        },
+        {
+          "hour": "08:00",
+          "percent": 11
+        },
+        {
+          "hour": "09:00",
+          "percent": 16
+        },
+        {
+          "hour": "10:00",
+          "percent": 18
+        },
+        {
+          "hour": "11:00",
+          "percent": 15
+        },
+        {
+          "hour": "12:00",
+          "percent": 8
+        },
+        {
+          "hour": "13:00",
+          "percent": 4
+        },
+        {
+          "hour": "14:00",
+          "percent": 6
+        },
+        {
+          "hour": "15:00",
+          "percent": 18
+        },
+        {
+          "hour": "16:00",
+          "percent": 29
+        },
+        {
+          "hour": "17:00",
+          "percent": 27
+        },
+        {
+          "hour": "18:00",
+          "percent": 13
+        },
+        {
+          "hour": "19:00",
+          "percent": 1
+        },
+        {
+          "hour": "20:00",
+          "percent": 1
+        },
+        {
+          "hour": "21:00",
+          "percent": 1
+        },
+        {
+          "hour": "22:00",
+          "percent": 1
+        },
+        {
+          "hour": "23:00",
+          "percent": 1
+        },
+        {
+          "hour": "00:00",
+          "percent": 1
+        },
+        {
+          "hour": "01:00",
+          "percent": 1
+        },
+        {
+          "hour": "02:00",
+          "percent": 1
+        },
+        {
+          "hour": "03:00",
+          "percent": 1
+        }
+      ]
+    },
+    {
+      "Tuesday": [
+        {
+          "hour": "04:00",
+          "percent": 1
+        },
+        {
+          "hour": "05:00",
+          "percent": 1
+        },
+        {
+          "hour": "06:00",
+          "percent": 1
+        },
+        {
+          "hour": "07:00",
+          "percent": 4
+        },
+        {
+          "hour": "08:00",
+          "percent": 16
+        },
+        {
+          "hour": "09:00",
+          "percent": 29
+        },
+        {
+          "hour": "10:00",
+          "percent": 33
+        },
+        {
+          "hour": "11:00",
+          "percent": 29
+        },
+        {
+          "hour": "12:00",
+          "percent": 20
+        },
+        {
+          "hour": "13:00",
+          "percent": 13
+        },
+        {
+          "hour": "14:00",
+          "percent": 13
+        },
+        {
+          "hour": "15:00",
+          "percent": 19
+        },
+        {
+          "hour": "16:00",
+          "percent": 29
+        },
+        {
+          "hour": "17:00",
+          "percent": 33
+        },
+        {
+          "hour": "18:00",
+          "percent": 31
+        },
+        {
+          "hour": "19:00",
+          "percent": 26
+        },
+        {
+          "hour": "20:00",
+          "percent": 18
+        },
+        {
+          "hour": "21:00",
+          "percent": 12
+        },
+        {
+          "hour": "22:00",
+          "percent": 8
+        },
+        {
+          "hour": "00:00",
+          "percent": 2
+        },
+        {
+          "hour": "01:00",
+          "percent": 1
+        },
+        {
+          "hour": "02:00",
+          "percent": 1
+        },
+        {
+          "hour": "03:00",
+          "percent": 1
+        }
+      ]
+    },
+    {
+      "Wednesday": [
+        {
+          "hour": "04:00",
+          "percent": 1
+        },
+        {
+          "hour": "05:00",
+          "percent": 1
+        },
+        {
+          "hour": "06:00",
+          "percent": 1
+        },
+        {
+          "hour": "07:00",
+          "percent": 1
+        },
+        {
+          "hour": "08:00",
+          "percent": 11
+        },
+        {
+          "hour": "09:00",
+          "percent": 19
+        },
+        {
+          "hour": "10:00",
+          "percent": 25
+        },
+        {
+          "hour": "11:00",
+          "percent": 23
+        },
+        {
+          "hour": "12:00",
+          "percent": 18
+        },
+        {
+          "hour": "13:00",
+          "percent": 15
+        },
+        {
+          "hour": "14:00",
+          "percent": 16
+        },
+        {
+          "hour": "15:00",
+          "percent": 19
+        },
+        {
+          "hour": "16:00",
+          "percent": 22
+        },
+        {
+          "hour": "17:00",
+          "percent": 23
+        },
+        {
+          "hour": "18:00",
+          "percent": 20
+        },
+        {
+          "hour": "19:00",
+          "percent": 18
+        },
+        {
+          "hour": "20:00",
+          "percent": 13
+        },
+        {
+          "hour": "21:00",
+          "percent": 11
+        },
+        {
+          "hour": "22:00",
+          "percent": 9
+        },
+        {
+          "hour": "23:00",
+          "percent": 6
+        },
+        {
+          "hour": "00:00",
+          "percent": 4
+        },
+        {
+          "hour": "01:00",
+          "percent": 1
+        },
+        {
+          "hour": "02:00",
+          "percent": 1
+        },
+        {
+          "hour": "03:00",
+          "percent": 1
+        }
+      ]
+    },
+    {
+      "Thursday": [
+        {
+          "hour": "04:00",
+          "percent": 1
+        },
+        {
+          "hour": "05:00",
+          "percent": 1
+        },
+        {
+          "hour": "06:00",
+          "percent": 1
+        },
+        {
+          "hour": "07:00",
+          "percent": 8
+        },
+        {
+          "hour": "08:00",
+          "percent": 16
+        },
+        {
+          "hour": "09:00",
+          "percent": 25
+        },
+        {
+          "hour": "10:00",
+          "percent": 31
+        },
+        {
+          "hour": "11:00",
+          "percent": 37
+        },
+        {
+          "hour": "12:00",
+          "percent": 38
+        },
+        {
+          "hour": "13:00",
+          "percent": 38
+        },
+        {
+          "hour": "14:00",
+          "percent": 38
+        },
+        {
+          "hour": "15:00",
+          "percent": 36
+        },
+        {
+          "hour": "16:00",
+          "percent": 34
+        },
+        {
+          "hour": "17:00",
+          "percent": 31
+        },
+        {
+          "hour": "18:00",
+          "percent": 29
+        },
+        {
+          "hour": "19:00",
+          "percent": 26
+        },
+        {
+          "hour": "20:00",
+          "percent": 22
+        },
+        {
+          "hour": "21:00",
+          "percent": 18
+        },
+        {
+          "hour": "22:00",
+          "percent": 12
+        },
+        {
+          "hour": "23:00",
+          "percent": 6
+        },
+        {
+          "hour": "00:00",
+          "percent": 1
+        },
+        {
+          "hour": "01:00",
+          "percent": 1
+        },
+        {
+          "hour": "02:00",
+          "percent": 1
+        },
+        {
+          "hour": "03:00",
+          "percent": 1
+        }
+      ]
+    },
+    {
+      "Friday": [
+        {
+          "hour": "04:00",
+          "percent": 1
+        },
+        {
+          "hour": "05:00",
+          "percent": 1
+        },
+        {
+          "hour": "06:00",
+          "percent": 1
+        },
+        {
+          "hour": "07:00",
+          "percent": 1
+        },
+        {
+          "hour": "08:00",
+          "percent": 5
+        },
+        {
+          "hour": "09:00",
+          "percent": 19
+        },
+        {
+          "hour": "10:00",
+          "percent": 29
+        },
+        {
+          "hour": "11:00",
+          "percent": 33
+        },
+        {
+          "hour": "12:00",
+          "percent": 33
+        },
+        {
+          "hour": "13:00",
+          "percent": 34
+        },
+        {
+          "hour": "14:00",
+          "percent": 38
+        },
+        {
+          "hour": "15:00",
+          "percent": 47
+        },
+        {
+          "hour": "16:00",
+          "percent": 51
+        },
+        {
+          "hour": "17:00",
+          "percent": 50
+        },
+        {
+          "hour": "18:00",
+          "percent": 41
+        },
+        {
+          "hour": "19:00",
+          "percent": 30
+        },
+        {
+          "hour": "20:00",
+          "percent": 20
+        },
+        {
+          "hour": "21:00",
+          "percent": 13
+        },
+        {
+          "hour": "22:00",
+          "percent": 12
+        },
+        {
+          "hour": "23:00",
+          "percent": 12
+        },
+        {
+          "hour": "00:00",
+          "percent": 11
+        },
+        {
+          "hour": "01:00",
+          "percent": 8
+        },
+        {
+          "hour": "02:00",
+          "percent": 4
+        },
+        {
+          "hour": "03:00",
+          "percent": 1
+        }
+      ]
+    },
+    {
+      "Saturday": [
+        {
+          "hour": "04:00",
+          "percent": 5
+        },
+        {
+          "hour": "05:00",
+          "percent": 2
+        },
+        {
+          "hour": "06:00",
+          "percent": 2
+        },
+        {
+          "hour": "07:00",
+          "percent": 5
+        },
+        {
+          "hour": "08:00",
+          "percent": 11
+        },
+        {
+          "hour": "09:00",
+          "percent": 19
+        },
+        {
+          "hour": "10:00",
+          "percent": 27
+        },
+        {
+          "hour": "11:00",
+          "percent": 33
+        },
+        {
+          "hour": "12:00",
+          "percent": 34
+        },
+        {
+          "hour": "13:00",
+          "percent": 37
+        },
+        {
+          "hour": "14:00",
+          "percent": 43
+        },
+        {
+          "hour": "15:00",
+          "percent": 58
+        },
+        {
+          "hour": "16:00",
+          "percent": 77
+        },
+        {
+          "hour": "17:00",
+          "percent": 90
+        },
+        {
+          "hour": "18:00",
+          "percent": 81
+        },
+        {
+          "hour": "19:00",
+          "percent": 62
+        },
+        {
+          "hour": "20:00",
+          "percent": 45
+        },
+        {
+          "hour": "21:00",
+          "percent": 37
+        },
+        {
+          "hour": "22:00",
+          "percent": 34
+        },
+        {
+          "hour": "23:00",
+          "percent": 33
+        },
+        {
+          "hour": "00:00",
+          "percent": 29
+        },
+        {
+          "hour": "01:00",
+          "percent": 23
+        },
+        {
+          "hour": "02:00",
+          "percent": 18
+        },
+        {
+          "hour": "03:00",
+          "percent": 11
+        }
+      ]
+    }
+  ],
+  "relatedSearches": null,
+  "relateds": [
+    {
+      "mainName": "Reserva Natural Local do Estuário do Douro",
+      "url": null
+    },
+    {
+      "mainName": "Antiga Seca do Bacalhau",
+      "url": null
+    },
+    {
+      "mainName": "Parque Basílio Teles",
+      "url": null
+    },
+    {
+      "mainName": "Miradouro do Estuário do Douro",
+      "url": null
+    },
+    {
+      "mainName": "Jardim do Passeio Alegre",
+      "url": null
+    },
+    {
+      "mainName": "Praia de Lavadores",
+      "url": null
+    },
+    {
+      "mainName": "Parque Biológico de Gaia",
+      "url": null
+    },
+    {
+      "mainName": "Parque Urbano da Pasteleira",
+      "url": null
+    },
+    {
+      "mainName": "Parque da Cidade do Porto",
+      "url": null
+    },
+    {
+      "mainName": "Praia de Salgueiros",
+      "url": null
+    },
+    {
+      "mainName": "Cabedelo do Douro",
+      "url": null
+    }
+  ]
+}

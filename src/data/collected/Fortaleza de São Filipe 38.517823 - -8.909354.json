@@ -1,0 +1,613 @@
+{
+  "mainName": "Fortaleza de São Filipe",
+  "slug": "forte-de-sao-filipe",
+  "category": "Castelo",
+  "locationInformation": {
+    "latitude": "38.517823",
+    "longitude": "-8.909354"
+  },
+  "basicInformation": [
+    {
+      "label": "endereço",
+      "tooltip": "Copiar endereço",
+      "text": "Estr. do Castelo de São Filipe, 2900-300 Setúbal, Portugal",
+      "icon": "https://www.gstatic.com/images/icons/material/system_gm/1x/place_gm_blue_24dp.png"
+    },
+    {
+      "label": "telefone",
+      "tooltip": "Copiar número de telefone",
+      "text": "+351 265 545 010",
+      "icon": "https://www.gstatic.com/images/icons/material/system_gm/1x/phone_gm_blue_24dp.png"
+    },
+    {
+      "label": "Code",
+      "tooltip": "Copiar Plus Code",
+      "text": "G39R+47 Setúbal, Portugal",
+      "icon": "https://maps.gstatic.com/mapfiles/maps_lite/images/2x/ic_plus_code.png"
+    }
+  ],
+  "ratingInformation": {
+    "basicRatingInformation": {
+      "averageGrade": 4.6,
+      "totalOfEvaluations": 5272
+    },
+    "ratingsByGrade": [
+      {
+        "grade": 5,
+        "totalRatings": 3683
+      },
+      {
+        "grade": 4,
+        "totalRatings": 1327
+      },
+      {
+        "grade": 3,
+        "totalRatings": 207
+      },
+      {
+        "grade": 2,
+        "totalRatings": 26
+      },
+      {
+        "grade": 1,
+        "totalRatings": 29
+      }
+    ]
+  },
+  "ratingTags": [
+    {
+      "tag": "bar",
+      "count": 122,
+      "tooltip": "bar, mencionado em 122 avaliações"
+    },
+    {
+      "tag": "baía",
+      "count": 52,
+      "tooltip": "baía, mencionado em 52 avaliações"
+    },
+    {
+      "tag": "azulejos",
+      "count": 38,
+      "tooltip": "azulejos, mencionado em 38 avaliações"
+    },
+    {
+      "tag": "vista fantástica",
+      "count": 24,
+      "tooltip": "vista fantástica, mencionado em 24 avaliações"
+    },
+    {
+      "tag": "pousada",
+      "count": 23,
+      "tooltip": "pousada, mencionado em 23 avaliações"
+    },
+    {
+      "tag": "estuário",
+      "count": 12,
+      "tooltip": "estuário, mencionado em 12 avaliações"
+    },
+    {
+      "tag": "filipe ii de espanha",
+      "count": 11,
+      "tooltip": "filipe ii de espanha, mencionado em 11 avaliações"
+    },
+    {
+      "tag": "a capela",
+      "count": 9,
+      "tooltip": "a capela, mencionado em 9 avaliações"
+    },
+    {
+      "tag": "",
+      "count": 15828,
+      "tooltip": "1582, mencionado em 8 avaliações"
+    },
+    {
+      "tag": "história de portugal",
+      "count": 8,
+      "tooltip": "história de portugal, mencionado em 8 avaliações"
+    }
+  ],
+  "featuredPhotos": [
+    "https://lh5.googleusercontent.com/p/AF1QipPI0coGb0IkcpGQIBkRNb1F5WxJHHDSHu0k8XkZ=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPwlX8rYiUInMqCx7zvUyMs0wp8wUDJb7CX1pSQ=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOPmUttBX8gbqzGkTz0tyaC9ygGjReGgi96zYgQ=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMyaYOYpr4KAG15DP3_c2ln9KX2QPobzVAfjEF-=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOKrt7lg4h_YewTiEwO_0qxwQCHW5pbvA5OlWG7=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOMZUdKkOjN6KdtINIfGDKMX-hmPc0DDvA8DZX2=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMixT-HXSm69EIaQTx1NUsaXCKy4IS73RWoBfCV=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNAyGsIIarPT_cc7rmyIZqKKBb6mZ6gbJ9PL0_f=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNyp8ncNJHVSRim4kHZtgFamLMLs9KdxPjryRBL=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipO6-gDhmLMvtFd500fb9KPOpjv_Fx3Mtp5XH9vi=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipO7jd69Oexm4SZvNCwXWFLB-Fy0pnSvolBU35lF=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOoVPali5gudafQuo0Rwv23JvRgLuYtN7D5XTiG=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOEjZ5w6FB_Skh2r_9gxXSMaVrGhBblrMAlEyXK=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNaCzW-pzHV0vwa4x8Iq4n--jkJaGWSYyYc2KVH=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPebOCZHQEr7GIt-oulzZpTiENtdhU1CJNsQOsL=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNxPm59gndmcMb_01wrMr4fWoGtD45ioTT-Fu1b=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOoqeuNM4_bAV9umi69RemAMHHowexjtfdW3y-m=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipML4B0ONSeulJbHTJ2H_ecOpzonfDrrwLCrfetj=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOIVM_3FLmdgbMLSR5iruxzHaKiB4R0O9N0Eolg=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMFoE-skA9PBBqpRgNY95uGm2DKiAT_zXVvnD3G=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNDLlgQ66gFnM7ofQT-_NZub9iT3JOfxwdajQ-T=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPGk2v5_HLlPtpyP9duP_dlROfpRPPavxZNmz-2=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipN6gUQw_tTIkqz2vpf_0TnrTPs6qtBL_YTCCVHI=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMn3mj8hCWvdSnG_4j32oOxtCafQeOX6aWsgnpJ=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPTa-yP0cFlEwUeaUe-QVZ9J8RTORfClZo1qLtm=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMd4ihx8JYeUbiIGXrUNSQWvuuLl1ANPK1EipkU=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMvJBuMca_-XeS1bBw5z2lm3zQceeAlQuHc2msJ=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMA6C664BN-LrGIKD4sYp1l1YjVDyC2u2jO5LGr=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPbSLiiKD-5_qLUqehaE4UhhvhBYSUpmD58aDcV=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPXjeIOf3r0tIph_Qeoyg5R46MHhDr7H1jsHN5N=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPjCCDH4xAjyDXlQ67EgEE6Gq0Y5NTiHxf40S_O=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNcmMielYtEvvLKXGe6xz9tyM2lkq4TCl3RfRj2=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMri4ndthg5kyYpp_TjhO-bwv63V5Grxl2uOp1m=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMcqsnmZrcFceT6359FwJ0YD-wdVlYYxj8g5avP=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipN2Rzw3H5FnDzw0_ZgX8SB9XHj9RzlRONvs0Y7t=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMGEm6OHIOOC2yjD52ELNG9PaHwVKgPD8PdMCXM=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPl-ce9F5T5uOIe8pklWxgnnMjHgJykTJPF2f3r=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMT7hqQprpwRanlOveB5p0HjsRtf6zPRs2eLKKD=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipO7Ugrn6vxzaCl5Xdh_G8GfuVz0Gx0QSEuNGj30=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipN453mi4Sd0O2OBnekEyaSpulppD1LVdeaaCzgW=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNDwI96qnCMNLyyfpZ6p-mUkbksLfGFEsrMkfVh=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNIw14hx3mZxv5ytcILsqLSJEnEWKsEo4U9yZVZ=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPH2L1K7q2DZZb8vGd-LBC3uhhNCAK16qKkDvKT=w1024-h576-k-no"
+  ],
+  "topComments": [
+    {
+      "author": "Vivian Alves",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucoEFyp72PKaIxJS0S616B5q7GInHl8Y7M9BknvUJoA=w36-h36-p-c0x00000000-rp-mo-ba5-br100",
+      "comment": "Nas alturas de Setúbal, encontra-se esse precioso Forte. Para mim o que tem de especial é a linda vista para o mar, onde é possível avistar Tróia e muitos sítios de Setúbal. Dentro do Forte você também pode visitar uma capela com o interior bem conservado. Na entrada do Forte, há uma TV que conta a sua história. No entanto, nem sempre ela está ligada (depende de sorte). O Forte tem horários diferentes de fechamento, conforme a estação do ano. Vale a pena também visitar o café, degustar qualquer coisa com aquela vista e frescor maravilhoso (isso na primavera e verão). A entrada no Forte é gratuita.",
+      "gradeComment": 4
+    },
+    {
+      "author": "Ricardo Rodrigues",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucpNtXMAirXQ0PbRjhhLRlDGp_AG94f4E57lw43A-A=w36-h36-p-c0x00000000-rp-mo-ba5-br100",
+      "comment": "O Forte de São Filipe é lindíssimo e a paisagem que o rodeia é deslumbrante. O acesso é fácil, assim como o estacionamento. Quando se entra no Forte entra-se noutro mundo e recua-se séculos no tempo! O Forte está muito bem conservado e mantido. A Pousada que lá está instalada é um verdadeiro charme, com salas lindíssimas, requinte e luxo. O bar da pousada é bastante bom, muito bem decorado e aconchegante, com funcionários simpáticos e acessíveis. A esplanada é muito agradável. A relação qualidade preço é boa, dado o contexto. Ainda não experimentei ficar hospedado, uma vez que resido não muito longe, mas está na lista de desejos.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Bucker Nunes",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucowBfYJKUJDyCn0EVQl2J4lJL_eKdLghro2LsqUKQ=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "Adorei o Castelo. Entrada gratuita, abre às 10h, vista linda de Setúbal, boa arquitetura medieval.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Cely M d Fonseca (CdF)",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucp6i6MJo6XKBg3jsxVk_C8isexz4sEqTWhT4H97OuQ=w36-h36-p-c0x00000000-rp-mo-ba6-br100",
+      "comment": "O forte de São Filipe mandado edificar por Filipe II em 1590, é um forte estrelado de grande volume e imponência. Tem anexa uma capela decorada com azulejos representando episódios da vida de São Filipe Das suas muralhas deslumbra-se uma arrebatadora vista sobre a cidade e a sua famosa baia (considerada uma das mais belas do mundo) assim como para a península de Tróia, e Arrábida. O local tem cafetaria – bar e posto de informação turística, e a entrada é livre",
+      "gradeComment": 5
+    },
+    {
+      "author": "Rogerio Vaz",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucq88jDqDsBfeWNrte5NEEB6YgjrFwVz0aYMVECo9A=w36-h36-p-c0x00000000-rp-mo-ba3-br100",
+      "comment": "História sensacional e vista espetacular. Construído por Rei Filipe de Espanha e conquistado posteriormente pelos Portugueses para formar a defesa da entrada da barra do rio Sado.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Phoenix Rising",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucpLSsob66hq2pJxZsFj5tnx0Si-nSdG6yUwkuE0=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "Um forte onde se vê Setúbal e troia por inteiro, vale mesmo apena a visita, muito recomendado.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Ema Azevedo",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucprPOGOJavW96-rRFFRExAZaLNVN4iXsQ9FEUXVCA=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "Vista espetacular sobre Setúbal, Tróia, baía do Sado e Serra da Arrábida. Tem uma capela forrada a azulejos lindíssima.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Cristina Veloso",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucqPG4-XrbdNZ9wT0UxfxBFAEZM1T4xMFv1w_NCKa1c=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "Mais um spot fantástico para passear e relaxar na esplanada com uma vista fantástica sobre Setúbal e Tróia. O serviço disponível para refeições é bar/cafetaria.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Pedro Araujo",
+      "photoAuthor": "https://lh3.googleusercontent.com/a/AItbvmmdJp8Sfq67Sq-f1oeoZIHP0dAVzYdf0At-fA0-=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "Lugar belíssimo, e bar com preços acessíveis para a vista e a experiência. Vale a pena a visita.",
+      "gradeComment": 5
+    },
+    {
+      "author": "carlos Dumont",
+      "photoAuthor": "https://lh3.googleusercontent.com/a/AItbvmk3wIANwoEe5fglbU1t6WTX7KMKsY3m9rintTjN_Q=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "O lugar é lindo, muito bem conservado. É possível perceber a dinâmica da época em que era utilizado. Tem uma cafeteria muito simpática e com boas bebidas e drinks. O horário no domingo poderia se estender para além das 18hs, pois ainda há muitos visitantes. É uma das melhores vistas de Setúbal. não é cobrado ingresso.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Priscila Santos",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucofTb8Bjzl4nR9kqd5hLufQrohmB0kSY-LX4FFcLg=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "Um lugar histórico incrível. Entrada gratuita, uma vista maravilhosa. Tem um café lá dentro e fomos super bem atendidos. Super recomendo.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Isabel Pires",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucrEyQZgEkZ9QmS8KNRz1itOezKkIRRTaSFGgnYdSg=w36-h36-p-c0x00000000-rp-mo-ba5-br100",
+      "comment": "Este monumento nacional também conhecido como Fortaleza de S. FILIPE ou Castelo de S. FILIPE, localiza-se em Setúbal. Infelizmente, a Pousada de S. FILIPE que funcionava nesta fortificação encerrou em 2014 e só desde 2017 voltou a reabrir o bar e a esplanada com vista previligiada para a Foz do Rio Sado,  Oceano Atlântico, a cidade de Setúbal com o seu porto, Tróia e muito mais. Devido aos danos existentes nas fundações do Forte, há vários locais fechados ao público, mas este é sem dúvida, um local obrigatório de visita para quem passa pela cidade de Setúbal.",
+      "gradeComment": 4
+    },
+    {
+      "author": "Carlos Eduardo Féres",
+      "photoAuthor": "https://lh3.googleusercontent.com/a/AItbvmkI8aeswBKi2tDe3qDHUJTtkozVrBLD1z4lhWXA=w36-h36-p-c0x00000000-rp-mo-ba5-br100",
+      "comment": "Bela estrutura com visual expendido. O Restaurante interno tem um interior com boa decoração.",
+      "gradeComment": 4
+    },
+    {
+      "author": "*vIcO* Vinicius",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucqbHhB6MpB55b2UHqvUwIOdfpb6rakb5cjpm6IQcLI=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "Fácil de chegar e com uma visita incrível,  tem pastelaria e café. A capela tem azulejos incríveis",
+      "gradeComment": 5
+    },
+    {
+      "author": "carla lucia",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucr577Eq2shMk57GfIZFsyoMTrIGA4WIj-DyfPMveg=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "uma vista linda,lá de cima vc ver uma paisagem maravilhosa. E ainda tem uma bela capela.",
+      "gradeComment": 4
+    },
+    {
+      "author": "luis pinheiro Pinheiro",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucr9BJT9YNdAGAEmY9SkfPeoyHr-cdRrh-ZyShpAFg=w36-h36-p-c0x00000000-rp-mo-br100",
+      "comment": "De eleição pela sua localização geográfica. Vistas deslumbrantes para a cidade e para Tróia. Monumento de interesse histórico e relativamente bem cuidado. Dá para notar que há actividades a decorrer para a sua conservação. Recomenda-se a sua visita.",
+      "gradeComment": 4
+    },
+    {
+      "author": "Pedro Dias",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucomAyiphjWwolv8I_P0TLoS23W3nSIX1JpVk7Cd_PA=w36-h36-p-c0x00000000-rp-mo-ba3-br100",
+      "comment": "Entrada gratuita.  Vista excepcional para Tróia e Setúbal.  Tem um barzinho muito agradável.  Recomendo a Visita",
+      "gradeComment": 5
+    },
+    {
+      "author": "Rosane Ruas",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucpoK4G6of1ZEBdUBozJOHcREhl8v8qAuKGoFSEE2_8=w36-h36-p-c0x00000000-rp-mo-br100",
+      "comment": "A melhor vista de Setubal!!!! E tem um restaurante e café muito bons.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Helena Pereira",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucqUk3KXPcxjs4UBnd--OeBAUyOXfespY0Pr0cjEVQ=w36-h36-p-c0x00000000-rp-mo-br100",
+      "comment": "Fortaleza fantástica e cheia de história. Paisagem fenomenal! 5 ⭐️",
+      "gradeComment": 5
+    },
+    {
+      "author": "カスキーリョマルコ",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZuco2c03nCS23sNAWvRbYPxQigzEfudjx5RfazGTcDlE=w36-h36-p-c0x00000000-rp-mo-ba6-br100",
+      "comment": "Conhecido também como Castelo de São Filipe ou Fortaleza de São Filipe, este monumento nacional situa-se em pleno parque da Arrábida. Tem uma vista privilegiada sobre o mar e sobre a montanha. Há um posto de turismo no interior e um café com esplanada.",
+      "gradeComment": 5
+    }
+  ],
+  "peakHours": [
+    {
+      "Sunday": [
+        {
+          "hour": "10:00",
+          "percent": 15
+        },
+        {
+          "hour": "11:00",
+          "percent": 40
+        },
+        {
+          "hour": "12:00",
+          "percent": 52
+        },
+        {
+          "hour": "13:00",
+          "percent": 51
+        },
+        {
+          "hour": "14:00",
+          "percent": 68
+        },
+        {
+          "hour": "15:00",
+          "percent": 92
+        },
+        {
+          "hour": "16:00",
+          "percent": 100
+        },
+        {
+          "hour": "17:00",
+          "percent": 82
+        }
+      ]
+    },
+    {
+      "Monday": []
+    },
+    {
+      "Tuesday": [
+        {
+          "hour": "10:00",
+          "percent": 12
+        },
+        {
+          "hour": "11:00",
+          "percent": 29
+        },
+        {
+          "hour": "12:00",
+          "percent": 27
+        },
+        {
+          "hour": "13:00",
+          "percent": 17
+        },
+        {
+          "hour": "14:00",
+          "percent": 20
+        },
+        {
+          "hour": "15:00",
+          "percent": 29
+        },
+        {
+          "hour": "16:00",
+          "percent": 33
+        },
+        {
+          "hour": "17:00",
+          "percent": 29
+        }
+      ]
+    },
+    {
+      "Wednesday": [
+        {
+          "hour": "10:00",
+          "percent": 18
+        },
+        {
+          "hour": "11:00",
+          "percent": 24
+        },
+        {
+          "hour": "12:00",
+          "percent": 27
+        },
+        {
+          "hour": "13:00",
+          "percent": 28
+        },
+        {
+          "hour": "14:00",
+          "percent": 31
+        },
+        {
+          "hour": "15:00",
+          "percent": 38
+        },
+        {
+          "hour": "16:00",
+          "percent": 44
+        },
+        {
+          "hour": "17:00",
+          "percent": 37
+        }
+      ]
+    },
+    {
+      "Thursday": [
+        {
+          "hour": "10:00",
+          "percent": 16
+        },
+        {
+          "hour": "11:00",
+          "percent": 28
+        },
+        {
+          "hour": "12:00",
+          "percent": 26
+        },
+        {
+          "hour": "13:00",
+          "percent": 20
+        },
+        {
+          "hour": "14:00",
+          "percent": 27
+        },
+        {
+          "hour": "15:00",
+          "percent": 39
+        },
+        {
+          "hour": "16:00",
+          "percent": 44
+        },
+        {
+          "hour": "17:00",
+          "percent": 38
+        }
+      ]
+    },
+    {
+      "Friday": [
+        {
+          "hour": "10:00",
+          "percent": 15
+        },
+        {
+          "hour": "11:00",
+          "percent": 23
+        },
+        {
+          "hour": "12:00",
+          "percent": 25
+        },
+        {
+          "hour": "13:00",
+          "percent": 23
+        },
+        {
+          "hour": "14:00",
+          "percent": 25
+        },
+        {
+          "hour": "15:00",
+          "percent": 30
+        },
+        {
+          "hour": "16:00",
+          "percent": 34
+        },
+        {
+          "hour": "17:00",
+          "percent": 32
+        }
+      ]
+    },
+    {
+      "Saturday": [
+        {
+          "hour": "10:00",
+          "percent": 22
+        },
+        {
+          "hour": "11:00",
+          "percent": 41
+        },
+        {
+          "hour": "12:00",
+          "percent": 36
+        },
+        {
+          "hour": "13:00",
+          "percent": 31
+        },
+        {
+          "hour": "14:00",
+          "percent": 48
+        },
+        {
+          "hour": "15:00",
+          "percent": 75
+        },
+        {
+          "hour": "16:00",
+          "percent": 88
+        },
+        {
+          "hour": "17:00",
+          "percent": 77
+        }
+      ]
+    }
+  ],
+  "relatedSearches": [
+    "navio forte de sao felipe",
+    "forte de são felipe da bertioga",
+    "forte são felipe guarujá",
+    "forte são luiz guarujá",
+    "história do forte são joão",
+    "primeiro forte do brasil",
+    "rio setúbal",
+    "bertioga wikipédia",
+    "fortaleza de são felipe",
+    "forte de são felipe da bertioga",
+    "navio forte de sao felipe",
+    "forte são felipe guarujá",
+    "forte são luiz guarujá",
+    "história do forte são joão",
+    "cidade velha",
+    "primeiro forte do brasil"
+  ],
+  "relateds": [
+    {
+      "mainName": "Forte de Albarquel",
+      "url": null
+    },
+    {
+      "mainName": "Praia de Albarquel",
+      "url": null
+    },
+    {
+      "mainName": "Forte de Santiago do Outão",
+      "url": null
+    },
+    {
+      "mainName": "Palácio da Comenda",
+      "url": null
+    },
+    {
+      "mainName": "Praia da Comenda",
+      "url": null
+    },
+    {
+      "mainName": "Parque Urbano de Albarquel",
+      "url": null
+    },
+    {
+      "mainName": "Casa da Baía Setúbal",
+      "url": null
+    },
+    {
+      "mainName": "Praça de Bocage",
+      "url": null
+    },
+    {
+      "mainName": "Castelo de Palmela",
+      "url": null
+    },
+    {
+      "mainName": "Pelourinho de Setúbal",
+      "url": null
+    },
+    {
+      "mainName": "Moinho de Maré da Mourisca",
+      "url": null
+    },
+    {
+      "mainName": "Praia dos Coelhos",
+      "url": null
+    },
+    {
+      "mainName": "Igreja do Convento de Jesus",
+      "url": null
+    },
+    {
+      "mainName": "Igreja de Santa Maria da Graça",
+      "url": null
+    },
+    {
+      "mainName": "Serra da Arrábida",
+      "url": null
+    },
+    {
+      "mainName": "Avenida Luísa Todi",
+      "url": null
+    },
+    {
+      "mainName": "Parque do Bonfim",
+      "url": null
+    },
+    {
+      "mainName": "Praia da Saúde",
+      "url": null
+    },
+    {
+      "mainName": "Reserva Natural do Estuário do Sado",
+      "url": null
+    },
+    {
+      "mainName": "Herdade da Mourisca",
+      "url": null
+    },
+    {
+      "mainName": "Praia da Anixa",
+      "url": null
+    },
+    {
+      "mainName": "Praia de Alpertucho",
+      "url": null
+    },
+    {
+      "mainName": "Formosinho",
+      "url": null
+    },
+    {
+      "mainName": "Capela de São Luis da Serra",
+      "url": null
+    }
+  ]
+}

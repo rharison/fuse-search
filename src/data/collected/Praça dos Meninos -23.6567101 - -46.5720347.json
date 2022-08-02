@@ -1,0 +1,853 @@
+{
+  "mainName": "Praça dos Meninos",
+  "slug": "praca-dos-meninos",
+  "category": "Parque",
+  "locationInformation": {
+    "latitude": "-23.6567101",
+    "longitude": "-46.5720347"
+  },
+  "basicInformation": [
+    {
+      "label": "endereço",
+      "tooltip": "Copiar endereço",
+      "text": "Av. Caminho do Mar - Rudge Ramos, São Bernardo do Campo - SP, 09611-000",
+      "icon": "https://www.gstatic.com/images/icons/material/system_gm/1x/place_gm_blue_24dp.png"
+    },
+    {
+      "label": "telefone",
+      "tooltip": "Copiar número de telefone",
+      "text": "(11) 4348-1000",
+      "icon": "https://www.gstatic.com/images/icons/material/system_gm/1x/phone_gm_blue_24dp.png"
+    },
+    {
+      "label": "Code",
+      "tooltip": "Copiar Plus Code",
+      "text": "8CVH+85 Rudge Ramos, São Bernardo do Campo - SP",
+      "icon": "https://maps.gstatic.com/mapfiles/maps_lite/images/2x/ic_plus_code.png"
+    }
+  ],
+  "ratingInformation": {
+    "basicRatingInformation": {
+      "averageGrade": 4.3,
+      "totalOfEvaluations": 3587
+    },
+    "ratingsByGrade": [
+      {
+        "grade": 5,
+        "totalRatings": 1991
+      },
+      {
+        "grade": 4,
+        "totalRatings": 867
+      },
+      {
+        "grade": 3,
+        "totalRatings": 498
+      },
+      {
+        "grade": 2,
+        "totalRatings": 127
+      },
+      {
+        "grade": 1,
+        "totalRatings": 104
+      }
+    ]
+  },
+  "ratingTags": [
+    {
+      "tag": "feira",
+      "count": 72,
+      "tooltip": "feira, mencionado em 72 avaliações"
+    },
+    {
+      "tag": "brinquedos",
+      "count": 33,
+      "tooltip": "brinquedos, mencionado em 33 avaliações"
+    },
+    {
+      "tag": "passeio",
+      "count": 31,
+      "tooltip": "passeio, mencionado em 31 avaliações"
+    },
+    {
+      "tag": "mendigos",
+      "count": 26,
+      "tooltip": "mendigos, mencionado em 26 avaliações"
+    },
+    {
+      "tag": "carpas",
+      "count": 26,
+      "tooltip": "carpas, mencionado em 26 avaliações"
+    },
+    {
+      "tag": "ginástica",
+      "count": 23,
+      "tooltip": "ginástica, mencionado em 23 avaliações"
+    },
+    {
+      "tag": "pastel",
+      "count": 18,
+      "tooltip": "pastel, mencionado em 18 avaliações"
+    },
+    {
+      "tag": "coreto",
+      "count": 8,
+      "tooltip": "coreto, mencionado em 8 avaliações"
+    },
+    {
+      "tag": "poder público",
+      "count": 8,
+      "tooltip": "poder público, mencionado em 8 avaliações"
+    },
+    {
+      "tag": "luminárias",
+      "count": 7,
+      "tooltip": "luminárias, mencionado em 7 avaliações"
+    }
+  ],
+  "featuredPhotos": [
+    "https://lh5.googleusercontent.com/p/AF1QipMBl5mVlp4mciBJDwddlu-U8Gb1proBJvSOGx9W=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipO6xUCt6UY5yCMRLH3wCcAn6aXfefxNMBvFMZiT=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNrJqmfaR__HSISh0QkNSyxXXYzEgRmpJuGb2JV=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOR6_3XAyZSHr5Bhz56h-yyWLPrEbj1FEjla2L4=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipO3jlsiUj5KK39KDTcgecTV64DHhlTGVptkp4fO=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPG2uzzbcvSjgfWmgEVOkxGs4Nuv0g8gVH_xs1y=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipONhM5Ut6Hfjeoxl5EDBZ4N9sxIK5SSJKxQ_J9_=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMqHg0QgaxjSgDhW_TYIJhSerMOhwKV_CrJ1oxg=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPEdNyrbh1Z8n_JUxEIZ_CZo1g86tZscq4XV9U=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipM1xhLHBgHgkMQTFxBTk6RfAfahEXNignB2HbnX=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipO4ujq1rbaCEjEtoDgEuxS50tSjTkgESx4_jXvI=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOfgfl3zxg8qgSg1FEK1ttQDoy4EBYYeL7SNCwu=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPRQ_kE2V0LyuYotzMzbO9DpEjl7jndtOxLrJR1=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPbkb0PQkqZUdbYupbbT8tJQcJ1aBMq6gjYZaxk=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOOWunubjVP7lqGYK2xPcVlk6w37rSTgNcn_2WL=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipM8QHTy4WCo_YlzRyL8Urebcd0fU8zXXA3AREBd=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNPqgUbeCAl0ZDnOUtMR_BltiUuHyptnwuSaAbZ=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipM7OCXfCft8Jr13_WbqhjLMzEZfjCRrASaKFivx=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNbPcQ4mtrOkCOKvXpUlIYkFpmHOdN1bMSmr5JG=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNNK57a0tni83RylRje1z2O58sI3IzIhFUioJqF=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPaQ-1bNvdugF3vUbfDqylgMgJCToIcb8ruCYQV=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipP4kG3UsKbCfNjupS143hvP3njvV88nTaicwnY9=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMagAhYtbjJneNeFN7E_eZ3Jin6PVr1ddyZn5fk=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOP7lJvXntdmYmFNFVLPueGkTShcEJznDZmRaCE=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipP8qXbmj8sdjxh4UkyONZj1iIK1oLDhPhGFbL-Y=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNwLEQvp3YTAZM_mkxbHKh-UN60bdEafcNR4jxs=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipM7dJMzUZX49LZZkGGfmdfrpvhT8vrIrPbQedvF=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOB5iBsg2aWz4qIrZIyOsCielYlKTk4oA_9qUJv=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMGSINdonZfKnfATG1cISPZyAQbKuscWI0A6_51=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNFPnZh1CI32VNOWBI-iPtyTK6ZXJV2nz_JcJbh=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipM8xCnqnmKSaRIcV8enSF1Hp06tN9MXIgcsYFVV=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOiP61NDwQhmpT7Kd1z0i7K3rTsTLPVoWJxBUsE=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPJJPw5oBfvHTq-C32R-2q4YwgXgs7LFEkI7TpF=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOaQVdVmOH1_B1pQHem1-2M8Q1s33hToMwDLOIn=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOKh97M-g5I1nnQybAp4nvdM1sPxMRi8hT21ZI3=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipN2Xne4-3-VLPpmf0BkqWfV-QvTMsX1sOJ3mpbL=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPO_TxBAtkYZgWKYMWocLB48C-TaEpUOg9O619c=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNnpoqeypKcMvK8wH8VlPIWAXyBI8AjXV5lQxeT=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNM2k0nh1obEr79xPPxqUhLn6PwUgqemRNfxyme=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPAAoOk1GnEx9JJb7yj5Xw3UASqNQJuO3ASknmq=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPRYj-50AMDmja5lis5Uw13gUFmyW5CBAT26XYa=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNkw0XzQEipv5VjiWG735b7_r8A03gYIr3kS2QR=w1024-h576-k-no"
+  ],
+  "topComments": [
+    {
+      "author": "Eliane da Silva Freitas",
+      "photoAuthor": "https://lh3.googleusercontent.com/a/AItbvmntxlkqA9bCj8KutrWNo-SFsb1XBwkpCnytSeHo=w36-h36-p-c0x00000000-rp-mo-ba5-br100",
+      "comment": "Ótima para caminhada, ar livre tirar fotos e fazer ginastica. Não mudei de opinião mas quero deixar uma ressalva acho que a prefeitura precisa fazer uma manutenção no parque os banheiros são todos trancados com cadeados não entendo porque dois parques na mesma rua e os cuidados tão diferenciado, faço caminhada todos os dias tem alguns morador de rua que fica medindo dinheiro e até ameaçando tive que proteger uma senhora que saiu correndo com medo do homem. Bem é isso segurança manutenção e sanitários em uso.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Eric Azevedo",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucrKHozwxTgId_b5fZqPk6IPf1zGtJOtqLPjinu5rOU=w36-h36-p-c0x00000000-rp-mo-ba6-br100",
+      "comment": "Ponto turístico localizado no bairro Rudge Ramos em SBCAMPO... Local para fazer caminhadas, picnic ou mesmo ficar de bobeira, mas sempre alerta! Falta um pouquinho mais de manutenção, mas dá para curtir numa boa...",
+      "gradeComment": 4
+    },
+    {
+      "author": "Petkcov I'm",
+      "photoAuthor": "https://lh3.googleusercontent.com/a/AItbvmlbiZFMMl4pq19Z37GzFkGGeacAHzoErdxCWByW=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "Praça referência do Rudge Ramos, porém poderia estar mais conservada. As quintas tem a feira noturna que é uma delícia.",
+      "gradeComment": 3
+    },
+    {
+      "author": "Karolina Barbosa",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucrtOTZEZmEokGi-dsgOMv_0XE5bl7UCFIEnrIubsVI=w36-h36-p-c0x00000000-rp-mo-ba3-br100",
+      "comment": "Lugar agradável e com muito verde. O laguinho com as carpas e o parquinho para as crianças é o diferencial !",
+      "gradeComment": 5
+    },
+    {
+      "author": "Rosineide Maria da Silva",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucrJv5hiOWAmfrFfj00zxJ_7faKGcVwbl-I-kX0stEs=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "É um parque que aparentemente parecia ser bonito, agora é escuro sem nenhum guarda! Os brinquedos precisam de reparos pois alguma criança pode se machucar, esse parque foi criado em 1975 tem uma história!! é importante que a prefeitura tome conta do patrimônio do povo e preserve o que temos de lazer e bem estar porque dá para notar que as demais coisas estão intactas  e que a população não destruiu nada, que precisa somente de uma boa iluminação, trocas dos brinquedos e mais cor.",
+      "gradeComment": 3
+    },
+    {
+      "author": "Rodrigo Freitas",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucqTShDS_3hUC_O3QUS9yEmBhqXiyKt8WXbChVME-XM=w36-h36-p-c0x00000000-rp-mo-ba2-br100",
+      "comment": "Lugar arborizado que mantém um clima agradável, porém precisa de mais investimento no paisagismo, limpeza e manutenção.",
+      "gradeComment": 3
+    },
+    {
+      "author": "Julio Gadelha",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucqoLrq_nBCQFUEfIokwq9gJekQGutVhyOwXDxAW2Ig=w36-h36-p-c0x00000000-rp-mo-ba5-br100",
+      "comment": "Praça no centro do bairro de Rudge Ramos, estilo japonês, com  brinquedos para  crianças e  equipamentos para exercícios, muito usada para fotos de casamento,  com pontes, lago com carpas, pista para caminhada ou corrida. É uma bonita praça com segurança na entrada, estacionamento, nas quintas feiras tem  feira livre noturna.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Gabriela Moura",
+      "photoAuthor": "https://lh3.googleusercontent.com/a/AItbvmmfHTxA4dX5b2TLpCZj9vOiIwC0wCtJ5cxWrF4Y=w36-h36-p-c0x00000000-rp-mo-ba5-br100",
+      "comment": "Praça limpa, organizada, bonita, fresca e tranquila pra dar um passeio ou descansar um pouco.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Fabiano Piqueira",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucomnRuFw0IBhi2Pj-xTcPs8YLNhwNAdChU-yy5u=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "Senti tristeza ao entrar nessa praça e constatar o abandono do poder público.. Quem conheceu esse lugar antes das últimas administrações ( PT e PSDB), sabe doq estou falando.. Um lugar lindo, contudo totalmente abandonado... Ki tristeza!",
+      "gradeComment": 1
+    },
+    {
+      "author": "Roger Boralli",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucrhlCisY0l0FffsGxU6xJGY2qNHdx1FEjN6hh40Zg=w36-h36-p-c0x00000000-rp-mo-ba6-br100",
+      "comment": "Parque muito agradável com homenagem à comunidade japonesa, com estrutura temática, com vielas de pedra e lagos com pontes, carpa e quedas de água. Ótimo para relaxar ao som do vento e das águas. Tem coreto, Bebedouros (ainda tive a sorte de encontrar um sabonetinho para lavar as mãos e o rosto rs), academia para terceira idade. O parque está bem localizado, ao lado do mercado Extra, próximo ao Mercado Municipal e à Paróquia São João Batista.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Sami Houssami",
+      "photoAuthor": "https://lh3.googleusercontent.com/a/AItbvmlF-bkwBC0KX-wZLxcyCJOGQdBGJs5LK3aHfCQA=w36-h36-p-c0x00000000-rp-mo-ba3-br100",
+      "comment": "Foi boa ....porem , lugar abandonado com falta de zelo e sem presença de policiamento, pois fica aberta até mais tarde e por falta de iluminação devido a manutenção dos postes estar por fazer há anos por conta da sujeira das luminárias e a copa das árvores que tampam a iluminação..",
+      "gradeComment": 3
+    },
+    {
+      "author": "Jaqueline feitosa",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucqTJmffHQHetnDH2zy0hP5tUYkhbw1isDZwiAiqUX0=w36-h36-p-c0x00000000-rp-mo-ba3-br100",
+      "comment": "Um parque bem bonito brinquedos paras as crianças area da ginastica o laguinho é um charme só a morte fica pouco iluminado não tem onde fazer um lanche dentro do parque porém aos arredores tem bastante opção fácil acesso",
+      "gradeComment": 5
+    },
+    {
+      "author": "margarete pires",
+      "photoAuthor": "https://lh3.googleusercontent.com/a/AItbvmny9CXkcrv6W5wegCzk33NFJWXIz0bAIcCm1DVB2Q=w36-h36-p-c0x00000000-rp-mo-ba3-br100",
+      "comment": "Gosto muito da praça pra fazer caminhadas. Árvores que dão aquela brisa gostosa quando se está com aquele calor. Precisa consertar e limpar as luminárias japonesas que andam bastante sujas.",
+      "gradeComment": 4
+    },
+    {
+      "author": "Aline Ferreira",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZuco7zIYqrH5KWJAWnsvBKQt8vem6fMGHu3wzMX-07A=w36-h36-p-c0x00000000-rp-mo-ba3-br100",
+      "comment": "O parque é muito bonito, tranquilo, não muito grande, ótimo para tirar fotos e levar criança! Só precisa de manutenção, pintura nas grades baixas e o gira-gira está emperrando muito, impossibilitando que as crinças consigam girar sozinhas.",
+      "gradeComment": 4
+    },
+    {
+      "author": "André Putini",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucoqVzaqSTGb97B4lFvgOC7Aa2d-XqgBSgv31oY0iA=w36-h36-p-c0x00000000-rp-mo-br100",
+      "comment": "Frequento a parte de atividades físicas, mas ao longo dos anos ela não teve mudanças, a barra fixa está desnivelada, para utilizá-la é importante fazer o mesmo número de repetições virado para ambos os lados. Seria muito legal se fosse colocada um par de barras paralelas, pois o que tem lá é desnivelado e são muito afastadas.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Benigna Brito",
+      "photoAuthor": "https://lh3.googleusercontent.com/a/AItbvmlW-wNa3q9bMODPCJ6g3TT5MAeAScb6QOd7EPU=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "Toda quinta-feira tem feira na Praça. A feira é pequena e tem pouca variedade. O pastel é gostoso.  Mas a Guiosa deixou a desejar.  Na feira tem barracas de tempero, doces e frutas e legumes. E uma barraquinha de artesanato e uma de comida japonesa.",
+      "gradeComment": 4
+    },
+    {
+      "author": "Anderson Divulgacao",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucrTlnzMUnJHKAEUPqHibj6bP3HPmTREg5M6-jCE=w36-h36-p-c0x00000000-rp-mo-ba3-br100",
+      "comment": "Esse lugar já foi Bom. Noivas tiravam fotos   entrevistas para TV  tudo era feito lá. Mas com a gestão do menino Orlando Mijando, praça foi esquecida e largada as traças. ....",
+      "gradeComment": 1
+    },
+    {
+      "author": "Sergio Barros Cabral da Silva",
+      "photoAuthor": "https://lh3.googleusercontent.com/a/AItbvmli1DzHMD3KXEYr-hN9RHmml6-8w2dDiOKCxHi8=w36-h36-p-c0x00000000-rp-mo-br100",
+      "comment": "A praça é muito bem arborizada, mas zeladoria e manutenção não e boa. Precisava de bancos com encosto, reativar os banheiro público e velar por ele",
+      "gradeComment": 4
+    },
+    {
+      "author": "Luiza Estevam",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucpmUnkkX4hQtvkJ3ERnh1KqIsWqvM6Vw0Cy_ysrWnA=w36-h36-p-c0x00000000-rp-mo-ba3-br100",
+      "comment": "Um estilo de praça, tem estacionamento, lago com peixes e pequenas pontes, parquinho com brinquedos antigos, aparelhos de ginástica e da pra correr e fazer caminhada também.",
+      "gradeComment": 5
+    },
+    {
+      "author": "MARCOS ASSIS",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucob_UTMu5xZ7-pmc1mrnNoTFRbGfS3sH-T4HdgR1A=w36-h36-p-c0x00000000-rp-mo-br100",
+      "comment": "Sou frequentador assíduo do local,gosto de fazer caminhada e puxar ferro lá,alguns equipamentos de lá ajudam a boa manutenção da saúde e o ambiente trás tranquilidade.👍",
+      "gradeComment": 5
+    }
+  ],
+  "peakHours": [
+    {
+      "Sunday": [
+        {
+          "hour": "07:00",
+          "percent": 3
+        },
+        {
+          "hour": "08:00",
+          "percent": 10
+        },
+        {
+          "hour": "09:00",
+          "percent": 19
+        },
+        {
+          "hour": "10:00",
+          "percent": 27
+        },
+        {
+          "hour": "11:00",
+          "percent": 31
+        },
+        {
+          "hour": "12:00",
+          "percent": 29
+        },
+        {
+          "hour": "13:00",
+          "percent": 27
+        },
+        {
+          "hour": "14:00",
+          "percent": 28
+        },
+        {
+          "hour": "15:00",
+          "percent": 32
+        },
+        {
+          "hour": "16:00",
+          "percent": 33
+        },
+        {
+          "hour": "17:00",
+          "percent": 27
+        },
+        {
+          "hour": "18:00",
+          "percent": 21
+        },
+        {
+          "hour": "19:00",
+          "percent": 17
+        },
+        {
+          "hour": "20:00",
+          "percent": 15
+        },
+        {
+          "hour": "21:00",
+          "percent": 11
+        },
+        {
+          "hour": "22:00",
+          "percent": 7
+        },
+        {
+          "hour": "23:00",
+          "percent": 2
+        }
+      ]
+    },
+    {
+      "Monday": [
+        {
+          "hour": "05:00",
+          "percent": 2
+        },
+        {
+          "hour": "06:00",
+          "percent": 6
+        },
+        {
+          "hour": "07:00",
+          "percent": 11
+        },
+        {
+          "hour": "08:00",
+          "percent": 15
+        },
+        {
+          "hour": "09:00",
+          "percent": 18
+        },
+        {
+          "hour": "10:00",
+          "percent": 19
+        },
+        {
+          "hour": "11:00",
+          "percent": 18
+        },
+        {
+          "hour": "12:00",
+          "percent": 18
+        },
+        {
+          "hour": "13:00",
+          "percent": 20
+        },
+        {
+          "hour": "14:00",
+          "percent": 22
+        },
+        {
+          "hour": "15:00",
+          "percent": 25
+        },
+        {
+          "hour": "16:00",
+          "percent": 26
+        },
+        {
+          "hour": "17:00",
+          "percent": 26
+        },
+        {
+          "hour": "18:00",
+          "percent": 23
+        },
+        {
+          "hour": "19:00",
+          "percent": 19
+        },
+        {
+          "hour": "20:00",
+          "percent": 14
+        },
+        {
+          "hour": "21:00",
+          "percent": 8
+        },
+        {
+          "hour": "22:00",
+          "percent": 4
+        },
+        {
+          "hour": "23:00",
+          "percent": 1
+        }
+      ]
+    },
+    {
+      "Tuesday": [
+        {
+          "hour": "05:00",
+          "percent": 1
+        },
+        {
+          "hour": "06:00",
+          "percent": 5
+        },
+        {
+          "hour": "07:00",
+          "percent": 10
+        },
+        {
+          "hour": "08:00",
+          "percent": 13
+        },
+        {
+          "hour": "09:00",
+          "percent": 15
+        },
+        {
+          "hour": "10:00",
+          "percent": 18
+        },
+        {
+          "hour": "11:00",
+          "percent": 21
+        },
+        {
+          "hour": "12:00",
+          "percent": 23
+        },
+        {
+          "hour": "13:00",
+          "percent": 22
+        },
+        {
+          "hour": "14:00",
+          "percent": 23
+        },
+        {
+          "hour": "15:00",
+          "percent": 26
+        },
+        {
+          "hour": "16:00",
+          "percent": 30
+        },
+        {
+          "hour": "17:00",
+          "percent": 31
+        },
+        {
+          "hour": "18:00",
+          "percent": 27
+        },
+        {
+          "hour": "19:00",
+          "percent": 19
+        },
+        {
+          "hour": "20:00",
+          "percent": 10
+        },
+        {
+          "hour": "21:00",
+          "percent": 4
+        }
+      ]
+    },
+    {
+      "Wednesday": [
+        {
+          "hour": "05:00",
+          "percent": 1
+        },
+        {
+          "hour": "06:00",
+          "percent": 4
+        },
+        {
+          "hour": "07:00",
+          "percent": 8
+        },
+        {
+          "hour": "08:00",
+          "percent": 13
+        },
+        {
+          "hour": "09:00",
+          "percent": 17
+        },
+        {
+          "hour": "10:00",
+          "percent": 20
+        },
+        {
+          "hour": "11:00",
+          "percent": 22
+        },
+        {
+          "hour": "12:00",
+          "percent": 21
+        },
+        {
+          "hour": "13:00",
+          "percent": 20
+        },
+        {
+          "hour": "14:00",
+          "percent": 20
+        },
+        {
+          "hour": "15:00",
+          "percent": 22
+        },
+        {
+          "hour": "16:00",
+          "percent": 25
+        },
+        {
+          "hour": "17:00",
+          "percent": 25
+        },
+        {
+          "hour": "18:00",
+          "percent": 22
+        },
+        {
+          "hour": "19:00",
+          "percent": 16
+        },
+        {
+          "hour": "20:00",
+          "percent": 10
+        },
+        {
+          "hour": "21:00",
+          "percent": 4
+        }
+      ]
+    },
+    {
+      "Thursday": [
+        {
+          "hour": "05:00",
+          "percent": 2
+        },
+        {
+          "hour": "07:00",
+          "percent": 8
+        },
+        {
+          "hour": "08:00",
+          "percent": 13
+        },
+        {
+          "hour": "09:00",
+          "percent": 17
+        },
+        {
+          "hour": "10:00",
+          "percent": 20
+        },
+        {
+          "hour": "11:00",
+          "percent": 23
+        },
+        {
+          "hour": "12:00",
+          "percent": 23
+        },
+        {
+          "hour": "13:00",
+          "percent": 23
+        },
+        {
+          "hour": "14:00",
+          "percent": 25
+        },
+        {
+          "hour": "15:00",
+          "percent": 35
+        },
+        {
+          "hour": "16:00",
+          "percent": 57
+        },
+        {
+          "hour": "17:00",
+          "percent": 84
+        },
+        {
+          "hour": "18:00",
+          "percent": 100
+        },
+        {
+          "hour": "19:00",
+          "percent": 90
+        },
+        {
+          "hour": "20:00",
+          "percent": 61
+        },
+        {
+          "hour": "21:00",
+          "percent": 30
+        },
+        {
+          "hour": "22:00",
+          "percent": 10
+        }
+      ]
+    },
+    {
+      "Friday": [
+        {
+          "hour": "06:00",
+          "percent": 3
+        },
+        {
+          "hour": "07:00",
+          "percent": 8
+        },
+        {
+          "hour": "08:00",
+          "percent": 13
+        },
+        {
+          "hour": "09:00",
+          "percent": 19
+        },
+        {
+          "hour": "10:00",
+          "percent": 22
+        },
+        {
+          "hour": "11:00",
+          "percent": 22
+        },
+        {
+          "hour": "12:00",
+          "percent": 20
+        },
+        {
+          "hour": "13:00",
+          "percent": 19
+        },
+        {
+          "hour": "14:00",
+          "percent": 20
+        },
+        {
+          "hour": "15:00",
+          "percent": 22
+        },
+        {
+          "hour": "16:00",
+          "percent": 24
+        },
+        {
+          "hour": "17:00",
+          "percent": 23
+        },
+        {
+          "hour": "18:00",
+          "percent": 21
+        },
+        {
+          "hour": "19:00",
+          "percent": 17
+        },
+        {
+          "hour": "20:00",
+          "percent": 12
+        },
+        {
+          "hour": "21:00",
+          "percent": 8
+        },
+        {
+          "hour": "22:00",
+          "percent": 4
+        },
+        {
+          "hour": "23:00",
+          "percent": 1
+        }
+      ]
+    },
+    {
+      "Saturday": [
+        {
+          "hour": "06:00",
+          "percent": 1
+        },
+        {
+          "hour": "07:00",
+          "percent": 6
+        },
+        {
+          "hour": "08:00",
+          "percent": 11
+        },
+        {
+          "hour": "09:00",
+          "percent": 18
+        },
+        {
+          "hour": "10:00",
+          "percent": 23
+        },
+        {
+          "hour": "11:00",
+          "percent": 26
+        },
+        {
+          "hour": "12:00",
+          "percent": 28
+        },
+        {
+          "hour": "13:00",
+          "percent": 30
+        },
+        {
+          "hour": "14:00",
+          "percent": 35
+        },
+        {
+          "hour": "15:00",
+          "percent": 38
+        },
+        {
+          "hour": "16:00",
+          "percent": 36
+        },
+        {
+          "hour": "17:00",
+          "percent": 29
+        },
+        {
+          "hour": "18:00",
+          "percent": 22
+        },
+        {
+          "hour": "19:00",
+          "percent": 17
+        },
+        {
+          "hour": "20:00",
+          "percent": 15
+        },
+        {
+          "hour": "21:00",
+          "percent": 13
+        },
+        {
+          "hour": "22:00",
+          "percent": 10
+        },
+        {
+          "hour": "23:00",
+          "percent": 6
+        },
+        {
+          "hour": "00:00",
+          "percent": 2
+        }
+      ]
+    }
+  ],
+  "relatedSearches": [
+    "rolê em são bernardo do campo",
+    "parque ecológico imigrantes são bernardo do campo",
+    "lugares para ir em santo andré a noite",
+    "onde ir em santo andré",
+    "extra anchieta atrações",
+    "lugares românticos sbc",
+    "lugares românticos em santo andré",
+    "o que fazer no riacho grande"
+  ],
+  "relateds": [
+    {
+      "mainName": "Praça dos Coleirinhas",
+      "url": null
+    },
+    {
+      "mainName": "Parque Municipal Eng Salvador Arena",
+      "url": null
+    },
+    {
+      "mainName": "Chacara Silvestre II",
+      "url": null
+    },
+    {
+      "mainName": "Parque Raphael Lazzuri",
+      "url": null
+    },
+    {
+      "mainName": "Parque Estoril",
+      "url": null
+    },
+    {
+      "mainName": "Santuário Nossa Senhora Aparecida",
+      "url": null
+    },
+    {
+      "mainName": "Parque Ecológico Imigrantes",
+      "url": null
+    },
+    {
+      "mainName": "Parque Chácara Silvestre",
+      "url": null
+    },
+    {
+      "mainName": "Parque da Juventude Città Di Maróstica",
+      "url": null
+    },
+    {
+      "mainName": "Cidade da Criança",
+      "url": null
+    }
+  ]
+}

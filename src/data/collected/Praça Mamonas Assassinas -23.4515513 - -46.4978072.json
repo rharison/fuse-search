@@ -1,0 +1,971 @@
+{
+  "mainName": "Praça Mamonas Assassinas",
+  "slug": "praca-mamonas-assassinas",
+  "category": "Praça",
+  "locationInformation": {
+    "latitude": "-23.4515513",
+    "longitude": "-46.4978072"
+  },
+  "basicInformation": [
+    {
+      "label": "endereço",
+      "tooltip": "Copiar endereço",
+      "text": "Avenida Odair Santanelli, Av. Odair Santanelli - Parque Cecap, Guarulhos - SP, 07190-050",
+      "icon": "https://www.gstatic.com/images/icons/material/system_gm/1x/place_gm_blue_24dp.png"
+    },
+    {
+      "label": "Code",
+      "tooltip": "Copiar Plus Code",
+      "text": "GGX2+9V Parque Cecap, Guarulhos - SP",
+      "icon": "https://maps.gstatic.com/mapfiles/maps_lite/images/2x/ic_plus_code.png"
+    }
+  ],
+  "ratingInformation": {
+    "basicRatingInformation": {
+      "averageGrade": 4.2,
+      "totalOfEvaluations": 2545
+    },
+    "ratingsByGrade": [
+      {
+        "grade": 5,
+        "totalRatings": 1358
+      },
+      {
+        "grade": 4,
+        "totalRatings": 534
+      },
+      {
+        "grade": 3,
+        "totalRatings": 431
+      },
+      {
+        "grade": 2,
+        "totalRatings": 120
+      },
+      {
+        "grade": 1,
+        "totalRatings": 102
+      }
+    ]
+  },
+  "ratingTags": [
+    {
+      "tag": "lazer",
+      "count": 42,
+      "tooltip": "lazer, mencionado em 42 avaliações"
+    },
+    {
+      "tag": "homenagem",
+      "count": 24,
+      "tooltip": "homenagem, mencionado em 24 avaliações"
+    },
+    {
+      "tag": "usuários",
+      "count": 21,
+      "tooltip": "usuários, mencionado em 21 avaliações"
+    },
+    {
+      "tag": "skate",
+      "count": 21,
+      "tooltip": "skate, mencionado em 21 avaliações"
+    },
+    {
+      "tag": "jovens",
+      "count": 16,
+      "tooltip": "jovens, mencionado em 16 avaliações"
+    },
+    {
+      "tag": "banda",
+      "count": 13,
+      "tooltip": "banda, mencionado em 13 avaliações"
+    },
+    {
+      "tag": "sujeira",
+      "count": 12,
+      "tooltip": "sujeira, mencionado em 12 avaliações"
+    },
+    {
+      "tag": "saudades",
+      "count": 10,
+      "tooltip": "saudades, mencionado em 10 avaliações"
+    },
+    {
+      "tag": "condomínios",
+      "count": 7,
+      "tooltip": "condomínios, mencionado em 7 avaliações"
+    },
+    {
+      "tag": "fãs",
+      "count": 6,
+      "tooltip": "fãs, mencionado em 6 avaliações"
+    }
+  ],
+  "featuredPhotos": [
+    "https://lh5.googleusercontent.com/p/AF1QipOqJ8wxQBo0dXL67s_SNQ4SgE-VZKpLnWkUXFDE=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMy1CoNWC2Efb3x-ihTPBTOfHm6nzY5JFxshnQ6=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNxMS08lmxSvECnCFz79viqK3GvyLAxAWhmF7bD=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPpilKPgdmWEucUq3gFf6UQ9236xzW80MVvuRGP=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPLSy0VdSxtEL_jND_pGTmnd_ZJfzDSDtZsjzg3=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNUc5jYYwwyPwbDOHD5DdNiwu8o9lKQbdP2e5rO=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNP2zAKBs8rLhqlGsn1c6Z1a5tiKlJ3QZ5UuABE=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNcC1GZyX8Hx0fV6CVEwzTcc5jYCBPMgsWPU0Pb=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNzhL_Id6vEjx8pQdFSPi4uA-xyMnvddV27SQyk=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPtyprBJ7AWoHM8g2G74VGaqkDR5-j_MVZpsBoE=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNakSfdXgGgT_dZEW6cOOKUW8lRZ5CfuyjXVqwz=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipN9UASiWkiAmgv3XSmkHuTMweDw9XAZ2VRKrxCV=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipM69DruMMNEwp4ixDhZlSypIO_NMDMOXiEF6sYe=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPQ6u3hPmWFG6o01r2hONlYw83HVCJZN7j3QYF6=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipO6IWPiExywVkOh7oM8GnglIFAWuWBtH0QFvoQ-=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOe0jiz6lXZp-PemoZjcONTy5EXQiekkruZAs3C=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMatBcYuGHSS24yrcvDhO4q9jWzxdb6PN6qFbLt=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPCYRZWhbbF8kR7iaAv_r8zxv6vlxpHxcBSkzMU=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOqwHjbGoga2fFmmLEzo_6SnHlcT5ibAoallDFO=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPCUog9jHFbypM9VGxEtgwziCEMK2X5GFqVAVH7=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNFcqFNeVYXoPJxAFLKt_4LQ02TpdAIhEoAjecA=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNeHdS1eHpwBYcWdVIM_HoqvzzIqy8WdoGUrxmq=w1024-h576-k-no"
+  ],
+  "topComments": [
+    {
+      "author": "Marlon Araújo",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucrdU_RY1E58jAzcscnntlT3JMLiP3kMjyjSj5xdAQ=w36-h36-p-c0x00000000-rp-mo-ba3-br100",
+      "comment": "Tive a oportunidade de conhecer durante uma longa conexão no aeroporto. Sempre quis ir na cidade, nós ponto em que remete algo do Mamonas. Sentir um lugar tranquilo, com algumas crianças brincando. Porém notei que ela aparentava está sem cuidados e que também sofre com vandalismo.",
+      "gradeComment": 4
+    },
+    {
+      "author": "Igor Carvalho",
+      "photoAuthor": "https://lh3.googleusercontent.com/a/AItbvmnLm1yYFlQ1UpKXXuWcRH7Xy5ob-ny8aYu91Vim=w36-h36-p-c0x00000000-rp-mo-br100",
+      "comment": "Minha primeira vez. Sai de São Bernardo só pra ver esse monumento. Praça grande com estacionamento grátis, poderia ser mais bem cuidada. Muito bonita a homenagem feita, infelizmente por ser algo público sofre com o vandalismo.",
+      "gradeComment": 4
+    },
+    {
+      "author": "Michel Caetano",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucqjg4hnd3qfd1uf1nu3SMSYcOxTff1ylNArzVaUvw=w36-h36-p-c0x00000000-rp-mo-ba3-br100",
+      "comment": "Bacana, da pra tirar um laser... Mas, como toda praça as crianças brincam até as 18hs e depois chegam os xovens rebeldes sem causa que bebem quebram garrafas e largam tudo por la a ponto de nos ferir e ferir nossos filhos e pets... Mas voltamos pela manhã e as nossas crianças quem limpam a bagunça dos xovens tiktokers rebeldes",
+      "gradeComment": 5
+    },
+    {
+      "author": "Graziele Novaes",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucoozJGS1r8rWpx8fkTiRBR9j_wkwRJBrPDofV70EA=w36-h36-p-c0x00000000-rp-mo-br100",
+      "comment": "Amo esta praça... nostálgica e bonita. Pode melhorar a limpeza e estrutura,  mas, no geral, gosto muito 💙",
+      "gradeComment": 5
+    },
+    {
+      "author": "ANGEL MACHARGO",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucrMKQaKzjefyziduVfBaE_BACkoQsG1QQ9qXia2=w36-h36-p-c0x00000000-rp-mo-ba2-br100",
+      "comment": "Área de lazer muito boa e e um monumento pra lembranças excelentes para quem sabe quem foram os mamonas que colocaram Guarulhos no mapa.",
+      "gradeComment": 4
+    },
+    {
+      "author": "Diogo Silva",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucrP8_51Eyb5i7y3NrM3KjbgrPIVIJmW0JtKHcbJ1Q=w36-h36-p-c0x00000000-rp-mo-br100",
+      "comment": "Lugar tranquilo para jogar a canga de praia no chão , descansar ao som de pássaros e crianças correndo.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Michelle Nascimento",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZuco8rXa7GGh_nlYvIERX-eyjm9ojCU93wwDyw2d-6g=w36-h36-p-c0x00000000-rp-mo-br100",
+      "comment": "Meu lugar favorito de Guarulhos! Me sinto em casa e amo muito tudo isso. ❤",
+      "gradeComment": 5
+    },
+    {
+      "author": "Pablo Gabriel",
+      "photoAuthor": "https://lh3.googleusercontent.com/a/AItbvmnqygw1vXWzCFASc2HGEUhEvRuiBd-hcL3e-w-U=w36-h36-p-c0x00000000-rp-mo-br100",
+      "comment": "Um ótimo lugar de lazer com pista de skate e uma enorme  área verde além dos trailers para comer e beber.",
+      "gradeComment": 4
+    },
+    {
+      "author": "antenor juniot",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucqkE5lC0mwzWj-U9OIan1T8rOWbv8tH7AQh6xOl=w36-h36-p-c0x00000000-rp-mo-br100",
+      "comment": "Muito bom . Grande pra fazer caminhada . Estacionamento gratis . Tem feira . Tem base de policia pra dar aquela segurança. Tem campo de futebol. Tem palco Mesa de tenis de mesa. Tem pissta de skate melhor de guarulhos. E varias outras coisas Vale a pena ir la",
+      "gradeComment": 5
+    },
+    {
+      "author": "JAIRO ANDRADE SANTOS",
+      "photoAuthor": "https://lh3.googleusercontent.com/a/AItbvmn8ErPUtp8Mn7RiNd_Ju5Y-SYIQNs4pAG3KSMaS=w36-h36-p-c0x00000000-rp-mo-br100",
+      "comment": "Lugar agradável, bem arborizado, vem frequentada apenas a Zeladoria deixa a desejar.",
+      "gradeComment": 4
+    },
+    {
+      "author": "firetygger",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucrAUisC44Yar-wBQZ8lPDjXyMdOfsK-gt81NqQBwA=w36-h36-p-c0x00000000-rp-mo-ba2-br100",
+      "comment": "a grama é meio alta, e é melhor passar longe quando chove. mas num dia comum ensolarado é bom pra um descanso",
+      "gradeComment": 4
+    },
+    {
+      "author": "Paulo Souza",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucoW4Zr5MP_9n4hpBrE7tHGdAO5FJnbpjLmCWDD2L9E=w36-h36-p-c0x00000000-rp-mo-ba5-br100",
+      "comment": "Estive recentemente nesta praça e notei que é muito bem cuidada, apesar de morar há bastante tempo em Guarulhos, nunca  havia visitado a praça, ela fica muito escondida.",
+      "gradeComment": 4
+    },
+    {
+      "author": "Rê Silva",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucoL5t8Lqpws-a_s8pC6EujTrYETVb5F_FckuxO8Dw=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "Excelente praça para curtir com a família, fazer atividades físicas, brincar com as crianças, levar os pets para passear, ou só curtir a natureza, além de trazer a memória uma banda que marcou época e que fez parte da vida de muitas pessoas.... Vale a pena conhecer!!!",
+      "gradeComment": 5
+    },
+    {
+      "author": "Sabrina Muller",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucqUH_k5MkH5kK2ipcp3qEqwg3OSWOT2nWO_uXT0u2A=w36-h36-p-c0x00000000-rp-mo-ba3-br100",
+      "comment": "Fica perto da minha casa,  e apesar de ser perigoso no período da noite,  ainda assim em período diurno é excelente para crianças,  casais,  animais de estimação,  da para tirar fotos....",
+      "gradeComment": 5
+    },
+    {
+      "author": "Douglas Soares",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucrOxyzPsX-cQWYuN1UN7VTOXU6heUeW5bxq02s-lCI=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "Praça bem grande e com espaço pra receber muitas pessoas porém não é cuidada .. deixando a desejar no aspecto do cuidado é infra! Poderia ter um policiamento mesmo sendo num bom bairro",
+      "gradeComment": 3
+    },
+    {
+      "author": "Diógenes Fernandes ESCULTOR",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucq4g63ynP0o7YGyWIbPAQd3rfbS7vW23uOQQ1WuS74=w36-h36-p-c0x00000000-rp-mo-ba3-br100",
+      "comment": "Aguardando a reposição de minha escultura dos integrantes cantando em andamento  no meu  atelier na serra da Cantareira  agradecimentos ao patrocinador Aeroporto Internacional de Guarulhos.  Aos Domingos Yoga das 9 as10 hrs",
+      "gradeComment": 4
+    },
+    {
+      "author": "Vanusa Lazerotti",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucrZimY7QxcHsVGYyTjHdnNILba1n_rM2ECBbfEU6co=w36-h36-p-c0x00000000-rp-mo-br100",
+      "comment": "Lembrança dos meninos de Guarulhos, ótimo lugar para tirar uma foto e guardar de recordação.  Próxima ao Sesc, a rodoviária, a estação Cecap CPTM de trem. Localizada entre os condomínios Alagoas e Espírito Santo",
+      "gradeComment": 5
+    },
+    {
+      "author": "Waltinho Souza",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucqucqOjnakyIBmkyBPMF06v4RzeJR44uFsbZ8ZreA=w36-h36-p-c0x00000000-rp-mo-ba5-br100",
+      "comment": "A praça com o nome do grupo vale a homenagem, mas o cuidado e zeladoria não são presentes Sujeira aparente e falta de latas de lixo pra tentar incentivar os usuários Alguns frequentadores de um bar próximo usa os muros pra urinar e o lugar tem forte odor graças a essa prática Pista de skate próxima, mas com mais pessoas consumindo drogas do que praticando o esporte Uma pena, mas falta muito cuidado pra merecer mais que duas estrelas Se vc pretende levar crianças ao local, é bom ficar atento a esses detalhes Os administradores devem ter um pouco mais de atenção",
+      "gradeComment": 2
+    },
+    {
+      "author": "Joao",
+      "photoAuthor": "https://lh3.googleusercontent.com/a/AItbvmkJ_JZHPeMazJ4tCNyrSAfwJq9--24Lf2lw3UctKg=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "Gosto da praça, da homenagem que ela presta aos Mamonas, do zelo que a prefeitura e muitas pessoas têm por ela. Lamento usuários que lá levam seus cães e não recolhem suas fezes, e vândalos noturnos que arrebentam lixeiras, bancos (de concreto armado) e pequenas árvores, imagino que aos coices.",
+      "gradeComment": 3
+    },
+    {
+      "author": "Alan Dias Da cruz",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucoksEl0j4eZWPOCjc2pGiCBbAp-cNenviZeyFDeCS0=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "A falta de trailers dificulta a permanência no local, pois falta opções de alimentação. Falta brinquedos infantis no local e manutenção da pista de skate.",
+      "gradeComment": 3
+    }
+  ],
+  "peakHours": [
+    {
+      "Sunday": [
+        {
+          "hour": "04:00",
+          "percent": 1
+        },
+        {
+          "hour": "05:00",
+          "percent": 1
+        },
+        {
+          "hour": "06:00",
+          "percent": 2
+        },
+        {
+          "hour": "07:00",
+          "percent": 7
+        },
+        {
+          "hour": "08:00",
+          "percent": 15
+        },
+        {
+          "hour": "09:00",
+          "percent": 25
+        },
+        {
+          "hour": "10:00",
+          "percent": 33
+        },
+        {
+          "hour": "11:00",
+          "percent": 38
+        },
+        {
+          "hour": "12:00",
+          "percent": 39
+        },
+        {
+          "hour": "13:00",
+          "percent": 42
+        },
+        {
+          "hour": "14:00",
+          "percent": 51
+        },
+        {
+          "hour": "15:00",
+          "percent": 67
+        },
+        {
+          "hour": "16:00",
+          "percent": 84
+        },
+        {
+          "hour": "17:00",
+          "percent": 91
+        },
+        {
+          "hour": "18:00",
+          "percent": 85
+        },
+        {
+          "hour": "19:00",
+          "percent": 71
+        },
+        {
+          "hour": "20:00",
+          "percent": 56
+        },
+        {
+          "hour": "21:00",
+          "percent": 42
+        },
+        {
+          "hour": "22:00",
+          "percent": 30
+        },
+        {
+          "hour": "23:00",
+          "percent": 20
+        },
+        {
+          "hour": "00:00",
+          "percent": 11
+        },
+        {
+          "hour": "01:00",
+          "percent": 5
+        },
+        {
+          "hour": "02:00",
+          "percent": 1
+        },
+        {
+          "hour": "03:00",
+          "percent": 1
+        }
+      ]
+    },
+    {
+      "Monday": [
+        {
+          "hour": "04:00",
+          "percent": 1
+        },
+        {
+          "hour": "05:00",
+          "percent": 1
+        },
+        {
+          "hour": "07:00",
+          "percent": 2
+        },
+        {
+          "hour": "08:00",
+          "percent": 4
+        },
+        {
+          "hour": "09:00",
+          "percent": 6
+        },
+        {
+          "hour": "10:00",
+          "percent": 9
+        },
+        {
+          "hour": "11:00",
+          "percent": 13
+        },
+        {
+          "hour": "12:00",
+          "percent": 16
+        },
+        {
+          "hour": "13:00",
+          "percent": 19
+        },
+        {
+          "hour": "14:00",
+          "percent": 21
+        },
+        {
+          "hour": "15:00",
+          "percent": 22
+        },
+        {
+          "hour": "16:00",
+          "percent": 21
+        },
+        {
+          "hour": "17:00",
+          "percent": 21
+        },
+        {
+          "hour": "18:00",
+          "percent": 36
+        },
+        {
+          "hour": "19:00",
+          "percent": 31
+        },
+        {
+          "hour": "20:00",
+          "percent": 23
+        },
+        {
+          "hour": "21:00",
+          "percent": 34
+        },
+        {
+          "hour": "22:00",
+          "percent": 28
+        },
+        {
+          "hour": "23:00",
+          "percent": 10
+        },
+        {
+          "hour": "00:00",
+          "percent": 2
+        },
+        {
+          "hour": "02:00",
+          "percent": 1
+        },
+        {
+          "hour": "03:00",
+          "percent": 1
+        }
+      ]
+    },
+    {
+      "Tuesday": [
+        {
+          "hour": "04:00",
+          "percent": 1
+        },
+        {
+          "hour": "05:00",
+          "percent": 1
+        },
+        {
+          "hour": "06:00",
+          "percent": 4
+        },
+        {
+          "hour": "07:00",
+          "percent": 14
+        },
+        {
+          "hour": "08:00",
+          "percent": 32
+        },
+        {
+          "hour": "09:00",
+          "percent": 57
+        },
+        {
+          "hour": "10:00",
+          "percent": 83
+        },
+        {
+          "hour": "11:00",
+          "percent": 100
+        },
+        {
+          "hour": "12:00",
+          "percent": 100
+        },
+        {
+          "hour": "13:00",
+          "percent": 83
+        },
+        {
+          "hour": "14:00",
+          "percent": 57
+        },
+        {
+          "hour": "15:00",
+          "percent": 34
+        },
+        {
+          "hour": "16:00",
+          "percent": 25
+        },
+        {
+          "hour": "17:00",
+          "percent": 28
+        },
+        {
+          "hour": "18:00",
+          "percent": 29
+        },
+        {
+          "hour": "19:00",
+          "percent": 29
+        },
+        {
+          "hour": "20:00",
+          "percent": 34
+        },
+        {
+          "hour": "21:00",
+          "percent": 34
+        },
+        {
+          "hour": "22:00",
+          "percent": 25
+        },
+        {
+          "hour": "23:00",
+          "percent": 13
+        },
+        {
+          "hour": "00:00",
+          "percent": 4
+        },
+        {
+          "hour": "01:00",
+          "percent": 1
+        },
+        {
+          "hour": "02:00",
+          "percent": 1
+        },
+        {
+          "hour": "03:00",
+          "percent": 1
+        }
+      ]
+    },
+    {
+      "Wednesday": [
+        {
+          "hour": "04:00",
+          "percent": 1
+        },
+        {
+          "hour": "05:00",
+          "percent": 1
+        },
+        {
+          "hour": "06:00",
+          "percent": 1
+        },
+        {
+          "hour": "07:00",
+          "percent": 3
+        },
+        {
+          "hour": "08:00",
+          "percent": 6
+        },
+        {
+          "hour": "09:00",
+          "percent": 10
+        },
+        {
+          "hour": "10:00",
+          "percent": 14
+        },
+        {
+          "hour": "11:00",
+          "percent": 19
+        },
+        {
+          "hour": "12:00",
+          "percent": 23
+        },
+        {
+          "hour": "13:00",
+          "percent": 27
+        },
+        {
+          "hour": "14:00",
+          "percent": 29
+        },
+        {
+          "hour": "15:00",
+          "percent": 30
+        },
+        {
+          "hour": "16:00",
+          "percent": 30
+        },
+        {
+          "hour": "17:00",
+          "percent": 31
+        },
+        {
+          "hour": "18:00",
+          "percent": 34
+        },
+        {
+          "hour": "19:00",
+          "percent": 37
+        },
+        {
+          "hour": "20:00",
+          "percent": 39
+        },
+        {
+          "hour": "21:00",
+          "percent": 35
+        },
+        {
+          "hour": "22:00",
+          "percent": 26
+        },
+        {
+          "hour": "23:00",
+          "percent": 15
+        },
+        {
+          "hour": "00:00",
+          "percent": 6
+        },
+        {
+          "hour": "01:00",
+          "percent": 1
+        },
+        {
+          "hour": "02:00",
+          "percent": 1
+        },
+        {
+          "hour": "03:00",
+          "percent": 1
+        }
+      ]
+    },
+    {
+      "Thursday": [
+        {
+          "hour": "04:00",
+          "percent": 1
+        },
+        {
+          "hour": "06:00",
+          "percent": 2
+        },
+        {
+          "hour": "07:00",
+          "percent": 5
+        },
+        {
+          "hour": "08:00",
+          "percent": 7
+        },
+        {
+          "hour": "09:00",
+          "percent": 10
+        },
+        {
+          "hour": "10:00",
+          "percent": 13
+        },
+        {
+          "hour": "11:00",
+          "percent": 15
+        },
+        {
+          "hour": "12:00",
+          "percent": 18
+        },
+        {
+          "hour": "13:00",
+          "percent": 23
+        },
+        {
+          "hour": "14:00",
+          "percent": 31
+        },
+        {
+          "hour": "15:00",
+          "percent": 44
+        },
+        {
+          "hour": "16:00",
+          "percent": 59
+        },
+        {
+          "hour": "17:00",
+          "percent": 71
+        },
+        {
+          "hour": "18:00",
+          "percent": 75
+        },
+        {
+          "hour": "19:00",
+          "percent": 70
+        },
+        {
+          "hour": "20:00",
+          "percent": 58
+        },
+        {
+          "hour": "21:00",
+          "percent": 43
+        },
+        {
+          "hour": "22:00",
+          "percent": 28
+        },
+        {
+          "hour": "23:00",
+          "percent": 16
+        },
+        {
+          "hour": "00:00",
+          "percent": 7
+        },
+        {
+          "hour": "01:00",
+          "percent": 2
+        },
+        {
+          "hour": "02:00",
+          "percent": 1
+        },
+        {
+          "hour": "03:00",
+          "percent": 1
+        }
+      ]
+    },
+    {
+      "Friday": [
+        {
+          "hour": "06:00",
+          "percent": 1
+        },
+        {
+          "hour": "07:00",
+          "percent": 3
+        },
+        {
+          "hour": "08:00",
+          "percent": 6
+        },
+        {
+          "hour": "09:00",
+          "percent": 10
+        },
+        {
+          "hour": "10:00",
+          "percent": 14
+        },
+        {
+          "hour": "11:00",
+          "percent": 18
+        },
+        {
+          "hour": "12:00",
+          "percent": 22
+        },
+        {
+          "hour": "13:00",
+          "percent": 25
+        },
+        {
+          "hour": "14:00",
+          "percent": 28
+        },
+        {
+          "hour": "15:00",
+          "percent": 30
+        },
+        {
+          "hour": "16:00",
+          "percent": 33
+        },
+        {
+          "hour": "17:00",
+          "percent": 35
+        },
+        {
+          "hour": "18:00",
+          "percent": 37
+        },
+        {
+          "hour": "19:00",
+          "percent": 38
+        },
+        {
+          "hour": "20:00",
+          "percent": 36
+        },
+        {
+          "hour": "21:00",
+          "percent": 32
+        },
+        {
+          "hour": "22:00",
+          "percent": 26
+        },
+        {
+          "hour": "23:00",
+          "percent": 20
+        },
+        {
+          "hour": "00:00",
+          "percent": 13
+        },
+        {
+          "hour": "01:00",
+          "percent": 8
+        },
+        {
+          "hour": "02:00",
+          "percent": 3
+        },
+        {
+          "hour": "03:00",
+          "percent": 1
+        }
+      ]
+    },
+    {
+      "Saturday": [
+        {
+          "hour": "04:00",
+          "percent": 1
+        },
+        {
+          "hour": "07:00",
+          "percent": 2
+        },
+        {
+          "hour": "08:00",
+          "percent": 4
+        },
+        {
+          "hour": "09:00",
+          "percent": 8
+        },
+        {
+          "hour": "10:00",
+          "percent": 14
+        },
+        {
+          "hour": "11:00",
+          "percent": 20
+        },
+        {
+          "hour": "12:00",
+          "percent": 27
+        },
+        {
+          "hour": "13:00",
+          "percent": 33
+        },
+        {
+          "hour": "14:00",
+          "percent": 37
+        },
+        {
+          "hour": "15:00",
+          "percent": 40
+        },
+        {
+          "hour": "16:00",
+          "percent": 40
+        },
+        {
+          "hour": "17:00",
+          "percent": 40
+        },
+        {
+          "hour": "18:00",
+          "percent": 38
+        },
+        {
+          "hour": "19:00",
+          "percent": 36
+        },
+        {
+          "hour": "20:00",
+          "percent": 33
+        },
+        {
+          "hour": "21:00",
+          "percent": 30
+        },
+        {
+          "hour": "22:00",
+          "percent": 25
+        },
+        {
+          "hour": "23:00",
+          "percent": 21
+        },
+        {
+          "hour": "00:00",
+          "percent": 16
+        },
+        {
+          "hour": "01:00",
+          "percent": 11
+        },
+        {
+          "hour": "02:00",
+          "percent": 6
+        },
+        {
+          "hour": "03:00",
+          "percent": 3
+        }
+      ]
+    }
+  ],
+  "relatedSearches": [
+    "onde os mamonas moravam",
+    "lugares bonitos em guarulhos para tirar fotos",
+    "guarulhos",
+    "lugar para passear perto de mim",
+    "lugares para ir em guarulhos a noite",
+    "lugares para ver o nascer do sol em guarulhos",
+    "lugares para ir com o namorado em guarulhos",
+    "o que tem em guarulhos hoje"
+  ],
+  "relateds": [
+    {
+      "mainName": "Catedral Diocesana Nossa Senhora da Conceição",
+      "url": null
+    },
+    {
+      "mainName": "Parque Estadual Cantareira - Núcleo Cabuçu",
+      "url": null
+    },
+    {
+      "mainName": "São Paulo Airport Marriott Hotel",
+      "url": null
+    },
+    {
+      "mainName": "Parque Vilanova Artigas (Cecap)",
+      "url": null
+    },
+    {
+      "mainName": "Parque City Las Vegas",
+      "url": null
+    },
+    {
+      "mainName": "Viaduto Cidade de Guarulhos",
+      "url": null
+    },
+    {
+      "mainName": "Lago dos Patos",
+      "url": null
+    },
+    {
+      "mainName": "SESC Guarulhos",
+      "url": null
+    },
+    {
+      "mainName": "Parque Bosque Maia",
+      "url": null
+    }
+  ]
+}

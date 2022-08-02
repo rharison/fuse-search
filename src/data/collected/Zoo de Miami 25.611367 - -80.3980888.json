@@ -1,0 +1,578 @@
+{
+  "mainName": "Zoo de Miami",
+  "slug": "zoo-de-miami",
+  "category": "Zoológico",
+  "locationInformation": {
+    "latitude": "25.611367",
+    "longitude": "-80.3980888"
+  },
+  "basicInformation": [
+    {
+      "label": "endereço",
+      "tooltip": "Copiar endereço",
+      "text": "12400 SW 152nd St, Miami, FL 33177, Estados Unidos",
+      "icon": "https://www.gstatic.com/images/icons/material/system_gm/1x/place_gm_blue_24dp.png"
+    },
+    {
+      "label": "website",
+      "tooltip": "Abrir website",
+      "text": "zoomiami.org",
+      "icon": "https://www.gstatic.com/images/icons/material/system_gm/1x/public_gm_blue_24dp.png"
+    },
+    {
+      "label": "telefone",
+      "tooltip": "Copiar número de telefone",
+      "text": "+1 305-251-0400",
+      "icon": "https://www.gstatic.com/images/icons/material/system_gm/1x/phone_gm_blue_24dp.png"
+    },
+    {
+      "label": "Code",
+      "tooltip": "Copiar Plus Code",
+      "text": "JJ62+GQ Miami, Flórida, EUA",
+      "icon": "https://maps.gstatic.com/mapfiles/maps_lite/images/2x/ic_plus_code.png"
+    }
+  ],
+  "ratingInformation": {
+    "basicRatingInformation": {
+      "averageGrade": 4.5,
+      "totalOfEvaluations": 16660
+    },
+    "ratingsByGrade": [
+      {
+        "grade": 5,
+        "totalRatings": 11897
+      },
+      {
+        "grade": 4,
+        "totalRatings": 3021
+      },
+      {
+        "grade": 3,
+        "totalRatings": 929
+      },
+      {
+        "grade": 2,
+        "totalRatings": 347
+      },
+      {
+        "grade": 1,
+        "totalRatings": 466
+      }
+    ]
+  },
+  "ratingTags": [
+    {
+      "tag": "monotrilho",
+      "count": 182,
+      "tooltip": "monotrilho, mencionado em 182 avaliações"
+    },
+    {
+      "tag": "parque aquático",
+      "count": 91,
+      "tooltip": "parque aquático, mencionado em 91 avaliações"
+    },
+    {
+      "tag": "bonde",
+      "count": 81,
+      "tooltip": "bonde, mencionado em 81 avaliações"
+    },
+    {
+      "tag": "mario hermoso",
+      "count": 76,
+      "tooltip": "mario hermoso, mencionado em 76 avaliações"
+    },
+    {
+      "tag": "protetor solar",
+      "count": 53,
+      "tooltip": "protetor solar, mencionado em 53 avaliações"
+    },
+    {
+      "tag": "pedal",
+      "count": 41,
+      "tooltip": "pedal, mencionado em 41 avaliações"
+    },
+    {
+      "tag": "traje de banho",
+      "count": 38,
+      "tooltip": "traje de banho, mencionado em 38 avaliações"
+    }
+  ],
+  "featuredPhotos": [
+    "https://lh5.googleusercontent.com/p/AF1QipNsJXpvvCRXiZJ7t8ESvc3tVwP9phnjfxdQtVum=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNRWfIjVG559ICMCSEEX7oAOBu5V4hb8vfCtHHp=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPGaaYySS1grUGQKhEyiEIlxksChNanY1K7IOpI=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipP8tdfUt-xZK5SzaTZbLSaFgdEavtR63tNWQXQd=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipP3MoHNbmWv4Wh8XCRaDIsN-ClIpgodfeJvVGEC=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNvqKnNE7fQDps5eHYW3FbVfAwuztEzRp3z2oD6=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOM_ZUl1BcK06FrrQTMPurrQScWHTt6uPKIDLDU=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipP74FzaTdWBi4m3ue3a5Hu_gz-CjHqhGmWEVgeJ=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNRV4hezZ8Ybw8U507UU0x8lMB7O4EvlKb4f3_t=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMsdJIfeMG9Fjo_9GnkoVDovNzQPBcVYjEYyL2o=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOnmpign1XGCUJJjFd4B5YaFloWuTfEcT8FMT_m=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMnhlfv6BAdZFniNaVOL-w9L8Dp13TNfytyMkjX=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNGophLUxU0ZLgAy5-3ukNNQs6i7KRltYJ0Oqjx=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipN4b0gEkhwq3FAsFkCuL8qbUMAnsmRYYWvO9fVq=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipM_3MAcNzFt7hYGegn24cuFoRJ1IYVK-X3G1ZY9=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOUxZR7IrDtNWxWV5MTLE4CnDLnUg4Sbt9q24xg=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNmpzPh8fGNBlSSk5G_ufSZrcXJcOXLepczX5HR=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNknF0PDa2CofI6w4CXn0UQgMcYq0QR6i2fQIFT=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNsnpAA_mzipSaqlq4cZM_sQjP1UrzWsxqIGGEV=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipM3GIr9NvaGlATi3817ND48T8XhyurBqgbffta7=w1024-h576-k-no"
+  ],
+  "topComments": [
+    {
+      "author": "Luiz Roberto Ferreira",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucoho2Oai7bm7_eWvw9-3ZK31x8cqpitKY0spwaT=w36-h36-p-c0x00000000-rp-mo-br100",
+      "comment": "O zoo é grande mas não o suficiente pra ter que alugar uma bicicleta (caso tenha condições de andar). Estivemos com uma criança de 3 anos que revezava entre caminhar, correr e carrinho de bebê.  Passeamos por tudo e foi bem tranquilo. O zoo é bem bonito e bem cuidado na maior parte dos itens. Nos pareceu faltam manutenção em equipamentos de entretenimento tal qual os que imitam sons de alguns animais (a maioria não funcionava). Por fim, vale a pena a visita pra quem tem tempo no roteiro (e para quem tiver hospedado em Miami Beach e ainda tiver forças, como nós, da pra passar no Dolphin Mall na volta).",
+      "gradeComment": 4
+    },
+    {
+      "author": "Marcelo Yuri",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucq3MTK47YXaXVnjpvdvqDWCJgajpUY16DjiKuooww=w36-h36-p-c0x00000000-rp-mo-br100",
+      "comment": "Awesome! Loved it. Nice place to see a lot of animals of the entire world. Recommend it, it's very nice to go with kids. They love it! Preparr for the sun. Is very hot, use sunblock and hat. . Muito legal. Recomendo muito. O zoo é muito bem cuidado, os animais são lindos e há muita diversidade. Os lanches também sao muito bons! Prepare-se para o calor. Protetor solar, boné e até guarda chuva é bem útil.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Jorge Galiano",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucq_xPPL4tjhUmohyvu78BWkUreidwuZR_bDAdhu8A=w36-h36-p-c0x00000000-rp-mo-br100",
+      "comment": "Um ambiente muito bem estruturado, bem grande e bem dividido. Uma boa dica é locar uma bicicleta pois a área é muito grande. Variedade grande de animais. No dia que fui não levei muita sorte pois quase todos estavam escondidos e de cara virada rsrsrs mas vimos coisas diferentes. E por ser inverno muitos dos quiosques estavam fechados Todos os animais deixaram a sensação de serem muito bem tratados, todos com aspecto muito saudável. As bicicletas são para 2 pessoas ou 6 mais 2 crianças em cada uma delas, o valor quando fui da de 6 lugares era 36 dólares por 2horas e adicional de 18 dólares por hora, ou 80 e poucos dólares pelo odeia todo, nos fizemos em duas hora o zoo todo, mas foi rápido, até pq muitos animais estava dormindo ou escondidos.",
+      "gradeComment": 4
+    },
+    {
+      "author": "Marcos Roberto Queiroga",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucrCE-6FyyiryL15Q7rbRuOt2OoarwmQQ3AhZQpNxvA=w36-h36-p-c0x00000000-rp-mo-ba3-br100",
+      "comment": "Muito organizado e diversificado. O zoo está dividido por regiões/países, cada quais com sua fauna, flora e informações. Você vai precisar de umas 4 horas pra conhecer tudo a pé. Pode optar para alugar uma bike familiar (25 dólares por 2 horas). Adoramos a passagem por baixo de um lago q possui um enorme crocodilo. Recomendamos.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Leonardo Pazdziora",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucrU8dv8yxxngctV-9gdyli4EACwFVDlUSxft3NzPhg=w36-h36-p-c0x00000000-rp-mo-ba5-br100",
+      "comment": "Lugar muito grande, em um dia vc não conhece tudo. A não ser que alugue bicicletas, mas achei super caro, 30U$ por 2 horas. Mas talvez valha o investimento por que o lugar é bem grande. A parte dos macacos é bem legal. Também tem uns chafarizes de água pras crianças se refrescarem muito bom. Leve protetor solar, óculos e chapéu. Se for escolher um lugar pra pular, escolha a parte das cobras, é bem sem graça. A entrada se não me engano é 25U$ por pessoa.",
+      "gradeComment": 4
+    },
+    {
+      "author": "Ronan T. C.",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucopmmwdgrJiVcHmkAJ_ucUav-FZ_zg9WA3NTTfI-Q=w36-h36-p-c0x00000000-rp-mo-ba5-br100",
+      "comment": "Lindo zoológico. Tudo muito bem cuidado. Um excelente passeio mas prepare-se para andar muito e preparar o boné, protetor, etc Há banheiros limpos e novos, água, cabanas para descanso, enfim uma estrutura igual a dos parques de Orlando. Estacionamento gratuito. Há stroller, bicicletas de 2 e 4 pessoas para alugar. O metrô custa 5 dólares e não vale a pena.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Sandra Pacheco",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucp8aQ_En8dJRAncQa1rIzephjYHCSjvKe86RtCG=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "Lindo! Sem comentários. Lugar limpo, enorme, bichos bem tratados, uma experiência muito diferente do que vemos aqui. Os bichos ficam soltos em seu habitat, lugar para ir visitar e mais de uma vez... Crianças até 3 anos não pagam... É possível alimentar os animais em determinados horários, pagando uma taxa de US 5. Recomendo a quem for em Miami tirar um dia para ter essa experiência incrível!",
+      "gradeComment": 5
+    },
+    {
+      "author": "Atsunori Ando",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucrIC_MhKP_sCVQMnQ7N7bNQlW8tWrNO5PIFIhy_fQ=w36-h36-p-c0x00000000-rp-mo-ba5-br100",
+      "comment": "O Zoo é bem amplo e com diversos animais, mas é beeem quente pq a maioria das trilhas é sob o sol.",
+      "gradeComment": 4
+    },
+    {
+      "author": "jose elias cavalcanti",
+      "photoAuthor": "https://lh3.googleusercontent.com/a/AItbvmkq9OMeIwPd7HDqJwQXhsD_eRrDBrQZR3xYzi8K=w36-h36-p-c0x00000000-rp-mo-ba2-br100",
+      "comment": "Amplo espaço. Várias espécies separadas por continente de origem. Fui 3 meses após a passagem do furacão irma e o local estava recuperado, mas algumas espécies estavam ausentes. É um excelente passeio para a família.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Soffy Mallely Ordoñez Posada",
+      "photoAuthor": "https://lh3.googleusercontent.com/a/AItbvmnG_3L0tJqfR20VQ5817WbONdQVlRvt6-Nv0JC8=w36-h36-p-c0x00000000-rp-mo-ba3-br100",
+      "comment": "Para ir al Zoológico de Miami debes ir de preferencia en tennis porque hay que caminar mucho, utilizar gorra por el sol y protector solar, los animales están en excelentes condiciones, con espacios grandes, bien alimentados es un lugar para ir en familia, hay algunos animales que puedes alimentar comprando en el zoológico la comida especial para hacerlo, tiene transporte interno un tren si no deseas caminar mucho, pero ahí saltarinas algunos animales  Para vc ir no zoológico da Miami, melhor vc  ir de tênis, porque tem que caminar muito,  utilizar boné por conta do sol y proteção solar, os animais estão em boas condições, com espaços maiores, com boa alimentação, e um lugar para vc ir com sua família, tem alguns animais que vc pode dar comida, vc compra no zoológico o alimento especial, o zoológico têm trem se vc não quiser caminhar muito, só que não consegue ver todos os animais",
+      "gradeComment": 5
+    },
+    {
+      "author": "Regerson Lee Alves",
+      "photoAuthor": "https://lh3.googleusercontent.com/a/AItbvmk3hbJFjcB8n5Ho6uUtWNurquukRTPXX3_5K5SB=w36-h36-p-c0x00000000-rp-mo-ba3-br100",
+      "comment": "Zoológico,  limpo , organizado.  Tem que andar bastante , tem a opção de alugar um carrinho bicicleta.  Para 3 e 4 pessoas . Tem bebedouros de água pelo parque inteiro . E uns 3 a 4 lugares para comer . Bastantes maquinas de refrigerantes que só aceitam moeda de 0.25 ou nota de 1,00 . Para olhar tudo bem tranquilo média 3 a 4 horas .",
+      "gradeComment": 5
+    },
+    {
+      "author": "Ligia Bulhões",
+      "photoAuthor": "https://lh3.googleusercontent.com/a/AItbvmml0_JaqiIzMFZrF0I8A2ByGTZURxtanpxUEMGo=w36-h36-p-c0x00000000-rp-mo-ba3-br100",
+      "comment": "Você se sentirá na selva. Espaço enorme, então prepare-se para caminhar. Ou, alugue uma bicicleta assim que chegar, vale a pena. As entradas são um pouco cara.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Marilia Bechara",
+      "photoAuthor": "https://lh3.googleusercontent.com/a/AItbvmm8utzr4lGzcaqTtZATGefe6FoFdP2Tq-y2j6AR=w36-h36-p-c0x00000000-rp-mo-br100",
+      "comment": "O lugar é grande, porém esperava um pouco mais! Tem alguns animais e tem a opção de alimentar alguns! Creio que seja a melhor parte! Mas quando fui algumas Coisas não estavam funcionado, não sei se era segunda, ou se estão em manutenção! O estacionamento é grátis!",
+      "gradeComment": 4
+    },
+    {
+      "author": "Lidiane Oliveira",
+      "photoAuthor": "https://lh3.googleusercontent.com/a/AItbvmlRKxDAjtVJRkzyAI1KQXVRd8uV29Sy6fFGC8Ll=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "Tudo maravilhoso!!!!! E muito grande com muitos bichos para ver! Se programe principalmente se estiver com crianças pequenas.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Alexandre Daudt David",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucpdcyefIMb-4xfWLz60A-uXfLoBRQ9zjFvZpFrByQ=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "Recomendo muito a visita ao zoológico de Miami. O local fica bem ao sul de Miami, e o melhor é sair cedo e aguardar para não voltar no final da tarde por causa do movimento de carros nas principais estradas. O local é enorme, muito limpo e organizado. Conta com vários restaurantes e um trem que liga todo o zoológico (USD5.00 por pessoa), ótimo para os dias de muito calor. Outro fator importante é que o estacionamento não é pago.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Fotos Frederico",
+      "photoAuthor": "https://lh3.googleusercontent.com/a/AItbvmnkarDTkcgJNtf6rCcng--seJK1IoCCYPcAFfkB=w36-h36-p-c0x00000000-rp-mo-br100",
+      "comment": "Muito grande, alugue a bicicleta!!! No geral tem boa diversidade.",
+      "gradeComment": 4
+    },
+    {
+      "author": "Andreia Costa",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucrcGOtiDYgwsVBxheXPT13o8sapeS1Me88zzsIi=w36-h36-p-c0x00000000-rp-mo-ba3-br100",
+      "comment": "O melhor zoo que já visitei, um espaço muito agradável, é óptimo para passar um dia. A zona dos Everglades está um máximo. A única coisa que deixa a desejar é a oferta de comida. Alimentar as girafas é uma experiência única. 👍",
+      "gradeComment": 5
+    },
+    {
+      "author": "gibba sales",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucon6l_Tk_OQxu4Xqa9H6liVH9gEDIgSkjos_X_61A=w36-h36-p-c0x00000000-rp-mo-ba5-br100",
+      "comment": "Um ótimo lugar para passar o dia com a família, junto a natureza",
+      "gradeComment": 4
+    },
+    {
+      "author": "Gustavo Zahluth",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucqfYtpcFOPSD9inXw8ZhUs0Tvu3fzQNU12UQnVRbMI=w36-h36-p-c0x00000000-rp-mo-ba5-br100",
+      "comment": "Excelente passeio com crianças, dá pra passar o dia inteiro, zoo grande e com vários parques .",
+      "gradeComment": 5
+    },
+    {
+      "author": "Julianna Miranda Medeiros",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucr6IwAkeP3MS6G9ZDc8Q94sP61WX3Y5IUpxRGwt_xA=w36-h36-p-c0x00000000-rp-mo-ba3-br100",
+      "comment": "Lugar Lindo, bem cuidado, super agradável para passar o dia com a família! Comi um hambúrguer lá delicioso!  Super indico.......Estacionamento amplo, funcionários prestativos!!!!!",
+      "gradeComment": 5
+    }
+  ],
+  "peakHours": [
+    {
+      "Sunday": [
+        {
+          "hour": "10:00",
+          "percent": 39
+        },
+        {
+          "hour": "11:00",
+          "percent": 67
+        },
+        {
+          "hour": "12:00",
+          "percent": 90
+        },
+        {
+          "hour": "13:00",
+          "percent": 100
+        },
+        {
+          "hour": "14:00",
+          "percent": 98
+        },
+        {
+          "hour": "15:00",
+          "percent": 88
+        },
+        {
+          "hour": "16:00",
+          "percent": 64
+        }
+      ]
+    },
+    {
+      "Monday": [
+        {
+          "hour": "10:00",
+          "percent": 26
+        },
+        {
+          "hour": "11:00",
+          "percent": 34
+        },
+        {
+          "hour": "12:00",
+          "percent": 41
+        },
+        {
+          "hour": "13:00",
+          "percent": 45
+        },
+        {
+          "hour": "14:00",
+          "percent": 44
+        },
+        {
+          "hour": "15:00",
+          "percent": 36
+        },
+        {
+          "hour": "16:00",
+          "percent": 24
+        }
+      ]
+    },
+    {
+      "Tuesday": [
+        {
+          "hour": "10:00",
+          "percent": 30
+        },
+        {
+          "hour": "11:00",
+          "percent": 38
+        },
+        {
+          "hour": "12:00",
+          "percent": 46
+        },
+        {
+          "hour": "13:00",
+          "percent": 50
+        },
+        {
+          "hour": "14:00",
+          "percent": 48
+        },
+        {
+          "hour": "15:00",
+          "percent": 39
+        },
+        {
+          "hour": "16:00",
+          "percent": 27
+        }
+      ]
+    },
+    {
+      "Wednesday": [
+        {
+          "hour": "10:00",
+          "percent": 29
+        },
+        {
+          "hour": "11:00",
+          "percent": 37
+        },
+        {
+          "hour": "12:00",
+          "percent": 43
+        },
+        {
+          "hour": "13:00",
+          "percent": 47
+        },
+        {
+          "hour": "14:00",
+          "percent": 46
+        },
+        {
+          "hour": "15:00",
+          "percent": 39
+        },
+        {
+          "hour": "16:00",
+          "percent": 26
+        }
+      ]
+    },
+    {
+      "Thursday": [
+        {
+          "hour": "10:00",
+          "percent": 31
+        },
+        {
+          "hour": "11:00",
+          "percent": 39
+        },
+        {
+          "hour": "12:00",
+          "percent": 45
+        },
+        {
+          "hour": "13:00",
+          "percent": 48
+        },
+        {
+          "hour": "14:00",
+          "percent": 45
+        },
+        {
+          "hour": "15:00",
+          "percent": 37
+        },
+        {
+          "hour": "16:00",
+          "percent": 25
+        }
+      ]
+    },
+    {
+      "Friday": [
+        {
+          "hour": "10:00",
+          "percent": 29
+        },
+        {
+          "hour": "11:00",
+          "percent": 38
+        },
+        {
+          "hour": "12:00",
+          "percent": 43
+        },
+        {
+          "hour": "13:00",
+          "percent": 44
+        },
+        {
+          "hour": "14:00",
+          "percent": 41
+        },
+        {
+          "hour": "15:00",
+          "percent": 34
+        },
+        {
+          "hour": "16:00",
+          "percent": 24
+        }
+      ]
+    },
+    {
+      "Saturday": [
+        {
+          "hour": "10:00",
+          "percent": 37
+        },
+        {
+          "hour": "11:00",
+          "percent": 58
+        },
+        {
+          "hour": "12:00",
+          "percent": 76
+        },
+        {
+          "hour": "13:00",
+          "percent": 85
+        },
+        {
+          "hour": "14:00",
+          "percent": 84
+        },
+        {
+          "hour": "15:00",
+          "percent": 73
+        },
+        {
+          "hour": "16:00",
+          "percent": 52
+        }
+      ]
+    }
+  ],
+  "relatedSearches": [
+    "zoo miami tickets",
+    "miami zoo animals",
+    "zoo tampa",
+    "miami children's museum",
+    "zoological wildlife foundation",
+    "miami seaquarium ticket price",
+    "metrozoo miami",
+    "covid zoo miami"
+  ],
+  "relateds": [
+    {
+      "mainName": "Jungle Island",
+      "url": null
+    },
+    {
+      "mainName": "Aquário de Miami",
+      "url": null
+    },
+    {
+      "mainName": "Monkey Jungle",
+      "url": null
+    },
+    {
+      "mainName": "Gold Coast Railroad Museum",
+      "url": null
+    },
+    {
+      "mainName": "Lion Country Safari",
+      "url": null
+    },
+    {
+      "mainName": "Palm Beach Zoo",
+      "url": null
+    },
+    {
+      "mainName": "Lowry Park Zoo",
+      "url": null
+    },
+    {
+      "mainName": "Zoológico e Jardins Jacksonville",
+      "url": null
+    },
+    {
+      "mainName": "Brevard Zoo",
+      "url": null
+    },
+    {
+      "mainName": "Naples Zoo at Caribbean Gardens",
+      "url": null
+    },
+    {
+      "mainName": "Villa Vizcaya",
+      "url": null
+    },
+    {
+      "mainName": "Central Florida Zoo & Botanical Gardens",
+      "url": null
+    },
+    {
+      "mainName": "Butterfly World",
+      "url": null
+    },
+    {
+      "mainName": "Gatorland",
+      "url": null
+    },
+    {
+      "mainName": "Dallas Zoo",
+      "url": null
+    },
+    {
+      "mainName": "The Florida Aquarium",
+      "url": null
+    },
+    {
+      "mainName": "Wings Over Miami Museum",
+      "url": null
+    },
+    {
+      "mainName": "Gulf Breeze Zoo",
+      "url": null
+    },
+    {
+      "mainName": "Theater of the Sea",
+      "url": null
+    },
+    {
+      "mainName": "St. Augustine Alligator Farm Zoological Park",
+      "url": null
+    },
+    {
+      "mainName": "Zoológico do Bronx",
+      "url": null
+    },
+    {
+      "mainName": "Philadelphia Zoo",
+      "url": null
+    },
+    {
+      "mainName": "Key West Butterfly & Nature Conservatory",
+      "url": null
+    },
+    {
+      "mainName": "Zoológico de Los Angeles",
+      "url": null
+    }
+  ]
+}

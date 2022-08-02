@@ -1,0 +1,895 @@
+{
+  "mainName": "La Villa / Basílica",
+  "slug": "la-villa-basilica",
+  "category": "Estação de metrô",
+  "locationInformation": {
+    "latitude": "19.48174",
+    "longitude": "-99.11837"
+  },
+  "basicInformation": [
+    {
+      "label": "endereço",
+      "tooltip": "Copiar endereço",
+      "text": "Tepeyac Insurgentes, 07020 Cidade do México, Distrito Federal, México",
+      "icon": "https://www.gstatic.com/images/icons/material/system_gm/1x/place_gm_blue_24dp.png"
+    },
+    {
+      "label": "endereço",
+      "tooltip": "Copiar endereço",
+      "text": "Tepeyac Insurgentes, 07020 Ciudad de México, CDMX",
+      "icon": "https://www.gstatic.com/images/icons/material/system_gm/1x/place_gm_blue_24dp.png"
+    },
+    {
+      "label": "Code",
+      "tooltip": "Copiar Plus Code",
+      "text": "FVJJ+MM Cidade do México, Distrito Federal, México",
+      "icon": "https://maps.gstatic.com/mapfiles/maps_lite/images/2x/ic_plus_code.png"
+    }
+  ],
+  "ratingInformation": {
+    "basicRatingInformation": {
+      "averageGrade": 4.4,
+      "totalOfEvaluations": 313
+    },
+    "ratingsByGrade": [
+      {
+        "grade": 5,
+        "totalRatings": 206
+      },
+      {
+        "grade": 4,
+        "totalRatings": 68
+      },
+      {
+        "grade": 3,
+        "totalRatings": 17
+      },
+      {
+        "grade": 2,
+        "totalRatings": 6
+      },
+      {
+        "grade": 1,
+        "totalRatings": 16
+      }
+    ]
+  },
+  "ratingTags": [
+    {
+      "tag": "religioso",
+      "count": 16,
+      "tooltip": "religioso, mencionado em 16 avaliações"
+    },
+    {
+      "tag": "fé",
+      "count": 8,
+      "tooltip": "fé, mencionado em 8 avaliações"
+    },
+    {
+      "tag": "mãe",
+      "count": 8,
+      "tooltip": "mãe, mencionado em 8 avaliações"
+    },
+    {
+      "tag": "história",
+      "count": 8,
+      "tooltip": "história, mencionado em 8 avaliações"
+    },
+    {
+      "tag": "imagem",
+      "count": 6,
+      "tooltip": "imagem, mencionado em 6 avaliações"
+    },
+    {
+      "tag": "simpáticos",
+      "count": 5,
+      "tooltip": "simpáticos, mencionado em 5 avaliações"
+    },
+    {
+      "tag": "comércio",
+      "count": 5,
+      "tooltip": "comércio, mencionado em 5 avaliações"
+    },
+    {
+      "tag": "turístico",
+      "count": 5,
+      "tooltip": "turístico, mencionado em 5 avaliações"
+    },
+    {
+      "tag": "igreja",
+      "count": 4,
+      "tooltip": "igreja, mencionado em 4 avaliações"
+    },
+    {
+      "tag": "templo",
+      "count": 3,
+      "tooltip": "templo, mencionado em 3 avaliações"
+    }
+  ],
+  "featuredPhotos": [
+    "https://lh5.googleusercontent.com/p/AF1QipN0aagSnVyBIpdAd9HHT0Claz6UpBRA2YUbTZCX=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipN-vPEAbstlQe_bnvbL2wd158y8ZQ2eNz_gUySx=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNzYWcx-d9zBLB1IJx7wJt1lgxT7Pt4JG4CfS8=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOw1lwRKaxX-rboaEHTBLQynFzjh-mkGCpO8UQc=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipN2zIN5KZdocyNbNGL9dYJ_LZqSpcuxvOBAy3qI=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNI5HoXNjOb0Iw0gLNlz5U5bRYw7AKGn3fBPIXz=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNY8lp-E6p9tEdTxXX4NS5AH50ki58_oVJ19nFW=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMbeOMNUX25NiQmtdbw3daTrSabtez6dui_D9NA=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNi4h8CF8M7E6mHsl4_GU3CiIMWYGakca_wmmwg=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPvpYC5QxEhlSTxrMbBhpvQOGMtKCjqx--bWKJj=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMaMoG-7Or6bNVbtJ0-Hhj4HEz61EMtuXx6pFpd=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMnyY74tLHHzb_gvmdEyH5lqQHLshX6MwerHoL5=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMpjRjh3Sk7GbRMP8ovobk11YT0gNnvEU_paW5W=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPlsfQUY-2hetxCVgPR5j4b1vE28XPJLSU-Mx-2=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNzsZs0V9ra-HZL0k-obDCh4sYphtt1ulwIxAbe=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipO0Z0GSzFs-zzp4IgtPQhArCjtcBxZaQ51m5ZJW=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOw2i3oYyhSAgz-n6RKFtgXxUe4wV8VolYKk8ES=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPZ3l_pzk3-dBpqIuPSdxHYUwxa9bjbwNYj7ZFy=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNw_OxNPsA3U8Bz6K8bwF0hq96_340sc_pRmS0Q=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPOQm93_BfVo991Q-S1jvI2YtjqoPeSFqRnEnUs=w1024-h576-k-no"
+  ],
+  "topComments": [
+    {
+      "author": "Antonio Trevilla",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucpi1ktjV_fDw0fo8qCuNqqktsw0Ai4pWrpizKiJ-jQ=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "(Tradução do Google) As instalações limpas, o protocolo de prevenção do COVID estão em ordem... Excelente local histórico.  (Original) Las instalaciones limpias, el protocolo para prevención del COVID lo llevan en orden... Excelente lugar histórico.",
+      "gradeComment": 4
+    },
+    {
+      "author": "Jennifer Schell",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucrDrUhyOtFsKJj0Ig62ket6jCsBwUBFpmSECo7nFA=w36-h36-p-c0x00000000-rp-mo-ba3-br100",
+      "comment": "(Tradução do Google) Lindo lugar para fazer uma peregrinação e viver a devoção de um país, recomendo que vá em um dia de semana, (se enche de muita gente no domingo) compre seus objetos religiosos com antecedência para poder levá-los abençoados.  Vale a pena fazer o passeio a pé de peregrinação  (Original) Hermoso lugar para peregrinar y vivir la devoción de un país, te recomiendo ir en día de semana, (se llena de muchas personas el domingo) compra tus objetos religiosos con anticipación para que puedas llevártelos benditos.  Vale la pena hacer el recorrido a pie de la peregrinación",
+      "gradeComment": 5
+    },
+    {
+      "author": "Nelson Pinzon Tique",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucr4vY1N5uaFK6mT8jV4Wvo5w8MrCAG9KSxIbAB13yg=w36-h36-p-c0x00000000-rp-mo-ba3-br100",
+      "comment": "(Tradução do Google) Muito bonita a basílica da Virgem de Guadalupe  (Original) Muy hermosa la basílica de la vegencita de Guadalupe",
+      "gradeComment": 5
+    },
+    {
+      "author": "Golver",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucruf4NwySvv_Y7xP8RwoBMrV3QtpGzRLmC-5KT1fHk=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "(Tradução do Google) Este é um lugar muito especial e representativo para a comunidade católica, é tranquilo, espaçoso e cheio de fé. Apenas tome cuidado com batedores de carteira e ladrões que costumam sair do metrô e entrar no pátio principal em direção à basílica. Para comer não é muito recomendado, tem que procurar os melhores preços, dentro do mercado alimentar e o sabor não é muito bom.  (Original) Este es un lugar muy especial y representativo para la comunidad católica, es tranquilo, amplio y lleno de fe. Solo tengan cuidado con los carteristas, y ladrones que suelen estar saliendo del metro y dentro del patio principal hacia la basílica. Para comer no es muy recomendable, tienes que buscar los mejores precios, dentro del mercado de comidas y el sabor no es la gran cosa.",
+      "gradeComment": 4
+    },
+    {
+      "author": "B PaVe",
+      "photoAuthor": "https://lh3.googleusercontent.com/a/AItbvmkKMbNz6wBQF5P2B1x-cFnPqK4H90ucK22E5As5=w36-h36-p-c0x00000000-rp-mo-br100",
+      "comment": "El lugar está muy bonito,pero desperdician mucho el agua,un baño subiendo a la iglesia se tira el agua y la encargada muy despreocupada,y en los negocios lavan el piso con el chorro de la manguera,ni siquiera usan la escoba,que mal",
+      "gradeComment": 3
+    },
+    {
+      "author": "Victoria Zapata García",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucpnvaNpFfRA0fXYSvgC5CR3spC7Xt7rP4oDxw4pUaA=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "(Tradução do Google) O segundo local católico mais visitado do mundo... Lindo, basta trazer tênis e querer passear  (Original) El segundo recinto católico más visitado del mundo... Hermoso, solo q hay q traer tenis y ganas de caminar",
+      "gradeComment": 5
+    },
+    {
+      "author": "GUILLERMO ARCHUNDIA",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucryEEfqidbrVIJ7IuPA1QpnEd5X2Edneb1Ju0S0ZTU=w36-h36-p-c0x00000000-rp-mo-ba5-br100",
+      "comment": "(Tradução do Google) PASSEIO PELA VILA VISITANDO NOSSA RAINHA E SENHORA AGRADECER TODA ESSA VIAGEM DA VIDA POR 62 ANOS. AOS SEUS PÉS ME PROSTREI AMOROSA E LINDA MÃE UNIVERSAL.  (Original) PASEANDO POR LA VILLA VISITANDO A NUESTRA REINA Y SEÑORA PARA AGRADECER TODO ESTE TRAYECTO DE VIDA DURANTE 62 AÑOS. A TUS PIES ME POSTRÓ AMOROSA Y LINDÍSIMA MADRE UNIVERSAL.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Karina Zetina",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucpAJS3Ew06iqV3NCRDBylxjjygY8eud1pMHHDFBKfc=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "(Tradução do Google) Dos lugares mais bonitos que já visitei, há muito para ver, muitas áreas para visitar. As pessoas trazem suas imagens para abençoar e os souvenirs são baratos. Recomendo que visitar este lugar seja bom para a alma e se sinta em paz, principalmente se pedir um e o seu.  (Original) De los lugares más hermosos que he visitado, ahí tanto que ver, muchas areas por recorrer. Las personas llevan sus imágenes a bendecir y los recuerditos son económicos. Recomiendo visiten este lugar es bueno para el alma y sentirse en paz, sobre todo para pedir por uno y por los suyos.",
+      "gradeComment": 5
+    },
+    {
+      "author": "jesus lagocasas",
+      "photoAuthor": "https://lh3.googleusercontent.com/a/AItbvmnyyQRJufx_-8kEAZxhV5wqENinefDZSg7CGlQz=w36-h36-p-c0x00000000-rp-mo-ba6-br100",
+      "comment": "(Tradução do Google) Estação parte da linha 6 do metrô, localizada a poucos passos da Basílica de Guadalupe. De um lado está o museu ferroviário, com estacionamento para bicicletas.  (Original) Estación parte de línea 6 del metro, ubicada a unos pasos de la Basílica de Guadalupe. A un costado se encuentra el museo del ferrocarrilero.Cuenta con estacionamiento para bicicletas.",
+      "gradeComment": 4
+    },
+    {
+      "author": "Jorge Martinez",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucowSKFpuxbVFG8cX9XriVI9QfJvhKDVFmb_VaESfA=w36-h36-p-c0x00000000-rp-mo-ba5-br100",
+      "comment": "(Tradução do Google) É a maior igreja do México e da América Latina onde se venera a Virgem de Guadalupe, que se encarna na tela de Juan Diego  (Original) Es la mas grande iglesia de mexico y de latinoamerica donde se venera a la virgen de Guadalupe que esta plasmada en el lienzo de Juan Diego",
+      "gradeComment": 5
+    }
+  ],
+  "peakHours": [
+    {
+      "Sunday": [
+        {
+          "hour": "06:00",
+          "percent": 5
+        },
+        {
+          "hour": "07:00",
+          "percent": 16
+        },
+        {
+          "hour": "08:00",
+          "percent": 30
+        },
+        {
+          "hour": "09:00",
+          "percent": 48
+        },
+        {
+          "hour": "10:00",
+          "percent": 67
+        },
+        {
+          "hour": "11:00",
+          "percent": 84
+        },
+        {
+          "hour": "12:00",
+          "percent": 95
+        },
+        {
+          "hour": "13:00",
+          "percent": 100
+        },
+        {
+          "hour": "14:00",
+          "percent": 99
+        },
+        {
+          "hour": "15:00",
+          "percent": 93
+        },
+        {
+          "hour": "16:00",
+          "percent": 83
+        },
+        {
+          "hour": "17:00",
+          "percent": 69
+        },
+        {
+          "hour": "18:00",
+          "percent": 53
+        },
+        {
+          "hour": "19:00",
+          "percent": 37
+        },
+        {
+          "hour": "20:00",
+          "percent": 23
+        },
+        {
+          "hour": "21:00",
+          "percent": 13
+        },
+        {
+          "hour": "22:00",
+          "percent": 6
+        },
+        {
+          "hour": "23:00",
+          "percent": 2
+        }
+      ]
+    },
+    {
+      "Monday": [
+        {
+          "hour": "04:00",
+          "percent": 2
+        },
+        {
+          "hour": "05:00",
+          "percent": 9
+        },
+        {
+          "hour": "06:00",
+          "percent": 18
+        },
+        {
+          "hour": "07:00",
+          "percent": 29
+        },
+        {
+          "hour": "08:00",
+          "percent": 40
+        },
+        {
+          "hour": "09:00",
+          "percent": 47
+        },
+        {
+          "hour": "10:00",
+          "percent": 53
+        },
+        {
+          "hour": "11:00",
+          "percent": 57
+        },
+        {
+          "hour": "12:00",
+          "percent": 62
+        },
+        {
+          "hour": "13:00",
+          "percent": 69
+        },
+        {
+          "hour": "14:00",
+          "percent": 74
+        },
+        {
+          "hour": "15:00",
+          "percent": 75
+        },
+        {
+          "hour": "16:00",
+          "percent": 72
+        },
+        {
+          "hour": "17:00",
+          "percent": 63
+        },
+        {
+          "hour": "18:00",
+          "percent": 51
+        },
+        {
+          "hour": "19:00",
+          "percent": 39
+        },
+        {
+          "hour": "20:00",
+          "percent": 27
+        },
+        {
+          "hour": "21:00",
+          "percent": 18
+        },
+        {
+          "hour": "22:00",
+          "percent": 10
+        },
+        {
+          "hour": "23:00",
+          "percent": 4
+        }
+      ]
+    },
+    {
+      "Tuesday": [
+        {
+          "hour": "04:00",
+          "percent": 2
+        },
+        {
+          "hour": "05:00",
+          "percent": 10
+        },
+        {
+          "hour": "06:00",
+          "percent": 21
+        },
+        {
+          "hour": "07:00",
+          "percent": 33
+        },
+        {
+          "hour": "08:00",
+          "percent": 42
+        },
+        {
+          "hour": "09:00",
+          "percent": 48
+        },
+        {
+          "hour": "10:00",
+          "percent": 52
+        },
+        {
+          "hour": "11:00",
+          "percent": 56
+        },
+        {
+          "hour": "12:00",
+          "percent": 62
+        },
+        {
+          "hour": "13:00",
+          "percent": 69
+        },
+        {
+          "hour": "14:00",
+          "percent": 73
+        },
+        {
+          "hour": "16:00",
+          "percent": 67
+        },
+        {
+          "hour": "17:00",
+          "percent": 59
+        },
+        {
+          "hour": "18:00",
+          "percent": 50
+        },
+        {
+          "hour": "19:00",
+          "percent": 40
+        },
+        {
+          "hour": "20:00",
+          "percent": 30
+        },
+        {
+          "hour": "21:00",
+          "percent": 20
+        },
+        {
+          "hour": "22:00",
+          "percent": 12
+        },
+        {
+          "hour": "23:00",
+          "percent": 5
+        }
+      ]
+    },
+    {
+      "Wednesday": [
+        {
+          "hour": "04:00",
+          "percent": 1
+        },
+        {
+          "hour": "05:00",
+          "percent": 9
+        },
+        {
+          "hour": "06:00",
+          "percent": 20
+        },
+        {
+          "hour": "07:00",
+          "percent": 32
+        },
+        {
+          "hour": "08:00",
+          "percent": 43
+        },
+        {
+          "hour": "09:00",
+          "percent": 51
+        },
+        {
+          "hour": "10:00",
+          "percent": 56
+        },
+        {
+          "hour": "11:00",
+          "percent": 61
+        },
+        {
+          "hour": "12:00",
+          "percent": 67
+        },
+        {
+          "hour": "13:00",
+          "percent": 73
+        },
+        {
+          "hour": "14:00",
+          "percent": 77
+        },
+        {
+          "hour": "15:00",
+          "percent": 77
+        },
+        {
+          "hour": "16:00",
+          "percent": 72
+        },
+        {
+          "hour": "17:00",
+          "percent": 63
+        },
+        {
+          "hour": "18:00",
+          "percent": 53
+        },
+        {
+          "hour": "19:00",
+          "percent": 42
+        },
+        {
+          "hour": "20:00",
+          "percent": 31
+        },
+        {
+          "hour": "21:00",
+          "percent": 22
+        },
+        {
+          "hour": "22:00",
+          "percent": 14
+        },
+        {
+          "hour": "23:00",
+          "percent": 7
+        },
+        {
+          "hour": "00:00",
+          "percent": 2
+        }
+      ]
+    },
+    {
+      "Thursday": [
+        {
+          "hour": "04:00",
+          "percent": 2
+        },
+        {
+          "hour": "05:00",
+          "percent": 10
+        },
+        {
+          "hour": "06:00",
+          "percent": 21
+        },
+        {
+          "hour": "07:00",
+          "percent": 33
+        },
+        {
+          "hour": "08:00",
+          "percent": 43
+        },
+        {
+          "hour": "09:00",
+          "percent": 50
+        },
+        {
+          "hour": "10:00",
+          "percent": 53
+        },
+        {
+          "hour": "11:00",
+          "percent": 57
+        },
+        {
+          "hour": "12:00",
+          "percent": 64
+        },
+        {
+          "hour": "13:00",
+          "percent": 71
+        },
+        {
+          "hour": "14:00",
+          "percent": 76
+        },
+        {
+          "hour": "15:00",
+          "percent": 76
+        },
+        {
+          "hour": "16:00",
+          "percent": 72
+        },
+        {
+          "hour": "17:00",
+          "percent": 65
+        },
+        {
+          "hour": "18:00",
+          "percent": 58
+        },
+        {
+          "hour": "19:00",
+          "percent": 49
+        },
+        {
+          "hour": "20:00",
+          "percent": 39
+        },
+        {
+          "hour": "21:00",
+          "percent": 28
+        },
+        {
+          "hour": "22:00",
+          "percent": 17
+        },
+        {
+          "hour": "23:00",
+          "percent": 8
+        },
+        {
+          "hour": "00:00",
+          "percent": 1
+        }
+      ]
+    },
+    {
+      "Friday": [
+        {
+          "hour": "04:00",
+          "percent": 2
+        },
+        {
+          "hour": "05:00",
+          "percent": 8
+        },
+        {
+          "hour": "06:00",
+          "percent": 17
+        },
+        {
+          "hour": "07:00",
+          "percent": 27
+        },
+        {
+          "hour": "08:00",
+          "percent": 37
+        },
+        {
+          "hour": "09:00",
+          "percent": 45
+        },
+        {
+          "hour": "10:00",
+          "percent": 52
+        },
+        {
+          "hour": "11:00",
+          "percent": 58
+        },
+        {
+          "hour": "12:00",
+          "percent": 64
+        },
+        {
+          "hour": "13:00",
+          "percent": 69
+        },
+        {
+          "hour": "14:00",
+          "percent": 74
+        },
+        {
+          "hour": "15:00",
+          "percent": 76
+        },
+        {
+          "hour": "16:00",
+          "percent": 73
+        },
+        {
+          "hour": "17:00",
+          "percent": 66
+        },
+        {
+          "hour": "18:00",
+          "percent": 56
+        },
+        {
+          "hour": "19:00",
+          "percent": 45
+        },
+        {
+          "hour": "20:00",
+          "percent": 33
+        },
+        {
+          "hour": "21:00",
+          "percent": 22
+        },
+        {
+          "hour": "22:00",
+          "percent": 13
+        },
+        {
+          "hour": "23:00",
+          "percent": 6
+        },
+        {
+          "hour": "00:00",
+          "percent": 1
+        }
+      ]
+    },
+    {
+      "Saturday": [
+        {
+          "hour": "04:00",
+          "percent": 2
+        },
+        {
+          "hour": "05:00",
+          "percent": 7
+        },
+        {
+          "hour": "06:00",
+          "percent": 15
+        },
+        {
+          "hour": "07:00",
+          "percent": 25
+        },
+        {
+          "hour": "08:00",
+          "percent": 37
+        },
+        {
+          "hour": "09:00",
+          "percent": 49
+        },
+        {
+          "hour": "10:00",
+          "percent": 62
+        },
+        {
+          "hour": "11:00",
+          "percent": 75
+        },
+        {
+          "hour": "12:00",
+          "percent": 86
+        },
+        {
+          "hour": "13:00",
+          "percent": 94
+        },
+        {
+          "hour": "14:00",
+          "percent": 96
+        },
+        {
+          "hour": "15:00",
+          "percent": 91
+        },
+        {
+          "hour": "16:00",
+          "percent": 80
+        },
+        {
+          "hour": "17:00",
+          "percent": 66
+        },
+        {
+          "hour": "18:00",
+          "percent": 51
+        },
+        {
+          "hour": "19:00",
+          "percent": 38
+        },
+        {
+          "hour": "20:00",
+          "percent": 26
+        },
+        {
+          "hour": "21:00",
+          "percent": 18
+        },
+        {
+          "hour": "22:00",
+          "percent": 11
+        },
+        {
+          "hour": "23:00",
+          "percent": 6
+        },
+        {
+          "hour": "00:00",
+          "percent": 2
+        }
+      ]
+    }
+  ],
+  "relatedSearches": [
+    "la basílica de guadalupe",
+    "colonia de la basílica de guadalupe",
+    "estación villa",
+    "que línea del metro me lleva a la villa",
+    "que línea del metro me lleva a la basílica de guadalupe",
+    "porque la línea 7 del metro esta tan profunda",
+    "mapa del metro basilica de guadalupe",
+    "transporte a la basílica de guadalupe"
+  ],
+  "relateds": [
+    {
+      "mainName": "Deportivo 18 de Marzo",
+      "url": null
+    },
+    {
+      "mainName": "Martín Carrera",
+      "url": null
+    },
+    {
+      "mainName": "Talismán",
+      "url": null
+    },
+    {
+      "mainName": "Potrero",
+      "url": null
+    },
+    {
+      "mainName": "Basílica de Nossa Senhora de Guadalupe",
+      "url": null
+    },
+    {
+      "mainName": "Lindavista",
+      "url": null
+    },
+    {
+      "mainName": "Misterios",
+      "url": null
+    },
+    {
+      "mainName": "Indios Verdes",
+      "url": null
+    },
+    {
+      "mainName": "Instituto del Petróleo",
+      "url": null
+    },
+    {
+      "mainName": "El Rosario",
+      "url": null
+    },
+    {
+      "mainName": "Norte 45",
+      "url": null
+    },
+    {
+      "mainName": "Museo de la basílica de Guadalupe",
+      "url": null
+    },
+    {
+      "mainName": "Villa de Aragón",
+      "url": null
+    },
+    {
+      "mainName": "Ferrería/Arena Ciudad de México",
+      "url": null
+    },
+    {
+      "mainName": "Museo de los Ferrocarrileros",
+      "url": null
+    },
+    {
+      "mainName": "Hidalgo",
+      "url": null
+    },
+    {
+      "mainName": "La Raza",
+      "url": null
+    },
+    {
+      "mainName": "Bondojito",
+      "url": null
+    },
+    {
+      "mainName": "Azcapotzalco",
+      "url": null
+    },
+    {
+      "mainName": "Tepeyac",
+      "url": null
+    },
+    {
+      "mainName": "Tezozómoc",
+      "url": null
+    },
+    {
+      "mainName": "Vallejo",
+      "url": null
+    },
+    {
+      "mainName": "Plaza Mariana",
+      "url": null
+    },
+    {
+      "mainName": "Aragón",
+      "url": null
+    }
+  ]
+}

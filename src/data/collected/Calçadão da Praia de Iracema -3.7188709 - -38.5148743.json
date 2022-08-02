@@ -1,0 +1,932 @@
+{
+  "mainName": "Calçadão da Praia de Iracema",
+  "slug": "calcadao-da-praia-de-iracema",
+  "category": "Calçadão",
+  "locationInformation": {
+    "latitude": "-3.7188709",
+    "longitude": "-38.5148743"
+  },
+  "basicInformation": [
+    {
+      "label": "endereço",
+      "tooltip": "Copiar endereço",
+      "text": "R. dos Pacajús, 66 - Praia de Iracema, Fortaleza - CE, 60060-520",
+      "icon": "https://www.gstatic.com/images/icons/material/system_gm/1x/place_gm_blue_24dp.png"
+    },
+    {
+      "label": "Code",
+      "tooltip": "Copiar Plus Code",
+      "text": "7FJP+F3 Praia de Iracema, Fortaleza - CE",
+      "icon": "https://maps.gstatic.com/mapfiles/maps_lite/images/2x/ic_plus_code.png"
+    },
+    {
+      "label": "merchant",
+      "text": "Reivindicar esta empresa",
+      "icon": "https://www.gstatic.com/images/icons/material/system_gm/1x/verified_user_gm_blue_24dp.png"
+    }
+  ],
+  "ratingInformation": {
+    "basicRatingInformation": {
+      "averageGrade": 4.6,
+      "totalOfEvaluations": 922
+    },
+    "ratingsByGrade": [
+      {
+        "grade": 5,
+        "totalRatings": 658
+      },
+      {
+        "grade": 4,
+        "totalRatings": 182
+      },
+      {
+        "grade": 3,
+        "totalRatings": 52
+      },
+      {
+        "grade": 2,
+        "totalRatings": 16
+      },
+      {
+        "grade": 1,
+        "totalRatings": 14
+      }
+    ]
+  },
+  "ratingTags": [
+    {
+      "tag": "turístico",
+      "count": 18,
+      "tooltip": "turístico, mencionado em 18 avaliações"
+    },
+    {
+      "tag": "banho",
+      "count": 13,
+      "tooltip": "banho, mencionado em 13 avaliações"
+    },
+    {
+      "tag": "por do sol",
+      "count": 13,
+      "tooltip": "por do sol, mencionado em 13 avaliações"
+    },
+    {
+      "tag": "segurança",
+      "count": 10,
+      "tooltip": "segurança, mencionado em 10 avaliações"
+    },
+    {
+      "tag": "seguro",
+      "count": 9,
+      "tooltip": "seguro, mencionado em 9 avaliações"
+    },
+    {
+      "tag": "lazer",
+      "count": 8,
+      "tooltip": "lazer, mencionado em 8 avaliações"
+    },
+    {
+      "tag": "patins",
+      "count": 7,
+      "tooltip": "patins, mencionado em 7 avaliações"
+    },
+    {
+      "tag": "diversão",
+      "count": 6,
+      "tooltip": "diversão, mencionado em 6 avaliações"
+    },
+    {
+      "tag": "cartão postal",
+      "count": 5,
+      "tooltip": "cartão postal, mencionado em 5 avaliações"
+    },
+    {
+      "tag": "passeio",
+      "count": 5,
+      "tooltip": "passeio, mencionado em 5 avaliações"
+    }
+  ],
+  "featuredPhotos": [
+    "https://lh5.googleusercontent.com/p/AF1QipNOxfjs5cEgnMhyBQN6aeJEyKwS5YGkrmBoLIoP=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNYsriLguqFNQDCj0gkecM-HjOiL7P2PboidHa4=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNFs5iC2I7Zfdgg1E58WHc9aAP88lV9kR6b5Cpq=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMLj7f1j2zB12hX4jj6vK0M9T0F7ehkUJ7dPQ2C=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipM4gHXZSqnNYvcXspvum19h4FogM6YQIHJwryVU=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipP6YcBJYYjk82gcuuEZVEs08xSTDT4qi7boNXqi=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMr-IytA4l1s4-UaKupw5ekQcvqopuGmU3MGiFQ=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNHeATFm3uo0UQLbIDG4jY3kFdkXR0FCdzQFME=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMpEVV6q-MG5B3pLP7O5SiLVlp5l4PqwWwQ7Y7l=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNphAvsiwfmwroj1bPCn4Sw1yWUyQgBMTW6gLIs=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNcoDYVxAcc9N7knvItT8GO7KD-Pbte70or71OG=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNweYr9PBsruDbHxBVzLNWpP4nipdfhMMFnTOCa=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOJy0B6N7qw5lwoieOww3IHM1lS551Fhvwo_Mns=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMJUnVhBy-lOl02cIxQYp1ocpHjEndfV5e4r3Yv=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPZQ60zfHK0D649UDl9FTiiAJHcQG7RYf0OF2Uu=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipM4Q5Hud6CB33KDsW03fpJXDvTJcKMoNvBdGysi=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOHdqLu0_6lY53ARHTdy-FXf-AtU1R9-1-izJKO=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNDOClUrcUe_P4_tPC5PkbZEDgafTfoF_gudMAW=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPrZN3KTTgXt73dXCI_rY9SYJ9APJP1d_oIvwGZ=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPM3LTdwlshUCQEfntKsO65Fag6JNBXNvgjS1Cn=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNbX3OmNJzsYc3_Pp88WDEQiaOQMRtlCtlKYXmX=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOKZDruNkUUw7ESS5m9wv51obosr82FiReBe3Xb=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNYOoaPtt7FZ6sdVlz3aCj7KDEY40Hd6dnknhBQ=w1024-h576-k-no"
+  ],
+  "topComments": [
+    {
+      "author": "Pedro Rogerio Policarpo",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucqEtbGUpp9U-isEqp7vssN9ez1Twhel775NpSrCWKU=w36-h36-p-c0x00000000-rp-mo-ba5-br100",
+      "comment": "Local muito bonito, o investimento está cada vez melhor, nossa Fortaleza realmente é uma das cidades mais bonitas do Brasil.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Mayara Ferreira",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucpDo_TWwfxDS-ILvdH07L-3kMZzve3gKGWMgHN-AoY=w36-h36-p-c0x00000000-rp-mo-ba3-br100",
+      "comment": "Lugar maravilhoso , para vários tipos de públicos , carrinhos de drinks e de lanches , tem estacionamento privado e público , um dos melhores açaí de Fortaleza com frutas e etc , drinks deliciosos , e preços variados , tem restaurantes lugar seguro e muito divertimento",
+      "gradeComment": 5
+    },
+    {
+      "author": "Edson Farias",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucpL7dwQjtpstlPcXlb7OIK-tcP-jWnt91TZDA49-ss=w36-h36-p-c0x00000000-rp-mo-ba3-br100",
+      "comment": "Ponto turístico clássico dessa cidade , com uma vista incrível do por do sol. Infelizmente o espaço não possui uma estrutura acolhedora , por exemplo mais cestos de lixo, algum abrigo para dias de chuva ou muito sol. A melhor parte é que você adentra mais de 500metros no mar",
+      "gradeComment": 3
+    },
+    {
+      "author": "Thales GUIA GOOGLE",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucqL4M0zBAFWicW7XhPb4QgDb2MkwBHuwWzc9Q1QeN0=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "Excelente ponto turístico de fortaleza. Super seguro e adorável",
+      "gradeComment": 5
+    },
+    {
+      "author": "Geysa Saldanha Correia Sombra",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucp4da9u8IRN1G3a0D6cIYMMFVgduRh9613tnni9=w36-h36-p-c0x00000000-rp-mo-ba3-br100",
+      "comment": "O calçadão é um ótimo lugar para lazer, prática esportiva, encontros... Só tem um problema; não tem lugar para sentar no novo calçadão e nem sombra, não tem árvores....",
+      "gradeComment": 4
+    },
+    {
+      "author": "Israel Mário Lopes",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucphsNeHD44NBq0lfhEhuM6UvcOJJx5UZjP8bcT0bhY=w36-h36-p-c0x00000000-rp-mo-ba3-br100",
+      "comment": "Gostei muito do Calçadão da Praia de Iracema. Fiquei em um hotel bem em frente, então pude por vários dias circular principalmente durante a noite, quando o ar estava mais fresco. Os comerciantes são geralmente muito simpáticos, atendem muito bem e tem uma boa diversidade de produtos. Isso, digo no lado das barracas. Já nos quiosques também há um bom atendimento, natural que a atenção não seja a mesma que recebemos nas barracas, mas a comida é boa, bebidas em geral em valor bom etc. Ah, vale dizer que há banheiros públicos bem limpos.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Dalton Bezerra",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucoar5LZFnvTyJVe7gzM42PniK53uo2r2ZBJPOXlNg=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "Gosto de ir quando estou pedalando. As vezes passo uns 10 minutinhos descansando, observando a paisagem e ouvindo o barulho das ondas. Em alguns horários é bem mais movimentado então se for pedalando precisa ter cuidado não atropelar ninguém pois a preferencia é do pedestre.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Ana Mello",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucoGA_dxoeUm50a2ZiiCWsU_wzYC9yoWDclPNRiNZYA=w36-h36-p-c0x00000000-rp-mo-ba6-br100",
+      "comment": "A orla mudou muito,  com o alargamento da faixa de areia temos ciclovias,  calçadas , quadras de basquete, academias, quadras de vôlei ou beach tênis estão espalhados. Novos quiosques foram construídos. E o mais importante segurança há patrulhamento é postos policiais em locais específicos. Bom eu como moradora da cidade fico muito satisfeita.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Ариел Карвалио",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucovyZOb82N5-eKy-VERQ69Ey6dRmlfNx9kTYwN-2Q=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "Local bem cuidado, há um contraste sobre o resto da cidade, já que essa área é bem investida. Durante o dia infelizmente havia muitas barracas estranhas e moradores de ruas por lá (Tipo muito !!!) Mas relevem e vão caminhando mais pra frente que é muito melhor.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Isaque Rodrigues Rocha",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucpYWFv2O0f8HiiZAAVxmfwK_Ngz6gvratyDWZAgDn8=w36-h36-p-c0x00000000-rp-mo-ba3-br100",
+      "comment": "Otimo ambiente e otimo lugar para passear e caminhar. Não só é um ponto turístico mas também um local muito bom para relaxar pois o clima é agradável e tem várias coisas como comida, esportes e entretenimento.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Nilberto Galvão",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucrAXWepyvMkqLfDiNATpZhORkC-kk1BmLljvnjDwmk=w36-h36-p-c0x00000000-rp-mo-ba5-br100",
+      "comment": "Excelente! Amplo, com variadas opções de lazer, boa iluminação, segurança bem ostensiva em todo calçadão, ciclo vias, super bem frequentado por famílias e turistas de todo lugares.",
+      "gradeComment": 4
+    },
+    {
+      "author": "Alexsandra Holanda",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZuco3Ci59NAag63gLj3iP6NxuuP9rvtQ3ydWgvZsbdBk=w36-h36-p-c0x00000000-rp-mo-ba5-br100",
+      "comment": "A Praia de Iracema é um dos cartões postais de Fortaleza. Local muito visitado pelos jovens e pelos amantes como eu de apreciar o mar. Caminhar pelo calçadão, beber uma água de coco ou pedalar. Super indico.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Davi Barbosa de Souza",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucr22LtxgFukokLGUZ5TQX08XXBKts-BlDxWce36_A=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "Apesar de algumas áreas abandonadas.. ainda é um bom lugar pra brincar com as crianças usando patins, bicicletas, skates alugados a preços populares",
+      "gradeComment": 3
+    },
+    {
+      "author": "Agnes FREITAS PINTO",
+      "photoAuthor": "https://lh3.googleusercontent.com/a/AItbvmmEst0mvqNxImmL2bBblKHSuHwHhpwQpiUprOFe=w36-h36-p-c0x00000000-rp-mo-br100",
+      "comment": "O mar quando quebra na praia, é bonito, é bonito. Um pouquinho do paraíso.",
+      "gradeComment": 4
+    },
+    {
+      "author": "Edson Lima",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucq9E-UDhushS_Y-MAvGxQjHkgW79NP6Vq3MIuwh_go=w36-h36-p-c0x00000000-rp-mo-ba6-br100",
+      "comment": "Calçadão da Praia Iracema lugar muito bom maravilhoso fazer caminhada tem a Ponte dos inglês, outro lado Porto dragon. Vê conhecer esses lugares ponto turístico.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Vinícius Dias",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucp8ErXIykQGAqy4hBet0jNZxc_niFHPEGYQzm3VAXk=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "O calçadão é um bom lugar para passeio no final da tarde. Só cuidado com a segurança.",
+      "gradeComment": 4
+    },
+    {
+      "author": "Felipe Jose Costa Rodrigues",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucplpsuphPAuy8SRS6xI_m9zdoT5b16Oz7OO8X4Pxw=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "O pôr do sol mais bonito do Brasil, ultimamente tem recebido frequentadores muito a quem da beleza do local mas mesmo assim continua uma ótima opção no fim de tarde da sexta e sábado, não recomendo no domingo !",
+      "gradeComment": 5
+    },
+    {
+      "author": "Soraia Falcão e Grupo Recontar",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucqOnNAfs9ZnLfXMQJ87PT3m_TJoJp3-qQ9Zrw-1Uw=w36-h36-p-c0x00000000-rp-mo-ba5-br100",
+      "comment": "Espaço lindo, com vista para o mar de tirar o fôlego.  A juventude se reune, casais andam de mais dadas e o por do sol é perfeito. Não há banheiros públicos nem quiosques. É bom ter cuidado com os horários.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Heloísa Martins",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucoO9kj_SNCUAoHKQbVNzRW_5loD09zVytOsfPE0k0A=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "Praia bonita, bem movimentada a noite. Infelizmente a poluição e a marginalidade estão presentes em um lugar tão bonito.",
+      "gradeComment": 4
+    },
+    {
+      "author": "Alex P. Silva",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucqaCQK3lk3OzZuUlyNE1AdHRoMtpGiujsEOFnXkgU0=w36-h36-p-c0x00000000-rp-mo-ba3-br100",
+      "comment": "Ótimo lugar para passar, ver o pôr do sol e observar a lua. 🥰❤️",
+      "gradeComment": 5
+    }
+  ],
+  "peakHours": [
+    {
+      "Sunday": [
+        {
+          "hour": "04:00",
+          "percent": 5
+        },
+        {
+          "hour": "05:00",
+          "percent": 5
+        },
+        {
+          "hour": "06:00",
+          "percent": 6
+        },
+        {
+          "hour": "07:00",
+          "percent": 8
+        },
+        {
+          "hour": "08:00",
+          "percent": 14
+        },
+        {
+          "hour": "09:00",
+          "percent": 24
+        },
+        {
+          "hour": "10:00",
+          "percent": 36
+        },
+        {
+          "hour": "11:00",
+          "percent": 44
+        },
+        {
+          "hour": "12:00",
+          "percent": 49
+        },
+        {
+          "hour": "13:00",
+          "percent": 58
+        },
+        {
+          "hour": "14:00",
+          "percent": 73
+        },
+        {
+          "hour": "15:00",
+          "percent": 89
+        },
+        {
+          "hour": "16:00",
+          "percent": 100
+        },
+        {
+          "hour": "17:00",
+          "percent": 98
+        },
+        {
+          "hour": "18:00",
+          "percent": 86
+        },
+        {
+          "hour": "19:00",
+          "percent": 66
+        },
+        {
+          "hour": "20:00",
+          "percent": 45
+        },
+        {
+          "hour": "21:00",
+          "percent": 28
+        },
+        {
+          "hour": "22:00",
+          "percent": 17
+        },
+        {
+          "hour": "23:00",
+          "percent": 10
+        },
+        {
+          "hour": "00:00",
+          "percent": 7
+        },
+        {
+          "hour": "01:00",
+          "percent": 6
+        },
+        {
+          "hour": "02:00",
+          "percent": 6
+        },
+        {
+          "hour": "03:00",
+          "percent": 5
+        }
+      ]
+    },
+    {
+      "Monday": [
+        {
+          "hour": "04:00",
+          "percent": 1
+        },
+        {
+          "hour": "05:00",
+          "percent": 1
+        },
+        {
+          "hour": "06:00",
+          "percent": 1
+        },
+        {
+          "hour": "07:00",
+          "percent": 1
+        },
+        {
+          "hour": "08:00",
+          "percent": 1
+        },
+        {
+          "hour": "10:00",
+          "percent": 2
+        },
+        {
+          "hour": "11:00",
+          "percent": 5
+        },
+        {
+          "hour": "12:00",
+          "percent": 5
+        },
+        {
+          "hour": "13:00",
+          "percent": 4
+        },
+        {
+          "hour": "14:00",
+          "percent": 5
+        },
+        {
+          "hour": "15:00",
+          "percent": 8
+        },
+        {
+          "hour": "16:00",
+          "percent": 14
+        },
+        {
+          "hour": "17:00",
+          "percent": 19
+        },
+        {
+          "hour": "18:00",
+          "percent": 19
+        },
+        {
+          "hour": "19:00",
+          "percent": 14
+        },
+        {
+          "hour": "20:00",
+          "percent": 7
+        },
+        {
+          "hour": "21:00",
+          "percent": 2
+        },
+        {
+          "hour": "22:00",
+          "percent": 1
+        },
+        {
+          "hour": "23:00",
+          "percent": 1
+        },
+        {
+          "hour": "00:00",
+          "percent": 1
+        },
+        {
+          "hour": "01:00",
+          "percent": 1
+        },
+        {
+          "hour": "02:00",
+          "percent": 1
+        },
+        {
+          "hour": "03:00",
+          "percent": 1
+        }
+      ]
+    },
+    {
+      "Tuesday": [
+        {
+          "hour": "04:00",
+          "percent": 1
+        },
+        {
+          "hour": "05:00",
+          "percent": 1
+        },
+        {
+          "hour": "06:00",
+          "percent": 1
+        },
+        {
+          "hour": "07:00",
+          "percent": 1
+        },
+        {
+          "hour": "08:00",
+          "percent": 1
+        },
+        {
+          "hour": "09:00",
+          "percent": 1
+        },
+        {
+          "hour": "10:00",
+          "percent": 2
+        },
+        {
+          "hour": "11:00",
+          "percent": 2
+        },
+        {
+          "hour": "12:00",
+          "percent": 2
+        },
+        {
+          "hour": "13:00",
+          "percent": 2
+        },
+        {
+          "hour": "14:00",
+          "percent": 5
+        },
+        {
+          "hour": "15:00",
+          "percent": 8
+        },
+        {
+          "hour": "16:00",
+          "percent": 13
+        },
+        {
+          "hour": "17:00",
+          "percent": 15
+        },
+        {
+          "hour": "18:00",
+          "percent": 13
+        },
+        {
+          "hour": "19:00",
+          "percent": 9
+        },
+        {
+          "hour": "20:00",
+          "percent": 5
+        },
+        {
+          "hour": "21:00",
+          "percent": 2
+        },
+        {
+          "hour": "23:00",
+          "percent": 1
+        },
+        {
+          "hour": "00:00",
+          "percent": 1
+        },
+        {
+          "hour": "01:00",
+          "percent": 1
+        },
+        {
+          "hour": "02:00",
+          "percent": 1
+        },
+        {
+          "hour": "03:00",
+          "percent": 1
+        }
+      ]
+    },
+    {
+      "Wednesday": [
+        {
+          "hour": "04:00",
+          "percent": 1
+        },
+        {
+          "hour": "05:00",
+          "percent": 1
+        },
+        {
+          "hour": "06:00",
+          "percent": 1
+        },
+        {
+          "hour": "07:00",
+          "percent": 1
+        },
+        {
+          "hour": "08:00",
+          "percent": 1
+        },
+        {
+          "hour": "10:00",
+          "percent": 1
+        },
+        {
+          "hour": "11:00",
+          "percent": 1
+        },
+        {
+          "hour": "12:00",
+          "percent": 2
+        },
+        {
+          "hour": "13:00",
+          "percent": 4
+        },
+        {
+          "hour": "14:00",
+          "percent": 6
+        },
+        {
+          "hour": "15:00",
+          "percent": 9
+        },
+        {
+          "hour": "16:00",
+          "percent": 12
+        },
+        {
+          "hour": "17:00",
+          "percent": 13
+        },
+        {
+          "hour": "18:00",
+          "percent": 13
+        },
+        {
+          "hour": "19:00",
+          "percent": 12
+        },
+        {
+          "hour": "20:00",
+          "percent": 10
+        },
+        {
+          "hour": "21:00",
+          "percent": 7
+        },
+        {
+          "hour": "22:00",
+          "percent": 4
+        },
+        {
+          "hour": "23:00",
+          "percent": 2
+        },
+        {
+          "hour": "01:00",
+          "percent": 1
+        },
+        {
+          "hour": "02:00",
+          "percent": 1
+        },
+        {
+          "hour": "03:00",
+          "percent": 1
+        }
+      ]
+    },
+    {
+      "Thursday": [
+        {
+          "hour": "04:00",
+          "percent": 1
+        },
+        {
+          "hour": "05:00",
+          "percent": 1
+        },
+        {
+          "hour": "06:00",
+          "percent": 1
+        },
+        {
+          "hour": "07:00",
+          "percent": 1
+        },
+        {
+          "hour": "08:00",
+          "percent": 1
+        },
+        {
+          "hour": "09:00",
+          "percent": 3
+        },
+        {
+          "hour": "10:00",
+          "percent": 6
+        },
+        {
+          "hour": "11:00",
+          "percent": 8
+        },
+        {
+          "hour": "12:00",
+          "percent": 10
+        },
+        {
+          "hour": "13:00",
+          "percent": 12
+        },
+        {
+          "hour": "14:00",
+          "percent": 15
+        },
+        {
+          "hour": "15:00",
+          "percent": 20
+        },
+        {
+          "hour": "16:00",
+          "percent": 27
+        },
+        {
+          "hour": "17:00",
+          "percent": 33
+        },
+        {
+          "hour": "18:00",
+          "percent": 35
+        },
+        {
+          "hour": "19:00",
+          "percent": 33
+        },
+        {
+          "hour": "20:00",
+          "percent": 27
+        },
+        {
+          "hour": "21:00",
+          "percent": 18
+        },
+        {
+          "hour": "22:00",
+          "percent": 10
+        },
+        {
+          "hour": "23:00",
+          "percent": 5
+        },
+        {
+          "hour": "00:00",
+          "percent": 1
+        },
+        {
+          "hour": "01:00",
+          "percent": 1
+        },
+        {
+          "hour": "02:00",
+          "percent": 1
+        },
+        {
+          "hour": "03:00",
+          "percent": 1
+        }
+      ]
+    },
+    {
+      "Friday": [
+        {
+          "hour": "04:00",
+          "percent": 1
+        },
+        {
+          "hour": "05:00",
+          "percent": 1
+        },
+        {
+          "hour": "06:00",
+          "percent": 1
+        },
+        {
+          "hour": "07:00",
+          "percent": 1
+        },
+        {
+          "hour": "08:00",
+          "percent": 2
+        },
+        {
+          "hour": "09:00",
+          "percent": 5
+        },
+        {
+          "hour": "10:00",
+          "percent": 6
+        },
+        {
+          "hour": "11:00",
+          "percent": 6
+        },
+        {
+          "hour": "12:00",
+          "percent": 6
+        },
+        {
+          "hour": "13:00",
+          "percent": 6
+        },
+        {
+          "hour": "14:00",
+          "percent": 8
+        },
+        {
+          "hour": "15:00",
+          "percent": 12
+        },
+        {
+          "hour": "16:00",
+          "percent": 16
+        },
+        {
+          "hour": "17:00",
+          "percent": 19
+        },
+        {
+          "hour": "18:00",
+          "percent": 19
+        },
+        {
+          "hour": "20:00",
+          "percent": 11
+        },
+        {
+          "hour": "21:00",
+          "percent": 8
+        },
+        {
+          "hour": "22:00",
+          "percent": 6
+        },
+        {
+          "hour": "23:00",
+          "percent": 5
+        },
+        {
+          "hour": "00:00",
+          "percent": 3
+        },
+        {
+          "hour": "01:00",
+          "percent": 2
+        },
+        {
+          "hour": "03:00",
+          "percent": 1
+        }
+      ]
+    },
+    {
+      "Saturday": [
+        {
+          "hour": "04:00",
+          "percent": 1
+        },
+        {
+          "hour": "05:00",
+          "percent": 1
+        },
+        {
+          "hour": "06:00",
+          "percent": 1
+        },
+        {
+          "hour": "08:00",
+          "percent": 4
+        },
+        {
+          "hour": "09:00",
+          "percent": 10
+        },
+        {
+          "hour": "10:00",
+          "percent": 15
+        },
+        {
+          "hour": "11:00",
+          "percent": 16
+        },
+        {
+          "hour": "12:00",
+          "percent": 15
+        },
+        {
+          "hour": "13:00",
+          "percent": 15
+        },
+        {
+          "hour": "14:00",
+          "percent": 19
+        },
+        {
+          "hour": "15:00",
+          "percent": 27
+        },
+        {
+          "hour": "16:00",
+          "percent": 36
+        },
+        {
+          "hour": "17:00",
+          "percent": 42
+        },
+        {
+          "hour": "18:00",
+          "percent": 43
+        },
+        {
+          "hour": "19:00",
+          "percent": 40
+        },
+        {
+          "hour": "20:00",
+          "percent": 33
+        },
+        {
+          "hour": "21:00",
+          "percent": 27
+        },
+        {
+          "hour": "22:00",
+          "percent": 22
+        },
+        {
+          "hour": "23:00",
+          "percent": 20
+        },
+        {
+          "hour": "00:00",
+          "percent": 17
+        },
+        {
+          "hour": "01:00",
+          "percent": 14
+        },
+        {
+          "hour": "02:00",
+          "percent": 10
+        },
+        {
+          "hour": "03:00",
+          "percent": 5
+        }
+      ]
+    }
+  ],
+  "relatedSearches": null,
+  "relateds": null,
+  "editMode": false
+}

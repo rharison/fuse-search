@@ -1,0 +1,752 @@
+{
+  "mainName": "Casino Estoril",
+  "slug": "casino-estoril",
+  "category": "Cassino",
+  "locationInformation": {
+    "latitude": "38.7073034",
+    "longitude": "-9.3973137"
+  },
+  "basicInformation": [
+    {
+      "label": "endereço",
+      "tooltip": "Copiar endereço",
+      "text": "Av. Dr. Stanley Ho, 2765-190 Estoril, Portugal",
+      "icon": "https://www.gstatic.com/images/icons/material/system_gm/1x/place_gm_blue_24dp.png"
+    },
+    {
+      "label": "website",
+      "tooltip": "Abrir website",
+      "text": "casino-estoril.pt",
+      "icon": "https://www.gstatic.com/images/icons/material/system_gm/1x/public_gm_blue_24dp.png"
+    },
+    {
+      "label": "telefone",
+      "tooltip": "Copiar número de telefone",
+      "text": "+351 21 466 7700",
+      "icon": "https://www.gstatic.com/images/icons/material/system_gm/1x/phone_gm_blue_24dp.png"
+    },
+    {
+      "label": "Code",
+      "tooltip": "Copiar Plus Code",
+      "text": "PJ43+W3 Estoril, Portugal",
+      "icon": "https://maps.gstatic.com/mapfiles/maps_lite/images/2x/ic_plus_code.png"
+    }
+  ],
+  "ratingInformation": {
+    "basicRatingInformation": {
+      "averageGrade": 4.3,
+      "totalOfEvaluations": 10480
+    },
+    "ratingsByGrade": [
+      {
+        "grade": 5,
+        "totalRatings": 5988
+      },
+      {
+        "grade": 4,
+        "totalRatings": 2996
+      },
+      {
+        "grade": 3,
+        "totalRatings": 857
+      },
+      {
+        "grade": 2,
+        "totalRatings": 248
+      },
+      {
+        "grade": 1,
+        "totalRatings": 391
+      }
+    ]
+  },
+  "ratingTags": [
+    {
+      "tag": "espetáculos",
+      "count": 247,
+      "tooltip": "espetáculos, mencionado em 247 avaliações"
+    },
+    {
+      "tag": "preto",
+      "count": 57,
+      "tooltip": "preto, mencionado em 57 avaliações"
+    },
+    {
+      "tag": "jardim",
+      "count": 51,
+      "tooltip": "jardim, mencionado em 51 avaliações"
+    },
+    {
+      "tag": "gosto",
+      "count": 36,
+      "tooltip": "gosto, mencionado em 36 avaliações"
+    },
+    {
+      "tag": "lounge",
+      "count": 25,
+      "tooltip": "lounge, mencionado em 25 avaliações"
+    },
+    {
+      "tag": "copo",
+      "count": 25,
+      "tooltip": "copo, mencionado em 25 avaliações"
+    },
+    {
+      "tag": "ambiente",
+      "count": 19,
+      "tooltip": "ambiente, mencionado em 19 avaliações"
+    },
+    {
+      "tag": "exposições",
+      "count": 18,
+      "tooltip": "exposições, mencionado em 18 avaliações"
+    },
+    {
+      "tag": "auditório",
+      "count": 14,
+      "tooltip": "auditório, mencionado em 14 avaliações"
+    },
+    {
+      "tag": "emblemático",
+      "count": 9,
+      "tooltip": "emblemático, mencionado em 9 avaliações"
+    }
+  ],
+  "featuredPhotos": [
+    "https://lh5.googleusercontent.com/p/AF1QipNEukvSKZc_ojmX300PVXtj1gvc3nU6a2QKrlpd=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOymWPbezE6xXnUf3TP9tiQK2AkWlYZO6d0qd5n=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPymhKMKL83nw36wC4w60VuOYuKo1lHlMwju4Bw=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOQnDlyslvo1y16GtmWeB0ZMEQbNjjxf0XnTmkC=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNTh3dp8EhHJB2qkXtzEs5uij9Mscjfiari5HJ-=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPKGJjDL0U2Rq0XkKF-sbm82hBGNIX7RK8Rxqu1=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipO0yODeCrbo5GtWxt0_ra_QFdt3Mqey4znLWoSZ=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNj9crL9bRwvfEhY7jnqRJwrcrn8ZKY28klZB8a=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOCRwePGcQrfIQRMTtbDC39sUYlLvnux53oheh_=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMAQvqOXptLNBpToeIm3zSYeTqGT6qPjd6CCmWj=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipONDgDhf3NJ0uULJ0DMI4UV-1M-8wMB-REdFIZr=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMgyelBxFKzfqBpNrA-OJuvi7v8P2qCRQ7aJ6MX=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOBwCVV2TpbA7n1RKtSfgL9h5LfkMTIC5y_qAXo=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMRuIt8OOtZbZ6PYnwiFWBVFLnpdC_6rYBK3ANb=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPwtslXmXJXR3zM6uQJyGPicF6dQKoFzTdHQX_S=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMsxcEkml6IPyqBK2nSTdSX81p4Xa8jseMYsahT=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNXelGAuJGSYIzObNgwbPIHm8SFphK2ZM5YsKCu=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMY-UryFg-q4ASaSvqGSIShfdLodfszu-lw-Bhn=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipM_raVSVei-o6EkBjGe1UGAwzJB4hXDK9qXX-ZZ=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNUXR5bjpDJkAMegBmNhbVCDywSzAl-_vxlMvR9=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPohCx5QjbFvlK7ynZFRjVzSzedDVg-NftCyvlF=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPDsKebAy0KelIhSUNE0R-qjPLkuKrAQRAJqObY=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNxcWMZH1611RhiWsGJEZS5HwppgcykfCV4jEY0=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMbuLnii53xTn_8tx594dmy8FgByWuifpk40ioK=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMXKnr3Go0iWqyVivdPpbflTpbMsfM8Rj5hODQF=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipP6QEgfcrA-1EWvsQn7K-dQH6c6LKmS1PTHYWI=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMqZK-8FnjeG7WMs6Bt6FwMIcMgX1DfoiIVicoH=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipN0Xo3ey5TRA4_gIN1u9p_yW6Dt7B6KaBkvY1S9=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPa3bl6cZG4X8pAR8T7iB90bROA9pgU4_SbQ4_y=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOAgpRMrli39vW_u-4ZmRCd3-be4kGrHZl_00oe=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOL7NrTqeUOdSjhHQcUizS4LiysxjWBr2ViAJTd=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMlmYiL059VyG-3QUoMPXN0MzIg23waFDJ5CbQ5=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNnWfcNT-b1KDZtxQc9mg-ZUZaWlZunjr5o-Fz4=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOS3Bdg_cx4ja_gCwndTLL68CCo9X4XcEKeWpHP=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPd17gAqt4gNcGvVO_AM6PHTRuHFhZxbEx4zQ6O=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPSw08BaqF_hSHyKAkZ4g01r-epw-ejzkHtYdxg=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOp77MQ-KU5tHZ31NSzx46HHmssYrCeb6-qHXlC=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPN-2ZwckbXujkhEpjppvGMIjKXflhed-vy5U-6=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipM40YRvYOuwu_ATamoljLTHAMDL5aw7V9rgDvOO=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMCn52xX_jr8TnPVulzU_r8ZZ4ctD7S819EEQ6E=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOEeaVr-4VBTI1z_3k4USvFRx1H_K4s4YioTjMn=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOLv8pgPzVOQvDC4pX4S6EjG8sHETrNIMmjzmWy=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNEHe7MGI8rk4209INnQrk1gT9RYV8W-KJ_9ilb=w1024-h576-k-no"
+  ],
+  "topComments": [
+    {
+      "author": "Rui Nogueira",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucp9TR9GgAk4oP1AhM-i4e6AlHjPewh1x612iHYssLE=w36-h36-p-c0x00000000-rp-mo-ba5-br100",
+      "comment": "[PT] Um local lindo para passar uns bons momentos, este local dispõe de múltiplas atrações bem com café e restaurante com muita qualidade. O ambiente é bastante acolhedor. Estivemos a partilhar numa gala, no sala Preto e prata, um salão lindíssimo para uma noite memorável. Parabéns pelo espaço, certamente para voltar. [EN] A beautiful place to spend quality time, this place has multiple combinations and a high quality cafe and restaurant. The atmosphere is very welcoming. We were sharing a gala, in the Preto e Prata room, a beautiful room for a memorable night. Congratulations on the space, certainly to come back.",
+      "gradeComment": 4
+    },
+    {
+      "author": "Francisco Sanches",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucqOFKxawsA_5BwCsurKcP0cclJ06BnVFvkauP8Wxg=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "Lugar muito bonito,  excelente restaurante,  comida perfeita e bem em conta (17 euros) menu completo com Vinho Português, claro,  vá ao Casino Estoril,  depois pode fazer uma \"fezinha\".",
+      "gradeComment": 5
+    },
+    {
+      "author": "ProDJ",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucpQApUcsaHTxeM_cqcF7rx-cAL2DAI45ZKNqPwpvg=w36-h36-p-c0x00000000-rp-mo-ba3-br100",
+      "comment": "Minha companhia, muitas noites da semana. Neste momento, o único local em cascais/estoril onde se pode comer às 02:00am.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Nuno Miguel",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucrN7V0-5lzpykuHvKTCe3EVyYDuYLVgK7G13inhqoc=w36-h36-p-c0x00000000-rp-mo-ba6-br100",
+      "comment": "Um local único e especial. Este local é testemunha de excelentes momentos de alegria, diversão e muita animação. Voltamos sempre que podemos.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Ricardo Pocinho",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucrK_TMWpZfylXxAMvzKr5-i9OxXYVeJQjhlVurOxOs=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "Fui ver o espetaculo O Sangue das Palavras - Ary dos Santos, Elenco: Henrique Feist, Valter Mira e Diogo Leite; da Artfeist, e foi sem dúvida alguma um momento alto dos shows musicais a que tenho assistido. Vai para além disso é a Palavra. Excelente produção, excelentes actores/cantores, orquestra. Magnífico. Aconselho vivamente.",
+      "gradeComment": 5
+    },
+    {
+      "author": "carina duque",
+      "photoAuthor": "https://lh3.googleusercontent.com/a/AItbvmlZTHm2QRU9uIxPSzT-5JCZEoEGaHs6yc72xzPP=w36-h36-p-c0x00000000-rp-mo-br100",
+      "comment": "Local bonito mas poderia ser um local muito mais interessante e agradável de frequentar Se não fosse gritante o que se vê ali dentro Quase impossível abrir uma máquina em muito dinheiro que se gasta Depois os chefes de sala quando questionados dizem que não há manipulação que é uma questão do ciclo da máquina que é sorte ou azar que podes gastar 5 mil euros e não abrir uma máquina e gastar 5€ e ir a jogo Quem acredita nisso ?? Eu não sou de certeza o jogo não é puro Eles dão precisamente a quem querem dar É revoltante abrires máquinas com apostas a 5€ e não receberes nada de premio e outros constantemente a ganhar jackpots com os chefes mesmo atrás deles já a calcular o que vai acontecer já com a bandeja de premio preparada para vir pagar Eu falo nisto porque não é a primeira vez k vou a jogo nesses valores e nunca nunca tirei um jackpot não pode ser azar a mais Quem frequenta aquilo e está de olho aberto sabe muito bem do que falo Estaria aqui com muito mais para dizer mas para não ferir susceptibilidades é melhor ficar calada e  só dizer que é revoltante O grupo Estoril Sol é de fugir quem tiver a hipótese de conhecer o grupo Solverde acreditem.que o jogo é muito mais puro e não temos os funcionários sempre atrás de nós Das vezes que frequentei nunca saí desiludida",
+      "gradeComment": 2
+    },
+    {
+      "author": "Simone Sanches",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucoc4HNktpc0eHL87fQBuuCdNXPpwm5Xy82-f5Bj=w36-h36-p-c0x00000000-rp-mo-ba5-br100",
+      "comment": "Fomos no cassino para jantar e valeu a pena. O restaurante tem preço fixo de 17 euros para menu completo, com entrada, prato principal, sobremesa e bebida. Com apenas duas opções, mais são bem atrativas. Tudo estava muito saboroso e o valor compensou. O atendimento é corrido mas foi cordial, sem muita interação.",
+      "gradeComment": 5
+    },
+    {
+      "author": "André Simões",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucqM8TsKKJ1QgAgknkhsWsBVrINAH7JnYJEG2WEBnw=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "Espaço que é muito mais que um casino. Com uma área de espetáculos central que permite um bom envolvimento. Tem o fabuloso e requintado salão Preto e Prata. Dispõe de restaura te buffet, entre outras opções. Sendo moderno e o maior casino da europa, no fim faz sempre regressar um pouco ao passado e a outras histórias por aqui passadas.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Fabiana Brum",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucpMF1WPZt5zzVB3iwDNGctNHQolaD7rw51vxSCpNXM=w36-h36-p-c0x00000000-rp-mo-br100",
+      "comment": "Não gostei de não terem me deixado entrar na sala de jogos. Motivo : eu só tinha meus documentos e passaporte no meu drive todos claramente scaneados. Não aceitaram. Eu ando com eles digitalizados por ser mais seguro . Acho q o sistema deles está um pouco atrasado.",
+      "gradeComment": 3
+    },
+    {
+      "author": "Fernando Marinho (360Vision)",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucr8JEVbNuAb121DWl5Qzv6084Y9MIeigNmSeLIu1x4=w36-h36-p-c0x00000000-rp-mo-ba7-br100",
+      "comment": "Um dos maiores casinos portugueses com uma variedade de diversos serviços tanto ao nível des restauração, salas de espectáculos e de outros eventos como salas de jogo. Bem situado em termos de zona o Casino é um edifício com estilo muito interessante e vistoso.",
+      "gradeComment": 5
+    },
+    {
+      "author": "ANTONIO TOME",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucpNU5ZhlahdeF2a8ilTj_lxUACb1f8m10INiZLrOg=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "Desta vez desloquei -me ao Auditório, para assistir a um espetáculo musical. A sala oferece boas condições, tanto acústicas, como de visibilidade, o que permitiu desfrutar do show na sua plenitude.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Maria Martins",
+      "photoAuthor": "https://lh3.googleusercontent.com/a/AItbvml3tc-xhnNV1SOScdYNBdGuvGLog5sMndLmZkU8=w36-h36-p-c0x00000000-rp-mo-br100",
+      "comment": "É  local interessante para visitar, bons espectáculos, local agradável para tomar uma bebida tenho pena que tenha alterado um espaço onde se podia ouvir boa música e até dançar. Para jogar não me atrai.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Ana Maria Grais Lima",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZuco3FxdShUhbAghD_XBuOU_NUMUcE17ZwRWAUs3b=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "Adorei o concerto do Tony Carreira no Casino Estoril, o som estava espectacular e o local é muito agradável.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Miguel Raminho M. Coelho",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucrYsxj7bJVONccrVVY-1lHNR1ZSuaY4l1ihZz_wuA=w36-h36-p-c0x00000000-rp-mo-br100",
+      "comment": "Jardins magníficos,um sítio divinal onde se pode beber um drink,um espetáculo dentro do espetáculo,e ainda pode se divertir jogando moderadamente e pode ser que seja a sua hora de sorte",
+      "gradeComment": 5
+    },
+    {
+      "author": "anapasinatto",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucqdaqefQCEPqrVC09vSQt1MSKjIsMgFLx-u07KzhA=w36-h36-p-c0x00000000-rp-mo-ba5-br100",
+      "comment": "O ambiente é muito agradável! Há um restaurante com show pela noite. Pode ir apenas para jantar, caso não queira jogar. E, olha, vale a pena. A única coisa desagradável que eu me recordo foi o atendimento. Se quer comer depressa, este não é o lugar. Vá com calma, sem fome e paciência, afinal, sua experiência será incrível e valerá a pena. Eu, particularmente, sou apaixonada por Estoril. Gostava de ir neste lugar só pelas luzes. É lindo. Assim que finalizarem as vacinações, não deixe de ir.  Um forte abraço.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Odri57",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucqlhG92wIhCeSVUb7glqedy6btWVkfFJt7VAlfZcds=w36-h36-p-c0x00000000-rp-mo-ba6-br100",
+      "comment": "Edifício enorme , onde pode jogar, apreciar obras de arte cheio de tecnologia onde já nao ouvimos as moedas cair :-))) Uma grande diversidade de jogos. De uma forma geral foi agradável a visita, onde senti simpatia e disponibilidade por parte dos funcionários.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Maria Teresa Gomes da Silva Vieira",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucokT_M8PfiLdcytnbCejlgVtCipNqW7BsD4yuUrDg=w36-h36-p-c0x00000000-rp-mo-ba3-br100",
+      "comment": "Como espaço de jogo é muito simpãtico. Mas as máquinas não pagam nada e aparentemente não respeitam as percentagens de pagemento estipuladas na lei do jogo. Não recomendo jogarem. Só visitarem e tomar uma bebida.",
+      "gradeComment": 3
+    },
+    {
+      "author": "NC AB",
+      "photoAuthor": "https://lh3.googleusercontent.com/a/AItbvmlB6SdF4la2H-yEHs4KTEagklA-ZZ88bPILm_M_=w36-h36-p-c0x00000000-rp-mo-br100",
+      "comment": "Casino Estoril Concerto lounge D dia 18/06/2022  Concerto de  Tammy Weis Uma 'diva' que chega duas horas em atraso !! Uma falta de respeito para o público... Muito pouco professional e falta de educação",
+      "gradeComment": 1
+    },
+    {
+      "author": "Andrea Nassur",
+      "photoAuthor": "https://lh3.googleusercontent.com/a/AItbvmnz2hGS5eHvPG9_a1cZ8LW9Au-3GTYaH3O-a7qy=w36-h36-p-c0x00000000-rp-mo-ba2-br100",
+      "comment": "Maravilhoso!!!! Além de jogar, muita música boa e drinks bem legais. A comida podia ter mais tempero e estar quente.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Dion Lima",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucrdmNCAZe007YRE7QbjRehaH-xaPQ01odW-YX-X_A=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "Bom cassino, o valor da ficha de roleta é €2,50. O local não é grande quando comparado aos cassinos americanos porém é limpo e arrumado",
+      "gradeComment": 4
+    }
+  ],
+  "peakHours": [
+    {
+      "Sunday": [
+        {
+          "hour": "15:00",
+          "percent": 41
+        },
+        {
+          "hour": "16:00",
+          "percent": 50
+        },
+        {
+          "hour": "17:00",
+          "percent": 57
+        },
+        {
+          "hour": "18:00",
+          "percent": 60
+        },
+        {
+          "hour": "19:00",
+          "percent": 59
+        },
+        {
+          "hour": "20:00",
+          "percent": 57
+        },
+        {
+          "hour": "21:00",
+          "percent": 53
+        },
+        {
+          "hour": "22:00",
+          "percent": 49
+        },
+        {
+          "hour": "23:00",
+          "percent": 44
+        },
+        {
+          "hour": "00:00",
+          "percent": 37
+        },
+        {
+          "hour": "01:00",
+          "percent": 30
+        },
+        {
+          "hour": "02:00",
+          "percent": 23
+        }
+      ]
+    },
+    {
+      "Monday": [
+        {
+          "hour": "15:00",
+          "percent": 34
+        },
+        {
+          "hour": "16:00",
+          "percent": 37
+        },
+        {
+          "hour": "17:00",
+          "percent": 38
+        },
+        {
+          "hour": "18:00",
+          "percent": 39
+        },
+        {
+          "hour": "20:00",
+          "percent": 39
+        },
+        {
+          "hour": "21:00",
+          "percent": 40
+        },
+        {
+          "hour": "22:00",
+          "percent": 40
+        },
+        {
+          "hour": "23:00",
+          "percent": 39
+        },
+        {
+          "hour": "00:00",
+          "percent": 36
+        },
+        {
+          "hour": "01:00",
+          "percent": 29
+        },
+        {
+          "hour": "02:00",
+          "percent": 22
+        }
+      ]
+    },
+    {
+      "Tuesday": [
+        {
+          "hour": "15:00",
+          "percent": 39
+        },
+        {
+          "hour": "16:00",
+          "percent": 42
+        },
+        {
+          "hour": "17:00",
+          "percent": 43
+        },
+        {
+          "hour": "18:00",
+          "percent": 43
+        },
+        {
+          "hour": "19:00",
+          "percent": 43
+        },
+        {
+          "hour": "20:00",
+          "percent": 43
+        },
+        {
+          "hour": "21:00",
+          "percent": 43
+        },
+        {
+          "hour": "22:00",
+          "percent": 43
+        },
+        {
+          "hour": "23:00",
+          "percent": 41
+        },
+        {
+          "hour": "00:00",
+          "percent": 36
+        },
+        {
+          "hour": "01:00",
+          "percent": 29
+        },
+        {
+          "hour": "02:00",
+          "percent": 20
+        }
+      ]
+    },
+    {
+      "Wednesday": [
+        {
+          "hour": "15:00",
+          "percent": 38
+        },
+        {
+          "hour": "16:00",
+          "percent": 40
+        },
+        {
+          "hour": "17:00",
+          "percent": 41
+        },
+        {
+          "hour": "18:00",
+          "percent": 43
+        },
+        {
+          "hour": "19:00",
+          "percent": 45
+        },
+        {
+          "hour": "20:00",
+          "percent": 48
+        },
+        {
+          "hour": "21:00",
+          "percent": 52
+        },
+        {
+          "hour": "22:00",
+          "percent": 54
+        },
+        {
+          "hour": "23:00",
+          "percent": 52
+        },
+        {
+          "hour": "00:00",
+          "percent": 45
+        },
+        {
+          "hour": "01:00",
+          "percent": 34
+        },
+        {
+          "hour": "02:00",
+          "percent": 23
+        }
+      ]
+    },
+    {
+      "Thursday": [
+        {
+          "hour": "15:00",
+          "percent": 35
+        },
+        {
+          "hour": "16:00",
+          "percent": 40
+        },
+        {
+          "hour": "17:00",
+          "percent": 45
+        },
+        {
+          "hour": "18:00",
+          "percent": 49
+        },
+        {
+          "hour": "19:00",
+          "percent": 53
+        },
+        {
+          "hour": "20:00",
+          "percent": 57
+        },
+        {
+          "hour": "21:00",
+          "percent": 60
+        },
+        {
+          "hour": "22:00",
+          "percent": 61
+        },
+        {
+          "hour": "23:00",
+          "percent": 57
+        },
+        {
+          "hour": "00:00",
+          "percent": 47
+        },
+        {
+          "hour": "01:00",
+          "percent": 32
+        },
+        {
+          "hour": "02:00",
+          "percent": 19
+        }
+      ]
+    },
+    {
+      "Friday": [
+        {
+          "hour": "15:00",
+          "percent": 34
+        },
+        {
+          "hour": "16:00",
+          "percent": 36
+        },
+        {
+          "hour": "17:00",
+          "percent": 37
+        },
+        {
+          "hour": "18:00",
+          "percent": 40
+        },
+        {
+          "hour": "19:00",
+          "percent": 45
+        },
+        {
+          "hour": "20:00",
+          "percent": 56
+        },
+        {
+          "hour": "21:00",
+          "percent": 71
+        },
+        {
+          "hour": "22:00",
+          "percent": 82
+        },
+        {
+          "hour": "23:00",
+          "percent": 84
+        },
+        {
+          "hour": "00:00",
+          "percent": 78
+        },
+        {
+          "hour": "01:00",
+          "percent": 68
+        },
+        {
+          "hour": "02:00",
+          "percent": 50
+        }
+      ]
+    },
+    {
+      "Saturday": [
+        {
+          "hour": "15:00",
+          "percent": 31
+        },
+        {
+          "hour": "16:00",
+          "percent": 37
+        },
+        {
+          "hour": "17:00",
+          "percent": 45
+        },
+        {
+          "hour": "18:00",
+          "percent": 53
+        },
+        {
+          "hour": "19:00",
+          "percent": 62
+        },
+        {
+          "hour": "20:00",
+          "percent": 72
+        },
+        {
+          "hour": "21:00",
+          "percent": 83
+        },
+        {
+          "hour": "22:00",
+          "percent": 94
+        },
+        {
+          "hour": "23:00",
+          "percent": 100
+        },
+        {
+          "hour": "00:00",
+          "percent": 96
+        },
+        {
+          "hour": "01:00",
+          "percent": 81
+        },
+        {
+          "hour": "02:00",
+          "percent": 60
+        }
+      ]
+    }
+  ],
+  "relatedSearches": [
+    "casino estoril poker",
+    "casino estoril horário",
+    "casino estoril shows",
+    "esc online",
+    "casino estoril instagram",
+    "casino portugal",
+    "estoril portugal",
+    "cassino ou casino"
+  ],
+  "relateds": [
+    {
+      "mainName": "Casino Lisboa",
+      "url": null
+    },
+    {
+      "mainName": "Praia do Tamariz",
+      "url": null
+    },
+    {
+      "mainName": "Casino da Póvoa",
+      "url": null
+    },
+    {
+      "mainName": "Casino Figueira",
+      "url": null
+    },
+    {
+      "mainName": "Coliseu dos Recreios",
+      "url": null
+    },
+    {
+      "mainName": "Jardins do Casino Estoril",
+      "url": null
+    },
+    {
+      "mainName": "Estoril",
+      "url": null
+    },
+    {
+      "mainName": "Praia da Poça",
+      "url": null
+    },
+    {
+      "mainName": "Casino Espinho",
+      "url": null
+    },
+    {
+      "mainName": "Jardim do Estoril",
+      "url": null
+    },
+    {
+      "mainName": "Stadium António Coimbra da Mota",
+      "url": null
+    },
+    {
+      "mainName": "Forte de São Teodósio da Cadaveira",
+      "url": null
+    },
+    {
+      "mainName": "Praia da Rata",
+      "url": null
+    },
+    {
+      "mainName": "Praia de Sao Pedro do Estoril",
+      "url": null
+    },
+    {
+      "mainName": "Casino Monte Gordo",
+      "url": null
+    },
+    {
+      "mainName": "Igreja de Santo António do Estoril",
+      "url": null
+    },
+    {
+      "mainName": "Casino Vilamoura",
+      "url": null
+    },
+    {
+      "mainName": "Praia da Azarujinha",
+      "url": null
+    },
+    {
+      "mainName": "Clube de Golf do Estoril",
+      "url": null
+    },
+    {
+      "mainName": "Casino da Madeira",
+      "url": null
+    },
+    {
+      "mainName": "Praia do Estoril",
+      "url": null
+    },
+    {
+      "mainName": "Museu da Música Portuguesa / Casa Verdades de Faria",
+      "url": null
+    },
+    {
+      "mainName": "Autódromo do Estoril",
+      "url": null
+    },
+    {
+      "mainName": "Grutas artificiais de Alapraia",
+      "url": null
+    }
+  ]
+}

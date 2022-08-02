@@ -1,0 +1,426 @@
+{
+  "mainName": "TMN Bebidas",
+  "slug": "tmn-bebidas",
+  "category": "Tabacaria",
+  "locationInformation": {
+    "latitude": "-23.6292176",
+    "longitude": "-46.6248019"
+  },
+  "basicInformation": [
+    {
+      "label": "endereço",
+      "tooltip": "Copiar endereço",
+      "text": "Av. Emb. Álvaro Lins, 546 - Vila Santo Estefano, São Paulo - SP, 04153-160",
+      "icon": "https://www.gstatic.com/images/icons/material/system_gm/1x/place_gm_blue_24dp.png"
+    },
+    {
+      "label": "telefone",
+      "tooltip": "Copiar número de telefone",
+      "text": "(11) 96930-4769",
+      "icon": "https://www.gstatic.com/images/icons/material/system_gm/1x/phone_gm_blue_24dp.png"
+    },
+    {
+      "label": "Code",
+      "tooltip": "Copiar Plus Code",
+      "text": "99CG+83 Vila Santo Estefano, São Paulo - SP",
+      "icon": "https://maps.gstatic.com/mapfiles/maps_lite/images/2x/ic_plus_code.png"
+    }
+  ],
+  "ratingInformation": {
+    "basicRatingInformation": {
+      "averageGrade": 5,
+      "totalOfEvaluations": 6
+    },
+    "ratingsByGrade": [
+      {
+        "grade": 5,
+        "totalRatings": 6
+      },
+      {
+        "grade": 4,
+        "totalRatings": 0
+      },
+      {
+        "grade": 3,
+        "totalRatings": 0
+      },
+      {
+        "grade": 2,
+        "totalRatings": 0
+      },
+      {
+        "grade": 1,
+        "totalRatings": 0
+      }
+    ]
+  },
+  "ratingTags": null,
+  "featuredPhotos": [
+    "https://lh5.googleusercontent.com/p/AF1QipOa-5sjkDIyz-_KMAaJjJ9cpW4AIyqLNzavMaYd=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipP9hhk-0iRekQAoRdSlSXCJQrWQnmJwIcqmjpCv=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPY7FQmwC21fTuKkM3VFmZJ8Cx4QduFMsIx4oyP=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMyZVmCO3WlQLZsS3uqA9lF53saF0omCzkY2rsB=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPouWlfLrmvpa79Ib5y_0roFVMr9AGo7VlESprc=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPCRz1RIk2m3tX3H_SW3e8N6G3yEIz2JGcrJdmg=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMc91Nn1BtdTca0oCZoRXAXcRXmRlZd39tknXkY=w1024-h576-k-no",
+    "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=QvL9ans_wk3l1aXNnUxLCA&amp;cb_client=maps_sv.tactile.gps&amp;w=203&amp;h=100&amp;yaw=211.15367&amp;pitch=0&amp;thumbfov=100=w1024-h576-k-no"
+  ],
+  "topComments": null,
+  "peakHours": [
+    {
+      "Sunday": [
+        {
+          "hour": "12:00",
+          "percent": 7
+        },
+        {
+          "hour": "13:00",
+          "percent": 14
+        },
+        {
+          "hour": "14:00",
+          "percent": 26
+        },
+        {
+          "hour": "15:00",
+          "percent": 41
+        },
+        {
+          "hour": "16:00",
+          "percent": 58
+        },
+        {
+          "hour": "17:00",
+          "percent": 71
+        },
+        {
+          "hour": "18:00",
+          "percent": 76
+        },
+        {
+          "hour": "19:00",
+          "percent": 71
+        },
+        {
+          "hour": "20:00",
+          "percent": 57
+        },
+        {
+          "hour": "21:00",
+          "percent": 41
+        },
+        {
+          "hour": "22:00",
+          "percent": 25
+        },
+        {
+          "hour": "23:00",
+          "percent": 14
+        }
+      ]
+    },
+    {
+      "Monday": [
+        {
+          "hour": "15:00",
+          "percent": 14
+        },
+        {
+          "hour": "16:00",
+          "percent": 14
+        },
+        {
+          "hour": "17:00",
+          "percent": 16
+        },
+        {
+          "hour": "18:00",
+          "percent": 16
+        },
+        {
+          "hour": "19:00",
+          "percent": 25
+        },
+        {
+          "hour": "20:00",
+          "percent": 42
+        },
+        {
+          "hour": "21:00",
+          "percent": 16
+        }
+      ]
+    },
+    {
+      "Tuesday": [
+        {
+          "hour": "15:00",
+          "percent": 5
+        },
+        {
+          "hour": "16:00",
+          "percent": 12
+        },
+        {
+          "hour": "17:00",
+          "percent": 25
+        },
+        {
+          "hour": "18:00",
+          "percent": 33
+        },
+        {
+          "hour": "19:00",
+          "percent": 32
+        },
+        {
+          "hour": "20:00",
+          "percent": 23
+        },
+        {
+          "hour": "21:00",
+          "percent": 12
+        }
+      ]
+    },
+    {
+      "Wednesday": [
+        {
+          "hour": "15:00",
+          "percent": 19
+        },
+        {
+          "hour": "16:00",
+          "percent": 32
+        },
+        {
+          "hour": "17:00",
+          "percent": 39
+        },
+        {
+          "hour": "18:00",
+          "percent": 35
+        },
+        {
+          "hour": "19:00",
+          "percent": 33
+        },
+        {
+          "hour": "20:00",
+          "percent": 33
+        },
+        {
+          "hour": "21:00",
+          "percent": 26
+        }
+      ]
+    },
+    {
+      "Thursday": [
+        {
+          "hour": "15:00",
+          "percent": 16
+        },
+        {
+          "hour": "16:00",
+          "percent": 28
+        },
+        {
+          "hour": "17:00",
+          "percent": 44
+        },
+        {
+          "hour": "18:00",
+          "percent": 57
+        },
+        {
+          "hour": "19:00",
+          "percent": 60
+        },
+        {
+          "hour": "20:00",
+          "percent": 55
+        },
+        {
+          "hour": "21:00",
+          "percent": 41
+        }
+      ]
+    },
+    {
+      "Friday": [
+        {
+          "hour": "15:00",
+          "percent": 12
+        },
+        {
+          "hour": "16:00",
+          "percent": 21
+        },
+        {
+          "hour": "17:00",
+          "percent": 37
+        },
+        {
+          "hour": "18:00",
+          "percent": 58
+        },
+        {
+          "hour": "19:00",
+          "percent": 80
+        },
+        {
+          "hour": "20:00",
+          "percent": 91
+        },
+        {
+          "hour": "21:00",
+          "percent": 87
+        },
+        {
+          "hour": "22:00",
+          "percent": 69
+        },
+        {
+          "hour": "23:00",
+          "percent": 48
+        },
+        {
+          "hour": "00:00",
+          "percent": 28
+        }
+      ]
+    },
+    {
+      "Saturday": [
+        {
+          "hour": "14:00",
+          "percent": 26
+        },
+        {
+          "hour": "15:00",
+          "percent": 35
+        },
+        {
+          "hour": "16:00",
+          "percent": 42
+        },
+        {
+          "hour": "17:00",
+          "percent": 48
+        },
+        {
+          "hour": "18:00",
+          "percent": 51
+        },
+        {
+          "hour": "19:00",
+          "percent": 55
+        },
+        {
+          "hour": "20:00",
+          "percent": 62
+        },
+        {
+          "hour": "21:00",
+          "percent": 75
+        },
+        {
+          "hour": "22:00",
+          "percent": 89
+        },
+        {
+          "hour": "23:00",
+          "percent": 100
+        },
+        {
+          "hour": "00:00",
+          "percent": 94
+        }
+      ]
+    }
+  ],
+  "relatedSearches": null,
+  "relateds": [
+    {
+      "mainName": "Wine BH",
+      "url": null
+    },
+    {
+      "mainName": "TWM Bebidas",
+      "url": "https://www.google.com/maps/search/TWM+Bebidas+-+R.+Julita+Nogueira+Soares,+855+-+Loja+B+-+Santa+Terezinha,+Belo+Horizonte+-+MG,+31360-040"
+    },
+    {
+      "mainName": "Tm Bebidas",
+      "url": "https://www.google.com/maps/search/Tm+Bebidas+-+Rua+Narcisa+Pereira,+396+-+Conjunto+Jatob%C3%A1,+Belo+Horizonte+-+MG,+30664-680"
+    },
+    {
+      "mainName": "TMN Technologies Management Solutions",
+      "url": "https://www.google.com/maps/search/TMN+Technologies+Management+Solutions+-+R.+Betari,+357+-+Penha+de+Fran%C3%A7a,+S%C3%A3o+Paulo+-+SP,+03634-040"
+    },
+    {
+      "mainName": "Adega Souto",
+      "url": "https://www.google.com/maps/search/Adega+Souto+-+R.+Domingos+de+Tabatinga+-+Jardim+das+Oliveiras,+S%C3%A3o+Paulo+-+SP,+08111-770"
+    },
+    {
+      "mainName": "TMN Imports",
+      "url": "https://www.google.com/maps/search/TMN+Imports+-+Av.+T-2,+1681+-+sala+03+-+St.+Bueno,+Goi%C3%A2nia+-+GO,+74215-010"
+    },
+    {
+      "mainName": "Comercial RS",
+      "url": "https://www.google.com/maps/search/Comercial+RS+-+R.+Landri+S%C3%A1les,+100+-+Cidade+Arac%C3%ADlia,+Guarulhos+-+SP,+07250-130"
+    },
+    {
+      "mainName": "RECINTO BRAHMA",
+      "url": "https://www.google.com/maps/search/RECINTO+BRAHMA+-+TMN-384,+368,+Trememb%C3%A9+-+SP"
+    },
+    {
+      "mainName": "TMN Telecom",
+      "url": "https://www.google.com/maps/search/TMN+Telecom+-+R.+Ant%C3%B4nio+Bianconi,+219+-+Centro,+Sert%C3%A3ozinho+-+SP,+14160-810"
+    },
+    {
+      "mainName": "Minalba Alimentos e Bebidas",
+      "url": "https://www.google.com/maps/search/Minalba+Alimentos+e+Bebidas+-+Avenida+Tom%C3%A1s+Edson+1555+SL+CENTRAL,+S%C3%A3o+Paulo+-+SP,+05836-350"
+    },
+    {
+      "mainName": "Serv Fest Pastorio",
+      "url": "https://www.google.com/maps/search/Serv+Fest+Pastorio+-+Av.+Tupi,+5872+-+Morumbi,+Pato+Branco+-+PR,+85507-005"
+    },
+    {
+      "mainName": "RM Bebidas",
+      "url": "https://www.google.com/maps/search/RM+Bebidas+-+Av.+Brg.+Eduardo+Gomes,+676+-+Jardim+Eldorado,+Vilhena+-+RO,+76980-000"
+    },
+    {
+      "mainName": "TMN - Maracanaú",
+      "url": "https://www.google.com/maps/search/TMN+-+Maracana%C3%BA+-+Esplanada+Novo+Mondubim,+Maracana%C3%BA+-+CE"
+    },
+    {
+      "mainName": "Terminal Multimodal do Nordeste",
+      "url": "https://www.google.com/maps/search/Terminal+Multimodal+do+Nordeste+-+R.+C+-+Distrito+Industrial,+Maracana%C3%BA+-+CE,+61925-470"
+    },
+    {
+      "mainName": "TMN Transportadora",
+      "url": "https://www.google.com/maps/search/TMN+Transportadora+-+R.+Arlindo+Nogueira,+333+-+Centro+(Sul),+Teresina+-+PI,+64000-290"
+    },
+    {
+      "mainName": "MEO Póvoa Santa Iria",
+      "url": "https://www.google.com/maps/search/MEO+P%C3%B3voa+Santa+Iria,+Loja+MEO+P%C3%B3voa+Santa+Iria+Serra+Nova+Shopping+Loja+8,+Av.+Dom+Vicente+Afonso+Valente+Piso+0,+2625-218+P%C3%B3voa+de+Santa+Iria,+Portugal"
+    },
+    {
+      "mainName": "Bombas Grundfos do Brasil Ltda",
+      "url": "https://www.google.com/maps/search/Bombas+Grundfos+do+Brasil+Ltda+-+Av.+Humberto+de+Alencar+Castelo+Branco,+630+-+Independ%C3%AAncia,+S%C3%A3o+Bernardo+do+Campo+-+SP,+09850-300"
+    },
+    {
+      "mainName": "TMM - Tractores Máquinas Moura",
+      "url": "https://www.google.com/maps/search/TMM+-+Tractores+M%C3%A1quinas+Moura,+5300,+Bragan%C3%A7a,+Portugal"
+    },
+    {
+      "mainName": "Florida Distributing Co LLC (Miller Lite)",
+      "url": "https://www.google.com/maps/search/Florida+Distributing+Co+LLC+(Miller+Lite),+3964+Shader+Rd,+Orlando,+FL+32808,+Estados+Unidos"
+    },
+    {
+      "mainName": "TRANSFORMADORA MEXICANA DE NOPAL",
+      "url": "https://www.google.com/maps/search/TRANSFORMADORA+MEXICANA+DE+NOPAL,+Av+Guadalupe+%23+4348-Int.+2,+Camino+Real,+45040+Zapopan,+Jal.,+M%C3%A9xico"
+    }
+  ]
+}

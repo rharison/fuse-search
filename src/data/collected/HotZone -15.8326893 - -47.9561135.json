@@ -1,0 +1,578 @@
+{
+  "mainName": "HotZone",
+  "slug": "hotzone",
+  "category": "Parque de diversão",
+  "locationInformation": {
+    "latitude": "-15.8326893",
+    "longitude": "-47.9561135"
+  },
+  "basicInformation": [
+    {
+      "label": "endereço",
+      "tooltip": "Copiar endereço",
+      "text": "SAI/SO - 6580 - Lj 297, SAI / SO Area, 6580 - Store 297 - Guará, Brasília - DF, 71219-900",
+      "icon": "https://www.gstatic.com/images/icons/material/system_gm/1x/place_gm_blue_24dp.png"
+    },
+    {
+      "label": "locatedin",
+      "text": "Andar: 2 · ParkShopping Brasília",
+      "icon": "https://www.google.com/images/cleardot.gif"
+    },
+    {
+      "label": "telefone",
+      "tooltip": "Copiar número de telefone",
+      "text": "(61) 3362-7439",
+      "icon": "https://www.gstatic.com/images/icons/material/system_gm/1x/phone_gm_blue_24dp.png"
+    },
+    {
+      "label": "Code",
+      "tooltip": "Copiar Plus Code",
+      "text": "528V+WH Guará, Brasília - DF",
+      "icon": "https://maps.gstatic.com/mapfiles/maps_lite/images/2x/ic_plus_code.png"
+    }
+  ],
+  "ratingInformation": {
+    "basicRatingInformation": {
+      "averageGrade": 4.3,
+      "totalOfEvaluations": 2831
+    },
+    "ratingsByGrade": [
+      {
+        "grade": 5,
+        "totalRatings": 1594
+      },
+      {
+        "grade": 4,
+        "totalRatings": 706
+      },
+      {
+        "grade": 3,
+        "totalRatings": 361
+      },
+      {
+        "grade": 2,
+        "totalRatings": 105
+      },
+      {
+        "grade": 1,
+        "totalRatings": 65
+      }
+    ]
+  },
+  "ratingTags": [
+    {
+      "tag": "máquinas",
+      "count": 63,
+      "tooltip": "máquinas, mencionado em 63 avaliações"
+    },
+    {
+      "tag": "opções",
+      "count": 51,
+      "tooltip": "opções, mencionado em 51 avaliações"
+    },
+    {
+      "tag": "brincar",
+      "count": 40,
+      "tooltip": "brincar, mencionado em 40 avaliações"
+    },
+    {
+      "tag": "valores",
+      "count": 37,
+      "tooltip": "valores, mencionado em 37 avaliações"
+    },
+    {
+      "tag": "shopping",
+      "count": 22,
+      "tooltip": "shopping, mencionado em 22 avaliações"
+    },
+    {
+      "tag": "créditos",
+      "count": 19,
+      "tooltip": "créditos, mencionado em 19 avaliações"
+    },
+    {
+      "tag": "promoções",
+      "count": 12,
+      "tooltip": "promoções, mencionado em 12 avaliações"
+    },
+    {
+      "tag": "simuladores",
+      "count": 9,
+      "tooltip": "simuladores, mencionado em 9 avaliações"
+    },
+    {
+      "tag": "netos",
+      "count": 7,
+      "tooltip": "netos, mencionado em 7 avaliações"
+    },
+    {
+      "tag": "prêmios",
+      "count": 6,
+      "tooltip": "prêmios, mencionado em 6 avaliações"
+    }
+  ],
+  "featuredPhotos": [
+    "https://lh5.googleusercontent.com/p/AF1QipNMmUqCImn7pVba_9FSK7apGCVSQe7PgjVGMg61=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNEHMrjyYsntu3SBi2M-l4RAAim_15nirkSQyeN=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMhqI8W7NMVtB-xUC-8LNezr36gVT_hkIbJULA=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipM4hVAZ5om1oZRhk9Ugg99vilYJ6ygFNrx26fjz=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOmBMSO212peC2N_m-y82c6M058A5-VHYj8HuhE=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOinI9UdNImLXIzF9jZrKsbevvgQpcJnRTxs0yL=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMid7RSenAAat1LIdMB61DkzGwGw0pYRAeUbl3o=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNN1orO1RJXsO-uW_UvYp0rQTR8LxN2SLnuh1CF=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPXjgBSJBNZk6laIDZcEURNkQQ9rduVuwPsl8qL=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipN1zHSjYmSRUTqY1icciZ2UsZbL52G8JYrfoho5=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMYaI9l10lsBYdPHkyF2jV_W_Hp9V2Y2QSNmiAT=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNSAOImg_HSzo5Ns07PGHR21vYmOeDmW-0MnuVF=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOJRTQVBTufVddtVdBrM-Yp3TDi-StmCYIOkvN6=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPN45Vcjz729nwUqlN5vHAJaMTh7eeOkB7vbea3=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipP191-zu8BhpJ5qmqydnW2i_RqFzc-VmqPGK8VL=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNehsi_rGHOnrmv5b8hDB9_YUv_stILy4NOSdO-=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPyOdQUug8SK4CNbztG-fai_IRNdhulwNEaRGba=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOVp2CdixvmBLnwDUx0FhXNWPMnauiLaI1F5pb3=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMn6sOCA7XHuPLfBbKl9hNSQG-DWX6X6OmjP_NJ=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOLAgU1513-y3Ar8uLDj6xmM7Kb_ehTPYdQPk97=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPg31ShH8K8ZUh4oiNWY6Fyde56BDptOT8Xny42=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipO39VMbHOHONeNwqo7uOBZieioUBeA_M5WSNc5f=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOwOLql4nln7N-64xLPQfz59pQd6ST9IF6Afkr7=w1024-h576-k-no"
+  ],
+  "topComments": [
+    {
+      "author": "Luciana Reis",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucodUTOT19jfIUUYIkbsFzfcN54rxT9GMbHYgV7rQG0=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "Lugar para quem pretende relaxar com a família. Os preços não são para para qualquer um. Senti falta de bancos dentro da área, para que pais e acompanhantes possam descansar enquanto esperam pelas crianças.",
+      "gradeComment": 4
+    },
+    {
+      "author": "Leia Ribeiro",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucqojBz8TSCwhwbNJO6LQFu6asIlC4vWbYgftfB7Eas=w36-h36-p-c0x00000000-rp-mo-ba5-br100",
+      "comment": "Recomendo demais este lugar. Fui para um aniversário infantil e a experiência foi ótima. Muito organizado a questão dos cartões para as crianças brincarem! Os brinquedos super conservados, com atendentes atenciosos e cortes. Vi que havia uma funcionária higienizando os brinquedos a todo momento,  isso fez com que eu me sentisse mais segura em estar ali. Fiquei com vontade de voltar mais vezes. Recomendo.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Lucas Esteves",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucqVfWwedcASvMvfUTfGXcLbgQM_ToRjUoMDTw6U4Q=w36-h36-p-c0x00000000-rp-mo-ba5-br100",
+      "comment": "Excelente local para crianças com bastante variedades de brinquedos, bastante mesmo. Localizado ao lado do cinema, há também opção de saída para o estacionamento. Os valores são acessíveis e honesto. Voltaremos!",
+      "gradeComment": 5
+    },
+    {
+      "author": "Istouro Guich",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucptmtpB3eFPdX1YPOEDaERGaRxgXVLrgrIx_vVbOw=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "Tem ótimos brinquedos mas alguns  são bem caros outros até que valem a pena.",
+      "gradeComment": 4
+    },
+    {
+      "author": "Gabriel Costa",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucpZlxuv_PNORjFCi_9DzCOe9z9mUjycErvPILdD=w36-h36-p-c0x00000000-rp-mo-ba3-br100",
+      "comment": "Ambiente muito bem equipado, com uma vasta gama de diferentes jogos!  Infelizmente, porém, a maioria das máquinas apresentam problemas, desde partes quebradas, sensores descalibrados e mecanismos que não ativam, a miras desalinhadas, contadores que não registram pontos entre outros diversos problemas.  No geral, é uma experiência divertida, mas contrapesada por uma quantidade igualmente relevante de frustrações.  Recomendo apenas se não tiver mais nada para fazer no shopping e conseguir tolerar frustrações inesperadas.",
+      "gradeComment": 3
+    },
+    {
+      "author": "Renan Kaishi",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucpcFyv7NYseIO7mJpyDIaViTiLvAN7ZhMhhpo0gjPQ=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "É uma boa área de diversão pra garotada. Tem muitos brinquedos relativamente baratos e outros bem caros que não vale o tempo empregado coisa de 3minutos entendo o rodízio das filas mas poderiam aumentar um pouco mais o tempo nos brinquedos. Notei várias máquinas quebradas, máquinas antigas bem antigas mesmo rodando Windows 98 por trás. Mas essa é uma visão adulta, as crianças se divertem de qualquer forma por isso dou 4 estrelas, mas podem melhorar.",
+      "gradeComment": 4
+    },
+    {
+      "author": "Rayssa Morena",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucqqFEOxbpWqdCh6Alol9Dnp2qCWuF5aSLJj5kn7Vwo=w36-h36-p-c0x00000000-rp-mo-ba3-br100",
+      "comment": "O HotZone já foi melhor. Levei minha filha, da idade de 5 anos, não tem muita opção de jogos pra idade dela. E quando tem, são brinquedos super sem graça. Havia brinquedos em que passava o cartão, liberava. Mas não conseguia brincar/jogar. Não tem mais os tickets para a troca de algum doce ou brinquedo. Poderia realizar uma reforma e melhorar os jogos. Acredito que não estejam se importando mais com a concorrência.",
+      "gradeComment": 3
+    },
+    {
+      "author": "Suelen Silva",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucpM4-X-Tg9QateiS5enLxNmaqkE4T0T2XWxVRUJc-g=w36-h36-p-c0x00000000-rp-mo-ba5-br100",
+      "comment": "Ótimo lugar para as crianças se divertirem, adultos também se divertem em alguns brinquedos. No dia que eu fui, sábado em época de férias, estava bem cheio, devido a pandemia eu achei ruim. Mas ainda assim não tinhas filas nos brinquedos. Os valores variam de 6 a 13 reais, depende do brinquedo. A maioria era de 8 reais.",
+      "gradeComment": 4
+    },
+    {
+      "author": "Tiago Thompson",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucrIHFsNNcXElZK_h16bd5a9zOS_g9VGItmHeuUbIT0=w36-h36-p-c0x00000000-rp-mo-ba3-br100",
+      "comment": "Boa parte dos brinquedos não funcionam. Faltam funcionários para auxiliar tanto no caixa quanto nos brinquedos. Falta informações de faixa etária e como ativar e operar cada brinquedo apropriadamente. O tempo de funcionamento dos brinquedos especialmente para as crianças bem pequenas é muito pequeno, alguns não duram 1min. Os valores são bem altos com 100 reais no cartão você não consegue nem 30min utilizando os brinquedos.",
+      "gradeComment": 3
+    },
+    {
+      "author": "Hélio Francisco da Silva",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucrRT1SPj-k_VEsmg2W1dMiSK7-C0oJxKBc2so24Wg=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "Meu filho gostou muito, vários brinquedos, mas o preço e tempo não achei compatíveis. Sei que tem os custos de estar num Shopping, enfim, as crianças gostam e os pais $ nem tanto $...",
+      "gradeComment": 5
+    },
+    {
+      "author": "Lorena Martins",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucpJfZvE6_t9dyO13wY9vYLJsodf0MZiX2bc43NVtw=w36-h36-p-c0x00000000-rp-mo-br100",
+      "comment": "Achei legal porém poucas opções para crianças pequenas...",
+      "gradeComment": 4
+    },
+    {
+      "author": "Carlos Eduardo Siqueira Gaudêncio",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucrlfrYVbFoFU-4isr1LPARdLdcxCwbelrSwTQhl3Ps=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "Excelente, meu filho amou se divertir no hotzone. Local limpo organizado.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Diego Teixeira da Silva",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucpfyfNC7JJpM5ERtMqrce7tzjVaA8Rg80iayFhIrQ=w36-h36-p-c0x00000000-rp-mo-ba3-br100",
+      "comment": "Ótimas diversões poucos shopingstem a variedade e a diversidade de jogos e diversão em seus shopings ,local muito grande que tem vários brinquedos ,opções de dinheiro e sendo vip o valor e mais barato muito bom ela diversão e garantida, criança vão se maravilhar com o local ,o pai chora de tanto gastar o dinheiro",
+      "gradeComment": 5
+    },
+    {
+      "author": "Danilo Marchiori",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucq5TjAGwVRvt1bY0VUXtpSQ35-IUeuLKrIkqj3myq4=w36-h36-p-c0x00000000-rp-mo-ba6-br100",
+      "comment": "Não vale a pena. Muitos brinquedos, mas a maioria deles são antigos. O preço é algo assustador.",
+      "gradeComment": 2
+    },
+    {
+      "author": "Alexson valois pereira martins",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucoqcNu1ay-icdK0M3Wx9b28alf8hrBKsTy-5_Oyso4=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "Lugar bem legal para crianças e adultos que gostam de jogos. O preço dos jogos que são meio fora da realidade.",
+      "gradeComment": 4
+    },
+    {
+      "author": "gabriel macedo",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucqs8Hof5mu2AuBpvex20ZjbGrv0kkOdbBaNzssx6w=w36-h36-p-c0x00000000-rp-mo-ba2-br100",
+      "comment": "Legal. Alguns brinquedos estão não estão funcionando .  Por causa da pandemia. E o preço dos jogos são caros. Poderiam ser baratos pelo tempo que a gente fica usando . Alguns não demoram nem 2 minutos e acabam.  O melhor ali sem dúvida e o hockey  tem que jogar com duas pessoas . E acredito q é o único que não tem tempo que é de pontuação quem chegar a 9 primeiro ganha. Da pra ficar brincando ali bastante tempo.",
+      "gradeComment": 4
+    },
+    {
+      "author": "Fabio FS",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucojzHkAMjxBIitG0UI5D9pcUskX39Ku-GvCjbgE=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "Tem muitos aparelhos estragados e mau conservados. É um parque para crianças muito novas, não serve para jovem muito menos adultos.",
+      "gradeComment": 3
+    },
+    {
+      "author": "Rodrigo Porto",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucol0IMAVNr4M-HE0zwx2mrhIXklNHYV9JzwAXkMGSc=w36-h36-p-c0x00000000-rp-mo-ba6-br100",
+      "comment": "Um ótimo lugar para diversão em família! Diversas opções de jogos eletrônicos e simuladores, individuais e coletivos, para todas as idades. Também existem 'brinquedos' como carro \"bate-bate\" e torre.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Guilherme Campos",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucoYLw_ijf4LDafT3xul6awtvdO4U1x7Ok0dmuF9iiE=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "O local é amplo, limpo e com o ar condicionado na temperatura sempre ideal. O preço dos brinquedos é razoável quando se pega os valores com bônus, pois os brinquedos ficam até 50% mais baratos.  o bônus funciona com uma carga no cartão acima de 60 reais ganha-se um valor adicional que só é possível usar em brinquedos que não geram fichas para troca. E perde-se quando uma nova recarga de valor sem bônus for efetuada.  Achei que valeu a pena essa extravagância. Uma vez por ano gastar aí, 60 reais pra jogar com o filho por 1h até cansar não é lá tão caro para quem pode dispor desse valor.  Alguns brinquedos estão claramente no fim de vida, alguns com defeito e outros muito desgastados, mas acho que é a minoria e são os mais antigos mesmo. Eu acabei pegando 2 brinquedos com defeito, mas a equipe prontamente me atendeu e deu crédito em 2 brinquedos quaisquer que eu quisesse como ressarcimento dos créditos perdidos.  Enfim, foi uma tarde muito legal para um velho pai e uma experiência inesquecível para o meu guri.",
+      "gradeComment": 5
+    },
+    {
+      "author": "PEDRO HENRIQUE HOSSOE",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucrAkdOI-JLEUaw2jMAjy7WIQaiv0SdF2kefoYzGCZI=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "Ambiente divertido pra passar o tempo com as crianças, bem organizado, só precisa de mais gente no atendimento, fica a dica...",
+      "gradeComment": 5
+    }
+  ],
+  "peakHours": [
+    {
+      "Sunday": [
+        {
+          "hour": "12:00",
+          "percent": 6
+        },
+        {
+          "hour": "13:00",
+          "percent": 25
+        },
+        {
+          "hour": "14:00",
+          "percent": 56
+        },
+        {
+          "hour": "15:00",
+          "percent": 86
+        },
+        {
+          "hour": "16:00",
+          "percent": 92
+        },
+        {
+          "hour": "17:00",
+          "percent": 83
+        },
+        {
+          "hour": "18:00",
+          "percent": 75
+        },
+        {
+          "hour": "19:00",
+          "percent": 48
+        },
+        {
+          "hour": "20:00",
+          "percent": 14
+        }
+      ]
+    },
+    {
+      "Monday": [
+        {
+          "hour": "12:00",
+          "percent": 1
+        },
+        {
+          "hour": "13:00",
+          "percent": 7
+        },
+        {
+          "hour": "14:00",
+          "percent": 14
+        },
+        {
+          "hour": "15:00",
+          "percent": 16
+        },
+        {
+          "hour": "16:00",
+          "percent": 16
+        },
+        {
+          "hour": "17:00",
+          "percent": 17
+        },
+        {
+          "hour": "18:00",
+          "percent": 15
+        },
+        {
+          "hour": "19:00",
+          "percent": 18
+        },
+        {
+          "hour": "20:00",
+          "percent": 21
+        },
+        {
+          "hour": "21:00",
+          "percent": 9
+        }
+      ]
+    },
+    {
+      "Tuesday": [
+        {
+          "hour": "13:00",
+          "percent": 5
+        },
+        {
+          "hour": "14:00",
+          "percent": 12
+        },
+        {
+          "hour": "15:00",
+          "percent": 19
+        },
+        {
+          "hour": "16:00",
+          "percent": 22
+        },
+        {
+          "hour": "17:00",
+          "percent": 20
+        },
+        {
+          "hour": "18:00",
+          "percent": 16
+        },
+        {
+          "hour": "19:00",
+          "percent": 15
+        },
+        {
+          "hour": "20:00",
+          "percent": 14
+        },
+        {
+          "hour": "21:00",
+          "percent": 10
+        }
+      ]
+    },
+    {
+      "Wednesday": [
+        {
+          "hour": "12:00",
+          "percent": 1
+        },
+        {
+          "hour": "13:00",
+          "percent": 4
+        },
+        {
+          "hour": "14:00",
+          "percent": 13
+        },
+        {
+          "hour": "15:00",
+          "percent": 23
+        },
+        {
+          "hour": "16:00",
+          "percent": 26
+        },
+        {
+          "hour": "17:00",
+          "percent": 24
+        },
+        {
+          "hour": "18:00",
+          "percent": 23
+        },
+        {
+          "hour": "19:00",
+          "percent": 24
+        },
+        {
+          "hour": "20:00",
+          "percent": 20
+        },
+        {
+          "hour": "21:00",
+          "percent": 10
+        }
+      ]
+    },
+    {
+      "Thursday": [
+        {
+          "hour": "12:00",
+          "percent": 1
+        },
+        {
+          "hour": "13:00",
+          "percent": 6
+        },
+        {
+          "hour": "14:00",
+          "percent": 17
+        },
+        {
+          "hour": "15:00",
+          "percent": 29
+        },
+        {
+          "hour": "16:00",
+          "percent": 37
+        },
+        {
+          "hour": "17:00",
+          "percent": 34
+        },
+        {
+          "hour": "18:00",
+          "percent": 29
+        },
+        {
+          "hour": "19:00",
+          "percent": 32
+        },
+        {
+          "hour": "20:00",
+          "percent": 32
+        },
+        {
+          "hour": "21:00",
+          "percent": 18
+        }
+      ]
+    },
+    {
+      "Friday": [
+        {
+          "hour": "13:00",
+          "percent": 9
+        },
+        {
+          "hour": "14:00",
+          "percent": 24
+        },
+        {
+          "hour": "15:00",
+          "percent": 34
+        },
+        {
+          "hour": "16:00",
+          "percent": 35
+        },
+        {
+          "hour": "17:00",
+          "percent": 35
+        },
+        {
+          "hour": "18:00",
+          "percent": 31
+        },
+        {
+          "hour": "19:00",
+          "percent": 35
+        },
+        {
+          "hour": "21:00",
+          "percent": 21
+        }
+      ]
+    },
+    {
+      "Saturday": [
+        {
+          "hour": "12:00",
+          "percent": 8
+        },
+        {
+          "hour": "13:00",
+          "percent": 25
+        },
+        {
+          "hour": "14:00",
+          "percent": 54
+        },
+        {
+          "hour": "15:00",
+          "percent": 84
+        },
+        {
+          "hour": "16:00",
+          "percent": 100
+        },
+        {
+          "hour": "17:00",
+          "percent": 98
+        },
+        {
+          "hour": "18:00",
+          "percent": 93
+        },
+        {
+          "hour": "19:00",
+          "percent": 87
+        },
+        {
+          "hour": "20:00",
+          "percent": 68
+        },
+        {
+          "hour": "21:00",
+          "percent": 38
+        },
+        {
+          "hour": "22:00",
+          "percent": 13
+        }
+      ]
+    }
+  ],
+  "relatedSearches": [
+    "hotzone valor",
+    "hotzone ingresso",
+    "hotzone festa",
+    "hotzone morumbi",
+    "hotzone promoção",
+    "hotzone brinquedos",
+    "hotzone barra shopping",
+    "hotzone trabalhe conosco",
+    "hotzone valor",
+    "hotzone ingresso",
+    "hotzone festa",
+    "hotzone morumbi",
+    "hotzone promoção",
+    "hotzone brinquedos",
+    "hotzone barra shopping",
+    "hotzone trabalhe conosco"
+  ],
+  "relateds": []
+}

@@ -1,0 +1,972 @@
+{
+  "mainName": "Estação Berrini",
+  "slug": "estacao-berrini",
+  "category": "Estação de trem",
+  "locationInformation": {
+    "latitude": "-23.60495",
+    "longitude": "-46.69615"
+  },
+  "basicInformation": [
+    {
+      "label": "endereço",
+      "tooltip": "Copiar endereço",
+      "text": "Jardim Panorama, São Paulo - SP, 04583-105",
+      "icon": "https://www.gstatic.com/images/icons/material/system_gm/1x/place_gm_blue_24dp.png"
+    },
+    {
+      "label": "Code",
+      "tooltip": "Copiar Plus Code",
+      "text": "98W3+2G São Paulo, SP",
+      "icon": "https://maps.gstatic.com/mapfiles/maps_lite/images/2x/ic_plus_code.png"
+    }
+  ],
+  "ratingInformation": {
+    "basicRatingInformation": {
+      "averageGrade": 4,
+      "totalOfEvaluations": 2057
+    },
+    "ratingsByGrade": [
+      {
+        "grade": 5,
+        "totalRatings": 873
+      },
+      {
+        "grade": 4,
+        "totalRatings": 531
+      },
+      {
+        "grade": 3,
+        "totalRatings": 463
+      },
+      {
+        "grade": 2,
+        "totalRatings": 102
+      },
+      {
+        "grade": 1,
+        "totalRatings": 88
+      }
+    ]
+  },
+  "ratingTags": [
+    {
+      "tag": "banheiro",
+      "count": 33,
+      "tooltip": "banheiro, mencionado em 33 avaliações"
+    },
+    {
+      "tag": "organizada",
+      "count": 20,
+      "tooltip": "organizada, mencionado em 20 avaliações"
+    },
+    {
+      "tag": "estrutura",
+      "count": 17,
+      "tooltip": "estrutura, mencionado em 17 avaliações"
+    },
+    {
+      "tag": "catracas",
+      "count": 11,
+      "tooltip": "catracas, mencionado em 11 avaliações"
+    },
+    {
+      "tag": "fila",
+      "count": 11,
+      "tooltip": "fila, mencionado em 11 avaliações"
+    },
+    {
+      "tag": "escada rolante",
+      "count": 11,
+      "tooltip": "escada rolante, mencionado em 11 avaliações"
+    },
+    {
+      "tag": "papel",
+      "count": 7,
+      "tooltip": "papel, mencionado em 7 avaliações"
+    },
+    {
+      "tag": "shopping",
+      "count": 6,
+      "tooltip": "shopping, mencionado em 6 avaliações"
+    },
+    {
+      "tag": "bilhete único",
+      "count": 5,
+      "tooltip": "bilhete único, mencionado em 5 avaliações"
+    },
+    {
+      "tag": "usuários",
+      "count": 5,
+      "tooltip": "usuários, mencionado em 5 avaliações"
+    }
+  ],
+  "featuredPhotos": [
+    "https://lh5.googleusercontent.com/p/AF1QipNmi8O0eUmK2XEdM3yQdxpQLCIM0bVNFUFYIR-T=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipO89EWwX-hmZJhvmV3awOIn8VMZ4Bgj26Ul9Ohv=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNImhMccPF-T73Eyhsf0BiEf0-NmSJJr6BiUkCf=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipONAEYOa6jLJh2On824U2TwWN2r4wsWpTNIEOvh=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipP3oiS_0gWtRSGSz2VVpRZU71ylc7jNWir5FRDH=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNttqtWQGVVtVxAfNSKt3vm9-k59zGUdJgRPqBX=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNkl_KDPiqKjFCrbexAiXBvBaR3iXzPT8EUqXqg=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipP7VFbltxN046nMHHz52vPD_tHDuux9rQ3bP5vI=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMq0G_R2JzJoTZnk0_l7UhxSO1UCO20afXYnjSp=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipM4QIjZ73BjhUXm8XHyihNuyXwnUxqgJYFdPhCv=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNY-PWLR-6680JTdIpzQlN8YswLeZUg03OWwfvK=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMVnOuaGnXNFPnhNJdGN3v52FylhSQn6xN91l8A=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOd7pvn_zOf_Sjv2I1RPueq-VT1zdyKsZUWFjWJ=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNkfDrhyWbHocmt44k1O9EZmsXedRM8eILLFtws=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPxlXy8t0qwbiQdFA9TDePOpCzI6WSjjG2r8DEa=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOMzQHC8gknfUqy0S9UqgVTxMQX8-6xw8C8a8XA=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOYVTkWY-RKTXCKaRUKQCoF1pagjSnzZ-wlKkim=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNpk6KZaHsE8-7UtqTxUVtqLsX6GDFr30Bxjsw2=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPMaOhpIvas8mkfu05LfXWD1a9zkLlK56AUCRiV=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipM0E8b29acIf2pXmGMNZOrDHnnT5KE08_KWCMsF=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNep1ZZNezICyQViSu9B97GcN4amQAPRR5swx7O=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNeAGSi9D9j4KmtTb5CidohbcgEBfG_DfQoXU4J=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPJ3Lh4KjySZFIwbLZFD4v8Q7Kg0zXee7hMXHL3=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMCbWKXpkiLpLoBLhy4XcZgisKvaGLJcJEwWWq3=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOy16b8Tckb0gBVO7RWT57mWLJVwFrttupdf3NZ=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipM5bsGKzwQZ68jAsHZKOiiyCOJ8rTaf98GBOyYz=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNxrbiu8M66JPyo1dAcwx2lkxTyOQIXAItb0Y-M=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOGDYIHD0tP3VumMMOa1G0KV_TmM55_MZ1HIrDP=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOA0erAqfgDN__SCOvmiqoREM6_zc15Xse8Luxz=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMa5A-B5YjiSFzWl2Fxa2ZuEie1IGU5kYMnRWEZ=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPQyPpovjs4NIdbq-SM_R35X_XH7dAcjMAPCpUI=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipN7cmbYMovrX1A34rLHzalvkMRHe-AfQWPfBp84=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPmOJBoxHnj0KKZ9-inqK083Ijk44tYK0pAxrVO=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipO1kxI3BAH3pK4D8CQDevLlSOW02d5AAh3FySaQ=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMR9Fo5_VwPsIlX1YJTl2rVXIayIimFXalI0RQ=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNsDfr7-hC-6ZWvHGxOvMhkSNEFy5NGOSWf0zB-=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNlXx3aqa0mCQxo9VWMkG-xLJwO5qpIouq-_TzM=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNIr69ucJHQudn02-lgRRC1-tFokz8RFV47muyw=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMDqcasnRUTuqJJ5JPweQKP9xF6L-fzEBAGTmoK=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMrFAYA_CvsA8BOOklbEZthuENLrnOhZZXdrv9X=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMSqTf1udL68CcZp2L2pM-QAg3-citsKqjn66nj=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNHC0OWlCcvzNKuS6byQjvgPCru7ALeFvKcXWgN=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipN_lOsmqJzu5feXNN7m_zmb2KhakakAR_USm7yE=w1024-h576-k-no"
+  ],
+  "topComments": [
+    {
+      "author": "ricardo oliver",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucqEg6KJCqhp2vVVmDZMYUDijqgbLBl_unkW_c-Q=w36-h36-p-c0x00000000-rp-mo-ba3-br100",
+      "comment": "A falta de produtos para higiene das mãos é um grande ponto negativo além das máquinas de abastecer o cartão de transporte estarem sempre com problemas de quebra ,  por estes motivos a estação as vezes parece abandonada por seus administradores e poder público.",
+      "gradeComment": 3
+    },
+    {
+      "author": "Bira Teodoro (Bolichemania)",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucrWoPw3VZqQR6g7HJnw85T7BRsB3kxRWkJ2oAnrP5I=w36-h36-p-c0x00000000-rp-mo-ba5-br100",
+      "comment": "Sempre limpa e pessoal de suporte atento. Uma pequena reforma nas escadas se faz necessária.",
+      "gradeComment": 4
+    },
+    {
+      "author": "Marcos Alexandre Soares",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucrgFkbrbjS6whU3k_r__94g5ViqHL-Q5kjvEKWzzw=w36-h36-p-c0x00000000-rp-mo-br100",
+      "comment": "CPTM com a Via creio que vai melhorar....muitos problemas devido a falta de investimento por parte do Governo do Estado e com a concessão vai saber essas mazelas.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Walace Silva",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucqRMq7os7C9lzPNhFUYs758po-aEm9LOcWXeQ-b2g=w36-h36-p-c0x00000000-rp-mo-ba6-br100",
+      "comment": "Estação bem localizada, movimentada, segura e acessível, conta com um ótimo serviço embora o cinza concreto faça a estação ser fisicamente feia.",
+      "gradeComment": 4
+    },
+    {
+      "author": "Andreia Aparecida",
+      "photoAuthor": "https://lh3.googleusercontent.com/a/AItbvmnWTxz1kHhY-_g7-kovd1QnSy314OIvdFbgMx1P=w36-h36-p-c0x00000000-rp-mo-ba3-br100",
+      "comment": "Muito cheio o povo não tem educação embora tenha de vez em quando pessoas pra te auxiliar na plataforma",
+      "gradeComment": 2
+    },
+    {
+      "author": "Marcos Del Torto",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucpJ66osSc9rsJYxfxzkwW0ECnjoa5__j5ImxMD98w=w36-h36-p-c0x00000000-rp-mo-ba3-br100",
+      "comment": "Bem localizada todas as vezes que eu utilizei foi bem tranquilo, estacao estava limpa nunca tive nenhum tipo de problemas.",
+      "gradeComment": 4
+    },
+    {
+      "author": "Americo Portella",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucpA2Cm-vWI2eBhVP1tGoVPCA2nlyAb8QJrA3t61t5I=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "Local limpo, o banheiro masculino deixa a desejar, mas no geral é um bom lugar para público de passagem",
+      "gradeComment": 4
+    },
+    {
+      "author": "Sr. Law Almeida",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucpaVoWjJaDjMvwRkuw7jZL6Vj3BOsP8Mo9dA3Wr5kA=w36-h36-p-c0x00000000-rp-mo-ba3-br100",
+      "comment": "Ótima estação. Queria que a estação Antonio Gianetti da linha 11 tivesse a mesma estrutura",
+      "gradeComment": 5
+    },
+    {
+      "author": "Carlos Lacerda",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucoBizOYyg9BoVj6UGBGo7V7WAYtLNohj6LqHF3S-dc=w36-h36-p-c0x00000000-rp-mo-ba3-br100",
+      "comment": "Fotos da Marginal Pinheiros e das Torres que ficam acima do Shopping Cidade Jardim na zona Sul de São Paulo.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Eduardo Torin",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZuco17SqMdMJ4joCegmKRXsZut0o7TFH8cvyU_C3U4w=w36-h36-p-c0x00000000-rp-mo-ba5-br100",
+      "comment": "Primeira linha que conseguiu piorar após a privatização. Parabéns!",
+      "gradeComment": 1
+    },
+    {
+      "author": "Rafael Gomes",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucpdEtrin2O3tobAfVgrb__9UbDQUEBPhnLLwA3Yuw=w36-h36-p-c0x00000000-rp-mo-br100",
+      "comment": "É difícil pensar qualquer coisa porque a voz do alto falante não para 1 minuto. Extremamente irritante.",
+      "gradeComment": 2
+    },
+    {
+      "author": "Pumpkin Lindty",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucrihEhDf006Mh6laJ1nMO9fzpxyrGnT2DcaAveEA4Y=w36-h36-p-c0x00000000-rp-mo-ba5-br100",
+      "comment": "A estação em si é boa, porém em horário de pico, fica muito lotado e os trens não passam rápido. Necessário aguardar um bom tempo. A infraestrutura do local é ok",
+      "gradeComment": 3
+    },
+    {
+      "author": "Olavo Oliveira Neto",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucrWGlFyKmhhukv439MdIMhljD6nl-g6gaDBIdxPRX8=w36-h36-p-c0x00000000-rp-mo-ba6-br100",
+      "comment": "Estação Berrini da linha vermelha CTPM. Achei uma boa estação, estava bem cuidada e mesmo lotada não era difícil de se movimentar",
+      "gradeComment": 4
+    },
+    {
+      "author": "Nestor Cavalcante",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucq56zWIvtgoBV3D2hyv8v4_8-2NuXwieDC9mrlDCis=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "Limpa e organizada, vem servida de caixas de autoatendimento para recargas, dispõe de bilheteria com atendente, funcionários educados, interessante. Cumpre bem o seu propósito.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Bruno Miranda",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucrwmwHFFefaVYKbX5zY_lBtRhZsYjCT3fbM7jOf9F4=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "Ótimo",
+      "gradeComment": 5
+    },
+    {
+      "author": "Damiana Leite Melo",
+      "photoAuthor": "https://lh3.googleusercontent.com/a/AItbvmnvo2SzlMVJM8pHdc4vEB-HOQRyXkzf4hntqvS4=w36-h36-p-c0x00000000-rp-mo-ba3-br100",
+      "comment": "Lindo lugar",
+      "gradeComment": 5
+    },
+    {
+      "author": "Tatiana Sousa Sousa",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucq50rfV_k38PE5iBm86Q2ydd407uUh2I9c7AGby=w36-h36-p-c0x00000000-rp-mo-ba3-br100",
+      "comment": "Ótimo estação e de fácil acesso",
+      "gradeComment": 5
+    },
+    {
+      "author": "Carlos Goulart",
+      "photoAuthor": "https://lh3.googleusercontent.com/a/AItbvmn_MBSsCJj9VbLqaDnPwynbKVV7Y8K80YRQgh60=w36-h36-p-c0x00000000-rp-mo-ba3-br100",
+      "comment": "Local bem limpo e zelado.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Danilo Viana",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucrKBz9zLS6eA87ynCVR4YnUeprymdaDViXsleOq=w36-h36-p-c0x00000000-rp-mo-ba3-br100",
+      "comment": "Degraus sempre trincados e sendo remendados, tem uma goteira na porta que vaza de uma sala de descanso dos funcionários, a mais de 1 ano passo por la e nunca foi consertado esse vazamento.",
+      "gradeComment": 2
+    },
+    {
+      "author": "Serjin",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucrWnuuctQoLO9IHgKNXmgXcX5JOtNjC_2RDvESVjA=w36-h36-p-c0x00000000-rp-mo-ba6-br100",
+      "comment": "É uma boa estação de trem, duoer bem localizada para pessoas que normalmente precisam ir para a região da Berrini. Bastante movimentada em horários de pico na manhã e fim de tarde. Acessibilidade ok. Tem um elevador na entrada e outro na plataforma funcionando. Na parte de fora tem ponto de ônibus.",
+      "gradeComment": 4
+    }
+  ],
+  "peakHours": [
+    {
+      "Sunday": [
+        {
+          "hour": "05:00",
+          "percent": 3
+        },
+        {
+          "hour": "06:00",
+          "percent": 6
+        },
+        {
+          "hour": "07:00",
+          "percent": 8
+        },
+        {
+          "hour": "08:00",
+          "percent": 9
+        },
+        {
+          "hour": "09:00",
+          "percent": 9
+        },
+        {
+          "hour": "10:00",
+          "percent": 8
+        },
+        {
+          "hour": "11:00",
+          "percent": 7
+        },
+        {
+          "hour": "12:00",
+          "percent": 7
+        },
+        {
+          "hour": "13:00",
+          "percent": 7
+        },
+        {
+          "hour": "14:00",
+          "percent": 8
+        },
+        {
+          "hour": "15:00",
+          "percent": 10
+        },
+        {
+          "hour": "16:00",
+          "percent": 11
+        },
+        {
+          "hour": "17:00",
+          "percent": 11
+        },
+        {
+          "hour": "18:00",
+          "percent": 10
+        },
+        {
+          "hour": "19:00",
+          "percent": 8
+        },
+        {
+          "hour": "20:00",
+          "percent": 7
+        },
+        {
+          "hour": "21:00",
+          "percent": 5
+        },
+        {
+          "hour": "22:00",
+          "percent": 2
+        }
+      ]
+    },
+    {
+      "Monday": [
+        {
+          "hour": "04:00",
+          "percent": 7
+        },
+        {
+          "hour": "05:00",
+          "percent": 14
+        },
+        {
+          "hour": "06:00",
+          "percent": 23
+        },
+        {
+          "hour": "07:00",
+          "percent": 31
+        },
+        {
+          "hour": "08:00",
+          "percent": 37
+        },
+        {
+          "hour": "09:00",
+          "percent": 40
+        },
+        {
+          "hour": "10:00",
+          "percent": 38
+        },
+        {
+          "hour": "11:00",
+          "percent": 33
+        },
+        {
+          "hour": "12:00",
+          "percent": 25
+        },
+        {
+          "hour": "13:00",
+          "percent": 20
+        },
+        {
+          "hour": "14:00",
+          "percent": 21
+        },
+        {
+          "hour": "15:00",
+          "percent": 35
+        },
+        {
+          "hour": "16:00",
+          "percent": 59
+        },
+        {
+          "hour": "17:00",
+          "percent": 79
+        },
+        {
+          "hour": "18:00",
+          "percent": 78
+        },
+        {
+          "hour": "19:00",
+          "percent": 56
+        },
+        {
+          "hour": "20:00",
+          "percent": 31
+        },
+        {
+          "hour": "21:00",
+          "percent": 16
+        },
+        {
+          "hour": "22:00",
+          "percent": 11
+        },
+        {
+          "hour": "23:00",
+          "percent": 6
+        },
+        {
+          "hour": "03:00",
+          "percent": 1
+        }
+      ]
+    },
+    {
+      "Tuesday": [
+        {
+          "hour": "04:00",
+          "percent": 8
+        },
+        {
+          "hour": "05:00",
+          "percent": 16
+        },
+        {
+          "hour": "06:00",
+          "percent": 24
+        },
+        {
+          "hour": "07:00",
+          "percent": 32
+        },
+        {
+          "hour": "08:00",
+          "percent": 38
+        },
+        {
+          "hour": "09:00",
+          "percent": 41
+        },
+        {
+          "hour": "10:00",
+          "percent": 40
+        },
+        {
+          "hour": "11:00",
+          "percent": 36
+        },
+        {
+          "hour": "12:00",
+          "percent": 29
+        },
+        {
+          "hour": "13:00",
+          "percent": 23
+        },
+        {
+          "hour": "14:00",
+          "percent": 24
+        },
+        {
+          "hour": "15:00",
+          "percent": 38
+        },
+        {
+          "hour": "16:00",
+          "percent": 68
+        },
+        {
+          "hour": "17:00",
+          "percent": 96
+        },
+        {
+          "hour": "18:00",
+          "percent": 100
+        },
+        {
+          "hour": "19:00",
+          "percent": 75
+        },
+        {
+          "hour": "20:00",
+          "percent": 41
+        },
+        {
+          "hour": "21:00",
+          "percent": 21
+        },
+        {
+          "hour": "22:00",
+          "percent": 14
+        },
+        {
+          "hour": "23:00",
+          "percent": 10
+        },
+        {
+          "hour": "00:00",
+          "percent": 4
+        },
+        {
+          "hour": "03:00",
+          "percent": 2
+        }
+      ]
+    },
+    {
+      "Wednesday": [
+        {
+          "hour": "04:00",
+          "percent": 4
+        },
+        {
+          "hour": "05:00",
+          "percent": 16
+        },
+        {
+          "hour": "06:00",
+          "percent": 31
+        },
+        {
+          "hour": "07:00",
+          "percent": 44
+        },
+        {
+          "hour": "08:00",
+          "percent": 48
+        },
+        {
+          "hour": "09:00",
+          "percent": 42
+        },
+        {
+          "hour": "10:00",
+          "percent": 31
+        },
+        {
+          "hour": "11:00",
+          "percent": 26
+        },
+        {
+          "hour": "12:00",
+          "percent": 31
+        },
+        {
+          "hour": "13:00",
+          "percent": 32
+        },
+        {
+          "hour": "14:00",
+          "percent": 33
+        },
+        {
+          "hour": "15:00",
+          "percent": 48
+        },
+        {
+          "hour": "16:00",
+          "percent": 69
+        },
+        {
+          "hour": "17:00",
+          "percent": 86
+        },
+        {
+          "hour": "18:00",
+          "percent": 90
+        },
+        {
+          "hour": "19:00",
+          "percent": 80
+        },
+        {
+          "hour": "20:00",
+          "percent": 61
+        },
+        {
+          "hour": "21:00",
+          "percent": 38
+        },
+        {
+          "hour": "23:00",
+          "percent": 5
+        }
+      ]
+    },
+    {
+      "Thursday": [
+        {
+          "hour": "04:00",
+          "percent": 8
+        },
+        {
+          "hour": "05:00",
+          "percent": 15
+        },
+        {
+          "hour": "06:00",
+          "percent": 22
+        },
+        {
+          "hour": "07:00",
+          "percent": 29
+        },
+        {
+          "hour": "08:00",
+          "percent": 34
+        },
+        {
+          "hour": "09:00",
+          "percent": 37
+        },
+        {
+          "hour": "10:00",
+          "percent": 37
+        },
+        {
+          "hour": "11:00",
+          "percent": 34
+        },
+        {
+          "hour": "12:00",
+          "percent": 28
+        },
+        {
+          "hour": "13:00",
+          "percent": 23
+        },
+        {
+          "hour": "14:00",
+          "percent": 23
+        },
+        {
+          "hour": "15:00",
+          "percent": 37
+        },
+        {
+          "hour": "16:00",
+          "percent": 66
+        },
+        {
+          "hour": "17:00",
+          "percent": 94
+        },
+        {
+          "hour": "18:00",
+          "percent": 97
+        },
+        {
+          "hour": "19:00",
+          "percent": 70
+        },
+        {
+          "hour": "20:00",
+          "percent": 38
+        },
+        {
+          "hour": "21:00",
+          "percent": 23
+        },
+        {
+          "hour": "22:00",
+          "percent": 19
+        },
+        {
+          "hour": "23:00",
+          "percent": 11
+        },
+        {
+          "hour": "03:00",
+          "percent": 2
+        }
+      ]
+    },
+    {
+      "Friday": [
+        {
+          "hour": "04:00",
+          "percent": 5
+        },
+        {
+          "hour": "05:00",
+          "percent": 12
+        },
+        {
+          "hour": "06:00",
+          "percent": 19
+        },
+        {
+          "hour": "07:00",
+          "percent": 25
+        },
+        {
+          "hour": "08:00",
+          "percent": 30
+        },
+        {
+          "hour": "09:00",
+          "percent": 30
+        },
+        {
+          "hour": "10:00",
+          "percent": 28
+        },
+        {
+          "hour": "11:00",
+          "percent": 23
+        },
+        {
+          "hour": "12:00",
+          "percent": 18
+        },
+        {
+          "hour": "13:00",
+          "percent": 18
+        },
+        {
+          "hour": "14:00",
+          "percent": 27
+        },
+        {
+          "hour": "15:00",
+          "percent": 44
+        },
+        {
+          "hour": "16:00",
+          "percent": 62
+        },
+        {
+          "hour": "17:00",
+          "percent": 69
+        },
+        {
+          "hour": "18:00",
+          "percent": 61
+        },
+        {
+          "hour": "19:00",
+          "percent": 43
+        },
+        {
+          "hour": "20:00",
+          "percent": 27
+        },
+        {
+          "hour": "21:00",
+          "percent": 20
+        },
+        {
+          "hour": "22:00",
+          "percent": 17
+        },
+        {
+          "hour": "23:00",
+          "percent": 12
+        },
+        {
+          "hour": "00:00",
+          "percent": 5
+        }
+      ]
+    },
+    {
+      "Saturday": [
+        {
+          "hour": "04:00",
+          "percent": 3
+        },
+        {
+          "hour": "05:00",
+          "percent": 9
+        },
+        {
+          "hour": "06:00",
+          "percent": 16
+        },
+        {
+          "hour": "07:00",
+          "percent": 21
+        },
+        {
+          "hour": "08:00",
+          "percent": 22
+        },
+        {
+          "hour": "09:00",
+          "percent": 19
+        },
+        {
+          "hour": "10:00",
+          "percent": 17
+        },
+        {
+          "hour": "11:00",
+          "percent": 18
+        },
+        {
+          "hour": "12:00",
+          "percent": 22
+        },
+        {
+          "hour": "13:00",
+          "percent": 26
+        },
+        {
+          "hour": "14:00",
+          "percent": 28
+        },
+        {
+          "hour": "15:00",
+          "percent": 27
+        },
+        {
+          "hour": "16:00",
+          "percent": 25
+        },
+        {
+          "hour": "17:00",
+          "percent": 22
+        },
+        {
+          "hour": "18:00",
+          "percent": 21
+        },
+        {
+          "hour": "19:00",
+          "percent": 19
+        },
+        {
+          "hour": "20:00",
+          "percent": 18
+        },
+        {
+          "hour": "21:00",
+          "percent": 15
+        },
+        {
+          "hour": "22:00",
+          "percent": 11
+        },
+        {
+          "hour": "23:00",
+          "percent": 7
+        },
+        {
+          "hour": "00:00",
+          "percent": 3
+        }
+      ]
+    }
+  ],
+  "relatedSearches": [
+    "estação berrini mapa",
+    "estação berrini endereço",
+    "tucuruvi para estação berrini",
+    "estação berrini cep",
+    "estação berrini linha esmeralda",
+    "berrini loja",
+    "berrini hotel",
+    "berrini one"
+  ],
+  "relateds": [
+    {
+      "mainName": "Estação Morumbi",
+      "url": null
+    },
+    {
+      "mainName": "Vila Olímpia",
+      "url": null
+    },
+    {
+      "mainName": "Estação Granja Julieta",
+      "url": null
+    },
+    {
+      "mainName": "Campo Belo",
+      "url": null
+    },
+    {
+      "mainName": "Osasco",
+      "url": null
+    },
+    {
+      "mainName": "Pinheiros",
+      "url": null
+    },
+    {
+      "mainName": "CÓDIGO CONSULTORIA E CURSERIA",
+      "url": null
+    },
+    {
+      "mainName": "Luz",
+      "url": null
+    },
+    {
+      "mainName": "Ponte Octávio Frias de Oliveira",
+      "url": null
+    },
+    {
+      "mainName": "Terminal Intermodal Grajaú",
+      "url": null
+    },
+    {
+      "mainName": "Cidade Jardim",
+      "url": null
+    },
+    {
+      "mainName": "Mandarim",
+      "url": null
+    },
+    {
+      "mainName": "Plaza Centenário",
+      "url": null
+    },
+    {
+      "mainName": "Consolação",
+      "url": null
+    },
+    {
+      "mainName": "Ponte Estaiada",
+      "url": null
+    },
+    {
+      "mainName": "Hebraica-Rebouças",
+      "url": null
+    },
+    {
+      "mainName": "Ana Rosa",
+      "url": null
+    },
+    {
+      "mainName": "Estação Chucri Zaidan",
+      "url": null
+    },
+    {
+      "mainName": "Usina Elevatória de Traição",
+      "url": null
+    },
+    {
+      "mainName": "Paulista",
+      "url": null
+    },
+    {
+      "mainName": "Estação Autódromo",
+      "url": null
+    },
+    {
+      "mainName": "República",
+      "url": null
+    }
+  ]
+}

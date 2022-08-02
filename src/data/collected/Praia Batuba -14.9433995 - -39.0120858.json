@@ -1,0 +1,784 @@
+{
+  "mainName": "Praia Batuba",
+  "slug": "praia-batuba",
+  "category": "Atração turística",
+  "locationInformation": {
+    "latitude": "-14.9433995",
+    "longitude": "-39.0120858"
+  },
+  "basicInformation": [
+    {
+      "label": "endereço",
+      "tooltip": "Copiar endereço",
+      "text": "Rod. Ilhéus | Olivença, Km 14 - s/n - Olivença, Ilhéus - BA",
+      "icon": "https://www.gstatic.com/images/icons/material/system_gm/1x/place_gm_blue_24dp.png"
+    },
+    {
+      "label": "telefone",
+      "tooltip": "Copiar número de telefone",
+      "text": "(73) 3269-1101",
+      "icon": "https://www.gstatic.com/images/icons/material/system_gm/1x/phone_gm_blue_24dp.png"
+    },
+    {
+      "label": "Code",
+      "tooltip": "Copiar Plus Code",
+      "text": "3X4Q+J5 Olivença, Ilhéus - BA",
+      "icon": "https://maps.gstatic.com/mapfiles/maps_lite/images/2x/ic_plus_code.png"
+    },
+    {
+      "label": "send-to-device",
+      "text": "Enviar para smartphone",
+      "icon": "https://maps.gstatic.com/consumer/images/icons/1x/send_to_mobile_alt_gm_blue_24dp.png"
+    },
+    {
+      "label": "merchant",
+      "text": "Reivindicar esta empresa",
+      "icon": "https://www.gstatic.com/images/icons/material/system_gm/1x/verified_user_gm_blue_24dp.png"
+    }
+  ],
+  "ratingInformation": {
+    "basicRatingInformation": {
+      "averageGrade": 4.5,
+      "totalOfEvaluations": 909
+    },
+    "ratingsByGrade": [
+      {
+        "grade": 5,
+        "totalRatings": 625
+      },
+      {
+        "grade": 4,
+        "totalRatings": 173
+      },
+      {
+        "grade": 3,
+        "totalRatings": 68
+      },
+      {
+        "grade": 2,
+        "totalRatings": 19
+      },
+      {
+        "grade": 1,
+        "totalRatings": 24
+      }
+    ]
+  },
+  "ratingTags": [
+    {
+      "tag": "festa",
+      "count": 23,
+      "tooltip": "festa, mencionado em 23 avaliações"
+    },
+    {
+      "tag": "estrutura",
+      "count": 12,
+      "tooltip": "estrutura, mencionado em 12 avaliações"
+    },
+    {
+      "tag": "mar",
+      "count": 11,
+      "tooltip": "mar, mencionado em 11 avaliações"
+    },
+    {
+      "tag": "organização",
+      "count": 10,
+      "tooltip": "organização, mencionado em 10 avaliações"
+    },
+    {
+      "tag": "reveillon",
+      "count": 9,
+      "tooltip": "reveillon, mencionado em 9 avaliações"
+    },
+    {
+      "tag": "banheiros",
+      "count": 9,
+      "tooltip": "banheiros, mencionado em 9 avaliações"
+    },
+    {
+      "tag": "cerveja",
+      "count": 6,
+      "tooltip": "cerveja, mencionado em 6 avaliações"
+    },
+    {
+      "tag": "nota",
+      "count": 6,
+      "tooltip": "nota, mencionado em 6 avaliações"
+    },
+    {
+      "tag": "lazer",
+      "count": 5,
+      "tooltip": "lazer, mencionado em 5 avaliações"
+    },
+    {
+      "tag": "área",
+      "count": 5,
+      "tooltip": "área, mencionado em 5 avaliações"
+    }
+  ],
+  "featuredPhotos": [
+    "https://lh5.googleusercontent.com/p/AF1QipOunxhj15IYpIJXmUtyOsm9Y5g6_v1F_Ohypeq9=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNdoggmRqBkhGBZKX7mKP1T_NVBwbVz_qEOPZlp=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipO5-stB9zX5FcGtVcfvg0Cspwp4Smp-emYIt-O2=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPlXK5FjUvrCSi3-90fRS43XhlD9Ip72RhkpRYS=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOxrjkbquiHbs5IOsrgEynctRcazEJwDBL--bsc=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPUJFSHaiPaImZbpXQCloegwq4yzH9_3H2UqGlr=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOci--ISTiNVC61RFxYkkdVkF62Clrv3DRuOf6u=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipN8NOasrO6__iSm_SbtuwYV7lj3yLJQa7lFjTwK=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMu4p1NK9Q7zXF_MVeMkpFo1_4bCVfCR1xerVo1=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipN4tlGFn5NlfXHtBsgRKwCbITwL3_SIF8DVPz3h=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOsmVADQ4f8G_IabZlYQF-2f9JppmGli4Kp3PIH=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMvDjwqLP3rtYrLqd2cV4K0Iswx1bM0KgR3WjMF=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPAcYK-EjB9ZswxyKA7HbL-u4AfV-Ykdih5gxD3=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMYDhgFPEaOePUa39E10SzuVB9X1HeXBSMA_8w2=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOSG438yH_7Pmgm5_NaFptEawWeW2-y6bIQaLdS=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNhNgYaTM_E1BD2JlcRCqn8aDCKGsFN3CgNxzgm=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMsT0Rqo_AdEk0YWCOUXefEf0XixSwvRnzNxIaW=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPDzbGbrkBICvvM6zRNkpYe7JgzjkY8XeNRtD10=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPRWnHjPO34VzJTcI4yHTgp3WgrPRLYSuKHfchp=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNcWS7PjRsOMCm-i5fSkanQAtWQgBYR_ZNUeJot=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPUnLZfUboL7CGwVIwwoyWFiizbHm3tJ2YVv8pl=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipO5-QwL1YUzCmQb4SUQH3IEmyxmDqQrCtsfDuKJ=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOPHU0QqSGne9bJ9U6wnqDzcDfCx70wHX3LKBu5=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPQdhzGUXgM4baQEK_S_VyVC6NJC781uDLSHJKo=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOzU20xxgSLPZb37bIwnmg9tHW6w7wqwYzLdmWC=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNPMljDuogi7paXviRGXWA9KausAixFAbmTWhm-=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNleky3s4-pKC5cAn8tdBg_Has2QDGMUk0hr43Z=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipO8dkIUGuktnVqehIpDcZqxz6ZpywXKXMaKLBEE=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipO7n-zFEWWvsK5R-Wz6iVXtuld2qhzgphqzK4LF=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNdiuNkPvdO78uTQqI-Pnr1kpQZElLdWCOzNS4M=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipM3AgUvgqPXSWe0LkT9gO5E1sPofMteQId7CR0c=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPiyXD4Mmhk_NxvTfdVwTqOYQk2oLSkrhGbsP2q=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipM8-gk_n4OiWafsXVth9ku9u7yjUUgNwzhdK8A=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPZg9sTHqWDnxuq8HMIItXNuIE3ipxYR45xeVAy=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPk_1tvsdVOXX_WBAA89VbMz4YQdGZl4PkOl0Yj=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNaeAyzmZLMXWLQ3UNXG_8GvFtSbRngR3cRfwv5=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMb7J6TVlNu7hqkHAVwr1TIBuim6kqRrUf5QNsd=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOudeWm2LDYUZhM1xyEy3G6FKKlgNXYS2z7BhSe=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPIYUFgRplYz_yPqAkVmX8JVBvowNH_wdfxSRwb=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOp29ZxOmtg6TSmaeaqRKFGwRc_Z6xE_rarzUl0=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPvxngQYC-5evGsetPD2UAl2wMCc-0_OyZLPCm1=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPULMamapuHKPeEHLv8jJVW9fIE9z-kiEUCRKDj=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMvi5yCd3EiPDxOm43_q5MT0LyBSY8Aj5Z3y2bm=w1024-h576-k-no"
+  ],
+  "topComments": [
+    {
+      "author": "Karine Silva",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucr7j2nitf5V5G2p2nON1hBvvG-KOVv8lWLYfuyuKbE=w36-h36-p-c0x00000000-rp-mo-br100",
+      "comment": "Local bem calmo durante a semana, pouco movimentado.",
+      "gradeComment": 5
+    },
+    {
+      "author": "clarita Oliveira",
+      "photoAuthor": "https://lh3.googleusercontent.com/a/AItbvmnL0itMnccIsTISC2hYnv999tn3MsYg7mno30qO=w36-h36-p-c0x00000000-rp-mo-br100",
+      "comment": "Lugar lindo com uma vista maravilhosa, céu, mar e muitos coqueiros, bonito demais de se ver.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Rebeca Silveira",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucqWNQHeidZZ8Jixm-cv4gy9O1h_ZGQZPAAQK3TXGFM=w36-h36-p-c0x00000000-rp-mo-ba2-br100",
+      "comment": "Lugar tranquilo para passar o dia com a família",
+      "gradeComment": 5
+    },
+    {
+      "author": "Elso Pessanha",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucoSVkNT5frExnPky2n4u8vdMtFjo423xhOsXPlZ=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "A mistura da praia com a vegetação é maravilhosa.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Anderson Carignano",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucqDeQyeOxhDF9PRU51pOOn3iZ0c0uDWgUJy935n=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "Lindo lugar, muito boa estrutura, recomendo",
+      "gradeComment": 5
+    },
+    {
+      "author": "Karlla Costa",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucrn3zxug-W4t_7cm9JVOcoovjTuq3SYOLDBMx01tQ=w36-h36-p-c0x00000000-rp-mo-ba3-br100",
+      "comment": "É uma boa praia, tem sempre salva vidas, mas os banhistas tem que ter atenção as vezes o mar tá bravo! É um ótimo lugar pra caminhadas",
+      "gradeComment": 5
+    },
+    {
+      "author": "Cíntia Cristina Dias Oliveira",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZuco43HWPnyMzHpVhnlDeEsFL1B-A1ekA4LRUx3KAmQg=w36-h36-p-c0x00000000-rp-mo-ba3-br100",
+      "comment": "Praia muito linda e gostosa de ficar",
+      "gradeComment": 5
+    },
+    {
+      "author": "Diogenes Paulo",
+      "photoAuthor": "https://lh3.googleusercontent.com/a/AItbvmlm9yYwoTAU0FwX73aE-uepRJdhpaVyOEAcf6Y5=w36-h36-p-c0x00000000-rp-mo-ba3-br100",
+      "comment": "Praia tranquila, para um bom final de semana em família. Amei, lugar top!",
+      "gradeComment": 5
+    },
+    {
+      "author": "Iramilso Santos",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucpK9qKkFX42Cxx0oJHQlaaUjTZ50CP04KogiCgqmw=w36-h36-p-c0x00000000-rp-mo-ba6-br100",
+      "comment": "Estrutura composta por palco, bar, camarotes, área para estacionamento, praia e outras dependências destinada a realização de shows junto na orla da praia de Olivença, no Sul da Bahia. O espaço promove grandes e famosas apresentações musicais com artistas renomados do cenário nacional, com destaque para a festa de São João e de Reveillon.",
+      "gradeComment": 4
+    },
+    {
+      "author": "ROSÁLIA MAGALHÃES ASM",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucrcuReVz-j1pxmNagbzj1AwotUmglXr4bjZ2-J7Cw=w36-h36-p-c0x00000000-rp-mo-ba5-br100",
+      "comment": "Muito bom p uma caminhada",
+      "gradeComment": 4
+    },
+    {
+      "author": "Alef Afonso",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucpe_eGd-PONx_pDBriM883cDgKjPQpLOnnGUw0qdw=w36-h36-p-c0x00000000-rp-mo-ba3-br100",
+      "comment": "O melhor lugar em Ilhéus para curtir um bom show . E um local de festas particulares geralmente festa juninal, show da virada etc... O local também é alugado para formaturas de alto nível . Ja fui várias vezes e do uma otima nota principalmente quado estamos amanhecendo na festa é a um linda nascer do sol na beira da praia ...",
+      "gradeComment": 5
+    },
+    {
+      "author": "Galdino Vilante (GVilante)",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucqBiOLvK7Bc9ADmSMf9_uo6DIfs_gI0AJIMKM6ihg=w36-h36-p-c0x00000000-rp-mo-ba5-br100",
+      "comment": "Praias com difícil pontos de acesso, pequenas faixas de areia e todas tomadas de barracas que dificultam a tranquilidade das pessoas.",
+      "gradeComment": 2
+    },
+    {
+      "author": "Claudio Nascimento",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucpgGhGc3N_EJPOuyOdfPHe1hgrj7ZSEGGK46AyK=w36-h36-p-c0x00000000-rp-mo-br100",
+      "comment": "Praia muito linda, de fácil acesso próxima a bares, restaurantes, Supermercados e outras atrações turísticas.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Gerffson Lima",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucrHZxQaSungSms0EkQhXPFnPJl028VDvrP6p55dmSc=w36-h36-p-c0x00000000-rp-mo-ba3-br100",
+      "comment": "Olha soó  sou susupeito dizer que é um paraíso ainda mais quando sou praticamente NATIVO kkkkkkk que dia Maravilhoso",
+      "gradeComment": 5
+    },
+    {
+      "author": "Rafael Ribeiro",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucqLfV4C80-PpAlVZFDfxiGiiRmtSrsktgJfGVK6Lkc=w36-h36-p-c0x00000000-rp-mo-ba5-br100",
+      "comment": "A festa é boa, banheiros limpos e cerveja gelada, mas deixaram a desejar no tempo do show no dia 06/01/17. Terminou muito antes do esperado.",
+      "gradeComment": 3
+    },
+    {
+      "author": "Bruno Ganem",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucp6h4Pdyf_4lHyGvmvEWNOKqwGBYtJcbwDZklqAlg=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "Praia, natureza e tranquilidade, era só isso que estava precisando, encontrei isso em Olivença/Ilhéus - BA.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Enzo Campos",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucpKzjGGVT71LByQHxfL9WFLuMHVUrdeMdN8J8RsXZo=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "A Praia tá abandonava,, esse ano não deu pra curtir lá não,, está toda fechada.",
+      "gradeComment": 3
+    },
+    {
+      "author": "Antonio Felipe Lopes Ferreira",
+      "photoAuthor": "https://lh3.googleusercontent.com/a/AItbvmkuhTQ47E5-b6xOId8g9dHwU1YamEFvYLXPgvMF=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "Lugar incrível, tudo que se espera de uma boa praia.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Andressa Bertoncello",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucqG-sH55-9yV6zLqM25RVZj0Jk323XdrClN_OVm=w36-h36-p-c0x00000000-rp-mo-ba5-br100",
+      "comment": "Mais um lugar lindo a visitar em Ilhéus-BA.",
+      "gradeComment": 5
+    },
+    {
+      "author": "João Erço Fogagnoli",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucpdBrB7a-l3WaX4QGH2wm1m6ucZd3MiVX37Sp9ir3M=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "Local ótimo para caminhar na madrugada...",
+      "gradeComment": 5
+    }
+  ],
+  "peakHours": [
+    {
+      "Sunday": [
+        {
+          "hour": "10:00",
+          "percent": 59
+        },
+        {
+          "hour": "11:00",
+          "percent": 69
+        },
+        {
+          "hour": "12:00",
+          "percent": 73
+        },
+        {
+          "hour": "13:00",
+          "percent": 73
+        },
+        {
+          "hour": "14:00",
+          "percent": 68
+        },
+        {
+          "hour": "15:00",
+          "percent": 61
+        },
+        {
+          "hour": "16:00",
+          "percent": 53
+        },
+        {
+          "hour": "17:00",
+          "percent": 44
+        },
+        {
+          "hour": "19:00",
+          "percent": 27
+        },
+        {
+          "hour": "20:00",
+          "percent": 19
+        }
+      ]
+    },
+    {
+      "Monday": [
+        {
+          "hour": "10:00",
+          "percent": 6
+        },
+        {
+          "hour": "11:00",
+          "percent": 8
+        },
+        {
+          "hour": "12:00",
+          "percent": 11
+        },
+        {
+          "hour": "13:00",
+          "percent": 15
+        },
+        {
+          "hour": "14:00",
+          "percent": 16
+        },
+        {
+          "hour": "15:00",
+          "percent": 14
+        },
+        {
+          "hour": "16:00",
+          "percent": 9
+        },
+        {
+          "hour": "17:00",
+          "percent": 3
+        },
+        {
+          "hour": "18:00",
+          "percent": 1
+        },
+        {
+          "hour": "19:00",
+          "percent": 1
+        },
+        {
+          "hour": "20:00",
+          "percent": 1
+        }
+      ]
+    },
+    {
+      "Tuesday": [
+        {
+          "hour": "10:00",
+          "percent": 16
+        },
+        {
+          "hour": "11:00",
+          "percent": 16
+        },
+        {
+          "hour": "12:00",
+          "percent": 18
+        },
+        {
+          "hour": "13:00",
+          "percent": 20
+        },
+        {
+          "hour": "14:00",
+          "percent": 23
+        },
+        {
+          "hour": "15:00",
+          "percent": 25
+        },
+        {
+          "hour": "16:00",
+          "percent": 25
+        },
+        {
+          "hour": "17:00",
+          "percent": 23
+        },
+        {
+          "hour": "18:00",
+          "percent": 19
+        },
+        {
+          "hour": "19:00",
+          "percent": 14
+        },
+        {
+          "hour": "20:00",
+          "percent": 8
+        }
+      ]
+    },
+    {
+      "Wednesday": [
+        {
+          "hour": "10:00",
+          "percent": 15
+        },
+        {
+          "hour": "11:00",
+          "percent": 16
+        },
+        {
+          "hour": "12:00",
+          "percent": 18
+        },
+        {
+          "hour": "13:00",
+          "percent": 20
+        },
+        {
+          "hour": "14:00",
+          "percent": 23
+        },
+        {
+          "hour": "15:00",
+          "percent": 23
+        },
+        {
+          "hour": "16:00",
+          "percent": 21
+        },
+        {
+          "hour": "17:00",
+          "percent": 17
+        },
+        {
+          "hour": "18:00",
+          "percent": 11
+        },
+        {
+          "hour": "19:00",
+          "percent": 6
+        },
+        {
+          "hour": "20:00",
+          "percent": 1
+        }
+      ]
+    },
+    {
+      "Thursday": [
+        {
+          "hour": "10:00",
+          "percent": 22
+        },
+        {
+          "hour": "11:00",
+          "percent": 25
+        },
+        {
+          "hour": "12:00",
+          "percent": 27
+        },
+        {
+          "hour": "13:00",
+          "percent": 29
+        },
+        {
+          "hour": "14:00",
+          "percent": 29
+        },
+        {
+          "hour": "15:00",
+          "percent": 29
+        },
+        {
+          "hour": "16:00",
+          "percent": 29
+        },
+        {
+          "hour": "17:00",
+          "percent": 28
+        },
+        {
+          "hour": "18:00",
+          "percent": 26
+        },
+        {
+          "hour": "19:00",
+          "percent": 24
+        },
+        {
+          "hour": "20:00",
+          "percent": 20
+        }
+      ]
+    },
+    {
+      "Friday": [
+        {
+          "hour": "10:00",
+          "percent": 28
+        },
+        {
+          "hour": "11:00",
+          "percent": 33
+        },
+        {
+          "hour": "12:00",
+          "percent": 36
+        },
+        {
+          "hour": "13:00",
+          "percent": 38
+        },
+        {
+          "hour": "14:00",
+          "percent": 38
+        },
+        {
+          "hour": "15:00",
+          "percent": 37
+        },
+        {
+          "hour": "16:00",
+          "percent": 36
+        },
+        {
+          "hour": "17:00",
+          "percent": 35
+        },
+        {
+          "hour": "18:00",
+          "percent": 33
+        },
+        {
+          "hour": "19:00",
+          "percent": 31
+        },
+        {
+          "hour": "20:00",
+          "percent": 29
+        }
+      ]
+    },
+    {
+      "Saturday": [
+        {
+          "hour": "10:00",
+          "percent": 42
+        },
+        {
+          "hour": "11:00",
+          "percent": 44
+        },
+        {
+          "hour": "12:00",
+          "percent": 45
+        },
+        {
+          "hour": "13:00",
+          "percent": 48
+        },
+        {
+          "hour": "14:00",
+          "percent": 55
+        },
+        {
+          "hour": "15:00",
+          "percent": 67
+        },
+        {
+          "hour": "16:00",
+          "percent": 83
+        },
+        {
+          "hour": "17:00",
+          "percent": 95
+        },
+        {
+          "hour": "18:00",
+          "percent": 100
+        },
+        {
+          "hour": "19:00",
+          "percent": 96
+        },
+        {
+          "hour": "20:00",
+          "percent": 89
+        }
+      ]
+    }
+  ],
+  "relatedSearches": [
+    "ubatuba",
+    "praia dos milionários",
+    "praia de ubatuba",
+    "melhores praias de olivença",
+    "praia dos ilhéus",
+    "praia do cururupe",
+    "praia olivença ilhéus",
+    "praia do jairi",
+    "ubatuba",
+    "praia dos milionários",
+    "praia de ubatuba",
+    "melhores praias de olivença",
+    "praia dos ilhéus",
+    "praia do cururupe",
+    "praia olivença ilhéus",
+    "praia do jairi"
+  ],
+  "relateds": [
+    {
+      "mainName": "Casa Jorge e Nacib",
+      "url": null
+    },
+    {
+      "mainName": "Praia do Malhado",
+      "url": null
+    },
+    {
+      "mainName": "Praia do Sul",
+      "url": null
+    },
+    {
+      "mainName": "Balneário Tororomba",
+      "url": null
+    },
+    {
+      "mainName": "Praia Backdoor",
+      "url": null
+    },
+    {
+      "mainName": "Praia do Cristo",
+      "url": null
+    },
+    {
+      "mainName": "Ponta do Ramo",
+      "url": null
+    },
+    {
+      "mainName": "Condomínio Jubiaba",
+      "url": null
+    },
+    {
+      "mainName": "Igreja Nossa Senhora da Escada",
+      "url": null
+    },
+    {
+      "mainName": "Praia de Acuípe",
+      "url": null
+    },
+    {
+      "mainName": "Praia de Olivença",
+      "url": null
+    },
+    {
+      "mainName": "Bataclan",
+      "url": null
+    },
+    {
+      "mainName": "Praia da Concha",
+      "url": null
+    },
+    {
+      "mainName": "Casa de Cultura Jorge Amado",
+      "url": null
+    },
+    {
+      "mainName": "Centro Histórico de Ilhéus",
+      "url": null
+    },
+    {
+      "mainName": "Baía do Pontal",
+      "url": null
+    },
+    {
+      "mainName": "Palácio do Paranaguá",
+      "url": null
+    },
+    {
+      "mainName": "Praia de Pe de Serra",
+      "url": null
+    },
+    {
+      "mainName": "Praia da Avenida",
+      "url": null
+    },
+    {
+      "mainName": "Praia de Itacarezinho",
+      "url": null
+    },
+    {
+      "mainName": "Catedral de São Sebastião",
+      "url": null
+    },
+    {
+      "mainName": "Casa Jorge e Nacib",
+      "url": null
+    },
+    {
+      "mainName": "Praia do Malhado",
+      "url": null
+    },
+    {
+      "mainName": "Praia do Sul",
+      "url": null
+    },
+    {
+      "mainName": "Balneário Tororomba",
+      "url": null
+    },
+    {
+      "mainName": "Praia Backdoor",
+      "url": null
+    },
+    {
+      "mainName": "Praia do Cristo",
+      "url": null
+    },
+    {
+      "mainName": "Ponta do Ramo",
+      "url": null
+    },
+    {
+      "mainName": "Condomínio Jubiaba",
+      "url": null
+    },
+    {
+      "mainName": "Igreja Nossa Senhora da Escada",
+      "url": null
+    },
+    {
+      "mainName": "Praia de Acuípe",
+      "url": null
+    },
+    {
+      "mainName": "Praia de Olivença",
+      "url": null
+    },
+    {
+      "mainName": "Bataclan",
+      "url": null
+    },
+    {
+      "mainName": "Praia da Concha",
+      "url": null
+    },
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

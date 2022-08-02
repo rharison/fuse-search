@@ -1,0 +1,756 @@
+{
+  "mainName": "Term. São Miguel",
+  "slug": "term.-sao-miguel",
+  "category": "Ponto de ônibus",
+  "locationInformation": {
+    "latitude": "-23.491686",
+    "longitude": "-46.4347813"
+  },
+  "basicInformation": [
+    {
+      "label": "endereço",
+      "tooltip": "Copiar endereço",
+      "text": "Cidade Nitro Operária, São Paulo - SP",
+      "icon": "https://www.gstatic.com/images/icons/material/system_gm/1x/place_gm_blue_24dp.png"
+    },
+    {
+      "label": "Code",
+      "tooltip": "Copiar Plus Code",
+      "text": "GH58+83 São Paulo, SP",
+      "icon": "https://maps.gstatic.com/mapfiles/maps_lite/images/2x/ic_plus_code.png"
+    }
+  ],
+  "ratingInformation": null,
+  "ratingTags": [
+    {
+      "tag": "localizado",
+      "count": 17,
+      "tooltip": "localizado, mencionado em 17 avaliações"
+    },
+    {
+      "tag": "bilhete único",
+      "count": 13,
+      "tooltip": "bilhete único, mencionado em 13 avaliações"
+    },
+    {
+      "tag": "organizado",
+      "count": 13,
+      "tooltip": "organizado, mencionado em 13 avaliações"
+    },
+    {
+      "tag": "ser",
+      "count": 6,
+      "tooltip": "ser, mencionado em 6 avaliações"
+    },
+    {
+      "tag": "informação",
+      "count": 5,
+      "tooltip": "informação, mencionado em 5 avaliações"
+    },
+    {
+      "tag": "máquinas",
+      "count": 4,
+      "tooltip": "máquinas, mencionado em 4 avaliações"
+    },
+    {
+      "tag": "noite",
+      "count": 4,
+      "tooltip": "noite, mencionado em 4 avaliações"
+    },
+    {
+      "tag": "segurança",
+      "count": 4,
+      "tooltip": "segurança, mencionado em 4 avaliações"
+    },
+    {
+      "tag": "banheiro",
+      "count": 4,
+      "tooltip": "banheiro, mencionado em 4 avaliações"
+    },
+    {
+      "tag": "educados",
+      "count": 4,
+      "tooltip": "educados, mencionado em 4 avaliações"
+    }
+  ],
+  "featuredPhotos": [
+    "https://lh5.googleusercontent.com/p/AF1QipPlaxISqtcMgOOLNSl0CSm2w7-e_IDKFvlIIXeu=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNjDpw5SdrprOZ8TYQ15DywcZ7wpoWXAYmA2iwr=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipM8B65eD1ibA6Ubjvfs8ppXbURMZvls5Fcwh4D4=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipN0c_BOszSpheyP1FV5dQV49tmtpJZ5kAML_-GM=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNn6YrwXWF2ThACbf-d6tF709VOfJyRBJXmYDM_=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMV3qddCoiX1PheD_9D5vMNkpvAqfhN8ZlPzdFt=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMr_bzsilRd8T-YtEAXLZYMJO4CSc8EWI3u-mRa=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipP03cTDYbY0mB0uCK1NAGzKj2n7iYGL2LVewXef=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOWHGUQzADu4Xa_eQEaLGdUYQjX6JYDkp9yheal=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMQcFfMb_dHkb8drvcO1y9SU9JCQA-PdrlCSaiq=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPBzqbJ_AkN56zIjYdudTwRC58vjRGUT5hmOZ9Z=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPDp4wuO_UkOfA8Uz0h_UbPtJBTcLpAn0mbFTR1=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMeto_dnF-cHosPXl5RBsbU81LXwCbvs_N6esiK=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipN9CKDRWWqthUsfbxweH9sAYUszOydJ25IwMBOa=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNVMgWErhnTtw0CMwoXrcw48d523l4101a6Ohr6=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNV4vhk3LTD0CkyipcmU7lyoTZaoBP_tHBmrABk=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMhLzQUIZh38pDW3qrqoyTU_glrjYOjQ3sP9vaZ=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMIrx5TELKSTcOQab09a1NpBLNh2aS7dv9sV3B6=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNmffO0lZ0fx5mekFPSApmzf3rs0Y71m11oRSA_=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNRYYvpOtdLxA8aJMkIOcjyLv8HEEySsgp_Uldb=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOpvzuEw4nuSWasOsLHS1TWp-Y8ymlTkoyjg56S=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMb_KagaJvj10_Ldd4yZL-cMCDi2Z62iSOSw1uR=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNgMfkTN-ArcoZvFa1TMUVt6ganJY291yMCAY_S=w1024-h576-k-no"
+  ],
+  "topComments": [
+    {
+      "author": "Padaogamer",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucqdMF7kWCjoY-sLPIp8ljuMjRjEhFCmlvOUgQDXpg=w36-h36-p-c0x00000000-rp-mo-ba5-br100",
+      "comment": "Lugar espaço bem organizado e com bons serviços, inclusive para o bilhete único com posto e guichês para o atendimento e recarga, além das máquinas de auto antendimento. Mas embora seja um lugar grande e muito bem construído, fica escondido e tem uma frota de ônibus super pequena, com movimento de pouco a moderado, o que torna o lugar perigoso e com índices de assaltos nas redondezas muito alto, mesmo nós horários de pico. Os moradores até colocam faixas nas ruas ameaçando os trombadinhas e assaltantes que teram uma reação hostil se verem em fragrante algum crime do gênero. Poderia a sub prefeitura avaliar passar mais linhas que vem e vão pela Avenida Marechal Tito, a passar pelo terminal, torná-la mais movimentada e assim aproveita melhor essa construção feita e mantida com dinheiro público.",
+      "gradeComment": 3
+    },
+    {
+      "author": "Andressa jordao",
+      "photoAuthor": "https://lh3.googleusercontent.com/a/AItbvmkQbACetNe56BBDi_cPts5FC5D60LQTPpk0ThU=w36-h36-p-c0x00000000-rp-mo-ba2-br100",
+      "comment": "Lugar limpo.  Dependendo da hora não tem muita fila. Lugar tranquilo apesar de ser terminal de ônibus...",
+      "gradeComment": 5
+    },
+    {
+      "author": "Cicero Emerson Leite Souza",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucptqDVeScnuSgiZaUrCGOY25W7EZ2jWMhd1p6dadw=w36-h36-p-c0x00000000-rp-mo-ba5-br100",
+      "comment": "No local tem um posto da Sptrans, terminal organizado, porém, precisa de mais segurança dentro do terminal e policiamento ao redor!!!",
+      "gradeComment": 3
+    },
+    {
+      "author": "Carlos Marques",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucoa2EH51RsD3yTHekvKniVO4q14nmuz9Pp-DrP_Pg=w36-h36-p-c0x00000000-rp-mo-ba5-br100",
+      "comment": "LONGAS FILAS DEMORA NO ATENDIMENTO NÃO PELOS FUNCIONÁRIOS E SIM PELA PREFEITURA  COM ESSES SISTEMAS MEIA BOCA QUE HORA FUNCIONA HORA PÁRA LUGAR MAL LOCALIZADO LUGAR MUITO ESCONDIDO SEM INFORMAÇÕES PARA AQUELES QUE NÃO CONHECEM A REGIÃO",
+      "gradeComment": 1
+    },
+    {
+      "author": "Samantha Alves de Souza",
+      "photoAuthor": "https://lh3.googleusercontent.com/a/AItbvmmtwGinkq0hJSFlUNQIK_Pq3yx6qGILqhPOt8kV=w36-h36-p-c0x00000000-rp-mo-br100",
+      "comment": "Péssimo! Estou a mais de 1h no ponto esperando e não passa. Que vergonha,  que descaso com o cidadão brasileiro!",
+      "gradeComment": 1
+    },
+    {
+      "author": "Talita Silva",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucoN-oNHC-UeRPur_UyVDG6KmHGUfx8WvwjFmoUyYQ=w36-h36-p-c0x00000000-rp-mo-br100",
+      "comment": "Fui tira a segunda via do bilhete de manhã e não tinha muita gente tive que volta de tarde porq esqueci o rg. De tarde tem uma fila grande mais tirando isso é de boa, conseguir tira meu bilhete paguei 30,80 porq era a segunda via. Fui hoje dia 16/02/22. LEVEM O RG ORIGINAL!!!",
+      "gradeComment": 3
+    },
+    {
+      "author": "Renata Romão Lucena",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucpKnFN8KVwj7OE4hX1anOT79kB3gUtW3TFxwMY1-rk=w36-h36-p-c0x00000000-rp-mo-ba2-br100",
+      "comment": "Minha experiência foi ótima consegui fazer meu bilhete único sem custo algum documento que levei apenas o RG original ,então meu conselho se vc tá tentando fazer bilhete pelo site e sua foto toda hora aparece como reprovada vai pessoalmente pode ir andando o terminal ffica pertinho só colocar GPS do celular espero ter ajudado ✌️.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Ana Paula",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucpoPrKNWG5Qg1s5SPQouKyNFqyB6u786sRpwM6KK2M=w36-h36-p-c0x00000000-rp-mo-ba5-br100",
+      "comment": "No dia que fui retirar meu bilhete único,  o local estava, vazio, o atendimento excelente.",
+      "gradeComment": 4
+    },
+    {
+      "author": "Will Ramos",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucosuPBEusUvyfEN4GRX5dTKSEjsvnD0wETJYmb9KQ=w36-h36-p-c0x00000000-rp-mo-br100",
+      "comment": "4 ônibus 354M-10 parados a mais de 20 minutos uma demora sem igual, para pelo menos 1 sair, precisou chegar o 5° onibus",
+      "gradeComment": 2
+    },
+    {
+      "author": "Maria Franciele",
+      "photoAuthor": "https://lh3.googleusercontent.com/a/AItbvmkNiusYRU8CCNP_qUpQ9VqozlL31JxoIYlfiuKK=w36-h36-p-c0x00000000-rp-mo-br100",
+      "comment": "Péssima, funcionários mal educados. Não resolvem o problema,não tem troco,eles nos ignoram. São péssimos no que fazem,estiver no terminal São Miguel,hoje dia 16/01/2022. Toda a equipe que estava nesse horário às 14:00 horas são mal educados.",
+      "gradeComment": 1
+    },
+    {
+      "author": "Juliano Ribeiro De Sousa",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucpUvdkzj8VUJPp55nWdCVZxKkNLyV3IifJ_OB_Ozg=w36-h36-p-c0x00000000-rp-mo-ba6-br100",
+      "comment": "Mal planejado e mal localizado, não atende a demanda de usuários de São Miguel Paulista. O movimento concentra-se no posto de atendimento da SPTrans no que refere-se ao bilhete único.  Longe do centro comercial de São Miguel Paulista; da Av Marechal Tito e com poucas linhas e longe também da estação da CPTM — um verdadeiro elefante branco.",
+      "gradeComment": 3
+    },
+    {
+      "author": "Brenda Moreira",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucqIVwHK3o5KQ67XKW6hsayRwwWvKTmjrIWrw865rNc=w36-h36-p-c0x00000000-rp-mo-ba2-br100",
+      "comment": "Total insatisfação. Todas as vezes que é preciso resolver QUALQUER coisa aqui, se prepare, porque você vai pegar uma fila de quase 2 HORAS. Ah! Nunca a encarregada da SPTrans está para fazer procedimentos importantes. Fazem você voltar duas vezes e cada vezes porque não tem a encarregada para cancelar UM CARTÃO. Basicamente vir aqui é literalmente pedir pra sofrer, porque você fica na fila um tempo com muito excesso de demora, para ouvir \"volte depois\". Sério, não é possível que exista fiscalização da SPTrans aqui, porque nunca há um responsável para fazer um procedimento. Somente UMA PESSOA para fazer. Lamentável!!!",
+      "gradeComment": 1
+    },
+    {
+      "author": "Deise Haj",
+      "photoAuthor": "https://lh3.googleusercontent.com/a/AItbvml1JnxKgPF8wTEZHEefDWpbtP2EVu7q4ZPPvMGQ=w36-h36-p-c0x00000000-rp-mo-br100",
+      "comment": "Descaso com a população! Os ônibus saem com muitos atrasos. Fila gigante no ponto que sai o Ônibus Terminal Parque Dom Pedro. Os motoristas não respeitam os horários  pprogramados. Falta fiscalização da Sptrans.",
+      "gradeComment": 1
+    },
+    {
+      "author": "Igor Augusto",
+      "photoAuthor": "https://lh3.googleusercontent.com/a/AItbvmmu4-Z5h0LCSdsxHeiEb-5-Gy4Z1k5N7O1MtJHT=w36-h36-p-c0x00000000-rp-mo-ba3-br100",
+      "comment": "A localização é um pouco estranha mas o atendimento e o local é excelente, resolveram meu problema rápido",
+      "gradeComment": 4
+    },
+    {
+      "author": "Gilmária Ramos",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucpcvB46eIRhaMdxjhobpJQOGrhkZZigO23FGE4FWUk=w36-h36-p-c0x00000000-rp-mo-br100",
+      "comment": "Lugar agradável, só faltou um quiosque para comprar água, suco ou algo mais, poderia ter mais guinches para melhor atendimento.",
+      "gradeComment": 4
+    },
+    {
+      "author": "Elaine Silva",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucqLxNoTdn5p0dyPajnp1nZTQT-r0PkCqdCZyg6V-w=w36-h36-p-c0x00000000-rp-mo-br100",
+      "comment": "O terminal até que é bom ,mas os guichês de atendimento péssimo não lhe dão a informação certa e são bem mal educados...lamentável...",
+      "gradeComment": 1
+    },
+    {
+      "author": "Silviia Caetano",
+      "photoAuthor": "https://lh3.googleusercontent.com/a/AItbvmlpj8cMErDoIC0WGXWRE3WS_OHLGRFUV26nN8Bf=w36-h36-p-c0x00000000-rp-mo-ba3-br100",
+      "comment": "Difícil acesso, poucas opções de ônibus, atendimento na sptrans demorado. Fiquei 3 horas na fila pra ser atendida.",
+      "gradeComment": 3
+    },
+    {
+      "author": "shs dança",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucozUBmm138PDttfsshLoNLw865j_A7jrgnkZWYoSg=w36-h36-p-c0x00000000-rp-mo-ba3-br100",
+      "comment": "É um terminal limpo ,mas escondido e com poucas linhas de ônibus enfim é enorme e vazio devido a sua localização de difícil acesso e não leva ao centro nem as principais ruas",
+      "gradeComment": 3
+    },
+    {
+      "author": "Amanda",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucoYxRN7gNKBy8KJK9cARzIp_HKMNdYh8W0LvMIFrQ=w36-h36-p-c0x00000000-rp-mo-br100",
+      "comment": "ainda está em manutenção? tive que perder um dia de escola pra ir ver o que houve com meu passe de estudante e nem se quer me atenderam dizendo que os funcionários estão fora da unidade",
+      "gradeComment": 3
+    },
+    {
+      "author": "Silvana Santos",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucoQgGFs-_xuP9PP8YpQL-Os7KQe9W_oPFuFdysPUhU=w36-h36-p-c0x00000000-rp-mo-ba3-br100",
+      "comment": "Pensa num terminal que não serve pra nada longe do centro e longe das casas e não tem linhas suficiente .. enfim mal localizado e não tem linhas suficiente",
+      "gradeComment": 2
+    }
+  ],
+  "peakHours": [
+    {
+      "Sunday": [
+        {
+          "hour": "10:00",
+          "percent": 11
+        },
+        {
+          "hour": "11:00",
+          "percent": 22
+        },
+        {
+          "hour": "12:00",
+          "percent": 30
+        },
+        {
+          "hour": "13:00",
+          "percent": 34
+        },
+        {
+          "hour": "14:00",
+          "percent": 36
+        },
+        {
+          "hour": "15:00",
+          "percent": 36
+        },
+        {
+          "hour": "16:00",
+          "percent": 35
+        },
+        {
+          "hour": "17:00",
+          "percent": 32
+        },
+        {
+          "hour": "18:00",
+          "percent": 26
+        },
+        {
+          "hour": "19:00",
+          "percent": 15
+        },
+        {
+          "hour": "20:00",
+          "percent": 2
+        }
+      ]
+    },
+    {
+      "Monday": [
+        {
+          "hour": "04:00",
+          "percent": 36
+        },
+        {
+          "hour": "05:00",
+          "percent": 58
+        },
+        {
+          "hour": "06:00",
+          "percent": 64
+        },
+        {
+          "hour": "07:00",
+          "percent": 58
+        },
+        {
+          "hour": "08:00",
+          "percent": 47
+        },
+        {
+          "hour": "09:00",
+          "percent": 43
+        },
+        {
+          "hour": "10:00",
+          "percent": 53
+        },
+        {
+          "hour": "11:00",
+          "percent": 72
+        },
+        {
+          "hour": "12:00",
+          "percent": 91
+        },
+        {
+          "hour": "13:00",
+          "percent": 100
+        },
+        {
+          "hour": "14:00",
+          "percent": 96
+        },
+        {
+          "hour": "15:00",
+          "percent": 86
+        },
+        {
+          "hour": "16:00",
+          "percent": 74
+        },
+        {
+          "hour": "17:00",
+          "percent": 65
+        },
+        {
+          "hour": "18:00",
+          "percent": 58
+        },
+        {
+          "hour": "19:00",
+          "percent": 47
+        },
+        {
+          "hour": "20:00",
+          "percent": 31
+        },
+        {
+          "hour": "21:00",
+          "percent": 10
+        },
+        {
+          "hour": "03:00",
+          "percent": 6
+        }
+      ]
+    },
+    {
+      "Tuesday": [
+        {
+          "hour": "04:00",
+          "percent": 31
+        },
+        {
+          "hour": "05:00",
+          "percent": 60
+        },
+        {
+          "hour": "06:00",
+          "percent": 77
+        },
+        {
+          "hour": "07:00",
+          "percent": 78
+        },
+        {
+          "hour": "08:00",
+          "percent": 66
+        },
+        {
+          "hour": "09:00",
+          "percent": 53
+        },
+        {
+          "hour": "10:00",
+          "percent": 49
+        },
+        {
+          "hour": "11:00",
+          "percent": 58
+        },
+        {
+          "hour": "12:00",
+          "percent": 74
+        },
+        {
+          "hour": "13:00",
+          "percent": 89
+        },
+        {
+          "hour": "14:00",
+          "percent": 95
+        },
+        {
+          "hour": "15:00",
+          "percent": 91
+        },
+        {
+          "hour": "16:00",
+          "percent": 81
+        },
+        {
+          "hour": "17:00",
+          "percent": 69
+        },
+        {
+          "hour": "18:00",
+          "percent": 59
+        },
+        {
+          "hour": "19:00",
+          "percent": 48
+        },
+        {
+          "hour": "20:00",
+          "percent": 35
+        },
+        {
+          "hour": "21:00",
+          "percent": 18
+        }
+      ]
+    },
+    {
+      "Wednesday": [
+        {
+          "hour": "04:00",
+          "percent": 38
+        },
+        {
+          "hour": "05:00",
+          "percent": 61
+        },
+        {
+          "hour": "06:00",
+          "percent": 60
+        },
+        {
+          "hour": "07:00",
+          "percent": 42
+        },
+        {
+          "hour": "08:00",
+          "percent": 26
+        },
+        {
+          "hour": "09:00",
+          "percent": 25
+        },
+        {
+          "hour": "10:00",
+          "percent": 36
+        },
+        {
+          "hour": "11:00",
+          "percent": 51
+        },
+        {
+          "hour": "12:00",
+          "percent": 68
+        },
+        {
+          "hour": "13:00",
+          "percent": 81
+        },
+        {
+          "hour": "14:00",
+          "percent": 90
+        },
+        {
+          "hour": "15:00",
+          "percent": 94
+        },
+        {
+          "hour": "16:00",
+          "percent": 91
+        },
+        {
+          "hour": "17:00",
+          "percent": 82
+        },
+        {
+          "hour": "18:00",
+          "percent": 69
+        },
+        {
+          "hour": "19:00",
+          "percent": 53
+        },
+        {
+          "hour": "20:00",
+          "percent": 36
+        },
+        {
+          "hour": "21:00",
+          "percent": 20
+        },
+        {
+          "hour": "22:00",
+          "percent": 6
+        },
+        {
+          "hour": "03:00",
+          "percent": 8
+        }
+      ]
+    },
+    {
+      "Thursday": [
+        {
+          "hour": "04:00",
+          "percent": 40
+        },
+        {
+          "hour": "05:00",
+          "percent": 57
+        },
+        {
+          "hour": "06:00",
+          "percent": 59
+        },
+        {
+          "hour": "07:00",
+          "percent": 50
+        },
+        {
+          "hour": "08:00",
+          "percent": 38
+        },
+        {
+          "hour": "09:00",
+          "percent": 34
+        },
+        {
+          "hour": "10:00",
+          "percent": 44
+        },
+        {
+          "hour": "11:00",
+          "percent": 63
+        },
+        {
+          "hour": "12:00",
+          "percent": 81
+        },
+        {
+          "hour": "13:00",
+          "percent": 90
+        },
+        {
+          "hour": "14:00",
+          "percent": 88
+        },
+        {
+          "hour": "15:00",
+          "percent": 80
+        },
+        {
+          "hour": "16:00",
+          "percent": 74
+        },
+        {
+          "hour": "17:00",
+          "percent": 73
+        },
+        {
+          "hour": "18:00",
+          "percent": 75
+        },
+        {
+          "hour": "19:00",
+          "percent": 72
+        },
+        {
+          "hour": "20:00",
+          "percent": 60
+        },
+        {
+          "hour": "21:00",
+          "percent": 37
+        },
+        {
+          "hour": "22:00",
+          "percent": 9
+        },
+        {
+          "hour": "03:00",
+          "percent": 13
+        }
+      ]
+    },
+    {
+      "Friday": [
+        {
+          "hour": "04:00",
+          "percent": 15
+        },
+        {
+          "hour": "05:00",
+          "percent": 24
+        },
+        {
+          "hour": "06:00",
+          "percent": 31
+        },
+        {
+          "hour": "07:00",
+          "percent": 35
+        },
+        {
+          "hour": "08:00",
+          "percent": 39
+        },
+        {
+          "hour": "09:00",
+          "percent": 43
+        },
+        {
+          "hour": "10:00",
+          "percent": 47
+        },
+        {
+          "hour": "11:00",
+          "percent": 53
+        },
+        {
+          "hour": "12:00",
+          "percent": 61
+        },
+        {
+          "hour": "13:00",
+          "percent": 69
+        },
+        {
+          "hour": "14:00",
+          "percent": 76
+        },
+        {
+          "hour": "15:00",
+          "percent": 79
+        },
+        {
+          "hour": "16:00",
+          "percent": 76
+        },
+        {
+          "hour": "17:00",
+          "percent": 68
+        },
+        {
+          "hour": "18:00",
+          "percent": 55
+        },
+        {
+          "hour": "19:00",
+          "percent": 38
+        },
+        {
+          "hour": "20:00",
+          "percent": 21
+        },
+        {
+          "hour": "21:00",
+          "percent": 4
+        },
+        {
+          "hour": "03:00",
+          "percent": 5
+        }
+      ]
+    },
+    {
+      "Saturday": [
+        {
+          "hour": "08:00",
+          "percent": 9
+        },
+        {
+          "hour": "09:00",
+          "percent": 21
+        },
+        {
+          "hour": "10:00",
+          "percent": 34
+        },
+        {
+          "hour": "11:00",
+          "percent": 46
+        },
+        {
+          "hour": "12:00",
+          "percent": 57
+        },
+        {
+          "hour": "14:00",
+          "percent": 66
+        },
+        {
+          "hour": "15:00",
+          "percent": 64
+        },
+        {
+          "hour": "16:00",
+          "percent": 58
+        },
+        {
+          "hour": "17:00",
+          "percent": 49
+        },
+        {
+          "hour": "18:00",
+          "percent": 39
+        },
+        {
+          "hour": "19:00",
+          "percent": 28
+        },
+        {
+          "hour": "20:00",
+          "percent": 17
+        },
+        {
+          "hour": "21:00",
+          "percent": 9
+        },
+        {
+          "hour": "22:00",
+          "percent": 2
+        }
+      ]
+    }
+  ],
+  "relatedSearches": [
+    "terminal são miguel horário",
+    "terminal são miguel telefone",
+    "sptrans são miguel",
+    "ônibus são miguel paulista",
+    "terminal são miguel endereço",
+    "sptrans são miguel agendamento",
+    "354m são miguel",
+    "rua guaracapa 350 são miguel",
+    "terminal são miguel horário",
+    "terminal são miguel telefone",
+    "sptrans são miguel",
+    "ônibus são miguel paulista",
+    "terminal são miguel endereço",
+    "sptrans são miguel agendamento",
+    "354m são miguel",
+    "rua guaracapa 350 são miguel"
+  ],
+  "relateds": []
+}

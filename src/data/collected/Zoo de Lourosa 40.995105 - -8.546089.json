@@ -1,0 +1,668 @@
+{
+  "mainName": "Zoo de Lourosa",
+  "slug": "zoo-de-lourosa",
+  "category": "Zoológico",
+  "locationInformation": {
+    "latitude": "40.995105",
+    "longitude": "-8.546089"
+  },
+  "basicInformation": [
+    {
+      "label": "endereço",
+      "tooltip": "Copiar endereço",
+      "text": "Rua Parque, 4535-071 Lourosa, Portugal",
+      "icon": "https://www.gstatic.com/images/icons/material/system_gm/1x/place_gm_blue_24dp.png"
+    },
+    {
+      "label": "website",
+      "tooltip": "Abrir website",
+      "text": "zoolourosa.com",
+      "icon": "https://www.gstatic.com/images/icons/material/system_gm/1x/public_gm_blue_24dp.png"
+    },
+    {
+      "label": "telefone",
+      "tooltip": "Copiar número de telefone",
+      "text": "+351 22 745 9822",
+      "icon": "https://www.gstatic.com/images/icons/material/system_gm/1x/phone_gm_blue_24dp.png"
+    },
+    {
+      "label": "Code",
+      "tooltip": "Copiar Plus Code",
+      "text": "XFW3+2H Lourosa, Portugal",
+      "icon": "https://maps.gstatic.com/mapfiles/maps_lite/images/2x/ic_plus_code.png"
+    },
+    {
+      "label": "merchant",
+      "text": "Reivindicar esta empresa",
+      "icon": "https://www.gstatic.com/images/icons/material/system_gm/1x/verified_user_gm_blue_24dp.png"
+    }
+  ],
+  "ratingInformation": {
+    "basicRatingInformation": {
+      "averageGrade": 4.5,
+      "totalOfEvaluations": 1224
+    },
+    "ratingsByGrade": [
+      {
+        "grade": 5,
+        "totalRatings": 784
+      },
+      {
+        "grade": 4,
+        "totalRatings": 343
+      },
+      {
+        "grade": 3,
+        "totalRatings": 84
+      },
+      {
+        "grade": 2,
+        "totalRatings": 6
+      },
+      {
+        "grade": 1,
+        "totalRatings": 7
+      }
+    ]
+  },
+  "ratingTags": [
+    {
+      "tag": "tratado",
+      "count": 14,
+      "tooltip": "tratado, mencionado em 14 avaliações"
+    },
+    {
+      "tag": "organizado",
+      "count": 13,
+      "tooltip": "organizado, mencionado em 13 avaliações"
+    },
+    {
+      "tag": "sítio",
+      "count": 12,
+      "tooltip": "sítio, mencionado em 12 avaliações"
+    },
+    {
+      "tag": "bar",
+      "count": 12,
+      "tooltip": "bar, mencionado em 12 avaliações"
+    },
+    {
+      "tag": "variedade",
+      "count": 11,
+      "tooltip": "variedade, mencionado em 11 avaliações"
+    },
+    {
+      "tag": "ornitologia",
+      "count": 10,
+      "tooltip": "ornitologia, mencionado em 10 avaliações"
+    },
+    {
+      "tag": "ambiente",
+      "count": 9,
+      "tooltip": "ambiente, mencionado em 9 avaliações"
+    },
+    {
+      "tag": "festas",
+      "count": 8,
+      "tooltip": "festas, mencionado em 8 avaliações"
+    },
+    {
+      "tag": "fantástico",
+      "count": 7,
+      "tooltip": "fantástico, mencionado em 7 avaliações"
+    },
+    {
+      "tag": "sombra",
+      "count": 5,
+      "tooltip": "sombra, mencionado em 5 avaliações"
+    }
+  ],
+  "featuredPhotos": [
+    "https://lh5.googleusercontent.com/p/AF1QipMtZX-wNTb3XeuFNumFxYAvb-3zL75XI8BOQ0km=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipM8D5O3ShHQ4G7XU7EUjQZAdHzVvg0pdqDlSFJp=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipN5YrK7Qw5Dla2O95-ap2pyAjaW27OJFuMLZlnX=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipN1ufs8DaaTK3ClhwuSUNyoF2zXqjyYkvJrBWY=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPtJVzRr_AGI1ZmUY2E-pw9RFc73BTardGlkb5R=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPou6vMJoUxvLm8JLNxPSSl1CPAInsWPWC6jl00=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMWzcita1VDpYoQKjogv7aUxO4az5xG8Qr1WQ3t=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOHp9GCsOMHIArz1ymK-hrNtds6FjgHYokpSCoL=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipN_CFAuiOgsbSTLt4pOocrfBZ54MdraKmSmXGlf=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMFJfq2z7TnPRh5_uFaskUKYEJ7eV8r1tAUzwvh=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipO0QXPmW7BzgLoW6xiqobvBlwhy-fGcUM0DJn5n=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOZTPieo2LrcfX8grDCQiUdE_I0CJHw2YKduOL9=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNw_hZvTJJditYQUZSwVlZwLpLZnzSM1u5e1XMA=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMti41Ej2SFNSc0Dr8u8fYP5EHeA_eAZ7chcR-v=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipP9_vhdSoghGUGy8-GxeUpp5SpN6gZ6QocFoX89=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMnUjqvITPIuNa78LiXddXxtQhsgC50Q2_UY_qF=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOdVojnef-5x0AziWNm0uMTHrRWSNd7RC-vASbJ=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPuIZM_i9Rvl9-VtCeSB7WlGIreIx7hQpNBB_uz=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMpNln6-xVQ15ZQ0eqK726mi7rmzYP01-BP-zPV=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPOOTNOzExXm2kKGSh_-Nm49c3Yn7bLlwcZeJKS=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMxC9O6ntfFTrARrwvCYkTkHPAzlg4srgnQiXZC=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMaiBJq4zKEjRUYiCwluThB5n0imlv40E5H9-1_=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOs4itCjDl2PMYtHoezNbH3uYRgOp5qt01xZdSl=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOkmQYmTbtSDVYkpM6X9ZzXKCvhfm-UoT8gD-BT=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOsFcxDv5mP7ARdvfSu9OIpF4hqZD9dSOc-orkn=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNM1j6ahBc7UBw44GYOwkdgPjzLjVkLvKpVXXt9=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMfXh1BnI50lgq3pWLgJVdlRaDvI5lBMXkroRGA=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMvfvoMKL9qLiNyKrTF2imXP7_Wp1lmiClmySjW=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMzKPsWwSzFqZ6x5it_N-OGeioPKBdrY5rcIvS1=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNW0A8GLKwIIfOlgPo9sp6VNnzNrwFLoMLnwmPD=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPNX4bhgcCcbsRDncxxBM4ka-xzKiXvGgafcEp0=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOvyyLl-H_lyadrR-LHLBfNvi7Cm0rg0CcZmZAL=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipO0LTSNh_i1jMAzVsB0TZVPDY7tq6kVSCBitaQp=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipN0ovqp7QNpifvMs-X0P_LLHLCUme-LVznmuL2j=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMeKwJbPrOK_aFXSDGQnvWOBcGz4X3Rrx8YITNt=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOwah9gSUdDb_o0H6pIXWssgGKIoflX3-T3g90D=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPj9vQ1CO1ZnMB6arA5NXNlSRAe5wzkBO2yS-FY=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPoF1cnDNfWEs4R7R41knBJqYdfksEk1usA9Paa=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNhvIDzKqMmnFlkHC47ulWYV4IVokNti5OSXvE=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPdULqyMmud-bFZrNRYEPIEBUUcj2KLsBbO8keW=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNqnqus91i4vhRKM6itEg-4JxQWprZ_09gAxxry=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipN81MIQYL1_YCxYUOJeag7mJKjnK0nhD_MPMVsZ=w1024-h576-k-no"
+  ],
+  "topComments": [
+    {
+      "author": "Paulo Nogueira",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucqsA0c0IgwJyjm6M7UbyBlQKeSgTD6-d94e0_AqyQ=w36-h36-p-c0x00000000-rp-mo-ba5-br100",
+      "comment": "Excelente zoo, com uma diversidade enorme de aves, muito limpo com muita informação, atendimento muito adequado excelente para fazer festas, muito bem identificado e organizado, tem todas as informações necessárias, com muita associabilidade a pessoas com mobilidade reduzida. excelente local",
+      "gradeComment": 5
+    },
+    {
+      "author": "Sofia Campos",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucq4B4sUzmpbjJbWAh2k98JN7U_xskh-ALbhko093g=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "Um passeio muito interessante! Preço justo para um parque modesto mas bem cuidado. Iremos voltar! Foi uma boa surpresa!",
+      "gradeComment": 4
+    },
+    {
+      "author": "julio dias",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucqEKf_H8SqdpCZEtSWARzY38OAO7p5i5azIouyv5Q=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "Muito agradável. Grande variedade de aves. Local bem organizado.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Ricardo Bessa",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucpYlARNujak1Lmk0Pu9tS-MPScXpodXzn_ekY4l0w=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "Adorei ir ao Zoo já é a 2º vez que vou. Aconselho",
+      "gradeComment": 5
+    },
+    {
+      "author": "ana matias",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucpzZ7yaPvwLpdl6IAQR7r8OGD3DbM92lDOzKmt3Cg=w36-h36-p-c0x00000000-rp-mo-ba5-br100",
+      "comment": "Gostei muito de visitar este parque ornitológico. Tem muitas espécies de aves. Está muito limpo e bem organizado. Tive pena de não ter o bar a funcionar.",
+      "gradeComment": 4
+    },
+    {
+      "author": "Vania Martins Rodrigues",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucpLVIdo6Vwy7JjaH2ldvgV_JYR5b0YJ0MYU2ztg=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "Esse Zoo é muito bacana, tem uma palestra com apresentações com coruja e etc..  é muito lindo esse zoo.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Ricardo José Heitor Santos",
+      "photoAuthor": "https://lh3.googleusercontent.com/a/AItbvmn2JSHqOrM5vV23x9eCFyxeyNg5Zcc_0Z7zpqd1=w36-h36-p-c0x00000000-rp-mo-ba3-br100",
+      "comment": "Surpreendeu pela positiva. O local é pequeno mas tem muita variedade de aves. Nota-se que os animais são bem tratados, alguns são mesmo brincalhões, boas condições e limpeza.  Recomendo a sua visita, que não deve ser menos de uma hora para se apreciar verdadeiramente a variedade.  O local disponibiliza saquinhos de comida para se dar a algumas aves.  É um bom local para se ir em família, namoro ou mesmo sozinhos para espairecer.  Infelizmente não tirei fotos, estava entretido com as aves e quando cheguei ao fim é que me lembrei.  Recomendo a sua visita e apoio.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Rogerio Mota",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucrlFle2_VLTNBv5qDWpLqav_5o77LDCjtz0FtYMnA=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "Muita variedade de aves. Aves bem tratadas e local tranquilo.",
+      "gradeComment": 4
+    },
+    {
+      "author": "João Ferreira",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucrtucj1RF0XpHpFOPFelN6IB3tGPaJZn-12X4xYRw=w36-h36-p-c0x00000000-rp-mo-ba5-br100",
+      "comment": "Zoo pequeno mas bem tratado..boa qualidade preço..visita de 40 minutos",
+      "gradeComment": 4
+    },
+    {
+      "author": "Carlos Gonçalves",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucqUlvPnK0ysSuoJOw1fH_A29_WnbsrVKu3M5gEIPRk=w36-h36-p-c0x00000000-rp-mo-ba5-br100",
+      "comment": "Excelente Zoológico em termos Ornitológicos.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Carlos Silva",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucqKmxyq_6MyHeqfN5UIy5OrLDI5rmgYZSDMi8jf9w=w36-h36-p-c0x00000000-rp-mo-ba3-br100",
+      "comment": "Uma beleza natural no meio da nossa cidade de Santa Maria da Feira",
+      "gradeComment": 5
+    },
+    {
+      "author": "Patrícia Ferreira",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucpAwGeOOmswSvoaN968n-miJajVcOyGY_edY9yoEA=w36-h36-p-c0x00000000-rp-mo-br100",
+      "comment": "Bom para visitar com crianças, em família.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Maria Coelho",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucoN4ruUVe2CWkieTm5TGtzqU5-M15vvBUa58YywbA=w36-h36-p-c0x00000000-rp-mo-ba5-br100",
+      "comment": "Amei visitar o  Zoo de Lourosa. Lindos todos aqueles pássaros maravilhosos. Uma tarde bem passada.  Pena o bar estar em obras.",
+      "gradeComment": 4
+    },
+    {
+      "author": "Adriano Expexial",
+      "photoAuthor": "https://lh3.googleusercontent.com/a/AItbvmkYFrov1BKL90L89XlZS4lmGf6edzdwy9lkdAme=w36-h36-p-c0x00000000-rp-mo-ba3-br100",
+      "comment": "Bom local para se visitar, calmo e sossegado. A variedade de espécies penso já ter sido maior. Talvez devessem tentar manter algumas zonas mais cuidadas dentro das zonas dos animais.",
+      "gradeComment": 4
+    },
+    {
+      "author": "Marco Canedo",
+      "photoAuthor": "https://lh3.googleusercontent.com/a/AItbvmnD-ubJqe4LKdJxqpRukbYWE3okAD28djS7rCqS=w36-h36-p-c0x00000000-rp-mo-ba5-br100",
+      "comment": "Bom passeio. 2h em família e natureza. Agradável, giro... os miúdos deliram com as aves... Mesas para o descanso e zona para as crianças 4 euros entrada, vale a pena.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Miguel Barbosa",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucqL2K6lifB8ipQOVVN0ODHKhWo7RiF08Em054YHKv0=w36-h36-p-c0x00000000-rp-mo-ba5-br100",
+      "comment": "Aconselho a visita a este excelente e distinto lugar com aves tão exóticas e algumas delas em perigo de extinção na vida selvagem. Muitos parabéns a todos os funcionários pelo excelente trabalho e dedicação a estes animais.",
+      "gradeComment": 4
+    },
+    {
+      "author": "Alexandra Ferreira",
+      "photoAuthor": "https://lh3.googleusercontent.com/a/AItbvmn7bYKXlBsGMIDfoV_Hk-HCqjPZB_s0Ju7F21Vj=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "Um espaço agradável com alguma diversidade de aves.",
+      "gradeComment": 5
+    },
+    {
+      "author": "rosa lima",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucpe3XG3e7SIwdNarw7bT-YpNS86PXhEVQ6Pprsm1g=w36-h36-p-c0x00000000-rp-mo-ba3-br100",
+      "comment": "Amei e aconselho!!! Pode apreciar diversas espécies de aves em um habitat bem cuidado. Local ideal para levar os seus filhos!",
+      "gradeComment": 5
+    },
+    {
+      "author": "Luis Gomes",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucrhaVNoyKL9zlnfrBuVg_wUorIg6O2WeFO5cdevEw=w36-h36-p-c0x00000000-rp-mo-ba5-br100",
+      "comment": "Muito bom, bem organizado e com muitas e simpáticas aves para ver. Vale bem o preço.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Marta Pestana",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucoA_l3RsniRqXl6eSSEI5K6VrYzcbajefJm56sF=w36-h36-p-c0x00000000-rp-mo-br100",
+      "comment": "Local muito agradável, visito sempre nos meus dias de folga porém o staff podia ser mais atencioso e simpático. Por vezes as meninas que trabalham lá são muito arrogantes.",
+      "gradeComment": 5
+    }
+  ],
+  "peakHours": [
+    {
+      "Sunday": [
+        {
+          "hour": "10:00",
+          "percent": 20
+        },
+        {
+          "hour": "11:00",
+          "percent": 36
+        },
+        {
+          "hour": "12:00",
+          "percent": 36
+        },
+        {
+          "hour": "13:00",
+          "percent": 32
+        },
+        {
+          "hour": "14:00",
+          "percent": 54
+        },
+        {
+          "hour": "15:00",
+          "percent": 90
+        },
+        {
+          "hour": "16:00",
+          "percent": 100
+        },
+        {
+          "hour": "17:00",
+          "percent": 69
+        }
+      ]
+    },
+    {
+      "Monday": [
+        {
+          "hour": "09:00",
+          "percent": 12
+        },
+        {
+          "hour": "10:00",
+          "percent": 18
+        },
+        {
+          "hour": "11:00",
+          "percent": 19
+        },
+        {
+          "hour": "12:00",
+          "percent": 16
+        },
+        {
+          "hour": "13:00",
+          "percent": 13
+        },
+        {
+          "hour": "14:00",
+          "percent": 17
+        },
+        {
+          "hour": "15:00",
+          "percent": 21
+        },
+        {
+          "hour": "16:00",
+          "percent": 17
+        },
+        {
+          "hour": "17:00",
+          "percent": 7
+        }
+      ]
+    },
+    {
+      "Tuesday": [
+        {
+          "hour": "09:00",
+          "percent": 10
+        },
+        {
+          "hour": "10:00",
+          "percent": 21
+        },
+        {
+          "hour": "11:00",
+          "percent": 25
+        },
+        {
+          "hour": "12:00",
+          "percent": 18
+        },
+        {
+          "hour": "13:00",
+          "percent": 12
+        },
+        {
+          "hour": "14:00",
+          "percent": 13
+        },
+        {
+          "hour": "15:00",
+          "percent": 17
+        },
+        {
+          "hour": "16:00",
+          "percent": 18
+        },
+        {
+          "hour": "17:00",
+          "percent": 16
+        }
+      ]
+    },
+    {
+      "Wednesday": [
+        {
+          "hour": "09:00",
+          "percent": 7
+        },
+        {
+          "hour": "10:00",
+          "percent": 17
+        },
+        {
+          "hour": "11:00",
+          "percent": 23
+        },
+        {
+          "hour": "12:00",
+          "percent": 20
+        },
+        {
+          "hour": "13:00",
+          "percent": 14
+        },
+        {
+          "hour": "14:00",
+          "percent": 16
+        },
+        {
+          "hour": "15:00",
+          "percent": 21
+        },
+        {
+          "hour": "16:00",
+          "percent": 21
+        },
+        {
+          "hour": "17:00",
+          "percent": 14
+        }
+      ]
+    },
+    {
+      "Thursday": [
+        {
+          "hour": "09:00",
+          "percent": 14
+        },
+        {
+          "hour": "10:00",
+          "percent": 23
+        },
+        {
+          "hour": "11:00",
+          "percent": 25
+        },
+        {
+          "hour": "12:00",
+          "percent": 20
+        },
+        {
+          "hour": "13:00",
+          "percent": 18
+        },
+        {
+          "hour": "14:00",
+          "percent": 21
+        },
+        {
+          "hour": "15:00",
+          "percent": 24
+        },
+        {
+          "hour": "16:00",
+          "percent": 21
+        },
+        {
+          "hour": "17:00",
+          "percent": 13
+        }
+      ]
+    },
+    {
+      "Friday": [
+        {
+          "hour": "09:00",
+          "percent": 10
+        },
+        {
+          "hour": "10:00",
+          "percent": 16
+        },
+        {
+          "hour": "11:00",
+          "percent": 18
+        },
+        {
+          "hour": "12:00",
+          "percent": 16
+        },
+        {
+          "hour": "13:00",
+          "percent": 13
+        },
+        {
+          "hour": "14:00",
+          "percent": 17
+        },
+        {
+          "hour": "15:00",
+          "percent": 30
+        },
+        {
+          "hour": "16:00",
+          "percent": 32
+        },
+        {
+          "hour": "17:00",
+          "percent": 17
+        }
+      ]
+    },
+    {
+      "Saturday": [
+        {
+          "hour": "10:00",
+          "percent": 12
+        },
+        {
+          "hour": "11:00",
+          "percent": 18
+        },
+        {
+          "hour": "12:00",
+          "percent": 24
+        },
+        {
+          "hour": "13:00",
+          "percent": 33
+        },
+        {
+          "hour": "14:00",
+          "percent": 47
+        },
+        {
+          "hour": "15:00",
+          "percent": 60
+        },
+        {
+          "hour": "16:00",
+          "percent": 58
+        },
+        {
+          "hour": "17:00",
+          "percent": 40
+        }
+      ]
+    }
+  ],
+  "relatedSearches": [
+    "zoo em portugal",
+    "zoo de lagos",
+    "monte selvagem",
+    "animais do zoo santo inacio",
+    "preço do zoológico",
+    "zoológico online",
+    "animais em zoológico",
+    "pacote família jardim zoológico"
+  ],
+  "relateds": [
+    {
+      "mainName": "Zoo de Lourosa - Parque Ornitológico de Lourosa",
+      "url": null
+    },
+    {
+      "mainName": "Zoo Santo Inácio",
+      "url": null
+    },
+    {
+      "mainName": "Zoo da Maia",
+      "url": null
+    },
+    {
+      "mainName": "SEA LIFE Porto",
+      "url": null
+    },
+    {
+      "mainName": "Igreja de Santa Maria de Lamas",
+      "url": null
+    },
+    {
+      "mainName": "Fluviário de Mora",
+      "url": null
+    },
+    {
+      "mainName": "Aquamuseu do Rio Minho",
+      "url": null
+    },
+    {
+      "mainName": "Capela de Nossa Senhora da Encarnação",
+      "url": null
+    },
+    {
+      "mainName": "Museu de Santa Maria de Lamas",
+      "url": null
+    },
+    {
+      "mainName": "Parque de Santa Maria de Lamas",
+      "url": null
+    },
+    {
+      "mainName": "Visionarium",
+      "url": null
+    },
+    {
+      "mainName": "Monte Selvagem Reserva Animal",
+      "url": null
+    },
+    {
+      "mainName": "Zoo - Parque Zoológico de Lagos",
+      "url": null
+    },
+    {
+      "mainName": "Europaradise | Parque Zoológico",
+      "url": null
+    },
+    {
+      "mainName": "Emboscada Parque Aventura - Porto",
+      "url": null
+    },
+    {
+      "mainName": "Castro de Romariz",
+      "url": null
+    },
+    {
+      "mainName": "Igreja Matriz de Santa Maria da Feira",
+      "url": null
+    },
+    {
+      "mainName": "Badoca Safari Park",
+      "url": null
+    },
+    {
+      "mainName": "Castelo de Santa Maria da Feira",
+      "url": null
+    },
+    {
+      "mainName": "Krazy World",
+      "url": null
+    },
+    {
+      "mainName": "Perlim",
+      "url": null
+    },
+    {
+      "mainName": "Europarque",
+      "url": null
+    },
+    {
+      "mainName": "Parque Biológico da Serra da Lousã",
+      "url": null
+    },
+    {
+      "mainName": "Estação Litoral Da Aguda",
+      "url": null
+    }
+  ]
+}

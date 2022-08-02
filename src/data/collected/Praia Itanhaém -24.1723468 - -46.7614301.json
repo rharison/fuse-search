@@ -1,0 +1,982 @@
+{
+  "mainName": "Praia Itanhaém",
+  "slug": "praia-itanhaem",
+  "category": "Praia",
+  "locationInformation": {
+    "latitude": "-24.1723468",
+    "longitude": "-46.7614301"
+  },
+  "basicInformation": [
+    {
+      "label": "endereço",
+      "tooltip": "Copiar endereço",
+      "text": "Av. Eng. José de Barro Saraíva - Nova Itanhaém - Praia, Itanhaém - SP, 11740-000",
+      "icon": "https://www.gstatic.com/images/icons/material/system_gm/1x/place_gm_blue_24dp.png"
+    },
+    {
+      "label": "website",
+      "tooltip": "Abrir website",
+      "text": "itanhaem.sp.gov.br",
+      "icon": "https://www.gstatic.com/images/icons/material/system_gm/1x/public_gm_blue_24dp.png"
+    },
+    {
+      "label": "send-to-device",
+      "text": "Enviar para smartphone",
+      "icon": "https://maps.gstatic.com/consumer/images/icons/1x/send_to_mobile_alt_gm_blue_24dp.png"
+    }
+  ],
+  "ratingInformation": {
+    "basicRatingInformation": {
+      "averageGrade": 4.5,
+      "totalOfEvaluations": 3316
+    },
+    "ratingsByGrade": [
+      {
+        "grade": 5,
+        "totalRatings": 2275
+      },
+      {
+        "grade": 4,
+        "totalRatings": 644
+      },
+      {
+        "grade": 3,
+        "totalRatings": 275
+      },
+      {
+        "grade": 2,
+        "totalRatings": 44
+      },
+      {
+        "grade": 1,
+        "totalRatings": 78
+      }
+    ]
+  },
+  "ratingTags": [
+    {
+      "tag": "quiosques",
+      "count": 37,
+      "tooltip": "quiosques, mencionado em 37 avaliações"
+    },
+    {
+      "tag": "segurança",
+      "count": 10,
+      "tooltip": "segurança, mencionado em 10 avaliações"
+    },
+    {
+      "tag": "infraestrutura",
+      "count": 10,
+      "tooltip": "infraestrutura, mencionado em 10 avaliações"
+    },
+    {
+      "tag": "passeio",
+      "count": 9,
+      "tooltip": "passeio, mencionado em 9 avaliações"
+    },
+    {
+      "tag": "histórico",
+      "count": 9,
+      "tooltip": "histórico, mencionado em 9 avaliações"
+    },
+    {
+      "tag": "lazer",
+      "count": 9,
+      "tooltip": "lazer, mencionado em 9 avaliações"
+    },
+    {
+      "tag": "calçadão",
+      "count": 6,
+      "tooltip": "calçadão, mencionado em 6 avaliações"
+    },
+    {
+      "tag": "férias",
+      "count": 6,
+      "tooltip": "férias, mencionado em 6 avaliações"
+    },
+    {
+      "tag": "polícia",
+      "count": 6,
+      "tooltip": "polícia, mencionado em 6 avaliações"
+    },
+    {
+      "tag": "iluminação",
+      "count": 5,
+      "tooltip": "iluminação, mencionado em 5 avaliações"
+    }
+  ],
+  "featuredPhotos": [
+    "https://lh5.googleusercontent.com/p/AF1QipPvg-RAsToNNzDP3by0f2Y6309h2506AAt_jxnT=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipN6O9vX1H3SjbtaZuEZL5kwinokwrnoAG1C359W=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOMpBomZKIbkZZ8hBrpJV6XQmfQ54Yr5gD3N203=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipO6kXRmA84rHYkI8M91e8aX-uT1TRgEeydfeh7h=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNxlFDC7Yss0uanwncOtuakd9fWGFSt_x6BeY9q=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMnCdS9FLyh391mv1hMVnSzLl6aYdeyFIAzF5A9=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPMcENACuJWJzasdd4Md-yB0JAHCRz2UMXuWNWp=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPrUuXDB5hJ6K6ISBB8bDTbuVY_v0RO7vk_yE4=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPEVblBmggQmTNntSRP8r-E5-r3VhAUO3HCUTup=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPrbmDzcsqFjqZNO0yTq7_t_cCJD8RBnyn-pQrq=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipN-zss5U3-g_R7NxKLQImzndlE7w_zZl_U6_Rwf=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNFqVx80gtP7cqcGyjXGevN8bDgeP_aQNYavxnd=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipO8cALOqWiS1rZO_hie3izdi3p75j6HwMY4fJHN=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPcyeyGHFJK8b-mC1mejavk-747KRB4m6eUvks-=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOnQWXZv_10GH0dN02wANOrs401XN2etTjS-6KE=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipP6BYXgngD8dGWy1VmY0NCoxqYpinrpRKjaS2Hy=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOBPPagbFrMTaD3nugUYTXXniU_fC6uwlrhTvIB=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMtXWqLP1T0lVUvtc-l11VwlXTPj_bWjqqoVgze=w1024-h576-k-no"
+  ],
+  "topComments": [
+    {
+      "author": "Patricia vieira",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucqE1UCSgtLN8EIQfPp9By18cu6dfxD6oyhNRg_cUPI=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "Praia maravilhosa ❤️ vale muito a pena conhecer Itanhaém. Muitas opções de hospedagem e quiosque. Muito tranquilo pra ir com a família.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Diógenes Barbosa",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucpAerAAzpYPucTycsFk6VVJ34XaVVqJ9Z23nDWKjjI=w36-h36-p-c0x00000000-rp-mo-ba3-br100",
+      "comment": "Muito bonito, ondas boas, com pedras e rochas bom pra tirar fotos..  pena que a água é um pouco escura mas creio que por causa da areia..",
+      "gradeComment": 4
+    },
+    {
+      "author": "Caroll Siqueira",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucq1oAVmfL43XywGK4D-t7pzLnxvm3fq5Hrb4z1pfg=w36-h36-p-c0x00000000-rp-mo-ba5-br100",
+      "comment": "Praia de ondas calmas, estava menos lotada, também não havia muito lixo, estava  bem limpa no dia que fui.  Precisa só tomar cuidado pois a maré sobe rápida. Leve uma sacolinha para poder  recolher seu lixo. Na praia de Mongaguá  poderá ir a plataforma pagando a entrada  pelo valor de 5 reais. Criança até 3 anos não paga. Tomem cuidado ao ir, pois é  área de pescador.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Ewelyn Assis",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZuco1mGMIWrqLB-I06F6oWZ6K-WPTK3eYm6PcvfCyH_I=w36-h36-p-c0x00000000-rp-mo-ba3-br100",
+      "comment": "A praia é básica, eu achei feinha, quase não tem quiosque, areia dura e suja. Vale a pena alugar uma casa em itanhaem e ir pará monguaga pois é pertinho, uns 20/30min de carro",
+      "gradeComment": 3
+    },
+    {
+      "author": "Reginaldo Lima",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucqty6jiItQyLrmHWeTtluicC9y3leHudiassyvzSf4=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "Muito boa para caminhar andar de bicicleta e pescar. Fica localizado na Praia do Sonho. Mas conhecido como Cama da Anchieta.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Ivan do carmo",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucrGOp450Z55oyaoFUoqnhYJqNuEujL64FWFX9sDPZ4=w36-h36-p-c0x00000000-rp-mo-ba5-br100",
+      "comment": "Umas das melhores praia que já gostei",
+      "gradeComment": 5
+    },
+    {
+      "author": "Gilberto de Souza",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucrqPax7cqt55ieC_A8GOfBBmA8QE9cdrO2jdrwYmc0=w36-h36-p-c0x00000000-rp-mo-ba6-br100",
+      "comment": "Praias muito lindas, muito melhor que as de praia grande a areia é bem fina e acaba ficando sempre molhada dando a coloração escura que tem. Ondas de nível baixo de perigo mais como qualquer praia precisa estar atento aos avisos dos guarda vidas. Os quiosques são bons mais a ciclovia ainda não está em toda orla, imagino que  quando estiver será uma ótima opção de passeio. A proximidade da cidade de São Paulo torna a praia uma ótima opção de passeio o que é sensacional. No mais vale o passeio para um dia tranquilo com a família em uma praia maravilhosa.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Douglas Damame",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucry8IqhELMt8AOT0Ipsh2ZjmLnmK5wkYbLl0bBtVQ=w36-h36-p-c0x00000000-rp-mo-br100",
+      "comment": "Praia de nível médio, tem gente que ama e tem gente que odeia, na minha opinião, nada de especial. Água e areia possuem coloração escura o que não me agradou. O por do sol é lindo.  Eu particularmente prefiro as praias do norte se são paulo.",
+      "gradeComment": 4
+    },
+    {
+      "author": "Leandro Rodrigues",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucrWltf4JhPU3A5klF1M8cMFMQEX_qIT22_YeOlWrg=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "Praia Padrão do litoral Sul, como era ano novo tinha muita sujeira na praia e nas calçadas. Porém a variedade do centrinho a noite pela parte gastronômica vale a pena.",
+      "gradeComment": 3
+    },
+    {
+      "author": "Helio Camilo",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucoqmDO6ayT15sKUIpTog14YcUSsueHKB9ip7BMxlg=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "Praia tranquila, especialmente para crianças, vários quiosques, com bom atendimento. Não tem dificuldades para estacionar.",
+      "gradeComment": 4
+    },
+    {
+      "author": "Eugenio Aguado",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucoqdK4rDBT_xB2d596lh9AYQkTkalODMI2ACcfOyQ=w36-h36-p-c0x00000000-rp-mo-br100",
+      "comment": "Praia dos pescadores um belo lugar próximo a Chácara Verde Mar Itanhaém",
+      "gradeComment": 5
+    },
+    {
+      "author": "Gina Brandina Buchetti Sakata",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucqw1m9GWARCkjtTs5VzrUoj0k1MBzd1XYlf2iJx=w36-h36-p-c0x00000000-rp-mo-ba3-br100",
+      "comment": "Gostei muito da praia, o local é bem tranquilo. Vale apena visitar e tomar um banho de mar.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Guilherme Santana",
+      "photoAuthor": "https://lh3.googleusercontent.com/a/AItbvmmeZ6ethPXiEEXCUtpbuEJ4CnkfwzRfg5JQ5PYo=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "Praia de areia escura sem muita infraestrutura para receber turista com alguns quiosques meio \"mal cuidados\". O ponto positivo é o visual bem amplo da praia bem extensa e plana, gerando visuais de encher os olhos. O acesso não e dos melhores pois não possui uma \"avenida Beira-Mar\"",
+      "gradeComment": 3
+    },
+    {
+      "author": "Karina Pons",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucp5lhIDYWMVHGdS_4-_q1z3Q33YKji2RAKWmPT2hw=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "É uma praia rústica, muito tranquila, caminho aí todas as mañanas com minha cachorra. Suas águas não som cristalinas pero se pode disfrutar.",
+      "gradeComment": 4
+    },
+    {
+      "author": "Natália Gomes",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucq2f2ipsAqzmTF6DCnTVvsx870qsFklVB5PWxbg6A=w36-h36-p-c0x00000000-rp-mo-ba5-br100",
+      "comment": "A praia é gostosa, areia fininha, bom atendimento nos quiosques, só falta a finalizar a ciclofaixa na orla.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Carlos Henrique",
+      "photoAuthor": "https://lh3.googleusercontent.com/a/AItbvmlaTAVI3SJxUUmKaaPwuvFwj5hhxRs6gSxtyXMc=w36-h36-p-c0x00000000-rp-mo-br100",
+      "comment": "Dei a avaliação \"razoável\" pela falta de acesso a cadeirantes e, quando há, é dificultoso, existem obstáculos colocados para evitar a circulação de motos ou bicicletas, mas que dificultam cadeirante acessarem tais locais. Um exemplo é o acesso à praia de Suarão entre os Quiosque Pé na Areia e o Quiosque dos Amigos Suarão. No final da rampa, bem no meio dela, há um vaso enorme. Não achanos vagas de estacionamento destinadas a cadeirantes na orla da praia nem nas proximidades das que têm \"acesso melhor\". Adorei as praias de Itanhaém. A areia não é fofa, é mais compacta e firme, facilitando minha movimentação pela praia. As pessoas foram muito receptivas e procuraram ajudar-me. Nos locais em que ficamos houve respeito ao distanciamento social. Atendimento do Quiosque Pé na Areia conosco foi muito bom.",
+      "gradeComment": 3
+    },
+    {
+      "author": "Adriano Barissa",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucqHNUSmNh4xbyGo1Rr8dI51HvdCk7cHjn92WKyM-44=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "Difícil não achar uma praia bonita! Itanhaém foi uma boa experiência, mas não acho a água de lá muito limpa comparado as praias mais ao norte de SP.",
+      "gradeComment": 4
+    },
+    {
+      "author": "Lisa Tavares",
+      "photoAuthor": "https://lh3.googleusercontent.com/a/AItbvmnL0jKt0oRpa-RW5tTSsQlzyeTOe2klaoC9KNGc=w36-h36-p-c0x00000000-rp-mo-ba3-br100",
+      "comment": "Lugar maravilhoso!!! Calmo, tranquilo, otimo para quem quer descansar; facil acesso e bons lugares para ficar. Super recomendo!",
+      "gradeComment": 5
+    },
+    {
+      "author": "Cultural Brasil",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucrtQzs1nShjfGNaIOhAW94lLqyzJkrLJWF0ShLPdA=w36-h36-p-c0x00000000-rp-mo-ba3-br100",
+      "comment": "Praias incríveis, cenário de telenovelas e filmes. Natureza preservada e boas opções de lazer e turismo.",
+      "gradeComment": 4
+    },
+    {
+      "author": "ivone barbosa (vona)",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucq89t7k0EeEB_IFUz6L33m1XwdG6rNjpr5xWUqFUVA=w36-h36-p-c0x00000000-rp-mo-ba3-br100",
+      "comment": "E lugar muito gostoso pra visitar .",
+      "gradeComment": 5
+    }
+  ],
+  "peakHours": [
+    {
+      "Sunday": [
+        {
+          "hour": "04:00",
+          "percent": 7
+        },
+        {
+          "hour": "05:00",
+          "percent": 8
+        },
+        {
+          "hour": "06:00",
+          "percent": 10
+        },
+        {
+          "hour": "07:00",
+          "percent": 15
+        },
+        {
+          "hour": "08:00",
+          "percent": 26
+        },
+        {
+          "hour": "09:00",
+          "percent": 43
+        },
+        {
+          "hour": "10:00",
+          "percent": 64
+        },
+        {
+          "hour": "11:00",
+          "percent": 84
+        },
+        {
+          "hour": "12:00",
+          "percent": 97
+        },
+        {
+          "hour": "13:00",
+          "percent": 100
+        },
+        {
+          "hour": "14:00",
+          "percent": 92
+        },
+        {
+          "hour": "15:00",
+          "percent": 77
+        },
+        {
+          "hour": "16:00",
+          "percent": 60
+        },
+        {
+          "hour": "17:00",
+          "percent": 44
+        },
+        {
+          "hour": "18:00",
+          "percent": 30
+        },
+        {
+          "hour": "19:00",
+          "percent": 19
+        },
+        {
+          "hour": "20:00",
+          "percent": 13
+        },
+        {
+          "hour": "21:00",
+          "percent": 9
+        },
+        {
+          "hour": "22:00",
+          "percent": 8
+        },
+        {
+          "hour": "23:00",
+          "percent": 7
+        },
+        {
+          "hour": "00:00",
+          "percent": 7
+        },
+        {
+          "hour": "01:00",
+          "percent": 7
+        },
+        {
+          "hour": "02:00",
+          "percent": 7
+        },
+        {
+          "hour": "03:00",
+          "percent": 7
+        }
+      ]
+    },
+    {
+      "Monday": [
+        {
+          "hour": "04:00",
+          "percent": 2
+        },
+        {
+          "hour": "05:00",
+          "percent": 3
+        },
+        {
+          "hour": "06:00",
+          "percent": 5
+        },
+        {
+          "hour": "07:00",
+          "percent": 8
+        },
+        {
+          "hour": "08:00",
+          "percent": 11
+        },
+        {
+          "hour": "09:00",
+          "percent": 15
+        },
+        {
+          "hour": "10:00",
+          "percent": 20
+        },
+        {
+          "hour": "11:00",
+          "percent": 26
+        },
+        {
+          "hour": "12:00",
+          "percent": 30
+        },
+        {
+          "hour": "13:00",
+          "percent": 32
+        },
+        {
+          "hour": "14:00",
+          "percent": 30
+        },
+        {
+          "hour": "15:00",
+          "percent": 25
+        },
+        {
+          "hour": "16:00",
+          "percent": 18
+        },
+        {
+          "hour": "17:00",
+          "percent": 12
+        },
+        {
+          "hour": "18:00",
+          "percent": 7
+        },
+        {
+          "hour": "19:00",
+          "percent": 3
+        },
+        {
+          "hour": "20:00",
+          "percent": 1
+        },
+        {
+          "hour": "03:00",
+          "percent": 1
+        }
+      ]
+    },
+    {
+      "Tuesday": [
+        {
+          "hour": "06:00",
+          "percent": 1
+        },
+        {
+          "hour": "07:00",
+          "percent": 3
+        },
+        {
+          "hour": "08:00",
+          "percent": 6
+        },
+        {
+          "hour": "09:00",
+          "percent": 9
+        },
+        {
+          "hour": "10:00",
+          "percent": 11
+        },
+        {
+          "hour": "11:00",
+          "percent": 11
+        },
+        {
+          "hour": "12:00",
+          "percent": 12
+        },
+        {
+          "hour": "13:00",
+          "percent": 13
+        },
+        {
+          "hour": "14:00",
+          "percent": 15
+        },
+        {
+          "hour": "15:00",
+          "percent": 15
+        },
+        {
+          "hour": "16:00",
+          "percent": 13
+        },
+        {
+          "hour": "17:00",
+          "percent": 9
+        },
+        {
+          "hour": "18:00",
+          "percent": 4
+        }
+      ]
+    },
+    {
+      "Wednesday": [
+        {
+          "hour": "07:00",
+          "percent": 3
+        },
+        {
+          "hour": "08:00",
+          "percent": 6
+        },
+        {
+          "hour": "09:00",
+          "percent": 10
+        },
+        {
+          "hour": "10:00",
+          "percent": 12
+        },
+        {
+          "hour": "11:00",
+          "percent": 14
+        },
+        {
+          "hour": "12:00",
+          "percent": 14
+        },
+        {
+          "hour": "13:00",
+          "percent": 14
+        },
+        {
+          "hour": "14:00",
+          "percent": 13
+        },
+        {
+          "hour": "15:00",
+          "percent": 12
+        },
+        {
+          "hour": "16:00",
+          "percent": 11
+        },
+        {
+          "hour": "17:00",
+          "percent": 9
+        },
+        {
+          "hour": "18:00",
+          "percent": 7
+        },
+        {
+          "hour": "19:00",
+          "percent": 4
+        },
+        {
+          "hour": "20:00",
+          "percent": 1
+        }
+      ]
+    },
+    {
+      "Thursday": [
+        {
+          "hour": "06:00",
+          "percent": 1
+        },
+        {
+          "hour": "07:00",
+          "percent": 4
+        },
+        {
+          "hour": "08:00",
+          "percent": 8
+        },
+        {
+          "hour": "09:00",
+          "percent": 13
+        },
+        {
+          "hour": "10:00",
+          "percent": 16
+        },
+        {
+          "hour": "11:00",
+          "percent": 18
+        },
+        {
+          "hour": "12:00",
+          "percent": 18
+        },
+        {
+          "hour": "13:00",
+          "percent": 19
+        },
+        {
+          "hour": "14:00",
+          "percent": 21
+        },
+        {
+          "hour": "15:00",
+          "percent": 21
+        },
+        {
+          "hour": "16:00",
+          "percent": 20
+        },
+        {
+          "hour": "17:00",
+          "percent": 16
+        },
+        {
+          "hour": "18:00",
+          "percent": 11
+        },
+        {
+          "hour": "19:00",
+          "percent": 6
+        },
+        {
+          "hour": "20:00",
+          "percent": 3
+        },
+        {
+          "hour": "21:00",
+          "percent": 1
+        }
+      ]
+    },
+    {
+      "Friday": [
+        {
+          "hour": "04:00",
+          "percent": 2
+        },
+        {
+          "hour": "06:00",
+          "percent": 1
+        },
+        {
+          "hour": "07:00",
+          "percent": 5
+        },
+        {
+          "hour": "08:00",
+          "percent": 11
+        },
+        {
+          "hour": "09:00",
+          "percent": 16
+        },
+        {
+          "hour": "10:00",
+          "percent": 20
+        },
+        {
+          "hour": "11:00",
+          "percent": 22
+        },
+        {
+          "hour": "12:00",
+          "percent": 22
+        },
+        {
+          "hour": "13:00",
+          "percent": 22
+        },
+        {
+          "hour": "14:00",
+          "percent": 23
+        },
+        {
+          "hour": "15:00",
+          "percent": 25
+        },
+        {
+          "hour": "16:00",
+          "percent": 26
+        },
+        {
+          "hour": "17:00",
+          "percent": 25
+        },
+        {
+          "hour": "18:00",
+          "percent": 20
+        },
+        {
+          "hour": "19:00",
+          "percent": 14
+        },
+        {
+          "hour": "20:00",
+          "percent": 10
+        },
+        {
+          "hour": "21:00",
+          "percent": 8
+        },
+        {
+          "hour": "22:00",
+          "percent": 8
+        },
+        {
+          "hour": "23:00",
+          "percent": 10
+        },
+        {
+          "hour": "00:00",
+          "percent": 11
+        },
+        {
+          "hour": "01:00",
+          "percent": 11
+        },
+        {
+          "hour": "02:00",
+          "percent": 8
+        },
+        {
+          "hour": "03:00",
+          "percent": 5
+        }
+      ]
+    },
+    {
+      "Saturday": [
+        {
+          "hour": "04:00",
+          "percent": 11
+        },
+        {
+          "hour": "05:00",
+          "percent": 10
+        },
+        {
+          "hour": "06:00",
+          "percent": 11
+        },
+        {
+          "hour": "07:00",
+          "percent": 17
+        },
+        {
+          "hour": "08:00",
+          "percent": 26
+        },
+        {
+          "hour": "09:00",
+          "percent": 39
+        },
+        {
+          "hour": "10:00",
+          "percent": 53
+        },
+        {
+          "hour": "11:00",
+          "percent": 68
+        },
+        {
+          "hour": "12:00",
+          "percent": 81
+        },
+        {
+          "hour": "13:00",
+          "percent": 90
+        },
+        {
+          "hour": "14:00",
+          "percent": 95
+        },
+        {
+          "hour": "15:00",
+          "percent": 92
+        },
+        {
+          "hour": "16:00",
+          "percent": 81
+        },
+        {
+          "hour": "17:00",
+          "percent": 66
+        },
+        {
+          "hour": "18:00",
+          "percent": 49
+        },
+        {
+          "hour": "19:00",
+          "percent": 35
+        },
+        {
+          "hour": "20:00",
+          "percent": 26
+        },
+        {
+          "hour": "21:00",
+          "percent": 22
+        },
+        {
+          "hour": "22:00",
+          "percent": 22
+        },
+        {
+          "hour": "23:00",
+          "percent": 22
+        },
+        {
+          "hour": "00:00",
+          "percent": 22
+        },
+        {
+          "hour": "01:00",
+          "percent": 21
+        },
+        {
+          "hour": "02:00",
+          "percent": 18
+        },
+        {
+          "hour": "03:00",
+          "percent": 14
+        }
+      ]
+    }
+  ],
+  "relatedSearches": [
+    "praia itanhaém tempo",
+    "praia itanhaém hoje",
+    "praia itanhaém praia dos sonhos",
+    "praia itanhaém fotos",
+    "praia itanhaém pousada",
+    "praia itanhaém passagem",
+    "praia itanhaém cibratel",
+    "melhores praias de itanhaém",
+    "praia itanhaém tempo",
+    "praia itanhaém hoje",
+    "praia itanhaém praia dos sonhos",
+    "praia itanhaém fotos",
+    "praia itanhaém pousada",
+    "praia itanhaém passagem",
+    "praia itanhaém cibratel",
+    "melhores praias de itanhaém"
+  ],
+  "relateds": [
+    {
+      "mainName": "Morro do Sapucaitava",
+      "url": null
+    },
+    {
+      "mainName": "Praia Do Gaivota",
+      "url": null
+    },
+    {
+      "mainName": "Pocinho de Anchieta",
+      "url": null
+    },
+    {
+      "mainName": "Igreja Matriz Santana de Itanhaém",
+      "url": null
+    },
+    {
+      "mainName": "Praia da Saudade",
+      "url": null
+    },
+    {
+      "mainName": "Praia Das Conchas",
+      "url": null
+    },
+    {
+      "mainName": "Praia Do Centro",
+      "url": null
+    },
+    {
+      "mainName": "Cama de Anchieta",
+      "url": null
+    },
+    {
+      "mainName": "Praia de Peruíbe",
+      "url": null
+    },
+    {
+      "mainName": "Gruta Nossa Senhora De Lourdes",
+      "url": null
+    },
+    {
+      "mainName": "Praia Agenor de Campos",
+      "url": null
+    },
+    {
+      "mainName": "Praça Narciso de Andrade",
+      "url": null
+    },
+    {
+      "mainName": "Praia Guaratuba",
+      "url": null
+    },
+    {
+      "mainName": "Praia Itaóca",
+      "url": null
+    },
+    {
+      "mainName": "Praia do Tombo",
+      "url": null
+    },
+    {
+      "mainName": "Praia Mongaguá",
+      "url": null
+    },
+    {
+      "mainName": "Plataforma de Pesca",
+      "url": null
+    },
+    {
+      "mainName": "Itanhaém, Pedra Da Esfinge - Morro Do Paranambuco",
+      "url": null
+    },
+    {
+      "mainName": "Praia Suarão",
+      "url": null
+    },
+    {
+      "mainName": "Estátua Mulheres de Areia",
+      "url": null
+    },
+    {
+      "mainName": "Praia do Boqueirão",
+      "url": null
+    },
+    {
+      "mainName": "Praia da Enseada – Canto das Tartarugas",
+      "url": null
+    },
+    {
+      "mainName": "Pier do Guaraú",
+      "url": null
+    },
+    {
+      "mainName": "Morro do Sapucaitava",
+      "url": null
+    },
+    {
+      "mainName": "Praia Do Gaivota",
+      "url": null
+    },
+    {
+      "mainName": "Pocinho de Anchieta",
+      "url": null
+    },
+    {
+      "mainName": "Igreja Matriz Santana de Itanhaém",
+      "url": null
+    },
+    {
+      "mainName": "Praia da Saudade",
+      "url": null
+    },
+    {
+      "mainName": "Praia Das Conchas",
+      "url": null
+    },
+    {
+      "mainName": "Praia Do Centro",
+      "url": null
+    },
+    {
+      "mainName": "Cama de Anchieta",
+      "url": null
+    },
+    {
+      "mainName": "Praia de Peruíbe",
+      "url": null
+    },
+    {
+      "mainName": "Gruta Nossa Senhora De Lourdes",
+      "url": null
+    },
+    {
+      "mainName": "Praia Agenor de Campos",
+      "url": null
+    },
+    {
+      "mainName": "Praça Narciso de Andrade",
+      "url": null
+    },
+    {
+      "mainName": "Praia Guaratuba",
+      "url": null
+    },
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

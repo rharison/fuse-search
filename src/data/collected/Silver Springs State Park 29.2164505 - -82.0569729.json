@@ -1,0 +1,830 @@
+{
+  "mainName": "Silver Springs State Park",
+  "slug": "silver-springs-state-park",
+  "category": "Parque estadual",
+  "locationInformation": {
+    "latitude": "29.2164505",
+    "longitude": "-82.0569729"
+  },
+  "basicInformation": [
+    {
+      "label": "endereço",
+      "tooltip": "Copiar endereço",
+      "text": "5656 E Silver Springs Blvd, Silver Springs, FL 34488, Estados Unidos",
+      "icon": "https://www.gstatic.com/images/icons/material/system_gm/1x/place_gm_blue_24dp.png"
+    },
+    {
+      "label": "website",
+      "tooltip": "Abrir website",
+      "text": "silversprings.com",
+      "icon": "https://www.gstatic.com/images/icons/material/system_gm/1x/public_gm_blue_24dp.png"
+    },
+    {
+      "label": "telefone",
+      "tooltip": "Copiar número de telefone",
+      "text": "+1 352-261-5840",
+      "icon": "https://www.gstatic.com/images/icons/material/system_gm/1x/phone_gm_blue_24dp.png"
+    },
+    {
+      "label": "Code",
+      "tooltip": "Copiar Plus Code",
+      "text": "6W8V+H6 Silver Springs, Flórida, EUA",
+      "icon": "https://maps.gstatic.com/mapfiles/maps_lite/images/2x/ic_plus_code.png"
+    },
+    {
+      "label": "send-to-device",
+      "text": "Enviar para smartphone",
+      "icon": "https://maps.gstatic.com/consumer/images/icons/1x/send_to_mobile_alt_gm_blue_24dp.png"
+    },
+    {
+      "label": "merchant",
+      "text": "Reivindicar esta empresa",
+      "icon": "https://www.gstatic.com/images/icons/material/system_gm/1x/verified_user_gm_blue_24dp.png"
+    }
+  ],
+  "ratingInformation": {
+    "basicRatingInformation": {
+      "averageGrade": 4.7,
+      "totalOfEvaluations": 7828
+    },
+    "ratingsByGrade": [
+      {
+        "grade": 5,
+        "totalRatings": 6024
+      },
+      {
+        "grade": 4,
+        "totalRatings": 1261
+      },
+      {
+        "grade": 3,
+        "totalRatings": 328
+      },
+      {
+        "grade": 2,
+        "totalRatings": 95
+      },
+      {
+        "grade": 1,
+        "totalRatings": 120
+      }
+    ]
+  },
+  "ratingTags": [
+    {
+      "tag": "macacos",
+      "count": 375,
+      "tooltip": "macacos, mencionado em 375 avaliações"
+    },
+    {
+      "tag": "jacaré",
+      "count": 326,
+      "tooltip": "jacaré, mencionado em 326 avaliações"
+    },
+    {
+      "tag": "peixe-boi",
+      "count": 261,
+      "tooltip": "peixe-boi, mencionado em 261 avaliações"
+    },
+    {
+      "tag": "canoa",
+      "count": 128,
+      "tooltip": "canoa, mencionado em 128 avaliações"
+    },
+    {
+      "tag": "pagaia",
+      "count": 124,
+      "tooltip": "pagaia, mencionado em 124 avaliações"
+    },
+    {
+      "tag": "cristais",
+      "count": 62,
+      "tooltip": "cristais, mencionado em 62 avaliações"
+    },
+    {
+      "tag": "guia turístico",
+      "count": 45,
+      "tooltip": "guia turístico, mencionado em 45 avaliações"
+    },
+    {
+      "tag": "programa",
+      "count": 16,
+      "tooltip": "programa, mencionado em 16 avaliações"
+    }
+  ],
+  "featuredPhotos": [
+    "https://lh5.googleusercontent.com/p/AF1QipMp4hqkORGjerALGdtyEFIh3HbSe-Y2GcIxM-vX=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNbN0vRgWFRl-lNNqyz5HxZt4frhsAslAbyzl-K=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNaeGMAEDBjdJoP5crw0I4sqh2QouQWbLVfWknf=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMbiovsPRxN4z3r3NdZFKIhQuUf1k-dQ7LJvUDd=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMqBbFiEdB3pFeJEmku3TpkY-f_kvgrAcyZuJPY=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNaJZ2BzEDPsGpZfk1FgETZMF98ea-bFjDckva8=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNkrTBUgwyLXKy9EoA8bmrIeFV12pGJtf2XpYhG=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipO0DZTl-lt2F-HRCoGEHPV8kjyilr2kWkiaX3UI=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMyaPXaDs7z5UdnyHhkvN69H3uzuvjEE9rvN1U9=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNrxQ6l84plZgpqh22uKtLbGO3Qu3M8a4G0mihB=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMQROn0krR76r4g891Ph8IauI51fLGBm5X7BUDX=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOMBEOKUb3kOIHQQrDuWefTpaIpgXuQbAyBBGua=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPzJAoTM8hJSnthHF7mJJhn5a4RH25gK6iq8ms7=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipP3ye5Idk3LIktbgPZSse1yss0Avw0yQDSiQFIx=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOMek3cncpGQxyv3sqeFK8PAzt7H-83oAsyJXPY=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOWPjjCt_TP1YCTiygMsvHEYgBFPtsQnHVTgIC-=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOcFnSq-pIsVRKEwBZKRAYH96R1gw-Jx4p2e-gj=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipM5nat-ig7w0i9UlxwpH1bGTPy02MsgNFrQKzpQ=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOnJl4uAdTdf3NPl7mIIswrxJG67C31DVlQGJff=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipN8jafyZ3n4Da6zPH_uPTRwP4Fa_YnJVDJ-c-oF=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPw79g_IlI2B2vPh7Ln6Qvh5r8s4l9VEMvX-Pwh=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNEEJt7br9_qLXGvoBGs3kW10OdQIdN_dvBMvRX=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPLc967vgo7GzEQsx8WDDX4XBxkdOrT1ANYtbiN=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipN9Giy-ZS0CIS0mOyVqE5IOXvKO-n5pTKFBxmqd=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNRnZ_vyvLXBUdr3Z40qfcDsWs50XZNeVyI74Ov=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOT2Q_J3zGMjtLpcnlOGl1KJDVv47Pmu4j8Ew4a=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMzBvon6_-phwPMFRz6DGoZQoyaY_AytLRkrG0C=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipP32cQg_dRNrfMvdKi0UakgYxQDZ1E_jY1ixZez=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPOifIB_72lO0c76Kje53L3uPG9SMp65WQ8_M4W=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPO533liX6cMtalySLkrSTAYSqL5wWao7Wq3a98=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMPW4Eif6EjvWU-CNTod-zFLVC2-v0JPJKdWOcX=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMSw0PBWBWDh_uGLZj7PqjZY_IHg3XXxUzRqNHM=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNtRntP40Ug0YvAa1vvKtxTAt0ejW76JHGmL44j=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPKDfWJzXJRd1VCBo9gHhFNbeyA8_A6lEMb_5_O=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMKPU70j7NKxjToBvK6BGPJ1hI8UXjTfIjHpI3c=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipO00ivmDOjiUi3qs_DJJPiGRMSg7PyioeMPJzYn=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOjUEN5FmsK1MuOUkcq4zMNR3pWKy3BHXOZCtB9=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNVUkjlCJAptHzarF3UxjrZkZwK7LSIk3PJ-d3y=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipP2Zr69KOvoHNWGydXAuwQi8G-NYTLHbKRrebvv=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNz-AzmpaNKB1rreaxQSr65s26OT4fjQsN4XrZB=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOj4O8osAkBJEbO0_o016C2cpN0fHMtQR7-LSPk=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNj6znMgtOjfCm8ZQmjThBNl8oMPH_qDO0fgog5=w1024-h576-k-no"
+  ],
+  "topComments": [
+    {
+      "author": "Adélia Noriya Ifuku Adelia",
+      "photoAuthor": "https://lh3.googleusercontent.com/a/AItbvmkl23Ah7Up1Fje-KTjle43UVepypfFu9z0v98Vx=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "Lugar lindo para se visitar e entender um pouco mais sobre as fontes de água existentes nos EUA, se você entende um pouco de inglês. Pode se apreciar o parque e fazer picnic com as crianças, além de dar um passeio cultural de barco com um fundo de vidro. O engraçado foi ver logo na entrada, placas para ir ao banheiro, pois como estava em reforma, dizia que não tinha mais lá dentro, Hilário!",
+      "gradeComment": 5
+    },
+    {
+      "author": "Marcio Barreto",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucoSBBKOoiRuYiebow39YOPpWNBbKHFxWFoX50LfVQ=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "Um lugar lindo. 2 dólares para entrar e o passei de barco pelo rio 11 dólares. Mas Bonito em MS é mais bonito. Quem tiver por aqui vale a pena",
+      "gradeComment": 5
+    },
+    {
+      "author": "Carlos Sabino",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZuco30m76v6uIimF_6boQ0NZizmi7LDtuwlP3-zgfUw=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "Ótimo parque com lagos e rios de água doce bem gelada. Vale visitar a região dos lagos ao norte de Orlando-FL. Informe-se melhor nos sites dos parques. Veja algumas opções na foto na tela do celular.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Carolina Meira",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucr1mNMcCBZMhSpFTtuOesWTYM9Z4y3w5_Uc7vRPsQ=w36-h36-p-c0x00000000-rp-mo-ba3-br100",
+      "comment": "AAAAAAAAAAAAAAAAAA EU AMO AQUI ❤❤❤❤ Lugar limpo e de extrema paz e calma.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Roselaine Ferreira",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucrd_bVIk5pK1glqwryL_HjzV_1p8om7BIsMViSLNw=w36-h36-p-c0x00000000-rp-mo-ba3-br100",
+      "comment": "Sensacional. Lindo. Não fizemos o passeio de barco, mas caminhamos pelas trilhas apreciando a natureza e a cor fantástica da água. Até jacaré e cobras vimos.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Vania Nacaxe",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucpIysTXkNAryPGS5csis9wuFIYaSxiXGZ5jh_X-eao=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "Um dos lugares naturais mais lindos que já visitei. Como curiosidade foi aonde filmaram o filme Tarzan",
+      "gradeComment": 5
+    },
+    {
+      "author": "Jacqueline Brasil Baptista",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucqAwMQWG_qQK4m-7oKyhj8yJAh36rdhnglPCTl1SA=w36-h36-p-c0x00000000-rp-mo-ba6-br100",
+      "comment": "Amei,um verdadeiro paraíso. A água é cristalina e gelada.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Giselle Telles Sbeghen Chaguri",
+      "photoAuthor": "https://lh3.googleusercontent.com/a/AItbvmm6mOzqgvGm-sHGoqKN-S26E_utHbYFoPCBNrU18g=w36-h36-p-c0x00000000-rp-mo-br100",
+      "comment": "Maravilha da natureza!! Recomendo!",
+      "gradeComment": 4
+    },
+    {
+      "author": "Sarah Bare",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucrgsLyXeaLvAJVldV8Zs9EVWBwXqVCdMn7wQFel=w36-h36-p-c0x00000000-rp-mo-br100",
+      "comment": "(Tradução do Google) Silver Springs é absolutamente lindo. Fui lá pela primeira vez para o nosso aniversário de 6 anos. O passeio com fundo de vidro foi incrível. Foi tão legal ver todas as diferentes fontes assim. O rio é tão cristalino que é incrível. Definitivamente recomendo a todos os novatos. Valeu muito a pena e uma experiência verdadeiramente única. Definitivamente planeje voltar quando estiver mais frio para andar de caiaque!  (Original) Silver springs is absolutely beautiful. Went there for the first time for our 6 year anniversary. The glass bottom tour was amazing. It was so cool seeing all the different springs like that. The river is so crystal clear it's amazing. Definitely recommend to any first timers. It was very worth it and a truly unique experience. Definitely plan on going back when it's cooler to kayak!",
+      "gradeComment": 5
+    },
+    {
+      "author": "John M",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucqlUOnsgbMaV9r6luyWAHdDZWruo6Pb3mi-kU1q=w36-h36-p-c0x00000000-rp-mo-ba5-br100",
+      "comment": "(Tradução do Google) Não acredito que moro em Orlando há 10 anos e só fui ao Silver Springs State Park no último final de semana.  Eu recomendo entrar na água em caiaques. A água é cristalina e você verá muitos peixes e muitas tartarugas. Nós só vimos um jacaré (o que foi bom com minha namorada). Nós vimos um macaco de mama e bebê que foi um destaque para nós.  A equipe do parque foi super simpática. Com certeza voltarei em breve!  (Original) I can’t believe I’ve lived in Orlando for 10 years and only went to Silver Springs State Park last weekend.  I highly recommend getting on the water on kayaks. The water is crystal clear and you will see lots of fish and lots of turtles. We only saw one gator (which was fine with my girlfriend). We did see a mama and baby monkey which was a highlight for us.  The park staff was super friendly. I’ll definitely be back soon!",
+      "gradeComment": 5
+    },
+    {
+      "author": "Brandon Ness",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucpPazs7b4JFmPBHz4SlqdQv5KR1GCdCoi8p098ipw=w36-h36-p-c0x00000000-rp-mo-br100",
+      "comment": "(Tradução do Google) Bonito e apenas $ 2 taxa de entrada. Gostaria que a CA fornecesse a seus residentes esse valor. Aberto e não lotado. Ótimo para remar ou fazer uma caminhada. Banheiros limpos e ótimos funcionários. Não vi um peixe-boi, mas estávamos um pouco atrasados.  (Original) Beautiful and only $2 entry fee. Wish CA would provide it's residents such value. Open and not crowded. Great to paddle around or take a hike. Clean restrooms and great staff. Didn't see a manatee but we were a little late.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Aimee",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucqbamspcK7kmktKkpYDwEYxqUFclZ5Ahsl8JOVUtA=w36-h36-p-c0x00000000-rp-mo-ba5-br100",
+      "comment": "(Tradução do Google) Encontrei essa beleza enquanto explorava a área em uma viagem de negócios a Ocala. A mais bela água verde azulada. Eles têm trilhas claramente definidas e uma bela área de calçadão que percorre a floresta. Não consegui fazer o passeio de barco, mas parecia incrível com o fundo transparente! Muito estacionamento, banheiros bem cuidados e preços razoáveis ​​para entrar! A deve ver se você estiver na área!  (Original) Found this beauty while exploring the area on a business trip to Ocala. The most beautiful blueish green water. They have clearly defined trails and a beautiful boardwalk area that loops you through the forest. Didn’t get to take the boat tour but it looked awesome with the clear see through bottoms! Lots of parking, well maintained restrooms, and reasonably priced to enter! A must see if you are in the area!",
+      "gradeComment": 5
+    },
+    {
+      "author": "I Allen",
+      "photoAuthor": "https://lh3.googleusercontent.com/a/AItbvmlmPEKbwbviscWc4E9Uz6lphTc2aWqcV5BYrMPY=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "(Tradução do Google) Nós amamos Silver Springs. É incrível andar de caiaque. Você vê pássaros, peixes-boi, crocodilos, tartarugas, peixes, navios naufragados e várias nascentes, não apenas Silver Springs. Nós não estivemos nos barcos com fundo de vidro, mas ouvimos os capitães dos barcos e parecem bastante experientes. É $ 5 / caiaque para lançar seu próprio caiaque, mas o estacionamento é gratuito. Estivemos aqui em dezembro e vimos vários peixes-boi e em abril vimos os pássaros em seu estuário, surpreendendo os dois períodos de tempo, embora eu acho que eu acho que a primavera foi um pouco melhor por causa de todos os pássaros. No entanto, não acho que você possa errar em qualquer época do ano.  (Original) We love Silver Springs. It is amazing to kayak. You see birds, manatees, alligators, turtle, fish, sunken ships and several springs not just Silver Springs. We have not been on the glass bottom boats but have overheard the boat captains and the seem quite knowledgeable. It is $5/kayak to launch your own kayak but parking is free. We have been here in December and saw several manatees and in April and saw the birds in their estuary, amazing both time frames though I think I'm my opinion the Spring was a little better because of all the birds. However, I don't think you can go wrong any time of year.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Jana L",
+      "photoAuthor": "https://lh3.googleusercontent.com/a/AItbvmndVp-x8dNB3KJVP5gvdec_wlcVFtZHCvPs4T4I=w36-h36-p-c0x00000000-rp-mo-ba5-br100",
+      "comment": "(Tradução do Google) Era um parque lindo, valeu muito a pena a viagem! Muito limpo e bem cuidado. A pequena taxa de entrada dá acesso a uma bela reserva natural com pássaros, crocodilos e peixes-boi. Trilhas e calçadões bem conservados, pontos de vista agradáveis. Estaremos de volta para um passeio de barco e também alugaremos caiaques diretamente no parque na próxima vez. Você também pode trazer seu próprio navio e eles o levarão de volta por uma pequena taxa. Instalações no local.  (Original) It was a beautiful park, very worth the trip! Very clean and well taken care of. Small entry fee gives you access to a beautiful nature preserve with birds, gators, and manatees. Well maintained trails and boardwalks, nice view points. We will be back to take a boat tour and we will also rent kayaks directly from the park next time. You can also bring your own vessel and they'll shuttle you back for a small fee. Facilities on site.",
+      "gradeComment": 5
+    },
+    {
+      "author": "J Rice",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucp0KCx1X8DQ9D1uqUJMIQrFsX5A1ZWxvFDMIoy05w=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "(Tradução do Google) Excelente e vamos manter o parque estadual. Grandes trilhas pavimentadas com sinais de abeto destacam áreas para educar crianças e adultos. As crianças gostaram muito das trilhas e queriam continuar procurando, embora nós, adultos, estivéssemos cansados! Os barcos com fundo de vidro são imperdíveis se você for.  (Original) Excellent and we'll maintained state park. Great paved walking trails with signs fir highlight areas to educate kids and adults alike. Kids thoroughly enjoyed the trails and wanted to keep looking even though us grown ups were tired!  The glass bottom boats are a must if you go.",
+      "gradeComment": 5
+    },
+    {
+      "author": "The Adventurers",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucqX_QA5YuZlzTHEPWjHeA9wpKe0NxJ66CRvmno2wlw=w36-h36-p-c0x00000000-rp-mo-ba5-br100",
+      "comment": "(Tradução do Google) Adorei a experiência, pegamos o barco de vidro e valeu a pena, você pode ver as várias nascentes que estão na região, conhecer um pouco da história e ver a vida selvagem. Jacarés, peixes-boi, peixes, pássaros, tartarugas. Belas paisagens, museu interessante, trilhas. Você pode alugar caiaques ou trazer o seu próprio e lançá-lo por 4 dólares.  (Original) I loved the experience, we took the glass boat and was worthy, you can see the several springs that are in the area, know some history and see wild life.  Gators, manatees, fish, birds, turtles. Beautiful landscapes, interesting museum, trails. You can rent kayaks or bring your own and launch it for 4 dollars.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Kathi Rigg",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucpDXcchBTGZna77aGBzjCaYUm5NSFx66TrFL-O4YQ=w36-h36-p-c0x00000000-rp-mo-br100",
+      "comment": "(Tradução do Google) Silver Springs é de longe o melhor parque estadual que já visitamos. Os parques de campismo são enormes, privados e limpos. Na verdade, todo o acampamento é imaculado. Os funcionários são super simpáticos e acolhedores. Assim que os campistas saem, os trabalhadores chegam para garantir que o acampamento seja perfeito para o próximo hóspede.  A primavera é linda e seu passe de acampamento oferece entrada gratuita para a primavera, onde há muitas atividades, comida e lindos caminhos / trilhas para caminhada.  Agora sabemos por que é tão difícil conseguir reservas aqui. O que uma grande experiência! Odiamos sair, mas com certeza voltaremos! 😊  (Original) Silver Springs is by far the best state park we have ever been to.  The campsites are huge, private and clean. In fact the entire campground is immaculate. The staff are super friendly and welcoming.  As soon as campers leave the workers arrive to make sure the campsite is perfect for the next guest.  The spring is beautiful and your campground pass gets you free admission to the spring where there is lots of activities, food and gorgeous walking paths/trails.  We now know why it is so hard to get reservations here.  What a great experience! We hate to leave but will definitely be back! 😊",
+      "gradeComment": 5
+    },
+    {
+      "author": "Richard Brent",
+      "photoAuthor": "https://lh3.googleusercontent.com/a/AItbvmlBgD5R8yfMJ1vwh4IFA4j2NO1OApUPH_9bfzinXYU=w36-h36-p-c0x00000000-rp-mo-ba3-br100",
+      "comment": "(Tradução do Google) Este lugar é incrível! Há todos os tipos de vida selvagem neste parque, incluindo macacos selvagens que eu nunca vi antes. A água é cristalina e as pessoas aqui são muito amigáveis. Atravessar o calçadão sobre a água estava absolutamente respirando. Eu recomendo a todos que venham aqui e aproveitem os barcos com fundo de vidro. Eu estarei ansioso para a minha próxima vez aqui para que eu possa ir na próxima vez. Não se esqueça de comprar seu ingresso na portaria para não perder a oportunidade!  (Original) This place is awesome! There’s all kinds of wildlife in this park including wild monkeys which I never seen before. The water is crystal clear and people here are very friendly. Crossing the boardwalk over the water was absolutely breathing. I had recommend for everyone to come out here and enjoy the glass bottom boats. I’ll be looking forward to my next time coming here so I can go on it next time myself. Don’t forget to purchase your ticket at the gate so you don’t miss the opportunity!",
+      "gradeComment": 5
+    },
+    {
+      "author": "The Great Corgi",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucqRIosMnASSMsXWiXw-abtRz6NlyeE8e-f9SPFsuHA=w36-h36-p-c0x00000000-rp-mo-ba2-br100",
+      "comment": "(Tradução do Google) Um pouco mais caro em comparação com outros lugares de caiaque, mas: a água é tão limpa, clara, bonita e azul! ! Vimos vários peixes-boi. Há muita vida selvagem, incluindo jacarés perto da costa. Se você planeja dar um mergulho no rio, traga óculos, debaixo d'água é mais interessante do que acima! Os caiaques eram de qualidade decente e ofereciam barcos de vidro por até 2 horas.  (Original) A bit pricier compared to other kayaking places, but: the water is so clean, clear, pretty and blue!! We saw several manatees. There is lots of wildlife, including gators near the shore. If u plan to take a dip in the river, bring goggles, underwater is more interesting than above! Kayaks were decent quality, and they offered glass boats for up to 2 hours.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Libby Santilli",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucop8lIl7CMzq-Ns6f-EHHEzWOsQ9ypjM6k8oEqIoVI=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "(Tradução do Google) Tivemos um grande momento de caiaque com a família. O aluguel de caiaque de duas horas é perfeito para um passeio no final da tarde nas nascentes. Foi divertido avistar pequenos jacarés, ver todos os pássaros e peixes, e conferir todas as muitas tartarugas tomando sol. Eles têm caiaques individuais e em tandem, o que foi perfeito para a nossa família.  (Original) Had a great time kayaking with the family. The two hour kayak rental is perfect for a late afternoon outing at the springs. It was fun spotting small gators, seeing all the birds and fish, and checking out all the many turtles sunning themselves. They have single and tandem kayaks, which was perfect for our family.",
+      "gradeComment": 5
+    }
+  ],
+  "peakHours": [
+    {
+      "Sunday": [
+        {
+          "hour": "08:00",
+          "percent": 16
+        },
+        {
+          "hour": "09:00",
+          "percent": 35
+        },
+        {
+          "hour": "10:00",
+          "percent": 60
+        },
+        {
+          "hour": "11:00",
+          "percent": 85
+        },
+        {
+          "hour": "12:00",
+          "percent": 98
+        },
+        {
+          "hour": "13:00",
+          "percent": 100
+        },
+        {
+          "hour": "14:00",
+          "percent": 92
+        },
+        {
+          "hour": "15:00",
+          "percent": 79
+        },
+        {
+          "hour": "16:00",
+          "percent": 61
+        },
+        {
+          "hour": "17:00",
+          "percent": 41
+        },
+        {
+          "hour": "18:00",
+          "percent": 22
+        },
+        {
+          "hour": "19:00",
+          "percent": 10
+        }
+      ]
+    },
+    {
+      "Monday": [
+        {
+          "hour": "08:00",
+          "percent": 12
+        },
+        {
+          "hour": "09:00",
+          "percent": 26
+        },
+        {
+          "hour": "10:00",
+          "percent": 42
+        },
+        {
+          "hour": "11:00",
+          "percent": 55
+        },
+        {
+          "hour": "12:00",
+          "percent": 60
+        },
+        {
+          "hour": "13:00",
+          "percent": 58
+        },
+        {
+          "hour": "14:00",
+          "percent": 51
+        },
+        {
+          "hour": "15:00",
+          "percent": 41
+        },
+        {
+          "hour": "16:00",
+          "percent": 30
+        },
+        {
+          "hour": "17:00",
+          "percent": 20
+        },
+        {
+          "hour": "18:00",
+          "percent": 11
+        },
+        {
+          "hour": "19:00",
+          "percent": 5
+        },
+        {
+          "hour": "20:00",
+          "percent": 3
+        }
+      ]
+    },
+    {
+      "Tuesday": [
+        {
+          "hour": "08:00",
+          "percent": 12
+        },
+        {
+          "hour": "09:00",
+          "percent": 23
+        },
+        {
+          "hour": "10:00",
+          "percent": 34
+        },
+        {
+          "hour": "11:00",
+          "percent": 44
+        },
+        {
+          "hour": "12:00",
+          "percent": 50
+        },
+        {
+          "hour": "13:00",
+          "percent": 50
+        },
+        {
+          "hour": "14:00",
+          "percent": 45
+        },
+        {
+          "hour": "15:00",
+          "percent": 36
+        },
+        {
+          "hour": "16:00",
+          "percent": 25
+        },
+        {
+          "hour": "17:00",
+          "percent": 16
+        },
+        {
+          "hour": "18:00",
+          "percent": 8
+        },
+        {
+          "hour": "19:00",
+          "percent": 3
+        }
+      ]
+    },
+    {
+      "Wednesday": [
+        {
+          "hour": "08:00",
+          "percent": 13
+        },
+        {
+          "hour": "09:00",
+          "percent": 23
+        },
+        {
+          "hour": "10:00",
+          "percent": 33
+        },
+        {
+          "hour": "11:00",
+          "percent": 41
+        },
+        {
+          "hour": "12:00",
+          "percent": 45
+        },
+        {
+          "hour": "13:00",
+          "percent": 45
+        },
+        {
+          "hour": "14:00",
+          "percent": 42
+        },
+        {
+          "hour": "15:00",
+          "percent": 37
+        },
+        {
+          "hour": "16:00",
+          "percent": 28
+        },
+        {
+          "hour": "17:00",
+          "percent": 19
+        },
+        {
+          "hour": "18:00",
+          "percent": 11
+        },
+        {
+          "hour": "19:00",
+          "percent": 5
+        }
+      ]
+    },
+    {
+      "Thursday": [
+        {
+          "hour": "08:00",
+          "percent": 13
+        },
+        {
+          "hour": "09:00",
+          "percent": 24
+        },
+        {
+          "hour": "10:00",
+          "percent": 36
+        },
+        {
+          "hour": "11:00",
+          "percent": 46
+        },
+        {
+          "hour": "12:00",
+          "percent": 50
+        },
+        {
+          "hour": "13:00",
+          "percent": 49
+        },
+        {
+          "hour": "14:00",
+          "percent": 44
+        },
+        {
+          "hour": "15:00",
+          "percent": 35
+        },
+        {
+          "hour": "16:00",
+          "percent": 26
+        },
+        {
+          "hour": "17:00",
+          "percent": 17
+        },
+        {
+          "hour": "18:00",
+          "percent": 10
+        },
+        {
+          "hour": "19:00",
+          "percent": 5
+        }
+      ]
+    },
+    {
+      "Friday": [
+        {
+          "hour": "08:00",
+          "percent": 16
+        },
+        {
+          "hour": "09:00",
+          "percent": 28
+        },
+        {
+          "hour": "10:00",
+          "percent": 40
+        },
+        {
+          "hour": "11:00",
+          "percent": 49
+        },
+        {
+          "hour": "12:00",
+          "percent": 53
+        },
+        {
+          "hour": "13:00",
+          "percent": 51
+        },
+        {
+          "hour": "14:00",
+          "percent": 47
+        },
+        {
+          "hour": "15:00",
+          "percent": 39
+        },
+        {
+          "hour": "16:00",
+          "percent": 30
+        },
+        {
+          "hour": "17:00",
+          "percent": 20
+        },
+        {
+          "hour": "18:00",
+          "percent": 11
+        },
+        {
+          "hour": "19:00",
+          "percent": 5
+        }
+      ]
+    },
+    {
+      "Saturday": [
+        {
+          "hour": "08:00",
+          "percent": 17
+        },
+        {
+          "hour": "09:00",
+          "percent": 37
+        },
+        {
+          "hour": "10:00",
+          "percent": 62
+        },
+        {
+          "hour": "11:00",
+          "percent": 84
+        },
+        {
+          "hour": "12:00",
+          "percent": 96
+        },
+        {
+          "hour": "13:00",
+          "percent": 95
+        },
+        {
+          "hour": "14:00",
+          "percent": 85
+        },
+        {
+          "hour": "15:00",
+          "percent": 71
+        },
+        {
+          "hour": "16:00",
+          "percent": 54
+        },
+        {
+          "hour": "17:00",
+          "percent": 37
+        },
+        {
+          "hour": "18:00",
+          "percent": 22
+        },
+        {
+          "hour": "19:00",
+          "percent": 11
+        }
+      ]
+    }
+  ],
+  "relatedSearches": [
+    "silver springs state park map",
+    "silver springs park",
+    "silver springs state park il",
+    "silver springs florida",
+    "silver springs state park il trail map",
+    "silver springs state park map pdf",
+    "silver springs state park oregon",
+    "can you swim at silver springs state park",
+    "silver springs state park map",
+    "silver springs park",
+    "silver springs state park il",
+    "silver springs florida",
+    "silver springs state park il trail map",
+    "silver springs state park map pdf",
+    "silver springs state park oregon",
+    "can you swim at silver springs state park"
+  ],
+  "relateds": [
+    {
+      "mainName": "Silver Springs",
+      "url": null
+    },
+    {
+      "mainName": "Silver River",
+      "url": null
+    },
+    {
+      "mainName": "Silver Glen Springs",
+      "url": null
+    },
+    {
+      "mainName": "Blue Spring State Park",
+      "url": null
+    },
+    {
+      "mainName": "Rainbow Springs",
+      "url": null
+    },
+    {
+      "mainName": "Silver River Museum & Environmental Education Center",
+      "url": null
+    },
+    {
+      "mainName": "Ray Wayside Park",
+      "url": null
+    },
+    {
+      "mainName": "Fort King National Historic Landmark",
+      "url": null
+    },
+    {
+      "mainName": "Rainbow Springs State Park",
+      "url": null
+    },
+    {
+      "mainName": "Weeki Wachee Spring",
+      "url": null
+    },
+    {
+      "mainName": "Ginnie Springs",
+      "url": null
+    },
+    {
+      "mainName": "Appleton Museum of Art",
+      "url": null
+    },
+    {
+      "mainName": "Three Sisters Springs",
+      "url": null
+    },
+    {
+      "mainName": "Wild Waters Water Park",
+      "url": null
+    },
+    {
+      "mainName": "Ocala National Forest",
+      "url": null
+    },
+    {
+      "mainName": "Sholom Park",
+      "url": null
+    },
+    {
+      "mainName": "The Canyons Zip Line and Adventure Park",
+      "url": null
+    },
+    {
+      "mainName": "Ocklawaha River",
+      "url": null
+    },
+    {
+      "mainName": "Madison Blue Spring State Park",
+      "url": null
+    },
+    {
+      "mainName": "Fanning Springs State Park",
+      "url": null
+    },
+    {
+      "mainName": "Ichetucknee Springs State Park",
+      "url": null
+    },
+    {
+      "mainName": "Lake Griffin State Park",
+      "url": null
+    },
+    {
+      "mainName": "Lake Louisa State Park",
+      "url": null
+    },
+    {
+      "mainName": "Myakka River State Park",
+      "url": null
+    },
+    {
+      "mainName": "Silver Springs",
+      "url": null
+    },
+    {
+      "mainName": "Silver River",
+      "url": null
+    },
+    {
+      "mainName": "Silver Glen Springs",
+      "url": null
+    },
+    {
+      "mainName": "Blue Spring State Park",
+      "url": null
+    },
+    {
+      "mainName": "Rainbow Springs",
+      "url": null
+    },
+    {
+      "mainName": "Silver River Museum & Environmental Education Center",
+      "url": null
+    },
+    {
+      "mainName": "Ray Wayside Park",
+      "url": null
+    },
+    {
+      "mainName": "Fort King National Historic Landmark",
+      "url": null
+    },
+    {
+      "mainName": "Rainbow Springs State Park",
+      "url": null
+    },
+    {
+      "mainName": "Weeki Wachee Spring",
+      "url": null
+    },
+    {
+      "mainName": "Ginnie Springs",
+      "url": null
+    },
+    {
+      "mainName": "Appleton Museum of Art",
+      "url": null
+    },
+    {
+      "mainName": "Three Sisters Springs",
+      "url": null
+    },
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

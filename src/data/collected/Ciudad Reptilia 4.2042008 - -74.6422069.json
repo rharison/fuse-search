@@ -1,0 +1,885 @@
+{
+  "mainName": "Ciudad Reptilia",
+  "slug": "ciudad-reptilia",
+  "category": "Parque ecológico",
+  "locationInformation": {
+    "latitude": "4.2042008",
+    "longitude": "-74.6422069"
+  },
+  "basicInformation": [
+    {
+      "label": "endereço",
+      "tooltip": "Copiar endereço",
+      "text": "Melgar, Tolima, Colômbia",
+      "icon": "https://www.gstatic.com/images/icons/material/system_gm/1x/place_gm_blue_24dp.png"
+    },
+    {
+      "label": "agendamento",
+      "tooltip": "Abrir link de agendamento",
+      "text": "facebook.com",
+      "icon": "https://fonts.gstatic.com/s/i/googlematerialicons/event/v14/gm_blue-24dp/1x/gm_event_gm_blue_24dp.png"
+    },
+    {
+      "label": "telefone",
+      "tooltip": "Copiar número de telefone",
+      "text": "+57 310 2059968",
+      "icon": "https://www.gstatic.com/images/icons/material/system_gm/1x/phone_gm_blue_24dp.png"
+    },
+    {
+      "label": "Code",
+      "tooltip": "Copiar Plus Code",
+      "text": "6935+M4 Melgar, Tolima, Colômbia",
+      "icon": "https://maps.gstatic.com/mapfiles/maps_lite/images/2x/ic_plus_code.png"
+    },
+    {
+      "label": "send-to-device",
+      "text": "Enviar para smartphone",
+      "icon": "https://maps.gstatic.com/consumer/images/icons/1x/send_to_mobile_alt_gm_blue_24dp.png"
+    }
+  ],
+  "ratingInformation": {
+    "basicRatingInformation": {
+      "averageGrade": 4.5,
+      "totalOfEvaluations": 868
+    },
+    "ratingsByGrade": [
+      {
+        "grade": 5,
+        "totalRatings": 590
+      },
+      {
+        "grade": 4,
+        "totalRatings": 169
+      },
+      {
+        "grade": 3,
+        "totalRatings": 65
+      },
+      {
+        "grade": 2,
+        "totalRatings": 13
+      },
+      {
+        "grade": 1,
+        "totalRatings": 31
+      }
+    ]
+  },
+  "ratingTags": [
+    {
+      "tag": "experiência",
+      "count": 36,
+      "tooltip": "experiência, mencionado em 36 avaliações"
+    },
+    {
+      "tag": "espécies",
+      "count": 16,
+      "tooltip": "espécies, mencionado em 16 avaliações"
+    },
+    {
+      "tag": "plano",
+      "count": 13,
+      "tooltip": "plano, mencionado em 13 avaliações"
+    },
+    {
+      "tag": "educados",
+      "count": 10,
+      "tooltip": "educados, mencionado em 10 avaliações"
+    },
+    {
+      "tag": "trabalho",
+      "count": 10,
+      "tooltip": "trabalho, mencionado em 10 avaliações"
+    },
+    {
+      "tag": "fauna",
+      "count": 8,
+      "tooltip": "fauna, mencionado em 8 avaliações"
+    },
+    {
+      "tag": "aprender",
+      "count": 7,
+      "tooltip": "aprender, mencionado em 7 avaliações"
+    },
+    {
+      "tag": "projeto",
+      "count": 6,
+      "tooltip": "projeto, mencionado em 6 avaliações"
+    },
+    {
+      "tag": "testudinata",
+      "count": 6,
+      "tooltip": "testudinata, mencionado em 6 avaliações"
+    },
+    {
+      "tag": "interação",
+      "count": 5,
+      "tooltip": "interação, mencionado em 5 avaliações"
+    }
+  ],
+  "featuredPhotos": [
+    "https://lh5.googleusercontent.com/p/AF1QipNWopl3xGYiXzmUQnoEAa8wE0x7_c1eZz56ttUU=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipM8ezri4ApuTLWWaZyHeIDNnXb2pjUBNiT6Wadk=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOMq-gbne-QQMx5ap0ujnHdFV79ebPQYsVTw5fM=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNKz3HxmY0Y7zn2nqEMy01k3NTuTb4eepb-oHcj=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOGpjm0VllxlOTAvLGEMYaaJdz9ndzK-nujjQU=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOxEa2vRmbCEI4uc58InmBN5Swg9kB2TMIIzUsC=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipM_1mdkQ6diQ3CXLDMjjfkREx9_turgl6l8UeDR=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipP2Ztu_QaIEs1BXtzU23WhoRGF6ye34SBJxXa8R=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMGdQ1_HRMF0wov7Z3KT6H3HTMdhdgXX05V3_4=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPHBwQ38mUepNMgFoMkMH70rc9-yhIdvBRDCBtq=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNwEKaBmOLltqkz-M4c4l0Sot9n9xgdaAPCHt6c=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNHHf6MAk8kPwXfVc8bZEFAKHGiKtXQPVEADWfe=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOBQ7TS9jlBTM9SafxusZh6wwRAs0ov_TbR0TZ4=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNP0QT0Ybg7gYW7rS-EAiSUR5TRSwu4BuMrWCLn=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPb2TI7TzzgzVGD2wl_ms8BI6e46SXwhVC9JgeN=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMOgHTxZezaGtlQlwsJRrqVhwYpdJUldZj2dcSf=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPC8SFAq3LW9QFPG5QX-0yKaqj4OcndKSKPaMLu=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPSvX9H1qylkKA9HrGHhg1BU0bLt-qNYInYOCMU=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOoYgvDMTZ7H-vxiFhBYETkMJBi7VfG6RprUCZ1=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNxYikjjfqImW4-HbRp7Po1MJOr7wBriZ1aOgIj=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPiAbGm3_XJAEDRxGrVbzm0sgk6jUeDk1rbp9k=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPMA8OqPTy4E5E9wseeuP-dg67GxnlpwyRpiVY2=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOKZyljrHzDEDCZ9vS9puc3sRlm59gLNBdI2nKq=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOxSO_KsHzhGHtyDWtMD-g2Yte4yDiV_FG5rjlR=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNsAq4eOHvXuzSAoSP7AM_Gd-HDWo175428QpxC=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMoiklxJL-7OPpBVVrsGAgLHR0-DbsoZaMI7wW2=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipO6zmMI7THOI1OuDX-DZvOEGwirkj5qQ5Wji7Pj=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMlq_0SmMvMf0PNv2ko2lR-oi_bsUxMor9mTQHz=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMYTZ34PeqfrLSomaCdu5fIOQ-GSKkWWACPinpF=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMJHY8jFS-xGij80BjiZp_rKxw--5IsLf8hCw4G=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipODKvEDKAnz4-mV3EDe7CbiLXNMq44fS-zTZJFx=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPataFk1G6usBUyF-XpI_pSGJcbIziA-YcZnfY=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPT8aaBYmCmenrHScaJ-OrYvtoVsVj9wQsfit6C=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPOmR8SnlIRGAx_2t_gHtizDksYbAAt47XYwwBn=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMCixI7V5Z2FXH3R-y57iMlIyYnbwJYqm93VqqT=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPJTS4f3UqI0AlNGlZg9oIytEeJojFOPENlyl_e=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipO-OBFzSdrkznoCI7wXgD3Gw4bu0UevTjjMYUQN=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOXI1JFbCbEX0KcD7bIiqP2JgGO1xtmIoPpJY46=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNY2eXzQsE0xRsC5x2RWq4nrTEiJhpvnAnntdGg=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOpDJYwNrCMEB_jfgijJgqFAlSa_oAIJEjQ_QI=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOHTllJ1GTd0INpPBUZfn6oUN3e4u4GEsm19I95=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPqlqPhqcnie4bzYtZI3k3F9p13cL-iFlcFTI2_=w1024-h576-k-no"
+  ],
+  "topComments": [
+    {
+      "author": "Viviana Ramirez",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucokTu8TUbOD9DS2ss0F8avhqBFsoWMR9WuITFM_Lg=w36-h36-p-c0x00000000-rp-mo-br100",
+      "comment": "(Tradução do Google) Sem dúvida uma experiência agradável. Um passeio espetacular, não requer nível suficiente. A floresta, os animais e a explicação dos guias foi excelente. Despesas extras (voluntárias) são geradas no passeio que é bom levar em consideração. Foto com jibóia, jacaré pequeno e tartaruga $ 5.000 cada. Saco de comida para animais $ 4.000. A bolsa é suficiente para todos os animais. Aconselham a não entrar em garrafas plásticas pelos cuidados que a floresta exige, em algum lugar do caminho vendem água, refrigerante, cerveja e pacotes. É importante ir de tênis antiderrapante, pois a caminhada, embora não seja difícil, é por caminhos que exigem cuidados. As árvores ao longo do caminho proporcionam a sombra necessária para suportar a caminhada e as intempéries. Fomos no transporte contratado na agência, com um custo de $ 8.000 por pessoa ida e volta, o que vale a pena porque a estrada não é asfaltada.  (Original) Sin duda alguna una experiencia agradable. Una caminata espectacular, no requiere bastante nivel. El bosque, los animales y la explicación de los guías fue excelente. En el recorrido se generan gastos extra (voluntarios) que es bueno que tengan en cuenta. Foto con boa, caimán pequeño y con tortuga $5.000 c/u. Bolsa de alimentos para animales $4.000. La bolsa alcanza para todos los animales. Te aconsejan no entrar botellas plásticas por el cuidado que requiere el bosque, en alguna parte del recorrido venden agua, gaseosa, cerveza y paquetes. Importante ir en tenis no lisos, pues la caminata aun cuando no es difícil es por caminos que requieren cuidado. Los árboles en el camino generan sombra necesaria para soportar la caminata y el clima. Nosotros fuimos en el transporte contratado en la agencia, con un valor de $8000 por persona ida y vuelta, que valen la pena pues la carretera es sin pavimentar.",
+      "gradeComment": 4
+    },
+    {
+      "author": "Laura Cubillos Rico (LauriMedusa)",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZuco68vTiXdBc78p11q1OvyfeDfXnN5O2i4REOEJqE_g=w36-h36-p-c0x00000000-rp-mo-ba5-br100",
+      "comment": "(Tradução do Google) Aqui eles fazem um trabalho muito importante para os animais e a natureza, eles cuidam de tudo muito bem.  É uma boa oportunidade para conhecer de perto crocodilos, tartarugas e cobras e aprender a cuidar deles.  Além disso, é muito gratificante ajudá-los monetariamente conforme eles precisam.  (Original) Aquí hacen una labor muy importante por los animales y la naturaleza, tienen todo muy bien cuidado.  Es una buena oportunidad para conocer de cerca a los cocodrilos, tortugas, serpientes y tener conocimiento del cuidado de ellos.  Además de que es muy gratificante por ayudarlos monetariamente ya que lo necesitan.",
+      "gradeComment": 5
+    },
+    {
+      "author": "dignora castillo",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucqC_PBo3VnawLTb0yaGtlYJec8MEUW0Yrx-t3H_XR4=w36-h36-p-c0x00000000-rp-mo-ba3-br100",
+      "comment": "(Tradução do Google) Adorei, é um lugar para curtir a natureza, poder alimentar esses animais selvagens e tirar fotos com eles é uma super experiência, andar por trilhas bem estreitas, realmente maravilhoso..😍  (Original) Me encantó es un sitio para disfrutar la naturaleza, poder alimentar animales tan salvajes y tomarse fotos con ellos es una super experiencia, caminar por senderos muy estrechos, realmente maravilloso..😍",
+      "gradeComment": 5
+    },
+    {
+      "author": "Carlos Andrés",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucq8pBhQVmf7P8Mi-1G-q6khUO6rW0DSJHWd33e55w=w36-h36-p-c0x00000000-rp-mo-ba2-br100",
+      "comment": "(Tradução do Google) Super recomendado, a poucos km do centro, é uma excelente floresta tropical.  (Original) Super recomendado, a pocos km del centro, es un excelente bosque tropical.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Edward Rodríguez",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucpKNHywWOjV8zb9yFimj8xD9JzuOdfE_z94TizZJwY=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "(Tradução do Google) Foi uma experiência muito boa, nos deixou muitas reflexões sobre o respeito aos animais e à natureza. O pessoal é muito simpático e respeitoso ... uma aventura super espetacular.  (Original) Fue una experiencia muy buena, nos dejó muchas reflexiones a cerca del respeto a los animales y la naturaleza. El personal es muy amable y respetuoso..una aventura súper espectacular.",
+      "gradeComment": 5
+    },
+    {
+      "author": "saimon diaz",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucoeYeS_7EQLh8dLpyQAOIgEBOYdXnI8wiviaYOP0qU=w36-h36-p-c0x00000000-rp-mo-ba2-br100",
+      "comment": "(Tradução do Google) Muito bonito e eles nos ensinam sobre os cuidados com a natureza  (Original) Muy bonito y nos enseñan del cuidado de la naturaleza",
+      "gradeComment": 5
+    },
+    {
+      "author": "Andres Mora",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucrHg0TXr6u5ozPpBiq_DeZCesXULQ1EVpg6bIi0Xg=w36-h36-p-c0x00000000-rp-mo-ba2-br100",
+      "comment": "(Tradução do Google) Excelente local para partilhar com a família e ter contacto com a natureza e com algumas espécies de répteis no seu habitat natural, as espécies dispõem de amplo espaço para o seu desenvolvimento. Excelente orientação do guia turístico. Possui trilha para caminhada ecológica. Super recomendado.  (Original) Un excelente lugar para compartir en familia y tener contacto con la naturaleza y con algunas especies de reptiles en su hábitat natural, las especies cuentan con un amplio espacio para su desarrollo. Excelente orientación por parte del guía turístico. Cuenta con sendero para caminata ecológica. Súper recomendado.",
+      "gradeComment": 5
+    },
+    {
+      "author": "a va",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucr43wszlT_STtszGGZsJbkduyPzHtHyii-NXWSglw=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "(Tradução do Google) Um lugar excelente, barato e de muito valor para nós e para as futuras gerações, ideal com crianças, a experiência na expedição é espetacular, eles têm um trabalho inestimável com a recuperação da fauna, muito obrigado a todos que tornam este trabalho possível , visitá-los está ajudando  (Original) Un excelente lugar, economico y de un valor importantísimo para nosotros y las futuras generación, ideal con niños, la experiencia en la.expedicion es espectacular, tienen una labor invaluable con la recuperacion de fauna, muchas gracias a todos los que hacen posible esa labor, visitarlos es ayudar",
+      "gradeComment": 5
+    },
+    {
+      "author": "david santiago baquero villarraga",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucqQE4kRs_wHLTstwp56bgWUJITOvROG05xzb9JN=w36-h36-p-c0x00000000-rp-mo-ba3-br100",
+      "comment": "(Tradução do Google) Bom lugar para ver e apreciar os animais que estão lá são excelentes  (Original) Buen lugar para  ver y disfrutar los animales que hay se encuentran exelente",
+      "gradeComment": 5
+    },
+    {
+      "author": "Juan Carlos Bustamante Molina",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucrVRX4AAIOljqWcHpjUx3usTAwn1rUFYwli9bKb7N4=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "(Tradução do Google) Excelente. Tivemos um grande momento. Excelente serviço. Obrigado por ajudar companheiros deficientes.  (Original) Excelente. La pasamos Genial. Excelente servicio. Gracias por ayudar a los acompañes discapacitados.",
+      "gradeComment": 5
+    },
+    {
+      "author": "alvaro duran",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucqkZYa3-a1l7O1CioEC1bbsShI7c3grgSD-BQ9I=w36-h36-p-c0x00000000-rp-mo-ba3-br100",
+      "comment": "(Tradução do Google) Lugar agradável para passar um dia com a família... conhecendo animais e pássaros, um lugar único. Bom contato com a natureza.  (Original) Lugar agradable para pasar un día en familia... conociendo animales y aves un lugar único. Buen contacto con la naturaleza.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Fernando Suarez",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucoEIdAPbbUGCxeV6xaNenNv-p8I6SJ-SHc9gfKSQ3I=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "(Tradução do Google) Adoro este parque que fui quando tinha uns 8 anos e decidi levar a minha filha e era óptimo o preço é confortável para alimentar os crocodilos é óptimo e é barato um saco só para alimentar toda a gente vale 5 mil eles custam não os usurários e a paisagem e a conexão com este tipo de animais super bons  (Original) Amo este parque fui cuando tenía unos 8 años y decidí llevar a mi hija y fue genial el precio es cómodo alimentar los cocodrilos es genial y es barato una sola bolsa para alimentar a todos vale 5 mil no son usureros y el paisaje y la conexión con este tipo de animales super buena",
+      "gradeComment": 5
+    },
+    {
+      "author": "Manuel Vidal",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucqXA8y53uDpyoJI4A6nZlwSqyv25pJz3vQoNZNW=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "(Tradução do Google) Muito bom passeio, você pode realmente ver a preocupação do parque e as pessoas que cuidam dos animais. Tivemos um ótimo momento, realmente aconselhável  (Original) Muy buen paseo, realmente se nota la preocupacion del parque y la gente que cuida a los animales. La pasamos muy bien, realmente aconsejable",
+      "gradeComment": 5
+    },
+    {
+      "author": "Santiago Ruiz",
+      "photoAuthor": "https://lh3.googleusercontent.com/a/AItbvmkE3eHOW6wjxEd36U4WzU7mdca3qZGSdqGdyaG3=w36-h36-p-c0x00000000-rp-mo-ba3-br100",
+      "comment": "(Tradução do Google) Um excelente lugar para ir em família, eu sei que você compra o ingresso de um lado em frente à igreja de Melgar, custa $ 30.000 por pessoa, então de lá eu sei que você tem que viajar aproximadamente 10 a 15 minutos, de lá eles fazem não tem transporte, acho que eles levam, fui de veículo, tem estacionamento, chegando no ponto há uma caminhada de aproximadamente 30 minutos, onde explicam as fontes de água, depois desse ponto você chega no quiosque, lá você pode comprar água, refrigerante, cerveja, no início da caminhada Eles falam que você não pode entrar, bebidas para você trazer seu próprio butilite, eles dizem isso para preservar o ecossistema e não contaminar, mas eu vi como eles negociaram desde se eles quisessem fazer isso eles teriam lixeiras prontas para deixar o material, depois do chá de hidratação eles fazem uma conversa sobre os cuidados com as Culebras e a (BoA) chamada Rosita Eles deixam você acariciá-la e depois se você quiser tirar uma foto com ela você deve fazer a \"contribuição\" de $5000 por foto, para a alimentá-la diz o veterinário, então eles te levam em um passeio para que você possa ver as babillas, crocodilos, tartarugas e porcos do Monte, por que você os alimenta com chá eles dizem que se você quiser fazer isso você deve fazer a contribuição ou pagar um saco de ninharias, valor 4000 pesos se você não comprar não vai se divertir, você visita esses animais com as tartarugas existem algumas super grandes. Eles deixam as crianças montá-los para uma \"colaboração\" de $ 5.000 adultos, se eles quiserem levar, você deve fazer outra contribuição $ 5.000 pesos, para o último chá eles os levam para as babillas bbs e se você quiser uma foto com eles, você deve fazer outra \"contribuição\" $ 5000 as fotos que você tira com seu próprio telefone, elas não são digitais ou algo assim  (Original) Un Excelente lugar para ir en familia,sé compra el ticket  a un costado frente ála iglesia de Melgar ,costo $30,000 por persona depués desde ahi sé debe hacer un desplazamiento de 10 a 15 min aproximadamente, de ahi sí no tienen transporte creo q los llevan , yo fui en vehiculo , tiene parqueadero , llegando al punto se hace una Caminata de aproximadamente 30 min, donde de Explican de las fuentes hídricas, despues de este punto llegas al kiosko , ahi puedes comprar agua, gaseosa, Cerveza , al inició de la caminata Te  Dicen q no puedes ingresar , bebidas así lleves tu Propio butilito,dicen q para Preservar el ecosistema y no contaminar, pero Yo vi còmo negoció de ellos puesto q sí quisieran hacer eso tendrían dispuestas canecas  para dejar el Material, despues de la hidratación té hacen una charla sobre el cuidado de las Culebras y la (BoA) llamada Rosita Te dejan que la acaricies y despues sí deceas tomarte una foto con ella debes hacer la \"contribución \" de $5000 por foto , para la alimentación de ella dice el veterinario , despues Te llevan a un recorrió para q veas a las babillas, Cocodrilos,tortugas y cerdos de Monte, para qué los alimentes té dicen que sí deceas hacerlo debes hacer la contribución o pargar una bolsa de menudencia, valor 4000 pesos  que sí no la compras no té vas a divertir ,visitas éstos animales con las tortugas hay  unas súper grande. A los niños los dejan montar en ellas por una \"colaboración \" de $5000 adultos sí decean cargarla  debes hacer otra contribución $5000 pesos , x ultimo té llevan donde las babillas bbs y sí quieres foto con ellas debes hacer otra \"contribución\" $5000 las fotos las tomas con tu telefono propio , no son Digitales ni nada por él estilo",
+      "gradeComment": 5
+    },
+    {
+      "author": "Brandon campos",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucqXqN_T-Gw7cw-IGMUQZlR-fk7AgwYsp88U_OLrkp8=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "(Tradução do Google) Excelente caminhada muito agradável se aprende muitas coisas 😎  (Original) Excelente paseo muy agradable aprende uno muchas cosas 😎",
+      "gradeComment": 5
+    },
+    {
+      "author": "Sandra Reyes",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZuco0LzAYqHOgmFbiQaNlighw7vjGdLlNIUX6vgAyWQ=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "(Tradução do Google) Ampla área verde para caminhada, com oportunidade de conhecer grandes répteis e interagir com eles.  (Original) Gran zona verde para caminata, con la oportunidad de conocer a grandes reptiles e interactuar con ellos.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Carlos Eduardo Marin Ortega",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucp86H6oxJfOool9y20vFOexfK5rdXKkipE5wYfWjQ=w36-h36-p-c0x00000000-rp-mo-ba3-br100",
+      "comment": "(Tradução do Google) Bonito lugar. Uma reserva para vários répteis abandonados ou abusados. O passeio é simples, fácil e dura cerca de uma hora. Você pode conhecer um pouco mais sobre esses animais e desfrutar de uma atividade diferente em Melgar.  (Original) Hermoso lugar. Una reserva para varios reptiles abandonados o maltratados. El recorrido es sencillo, fácil y dura una hora aproximadamente. Puedes conocer un poco más de estos animales y disfrutar una actividad diferente en Melgar.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Gildardo Suárez Suárez",
+      "photoAuthor": "https://lh3.googleusercontent.com/a/AItbvmmdcnpbJQ4HO1v8wnHKALEyzzaKfdF_lm6aL7Qn=w36-h36-p-c0x00000000-rp-mo-br100",
+      "comment": "(Tradução do Google) Excelente lugar para curtir com a família, paisagens maravilhosas, experiências positivas com os guias, e o melhor... poder interagir com os animais. Altamente recomendado... 👌  (Original) Excelente lugar para disfrutar en familia, paisajes maravillosos, experiencias con los guías positivas, y lo mejor...poder interactuar  con los animales. Recomendadisimo...👌",
+      "gradeComment": 5
+    },
+    {
+      "author": "Jefferson Alexander Sánchez Camelo",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucruoxraYm7PVUfqIDNUytE97N7oHVGA2WesSyBx=w36-h36-p-c0x00000000-rp-mo-ba3-br100",
+      "comment": "(Tradução do Google) um local espetacular  (Original) Un sitio espectacular",
+      "gradeComment": 5
+    },
+    {
+      "author": "Jair Martínez",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucrX__sdreWEqCGI0VTwKFXd8-bgxZBYDoF6IWzGgMY=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "(Tradução do Google) Uma experiência inesquecível, minhas filhas e eu nos divertimos muito interagindo com os répteis, o pessoal que trabalha lá é muito gentil e treinado  (Original) Una experiencia inolvidable, mis hijas y yo la pasamos súper chévere interactuando con los reptiles, el personal que trabaja allá es muy gentil y capacitado",
+      "gradeComment": 5
+    }
+  ],
+  "peakHours": [
+    {
+      "Sunday": [
+        {
+          "hour": "04:00",
+          "percent": 17
+        },
+        {
+          "hour": "05:00",
+          "percent": 28
+        },
+        {
+          "hour": "06:00",
+          "percent": 41
+        },
+        {
+          "hour": "07:00",
+          "percent": 57
+        },
+        {
+          "hour": "08:00",
+          "percent": 73
+        },
+        {
+          "hour": "09:00",
+          "percent": 86
+        },
+        {
+          "hour": "10:00",
+          "percent": 94
+        },
+        {
+          "hour": "11:00",
+          "percent": 96
+        },
+        {
+          "hour": "12:00",
+          "percent": 93
+        },
+        {
+          "hour": "13:00",
+          "percent": 89
+        },
+        {
+          "hour": "14:00",
+          "percent": 86
+        },
+        {
+          "hour": "15:00",
+          "percent": 89
+        },
+        {
+          "hour": "16:00",
+          "percent": 94
+        },
+        {
+          "hour": "17:00",
+          "percent": 99
+        },
+        {
+          "hour": "18:00",
+          "percent": 98
+        },
+        {
+          "hour": "19:00",
+          "percent": 88
+        },
+        {
+          "hour": "20:00",
+          "percent": 71
+        },
+        {
+          "hour": "21:00",
+          "percent": 50
+        },
+        {
+          "hour": "22:00",
+          "percent": 32
+        },
+        {
+          "hour": "23:00",
+          "percent": 18
+        },
+        {
+          "hour": "00:00",
+          "percent": 10
+        },
+        {
+          "hour": "01:00",
+          "percent": 6
+        },
+        {
+          "hour": "02:00",
+          "percent": 7
+        },
+        {
+          "hour": "03:00",
+          "percent": 10
+        }
+      ]
+    },
+    {
+      "Monday": [
+        {
+          "hour": "04:00",
+          "percent": 6
+        },
+        {
+          "hour": "05:00",
+          "percent": 16
+        },
+        {
+          "hour": "06:00",
+          "percent": 24
+        },
+        {
+          "hour": "07:00",
+          "percent": 29
+        },
+        {
+          "hour": "08:00",
+          "percent": 32
+        },
+        {
+          "hour": "09:00",
+          "percent": 33
+        },
+        {
+          "hour": "10:00",
+          "percent": 34
+        },
+        {
+          "hour": "11:00",
+          "percent": 33
+        },
+        {
+          "hour": "12:00",
+          "percent": 31
+        },
+        {
+          "hour": "13:00",
+          "percent": 30
+        },
+        {
+          "hour": "14:00",
+          "percent": 31
+        },
+        {
+          "hour": "15:00",
+          "percent": 36
+        },
+        {
+          "hour": "16:00",
+          "percent": 42
+        },
+        {
+          "hour": "17:00",
+          "percent": 48
+        },
+        {
+          "hour": "18:00",
+          "percent": 48
+        },
+        {
+          "hour": "19:00",
+          "percent": 42
+        },
+        {
+          "hour": "20:00",
+          "percent": 31
+        },
+        {
+          "hour": "21:00",
+          "percent": 17
+        },
+        {
+          "hour": "22:00",
+          "percent": 4
+        }
+      ]
+    },
+    {
+      "Tuesday": [
+        {
+          "hour": "06:00",
+          "percent": 5
+        },
+        {
+          "hour": "07:00",
+          "percent": 10
+        },
+        {
+          "hour": "08:00",
+          "percent": 15
+        },
+        {
+          "hour": "09:00",
+          "percent": 18
+        },
+        {
+          "hour": "10:00",
+          "percent": 20
+        },
+        {
+          "hour": "11:00",
+          "percent": 19
+        },
+        {
+          "hour": "12:00",
+          "percent": 17
+        },
+        {
+          "hour": "13:00",
+          "percent": 16
+        },
+        {
+          "hour": "14:00",
+          "percent": 17
+        },
+        {
+          "hour": "15:00",
+          "percent": 22
+        },
+        {
+          "hour": "16:00",
+          "percent": 28
+        },
+        {
+          "hour": "17:00",
+          "percent": 34
+        },
+        {
+          "hour": "18:00",
+          "percent": 35
+        },
+        {
+          "hour": "19:00",
+          "percent": 31
+        },
+        {
+          "hour": "20:00",
+          "percent": 22
+        },
+        {
+          "hour": "21:00",
+          "percent": 11
+        },
+        {
+          "hour": "22:00",
+          "percent": 1
+        }
+      ]
+    },
+    {
+      "Wednesday": [
+        {
+          "hour": "05:00",
+          "percent": 2
+        },
+        {
+          "hour": "06:00",
+          "percent": 5
+        },
+        {
+          "hour": "07:00",
+          "percent": 10
+        },
+        {
+          "hour": "08:00",
+          "percent": 14
+        },
+        {
+          "hour": "09:00",
+          "percent": 18
+        },
+        {
+          "hour": "10:00",
+          "percent": 20
+        },
+        {
+          "hour": "11:00",
+          "percent": 19
+        },
+        {
+          "hour": "12:00",
+          "percent": 16
+        },
+        {
+          "hour": "13:00",
+          "percent": 15
+        },
+        {
+          "hour": "14:00",
+          "percent": 18
+        },
+        {
+          "hour": "15:00",
+          "percent": 25
+        },
+        {
+          "hour": "16:00",
+          "percent": 33
+        },
+        {
+          "hour": "17:00",
+          "percent": 38
+        },
+        {
+          "hour": "18:00",
+          "percent": 39
+        },
+        {
+          "hour": "19:00",
+          "percent": 33
+        },
+        {
+          "hour": "20:00",
+          "percent": 23
+        },
+        {
+          "hour": "21:00",
+          "percent": 11
+        },
+        {
+          "hour": "22:00",
+          "percent": 1
+        }
+      ]
+    },
+    {
+      "Thursday": [
+        {
+          "hour": "05:00",
+          "percent": 1
+        },
+        {
+          "hour": "06:00",
+          "percent": 5
+        },
+        {
+          "hour": "07:00",
+          "percent": 10
+        },
+        {
+          "hour": "08:00",
+          "percent": 15
+        },
+        {
+          "hour": "09:00",
+          "percent": 20
+        },
+        {
+          "hour": "10:00",
+          "percent": 23
+        },
+        {
+          "hour": "11:00",
+          "percent": 24
+        },
+        {
+          "hour": "12:00",
+          "percent": 23
+        },
+        {
+          "hour": "13:00",
+          "percent": 23
+        },
+        {
+          "hour": "14:00",
+          "percent": 25
+        },
+        {
+          "hour": "15:00",
+          "percent": 30
+        },
+        {
+          "hour": "16:00",
+          "percent": 37
+        },
+        {
+          "hour": "17:00",
+          "percent": 42
+        },
+        {
+          "hour": "18:00",
+          "percent": 44
+        },
+        {
+          "hour": "19:00",
+          "percent": 39
+        },
+        {
+          "hour": "20:00",
+          "percent": 30
+        },
+        {
+          "hour": "21:00",
+          "percent": 19
+        },
+        {
+          "hour": "22:00",
+          "percent": 7
+        }
+      ]
+    },
+    {
+      "Friday": [
+        {
+          "hour": "05:00",
+          "percent": 2
+        },
+        {
+          "hour": "06:00",
+          "percent": 7
+        },
+        {
+          "hour": "07:00",
+          "percent": 12
+        },
+        {
+          "hour": "08:00",
+          "percent": 16
+        },
+        {
+          "hour": "09:00",
+          "percent": 18
+        },
+        {
+          "hour": "10:00",
+          "percent": 18
+        },
+        {
+          "hour": "11:00",
+          "percent": 17
+        },
+        {
+          "hour": "12:00",
+          "percent": 17
+        },
+        {
+          "hour": "13:00",
+          "percent": 19
+        },
+        {
+          "hour": "14:00",
+          "percent": 24
+        },
+        {
+          "hour": "15:00",
+          "percent": 31
+        },
+        {
+          "hour": "16:00",
+          "percent": 39
+        },
+        {
+          "hour": "17:00",
+          "percent": 44
+        },
+        {
+          "hour": "19:00",
+          "percent": 42
+        },
+        {
+          "hour": "20:00",
+          "percent": 35
+        },
+        {
+          "hour": "21:00",
+          "percent": 26
+        },
+        {
+          "hour": "22:00",
+          "percent": 17
+        },
+        {
+          "hour": "23:00",
+          "percent": 8
+        },
+        {
+          "hour": "00:00",
+          "percent": 1
+        }
+      ]
+    },
+    {
+      "Saturday": [
+        {
+          "hour": "04:00",
+          "percent": 2
+        },
+        {
+          "hour": "05:00",
+          "percent": 6
+        },
+        {
+          "hour": "06:00",
+          "percent": 18
+        },
+        {
+          "hour": "07:00",
+          "percent": 32
+        },
+        {
+          "hour": "08:00",
+          "percent": 44
+        },
+        {
+          "hour": "09:00",
+          "percent": 53
+        },
+        {
+          "hour": "10:00",
+          "percent": 57
+        },
+        {
+          "hour": "11:00",
+          "percent": 55
+        },
+        {
+          "hour": "12:00",
+          "percent": 52
+        },
+        {
+          "hour": "13:00",
+          "percent": 49
+        },
+        {
+          "hour": "14:00",
+          "percent": 52
+        },
+        {
+          "hour": "15:00",
+          "percent": 62
+        },
+        {
+          "hour": "16:00",
+          "percent": 75
+        },
+        {
+          "hour": "17:00",
+          "percent": 90
+        },
+        {
+          "hour": "18:00",
+          "percent": 99
+        },
+        {
+          "hour": "19:00",
+          "percent": 100
+        },
+        {
+          "hour": "20:00",
+          "percent": 90
+        },
+        {
+          "hour": "21:00",
+          "percent": 72
+        },
+        {
+          "hour": "22:00",
+          "percent": 52
+        },
+        {
+          "hour": "23:00",
+          "percent": 36
+        },
+        {
+          "hour": "00:00",
+          "percent": 30
+        },
+        {
+          "hour": "01:00",
+          "percent": 29
+        },
+        {
+          "hour": "02:00",
+          "percent": 22
+        },
+        {
+          "hour": "03:00",
+          "percent": 9
+        }
+      ]
+    }
+  ],
+  "relatedSearches": [
+    "ciudad reptilia melgar costo",
+    "ciudad reptilia melgar precio",
+    "parque ecológico ciudad reptilia fotos",
+    "kualamelgar",
+    "parque de cocodrilos en melgar",
+    "ciudad reptilia melgar costo",
+    "ciudad reptilia melgar precio",
+    "parque ecológico ciudad reptilia fotos",
+    "kualamelgar",
+    "parque de cocodrilos en melgar"
+  ],
+  "relateds": []
+}

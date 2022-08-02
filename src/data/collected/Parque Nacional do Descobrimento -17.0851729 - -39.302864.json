@@ -1,0 +1,711 @@
+{
+  "mainName": "Parque Nacional do Descobrimento",
+  "slug": "parque-nacional-do-descobrimento",
+  "category": "Parque nacional",
+  "locationInformation": {
+    "latitude": "-17.0851729",
+    "longitude": "-39.302864"
+  },
+  "basicInformation": [
+    {
+      "label": "endereço",
+      "tooltip": "Copiar endereço",
+      "text": "Rua 04 31 Novo, Prado - BA",
+      "icon": "https://www.gstatic.com/images/icons/material/system_gm/1x/place_gm_blue_24dp.png"
+    },
+    {
+      "label": "telefone",
+      "tooltip": "Copiar número de telefone",
+      "text": "(73) 3298-2233",
+      "icon": "https://www.gstatic.com/images/icons/material/system_gm/1x/phone_gm_blue_24dp.png"
+    },
+    {
+      "label": "Code",
+      "tooltip": "Copiar Plus Code",
+      "text": "WM7W+WV Prado, Bahia",
+      "icon": "https://maps.gstatic.com/mapfiles/maps_lite/images/2x/ic_plus_code.png"
+    },
+    {
+      "label": "merchant",
+      "text": "Reivindicar esta empresa",
+      "icon": "https://www.gstatic.com/images/icons/material/system_gm/1x/verified_user_gm_blue_24dp.png"
+    }
+  ],
+  "ratingInformation": {
+    "basicRatingInformation": {
+      "averageGrade": 4.6,
+      "totalOfEvaluations": 105
+    },
+    "ratingsByGrade": [
+      {
+        "grade": 5,
+        "totalRatings": 80
+      },
+      {
+        "grade": 4,
+        "totalRatings": 15
+      },
+      {
+        "grade": 3,
+        "totalRatings": 5
+      },
+      {
+        "grade": 2,
+        "totalRatings": 1
+      },
+      {
+        "grade": 1,
+        "totalRatings": 4
+      }
+    ]
+  },
+  "ratingTags": [
+    {
+      "tag": "natureza",
+      "count": 4,
+      "tooltip": "natureza, mencionado em 4 avaliações"
+    },
+    {
+      "tag": "informações",
+      "count": 3,
+      "tooltip": "informações, mencionado em 3 avaliações"
+    }
+  ],
+  "featuredPhotos": [
+    "https://lh5.googleusercontent.com/p/AF1QipP4toHpu1LCmp_-jaVk2OhaLClVVToIQVozl14A=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPWIJPP7KgMiekw6uRzTfa12U0xmpid1JfYdZHI=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNbnazK3i2ThMj-YwTQ8rfVHdUoljHqkRZb4gqC=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMlO2dhNeTmLbT51YxX4KrEL2isuK9gI1ZhFfTC=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMgx1bTTaxpWptehmRroBKX3BMWt_E2sFTrGz8i=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOL37VMLQjUOoaopJ1HW_QggoXS1enNd5dfNVnm=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMyvztOJ_i7T3ZfCLvbxgQsKU1S-stcCziWimVM=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipM72PXXfGG58hQHB5SaZnMM_OojCbF7JY3ePw_I=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNsRxN-P-aPioYHWcGMBKoyJyu2EC6TCTaKj4oC=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMoi0MrO4ZUi7KNbJu_-D51YxQ7n3d8eNh8oSDn=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPcxiKOWPmz7tJWbIiv7KqnwAGEHVG6DdnpNwec=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipP69wq-yQvcnqF1PmaFhxizUue1EGV6GusZMhZH=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPaOmtaQKdndHJRDiJopQXgxKSxSizu9E_bub3H=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPbM8VyCNIj5TUXeGZxusN9rS4AAVdFbHEWS0W4=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMNTRgtZ1XP8nFpz4f_jXS_4MfJlF0ZQ7yP7b-v=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipP5W0i7_Msp5YIktlXNJOPgACizbIVEzBTVappI=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNhEBJKa3Pzs6sbAhYGevofzdijNFrHkHPtvYHA=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOuB3Toco5vTB1kdB3tU9TCn-Jy1-jRk2eMfp8s=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipP5eFBauDVAMhw_Q1x52yNAmPYK7cQaDpGxhMhR=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMAojzLtmWOlGuqPRQyFB6SklTMApdMvmFTRg6r=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNOr0yo8WWYsg5sGU527tFvVGd_q4ItR-mNmTmw=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNmgFvyB6s1voP0gi_sJBUlJQKrlDueRA4LA8-b=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipM096Lf94_ziRYgMovSd8Gwad5OPdRwXoMGnuTn=w1024-h576-k-no"
+  ],
+  "topComments": [
+    {
+      "author": "Giovane Sampaio",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZuco8PjiaV-rtXmahvt91x5JxrAganor0strwQEf4=w36-h36-p-c0x00000000-rp-mo-br100",
+      "comment": "A Terra é um parque de diversões cuja única exigência que nos foi dada é de aproveitá-la de forma consciente para as futuras gerações. Venham desfrutar com sua cnh \"A e B\". A'pés ou de Bicicleta para todas as idades é acessível. Excelente, singular e agradável.",
+      "gradeComment": 4
+    },
+    {
+      "author": "Sheila Brasileiro",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucpbErDcVN4_5L-zR-dpNE8gqi1x8F9HlrMBKT46mg=w36-h36-p-c0x00000000-rp-mo-ba6-br100",
+      "comment": "Não fui visitar o parque, criado em 1999, mas a terra indígena Comexatibá, habitada pelos Pataxó há centenas de anos. O Parque incide sobre uma parte do território indígena.",
+      "gradeComment": 3
+    },
+    {
+      "author": "Leonardo Meirelles",
+      "photoAuthor": "https://lh3.googleusercontent.com/a/AItbvml11pOZx27wpabgCzBvaS9lByWdaR9osd-GSYC6=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "Bonito lugar. Pena que estava chovendo muito quando fui. Prefira conhecer o parque com a presença de um condutor, o qual é melhor procura-lo na própria portaria do parque do que por meio de agência de turismo.",
+      "gradeComment": 4
+    },
+    {
+      "author": "José Luiz Bilchez",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucqObsyQdFK6sOAsh8JUUwz6-2NhNlCrLA9kh5Dwzg=w36-h36-p-c0x00000000-rp-mo-ba3-br100",
+      "comment": "Um lugar maravilhoso para se visitar",
+      "gradeComment": 5
+    },
+    {
+      "author": "Gleisiane Cruz",
+      "photoAuthor": "https://lh3.googleusercontent.com/a/AItbvmmLhp8-TJmKPJz1U0q3-aSkSJAoMF4wSr-rEry9=w36-h36-p-c0x00000000-rp-mo-br100",
+      "comment": "Eu acho incrível ouvir o canto dos pássaros todos os dias aqueles índios q moram la são muito mas q vencedor por q sei q não é fácil  viver  assim mas enfim é incrível",
+      "gradeComment": 5
+    },
+    {
+      "author": "Josyany Soares",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucrqCoihL_6vyueCATdDgTFwMySofUeu70C3D0hFEg=w36-h36-p-c0x00000000-rp-mo-br100",
+      "comment": "Este parque faz parte da minha divisa",
+      "gradeComment": 3
+    },
+    {
+      "author": "Diego Oliveira",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucroryl5q96-4epFZ3rh081zjEgaBXHeVnXvL877hfY=w36-h36-p-c0x00000000-rp-mo-ba2-br100",
+      "comment": "Ótima experiência , com a possibilidade de fazer trilhas dentro da floresta Atlântica",
+      "gradeComment": 5
+    },
+    {
+      "author": "LEITE, Dayse de Souza",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucp-cDREOqyMHUd67VuuTIDva_Uv4-4oekknCa7LlZQ=w36-h36-p-c0x00000000-rp-mo-ba3-br100",
+      "comment": "O Parque não abre regularmente, mas desenvolve projetos e eventos durante o ano, garantindo a visitação das pessoas. Além disso, grupos/famílias interessados em conhecê-lo podem fazer contato com a equipe gestora para receber a autorização de entrada. A equipe está trabalhando para estruturar o Uso Público no Parque e em breve ele estará aberto regulamente para visitação e disponibilizará a relação de condutores cadastrados para os interessados contratarem para acompanhá-los aos atrativos onde a condução é obrigatória.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Andriva Rodrigues",
+      "photoAuthor": "https://lh3.googleusercontent.com/a/AItbvmnk3zYonpR6oeXCBCLsZeypJ0M2_dITJaYjc4cV=w36-h36-p-c0x00000000-rp-mo-br100",
+      "comment": "Experiência fantástica de interação com a natureza, vale a visita.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Withor Souza Santos",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucrgDaDIG4O_r74GpEs3VJyfnwcO3dC0oBPbKpRzaZA=w36-h36-p-c0x00000000-rp-mo-ba5-br100",
+      "comment": "Quando peguei a estrada que entra para este parque não foi de propósito, estava apenas seguindo um caminho para um desvio, pois a ponte principal estava danificada, no início fiquei muito chateado pois achei que estava perdido e com pouco combustível aproveitei para observar a paisagem. Que lugar bonito e com tanta diversidade vegetal, a estrada estava em ótimo estado apesar de ser uma estrada de barro, fiquei muito feliz mesmo tento me desviado do meu caminho 15 quilômetros, só por ter conhecido este lugar bonito que se tivesse seguido meu caminho nunca viria a conhecer, mas graças a Deus cheguei na estrada principal em vim para minha casa com segurança.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Anderson Soares",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucqGPUjREMEhnZGlujcDVb30UEWUtK-EeXah_elYHw=w36-h36-p-c0x00000000-rp-mo-ba2-br100",
+      "comment": "Local de Família...gostei da comunidade",
+      "gradeComment": 5
+    },
+    {
+      "author": "sandra cristina Ventura",
+      "photoAuthor": "https://lh3.googleusercontent.com/a/AItbvmn-eRD-vUl-4G4yRsX1hBRuvU7laDziNNGWxfUI=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "Uma expetiencia fascinante, esse Parque hoje é preservado e muito bem cuidado pelo Instituto Chico Mendes Bio, os amantes da natureza tem que conhecer. O atendimento dado pelos funcionários do Parque é  super humanitário e informativo quanto a preservação, as especies que ali  vivem, e de todo o trabalho feito para preservar esse Parque Maravilhoso !!",
+      "gradeComment": 5
+    },
+    {
+      "author": "Perdido por aí Moto Aventura",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucpD8D4-bmxpdpmjnrfQB2Pb7pd7bB81IwGGquJBIQ=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "Um terreno muito bom para se pilotar mas com trechos bem difíceis na areia saindo de caraíva sentido a BR passando pelas aldeias",
+      "gradeComment": 5
+    },
+    {
+      "author": "Valdir Dutra. De aguiar",
+      "photoAuthor": "https://lh3.googleusercontent.com/a/AItbvmmtuFhKI71sfEq-2xFYKOIpWf91wGNk6x0sE_DL3Q=w36-h36-p-c0x00000000-rp-mo-ba3-br100",
+      "comment": "Foi uma experiência muito boa inesquecível",
+      "gradeComment": 5
+    },
+    {
+      "author": "Admilson Miranda",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucrFaaeTLbYV8EKzVSMRVeLq7PLKJpAUxuIPhni-bg=w36-h36-p-c0x00000000-rp-mo-ba3-br100",
+      "comment": "Lugar muito lindo vale a pena conhecer.",
+      "gradeComment": 5
+    },
+    {
+      "author": "No Pedal",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucqVu4yQp6b4MWYZrLFkTzBxGVO9FCsL2I8PeM8LsQ=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "Area de preservação ambiental e de convivência pássaros, aves e animais da fauna brasileira - rica e diversificada! O Parque abriga índios Pataxós - remanescentes dos primeiros habitantes do Brasil de Pedro Álvares Cabral!",
+      "gradeComment": 4
+    },
+    {
+      "author": "Jacimar Jose",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucoJz4PjgGmDsR43-nkq3YZLVwCet3-eZKcIitbZ=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "visitas só com agendamento, não adianta ir lá sem avisar poi vai perder a viagem, informações insuficientes , funcionarios despreparados , enfim um parque nacional  difícil de fazer visitações , uma pena",
+      "gradeComment": 5
+    },
+    {
+      "author": "Thiago Salvino",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucrznj5KCv71Gmj0-bocrS6UbTDGKW1WvyOCrxTo=w36-h36-p-c0x00000000-rp-mo-ba3-br100",
+      "comment": "Lugar de pessoas boas, Famíliar, bom pra realizar visitas turísticas.",
+      "gradeComment": 3
+    },
+    {
+      "author": "Gisele Grassmann",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucr_gspKVar_hV-jdEPhzBapM4vPneayXqn7im6y=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "Você chega no Parque é descobre que está fechado e abre eventualmente para grupos que agendam. Sem nenhuma informação na cidade de Prado!",
+      "gradeComment": 1
+    },
+    {
+      "author": "Ellen Pimenta",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucoJxFij4PcOVUc_bE9yEpqduvo9_ZCssADZAYm0CLE=w36-h36-p-c0x00000000-rp-mo-br100",
+      "comment": "Um lugar incrível, os guias são ótimos. Lugar que vale a pena conhecer!",
+      "gradeComment": 5
+    }
+  ],
+  "peakHours": [
+    {
+      "Sunday": [
+        {
+          "hour": "04:00",
+          "percent": 12
+        },
+        {
+          "hour": "05:00",
+          "percent": 17
+        },
+        {
+          "hour": "06:00",
+          "percent": 22
+        },
+        {
+          "hour": "07:00",
+          "percent": 25
+        },
+        {
+          "hour": "08:00",
+          "percent": 26
+        },
+        {
+          "hour": "09:00",
+          "percent": 25
+        },
+        {
+          "hour": "10:00",
+          "percent": 23
+        },
+        {
+          "hour": "11:00",
+          "percent": 17
+        },
+        {
+          "hour": "12:00",
+          "percent": 12
+        },
+        {
+          "hour": "13:00",
+          "percent": 6
+        },
+        {
+          "hour": "03:00",
+          "percent": 6
+        }
+      ]
+    },
+    {
+      "Monday": [
+        {
+          "hour": "05:00",
+          "percent": 3
+        },
+        {
+          "hour": "06:00",
+          "percent": 10
+        },
+        {
+          "hour": "07:00",
+          "percent": 17
+        },
+        {
+          "hour": "08:00",
+          "percent": 24
+        },
+        {
+          "hour": "09:00",
+          "percent": 28
+        },
+        {
+          "hour": "10:00",
+          "percent": 31
+        },
+        {
+          "hour": "11:00",
+          "percent": 29
+        },
+        {
+          "hour": "12:00",
+          "percent": 24
+        },
+        {
+          "hour": "13:00",
+          "percent": 15
+        },
+        {
+          "hour": "14:00",
+          "percent": 4
+        }
+      ]
+    },
+    {
+      "Tuesday": [
+        {
+          "hour": "07:00",
+          "percent": 15
+        },
+        {
+          "hour": "08:00",
+          "percent": 32
+        },
+        {
+          "hour": "09:00",
+          "percent": 45
+        },
+        {
+          "hour": "10:00",
+          "percent": 52
+        },
+        {
+          "hour": "11:00",
+          "percent": 54
+        },
+        {
+          "hour": "12:00",
+          "percent": 53
+        },
+        {
+          "hour": "13:00",
+          "percent": 52
+        },
+        {
+          "hour": "14:00",
+          "percent": 50
+        },
+        {
+          "hour": "15:00",
+          "percent": 46
+        },
+        {
+          "hour": "16:00",
+          "percent": 37
+        },
+        {
+          "hour": "17:00",
+          "percent": 25
+        },
+        {
+          "hour": "18:00",
+          "percent": 9
+        },
+        {
+          "hour": "23:00",
+          "percent": 3
+        },
+        {
+          "hour": "00:00",
+          "percent": 9
+        },
+        {
+          "hour": "01:00",
+          "percent": 10
+        },
+        {
+          "hour": "02:00",
+          "percent": 5
+        }
+      ]
+    },
+    {
+      "Wednesday": [
+        {
+          "hour": "04:00",
+          "percent": 4
+        },
+        {
+          "hour": "05:00",
+          "percent": 13
+        },
+        {
+          "hour": "06:00",
+          "percent": 25
+        },
+        {
+          "hour": "07:00",
+          "percent": 41
+        },
+        {
+          "hour": "08:00",
+          "percent": 57
+        },
+        {
+          "hour": "09:00",
+          "percent": 75
+        },
+        {
+          "hour": "10:00",
+          "percent": 91
+        },
+        {
+          "hour": "11:00",
+          "percent": 100
+        },
+        {
+          "hour": "12:00",
+          "percent": 100
+        },
+        {
+          "hour": "13:00",
+          "percent": 90
+        },
+        {
+          "hour": "14:00",
+          "percent": 73
+        },
+        {
+          "hour": "15:00",
+          "percent": 53
+        },
+        {
+          "hour": "16:00",
+          "percent": 33
+        },
+        {
+          "hour": "17:00",
+          "percent": 16
+        },
+        {
+          "hour": "18:00",
+          "percent": 4
+        }
+      ]
+    },
+    {
+      "Thursday": [
+        {
+          "hour": "05:00",
+          "percent": 15
+        },
+        {
+          "hour": "06:00",
+          "percent": 32
+        },
+        {
+          "hour": "07:00",
+          "percent": 48
+        },
+        {
+          "hour": "08:00",
+          "percent": 63
+        },
+        {
+          "hour": "09:00",
+          "percent": 74
+        },
+        {
+          "hour": "10:00",
+          "percent": 82
+        },
+        {
+          "hour": "11:00",
+          "percent": 86
+        },
+        {
+          "hour": "12:00",
+          "percent": 85
+        },
+        {
+          "hour": "13:00",
+          "percent": 78
+        },
+        {
+          "hour": "14:00",
+          "percent": 69
+        },
+        {
+          "hour": "15:00",
+          "percent": 55
+        },
+        {
+          "hour": "16:00",
+          "percent": 41
+        },
+        {
+          "hour": "17:00",
+          "percent": 24
+        },
+        {
+          "hour": "18:00",
+          "percent": 7
+        }
+      ]
+    },
+    {
+      "Friday": [
+        {
+          "hour": "09:00",
+          "percent": 5
+        },
+        {
+          "hour": "10:00",
+          "percent": 10
+        },
+        {
+          "hour": "11:00",
+          "percent": 10
+        },
+        {
+          "hour": "12:00",
+          "percent": 4
+        }
+      ]
+    },
+    {
+      "Saturday": [
+        {
+          "hour": "04:00",
+          "percent": 4
+        },
+        {
+          "hour": "05:00",
+          "percent": 1
+        },
+        {
+          "hour": "12:00",
+          "percent": 2
+        },
+        {
+          "hour": "13:00",
+          "percent": 5
+        },
+        {
+          "hour": "14:00",
+          "percent": 9
+        },
+        {
+          "hour": "15:00",
+          "percent": 13
+        },
+        {
+          "hour": "16:00",
+          "percent": 17
+        },
+        {
+          "hour": "17:00",
+          "percent": 21
+        },
+        {
+          "hour": "18:00",
+          "percent": 23
+        },
+        {
+          "hour": "19:00",
+          "percent": 25
+        },
+        {
+          "hour": "20:00",
+          "percent": 26
+        },
+        {
+          "hour": "21:00",
+          "percent": 26
+        },
+        {
+          "hour": "22:00",
+          "percent": 24
+        },
+        {
+          "hour": "23:00",
+          "percent": 22
+        },
+        {
+          "hour": "00:00",
+          "percent": 18
+        },
+        {
+          "hour": "01:00",
+          "percent": 15
+        },
+        {
+          "hour": "02:00",
+          "percent": 11
+        },
+        {
+          "hour": "03:00",
+          "percent": 8
+        }
+      ]
+    }
+  ],
+  "relatedSearches": [
+    "o que fazer no parque nacional do descobrimento",
+    "parque nacional do monte pascoal",
+    "parque nacional do descobrimento plano de manejo",
+    "icmbio",
+    "morro do descobrimento",
+    "reserva da mata atlântica costa do descobrimento",
+    "parque nacional de boa nova",
+    "parque nacional grande sertão veredas"
+  ],
+  "relateds": [
+    {
+      "mainName": "Parque Nacional do Pau Brasil",
+      "url": null
+    },
+    {
+      "mainName": "Monte Pascoal",
+      "url": null
+    },
+    {
+      "mainName": "Praia da Barra do Cahy",
+      "url": null
+    },
+    {
+      "mainName": "Parque Nacional do Alto Cariri",
+      "url": null
+    },
+    {
+      "mainName": "Parque Nacional das Araucárias",
+      "url": null
+    },
+    {
+      "mainName": "Reserva Extrativista Marinha do Corumbau",
+      "url": null
+    },
+    {
+      "mainName": "Reserva Biológica de Una",
+      "url": null
+    },
+    {
+      "mainName": "Parque Nacional Marinho dos Abrolhos",
+      "url": null
+    },
+    {
+      "mainName": "Ponta do Corumbau",
+      "url": null
+    },
+    {
+      "mainName": "Parque Nacional da Serra das Lontras",
+      "url": null
+    },
+    {
+      "mainName": "Parque Nacional de Boa Nova",
+      "url": null
+    },
+    {
+      "mainName": "Parque Nacional da Serra da Mocidade",
+      "url": null
+    },
+    {
+      "mainName": "Parque Nacional dos Campos Amazônicos",
+      "url": null
+    },
+    {
+      "mainName": "Parque Nacional da Serra do Pardo",
+      "url": null
+    },
+    {
+      "mainName": "Parque Nacional Serra da Cutia",
+      "url": null
+    },
+    {
+      "mainName": "Parque Nacional das Nascentes do Rio Parnaíba",
+      "url": null
+    },
+    {
+      "mainName": "Parque Nacional do Monte Roraima",
+      "url": null
+    },
+    {
+      "mainName": "Parque Nacional da Serra do Itajaí",
+      "url": null
+    },
+    {
+      "mainName": "Parque Nacional do Araguaia",
+      "url": null
+    },
+    {
+      "mainName": "Parque Nacional Marinho das Ilhas dos Currais",
+      "url": null
+    },
+    {
+      "mainName": "Parque Nacional Mapinguari",
+      "url": null
+    },
+    {
+      "mainName": "Sede administrativa do Parque Nacional das Sempre-Vivas",
+      "url": null
+    },
+    {
+      "mainName": "Parque Nacional do Cabo Orange",
+      "url": null
+    },
+    {
+      "mainName": "Parque Nacional do Viruá",
+      "url": null
+    }
+  ]
+}

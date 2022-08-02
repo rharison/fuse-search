@@ -1,0 +1,699 @@
+{
+  "mainName": "Praia da Corvina",
+  "slug": "praia-da-corvina",
+  "category": "Praia",
+  "locationInformation": {
+    "latitude": "-0.6039878",
+    "longitude": "-47.3736681"
+  },
+  "basicInformation": [
+    {
+      "label": "endereço",
+      "tooltip": "Copiar endereço",
+      "text": "Salinópolis - PA",
+      "icon": "https://www.gstatic.com/images/icons/material/system_gm/1x/place_gm_blue_24dp.png"
+    },
+    {
+      "label": "send-to-device",
+      "text": "Enviar para smartphone",
+      "icon": "https://maps.gstatic.com/consumer/images/icons/1x/send_to_mobile_alt_gm_blue_24dp.png"
+    }
+  ],
+  "ratingInformation": {
+    "basicRatingInformation": {
+      "averageGrade": 4.5,
+      "totalOfEvaluations": 829
+    },
+    "ratingsByGrade": [
+      {
+        "grade": 5,
+        "totalRatings": 564
+      },
+      {
+        "grade": 4,
+        "totalRatings": 163
+      },
+      {
+        "grade": 3,
+        "totalRatings": 76
+      },
+      {
+        "grade": 2,
+        "totalRatings": 14
+      },
+      {
+        "grade": 1,
+        "totalRatings": 12
+      }
+    ]
+  },
+  "ratingTags": [
+    {
+      "tag": "carros",
+      "count": 32,
+      "tooltip": "carros, mencionado em 32 avaliações"
+    },
+    {
+      "tag": "barracas",
+      "count": 21,
+      "tooltip": "barracas, mencionado em 21 avaliações"
+    },
+    {
+      "tag": "estrutura",
+      "count": 20,
+      "tooltip": "estrutura, mencionado em 20 avaliações"
+    },
+    {
+      "tag": "natureza",
+      "count": 19,
+      "tooltip": "natureza, mencionado em 19 avaliações"
+    },
+    {
+      "tag": "mangue",
+      "count": 13,
+      "tooltip": "mangue, mencionado em 13 avaliações"
+    },
+    {
+      "tag": "por do sol",
+      "count": 12,
+      "tooltip": "por do sol, mencionado em 12 avaliações"
+    },
+    {
+      "tag": "maré",
+      "count": 8,
+      "tooltip": "maré, mencionado em 8 avaliações"
+    },
+    {
+      "tag": "calmo",
+      "count": 7,
+      "tooltip": "calmo, mencionado em 7 avaliações"
+    },
+    {
+      "tag": "ponte",
+      "count": 5,
+      "tooltip": "ponte, mencionado em 5 avaliações"
+    },
+    {
+      "tag": "som",
+      "count": 5,
+      "tooltip": "som, mencionado em 5 avaliações"
+    }
+  ],
+  "featuredPhotos": [
+    "https://lh5.googleusercontent.com/p/AF1QipNkVqEHj66DY5Qo3bH9G9Q7AuE06weu5Qyb3vG-=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipO_8FdrD6XcKa3Mzgi7GfMrJq_vqNgCWGriGBra=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipM137KXn_tkp3HqmnIXM-BDGTdMmxyEqW4QKUeT=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipM8cJPwII-Lhae6IiCkuEvZM1dc2ia-jjp5mCEe=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNEU2u_0dVqp0n_dh22Lyqf1Z1OGMTjGMb9moP2=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPzmeCcABQyov9kHwtTpxwZpoFpDt7nY_1r9dTF=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNiAJuAIufFxERb_KkO8vcAxdNYKj2SGYwe72vR=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNrMfQ7puKgP-anyi6J7a7jfzQ0g24EsAHQlI47=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPyQbEku7C9wxwKmThtXN3AfzqNNSn1xdoqYvl6=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMDxbF7ozGzkdq_2FHDLRDtIjy2lrr3hxrkrbZl=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOMqE5nMAYOKU0sAaGOXsoinQdD4C1E-Z0zC-O-=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOT-N4dCe_DMMEFK6Xlw1nzIp0GLoQ5quVodrE=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMEjqUfQrkz2VqUa2-L0wYcpqjr4Lehd1N7jPS1=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOBpfgn4lHdXSMHnfUzlm-TZKFSNmHzT9WITxEG=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNjeGhAkbqPa9tYK7nsO9U0OauoOdq2FOQJLOCn=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNzxMdA2HdAF3XfifSto99z19fR_AiVsXh3fxo8=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipN1HpDUqRPhBuegPsXBocekPwkxKkDc0a0SuEsz=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMevxeknnpJKvhb4npz0gSGZhbfU6BnOc6fhff0=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNFB8WODzesgL0pX9OI0B-nMJJvqTNbSo3FNabq=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipM52z6XbkbJ-DSTqdrInUSU43Fn0l5D-i80zL5d=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOfs05v0yLMbUNeBn0jKPdORNsMQCU9ymvv34vD=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMJha5zmF8442GDZLwLWvw02E3RwpmK4Wvbucnu=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPPuaXiIMlR7UlLn0nHsQEQ2Wke4ABkKU0qwt7D=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPVpN83SnoEYqpDYMaUxfQXzVm1_nKABiYwKjC_=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMN-d34oRknbxR-npI36sPLeEId0yqv3ksQOgTc=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOSsQ2ePSulrpVDhmfvR4Ex_--EeRKC0wChL_Qj=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOPYRaGDT5Nv4qd0PBEjpKuqPVTNxc8mkbS2XqI=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOYSk39n_ZNMZPPW8mDDyjQZErI36Wx2EjmnQVP=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNLr1txxbm25jH6Bn6lZ2Xy5s-x4QP13ZZ7Tqd2=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMJiZh-JNP7dWgi1Xk_-tId6QoObM2hQlL_NJJk=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipP0vmVMl90OOx890aF2dsq6dw7ojP3lLRy_wIg=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOKF2I1ppFIPKVtWre_E3ECr7onDGJa0t4JS0px=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMYfDp9gd8LJbt0Xdmqcz1e5xawkTEU-_VKQdGx=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNtX_Gjsja9uglexPtG8ONeerI7xuMIEIFxkrLs=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOf_4FucgfmF6synit6mOfBRWcJ0hrTRuenvSph=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMt8NAHCb4S1How0SInx06bF-nRw7FOxVnU4l2n=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPw60amt8Zmj01IyC71hUv06Hb1EeeE8XCwTI3H=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOLD6tShiIlRHlMlgSGGUyclvLDEqi5WIhVGqpA=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipO_-NaeTcG_iGgka4kb646Fpvs1hu2GxXUBGpW9=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOncw8phhPgzbzpWGXeppA_IkUHEsSUUR8n_d9D=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNn3C4SwiYkttNC0nOz0iFHpDys3CKLTF38ccm5=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOWI5dm7MUT_GelTg2P6BTpQvNf30hx7zJp-P0D=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNiwfMsoi7Y_33JbX1ppfyRuulpaMrjOw6aFXr9=w1024-h576-k-no"
+  ],
+  "topComments": [
+    {
+      "author": "Wilson Dirceu Minikowski",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucrICHX7oX5mSw5ZdKHxKO_50oCZ0NTZIYCnWonnZM8=w36-h36-p-c0x00000000-rp-mo-ba5-br100",
+      "comment": "Nossa, fiquei surpreso com a beleza natural do local, quando fui com minha família estava praticamente deserta, o que era de se esperar pela falta de estrutura do local mas a natureza esta intacta e enche os nossos olhos, pena que aqueles que ali frequentam deixam um rastro de degradação ambiental com a costumeira falta de educação deixando lixo na praia.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Lidiane Sousa Lima",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucqjqLYX39jSzL_f1xlTCpyUO3eAfbKcrZ3-peLWsA=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "Achei linda, a praia e às dunas. O preço das comidas são caros como em todas. Mais ou menos R$80 por 2 pessoas. Não provei, mas verifiquei os preços. Cerveja R$12, batata frita R$22 a porção.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Carlos Takeno",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucoEQEwdvDa8xXvftWVEejAtc0fPzCvJGhirjB-E2w=w36-h36-p-c0x00000000-rp-mo-ba5-br100",
+      "comment": "Praia da corvina , para você chegar na praia você passa por um mangui onde com maré baixa você consegui avistar caranguejo e a praia bem tranquila muito e na entra para mangui você pode tirar fotos que é o símbolo da prais que é  a corvina!",
+      "gradeComment": 5
+    },
+    {
+      "author": "Josi Vital",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucpJYbgR4NyEyoPYdMsCTaxpFWVmvDYoT4dNfwaIBd4=w36-h36-p-c0x00000000-rp-mo-ba2-br100",
+      "comment": "Sem dúvida uma das melhores praias de Salinopolis, tranquila, bem família. O visual é muito bonito tmb. Porém só tem um restaurante disponível e a comida não é boa.",
+      "gradeComment": 4
+    },
+    {
+      "author": "JuniorLeite72",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucqyzfboms7ECUc0nU1thBhLbXbwGgNhX12SYjnD5mw=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "A praia estava bastante suja. Muitas garrafas de vidro e plástico espalhados pela praia.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Pantera",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucpR8IoH8xvrvoxcJxMWGZsArcq1fzJLcRmPDMvbsA=w36-h36-p-c0x00000000-rp-mo-br100",
+      "comment": "Lugar lindo...mas deveria ter opção de restaurante pra refeição na praia.",
+      "gradeComment": 3
+    },
+    {
+      "author": "Douglas Charles Cunha",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucqPO3Z9tzCeAsK8tzW2WNxEGXeofaWuxjo9Tu9jAho=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "Excelente praia. É tranquila, não tem muita gente, carros não entram (o acesso é por uma ponte de pedestres). Achei a melhor da região.",
+      "gradeComment": 5
+    },
+    {
+      "author": "José Francisco Pereira da Silva de Pádua",
+      "photoAuthor": "https://lh3.googleusercontent.com/a/AItbvmkGzQoak3Q1QbmF8hrdbJl2UsxQJo_qAO6BbKre=w36-h36-p-c0x00000000-rp-mo-ba6-br100",
+      "comment": "Otima Ao contrário da praia Atalia não tem carros estacionados na faixa de areia com som ligado em alto voleme-demostracao de falta de educação da elite paraense e qualquer noção de respeito ao meio ambiente Praia não é pista nem estacionamento de carros a maioria de camionete de luxo",
+      "gradeComment": 5
+    },
+    {
+      "author": "Antonio Nonato",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucpNHX2TIDQGH3Vqs8r6IgJdfvw2oVsHg-X3S_3_50g=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "Ótimo local paisagem sem igual para banho relaxar bem calmo sem a agitação, pena que a estrutura deixa a desejar sem barracas, a natureza fala por si só.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Sidney Castro",
+      "photoAuthor": "https://lh3.googleusercontent.com/a/AItbvmlK6hNYVifbehBr9lKe2-YxmC9v7ET65jsmxWb6SsU=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "Na minha opinião a melhor praia de Salinópolis, isso para que gosta de mais contato com a natureza e de tranquilidade. Não é muito movimentada e a água e a areia são menos poluídas. Sugestão: Leve seu próprio alimento e bastante água, pois não há pontos de venda próximo, leve ainda bastante disposição para caminhar.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Marcel Peloso",
+      "photoAuthor": "https://lh3.googleusercontent.com/a/AItbvmkrcaU9i5Qk5c1JL-MS760FUdXPs09ojHcBWq7O=w36-h36-p-c0x00000000-rp-mo-ba5-br100",
+      "comment": "Linda praia em Salinópolis-pa, localizada no final da orla da cidade, fácil acesso, os carros não podem entrar na praia, mas na orla é muito fácil estacionar, tem bastante vagas durante o dia, a noite a praia não é frequentada.  Há somente uma opção de barraca de venda de comida na praia, o que não chega a ser um problema, pois ir almoçar nesta praia não é um programa comum",
+      "gradeComment": 5
+    },
+    {
+      "author": "Edna Brito",
+      "photoAuthor": "https://lh3.googleusercontent.com/a/AItbvmmhpfZefT86TRJMMTywz_nfUtaAxSCnb8K1wt_k=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "Lugar onde os visitantes vão sentir a tranquilidade da natureza ..bom para passeios com as crianças e idosos ....muito mangue ao adentrar a praia e muitos caranguejos..bom para fotos...",
+      "gradeComment": 5
+    },
+    {
+      "author": "Projeto Metanóia e Mudança",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucrq8qUEuaKKRPopWz1Qy30A7eE-OuCDui71xhiaZQ=w36-h36-p-c0x00000000-rp-mo-br100",
+      "comment": "1000 vezes melhor do que a praia de Atalaia. Sem carros transitando em alta velocidade no meio dos banhistas, sem ambulantes chatos (com todo respeito a eles, mas alguns faltam te bater no turista pra comprar algo lá em Atalaia), calmo... tudo de bom.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Edilma Celia",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucpCtf066faf0rt0vWCOXoWcHo4bftOfRs4o1J7TSA=w36-h36-p-c0x00000000-rp-mo-br100",
+      "comment": "Banho de mar maravilhoso...energia renovada..",
+      "gradeComment": 5
+    },
+    {
+      "author": "Elisvania Brito",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucoAbPvZdL0EjiPseC-uWdevRflbc7LPnQwVxgy6NiA=w36-h36-p-c0x00000000-rp-mo-ba5-br100",
+      "comment": "Linda praia!! No entanto  tem seus encantos  uma areia fina e branca. Ótima  para crianças  brincarem  pois afinal  de contas  é  ferias 🌞🌞",
+      "gradeComment": 5
+    },
+    {
+      "author": "Maria do Carmo Melo",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucoVGLMtf9r1A1zerxsoZ4W8PEYexBwNjKmaIIeO4A=w36-h36-p-c0x00000000-rp-mo-ba5-br100",
+      "comment": "A praia da Corvina, no município de Salinópolis no estado do Pará é uma praia que aí da mantém as belezas naturais. Não tem barracas e nem acesso de carros em toda a sua extensão. É uma praia com grande faixa de areia quando a maré está seca e tem uma enorme extensão, muito linda para quem gosta de beleza nativa. Não deixe de visitá-la .",
+      "gradeComment": 5
+    },
+    {
+      "author": "ABastos_racing",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucplCXCPZookRQODdm4QhGX1J5G4N4xsn7kASGeX1u0=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "Praia tranquila pra família. Não tem estrutura de barracas para alimentação.",
+      "gradeComment": 4
+    },
+    {
+      "author": "O Internauta do Amor",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucop4rvesa-fhyLvH24MWdBepxx_Hs_CmMrh0W6t9Q=w36-h36-p-c0x00000000-rp-mo-br100",
+      "comment": "Um ambiente tranquilo, sem a chatice e a perturbação da Praia do Atalaia - Praia da Corvina é 10!",
+      "gradeComment": 5
+    },
+    {
+      "author": "Allam Fillipe - Metanoia e Mudança",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucp4zWSyiiYHigzT-DOeNA78pNlnZNSm5_DpBR62Sno=w36-h36-p-c0x00000000-rp-mo-ba3-br100",
+      "comment": "Sem carros transitando em alta velocidade no meio dos banhistas, sem ambulantes chatos (com todo respeito a eles, mas alguns faltam te bater no turista pra comprar algo lá em Atalaia), calmo... tudo de bom.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Carlos Souza",
+      "photoAuthor": "https://lh3.googleusercontent.com/a/AItbvmnvIMbIPEd-sc-PiPjAwYhv4dW4Lky7R_Kf86_t=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "É um excelente lugar para ficar com a família, muito mais tranquila que a praia do atalaia. O único problema é o cheiro na ponte que precisamos atravessar para chegar à praia.",
+      "gradeComment": 4
+    }
+  ],
+  "peakHours": [
+    {
+      "Sunday": [
+        {
+          "hour": "04:00",
+          "percent": 6
+        },
+        {
+          "hour": "05:00",
+          "percent": 18
+        },
+        {
+          "hour": "06:00",
+          "percent": 36
+        },
+        {
+          "hour": "07:00",
+          "percent": 57
+        },
+        {
+          "hour": "08:00",
+          "percent": 77
+        },
+        {
+          "hour": "09:00",
+          "percent": 90
+        },
+        {
+          "hour": "10:00",
+          "percent": 92
+        },
+        {
+          "hour": "11:00",
+          "percent": 83
+        },
+        {
+          "hour": "12:00",
+          "percent": 66
+        },
+        {
+          "hour": "13:00",
+          "percent": 49
+        },
+        {
+          "hour": "14:00",
+          "percent": 44
+        },
+        {
+          "hour": "15:00",
+          "percent": 57
+        },
+        {
+          "hour": "16:00",
+          "percent": 75
+        },
+        {
+          "hour": "17:00",
+          "percent": 78
+        },
+        {
+          "hour": "18:00",
+          "percent": 61
+        },
+        {
+          "hour": "19:00",
+          "percent": 43
+        },
+        {
+          "hour": "20:00",
+          "percent": 37
+        },
+        {
+          "hour": "21:00",
+          "percent": 35
+        },
+        {
+          "hour": "22:00",
+          "percent": 32
+        },
+        {
+          "hour": "23:00",
+          "percent": 25
+        },
+        {
+          "hour": "00:00",
+          "percent": 15
+        },
+        {
+          "hour": "01:00",
+          "percent": 7
+        },
+        {
+          "hour": "02:00",
+          "percent": 1
+        }
+      ]
+    },
+    {
+      "Monday": [
+        {
+          "hour": "06:00",
+          "percent": 1
+        },
+        {
+          "hour": "07:00",
+          "percent": 10
+        },
+        {
+          "hour": "08:00",
+          "percent": 22
+        },
+        {
+          "hour": "09:00",
+          "percent": 30
+        },
+        {
+          "hour": "10:00",
+          "percent": 27
+        },
+        {
+          "hour": "11:00",
+          "percent": 17
+        },
+        {
+          "hour": "12:00",
+          "percent": 6
+        },
+        {
+          "hour": "15:00",
+          "percent": 1
+        },
+        {
+          "hour": "16:00",
+          "percent": 7
+        },
+        {
+          "hour": "17:00",
+          "percent": 13
+        },
+        {
+          "hour": "18:00",
+          "percent": 17
+        },
+        {
+          "hour": "19:00",
+          "percent": 16
+        },
+        {
+          "hour": "20:00",
+          "percent": 11
+        },
+        {
+          "hour": "21:00",
+          "percent": 5
+        }
+      ]
+    },
+    {
+      "Tuesday": [
+        {
+          "hour": "17:00",
+          "percent": 27
+        },
+        {
+          "hour": "18:00",
+          "percent": 6
+        }
+      ]
+    },
+    {
+      "Wednesday": [
+        {
+          "hour": "10:00",
+          "percent": 3
+        },
+        {
+          "hour": "11:00",
+          "percent": 1
+        },
+        {
+          "hour": "17:00",
+          "percent": 2
+        },
+        {
+          "hour": "18:00",
+          "percent": 5
+        },
+        {
+          "hour": "19:00",
+          "percent": 5
+        },
+        {
+          "hour": "20:00",
+          "percent": 1
+        }
+      ]
+    },
+    {
+      "Thursday": [
+        {
+          "hour": "17:00",
+          "percent": 10
+        },
+        {
+          "hour": "18:00",
+          "percent": 22
+        }
+      ]
+    },
+    {
+      "Friday": [
+        {
+          "hour": "08:00",
+          "percent": 7
+        },
+        {
+          "hour": "09:00",
+          "percent": 14
+        },
+        {
+          "hour": "10:00",
+          "percent": 14
+        },
+        {
+          "hour": "11:00",
+          "percent": 7
+        },
+        {
+          "hour": "15:00",
+          "percent": 8
+        },
+        {
+          "hour": "16:00",
+          "percent": 20
+        },
+        {
+          "hour": "17:00",
+          "percent": 27
+        },
+        {
+          "hour": "18:00",
+          "percent": 26
+        },
+        {
+          "hour": "19:00",
+          "percent": 19
+        },
+        {
+          "hour": "20:00",
+          "percent": 11
+        },
+        {
+          "hour": "21:00",
+          "percent": 6
+        },
+        {
+          "hour": "22:00",
+          "percent": 5
+        },
+        {
+          "hour": "23:00",
+          "percent": 5
+        },
+        {
+          "hour": "00:00",
+          "percent": 4
+        },
+        {
+          "hour": "01:00",
+          "percent": 2
+        }
+      ]
+    },
+    {
+      "Saturday": [
+        {
+          "hour": "04:00",
+          "percent": 7
+        },
+        {
+          "hour": "06:00",
+          "percent": 1
+        },
+        {
+          "hour": "07:00",
+          "percent": 13
+        },
+        {
+          "hour": "08:00",
+          "percent": 38
+        },
+        {
+          "hour": "09:00",
+          "percent": 65
+        },
+        {
+          "hour": "10:00",
+          "percent": 75
+        },
+        {
+          "hour": "11:00",
+          "percent": 62
+        },
+        {
+          "hour": "12:00",
+          "percent": 38
+        },
+        {
+          "hour": "13:00",
+          "percent": 23
+        },
+        {
+          "hour": "14:00",
+          "percent": 26
+        },
+        {
+          "hour": "15:00",
+          "percent": 46
+        },
+        {
+          "hour": "16:00",
+          "percent": 72
+        },
+        {
+          "hour": "17:00",
+          "percent": 93
+        },
+        {
+          "hour": "18:00",
+          "percent": 100
+        },
+        {
+          "hour": "19:00",
+          "percent": 92
+        },
+        {
+          "hour": "20:00",
+          "percent": 78
+        },
+        {
+          "hour": "21:00",
+          "percent": 63
+        },
+        {
+          "hour": "22:00",
+          "percent": 53
+        },
+        {
+          "hour": "23:00",
+          "percent": 47
+        },
+        {
+          "hour": "00:00",
+          "percent": 42
+        },
+        {
+          "hour": "01:00",
+          "percent": 36
+        },
+        {
+          "hour": "02:00",
+          "percent": 27
+        },
+        {
+          "hour": "03:00",
+          "percent": 16
+        }
+      ]
+    }
+  ],
+  "relatedSearches": [
+    "praia de atalaia",
+    "praia da marieta",
+    "qual a melhor praia de salinas",
+    "praia de salinópolis pará",
+    "praia fortaleza salinópolis",
+    "praias liberadas no para",
+    "festas em salinópolis",
+    "turismo em salinópolis"
+  ],
+  "relateds": [
+    {
+      "mainName": "Praia do Farol Velho",
+      "url": null
+    },
+    {
+      "mainName": "Praia do Macarico",
+      "url": null
+    },
+    {
+      "mainName": "Lago da Coca Cola",
+      "url": null
+    },
+    {
+      "mainName": "Praia do Atalaia",
+      "url": null
+    },
+    {
+      "mainName": "Salinas - Pará",
+      "url": null
+    },
+    {
+      "mainName": "Praia da Marieta",
+      "url": null
+    },
+    {
+      "mainName": "Praia da Atalaia",
+      "url": null
+    },
+    {
+      "mainName": "Praia do Marahu",
+      "url": null
+    },
+    {
+      "mainName": "Farol de Salinópolis",
+      "url": null
+    },
+    {
+      "mainName": "Praia do Farol",
+      "url": null
+    },
+    {
+      "mainName": "Aqualand Park",
+      "url": null
+    },
+    {
+      "mainName": "Praia De Marudá",
+      "url": null
+    }
+  ]
+}

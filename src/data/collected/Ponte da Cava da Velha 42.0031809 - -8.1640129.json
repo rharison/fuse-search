@@ -1,0 +1,820 @@
+{
+  "mainName": "Ponte da Cava da Velha",
+  "slug": "ponte-da-cava-da-velha",
+  "category": "Ponte",
+  "locationInformation": {
+    "latitude": "42.0031809",
+    "longitude": "-8.1640129"
+  },
+  "basicInformation": [
+    {
+      "label": "endereço",
+      "tooltip": "Copiar endereço",
+      "text": "Castro Laboreiro, Portugal",
+      "icon": "https://www.gstatic.com/images/icons/material/system_gm/1x/place_gm_blue_24dp.png"
+    },
+    {
+      "label": "website",
+      "tooltip": "Abrir website",
+      "text": "cm-melgaco.pt",
+      "icon": "https://www.gstatic.com/images/icons/material/system_gm/1x/public_gm_blue_24dp.png"
+    },
+    {
+      "label": "Code",
+      "tooltip": "Copiar Plus Code",
+      "text": "2R3P+79 Castro Laboreiro, Portugal",
+      "icon": "https://maps.gstatic.com/mapfiles/maps_lite/images/2x/ic_plus_code.png"
+    },
+    {
+      "label": "merchant",
+      "text": "Reivindicar esta empresa",
+      "icon": "https://www.gstatic.com/images/icons/material/system_gm/1x/verified_user_gm_blue_24dp.png"
+    }
+  ],
+  "ratingInformation": {
+    "basicRatingInformation": {
+      "averageGrade": 4.7,
+      "totalOfEvaluations": 289
+    },
+    "ratingsByGrade": [
+      {
+        "grade": 5,
+        "totalRatings": 215
+      },
+      {
+        "grade": 4,
+        "totalRatings": 68
+      },
+      {
+        "grade": 3,
+        "totalRatings": 5
+      },
+      {
+        "grade": 2,
+        "totalRatings": 1
+      },
+      {
+        "grade": 1,
+        "totalRatings": 0
+      }
+    ]
+  },
+  "ratingTags": [
+    {
+      "tag": "natureza",
+      "count": 15,
+      "tooltip": "natureza, mencionado em 15 avaliações"
+    },
+    {
+      "tag": "banho",
+      "count": 10,
+      "tooltip": "banho, mencionado em 10 avaliações"
+    },
+    {
+      "tag": "paisagem",
+      "count": 6,
+      "tooltip": "paisagem, mencionado em 6 avaliações"
+    },
+    {
+      "tag": "caminhada",
+      "count": 6,
+      "tooltip": "caminhada, mencionado em 6 avaliações"
+    },
+    {
+      "tag": "trilho",
+      "count": 4,
+      "tooltip": "trilho, mencionado em 4 avaliações"
+    },
+    {
+      "tag": "monumento",
+      "count": 3,
+      "tooltip": "monumento, mencionado em 3 avaliações"
+    },
+    {
+      "tag": "arco",
+      "count": 3,
+      "tooltip": "arco, mencionado em 3 avaliações"
+    },
+    {
+      "tag": "história",
+      "count": 3,
+      "tooltip": "história, mencionado em 3 avaliações"
+    },
+    {
+      "tag": "rio",
+      "count": 3,
+      "tooltip": "rio, mencionado em 3 avaliações"
+    }
+  ],
+  "featuredPhotos": [
+    "https://lh5.googleusercontent.com/p/AF1QipMwDXJrNE3iy_a85itIS2OBzhdyxu9kidQ9_iDi=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOWu3RqThHIvahIwBPT3YJG56I9kWRueUM3mzVu=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMbAfWcf5EtHVNkEaYhPMI9bHkZCKhj4q6Mmp4X=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPJ1PXKSf_qIoCjiUKa3X64VmRyAOwoEJTG54M6=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOfDEkAzrUDeQb8M1lth60Z3srkF1UJgCd0ffos=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNFML4KaJQTsuwkMxvuG5gjuD6FJ0yv_SEqIzOW=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOHxiHMk-fWrW7crCR0ZK3kGahw-jAdVocCRbRH=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipODNhDlQW-a8EuZ_VTxmzg5G6TO30lxW9Rr-Bc=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOWb5BeH-D8SuSxePwUoV0_A5474IbmH2bAhVjq=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNIbeMNXwRlvhrp2bRJJlGwWL3ZlBqitzQ4GtFN=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOcbYsSKdufAycrvs2QWEYegrdkVDNZRtg9LPLF=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOMEH6UMx2lG1iyzXJQybVsZ933XiN_eJraKEyJ=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPdYHq7kOIEPncSL10AjF-0cfEt3YGhos0P9Hlk=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPYyK5DQmJ2-9X8d3i3SVisH9vTvnVZidm92x9c=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipON2uEPsznVZBPpLGbGecPFkxx7shNbhlP6_viX=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMTdWF8LzuSASmq0Sq-x0THKetH-HP_2sBcYPdQ=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNdJkU6zauDErp2wFUPaXaLNDnrbuRRFTQfgeYS=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipN-DmIdD1Dms7MMVI-TOnmj_W9HRg78VvLeyX60=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPcfcfYnCbgqhXGVS-FulCgYDZUiEPtwnhlwJnG=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPSYpMrNSpFJjs4DiFsSNNUeCu5dt-xdxKi6SlU=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPuMg-0RgYjbb3a-j7pNyd32Zh1C6HB5yKuAkC2=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipO3E4Pd7MaOdj78ZEBkPlP3iKRzUGR2h5d8pTXR=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNevw0cw9MaHiM6xfe2NxHQ6fwgEx3oATg-goj3=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNyR1Wv8RBVUrCVQoZj5BP7jEvKLsHOlibCMFrG=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMQjAmX5nitY0uIAhbUNgNl-UhwHYnp33CTMuBH=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPDem6ZqRZQS-wJZUnwxwA0YoDdOUxM_ihOkys4=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNLURYcpWuaXRuV1P5QjGq_v0c77OfbChycDCxX=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMan_jgrrHN0CB7htUJoQBUdn9drnW3Ww0oZR0Z=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPxqSIabDxuCk7KyNbjlYTDO8viPaKMe4CWPTVe=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNTQVZOzP6kWqlgunDP9twD7xFJOHz3lifLd1Fa=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMby_M-bU_c8-FuahtBzfU8JB4KJWTDjsWHBhb-=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipP6seWqtDKTaEBZwVEwtY1foyI3OYM_h1S4hKuh=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMSgBvXGvuBauJGjbAcbvYe0pXoW1PKvn5RvWdo=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNkSXnw-OgXjWtQX2ovugpsi0AqSdX6AJsANnHD=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOLHFNR4xl1wnMdS9QKAqFKot8nOUXzrip5d0iq=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOGVm9X-u4WkXMuzIEKWsAJCEHsWrc2wV466SH9=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOKWkgC5LF2jA6gobHSZjBGNmQYSku0jlyAOVC0=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNRfHHN8m9grOz88vZmXKVAxGbXWUtwib7qTS8M=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPsYauJj8ZTu1p3Lr1jGIDIdB2Jsbf8q61hO61Y=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMk3ph4bthg8nrHNcexMzXLzMxTjChOwyzUkDFB=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPuYe7gb9qZPzgaNrakz42pFOBiuOPgruFRWBpw=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNOIhpDJmSzw6ifaPS_Ko7JXfAkbED4DInzRctN=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPv0tH9M83v6AY8MbiLd_bTt69ZPO0CSsF_OZkD=w1024-h576-k-no"
+  ],
+  "topComments": [
+    {
+      "author": "Milene Branco",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucqi0h8imaDPlShUGBR_eqOcTT5EVTomt439Kh3NXQ=w36-h36-p-c0x00000000-rp-mo-ba3-br100",
+      "comment": "Local muito bonito, onde é possível descer até à zona de água ou seguir pelo trilho que por lá passa.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Manuel Filipe Atilano",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucquZjaoiR-mRpLXQcQy2g8NUu5EpA-ZTAUJPEgCOw=w36-h36-p-c0x00000000-rp-mo-ba6-br100",
+      "comment": "Ponte da Cava da Velha ou Ponte Nova. Torna-se necessário deixar o carro na estrada e fazer uma pequena caminhada de quase mil metros para ver esta belíssima estrutura, qualificada como monumento nacional. Distingue-se pelas suas características arquitectónicas, com dois arcos de volta perfeita, embora distintos em termos de dimensão. Tabuleiro em cavalete, lajeado e com guardas petreas. Inserida na rede viária minhota-galaica, ligava as aldeias das duas margens do vale do rio Laboreiro. Tem uma pequena área onde se propicia um banho em águas cristalinas.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Ana Patrícia",
+      "photoAuthor": "https://lh3.googleusercontent.com/a/AItbvmmetniQTNei9cVOjpGIXXo8AFIi2oNNJw8NuVuy=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "Uma ponte com história, vistas fantásticas, e um bom lugar para sentar e relaxar com o som da água. Acessível a pé e para todos!",
+      "gradeComment": 5
+    },
+    {
+      "author": "Jorge Casais",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucrYXzmeot2qTi6qhkTyLf6AGH8JGQUZ5O2P3qgd2o8=w36-h36-p-c0x00000000-rp-mo-ba5-br100",
+      "comment": "Brutal. Acesso fácil embora a pé. Mas que spot fantástico. Muito bom mesmo a não perder e que revisitarei proximamente",
+      "gradeComment": 5
+    },
+    {
+      "author": "Eduardo Marques",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucq5InTYRFKbCaQ7Sw45n-YXpOmm8MvzuJnKsmufJZ8=w36-h36-p-c0x00000000-rp-mo-ba7-br100",
+      "comment": "Esta é uma ponte muito bonita. Merece uma visita. Neste local podemos tomar banho.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Inocêncio Costa",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucqL7HXYCfZ6tnE_bjWnNGoZKAiuDjK3-juGoQFHiQ=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "Lugar maravilhoso neste nosso Portugal",
+      "gradeComment": 5
+    },
+    {
+      "author": "Eduardo Correia",
+      "photoAuthor": "https://lh3.googleusercontent.com/a/AItbvmmF73mrl4M70uXkvCFiAICcDYk34fo98LFMJPGA=w36-h36-p-c0x00000000-rp-mo-br100",
+      "comment": "Para que gosta de ver obras antigas e bem preservadas , esta é  uma delas.",
+      "gradeComment": 4
+    },
+    {
+      "author": "XIClub",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucqLIh4yBQR5M--owKOIJz7HUxHLEXtYkn9OQmIv=w36-h36-p-c0x00000000-rp-mo-ba6-br100",
+      "comment": "Um bom Spot para passear, descobrir uma Cash do Geocaching e dar uns bons mergulhos nas águas transparentes e frescas do rio... RECOMENDO ®",
+      "gradeComment": 5
+    },
+    {
+      "author": "Carlos Sequeira",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucreSvtW7F7Ziu3Sxeelg1XOHNerjkh0YKLyBU01H9o=w36-h36-p-c0x00000000-rp-mo-ba3-br100",
+      "comment": "Lindo local para tomar um bom banho em águas límpidas...",
+      "gradeComment": 5
+    },
+    {
+      "author": "Antonio Costa",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucp804ZDhgKc2wq0JjwM0P4rV9_wmsmc8rAbN8IFSg=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "Muito bem conservada e com indicações precisas",
+      "gradeComment": 4
+    },
+    {
+      "author": "Tiago Silva",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucq5B1dFz4odlYrEDZO174Skw4Z_VeMNaWxhucbelQ=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "Local lindíssimo. Calma e tranquilidade são características do local. Adorei.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Célia Resende",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucqLBA9r5h5u5EY95dGU0q-tGlvcPbLRa9d7A8T0qg=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "Para quem gosta de rio, ora aqui está um bom lugar... Apreciem",
+      "gradeComment": 4
+    },
+    {
+      "author": "Sofia Vieira Queirós",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZuco9U4VUecp79QtXA0csB8di0POoVABUfL1jct7aUm4=w36-h36-p-c0x00000000-rp-mo-ba3-br100",
+      "comment": "Muito bonito. Um bom sítio para tirar fotografias.",
+      "gradeComment": 4
+    },
+    {
+      "author": "Fabio Silva",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucoJSgKnkoAYFbgVc8ueNvvy5Wq5JI9EEqQqCmy-5yo=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "Local muito bonito...",
+      "gradeComment": 5
+    },
+    {
+      "author": "Mario Alves",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucp9PRN6DEv7UPn3G0JUBojMqg15VY5K1KSiIi-BqA=w36-h36-p-c0x00000000-rp-mo-ba5-br100",
+      "comment": "Ótimo para nadar no verão , gostamos muito.",
+      "gradeComment": 4
+    },
+    {
+      "author": "Emanuel Fernandes",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucqZJgoEI9RGcI8noZ2jS95bYExDmjmzrkKz4cBpgcA=w36-h36-p-c0x00000000-rp-mo-ba2-br100",
+      "comment": "Bonito local no meio da natureza Oportunidade de experimentar um mergulho nas águas límpidas e geladas",
+      "gradeComment": 4
+    },
+    {
+      "author": "Maria alves",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucrAslx80abmXFm84JVJTGoP_W7KgEVy2mgvjiqG=w36-h36-p-c0x00000000-rp-mo-br100",
+      "comment": "Lindoooo, dá para tomar banho 😁",
+      "gradeComment": 5
+    },
+    {
+      "author": "Francisco Basto",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucq3HkFAV--nXJes6EjLZnVJoRmDhJ2ms6EPzpCmOXk=w36-h36-p-c0x00000000-rp-mo-br100",
+      "comment": "A Ponte Nova, Ponte da Cavada Velha ou como também é referida, Ponte da Cavada é uma Ponte Romana sobre o rio Castro Laboreiro, no perímetro do Parque Nacional da Peneda Gerês, localizada nas proximidades da Inverneira e da Assureira a três quilómetros a Sul de Castro Laboreiro Concelho de Melgaço, Distrito de Viana do Castelo. Ponte em cavalete pronunciado, tabuleiro em de V invertido formando duas rampas inclinadas assentes em dois arcos de volta perfeita em tamanhos muito desiguais, tendo o maior um vão de 10,5 metros de altura e o menor um vão de apenas 1,7 metros e 3,3 metros de altura. Os arcos são formados por aduelas almofadadas e o pavimento é construído por grandes lajes e guardas de cantaria. O tabuleiro tem cerca de 3 metros de Largura, vencendo um vão total superior a 20 metros. Para reforçar os pilares e os proteger da força das águas, este possui contrafortes, talha-mar triangular a montante e talhante retangular a jusante.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Nuno Peixoto",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucrJbhZVKp0xfGxjO1OvxH5S0roRQ5iDE_NqHTMSlJk=w36-h36-p-c0x00000000-rp-mo-ba6-br100",
+      "comment": "Belíssima construção no meio de nenhures.  Com uma arquitetura particular com um arco central e dois laterais completamente diferentes.  Parando o carro na estrada, basta seguir o trilho identificado pela placa na berma, bem visível.  São 5 minutos sem qualquer dificuldade ou desvio.  Se estiver calor, podem os calções e toalha para usar as lagoas a seguir á ponte.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Sérgio Morgado",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucrBQaDYELPrs5ZBXALp6GVw6__e83gdGBrQgack=w36-h36-p-c0x00000000-rp-mo-ba3-br100",
+      "comment": "Natureza e paisagens fantásticas",
+      "gradeComment": 5
+    }
+  ],
+  "peakHours": [
+    {
+      "Sunday": [
+        {
+          "hour": "04:00",
+          "percent": 3
+        },
+        {
+          "hour": "05:00",
+          "percent": 3
+        },
+        {
+          "hour": "06:00",
+          "percent": 3
+        },
+        {
+          "hour": "07:00",
+          "percent": 3
+        },
+        {
+          "hour": "08:00",
+          "percent": 7
+        },
+        {
+          "hour": "09:00",
+          "percent": 11
+        },
+        {
+          "hour": "10:00",
+          "percent": 18
+        },
+        {
+          "hour": "11:00",
+          "percent": 37
+        },
+        {
+          "hour": "12:00",
+          "percent": 48
+        },
+        {
+          "hour": "13:00",
+          "percent": 51
+        },
+        {
+          "hour": "14:00",
+          "percent": 44
+        },
+        {
+          "hour": "15:00",
+          "percent": 29
+        },
+        {
+          "hour": "16:00",
+          "percent": 25
+        },
+        {
+          "hour": "17:00",
+          "percent": 51
+        },
+        {
+          "hour": "18:00",
+          "percent": 48
+        },
+        {
+          "hour": "19:00",
+          "percent": 11
+        },
+        {
+          "hour": "20:00",
+          "percent": 3
+        },
+        {
+          "hour": "01:00",
+          "percent": 3
+        },
+        {
+          "hour": "02:00",
+          "percent": 3
+        },
+        {
+          "hour": "03:00",
+          "percent": 3
+        }
+      ]
+    },
+    {
+      "Monday": [
+        {
+          "hour": "04:00",
+          "percent": 7
+        },
+        {
+          "hour": "05:00",
+          "percent": 7
+        },
+        {
+          "hour": "06:00",
+          "percent": 11
+        },
+        {
+          "hour": "07:00",
+          "percent": 18
+        },
+        {
+          "hour": "08:00",
+          "percent": 22
+        },
+        {
+          "hour": "09:00",
+          "percent": 25
+        },
+        {
+          "hour": "10:00",
+          "percent": 33
+        },
+        {
+          "hour": "11:00",
+          "percent": 37
+        },
+        {
+          "hour": "12:00",
+          "percent": 37
+        },
+        {
+          "hour": "13:00",
+          "percent": 37
+        },
+        {
+          "hour": "14:00",
+          "percent": 37
+        },
+        {
+          "hour": "15:00",
+          "percent": 33
+        },
+        {
+          "hour": "16:00",
+          "percent": 25
+        },
+        {
+          "hour": "17:00",
+          "percent": 22
+        },
+        {
+          "hour": "18:00",
+          "percent": 18
+        },
+        {
+          "hour": "19:00",
+          "percent": 14
+        },
+        {
+          "hour": "20:00",
+          "percent": 11
+        },
+        {
+          "hour": "21:00",
+          "percent": 7
+        },
+        {
+          "hour": "22:00",
+          "percent": 3
+        },
+        {
+          "hour": "23:00",
+          "percent": 3
+        },
+        {
+          "hour": "00:00",
+          "percent": 3
+        },
+        {
+          "hour": "01:00",
+          "percent": 3
+        }
+      ]
+    },
+    {
+      "Tuesday": []
+    },
+    {
+      "Wednesday": [
+        {
+          "hour": "10:00",
+          "percent": 3
+        },
+        {
+          "hour": "11:00",
+          "percent": 11
+        },
+        {
+          "hour": "12:00",
+          "percent": 22
+        },
+        {
+          "hour": "13:00",
+          "percent": 33
+        },
+        {
+          "hour": "14:00",
+          "percent": 33
+        },
+        {
+          "hour": "15:00",
+          "percent": 22
+        },
+        {
+          "hour": "16:00",
+          "percent": 14
+        },
+        {
+          "hour": "17:00",
+          "percent": 29
+        },
+        {
+          "hour": "18:00",
+          "percent": 7
+        },
+        {
+          "hour": "21:00",
+          "percent": 3
+        },
+        {
+          "hour": "22:00",
+          "percent": 3
+        },
+        {
+          "hour": "23:00",
+          "percent": 3
+        },
+        {
+          "hour": "00:00",
+          "percent": 3
+        },
+        {
+          "hour": "01:00",
+          "percent": 3
+        },
+        {
+          "hour": "02:00",
+          "percent": 3
+        }
+      ]
+    },
+    {
+      "Thursday": [
+        {
+          "hour": "05:00",
+          "percent": 3
+        },
+        {
+          "hour": "06:00",
+          "percent": 7
+        },
+        {
+          "hour": "07:00",
+          "percent": 14
+        },
+        {
+          "hour": "08:00",
+          "percent": 22
+        },
+        {
+          "hour": "09:00",
+          "percent": 29
+        },
+        {
+          "hour": "10:00",
+          "percent": 37
+        },
+        {
+          "hour": "11:00",
+          "percent": 37
+        },
+        {
+          "hour": "12:00",
+          "percent": 37
+        },
+        {
+          "hour": "13:00",
+          "percent": 40
+        },
+        {
+          "hour": "14:00",
+          "percent": 37
+        },
+        {
+          "hour": "15:00",
+          "percent": 25
+        },
+        {
+          "hour": "16:00",
+          "percent": 33
+        },
+        {
+          "hour": "17:00",
+          "percent": 18
+        }
+      ]
+    },
+    {
+      "Friday": [
+        {
+          "hour": "08:00",
+          "percent": 3
+        },
+        {
+          "hour": "09:00",
+          "percent": 11
+        },
+        {
+          "hour": "10:00",
+          "percent": 37
+        },
+        {
+          "hour": "11:00",
+          "percent": 48
+        },
+        {
+          "hour": "12:00",
+          "percent": 33
+        },
+        {
+          "hour": "13:00",
+          "percent": 18
+        },
+        {
+          "hour": "14:00",
+          "percent": 22
+        },
+        {
+          "hour": "15:00",
+          "percent": 33
+        },
+        {
+          "hour": "16:00",
+          "percent": 37
+        },
+        {
+          "hour": "17:00",
+          "percent": 33
+        },
+        {
+          "hour": "18:00",
+          "percent": 22
+        },
+        {
+          "hour": "19:00",
+          "percent": 11
+        },
+        {
+          "hour": "20:00",
+          "percent": 7
+        },
+        {
+          "hour": "21:00",
+          "percent": 3
+        }
+      ]
+    },
+    {
+      "Saturday": [
+        {
+          "hour": "07:00",
+          "percent": 14
+        },
+        {
+          "hour": "08:00",
+          "percent": 29
+        },
+        {
+          "hour": "09:00",
+          "percent": 48
+        },
+        {
+          "hour": "10:00",
+          "percent": 66
+        },
+        {
+          "hour": "11:00",
+          "percent": 74
+        },
+        {
+          "hour": "12:00",
+          "percent": 81
+        },
+        {
+          "hour": "13:00",
+          "percent": 88
+        },
+        {
+          "hour": "14:00",
+          "percent": 100
+        },
+        {
+          "hour": "15:00",
+          "percent": 100
+        },
+        {
+          "hour": "16:00",
+          "percent": 88
+        },
+        {
+          "hour": "17:00",
+          "percent": 66
+        },
+        {
+          "hour": "18:00",
+          "percent": 40
+        },
+        {
+          "hour": "19:00",
+          "percent": 22
+        },
+        {
+          "hour": "20:00",
+          "percent": 11
+        },
+        {
+          "hour": "21:00",
+          "percent": 7
+        },
+        {
+          "hour": "22:00",
+          "percent": 3
+        },
+        {
+          "hour": "23:00",
+          "percent": 3
+        },
+        {
+          "hour": "00:00",
+          "percent": 3
+        },
+        {
+          "hour": "01:00",
+          "percent": 3
+        },
+        {
+          "hour": "02:00",
+          "percent": 3
+        },
+        {
+          "hour": "03:00",
+          "percent": 3
+        }
+      ]
+    }
+  ],
+  "relatedSearches": null,
+  "relateds": [
+    {
+      "mainName": "Ponte de Assureira",
+      "url": null
+    },
+    {
+      "mainName": "Ponte velha de Castro Laboreiro",
+      "url": null
+    },
+    {
+      "mainName": "Ponte Romana de Dorna",
+      "url": null
+    },
+    {
+      "mainName": "Castelo de Castro Laboreiro",
+      "url": null
+    },
+    {
+      "mainName": "Ponte de Varziela",
+      "url": null
+    },
+    {
+      "mainName": "Ecotura",
+      "url": null
+    },
+    {
+      "mainName": "Ponte das Caínheiras",
+      "url": null
+    },
+    {
+      "mainName": "Castelo de Melgaço",
+      "url": null
+    },
+    {
+      "mainName": "Melgaço whitewater",
+      "url": null
+    },
+    {
+      "mainName": "Ponte Medieval de Vilela",
+      "url": null
+    },
+    {
+      "mainName": "Ponte do Arquinho",
+      "url": null
+    },
+    {
+      "mainName": "Ponte Medieval de Vilar de Mouros",
+      "url": null
+    },
+    {
+      "mainName": "Pelourinho de Castro Laboreiro",
+      "url": null
+    },
+    {
+      "mainName": "Igreja de Santa Maria da Visitação ou Igreja Matriz de Castro Laboreiro",
+      "url": null
+    },
+    {
+      "mainName": "Ponte de Mouro",
+      "url": null
+    },
+    {
+      "mainName": "Ponte Rodo-Ferroviária de Valença",
+      "url": null
+    },
+    {
+      "mainName": "Ponte Eiffel",
+      "url": null
+    },
+    {
+      "mainName": "Núcleo Museológico de Castro Laboreiro",
+      "url": null
+    },
+    {
+      "mainName": "Melgaço Radical",
+      "url": null
+    },
+    {
+      "mainName": "Ponte de Trajano (Ponte Romana de Chaves)",
+      "url": null
+    },
+    {
+      "mainName": "Ponte da Ladeira",
+      "url": null
+    },
+    {
+      "mainName": "Ponte Romano-medieval de Rubiães",
+      "url": null
+    },
+    {
+      "mainName": "Igreja Paroquial de Alvaredo",
+      "url": null
+    }
+  ]
+}

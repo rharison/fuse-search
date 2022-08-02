@@ -1,0 +1,631 @@
+{
+  "mainName": "Espaço Gourmet Frutos do mar",
+  "slug": "espaco-gourmet-frutos-do-mar",
+  "category": "Restaurante de frutos do mar",
+  "locationInformation": {
+    "latitude": "-16.0072222",
+    "longitude": "-48.0586111"
+  },
+  "basicInformation": [
+    {
+      "label": "endereço",
+      "tooltip": "Copiar endereço",
+      "text": "Qi 1 Lotes 960/980/1000 - Gama, Brasília - DF, 72445-010",
+      "icon": "https://www.gstatic.com/images/icons/material/system_gm/1x/place_gm_blue_24dp.png"
+    },
+    {
+      "label": "pedido",
+      "tooltip": "Fazer um pedido",
+      "text": "Fazer um pedido\nifood.com.br",
+      "icon": "https://www.gstatic.com/images/icons/material/system_gm/1x/local_shipping_gm_blue_24dp.png"
+    },
+    {
+      "label": "website",
+      "tooltip": "Abrir website",
+      "text": "instagram.com",
+      "icon": "https://www.gstatic.com/images/icons/material/system_gm/1x/public_gm_blue_24dp.png"
+    },
+    {
+      "label": "telefone",
+      "tooltip": "Copiar número de telefone",
+      "text": "(61) 3052-0909",
+      "icon": "https://www.gstatic.com/images/icons/material/system_gm/1x/phone_gm_blue_24dp.png"
+    },
+    {
+      "label": "Code",
+      "tooltip": "Copiar Plus Code",
+      "text": "XWVR+4H Gama, Brasília - DF",
+      "icon": "https://maps.gstatic.com/mapfiles/maps_lite/images/2x/ic_plus_code.png"
+    }
+  ],
+  "ratingInformation": {
+    "basicRatingInformation": {
+      "averageGrade": 4.3,
+      "totalOfEvaluations": 2384
+    },
+    "ratingsByGrade": [
+      {
+        "grade": 5,
+        "totalRatings": 1472
+      },
+      {
+        "grade": 4,
+        "totalRatings": 535
+      },
+      {
+        "grade": 3,
+        "totalRatings": 189
+      },
+      {
+        "grade": 2,
+        "totalRatings": 66
+      },
+      {
+        "grade": 1,
+        "totalRatings": 122
+      }
+    ]
+  },
+  "ratingTags": [
+    {
+      "tag": "chopp",
+      "count": 58,
+      "tooltip": "chopp, mencionado em 58 avaliações"
+    },
+    {
+      "tag": "gelado",
+      "count": 28,
+      "tooltip": "gelado, mencionado em 28 avaliações"
+    },
+    {
+      "tag": "happy hour",
+      "count": 24,
+      "tooltip": "happy hour, mencionado em 24 avaliações"
+    },
+    {
+      "tag": "ambiente",
+      "count": 22,
+      "tooltip": "ambiente, mencionado em 22 avaliações"
+    },
+    {
+      "tag": "valor",
+      "count": 17,
+      "tooltip": "valor, mencionado em 17 avaliações"
+    },
+    {
+      "tag": "picanha",
+      "count": 15,
+      "tooltip": "picanha, mencionado em 15 avaliações"
+    },
+    {
+      "tag": "gerente",
+      "count": 12,
+      "tooltip": "gerente, mencionado em 12 avaliações"
+    },
+    {
+      "tag": "camarão na moranga",
+      "count": 7,
+      "tooltip": "camarão na moranga, mencionado em 7 avaliações"
+    },
+    {
+      "tag": "",
+      "count": 206,
+      "tooltip": "20, mencionado em 6 avaliações"
+    },
+    {
+      "tag": "parmegiana",
+      "count": 5,
+      "tooltip": "parmegiana, mencionado em 5 avaliações"
+    }
+  ],
+  "featuredPhotos": [
+    "https://lh5.googleusercontent.com/p/AF1QipN1gBmhfdr48UT4HS3E_o8V9WbXWKFiQkASwHLC=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMj6v7tfywqXcYDSUeW4G7ShaaUXTfeB-JhXtCb=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMKFUl2LPjHhbR_aqM0hMwQE_kRYY0ge1pMW8Ut=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipO580xPJlkvA6nH4OAAcz03ITz_muCsirujGlVo=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPAVw3tmXPFYYZXbyMmzP_6f7YoSOxkuWSOqgi7=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMrHAO3_cyKV98afse-Cuv9oAOxrpbj0I5xzxx0=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNWuFff9QsKXd1N-4qOHB1JBFzOnTVIRf9zpMO2=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipP9vDIE-iqKW6eI7pqjDK2VFG8GSpkGs4MHhOds=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMi8AplX0GQOJiXYL5zLJWkxIDTg2Zz0kvwL9mX=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPQ7lohfyEb7ywF-ysUapjr7FyoCP2TsWVqHUcN=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPvuvbahYpXEmgJYxjrHtvDDij53-RKCOyx_Pc=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipM3quJtorsWlSv3SWl3eWVAcJqPQL7KVBUwzkmY=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMoJaj-0SCfmmMB3ktn6M6aZg5oA2yQfBPz13Oa=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipO8Xyh9XBF_sB_pX-4GucELRf4ab7FGmxN1dhSD=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNZeGm5sXn9nEa4K5t1kmg1_ETb6W-Zl0lenXYY=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMyiPNtUkJFHfZn4DeWGHgpmD4b_YvZVHM_b49i=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPXC-RAiJ8XJ-P6Zk0r_93rqgvTh-U8dIhvb1tO=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPBIHFBX75Aygv2WUKXTb0eW65XDc9jwvuN1uAD=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOsZ1G7hjvg5wWeBC9LbaX3fBNuof0fFUZo12l-=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOKFoPBLybmF6tdTnclR042qoigx9A7DnHtSmWU=w1024-h576-k-no"
+  ],
+  "topComments": [
+    {
+      "author": "Adleide Falcão",
+      "photoAuthor": "https://lh3.googleusercontent.com/a/AItbvmn_rj11rjvLqcmwbSqQXhRb71iR1Y8oxp4DA40X=w36-h36-p-c0x00000000-rp-mo-ba5-br100",
+      "comment": "Comida precisa melhorar muito pra chegar perto do coco bambu. Pedi um camarão na manga, estava comivel, mas o Purê de batatas é de caixinha. Os preços são equivalentes ao coco bambu e camarada camarão.",
+      "gradeComment": 2
+    },
+    {
+      "author": "Rayane Alves",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucpWsCjNrV4aPKUXNQuUjzmMveOecw9w5aTOgUMDRA=w36-h36-p-c0x00000000-rp-mo-br100",
+      "comment": "Que lugar SENSACIONAL! Desde quando cheguei, até a hora de ir embora, ZERO DEFEITO 👏🏻👏🏻 Atendimento impecável, comida saborosa, música boa .. e OS MELHORES drinks que já degustei até hoje! Quero deixar meu elogio especial ao Maurício pela indicação e preparação dos drinks! Indico demais !",
+      "gradeComment": 5
+    },
+    {
+      "author": "Glayce Kelle",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucrfnVd6IYp1lt1OLFUOV4tPlh8du1oqBNznb01X=w36-h36-p-c0x00000000-rp-mo-br100",
+      "comment": "Se eu pudesse não dava nenhuma estrela.Escolhi esse local para comemorar o aniversário da minha filha e infelizmente não tive uma experiência nada agradável.Primeiro cheguei no local o garçom pegou o bolo de qualquer jeito e estragou um lado do bolo ,eu tinha reservado uma mesa para 20 pessoas,todos os meus convidados chegaram e demorou horrores pra fazer os pedidos porque disponibilizam somente 1 garçom pra atender uma mesa com 20 pessoas,demora muito abrir comanda ,fazemos os pedido demora demais pra chegar na mesa até chopp e refrigerante,cobraram couvert de algumas pessoas e de outras não,o garçom não trouxe o brinde do aniversariante ,o prato que pedi veio pouco camarão pelo tamanho e valor . Não volto nunca mais nesse lugar e nem indico pra ninguém.Precisa de uma boa gerência pra melhorar muitos pontos.Atendimento é de péssima qualidade. NÃO RECOMENDO.",
+      "gradeComment": 1
+    },
+    {
+      "author": "Marcos PR",
+      "photoAuthor": "https://lh3.googleusercontent.com/a/AItbvmmVuZLjSuuSahSANCc31f4PtawJFmqHpSkLjWtm=w36-h36-p-c0x00000000-rp-mo-br100",
+      "comment": "Hoje, dia 12/06/2022, estive no espaço  goumert com minha  esposa e foi uma decepção atrás  da outra. Pedimos  uma batata frita como entrada  e um prato  principal. Estava  demorando muito  e quando  percebemos  que um casal, que chegou  bem depois  que nós,  receberam  o mesmo  prato  antes  da gente; fomos  reclamar, pois não tinham se quer servido  a nossa entrada, detalhe, já  estávamos  esperando  cerca de 40 minutos. Logo após isso, trouxeram  a entrada,  e depois  de 5 minutos o prato  principal, sem os talheres. Esperamos 10 minutos por esses talheres, depois  de reclamar bastante,  e eles  também  deixaram  o refrigerante  fechado Pedimos  para esquentar  a comida, pois já  estava fria. No final, pedimos  a conta  e também para embalar o restante  para viagem, e pasmem,  sumiram  com a comida.  O garçon ofereceu uma sobremesa como cortesia  por todo  os desgaste.  Só  que essa sobremesa  não chegou, e depois  de 25 minutos  de espera  levantamos  e fomos  e embora indignados. Na saída, relatamos  o ocorrido para a gerente,  que nos ofereceu UM picolé paleta  mexicana como  desculpas. Que dia  mais  mais frustrante  foi esse meus Deus!",
+      "gradeComment": 1
+    },
+    {
+      "author": "Vinicius Campos",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucr7rIjDlbmS37HK8W-Re99up3sBb72VNZLKCw-eDA=w36-h36-p-c0x00000000-rp-mo-br100",
+      "comment": "Local tem tudo pra ser excelente, mas deixou a desejar em vários pontos: 1.Cadeirinha pra bebê horrível, não tem segurança, isso porque pedimos,se não, não tinha oferecido. 2. Garçons demoram pra ir na mesa. 3. Bebida vem sem canudo e depois vem faltando prato na mesa. 4. 40 minutos pra vir uma batata,mas uns 35 pra vir a comida,não estava tão lotado pra ter essa demora toda e veio morna,prato caro e pouca comida 5. O copo estourou o fundo,derramou a bebida na mesa,demoraram pra limpar e trazer outra bebida. 6. O garçom exigindo a gorjeta de R$ 45,00 e courvet artístico de R$ 20,00 ,sendo que sentamos lá fora,nem ouvimos a música. Achei desagradável da parte dele fazer esse tipo de atitude. Não recomendo!",
+      "gradeComment": 1
+    },
+    {
+      "author": "Renato Mourão",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucpqWW4GjBcso6ywc7T-9Dq_ASTezAq4TreWLjBsGA=w36-h36-p-c0x00000000-rp-mo-br100",
+      "comment": "Ambiente agradável. Atendimento bom e preços acessíveis. O cardápio de frutos do mar possui diversas opções. Happy Hour de chopp todos os dias das 16:00 as 20:00. Enfim, nada a reclamar. Pedi o bobo de camarão. O prato serve muito bem 2 pessoas.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Taynara Costa",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucrzpSsy9kokaYE5QYl0BmLp_GWLIyKW0uMQYJvsgk8=w36-h36-p-c0x00000000-rp-mo-ba2-br100",
+      "comment": "É um lugar amplo, aconchegante, no entanto na minha última visita pedi como entrada isca de pescada amarelo onde o empanada veio apenas o empanado praticamente não vimos peixe. Não sei se por ser dia dos namorados, mas achei a qualidade da comida ruim. Infelizmente, pois apesar de ser frequentadora fiquei decepcionada com a qualidade do serviço prestado.",
+      "gradeComment": 2
+    },
+    {
+      "author": "Erick de Oliveira Leal",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucqNE7MmBUAISIzVIbxL1bZYgtwKpvBx-HFSe7gt8ic=w36-h36-p-c0x00000000-rp-mo-ba5-br100",
+      "comment": "A porção do camarão alho e óleo é minúscula com camarões também minúsculos. A porção de mandioca frita é  fraca de sabor, só gosto de óleo frito, uma mandioca in natura frita seria bem melhor. Tive que ir em outra loja comer depois. Caro pra ter uma péssima experiência. Já comi outros pratos e foi bom. Mas desta vez, não volto nos próximos meses.",
+      "gradeComment": 1
+    },
+    {
+      "author": "Vívian Miranda",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucrZJwTyE7BHeOrlqR2nm9pWgJ5N-reg8VVvQG1gvA=w36-h36-p-c0x00000000-rp-mo-br100",
+      "comment": "Restaurante péssimo.... O atendimento pelos garçons demora, o prato principal demora cerca de 1 hora ou mais pra sair. Eles fazem isso pra vc ficar gastando com entrada e bebida. A qualidade da comida também  não é boa. Eu esperei na última vez 1h20 e o prato na chegou, fui embora e eles não demonstram nenhum incômodo por isso",
+      "gradeComment": 1
+    },
+    {
+      "author": "andrezzap.a. maia",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucoxjyowGguUD6SEfrRlAX3yZ57ItayijRoqBBH1RA=w36-h36-p-c0x00000000-rp-mo-br100",
+      "comment": "Sigo o espaço nas redes sociais, ainda não tive a oportunidade de ir visitar, mas já provei o Strogonoff de frango com arroz à grega, ima delícia. as avaliações são super convidativas, Geremias sempre bem elogiado pelos clientes, estão de parabéns!",
+      "gradeComment": 5
+    }
+  ],
+  "peakHours": [
+    {
+      "Sunday": [
+        {
+          "hour": "11:00",
+          "percent": 36
+        },
+        {
+          "hour": "12:00",
+          "percent": 66
+        },
+        {
+          "hour": "13:00",
+          "percent": 88
+        },
+        {
+          "hour": "14:00",
+          "percent": 90
+        },
+        {
+          "hour": "15:00",
+          "percent": 74
+        },
+        {
+          "hour": "16:00",
+          "percent": 57
+        },
+        {
+          "hour": "17:00",
+          "percent": 50
+        },
+        {
+          "hour": "18:00",
+          "percent": 53
+        },
+        {
+          "hour": "19:00",
+          "percent": 57
+        },
+        {
+          "hour": "20:00",
+          "percent": 56
+        },
+        {
+          "hour": "21:00",
+          "percent": 48
+        },
+        {
+          "hour": "22:00",
+          "percent": 35
+        },
+        {
+          "hour": "23:00",
+          "percent": 22
+        }
+      ]
+    },
+    {
+      "Monday": []
+    },
+    {
+      "Tuesday": [
+        {
+          "hour": "11:00",
+          "percent": 14
+        },
+        {
+          "hour": "12:00",
+          "percent": 19
+        },
+        {
+          "hour": "13:00",
+          "percent": 23
+        },
+        {
+          "hour": "14:00",
+          "percent": 26
+        },
+        {
+          "hour": "15:00",
+          "percent": 28
+        },
+        {
+          "hour": "16:00",
+          "percent": 28
+        },
+        {
+          "hour": "17:00",
+          "percent": 31
+        },
+        {
+          "hour": "18:00",
+          "percent": 36
+        },
+        {
+          "hour": "19:00",
+          "percent": 45
+        },
+        {
+          "hour": "20:00",
+          "percent": 51
+        },
+        {
+          "hour": "21:00",
+          "percent": 48
+        },
+        {
+          "hour": "22:00",
+          "percent": 36
+        },
+        {
+          "hour": "23:00",
+          "percent": 20
+        }
+      ]
+    },
+    {
+      "Wednesday": [
+        {
+          "hour": "11:00",
+          "percent": 20
+        },
+        {
+          "hour": "12:00",
+          "percent": 26
+        },
+        {
+          "hour": "13:00",
+          "percent": 27
+        },
+        {
+          "hour": "14:00",
+          "percent": 25
+        },
+        {
+          "hour": "15:00",
+          "percent": 25
+        },
+        {
+          "hour": "16:00",
+          "percent": 29
+        },
+        {
+          "hour": "17:00",
+          "percent": 35
+        },
+        {
+          "hour": "18:00",
+          "percent": 40
+        },
+        {
+          "hour": "19:00",
+          "percent": 42
+        },
+        {
+          "hour": "20:00",
+          "percent": 39
+        },
+        {
+          "hour": "21:00",
+          "percent": 32
+        },
+        {
+          "hour": "22:00",
+          "percent": 24
+        },
+        {
+          "hour": "23:00",
+          "percent": 17
+        }
+      ]
+    },
+    {
+      "Thursday": [
+        {
+          "hour": "11:00",
+          "percent": 17
+        },
+        {
+          "hour": "12:00",
+          "percent": 24
+        },
+        {
+          "hour": "13:00",
+          "percent": 29
+        },
+        {
+          "hour": "14:00",
+          "percent": 31
+        },
+        {
+          "hour": "15:00",
+          "percent": 32
+        },
+        {
+          "hour": "16:00",
+          "percent": 34
+        },
+        {
+          "hour": "17:00",
+          "percent": 37
+        },
+        {
+          "hour": "18:00",
+          "percent": 43
+        },
+        {
+          "hour": "19:00",
+          "percent": 48
+        },
+        {
+          "hour": "20:00",
+          "percent": 48
+        },
+        {
+          "hour": "21:00",
+          "percent": 40
+        },
+        {
+          "hour": "22:00",
+          "percent": 28
+        },
+        {
+          "hour": "23:00",
+          "percent": 15
+        }
+      ]
+    },
+    {
+      "Friday": [
+        {
+          "hour": "11:00",
+          "percent": 23
+        },
+        {
+          "hour": "12:00",
+          "percent": 34
+        },
+        {
+          "hour": "13:00",
+          "percent": 41
+        },
+        {
+          "hour": "15:00",
+          "percent": 42
+        },
+        {
+          "hour": "16:00",
+          "percent": 44
+        },
+        {
+          "hour": "17:00",
+          "percent": 52
+        },
+        {
+          "hour": "18:00",
+          "percent": 64
+        },
+        {
+          "hour": "19:00",
+          "percent": 74
+        },
+        {
+          "hour": "20:00",
+          "percent": 75
+        },
+        {
+          "hour": "21:00",
+          "percent": 66
+        },
+        {
+          "hour": "22:00",
+          "percent": 50
+        },
+        {
+          "hour": "23:00",
+          "percent": 31
+        }
+      ]
+    },
+    {
+      "Saturday": [
+        {
+          "hour": "11:00",
+          "percent": 28
+        },
+        {
+          "hour": "12:00",
+          "percent": 44
+        },
+        {
+          "hour": "13:00",
+          "percent": 57
+        },
+        {
+          "hour": "14:00",
+          "percent": 61
+        },
+        {
+          "hour": "15:00",
+          "percent": 56
+        },
+        {
+          "hour": "16:00",
+          "percent": 49
+        },
+        {
+          "hour": "17:00",
+          "percent": 48
+        },
+        {
+          "hour": "18:00",
+          "percent": 61
+        },
+        {
+          "hour": "19:00",
+          "percent": 83
+        },
+        {
+          "hour": "20:00",
+          "percent": 100
+        },
+        {
+          "hour": "21:00",
+          "percent": 99
+        },
+        {
+          "hour": "22:00",
+          "percent": 78
+        },
+        {
+          "hour": "23:00",
+          "percent": 48
+        }
+      ]
+    }
+  ],
+  "relatedSearches": [
+    "espaço gourmet simples",
+    "espaço gourmet gama telefone",
+    "espaço gourmet instagram",
+    "espaço gourmet com churrasqueira",
+    "espaço gourmet telefone",
+    "restaurante espaço gourmet",
+    "espaço gourmet park shopping",
+    "espaço gourmet samambaia"
+  ],
+  "relateds": [
+    {
+      "mainName": "Dom ManJu Restaurante Bar - Gama",
+      "url": null
+    },
+    {
+      "mainName": "Supremo Restaurante",
+      "url": null
+    },
+    {
+      "mainName": "Sabor Do Mestre Restaurante",
+      "url": null
+    },
+    {
+      "mainName": "Restaurante Tavares - Gama",
+      "url": null
+    },
+    {
+      "mainName": "Restaurante Fogão Goiano Gama",
+      "url": null
+    },
+    {
+      "mainName": "Restaurante Pará-Gulas",
+      "url": null
+    },
+    {
+      "mainName": "Restaurante Bom Sabor",
+      "url": null
+    },
+    {
+      "mainName": "Mr Foods",
+      "url": null
+    },
+    {
+      "mainName": "Restaurante Grume Room",
+      "url": null
+    },
+    {
+      "mainName": "Restaurante Comunitário Gama",
+      "url": null
+    },
+    {
+      "mainName": "Restaurante Frigideira",
+      "url": null
+    },
+    {
+      "mainName": "Restaurante tempero do chefe",
+      "url": null
+    },
+    {
+      "mainName": "Helo Gourmet",
+      "url": null
+    },
+    {
+      "mainName": "Quiosque Do Peixe",
+      "url": null
+    },
+    {
+      "mainName": "São Paulo Pizzaria e Restaurante",
+      "url": null
+    },
+    {
+      "mainName": "O Brasileiro Cozinha e Bar",
+      "url": null
+    },
+    {
+      "mainName": "Restaurante Só Ouro",
+      "url": null
+    },
+    {
+      "mainName": "Restaurante Capital Gourmet Restaurante",
+      "url": null
+    },
+    {
+      "mainName": "Geléia Burger",
+      "url": null
+    }
+  ],
+  "editMode": false
+}

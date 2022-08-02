@@ -1,0 +1,438 @@
+{
+  "mainName": "Mývatn",
+  "slug": "myvatn",
+  "category": "Lago",
+  "locationInformation": {
+    "latitude": "65.603259",
+    "longitude": "-17.0049959"
+  },
+  "basicInformation": [
+    {
+      "label": "endereço",
+      "tooltip": "Copiar endereço",
+      "text": "660, Islândia",
+      "icon": "https://www.gstatic.com/images/icons/material/system_gm/1x/place_gm_blue_24dp.png"
+    }
+  ],
+  "ratingInformation": {
+    "basicRatingInformation": {
+      "averageGrade": 4.6,
+      "totalOfEvaluations": 539
+    },
+    "ratingsByGrade": [
+      {
+        "grade": 5,
+        "totalRatings": 404
+      },
+      {
+        "grade": 4,
+        "totalRatings": 90
+      },
+      {
+        "grade": 3,
+        "totalRatings": 37
+      },
+      {
+        "grade": 2,
+        "totalRatings": 3
+      },
+      {
+        "grade": 1,
+        "totalRatings": 5
+      }
+    ]
+  },
+  "ratingTags": [
+    {
+      "tag": "área",
+      "count": 15,
+      "tooltip": "área, mencionado em 15 avaliações"
+    },
+    {
+      "tag": "aves",
+      "count": 13,
+      "tooltip": "aves, mencionado em 13 avaliações"
+    },
+    {
+      "tag": "águas termais",
+      "count": 13,
+      "tooltip": "águas termais, mencionado em 13 avaliações"
+    },
+    {
+      "tag": "cratera vulcânica",
+      "count": 11,
+      "tooltip": "cratera vulcânica, mencionado em 11 avaliações"
+    },
+    {
+      "tag": "gruta",
+      "count": 8,
+      "tooltip": "gruta, mencionado em 8 avaliações"
+    },
+    {
+      "tag": "energia geotérmica",
+      "count": 7,
+      "tooltip": "energia geotérmica, mencionado em 7 avaliações"
+    },
+    {
+      "tag": "mosca",
+      "count": 6,
+      "tooltip": "mosca, mencionado em 6 avaliações"
+    },
+    {
+      "tag": "mosquitos",
+      "count": 6,
+      "tooltip": "mosquitos, mencionado em 6 avaliações"
+    },
+    {
+      "tag": "norte",
+      "count": 6,
+      "tooltip": "norte, mencionado em 6 avaliações"
+    }
+  ],
+  "featuredPhotos": [
+    "https://lh5.googleusercontent.com/p/AF1QipNTqNov-ZbR3xK7PjBwRpB96-UAIisuKpfNmcx2=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipP7aqapI34J5ooIgxTI9mr3CRg-Vgsn3amRNB6Y=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNmNMsqdjL9Q2YpYX1vj3Adgd8fH3aYbMFZwUJv=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNUnmsGDjVCRg2V-M6SncGs89mXSx1yXFBl9Phz=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMrurwzWk0ES1iympVS4JN158IH-S3FV12WjOD2=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipObzIR97pHVswM68WmJW4zBot03OHeiF7_TyO5Z=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOQcbj70_ndvmYDDOBbel2Dmwg92B13s6moq_d8=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOek-vydgyjXs2REvx5Sa-ZpvevnqkW1mUnAdEI=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPjS9t8oiZVYI-X3X9NNaZWh7xzduFm-vGu9TSw=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNHoabGp9XP8CPJCHOZmA-NPITLYIgBCi8cmXkW=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOTOH8mtatH0Fg1hOiPp_ZCqhvM2bBnnGdyDLu5=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNDA6j-44A43MBFz9wGtZpVoqH-2eUbimUsFp3o=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOic3SEYCapSxOIeVtdqqIWiwzv0ae5acJhWXJ7=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPexUXQlafK_gTfc83-m7onV722LRwJMilnTaaU=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPj6M2guuzzfdN18213kn_5u4Sr0Heoee17hWHq=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipP01HivTq_v0oy3Gc6lHmbzGJxBKyTXGOsXSj-4=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMWBoyMn9g_GaDsSGcDp6xvupjzU8a4_rW0bjdJ=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipM4hdga6RYjtXOhhcGUYu1A_s7HjKcDcFqmANGJ=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPoai5cUP3yRCaQbK3V3e5wN02OV8eciu5yEN1S=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNRtobzJJRmszJiTYHVZZ54YTNkNOstK0FhQ6n6=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNWG6Le0FlOtLbcfS2xQuJLVC9zsgmS_8PIU7MS=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMn0eN_zj4goXPOiCV-ygTUJU83gkH1sqd9uZpf=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipP2VSAQWG_XMGwFuenF7qnP1T5a78IRU3GQvL0v=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipP573C5H1snUhHPWKBWaOyVUzF8aHigJRcQCz7A=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipP-9isqlo7eGhfyGspqWN5WZcR0dhQXsdVvbV0_=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPJg8S_ua2595bqsjBKcw2YSeIBPgYhW6LbV_Sc=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMyC8fIZNo7S7jxJc_PcRev5GAHP_7r2zhASjim=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPm-Z4zAxc7FU5bUMFNt-M35FVTSrfLaWOAclvZ=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNt-jX5v3dObxsH8hCY5iL9QceVcrj8CmnRMsuC=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNpSANEVOB3s15TQ5b1aHG7HQVJ4fHrfkJujHGU=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOTiaCYDej6sn56FC-glzLSOY-jGUncxAbY3BpK=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPg7DAyn6N5fKeg279xA5_rHqTvCRUlmgeHUi-1=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOpELjneywjG0hlQqEOwo9FaXu7_hAJ7cTgtAZj=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOIiQShl-ChtpAWyTK4SmRWxeKod-_iEUYG0gL4=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipM6L9xhQ37ejTrUIuLr7xV-qQmf--yOlETBMo5c=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNL6Mw3X9wn7qSkhH33DD29HDQ8W0TgByojRqX3=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOCXgHnO3iTkFWQisrLhnLputpAm8HGtOr6JXRi=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNHesPFClfnHBY9_fxiYXzjml0I7Vl7rZyspriU=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMDUTqr4aqZs89FSvdqio7o0wSRdgZ0jsbL512v=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPUh_Ti8sDEx8xMcrZ5CJnZtxepuCGY5fqkp6r7=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNHfX4cvvsTnW2YImuCbzNTuKs_ltD35pURKjjR=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOBnqnyVdLfkc2mdxcMczCsoVla1rJi7rcEtQkV=w1024-h576-k-no"
+  ],
+  "topComments": [
+    {
+      "author": "João Azevedo",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucpcDkLE-ww-e-dezye48Sk39_iGOO3xTLYhtAIpnKQ=w36-h36-p-c0x00000000-rp-mo-ba6-br100",
+      "comment": "O lago em si é lindíssimo, e é uma região cheia de atrações turísticas.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Gina Ferreira",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucpFoQp8HeNy1ACJlwGl9cb-aemaRHzttfBIK-6g5g=w36-h36-p-c0x00000000-rp-mo-ba3-br100",
+      "comment": "lindo",
+      "gradeComment": 5
+    },
+    {
+      "author": "Gustavo García Miranda",
+      "photoAuthor": "https://lh3.googleusercontent.com/a/AItbvmlWx1LH-8BuCTQTnz1GiPy1e7eSPlpEBJ7JGvCE=w36-h36-p-c0x00000000-rp-mo-ba5-br100",
+      "comment": "(Tradução do Google) Natureza muito bonita, um ambiente relaxante ao máximo. Fazendas, prados, riachos, vulcões, crateras cobertas de vegetação... A única coisa que incomoda são as intermináveis ​​moscas pretas que proliferam em julho! As fotos são tiradas perto do Foss Hotel, no lado norte do lago  (Original) Muy bonita naturaleza, un entorno relajante a tope. Granjas, prados, riachuelos, volcanes, cráteres cubieros de vegetación... Lo unico que molestan son las infinitas mosquitas negras que proliferan en Julio! Las fotos estan tomadas cerca del hotel Foss, en el lado norte del lago",
+      "gradeComment": 4
+    },
+    {
+      "author": "Julian Gascon",
+      "photoAuthor": "https://lh3.googleusercontent.com/a/AItbvmlNItzVjFrwf0C783f_cJKxFzd5vlgd7AkYfl_3=w36-h36-p-c0x00000000-rp-mo-ba3-br100",
+      "comment": "(Tradução do Google) É muito bonito e ao seu redor existem vários lugares para visitar, a cratera viti, várias cavernas a menos de 1 hora de tifoss, na mesma estrada as fontes termais de myvatn sem dúvida dão para passar um dia curtindo e passeando  (Original) Es muy bonito y alrededor dandole la vueltas hay varios sitios para visitar , el cráter viti, varias cuevas a no más de 1h detifoss, en la misma carretera la termas de myvatn sin duda da para pasar un día disfrutando y pasando el rato",
+      "gradeComment": 5
+    },
+    {
+      "author": "Margaret T-X",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucrR-dwf72FPqfxdJQreQXqtRUR67Bm2tZ1jaBVNRg=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "Beautiful place. Had a wonderful geothermal  nature bath at Myvatn nature bath. Camped at a campground near by. Lots of flies at this time of the year.",
+      "gradeComment": 4
+    },
+    {
+      "author": "Aalt Jansen",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucoJOk4NNN1C3mtEL3qFrGAy-mFj_uc9uoxIgM3rDQ=w36-h36-p-c0x00000000-rp-mo-ba5-br100",
+      "comment": "Apart de pseudo kraters  leuke wandelingen van circa 1 uur",
+      "gradeComment": 5
+    },
+    {
+      "author": "M Hauser",
+      "photoAuthor": "https://lh3.googleusercontent.com/a/AItbvmnQX-Qoq4yvIDCtVMNA1tKlfMirABfE_kHqOA=w36-h36-p-c0x00000000-rp-mo-br100",
+      "comment": "(Tradução do Google) Esteve nesta bela área por dois dias, muito para ver e boas oportunidades de caminhadas ao redor e ao redor do lago.  (Original) War zwei Tage in dieser wunderschönen Gegend, viel zu sehen und schöne Wandermöglichkeiten rund um den See und im Umkreis.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Marlene Roussin",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucpOfjoUY5mUs4VEyH5GmQoVQYPMGG7W61E9m0NEQB0=w36-h36-p-c0x00000000-rp-mo-ba3-br100",
+      "comment": "(Tradução do Google) Como se apaixonar por um lugar em 7 pontos: - levantar de madrugada, ou seja, por volta das 4h30. - siga em direção às pseudo-crateras, faça a caminhada ao nascer do sol (permita 1 hora para o local) - pare na beira do lago para descobrir as chaminés de pedra vulcânica (cuidado, algumas trilhas são privadas) - vá para os campos de lava, descubra a história dos 13 trolls - faça a caminhada que leva você ao vulcão - suba, sofra ;) - aproveite as fontes termais no final do dia com uma vista magnífica da região de Myvatn  Fazer e descobrir.  (Original) Comment tomber amoureux d'un endroit en 7 points  : - se lever à l'aube, c'est-à-dire aux environs de 4h30 - se diriger vers les pseudo-cratères, faire la balade au lever du soleil (compter 1h pour le site) - s'arrêter sur le bord du lac pour découvrir les cheminées de pierres volcaniques (attention certains sentier sont privés) - aller vers les champs de laves, découvrir l'histoire des 13 trolls - prendre la randonnée qui vous emmène au volcan - le grimper, souffrir ;) - profiter des sources d'eau chaude en fin de journée avec une vue magnifique sur la région de Myvatn  À faire et à faire découvrir.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Simone Orsi",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucoFyIGLPwcuC3RdGrxa80hizQL6R335ckyJdRRwwg=w36-h36-p-c0x00000000-rp-mo-ba2-br100",
+      "comment": "(Tradução do Google) Lugar incrível, e muito menos superlotado do que a Lagoa Azul.  (Original) Awesome place, and way less overcrowded than the Blue Lagoon.",
+      "gradeComment": 5
+    },
+    {
+      "author": "morena melchioni",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucqC0x-SFSKFUKGh8Z4TfwLEjiPFmSShBwjg5lEyVg=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "(Tradução do Google) Que tal este lugar? ... Myvatn e a paisagem circundante é certamente muito bonita, mas é realmente muito turística, além disso, os bilhões de mosquitos que o assombram nos fizeram visitar este lugar muito rapidamente. Em menos de meio dia vimos: -skútustaðagígar = série de crateras extintas com uma bela vista do lago -Hofdi = bela trilha natural. Você caminha por 15/20 minutos relaxando no verde admirando algumas formações rochosas no lago. -Dimmuborgir = labirinto muito interessante de formações de lava. Possui vários trilhos de diferentes comprimentos (distinguidos pelas cores), um dos quais conduz também à Cratera Hverfjall (3km). Grjotagja = a famosa caverna de fontes termais onde o Game of Thrones foi filmado. Estacione em frente à caverna. Tudo de graça. Na noite em que dormimos com amigos, dentro da Cratera onde atiraram na estrada F88 do Oblivion. 4x4 obrigatório. Fantástico.  (Original) Che dire di questo luogo?... Myvatn e il paesaggio circostante è sicuramente molto bello, ma è veramente troppo troppo turistico, inoltre i miliardi di moscerini che ti perseguitano hanno fatto si che visitassimo questo luogo molto velocemente. In meno di mezza giornata abbiamo visto: -skútustaðagígar = serie di crateri spenti con una bella vista sul lago -Hofdi= bel sentiero naturalistico. Si cammina per 15/20 minuti rilassandosi nel verde ammirando qualche formazione rocciosa sul lago. -Dimmuborgir= labirinto di formazioni laviche molto interessante. Ha diversi sentieri di diversa lunghezza (distinti da dei colori), uno dei quali porta anche al Cratere Hverfjall (3km). Grjotagja= la famosa grotta con hot spring dove hanno girato il trono di spade. Si parcheggia davanti alla grotta. Tutto Gratuito. La notte abbiamo dormito insieme ad amici, dentro al Cratere dove hanno girato Oblivion strada F88. Obbligatorio 4x4.Fantastico.",
+      "gradeComment": 3
+    },
+    {
+      "author": "Kierunek Hiszpania przez Islandię",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucrn7S61fnA_7gx_3giJpJ5iUffkTMnx2b15vvON=w36-h36-p-c0x00000000-rp-mo-ba5-br100",
+      "comment": "(Tradução do Google) Mývatn é um belo lago com muitas pequenas ilhas no norte da Islândia, o quarto maior lago do país. Por sua serenidade, avifauna e vulcanismo, o lago, incluindo seus arredores, é um dos atrativos naturais mais surpreendentes  (Original) Mývatn is a beautiful lake with many small islands in the north of Iceland, the fourth largest lake in the country. Due to its serenity, birdlife and volcanism, the lake, including its surrounding area, is one of the most amazing natural attractions",
+      "gradeComment": 5
+    },
+    {
+      "author": "David Caballero",
+      "photoAuthor": "https://lh3.googleusercontent.com/a/AItbvmlWPZlJBmMnCGWn06-nzlG29JOuk-KqocxjXopX=w36-h36-p-c0x00000000-rp-mo-br100",
+      "comment": "(Tradução do Google) Lindo lago que dá nome a toda a zona, onde se pode fazer todo o tipo de visitas a campos de lava, vulcões, fumarolas, banhos termais, etc. As vistas do lago de todos os ângulos são lindas, especialmente ao entardecer. Dedicar dois ou três dias a esta área não é absurdo  (Original) Precioso lago que da nombre a toda la zona, donde se pueden hacer todo tipo de visitas a campos de lava, volcanes, fumarolas, baños termales, etc. Las vistas del lago desde todos los ángulos son preciosas, sobretodo al anochecer. Dedicar dos o tres dias a esta zona no es descabellado",
+      "gradeComment": 5
+    },
+    {
+      "author": "Emily Chen",
+      "photoAuthor": "https://lh3.googleusercontent.com/a/AItbvmnvzdl52mF9i_hhNiNN2r22DTaSG1iNsvxgaV55=w36-h36-p-c0x00000000-rp-mo-ba7-br100",
+      "comment": "(Tradução do Google) É uma pena então mau tempo O céu azul é diferente Vale um lugar para visitar  (Original) 可惜當年時 天氣不優 藍天又是不一樣 很值得旅遊地方",
+      "gradeComment": 4
+    },
+    {
+      "author": "Quentin Boulet",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucqqgs65OOwvAFB_N6Dj3qBw9QFIW8Gpu_KMKetkMQ=w36-h36-p-c0x00000000-rp-mo-ba6-br100",
+      "comment": "(Tradução do Google) No lago interior que se enche de surpresas com muitos locais a visitar e a ter. Seja subindo ao topo de um vulcão, procurando asas de fogo na floresta no meio das ilhas ou mesmo fugindo da mosca que não para de fazer cócegas em seu nariz, este lugar é simplesmente uau!  (Original) À lac intérieur qui regorge plein de surprises avec de nombreux lieux à visiter et avoir. Qu’il s’agisse de monter en haut d’un volcan, rechercher les ailes feu dans les bois au milieu des îles ou encore d’échapper au mouchette qui cherche sans cesse à vous chatouiller le nez, cette endroit est juste waouh !",
+      "gradeComment": 5
+    },
+    {
+      "author": "Mitch Green",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucqKTrYgP_pdYihsyXYU-5o2E8P8ZzbjuDUDQnTjPfc=w36-h36-p-c0x00000000-rp-mo-ba6-br100",
+      "comment": "(Tradução do Google) A área do lago tem tantos fenômenos naturais em torno dela. De formações rochosas no lago, campos de rendas, saídas de vapor, cavernas, usadas nas filmagens de Game of Thrones. Há muito para ver aqui. Apenas dirigindo em torno da área se sentir como você não está mais na terra! Eu nunca estive em qualquer lugar semelhante à área do lago!  (Original) The lake area has so many natural phenomena around it. From rock formations in the lake, to lace fields, steam vents, to caves, used in the filming of Game of Thrones. There is so much to see here. Just driving around the area feel like you are no longer on earth! I have never been anywhere similar to the lake area!",
+      "gradeComment": 5
+    },
+    {
+      "author": "Evgeny Petrunin",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucrt8jmJnmOLs5QK6czFXzZvr_EAwB_6mbSRg34sqQ=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "(Tradução do Google) Este lugar é cercado por muitas coisas para ver e centenas de trilhas para caminhadas. Veio por um dia, mas decidi ficar mais um pouco lá. No final do dia passei três noites lá no acampamento Vogar. Gostei muito do acampamento lá e das trilhas para caminhadas. A única decepção foram toneladas de pequenos mosquitos. Eles estavam por toda a área. Ao longo de minha viagem de 12 dias pela Islândia, eu não tinha visto esses pequenos mosquitos em outro lugar quase na mesma quantidade que em Miva.  (Original) This place is surrounded by lots of things to see and hundreds of hiking trails. Came for one day but decided to stay a little longer there. At the end of the day spent three nights there at Vogar campsite. Fully enjoyed the camping there and hiking trails. The only disappointment there was tons of little gnats. They were all over the area. Along my 12 days trip around Iceland I had not seen these little gnats elsewhere nearly at the same quantity as at Miva.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Kevin Lancashire",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucoHXdZ7BiXOpF2nehH6owAid3CDMdsPFs1_wIWJuj0=w36-h36-p-c0x00000000-rp-mo-ba6-br100",
+      "comment": "(Tradução do Google) Ótima área para observar pássaros e caminhar com sua família. As vistas são deslumbrantes. Decidimos ficar 4 noites na margem do lago para explorar os segredos escondidos.  (Original) Great area to watch birds and hike with your family. The views are stunning. We decided to stay 4 nights on the lakeside to explore the hidden secrets.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Amit H Masher",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucrxBsuK678-jrOelpnaBpIrp7jNnqgp4BXx2HUUi5o=w36-h36-p-c0x00000000-rp-mo-ba5-br100",
+      "comment": "(Tradução do Google) Lindo lugar, recomendo fortemente ver pelo menos uma vez.  (Original) Beautiful place, would strongly recommend seeing at least once.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Juliette Gras",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucphVGS1aKpi_LCPcaCKw4sAdf1JCIcHfawebSw_IA=w36-h36-p-c0x00000000-rp-mo-ba3-br100",
+      "comment": "(Tradução do Google) Soberbo panorama, mas muitas moscas. As crateras são impressionantes e os muitos pássaros, chegando no final de junho, foram uma boa idéia, porque os patos jovens aprendem a mergulhar e é adorável 😄  (Original) Superbe panorama, mais énormément de mouches. Les cratères sont impressionnants et les oiseaux nombreux, venir en fin juin était une bonne idée car les jeunes canards apprennent à plonger et c'est adorable 😄",
+      "gradeComment": 4
+    },
+    {
+      "author": "Alessandra Vassalli",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucpNb-fvSywxmZ_mLPgtbHf03e6wInJ7kItQQaFKsEw=w36-h36-p-c0x00000000-rp-mo-ba5-br100",
+      "comment": "(Tradução do Google) O lago é realmente bonito, cercado por pseudocratas interessantes. As moscas, das quais o lago leva o nome, eram um pouco irritantes (mas não são mosquitos!). Nós os encontramos em nossa visita em meados de julho.  (Original) Il lago è davvero bellissimo, circondato da pseudocrateri interessanti. Le mosche, da cui il lago prende il nome, erano un po' fastidiose (ma non sono zanzare!). Noi le abbiamo trovate nella nostra visita a metà luglio.",
+      "gradeComment": 5
+    }
+  ],
+  "peakHours": null,
+  "relatedSearches": [
+    "akureyri",
+    "hverfjall",
+    "krafla",
+    "vatnajökull",
+    "fjaðrárgljúfur",
+    "vatnajökull national park",
+    "jökulsárlón",
+    "dyrhólaey",
+    "akureyri",
+    "hverfjall",
+    "krafla",
+    "vatnajökull",
+    "fjaðrárgljúfur",
+    "vatnajökull national park",
+    "jökulsárlón",
+    "dyrhólaey"
+  ],
+  "relateds": [
+    {
+      "mainName": "Mývatn Nature Baths",
+      "url": null
+    },
+    {
+      "mainName": "Dettifoss",
+      "url": null
+    },
+    {
+      "mainName": "Goðafoss",
+      "url": null
+    },
+    {
+      "mainName": "Dimmuborgir",
+      "url": null
+    },
+    {
+      "mainName": "Krafla",
+      "url": null
+    },
+    {
+      "mainName": "Grjótagjá",
+      "url": null
+    },
+    {
+      "mainName": "Hverfjall",
+      "url": null
+    },
+    {
+      "mainName": "Hverir",
+      "url": null
+    },
+    {
+      "mainName": "Jökulsárlón",
+      "url": null
+    },
+    {
+      "mainName": "Skútustaðagígar",
+      "url": null
+    },
+    {
+      "mainName": "Askja",
+      "url": null
+    },
+    {
+      "mainName": "Gullfoss",
+      "url": null
+    },
+    {
+      "mainName": "Námafjall",
+      "url": null
+    },
+    {
+      "mainName": "Ásbyrgi",
+      "url": null
+    },
+    {
+      "mainName": "Lake Viti",
+      "url": null
+    },
+    {
+      "mainName": "Þingvellir",
+      "url": null
+    },
+    {
+      "mainName": "Blue Lagoon",
+      "url": null
+    },
+    {
+      "mainName": "Snæfellsnes",
+      "url": null
+    },
+    {
+      "mainName": "Círculo Dourado",
+      "url": null
+    },
+    {
+      "mainName": "Námaskarð",
+      "url": null
+    },
+    {
+      "mainName": "Ásbyrgisskógur",
+      "url": null
+    },
+    {
+      "mainName": "Seljalandsfoss",
+      "url": null
+    },
+    {
+      "mainName": "Skógafoss",
+      "url": null
+    },
+    {
+      "mainName": "Víti",
+      "url": null
+    },
+    {
+      "mainName": "Mývatn Nature Baths",
+      "url": null
+    },
+    {
+      "mainName": "Dettifoss",
+      "url": null
+    },
+    {
+      "mainName": "Goðafoss",
+      "url": null
+    },
+    {
+      "mainName": "Dimmuborgir",
+      "url": null
+    },
+    {
+      "mainName": "Krafla",
+      "url": null
+    },
+    {
+      "mainName": "Grjótagjá",
+      "url": null
+    },
+    {
+      "mainName": "Hverfjall",
+      "url": null
+    },
+    {
+      "mainName": "Hverir",
+      "url": null
+    },
+    {
+      "mainName": "Jökulsárlón",
+      "url": null
+    },
+    {
+      "mainName": "Skútustaðagígar",
+      "url": null
+    },
+    {
+      "mainName": "Askja",
+      "url": null
+    },
+    {
+      "mainName": "Gullfoss",
+      "url": null
+    },
+    {
+      "mainName": "Námafjall",
+      "url": null
+    },
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

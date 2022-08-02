@@ -1,0 +1,923 @@
+{
+  "mainName": "Portal Turístico da Cidade de Holambra",
+  "slug": "portal-turistico-da-cidade-de-holambra",
+  "category": "Atração turística",
+  "locationInformation": {
+    "latitude": "-22.6322014",
+    "longitude": "-47.0368062"
+  },
+  "basicInformation": [
+    {
+      "label": "endereço",
+      "tooltip": "Copiar endereço",
+      "text": "R. Prefeito Azin Lian, Holambra - SP, 13825-000",
+      "icon": "https://www.gstatic.com/images/icons/material/system_gm/1x/place_gm_blue_24dp.png"
+    },
+    {
+      "label": "website",
+      "tooltip": "Abrir website",
+      "text": "negocio.site",
+      "icon": "https://www.gstatic.com/images/icons/material/system_gm/1x/public_gm_blue_24dp.png"
+    },
+    {
+      "label": "Code",
+      "tooltip": "Copiar Plus Code",
+      "text": "9X97+47 Holambra, São Paulo",
+      "icon": "https://maps.gstatic.com/mapfiles/maps_lite/images/2x/ic_plus_code.png"
+    },
+    {
+      "label": "merchant",
+      "text": "Reivindicar esta empresa",
+      "icon": "https://www.gstatic.com/images/icons/material/system_gm/1x/verified_user_gm_blue_24dp.png"
+    }
+  ],
+  "ratingInformation": {
+    "basicRatingInformation": {
+      "averageGrade": 4.8,
+      "totalOfEvaluations": 3979
+    },
+    "ratingsByGrade": [
+      {
+        "grade": 5,
+        "totalRatings": 3214
+      },
+      {
+        "grade": 4,
+        "totalRatings": 579
+      },
+      {
+        "grade": 3,
+        "totalRatings": 143
+      },
+      {
+        "grade": 2,
+        "totalRatings": 24
+      },
+      {
+        "grade": 1,
+        "totalRatings": 19
+      }
+    ]
+  },
+  "ratingTags": [
+    {
+      "tag": "fotos",
+      "count": 212,
+      "tooltip": "fotos, mencionado em 212 avaliações"
+    },
+    {
+      "tag": "flores",
+      "count": 99,
+      "tooltip": "flores, mencionado em 99 avaliações"
+    },
+    {
+      "tag": "passeio",
+      "count": 56,
+      "tooltip": "passeio, mencionado em 56 avaliações"
+    },
+    {
+      "tag": "organizada",
+      "count": 26,
+      "tooltip": "organizada, mencionado em 26 avaliações"
+    },
+    {
+      "tag": "arquitetura",
+      "count": 19,
+      "tooltip": "arquitetura, mencionado em 19 avaliações"
+    },
+    {
+      "tag": "povo",
+      "count": 14,
+      "tooltip": "povo, mencionado em 14 avaliações"
+    },
+    {
+      "tag": "cartão postal",
+      "count": 10,
+      "tooltip": "cartão postal, mencionado em 10 avaliações"
+    },
+    {
+      "tag": "pórtico",
+      "count": 8,
+      "tooltip": "pórtico, mencionado em 8 avaliações"
+    },
+    {
+      "tag": "belo",
+      "count": 5,
+      "tooltip": "belo, mencionado em 5 avaliações"
+    },
+    {
+      "tag": "moinho",
+      "count": 5,
+      "tooltip": "moinho, mencionado em 5 avaliações"
+    }
+  ],
+  "featuredPhotos": [
+    "https://lh5.googleusercontent.com/p/AF1QipN58tH5E4hKf_GD9lhs3IMGbzg5YEsUmmwgyelk=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMHSSPdtpKXBGge-GCmBqtkKy7jr9J3Kbs8L-zT=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipP7DUeByGGqv6fmSlh8jt1vPAjN8dDjeyP9-Icj=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMfVaICWmoHWe-0TUg_Vb1RolgZe02XU_YSPB5z=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNAeyAwh3t_y6PJK99BMf7GSiUHC2K6-6rbFTob=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOkpvAZ6hpxxlu8BB5YiUYXIeYtJkmGheLjtdJy=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipN6FON92K60pRYpKA0Bi2lfZnICMEYcYQuF2v-6=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOWcObT9M5369c45BEu03jKXzIahr2H2ACvuD7h=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMmM-_gq5qAm_VmrgtNO6hBNyZx1opcP0DlE_N3=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMq1rHMFg88B4cH9FjDRsU1OZbocote8vDGob6P=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPdO1tgM0IB3QAss6gGHAAEIpSUT4lOZNZz6z7B=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNBrF4zwHfwVE2yfCxGaGsbNEwuS9KceY12Qhtb=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPCcPb2H4EyZCk9zAcRV80JpuudRqdLmgLmNvm9=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipM3jJl_ZSirzkQProJjldxkQ4JhKsiGHSGoErNI=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOwBlAw44BlYCb4zTdMq1Izy8U44HFD4hgIx7ki=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMNTzmZ0TX69t4Ijvs0K7WJk7vJvGWy-0HA5A88=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPGl8hf2ozJ3zD9_nX1cEaOu4KMPncx90NkWC_x=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipN-y4awDChmlmONyV6CVTjFPHCZzEfiRXL49xcf=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNEcvLZz9vXCS_eDiF8kK4ZHcUUR50-MYkIf7Zk=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOvt17fKB6tapV_B1gGWrRKObyA9v1decCoBLcR=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNz2kVtiuy3tFvYtVsx4WftBflhOU2GYCIojCGt=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipN8c0f8LAHnogVBpryKbxXEz3edVb6K-MPApfQs=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMLTLyKKuD4A3MYkNvfDjCNyDA1mkkWHaHBejPI=w1024-h576-k-no"
+  ],
+  "topComments": [
+    {
+      "author": "Mauricio Capalbo",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucqU7PzxEOx9921-APot5OULlK94MRWicjgshnKRUZ8=w36-h36-p-c0x00000000-rp-mo-br100",
+      "comment": "Um ótimo Lugar para vc fazer um passeio com a família , lugar aconchegante , pessoas bonitas ,povo bem acolhedor, bons preços, bastante variedades. O melhor restaurante é Van Gogh , junto ao lago ótimo atendimento e uma boa vista da logoa",
+      "gradeComment": 5
+    },
+    {
+      "author": "Rodolfo Neto",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucpDbz1w7L93xv9QM0VJDCqUDZXBRUHcjRWW9aLRElk=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "O pórtico da entrada da cidade é bem bonito! Vale a experiência de fazer uma pausa rápida para tirar algumas fotos.  Duas dicas valem aqui. No lado direito, tem vagas para parar, mas as fotos ficam melhores quando tiradas do lado esquerdo, ao atravessar a rua. Além disso, antes do pórtico, há um letreiro da cidade que também é bonito. Vale parar no pórtico e ir andando até lá - mas com cuidado, porque não tem calçadas, então tem que cruzar a pista com atenção.  Além disso, no lado direito do pórtico dá para pegar folhetos de turismo da cidade.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Fabiana Gomes Martins Coelho",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucov-FPdzkMK_c5kuJLGf85DnUCrdkjmWmA2qxGHWg=w36-h36-p-c0x00000000-rp-mo-br100",
+      "comment": "Lugar lindo, com muitas flores, fiquei encantada, só achei que deveria ter mais restaurantes, recomendo ir de carro e em dias nublados, lá é mais quente do que aqui no litoral, e as lojas de flores fecharam as 17 horas no sábado...",
+      "gradeComment": 4
+    },
+    {
+      "author": "Maria Collard",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucpH6r_ircPT2ElI56hRgbnqRWY3igpBh52lbskyKQU=w36-h36-p-c0x00000000-rp-mo-ba3-br100",
+      "comment": "Amamos a cidade, viemos de Manaus para conhecê-la e nós encontamos. ❤️",
+      "gradeComment": 5
+    },
+    {
+      "author": "TADI viagem",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucpKjO6DfSi22Xs8lEjglcI5QShL5lDVtxvG8vix7A=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "Parada obrigatória para quem visita o município de Holambra é a primeira impressão que temos do lugar é as fotos são garantidas.  Postamos um vídeo dos principais pontos de Holambra para ser visitado, não deixe de conferir  \"TADI viagem\"",
+      "gradeComment": 5
+    },
+    {
+      "author": "Tayrine Viana",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucpxlhzhKOJXk4U7o72YwMezVvXDt7zAZn63UGcr7Q=w36-h36-p-c0x00000000-rp-mo-br100",
+      "comment": "Uma cidadezinha bem charmosa, com várias lojinhas lindas, excelente opção para passar o dia ou um fim de semana. Vale muito a pena visitar.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Fausto Esequiel",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucq1vmbA_a25OFoRRCXCS72b9NI1Kb5BE4qazbcOc7I=w36-h36-p-c0x00000000-rp-mo-ba2-br100",
+      "comment": "Que lugar maravilhoso. Tão perto de Sampa e nem íamos, agirá seremos fiéis visitantes. Tuas limpas, ambiente agradável para levar a família.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Waldir Rocha",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucqkkWYTg3W-3OA7RpBKW2j5Q29DiV98nHSJszjV2g=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "Um belo e bem cuidado portal, eu até fiz um vídeo contando um pouquinho da história de Holambra, postei no meu canal, quem quiser dá uma olhadinha o nome é WALDIR ROCHA",
+      "gradeComment": 5
+    },
+    {
+      "author": "Rodrigo Porto",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucol0IMAVNr4M-HE0zwx2mrhIXklNHYV9JzwAXkMGSc=w36-h36-p-c0x00000000-rp-mo-ba6-br100",
+      "comment": "Um belíssimo Portal! Ótimo lugar para fazer belas fotos!",
+      "gradeComment": 5
+    },
+    {
+      "author": "Andre De Siqueira",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucrSUyvY8uoIABJye8P_UJV_y7lgV9tcDhXZ04ST93c=w36-h36-p-c0x00000000-rp-mo-ba3-br100",
+      "comment": "Local muito bom e bonito na época das flores. Quem quiser conhecer recomendo ir com próprio veiculo. Para excursão o ônibus precisa de autorização para entra na cidade (20 apenas) ele fica parado na segunda entrada, para visitar os pontos turísticos como \"campo de flores\" fica muito longe então recomendo também fechar um pacote  com uma empresa de turismo.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Ricardo Costa",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucpkj40q0LUro3GZtnZR3eBF-z6bV1H4vCsuLWtPWQ=w36-h36-p-c0x00000000-rp-mo-ba3-br100",
+      "comment": "Lindo lugar, mas para no máximo um dia de passeio, talvez por não estar acontecendo a explofora seja mais tranquilo essa época. Moinho não acho que valha os R$ 12 reais pra entrar, but ! Num geral foi bom !",
+      "gradeComment": 4
+    },
+    {
+      "author": "Carlos Roberto Minossi",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucoJcvV5zwMK0JrpXoIXYzLPfhKv5IuyFR2D-lxs7Qc=w36-h36-p-c0x00000000-rp-mo-ba8-br100",
+      "comment": "O Pórtico Turístico da Cidade de Holambra foi inaugurado em 2004 e segue a tradicional arquitetura holandesa, foi construído com tijolos a vista, telhado inclinado e grandes janelas. O portal também abriga o serviço de apoio ao turista e nos finais de semana é comum ver pessoas com trajes típicos distribuindo panfletos dos pontos turísticos da cidade e orientando os turistas e visitantes.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Selma Saragoca",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucp-yGXu9oHgLQJ54vdaN9E5WzeMtD5cuooumE9F_w=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "Lindo passeio, aqui não existe problemas diante de tanta beleza",
+      "gradeComment": 5
+    },
+    {
+      "author": "Daniel Tay Santos",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucqZnTQvDDHlYQyK0hrE9zwabLHaKldsaFSyrrdIxX0=w36-h36-p-c0x00000000-rp-mo-ba5-br100",
+      "comment": "Muito bonito e muito bem cuidado, no GPS se você colocar Holambra e não portal turístico você não verá a entrada da cidade via portal, ali você pode parar o carro descer e tirar fotos, é muito bonito e vale a pena a parada. Tudo ao redor muito bem cuidado e ajeitado para melhor experiência possível, entrando na cidade lá no trailer de artesanato do moinho você conseguirá de graça um mapa turístico da cidade. Não pague por eles na entrada, são gratuitos no trailer.",
+      "gradeComment": 4
+    },
+    {
+      "author": "Lisete Inácio",
+      "photoAuthor": "https://lh3.googleusercontent.com/a/AItbvmnYvie5hqDICYMDYU9bI1C6YyN3sIA0SEkzUOYw=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "Cidade super aconchegante... Super limpa e arrumada... Vale a pena conhecerem.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Flavio Gasparini",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucp3mIWD9BiZSG11HfTRr0NYGWwvHE7BW6b76mpw0Sg=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "Lugar muito lindo e organizado, parece que vc está fora do pais.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Grez Lima",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucqqMEydNNeeUawi0lm_d5A6QnjTrVm2j8kv8GFdJw=w36-h36-p-c0x00000000-rp-mo-br100",
+      "comment": "Holambra cidade lindíssima, porém os preços dos restaurantes não são acessíveis...",
+      "gradeComment": 4
+    },
+    {
+      "author": "Vagner Moura",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucpj4zv8lLIsI1bhhYHPw87H-D1GedK4OSO2Cljd=w36-h36-p-c0x00000000-rp-mo-ba3-br100",
+      "comment": "Na minha humilde opinião, um dos portais mais bonitos de SP. Tem apenas umas 5 vagas pra estacionar em frente. Cidade linda, limpa, com pessoas simpáticas e educadas. Muitos lugares pra estacionar gratuito dentro da cidade. Super recomendo o passeio.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Alizinete Martins",
+      "photoAuthor": "https://lh3.googleusercontent.com/a/AItbvmmPOcyETYcCDFluoxd6KTKnYRdrLiyjNJmfE7JR=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "Passei um dia maravilhoso em Holambra. Cidade linda,tudo em harmonia. Um verdadeiro paraíso.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Cleuza Bispo",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucodcrPNHkM73pT167OLlpbA7oYSTrWRzYh9fSJ3PE4=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "Simplesmente incrível,  sentir uma emoção muito grande ao chegar ao portal,  sabe aquela sensação Boa de quando você  queria muito conhecer um determinado lugar é você ver que está lá. Eu  fiquei toda  arrepiada quando me vir em frente ao portal.",
+      "gradeComment": 5
+    }
+  ],
+  "peakHours": [
+    {
+      "Sunday": [
+        {
+          "hour": "04:00",
+          "percent": 1
+        },
+        {
+          "hour": "07:00",
+          "percent": 2
+        },
+        {
+          "hour": "08:00",
+          "percent": 29
+        },
+        {
+          "hour": "09:00",
+          "percent": 100
+        },
+        {
+          "hour": "10:00",
+          "percent": 97
+        },
+        {
+          "hour": "11:00",
+          "percent": 33
+        },
+        {
+          "hour": "12:00",
+          "percent": 15
+        },
+        {
+          "hour": "13:00",
+          "percent": 16
+        },
+        {
+          "hour": "14:00",
+          "percent": 17
+        },
+        {
+          "hour": "15:00",
+          "percent": 15
+        },
+        {
+          "hour": "16:00",
+          "percent": 11
+        },
+        {
+          "hour": "17:00",
+          "percent": 7
+        },
+        {
+          "hour": "18:00",
+          "percent": 4
+        },
+        {
+          "hour": "19:00",
+          "percent": 2
+        },
+        {
+          "hour": "22:00",
+          "percent": 1
+        },
+        {
+          "hour": "23:00",
+          "percent": 1
+        },
+        {
+          "hour": "00:00",
+          "percent": 1
+        },
+        {
+          "hour": "01:00",
+          "percent": 1
+        },
+        {
+          "hour": "02:00",
+          "percent": 1
+        },
+        {
+          "hour": "03:00",
+          "percent": 1
+        }
+      ]
+    },
+    {
+      "Monday": [
+        {
+          "hour": "06:00",
+          "percent": 1
+        },
+        {
+          "hour": "07:00",
+          "percent": 3
+        },
+        {
+          "hour": "08:00",
+          "percent": 3
+        },
+        {
+          "hour": "09:00",
+          "percent": 4
+        },
+        {
+          "hour": "10:00",
+          "percent": 4
+        },
+        {
+          "hour": "11:00",
+          "percent": 4
+        },
+        {
+          "hour": "12:00",
+          "percent": 4
+        },
+        {
+          "hour": "13:00",
+          "percent": 4
+        },
+        {
+          "hour": "14:00",
+          "percent": 4
+        },
+        {
+          "hour": "15:00",
+          "percent": 4
+        },
+        {
+          "hour": "16:00",
+          "percent": 3
+        },
+        {
+          "hour": "17:00",
+          "percent": 2
+        },
+        {
+          "hour": "18:00",
+          "percent": 1
+        },
+        {
+          "hour": "20:00",
+          "percent": 1
+        },
+        {
+          "hour": "21:00",
+          "percent": 1
+        },
+        {
+          "hour": "22:00",
+          "percent": 1
+        },
+        {
+          "hour": "23:00",
+          "percent": 1
+        },
+        {
+          "hour": "00:00",
+          "percent": 1
+        },
+        {
+          "hour": "01:00",
+          "percent": 1
+        },
+        {
+          "hour": "02:00",
+          "percent": 1
+        },
+        {
+          "hour": "03:00",
+          "percent": 1
+        }
+      ]
+    },
+    {
+      "Tuesday": [
+        {
+          "hour": "04:00",
+          "percent": 1
+        },
+        {
+          "hour": "06:00",
+          "percent": 1
+        },
+        {
+          "hour": "07:00",
+          "percent": 2
+        },
+        {
+          "hour": "08:00",
+          "percent": 3
+        },
+        {
+          "hour": "09:00",
+          "percent": 4
+        },
+        {
+          "hour": "10:00",
+          "percent": 4
+        },
+        {
+          "hour": "11:00",
+          "percent": 4
+        },
+        {
+          "hour": "12:00",
+          "percent": 4
+        },
+        {
+          "hour": "13:00",
+          "percent": 3
+        },
+        {
+          "hour": "14:00",
+          "percent": 3
+        },
+        {
+          "hour": "15:00",
+          "percent": 2
+        },
+        {
+          "hour": "16:00",
+          "percent": 2
+        },
+        {
+          "hour": "17:00",
+          "percent": 1
+        },
+        {
+          "hour": "18:00",
+          "percent": 1
+        },
+        {
+          "hour": "20:00",
+          "percent": 1
+        },
+        {
+          "hour": "21:00",
+          "percent": 1
+        },
+        {
+          "hour": "22:00",
+          "percent": 1
+        },
+        {
+          "hour": "23:00",
+          "percent": 1
+        },
+        {
+          "hour": "00:00",
+          "percent": 1
+        },
+        {
+          "hour": "01:00",
+          "percent": 1
+        },
+        {
+          "hour": "02:00",
+          "percent": 1
+        },
+        {
+          "hour": "03:00",
+          "percent": 1
+        }
+      ]
+    },
+    {
+      "Wednesday": [
+        {
+          "hour": "05:00",
+          "percent": 1
+        },
+        {
+          "hour": "06:00",
+          "percent": 2
+        },
+        {
+          "hour": "07:00",
+          "percent": 3
+        },
+        {
+          "hour": "08:00",
+          "percent": 4
+        },
+        {
+          "hour": "09:00",
+          "percent": 5
+        },
+        {
+          "hour": "10:00",
+          "percent": 5
+        },
+        {
+          "hour": "11:00",
+          "percent": 6
+        },
+        {
+          "hour": "12:00",
+          "percent": 6
+        },
+        {
+          "hour": "13:00",
+          "percent": 6
+        },
+        {
+          "hour": "14:00",
+          "percent": 6
+        },
+        {
+          "hour": "15:00",
+          "percent": 5
+        },
+        {
+          "hour": "16:00",
+          "percent": 4
+        },
+        {
+          "hour": "17:00",
+          "percent": 3
+        },
+        {
+          "hour": "18:00",
+          "percent": 1
+        },
+        {
+          "hour": "22:00",
+          "percent": 1
+        },
+        {
+          "hour": "23:00",
+          "percent": 1
+        },
+        {
+          "hour": "00:00",
+          "percent": 1
+        },
+        {
+          "hour": "01:00",
+          "percent": 1
+        },
+        {
+          "hour": "02:00",
+          "percent": 1
+        },
+        {
+          "hour": "03:00",
+          "percent": 1
+        }
+      ]
+    },
+    {
+      "Thursday": [
+        {
+          "hour": "04:00",
+          "percent": 1
+        },
+        {
+          "hour": "06:00",
+          "percent": 2
+        },
+        {
+          "hour": "07:00",
+          "percent": 4
+        },
+        {
+          "hour": "08:00",
+          "percent": 8
+        },
+        {
+          "hour": "09:00",
+          "percent": 10
+        },
+        {
+          "hour": "10:00",
+          "percent": 10
+        },
+        {
+          "hour": "11:00",
+          "percent": 9
+        },
+        {
+          "hour": "12:00",
+          "percent": 8
+        },
+        {
+          "hour": "13:00",
+          "percent": 8
+        },
+        {
+          "hour": "14:00",
+          "percent": 8
+        },
+        {
+          "hour": "15:00",
+          "percent": 7
+        },
+        {
+          "hour": "16:00",
+          "percent": 5
+        },
+        {
+          "hour": "17:00",
+          "percent": 3
+        },
+        {
+          "hour": "18:00",
+          "percent": 2
+        },
+        {
+          "hour": "20:00",
+          "percent": 1
+        },
+        {
+          "hour": "21:00",
+          "percent": 1
+        },
+        {
+          "hour": "22:00",
+          "percent": 1
+        },
+        {
+          "hour": "23:00",
+          "percent": 1
+        },
+        {
+          "hour": "00:00",
+          "percent": 1
+        },
+        {
+          "hour": "01:00",
+          "percent": 1
+        },
+        {
+          "hour": "02:00",
+          "percent": 1
+        },
+        {
+          "hour": "03:00",
+          "percent": 1
+        }
+      ]
+    },
+    {
+      "Friday": [
+        {
+          "hour": "04:00",
+          "percent": 1
+        },
+        {
+          "hour": "06:00",
+          "percent": 1
+        },
+        {
+          "hour": "07:00",
+          "percent": 3
+        },
+        {
+          "hour": "08:00",
+          "percent": 6
+        },
+        {
+          "hour": "09:00",
+          "percent": 8
+        },
+        {
+          "hour": "10:00",
+          "percent": 9
+        },
+        {
+          "hour": "11:00",
+          "percent": 9
+        },
+        {
+          "hour": "12:00",
+          "percent": 7
+        },
+        {
+          "hour": "13:00",
+          "percent": 5
+        },
+        {
+          "hour": "14:00",
+          "percent": 5
+        },
+        {
+          "hour": "15:00",
+          "percent": 6
+        },
+        {
+          "hour": "16:00",
+          "percent": 7
+        },
+        {
+          "hour": "17:00",
+          "percent": 4
+        },
+        {
+          "hour": "18:00",
+          "percent": 1
+        },
+        {
+          "hour": "19:00",
+          "percent": 1
+        },
+        {
+          "hour": "20:00",
+          "percent": 1
+        },
+        {
+          "hour": "21:00",
+          "percent": 1
+        },
+        {
+          "hour": "22:00",
+          "percent": 1
+        },
+        {
+          "hour": "23:00",
+          "percent": 1
+        },
+        {
+          "hour": "00:00",
+          "percent": 1
+        },
+        {
+          "hour": "01:00",
+          "percent": 1
+        },
+        {
+          "hour": "02:00",
+          "percent": 1
+        },
+        {
+          "hour": "03:00",
+          "percent": 1
+        }
+      ]
+    },
+    {
+      "Saturday": [
+        {
+          "hour": "04:00",
+          "percent": 1
+        },
+        {
+          "hour": "05:00",
+          "percent": 1
+        },
+        {
+          "hour": "06:00",
+          "percent": 1
+        },
+        {
+          "hour": "07:00",
+          "percent": 3
+        },
+        {
+          "hour": "08:00",
+          "percent": 17
+        },
+        {
+          "hour": "09:00",
+          "percent": 38
+        },
+        {
+          "hour": "10:00",
+          "percent": 44
+        },
+        {
+          "hour": "11:00",
+          "percent": 29
+        },
+        {
+          "hour": "12:00",
+          "percent": 15
+        },
+        {
+          "hour": "13:00",
+          "percent": 11
+        },
+        {
+          "hour": "14:00",
+          "percent": 10
+        },
+        {
+          "hour": "15:00",
+          "percent": 10
+        },
+        {
+          "hour": "16:00",
+          "percent": 8
+        },
+        {
+          "hour": "17:00",
+          "percent": 5
+        },
+        {
+          "hour": "18:00",
+          "percent": 3
+        },
+        {
+          "hour": "19:00",
+          "percent": 1
+        },
+        {
+          "hour": "21:00",
+          "percent": 1
+        },
+        {
+          "hour": "22:00",
+          "percent": 1
+        },
+        {
+          "hour": "23:00",
+          "percent": 1
+        },
+        {
+          "hour": "00:00",
+          "percent": 1
+        },
+        {
+          "hour": "01:00",
+          "percent": 1
+        },
+        {
+          "hour": "02:00",
+          "percent": 1
+        },
+        {
+          "hour": "03:00",
+          "percent": 1
+        }
+      ]
+    }
+  ],
+  "relatedSearches": [
+    "portal de holambra",
+    "secretaria de turismo de holambra",
+    "portal de holambra endereco",
+    "telefone da secretaria de turismo de holambra",
+    "holambra pontos turísticos gratuitos",
+    "onde comprar flores em holambra",
+    "holambra está aberto para visitação 2022",
+    "prefeitura de holambra telefone"
+  ],
+  "relateds": [
+    {
+      "mainName": "Moinho Povos Unidos",
+      "url": null
+    },
+    {
+      "mainName": "Boulevard Holandes",
+      "url": null
+    },
+    {
+      "mainName": "Museu Histórico de Holambra",
+      "url": null
+    },
+    {
+      "mainName": "Deck do Amor",
+      "url": null
+    }
+  ]
+}

@@ -1,0 +1,710 @@
+{
+  "mainName": "Castelo de Leiria",
+  "slug": "castelo-de-leiria",
+  "category": "Castelo",
+  "locationInformation": {
+    "latitude": "39.7472454",
+    "longitude": "-8.8093888"
+  },
+  "basicInformation": [
+    {
+      "label": "endereço",
+      "tooltip": "Copiar endereço",
+      "text": "Largo de São Pedro, 2400-235 Leiria, Portugal",
+      "icon": "https://www.gstatic.com/images/icons/material/system_gm/1x/place_gm_blue_24dp.png"
+    },
+    {
+      "label": "website",
+      "tooltip": "Abrir website",
+      "text": "cm-leiria.pt",
+      "icon": "https://www.gstatic.com/images/icons/material/system_gm/1x/public_gm_blue_24dp.png"
+    },
+    {
+      "label": "telefone",
+      "tooltip": "Copiar número de telefone",
+      "text": "+351 244 839 670",
+      "icon": "https://www.gstatic.com/images/icons/material/system_gm/1x/phone_gm_blue_24dp.png"
+    },
+    {
+      "label": "Code",
+      "tooltip": "Copiar Plus Code",
+      "text": "P5WR+V6 Leiria, Portugal",
+      "icon": "https://maps.gstatic.com/mapfiles/maps_lite/images/2x/ic_plus_code.png"
+    }
+  ],
+  "ratingInformation": {
+    "basicRatingInformation": {
+      "averageGrade": 4.4,
+      "totalOfEvaluations": 4167
+    },
+    "ratingsByGrade": [
+      {
+        "grade": 5,
+        "totalRatings": 2581
+      },
+      {
+        "grade": 4,
+        "totalRatings": 1056
+      },
+      {
+        "grade": 3,
+        "totalRatings": 309
+      },
+      {
+        "grade": 2,
+        "totalRatings": 71
+      },
+      {
+        "grade": 1,
+        "totalRatings": 150
+      }
+    ]
+  },
+  "ratingTags": [
+    {
+      "tag": "obras",
+      "count": 75,
+      "tooltip": "obras, mencionado em 75 avaliações"
+    },
+    {
+      "tag": "elevador",
+      "count": 60,
+      "tooltip": "elevador, mencionado em 60 avaliações"
+    },
+    {
+      "tag": "palácio",
+      "count": 23,
+      "tooltip": "palácio, mencionado em 23 avaliações"
+    },
+    {
+      "tag": "estádio",
+      "count": 16,
+      "tooltip": "estádio, mencionado em 16 avaliações"
+    },
+    {
+      "tag": "armas",
+      "count": 13,
+      "tooltip": "armas, mencionado em 13 avaliações"
+    },
+    {
+      "tag": "história de portugal",
+      "count": 12,
+      "tooltip": "história de portugal, mencionado em 12 avaliações"
+    },
+    {
+      "tag": "funicular",
+      "count": 11,
+      "tooltip": "funicular, mencionado em 11 avaliações"
+    },
+    {
+      "tag": "sacada",
+      "count": 10,
+      "tooltip": "sacada, mencionado em 10 avaliações"
+    },
+    {
+      "tag": "restauro",
+      "count": 8,
+      "tooltip": "restauro, mencionado em 8 avaliações"
+    },
+    {
+      "tag": "dinis i de portugal",
+      "count": 5,
+      "tooltip": "dinis i de portugal, mencionado em 5 avaliações"
+    }
+  ],
+  "featuredPhotos": [
+    "https://lh5.googleusercontent.com/p/AF1QipNUHHwLFAFxejESgZS4FpvbqoDNyQO4gZKbJ-r7=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipN9oltui3rnnsan6NVbqrLRzyOa6Tj25RQPQ3kB=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOtjAAKooQwPxasX2JiPjp5NLTkG-7InkmICRg2=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMvmzCJrvKWViQ9fe9B6p_xYDkmeHfj6JAsYea6=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipN1aLc33GjlRvdYv2cauVuqkMYVkRcV1SV2jUwb=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNcZ1rry1VJCDr0SxyRB87Xy6Y5qO2kw3eQv81V=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOTGAyi1LW57u9WRWg-s25DuNftdITNO-cx5DCf=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipN5jYXGB27ZfdqscJibOHpMRBivzE9LxGpkByS7=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNiopcEIcNmn96n7Zq7WCWDVOq_zu3RBEnZEphJ=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMDALF-pXBwaCGc357JRjuQHCVHhOJvWJUXCpgu=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOq5ylpl97Fyby0A3cshQNMtMUyHw0Dvjk_-SvN=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPrtLR1cqJYpJ8V9Hddjqdts4RcATJbDxsZ9iQl=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOdcb1IlN62OwkeKr11EymI6iPp-PE0Agv1hWjz=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPY7erQX7tfwey25t7fgpDdjfmO3D_bsrEWUqw5=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOYsJjuOcOl5tnHH79KKZ25WR6k-E70z_IJ2lXr=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNsxNEJ7b9nQVMtyDC7rjDB9XvapwY3RTzivU7N=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMXVAyvbDsFaLJ89FWOorzwPNBRQpqC6o1U_Xrz=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNXg_BzsJ7JB8Uy2_nRFXkcHncG8Uu72ZIaI2iT=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPP79Fm6B3uTGdby1b8pdkbw5oTW1mbioA0EmLf=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPIZKFfcNGYzlsj_x7wleJFGjzqnrGJqguO4vBV=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMkoJCBk3IPlkTw9w74lbmLFLlSlYPQxIlmFiWW=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPfkEh2aHKeFXEZLefKst2iBqUsoDF6lL5DCXcX=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMWitut_qNHTidvCSNFUmVEF2xSNk9l9rj79drI=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipM16hvP1hIRogCShE2rcsIaHfJ0qEqYNSi9qG2n=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipODpaNNbSEnV1YRJNZWGSxtRIYLiZznNqD8Vu6N=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOyd5nCGmd5EUlLSaQ7E9lbyHUmTS-jb4VWZ08O=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipO_Q3oY5Jo6UZsWEXM4GhzLk6GTOjfVyhe_ZR8B=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipM23TuRtDmB-q45LQTB8hFRC2ww_ytitZUGSSPh=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNTJ5-X0vRwrZsaf3SCx5O3P6OuNwBUD09rLHna=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipO6TLTcRb5MA8jjMzBFIqFJ1SzbE2xsBAu_AR6k=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNb2m93tD-feQqOXTIr9FMaBs28b0h9JYZ14L2j=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipP_227hYEE6l6gEXGsRvsMfUxTZTxO0OaruEouZ=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNIxLW22EJrC3MuxBBami3GOcYPZvaQZp7jIet-=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNjEPCqLQo-K6VICHK8WU1Kc6H8O1ITQ-_ikO_c=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNv4zP7FrSseHaXbmv6Z_z1HfJlcXXXZP4y9ZM5=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNBwmjQET2oRFdcVM2NtWEaAZjayjcwWU3kaME1=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNZrg1dYWWhizjk1PzQ-pls5FqQiQWEqvaOPxpb=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOqhqqWuVU2U_V_R2LgW7_U7gfG2oN50KOsHWFd=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPvvgHf6Af0wckgup72R1JbPSl1Pt3QuxCYqiFV=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipN2auhflWTDzeDfbj0aTFfWKHBSVgC-EB9lcFHt=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPNJm-xXhSU7byViyLjTClcryXypNNKT00Fl_u4=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPUJc8Dft_7p1kW1KrFhg4t21UDu32PhdZGNCeq=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOU-7CYMWiXAm0sPRwwaFTILe6NiUuf2u47KMrW=w1024-h576-k-no"
+  ],
+  "topComments": [
+    {
+      "author": "Antonio Coelho",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucoRqcRPND463Eiz9AWXrZ6Cl_a3d61g48sTv8W0=w36-h36-p-c0x00000000-rp-mo-ba6-br100",
+      "comment": "Mandado construir por Afonso Henriques o castelo sofreu diversas intervenções, sendo que se atribui a D. Diniz a sua adaptação à função de palácio. A recente intervenção dotou o espaço de melhores acessibilidades, muito bem integrados no espaço. Merecem destaque a vista superior das cisternas (pena não ser possível visitá-las!), a subida à torre de menagem, com uma excelente vista sobre toda a região, a visita aos paços onde nos dois pisos inferiores se situam um núcleo arqueológico e outro referente à idade média. No piso superior é onde se podem apreciar a varanda com a arcada gótica, para além das câmaras reais. Saindo, surge-nos a Igreja de Santa Maria da Pena, contemporânea da construção do castelo, mas que sofreu múltiplas alterações nos séc. seguintes. Magnificamente recuperada, destaco a capela-mor com os seus capiteis e abóbadas. E, para despedida, a torre dos sinos. Excelente, uma visita a não perder em Leiria!",
+      "gradeComment": 5
+    },
+    {
+      "author": "カスキーリョマルコ",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZuco2c03nCS23sNAWvRbYPxQigzEfudjx5RfazGTcDlE=w36-h36-p-c0x00000000-rp-mo-ba6-br100",
+      "comment": "Castelo imponente, mandado construir por D. Afonso Henriques, localizado na cidade de Leiria. O acesso faz-se por dois elevadores gratuitos. Tenha atenção que não conseguirá aceder por carro ou a pé. Os passadiços encontram-se vedados. O preço de entrada no castelo é muito acessível. Apenas 2,5 euros. No interior pode-se visitar a Casa da Guarda (onde se adquirem os bilhetes), cisternas, porta da traição, paços novos, torre de menagem, ruínas da colegiada, igreja de Santa María da Pena e Torre da Bucaqueira. Existe uma exposição de carácter histórico muito interessante nos paços novo.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Maria Elisabete Gil Alabarse",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucppUqkrt9v6956NY55t5FTh2bT8CRtV4F9a40lalw=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "O Castelo de Leiria, eu achei muito lindo, onde se tem um trajeto de meus Ancestrais, principalmente quando aparece Dom Joāo Mestre de Avis, \" Considerado o bom de memória, parava neste castelo quando estava contruindo Museu da Batalha.Este Castelo agora explorado por arqueologos, foi encontrado pedaços de tarros de 2500 anos de Cristo. Onde existe uma outra exposiçāo de sitios Arquiologicos. Tem muito a explorar, e também acho que existe muita história desde o Rei Dinis, qye deveria ser divulgada e estudada pelos que estāo a divulgar ao castelo. Acho que existe tantas informações, mas nada sabem, nada estudam!!!!? Com minhares de livros e Tomos que estāo em Portugal. Tudo arquivado, nada divilgado!!! E a história fica vaga, pois falta interesse em Pesquisa, divulgaçāo e um estudo mais profundo.  Gil-",
+      "gradeComment": 5
+    },
+    {
+      "author": "Teresa Morais (ĐÎĐÎPŤ ĞÄMĖŘ TwT)",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucp8VjD5gRvzOjkhDICBxj3mkKPOLNKvNbu9pVv8LZ4=w36-h36-p-c0x00000000-rp-mo-ba3-br100",
+      "comment": "Adorei a visita ao castelo de Leiria.  Tem imenso para explorar, exposições dentro das salas do castelo, mto bem conservado e de boa restauração e manutenção,  com bons acessos a todos os recantos e torres podendo ser visitado na totalidade.  Lindo e magico ainda fomos presenteados com um lindo concerto de harpa com cantora clássica,  simplesmente espectacular!",
+      "gradeComment": 5
+    },
+    {
+      "author": "mario oliveira",
+      "photoAuthor": "https://lh3.googleusercontent.com/a/AItbvmntHEX_rusrV20exPydg-WpA3MbPqIGrcmwWWXF=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "Valeu bem a pena gastar dinheiro dos nossos impostos para recuperar este espaço coevo do nosso primeiro monarca. Pontos altos são: a varanda/ galeria com vista sobre a cidade é deslumbrante. A cspela gótica da colegiada está linda. Falta apenas o canto gregoriano em fundo. Tem uma acústica brutal. Experimente cantar alto lá dentro. É fabuloso. A torre de menagem tem uma vista de 360 graus.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Ricardo Rodrigues",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucpNtXMAirXQ0PbRjhhLRlDGp_AG94f4E57lw43A-A=w36-h36-p-c0x00000000-rp-mo-ba5-br100",
+      "comment": "Foi uma visita bastante agradável. O elevador para o Castelo (2, o mais recente) é sem dúvida uma mais valia, sendo fácil estacionar nas imediações. A visita está bastante bem organizada e o staff é atencioso e eficiente. Existe informação suficiente ao lado do percurso. A vista do Castelo é magnífica. O nível de conservação é bastante bom, permitindo ter uma boa noção da forma como o mesmo existiu na época medieval. O Castelo em si, sem dúvida o ex-libris de Leiria, também é dos mais bonitos que já visitei. Não consegui fazer a visita guiada, é um bom motivo para lá voltar. Gostei muito.",
+      "gradeComment": 5
+    },
+    {
+      "author": "maria pinto",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucpnD2UFtTWsETuBmilCIIzyMYvqAFFF03un7vvVfA=w36-h36-p-c0x00000000-rp-mo-br100",
+      "comment": "Foi dificil  o acesso pois ha obras  mas  existe na cidade junto ao castelo um parque de estacionamento  com elevador gratis   ( fiquei a saber depois!) .Visita paga",
+      "gradeComment": 4
+    },
+    {
+      "author": "Ana Rita Paulo",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucp6SsmE7UiJGn8fd0o2f3xV5-7na09ChIvzhL8UUA=w36-h36-p-c0x00000000-rp-mo-br100",
+      "comment": "Sítio em óptimo estado de conservação e bem restaurado. Pessoas simpáticas e acessíveis. Percurso feito pela direita dá a oportunidade de ver o castelo todo.",
+      "gradeComment": 5
+    },
+    {
+      "author": "C. S.S. A.",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucp0o3cwPy4DY2ep-CvlOZUQw86oDdvfq3Y3Mdctiw=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "Castelo bem cuidado que vale a pena visitar. Optamos pelo rápido elevador que nos levou até ao castelo, uma pequena viagem agradável....",
+      "gradeComment": 4
+    },
+    {
+      "author": "Liliana Alcaide",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucqJgQLAeMJlVIcYzf1CfYWpkQoP1G1yMDr1B2r4=w36-h36-p-c0x00000000-rp-mo-br100",
+      "comment": "Muito bonito e romântico 💓 O ascensor , uma mais valia e que permite uma Bela vista pela Cidade . Recomendo",
+      "gradeComment": 4
+    },
+    {
+      "author": "Paulo Roberto Baffi",
+      "photoAuthor": "https://lh3.googleusercontent.com/a/AItbvmkR62cTMUQLFZBGh2saZgXxea1Agc7T9hCR1Acn=w36-h36-p-c0x00000000-rp-mo-ba5-br100",
+      "comment": "Muito bonito...tem muita história, é um sítio milenar.",
+      "gradeComment": 4
+    },
+    {
+      "author": "Alexandre C. Neto",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucqhsvgcUn49hi-QkhvCcNd2JzkPLtZ1ipeSfZ0L=w36-h36-p-c0x00000000-rp-mo-br100",
+      "comment": "Bonito castelo. Tem um pequeno museu e  uma vista privilegiada em especial numa das torres. De fácil acesso.",
+      "gradeComment": 4
+    },
+    {
+      "author": "Paola Marsiglia",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucqSk1GByvkyjJrCkrfWV2Ru3AnLE07Zky5Vop0fTw=w36-h36-p-c0x00000000-rp-mo-ba3-br100",
+      "comment": "O castelo é lindo e a cidade também, gostei muito, recomendo a visita!",
+      "gradeComment": 5
+    },
+    {
+      "author": "Antonio Dias",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucrAN_cLo_TKd7NhGFTpjw2F2fj0-k0kW6tWjIhxA8w=w36-h36-p-c0x00000000-rp-mo-ba6-br100",
+      "comment": "Recomendo vivamente a visita deste Castelo porque está num bom estado de conservação e além disso tem uma exposição arqueológica dentro dele. Para quem o visitar de carro pode estacionar junto da Sé e subir de elevador para o Castelo.",
+      "gradeComment": 5
+    },
+    {
+      "author": "João Silva",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucpVKvlzweipkHEZoJIeorth2dju3-1fFvlFdWi_-Q=w36-h36-p-c0x00000000-rp-mo-ba2-br100",
+      "comment": "A melhor vista sobre a cidade! Elevador grátis até ao castelo.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Nuno R.L.A",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZuco56v6yuer5VCWuO7HJdPcc9HDgi_7Xf0dAughuTg=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "A historia que o castelo alberga vem de tao longe que parece uma viagem no tempo!",
+      "gradeComment": 5
+    },
+    {
+      "author": "Fabíola Abreu",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucro6FVmmOoogUkeY8Q5_FODM0lTB-aK9jpwaqwcxNA=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "Bonito castelo, recentemente recuperado e com boas acessibilidades (tem 2 elevadores grátis). Podemos visitar a Torre de Menagem, a Igreja de Nossa Senhora da Pena (que é deslumbrante), os Paços Reais e as Cisternas Medievais Tem um anfiteatro ao ar livre, onde foi possível assistir a uma sessão educativa e voo de aves. Os caminhos estão bem delimitados e arranjados. Grande variedade de flora autóctone, que proporciona um agradável passeio ou descanso em vários recantos à sombra. Casas de banho impecavelmente limpas. Tem um bar/zona de refeição. Ideal para familias. Recomendo.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Luisa Barbosa",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucoqI9zA-UQqPXJ2XlPDtk4J8SgGbnF89J8Zz5Xjzq0=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "Leiria uma cidade que cuida do centro histórico. Uma cidade cheia de gente. Uma cidade viva e bem pensada. Gostei",
+      "gradeComment": 5
+    },
+    {
+      "author": "Tiago Rafael",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucrvRqsvvre-OPgU2pDTIZtcjMCKR7_BRoKiZB4ihQo=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "Visita muito agradável. O castelo é enorme e merece umas boas horas de dedicação à visita. Tem umas vistas fantásticas e possui uma loja com preços muito acessíveis. Acredito que quando as obras de acesso ao castelo estiverem terminadas, a visita será ainda melhor.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Arceste Leite Filho",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucpiieQt5FfyrnFEq7W6uRTkEVe-e3n2Pl87PHL5=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "Belíssima cidade, com um dos maiores castelos que já visitei.",
+      "gradeComment": 5
+    }
+  ],
+  "peakHours": [
+    {
+      "Sunday": [
+        {
+          "hour": "10:00",
+          "percent": 19
+        },
+        {
+          "hour": "11:00",
+          "percent": 33
+        },
+        {
+          "hour": "12:00",
+          "percent": 38
+        },
+        {
+          "hour": "13:00",
+          "percent": 45
+        },
+        {
+          "hour": "14:00",
+          "percent": 62
+        },
+        {
+          "hour": "15:00",
+          "percent": 80
+        },
+        {
+          "hour": "16:00",
+          "percent": 94
+        },
+        {
+          "hour": "17:00",
+          "percent": 100
+        }
+      ]
+    },
+    {
+      "Monday": [
+        {
+          "hour": "10:00",
+          "percent": 8
+        },
+        {
+          "hour": "11:00",
+          "percent": 9
+        },
+        {
+          "hour": "12:00",
+          "percent": 10
+        },
+        {
+          "hour": "13:00",
+          "percent": 12
+        },
+        {
+          "hour": "14:00",
+          "percent": 15
+        },
+        {
+          "hour": "15:00",
+          "percent": 18
+        },
+        {
+          "hour": "16:00",
+          "percent": 19
+        },
+        {
+          "hour": "17:00",
+          "percent": 18
+        }
+      ]
+    },
+    {
+      "Tuesday": [
+        {
+          "hour": "10:00",
+          "percent": 12
+        },
+        {
+          "hour": "11:00",
+          "percent": 14
+        },
+        {
+          "hour": "12:00",
+          "percent": 15
+        },
+        {
+          "hour": "13:00",
+          "percent": 15
+        },
+        {
+          "hour": "14:00",
+          "percent": 16
+        },
+        {
+          "hour": "15:00",
+          "percent": 17
+        },
+        {
+          "hour": "16:00",
+          "percent": 18
+        },
+        {
+          "hour": "17:00",
+          "percent": 19
+        }
+      ]
+    },
+    {
+      "Wednesday": [
+        {
+          "hour": "10:00",
+          "percent": 9
+        },
+        {
+          "hour": "11:00",
+          "percent": 12
+        },
+        {
+          "hour": "12:00",
+          "percent": 14
+        },
+        {
+          "hour": "13:00",
+          "percent": 16
+        },
+        {
+          "hour": "14:00",
+          "percent": 18
+        },
+        {
+          "hour": "15:00",
+          "percent": 21
+        },
+        {
+          "hour": "16:00",
+          "percent": 24
+        },
+        {
+          "hour": "17:00",
+          "percent": 24
+        }
+      ]
+    },
+    {
+      "Thursday": [
+        {
+          "hour": "10:00",
+          "percent": 10
+        },
+        {
+          "hour": "11:00",
+          "percent": 13
+        },
+        {
+          "hour": "12:00",
+          "percent": 14
+        },
+        {
+          "hour": "13:00",
+          "percent": 16
+        },
+        {
+          "hour": "14:00",
+          "percent": 18
+        },
+        {
+          "hour": "15:00",
+          "percent": 21
+        },
+        {
+          "hour": "16:00",
+          "percent": 23
+        },
+        {
+          "hour": "17:00",
+          "percent": 24
+        }
+      ]
+    },
+    {
+      "Friday": [
+        {
+          "hour": "10:00",
+          "percent": 8
+        },
+        {
+          "hour": "11:00",
+          "percent": 11
+        },
+        {
+          "hour": "12:00",
+          "percent": 13
+        },
+        {
+          "hour": "13:00",
+          "percent": 15
+        },
+        {
+          "hour": "14:00",
+          "percent": 18
+        },
+        {
+          "hour": "15:00",
+          "percent": 21
+        },
+        {
+          "hour": "16:00",
+          "percent": 24
+        },
+        {
+          "hour": "17:00",
+          "percent": 24
+        }
+      ]
+    },
+    {
+      "Saturday": [
+        {
+          "hour": "10:00",
+          "percent": 24
+        },
+        {
+          "hour": "11:00",
+          "percent": 29
+        },
+        {
+          "hour": "12:00",
+          "percent": 30
+        },
+        {
+          "hour": "13:00",
+          "percent": 30
+        },
+        {
+          "hour": "14:00",
+          "percent": 34
+        },
+        {
+          "hour": "15:00",
+          "percent": 46
+        },
+        {
+          "hour": "16:00",
+          "percent": 60
+        },
+        {
+          "hour": "17:00",
+          "percent": 63
+        }
+      ]
+    }
+  ],
+  "relatedSearches": [
+    "castelo de leiria horários e preços",
+    "catedral de leiria",
+    "castelos em leiria",
+    "castelo de porto de mós",
+    "castelo de tomar",
+    "castelo de almourol",
+    "castelo de pombal",
+    "castelo do alandroal",
+    "castelo de leiria horários e preços",
+    "catedral de leiria",
+    "castelos em leiria",
+    "castelo de porto de mós",
+    "castelo de tomar",
+    "castelo de almourol",
+    "castelo de pombal",
+    "castelo do alandroal"
+  ],
+  "relateds": [
+    {
+      "mainName": "Moinho do Papel",
+      "url": null
+    },
+    {
+      "mainName": "Sé de Leiria",
+      "url": null
+    },
+    {
+      "mainName": "Museu de Leiria",
+      "url": null
+    },
+    {
+      "mainName": "Estádio Municipal de Leiria – Dr. Magalhães Pessoa",
+      "url": null
+    },
+    {
+      "mainName": "Santuário de Nossa Senhora da Encarnação",
+      "url": null
+    },
+    {
+      "mainName": "Rio Lis",
+      "url": null
+    },
+    {
+      "mainName": "Museu da Imagem em Movimento - m|i|mo",
+      "url": null
+    },
+    {
+      "mainName": "Praça Rodrigues Lobo",
+      "url": null
+    },
+    {
+      "mainName": "Castelo De Porto De Mós",
+      "url": null
+    },
+    {
+      "mainName": "Lagoa da Ervedeira",
+      "url": null
+    },
+    {
+      "mainName": "Castelo de Pombal",
+      "url": null
+    },
+    {
+      "mainName": "Mosteiro da Batalha",
+      "url": null
+    },
+    {
+      "mainName": "Castelo e Paço dos Condes de Ourém",
+      "url": null
+    },
+    {
+      "mainName": "Castelo de Óbidos",
+      "url": null
+    },
+    {
+      "mainName": "Praia do Pedrogão",
+      "url": null
+    },
+    {
+      "mainName": "Casa dos Pintores",
+      "url": null
+    },
+    {
+      "mainName": "Mercado de Sant'Ana - Leiria",
+      "url": null
+    },
+    {
+      "mainName": "Parque de Cabárceno",
+      "url": null
+    },
+    {
+      "mainName": "Convento da Portela",
+      "url": null
+    },
+    {
+      "mainName": "Igreja e convento de Santo Agostinho",
+      "url": null
+    },
+    {
+      "mainName": "Castelo de Alcobaça",
+      "url": null
+    },
+    {
+      "mainName": "Agromuseu Municipal Dona Julinha",
+      "url": null
+    },
+    {
+      "mainName": "Castelo de Arnóia",
+      "url": null
+    },
+    {
+      "mainName": "Moinho do Papel",
+      "url": null
+    },
+    {
+      "mainName": "Sé de Leiria",
+      "url": null
+    },
+    {
+      "mainName": "Museu de Leiria",
+      "url": null
+    },
+    {
+      "mainName": "Estádio Municipal de Leiria – Dr. Magalhães Pessoa",
+      "url": null
+    },
+    {
+      "mainName": "Santuário de Nossa Senhora da Encarnação",
+      "url": null
+    },
+    {
+      "mainName": "Rio Lis",
+      "url": null
+    },
+    {
+      "mainName": "Museu da Imagem em Movimento - m|i|mo",
+      "url": null
+    },
+    {
+      "mainName": "Praça Rodrigues Lobo",
+      "url": null
+    },
+    {
+      "mainName": "Castelo De Porto De Mós",
+      "url": null
+    },
+    {
+      "mainName": "Lagoa da Ervedeira",
+      "url": null
+    },
+    {
+      "mainName": "Castelo de Pombal",
+      "url": null
+    },
+    {
+      "mainName": "Mosteiro da Batalha",
+      "url": null
+    },
+    {
+      "mainName": "Castelo e Paço dos Condes de Ourém",
+      "url": null
+    },
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

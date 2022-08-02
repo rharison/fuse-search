@@ -1,0 +1,785 @@
+{
+  "mainName": "Parque da Pedralva",
+  "slug": "parque-da-pedralva",
+  "category": "Parque",
+  "locationInformation": {
+    "latitude": "39.601227",
+    "longitude": "-9.067265"
+  },
+  "basicInformation": [
+    {
+      "label": "endereço",
+      "tooltip": "Copiar endereço",
+      "text": "N8-5, 2450-000 Nazaré, Portugal",
+      "icon": "https://www.gstatic.com/images/icons/material/system_gm/1x/place_gm_blue_24dp.png"
+    },
+    {
+      "label": "telefone",
+      "tooltip": "Copiar número de telefone",
+      "text": "+351 262 550 010",
+      "icon": "https://www.gstatic.com/images/icons/material/system_gm/1x/phone_gm_blue_24dp.png"
+    },
+    {
+      "label": "Code",
+      "tooltip": "Copiar Plus Code",
+      "text": "JW2M+F3 Nazaré, Portugal",
+      "icon": "https://maps.gstatic.com/mapfiles/maps_lite/images/2x/ic_plus_code.png"
+    },
+    {
+      "label": "send-to-device",
+      "text": "Enviar para smartphone",
+      "icon": "https://maps.gstatic.com/consumer/images/icons/1x/send_to_mobile_alt_gm_blue_24dp.png"
+    }
+  ],
+  "ratingInformation": {
+    "basicRatingInformation": {
+      "averageGrade": 4.4,
+      "totalOfEvaluations": 466
+    },
+    "ratingsByGrade": [
+      {
+        "grade": 5,
+        "totalRatings": 269
+      },
+      {
+        "grade": 4,
+        "totalRatings": 129
+      },
+      {
+        "grade": 3,
+        "totalRatings": 50
+      },
+      {
+        "grade": 2,
+        "totalRatings": 12
+      },
+      {
+        "grade": 1,
+        "totalRatings": 6
+      }
+    ]
+  },
+  "ratingTags": [
+    {
+      "tag": "crianças",
+      "count": 13,
+      "tooltip": "crianças, mencionado em 13 avaliações"
+    },
+    {
+      "tag": "picnic",
+      "count": 9,
+      "tooltip": "picnic, mencionado em 9 avaliações"
+    },
+    {
+      "tag": "mesas",
+      "count": 6,
+      "tooltip": "mesas, mencionado em 6 avaliações"
+    },
+    {
+      "tag": "espaços verdes",
+      "count": 3,
+      "tooltip": "espaços verdes, mencionado em 3 avaliações"
+    },
+    {
+      "tag": "paisagem",
+      "count": 3,
+      "tooltip": "paisagem, mencionado em 3 avaliações"
+    }
+  ],
+  "featuredPhotos": [
+    "https://lh5.googleusercontent.com/p/AF1QipOw6TaUZBU4wZQ4HvtcnIt8Dxb5ehPyMrUXTDaA=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPjqwZexRyqAPR4cPkXhNztmQaG0WERuNax9nZp=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipP8nqj41VI3ifmfbN4FwS1ZZdr4-qJ7qfXKs0aL=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOE4YzgnWKIl1X_u1bYlsUXaUVam_AGBHSMlHIx=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMxR1skp6XlYpzbd_qsuxb-Gre48bJ9C9XTivDv=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMcy5No-Fxm7I0sWxZ5skiicTD5r_J8U0YNn86Q=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMiyCDhWAET0-dC0sclF13RyGrFUVix96VCxNqJ=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOrJZboF1kjrlmEnibQwkg55wZfvnsBP4gKlc8M=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipP9zDarwgMfFfa8-fmtE8nSE7JmtT_RBtDsR7jr=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPgxp32-WLLt4peXxJBz2gGKlUrC4mdV0snssL0=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNX99DNp7wrh3ffl5HVHl_xQ7opc7aJcBHt1Obv=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOU3yiVe-uxYNlzIX4DNsPFIxbrLzs5uav1hKfq=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipN5DRsAWqvjxHkFQLYsLDsBCymN6vZAZerUPuIG=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipODa0VGG-6U_ajdofBQpyy0GzblECsF63c7RwD7=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOv8hY8sUWrlWwPqlWiEMIeImW26NbLWrAi-0uC=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNYwROWkKABViu-IIoiwgyERImpyWbalelfli2Z=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipN_jpMdUeOUAyO7CHUQL5wG0FjM52tkcJDr82pd=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOciH5EY5dz52nlKuPQQEiyIFBFS3mGacm4BRe1=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMzFJoos2nVM65Suh9oZeRWoQNk9l9ofIT0TCQW=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOj6HlYICms6lbqzcupYz4NS4_FBHKNqyxvqZse=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMNN-U4W3i58XSIM4Ik0z5dxQ4Pj71vSnI7_t69=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipN119Pu85AvWrb_6DSgmPzx2kCG9e-_m5-XKGU6=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNJB6ERoSFhzyvCEolDauohJd_m0nfdLu-3rEnG=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNFlW0YO1I2zA-EmduATc_IauQyYepgiuq4bvG6=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMma8p2ccJVdVTmpiiiBoZgdecXqYv-o9lEwL2V=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPKBwsQQ3eL_RiD5bdx6s3a3FRk18JJAsnlxsf-=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPHN_p3Qlx2YU1xpgMo7BDBMXMr-3CHELVV1cnD=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNaKw1cnMvegbPch9xkntzThXGRPky99vo8YtYe=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPZs-AV6RWCecZ9nWD-4A62jJ9BrBz2rBRFJyqT=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPZ_VNp7ODHyKXbIvlDxfxjowuBCzRwWg3pV7oX=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPzPluVmK2uXTHPSi6MN7sS7R0a78QBpEyQtGB9=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPDpJlVpmC1Il2v3NHf-0FAiGQxCAfTiqpBbYDv=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNkP3j6YNAPZOLafrw1F1Pz8QB5uBi31hCIslI=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPtvh5njchAoAZOuBpzTZ0Pk3NDKT8-Lr7gpb3y=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPRg2LLFolSBgrGI47ZPFsXjNtKQYkXzlulOiNx=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPh9OPmPxl1lw9w8xg92YssAZdjqCguJoq8F0th=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPU83wNf-FVwLAoCHcUrelscSD2kxLbKml0mzX7=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipO4BOXbbPpohNgItwu4gm2km85vUjInljfW-TZD=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNgsz_sR_DP9S8mTq-DDir1Xr7Pxb6bGyIJVggl=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNHy7KCTf5GLS5RbF4CEvmXzMTL4DeAJM9JRdw=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMpQNKs29z4HffE0bxvIyWXofoHP5vorAinXQHd=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPJbIuJHZlzeepcDpSJ2ShRDSBbAMa545yAIkYH=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipN2RdfQYaVTVEAKm04Fb6Voz4QGIe-dyEfaIkCM=w1024-h576-k-no"
+  ],
+  "topComments": [
+    {
+      "author": "Sergio Barros",
+      "photoAuthor": "https://lh3.googleusercontent.com/a/AItbvmkVugDoURcaDlvo4uLNMZorLAv1M4pgq7uQc4yv=w36-h36-p-c0x00000000-rp-mo-ba5-br100",
+      "comment": "Sítio lindo para passar um bom momento , para um picknick ou para pelo menos apreciar a natureza",
+      "gradeComment": 5
+    },
+    {
+      "author": "Ricardo Teixeira",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucp4i_mI39GL5sovK8oPOGTHntlbuDfzwynH4qNV3A=w36-h36-p-c0x00000000-rp-mo-ba6-br100",
+      "comment": "Encontra-se em obras de restauro e melhoramentos... mas se era bonito e interessante, depois destas intervenções irá certamente ficar ainda melhor do que antes!🤩",
+      "gradeComment": 4
+    },
+    {
+      "author": "Antonio Pequicho",
+      "photoAuthor": "https://lh3.googleusercontent.com/a/AItbvmlD1P3rz6qs-rKQHNaCqZP3ZM8IF0iEkF4ezMSp=w36-h36-p-c0x00000000-rp-mo-br100",
+      "comment": "Atenção à manutenção e limpeza do pequeno lago e acessos. O que estava em vias de resolução, para a parte superior e monte branco, tem de ser urgentemente desbloqueado.",
+      "gradeComment": 4
+    },
+    {
+      "author": "Camila Damazio",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucows7s2PZRRiE-6ks1T2N01xfTmHVRoc55Tkk_dQZE=w36-h36-p-c0x00000000-rp-mo-ba3-br100",
+      "comment": "Com mesas para sentar e banheiro nos dias de semana",
+      "gradeComment": 5
+    },
+    {
+      "author": "Sufidi",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucrIrnUQ8uuDZWfwnFyvznp8CaBizi-GywRQVuoJ=w36-h36-p-c0x00000000-rp-mo-ba5-br100",
+      "comment": "Local simplesmente fantástico, recomendo",
+      "gradeComment": 5
+    },
+    {
+      "author": "Daniely Gaspar",
+      "photoAuthor": "https://lh3.googleusercontent.com/a/AItbvmmY0PbrG5IdlCEw4IAuKxk9WoYuXEpehB7DdhvU=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "Calmo, limpo e bem conservado, o único senão é a proximidade da estrada, é necessário estar sempre muito alerta com as crianças",
+      "gradeComment": 4
+    },
+    {
+      "author": "William Jardim",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucpQY7J9wraytC0HbBQszxqC9CUpAAjNHjgizFi29RQ=w36-h36-p-c0x00000000-rp-mo-ba2-br100",
+      "comment": "Ótimo local para passar o dia!",
+      "gradeComment": 5
+    },
+    {
+      "author": "Jorge Pagaimo",
+      "photoAuthor": "https://lh3.googleusercontent.com/a/AItbvmnU6075cBIR2D4ZZ8NY3myZ5xjraWdIfJREORPi=w36-h36-p-c0x00000000-rp-mo-ba5-br100",
+      "comment": "Achei o Miradouro do parque uma mais valia para a cidade da Nazaré, pois para além de sentir o estado virgem da natureza pode-se avistar a praia bem lá ao fundo com o aglomerado das casas como cenário.... Amei ✌️❤️",
+      "gradeComment": 5
+    },
+    {
+      "author": "Valter Borges",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucoRJlyzD6sepDjdhdEdO3lXjVp8yDEUd3lFvR1Deg=w36-h36-p-c0x00000000-rp-mo-ba3-br100",
+      "comment": "Parque de merendas calmo, limpo e  bem conservado.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Diana Firmino",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucpW4BEKOWpmpwQN9gXGaqV6yI3teoX9Vnvam8XqrI8=w36-h36-p-c0x00000000-rp-mo-ba3-br100",
+      "comment": "Espaço bem cuidado, ideal para lazer na relva, piqueniques ou brincar no parque com as crianças. Dispõe igualmente de uma zona florestal mas não tão bem cuidada como as restantes áreas. Também não encontrei zona de estacionamento para veículos.",
+      "gradeComment": 3
+    },
+    {
+      "author": "Hector Fernandes",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucoWc5qntTd_0BxpR3BsE4ULLrZVVi6vH--aPkfbWA=w36-h36-p-c0x00000000-rp-mo-ba5-br100",
+      "comment": "Podia ser um pouco melhor mas é melhor do que nada",
+      "gradeComment": 3
+    },
+    {
+      "author": "Gisela Oliveira",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucouCMhGzC-mDunJCKIcCpKjWyoKz6Z4-MO6tgoeKg=w36-h36-p-c0x00000000-rp-mo-ba3-br100",
+      "comment": "Podia estar mais tratado",
+      "gradeComment": 3
+    },
+    {
+      "author": "Iracy Lai",
+      "photoAuthor": "https://lh3.googleusercontent.com/a/AItbvmnbpSBOs3GtC3Wvp2wl8hUlICt5tZR2kmdlgPYk=w36-h36-p-c0x00000000-rp-mo-ba3-br100",
+      "comment": "Ótimo",
+      "gradeComment": 5
+    },
+    {
+      "author": "Manuel Silva",
+      "photoAuthor": "https://lh3.googleusercontent.com/a/AItbvmn3CvqlHjIEDEqWJOFqmIDUk9J9R83PCissKu3t=w36-h36-p-c0x00000000-rp-mo-ba5-br100",
+      "comment": "Espaço muito agradável",
+      "gradeComment": 4
+    },
+    {
+      "author": "Walison Oliveira",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucoVh4-EhzATT-3i08ndB1uk2tj91WLAIqMSLIE60w=w36-h36-p-c0x00000000-rp-mo-ba3-br100",
+      "comment": "Muito bom",
+      "gradeComment": 5
+    },
+    {
+      "author": "Giseli",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucrhY-F9FEuguYxKTVRDN71zZSjd0UEmlGu-_YUc2Sg=w36-h36-p-c0x00000000-rp-mo-ba3-br100",
+      "comment": "Muito bom para passear com as crianças e ler um bom livro.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Lucas Esperança",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucrIoLAfysw06drP6rWeoXjdMEZkgBU2bPj8jSYQeA=w36-h36-p-c0x00000000-rp-mo-br100",
+      "comment": "É um espaço incrível, só é pena ser proibida entrada de cães",
+      "gradeComment": 5
+    },
+    {
+      "author": "Ivânia Leitão",
+      "photoAuthor": "https://lh3.googleusercontent.com/a/AItbvmngNG-mIS-pyNS909WFzslS1Qk49pWP1tSYMexNgDs=w36-h36-p-c0x00000000-rp-mo-ba2-br100",
+      "comment": "Bom espaço mas 1 equipamento com pouca segurança para crianças pequenas. No equipamento é referido que é a partir dos 3 anos mas considero que a idade recomendada deveria ser muito superior à isso.",
+      "gradeComment": 4
+    },
+    {
+      "author": "SENSATIONS HUB",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucoWKeMjshlCEcH4IIyYwFujVBizYmN4B3nnON23bIQ=w36-h36-p-c0x00000000-rp-mo-br100",
+      "comment": "Muito Linda aqui",
+      "gradeComment": 5
+    },
+    {
+      "author": "Joao Pedro Trindade",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucrC2_24SR5HrKO8x_njhxhV5_pw9pWkcXwHyYaf_g=w36-h36-p-c0x00000000-rp-mo-ba5-br100",
+      "comment": "Linda vista com espaço bem organizado.",
+      "gradeComment": 5
+    }
+  ],
+  "peakHours": [
+    {
+      "Sunday": [
+        {
+          "hour": "06:00",
+          "percent": 9
+        },
+        {
+          "hour": "07:00",
+          "percent": 12
+        },
+        {
+          "hour": "08:00",
+          "percent": 16
+        },
+        {
+          "hour": "09:00",
+          "percent": 22
+        },
+        {
+          "hour": "10:00",
+          "percent": 29
+        },
+        {
+          "hour": "11:00",
+          "percent": 39
+        },
+        {
+          "hour": "12:00",
+          "percent": 53
+        },
+        {
+          "hour": "13:00",
+          "percent": 68
+        },
+        {
+          "hour": "14:00",
+          "percent": 83
+        },
+        {
+          "hour": "15:00",
+          "percent": 94
+        },
+        {
+          "hour": "16:00",
+          "percent": 100
+        },
+        {
+          "hour": "17:00",
+          "percent": 97
+        },
+        {
+          "hour": "18:00",
+          "percent": 86
+        },
+        {
+          "hour": "19:00",
+          "percent": 69
+        },
+        {
+          "hour": "20:00",
+          "percent": 49
+        },
+        {
+          "hour": "21:00",
+          "percent": 29
+        }
+      ]
+    },
+    {
+      "Monday": [
+        {
+          "hour": "06:00",
+          "percent": 1
+        },
+        {
+          "hour": "07:00",
+          "percent": 1
+        },
+        {
+          "hour": "08:00",
+          "percent": 1
+        },
+        {
+          "hour": "09:00",
+          "percent": 2
+        },
+        {
+          "hour": "10:00",
+          "percent": 3
+        },
+        {
+          "hour": "11:00",
+          "percent": 5
+        },
+        {
+          "hour": "12:00",
+          "percent": 6
+        },
+        {
+          "hour": "13:00",
+          "percent": 11
+        },
+        {
+          "hour": "14:00",
+          "percent": 20
+        },
+        {
+          "hour": "15:00",
+          "percent": 33
+        },
+        {
+          "hour": "17:00",
+          "percent": 51
+        },
+        {
+          "hour": "18:00",
+          "percent": 47
+        },
+        {
+          "hour": "19:00",
+          "percent": 37
+        },
+        {
+          "hour": "20:00",
+          "percent": 25
+        },
+        {
+          "hour": "21:00",
+          "percent": 16
+        }
+      ]
+    },
+    {
+      "Tuesday": [
+        {
+          "hour": "06:00",
+          "percent": 8
+        },
+        {
+          "hour": "07:00",
+          "percent": 15
+        },
+        {
+          "hour": "08:00",
+          "percent": 20
+        },
+        {
+          "hour": "09:00",
+          "percent": 23
+        },
+        {
+          "hour": "10:00",
+          "percent": 25
+        },
+        {
+          "hour": "11:00",
+          "percent": 27
+        },
+        {
+          "hour": "12:00",
+          "percent": 30
+        },
+        {
+          "hour": "13:00",
+          "percent": 35
+        },
+        {
+          "hour": "14:00",
+          "percent": 41
+        },
+        {
+          "hour": "15:00",
+          "percent": 48
+        },
+        {
+          "hour": "16:00",
+          "percent": 50
+        },
+        {
+          "hour": "17:00",
+          "percent": 48
+        },
+        {
+          "hour": "18:00",
+          "percent": 40
+        },
+        {
+          "hour": "19:00",
+          "percent": 29
+        },
+        {
+          "hour": "20:00",
+          "percent": 18
+        },
+        {
+          "hour": "21:00",
+          "percent": 8
+        }
+      ]
+    },
+    {
+      "Wednesday": [
+        {
+          "hour": "06:00",
+          "percent": 1
+        },
+        {
+          "hour": "07:00",
+          "percent": 1
+        },
+        {
+          "hour": "08:00",
+          "percent": 3
+        },
+        {
+          "hour": "09:00",
+          "percent": 9
+        },
+        {
+          "hour": "10:00",
+          "percent": 12
+        },
+        {
+          "hour": "11:00",
+          "percent": 13
+        },
+        {
+          "hour": "12:00",
+          "percent": 14
+        },
+        {
+          "hour": "13:00",
+          "percent": 19
+        },
+        {
+          "hour": "14:00",
+          "percent": 29
+        },
+        {
+          "hour": "15:00",
+          "percent": 41
+        },
+        {
+          "hour": "16:00",
+          "percent": 49
+        },
+        {
+          "hour": "17:00",
+          "percent": 47
+        },
+        {
+          "hour": "18:00",
+          "percent": 36
+        },
+        {
+          "hour": "19:00",
+          "percent": 24
+        },
+        {
+          "hour": "20:00",
+          "percent": 13
+        },
+        {
+          "hour": "21:00",
+          "percent": 7
+        }
+      ]
+    },
+    {
+      "Thursday": [
+        {
+          "hour": "06:00",
+          "percent": 1
+        },
+        {
+          "hour": "07:00",
+          "percent": 1
+        },
+        {
+          "hour": "08:00",
+          "percent": 1
+        },
+        {
+          "hour": "09:00",
+          "percent": 15
+        },
+        {
+          "hour": "10:00",
+          "percent": 33
+        },
+        {
+          "hour": "11:00",
+          "percent": 45
+        },
+        {
+          "hour": "12:00",
+          "percent": 50
+        },
+        {
+          "hour": "13:00",
+          "percent": 51
+        },
+        {
+          "hour": "14:00",
+          "percent": 54
+        },
+        {
+          "hour": "15:00",
+          "percent": 60
+        },
+        {
+          "hour": "16:00",
+          "percent": 68
+        },
+        {
+          "hour": "17:00",
+          "percent": 70
+        },
+        {
+          "hour": "18:00",
+          "percent": 64
+        },
+        {
+          "hour": "19:00",
+          "percent": 51
+        },
+        {
+          "hour": "20:00",
+          "percent": 36
+        },
+        {
+          "hour": "21:00",
+          "percent": 24
+        }
+      ]
+    },
+    {
+      "Friday": [
+        {
+          "hour": "06:00",
+          "percent": 1
+        },
+        {
+          "hour": "07:00",
+          "percent": 7
+        },
+        {
+          "hour": "08:00",
+          "percent": 15
+        },
+        {
+          "hour": "09:00",
+          "percent": 22
+        },
+        {
+          "hour": "10:00",
+          "percent": 27
+        },
+        {
+          "hour": "11:00",
+          "percent": 30
+        },
+        {
+          "hour": "12:00",
+          "percent": 30
+        },
+        {
+          "hour": "13:00",
+          "percent": 27
+        },
+        {
+          "hour": "14:00",
+          "percent": 28
+        },
+        {
+          "hour": "15:00",
+          "percent": 34
+        },
+        {
+          "hour": "16:00",
+          "percent": 45
+        },
+        {
+          "hour": "17:00",
+          "percent": 54
+        },
+        {
+          "hour": "18:00",
+          "percent": 55
+        },
+        {
+          "hour": "19:00",
+          "percent": 44
+        },
+        {
+          "hour": "20:00",
+          "percent": 26
+        },
+        {
+          "hour": "21:00",
+          "percent": 10
+        }
+      ]
+    },
+    {
+      "Saturday": [
+        {
+          "hour": "06:00",
+          "percent": 1
+        },
+        {
+          "hour": "07:00",
+          "percent": 1
+        },
+        {
+          "hour": "08:00",
+          "percent": 3
+        },
+        {
+          "hour": "09:00",
+          "percent": 21
+        },
+        {
+          "hour": "10:00",
+          "percent": 38
+        },
+        {
+          "hour": "11:00",
+          "percent": 49
+        },
+        {
+          "hour": "12:00",
+          "percent": 53
+        },
+        {
+          "hour": "13:00",
+          "percent": 53
+        },
+        {
+          "hour": "14:00",
+          "percent": 57
+        },
+        {
+          "hour": "15:00",
+          "percent": 69
+        },
+        {
+          "hour": "16:00",
+          "percent": 84
+        },
+        {
+          "hour": "17:00",
+          "percent": 92
+        },
+        {
+          "hour": "18:00",
+          "percent": 87
+        },
+        {
+          "hour": "19:00",
+          "percent": 69
+        },
+        {
+          "hour": "20:00",
+          "percent": 45
+        },
+        {
+          "hour": "21:00",
+          "percent": 26
+        }
+      ]
+    }
+  ],
+  "relatedSearches": null,
+  "relateds": [
+    {
+      "mainName": "Mercado Municipal de Nazaré",
+      "url": null
+    },
+    {
+      "mainName": "Igreja da Misericórdia da Pederneira",
+      "url": null
+    },
+    {
+      "mainName": "Pederneira",
+      "url": null
+    },
+    {
+      "mainName": "Monte de São Bartolomeu",
+      "url": null
+    },
+    {
+      "mainName": "Forte de São Miguel Arcanjo",
+      "url": null
+    },
+    {
+      "mainName": "Praia da Nazare",
+      "url": null
+    },
+    {
+      "mainName": "Farol da Nazaré",
+      "url": null
+    },
+    {
+      "mainName": "Praia do Salgado",
+      "url": null
+    },
+    {
+      "mainName": "Museu Dr. Joaquim Manso",
+      "url": null
+    },
+    {
+      "mainName": "Ermida da Memória",
+      "url": null
+    },
+    {
+      "mainName": "Elevador da Nazaré",
+      "url": null
+    },
+    {
+      "mainName": "Valado",
+      "url": null
+    },
+    {
+      "mainName": "Praia do Norte",
+      "url": null
+    }
+  ]
+}

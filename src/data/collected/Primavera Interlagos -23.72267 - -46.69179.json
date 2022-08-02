@@ -1,0 +1,988 @@
+{
+  "mainName": "Primavera Interlagos",
+  "slug": "primavera-interlagos",
+  "category": "Estação de trem",
+  "locationInformation": {
+    "latitude": "-23.72267",
+    "longitude": "-46.69179"
+  },
+  "basicInformation": [
+    {
+      "label": "endereço",
+      "tooltip": "Copiar endereço",
+      "text": "Parque Alto do Rio Bonito, São Paulo - SP, 04823-330",
+      "icon": "https://www.gstatic.com/images/icons/material/system_gm/1x/place_gm_blue_24dp.png"
+    },
+    {
+      "label": "Code",
+      "tooltip": "Copiar Plus Code",
+      "text": "78G5+W7 São Paulo, SP",
+      "icon": "https://maps.gstatic.com/mapfiles/maps_lite/images/2x/ic_plus_code.png"
+    }
+  ],
+  "ratingInformation": {
+    "basicRatingInformation": {
+      "averageGrade": 4.2,
+      "totalOfEvaluations": 211
+    },
+    "ratingsByGrade": [
+      {
+        "grade": 5,
+        "totalRatings": 122
+      },
+      {
+        "grade": 4,
+        "totalRatings": 44
+      },
+      {
+        "grade": 3,
+        "totalRatings": 23
+      },
+      {
+        "grade": 2,
+        "totalRatings": 6
+      },
+      {
+        "grade": 1,
+        "totalRatings": 16
+      }
+    ]
+  },
+  "ratingTags": [
+    {
+      "tag": "organizada",
+      "count": 8,
+      "tooltip": "organizada, mencionado em 8 avaliações"
+    },
+    {
+      "tag": "banheiros",
+      "count": 7,
+      "tooltip": "banheiros, mencionado em 7 avaliações"
+    },
+    {
+      "tag": "região",
+      "count": 5,
+      "tooltip": "região, mencionado em 5 avaliações"
+    },
+    {
+      "tag": "educados",
+      "count": 5,
+      "tooltip": "educados, mencionado em 5 avaliações"
+    },
+    {
+      "tag": "bicicletário",
+      "count": 4,
+      "tooltip": "bicicletário, mencionado em 4 avaliações"
+    },
+    {
+      "tag": "escadas",
+      "count": 4,
+      "tooltip": "escadas, mencionado em 4 avaliações"
+    },
+    {
+      "tag": "usuários",
+      "count": 3,
+      "tooltip": "usuários, mencionado em 3 avaliações"
+    },
+    {
+      "tag": "serviço",
+      "count": 3,
+      "tooltip": "serviço, mencionado em 3 avaliações"
+    }
+  ],
+  "featuredPhotos": [
+    "https://lh5.googleusercontent.com/p/AF1QipMMQmUwjSCP-3pL3KwX6x6FtSKxBZmM1XFm_aMl=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOdc83KJxk7O6IX5n4nciSwLse_LbAqhNctedgY=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPeQJwLeFa9v6e93e9cLd5xoGo-lrE6lA3Sl68D=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMGXGR-igms1bvOMtGgUvWXIUXRYJ_W8jXXU64p=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNTFIEJwOW0W8KWoOaI9YSn760Q6xyfam_WGKqP=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPnj6bbxRMXgIN7_ZiY4HW7Cj_x7PaDs7OickCl=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPgn4oc1Hb6S2ml5mdPzUxoBhY5PFUsDRRtUb0s=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNWLljpK3cpimZ_1yaMaGeVGjrO0C_NBH9l0qPc=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMrwZwTTtZkyD5wHCtVwK2i-BDxEfTwy3DboVSM=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNVfOk2Faz3vEL2nJYWkfOfo1fdtGRhJa-rOo21=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOFB8T-tNWBZ1ElbZS6H1zxufoSp7ABZfIA8s4y=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipN0QOy55uN21Mkc9qe_92AH9pSd9njD6m4aCMpy=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNV1bahmdo-Yw_RNcj75XTYeTmoM1pgcLH9nr_V=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOutac1AQQ0EDywCf-U8a4KynjmkD3qCo7BSbB1=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipM-DaG5Pe6x0yVYBat-5l3dmCmozOjwLeIGaLfB=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOtNFTfWnNvCABF17pDvRZNE4em4aSGgsMGFoe3=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNmr_6xJRc6IvAbWQQhZ62kw_v0U1XGzhhuqrOa=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPz7UsqpXE8k8SG_BLkrfU6n_Y5T_hW5s5HBYt6=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPqPcNyGi3wKNE4f6O9V4x0Wm0wqlcHH_3pG10b=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPfbH01-8nlfMq5_v73EkjLCeCrrNi-C3K2JaXR=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMRoOQC_hhfZTwqfX3uFuf5xSphoHub3doTEn57=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOFAvbxMf8tYIWuCJYQ7wCsxFkiFaMqfoWd3Q95=w1024-h576-k-no"
+  ],
+  "topComments": [
+    {
+      "author": "Cristian Rodrigues",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucqDyiy10m14YmcVEUJYUKk3Lqxiafggu9jxs2RLsF0=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "Uma das mais organizadas estações da linha esmeralda.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Maurilio Sansoa",
+      "photoAuthor": "https://lh3.googleusercontent.com/a/AItbvmlDH4oqhF5jXq3D0yaEQbfTVv38xYzVYG2pxizX=w36-h36-p-c0x00000000-rp-mo-br100",
+      "comment": "E uma estação do trem metropolitano da cidade de São Paulo na zona sul  da cidade  com uma ótimo localização e boa  infraestrutura",
+      "gradeComment": 5
+    },
+    {
+      "author": "Alexander Rodrigues",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucqrJQm5dSloG7nwK8bvknz6P2rToXxt7OgyvZWA=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "Já foi pior, já fui assaltado aí, mas não é exclusividade da estação. Gente ruim tem em todo lugar.",
+      "gradeComment": 4
+    },
+    {
+      "author": "justiniano silva",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucpU0cEBAb3jxDth-g-lRInP8LsZ9V3mcXpUiU0QN0I=w36-h36-p-c0x00000000-rp-mo-ba2-br100",
+      "comment": "É muito boa a estação as vez passo por ela , Mas precisa arrumar a escada rolante se não me engano já tem mais de um mês que procurei  um colaborar para reclamar e. Nada foi resolvido Será tenho abrir uma reclamação com os superiores da via mobilidade????",
+      "gradeComment": 3
+    },
+    {
+      "author": "Alexandre Sartori",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucpvzhX_VbaFTeYt7uifoi5HDazGXorvC_zB5XWkZpY=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "Quando funciona é boa... CéLoko, essa viamobilidade cruuuuzes!",
+      "gradeComment": 5
+    },
+    {
+      "author": "Viviane pereira",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucq52g_sH6HRzKAQQJJdvQyMHHk7ZaDL0RTW6BI=w36-h36-p-c0x00000000-rp-mo-ba2-br100",
+      "comment": "Gosto muiiito dessa estação e do bairro😊",
+      "gradeComment": 5
+    },
+    {
+      "author": "Charles Teixeira",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucomJBBYoaAQyNcqtMuUAlDHDuXaqx0Qf5elODmupw=w36-h36-p-c0x00000000-rp-mo-ba3-br100",
+      "comment": "Bem conservada e bem localizada de fácil acesso.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Julio Silva",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZuco0u9XceOkjhJX38XVbWsm6U-QouU9HP2RFyWIPUQ=w36-h36-p-c0x00000000-rp-mo-ba3-br100",
+      "comment": "Ótima estação, confortável dentro de seu contexto, bem cuidade, aproveita bem o espaço. Não possui muito fluxo de saída/entrada por ser a primeira estação após o terminal, mas é bem próxima ao Hospital Grajaú e templos, por isso já me foi bem útil.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Mario C Silva",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucpmO0Y3Vm8hq47XXpe6rDkya8wRR1qqkHKKgCr-OFU=w36-h36-p-c0x00000000-rp-mo-ba5-br100",
+      "comment": "Ótimo pois a região é meio contra mão",
+      "gradeComment": 5
+    },
+    {
+      "author": "Silvana Lima",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucquL3J9ogtOS8A0Q87o0VVcnf_NwAJHQIWUiWbNdiA=w36-h36-p-c0x00000000-rp-mo-ba5-br100",
+      "comment": "Um mural lindo! Sobre as brincadeiras de rua antigas e as crianças  com wi-fi. Assunto interessante do desperdício  do tempo em telas.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Pedro Henrique Gomes da Silva",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucr8_PzESCC1_sE91tx1-uQeJRYFDe0_vpuCeta6ctc=w36-h36-p-c0x00000000-rp-mo-br100",
+      "comment": "Ótima estação",
+      "gradeComment": 5
+    },
+    {
+      "author": "Sidney Micheletti",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucrJSte6BiPbNw0yxqfK500hhvWX_QBR-A7Sl-8KnQ=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "Bom",
+      "gradeComment": 3
+    },
+    {
+      "author": "Vinnen Sversuti",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucrD_Vkb5q7jVgIeYENF5-MkL7GnfvxRmpV1DKDyWg=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "Dou graças ao bom Ja por não precisar mais frequentar esse lugar, se não fosse os trens sardinhas, eu só teria elogios, porém se tratando da estação em si, ela é ótima, muito limpa e organizada, fácil acesso e fica perto de casa, não tem coisa melhor.",
+      "gradeComment": 5
+    },
+    {
+      "author": "José Nascimento",
+      "photoAuthor": "https://lh3.googleusercontent.com/a/AItbvmnz2an2oMUFR53BQn6HwApYZbeGfTtROpvZa5lv=w36-h36-p-c0x00000000-rp-mo-ba5-br100",
+      "comment": "Boa estação",
+      "gradeComment": 4
+    },
+    {
+      "author": "Catia Regina",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucpZ3VwNHqy1pjcVyKMsYKnabWj6H-J-sRKGLi_AiC8=w36-h36-p-c0x00000000-rp-mo-ba3-br100",
+      "comment": "Pelo fato de ter banheiro muitas estações não tem",
+      "gradeComment": 4
+    },
+    {
+      "author": "Márcio Sno",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucr3YhiKBOWrLWVC5KkiF87LebzRCTKTtkXc04FDTok=w36-h36-p-c0x00000000-rp-mo-ba5-br100",
+      "comment": "A periodicidade entre os trens poderia ser menor entre os trens aos finais de semana.",
+      "gradeComment": 4
+    },
+    {
+      "author": "Thiago Amorim",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucrSm9f5BqRqpM2qbxsLicuKErv2fmQkmUg5UPJOaw=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "Estação acessível, sempre limpa, com bicicletário e telefones públicos. Ficou melhor quando adotou pontos de autoatendimento para consulta e compra de saldo, mesmo que esta última só aceite cartão como forma de pagamento. Outra coisa “recente” é a instalação de uma conveniência próxima às escadas rolantes: os preços são salgados, mas desde quando isso importou para quem está com fome em pleno horário de pico?",
+      "gradeComment": 5
+    },
+    {
+      "author": "Doug_Ramos",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucp0ga0xRXL6IuM4FOaFI2pNV_uOG7WEQdRxNDzPoA=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "Penúltima estação sentido Grajaú da Linha 9 Esmeralda da CPTM. Sempre muito bem higienizada, banheiros limpinhos e acesso totalmente viável para quem necessita. A estação conta com elevadores, escadas rolantes e funcionários sempre atentos e dispostos a ajudar. Posto de auto atendimento para recarregar o bilhete em cartão de débito. Localizada na região sul de São Paulo, estação Primavera-Interlagos é uma das estações mais bem equiparado da cidade, contando até com bicicletário.",
+      "gradeComment": 4
+    },
+    {
+      "author": "Ricardo",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucqOnjqdLQZDqt5tZzFS2vqKmWnG6mFeV9gUrB6oMA=w36-h36-p-c0x00000000-rp-mo-ba2-br100",
+      "comment": "Ótima estação, atende muito bem a nossa região, sempre limpa e segura... Aliás trilhos é uma ótima solução para diminuição da poluição e trânsito. Hoje temos a opção de baldiar em Santo Amaro e Pinheiros.. Nós da acesso a vários shoppings..",
+      "gradeComment": 5
+    },
+    {
+      "author": "João Paulo Carvalho",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucpHDD2Sw7LxLqET8hHjGtSEjEB5lsSa7zwAuXvY3BA=w36-h36-p-c0x00000000-rp-mo-br100",
+      "comment": "Instalações e funcionários excelentes. Com os piores usuários de São Paulo. Impossível entrar no trem de manhã sem ser empurrado por idosas obesas e gente metida a besta de IPhone na mão. Boa parte da população não merece esse serviço.",
+      "gradeComment": 5
+    }
+  ],
+  "peakHours": [
+    {
+      "Sunday": [
+        {
+          "hour": "04:00",
+          "percent": 8
+        },
+        {
+          "hour": "05:00",
+          "percent": 12
+        },
+        {
+          "hour": "06:00",
+          "percent": 16
+        },
+        {
+          "hour": "07:00",
+          "percent": 18
+        },
+        {
+          "hour": "08:00",
+          "percent": 18
+        },
+        {
+          "hour": "09:00",
+          "percent": 19
+        },
+        {
+          "hour": "10:00",
+          "percent": 22
+        },
+        {
+          "hour": "11:00",
+          "percent": 26
+        },
+        {
+          "hour": "12:00",
+          "percent": 29
+        },
+        {
+          "hour": "13:00",
+          "percent": 30
+        },
+        {
+          "hour": "14:00",
+          "percent": 29
+        },
+        {
+          "hour": "15:00",
+          "percent": 27
+        },
+        {
+          "hour": "16:00",
+          "percent": 26
+        },
+        {
+          "hour": "17:00",
+          "percent": 28
+        },
+        {
+          "hour": "18:00",
+          "percent": 30
+        },
+        {
+          "hour": "19:00",
+          "percent": 30
+        },
+        {
+          "hour": "20:00",
+          "percent": 26
+        },
+        {
+          "hour": "21:00",
+          "percent": 20
+        },
+        {
+          "hour": "22:00",
+          "percent": 13
+        },
+        {
+          "hour": "23:00",
+          "percent": 7
+        },
+        {
+          "hour": "00:00",
+          "percent": 2
+        },
+        {
+          "hour": "03:00",
+          "percent": 3
+        }
+      ]
+    },
+    {
+      "Monday": [
+        {
+          "hour": "04:00",
+          "percent": 15
+        },
+        {
+          "hour": "05:00",
+          "percent": 46
+        },
+        {
+          "hour": "06:00",
+          "percent": 82
+        },
+        {
+          "hour": "07:00",
+          "percent": 94
+        },
+        {
+          "hour": "08:00",
+          "percent": 72
+        },
+        {
+          "hour": "09:00",
+          "percent": 41
+        },
+        {
+          "hour": "10:00",
+          "percent": 29
+        },
+        {
+          "hour": "11:00",
+          "percent": 35
+        },
+        {
+          "hour": "12:00",
+          "percent": 41
+        },
+        {
+          "hour": "13:00",
+          "percent": 35
+        },
+        {
+          "hour": "14:00",
+          "percent": 30
+        },
+        {
+          "hour": "15:00",
+          "percent": 35
+        },
+        {
+          "hour": "16:00",
+          "percent": 49
+        },
+        {
+          "hour": "17:00",
+          "percent": 63
+        },
+        {
+          "hour": "18:00",
+          "percent": 71
+        },
+        {
+          "hour": "19:00",
+          "percent": 69
+        },
+        {
+          "hour": "20:00",
+          "percent": 57
+        },
+        {
+          "hour": "21:00",
+          "percent": 40
+        },
+        {
+          "hour": "22:00",
+          "percent": 23
+        },
+        {
+          "hour": "23:00",
+          "percent": 10
+        },
+        {
+          "hour": "00:00",
+          "percent": 2
+        }
+      ]
+    },
+    {
+      "Tuesday": [
+        {
+          "hour": "04:00",
+          "percent": 18
+        },
+        {
+          "hour": "05:00",
+          "percent": 50
+        },
+        {
+          "hour": "06:00",
+          "percent": 87
+        },
+        {
+          "hour": "07:00",
+          "percent": 99
+        },
+        {
+          "hour": "08:00",
+          "percent": 76
+        },
+        {
+          "hour": "09:00",
+          "percent": 45
+        },
+        {
+          "hour": "10:00",
+          "percent": 32
+        },
+        {
+          "hour": "11:00",
+          "percent": 37
+        },
+        {
+          "hour": "12:00",
+          "percent": 42
+        },
+        {
+          "hour": "13:00",
+          "percent": 38
+        },
+        {
+          "hour": "14:00",
+          "percent": 33
+        },
+        {
+          "hour": "15:00",
+          "percent": 37
+        },
+        {
+          "hour": "16:00",
+          "percent": 50
+        },
+        {
+          "hour": "17:00",
+          "percent": 64
+        },
+        {
+          "hour": "18:00",
+          "percent": 74
+        },
+        {
+          "hour": "19:00",
+          "percent": 73
+        },
+        {
+          "hour": "20:00",
+          "percent": 63
+        },
+        {
+          "hour": "21:00",
+          "percent": 47
+        },
+        {
+          "hour": "22:00",
+          "percent": 29
+        },
+        {
+          "hour": "23:00",
+          "percent": 15
+        },
+        {
+          "hour": "00:00",
+          "percent": 5
+        },
+        {
+          "hour": "03:00",
+          "percent": 2
+        }
+      ]
+    },
+    {
+      "Wednesday": [
+        {
+          "hour": "04:00",
+          "percent": 18
+        },
+        {
+          "hour": "05:00",
+          "percent": 51
+        },
+        {
+          "hour": "06:00",
+          "percent": 89
+        },
+        {
+          "hour": "07:00",
+          "percent": 100
+        },
+        {
+          "hour": "08:00",
+          "percent": 75
+        },
+        {
+          "hour": "09:00",
+          "percent": 44
+        },
+        {
+          "hour": "10:00",
+          "percent": 33
+        },
+        {
+          "hour": "11:00",
+          "percent": 40
+        },
+        {
+          "hour": "12:00",
+          "percent": 43
+        },
+        {
+          "hour": "13:00",
+          "percent": 37
+        },
+        {
+          "hour": "14:00",
+          "percent": 33
+        },
+        {
+          "hour": "15:00",
+          "percent": 41
+        },
+        {
+          "hour": "16:00",
+          "percent": 57
+        },
+        {
+          "hour": "17:00",
+          "percent": 72
+        },
+        {
+          "hour": "18:00",
+          "percent": 79
+        },
+        {
+          "hour": "19:00",
+          "percent": 76
+        },
+        {
+          "hour": "20:00",
+          "percent": 64
+        },
+        {
+          "hour": "21:00",
+          "percent": 46
+        },
+        {
+          "hour": "23:00",
+          "percent": 14
+        },
+        {
+          "hour": "00:00",
+          "percent": 4
+        },
+        {
+          "hour": "03:00",
+          "percent": 1
+        }
+      ]
+    },
+    {
+      "Thursday": [
+        {
+          "hour": "04:00",
+          "percent": 17
+        },
+        {
+          "hour": "05:00",
+          "percent": 49
+        },
+        {
+          "hour": "06:00",
+          "percent": 85
+        },
+        {
+          "hour": "07:00",
+          "percent": 97
+        },
+        {
+          "hour": "08:00",
+          "percent": 74
+        },
+        {
+          "hour": "09:00",
+          "percent": 43
+        },
+        {
+          "hour": "10:00",
+          "percent": 34
+        },
+        {
+          "hour": "11:00",
+          "percent": 41
+        },
+        {
+          "hour": "12:00",
+          "percent": 45
+        },
+        {
+          "hour": "13:00",
+          "percent": 38
+        },
+        {
+          "hour": "14:00",
+          "percent": 32
+        },
+        {
+          "hour": "15:00",
+          "percent": 37
+        },
+        {
+          "hour": "16:00",
+          "percent": 50
+        },
+        {
+          "hour": "17:00",
+          "percent": 63
+        },
+        {
+          "hour": "18:00",
+          "percent": 70
+        },
+        {
+          "hour": "19:00",
+          "percent": 68
+        },
+        {
+          "hour": "20:00",
+          "percent": 58
+        },
+        {
+          "hour": "21:00",
+          "percent": 43
+        },
+        {
+          "hour": "22:00",
+          "percent": 28
+        },
+        {
+          "hour": "23:00",
+          "percent": 15
+        },
+        {
+          "hour": "00:00",
+          "percent": 6
+        },
+        {
+          "hour": "03:00",
+          "percent": 1
+        }
+      ]
+    },
+    {
+      "Friday": [
+        {
+          "hour": "04:00",
+          "percent": 13
+        },
+        {
+          "hour": "05:00",
+          "percent": 40
+        },
+        {
+          "hour": "06:00",
+          "percent": 72
+        },
+        {
+          "hour": "07:00",
+          "percent": 81
+        },
+        {
+          "hour": "08:00",
+          "percent": 61
+        },
+        {
+          "hour": "09:00",
+          "percent": 38
+        },
+        {
+          "hour": "10:00",
+          "percent": 32
+        },
+        {
+          "hour": "11:00",
+          "percent": 38
+        },
+        {
+          "hour": "12:00",
+          "percent": 41
+        },
+        {
+          "hour": "13:00",
+          "percent": 35
+        },
+        {
+          "hour": "14:00",
+          "percent": 33
+        },
+        {
+          "hour": "15:00",
+          "percent": 40
+        },
+        {
+          "hour": "16:00",
+          "percent": 53
+        },
+        {
+          "hour": "17:00",
+          "percent": 66
+        },
+        {
+          "hour": "18:00",
+          "percent": 73
+        },
+        {
+          "hour": "19:00",
+          "percent": 71
+        },
+        {
+          "hour": "20:00",
+          "percent": 61
+        },
+        {
+          "hour": "21:00",
+          "percent": 45
+        },
+        {
+          "hour": "22:00",
+          "percent": 29
+        },
+        {
+          "hour": "23:00",
+          "percent": 15
+        },
+        {
+          "hour": "00:00",
+          "percent": 6
+        }
+      ]
+    },
+    {
+      "Saturday": [
+        {
+          "hour": "04:00",
+          "percent": 12
+        },
+        {
+          "hour": "05:00",
+          "percent": 19
+        },
+        {
+          "hour": "06:00",
+          "percent": 26
+        },
+        {
+          "hour": "07:00",
+          "percent": 33
+        },
+        {
+          "hour": "08:00",
+          "percent": 39
+        },
+        {
+          "hour": "09:00",
+          "percent": 44
+        },
+        {
+          "hour": "10:00",
+          "percent": 45
+        },
+        {
+          "hour": "11:00",
+          "percent": 45
+        },
+        {
+          "hour": "12:00",
+          "percent": 44
+        },
+        {
+          "hour": "13:00",
+          "percent": 43
+        },
+        {
+          "hour": "14:00",
+          "percent": 42
+        },
+        {
+          "hour": "15:00",
+          "percent": 43
+        },
+        {
+          "hour": "16:00",
+          "percent": 45
+        },
+        {
+          "hour": "17:00",
+          "percent": 46
+        },
+        {
+          "hour": "18:00",
+          "percent": 45
+        },
+        {
+          "hour": "19:00",
+          "percent": 42
+        },
+        {
+          "hour": "20:00",
+          "percent": 36
+        },
+        {
+          "hour": "21:00",
+          "percent": 29
+        },
+        {
+          "hour": "22:00",
+          "percent": 21
+        },
+        {
+          "hour": "23:00",
+          "percent": 14
+        },
+        {
+          "hour": "00:00",
+          "percent": 8
+        },
+        {
+          "hour": "01:00",
+          "percent": 6
+        },
+        {
+          "hour": "02:00",
+          "percent": 5
+        },
+        {
+          "hour": "03:00",
+          "percent": 8
+        }
+      ]
+    }
+  ],
+  "relatedSearches": [
+    "estação primavera-interlagos endereço",
+    "estação primavera interlagos maps",
+    "estação interlagos mapa",
+    "estação interlagos metrô",
+    "estação primavera cptm",
+    "interlagos wikipédia",
+    "linha 9-esmeralda"
+  ],
+  "relateds": [
+    {
+      "mainName": "Estação Autódromo",
+      "url": null
+    },
+    {
+      "mainName": "Estação Grajaú",
+      "url": null
+    },
+    {
+      "mainName": "Cidade Dutra",
+      "url": null
+    },
+    {
+      "mainName": "Terminal Intermodal Grajaú",
+      "url": null
+    },
+    {
+      "mainName": "Estação Jurubatuba",
+      "url": null
+    },
+    {
+      "mainName": "Estação Varginha",
+      "url": null
+    },
+    {
+      "mainName": "Estação Socorro",
+      "url": null
+    },
+    {
+      "mainName": "Hebraica-Rebouças",
+      "url": null
+    },
+    {
+      "mainName": "Osasco",
+      "url": null
+    },
+    {
+      "mainName": "Estação Granja Julieta",
+      "url": null
+    },
+    {
+      "mainName": "Luz",
+      "url": null
+    },
+    {
+      "mainName": "Vila Olímpia",
+      "url": null
+    },
+    {
+      "mainName": "Bruno Covas-Mendes/Vila Natal",
+      "url": null
+    },
+    {
+      "mainName": "Estação Presidente Altino",
+      "url": null
+    },
+    {
+      "mainName": "Pinheiros",
+      "url": null
+    },
+    {
+      "mainName": "Jabaquara",
+      "url": null
+    },
+    {
+      "mainName": "Estação Berrini",
+      "url": null
+    },
+    {
+      "mainName": "Palmeiras-Barra Funda",
+      "url": null
+    },
+    {
+      "mainName": "Autódromo José Carlos Pace",
+      "url": null
+    },
+    {
+      "mainName": "Itapevi",
+      "url": null
+    },
+    {
+      "mainName": "Villa Lobos- Jaguaré",
+      "url": null
+    },
+    {
+      "mainName": "Largo Treze",
+      "url": null
+    },
+    {
+      "mainName": "Cidade Jardim",
+      "url": null
+    },
+    {
+      "mainName": "República",
+      "url": null
+    }
+  ]
+}

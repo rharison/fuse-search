@@ -1,0 +1,830 @@
+{
+  "mainName": "Parque Ecológico Três Meninas",
+  "slug": "parque-ecologico-tres-meninas",
+  "category": "Parque ecológico",
+  "locationInformation": {
+    "latitude": "-15.8741441",
+    "longitude": "-48.107712"
+  },
+  "basicInformation": [
+    {
+      "label": "endereço",
+      "tooltip": "Copiar endereço",
+      "text": "QR 611 - Samambaia Norte, Brasília - DF",
+      "icon": "https://www.gstatic.com/images/icons/material/system_gm/1x/place_gm_blue_24dp.png"
+    },
+    {
+      "label": "Code",
+      "tooltip": "Copiar Plus Code",
+      "text": "4VGR+8W Samambaia Norte, Brasília - DF",
+      "icon": "https://maps.gstatic.com/mapfiles/maps_lite/images/2x/ic_plus_code.png"
+    },
+    {
+      "label": "send-to-device",
+      "text": "Enviar para smartphone",
+      "icon": "https://maps.gstatic.com/consumer/images/icons/1x/send_to_mobile_alt_gm_blue_24dp.png"
+    },
+    {
+      "label": "merchant",
+      "text": "Reivindicar esta empresa",
+      "icon": "https://www.gstatic.com/images/icons/material/system_gm/1x/verified_user_gm_blue_24dp.png"
+    }
+  ],
+  "ratingInformation": {
+    "basicRatingInformation": {
+      "averageGrade": 4.4,
+      "totalOfEvaluations": 1739
+    },
+    "ratingsByGrade": [
+      {
+        "grade": 5,
+        "totalRatings": 1055
+      },
+      {
+        "grade": 4,
+        "totalRatings": 364
+      },
+      {
+        "grade": 3,
+        "totalRatings": 242
+      },
+      {
+        "grade": 2,
+        "totalRatings": 41
+      },
+      {
+        "grade": 1,
+        "totalRatings": 37
+      }
+    ]
+  },
+  "ratingTags": [
+    {
+      "tag": "segurança",
+      "count": 72,
+      "tooltip": "segurança, mencionado em 72 avaliações"
+    },
+    {
+      "tag": "lazer",
+      "count": 36,
+      "tooltip": "lazer, mencionado em 36 avaliações"
+    },
+    {
+      "tag": "quadra",
+      "count": 28,
+      "tooltip": "quadra, mencionado em 28 avaliações"
+    },
+    {
+      "tag": "skate",
+      "count": 21,
+      "tooltip": "skate, mencionado em 21 avaliações"
+    },
+    {
+      "tag": "corrida",
+      "count": 15,
+      "tooltip": "corrida, mencionado em 15 avaliações"
+    },
+    {
+      "tag": "atividades físicas",
+      "count": 14,
+      "tooltip": "atividades físicas, mencionado em 14 avaliações"
+    },
+    {
+      "tag": "areia",
+      "count": 13,
+      "tooltip": "areia, mencionado em 13 avaliações"
+    },
+    {
+      "tag": "usuários",
+      "count": 12,
+      "tooltip": "usuários, mencionado em 12 avaliações"
+    },
+    {
+      "tag": "polícia",
+      "count": 11,
+      "tooltip": "polícia, mencionado em 11 avaliações"
+    },
+    {
+      "tag": "ciclovia",
+      "count": 8,
+      "tooltip": "ciclovia, mencionado em 8 avaliações"
+    }
+  ],
+  "featuredPhotos": [
+    "https://lh5.googleusercontent.com/p/AF1QipMb3FLqaE_Vqe4-fE4B5YJWSNydzp6UEdRVMFrZ=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNrESBFTNJgAvgbUHqILtN7rOYdJMBdO5wsu8kl=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNt-cIIGwsmRD3wA_-ds7jmoxaFXQGT9SyDHiIK=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipM-5bmM-DxhqA0G6-JlEwpxRqH2RTmJOTTMYDxc=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipP8M7-t7av_zfgwfW3d4dnlWjsC8_XoiZ0Q6-I7=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipM0M35FBXP6PjiimmoRPpaANYzaPivmSyP5yQF5=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipO8KlO2yKgL8DevMEZJyh1m6fFW_C_F-WIy5jpP=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNdafRcJPGuhXwt9jNIDTygHwYI-Yc8KWnXgxsL=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipM4UiPvb1p5ap7JtW4SKNXV7YC_eyWLuSril996=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPSfizzUw8xkF1p5xFC0IjxySeD5qrP3cM1OAk=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPlDaMveQI5mDwQB7wY0X2OVmQJ8rjeEJ2nfJvf=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPB59kdKnrJkVaYhm-a7ryHZbG7e8_icO24x0ZE=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMl6MtYZhuaAwWPdwtR7Tj8EY0NCIN9kzgDQ2z9=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipN7gTf2k3Rd1-41ntTS_6K-E_lpA6w7zPC_bkyZ=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipN1Qz7xhwrI9Fd_96FHWyPr82cczN7Zw6-a_LMn=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipO0uQ3NPdZnMiv9xiB6BhuWfiJLAiCncHbodzh2=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPO4pybh17cfvNgjLkfWUsCftbCuNo8YpcWhzGS=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMTRX3Pgf3-5J1RUq9nr59YMY_1oa5VC8jVOYgU=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipN206LvNNZkzU5R1sIvzqMWdQzsA34xM_5Der_Z=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipN31AiOozC9zI7240EN-yERuqgEbUUYfRLyoJW7=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPWtfDgabec2b406CTvc-3TMVLEheZWmfEov8uj=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMhUiCCK-rKY1S9CwMdrPN-fW-VHhQHDpya7rsh=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipN5Kpb_b-ZmWaU6zLNrqozABkjp-H6vjkrsKwTg=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPegh2bvTb-_zaxG-vqsMTznGk69jd5qCkw-eFi=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPtbcsJ2WQ6VBURhKfRA8d9c4CfO4Ho8f6nsAy1=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOG353wyMT1ydNrNM-c3P7EkbhRqi7sNWCPtfNU=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipP6ZAmJyxS8DCYwRUzt7iOciofOhlFBBPn_QZzk=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipO0l8YjSPnw4XQMo_mg-8d2VzjMafhGhIy1Qtou=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOJ1aCbVYgWHdwTkxXESouRj1UB1-_BeKA7iXrt=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOZnZNu_vvZP28cNYg_qGXsWVdMMtkfbOzwH_Pr=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNxiXTumuaK0H-xvuc4oDvchW1Gd1ESddlT8IPD=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipN4Udw3rEyqvX1CfcA5_bYIK6RGI1UgmC8kQzad=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNInSvyu-AYy4MS0OREU-Kgli22RC0GRnhS3FIh=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMNlzP7ukNor_oPqMNcw02L8UhmAUoYXv05bAZV=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOT02tP5xZfqkMV9doQAC1xKO2xw6OKmjH7o9eD=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPvMRA8DwptJBmsqCmjSp21dVTSBLC_BckzJ_RA=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipP6bkkbsJ3gwOtNH_KGYlUB5wAtsgp3GP3I9vzI=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPfm8p97mhsFvQdanPW_ZxmkSbJoEpqNj7aKqYK=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPSu8pzJv5Mx08MFdUqsOqsDBGEOuaoLEu1BtM=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipM-DafLXIhgzytFEmi50X70t1KBYxCAzt-cNIW9=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipN74IkWwEk-IWrGp1dUNv5X6sxe6mZG4-23r3oe=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOLS-7FHu_eD9elThp88llTUVypVz7JRcL15ozq=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOCUZIWlVB87vlfHXONXndpkxkfG4zhKW4xkr_i=w1024-h576-k-no"
+  ],
+  "topComments": [
+    {
+      "author": "Adriana Santos Gomes",
+      "photoAuthor": "https://lh3.googleusercontent.com/a/AItbvmnVOSemwCrPBAHtN61kOckcdhS19KwYTcIMLS2d=w36-h36-p-c0x00000000-rp-mo-br100",
+      "comment": "Lugar fresquinho, tranquilo.Ambiente bem família. Só precisando dá uma atenção nas gramas que estão um pouco altas,mas isso é detalhes.O resto tudo ok,lugar super agradável .🌳🌲.",
+      "gradeComment": 4
+    },
+    {
+      "author": "Tiago Brito",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZuco5ZC8tluOQxaytv4tFp9HhEVRrcpt5oel_ZmgfjA=w36-h36-p-c0x00000000-rp-mo-br100",
+      "comment": "Parque bom para um piquenique, caminhar com segurança, muita área verde e próximo à cidade. Lugar que precisa ser preservado, importante na história da cidade de Samambaia e na de Brasília também.",
+      "gradeComment": 4
+    },
+    {
+      "author": "Luyde Barros",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucqomj3P74h6aQlYBg4gqMXghaf8NmqkNGHTvSsaI1I=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "Parque Maravilhoso, limpo e muito belo! Ótimo para um dia de passeio com a família!",
+      "gradeComment": 5
+    },
+    {
+      "author": "Romeu Felix (RomeuFelixx)",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucr4MQDlx10_b3rQw67Qp64zUmRfS_35VgsWxSRFLG0=w36-h36-p-c0x00000000-rp-mo-ba5-br100",
+      "comment": "O local é uma antiga fazenda construída nos anos 60, onde se destacam três pequenas casas feitas pelos antigos proprietários para suas três filhas. Em meio a esse contexto histórico-cultural, o parque oferece ainda a seus visitantes pista de skate, parques infantis, quadras poliesportivas e ciclovia.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Betyna Moraes",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucrvk_dXFSkKoYzBE3O40omOK_RUDY3yTLM0XFoa8Bs=w36-h36-p-c0x00000000-rp-mo-br100",
+      "comment": "Já estive algumas vezes no parque, mas desde a primeira vez observei que não tem acessibilidade para cadeirante e portadores de algumas necessidades, por exemplo minha mãe, que tem dificuldade para subir e descer degraus. Porém na última vez me deparei com várias restrições. Não pode armar rede, colocar mesinha e cadeira dobrável. Deveriam antes oferecer melhores condições de uso colocando  mesas e bancos fixos 🤷",
+      "gradeComment": 1
+    },
+    {
+      "author": "SAMARATUBE",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucrlLdO614G2i4MAL-2GJAQUUX7qfWpWASE1j-ygBjs=w36-h36-p-c0x00000000-rp-mo-ba3-br100",
+      "comment": "O lugar é muito bonito, excelente para realizar atividades físicas, piqueniques, passeios com a família. Entretanto, trata-se de um local extremamente periculoso, a todo momento é possível ver meliantes rondando o local. Já pude presenciar diversos roubos com agressões e humilhações às vítimas. Não recomendo que se visite esse lugar de modo algum!",
+      "gradeComment": 1
+    },
+    {
+      "author": "Viviania Bitencourt",
+      "photoAuthor": "https://lh3.googleusercontent.com/a/AItbvmmCgl1CVMIr58NwrF_oR1Bi4RscOtSTwuvR2v37=w36-h36-p-c0x00000000-rp-mo-ba2-br100",
+      "comment": "Parque que atende a todas as idades. Espaço para caminhada, parquinho infantil, quadra poliesportiva, rampa de skate, equipamentos para exercícios físicos, banheiro e estacionamento. Muito acolhedor, com belas árvores e ar puro.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Ruth Santos",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucorahDeu38w4emeGje_slzkeNBZyoA0dVZBngX73io=w36-h36-p-c0x00000000-rp-mo-br100",
+      "comment": "Eu cresci frequentando esse local, anos atrás era muito movimentado, tinha uma biblioteca pública, disponibilizava cursos para a comunidade, lá também funcionava o SENAI de Samambaia, Hoje só funciona como um parque ecológico, tem um espaço amplo  que disponibiliza atividades físicas como: aeróbica e yoga voltadas para as pessoas do grupo de hipertensos, com a pandemia parece que as atividades estão suspensas, mas continua sendo um ótimo lugar pra frequentar e pra quem  gosta de apreciar a natureza e praticar exercícios físicos vale a pena conferir...",
+      "gradeComment": 5
+    },
+    {
+      "author": "ermirene souza",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucr-Iz7GKqpmbdlGGn-aqL6Ecq_5VtZVVYAUNJ7-uM4=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "Ótimo lugar para caminhar 🏃‍♀️",
+      "gradeComment": 5
+    },
+    {
+      "author": "Suzana Oliveira",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucrUKZTqYTe-WPw0hL6lxuluZmLDh9IFJRXQP9iMsQ=w36-h36-p-c0x00000000-rp-mo-ba3-br100",
+      "comment": "Local bom para fazer caminhada e ficar apreciando a natureza só que tem que estar atento aos assaltos.",
+      "gradeComment": 4
+    },
+    {
+      "author": "Armenio Filho",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZuco7PqxkOicDk0CiMULxE7BGWUTYG9KTZIt8iMbM_DI=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "Muito bom o parque, pista lisa, da pra caminhar, correr, pedalar, patins, sk8, long... Da pra fazer piquenique, sentar na grama... No final, na parte de baixo, tem uma vista linda. Tem algumas casas abandonadas, mas n oferece perigo, sempre tem guarda andando por ele. Tem banheiro público. Tem quadras, pista de bike/sk8. Na época da pandemia, como todo parque, tem mais gente que o normal, mas nada que seja aglomeração. Não deixe de visitar para treinar ou relaxar.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Kamyla Ceia",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucoP7f4vEnfRIu33WQ8zvpPPtcUaNfukbVcZCiFa-jU=w36-h36-p-c0x00000000-rp-mo-ba5-br100",
+      "comment": "Entrada gratuita, sempre tem viaturas rondando o park devido a entrada ser liberada e possível encontrar pessoas fazendo uso de drogas ilícitas, o local tem uma amola area de lazer, contendo skate park , quadra de futebol, quadra de areia, parquinho infantil, possui bebedores e banheiros públicos. Ótimos para piquenique e redes. Pode levar seus pets para passear e brincar avontade. E possível ver macaquinhos nas arvores e varias especies de passaros.",
+      "gradeComment": 3
+    },
+    {
+      "author": "Marcus Vinicius",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucqNXZw2zLwm5xbeljvYOoZMilW0zEUK7TAeAXkeVA=w36-h36-p-c0x00000000-rp-mo-ba3-br100",
+      "comment": "Bem planejado, bem arborizado, pista de caminhada plana. Ambiente bem familiar, com seguranças, banheiros e bebedouros.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Joaci Amaral",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucpFeQ2WM4iNvrn0W9cYxOxbK5C6AuTWGgPqQyOQdHY=w36-h36-p-c0x00000000-rp-mo-br100",
+      "comment": "Ótimo lugar para estar com a família, praticar esportes e lazer. Melhor lugar de Samambaia.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Henrique Sousa",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucrBNF-RsMc-jlkBvj5V_11YqHQQyads7Yr3qQHT=w36-h36-p-c0x00000000-rp-mo-ba3-br100",
+      "comment": "Foi legal. E também a administração que não funciona aos finais de semana e o administrador que não tem autonomia. Aguardo retorno da administração do parque.",
+      "gradeComment": 3
+    },
+    {
+      "author": "jhon H",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucrIDUIJWjK5EPMIdbj5ztoIVCGhqGTO9Dkqt_qJaQ=w36-h36-p-c0x00000000-rp-mo-br100",
+      "comment": "ótimo lugar para se passar o dia com a família e levar as filhas bonitas🥰",
+      "gradeComment": 5
+    },
+    {
+      "author": "Veronica Maria dos Reis Bezerra",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucqwxE02cNlfW4kVeTIHdFdC2_66E3cOrRWY7PywVyY=w36-h36-p-c0x00000000-rp-mo-br100",
+      "comment": "Um local lindo, bem arborizado , cheinho de uma história linda, mas totalmente abandonado pelo GDF, Ibram e demais órgãos que deveriam preservar o mesmo, o lixo na encosta das Cachoeiras é absurdo, a mata alta ,as casinhas das 3 meninas depredadas, bem triste a atual situação!",
+      "gradeComment": 5
+    },
+    {
+      "author": "Rosevaldo Queiroz",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucoD5-FytxvEKKADyPTOXQHaa8CG8ORgDI0RInIcXg=w36-h36-p-c0x00000000-rp-mo-br100",
+      "comment": "É um espaço muito promissor! As famílias precisam frequentar esse local e o poder público deve investir em infraestrutura para estimular a visitação. Ótimo lugar para um piquenique, para deixar as crianças correrem...",
+      "gradeComment": 5
+    },
+    {
+      "author": "Leidiane Moreira de Lima",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucoZUrY13MyXmKrZGoStwSS27Elylj2tRtlTaTIIBw=w36-h36-p-c0x00000000-rp-mo-br100",
+      "comment": "Excelente!!! Levei meu dog pra passear e encontrei um posto veterinário lá, tirou sangue e estamos aguardando os resultados. Feliz por ter esse atendimento na minha cidade 🙂",
+      "gradeComment": 5
+    },
+    {
+      "author": "Sheila Passos",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucplyiOQ8ek_-XvltDp8jMeQ9-lKIB4k4CzsMqqWnEI=w36-h36-p-c0x00000000-rp-mo-br100",
+      "comment": "Parque ecológico muito bem arborizado, com quadra de esportes, parquinho de areia, pista de skate. Ambiente familiar, ótimo p piquenique em família. É preciso ter atenção no estacionamento e cautela em alguns horários mais pro final da tarde e hora do almoço.",
+      "gradeComment": 5
+    }
+  ],
+  "peakHours": [
+    {
+      "Sunday": [
+        {
+          "hour": "06:00",
+          "percent": 7
+        },
+        {
+          "hour": "07:00",
+          "percent": 10
+        },
+        {
+          "hour": "08:00",
+          "percent": 18
+        },
+        {
+          "hour": "09:00",
+          "percent": 31
+        },
+        {
+          "hour": "10:00",
+          "percent": 46
+        },
+        {
+          "hour": "11:00",
+          "percent": 51
+        },
+        {
+          "hour": "12:00",
+          "percent": 45
+        },
+        {
+          "hour": "13:00",
+          "percent": 36
+        },
+        {
+          "hour": "14:00",
+          "percent": 43
+        },
+        {
+          "hour": "15:00",
+          "percent": 72
+        },
+        {
+          "hour": "16:00",
+          "percent": 100
+        },
+        {
+          "hour": "17:00",
+          "percent": 93
+        },
+        {
+          "hour": "18:00",
+          "percent": 58
+        },
+        {
+          "hour": "19:00",
+          "percent": 25
+        },
+        {
+          "hour": "20:00",
+          "percent": 10
+        },
+        {
+          "hour": "21:00",
+          "percent": 6
+        }
+      ]
+    },
+    {
+      "Monday": [
+        {
+          "hour": "06:00",
+          "percent": 4
+        },
+        {
+          "hour": "07:00",
+          "percent": 6
+        },
+        {
+          "hour": "08:00",
+          "percent": 9
+        },
+        {
+          "hour": "09:00",
+          "percent": 9
+        },
+        {
+          "hour": "10:00",
+          "percent": 9
+        },
+        {
+          "hour": "11:00",
+          "percent": 8
+        },
+        {
+          "hour": "12:00",
+          "percent": 7
+        },
+        {
+          "hour": "13:00",
+          "percent": 7
+        },
+        {
+          "hour": "14:00",
+          "percent": 10
+        },
+        {
+          "hour": "15:00",
+          "percent": 12
+        },
+        {
+          "hour": "16:00",
+          "percent": 14
+        },
+        {
+          "hour": "17:00",
+          "percent": 14
+        },
+        {
+          "hour": "18:00",
+          "percent": 11
+        },
+        {
+          "hour": "19:00",
+          "percent": 7
+        },
+        {
+          "hour": "20:00",
+          "percent": 3
+        }
+      ]
+    },
+    {
+      "Tuesday": [
+        {
+          "hour": "06:00",
+          "percent": 3
+        },
+        {
+          "hour": "07:00",
+          "percent": 6
+        },
+        {
+          "hour": "08:00",
+          "percent": 8
+        },
+        {
+          "hour": "09:00",
+          "percent": 9
+        },
+        {
+          "hour": "10:00",
+          "percent": 9
+        },
+        {
+          "hour": "11:00",
+          "percent": 8
+        },
+        {
+          "hour": "12:00",
+          "percent": 8
+        },
+        {
+          "hour": "13:00",
+          "percent": 9
+        },
+        {
+          "hour": "14:00",
+          "percent": 9
+        },
+        {
+          "hour": "15:00",
+          "percent": 10
+        },
+        {
+          "hour": "16:00",
+          "percent": 10
+        },
+        {
+          "hour": "17:00",
+          "percent": 9
+        },
+        {
+          "hour": "18:00",
+          "percent": 7
+        },
+        {
+          "hour": "19:00",
+          "percent": 5
+        },
+        {
+          "hour": "20:00",
+          "percent": 4
+        },
+        {
+          "hour": "21:00",
+          "percent": 2
+        }
+      ]
+    },
+    {
+      "Wednesday": [
+        {
+          "hour": "06:00",
+          "percent": 2
+        },
+        {
+          "hour": "07:00",
+          "percent": 6
+        },
+        {
+          "hour": "08:00",
+          "percent": 8
+        },
+        {
+          "hour": "09:00",
+          "percent": 10
+        },
+        {
+          "hour": "10:00",
+          "percent": 9
+        },
+        {
+          "hour": "11:00",
+          "percent": 7
+        },
+        {
+          "hour": "12:00",
+          "percent": 5
+        },
+        {
+          "hour": "13:00",
+          "percent": 5
+        },
+        {
+          "hour": "14:00",
+          "percent": 7
+        },
+        {
+          "hour": "15:00",
+          "percent": 9
+        },
+        {
+          "hour": "16:00",
+          "percent": 11
+        },
+        {
+          "hour": "17:00",
+          "percent": 10
+        },
+        {
+          "hour": "18:00",
+          "percent": 8
+        },
+        {
+          "hour": "19:00",
+          "percent": 5
+        },
+        {
+          "hour": "20:00",
+          "percent": 2
+        },
+        {
+          "hour": "21:00",
+          "percent": 1
+        }
+      ]
+    },
+    {
+      "Thursday": [
+        {
+          "hour": "06:00",
+          "percent": 1
+        },
+        {
+          "hour": "07:00",
+          "percent": 4
+        },
+        {
+          "hour": "08:00",
+          "percent": 8
+        },
+        {
+          "hour": "09:00",
+          "percent": 11
+        },
+        {
+          "hour": "10:00",
+          "percent": 12
+        },
+        {
+          "hour": "11:00",
+          "percent": 12
+        },
+        {
+          "hour": "12:00",
+          "percent": 10
+        },
+        {
+          "hour": "13:00",
+          "percent": 10
+        },
+        {
+          "hour": "14:00",
+          "percent": 14
+        },
+        {
+          "hour": "15:00",
+          "percent": 21
+        },
+        {
+          "hour": "16:00",
+          "percent": 26
+        },
+        {
+          "hour": "17:00",
+          "percent": 26
+        },
+        {
+          "hour": "18:00",
+          "percent": 18
+        },
+        {
+          "hour": "19:00",
+          "percent": 9
+        },
+        {
+          "hour": "20:00",
+          "percent": 2
+        }
+      ]
+    },
+    {
+      "Friday": [
+        {
+          "hour": "07:00",
+          "percent": 3
+        },
+        {
+          "hour": "08:00",
+          "percent": 7
+        },
+        {
+          "hour": "09:00",
+          "percent": 10
+        },
+        {
+          "hour": "10:00",
+          "percent": 11
+        },
+        {
+          "hour": "11:00",
+          "percent": 11
+        },
+        {
+          "hour": "12:00",
+          "percent": 12
+        },
+        {
+          "hour": "13:00",
+          "percent": 14
+        },
+        {
+          "hour": "14:00",
+          "percent": 18
+        },
+        {
+          "hour": "15:00",
+          "percent": 22
+        },
+        {
+          "hour": "16:00",
+          "percent": 23
+        },
+        {
+          "hour": "17:00",
+          "percent": 21
+        },
+        {
+          "hour": "18:00",
+          "percent": 16
+        },
+        {
+          "hour": "19:00",
+          "percent": 10
+        },
+        {
+          "hour": "20:00",
+          "percent": 4
+        },
+        {
+          "hour": "21:00",
+          "percent": 1
+        }
+      ]
+    },
+    {
+      "Saturday": [
+        {
+          "hour": "06:00",
+          "percent": 1
+        },
+        {
+          "hour": "07:00",
+          "percent": 6
+        },
+        {
+          "hour": "08:00",
+          "percent": 16
+        },
+        {
+          "hour": "09:00",
+          "percent": 29
+        },
+        {
+          "hour": "10:00",
+          "percent": 39
+        },
+        {
+          "hour": "11:00",
+          "percent": 43
+        },
+        {
+          "hour": "12:00",
+          "percent": 38
+        },
+        {
+          "hour": "13:00",
+          "percent": 32
+        },
+        {
+          "hour": "14:00",
+          "percent": 37
+        },
+        {
+          "hour": "15:00",
+          "percent": 60
+        },
+        {
+          "hour": "16:00",
+          "percent": 80
+        },
+        {
+          "hour": "17:00",
+          "percent": 71
+        },
+        {
+          "hour": "18:00",
+          "percent": 42
+        },
+        {
+          "hour": "19:00",
+          "percent": 19
+        },
+        {
+          "hour": "20:00",
+          "percent": 11
+        },
+        {
+          "hour": "21:00",
+          "percent": 10
+        }
+      ]
+    }
+  ],
+  "relatedSearches": [
+    "parque em samambaia",
+    "história de samambaia",
+    "munheca de samambaia",
+    "parque de águas claras"
+  ],
+  "relateds": [
+    {
+      "mainName": "Parque Ecológico Asa Sul",
+      "url": null
+    },
+    {
+      "mainName": "Parque Ecológico do Cortado",
+      "url": null
+    },
+    {
+      "mainName": "Parque Ecológico do Guará Ezechias Heringer",
+      "url": null
+    },
+    {
+      "mainName": "Parque Ecológico Saburo Onoyama",
+      "url": null
+    },
+    {
+      "mainName": "Parque Ecológico Tororó",
+      "url": null
+    },
+    {
+      "mainName": "Parque Ecológico das Copaíbas",
+      "url": null
+    },
+    {
+      "mainName": "Parque Ecológico Dom Bosco",
+      "url": null
+    },
+    {
+      "mainName": "Parque Vivencial do Lago Norte",
+      "url": null
+    },
+    {
+      "mainName": "Parque Ecológico Península Sul",
+      "url": null
+    },
+    {
+      "mainName": "Parque Ecológico de Águas Claras",
+      "url": null
+    },
+    {
+      "mainName": "Parque Ecológico do Areal",
+      "url": null
+    },
+    {
+      "mainName": "Estação Ecológica de Águas Emendadas",
+      "url": null
+    },
+    {
+      "mainName": "Parque Olhos D'Água",
+      "url": null
+    },
+    {
+      "mainName": "Estação Samambaia",
+      "url": null
+    },
+    {
+      "mainName": "Ermida Dom Bosco",
+      "url": null
+    },
+    {
+      "mainName": "Jardim Botânico de Brasília",
+      "url": null
+    },
+    {
+      "mainName": "Container In Natura Convenience - Parque da Cidade",
+      "url": null
+    },
+    {
+      "mainName": "Parque Nacional de Brasília",
+      "url": null
+    },
+    {
+      "mainName": "Estação Samambaia Sul",
+      "url": null
+    }
+  ]
+}

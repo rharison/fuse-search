@@ -1,0 +1,533 @@
+{
+  "mainName": "Altice Arena",
+  "slug": "altice-arena",
+  "category": "Arena",
+  "locationInformation": {
+    "latitude": "38.7685312",
+    "longitude": "-9.0940297"
+  },
+  "basicInformation": [
+    {
+      "label": "endereço",
+      "tooltip": "Copiar endereço",
+      "text": "Rossio dos Olivais, 1990-231 Lisboa, Portugal",
+      "icon": "https://www.gstatic.com/images/icons/material/system_gm/1x/place_gm_blue_24dp.png"
+    },
+    {
+      "label": "website",
+      "tooltip": "Abrir website",
+      "text": "arena.altice.pt",
+      "icon": "https://www.gstatic.com/images/icons/material/system_gm/1x/public_gm_blue_24dp.png"
+    },
+    {
+      "label": "telefone",
+      "tooltip": "Copiar número de telefone",
+      "text": "+351 21 891 8409",
+      "icon": "https://www.gstatic.com/images/icons/material/system_gm/1x/phone_gm_blue_24dp.png"
+    },
+    {
+      "label": "Code",
+      "tooltip": "Copiar Plus Code",
+      "text": "QW94+C9 Lisboa, Portugal",
+      "icon": "https://maps.gstatic.com/mapfiles/maps_lite/images/2x/ic_plus_code.png"
+    }
+  ],
+  "ratingInformation": {
+    "basicRatingInformation": {
+      "averageGrade": 4.5,
+      "totalOfEvaluations": 27676
+    },
+    "ratingsByGrade": [
+      {
+        "grade": 5,
+        "totalRatings": 16986
+      },
+      {
+        "grade": 4,
+        "totalRatings": 7916
+      },
+      {
+        "grade": 3,
+        "totalRatings": 1960
+      },
+      {
+        "grade": 2,
+        "totalRatings": 387
+      },
+      {
+        "grade": 1,
+        "totalRatings": 427
+      }
+    ]
+  },
+  "ratingTags": [
+    {
+      "tag": "espetáculos",
+      "count": 857,
+      "tooltip": "espetáculos, mencionado em 857 avaliações"
+    },
+    {
+      "tag": "acústica",
+      "count": 689,
+      "tooltip": "acústica, mencionado em 689 avaliações"
+    },
+    {
+      "tag": "país",
+      "count": 136,
+      "tooltip": "país, mencionado em 136 avaliações"
+    },
+    {
+      "tag": "andré rieu",
+      "count": 100,
+      "tooltip": "andré rieu, mencionado em 100 avaliações"
+    },
+    {
+      "tag": "arquitetura",
+      "count": 65,
+      "tooltip": "arquitetura, mencionado em 65 avaliações"
+    },
+    {
+      "tag": "shopping",
+      "count": 46,
+      "tooltip": "shopping, mencionado em 46 avaliações"
+    },
+    {
+      "tag": "u",
+      "count": 234,
+      "tooltip": "u2, mencionado em 34 avaliações"
+    },
+    {
+      "tag": "roger waters",
+      "count": 29,
+      "tooltip": "roger waters, mencionado em 29 avaliações"
+    },
+    {
+      "tag": "scorpions",
+      "count": 27,
+      "tooltip": "scorpions, mencionado em 27 avaliações"
+    },
+    {
+      "tag": "congressos",
+      "count": 17,
+      "tooltip": "congressos, mencionado em 17 avaliações"
+    }
+  ],
+  "featuredPhotos": [
+    "https://lh5.googleusercontent.com/p/AF1QipOO6q6TUZMsn0JrlLPfr5xjhhngv5NjGLbHubab=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNgOins05-o9uY4UsM5ifdMLsUcTQjGYuT-ZqeZ=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNrN74OwEa-EtlYSiBKmmZh-6qkG4x76R0H78hO=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMiK_K5ij5iYRfUmT5cYDJhTPqucRtTDcjRXjv0=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOv0FajzGw0sxtmu30b3JUzvmzIT9r98uKLx5sZ=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNoBUMNzD_IzhElQcehj-eI5tQ0WmllLwH6Vbv0=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMhNQA0yjGyXNPc1zsUQG-bpyjp0ReT1Fl-vwnB=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipM_XzXniCnhpvtjbNHqQEXH1Tl4w7FTtzZAFFBQ=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipN89lsxn24rPi9goiWPKS0ZkuzvR5Ojb_OzNlnX=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMiX6lSlR5VSIgfeT1HfunSp5xIjTc2VVrGmWPh=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPe4C3Lds-HwiCGgptbMb_aqqU6ReggsrHBiYzd=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNrGOFru4Z_L5RLXvpNdSsOe4fBRjFtUaaarsfX=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNokC8JYVf9KanKorswURLVzDelThlDXIGykoZA=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPXZgh97yiRMjb0IDwXp-b6-OyGB0dMclYxguaj=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipP-o-ZM0L9XP6C3oJaRf2_cZJA_65M-08cOARK9=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMMyab9un0GcYoCbWyLd5Le6te3oy07zgXsJL4u=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPWI0-uHxPLHYzcWdGCIllV5OvY0wzjrhC2oOHx=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOloRfteNpT8pnI81-i50dZfqYWxRmb0VrJwXbQ=w1024-h576-k-no"
+  ],
+  "topComments": [
+    {
+      "author": "Catarina Leal IG catcostaleal",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucqwICa0Qmbo2uDtTZ82xg8HpF46T9qDSw_eySBJCIY=w36-h36-p-c0x00000000-rp-mo-ba5-br100",
+      "comment": "Acústica longe da ideal.  Pouca visibilidade. É o local que temos para grandes concertos. Vale mais a pena ir a Barcelona ou Madrid se o espetáculo for o mesmo.",
+      "gradeComment": 3
+    },
+    {
+      "author": "Claudio Pacheco",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucoWf5576-z3HKA4U23hGyC1H7-jON4ussR3qW9s5A=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "Arena ampla e, na ocasião do concerto de Dua Lipa, o acesso não foi demorado. Havia casa de banho limpa, e também venda de bebidas.",
+      "gradeComment": 5
+    },
+    {
+      "author": "SWAY Danças de Salão",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucqXWcHbY_SN2ecvvoX3Q28Zvq9ZomMFzG32G-BDbw=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "Local óptimo para a realização de eventos desportivos. Muito acolhedor. Bom serviço de bar. Casas de banho sempre limpas e com uma decoração muito engraçada com autografos e dedicatórias dos vários artistas que já actuaram neste espaço.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Nuno HF Correia",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucqB5P3uFgRY4R9NWWCZxA4WpEUFty2n_CxKyETK4M0=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "A acústica do Altice arena não é grande coisa. E agora com a divisão da plateia os bares do golden circle não têm vista para o palco. Uma pessoa perde 2-3 músicas de um concerto para ir comprar uma água. Não faz sentido nenhum.",
+      "gradeComment": 3
+    },
+    {
+      "author": "Giovanna Porfirio Gonçalves",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucqheFpXqV4IvTXsnLfg5-1kuDP8Srnd301QT-g_nw=w36-h36-p-c0x00000000-rp-mo-ba3-br100",
+      "comment": "Visitamos apenas do lado de fora, a arena é Linda e parace ser bem organizada e segura.  Tinham muitoa seguranças no dia que visitei",
+      "gradeComment": 5
+    },
+    {
+      "author": "João Damásio",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucrYwgUmldtySmw6drs6TI70iBWA0_91j1IXxXxsXA=w36-h36-p-c0x00000000-rp-mo-ba3-br100",
+      "comment": "Local que dispensa apresentações. Único reparo: Já era tempo de investirem num sistema de som à altura, capaz de proporcionar som de qualidade em todos os locais, coisa que não acontece atualmente. Nós balcões e nas laterais o som chega a ser sofrível.  MERECE MUITO MAIS e MELHOR! Investir num PA de QUALIDADE é URGENTE!",
+      "gradeComment": 4
+    },
+    {
+      "author": "Abel Fontemanha",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucrzLrQlR_aCg6MKdigXtm0w4W0sGKFMtMkqkpCUIw=w36-h36-p-c0x00000000-rp-mo-ba5-br100",
+      "comment": "Impressionante! Eu sei que será repetitivo fazer este comentário, mas não conhecia. Enorme, qualidade sonora excelente. Adorei.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Ana Catarina Coelho",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucpcc40gR1x9xizz4SA0sGeZhmCO8ca47MNTwnrMR6g=w36-h36-p-c0x00000000-rp-mo-ba5-br100",
+      "comment": "Altice Arena – anteriormente Pavilhão Atlântico e MEO Arena – é um espaço destinado a atrações públicas e festivais localizado no Parque das Nações, em Lisboa, Portugal. Com uma capacidade de 20 000 espectadores, é o maior pavilhão de espetáculos de Portugal.",
+      "gradeComment": 4
+    },
+    {
+      "author": "José Wergy",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucqbjSkMBlWCGIyELVPj6VFGfOZLBUgkcYdRvGL2EA=w36-h36-p-c0x00000000-rp-mo-ba5-br100",
+      "comment": "A maior sala do país! Lindíssima mas os lugares no balcão 2 são um autêntico forno! Local sem climatização!!!",
+      "gradeComment": 4
+    },
+    {
+      "author": "Francisco Monteiro",
+      "photoAuthor": "https://lh3.googleusercontent.com/a/AItbvmkAZ2u8nJNh-QHzIN0SivyVytGbPZrhqsbO4vBd=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "Ir ao Altice Arena é sempre um recordar de boas memórias.  Sejam concertos,  sejam espetáculos,  exposições ou festas... É a melhor sala cultural de Lisboa..",
+      "gradeComment": 4
+    }
+  ],
+  "peakHours": [
+    {
+      "Sunday": []
+    },
+    {
+      "Monday": [
+        {
+          "hour": "09:00",
+          "percent": 47
+        },
+        {
+          "hour": "10:00",
+          "percent": 62
+        },
+        {
+          "hour": "11:00",
+          "percent": 75
+        },
+        {
+          "hour": "12:00",
+          "percent": 85
+        },
+        {
+          "hour": "13:00",
+          "percent": 89
+        },
+        {
+          "hour": "14:00",
+          "percent": 90
+        },
+        {
+          "hour": "15:00",
+          "percent": 89
+        },
+        {
+          "hour": "16:00",
+          "percent": 89
+        },
+        {
+          "hour": "17:00",
+          "percent": 91
+        },
+        {
+          "hour": "18:00",
+          "percent": 100
+        }
+      ]
+    },
+    {
+      "Tuesday": [
+        {
+          "hour": "09:00",
+          "percent": 40
+        },
+        {
+          "hour": "10:00",
+          "percent": 56
+        },
+        {
+          "hour": "11:00",
+          "percent": 68
+        },
+        {
+          "hour": "12:00",
+          "percent": 76
+        },
+        {
+          "hour": "13:00",
+          "percent": 81
+        },
+        {
+          "hour": "14:00",
+          "percent": 83
+        },
+        {
+          "hour": "15:00",
+          "percent": 84
+        },
+        {
+          "hour": "16:00",
+          "percent": 82
+        },
+        {
+          "hour": "17:00",
+          "percent": 77
+        },
+        {
+          "hour": "18:00",
+          "percent": 67
+        }
+      ]
+    },
+    {
+      "Wednesday": [
+        {
+          "hour": "09:00",
+          "percent": 34
+        },
+        {
+          "hour": "10:00",
+          "percent": 50
+        },
+        {
+          "hour": "11:00",
+          "percent": 63
+        },
+        {
+          "hour": "12:00",
+          "percent": 73
+        },
+        {
+          "hour": "13:00",
+          "percent": 80
+        },
+        {
+          "hour": "14:00",
+          "percent": 85
+        },
+        {
+          "hour": "15:00",
+          "percent": 86
+        },
+        {
+          "hour": "16:00",
+          "percent": 83
+        },
+        {
+          "hour": "17:00",
+          "percent": 77
+        },
+        {
+          "hour": "18:00",
+          "percent": 71
+        }
+      ]
+    },
+    {
+      "Thursday": [
+        {
+          "hour": "09:00",
+          "percent": 30
+        },
+        {
+          "hour": "10:00",
+          "percent": 44
+        },
+        {
+          "hour": "11:00",
+          "percent": 57
+        },
+        {
+          "hour": "12:00",
+          "percent": 68
+        },
+        {
+          "hour": "13:00",
+          "percent": 76
+        },
+        {
+          "hour": "14:00",
+          "percent": 79
+        },
+        {
+          "hour": "15:00",
+          "percent": 78
+        },
+        {
+          "hour": "16:00",
+          "percent": 74
+        },
+        {
+          "hour": "17:00",
+          "percent": 68
+        },
+        {
+          "hour": "18:00",
+          "percent": 60
+        }
+      ]
+    },
+    {
+      "Friday": [
+        {
+          "hour": "09:00",
+          "percent": 17
+        },
+        {
+          "hour": "10:00",
+          "percent": 29
+        },
+        {
+          "hour": "11:00",
+          "percent": 41
+        },
+        {
+          "hour": "12:00",
+          "percent": 53
+        },
+        {
+          "hour": "13:00",
+          "percent": 62
+        },
+        {
+          "hour": "14:00",
+          "percent": 66
+        },
+        {
+          "hour": "15:00",
+          "percent": 65
+        },
+        {
+          "hour": "16:00",
+          "percent": 62
+        },
+        {
+          "hour": "17:00",
+          "percent": 60
+        },
+        {
+          "hour": "18:00",
+          "percent": 66
+        }
+      ]
+    },
+    {
+      "Saturday": []
+    }
+  ],
+  "relatedSearches": [
+    "altice arena lugares",
+    "altice arena 2022",
+    "altice arena capacidade",
+    "altice arena contato",
+    "altice arena tamanho",
+    "altice arena now united",
+    "altice empresas",
+    "altice arena onde fica"
+  ],
+  "relateds": [
+    {
+      "mainName": "Coliseu dos Recreios",
+      "url": null
+    },
+    {
+      "mainName": "Pavilhão Rosa Mota - Super Bock Arena",
+      "url": null
+    },
+    {
+      "mainName": "Cinema City Campo Pequeno",
+      "url": null
+    },
+    {
+      "mainName": "Oceanário de Lisboa",
+      "url": null
+    },
+    {
+      "mainName": "Torre Vasco da Gama",
+      "url": null
+    },
+    {
+      "mainName": "Multiusos de Guimarães",
+      "url": null
+    },
+    {
+      "mainName": "Mosteiro dos Jerónimos",
+      "url": null
+    },
+    {
+      "mainName": "Convento do Carmo",
+      "url": null
+    },
+    {
+      "mainName": "Palacete de São Bento",
+      "url": null
+    },
+    {
+      "mainName": "Castelo de S. Jorge",
+      "url": null
+    },
+    {
+      "mainName": "Panteão Nacional",
+      "url": null
+    },
+    {
+      "mainName": "Igreja de São Vicente de Fora",
+      "url": null
+    },
+    {
+      "mainName": "Palácio Nacional da Ajuda",
+      "url": null
+    },
+    {
+      "mainName": "Elevador de Santa Justa",
+      "url": null
+    },
+    {
+      "mainName": "Ponte 25 de Abril",
+      "url": null
+    },
+    {
+      "mainName": "Padrão dos Descobrimentos",
+      "url": null
+    },
+    {
+      "mainName": "Igreja de São Domingos",
+      "url": null
+    },
+    {
+      "mainName": "Sé de Lisboa",
+      "url": null
+    },
+    {
+      "mainName": "Museu Calouste Gulbenkian",
+      "url": null
+    },
+    {
+      "mainName": "Palácio Nacional e Jardins de Queluz",
+      "url": null
+    },
+    {
+      "mainName": "Palácio das Necessidades",
+      "url": null
+    },
+    {
+      "mainName": "Museu Bordalo Pinheiro",
+      "url": null
+    },
+    {
+      "mainName": "Arco da Rua Augusta",
+      "url": null
+    },
+    {
+      "mainName": "Museu Nacional dos Coches",
+      "url": null
+    }
+  ]
+}

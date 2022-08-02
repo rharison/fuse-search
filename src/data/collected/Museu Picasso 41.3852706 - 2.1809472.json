@@ -1,0 +1,621 @@
+{
+  "mainName": "Museu Picasso",
+  "slug": "museu-picasso",
+  "category": "Museu de arte",
+  "locationInformation": {
+    "latitude": "41.3852706",
+    "longitude": "2.1809472"
+  },
+  "basicInformation": [
+    {
+      "label": "endereço",
+      "tooltip": "Copiar endereço",
+      "text": "Carrer de Montcada, 15-23, 08003 Barcelona, Espanha",
+      "icon": "https://www.gstatic.com/images/icons/material/system_gm/1x/place_gm_blue_24dp.png"
+    },
+    {
+      "label": "website",
+      "tooltip": "Abrir website",
+      "text": "museupicasso.bcn.cat",
+      "icon": "https://www.gstatic.com/images/icons/material/system_gm/1x/public_gm_blue_24dp.png"
+    },
+    {
+      "label": "telefone",
+      "tooltip": "Copiar número de telefone",
+      "text": "+34 932 56 30 00",
+      "icon": "https://www.gstatic.com/images/icons/material/system_gm/1x/phone_gm_blue_24dp.png"
+    },
+    {
+      "label": "Code",
+      "tooltip": "Copiar Plus Code",
+      "text": "95PJ+49 Barcelona, Espanha",
+      "icon": "https://maps.gstatic.com/mapfiles/maps_lite/images/2x/ic_plus_code.png"
+    }
+  ],
+  "ratingInformation": {
+    "basicRatingInformation": {
+      "averageGrade": 4.4,
+      "totalOfEvaluations": 25180
+    },
+    "ratingsByGrade": [
+      {
+        "grade": 5,
+        "totalRatings": 14678
+      },
+      {
+        "grade": 4,
+        "totalRatings": 6815
+      },
+      {
+        "grade": 3,
+        "totalRatings": 2545
+      },
+      {
+        "grade": 2,
+        "totalRatings": 644
+      },
+      {
+        "grade": 1,
+        "totalRatings": 498
+      }
+    ]
+  },
+  "ratingTags": [
+    {
+      "tag": "cheio",
+      "count": 6,
+      "tooltip": "cheio, mencionado em 6 avaliações"
+    },
+    {
+      "tag": "evolução",
+      "count": 228,
+      "tooltip": "evolução, mencionado em 228 avaliações"
+    },
+    {
+      "tag": "cubismo",
+      "count": 184,
+      "tooltip": "cubismo, mencionado em 184 avaliações"
+    },
+    {
+      "tag": "cronologia",
+      "count": 105,
+      "tooltip": "cronologia, mencionado em 105 avaliações"
+    },
+    {
+      "tag": "queue",
+      "count": 82,
+      "tooltip": "queue, mencionado em 82 avaliações"
+    },
+    {
+      "tag": "diego velázquez",
+      "count": 74,
+      "tooltip": "diego velázquez, mencionado em 74 avaliações"
+    },
+    {
+      "tag": "carreira",
+      "count": 50,
+      "tooltip": "carreira, mencionado em 50 avaliações"
+    },
+    {
+      "tag": "guernica",
+      "count": 45,
+      "tooltip": "guernica, mencionado em 45 avaliações"
+    },
+    {
+      "tag": "mudança",
+      "count": 34,
+      "tooltip": "mudança, mencionado em 34 avaliações"
+    },
+    {
+      "tag": "pombos",
+      "count": 18,
+      "tooltip": "pombos, mencionado em 18 avaliações"
+    }
+  ],
+  "featuredPhotos": [
+    "https://lh5.googleusercontent.com/p/AF1QipMkM3dFTbv_LaCirn_Cgh6Mt0njd8_lTThiUzpp=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNFL_e5qY8MrGEY_mP7x-7ebMPY-25FNquVuTCk=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMNQuZtbndhPdt5bRe2JlIZUDO-CIBqnGTa-7oR=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOSoLltDUIcc0DNOyTq-CW38F7JdowRNbV5q3wc=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMiN8YeSucKjlcF4HCmSb_IR0Pgok4ykL1cF_ZW=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNGSLbD70QPMG278HjTPk7SzAV41fqDtD60AkKo=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOGWE9sZfw3i8caQrBSGnsXyZ4EXxQshDVtvO5L=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMhemADlD_xvVoiI0SCRCiDlxJTahDqSv4sqr8C=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMtdQySn9Dvdr-EMEdk_ust9zKSryv2qXm_h2sR=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNpG6_3LKF1dluRt8BCzjZKYZ_kQvxnnexi3s5u=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPuf2gj6tLnl53nSvd6a3XJxI4oqe5BX6B6J-7D=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMRgtIzYUoh2XCRRORQvpHy5RsNcA8thTvk226H=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipM-zAHwgM6TEtlhTMNUAqugimTO1LWUPictmM9i=w1024-h576-k-no"
+  ],
+  "topComments": [
+    {
+      "author": "Gisele Nepomuceno",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucqh8X88EjxJ_SKsKjLLswVgS9s5SOG8LVtlRFqJ=w36-h36-p-c0x00000000-rp-mo-ba3-br100",
+      "comment": "O museu tem um acervo incrível de estudos e obras do pintor. O lugar é lindo, achei somente que a temperatura no interior precisava ser melhor controlada. Nunca visitei um museu tão quente. Os horários de entrada são rigidamente controlados, por isso não se atrase. Vale a visita, mas compre com antecedência. Um dos dias tem gratuidade após as 16:00, mas precisa ainda sim ser agendado no site. Isso não ficou claro pra mim e tive que voltar no dia seguinte pagando.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Alcides Santana",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucqFd0C8xr2o9FOvWTjYRTVoY4-NBFl4TD5BiFKXuTk=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "Museu que abriga um vasto material pouco conhecido de Picasso em suas diversas fases. Situa-se no meio do Bairro El Born em um edifício antigo mas com aspecto interno bem moderno. São muitas salas de exposição que contam por imagens e textos a história artística desse famosíssimo pintor. Imperdível para quem valoriza a arte.",
+      "gradeComment": 4
+    },
+    {
+      "author": "Débora Marcos",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZuco05UPB0szjeN26pqsPpFx9zN21T5oMvz9lfdNKmA=w36-h36-p-c0x00000000-rp-mo-ba3-br100",
+      "comment": "A exposição está bem estruturada, das primeiras às últimas obras de picasso, oferecendo uma visita coerente. No entanto, apesar de ter comprado um passe de 5 dias que me permitia entrar no museu, tive de ficar na fila (que é sempre enorme por sinal) e esperar que os visitantes comprassem as suas entradas para poder trocar o meu bilhete. Nota: com estes cartões normalmente temos um acesso lateral para evitar a fila. Neste caso, quem comprasse bilhete com cartão nas caixas automáticas, conseguia entrar primeiro.",
+      "gradeComment": 4
+    },
+    {
+      "author": "Renata Pertot de Oliveira",
+      "photoAuthor": "https://lh3.googleusercontent.com/a/AItbvmnd9q-lBjQ7ORTJ4628dbGKhdTAxWvMVJpzDqwz=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "A cada exposição ou a cada visita a um museu co.obras de Picasso, aprende-se uma nova faceta deste genial artista. Este museu um mostra um Picasso humano, com sua vida em Barcelona, sua família, a evolução de seu trabalho, seus amigos. Para apreciar em sua magnitude é necessário algum conhecimento prévio do artista e sua obra. Fora isso, as instalações são ótimas e um destaque para a loja, onde certamente se encontrará algo para comprar.",
+      "gradeComment": 4
+    },
+    {
+      "author": "Fernando Kawai",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucq4tYd-2R6rOErojODI_uFLjyW6PCdJfmq_tO_VoQ=w36-h36-p-c0x00000000-rp-mo-br100",
+      "comment": "Muito interessante. Conta o início de sua história. Como se desenvolveu como artista e que pintava muito de vários estilos até descobrir seu próprio. Foi muito inspirado pelo pai, professor de fine arts. Gostei.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Moacir Viana",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucq64tzpSkWxJSpTQm8WiTnu2cKz_5Jrn-kt8Tu3=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "Atente pelo fato que nas quintas à partir das 18h a entrada é gratuita e sem nenhuma burocracia, só retirar o ticket na bilheteria e aproveitar.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Carlos Bonfim",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucqOhSdFtGqYMX_M5ydZBr0tHE-OJX2vNiu14CYc-g=w36-h36-p-c0x00000000-rp-mo-ba7-br100",
+      "comment": "O Museu Picasso encontra-se no bairro de El Born, na carrer Montcada, a rua que já foi a mais importante e nobre da Barcelona medieval. Hoje apresenta uma sucessão de palácios medievais e renascentistas que foram testemunhas de um passado glorioso.  O museu, que abriu suas portas há 50 anos, ocupa cinco palácios góticos que foram interligados entre sim.  A ideia do museu foi de Jaime Sabertés, amigo pessoal de Picasso. Sabertés queria que o museu fosse construído em Málaga, mas foi o próprio Picasso quem sugeriu que ficasse em Barcelona. Desde 2003, Málaga também conta com um museu dedicado a Picasso, reunindo um número 90% inferior de obras com relação ao acervo do museu de Barcelona.  O museu conta com mais de 3.800 obras de Picasso, com ênfase nas produzidas na sua juventude.  O ponto alto da coleção está na série de reinterpretações do quadro Las Meninas, de Velázquez (cujo original pode ser visto no Museu de El Prado, em Madri), feitas por Picasso.  A visita ao museu é uma combinação entre a exposição da obra de Picasso e o surpreendente percurso pelos belos pátios góticos dos palácios restaurados e adequados para receber esse acervo.",
+      "gradeComment": 4
+    },
+    {
+      "author": "Carolina Castro",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucrOExeqCwxO6k-AFL6aKQmZSXHF2cFS51C7KPS6lw=w36-h36-p-c0x00000000-rp-mo-ba3-br100",
+      "comment": "Museu bem bonito, e apesar da curadoria pequena de Picasso, dá pra se ter uma boa noção da história do artista sem ser um passeio cansativo. Ponto fraco apenas para os áudios guias que eram confusos com relação a disposição das obras (faz você andar de um lado pro outro meio sem coerência com a disposição das obras nas salas). No mais, funcionários atenciosos e bem organizados nas entradas. Preço justo, porém melhor comprar com antecedência.",
+      "gradeComment": 4
+    },
+    {
+      "author": "Érica Santana",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucoWd-sjxAXlFa3MJUNXP9XfmZtsQ5mNEAlYda8C3B4=w36-h36-p-c0x00000000-rp-mo-ba5-br100",
+      "comment": "Excelente. Se você é fã de Picasso e da sua inquestionável genialidade, esse lugar foi feito para você. O Museu guarda vasto acervo de obras, peças, cartas, peças em cerâmica e a série completa de Las Meninas, criada em 1957 por Picasso a partir da reinterpretação da obra de Veláquez. É de tirar o fôlego.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Fernando H. Ahuvia",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucqv8xbXMfMDvE_i2W_9pOJHhNLBcqKa-cC73v1IEA=w36-h36-p-c0x00000000-rp-mo-ba5-br100",
+      "comment": "Localizado na rua que já foi a mais importante de Barcelona na época medieval, esse belíssimo museu aberto desde março de 1963 ocupa cinco palácios góticos interligados e conta com uma vasta coleção das obras do genial Picasso (não permitido tirar fotos das obras).",
+      "gradeComment": 5
+    },
+    {
+      "author": "Matheus Facure",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucrGRt5tv0uJKSZBRxkpSy-KV1U-bXaANBtOrx8Z9A=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "Bem interessante, mas não tem as obras principais do autor. Destaque para a série das meninas e para alguns quadros da fase azul. Bom para aprender sobre a trajetória do autor.",
+      "gradeComment": 4
+    },
+    {
+      "author": "Angela Souza",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucpKCc-eq8Qo0SNOywlhvtPXHtFfh3ovmoFvY67iVw=w36-h36-p-c0x00000000-rp-mo-br100",
+      "comment": "Museu com fácil acesso , com elevador, ótimo acervo, excelente limpeza e segurança. Chegada somente a pé. Ótimas confeitarias próximas e bares/ rest. de tapas.",
+      "gradeComment": 5
+    },
+    {
+      "author": "David Pessegueiro",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucqkxG9rkbH0WBk0FQJNXmQfsBLZJLFWTcMbpa0AKg=w36-h36-p-c0x00000000-rp-mo-ba2-br100",
+      "comment": "Um bom museu com retrospectiva da obra do artista. Ideal para compreender melhor Picasso. Com fila de espera longa mas valeu a pena",
+      "gradeComment": 4
+    },
+    {
+      "author": "Paulo da Costa",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucrMx2sfvHsZNGBPPSjnLzqyi90YtaW2YzSWXMrngQ=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "Um maravilhoso museu que conta a trajetória de um dos maiores gênios da pintura de todos os tempos e sua obsessão pela técnica de Velásquez.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Maria Parente",
+      "photoAuthor": "https://lh3.googleusercontent.com/a/AItbvmlOtBNQ0z04lM1jOTP2H3sLNPbluDKa9HRugTO3=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "Muito mal organizada a compra de bilhetes e depois a entrada tambem. Esprava muito mais. Salas muito mal aproveitadas. Salas amplas mas  com poucos quadros.",
+      "gradeComment": 3
+    },
+    {
+      "author": "Donario Lopes de Almeida",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucpkQ3CzD4zwrZmK0NAFSY0dLQiHtlvolTHvGrz4=w36-h36-p-c0x00000000-rp-mo-ba5-br100",
+      "comment": "A maior coleção de Picasso’s, com muita história da fase inicial do artista. O prédio é super amplo e a exposição segue uma lógica legal para entender este que foi um dos mais longevos e produtivos artistas do séculos 19/20. Legal que ao redor tem várias boas opções de tapas e comidinhas, então não deixe de visitar.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Samuel Fortunato",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucrkoAOtL6w6i4u3QVo4cwo79nkggtqcGcaRk-KXOA=w36-h36-p-c0x00000000-rp-mo-br100",
+      "comment": "Esperava mais do acervo. É legal ver rabiscos feitos ao telefone pelo sobrinho do Picasso mas pera lá, achei engraçado uma sala inteira para isso. As funcionárias do museu doutrinam sua visita indicando roboticamente o caminho a ser seguido, deixando a experiência um pouco tediosa com aquele aspecto de museu enrijecido. Por 12 euros até que vale se tiver tempo e chuva como nosso dia. Pegamos uma exposição de joias bem meia boca também.",
+      "gradeComment": 2
+    },
+    {
+      "author": "antonio mendes",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucqLkmlkc4uzkQGdlU9vMC1nDYe2TT3QwFwFNYKQbQ=w36-h36-p-c0x00000000-rp-mo-br100",
+      "comment": "Uma perfeita estupidez só ter uma bilheteira. Quem tem cartões do Icom tem que esperar uma hora na fila.",
+      "gradeComment": 3
+    },
+    {
+      "author": "Lucia Rabelo",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucpv_HUSWUrB-YhwYux--J3XVpCTVPQXkzL_l5yNAg=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "O museu é interessante mas é muito caro para o que oferece. Além de tudo algumas salas fechadas ..... A ordem das salas é confusa.",
+      "gradeComment": 3
+    },
+    {
+      "author": "Susi Saito",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucoImzzP1HV8nxii_MuIdxLZn6FP5ERVVKcMR5T03ww=w36-h36-p-c0x00000000-rp-mo-ba6-br100",
+      "comment": "Inesquecível!  Estar de perto de obras de Picasso é transcender no tempo.  Genialidade.  Único.",
+      "gradeComment": 5
+    }
+  ],
+  "peakHours": [
+    {
+      "Sunday": [
+        {
+          "hour": "10:00",
+          "percent": 39
+        },
+        {
+          "hour": "11:00",
+          "percent": 68
+        },
+        {
+          "hour": "12:00",
+          "percent": 85
+        },
+        {
+          "hour": "13:00",
+          "percent": 82
+        },
+        {
+          "hour": "14:00",
+          "percent": 73
+        },
+        {
+          "hour": "15:00",
+          "percent": 72
+        },
+        {
+          "hour": "16:00",
+          "percent": 74
+        },
+        {
+          "hour": "17:00",
+          "percent": 67
+        },
+        {
+          "hour": "18:00",
+          "percent": 47
+        },
+        {
+          "hour": "19:00",
+          "percent": 26
+        }
+      ]
+    },
+    {
+      "Monday": []
+    },
+    {
+      "Tuesday": [
+        {
+          "hour": "10:00",
+          "percent": 52
+        },
+        {
+          "hour": "11:00",
+          "percent": 81
+        },
+        {
+          "hour": "12:00",
+          "percent": 95
+        },
+        {
+          "hour": "13:00",
+          "percent": 89
+        },
+        {
+          "hour": "14:00",
+          "percent": 76
+        },
+        {
+          "hour": "15:00",
+          "percent": 76
+        },
+        {
+          "hour": "16:00",
+          "percent": 84
+        },
+        {
+          "hour": "17:00",
+          "percent": 79
+        },
+        {
+          "hour": "18:00",
+          "percent": 54
+        },
+        {
+          "hour": "19:00",
+          "percent": 25
+        }
+      ]
+    },
+    {
+      "Wednesday": [
+        {
+          "hour": "10:00",
+          "percent": 50
+        },
+        {
+          "hour": "11:00",
+          "percent": 78
+        },
+        {
+          "hour": "12:00",
+          "percent": 93
+        },
+        {
+          "hour": "13:00",
+          "percent": 88
+        },
+        {
+          "hour": "14:00",
+          "percent": 71
+        },
+        {
+          "hour": "15:00",
+          "percent": 64
+        },
+        {
+          "hour": "16:00",
+          "percent": 72
+        },
+        {
+          "hour": "17:00",
+          "percent": 75
+        },
+        {
+          "hour": "18:00",
+          "percent": 56
+        },
+        {
+          "hour": "19:00",
+          "percent": 27
+        }
+      ]
+    },
+    {
+      "Thursday": [
+        {
+          "hour": "10:00",
+          "percent": 45
+        },
+        {
+          "hour": "11:00",
+          "percent": 67
+        },
+        {
+          "hour": "12:00",
+          "percent": 80
+        },
+        {
+          "hour": "13:00",
+          "percent": 78
+        },
+        {
+          "hour": "14:00",
+          "percent": 67
+        },
+        {
+          "hour": "15:00",
+          "percent": 66
+        },
+        {
+          "hour": "16:00",
+          "percent": 84
+        },
+        {
+          "hour": "17:00",
+          "percent": 100
+        },
+        {
+          "hour": "18:00",
+          "percent": 82
+        },
+        {
+          "hour": "19:00",
+          "percent": 43
+        }
+      ]
+    },
+    {
+      "Friday": [
+        {
+          "hour": "10:00",
+          "percent": 36
+        },
+        {
+          "hour": "11:00",
+          "percent": 55
+        },
+        {
+          "hour": "12:00",
+          "percent": 63
+        },
+        {
+          "hour": "13:00",
+          "percent": 57
+        },
+        {
+          "hour": "14:00",
+          "percent": 49
+        },
+        {
+          "hour": "15:00",
+          "percent": 49
+        },
+        {
+          "hour": "16:00",
+          "percent": 52
+        },
+        {
+          "hour": "17:00",
+          "percent": 48
+        },
+        {
+          "hour": "18:00",
+          "percent": 35
+        },
+        {
+          "hour": "19:00",
+          "percent": 19
+        }
+      ]
+    },
+    {
+      "Saturday": [
+        {
+          "hour": "10:00",
+          "percent": 38
+        },
+        {
+          "hour": "11:00",
+          "percent": 61
+        },
+        {
+          "hour": "12:00",
+          "percent": 68
+        },
+        {
+          "hour": "13:00",
+          "percent": 64
+        },
+        {
+          "hour": "14:00",
+          "percent": 64
+        },
+        {
+          "hour": "15:00",
+          "percent": 66
+        },
+        {
+          "hour": "16:00",
+          "percent": 63
+        },
+        {
+          "hour": "17:00",
+          "percent": 53
+        },
+        {
+          "hour": "18:00",
+          "percent": 38
+        },
+        {
+          "hour": "19:00",
+          "percent": 24
+        }
+      ]
+    }
+  ],
+  "relatedSearches": [
+    "museu picasso wikipedia",
+    "museu de história de barcelona",
+    "cidade francesa com o museu de pablo picasso",
+    "catedral de barcelona"
+  ],
+  "relateds": [
+    {
+      "mainName": "Museu Nacional de Arte da Catalunha",
+      "url": null
+    },
+    {
+      "mainName": "Parque Güell",
+      "url": null
+    },
+    {
+      "mainName": "Fundação Joan Miró",
+      "url": null
+    },
+    {
+      "mainName": "Museu de Arte Contemporânea de Barcelona",
+      "url": null
+    },
+    {
+      "mainName": "Casa Batlló",
+      "url": null
+    },
+    {
+      "mainName": "Museu Picasso de Málaga",
+      "url": null
+    },
+    {
+      "mainName": "Templo Expiatório da Sagrada Família",
+      "url": null
+    },
+    {
+      "mainName": "Casa Milà",
+      "url": null
+    },
+    {
+      "mainName": "La Boqueria",
+      "url": null
+    },
+    {
+      "mainName": "Catedral de Barcelona",
+      "url": null
+    },
+    {
+      "mainName": "El Gòtic",
+      "url": null
+    },
+    {
+      "mainName": "Palácio da Música Catalã",
+      "url": null
+    },
+    {
+      "mainName": "Moco Museum Barcelona",
+      "url": null
+    },
+    {
+      "mainName": "Parc de la Ciutadella",
+      "url": null
+    },
+    {
+      "mainName": "Museo Casa Natal de Picasso",
+      "url": null
+    },
+    {
+      "mainName": "Montjuïc",
+      "url": null
+    },
+    {
+      "mainName": "Fonte Mágica de Montjuic",
+      "url": null
+    },
+    {
+      "mainName": "Aquário de Barcelona",
+      "url": null
+    },
+    {
+      "mainName": "Palácio Güell",
+      "url": null
+    },
+    {
+      "mainName": "Tibidabo",
+      "url": null
+    },
+    {
+      "mainName": "Museu do Chocolate",
+      "url": null
+    },
+    {
+      "mainName": "Museu de História de Barcelona",
+      "url": null
+    },
+    {
+      "mainName": "CaixaForum de Barcelona",
+      "url": null
+    }
+  ]
+}

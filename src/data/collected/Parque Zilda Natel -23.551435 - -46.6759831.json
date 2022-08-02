@@ -1,0 +1,719 @@
+{
+  "mainName": "Parque Zilda Natel",
+  "slug": "parque-zilda-natel",
+  "category": "Parque municipal",
+  "locationInformation": {
+    "latitude": "-23.551435",
+    "longitude": "-46.6759831"
+  },
+  "basicInformation": [
+    {
+      "label": "endereço",
+      "tooltip": "Copiar endereço",
+      "text": "Av. Dr. Arnaldo, 1250 - Sumaré, São Paulo - SP, 01255-000",
+      "icon": "https://www.gstatic.com/images/icons/material/system_gm/1x/place_gm_blue_24dp.png"
+    },
+    {
+      "label": "website",
+      "tooltip": "Abrir website",
+      "text": "prefeitura.sp.gov.br",
+      "icon": "https://www.gstatic.com/images/icons/material/system_gm/1x/public_gm_blue_24dp.png"
+    },
+    {
+      "label": "Code",
+      "tooltip": "Copiar Plus Code",
+      "text": "C8XF+CJ Sumaré, São Paulo - SP",
+      "icon": "https://maps.gstatic.com/mapfiles/maps_lite/images/2x/ic_plus_code.png"
+    }
+  ],
+  "ratingInformation": {
+    "basicRatingInformation": {
+      "averageGrade": 4.4,
+      "totalOfEvaluations": 699
+    },
+    "ratingsByGrade": [
+      {
+        "grade": 5,
+        "totalRatings": 400
+      },
+      {
+        "grade": 4,
+        "totalRatings": 179
+      },
+      {
+        "grade": 3,
+        "totalRatings": 99
+      },
+      {
+        "grade": 2,
+        "totalRatings": 9
+      },
+      {
+        "grade": 1,
+        "totalRatings": 12
+      }
+    ]
+  },
+  "ratingTags": [
+    {
+      "tag": "skate",
+      "count": 80,
+      "tooltip": "skate, mencionado em 80 avaliações"
+    },
+    {
+      "tag": "quadra de basquete",
+      "count": 24,
+      "tooltip": "quadra de basquete, mencionado em 24 avaliações"
+    },
+    {
+      "tag": "segurança",
+      "count": 12,
+      "tooltip": "segurança, mencionado em 12 avaliações"
+    },
+    {
+      "tag": "banheiro",
+      "count": 12,
+      "tooltip": "banheiro, mencionado em 12 avaliações"
+    },
+    {
+      "tag": "bowl",
+      "count": 11,
+      "tooltip": "bowl, mencionado em 11 avaliações"
+    },
+    {
+      "tag": "ginástica",
+      "count": 10,
+      "tooltip": "ginástica, mencionado em 10 avaliações"
+    },
+    {
+      "tag": "seguro",
+      "count": 9,
+      "tooltip": "seguro, mencionado em 9 avaliações"
+    },
+    {
+      "tag": "wi-fi",
+      "count": 7,
+      "tooltip": "wi-fi, mencionado em 7 avaliações"
+    },
+    {
+      "tag": "lazer",
+      "count": 7,
+      "tooltip": "lazer, mencionado em 7 avaliações"
+    },
+    {
+      "tag": "rampa",
+      "count": 6,
+      "tooltip": "rampa, mencionado em 6 avaliações"
+    }
+  ],
+  "featuredPhotos": [
+    "https://lh5.googleusercontent.com/p/AF1QipMDuSeE-vNQRJ3k0GkMGoHZKRYB5fNTAne7LVGg=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPo37oMbfsFLpRELc6u4nWB1OnskcGBGgLXRv5T=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPG67oY5oOSba6tENuNRuBp3VB2wtH6N7FyoW12=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipM7-zy_t15G392zlEabsGJR4ZsNbeSk2lXffVI-=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipO6L_LUcWnoZ3pMy3mhgZXYQk6ylDeyjt0mBmdx=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPg-ICLn0T3xdqW23tHiEVJlT4DjAoKVSkYR5YG=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipONhHJxWxBSXNeys7WkUFRvjTEm2LEoDqEzmUyh=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNpuUWsKibnkielM3M5X_pR-0gz85H85pCyaU2q=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNRXp1mpBM6kmLhlX81ut1J5eEMLKtnTLJY47mO=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMQkEWnhwGzhNeQQx4-W425h4AI-NTtZO5BxGQo=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOJhcWTuewPVlAw7KImSBTwnyD_ryZNgUvOQ_n7=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipN33KuvCwyyc2WYChYF2Y5lv9a--S-f8xuVnhgH=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMGcOxidU6jsB7bltZ-R4jK43G_wvVUhcI2Vq76=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOMW5mw5vKDGjTl0adUlHXlNFnMqNf-aBTCCttO=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipN9JuxZN07XGXepc3XAHkEz7BnLkALVA2NfKPZz=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipO2eFtdfsqa01SlEZeIIxPkOGlLd-7EWOPyJb5E=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPRomgWMn1-b1EzNLBxX3g2U-6w11mEkVgxG978=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPXcsMEbLwG8z8Oa6nu-7BXvXygEBBHps8B370_=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNjx3lu2-MPmfP2o04K_AwehzIwSMMwhjNJmbVR=w1024-h576-k-no"
+  ],
+  "topComments": [
+    {
+      "author": "Monica March",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucrfnmsQs52Vn8uk7cRtj7pLrYZZF5OMQhx_mnS7UZ4=w36-h36-p-c0x00000000-rp-mo-ba5-br100",
+      "comment": "O lugar não é muito grande, mas tem a piscina para skate e algumas rampas e obstáculos para treinar. Normalmente fica bem mais cheio aos finais de semana. Adoro ir para observar e fotografar, rende sempre ótimas imagens.",
+      "gradeComment": 4
+    },
+    {
+      "author": "Nei Dantas Lopez",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucrUU71w0ZquXQSO2Witc8O1tS-YXrwVC_PTOzjWqeY=w36-h36-p-c0x00000000-rp-mo-ba3-br100",
+      "comment": "Visitei em um final de tarde e não estava cheio. Alguns skatistas, famílias e crianças andando. Para quem anda de patins, skate, bike, etc, falta conservação do bowl e de algumas quinas, mas o mini ramp está muito bom. Mesmo não sendo coberto, tem muitas árvores que devem aliviar o sol para quem for mais cedo ou ficar o dia todo. Tem potencial e só falta um pouco de manutenção para ficar excelente. Vale a pena a visita.",
+      "gradeComment": 4
+    },
+    {
+      "author": "Thaissa Nobre",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucpXAQuC5_p7q0W0iNzRc7VEaPL6AJegVAz21mQVHg=w36-h36-p-c0x00000000-rp-mo-ba3-br100",
+      "comment": "Lá é uma graça! Para quem anda de skate e joga basquete, é um excelente parque!  Tem varias pistas de skate ótimas! A quadra de basquete é pequena, tipo 2 de 3x3. Mas as tabelas são de acrílico. Meu esposo joga basquete e vamos lá com nossos filhos. Importante dizer que não tem parquinho para as crianças, mas elas curtem ir lá assim mesmo.  O parque é pequeno, limpo, seguro, bem iluminado. Tem aqueles aparelhos do governo para fazer exercícios. É bem conservado.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Camila Rattrap",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucpOM7IU8Ea4w2VoqpporfRVwDthUJkghuI9xwoS=w36-h36-p-c0x00000000-rp-mo-br100",
+      "comment": "A pista tá precisando ainda de bastante manutenção.  Principalmente o bowl.",
+      "gradeComment": 3
+    },
+    {
+      "author": "Claudia Anjos Miranda",
+      "photoAuthor": "https://lh3.googleusercontent.com/a/AItbvmm8kEUKacq_Fm0rhRKPQaUUJUWhWqReaLRhzGEn=w36-h36-p-c0x00000000-rp-mo-ba3-br100",
+      "comment": "Lugar bem seguro, bem movimentados, para quem gosta de andar de skate, tem uma.pista bem legal, quadra de basquete e equipamentos para exercícios. Sempre levamos a nossa filha para andar de skate a noite, sempre tem alguns jovens que dão auxílio Lara ela. Tem um segurança no local.. gostamos muito de ir no parque.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Manoel Nascimento",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucq6fE0_OnvkWdCGEjSk4owgWoSw1adyoMrZhUkgKA=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "Bom parque para andar de skate. Levo meu filho de 6 anos para brincar com patinete. Os meninos que brincam lá são super educados e lidam bem com meu filho. O parque tem uma pia externa com torneira, banheiros limpos. Não tem lanchonete lá e nem perto de lá. Ruim para estacionar, eu recomendo ir de metrô. Tem mesas e bancos e uma quadra de cimento. Tem também equipamentos de ginástica para adultos.",
+      "gradeComment": 5
+    },
+    {
+      "author": "M. Iha",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucqpVdtWWfhAwdUMhuuVNC8KPbr3vWKvzS0bcIQ4ks0=w36-h36-p-c0x00000000-rp-mo-ba5-br100",
+      "comment": "Ótimo parque para andar de skate, com pista de street e mini half, mas a pista poderia ser mais vem conservada. ATENÇÃO! Atualização de junho de 2022: em breve pista pode ser fechada para reforma.  Tem ainda aparelhos de ginástica e mini quadra de basquete recém reformada e concluída em maio de 2022.  Não tem lugar para andar de bike, pois tem pouco espaço na verdade, e pode levar cachorro mas área pequena para correr com eles.",
+      "gradeComment": 4
+    },
+    {
+      "author": "Fernando Ferreira",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucqU_NmLaz5UxcZr0sjp7iaQVs6nb0vVdD3kqxTByQc=w36-h36-p-c0x00000000-rp-mo-ba3-br100",
+      "comment": "Para quem anda de skate e curte um basquete esse é o parque ideal! Fiquei muito impressionado com a estrutura do parque, pequeno mais muito bem aproveitado, só fiquei triste de ver gente usando droga dentro do parque, acho que isso nunca deveria acontecer em um espaço público onde tem crianças por perto.",
+      "gradeComment": 4
+    },
+    {
+      "author": "Lucas Moucachen",
+      "photoAuthor": "https://lh3.googleusercontent.com/a/AItbvmm2aQ5c88wq3weberQxqYNHcjtAjGvCD2xiEZ5d=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "Lugar pequeno mas bonito, e com áreas de Wi-Fi aberto. Quadras de basquete, pista de skate e áreas para fazer exercícios.",
+      "gradeComment": 5
+    },
+    {
+      "author": "CR CR EXPLORER (CR CR EXPLORER)",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucqcCfdOhR-sQjDp7SzXcyQliSt5PzBtNbl-q8WKliQ=w36-h36-p-c0x00000000-rp-mo-ba6-br100",
+      "comment": "Um parque pequeno tem quadra e pista de skate, bem legal, segurança boa, a prefeitura poderia ter mais cuidado com este parque",
+      "gradeComment": 4
+    },
+    {
+      "author": "Marco Polo",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucod87x2eFjSTb3Xighnnusluf6gU8AjyVCVEdKXhTQ=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "Simplesmente surpreendente! Nascido e criado em São Paulo, jamais poderia imaginar uma pérola dessa bem debaixo de meus olhos. O parque é pequeno, porém funcional. Limpo, com banheiro limpo e seguro (tem guarita com guarda). Conta com uma excelente pista de skate com bowl, rampas e half pipe. Quadra multi esporte. E aparelhos de ginástica. S-h-o-w !",
+      "gradeComment": 5
+    },
+    {
+      "author": "A3rch001",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucqLZsxQJwogfPaVtputrU6qU_7YVt7ZZtWb0ATpzw=w36-h36-p-c0x00000000-rp-mo-br100",
+      "comment": "Local bem arejado, porém muito cheio, tem que ter cuidado para não se machucar",
+      "gradeComment": 4
+    },
+    {
+      "author": "Isaac Martins soares",
+      "photoAuthor": "https://lh3.googleusercontent.com/a/AItbvmmp_IQvmNZUqvkJbgqNC7KwZEomu1rQI5d_wNJ5=w36-h36-p-c0x00000000-rp-mo-br100",
+      "comment": "O timo lugar pra praticar esportes   e reformaram a quadra de basquete ficou bom. Só faltava reformar os aros que estão bons Aida pra uso  porque estão meio enferrujados",
+      "gradeComment": 5
+    },
+    {
+      "author": "Dariel de Paula",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucrCtseZ1-JlzyyVPHEVqA0BWDlr9AqsVBiIa81z=w36-h36-p-c0x00000000-rp-mo-ba2-br100",
+      "comment": "Esse pico é underground, pouca gente chega lá, mas não descaracteriza a intensidade que o lugar proporciona. Tem desde aparelhos básicos pra se exercitar até miniramps e bows (estilo piscina) p galera do vert do skt, qnd tenho a oportunidade fico na quadrinha que é um ambiente sólido das streets.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Rafael I. T. S.",
+      "photoAuthor": "https://lh3.googleusercontent.com/a/AItbvmm365-Xst6xeEXeOENpEOl4XuJEJ34j5C_vbZK5=w36-h36-p-c0x00000000-rp-mo-br100",
+      "comment": "Ótima praça pra andar de skate e jogar basquete, possui alguns equipamentos para alongamento perfeito aos idosos, e tem bastante sombra. A prefeitura poderia revitalizar e tapar alguns dos buracos da pista apenas.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Lucio",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucoCZW-3AAmXgXYtZGHsah0jol8kwqHrkOtCYg8h34Q=w36-h36-p-c0x00000000-rp-mo-ba3-br100",
+      "comment": "A parte de cima do parque está sendo reformada. Espero que a pista de skate também seja, pois o piso está danificado o que torna difícil e perigosa a prática do esporte.",
+      "gradeComment": 3
+    },
+    {
+      "author": "Rafael Panssani",
+      "photoAuthor": "https://lh3.googleusercontent.com/a/AItbvml8OGFCMmwYiQIWpb3xLEq3tfealQyQF-qeHM2R=w36-h36-p-c0x00000000-rp-mo-ba5-br100",
+      "comment": "Legal, bem arrumado, deve ser por que está em uma área nobre de são Paulo",
+      "gradeComment": 5
+    },
+    {
+      "author": "Jacione Moura",
+      "photoAuthor": "https://lh3.googleusercontent.com/a/AItbvml9Gs4AxjJLij4zenOehH_f1OhH2i5Uyb5QesZA=w36-h36-p-c0x00000000-rp-mo-br100",
+      "comment": "Para esportes tipo basquete e skate.",
+      "gradeComment": 4
+    },
+    {
+      "author": "Graciela Noemi Casal Moraes",
+      "photoAuthor": "https://lh3.googleusercontent.com/a/AItbvmlc9cy1uHUnz8ZZ83RQ5tFShMnr5gVf7RElrVA-=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "Eu faço ginástica e patinação, junto c esketistas. Para mi e bom tem basketball. Tem gente de todas as edades e de várias etinias, tem vários horários que não e muito cheio. O pessoal e muito bacana.ate as 21:00hs está haver tô. Nós fazemos nossos horários mais convenientes. Boa diversão. E muito obrigada.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Ricardo Santana",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucp3P3V7jtvZqDqCe3JVkpzVKHwgjqj-p_eGPHt44IU=w36-h36-p-c0x00000000-rp-mo-ba3-br100",
+      "comment": "A praça é legal pra quem anda de skate e joga basquete... Tem vigias que fazer a supervisão da praça... Mas ela está com a manutenção atrasada, muitas partes quebradas. Mas na falta de park prp skate, vale a visita.",
+      "gradeComment": 3
+    }
+  ],
+  "peakHours": [
+    {
+      "Sunday": [
+        {
+          "hour": "09:00",
+          "percent": 13
+        },
+        {
+          "hour": "10:00",
+          "percent": 43
+        },
+        {
+          "hour": "11:00",
+          "percent": 82
+        },
+        {
+          "hour": "12:00",
+          "percent": 95
+        },
+        {
+          "hour": "13:00",
+          "percent": 68
+        },
+        {
+          "hour": "14:00",
+          "percent": 40
+        },
+        {
+          "hour": "15:00",
+          "percent": 41
+        },
+        {
+          "hour": "16:00",
+          "percent": 66
+        },
+        {
+          "hour": "17:00",
+          "percent": 85
+        },
+        {
+          "hour": "18:00",
+          "percent": 78
+        },
+        {
+          "hour": "19:00",
+          "percent": 50
+        },
+        {
+          "hour": "20:00",
+          "percent": 23
+        }
+      ]
+    },
+    {
+      "Monday": [
+        {
+          "hour": "09:00",
+          "percent": 40
+        },
+        {
+          "hour": "10:00",
+          "percent": 48
+        },
+        {
+          "hour": "11:00",
+          "percent": 57
+        },
+        {
+          "hour": "12:00",
+          "percent": 66
+        },
+        {
+          "hour": "13:00",
+          "percent": 75
+        },
+        {
+          "hour": "14:00",
+          "percent": 84
+        },
+        {
+          "hour": "15:00",
+          "percent": 89
+        },
+        {
+          "hour": "16:00",
+          "percent": 88
+        },
+        {
+          "hour": "17:00",
+          "percent": 81
+        },
+        {
+          "hour": "18:00",
+          "percent": 67
+        },
+        {
+          "hour": "19:00",
+          "percent": 50
+        },
+        {
+          "hour": "20:00",
+          "percent": 32
+        }
+      ]
+    },
+    {
+      "Tuesday": [
+        {
+          "hour": "09:00",
+          "percent": 27
+        },
+        {
+          "hour": "10:00",
+          "percent": 38
+        },
+        {
+          "hour": "11:00",
+          "percent": 50
+        },
+        {
+          "hour": "12:00",
+          "percent": 64
+        },
+        {
+          "hour": "13:00",
+          "percent": 76
+        },
+        {
+          "hour": "14:00",
+          "percent": 86
+        },
+        {
+          "hour": "15:00",
+          "percent": 92
+        },
+        {
+          "hour": "16:00",
+          "percent": 92
+        },
+        {
+          "hour": "17:00",
+          "percent": 85
+        },
+        {
+          "hour": "18:00",
+          "percent": 74
+        },
+        {
+          "hour": "19:00",
+          "percent": 59
+        },
+        {
+          "hour": "20:00",
+          "percent": 43
+        }
+      ]
+    },
+    {
+      "Wednesday": [
+        {
+          "hour": "09:00",
+          "percent": 37
+        },
+        {
+          "hour": "10:00",
+          "percent": 50
+        },
+        {
+          "hour": "11:00",
+          "percent": 64
+        },
+        {
+          "hour": "12:00",
+          "percent": 75
+        },
+        {
+          "hour": "13:00",
+          "percent": 81
+        },
+        {
+          "hour": "14:00",
+          "percent": 84
+        },
+        {
+          "hour": "15:00",
+          "percent": 88
+        },
+        {
+          "hour": "16:00",
+          "percent": 94
+        },
+        {
+          "hour": "17:00",
+          "percent": 98
+        },
+        {
+          "hour": "18:00",
+          "percent": 94
+        },
+        {
+          "hour": "19:00",
+          "percent": 80
+        },
+        {
+          "hour": "20:00",
+          "percent": 59
+        }
+      ]
+    },
+    {
+      "Thursday": [
+        {
+          "hour": "09:00",
+          "percent": 54
+        },
+        {
+          "hour": "10:00",
+          "percent": 69
+        },
+        {
+          "hour": "11:00",
+          "percent": 81
+        },
+        {
+          "hour": "12:00",
+          "percent": 92
+        },
+        {
+          "hour": "13:00",
+          "percent": 98
+        },
+        {
+          "hour": "14:00",
+          "percent": 100
+        },
+        {
+          "hour": "15:00",
+          "percent": 96
+        },
+        {
+          "hour": "16:00",
+          "percent": 88
+        },
+        {
+          "hour": "17:00",
+          "percent": 77
+        },
+        {
+          "hour": "18:00",
+          "percent": 63
+        },
+        {
+          "hour": "19:00",
+          "percent": 49
+        },
+        {
+          "hour": "20:00",
+          "percent": 35
+        }
+      ]
+    },
+    {
+      "Friday": [
+        {
+          "hour": "09:00",
+          "percent": 37
+        },
+        {
+          "hour": "10:00",
+          "percent": 47
+        },
+        {
+          "hour": "11:00",
+          "percent": 56
+        },
+        {
+          "hour": "12:00",
+          "percent": 64
+        },
+        {
+          "hour": "13:00",
+          "percent": 71
+        },
+        {
+          "hour": "14:00",
+          "percent": 77
+        },
+        {
+          "hour": "15:00",
+          "percent": 82
+        },
+        {
+          "hour": "16:00",
+          "percent": 84
+        },
+        {
+          "hour": "17:00",
+          "percent": 81
+        },
+        {
+          "hour": "18:00",
+          "percent": 73
+        },
+        {
+          "hour": "19:00",
+          "percent": 60
+        },
+        {
+          "hour": "20:00",
+          "percent": 44
+        }
+      ]
+    },
+    {
+      "Saturday": [
+        {
+          "hour": "09:00",
+          "percent": 29
+        },
+        {
+          "hour": "10:00",
+          "percent": 43
+        },
+        {
+          "hour": "11:00",
+          "percent": 52
+        },
+        {
+          "hour": "12:00",
+          "percent": 57
+        },
+        {
+          "hour": "13:00",
+          "percent": 63
+        },
+        {
+          "hour": "14:00",
+          "percent": 74
+        },
+        {
+          "hour": "15:00",
+          "percent": 89
+        },
+        {
+          "hour": "16:00",
+          "percent": 100
+        },
+        {
+          "hour": "17:00",
+          "percent": 97
+        },
+        {
+          "hour": "18:00",
+          "percent": 81
+        },
+        {
+          "hour": "19:00",
+          "percent": 57
+        },
+        {
+          "hour": "20:00",
+          "percent": 34
+        }
+      ]
+    }
+  ],
+  "relatedSearches": [
+    "zilda natel quem foi"
+  ],
+  "relateds": [
+    {
+      "mainName": "Parque Sete Campos",
+      "url": null
+    },
+    {
+      "mainName": "Parque Vila dos Remédios",
+      "url": null
+    },
+    {
+      "mainName": "Parque Vila do Rodeio",
+      "url": null
+    },
+    {
+      "mainName": "Parque Lina e Paulo Raia",
+      "url": null
+    },
+    {
+      "mainName": "Parque Tenente Brigadeiro Roberto Faria Lima",
+      "url": null
+    },
+    {
+      "mainName": "Parque Luís Carlos Prestes",
+      "url": null
+    },
+    {
+      "mainName": "Parque Leopoldina - Orlando Villas-Bôas",
+      "url": null
+    },
+    {
+      "mainName": "Parque Rodrigo de Gásperi",
+      "url": null
+    },
+    {
+      "mainName": "Parque Linear Mongaguá - Francisco Menegolo",
+      "url": null
+    },
+    {
+      "mainName": "Parque Lions Clube Tucuruvi",
+      "url": null
+    },
+    {
+      "mainName": "Parque Raposo Tavares",
+      "url": null
+    },
+    {
+      "mainName": "Parque M'Boi Mirim",
+      "url": null
+    },
+    {
+      "mainName": "Parque Severo Gomes",
+      "url": null
+    },
+    {
+      "mainName": "Parque Santo Dias",
+      "url": null
+    },
+    {
+      "mainName": "Parque Ecológico Profª Lydia Natalizio Diogo - Vila Prudente",
+      "url": null
+    },
+    {
+      "mainName": "Parque Benemérito José Brás",
+      "url": null
+    },
+    {
+      "mainName": "Parque Trote",
+      "url": null
+    },
+    {
+      "mainName": "Parque Senhor do Vale",
+      "url": null
+    },
+    {
+      "mainName": "Parque Buenos Aires",
+      "url": null
+    },
+    {
+      "mainName": "Parque Colina de São Francisco",
+      "url": null
+    },
+    {
+      "mainName": "Parque Pinheirinho d'Água",
+      "url": null
+    },
+    {
+      "mainName": "Parque Prefeito Mário Covas",
+      "url": null
+    },
+    {
+      "mainName": "Parque da Previdência",
+      "url": null
+    },
+    {
+      "mainName": "Parque Chácara do Jockey",
+      "url": null
+    }
+  ]
+}

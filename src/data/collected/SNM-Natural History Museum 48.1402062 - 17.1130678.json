@@ -1,0 +1,521 @@
+{
+  "mainName": "SNM-Natural History Museum",
+  "slug": "snm-natural-history-museum",
+  "category": "Museu",
+  "locationInformation": {
+    "latitude": "48.1402062",
+    "longitude": "17.1130678"
+  },
+  "basicInformation": [
+    {
+      "label": "endereço",
+      "tooltip": "Copiar endereço",
+      "text": "Vajanského nábrežie 2, 810 06 Bratislava, Eslováquia",
+      "icon": "https://www.gstatic.com/images/icons/material/system_gm/1x/place_gm_blue_24dp.png"
+    },
+    {
+      "label": "website",
+      "tooltip": "Abrir website",
+      "text": "snm.sk",
+      "icon": "https://www.gstatic.com/images/icons/material/system_gm/1x/public_gm_blue_24dp.png"
+    },
+    {
+      "label": "telefone",
+      "tooltip": "Copiar número de telefone",
+      "text": "+421 2/204 691 27",
+      "icon": "https://www.gstatic.com/images/icons/material/system_gm/1x/phone_gm_blue_24dp.png"
+    },
+    {
+      "label": "Code",
+      "tooltip": "Copiar Plus Code",
+      "text": "44R7+36 Bratislava, Eslováquia",
+      "icon": "https://maps.gstatic.com/mapfiles/maps_lite/images/2x/ic_plus_code.png"
+    }
+  ],
+  "ratingInformation": {
+    "basicRatingInformation": {
+      "averageGrade": 4.4,
+      "totalOfEvaluations": 1410
+    },
+    "ratingsByGrade": [
+      {
+        "grade": 5,
+        "totalRatings": 871
+      },
+      {
+        "grade": 4,
+        "totalRatings": 364
+      },
+      {
+        "grade": 3,
+        "totalRatings": 123
+      },
+      {
+        "grade": 2,
+        "totalRatings": 28
+      },
+      {
+        "grade": 1,
+        "totalRatings": 24
+      }
+    ]
+  },
+  "ratingTags": [
+    {
+      "tag": "exposições",
+      "count": 43,
+      "tooltip": "exposições, mencionado em 43 avaliações"
+    },
+    {
+      "tag": "crianças",
+      "count": 20,
+      "tooltip": "crianças, mencionado em 20 avaliações"
+    },
+    {
+      "tag": "animais",
+      "count": 14,
+      "tooltip": "animais, mencionado em 14 avaliações"
+    },
+    {
+      "tag": "preço",
+      "count": 13,
+      "tooltip": "preço, mencionado em 13 avaliações"
+    },
+    {
+      "tag": "minúsculo",
+      "count": 10,
+      "tooltip": "minúsculo, mencionado em 10 avaliações"
+    },
+    {
+      "tag": "chão",
+      "count": 9,
+      "tooltip": "chão, mencionado em 9 avaliações"
+    },
+    {
+      "tag": "prédio",
+      "count": 8,
+      "tooltip": "prédio, mencionado em 8 avaliações"
+    },
+    {
+      "tag": "informações",
+      "count": 6,
+      "tooltip": "informações, mencionado em 6 avaliações"
+    },
+    {
+      "tag": "ingresso",
+      "count": 5,
+      "tooltip": "ingresso, mencionado em 5 avaliações"
+    },
+    {
+      "tag": "história",
+      "count": 5,
+      "tooltip": "história, mencionado em 5 avaliações"
+    }
+  ],
+  "featuredPhotos": [
+    "https://lh5.googleusercontent.com/p/AF1QipPJ7Ezohi6I65WZuwutv5Z5OSFj9dWXEhCpZib9=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMuVAvab0n3fLUjdgc2OVPCBwDNRjtgLapqJJDP=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOAUAfITMwZVgacvUpjBOf8Nw59gwq5F_KmxbrY=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOhhi84sriNP7sGTw8TZwySBoNkbodXHXWMJJJS=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipN25CXk6HG7qJ4GAOpPY9vsk5i332-tA91NwA7T=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNH5OTdYZ-oPLUw0FKtJtC9GS73tUaQYm1A-qrc=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNhw7cxXMQ0NcOPZyhHeB9pjl0JAP9zs1dzozHx=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipO6CMCfpycuQaoOL7JWZOSOsG-wlO07Bw2mbOBX=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPiWJ2iBONhpoasHFbjzxT1Skest3-NyMyv3oQe=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPVHkSAaHXOvpd_eR7zkqpmeQ0nNv9dQgGTu3yw=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPpZpmsCM90SzqTQa5TofqnU3vyHKgxtE5-bRDK=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPRq9MGX386T9tu-2Hyrur8mTsI0Ev5nGibelI9=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMw-BVzZnm0wV98bxtkmuZS1bOGTqv0FHZDLT6i=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNt6ohTPKXJL1SWdJ6Su9Bk6ih0hxjbNNUgE7L9=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOmNexd6gD9kZmHC0NW56Qt_WK7V5gok4qYD5nI=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNqkWXjB00-d9RqctBqKV-siQMyapsqqvMeFeO3=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOXMIoJ0sz_0jnAiREjlAs1MQrwM7bATAL7IQV3=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMffhMHn9iQjkNtcjlBZiyfExNnkjxAUaAJK_tq=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPprm_p3jWAR7zGB80Lcu4yUeGFknnrlCleA4Lr=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPF8wxdgQmM8PmwFJ3m-GaOQuknAtOCIw_R-liW=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMf_dhHv4wCMDUmxtUyF1FZY6KBZFPoCnLx-VlZ=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipN-QjmKCLwh3HL4KKeEyK-79Mrkp-IkcwavQXSG=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPXVKVpqI4cSxVfyehrdq73WNJ4eESbK8sUozGh=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMKENxHtBdpfrAG6ozROnmtsQtBL-9-EyAQfreT=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPjzZkvQKji1Wk0SwEjFYMa72gc5vBEEI82gXzl=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNX3MLd7utZtuQVajRc3_-UN3flxCNCPS80uWMs=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMe8GLEV5G0JReGNn-wDGwTf0lPdtJaE_mu-r_D=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMtfA_EhJ4uHhQm7_24eqTJ8SdHeEZvzTg3nk3E=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOjLcbwy4U_G40NT6nmYUgOzkZjxMoVXm6MbkQ4=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOwW8jz8YpZ5gW0UlaHjPIv11PA5xg5F6Ea6Fgb=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPm6G2rJbkqU0vbgZSrI38pOfKiQ9rAtdhxmsry=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOru2ptMhPb3u72NORb0XSQoLFoGJ4tPvNWIyS4=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMuDnD5JkL4riPEYDSpAuz-y5KPltjqbolGSyAY=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMd6xldzviVItkUSKkbuOXL3HJPqUmQuNoXDw8=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipO3gNE6i3x6IDi_qIZRiM3x1X_O6bKeheo6rri6=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOHRFG7fNHV-H0wZh1vEg7P49JkwGz_zLYy9ZwJ=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOFU6uS97EIBJ-a2CMile5wqdGOxsiwRQnCxWm0=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNnS96FwO8EQVvWFHooH3JgPBdo2So8c_hkB37X=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOU5T2TwiR19NFrvjF8eDz5dzvRLD99bTKj1AzJ=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNhWdihF0iMkaKSfph74sRbJ9cNhHlM3h2kckg2=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPh7CV6df4LerFI9besT5xBTuIZ8bBfpOhUJm6B=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOlObjPW89tW5KGAM1SrQsj-Ue7JYhIGFROSS3W=w1024-h576-k-no"
+  ],
+  "topComments": [
+    {
+      "author": "Andrej Holly",
+      "photoAuthor": "https://lh3.googleusercontent.com/a/AItbvmnPwU2kuXJS0K3yvVdAl9WIiE-tDtE3CxmnN08=w36-h36-p-c0x00000000-rp-mo-ba5-br100",
+      "comment": "(Tradução do Google) Manhã muito agradável com crianças. Estivemos na exposição Miracle of Nature e gostamos muito. As crianças olharam mais para os modelos animais (mamutes, dinossauros, nossos e animais estrangeiros). Acreditamos que aprendemos algo e nos divertimos. Nós recomendamos.  (Original) Veľmi príjemne strávené doobedie s deťmi. Boli sme na výstave Zázrak prírody a veľmi sa nám páčilo. Deti najviac obzerali makety zvierat (mamut, dinosaurus, naše aj cudzokrajné zvieratá). Veríme, že sme sa čosi naučili a dobre sme sa pri tom zabavili. Odporúčame.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Lukáš Čerešňa",
+      "photoAuthor": "https://lh3.googleusercontent.com/a/AItbvmlSZsYFQvUQyhVnlm6imxveSJx5x1hhIJprG2Gf=w36-h36-p-c0x00000000-rp-mo-ba3-br100",
+      "comment": "(Tradução do Google) No Museu de História Natural, passamos por todas as exposições, fósseis e fósseis mais pontuados depois dos animais em seu ambiente típico. Existem muitos tipos diferentes de fósseis de diferentes períodos. Algumas exposições também podem ser vistas sob uma lupa. A caminhada pelo museu nos levou cerca de uma hora. Na bilheteria não perdemos a oportunidade de comprar fósseis de amonite de Madagascar.  (Original) V prírodovednom múzeu sme prešli všetky vystavené expozície, po zvieratách v ich typickom prostredí najviac bodovali skameneliny a fosílie. Nachádza sa tu množstvo rôznych druhov fosílii z rôznych období. Niektoré expozície je možné vidieť i pod lupou. Prechádzka múzeom nám zabrala približne hodinu. Pri pokladni sme nevynechali možnosť zakúpiť si fosíliu Amonita z Madagaskaru.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Pietro P.",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucprE5tWiG5SV3o1QcaDI_o9h5BaAY-3zT062jyBpA=w36-h36-p-c0x00000000-rp-mo-ba5-br100",
+      "comment": "(Tradução do Google) Museu Nacional Eslovaco muito agradável e muito grande. A equipe interna muito preparada e muito gentil. Bela experiência, recomendo a todos, pois a cada mês ou até semana são abordados diferentes tópicos e temas.  (Original) Museo Nazionale Slovacco molto bello e molto grande. Personale al suo interno molto preparato e molto gentile. Bellissima esperienza, lo consiglio a tutti visto che ogni mese o addirittura settimana vengono trattati argomenti e temi diversi.",
+      "gradeComment": 4
+    },
+    {
+      "author": "Eva Záhumenská",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZuco-z94qJUR3VLItbkZ1ru9FUqDvwONES2ds2-Ol_Q=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "(Tradução do Google) Um museu muito agradável - certamente adequado para crianças - o nosso tinha 5 e 8 anos e ambos se interessaram pelas exposições - principalmente animais, dinossauros, mamutes, ... mas também elementos interativos - telas sensíveis ao toque com informações e fotos. Congratulo-me com o vestiário no piso térreo ao lado da bilheteria e o banheiro em cada andar - é uma ajuda para as crianças. O Sr. SBS e a senhora da caixa registadora foram muito simpáticos. Definitivamente, recomendo visitar - por esse preço, definitivamente valerá a pena, ficamos muito agradavelmente surpreendidos  (Original) Veľmi pekné múzeum - určite vhodné aj pre deti - naše mali 5 a 8 rokov a obe zaujali exponáty - hlavne zvieratá, dinosaurus, mamut,... ale aj interaktívne prvky - dotykové obrazovky s informáciami a fotografiami. Kvitujem šatňu na prízemí hneď vedľa predaja vstupeniek a wc na každom poschodí - pri deťoch je to pomoc. Veľmi milý bol pán SBS aj pani pri pokladni. Určite odporúčam navštíviť - za tú cenu sa určite oplatí, nás veľmi milo prekvapilo",
+      "gradeComment": 5
+    },
+    {
+      "author": "Katka Barienčíková",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucqNtQFtWYJpOQ2t3ArTZtibovb6r448P_iGFnJNNw=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "(Tradução do Google) Três andares cheios de exposições interessantes que atrairão até os pequenos visitantes. Aprecio os elementos interativos que tornam as exposições ainda mais atrativas. Perto está um estacionamento e a localização é ideal para uma caminhada ao longo do Danúbio.  (Original) Tri poschodia plné zaujímavých exponátov, ktoré zaujmú aj malých návštevníkov. Oceňujem interaktívne prvky, vďaka ktorým sú výstavy ešte viac atraktívne. V blízkosti je parkovisko a poloha ideálna aj na prechádzku popri Dunaji.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Viera M",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucq98AXSTibH1lNkunMsODjtYUbe-VgmmkHRTKagBPs=w36-h36-p-c0x00000000-rp-mo-ba5-br100",
+      "comment": "(Tradução do Google) O edifício do Museu Nacional Eslovaco em Bratislava foi construído nos anos 1924-1928 de acordo com o projeto do arquiteto Milan Michal Harminc na margem do Danúbio. Com sua arrecadação de 2,4 mil. de objetos é o maior museu da Eslováquia  (Original) Budova Slovenského národného múzea v Bratislave bola realizovaná v rokoch 1924-1928 podľa návrhu architekta Milana Michala Harminca na Dunajskom nábreží. Svojou zbierkou 2,4 mil. predmetov je najväčším múzeom na Slovensku",
+      "gradeComment": 5
+    },
+    {
+      "author": "Сергей Чел (SerCh)",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucrdoHPP2JFyTN6LzMdAUYYTRF6cbGqkV5_U43C0mA0=w36-h36-p-c0x00000000-rp-mo-br100",
+      "comment": "(Tradução do Google) Visitamos o museu com minha família. Gostei muito do museu (em poucas palavras) São quatro andares, o museu em si é grande, gostei muito das exposições do segundo e terceiro andares. Você definitivamente vai gostar de voar aqui, o museu vale a pena uma visita - este não é um museu chato com três bichos de pelúcia ruins, mas um museu pensado com exposições de alta qualidade  (Original) Были в музее с семьей. Музей очень понравился (если кратко) Есть четыре этажа, сам музей большой, экспозиции на втором и третем этаже очень понравились. Летят тут точно понравится , музей стоит посетить - это не скучный музей с тремя плохими чучелами, а продуманный с качественными экспозициями музей",
+      "gradeComment": 5
+    },
+    {
+      "author": "Juraj Kovarik",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucpDBX2B01HWjqQviiNWub-q-gTJJZQ8P_6uVOMWcg=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "(Tradução do Google) Ótimo lugar para uma viagem com crianças, poucas pessoas, talvez seja apropriado no térreo um lugar onde você possa sentar e se refrescar (se não o restaurante, pelo menos uma máquina de venda automática)  (Original) Super miesto na výlet s deťmi, málo ľudí, možno by bolo vhodné na prízemí miesto kde sa dá sadnúť a občerstviť (keď nie reštaurácia tak aspoň automat)",
+      "gradeComment": 5
+    },
+    {
+      "author": "Pavel Reich",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucqL1Zjh3T74bKLtPwyoEAvL3dfcJXJEn5O33v5t-A=w36-h36-p-c0x00000000-rp-mo-ba6-br100",
+      "comment": "(Tradução do Google) No museu veremos novas exposições com belos dioramas grandes de animais e aprenderemos muitas informações interessantes. O museu fica no aterro do Danúbio com vista para a ponte SNP.  (Original) V muzeu uvidíme nové expozice s krásnými velkými dioramaty zvířat a dozvíme se mnoho zajímavých informací. Muzeum najdeme na nábřeží Dunaje s výhledem na most SNP.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Andrejka Jánošová",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucqip824gUMdr6MLdOmoJliz2G4QOMNEMTU072f18Rs=w36-h36-p-c0x00000000-rp-mo-ba5-br100",
+      "comment": "(Tradução do Google) Se você quer gastar o seu tempo livre de forma significativa e se entreter, família, crianças, visitar este museu. Definitivamente, há algo para admirar. Seja ela pequena ou grande, todo mundo pode vir até com o seu próprio. Eu gosto da exposição de animais e borboletas em particular  (Original) Ak chcete zmysluplne stráviť voľný čas a zabaviť seba, rodinu, deti, navštívte toto múzeum. Rozhodne, je tu čo obdivovať. Či malí, či veľkí, na svoje si príde každý. Najviac sa mi páči expozícia zvierat a konkrétne motýľov😊🦋",
+      "gradeComment": 5
+    },
+    {
+      "author": "Эдуард Маханьков",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucr-dN59XYbFs6ZMe8BsTqJhXV-cIpXkcfxtfNVIbw=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "(Tradução do Google) Boa. Foi interessante. Entrada € 6. Das desvantagens, destacarei apenas a falta de iluminação de muitas exposições (há luzes, mas estão apagadas). Principalmente para o departamento de pedras (onde há até meteoritos)  (Original) Хорош. Было интересно. Вход 6 евро. Из минусов выделю только недостаток подсветки многих экспонатов (фонари есть, но выключены). Особенно касается отдела с камнями (где есть даже метеориты)",
+      "gradeComment": 5
+    },
+    {
+      "author": "Jeppe Van Dingenen",
+      "photoAuthor": "https://lh3.googleusercontent.com/a/AItbvmmY8GcZuEG89ssEX4PABjNly-UBUiStcmqEmLpE=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "(Tradução do Google) Belas exposições. Explica a evolução humana, a evolução da terra e do reino animal e assim por diante. É relativamente barato. Preço reduzido de 3 euros, 6 regulares.  O museu é pequeno, não exibe a era dos dinossauros. Eu não iria com crianças para ser justo. A exposição é em inglês e eslovaco.  (Original) Beautiful exhibitions. It explains human evolution, the evolution of the earth and animal kingdom and so on. It is relatively cheap. 3 euro reduced price, 6 regular.  The museum is small, doesn't exhibit the age of dinosaurs. I wouldn't go with children to be fair. The exhibition is both in English and Slovakian.",
+      "gradeComment": 4
+    },
+    {
+      "author": "Анна Князева",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucoZ6WAnpGOBKRn7LZRITeNWekVf4PLCnDI3GTWsVQ=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "(Tradução do Google) Em geral, gostei, mas parecia que estava escuro em algumas salas, onde é apresentada a exposição permanente. E quero que os museus se tornem mais modernos e interativos. No primeiro domingo do mês, a entrada é gratuita.  (Original) В целом понравилось, но показалось, что темно в некоторых залах, там где представлена постоянная экспозиция. И хочется, чтобы музеи становились более современными и интерактивными. В первое воскресенье месяца-бесплатный вход.",
+      "gradeComment": 4
+    },
+    {
+      "author": "Niv Ben arie",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucrJpNBuLQWpv5K3ypDQdhlvvUCZui0e7E9_ukHk=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "(Tradução do Google) Uau! Apenas Uau! Um dos museus mais bonitos e investidos que já visitei! O museu apresenta de uma forma incrivelmente simples a história da vida na Terra com uma variedade de fósseis espetaculares que são muito raros de encontrar através de modelos que representam vários animais ao longo da história. No museu iremos progredir dos animais antigos que já se extinguiram aos animais de hoje. Altamente altamente recomendado!  (Original) וואוו! פשוט וואו! אחד המוזיאונים היפים והמושקעים שיצא לי לבקר! המוזיאון מציג בצורה פשוט מדהימה את תולדות החיים על פני כדור הארץ עם שלל מאובנים מרהיבים שנדיר מאוד למצוא דרך דגמים שמתארים בעלי חיים שונים לאורך ההיסטוריה. במוזיאון נתקדם מבעלי החיים הקדומים שכבר נכחדו אל עבר בעלי החיים של ימנו. מאוד מאוד מאוד מומלץ!",
+      "gradeComment": 5
+    },
+    {
+      "author": "Marek Paulovič",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucqvHJGMw8PWuYSvBv6-0vf4GpMlLCl0EaJeaAkHZw=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "(Tradução do Google) Interessante foi a exposição da família Pálfi, que está acontecendo atualmente no SNM.  (Original) Výstava Pálfiovcov, ktorá aktuálne prebieha v SNM bola zaujímavá.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Eva Rácová",
+      "photoAuthor": "https://lh3.googleusercontent.com/a/AItbvmm_Rxs_lDw4nMOMlDsGevbTQloiYtJBZnykBuCG=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "(Tradução do Google) Super lindo e interessante, definitivamente vale a pena uma visita  (Original) Super krásne a zaujímavé určite stojí za návštevu",
+      "gradeComment": 5
+    },
+    {
+      "author": "Katarina Bucinova",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucoRIgwLAI09mPHCfjXn2pB7pSOgaQY3Chp7Tr8Hww=w36-h36-p-c0x00000000-rp-mo-ba5-br100",
+      "comment": "(Tradução do Google) , uma pessoa se refresca pelo menos um pouco com esse calor ao visitar a exposição. Além das exposições permanentes, o visitante tem a oportunidade de ver várias exposições interessantes, por ex. 25 de junho de 2021 ocorreu na abertura do XIII. ano do Fim de Semana de Parques e Jardins Abertos 2021 inauguração da exposição fotográfica Ing. Tamara Reháčková, PhD. - \"Jardins Japoneses - Arte Inspirada na Natureza\" - 25.6.2021 - SNM - Museu de História Natural, Bratislava.  (Original) , človek sa v týchto horúčavach pri návšteve expozícii aspoň trochu ochladí. Okrem stálych expozícií návštevník má možnosť pozrieť si rôzne zaujímavé výstavy, napr. 25.06.2021 sa konala v rámci otvorenia XIII. ročníka Víkendu otvorených parkov a záhrad 2021 vernisáž výstavy fotografií Ing. Tamary Reháčkovej, PhD. - \"Japonské záhrady - umenie inšpirované prírodou\" - 25.6.2021 - SNM - Prírodovedné múzeum, Bratislava.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Andrea Nociarová",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucrs2-tXoAyzX_dS5WBXBdLCjunTd3tY8LT7RX2VLw=w36-h36-p-c0x00000000-rp-mo-ba5-br100",
+      "comment": "(Tradução do Google) Taxa de entrada agradável e exposição educacional muito agradável. As exibições são colocadas com bom gosto com rótulos suficientes.  (Original) Príjemné vstupné a veľmi pekná edukačná expozícia. Exponáty sú vkusne umiestnené s dostatočnými popiskami.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Šimon Skovajsa",
+      "photoAuthor": "https://lh3.googleusercontent.com/a/AItbvmkNxYvMLgCouifpxQ22r7qRce4Kp7jQVeO7G62iZw=w36-h36-p-c0x00000000-rp-mo-ba5-br100",
+      "comment": "(Tradução do Google) Entrada amigável, exposições muito agradáveis ​​relacionadas com o desenvolvimento humano e a vida na Terra em geral.  (Original) Prívetivé vstupné, veľmi pekné expozície týkajúce sa vývinu človeka a celkovo života na Zemi.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Dušan Kočlík",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucoWDvSEfxE1C_O7dSAdRWzj6KXNx3ka-r3MHnXMTw=w36-h36-p-c0x00000000-rp-mo-br100",
+      "comment": "(Tradução do Google) Casa de uma girafa bizarra em uma escada. Linda arquitetura e conteúdo informativo, ideal para um dia de chuva. As crianças estão interessadas neste lugar e podem passar uma hora bastante ativa aqui. Locais a visitar a subfinanciar a manutenção do edifício :( classificação portanto reduzida.  (Original) Domov bizarnej žirafy na schodisku. Krásna architektúra a poučný obsah, ideálne na upršaný deň. Deti toto miesto záujme a dá sa tu stráviť celkom aktívna hodinka. Miestami vidieť podfinancovanie údržby budovy :( preto znížené hodnotenie.",
+      "gradeComment": 4
+    }
+  ],
+  "peakHours": [
+    {
+      "Sunday": [
+        {
+          "hour": "09:00",
+          "percent": 11
+        },
+        {
+          "hour": "10:00",
+          "percent": 34
+        },
+        {
+          "hour": "11:00",
+          "percent": 62
+        },
+        {
+          "hour": "12:00",
+          "percent": 71
+        },
+        {
+          "hour": "13:00",
+          "percent": 64
+        },
+        {
+          "hour": "14:00",
+          "percent": 79
+        },
+        {
+          "hour": "15:00",
+          "percent": 94
+        },
+        {
+          "hour": "16:00",
+          "percent": 58
+        }
+      ]
+    },
+    {
+      "Monday": []
+    },
+    {
+      "Tuesday": [
+        {
+          "hour": "09:00",
+          "percent": 66
+        },
+        {
+          "hour": "10:00",
+          "percent": 93
+        },
+        {
+          "hour": "11:00",
+          "percent": 100
+        },
+        {
+          "hour": "12:00",
+          "percent": 89
+        },
+        {
+          "hour": "13:00",
+          "percent": 77
+        },
+        {
+          "hour": "14:00",
+          "percent": 70
+        },
+        {
+          "hour": "15:00",
+          "percent": 61
+        },
+        {
+          "hour": "16:00",
+          "percent": 45
+        }
+      ]
+    },
+    {
+      "Wednesday": [
+        {
+          "hour": "09:00",
+          "percent": 58
+        },
+        {
+          "hour": "10:00",
+          "percent": 74
+        },
+        {
+          "hour": "11:00",
+          "percent": 79
+        },
+        {
+          "hour": "12:00",
+          "percent": 73
+        },
+        {
+          "hour": "13:00",
+          "percent": 66
+        },
+        {
+          "hour": "14:00",
+          "percent": 59
+        },
+        {
+          "hour": "15:00",
+          "percent": 53
+        },
+        {
+          "hour": "16:00",
+          "percent": 45
+        }
+      ]
+    },
+    {
+      "Thursday": [
+        {
+          "hour": "09:00",
+          "percent": 59
+        },
+        {
+          "hour": "10:00",
+          "percent": 75
+        },
+        {
+          "hour": "11:00",
+          "percent": 80
+        },
+        {
+          "hour": "12:00",
+          "percent": 75
+        },
+        {
+          "hour": "13:00",
+          "percent": 64
+        },
+        {
+          "hour": "14:00",
+          "percent": 53
+        },
+        {
+          "hour": "15:00",
+          "percent": 43
+        },
+        {
+          "hour": "16:00",
+          "percent": 33
+        }
+      ]
+    },
+    {
+      "Friday": [
+        {
+          "hour": "09:00",
+          "percent": 63
+        },
+        {
+          "hour": "10:00",
+          "percent": 69
+        },
+        {
+          "hour": "11:00",
+          "percent": 65
+        },
+        {
+          "hour": "12:00",
+          "percent": 59
+        },
+        {
+          "hour": "13:00",
+          "percent": 59
+        },
+        {
+          "hour": "14:00",
+          "percent": 60
+        },
+        {
+          "hour": "15:00",
+          "percent": 52
+        },
+        {
+          "hour": "16:00",
+          "percent": 34
+        }
+      ]
+    },
+    {
+      "Saturday": [
+        {
+          "hour": "09:00",
+          "percent": 32
+        },
+        {
+          "hour": "10:00",
+          "percent": 48
+        },
+        {
+          "hour": "11:00",
+          "percent": 59
+        },
+        {
+          "hour": "12:00",
+          "percent": 63
+        },
+        {
+          "hour": "13:00",
+          "percent": 66
+        },
+        {
+          "hour": "14:00",
+          "percent": 79
+        },
+        {
+          "hour": "15:00",
+          "percent": 87
+        },
+        {
+          "hour": "16:00",
+          "percent": 69
+        }
+      ]
+    }
+  ],
+  "relatedSearches": [
+    "university of copenhagen",
+    "national museum of denmark",
+    "copenhagen card",
+    "statens naturhistoriske museum",
+    "louisiana museum",
+    "statens museum for kunst",
+    "copenhagen museum",
+    "christiansborg",
+    "university of copenhagen",
+    "national museum of denmark",
+    "copenhagen card",
+    "statens naturhistoriske museum",
+    "louisiana museum",
+    "statens museum for kunst",
+    "copenhagen museum",
+    "christiansborg"
+  ],
+  "relateds": []
+}

@@ -1,0 +1,995 @@
+{
+  "mainName": "Trianon - Masp",
+  "slug": "trianon-masp",
+  "category": "Estação de metrô",
+  "locationInformation": {
+    "latitude": "-23.5636678",
+    "longitude": "-46.6538148"
+  },
+  "basicInformation": [
+    {
+      "label": "endereço",
+      "tooltip": "Copiar endereço",
+      "text": "Av. Paulista - Jardins, São Paulo - SP, 01310-200",
+      "icon": "https://www.gstatic.com/images/icons/material/system_gm/1x/place_gm_blue_24dp.png"
+    },
+    {
+      "label": "website",
+      "tooltip": "Abrir website",
+      "text": "sptrans.com.br",
+      "icon": "https://www.gstatic.com/images/icons/material/system_gm/1x/public_gm_blue_24dp.png"
+    },
+    {
+      "label": "Code",
+      "tooltip": "Copiar Plus Code",
+      "text": "C8PW+GF São Paulo, SP",
+      "icon": "https://maps.gstatic.com/mapfiles/maps_lite/images/2x/ic_plus_code.png"
+    },
+    {
+      "label": "send-to-device",
+      "text": "Enviar para smartphone",
+      "icon": "https://maps.gstatic.com/consumer/images/icons/1x/send_to_mobile_alt_gm_blue_24dp.png"
+    }
+  ],
+  "ratingInformation": {
+    "basicRatingInformation": {
+      "averageGrade": 4.5,
+      "totalOfEvaluations": 822
+    },
+    "ratingsByGrade": [
+      {
+        "grade": 5,
+        "totalRatings": 546
+      },
+      {
+        "grade": 4,
+        "totalRatings": 183
+      },
+      {
+        "grade": 3,
+        "totalRatings": 73
+      },
+      {
+        "grade": 2,
+        "totalRatings": 7
+      },
+      {
+        "grade": 1,
+        "totalRatings": 13
+      }
+    ]
+  },
+  "ratingTags": [
+    {
+      "tag": "organizado",
+      "count": 18,
+      "tooltip": "organizado, mencionado em 18 avaliações"
+    },
+    {
+      "tag": "obras",
+      "count": 11,
+      "tooltip": "obras, mencionado em 11 avaliações"
+    },
+    {
+      "tag": "cultura",
+      "count": 10,
+      "tooltip": "cultura, mencionado em 10 avaliações"
+    },
+    {
+      "tag": "segurança",
+      "count": 9,
+      "tooltip": "segurança, mencionado em 9 avaliações"
+    },
+    {
+      "tag": "pontos",
+      "count": 8,
+      "tooltip": "pontos, mencionado em 8 avaliações"
+    },
+    {
+      "tag": "exposições",
+      "count": 7,
+      "tooltip": "exposições, mencionado em 7 avaliações"
+    },
+    {
+      "tag": "passeio",
+      "count": 6,
+      "tooltip": "passeio, mencionado em 6 avaliações"
+    },
+    {
+      "tag": "gosto",
+      "count": 6,
+      "tooltip": "gosto, mencionado em 6 avaliações"
+    },
+    {
+      "tag": "avenida",
+      "count": 5,
+      "tooltip": "avenida, mencionado em 5 avaliações"
+    }
+  ],
+  "featuredPhotos": [
+    "https://lh5.googleusercontent.com/p/AF1QipMU-Z0tlx1w_SdxCc-bZr2JDHX-CfyB6omkfKes=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNdlzHfJRO53GCd_a3DGAsaRejukWzezL3jiZTX=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOdLwHvw8GBdIvSo0vdCIAGNH-v6P_f7GCvt2RO=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMus2QnHvHcM9WvwGgBDgdBCsjW85BUFZZwrR4y=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPYqfwCFyeXsOX8JjpQnjeVT-yXINqmijEDlK7I=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNse71gp7tgd_wFxxAc7NMZd6D6jaVe7yiqp0aX=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMiQwYhEWGKq3fjfanB7WpBNhnY1Az-6iM6itRV=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOAYY35XmYTqVCe00vx7guFVq4Tln3OmA4fj0c-=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPgYGD8cjhvQb6TqbuGEUTy0icsEQuTC51AjUqL=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipM7shmfgHRggQOratPaWDue0uBOpuOk5D1jEaAN=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOelJM__WzMlMx39H-b0eMeTl_39MyLuIo-m5l0=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNa-waMxX-uOpjDcWmXaVxprbcWwXC0ppDRgIUx=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNcE-YmJ0fK5-UV5awWDRkxxcyJl9hoid2OT7vr=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNs2YpP0EAezkzmLXFxcHL3Pw2b39h1N3njbW80=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOaCP0-T7GoFUAp9mJxwsQqHIziZUkY9_7QeRto=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipN6cSdFDawhnTA84oKkF4MXB55pdd1ESKrflBbU=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPLpeAH2sf7uj9AymvhUZ6x4TfNT8OB1SNXKlfO=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPtlP09QMLflKctTmOODGqEeXhdeFlhZHEzljuR=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOx06O8lVjURhtipo_kVdZeFwwAkBDLqaVE9n0v=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipM6DI1eOIsGfm_2CW76ialIMKbXPf4iPt29GpPm=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNGn5tFiePXkvpyZAY7recvu5tQ2WoPlx2-gzZA=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOenPrO6ROydtZ4mTjCLLWTgmOiS7oDx-hd_ctp=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNDNhcwNkAPTTgWud-TjN-tDqUKBEJjMjHyF1QK=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPd-BKzNWxlTg5R8Wb_gud_lgp9x-k-H9juFdmQ=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNN-6-c1Q3-m_dpniQm7eu0Ktl9zrxPgagVr2s3=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNlyrM5Z3OroJDwFbNIkm7rMKvAdy_cjfB1VpmW=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMaFgioeaYKzwDum_95OoR0aoq-pkHQ4hV4HX_X=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipN8XSoNLVLEy-fB7i-g212gVz90IoWuuZsYZ8ox=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipP1dXl0riHGlVioXdfdORJWX5SALhA_0b1qGQ0x=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMplu10VhSaycY6xmCnShjG-xqxlFiQ_5Zc1qh7=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNpETSCCcFYkaj7gefJsbVwi0PlpzLy5ypDvnVj=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPJ8kPYIz9Lbk81kXqtaPHqWNpQzsg8zStKWnRF=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNlKMjIhpwKBBNwG_1BxWYWVEVdJ04WoQU_INZU=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPlzIX4sXG9OZ5jCXaFv9z-1zAwxF7cQ9Eqy7kk=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPs6aJI0zc24CqPmmCOgsc01-xkeLP5odv4a8eX=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPiGzs1stZGlZpoPaT_Bhx9s1Iq5tm21p9LBuR3=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipONjCvmxhpLnEpu6w96iQ-YNfRHJ5E9lqeRT4Gp=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNAqtluBTH2Pj0V-vuvrGfJsFO_ExSVXY9KaNkJ=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipO8a5uRpKNblVaqpWzDD8YOrcMl-HhlL6gcK8EQ=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOmdcJCTejBiKJg6eAYE9C6e_RTTyEjGi0plJGJ=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOtUzv-IrAiuxrNEpHrAY5K7v3Ad82HdcnsrCk0=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipO3DiLNQaU6sGIVn0PVLwJbb9tetKXPQCmP93We=w1024-h576-k-no"
+  ],
+  "topComments": [
+    {
+      "author": "Lilian Krasauskis",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZuco75Zq2GtC_xRN3igXtD4kzrQXkHUWsvWBpKbIaWf8=w36-h36-p-c0x00000000-rp-mo-ba5-br100",
+      "comment": "Aos domingos somente a saída de um lado da rua fica aberta por conta da Paulista estar aberta a pedestres. Nada drástico. Fica mais organizado. No mais, estação tranquila e segura.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Júlio Santos",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucrQLWUkKcknM0R6LrZaOSDXJeXMd5y3nTxAseOwmw=w36-h36-p-c0x00000000-rp-mo-ba2-br100",
+      "comment": "A pior estação! Segurança ZERO! Meu namorado foi assaltado dentro do metrô e o guarda e nem qualquer outra pessoa não podiam fazer nada. Disseram que isso já acontece com frequência. Gente, que merd* é essa? Bandido roubando dentro no metrô e ninguém fala ou faz nada? É sério isso? E falando sobre roubo ou furto de celulares, a polícia é péssima pra nos ajudar, a menos que seja um familiar deles, aí pode!",
+      "gradeComment": 1
+    },
+    {
+      "author": "Idalicio Luiz Maia Ribeiro",
+      "photoAuthor": "https://lh3.googleusercontent.com/a/AItbvmm7m5uwBBocQm63NSqIu3BwHDDH3B8MLmbkOAJN=w36-h36-p-c0x00000000-rp-mo-br100",
+      "comment": "É um lindo parque, só não dou 5 estrelas porque no entorno é cheio de lixo: garrafas pet, garrafas de cerveja, sacos de salgadinhos, copos de plástico, pratos descartáveis, etc, e eu li também que há plantas invasoras no parque, principalmente uma espécie de palmeira que acaba prejudicando a flora nativa.",
+      "gradeComment": 3
+    },
+    {
+      "author": "lilian depierre",
+      "photoAuthor": "https://lh3.googleusercontent.com/a/AItbvmkDTG_fDUYNpH1ikZTtVTLePKS11WgMLUXiFFl-=w36-h36-p-c0x00000000-rp-mo-br100",
+      "comment": "Estive fazendo pericia medico judicial,fui muito bem atendida pelos seguranças,atendentes e o perito é. Uma avaliação. A parte,ele foi otimo,leu os relatorios fez perguntas diretas,muito educado sem pressa e atropelos e procurou saber detalhes do real estado de saude do paciente. Estou surpresa com o otimo atendimento do TJF,estão. Todos de parabéns. Obrigada a todos",
+      "gradeComment": 5
+    },
+    {
+      "author": "Fabiana Lima",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucrzAFw8xyNbus42rxo42ME4W5iK4TXbBwCqSWMcTQ=w36-h36-p-c0x00000000-rp-mo-ba3-br100",
+      "comment": "Uma experiência incrível,  é impossível não ficar maravilhada  com a beleza das obras.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Sergio I",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucrTX61FLxh_uSMla4VPP9-0xwUJz6fFidFX7_oy3pM=w36-h36-p-c0x00000000-rp-mo-ba8-br100",
+      "comment": "Estação de metrô muito boa. Sai praticamente em frente ao Shopping cidade de São Paulo.  Ao mesmo tempo sai em frente uma galeria que vende diversos objetos (estilo Paraguai ) . Sai em frente a fiesp onde vc pode ter acesso ao centro cultural da fiesp. Perto da rua Pamplona que tem farto comércio e gastronomia. E perto do parque trianom.  Enfim uma estação incrível. Bem estruturada. Mas que nos horários de pico é muito cheia !!!",
+      "gradeComment": 5
+    },
+    {
+      "author": "Luan Sá",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucpAK9A1Zcrcd8CtZMj6UetseX5SsW9unWtMza7U3w=w36-h36-p-c0x00000000-rp-mo-ba2-br100",
+      "comment": "Uma estação vital para a cidade, mas peca na segurança da população.",
+      "gradeComment": 3
+    },
+    {
+      "author": "Marcelo VZM",
+      "photoAuthor": "https://lh3.googleusercontent.com/a/AItbvmkpmQ_n2UWhZ4_ffXGHlF7q1i6jhQ8qKggFOosF=w36-h36-p-c0x00000000-rp-mo-ba3-br100",
+      "comment": "Não é uma estação segura, já tentaram me assaltar várias vezes",
+      "gradeComment": 2
+    },
+    {
+      "author": "Wilma Marques dos Santos",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucqt8tIdXwoGPBhsZOGYd6ZRf67mvzSF48BSBWBZTg=w36-h36-p-c0x00000000-rp-mo-ba3-br100",
+      "comment": "Experiência sempre agradável! Recomendo o passeio!",
+      "gradeComment": 5
+    },
+    {
+      "author": "Murilo Bartolomeu",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucpembcaJZqnfYAKYJiplPHXYpBMiOeZwPGVopq5Ag=w36-h36-p-c0x00000000-rp-mo-ba3-br100",
+      "comment": "Fui assaltado entrando no metrô, chamei o segurança e ele ficou apenas me olhando como se eu estivesse mentindo.",
+      "gradeComment": 3
+    },
+    {
+      "author": "Marco Padua",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucqQNOAfp4wme5-ZSnw6ZtqajyyUTAPaaXqxa5TPHA=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "Uma das 3 estações de metrô da Av. Paulista. Próximo ao MASP, a FIESP e ao Shopping Cidade de São Paulo e ao belíssimo Parque Trianon. Sempre muito cheia no horário de rush, fácil e bom acesso.",
+      "gradeComment": 4
+    },
+    {
+      "author": "Hector Nieva Melo",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucphHGcRys6PZ3kPQvEY3g1_DABmYS6pkIhaPfG0iuQ=w36-h36-p-c0x00000000-rp-mo-ba5-br100",
+      "comment": "Estação de metrô. Faltou acessibilidade -- o elevador localizado na Av Paulista não estava funcionandom",
+      "gradeComment": 3
+    },
+    {
+      "author": "Sílvio carlos araujo",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucqpNbz0mDwGxvnfmSBUJIRemxxAa2fiMXdXCyW_Pw=w36-h36-p-c0x00000000-rp-mo-ba3-br100",
+      "comment": "Museu trianon ótimo lugar para fazer uma visita Vários restaurantes ao redor Praça para descanso ao redor Avenida Paulista ótimos outros lugares para conhecer",
+      "gradeComment": 5
+    },
+    {
+      "author": "Claudia R. Gregnanin",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucoRgayqSFPiSHHBSXNJcUJGfaNHjY0rIKFnyGDvnw=w36-h36-p-c0x00000000-rp-mo-ba5-br100",
+      "comment": "Só não gosto de escadas rolantes desligadas, ou então somente ligadas no sentido descida quando tem uma escada enorme e ingrime para subir",
+      "gradeComment": 4
+    },
+    {
+      "author": "Nanci Duarte",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucpwa3SV6cBgXBlQoOTixy0jmY6sUvHtmPjDiKpnNg=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "Lugar lindo ❤️",
+      "gradeComment": 5
+    },
+    {
+      "author": "Rafael Oliveira",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucosLz4PUyrh2X0hQDy0m8gv64_rosyLL7hXc2W-XA=w36-h36-p-c0x00000000-rp-mo-ba2-br100",
+      "comment": "Eu trabalho no Masp então, bom, AMO!",
+      "gradeComment": 5
+    },
+    {
+      "author": "Getúlio Olivier",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucr5ZPkDX5Eh8SUyM2_099Aij9wdwagfV-ZagqulQA=w36-h36-p-c0x00000000-rp-mo-ba6-br100",
+      "comment": "Ótima lugar bem limpo funcionários bem treinados parabéns pra gerência",
+      "gradeComment": 5
+    },
+    {
+      "author": "A. K. Yamamoto",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucpxQnx4GbWGxzgAsVGabYKu7ouRwfTqSTR3DRz7Izg=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "Perdeu-se (fechou) o quiosque que havia em seu interior.",
+      "gradeComment": 3
+    },
+    {
+      "author": "Henrique Rodrigues",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucq2NQ7H9HVlm3U4SIfM2a-lZnj4SGgP6yjCF40gqrs=w36-h36-p-c0x00000000-rp-mo-ba6-br100",
+      "comment": "Estação comum, fica próxima ao Parque Triannon o que justifica o nome e em frente ao Shoppnig, fora ser uma das de melhor acesso a Av Paulista",
+      "gradeComment": 3
+    },
+    {
+      "author": "Matheus Camilotti",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucpD3yPMQ4Qp4QCg7_NCvRzi_Y0GSkSvFmO17ZDE-Ss=w36-h36-p-c0x00000000-rp-mo-ba6-br100",
+      "comment": "O Parque Tenente Siqueira Campos, mais conhecido como Parque Trianon ou Parque do Trianon, foi inaugurado no dia 3 de abril de 1892 na cidade de São Paulo, um ano após a abertura da Avenida Paulista. Foi projetado pelo paisagista francês Paul Villon e inaugurado pelo inglês Barry Parker. O nome Trianon foi dado por conta da existência do Restaurante Trianon inaugurado erm 10 de junho de 1916, que foi criado e fundado pelo imigrante italiano Vicente Rosatti nas dependências do Belvedere localizado em frente ao parque, onde hoje está situado o Museu de Arte de São Paulo. O proprietário do elegante \"Bar e Restaurante\" escolheu o nome que provém do Palacete Grand Trianon em Versáilles, que foi propriedade de Maria Antonieta, pela semelhança das construções. O arquiteto Ramos de Azevedo desenvolveu, de 1911-1914, na administração do Barão de Duprat, o projeto do chamado Belvedere, construído em 1916 e demolido em 1951 para dar lugar à primeira edição da Bienal de Arte de São Paulo.",
+      "gradeComment": 5
+    }
+  ],
+  "peakHours": [
+    {
+      "Sunday": [
+        {
+          "hour": "05:00",
+          "percent": 4
+        },
+        {
+          "hour": "06:00",
+          "percent": 7
+        },
+        {
+          "hour": "07:00",
+          "percent": 10
+        },
+        {
+          "hour": "08:00",
+          "percent": 10
+        },
+        {
+          "hour": "09:00",
+          "percent": 12
+        },
+        {
+          "hour": "10:00",
+          "percent": 19
+        },
+        {
+          "hour": "11:00",
+          "percent": 34
+        },
+        {
+          "hour": "12:00",
+          "percent": 56
+        },
+        {
+          "hour": "13:00",
+          "percent": 81
+        },
+        {
+          "hour": "14:00",
+          "percent": 97
+        },
+        {
+          "hour": "15:00",
+          "percent": 100
+        },
+        {
+          "hour": "16:00",
+          "percent": 89
+        },
+        {
+          "hour": "17:00",
+          "percent": 73
+        },
+        {
+          "hour": "18:00",
+          "percent": 57
+        },
+        {
+          "hour": "19:00",
+          "percent": 43
+        },
+        {
+          "hour": "20:00",
+          "percent": 30
+        },
+        {
+          "hour": "21:00",
+          "percent": 20
+        },
+        {
+          "hour": "22:00",
+          "percent": 11
+        },
+        {
+          "hour": "23:00",
+          "percent": 5
+        },
+        {
+          "hour": "00:00",
+          "percent": 1
+        }
+      ]
+    },
+    {
+      "Monday": [
+        {
+          "hour": "04:00",
+          "percent": 2
+        },
+        {
+          "hour": "05:00",
+          "percent": 6
+        },
+        {
+          "hour": "06:00",
+          "percent": 12
+        },
+        {
+          "hour": "07:00",
+          "percent": 19
+        },
+        {
+          "hour": "08:00",
+          "percent": 25
+        },
+        {
+          "hour": "09:00",
+          "percent": 30
+        },
+        {
+          "hour": "10:00",
+          "percent": 31
+        },
+        {
+          "hour": "11:00",
+          "percent": 31
+        },
+        {
+          "hour": "12:00",
+          "percent": 31
+        },
+        {
+          "hour": "13:00",
+          "percent": 33
+        },
+        {
+          "hour": "14:00",
+          "percent": 38
+        },
+        {
+          "hour": "15:00",
+          "percent": 44
+        },
+        {
+          "hour": "16:00",
+          "percent": 49
+        },
+        {
+          "hour": "17:00",
+          "percent": 50
+        },
+        {
+          "hour": "18:00",
+          "percent": 46
+        },
+        {
+          "hour": "19:00",
+          "percent": 40
+        },
+        {
+          "hour": "20:00",
+          "percent": 33
+        },
+        {
+          "hour": "21:00",
+          "percent": 26
+        },
+        {
+          "hour": "22:00",
+          "percent": 18
+        },
+        {
+          "hour": "23:00",
+          "percent": 9
+        },
+        {
+          "hour": "00:00",
+          "percent": 2
+        }
+      ]
+    },
+    {
+      "Tuesday": [
+        {
+          "hour": "04:00",
+          "percent": 3
+        },
+        {
+          "hour": "05:00",
+          "percent": 7
+        },
+        {
+          "hour": "06:00",
+          "percent": 14
+        },
+        {
+          "hour": "07:00",
+          "percent": 21
+        },
+        {
+          "hour": "08:00",
+          "percent": 28
+        },
+        {
+          "hour": "09:00",
+          "percent": 33
+        },
+        {
+          "hour": "10:00",
+          "percent": 35
+        },
+        {
+          "hour": "11:00",
+          "percent": 36
+        },
+        {
+          "hour": "12:00",
+          "percent": 36
+        },
+        {
+          "hour": "13:00",
+          "percent": 38
+        },
+        {
+          "hour": "14:00",
+          "percent": 42
+        },
+        {
+          "hour": "15:00",
+          "percent": 47
+        },
+        {
+          "hour": "16:00",
+          "percent": 51
+        },
+        {
+          "hour": "17:00",
+          "percent": 52
+        },
+        {
+          "hour": "18:00",
+          "percent": 50
+        },
+        {
+          "hour": "19:00",
+          "percent": 46
+        },
+        {
+          "hour": "20:00",
+          "percent": 39
+        },
+        {
+          "hour": "21:00",
+          "percent": 30
+        },
+        {
+          "hour": "22:00",
+          "percent": 20
+        },
+        {
+          "hour": "23:00",
+          "percent": 10
+        },
+        {
+          "hour": "00:00",
+          "percent": 3
+        }
+      ]
+    },
+    {
+      "Wednesday": [
+        {
+          "hour": "04:00",
+          "percent": 4
+        },
+        {
+          "hour": "05:00",
+          "percent": 7
+        },
+        {
+          "hour": "06:00",
+          "percent": 12
+        },
+        {
+          "hour": "07:00",
+          "percent": 18
+        },
+        {
+          "hour": "08:00",
+          "percent": 25
+        },
+        {
+          "hour": "09:00",
+          "percent": 31
+        },
+        {
+          "hour": "10:00",
+          "percent": 36
+        },
+        {
+          "hour": "11:00",
+          "percent": 39
+        },
+        {
+          "hour": "12:00",
+          "percent": 41
+        },
+        {
+          "hour": "13:00",
+          "percent": 40
+        },
+        {
+          "hour": "14:00",
+          "percent": 38
+        },
+        {
+          "hour": "15:00",
+          "percent": 41
+        },
+        {
+          "hour": "16:00",
+          "percent": 48
+        },
+        {
+          "hour": "17:00",
+          "percent": 58
+        },
+        {
+          "hour": "18:00",
+          "percent": 58
+        },
+        {
+          "hour": "19:00",
+          "percent": 48
+        },
+        {
+          "hour": "20:00",
+          "percent": 37
+        },
+        {
+          "hour": "21:00",
+          "percent": 36
+        },
+        {
+          "hour": "23:00",
+          "percent": 13
+        },
+        {
+          "hour": "00:00",
+          "percent": 1
+        },
+        {
+          "hour": "03:00",
+          "percent": 1
+        }
+      ]
+    },
+    {
+      "Thursday": [
+        {
+          "hour": "04:00",
+          "percent": 2
+        },
+        {
+          "hour": "05:00",
+          "percent": 6
+        },
+        {
+          "hour": "06:00",
+          "percent": 11
+        },
+        {
+          "hour": "07:00",
+          "percent": 17
+        },
+        {
+          "hour": "08:00",
+          "percent": 24
+        },
+        {
+          "hour": "09:00",
+          "percent": 31
+        },
+        {
+          "hour": "10:00",
+          "percent": 36
+        },
+        {
+          "hour": "11:00",
+          "percent": 39
+        },
+        {
+          "hour": "12:00",
+          "percent": 40
+        },
+        {
+          "hour": "13:00",
+          "percent": 39
+        },
+        {
+          "hour": "14:00",
+          "percent": 39
+        },
+        {
+          "hour": "15:00",
+          "percent": 42
+        },
+        {
+          "hour": "16:00",
+          "percent": 50
+        },
+        {
+          "hour": "17:00",
+          "percent": 57
+        },
+        {
+          "hour": "18:00",
+          "percent": 56
+        },
+        {
+          "hour": "19:00",
+          "percent": 46
+        },
+        {
+          "hour": "20:00",
+          "percent": 36
+        },
+        {
+          "hour": "21:00",
+          "percent": 35
+        },
+        {
+          "hour": "22:00",
+          "percent": 30
+        },
+        {
+          "hour": "23:00",
+          "percent": 13
+        },
+        {
+          "hour": "00:00",
+          "percent": 1
+        }
+      ]
+    },
+    {
+      "Friday": [
+        {
+          "hour": "04:00",
+          "percent": 1
+        },
+        {
+          "hour": "05:00",
+          "percent": 5
+        },
+        {
+          "hour": "06:00",
+          "percent": 10
+        },
+        {
+          "hour": "07:00",
+          "percent": 16
+        },
+        {
+          "hour": "08:00",
+          "percent": 22
+        },
+        {
+          "hour": "09:00",
+          "percent": 26
+        },
+        {
+          "hour": "10:00",
+          "percent": 28
+        },
+        {
+          "hour": "11:00",
+          "percent": 29
+        },
+        {
+          "hour": "12:00",
+          "percent": 29
+        },
+        {
+          "hour": "13:00",
+          "percent": 32
+        },
+        {
+          "hour": "14:00",
+          "percent": 36
+        },
+        {
+          "hour": "15:00",
+          "percent": 41
+        },
+        {
+          "hour": "16:00",
+          "percent": 45
+        },
+        {
+          "hour": "17:00",
+          "percent": 45
+        },
+        {
+          "hour": "18:00",
+          "percent": 43
+        },
+        {
+          "hour": "19:00",
+          "percent": 40
+        },
+        {
+          "hour": "20:00",
+          "percent": 37
+        },
+        {
+          "hour": "21:00",
+          "percent": 32
+        },
+        {
+          "hour": "22:00",
+          "percent": 24
+        },
+        {
+          "hour": "23:00",
+          "percent": 14
+        },
+        {
+          "hour": "00:00",
+          "percent": 6
+        },
+        {
+          "hour": "01:00",
+          "percent": 1
+        }
+      ]
+    },
+    {
+      "Saturday": [
+        {
+          "hour": "04:00",
+          "percent": 1
+        },
+        {
+          "hour": "05:00",
+          "percent": 3
+        },
+        {
+          "hour": "06:00",
+          "percent": 7
+        },
+        {
+          "hour": "07:00",
+          "percent": 10
+        },
+        {
+          "hour": "08:00",
+          "percent": 14
+        },
+        {
+          "hour": "09:00",
+          "percent": 17
+        },
+        {
+          "hour": "10:00",
+          "percent": 20
+        },
+        {
+          "hour": "11:00",
+          "percent": 23
+        },
+        {
+          "hour": "12:00",
+          "percent": 27
+        },
+        {
+          "hour": "13:00",
+          "percent": 33
+        },
+        {
+          "hour": "14:00",
+          "percent": 39
+        },
+        {
+          "hour": "15:00",
+          "percent": 45
+        },
+        {
+          "hour": "16:00",
+          "percent": 48
+        },
+        {
+          "hour": "17:00",
+          "percent": 47
+        },
+        {
+          "hour": "18:00",
+          "percent": 41
+        },
+        {
+          "hour": "19:00",
+          "percent": 34
+        },
+        {
+          "hour": "20:00",
+          "percent": 29
+        },
+        {
+          "hour": "21:00",
+          "percent": 28
+        },
+        {
+          "hour": "22:00",
+          "percent": 24
+        },
+        {
+          "hour": "23:00",
+          "percent": 14
+        },
+        {
+          "hour": "00:00",
+          "percent": 5
+        }
+      ]
+    }
+  ],
+  "relatedSearches": [
+    "trianon masp mapa",
+    "luz para trianon-masp",
+    "hotel trianon-masp",
+    "estação trianon-masp linha",
+    "saidas da estação trianon-masp",
+    "barra funda para trianon-masp"
+  ],
+  "relateds": [
+    {
+      "mainName": "Parque Tenente Siqueira Campos - Trianon",
+      "url": null
+    },
+    {
+      "mainName": "Consolação",
+      "url": null
+    },
+    {
+      "mainName": "Brigadeiro",
+      "url": null
+    },
+    {
+      "mainName": "Paulista",
+      "url": null
+    },
+    {
+      "mainName": "Museu de Arte de São Paulo Assis Chateaubriand",
+      "url": null
+    },
+    {
+      "mainName": "Estação Sacomã",
+      "url": null
+    },
+    {
+      "mainName": "Vila Madalena",
+      "url": null
+    },
+    {
+      "mainName": "Paraíso",
+      "url": null
+    },
+    {
+      "mainName": "Luz",
+      "url": null
+    },
+    {
+      "mainName": "Estação Tamanduateí",
+      "url": null
+    },
+    {
+      "mainName": "Clínicas",
+      "url": null
+    },
+    {
+      "mainName": "Ana Rosa",
+      "url": null
+    },
+    {
+      "mainName": "Tamanduateí",
+      "url": null
+    },
+    {
+      "mainName": "Sé",
+      "url": null
+    },
+    {
+      "mainName": "Chácara Klabin",
+      "url": null
+    },
+    {
+      "mainName": "Santuário N.Sra. de Fátima - Sumaré",
+      "url": null
+    },
+    {
+      "mainName": "Palmeiras-Barra Funda",
+      "url": null
+    },
+    {
+      "mainName": "Tucuruvi",
+      "url": null
+    },
+    {
+      "mainName": "Estação Anhangabaú",
+      "url": null
+    },
+    {
+      "mainName": "Portuguesa-Tietê",
+      "url": null
+    },
+    {
+      "mainName": "Santos - Imigrantes",
+      "url": null
+    },
+    {
+      "mainName": "Alto do Ipiranga",
+      "url": null
+    },
+    {
+      "mainName": "Santana",
+      "url": null
+    }
+  ]
+}

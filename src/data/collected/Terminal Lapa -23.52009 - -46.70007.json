@@ -1,0 +1,1045 @@
+{
+  "mainName": "Terminal Lapa",
+  "slug": "terminal-lapa",
+  "category": "Estação de ônibus",
+  "locationInformation": {
+    "latitude": "-23.52009",
+    "longitude": "-46.70007"
+  },
+  "basicInformation": [
+    {
+      "label": "endereço",
+      "tooltip": "Copiar endereço",
+      "text": "Praça Miguel Dell'Erba, 50 - Lapa, São Paulo - SP, 02675-031",
+      "icon": "https://www.gstatic.com/images/icons/material/system_gm/1x/place_gm_blue_24dp.png"
+    },
+    {
+      "label": "website",
+      "tooltip": "Abrir website",
+      "text": "sptrans.com.br",
+      "icon": "https://www.gstatic.com/images/icons/material/system_gm/1x/public_gm_blue_24dp.png"
+    },
+    {
+      "label": "telefone",
+      "tooltip": "Copiar número de telefone",
+      "text": "(11) 3675-1274",
+      "icon": "https://www.gstatic.com/images/icons/material/system_gm/1x/phone_gm_blue_24dp.png"
+    },
+    {
+      "label": "Code",
+      "tooltip": "Copiar Plus Code",
+      "text": "F7HX+XX São Paulo, SP",
+      "icon": "https://maps.gstatic.com/mapfiles/maps_lite/images/2x/ic_plus_code.png"
+    }
+  ],
+  "ratingInformation": null,
+  "ratingTags": [
+    {
+      "tag": "fila",
+      "count": 23,
+      "tooltip": "fila, mencionado em 23 avaliações"
+    },
+    {
+      "tag": "banheiros",
+      "count": 16,
+      "tooltip": "banheiros, mencionado em 16 avaliações"
+    },
+    {
+      "tag": "informações",
+      "count": 13,
+      "tooltip": "informações, mencionado em 13 avaliações"
+    },
+    {
+      "tag": "bilhete único",
+      "count": 10,
+      "tooltip": "bilhete único, mencionado em 10 avaliações"
+    },
+    {
+      "tag": "usuários",
+      "count": 10,
+      "tooltip": "usuários, mencionado em 10 avaliações"
+    },
+    {
+      "tag": "bancos",
+      "count": 10,
+      "tooltip": "bancos, mencionado em 10 avaliações"
+    },
+    {
+      "tag": "oeste",
+      "count": 7,
+      "tooltip": "oeste, mencionado em 7 avaliações"
+    },
+    {
+      "tag": "motoristas",
+      "count": 6,
+      "tooltip": "motoristas, mencionado em 6 avaliações"
+    },
+    {
+      "tag": "pé",
+      "count": 6,
+      "tooltip": "pé, mencionado em 6 avaliações"
+    },
+    {
+      "tag": "moradores de rua",
+      "count": 5,
+      "tooltip": "moradores de rua, mencionado em 5 avaliações"
+    }
+  ],
+  "featuredPhotos": [
+    "https://lh5.googleusercontent.com/p/AF1QipP-BFpOzL3Co6Ee9ZjAwQ5ZTZuavCWA58bbaAtM=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNS2HZie60_HBlj1WYgQiG0gwjiwTCHYgOxhqfl=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipM00zinYiYkkasp4GKzYEgZG4zH9kQYIjAGsZZo=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipN_i0W4wp3BBtgIrDa7J7HYe8J4xOOMgS_rNpof=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOdwko-ZlYlHbvkpsJex7EL96mDgixTLXRGyxeR=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPkxiBd8uxeUEuDBjZaEfvFbE6TnfME6L5JS2kr=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMWedYwXDRCgmhqCUMNaLDwSFViK4WTV1IvsBtX=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNBegla-AN89sLanHt53P-JbcDCojmmcp7Cf4y-=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPxYlitWsEYixEBpGWz0hYC2UsIahr-7ZMqv9Si=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOvq3Lvw8tivrwq8WpSXhTBvQolB7lt6qajRj0F=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOge52-P_CxwNzAhXYH2fP-2eVuvcXB6UB086fw=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNBLkpFXZiyOXRWDPnz1D8DFICvpaLRgqialohG=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPL1Vl-DYTf1qHWxh8Yl_Quwns-QNsCW64-iLVc=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipN5UIps1Ig1T6WPOQ4_tA2OAz3SYTv6R7vFGmfz=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMBXRiJr11MauB_mBqS0zivXtLtjFRCqOJBs6la=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOhdClpuK-qpB_0dlQ6gXIkjPqb7l-djuc_1lw4=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMeyDv9f9QaDsoXm6Pq-dfhF7lB9hVf0bOnPfPP=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMd7gfGJ1rI4aNBOL8ASllSDdmiQ24ulSqRPslg=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPfI_ANatC-4ARUiAfkR9uWW1wxn4mUUjvLwWet=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipM_0-5Fg26d8jBlSiYu5xaOpkSig6frNrzTDWl8=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOzycnrcS1yWNtuKvg-mvfwXAZqHDjNOkjySNMD=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMYYvmLuDnpOjohQ6olaV5KcLzNThhDECI9b3j4=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOUN-NdsNCtLbMxQ0jk4-G4xM-8Y0ZhkZNoTpj5=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMv-TrDIwXjFaXo6KR34RW6RXNaGywcc_zdiPba=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNhdXTF3zKNiVMsQTa2JERXkfpfwOCca2gdrdBS=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNwABOnSr_8Nad54teFA6YUiEvT7nHvOUutJ_OG=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNtID2PIu6gm1s2wnqS0gG1OMFxhlzuDam96FcL=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNILUy-x8dLBloxLQXizGNuFzUSOsFCOpCaEoTT=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNi8KxkCaDdUShZLji5lXhO7qItunq2ePeMNzlQ=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPmm6sCauV3qydakTB17XFrlDRNhG2U3vF8pdAL=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipM9b8QyF_Umh0ywP-t9tomqKhu8pX3UTvMsqFEi=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOshMEuFh2K9dgK5Q035I7OUqn6Ky1o9r5bpssz=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipO-sarQ4TY70o82vC0IM2oUSdmtaznDtc2QOxij=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOqhpT8knna-kRNH25XLdi8mGA1bB1Y-O9iijAB=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMZ1yY7kLR_8Zs0tVe8QO_W5b8A9QIXatHi_3IP=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNdniQToLWbMJBKsaybB6-OT3gVkNWUC4VfvFAH=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMCukVaWew7POWe6CeI4JYltXTzzUuC-Yw7xxX6=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNVimF0jfJOzhCg2IdgwWpYBw5ZdqKIw_0wuXMc=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPvhEkOH1WDq2Fig_V-K75mFqycjnaguXdHAXGv=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNrgEUVe8WdFel9Fm88O6_UcB7oSVuph9gju94L=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNz2VgQcho_3GrXU8lO8GAPOkRMDgCKRKpvuQoM=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipP3vzQkZx57AHNpARrFo_dypTbcDkasR0V15a2M=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipN8NXXQK3kdD3uFPWbF3XUjcEO3Uv7WabFtVr1P=w1024-h576-k-no"
+  ],
+  "topComments": [
+    {
+      "author": "Joceline Zapp",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucqA1MLqU2nlCPZpTcUol9zRoQvwtA9Yp_NCeHFx_A=w36-h36-p-c0x00000000-rp-mo-ba5-br100",
+      "comment": "Os ratos sumiram! 👍🏻👍🏻👍🏻 muito bom poder relatar melhorias. Por 2 dias percebi presença ostensiva de policiamento 🙏 mas infelizmente eles também sumiram, a segurança no entorno do terminal continua crítica. Lamentável.",
+      "gradeComment": 2
+    },
+    {
+      "author": "Giseli Adornato de Aguiar",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucr2COUDVU3O6N1ptJENizNCHRZxyqd8L_jCgILOFno=w36-h36-p-c0x00000000-rp-mo-ba5-br100",
+      "comment": "Tenho usado bastante ultimamente, um lugar que facilita a locomoção. O ônibus 8060-10 passa na rua Guaipá, também tem o 7725-10 que vai para a USP (ambos na pista 2) e muitos outros ônibus. O entorno do Terminal eu acho perigoso, é bom ter cuidado. Em uma das entradas tem um posto da CPTrans que faz carteirinha de ônibus, faz recarregamento etc.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Adriano",
+      "photoAuthor": "https://lh3.googleusercontent.com/a/AItbvmn0ZAQbn4E4iONxLAJ8ctaB8UMmdHLdRhRdtg3C=w36-h36-p-c0x00000000-rp-mo-ba3-br100",
+      "comment": "Bom local para transporte, de fácil a acesso a região central, bem como boa parte da zona norte e oeste. Deixa muito a desejar no quesito organização, urbanização e controle a  moradores em situação de rua em torno e  (ou) nas dependências do local. Na verdade isso é um problema crônico de falta de infraestrutura das cidades e seus governantes. Digo isso pois trabalho Ali e vejo muitas irregularidades de problemas sociais, bem como de crimes como por exemplo extorsão, coação agressão e principalmente furtos de colares  a alguns transeuntes.",
+      "gradeComment": 3
+    },
+    {
+      "author": "Rita de Cássia F.",
+      "photoAuthor": "https://lh3.googleusercontent.com/a/AItbvmnVlA8mv292gdqRJ2TuFVictAOztmrAIl7t3LuX=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "Ainda tem muitas filas imensas para recarregar os bilhetes de transportes e algumas linhas de ônibus com intervalos longos acima de 30 minutos mesmo no horário de pico, por exemplo a linha 948A demora em média de 35 a 45 minutos.",
+      "gradeComment": 5
+    },
+    {
+      "author": "camila silva",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucp8n6FU1U_kdgGo_YA0X8_c2cIGg_4a7ZFgj7WO9Q=w36-h36-p-c0x00000000-rp-mo-ba3-br100",
+      "comment": "Por ser um local de muito movimento deveria ter mais espaço para os ônibus. As filas sempre são muito grandes, pois a quantidade de ônibus, não comporta a quantidade de passageiros, isso gera confusão entre os usuários, que se atrapalham com as filas de espera.",
+      "gradeComment": 3
+    },
+    {
+      "author": "daniela F",
+      "photoAuthor": "https://lh3.googleusercontent.com/a/AItbvmno-6dVfZJqRzRzMDtuumEPQjfeb8L2oKAF5lytfnY=w36-h36-p-c0x00000000-rp-mo-br100",
+      "comment": "Local completamente largado,além da demora dos ônibus,existe o agravante do local ser imundo,na plataforma de embarque do Santa Cruz e Itaim Bibi os ratos circulam a qualquer hora do dia,já presenciei ratos passando por cima de uma senhora moradora de rua que dormia em um dos bancos, onde tem um cercadinho fica lotado de ratos se não tomar cuidado eles passam por cima de nossos pés, para as pessoas que consome nos Quiosques deste local,redobrem a atenção.",
+      "gradeComment": 1
+    },
+    {
+      "author": "Pedro Paulo",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucpYGEVBHoPofPUZ0jbKbPq_qmz1tlJuEZh-LPXCOA=w36-h36-p-c0x00000000-rp-mo-ba6-br100",
+      "comment": "Terminal de ônibus Urbano da Lapa, está localizado próximo ao Mercado da Lapa faz conexão com a estação Lapa da CPTM da linha 8 diamante; há várias linhas que ligam o terminal a bairros das zonas norte, oeste e sul, tendo o mercado Sonda em frente. O Poupatempo Lapa fica no entorno, super prático.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Celio Angelo",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucq94MZ1CZNj2M72QwL1iY9Dft9h3D0uJsw_HNEpxQ=w36-h36-p-c0x00000000-rp-mo-ba5-br100",
+      "comment": "Hola. De la pego onibus que nao direto para casa. Inverno 2.2🐼 Vale lembrar que tinha ano que eles nao atendiam as pessoas, mandavam fazer tudo pela internet ou procurar um acesso gratis do governo do estado, para fazer bilhetes.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Márcia A. S.Mariano",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucrAwuZqW9XFTH1sdI1GbsawZvsZHtB4DGsNKvvCsFg=w36-h36-p-c0x00000000-rp-mo-ba3-br100",
+      "comment": "Todo dia , tem atrazo na linha vila Mariana se sabe que tem jogo deixam 1 ,2 parados e a fila crescendo em vez de liberar para povo ir logo para seu destino.",
+      "gradeComment": 1
+    },
+    {
+      "author": "Martton R",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucqfPekkT87qBlFQzKEMkpcg5LXfXijpkJPwwmogHHo=w36-h36-p-c0x00000000-rp-mo-br100",
+      "comment": "fácil acesso e tem bastante linhas para várias regiões de são Paulo. só falta ter um pouco mais de segurança e limpeza.",
+      "gradeComment": 4
+    }
+  ],
+  "peakHours": [
+    {
+      "Sunday": [
+        {
+          "hour": "04:00",
+          "percent": 1
+        },
+        {
+          "hour": "05:00",
+          "percent": 5
+        },
+        {
+          "hour": "06:00",
+          "percent": 10
+        },
+        {
+          "hour": "07:00",
+          "percent": 10
+        },
+        {
+          "hour": "08:00",
+          "percent": 8
+        },
+        {
+          "hour": "09:00",
+          "percent": 6
+        },
+        {
+          "hour": "10:00",
+          "percent": 6
+        },
+        {
+          "hour": "11:00",
+          "percent": 8
+        },
+        {
+          "hour": "12:00",
+          "percent": 10
+        },
+        {
+          "hour": "13:00",
+          "percent": 11
+        },
+        {
+          "hour": "14:00",
+          "percent": 12
+        },
+        {
+          "hour": "15:00",
+          "percent": 12
+        },
+        {
+          "hour": "16:00",
+          "percent": 13
+        },
+        {
+          "hour": "17:00",
+          "percent": 14
+        },
+        {
+          "hour": "18:00",
+          "percent": 15
+        },
+        {
+          "hour": "19:00",
+          "percent": 15
+        },
+        {
+          "hour": "20:00",
+          "percent": 15
+        },
+        {
+          "hour": "21:00",
+          "percent": 13
+        },
+        {
+          "hour": "22:00",
+          "percent": 9
+        },
+        {
+          "hour": "23:00",
+          "percent": 6
+        },
+        {
+          "hour": "00:00",
+          "percent": 2
+        }
+      ]
+    },
+    {
+      "Monday": [
+        {
+          "hour": "04:00",
+          "percent": 7
+        },
+        {
+          "hour": "05:00",
+          "percent": 31
+        },
+        {
+          "hour": "06:00",
+          "percent": 63
+        },
+        {
+          "hour": "07:00",
+          "percent": 73
+        },
+        {
+          "hour": "08:00",
+          "percent": 51
+        },
+        {
+          "hour": "09:00",
+          "percent": 29
+        },
+        {
+          "hour": "10:00",
+          "percent": 24
+        },
+        {
+          "hour": "11:00",
+          "percent": 28
+        },
+        {
+          "hour": "12:00",
+          "percent": 35
+        },
+        {
+          "hour": "13:00",
+          "percent": 41
+        },
+        {
+          "hour": "14:00",
+          "percent": 47
+        },
+        {
+          "hour": "15:00",
+          "percent": 50
+        },
+        {
+          "hour": "16:00",
+          "percent": 59
+        },
+        {
+          "hour": "17:00",
+          "percent": 84
+        },
+        {
+          "hour": "18:00",
+          "percent": 100
+        },
+        {
+          "hour": "19:00",
+          "percent": 69
+        },
+        {
+          "hour": "20:00",
+          "percent": 37
+        },
+        {
+          "hour": "21:00",
+          "percent": 24
+        },
+        {
+          "hour": "22:00",
+          "percent": 17
+        },
+        {
+          "hour": "23:00",
+          "percent": 11
+        },
+        {
+          "hour": "00:00",
+          "percent": 6
+        },
+        {
+          "hour": "01:00",
+          "percent": 2
+        }
+      ]
+    },
+    {
+      "Tuesday": [
+        {
+          "hour": "04:00",
+          "percent": 8
+        },
+        {
+          "hour": "05:00",
+          "percent": 31
+        },
+        {
+          "hour": "06:00",
+          "percent": 63
+        },
+        {
+          "hour": "07:00",
+          "percent": 72
+        },
+        {
+          "hour": "08:00",
+          "percent": 52
+        },
+        {
+          "hour": "09:00",
+          "percent": 30
+        },
+        {
+          "hour": "10:00",
+          "percent": 23
+        },
+        {
+          "hour": "11:00",
+          "percent": 27
+        },
+        {
+          "hour": "12:00",
+          "percent": 34
+        },
+        {
+          "hour": "13:00",
+          "percent": 40
+        },
+        {
+          "hour": "14:00",
+          "percent": 45
+        },
+        {
+          "hour": "15:00",
+          "percent": 48
+        },
+        {
+          "hour": "16:00",
+          "percent": 55
+        },
+        {
+          "hour": "17:00",
+          "percent": 77
+        },
+        {
+          "hour": "18:00",
+          "percent": 94
+        },
+        {
+          "hour": "19:00",
+          "percent": 70
+        },
+        {
+          "hour": "20:00",
+          "percent": 39
+        },
+        {
+          "hour": "21:00",
+          "percent": 25
+        },
+        {
+          "hour": "22:00",
+          "percent": 18
+        },
+        {
+          "hour": "23:00",
+          "percent": 12
+        },
+        {
+          "hour": "00:00",
+          "percent": 6
+        },
+        {
+          "hour": "01:00",
+          "percent": 3
+        }
+      ]
+    },
+    {
+      "Wednesday": [
+        {
+          "hour": "04:00",
+          "percent": 8
+        },
+        {
+          "hour": "05:00",
+          "percent": 31
+        },
+        {
+          "hour": "06:00",
+          "percent": 63
+        },
+        {
+          "hour": "07:00",
+          "percent": 70
+        },
+        {
+          "hour": "08:00",
+          "percent": 47
+        },
+        {
+          "hour": "09:00",
+          "percent": 26
+        },
+        {
+          "hour": "10:00",
+          "percent": 22
+        },
+        {
+          "hour": "11:00",
+          "percent": 27
+        },
+        {
+          "hour": "12:00",
+          "percent": 33
+        },
+        {
+          "hour": "13:00",
+          "percent": 39
+        },
+        {
+          "hour": "14:00",
+          "percent": 44
+        },
+        {
+          "hour": "15:00",
+          "percent": 48
+        },
+        {
+          "hour": "16:00",
+          "percent": 55
+        },
+        {
+          "hour": "17:00",
+          "percent": 76
+        },
+        {
+          "hour": "18:00",
+          "percent": 94
+        },
+        {
+          "hour": "19:00",
+          "percent": 72
+        },
+        {
+          "hour": "20:00",
+          "percent": 41
+        },
+        {
+          "hour": "21:00",
+          "percent": 26
+        },
+        {
+          "hour": "22:00",
+          "percent": 18
+        },
+        {
+          "hour": "23:00",
+          "percent": 12
+        },
+        {
+          "hour": "00:00",
+          "percent": 7
+        },
+        {
+          "hour": "01:00",
+          "percent": 3
+        }
+      ]
+    },
+    {
+      "Thursday": [
+        {
+          "hour": "04:00",
+          "percent": 8
+        },
+        {
+          "hour": "05:00",
+          "percent": 31
+        },
+        {
+          "hour": "06:00",
+          "percent": 63
+        },
+        {
+          "hour": "07:00",
+          "percent": 71
+        },
+        {
+          "hour": "08:00",
+          "percent": 50
+        },
+        {
+          "hour": "09:00",
+          "percent": 29
+        },
+        {
+          "hour": "10:00",
+          "percent": 24
+        },
+        {
+          "hour": "11:00",
+          "percent": 29
+        },
+        {
+          "hour": "12:00",
+          "percent": 35
+        },
+        {
+          "hour": "13:00",
+          "percent": 41
+        },
+        {
+          "hour": "14:00",
+          "percent": 46
+        },
+        {
+          "hour": "15:00",
+          "percent": 49
+        },
+        {
+          "hour": "16:00",
+          "percent": 57
+        },
+        {
+          "hour": "17:00",
+          "percent": 78
+        },
+        {
+          "hour": "18:00",
+          "percent": 92
+        },
+        {
+          "hour": "19:00",
+          "percent": 71
+        },
+        {
+          "hour": "20:00",
+          "percent": 40
+        },
+        {
+          "hour": "21:00",
+          "percent": 25
+        },
+        {
+          "hour": "22:00",
+          "percent": 17
+        },
+        {
+          "hour": "23:00",
+          "percent": 11
+        },
+        {
+          "hour": "00:00",
+          "percent": 6
+        },
+        {
+          "hour": "01:00",
+          "percent": 3
+        }
+      ]
+    },
+    {
+      "Friday": [
+        {
+          "hour": "04:00",
+          "percent": 7
+        },
+        {
+          "hour": "05:00",
+          "percent": 27
+        },
+        {
+          "hour": "06:00",
+          "percent": 56
+        },
+        {
+          "hour": "07:00",
+          "percent": 64
+        },
+        {
+          "hour": "08:00",
+          "percent": 44
+        },
+        {
+          "hour": "09:00",
+          "percent": 28
+        },
+        {
+          "hour": "10:00",
+          "percent": 25
+        },
+        {
+          "hour": "11:00",
+          "percent": 28
+        },
+        {
+          "hour": "12:00",
+          "percent": 32
+        },
+        {
+          "hour": "13:00",
+          "percent": 38
+        },
+        {
+          "hour": "14:00",
+          "percent": 45
+        },
+        {
+          "hour": "15:00",
+          "percent": 53
+        },
+        {
+          "hour": "16:00",
+          "percent": 59
+        },
+        {
+          "hour": "17:00",
+          "percent": 61
+        },
+        {
+          "hour": "18:00",
+          "percent": 60
+        },
+        {
+          "hour": "19:00",
+          "percent": 54
+        },
+        {
+          "hour": "20:00",
+          "percent": 44
+        },
+        {
+          "hour": "21:00",
+          "percent": 33
+        },
+        {
+          "hour": "22:00",
+          "percent": 22
+        },
+        {
+          "hour": "23:00",
+          "percent": 12
+        },
+        {
+          "hour": "00:00",
+          "percent": 5
+        },
+        {
+          "hour": "01:00",
+          "percent": 1
+        }
+      ]
+    },
+    {
+      "Saturday": [
+        {
+          "hour": "04:00",
+          "percent": 3
+        },
+        {
+          "hour": "05:00",
+          "percent": 12
+        },
+        {
+          "hour": "06:00",
+          "percent": 23
+        },
+        {
+          "hour": "07:00",
+          "percent": 25
+        },
+        {
+          "hour": "08:00",
+          "percent": 20
+        },
+        {
+          "hour": "09:00",
+          "percent": 16
+        },
+        {
+          "hour": "10:00",
+          "percent": 17
+        },
+        {
+          "hour": "11:00",
+          "percent": 23
+        },
+        {
+          "hour": "13:00",
+          "percent": 35
+        },
+        {
+          "hour": "14:00",
+          "percent": 38
+        },
+        {
+          "hour": "15:00",
+          "percent": 37
+        },
+        {
+          "hour": "16:00",
+          "percent": 35
+        },
+        {
+          "hour": "17:00",
+          "percent": 31
+        },
+        {
+          "hour": "18:00",
+          "percent": 28
+        },
+        {
+          "hour": "19:00",
+          "percent": 24
+        },
+        {
+          "hour": "20:00",
+          "percent": 21
+        },
+        {
+          "hour": "21:00",
+          "percent": 17
+        },
+        {
+          "hour": "22:00",
+          "percent": 13
+        },
+        {
+          "hour": "23:00",
+          "percent": 10
+        },
+        {
+          "hour": "00:00",
+          "percent": 6
+        },
+        {
+          "hour": "01:00",
+          "percent": 3
+        }
+      ]
+    }
+  ],
+  "relatedSearches": [
+    "terminal lapa - praça ramos",
+    "horário ônibus 8001 terminal lapa",
+    "terminal lapa telefone",
+    "terminal lapa endereço",
+    "8001 terminal lapa",
+    "terminal lapa terminal pirituba",
+    "8300 terminal lapa",
+    "ônibus terminal lapa 875c",
+    "terminal lapa - praça ramos",
+    "horário ônibus 8001 terminal lapa",
+    "terminal lapa telefone",
+    "terminal lapa endereço",
+    "8001 terminal lapa",
+    "terminal lapa terminal pirituba",
+    "8300 terminal lapa",
+    "ônibus terminal lapa 875c"
+  ],
+  "relateds": [
+    {
+      "mainName": "Lapa - Linha 7",
+      "url": null
+    },
+    {
+      "mainName": "Lapa",
+      "url": null
+    },
+    {
+      "mainName": "Domingos de Moraes",
+      "url": null
+    },
+    {
+      "mainName": "Vila Mariana",
+      "url": null
+    },
+    {
+      "mainName": "Vila Madalena",
+      "url": null
+    },
+    {
+      "mainName": "Estação Piqueri",
+      "url": null
+    },
+    {
+      "mainName": "Santa Cruz",
+      "url": null
+    },
+    {
+      "mainName": "Imperatriz Leopoldina",
+      "url": null
+    },
+    {
+      "mainName": "Pirituba",
+      "url": null
+    },
+    {
+      "mainName": "Água Branca",
+      "url": null
+    },
+    {
+      "mainName": "Terminal Intermodal Palmeiras-Barra Funda",
+      "url": null
+    },
+    {
+      "mainName": "Jaraguá",
+      "url": null
+    },
+    {
+      "mainName": "Ana Rosa",
+      "url": null
+    },
+    {
+      "mainName": "Pinheiros",
+      "url": null
+    },
+    {
+      "mainName": "Estação Perus",
+      "url": null
+    },
+    {
+      "mainName": "Villa Lobos- Jaguaré",
+      "url": null
+    },
+    {
+      "mainName": "Tendal da Lapa",
+      "url": null
+    },
+    {
+      "mainName": "Estação Ciência da Universidade de São Paulo",
+      "url": null
+    },
+    {
+      "mainName": "Estação Vila Clarice",
+      "url": null
+    },
+    {
+      "mainName": "Ponte do Piqueri - Joelmir Beting",
+      "url": null
+    },
+    {
+      "mainName": "Ceasa",
+      "url": null
+    },
+    {
+      "mainName": "Terminal Sacoma",
+      "url": null
+    },
+    {
+      "mainName": "Santana",
+      "url": null
+    },
+    {
+      "mainName": "Palmeiras-Barra Funda",
+      "url": null
+    },
+    {
+      "mainName": "Lapa - Linha 7",
+      "url": null
+    },
+    {
+      "mainName": "Lapa",
+      "url": null
+    },
+    {
+      "mainName": "Domingos de Moraes",
+      "url": null
+    },
+    {
+      "mainName": "Vila Mariana",
+      "url": null
+    },
+    {
+      "mainName": "Vila Madalena",
+      "url": null
+    },
+    {
+      "mainName": "Estação Piqueri",
+      "url": null
+    },
+    {
+      "mainName": "Santa Cruz",
+      "url": null
+    },
+    {
+      "mainName": "Imperatriz Leopoldina",
+      "url": null
+    },
+    {
+      "mainName": "Pirituba",
+      "url": null
+    },
+    {
+      "mainName": "Água Branca",
+      "url": null
+    },
+    {
+      "mainName": "Terminal Intermodal Palmeiras-Barra Funda",
+      "url": null
+    },
+    {
+      "mainName": "Jaraguá",
+      "url": null
+    },
+    {
+      "mainName": "Ana Rosa",
+      "url": null
+    },
+    {
+      "mainName": "Pinheiros",
+      "url": null
+    },
+    {
+      "mainName": "Estação Perus",
+      "url": null
+    },
+    {
+      "mainName": "Villa Lobos- Jaguaré",
+      "url": null
+    },
+    {
+      "mainName": "Tendal da Lapa",
+      "url": null
+    },
+    {
+      "mainName": "Estação Ciência da Universidade de São Paulo",
+      "url": null
+    },
+    {
+      "mainName": "Estação Vila Clarice",
+      "url": null
+    },
+    {
+      "mainName": "Ponte do Piqueri - Joelmir Beting",
+      "url": null
+    },
+    {
+      "mainName": "Ceasa",
+      "url": null
+    },
+    {
+      "mainName": "Terminal Sacoma",
+      "url": null
+    },
+    {
+      "mainName": "Santana",
+      "url": null
+    },
+    {
+      "mainName": "Palmeiras-Barra Funda",
+      "url": null
+    }
+  ]
+}

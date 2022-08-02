@@ -1,0 +1,578 @@
+{
+  "mainName": "Teatro Renault",
+  "slug": "teatro-renault",
+  "category": "Teatro",
+  "locationInformation": {
+    "latitude": "-23.554279",
+    "longitude": "-46.6385168"
+  },
+  "basicInformation": [
+    {
+      "label": "endereço",
+      "tooltip": "Copiar endereço",
+      "text": "Av. Brigadeiro Luís Antônio, 411 - Republica, São Paulo - SP, 01317-000",
+      "icon": "https://www.gstatic.com/images/icons/material/system_gm/1x/place_gm_blue_24dp.png"
+    },
+    {
+      "label": "Code",
+      "tooltip": "Copiar Plus Code",
+      "text": "C9W6+7H Republica, São Paulo - SP",
+      "icon": "https://maps.gstatic.com/mapfiles/maps_lite/images/2x/ic_plus_code.png"
+    }
+  ],
+  "ratingInformation": {
+    "basicRatingInformation": {
+      "averageGrade": 4.8,
+      "totalOfEvaluations": 25756
+    },
+    "ratingsByGrade": [
+      {
+        "grade": 5,
+        "totalRatings": 21284
+      },
+      {
+        "grade": 4,
+        "totalRatings": 3582
+      },
+      {
+        "grade": 3,
+        "totalRatings": 620
+      },
+      {
+        "grade": 2,
+        "totalRatings": 105
+      },
+      {
+        "grade": 1,
+        "totalRatings": 165
+      }
+    ]
+  },
+  "ratingTags": [
+    {
+      "tag": "só",
+      "count": 3,
+      "tooltip": "só, mencionado em 3 avaliações"
+    },
+    {
+      "tag": "espetáculo",
+      "count": 1445,
+      "tooltip": "espetáculo, mencionado em 1.445 avaliações"
+    },
+    {
+      "tag": "fantasma",
+      "count": 908,
+      "tooltip": "fantasma, mencionado em 908 avaliações"
+    },
+    {
+      "tag": "ópera",
+      "count": 812,
+      "tooltip": "ópera, mencionado em 812 avaliações"
+    },
+    {
+      "tag": "acústica",
+      "count": 592,
+      "tooltip": "acústica, mencionado em 592 avaliações"
+    },
+    {
+      "tag": "poltronas",
+      "count": 145,
+      "tooltip": "poltronas, mencionado em 145 avaliações"
+    },
+    {
+      "tag": "broadway",
+      "count": 130,
+      "tooltip": "broadway, mencionado em 130 avaliações"
+    },
+    {
+      "tag": "o rei leão",
+      "count": 62,
+      "tooltip": "o rei leão, mencionado em 62 avaliações"
+    },
+    {
+      "tag": "a noviça rebelde",
+      "count": 34,
+      "tooltip": "a noviça rebelde, mencionado em 34 avaliações"
+    }
+  ],
+  "featuredPhotos": [
+    "https://lh5.googleusercontent.com/p/AF1QipP_OJYpU_DkKuLcbhBAFtgWsORz3bGJzuWHYvHL=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipP0ga08u0eo5QJtkYQLO_Hxf4ma-G2Gjwvy7_KX=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNg8q_9HZDsxE_ZTmPOJ96tTGC2GK1EZsrubz_U=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipM45mp3dGfiXlAcvFGLmN8Etmzf7ORV9lQJ2k_p=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMYuKwPEwi2mC7cu_8a9Aafd6u7rFirg2hnFTlB=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMXodJF81STCI5NsA_YcXqpaVF2K32WfOJrY-zv=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPMQnZAMtJCenJIVhRn2o412PcNUWPP-5ivlupw=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOcjqd12DacRpKmeiJMk4phtLeYPAS7L8PvtnI=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPFaorGaXrZO-wcPI6n3frIYoydLBTTnTQy2EVw=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNUKc0upDGm7f_HvfLzbQDctCdT8qmIh4YyDWPf=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPH-DFfmTuwzv6p3UwfgY4kw34TAnIAgHTgncjc=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPU3DiXyvNZ7KfToacbK47EmLMDFarOG-SJWKl6=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPUBWO4CfWCFZ7yMHNqNTNpxtGhG84-TVEhYhu-=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipO7Z8HY73vvfrjRYF9UUFJPUtrMkv3-Xut_8H4M=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOYTh6oEFe8ulJkzWAOf2x1mrIiRPyxPo0e_iR2=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMEtF1reyfEudR381-4U9-ECyP7N2RA92Swc8sb=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPvpgCG--B44pYaCaccu-B8-J1YvF4vpqan5kfP=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPz7_qPAOB9AHhcsfeBA-_OBVfJNTHiz3M0Slbn=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNHhWFBOgp0YO--0ovkuWfQUB8ZMnQG27qxqJ25=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMYzJqmaDS8IIC3a84WqnJ694C0ePMasxXMzyII=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOcwswewTprMCT5oIBEommnl-_hZm3E_p2p11PK=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMPs_4VH4G_87eN_-3xGIycN99LPc4MvfFuuAX7=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOP3CiCK7QlW4vCn4C5kBN7iBHmwlXWIDNBY2P1=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipP5g_eFH1Fyg2jIA--3MN3rFd0ha-hePVsgzCd8=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOJp80xzTyHW30zr3ER3JeDxr9XzMYS4Kv6bOx2=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPu1uX3xy1cXrlhkCuKfeNik6KjcNqoL15o9Yo=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipP1E9hqe4gOsaCUMj7SmDVj2JlE90JaRLNoTvc7=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNROxHK8A6QzEaYoTtNTL5-jXgkOlYGBg7ipfbx=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMCTU-f_Q5VTEhCP1LxVdTUqSn2yP7LuqQyog75=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNetDt9N4nSZ5DcLNsH8icFQj05iTsEYVmtVK0v=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipO29OlLPEwgqvHC_qF_m_VeWSs9KHzXMW9VlQQB=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNFS0DWqx1AuYK41QqdOuuqrQUY2xP6f1MHZjdr=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPZp_tzc7fQ3iZswBeG2-Ap3otR9iQnsiCOQ6_m=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOk5toL26BC9KBBMYgyKk11uUbQUv0sFCbEbl7O=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipP3ZUJyEe9M5fQrrGhmUZjWFVqv5WBB2O0BOpfh=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipP8kGSwMiL4Q-1vA-kTrLhT2BxOM3ny_82YcTgW=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPd26MWMNpAv7ZR3FLSZCNURcd1NSbldTol7JaI=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipON-RnaPexLNh0tEb9Fxjh3pMsSUZcgCQMI-2Gk=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPkvRKmXiPPnvvFN0HyZZMjBjju9L11_F5NFhvs=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOE-G3Vknft1-0d-kgzfOry5W-Dqbu-NgHxQHtJ=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPy6duMA9FPZKNi-YpTcAq49fIGbr0lhHe1SfNI=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMTFP5ejN7gKsHMVg_kfGvch3sBsdRV7pl0cuGa=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipM3LZxNVc0PCNk8tfoMlRQp66qVe6sIS-UFd1Zf=w1024-h576-k-no"
+  ],
+  "topComments": [
+    {
+      "author": "Jean Aldefran",
+      "photoAuthor": "https://lh3.googleusercontent.com/a/AItbvmkw4v_rMroDJVP9U-POVa5xoexoMIdSA3Qdq2nY=w36-h36-p-c0x00000000-rp-mo-ba6-br100",
+      "comment": "Muito bom Bem localizado ótima estrutura bom atendimento produtos de qualidade ótimos shows preços justo apenas que não tem estacionamento próprio mas com vários estacionamento na região até o final dos eventos",
+      "gradeComment": 5
+    },
+    {
+      "author": "Marcos Endo",
+      "photoAuthor": "https://lh3.googleusercontent.com/a/AItbvmlnr2l-cL0lco_zW53K9ZtEYgcQHS3wmP4yZE76=w36-h36-p-c0x00000000-rp-mo-ba3-br100",
+      "comment": "Fomos assistir A Família Adams. Maravilhoso, o atendimento é rápido para os comes e bebes. A única observação fica por conta da falta de lugar coberto para aguardar do lado de fora, estava chovendo e isso atrapalhou. Mas no final o espetáculo compensa tudo.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Irineu Crivillari",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucoflOq7iw2zVZupRdiTV7vSifPCo4OKG9QitjAk=w36-h36-p-c0x00000000-rp-mo-ba6-br100",
+      "comment": "Localizado na capital de São Paulos, na Avenida Brigadeiro Luís Antônio, o Teatro Renault é um teatro brasileiro que foi inaugurado em 1929 com o nome de Teatro Paramount, isso até 1996. Depois passou a ser chamado de Teatro Abril (2001-2012). É o mesmo de sempre e  mantém os traços originais do edifício fundado na década de 1920. Em 1969 sofreu um incêndio que destruiu grande parte de suas instalações, reformado em 2000 e reinaugurado em 2001, possui uma lotação máxima de 1578 pessoas. O Teatro Renault oferece uma infraestrutura moderna e tecnologia de ponta, tanto que hoje é o palco escolhido pelos maiores musicais da Broadway, como: Les Misérables, A Bela e a Fera, Chicago, O Fantasma da Ópera e Miss Saigon. Hoje, está em cartaz o musical Charlie e a Fantástica Fábrica de Chocolate, baseado no livro do grande escritor britânico Roald Dahl. Sensacional.  Recomendo!",
+      "gradeComment": 5
+    },
+    {
+      "author": "Roberta Gomes",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucqiyxw4mfs6DOJceRqvXru7Xu5rdIMTkW0vlLhTnA=w36-h36-p-c0x00000000-rp-mo-br100",
+      "comment": "Teatro lindo , maravilhoso, grande, espetaculo Divino. Só acho o acesso aos banheiro muito próximo das entradas, gerando filas, fica meio confuso... especialmente p os idosos. Mas fora isso, tudo Top!",
+      "gradeComment": 4
+    },
+    {
+      "author": "Mônica Juliana",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucpJtqvgqsnjpVupxGYpuuufw0L0X_4M9kygnJZQtLE=w36-h36-p-c0x00000000-rp-mo-ba5-br100",
+      "comment": "Gosto do Renault não só pelos grandiosos musicais e bela obra arquitetônica, mas pela localização, recepção atenciosa e cuidado com pessoas com mobilidade reduzida. Super vale a visita!! O único senão é o preço \"salgado\" na lanchonete...",
+      "gradeComment": 4
+    },
+    {
+      "author": "Hero",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucpAyZAoooGyKIGF_ehCw016mwA2zRfAzqKQaz9uww=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "O Teatro Renault é um dos mais bonitos e aconchegantes de São Paulo,  eu amo demais! Já assisti várias peças lá, mas as minhas favoritas são Fantasma da Opera e Família Addams. Grandes espetáculos já passaram por lá. A bilheteria fica ao lado do teatro e super recomendo a compra de ingresso uns dias antes, assim vc evita filas e pega o ingresso físico (que é mto legal). Combos de pipoca custam entre 30-50 reais, pra quem gosta de baldes e copos, sempre fazem dos espetáculos. Também é possível comprar souvenirs dentro do teatro, sempre fazem camisetas, chaveiros e pins. Cheguem com antecedência para ir ao banheiro, apesar das peças geralmente ter um Intervalo, nesse momento os banheiros fazem filas, então sempre melhor se preparar para assistir da melhor forma.Na minha Última visita estive no camarote premium e a visão é perfeita!",
+      "gradeComment": 5
+    },
+    {
+      "author": "Bruno Lima",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucoXSu-nyEyLvvtpm_TZ0a7-JSlh4AvrbNY6qh2Iw0w=w36-h36-p-c0x00000000-rp-mo-ba3-br100",
+      "comment": "Excelente estrutura, fomos para assistir a Família Addams e não nos decepcionamos, os preços das pipocas são acessíveis, os banheiros são limpos e organizados, com certeza recomendo.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Alexandra Delbon",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucoDKy93J97c7eEn-EtaH515yQ2GAIF1PjoVU7OK=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "Teatro lindo em sua arquitetura. Tudo muito organizado e limpo. As peças apresentadas, sempre de grandes franquias, encantam adultos e crianças.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Paulo Heguedusch",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucpfx0CJyL3HmRwRQ8FoDlCJh2wOmI3s44PqcgVIwaI=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "Excelente infraestrutura e organização. Achei curioso ter funcionários que ficam monitorando as pessoas que usam o celular durante a peça, seja apenas olhar a hora ou até mesmo filmar. Eles chamam sua atenção, mas achei compreensível.",
+      "gradeComment": 4
+    },
+    {
+      "author": "Sissi Msil",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucq4hRhr2557T6biculyNeuc4nnLzWNwXPB8UGMNxJw=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "Visitei recentemente em Nov/2021 assisti Charlie: Fantástica fábrica de chocolate - O Musical, um verdadeiro espetáculo! 🎭🎟️🥰  Retornei em Mar/22 para assistir o musical A família Addmas adaptação excelente com temas atuais, atores incríveis, figurinha, cenário, outro espetáculo!! 🎭🎟️🖤",
+      "gradeComment": 5
+    },
+    {
+      "author": "Crisleine Hartweger Aciely",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucoZpleEUb30gDnAxxRAJ6eN1Jx-HtV7stA69bAtDA=w36-h36-p-c0x00000000-rp-mo-br100",
+      "comment": "O teatro é organizado e fácil de entrar e sair, tem fila no banheiro, mas é super organizado pelas meninas do teatro!",
+      "gradeComment": 5
+    },
+    {
+      "author": "Karla de Medeiros Paiva",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucoxs5RkhO3BJ8yH3-kRAtjgup5XXBcrepWQWumzPQ=w36-h36-p-c0x00000000-rp-mo-br100",
+      "comment": "Estrutura impecável, boa localização e ótimos espetáculos sempre! Resultado: sucesso garantido!",
+      "gradeComment": 5
+    },
+    {
+      "author": "Camilla Bassi",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucoKcaHfMbKVtRdLzhn6d1_c9SpPdzZZJ2cx0LImqw=w36-h36-p-c0x00000000-rp-mo-br100",
+      "comment": "Excelente lugar com ótimos espetáculos.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Daniel Gil",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucqpqXc_B-owr5WWGzOTAtu4eIXSpbRjqmM11QrKyg=w36-h36-p-c0x00000000-rp-mo-ba6-br100",
+      "comment": "Teatro moderno e com muitos recursos. Fui com a família assistir a Família Adans e foi um espetáculo incrível, musical muito legal, recomendo para todos.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Izaura",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucondphw4NXlO9_Jx8PqdlNMd4_op2TVq2s-5HLFaw=w36-h36-p-c0x00000000-rp-mo-br100",
+      "comment": "Lugar muito bonito, apresentações ótimas, porém, no final só deixam utilizar os banheiros do térreo, ficando uma aglomeração horrível pra usar o banheiro",
+      "gradeComment": 5
+    },
+    {
+      "author": "Alexandra Delbon",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucoDKy93J97c7eEn-EtaH515yQ2GAIF1PjoVU7OK=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "Teatro lindo em sua arquitetura. Tudo muito organizado e limpo. As peças apresentadas, sempre de grandes franquias, encantam adultos e crianças.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Roberta Gomes",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucqiyxw4mfs6DOJceRqvXru7Xu5rdIMTkW0vlLhTnA=w36-h36-p-c0x00000000-rp-mo-br100",
+      "comment": "Teatro lindo , maravilhoso, grande, espetaculo Divino. Só acho o acesso aos banheiro muito próximo das entradas, gerando filas, fica meio confuso... especialmente p os idosos. Mas fora isso, tudo Top!",
+      "gradeComment": 4
+    },
+    {
+      "author": "Felipe Leal Sampaio",
+      "photoAuthor": "https://lh3.googleusercontent.com/a/AItbvml0B_AjAGDXSEp_ZFkB0b6_R3aUDjV2OqbG_bCy=w36-h36-p-c0x00000000-rp-mo-ba3-br100",
+      "comment": "Espaço lindo e a peça melhor ainda! A qualidade dos equipamentos de som e iluminação são excelentes. Acústica muito agradável. Só valem elogios!!",
+      "gradeComment": 5
+    },
+    {
+      "author": "Celso Silva",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucoNjHopufYTnO_GvNJXTpELkHv3pqI6VweqxbjezNg=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "teateo fantástico... de muitas histórias.... Assistindo A Família Addams",
+      "gradeComment": 5
+    },
+    {
+      "author": "Renato Pagotto",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucqvihhuHHCBqoH3RBI2KrZDeJP1qwY_pASQU1jM5HI=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "Um dos melhores teatros de são Paulo , o antigo teatro Abril agora chamado teatro Renault é palco dos grandes musicais. Excelente. Assisti A Família Addams.",
+      "gradeComment": 5
+    }
+  ],
+  "peakHours": [
+    {
+      "Sunday": [
+        {
+          "hour": "12:00",
+          "percent": 6
+        },
+        {
+          "hour": "13:00",
+          "percent": 13
+        },
+        {
+          "hour": "14:00",
+          "percent": 29
+        },
+        {
+          "hour": "15:00",
+          "percent": 51
+        },
+        {
+          "hour": "16:00",
+          "percent": 75
+        },
+        {
+          "hour": "17:00",
+          "percent": 89
+        },
+        {
+          "hour": "18:00",
+          "percent": 87
+        },
+        {
+          "hour": "19:00",
+          "percent": 73
+        }
+      ]
+    },
+    {
+      "Monday": []
+    },
+    {
+      "Tuesday": [
+        {
+          "hour": "12:00",
+          "percent": 10
+        },
+        {
+          "hour": "13:00",
+          "percent": 11
+        },
+        {
+          "hour": "14:00",
+          "percent": 12
+        },
+        {
+          "hour": "15:00",
+          "percent": 11
+        },
+        {
+          "hour": "16:00",
+          "percent": 10
+        },
+        {
+          "hour": "17:00",
+          "percent": 9
+        },
+        {
+          "hour": "18:00",
+          "percent": 8
+        },
+        {
+          "hour": "19:00",
+          "percent": 7
+        }
+      ]
+    },
+    {
+      "Wednesday": [
+        {
+          "hour": "12:00",
+          "percent": 10
+        },
+        {
+          "hour": "13:00",
+          "percent": 11
+        },
+        {
+          "hour": "14:00",
+          "percent": 11
+        },
+        {
+          "hour": "15:00",
+          "percent": 10
+        },
+        {
+          "hour": "16:00",
+          "percent": 8
+        },
+        {
+          "hour": "17:00",
+          "percent": 7
+        },
+        {
+          "hour": "18:00",
+          "percent": 7
+        },
+        {
+          "hour": "19:00",
+          "percent": 8
+        }
+      ]
+    },
+    {
+      "Thursday": [
+        {
+          "hour": "12:00",
+          "percent": 8
+        },
+        {
+          "hour": "13:00",
+          "percent": 10
+        },
+        {
+          "hour": "14:00",
+          "percent": 12
+        },
+        {
+          "hour": "15:00",
+          "percent": 13
+        },
+        {
+          "hour": "16:00",
+          "percent": 14
+        },
+        {
+          "hour": "17:00",
+          "percent": 14
+        },
+        {
+          "hour": "18:00",
+          "percent": 14
+        },
+        {
+          "hour": "19:00",
+          "percent": 28
+        }
+      ]
+    },
+    {
+      "Friday": [
+        {
+          "hour": "12:00",
+          "percent": 10
+        },
+        {
+          "hour": "13:00",
+          "percent": 11
+        },
+        {
+          "hour": "14:00",
+          "percent": 13
+        },
+        {
+          "hour": "15:00",
+          "percent": 14
+        },
+        {
+          "hour": "16:00",
+          "percent": 14
+        },
+        {
+          "hour": "17:00",
+          "percent": 14
+        },
+        {
+          "hour": "18:00",
+          "percent": 15
+        },
+        {
+          "hour": "19:00",
+          "percent": 29
+        }
+      ]
+    },
+    {
+      "Saturday": [
+        {
+          "hour": "12:00",
+          "percent": 8
+        },
+        {
+          "hour": "13:00",
+          "percent": 12
+        },
+        {
+          "hour": "14:00",
+          "percent": 19
+        },
+        {
+          "hour": "15:00",
+          "percent": 34
+        },
+        {
+          "hour": "16:00",
+          "percent": 58
+        },
+        {
+          "hour": "17:00",
+          "percent": 84
+        },
+        {
+          "hour": "18:00",
+          "percent": 100
+        },
+        {
+          "hour": "19:00",
+          "percent": 97
+        }
+      ]
+    }
+  ],
+  "relatedSearches": [
+    "teatro renault telefone",
+    "teatro renault programação",
+    "teatro renault comprar ingresso",
+    "programação teatro renault 2022",
+    "teatro renault 2022 ingressos",
+    "teatro renault mapa de assentos",
+    "teatro renault fotos",
+    "teatro renault programação 2021"
+  ],
+  "relateds": [
+    {
+      "mainName": "Teatro Bradesco",
+      "url": null
+    },
+    {
+      "mainName": "Theatro Municipal de São Paulo",
+      "url": null
+    },
+    {
+      "mainName": "Teatro Bibi Ferreira",
+      "url": null
+    },
+    {
+      "mainName": "Teatro Sérgio Cardoso",
+      "url": null
+    },
+    {
+      "mainName": "Teatro Procópio Ferreira",
+      "url": null
+    },
+    {
+      "mainName": "Teatro TUCA",
+      "url": null
+    },
+    {
+      "mainName": "Teatro Ruth Escobar",
+      "url": null
+    },
+    {
+      "mainName": "Teatro FAAP",
+      "url": null
+    },
+    {
+      "mainName": "Teatro Fernando Torres",
+      "url": null
+    },
+    {
+      "mainName": "Vibra São Paulo",
+      "url": null
+    },
+    {
+      "mainName": "Teatro Oficina",
+      "url": null
+    },
+    {
+      "mainName": "Museu de Arte de São Paulo Assis Chateaubriand",
+      "url": null
+    },
+    {
+      "mainName": "Instituto Artium de Cultura",
+      "url": null
+    },
+    {
+      "mainName": "Theatro São Pedro",
+      "url": null
+    },
+    {
+      "mainName": "Centro Cultural Banco do Brasil - São Paulo",
+      "url": null
+    },
+    {
+      "mainName": "Sesc Pompeia",
+      "url": null
+    },
+    {
+      "mainName": "Allianz Parque",
+      "url": null
+    },
+    {
+      "mainName": "Teatro Dermeval Gonçalves",
+      "url": null
+    },
+    {
+      "mainName": "Brigadeiro",
+      "url": null
+    },
+    {
+      "mainName": "Auditório Ibirapuera - Oscar Niemeyer",
+      "url": null
+    }
+  ]
+}

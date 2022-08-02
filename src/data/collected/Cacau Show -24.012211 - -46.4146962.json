@@ -1,0 +1,512 @@
+{
+  "mainName": "Cacau Show",
+  "slug": "cacau-show",
+  "category": "Loja de chocolates",
+  "locationInformation": {
+    "latitude": "-24.012211",
+    "longitude": "-46.4146962"
+  },
+  "basicInformation": [
+    {
+      "label": "endereço",
+      "tooltip": "Copiar endereço",
+      "text": "Av. Pres. Costa e Silva, 133, 133 - Boqueirão, Praia Grande - SP, 11701-000",
+      "icon": "https://www.gstatic.com/images/icons/material/system_gm/1x/place_gm_blue_24dp.png"
+    },
+    {
+      "label": "pedido",
+      "tooltip": "Fazer um pedido",
+      "text": "Fazer um pedido",
+      "icon": "https://www.gstatic.com/images/icons/material/system_gm/1x/local_shipping_gm_blue_24dp.png"
+    },
+    {
+      "label": "website",
+      "tooltip": "Abrir website",
+      "text": "cacaushow.com.br",
+      "icon": "https://www.gstatic.com/images/icons/material/system_gm/1x/public_gm_blue_24dp.png"
+    },
+    {
+      "label": "telefone",
+      "tooltip": "Copiar número de telefone",
+      "text": "(13) 3474-6166",
+      "icon": "https://www.gstatic.com/images/icons/material/system_gm/1x/phone_gm_blue_24dp.png"
+    },
+    {
+      "label": "Code",
+      "tooltip": "Copiar Plus Code",
+      "text": "XHQP+44 Boqueirão, Praia Grande - SP",
+      "icon": "https://maps.gstatic.com/mapfiles/maps_lite/images/2x/ic_plus_code.png"
+    }
+  ],
+  "ratingInformation": {
+    "basicRatingInformation": {
+      "averageGrade": 4.4,
+      "totalOfEvaluations": 96
+    },
+    "ratingsByGrade": [
+      {
+        "grade": 5,
+        "totalRatings": 69
+      },
+      {
+        "grade": 4,
+        "totalRatings": 12
+      },
+      {
+        "grade": 3,
+        "totalRatings": 8
+      },
+      {
+        "grade": 2,
+        "totalRatings": 2
+      },
+      {
+        "grade": 1,
+        "totalRatings": 5
+      }
+    ]
+  },
+  "ratingTags": null,
+  "featuredPhotos": [
+    "https://lh5.googleusercontent.com/p/AF1QipMOUzfcf0EioU6CVvTbCq1G9n9_VZFG722Yn88i=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOUA6mmofbdUUpMtl1BqHYcsYI_IugA6VjF6jB8=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNASxXn8AiKRI55IWU66UjCXLaMDWGUe4eZcGo1=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMT7kpmpTb52qE-l7Nc_RUx3ind76Rjmo6PsDag=w1024-h576-k-no"
+  ],
+  "topComments": null,
+  "peakHours": [
+    {
+      "Sunday": [
+        {
+          "hour": "11:00",
+          "percent": 12
+        },
+        {
+          "hour": "12:00",
+          "percent": 16
+        },
+        {
+          "hour": "13:00",
+          "percent": 25
+        },
+        {
+          "hour": "14:00",
+          "percent": 29
+        },
+        {
+          "hour": "15:00",
+          "percent": 45
+        },
+        {
+          "hour": "16:00",
+          "percent": 100
+        },
+        {
+          "hour": "17:00",
+          "percent": 91
+        },
+        {
+          "hour": "18:00",
+          "percent": 41
+        }
+      ]
+    },
+    {
+      "Monday": [
+        {
+          "hour": "09:00",
+          "percent": 20
+        },
+        {
+          "hour": "10:00",
+          "percent": 25
+        },
+        {
+          "hour": "11:00",
+          "percent": 29
+        },
+        {
+          "hour": "12:00",
+          "percent": 33
+        },
+        {
+          "hour": "13:00",
+          "percent": 37
+        },
+        {
+          "hour": "14:00",
+          "percent": 37
+        },
+        {
+          "hour": "15:00",
+          "percent": 33
+        },
+        {
+          "hour": "16:00",
+          "percent": 33
+        },
+        {
+          "hour": "17:00",
+          "percent": 29
+        },
+        {
+          "hour": "18:00",
+          "percent": 25
+        },
+        {
+          "hour": "19:00",
+          "percent": 20
+        }
+      ]
+    },
+    {
+      "Tuesday": [
+        {
+          "hour": "09:00",
+          "percent": 8
+        },
+        {
+          "hour": "10:00",
+          "percent": 8
+        },
+        {
+          "hour": "11:00",
+          "percent": 8
+        },
+        {
+          "hour": "12:00",
+          "percent": 8
+        },
+        {
+          "hour": "13:00",
+          "percent": 4
+        },
+        {
+          "hour": "14:00",
+          "percent": 16
+        },
+        {
+          "hour": "15:00",
+          "percent": 25
+        },
+        {
+          "hour": "16:00",
+          "percent": 8
+        },
+        {
+          "hour": "17:00",
+          "percent": 12
+        },
+        {
+          "hour": "18:00",
+          "percent": 33
+        },
+        {
+          "hour": "19:00",
+          "percent": 20
+        }
+      ]
+    },
+    {
+      "Wednesday": [
+        {
+          "hour": "09:00",
+          "percent": 25
+        },
+        {
+          "hour": "10:00",
+          "percent": 66
+        },
+        {
+          "hour": "11:00",
+          "percent": 25
+        },
+        {
+          "hour": "12:00",
+          "percent": 20
+        },
+        {
+          "hour": "13:00",
+          "percent": 25
+        },
+        {
+          "hour": "14:00",
+          "percent": 29
+        },
+        {
+          "hour": "15:00",
+          "percent": 29
+        },
+        {
+          "hour": "16:00",
+          "percent": 25
+        },
+        {
+          "hour": "17:00",
+          "percent": 20
+        },
+        {
+          "hour": "18:00",
+          "percent": 12
+        },
+        {
+          "hour": "19:00",
+          "percent": 8
+        }
+      ]
+    },
+    {
+      "Thursday": [
+        {
+          "hour": "09:00",
+          "percent": 16
+        },
+        {
+          "hour": "10:00",
+          "percent": 16
+        },
+        {
+          "hour": "11:00",
+          "percent": 16
+        },
+        {
+          "hour": "12:00",
+          "percent": 16
+        },
+        {
+          "hour": "13:00",
+          "percent": 16
+        },
+        {
+          "hour": "14:00",
+          "percent": 25
+        },
+        {
+          "hour": "15:00",
+          "percent": 37
+        },
+        {
+          "hour": "16:00",
+          "percent": 41
+        },
+        {
+          "hour": "17:00",
+          "percent": 33
+        },
+        {
+          "hour": "18:00",
+          "percent": 16
+        },
+        {
+          "hour": "19:00",
+          "percent": 4
+        }
+      ]
+    },
+    {
+      "Friday": [
+        {
+          "hour": "09:00",
+          "percent": 12
+        },
+        {
+          "hour": "10:00",
+          "percent": 16
+        },
+        {
+          "hour": "11:00",
+          "percent": 20
+        },
+        {
+          "hour": "12:00",
+          "percent": 25
+        },
+        {
+          "hour": "13:00",
+          "percent": 25
+        },
+        {
+          "hour": "14:00",
+          "percent": 29
+        },
+        {
+          "hour": "15:00",
+          "percent": 33
+        },
+        {
+          "hour": "16:00",
+          "percent": 37
+        },
+        {
+          "hour": "17:00",
+          "percent": 37
+        },
+        {
+          "hour": "18:00",
+          "percent": 33
+        },
+        {
+          "hour": "19:00",
+          "percent": 20
+        }
+      ]
+    },
+    {
+      "Saturday": [
+        {
+          "hour": "09:00",
+          "percent": 16
+        },
+        {
+          "hour": "10:00",
+          "percent": 50
+        },
+        {
+          "hour": "11:00",
+          "percent": 50
+        },
+        {
+          "hour": "12:00",
+          "percent": 41
+        },
+        {
+          "hour": "13:00",
+          "percent": 50
+        },
+        {
+          "hour": "14:00",
+          "percent": 50
+        },
+        {
+          "hour": "15:00",
+          "percent": 45
+        },
+        {
+          "hour": "16:00",
+          "percent": 37
+        },
+        {
+          "hour": "17:00",
+          "percent": 25
+        },
+        {
+          "hour": "18:00",
+          "percent": 16
+        },
+        {
+          "hour": "19:00",
+          "percent": 8
+        }
+      ]
+    }
+  ],
+  "relatedSearches": [
+    "cacau show trabalhe conosco",
+    "cacau show montes claros",
+    "cacau show preços",
+    "cacau show panetone",
+    "cacau show delivery",
+    "cacau show promoção",
+    "cacau show presentes",
+    "cacau show ovo"
+  ],
+  "relateds": [
+    {
+      "mainName": "Chocolates Brasil Cacau",
+      "url": null
+    },
+    {
+      "mainName": "Kopenhagen",
+      "url": null
+    },
+    {
+      "mainName": "O Boticário",
+      "url": null
+    },
+    {
+      "mainName": "Americanas",
+      "url": null
+    },
+    {
+      "mainName": "Lindt",
+      "url": null
+    },
+    {
+      "mainName": "Natura",
+      "url": null
+    },
+    {
+      "mainName": "Lojas Renner",
+      "url": null
+    },
+    {
+      "mainName": "Magazine Luiza",
+      "url": null
+    },
+    {
+      "mainName": "Ferrero",
+      "url": null
+    },
+    {
+      "mainName": "Sodiê Doces",
+      "url": null
+    },
+    {
+      "mainName": "Empresa Brasileira de Correios e Telégrafos",
+      "url": null
+    },
+    {
+      "mainName": "Nestlé",
+      "url": null
+    },
+    {
+      "mainName": "Lojas Riachuelo",
+      "url": null
+    },
+    {
+      "mainName": "Havanna",
+      "url": null
+    },
+    {
+      "mainName": "C&A",
+      "url": null
+    },
+    {
+      "mainName": "Lojas Centauro",
+      "url": null
+    },
+    {
+      "mainName": "Ofner",
+      "url": null
+    },
+    {
+      "mainName": "Vivara",
+      "url": null
+    },
+    {
+      "mainName": "Cia Hering",
+      "url": null
+    },
+    {
+      "mainName": "Pandurata Alimentos",
+      "url": null
+    },
+    {
+      "mainName": "Lacta",
+      "url": null
+    },
+    {
+      "mainName": "Planeta Bombom",
+      "url": null
+    },
+    {
+      "mainName": "Havan",
+      "url": null
+    },
+    {
+      "mainName": "Espaço Representante Eudora",
+      "url": null
+    }
+  ],
+  "editMode": false
+}

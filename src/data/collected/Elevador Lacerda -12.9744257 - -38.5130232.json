@@ -1,0 +1,857 @@
+{
+  "mainName": "Elevador Lacerda",
+  "slug": "elevador-lacerda",
+  "category": "Atração turística",
+  "locationInformation": {
+    "latitude": "-12.9744257",
+    "longitude": "-38.5130232"
+  },
+  "basicInformation": [
+    {
+      "label": "endereço",
+      "tooltip": "Copiar endereço",
+      "text": "Praça Tomé de Souza, S/N - Centro, Salvador - BA, 40020-000",
+      "icon": "https://www.gstatic.com/images/icons/material/system_gm/1x/place_gm_blue_24dp.png"
+    },
+    {
+      "label": "website",
+      "tooltip": "Abrir website",
+      "text": "mobilidade.salvador.ba.gov.br",
+      "icon": "https://www.gstatic.com/images/icons/material/system_gm/1x/public_gm_blue_24dp.png"
+    },
+    {
+      "label": "Code",
+      "tooltip": "Copiar Plus Code",
+      "text": "2FGP+6Q Centro, Salvador - BA",
+      "icon": "https://maps.gstatic.com/mapfiles/maps_lite/images/2x/ic_plus_code.png"
+    },
+    {
+      "label": "send-to-device",
+      "text": "Enviar para smartphone",
+      "icon": "https://maps.gstatic.com/consumer/images/icons/1x/send_to_mobile_alt_gm_blue_24dp.png"
+    }
+  ],
+  "ratingInformation": {
+    "basicRatingInformation": {
+      "averageGrade": 4.5,
+      "totalOfEvaluations": 45656
+    },
+    "ratingsByGrade": [
+      {
+        "grade": 5,
+        "totalRatings": 30538
+      },
+      {
+        "grade": 4,
+        "totalRatings": 8708
+      },
+      {
+        "grade": 3,
+        "totalRatings": 4350
+      },
+      {
+        "grade": 2,
+        "totalRatings": 1123
+      },
+      {
+        "grade": 1,
+        "totalRatings": 937
+      }
+    ]
+  },
+  "ratingTags": [
+    {
+      "tag": "só",
+      "count": 5,
+      "tooltip": "só, mencionado em 5 avaliações"
+    },
+    {
+      "tag": "self",
+      "count": 4,
+      "tooltip": "self, mencionado em 4 avaliações"
+    },
+    {
+      "tag": "cartão postal",
+      "count": 762,
+      "tooltip": "cartão postal, mencionado em 762 avaliações"
+    },
+    {
+      "tag": "ambulantes",
+      "count": 358,
+      "tooltip": "ambulantes, mencionado em 358 avaliações"
+    },
+    {
+      "tag": "meio de transporte",
+      "count": 164,
+      "tooltip": "meio de transporte, mencionado em 164 avaliações"
+    },
+    {
+      "tag": "moradores de rua",
+      "count": 61,
+      "tooltip": "moradores de rua, mencionado em 61 avaliações"
+    },
+    {
+      "tag": "",
+      "count": 187339,
+      "tooltip": "1873, mencionado em 39 avaliações"
+    },
+    {
+      "tag": "monumento histórico",
+      "count": 37,
+      "tooltip": "monumento histórico, mencionado em 37 avaliações"
+    },
+    {
+      "tag": "",
+      "count": 828,
+      "tooltip": "8 de dezembro, mencionado em 28 avaliações"
+    }
+  ],
+  "featuredPhotos": [
+    "https://lh5.googleusercontent.com/p/AF1QipMxtYWLQqefCwI74U2z71vuCRfoJBOfoK0gpaVn=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMbhYtrgXoVWg5xeDna4xeSj2vg5EGnwki1tyUH=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipM5azAlZIMdjzCPxrlxPU-4jh6dgKrCUVyCeVee=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPLwR3lPpOeS8cr4Iem_xMIEtjvKr3yJMUf8Uv4=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOWNzvwjaaOYO-pIMPMxlxfYBk40kvXOmlhVMXf=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipP55ElcN66KUezCZbxopd1oX-bxUIkUARk91wsG=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipM8jHpWfJ2ZVCFm4nhXyXRzb_aiOlvEKJPFh69j=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNldEJYrDzesjDSm5hCI4oJviOUCSeO98vYHqm0=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPc2m93B7_FVT_62Fn-l9Ceau24DFYUxLy94YmY=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipODF_cgyYzWXWeDhGB-2wIL5u0j-oFq-agZwgFn=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPBMD7xSVLh0jHhw4aXPZdODi5v2c9J3nTB8f6x=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOShpgp5ZnAxg4huSC34uifhR25mIv4LGJdIz9u=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNzz9NatC5cysJ2sYshvQZHRuXVrZtq_ldbZym8=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMnV4dzI-CTI8udGTKFY0LPbXuGru9kewgXGpF7=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipP2gEcXYSLrEKf6skl52Qi8flazYzpa67qeTh_6=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNJHKxET6NSsPzKZ7No955CkzDZlKOkgeyYopGl=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipN0VTz7QjwVDU8RRc1MM3H3LhWEKjNANH5uDCpi=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPnqnPBMMhc2pyca1m1Jnkt0LHUKF5P0HNBopfu=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipM7AKPfwSBlIcE1gr3JRtBVG4EZIz_MeFYE4zDZ=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNBOcVHkqXbpDwAR7TCXKF8A1OiRwDGqS0WPJn-=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOTD1LAEi8fy3cKJAt7bg-Wka00CI8dWq2qcLco=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPBePLJCkRR7U84gs6dFGIN-XieUnK5pCFenta6=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipP-VZKzBnthuQVmpop13P5vn-LiRPEYXsdkX32N=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPW5UOEVu_5f0hjNLFK6dWljRFqoru2_exIMH6R=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipN8tSAmTDhQYQn9Zki8mGvKnWj2Az11GzD269c4=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNjVgXNLHOMyFw1ffwVHJy191JU-tNqZBANZMQ=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNrnN2Xhrz2UP4msTvsoatcVPyU1p5QvCSS4nM=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOndXsirgWL4q9AFzZ8IX9xvBvVgg7l5GQlKrRB=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPTNfVHoyiArc7Q7eDvfdlS_ouRCVRvHCfPjW-j=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMdLHf80dsCAlRlRn605mbgwLtV8UQh1d51lZRc=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipP7DbnNvZzxMhV3WI9BruTNlF-_widDwd4hPZpr=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNfrxqhUFO8itOQUxWkdF8O5zzrXlXtyyCbBvrC=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNLFjvyrkGDNopELykG7UqtsKHg5GKW1QIrDuOT=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMUAoByKOEWPx1edza0-oMlV_fYI3JlKqwjBLOJ=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOsW7yRBv8a7_jtHLfDrUW9JiiryWXRxQ4LtO0I=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPrFqtu6q8C0ZzFVOnvLkFqhBhXvlX7Ny9Ecdy8=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMbFl-HVtOVhR6Yi-nA8lEQQ2LPqBkcJw2GbRxA=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNGzk83eqS2O6jSABD38gkGCR83z5ZpEwadrAnj=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOzSw3bbMYkZ6VoUvSIYB_pZjl74lpT62B1c-wv=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipM8mgzAqc7sIMAHaITkCGry2RLoa5jYWZ9wySAK=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNwRl5sVkup-ZL_mDjXyrBEEVCzxmLKVb3bRHjS=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipN-x4CB4pYORoDzHxzoIc6fK4bC73zGYCFSqMhS=w1024-h576-k-no"
+  ],
+  "topComments": [
+    {
+      "author": "Vagner Santos",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucrxyKXefmYvWUtvlIK4ph7MNPGx4dPf_VQCb6G2CA=w36-h36-p-c0x00000000-rp-mo-ba5-br100",
+      "comment": "Ao chegar não havia espera para entrar. Ingressos simbolicos ao preço de quinze centavos (é verdade, eu quase não acreditei também). Espaço conservado e ótimo para fotos de lembranças da visitação. O mirante tem uma vista sensacional. Gostei e recomendo!",
+      "gradeComment": 4
+    },
+    {
+      "author": "Cristiano Tamietti",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucqDc2Lr6msSDgyZf8OIVZtiRXEFluQb0vtCeTKLpA=w36-h36-p-c0x00000000-rp-mo-ba3-br100",
+      "comment": "A vista é muito bonita, a parte baixa da cidade tem casas e prédios antigos que estão em reforma, essa área é linda e assustadora ao mesmo tempo, lembra um pouco a cidade de Half life alyx, parece bem vazia vista de cima. Adorei as construções  desse local, recomendo conhecer!",
+      "gradeComment": 5
+    },
+    {
+      "author": "Ladislau Brito",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucp5PfFxgDgWwclhT6A0nBEqt3k0ZAHUy9OeH2nO-A=w36-h36-p-c0x00000000-rp-mo-ba6-br100",
+      "comment": "Lugar antigo, tradicional, rico em história! Liga a cidade alta a cidade baixa Fica ao lado do Mercado Modelo, vale a pena conhecer. Para utilizar se paga apenas 15 centavos, a subida ou descida dura poucos segundos. Ao subir se tem acesso a uma praça charmosa, onde a prefeitura de Salvador e o antigo palácio do Governo. Vale a pena conhecer a lendária sorveteria A Cubana.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Hermínio Áureo",
+      "photoAuthor": "https://lh3.googleusercontent.com/a/AItbvmmH-q1ItVjkExdQVEXc7uueuW0koBTptAYe7UAI30s=w36-h36-p-c0x00000000-rp-mo-ba5-br100",
+      "comment": "A vista é bonita, mas há muitos larápios e camelôs oferecendo passeio turísticos, fitinhas, fotos, e depois ficam lhe extorquindo pedindo dinheiro. A prefeitura deveria coibir isso, pois um lugar tão bonito como esse fica com a imagem manchada por causa desses pilantras. Cuidado ao visitar. Evite levar itens de valor e não ande sozinho.",
+      "gradeComment": 2
+    },
+    {
+      "author": "Ricardo Barbosa",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucqIDQvzuYe5qPeql0Mx90qPfrluMsXF8RkFhmeJHtw=w36-h36-p-c0x00000000-rp-mo-br100",
+      "comment": "O lugar é muito bonito! Vista e a arquitetura são de mais, o que ruim foi a inconveniência das pessoas dali, assim que subimos eu e minha família nos deparamos um pessoal se dizendo de um projeto, e já sem pedir permissão nos pintaram e cobraram( não pediram permissão, mas cobraram) “um valor tabelado” pelas pinturas no braço. Isso não pode acontecer! Quem for fica aí o alerta!",
+      "gradeComment": 5
+    },
+    {
+      "author": "fabio nascimento",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucoUpvafOwW64ml5mrTI4AituVFJDuL1Rdd7kgu_0rc=w36-h36-p-c0x00000000-rp-mo-ba5-br100",
+      "comment": "Quem não conhece ou associa a imagem deste \"velho senhor\" à imagem da Cidade de Salvador na Bahia? Pois este monumental elevador urbano, datado de 1873, quando foi inaugurado sua primeira torre. O Elevador Lacerda faz parte do sistema público de transporte da cidade. Sim, isto mesmo! Ele faz a ligação da Cidade Baixa à Cidade Alta, ligando as Praças do Cairu e Tomé de Sousa (acesso ao Pelourinho). O Elevador Lacerda fica defronte à Baía de todos os Santos e ao Mercado Modelo de Salvador, com isto, a vista do local é incrivelmente linda e apaixonante! Vale a pena utilizar este meio de transporte para viver uma experiência inusitada na Cidade de Salvador...",
+      "gradeComment": 4
+    },
+    {
+      "author": "Manielden Távora",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucpr7S_f5QETf0VSAMzODLlRHFGDvrBRagoTI49pNIk=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "O local é tudo como atração turista pro proteicos uma bela vista da cidade baixa, mas além disso é um serviço muito útil aos trabalhosos e cidadãos soteropolitanos. Em tempos de pandemia têm todo o cuidado com a segurança sanitária. Vale o passeio.",
+      "gradeComment": 4
+    },
+    {
+      "author": "Daniel Lima",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucpt9Fx3S-pUi0XNY_Lae_wNHo75UoKFjnK9OJjJmkE=w36-h36-p-c0x00000000-rp-mo-ba5-br100",
+      "comment": "Ótimo local para tirar foto, é basicamente o cartão postal de salvador.  Custa 0,15 centavos para subir no elevador.  Existem alguns problemas relacionados aos ambulantes, muitos entregam fitas, pinturas e outros serviços aparentemente de graça como se fosse um serviço, e depois te cobram.  Então tem que tomar cuidando quando ouvir eles oferecendo algo e falando \"presentinho\", mesmo as pessoas que se oferecem a ajudar a tirar fotos, vão te cobrar algo.  Tirando isso, o local é extremamente lindo para tirar fotos, com um fundo de tirar o fôlego. As fotos que são tiradas com o elevador lacerda de fundo, podem facilmente ir para um quadro em casa de tão bonitas que ficam.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Rodrigo Trentin",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucoBA5R1e4nYoFmt3e0C4pd6lUBl_tnsHxuHCpi9Bw=w36-h36-p-c0x00000000-rp-mo-ba5-br100",
+      "comment": "Parte da história de Salvador. Um dia pontos turísticos mais visitados na Capital da Bahia. O Elevador Lacerda, foi o primeiro elevador urbano do mundo inaugurado em 08 de Dezembro de 1873. Liga a parte alta e a parte baixa de Salvador. Com uma vista deslumbrante, principalmente no pôr do Sol. Fica a dica do cuidado com as pessoas que lhe aborda oferecendo coisa ou até mesmo para tirar uma foto sua. E separe umas moedas para utilizar no pagamento para utilizar o elevador, o valor é de R$ 0,15 centavos por pessoa e paga o mesmo valor para descer ou para subir. Na parte de baixo encontra-se o Mercado Modelo. Mercado com uma variedade enorme de produtos artesanais e outra grande variedades de pimentas e quitutes da Bahia. Na parte alta, fica o Pelourinho e as Igrejas a serem visitadas. Super recomendo o local. Rende uma emoção muito grande em ver a linda vista que tem e umas belas fotos.",
+      "gradeComment": 5
+    },
+    {
+      "author": "allan bof",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucoI0asI7CQxUHOFlDw1QbVly0NAR-bUcBmTLL_2iA=w36-h36-p-c0x00000000-rp-mo-br100",
+      "comment": "Lugar muito bonito, com uma vista incrível. O ponto negativo é que vc é abordado a todo momento por oportunistas querendo extorquir. Mesmo vc falando que não tem interesse eles insistem demais. Não respeitam e ainda falam que o folgado é vc.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Renata Rezende",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZuco9-jvlRpDtV5fdgYahHJwKU4pLNxmUrgGMC0XN-w=w36-h36-p-c0x00000000-rp-mo-ba5-br100",
+      "comment": "Muito legal, paga-se R$ 0,15 para subir e para descer também, só acho que o elevador poderia ser panorâmico 😕",
+      "gradeComment": 5
+    },
+    {
+      "author": "Diego Lucena",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucqYMQsA-gqsRkZKg6uKMoViA8to8gSU98IXWEBbsMo=w36-h36-p-c0x00000000-rp-mo-ba3-br100",
+      "comment": "Se você vaia salvador você tem que ir no elevador Lacerda!  Foi lá onde Thome de souza a orla toda e decidiu criar salvador!  De lá você tem a vista da Bahia de todos os santos! que é extremamente maravilhosa!  só tome cuidado com as pessoas querendo te dar “presentes” ou te pintar, no fim elas cobram carrissimo!  Pra descer você paga 15 centavos, e lá embaixo você encontra o mercado modelo e uma vista de baixo pra cima do elevador belíssima!  Vale a visita!",
+      "gradeComment": 5
+    },
+    {
+      "author": "Maty Aletheia",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucq7dTsTIEIFQYqaebkmxHkrz6f25mCYwKAV7E4uIA=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "Um dos lugares mais emblemáticos da cidade de Salvador, porém muitos vendedores ambulantes oferecendo coisas, e na parte da cidade baixa, mais empobrecida, muitos moradores de rua e pedintes, é bom ficar ligado.😉",
+      "gradeComment": 4
+    },
+    {
+      "author": "Amanda Monteiro",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucq_NWAqWTqzGEiF_fHJd10IdcJI1JbZB2LH7f2RYg=w36-h36-p-c0x00000000-rp-mo-ba3-br100",
+      "comment": "Esperava mais, é um elevador normal, bem descuidado por ser ponto turístico, apenas 0,15 centavos, chegando em cima vc é atacado por pessoas de má índole que te enchem de pulseiras guias, te pintam sem q vc peça e depois pedem dinheiro e não deixam vc sair sem pagar... péssimo, horripilante pra quem vem de fora... porém a vista é linda demais, mas vc não consegue aproveitar por conta desses salafrários 😤😡",
+      "gradeComment": 2
+    },
+    {
+      "author": "Hiago Machado",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucrxaJ4_fd6VG77ygjXxFYwGCbG8jNJP6i4TrQxgkCg=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "A vista é linda e o elevador é lindo. Vale super a pena tirar fotografias com o elevador ao fundo ou com a paisagem vista de cima. Infelizmente é nesse local onde ocorre o maior assédio por parte dos “ambulantes” ao perceber que estão falando com turistas. A prefeitura deveria tomar alguma atitude, não se tratam de pessoas tentando vender algo, o que seria bacana, mas se tratam de pessoas tentando coagir turistas a entregar altos valores mediante constrangimento. Os mesmos ainda se irritam após uma resposta negativa. No mais, o elevador é belíssimo!",
+      "gradeComment": 4
+    },
+    {
+      "author": "Denilson Braga",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucqb7MUT3M-ER8S1EbBUry6pgnUfRDYTyIVUkElUfho=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "Além de ser um ponto de ligação entre a cidade baixa e a cidade alta sendo usado pela população em geral, é um excelente ponto turístico. Achei super interessante e tive uma experiência. Vale a pena visitar!",
+      "gradeComment": 4
+    },
+    {
+      "author": "Darlane Senhorinho",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucps_SmdA6ovaczMJcFDjQOAOWjveHpaYf27moEzoQ=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "É  um cartão postal da cidade de Salvador-BA, porém não é algo que se possa  visitar e passar um tempo é  apenas um meio de transporte entre a cidade baixa e a cidade alta. A higiene do local não  é  adequada, as portas do elevador são sujas e o elevador sacode bastante durante o trajeto, uma manutenção pra ajustar essas coisas seria interessante. Porém a vista da parte de cima é belíssima.",
+      "gradeComment": 3
+    },
+    {
+      "author": "Marcelo Sant'ana",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucoX_uaqHREwwmBmmGtY6673aLmZose3Z7ep0rSZTO0=w36-h36-p-c0x00000000-rp-mo-br100",
+      "comment": "Ahhh.... É no mínimo interessante, por ser uma forma de se deslocar da cidade alta para a cidade baixa.... Mas é apenas um elevador. Se tivesse uma vista panorâmica no trajeto aí sim seria fantástico. Mas a vista de cima, ao lado do acesso é bonita para fotografar.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Talita Lelis",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucrpQB6qEUuvjf8DVlkr5MbEkACxDTzm9ENf3c3Lr0E=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "Recomendo a visita ao mirante, não ao elevador.  Até conhecer, eu não fazia ideia de que esse era um transporte público tão usual para os locais - e importante. Isso explica o custo da entrada em 15 centavos. Turisticamente, devemos considerar que é um elevador comum, pelo qual não se deve criar expectativas.  Já o mirante… Que vista!! Infelizmente, na saída, fomos muito incomodados por homens que aguardam turistas ao lado de fora. Essa situação precisa de mais controle porque nos sentimos ameaçados com a agressividade da abordagem.  É possível ir a pé do mirante até o pelourinho e dispensa a ajuda de guias turísticos (serviço muito oferecido por lá).",
+      "gradeComment": 2
+    },
+    {
+      "author": "Geovane Dares",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucoRlzKSQ_GAc8pHZbCWpcI4PMGAdeTSsj1mzkwumGA=w36-h36-p-c0x00000000-rp-mo-ba3-br100",
+      "comment": "Lugar bacana, um pouco desorganizado pois um elevador apenas o que faz você espera bastante e filas enormes e elevador com sua capacidade máxima. Mas mesmo assim vale a pena visitar a vista e exuberante.",
+      "gradeComment": 5
+    }
+  ],
+  "peakHours": [
+    {
+      "Sunday": [
+        {
+          "hour": "06:00",
+          "percent": 1
+        },
+        {
+          "hour": "07:00",
+          "percent": 3
+        },
+        {
+          "hour": "08:00",
+          "percent": 9
+        },
+        {
+          "hour": "09:00",
+          "percent": 21
+        },
+        {
+          "hour": "10:00",
+          "percent": 33
+        },
+        {
+          "hour": "11:00",
+          "percent": 40
+        },
+        {
+          "hour": "12:00",
+          "percent": 41
+        },
+        {
+          "hour": "13:00",
+          "percent": 45
+        },
+        {
+          "hour": "14:00",
+          "percent": 57
+        },
+        {
+          "hour": "15:00",
+          "percent": 74
+        },
+        {
+          "hour": "16:00",
+          "percent": 87
+        },
+        {
+          "hour": "17:00",
+          "percent": 88
+        },
+        {
+          "hour": "18:00",
+          "percent": 78
+        },
+        {
+          "hour": "19:00",
+          "percent": 59
+        },
+        {
+          "hour": "20:00",
+          "percent": 39
+        },
+        {
+          "hour": "21:00",
+          "percent": 22
+        }
+      ]
+    },
+    {
+      "Monday": [
+        {
+          "hour": "06:00",
+          "percent": 3
+        },
+        {
+          "hour": "07:00",
+          "percent": 13
+        },
+        {
+          "hour": "08:00",
+          "percent": 29
+        },
+        {
+          "hour": "09:00",
+          "percent": 48
+        },
+        {
+          "hour": "10:00",
+          "percent": 64
+        },
+        {
+          "hour": "11:00",
+          "percent": 72
+        },
+        {
+          "hour": "12:00",
+          "percent": 74
+        },
+        {
+          "hour": "13:00",
+          "percent": 74
+        },
+        {
+          "hour": "14:00",
+          "percent": 75
+        },
+        {
+          "hour": "15:00",
+          "percent": 73
+        },
+        {
+          "hour": "16:00",
+          "percent": 66
+        },
+        {
+          "hour": "17:00",
+          "percent": 54
+        },
+        {
+          "hour": "18:00",
+          "percent": 38
+        },
+        {
+          "hour": "19:00",
+          "percent": 22
+        },
+        {
+          "hour": "20:00",
+          "percent": 10
+        },
+        {
+          "hour": "21:00",
+          "percent": 3
+        }
+      ]
+    },
+    {
+      "Tuesday": [
+        {
+          "hour": "06:00",
+          "percent": 3
+        },
+        {
+          "hour": "07:00",
+          "percent": 15
+        },
+        {
+          "hour": "08:00",
+          "percent": 35
+        },
+        {
+          "hour": "09:00",
+          "percent": 57
+        },
+        {
+          "hour": "10:00",
+          "percent": 77
+        },
+        {
+          "hour": "11:00",
+          "percent": 89
+        },
+        {
+          "hour": "12:00",
+          "percent": 92
+        },
+        {
+          "hour": "13:00",
+          "percent": 92
+        },
+        {
+          "hour": "14:00",
+          "percent": 95
+        },
+        {
+          "hour": "15:00",
+          "percent": 96
+        },
+        {
+          "hour": "16:00",
+          "percent": 89
+        },
+        {
+          "hour": "17:00",
+          "percent": 69
+        },
+        {
+          "hour": "18:00",
+          "percent": 44
+        },
+        {
+          "hour": "19:00",
+          "percent": 23
+        },
+        {
+          "hour": "20:00",
+          "percent": 10
+        },
+        {
+          "hour": "21:00",
+          "percent": 4
+        }
+      ]
+    },
+    {
+      "Wednesday": [
+        {
+          "hour": "06:00",
+          "percent": 3
+        },
+        {
+          "hour": "07:00",
+          "percent": 16
+        },
+        {
+          "hour": "08:00",
+          "percent": 34
+        },
+        {
+          "hour": "09:00",
+          "percent": 54
+        },
+        {
+          "hour": "10:00",
+          "percent": 72
+        },
+        {
+          "hour": "11:00",
+          "percent": 82
+        },
+        {
+          "hour": "12:00",
+          "percent": 85
+        },
+        {
+          "hour": "13:00",
+          "percent": 83
+        },
+        {
+          "hour": "14:00",
+          "percent": 83
+        },
+        {
+          "hour": "15:00",
+          "percent": 84
+        },
+        {
+          "hour": "16:00",
+          "percent": 80
+        },
+        {
+          "hour": "17:00",
+          "percent": 67
+        },
+        {
+          "hour": "18:00",
+          "percent": 46
+        },
+        {
+          "hour": "19:00",
+          "percent": 27
+        },
+        {
+          "hour": "20:00",
+          "percent": 14
+        },
+        {
+          "hour": "21:00",
+          "percent": 8
+        }
+      ]
+    },
+    {
+      "Thursday": [
+        {
+          "hour": "06:00",
+          "percent": 1
+        },
+        {
+          "hour": "07:00",
+          "percent": 13
+        },
+        {
+          "hour": "08:00",
+          "percent": 32
+        },
+        {
+          "hour": "09:00",
+          "percent": 54
+        },
+        {
+          "hour": "10:00",
+          "percent": 71
+        },
+        {
+          "hour": "11:00",
+          "percent": 77
+        },
+        {
+          "hour": "12:00",
+          "percent": 74
+        },
+        {
+          "hour": "13:00",
+          "percent": 71
+        },
+        {
+          "hour": "14:00",
+          "percent": 74
+        },
+        {
+          "hour": "15:00",
+          "percent": 82
+        },
+        {
+          "hour": "16:00",
+          "percent": 82
+        },
+        {
+          "hour": "17:00",
+          "percent": 70
+        },
+        {
+          "hour": "18:00",
+          "percent": 52
+        },
+        {
+          "hour": "19:00",
+          "percent": 38
+        },
+        {
+          "hour": "20:00",
+          "percent": 33
+        },
+        {
+          "hour": "21:00",
+          "percent": 33
+        }
+      ]
+    },
+    {
+      "Friday": [
+        {
+          "hour": "06:00",
+          "percent": 3
+        },
+        {
+          "hour": "07:00",
+          "percent": 14
+        },
+        {
+          "hour": "08:00",
+          "percent": 30
+        },
+        {
+          "hour": "09:00",
+          "percent": 48
+        },
+        {
+          "hour": "10:00",
+          "percent": 64
+        },
+        {
+          "hour": "11:00",
+          "percent": 74
+        },
+        {
+          "hour": "12:00",
+          "percent": 77
+        },
+        {
+          "hour": "13:00",
+          "percent": 78
+        },
+        {
+          "hour": "14:00",
+          "percent": 81
+        },
+        {
+          "hour": "15:00",
+          "percent": 89
+        },
+        {
+          "hour": "16:00",
+          "percent": 96
+        },
+        {
+          "hour": "17:00",
+          "percent": 95
+        },
+        {
+          "hour": "18:00",
+          "percent": 83
+        },
+        {
+          "hour": "19:00",
+          "percent": 64
+        },
+        {
+          "hour": "20:00",
+          "percent": 45
+        },
+        {
+          "hour": "21:00",
+          "percent": 31
+        }
+      ]
+    },
+    {
+      "Saturday": [
+        {
+          "hour": "06:00",
+          "percent": 1
+        },
+        {
+          "hour": "07:00",
+          "percent": 8
+        },
+        {
+          "hour": "08:00",
+          "percent": 25
+        },
+        {
+          "hour": "09:00",
+          "percent": 47
+        },
+        {
+          "hour": "10:00",
+          "percent": 68
+        },
+        {
+          "hour": "11:00",
+          "percent": 81
+        },
+        {
+          "hour": "12:00",
+          "percent": 80
+        },
+        {
+          "hour": "13:00",
+          "percent": 73
+        },
+        {
+          "hour": "14:00",
+          "percent": 70
+        },
+        {
+          "hour": "15:00",
+          "percent": 77
+        },
+        {
+          "hour": "16:00",
+          "percent": 91
+        },
+        {
+          "hour": "17:00",
+          "percent": 100
+        },
+        {
+          "hour": "18:00",
+          "percent": 94
+        },
+        {
+          "hour": "19:00",
+          "percent": 78
+        },
+        {
+          "hour": "20:00",
+          "percent": 59
+        },
+        {
+          "hour": "21:00",
+          "percent": 43
+        }
+      ]
+    }
+  ],
+  "relatedSearches": [
+    "elevador lacerda história",
+    "elevador lacerda antigo",
+    "elevador lacerda valor",
+    "elevador lacerda por dentro",
+    "elevador lacerda desenho",
+    "elevador lacerda antes e depois",
+    "elevador lacerda altura",
+    "elevador lacerda curiosidades"
+  ],
+  "relateds": [
+    {
+      "mainName": "Mercado Modelo",
+      "url": null
+    },
+    {
+      "mainName": "Farol da Barra - Forte de Santo Antônio da Barra",
+      "url": null
+    },
+    {
+      "mainName": "Centro Histórico de Salvador",
+      "url": null
+    },
+    {
+      "mainName": "Baía de Todos os Santos",
+      "url": null
+    },
+    {
+      "mainName": "Praia do Porto da Barra",
+      "url": null
+    },
+    {
+      "mainName": "Praia do Farol da Barra",
+      "url": null
+    },
+    {
+      "mainName": "Basílica do Senhor do Bonfim",
+      "url": null
+    },
+    {
+      "mainName": "Igreja e Convento de São Francisco",
+      "url": null
+    },
+    {
+      "mainName": "Praça Visconde de Cayru",
+      "url": null
+    },
+    {
+      "mainName": "Palácio Rio Branco",
+      "url": null
+    },
+    {
+      "mainName": "Praça da Sé",
+      "url": null
+    },
+    {
+      "mainName": "Fundação Casa de Jorge Amado",
+      "url": null
+    },
+    {
+      "mainName": "Plano Inclinado do Pilar",
+      "url": null
+    },
+    {
+      "mainName": "Praça Terreiro de Jesus",
+      "url": null
+    },
+    {
+      "mainName": "Forte São Marcelo",
+      "url": null
+    },
+    {
+      "mainName": "Beto Carrero World",
+      "url": null
+    },
+    {
+      "mainName": "Mundo a Vapor",
+      "url": null
+    },
+    {
+      "mainName": "Parque Mutirama",
+      "url": null
+    },
+    {
+      "mainName": "Beach Park",
+      "url": null
+    },
+    {
+      "mainName": "Parque da Mônica",
+      "url": null
+    },
+    {
+      "mainName": "Mirabilandia",
+      "url": null
+    },
+    {
+      "mainName": "Hopi Hari",
+      "url": null
+    },
+    {
+      "mainName": "Catedral Basílica Primacial de São Salvador",
+      "url": null
+    }
+  ]
+}

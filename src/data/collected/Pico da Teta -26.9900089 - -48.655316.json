@@ -1,0 +1,942 @@
+{
+  "mainName": "Pico da Teta",
+  "slug": "pico-da-teta",
+  "category": "Trilha de Caminhada",
+  "locationInformation": {
+    "latitude": "-26.9900089",
+    "longitude": "-48.655316"
+  },
+  "basicInformation": [
+    {
+      "label": "endereço",
+      "tooltip": "Copiar endereço",
+      "text": "Monte Alegre, Camboriú - SC, 88340-000",
+      "icon": "https://www.gstatic.com/images/icons/material/system_gm/1x/place_gm_blue_24dp.png"
+    },
+    {
+      "label": "Code",
+      "tooltip": "Copiar Plus Code",
+      "text": "285V+XV Monte Alegre, Camboriú - SC",
+      "icon": "https://maps.gstatic.com/mapfiles/maps_lite/images/2x/ic_plus_code.png"
+    },
+    {
+      "label": "send-to-device",
+      "text": "Enviar para smartphone",
+      "icon": "https://maps.gstatic.com/consumer/images/icons/1x/send_to_mobile_alt_gm_blue_24dp.png"
+    },
+    {
+      "label": "merchant",
+      "text": "Reivindicar esta empresa",
+      "icon": "https://www.gstatic.com/images/icons/material/system_gm/1x/verified_user_gm_blue_24dp.png"
+    }
+  ],
+  "ratingInformation": {
+    "basicRatingInformation": {
+      "averageGrade": 4.7,
+      "totalOfEvaluations": 258
+    },
+    "ratingsByGrade": [
+      {
+        "grade": 5,
+        "totalRatings": 210
+      },
+      {
+        "grade": 4,
+        "totalRatings": 33
+      },
+      {
+        "grade": 3,
+        "totalRatings": 7
+      },
+      {
+        "grade": 2,
+        "totalRatings": 1
+      },
+      {
+        "grade": 1,
+        "totalRatings": 7
+      }
+    ]
+  },
+  "ratingTags": [
+    {
+      "tag": "água",
+      "count": 10,
+      "tooltip": "água, mencionado em 10 avaliações"
+    },
+    {
+      "tag": "madeira compensada",
+      "count": 8,
+      "tooltip": "madeira compensada, mencionado em 8 avaliações"
+    },
+    {
+      "tag": "ingrime",
+      "count": 8,
+      "tooltip": "ingrime, mencionado em 8 avaliações"
+    },
+    {
+      "tag": "natureza",
+      "count": 8,
+      "tooltip": "natureza, mencionado em 8 avaliações"
+    },
+    {
+      "tag": "carro",
+      "count": 6,
+      "tooltip": "carro, mencionado em 6 avaliações"
+    },
+    {
+      "tag": "cerca",
+      "count": 5,
+      "tooltip": "cerca, mencionado em 5 avaliações"
+    },
+    {
+      "tag": "média",
+      "count": 4,
+      "tooltip": "média, mencionado em 4 avaliações"
+    },
+    {
+      "tag": "acostamento",
+      "count": 3,
+      "tooltip": "acostamento, mencionado em 3 avaliações"
+    },
+    {
+      "tag": "universidade",
+      "count": 3,
+      "tooltip": "universidade, mencionado em 3 avaliações"
+    }
+  ],
+  "featuredPhotos": [
+    "https://lh5.googleusercontent.com/p/AF1QipNN8HBRNf9ETZkURND9cUd9BpnXdLUiagCAx2ah=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipO-x4NTQUjR20lBe21s1tL5D07QEQI7Ldpli-4O=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNkDENBS6T4dgvY-lf6jAiTMU-NdBUl9fWZfB_v=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMVY366W1urf032wYCKDsA0sOatHTmS5Li5WSzP=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNshuet-VJzO_p6hEhZ9fUfXHp8e8J7n3KQWFMB=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPYAWn1Mch1ydJ_NCXz34yJdgskBNet5BgZc0Zn=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPMCuS8hopbxU0hskTjvBINaIO9XG9uqR4ZnMUJ=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOXxilOHF_wRYPFWQQGLAl8eGHIwJA06otH1kYz=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNIcTpKifWSskU_mDDopduhVsp6A8nx_zAlB7BI=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPezTn8AcHausbWCKxV17a7laKxVBJstxoQ4_z8=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipO1zOup9Kc2WQQ-719tt3dKVEQOUeGLxjC1QFFs=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipO2YsHquojxI74KQPJbO0pJt3HdvUIpghmQdpph=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipM5NR7Jih329KSph8EXeLbvsDeVf-uD1UOjRfWT=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOPi1Ztw3fy7swRBIn0UlTIVuyn4MvDOBRXb13Q=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOMmLHlUuoNjP1daBm1IuUdvpoT8MJIle_hfMPU=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNc1ZUW0_fhTZCuyV12VS-z2fA-qLZPcO4zAYsK=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNUtKHxmpaFcaeend5iJFAXphFR4iqEdWO6cNPH=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipO7PZzi7zOrL2hWeDCeGSRRpehGahNs51RrBdA5=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPONd50jyQ-Hwgb0nS5iMIFnORJBMd53KN4-pCR=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipM3OYYaNggPaKRTzuyLTGcE7NzqHAs98-9J4-Ec=w1024-h576-k-no"
+  ],
+  "topComments": [
+    {
+      "author": "Marcio D Avila",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucrc5R1A28WWfUmncg3gzQjDKd8y5y7OMx4TtrHxig=w36-h36-p-c0x00000000-rp-mo-br100",
+      "comment": "O inicio da trilha é um pouco difícil de achar. Fica ao lado de uma fabrica de compensados. Nao tem como deixar o carro perto da entrada. Tem uma cerca sem arame onde seria a entrada na marginal da BR. A trilha é tranquila, relativamente íngrime e a subida demora entre 45min e 1 hora. A vista é incrível vale muito a pena subir.",
+      "gradeComment": 4
+    },
+    {
+      "author": "Judson Martins",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucoI9ixtP3NtN18mZGUjI9lXwd6xlP37YFd8bswPlw=w36-h36-p-c0x00000000-rp-mo-ba2-br100",
+      "comment": "Excelente trilha! Vale muito a pena! Pra chegar ao pico mais alto tem que que escalar umas pedras, o que torna um pouco perigoso pra quem não está preparado, mas já no primeiro mirante a vista é maravilhosa. O acesso a trilha deve ser pela br 101 antes da fabrica de compensados em frente a placa de 60km/h. Não tem nenhuma indicação do lugar",
+      "gradeComment": 5
+    },
+    {
+      "author": "DIONICLEY LUNELLI",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucpj3KMO0P1oEVRpSSO6ouZNhaS5d_C9xMgHIVD6Tw=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "Trilha tranquila de se fazer, mas a vista lá de cima é muito bonita, vale a pena conhecer. Sem contar o balanço que tem quase no final da subida, é uma atração a parte.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Paulo Mendes",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucor7Yz8ErjjK3MHZqAhQbfG9AtltL5uIdb1lcVNQXA=w36-h36-p-c0x00000000-rp-mo-ba3-br100",
+      "comment": "O início da trilha, é confuso mesmo, mas está cerca de 100 mts antes da empresa de compensados (Sentido BC - Itajaí). A caminhada eh moderada, então esteja com condicionamento relativamente bom. Sugestão eh levar água e umas barrinhas de cereais. Lah em cima, vc pode curtir a vista já no primeiro topo, ou se arriscar um pouco mais nas pedras e ir até o topo máximo. A paisagem é realmente linda.",
+      "gradeComment": 4
+    },
+    {
+      "author": "Marcos Gomes Andrade",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucqnz4-_bep5jmjhOdkPhlsc1xUsUrqyqZgT8XLY0wc=w36-h36-p-c0x00000000-rp-mo-ba2-br100",
+      "comment": "Lugar muito bom, tem uma visão ampla das cidades de Balneário Camboriú e Camboriú. Subida rápida mais bem íngrime. Entrada dela fica na marginal da BR 101.",
+      "gradeComment": 5
+    },
+    {
+      "author": "gian Mauricio",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucoad5Eo7jIun9wsI5T3VkEUp6bZsA1dFm1tQGzVfQ=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "Local maravilhoso! Porém não tem nenhuma placa indicando !  a trilha e um pouco difícil para quem não tem preparo ! Levem água !",
+      "gradeComment": 5
+    },
+    {
+      "author": "Renata Alves",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucq9ZBXY_THsBAYzvMX3l8LKMhUfGJ7NKfjduhfhLoI=w36-h36-p-c0x00000000-rp-mo-ba3-br100",
+      "comment": "Trilha super legal de fazer, tem uma distância curta e a vista para cidade é incrível. Eu amei conhecer e fazer  a trilha com meus amigos.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Paulo Henrique",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucp8aFLaYf_0s4T0FmL3DRnQBGgimAnOxHhcwjsE0ow=w36-h36-p-c0x00000000-rp-mo-ba5-br100",
+      "comment": "A trilha é um pouco difícil de achar, pois tem que andar pelo acostamento da estrada praticamente. A trilha não é sinalizada mas não tem como se perder porque o caminho é um só. A vista lá de cima vale a pena, com vista bem aberta para as cidades de Balneário Camboriú e Camboriú. Levem bastante água.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Ibraim Silva",
+      "photoAuthor": "https://lh3.googleusercontent.com/a/AItbvmn2ESlK_huJxjhOL6iFXxwdH5IR8X39zt3fJcEH=w36-h36-p-c0x00000000-rp-mo-ba2-br100",
+      "comment": "Trilha de nível moderado. Pra quem é sedentário o nível é pesado. A vista em dia de sol ou poucas nuvens é deslumbrante. O acesso ao lado da fábrica de compensados, a 150 metros do crematório, na marginal da 101. O antigo acesso pela universidade não está mais disponível, mas dá pra deixar o carro lá e seguir esses 150 metros contornando o crematório e ao lado dessa fábrica (galpoes) tem o acesso. Da pra ver até Itajaí de um dos pontos.",
+      "gradeComment": 5
+    },
+    {
+      "author": "JACSON WILLIAM",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucoRgbcQZlf5oQQupKBM1WalqEx1fTzNTp55gCtpfg=w36-h36-p-c0x00000000-rp-mo-ba3-br100",
+      "comment": "É um lugar para quem quer sair do comodismo! É ima trilha pública e todos podem ir, entretanto, aconselho a irem acompanhados se não possuírem experiência em subidas. É um aclive elevado de uma montanha, não há muita dificuldade até próximo ao topo em que o percurso dificulta. Amei a experiência, apesar da dificuldade, ao conquistar o topo, a visão é magnífica: Prédios. Casas, carros, árvores e o exuberante mar. É uma experiência incrível e inesquecível para toda a família: Com toda certeza recomendo!",
+      "gradeComment": 5
+    },
+    {
+      "author": "Marcia Dal Pizzol",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucpHjnEqlMm3iq3gc4GUgRPSnsSTwZHIyB40Q2nS3Q=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "Bico/Pico da Teta ou Morro do Gavião... os lugares são os mesmos, estudei os trajetos oferecidos pelas avaliações e nenhum deles me levou ao início da trilha. Fomos sentido crematorio/uniavan, mas fomos informados que o proprietário do local, pelo menos do ínicio da trilha fechou o acesso. Em compensação uma moradora nos informou um caminho alternativo, neste foi fácil de encontrar. Deixamos o carro em uma empresa as margens da marginal (Fábrica de compensados) e seguimos sentido aos carreiros. No início foi punk, pelos desníveis do terreno, e depois o que ajuda na subida bem íngreme são as raízes da vegetação que formam uma espécie de escadas. Todo o cuidado se faz necessário Levei meus filhos menores, mas não recomendo, pelo menos não por esse trajeto! A vista é incrível.",
+      "gradeComment": 4
+    },
+    {
+      "author": "Simone Deda",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucqxk0MuGTz47b91pmcYS6tSU7dnz5jYquuUntfH=w36-h36-p-c0x00000000-rp-mo-ba5-br100",
+      "comment": "A Trilha do Pico da Teta ou Morro do Gavião, fica localizada na cidade de Balneário Camboriú, Santa Catarina. Obs: a entrada da trilha fica em uma ruazinha que passa por frente o portão da faculdade. Vai até o final da rua e depois segue a trilha. Tudo está bem sinalizado. O pico chega a uma altitude de 280m acima do nível do mar, ele proporciona uma vista de 360 graus A trilha é curta, cerca de meia hora de caminhada, porém por um trajeto bem íngrime em mata fechada. Apesar do céu estar coberto por uma névoa estava divino. Nosso conselho é sair bem cedinho  e pegar o nascer só sol lá de cima.",
+      "gradeComment": 5
+    },
+    {
+      "author": "dalva michelon",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucrHHuuexZdtIdTujdGbZ8M2ftK0IrkuIR7eOeIx-8U=w36-h36-p-c0x00000000-rp-mo-br100",
+      "comment": "Bela trilha, média dificuldade, lindo visual qdo se chega ao topo.",
+      "gradeComment": 4
+    },
+    {
+      "author": "Rodolfo Marques Bombonato",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucq8y06CBQcorU42kKUw1rnUplpsxcNhGD8t9siC2N8=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "Mirante incrível! Segundo a Previsão do próprio Google, o sol nasce por volta das 6:00 horas da manhã. Serão em torno de 25 a 30 minutos de caminhada até o primeiro ponto onde é possível observar toda Balneário Camboriú. Para subir até o pinheiro, mais 10 minutos.  É recomendado roupas que ofereçam flexibilidade, pois exigirá escaladas em algumas pedras. Calçados como coturnos ou botas oferecem mais proteção e segurança. Leve água e coma algo durante ou antes da trilha.  OBS: NÃO existem placas ou métodos mais arrojados de orientações, apenas alças de sacolas plásticas amarradas em algumas árvores. Na volta, existe uma bifurcação que, estando atento, existe uma marcação com plastico a direita, orientando para a trilha. Seguindo reto e continuando a descida, você encontrará um córrego. Não tem problema, continue seguindo o rio até um trecho que será possível observar uma cerca a direita. Suba nesta parte e já será possível identificar a saída (passará através de uma propriedade).  Boa jornada! 22.09.2018.",
+      "gradeComment": 4
+    },
+    {
+      "author": "Thalita Neres",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucoaUbYvxT8fsZ1dv70yPdeCZ4d9i6uULEQOP9qLkR0=w36-h36-p-c0x00000000-rp-mo-ba3-br100",
+      "comment": "Trilha tranquila, de fácil acesso e não precisa de guia. De media dificuldade para iniciante. Preferível usar bota, há algumas partes ingrimes, mas a vista vale a pena. Levem água!",
+      "gradeComment": 5
+    },
+    {
+      "author": "EFRATA CRIACIONISTA",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucpSBAoVvGePJbQ3BCxzBgkQ_GWIfMBBPiCXwog9VA=w36-h36-p-c0x00000000-rp-mo-ba5-br100",
+      "comment": "Subi muitas e muitas vezes nesse local uma ótima vista de BAL.CAMBORIU e camboriu a entrada da trilha é um pouco ruim de achar. A um umas empresas ali na entrada  do morro que tem um vigia se você conseguir conversar com ele o senhor vai indicar qual caminho deve pegar. Tem que cuidar com a descida pois pode acabar pegando a trilha errada e sair atrás do fórum que é  muito complicado pois não a caminho.  Vale a pena",
+      "gradeComment": 5
+    },
+    {
+      "author": "Péricles Ribeiro",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucoXwiIEHD3O1IquZdG1ZpXU22ges3yV4-yjZqisNQ=w36-h36-p-c0x00000000-rp-mo-ba3-br100",
+      "comment": "Uma trilha moderada, bem íngreme, vista excepcional. Em torno de 40 minutos indo tranquilo você chega no ponto mais alto. Se chover, fica impossível, é bom estar atento à previsão do tempo. Leve ao menos 300ml de água por pessoa. Lá em cima tem vários lugares para tirar foto. Não sei se era apenas no dia que fui, mas não vimos ninguém mais fazendo a trilha no tempo que ficamos lá. Na entrada tem uma universidade que dá pra deixar o carro. Muito boa!",
+      "gradeComment": 5
+    },
+    {
+      "author": "Paloma S.",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucoxtqj8uyOSdWqqrHHQ0IRKYqr2BCZ5DKzYL5zbBW0=w36-h36-p-c0x00000000-rp-mo-ba3-br100",
+      "comment": "A trilha é bem cansativa e tem uma parte perigosa, mas a visão de lá de cima é linda demais.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Rose Meire",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucrXkPZgz9uGycFRyJf6w_wtOvhDmvBuoGoxJcuFgQ=w36-h36-p-c0x00000000-rp-mo-ba2-br100",
+      "comment": "Incrível,  eu nunca havia realizado um trilha, esta foi uma boa experiência.  Uma subida bem ingrime em meio a vegetações.  Bom ir de calças bem leve e coturnos, ou tênis mas que seja de solado mais para trilha e não liso. Leve água,  pois a subida exige hidratação.   Olhe bem o caminho que ajuda no retorno. E chegando lá em cima aproveite o máximo, pois é maravilhoso. Eu pude sentir paz naquele lugar lindo de vista maravilhosa. Bom passeio!",
+      "gradeComment": 5
+    },
+    {
+      "author": "Marcelo Fernandes",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucpnNAfgSjOAxeefN66GhBpUGVsoJaw5Gt-WVvcvYA=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "Ótimo pra fazer trilhas em Camboriu, contato com a natureza, vista da cidade toda, uma maravilha de lugar",
+      "gradeComment": 5
+    }
+  ],
+  "peakHours": [
+    {
+      "Sunday": [
+        {
+          "hour": "04:00",
+          "percent": 4
+        },
+        {
+          "hour": "05:00",
+          "percent": 14
+        },
+        {
+          "hour": "06:00",
+          "percent": 19
+        },
+        {
+          "hour": "07:00",
+          "percent": 33
+        },
+        {
+          "hour": "08:00",
+          "percent": 52
+        },
+        {
+          "hour": "09:00",
+          "percent": 66
+        },
+        {
+          "hour": "10:00",
+          "percent": 80
+        },
+        {
+          "hour": "11:00",
+          "percent": 95
+        },
+        {
+          "hour": "12:00",
+          "percent": 100
+        },
+        {
+          "hour": "13:00",
+          "percent": 100
+        },
+        {
+          "hour": "14:00",
+          "percent": 100
+        },
+        {
+          "hour": "15:00",
+          "percent": 90
+        },
+        {
+          "hour": "16:00",
+          "percent": 80
+        },
+        {
+          "hour": "17:00",
+          "percent": 66
+        },
+        {
+          "hour": "18:00",
+          "percent": 47
+        },
+        {
+          "hour": "19:00",
+          "percent": 28
+        },
+        {
+          "hour": "20:00",
+          "percent": 9
+        },
+        {
+          "hour": "21:00",
+          "percent": 4
+        },
+        {
+          "hour": "22:00",
+          "percent": 4
+        },
+        {
+          "hour": "23:00",
+          "percent": 4
+        },
+        {
+          "hour": "00:00",
+          "percent": 4
+        },
+        {
+          "hour": "01:00",
+          "percent": 4
+        },
+        {
+          "hour": "02:00",
+          "percent": 4
+        },
+        {
+          "hour": "03:00",
+          "percent": 4
+        }
+      ]
+    },
+    {
+      "Monday": [
+        {
+          "hour": "04:00",
+          "percent": 4
+        },
+        {
+          "hour": "05:00",
+          "percent": 4
+        },
+        {
+          "hour": "06:00",
+          "percent": 4
+        },
+        {
+          "hour": "07:00",
+          "percent": 4
+        },
+        {
+          "hour": "08:00",
+          "percent": 4
+        },
+        {
+          "hour": "09:00",
+          "percent": 4
+        },
+        {
+          "hour": "10:00",
+          "percent": 4
+        },
+        {
+          "hour": "12:00",
+          "percent": 4
+        },
+        {
+          "hour": "18:00",
+          "percent": 4
+        },
+        {
+          "hour": "19:00",
+          "percent": 4
+        },
+        {
+          "hour": "20:00",
+          "percent": 9
+        },
+        {
+          "hour": "21:00",
+          "percent": 4
+        },
+        {
+          "hour": "22:00",
+          "percent": 4
+        },
+        {
+          "hour": "23:00",
+          "percent": 4
+        },
+        {
+          "hour": "00:00",
+          "percent": 4
+        },
+        {
+          "hour": "01:00",
+          "percent": 4
+        },
+        {
+          "hour": "02:00",
+          "percent": 4
+        },
+        {
+          "hour": "03:00",
+          "percent": 4
+        }
+      ]
+    },
+    {
+      "Tuesday": [
+        {
+          "hour": "04:00",
+          "percent": 4
+        },
+        {
+          "hour": "05:00",
+          "percent": 4
+        },
+        {
+          "hour": "06:00",
+          "percent": 4
+        },
+        {
+          "hour": "07:00",
+          "percent": 4
+        },
+        {
+          "hour": "08:00",
+          "percent": 4
+        },
+        {
+          "hour": "09:00",
+          "percent": 4
+        },
+        {
+          "hour": "10:00",
+          "percent": 4
+        },
+        {
+          "hour": "11:00",
+          "percent": 4
+        },
+        {
+          "hour": "15:00",
+          "percent": 4
+        },
+        {
+          "hour": "16:00",
+          "percent": 4
+        },
+        {
+          "hour": "17:00",
+          "percent": 4
+        },
+        {
+          "hour": "18:00",
+          "percent": 4
+        },
+        {
+          "hour": "19:00",
+          "percent": 4
+        },
+        {
+          "hour": "20:00",
+          "percent": 4
+        },
+        {
+          "hour": "21:00",
+          "percent": 4
+        },
+        {
+          "hour": "22:00",
+          "percent": 4
+        },
+        {
+          "hour": "23:00",
+          "percent": 9
+        },
+        {
+          "hour": "00:00",
+          "percent": 9
+        },
+        {
+          "hour": "01:00",
+          "percent": 9
+        },
+        {
+          "hour": "02:00",
+          "percent": 4
+        },
+        {
+          "hour": "03:00",
+          "percent": 4
+        }
+      ]
+    },
+    {
+      "Wednesday": [
+        {
+          "hour": "04:00",
+          "percent": 4
+        },
+        {
+          "hour": "05:00",
+          "percent": 9
+        },
+        {
+          "hour": "06:00",
+          "percent": 14
+        },
+        {
+          "hour": "07:00",
+          "percent": 14
+        },
+        {
+          "hour": "08:00",
+          "percent": 14
+        },
+        {
+          "hour": "09:00",
+          "percent": 9
+        },
+        {
+          "hour": "10:00",
+          "percent": 4
+        },
+        {
+          "hour": "11:00",
+          "percent": 4
+        },
+        {
+          "hour": "12:00",
+          "percent": 4
+        },
+        {
+          "hour": "13:00",
+          "percent": 4
+        },
+        {
+          "hour": "14:00",
+          "percent": 4
+        },
+        {
+          "hour": "17:00",
+          "percent": 4
+        },
+        {
+          "hour": "18:00",
+          "percent": 4
+        },
+        {
+          "hour": "19:00",
+          "percent": 4
+        },
+        {
+          "hour": "20:00",
+          "percent": 4
+        },
+        {
+          "hour": "21:00",
+          "percent": 4
+        },
+        {
+          "hour": "22:00",
+          "percent": 4
+        },
+        {
+          "hour": "23:00",
+          "percent": 4
+        },
+        {
+          "hour": "00:00",
+          "percent": 4
+        },
+        {
+          "hour": "01:00",
+          "percent": 4
+        },
+        {
+          "hour": "02:00",
+          "percent": 4
+        },
+        {
+          "hour": "03:00",
+          "percent": 4
+        }
+      ]
+    },
+    {
+      "Thursday": [
+        {
+          "hour": "04:00",
+          "percent": 4
+        },
+        {
+          "hour": "05:00",
+          "percent": 4
+        },
+        {
+          "hour": "06:00",
+          "percent": 4
+        },
+        {
+          "hour": "07:00",
+          "percent": 4
+        },
+        {
+          "hour": "08:00",
+          "percent": 4
+        },
+        {
+          "hour": "09:00",
+          "percent": 4
+        },
+        {
+          "hour": "10:00",
+          "percent": 4
+        },
+        {
+          "hour": "11:00",
+          "percent": 4
+        },
+        {
+          "hour": "12:00",
+          "percent": 4
+        },
+        {
+          "hour": "13:00",
+          "percent": 4
+        },
+        {
+          "hour": "14:00",
+          "percent": 4
+        },
+        {
+          "hour": "15:00",
+          "percent": 4
+        },
+        {
+          "hour": "16:00",
+          "percent": 4
+        },
+        {
+          "hour": "17:00",
+          "percent": 4
+        },
+        {
+          "hour": "18:00",
+          "percent": 14
+        },
+        {
+          "hour": "19:00",
+          "percent": 14
+        },
+        {
+          "hour": "20:00",
+          "percent": 19
+        },
+        {
+          "hour": "21:00",
+          "percent": 19
+        },
+        {
+          "hour": "22:00",
+          "percent": 19
+        },
+        {
+          "hour": "23:00",
+          "percent": 19
+        },
+        {
+          "hour": "00:00",
+          "percent": 19
+        },
+        {
+          "hour": "01:00",
+          "percent": 14
+        },
+        {
+          "hour": "02:00",
+          "percent": 9
+        },
+        {
+          "hour": "03:00",
+          "percent": 4
+        }
+      ]
+    },
+    {
+      "Friday": [
+        {
+          "hour": "04:00",
+          "percent": 4
+        },
+        {
+          "hour": "05:00",
+          "percent": 4
+        },
+        {
+          "hour": "06:00",
+          "percent": 4
+        },
+        {
+          "hour": "07:00",
+          "percent": 4
+        },
+        {
+          "hour": "08:00",
+          "percent": 4
+        },
+        {
+          "hour": "09:00",
+          "percent": 4
+        },
+        {
+          "hour": "10:00",
+          "percent": 4
+        },
+        {
+          "hour": "11:00",
+          "percent": 4
+        },
+        {
+          "hour": "12:00",
+          "percent": 4
+        },
+        {
+          "hour": "13:00",
+          "percent": 4
+        },
+        {
+          "hour": "14:00",
+          "percent": 4
+        },
+        {
+          "hour": "15:00",
+          "percent": 4
+        },
+        {
+          "hour": "16:00",
+          "percent": 4
+        },
+        {
+          "hour": "17:00",
+          "percent": 4
+        },
+        {
+          "hour": "18:00",
+          "percent": 4
+        },
+        {
+          "hour": "19:00",
+          "percent": 4
+        },
+        {
+          "hour": "20:00",
+          "percent": 9
+        },
+        {
+          "hour": "21:00",
+          "percent": 9
+        },
+        {
+          "hour": "22:00",
+          "percent": 9
+        },
+        {
+          "hour": "23:00",
+          "percent": 9
+        },
+        {
+          "hour": "00:00",
+          "percent": 9
+        },
+        {
+          "hour": "01:00",
+          "percent": 9
+        },
+        {
+          "hour": "02:00",
+          "percent": 9
+        },
+        {
+          "hour": "03:00",
+          "percent": 9
+        }
+      ]
+    },
+    {
+      "Saturday": [
+        {
+          "hour": "04:00",
+          "percent": 4
+        },
+        {
+          "hour": "05:00",
+          "percent": 4
+        },
+        {
+          "hour": "06:00",
+          "percent": 9
+        },
+        {
+          "hour": "07:00",
+          "percent": 19
+        },
+        {
+          "hour": "08:00",
+          "percent": 33
+        },
+        {
+          "hour": "09:00",
+          "percent": 47
+        },
+        {
+          "hour": "10:00",
+          "percent": 57
+        },
+        {
+          "hour": "11:00",
+          "percent": 52
+        },
+        {
+          "hour": "12:00",
+          "percent": 47
+        },
+        {
+          "hour": "13:00",
+          "percent": 38
+        },
+        {
+          "hour": "14:00",
+          "percent": 38
+        },
+        {
+          "hour": "15:00",
+          "percent": 38
+        },
+        {
+          "hour": "16:00",
+          "percent": 33
+        },
+        {
+          "hour": "17:00",
+          "percent": 33
+        },
+        {
+          "hour": "18:00",
+          "percent": 28
+        },
+        {
+          "hour": "19:00",
+          "percent": 23
+        },
+        {
+          "hour": "20:00",
+          "percent": 19
+        },
+        {
+          "hour": "21:00",
+          "percent": 14
+        },
+        {
+          "hour": "22:00",
+          "percent": 9
+        },
+        {
+          "hour": "23:00",
+          "percent": 4
+        },
+        {
+          "hour": "00:00",
+          "percent": 4
+        },
+        {
+          "hour": "01:00",
+          "percent": 4
+        },
+        {
+          "hour": "02:00",
+          "percent": 4
+        },
+        {
+          "hour": "03:00",
+          "percent": 4
+        }
+      ]
+    }
+  ],
+  "relatedSearches": [
+    "pico da pedra",
+    "trilha pico da pedra",
+    "trilha do morro da aguada",
+    "trilhas em balneário camboriú",
+    "trilha do morro do macaco",
+    "trilhas em santa catarina",
+    "picos em balneário camboriú",
+    "cachoeiras em camboriú"
+  ],
+  "relateds": [
+    {
+      "mainName": "Morro do Gavião",
+      "url": null
+    },
+    {
+      "mainName": "Pico da Pedra - Camboriú SC",
+      "url": null
+    },
+    {
+      "mainName": "Complexo Turístico do Morro do Careca",
+      "url": null
+    },
+    {
+      "mainName": "Cristo Luz",
+      "url": null
+    },
+    {
+      "mainName": "Praia Brava",
+      "url": null
+    }
+  ]
+}

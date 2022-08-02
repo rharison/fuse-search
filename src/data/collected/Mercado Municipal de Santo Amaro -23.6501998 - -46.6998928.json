@@ -1,0 +1,508 @@
+{
+  "mainName": "Mercado Municipal de Santo Amaro",
+  "slug": "mercado-municipal-de-santo-amaro",
+  "category": "Mercado",
+  "locationInformation": {
+    "latitude": "-23.6501998",
+    "longitude": "-46.6998928"
+  },
+  "basicInformation": [
+    {
+      "label": "endereço",
+      "tooltip": "Copiar endereço",
+      "text": "R. Min. Roberto Cardoso Alves, 359 - Santo Amaro, São Paulo - SP, 04742-001",
+      "icon": "https://www.gstatic.com/images/icons/material/system_gm/1x/place_gm_blue_24dp.png"
+    },
+    {
+      "label": "website",
+      "tooltip": "Abrir website",
+      "text": "stomercado.com",
+      "icon": "https://www.gstatic.com/images/icons/material/system_gm/1x/public_gm_blue_24dp.png"
+    },
+    {
+      "label": "Code",
+      "tooltip": "Copiar Plus Code",
+      "text": "88X2+W2 São Paulo, SP",
+      "icon": "https://maps.gstatic.com/mapfiles/maps_lite/images/2x/ic_plus_code.png"
+    }
+  ],
+  "ratingInformation": {
+    "basicRatingInformation": {
+      "averageGrade": 4.1,
+      "totalOfEvaluations": 2650
+    },
+    "ratingsByGrade": [
+      {
+        "grade": 5,
+        "totalRatings": 1226
+      },
+      {
+        "grade": 4,
+        "totalRatings": 758
+      },
+      {
+        "grade": 3,
+        "totalRatings": 412
+      },
+      {
+        "grade": 2,
+        "totalRatings": 145
+      },
+      {
+        "grade": 1,
+        "totalRatings": 109
+      }
+    ]
+  },
+  "ratingTags": [
+    {
+      "tag": "restaurantes",
+      "count": 46,
+      "tooltip": "restaurantes, mencionado em 46 avaliações"
+    },
+    {
+      "tag": "pastel",
+      "count": 33,
+      "tooltip": "pastel, mencionado em 33 avaliações"
+    },
+    {
+      "tag": "almoçar",
+      "count": 26,
+      "tooltip": "almoçar, mencionado em 26 avaliações"
+    },
+    {
+      "tag": "reforma",
+      "count": 19,
+      "tooltip": "reforma, mencionado em 19 avaliações"
+    },
+    {
+      "tag": "verduras",
+      "count": 19,
+      "tooltip": "verduras, mencionado em 19 avaliações"
+    },
+    {
+      "tag": "triste",
+      "count": 17,
+      "tooltip": "triste, mencionado em 17 avaliações"
+    },
+    {
+      "tag": "importados",
+      "count": 12,
+      "tooltip": "importados, mencionado em 12 avaliações"
+    },
+    {
+      "tag": "bacalhau",
+      "count": 10,
+      "tooltip": "bacalhau, mencionado em 10 avaliações"
+    },
+    {
+      "tag": "floricultura",
+      "count": 7,
+      "tooltip": "floricultura, mencionado em 7 avaliações"
+    },
+    {
+      "tag": "galpão",
+      "count": 6,
+      "tooltip": "galpão, mencionado em 6 avaliações"
+    }
+  ],
+  "featuredPhotos": [
+    "https://lh5.googleusercontent.com/p/AF1QipPlhQq6RY0EPYSECjIdysf29MPBzoda3Jz5uHdY=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPPSbZbVaqP_fK6Zv2rKasmZmauSnsa0ioDOwFa=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOGDZEFhmzxuXai0rWmVl4pgRUVRIKZ0fJi4JaJ=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNKYFiWtLqcKj6dBCzfSdAYQeey0o-JaMRl9hLn=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPCjK3yXCXgWx6lBdnKFYpCzZtzkQBrwZ8lDOwr=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPw0RGKaoAj93ko2Vx40TQQexrFywUtQwoxdQqc=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMOyj6d2Kk5B1yIVMEfH-VLxzD2ObesRrBkoJns=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMUEQd5fvXnGiN8Alxi3KTmRL3XunLh-RCwT9o5=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMsXR1CDm1roYQLLTN1ifo1WEkeA35kBpz9e9nV=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPceWft3jdWSLh_YRgzNgLM2KxvtgZuQU67YI17=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMGhkl_BDmIhP0ZGx0mPhz5gkOI526jzMHB5_3H=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPqA-4UUkudbOd_N_h8vngETvePhe3jm2oixpy9=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipM3epnDqJF0Ev9KI9D26UAmt7nZm9b8REqEUE0h=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPNF_XFPsef4AzLr8h6PwE7tVybNu1RLl5dyGOc=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMEs_NVyw0QqzUvJ5LTfQkAtppEZOizUIqA_0Yx=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOm9UuAWRbqs5cF7a_ZnhhjPuatjfrfrrhCLkFD=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNu5k8f_abLGYZi5nBVlv2T-WDTLn15M2JXkSd_=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipON7m8j5SjmQuZI6U1l5honCvWLU3Bo-0T_5n_j=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPoONRE7gd-ACZJs6atjK5F6PYB-L-5jujhct2l=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipO9mDNrlADbcoacAaS1I2BqfPgfPlSMvOSOvwmt=w1024-h576-k-no"
+  ],
+  "topComments": null,
+  "peakHours": [
+    {
+      "Sunday": []
+    },
+    {
+      "Monday": [
+        {
+          "hour": "08:00",
+          "percent": 64
+        },
+        {
+          "hour": "09:00",
+          "percent": 79
+        },
+        {
+          "hour": "10:00",
+          "percent": 87
+        },
+        {
+          "hour": "11:00",
+          "percent": 90
+        },
+        {
+          "hour": "12:00",
+          "percent": 93
+        },
+        {
+          "hour": "13:00",
+          "percent": 95
+        },
+        {
+          "hour": "14:00",
+          "percent": 92
+        },
+        {
+          "hour": "15:00",
+          "percent": 81
+        },
+        {
+          "hour": "16:00",
+          "percent": 64
+        },
+        {
+          "hour": "17:00",
+          "percent": 45
+        },
+        {
+          "hour": "18:00",
+          "percent": 29
+        }
+      ]
+    },
+    {
+      "Tuesday": [
+        {
+          "hour": "08:00",
+          "percent": 72
+        },
+        {
+          "hour": "09:00",
+          "percent": 88
+        },
+        {
+          "hour": "10:00",
+          "percent": 93
+        },
+        {
+          "hour": "11:00",
+          "percent": 92
+        },
+        {
+          "hour": "12:00",
+          "percent": 91
+        },
+        {
+          "hour": "13:00",
+          "percent": 94
+        },
+        {
+          "hour": "14:00",
+          "percent": 94
+        },
+        {
+          "hour": "15:00",
+          "percent": 86
+        },
+        {
+          "hour": "16:00",
+          "percent": 72
+        },
+        {
+          "hour": "17:00",
+          "percent": 53
+        },
+        {
+          "hour": "18:00",
+          "percent": 35
+        }
+      ]
+    },
+    {
+      "Wednesday": [
+        {
+          "hour": "08:00",
+          "percent": 75
+        },
+        {
+          "hour": "09:00",
+          "percent": 92
+        },
+        {
+          "hour": "10:00",
+          "percent": 99
+        },
+        {
+          "hour": "11:00",
+          "percent": 99
+        },
+        {
+          "hour": "12:00",
+          "percent": 99
+        },
+        {
+          "hour": "13:00",
+          "percent": 99
+        },
+        {
+          "hour": "14:00",
+          "percent": 97
+        },
+        {
+          "hour": "15:00",
+          "percent": 87
+        },
+        {
+          "hour": "16:00",
+          "percent": 72
+        },
+        {
+          "hour": "17:00",
+          "percent": 54
+        },
+        {
+          "hour": "18:00",
+          "percent": 36
+        }
+      ]
+    },
+    {
+      "Thursday": [
+        {
+          "hour": "08:00",
+          "percent": 65
+        },
+        {
+          "hour": "09:00",
+          "percent": 87
+        },
+        {
+          "hour": "10:00",
+          "percent": 99
+        },
+        {
+          "hour": "11:00",
+          "percent": 100
+        },
+        {
+          "hour": "12:00",
+          "percent": 95
+        },
+        {
+          "hour": "13:00",
+          "percent": 91
+        },
+        {
+          "hour": "14:00",
+          "percent": 90
+        },
+        {
+          "hour": "15:00",
+          "percent": 86
+        },
+        {
+          "hour": "16:00",
+          "percent": 74
+        },
+        {
+          "hour": "17:00",
+          "percent": 57
+        },
+        {
+          "hour": "18:00",
+          "percent": 37
+        }
+      ]
+    },
+    {
+      "Friday": [
+        {
+          "hour": "08:00",
+          "percent": 70
+        },
+        {
+          "hour": "09:00",
+          "percent": 86
+        },
+        {
+          "hour": "10:00",
+          "percent": 95
+        },
+        {
+          "hour": "11:00",
+          "percent": 98
+        },
+        {
+          "hour": "12:00",
+          "percent": 98
+        },
+        {
+          "hour": "13:00",
+          "percent": 95
+        },
+        {
+          "hour": "14:00",
+          "percent": 88
+        },
+        {
+          "hour": "15:00",
+          "percent": 76
+        },
+        {
+          "hour": "16:00",
+          "percent": 61
+        },
+        {
+          "hour": "17:00",
+          "percent": 44
+        },
+        {
+          "hour": "18:00",
+          "percent": 30
+        }
+      ]
+    },
+    {
+      "Saturday": [
+        {
+          "hour": "08:00",
+          "percent": 35
+        },
+        {
+          "hour": "09:00",
+          "percent": 54
+        },
+        {
+          "hour": "10:00",
+          "percent": 71
+        },
+        {
+          "hour": "11:00",
+          "percent": 80
+        },
+        {
+          "hour": "12:00",
+          "percent": 77
+        },
+        {
+          "hour": "13:00",
+          "percent": 69
+        },
+        {
+          "hour": "14:00",
+          "percent": 61
+        },
+        {
+          "hour": "15:00",
+          "percent": 57
+        },
+        {
+          "hour": "16:00",
+          "percent": 53
+        },
+        {
+          "hour": "17:00",
+          "percent": 43
+        },
+        {
+          "hour": "18:00",
+          "percent": 28
+        }
+      ]
+    }
+  ],
+  "relatedSearches": null,
+  "relateds": [
+    {
+      "mainName": "Sacolão Da Prefeitura",
+      "url": null
+    },
+    {
+      "mainName": "Santo Amaro Hortifruti",
+      "url": null
+    },
+    {
+      "mainName": "Mercado Municipal de São Paulo",
+      "url": null
+    },
+    {
+      "mainName": "Mercado Municipal de Pinheiros",
+      "url": null
+    },
+    {
+      "mainName": "Emporium Santo Amaro",
+      "url": null
+    },
+    {
+      "mainName": "Lameiro Mercearia",
+      "url": null
+    },
+    {
+      "mainName": "Sacolao Sto Amaro",
+      "url": null
+    },
+    {
+      "mainName": "Mercado Municipal Kinjo Yamato",
+      "url": null
+    },
+    {
+      "mainName": "Feira Santo Amaro",
+      "url": null
+    },
+    {
+      "mainName": "Peixaria Anchieta",
+      "url": null
+    },
+    {
+      "mainName": "Sacolão Novo Santo Amaro",
+      "url": null
+    },
+    {
+      "mainName": "Hortifruti Kote",
+      "url": null
+    },
+    {
+      "mainName": "Mercearia & Produtos Naturais Casarão",
+      "url": null
+    },
+    {
+      "mainName": "Mercado Municipal de Santo André",
+      "url": null
+    },
+    {
+      "mainName": "Mercadão Municipal Vila Formosa",
+      "url": null
+    },
+    {
+      "mainName": "Mercado Municipal de Tucuruvi",
+      "url": null
+    },
+    {
+      "mainName": "MercadoCar Santo Amaro",
+      "url": null
+    },
+    {
+      "mainName": "Hortifruti Anchieta",
+      "url": null
+    },
+    {
+      "mainName": "Sacolão Municipal João Moura",
+      "url": null
+    },
+    {
+      "mainName": "Mercado Ipiranga",
+      "url": null
+    }
+  ]
+}

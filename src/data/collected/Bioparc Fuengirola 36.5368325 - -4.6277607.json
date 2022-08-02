@@ -1,0 +1,875 @@
+{
+  "mainName": "Bioparc Fuengirola",
+  "slug": "bioparc-fuengirola",
+  "category": "Zoológico",
+  "locationInformation": {
+    "latitude": "36.5368325",
+    "longitude": "-4.6277607"
+  },
+  "basicInformation": [
+    {
+      "label": "endereço",
+      "tooltip": "Copiar endereço",
+      "text": "C. Camilo José Cela, 6, y 8, 29640 Fuengirola, Málaga, Espanha",
+      "icon": "https://www.gstatic.com/images/icons/material/system_gm/1x/place_gm_blue_24dp.png"
+    },
+    {
+      "label": "website",
+      "tooltip": "Abrir website",
+      "text": "bioparcfuengirola.es",
+      "icon": "https://www.gstatic.com/images/icons/material/system_gm/1x/public_gm_blue_24dp.png"
+    },
+    {
+      "label": "telefone",
+      "tooltip": "Copiar número de telefone",
+      "text": "+34 952 66 63 01",
+      "icon": "https://www.gstatic.com/images/icons/material/system_gm/1x/phone_gm_blue_24dp.png"
+    },
+    {
+      "label": "Code",
+      "tooltip": "Copiar Plus Code",
+      "text": "G9PC+PV Fuengirola, Espanha",
+      "icon": "https://maps.gstatic.com/mapfiles/maps_lite/images/2x/ic_plus_code.png"
+    }
+  ],
+  "ratingInformation": {
+    "basicRatingInformation": {
+      "averageGrade": 4.4,
+      "totalOfEvaluations": 13361
+    },
+    "ratingsByGrade": [
+      {
+        "grade": 5,
+        "totalRatings": 8393
+      },
+      {
+        "grade": 4,
+        "totalRatings": 3348
+      },
+      {
+        "grade": 3,
+        "totalRatings": 1012
+      },
+      {
+        "grade": 2,
+        "totalRatings": 279
+      },
+      {
+        "grade": 1,
+        "totalRatings": 329
+      }
+    ]
+  },
+  "ratingTags": [
+    {
+      "tag": "cheio",
+      "count": 5,
+      "tooltip": "cheio, mencionado em 5 avaliações"
+    },
+    {
+      "tag": "espectáculos",
+      "count": 243,
+      "tooltip": "espectáculos, mencionado em 243 avaliações"
+    },
+    {
+      "tag": "lemuroidea",
+      "count": 140,
+      "tooltip": "lemuroidea, mencionado em 140 avaliações"
+    },
+    {
+      "tag": "gorila",
+      "count": 126,
+      "tooltip": "gorila, mencionado em 126 avaliações"
+    },
+    {
+      "tag": "ambientação",
+      "count": 57,
+      "tooltip": "ambientação, mencionado em 57 avaliações"
+    },
+    {
+      "tag": "floresta húmida",
+      "count": 33,
+      "tooltip": "floresta húmida, mencionado em 33 avaliações"
+    },
+    {
+      "tag": "diversidade",
+      "count": 31,
+      "tooltip": "diversidade, mencionado em 31 avaliações"
+    },
+    {
+      "tag": "dragão-de-komodo",
+      "count": 29,
+      "tooltip": "dragão-de-komodo, mencionado em 29 avaliações"
+    },
+    {
+      "tag": "chimpanzé",
+      "count": 21,
+      "tooltip": "chimpanzé, mencionado em 21 avaliações"
+    }
+  ],
+  "featuredPhotos": [
+    "https://lh5.googleusercontent.com/p/AF1QipOHCtgUVrOIpU4unkyBBLtr0YZlWNCc6m5IUp8x=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNAVY0oic-G5cVcAZz6_AxapwcYBLYeAXkDYb2O=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNp2btz-tF8CX9GYtqUJkaQluYcknvqODPckQiU=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMqgOBVnxvQoJUNVsRRBVXAvFPviu5iOuoA6NdT=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOrVQtwFIP2qbbZixWKeclg1FWl1KPtw04C438V=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMHrdUxbWpXfArqvKGTIb7jUvfVfH0dGRF5ojq7=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPZRO1L4No0LwnVmCvest2wsA8AT443yHNNSZct=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipP72tPJI5EyAHUG25omA-YFABBNm9PPiwPi41-3=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPATJNtATv_Gov1UURdm6TPqI2Ts-d_K6ukpKSh=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMX0k5ydLSUnH7-GFE3dKNx9TcRnF-J5-sATGFT=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNGs9Gb2GFFV5nF2tix8nBAiskPGXCgtRlPM_A9=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMreqfqj3WPlwbweeMyezJrFzkptGPTwfxFHFjg=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPRRHMGGrerCTCLVItl69YWUwHqksNGoD7Tm29y=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNcWzGaGQkiwBLWmua4TErcX-fLbsqKfgwrIBab=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMExyiOJcrWeQDtcJ1iMRqFQRsmWWgYbCdTx8jC=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOHNAdY9EHLdrA34-lnvVZUfolw74hcZEHTcu3T=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPj_UHeRbBstPEhRbcjoNlEQpZE_ZpkQkFGmMKv=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPK8OHxuiRN27PudFs7LGAewWeF4gujb-Lztf4r=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNgeZKHML31eqXDqgjXOrz4Wsd-9X7WchdYpRiJ=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNZIcDm6tNfHqFDoew0bSJswuLV0GHfMuHed3X3=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipP4VL9hH_JXclNs4-CUNroTzYpQfW4_JUiLCgxv=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipN_jgaOvNhnWt7yCLbbG2K_i25LKYdY6IwErDel=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOfTxiyoYlIT_DKRx5U8t_kZmJzJSILjxpNDNiO=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipO781S_UZWxgCXkIE2MFjWWzebl9eCcDVAmIczp=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNtHhF8qTPSYD70Ggqi_x_OU4CWZYp-S-8JR_tg=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPIjdFmvdUuPmsnFWOzdkdXVepJtzbn809TN6D_=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPvL-wLKAbHGs9l4pmuUWBHQQJ52luxIz6lj48F=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPGs3EWegpyas-ecT_0fSOW8NVL-TfPCFN1KCyR=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPc6c0NsqtKQVGMpkPFvaBK0CFZw2q9MDAeXvLN=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMn2JYCi5qXnQo-JT3cBr1VMy8mBKa2uqMoj4l4=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPcZ4FUBTlm1ce0jjaTBxNs6SEfTNninfIaNsBE=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipM5HSL_R8JtA5hcTeo6rDk2yONAmQ1PeMArjE8G=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOwTzCBQa3u9qxdGaNzgqvEDhE_vV3v4NWKxsUn=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOpWDsSkkhiKs_LbP3uNilkMtqzlgE77elFUV7F=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPzwD-1gG9BEFHWFGKrhdngI7l3JADZ57gRtQIl=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipO706M3F39SyF1_01Lo8JbejGQCanFOKDNQHV07=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOvx5SsBNrR5mu-bs96Ejnpj4ohcXnGrSppMaAZ=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipO7dAFD8Lundk-0Y6aZFM2Jna4lWrv2-CafCfqx=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPFQeKSBEde6bhEowBfPqOHFM7SKrCFTBc8_45O=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMYDkWK033isXvuJt11AML2IjCuYD6a-SdnBPh0=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNifbO1uujrtP7MhphOd0eKf0aycG0sylYKchlA=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNslygGziMWj64mluoUzqqBCGg5Kuom4kZfgFFa=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOyIMGy9hACgGwb16u87FOPGlQ4akUNiyenI-Vm=w1024-h576-k-no"
+  ],
+  "topComments": [
+    {
+      "author": "Miguel M",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucrhvI3eQ_etdJgx9iBv84ISicYyvlyMSL1k4ygsrEE=w36-h36-p-c0x00000000-rp-mo-br100",
+      "comment": "Fabuloso. Dos melhores parques zoológicos em que já estive. Envolvencia nos habitats e animais, muito boa. Proximidade única. Q bilhete de oferta em Setembro. Bom almoço.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Bruno Santos",
+      "photoAuthor": "https://lh3.googleusercontent.com/a/AItbvmlJZlRKe2mv8Tpts0_V8kGglnvGd5N6sinrwP9s=w36-h36-p-c0x00000000-rp-mo-br100",
+      "comment": "Impecável, um zoo citadino com espécies incríveis, tudo muito bem organizado, com os recintos e cenários muito bem conseguidos, digno de ser visitado.",
+      "gradeComment": 5
+    },
+    {
+      "author": "sonia regina pace",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucrfjYnEZkyX-1Mq1xD3ggzMvpYI8y3Kue2UKwRSuJI=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "Novo conceito os animais ficam livres e podemos ter esse contato direto , local muito lindo !",
+      "gradeComment": 5
+    },
+    {
+      "author": "Rakel Rodrigues",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZuco82sDVjJ7k8RFWweTkW95myrjhwHZSlcQwioC8kw=w36-h36-p-c0x00000000-rp-mo-br100",
+      "comment": "Adorei. Como fui logo após ao almoço. Os animais estavam todos deitados e afastados. Mas o local super bonito atrativo limpo bom.local  para lanchar. Recomendo esse passeio em família.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Catarina Nery",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucoWsj958CRL-1yIGsZFoisfabhCgLNcpfa-x1mgMg=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "Local fresco com as condições certas para os animas. Estão bem tratados e em locais muito idênticos ao seu habitat natural. Estacionamento ao lado do bioparc e de fácil acesso. Grande facilidade na compra dos bilhetes. Recomendo a ida!",
+      "gradeComment": 5
+    },
+    {
+      "author": "Alexandre Moretto",
+      "photoAuthor": "https://lh3.googleusercontent.com/a/AItbvmm5B2X1ncdSUgLi8IALjRoTljWu8OHQtN1b6Hsv=w36-h36-p-c0x00000000-rp-mo-ba5-br100",
+      "comment": "Zoo bem cuidado com bom espaço para os animais com predomínio para fauna africana e asiática.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Rafael Cristian",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucqE6kyDnZDsQuXl3NMgxT0Rw5X1o5ImmwCmicPcWw=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "Lugar fantástico. Animais diversos, lugar limpo, tanto nos locais dos animais, quanto nas áreas de trânsito dos visitantes. O único ponto de desagrado foi uma das onças estar em alto nível de estresse e ninguém do parque ter tomado alguma providência a respeito.",
+      "gradeComment": 4
+    },
+    {
+      "author": "Vanessa Bernardo",
+      "photoAuthor": "https://lh3.googleusercontent.com/a/AItbvmnu0HaAL3WNX4CvQNWN7v5D1ej2duhVG2ABQx0=w36-h36-p-c0x00000000-rp-mo-ba3-br100",
+      "comment": "Super bem cuidado, lindo, vale o passeio. Apesar de que quando fui os animais estavam muito sonolentos e o parquinho pouco cuidado. Por isso, o 4 estrelas.",
+      "gradeComment": 4
+    },
+    {
+      "author": "Carla Maria Santos",
+      "photoAuthor": "https://lh3.googleusercontent.com/a/AItbvmnris-hVeeMW90SBscUI_cgUtdX2RB9jW9LQtWgRnA=w36-h36-p-c0x00000000-rp-mo-br100",
+      "comment": "Apesar de não gostar muito de ver os animais em cativeiro, todos se apresentam bem tratados e aparentemente bem alimentados. Espaço bem decorado, limpo e cuidado.",
+      "gradeComment": 5
+    },
+    {
+      "author": "GLORIA QUINTAO",
+      "photoAuthor": "https://lh3.googleusercontent.com/a/AItbvmnjtc66dAseNx6GZO2KNryh5puqiqS6cDPP9G98xg=w36-h36-p-c0x00000000-rp-mo-ba3-br100",
+      "comment": "Muito agradável, ainda que não muito grande (ou talvez também por isso). Umas horas bem passadas. Muito bem arranjado a nível de espaços verdes. O contacto com os lêmures e o espectáculo com aves e mamíferos é bastante divertido.",
+      "gradeComment": 4
+    },
+    {
+      "author": "Diana Mendes",
+      "photoAuthor": "https://lh3.googleusercontent.com/a/AItbvmnGe-b1DW-Z7iuQ8vLz5-gCncZJqo8HSHi5T1b6=w36-h36-p-c0x00000000-rp-mo-ba2-br100",
+      "comment": "Local bem organizado,limpo e com boas condições para os animais que aloja. Informação sucinta e interessante sobre os animais. Espectáculo das aves e dos mamíferos fantástico. Pouca oferta para comer (somente fast food)",
+      "gradeComment": 4
+    },
+    {
+      "author": "Patricia Albuquerque",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucrxdvVTIdV-qIlAC1hGXGBNlapjzs5xwCptNaFSKcU=w36-h36-p-c0x00000000-rp-mo-ba3-br100",
+      "comment": "Eu adoro levar a minha filha. Além dos animais, a decoração do local é bem bacana.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Paulo Freire",
+      "photoAuthor": "https://lh3.googleusercontent.com/a/AItbvmk823mrmaa2Ra7A5o9mRBk35EEnPatK0V8x_lX6=w36-h36-p-c0x00000000-rp-mo-ba5-br100",
+      "comment": "Excelente parque natural com muitissima variedade de animais. Possibilidade de contacto directo com lemurs.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Patricia Martins",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucrL5vFG5yBRm1EGPtwCCpiA0lG0WBTtDWQMuG6Jhw=w36-h36-p-c0x00000000-rp-mo-br100",
+      "comment": "Local muito cuidado, limpo e atrativo. Recomendo a visita",
+      "gradeComment": 5
+    },
+    {
+      "author": "isabel conceição",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucp8MFelYJPLAqozH6JQqqLxrTYDyivGC1B7YbM34w=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "Muito interessante, muito bem cuidado e pessoal muito simpatico",
+      "gradeComment": 5
+    },
+    {
+      "author": "Valeria Godoy",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucoGyBop_ABQrqXKYagiRLxz87cT_gQ9twlgPkn1TvY=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "Muito bom",
+      "gradeComment": 5
+    },
+    {
+      "author": "Daniela Marodin",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucrQrl8ARRy2WmEjtbEa_7RKY3WirP0THD2ZdUlJwok=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "Bom lugar",
+      "gradeComment": 4
+    },
+    {
+      "author": "Carlos Kaiseler",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucqE8PtBxA7T-oRCjonNxjXRmsS-qVMYy18ouj2r2fI=w36-h36-p-c0x00000000-rp-mo-ba3-br100",
+      "comment": "Vale bem a visita",
+      "gradeComment": 5
+    },
+    {
+      "author": "Julio Ocampos",
+      "photoAuthor": "https://lh3.googleusercontent.com/a/AItbvmmKS7g13SITUGx55CNKw2IM7p5v43oEq7zGK85b=w36-h36-p-c0x00000000-rp-mo-br100",
+      "comment": "Espetacular",
+      "gradeComment": 5
+    },
+    {
+      "author": "Hélène Arnoux",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucqDoLZs72Poo-4sxVbZPgaRUFtzbYQL_QHkBeRLYQ=w36-h36-p-c0x00000000-rp-mo-br100",
+      "comment": "Fantástico!!!!",
+      "gradeComment": 5
+    }
+  ],
+  "peakHours": [
+    {
+      "Sunday": [
+        {
+          "hour": "10:00",
+          "percent": 34
+        },
+        {
+          "hour": "11:00",
+          "percent": 67
+        },
+        {
+          "hour": "12:00",
+          "percent": 94
+        },
+        {
+          "hour": "13:00",
+          "percent": 100
+        },
+        {
+          "hour": "14:00",
+          "percent": 86
+        },
+        {
+          "hour": "15:00",
+          "percent": 71
+        },
+        {
+          "hour": "16:00",
+          "percent": 62
+        },
+        {
+          "hour": "17:00",
+          "percent": 55
+        },
+        {
+          "hour": "18:00",
+          "percent": 43
+        },
+        {
+          "hour": "19:00",
+          "percent": 28
+        },
+        {
+          "hour": "20:00",
+          "percent": 14
+        },
+        {
+          "hour": "21:00",
+          "percent": 5
+        },
+        {
+          "hour": "22:00",
+          "percent": 1
+        }
+      ]
+    },
+    {
+      "Monday": [
+        {
+          "hour": "10:00",
+          "percent": 39
+        },
+        {
+          "hour": "11:00",
+          "percent": 64
+        },
+        {
+          "hour": "12:00",
+          "percent": 77
+        },
+        {
+          "hour": "13:00",
+          "percent": 73
+        },
+        {
+          "hour": "14:00",
+          "percent": 58
+        },
+        {
+          "hour": "15:00",
+          "percent": 46
+        },
+        {
+          "hour": "16:00",
+          "percent": 37
+        },
+        {
+          "hour": "17:00",
+          "percent": 28
+        },
+        {
+          "hour": "18:00",
+          "percent": 18
+        },
+        {
+          "hour": "19:00",
+          "percent": 9
+        },
+        {
+          "hour": "20:00",
+          "percent": 3
+        },
+        {
+          "hour": "22:00",
+          "percent": 1
+        }
+      ]
+    },
+    {
+      "Tuesday": [
+        {
+          "hour": "10:00",
+          "percent": 32
+        },
+        {
+          "hour": "11:00",
+          "percent": 50
+        },
+        {
+          "hour": "12:00",
+          "percent": 62
+        },
+        {
+          "hour": "13:00",
+          "percent": 63
+        },
+        {
+          "hour": "14:00",
+          "percent": 54
+        },
+        {
+          "hour": "15:00",
+          "percent": 43
+        },
+        {
+          "hour": "16:00",
+          "percent": 33
+        },
+        {
+          "hour": "17:00",
+          "percent": 25
+        },
+        {
+          "hour": "18:00",
+          "percent": 17
+        },
+        {
+          "hour": "19:00",
+          "percent": 9
+        },
+        {
+          "hour": "20:00",
+          "percent": 3
+        },
+        {
+          "hour": "22:00",
+          "percent": 1
+        }
+      ]
+    },
+    {
+      "Wednesday": [
+        {
+          "hour": "10:00",
+          "percent": 38
+        },
+        {
+          "hour": "11:00",
+          "percent": 57
+        },
+        {
+          "hour": "12:00",
+          "percent": 69
+        },
+        {
+          "hour": "13:00",
+          "percent": 67
+        },
+        {
+          "hour": "14:00",
+          "percent": 56
+        },
+        {
+          "hour": "15:00",
+          "percent": 44
+        },
+        {
+          "hour": "16:00",
+          "percent": 34
+        },
+        {
+          "hour": "17:00",
+          "percent": 25
+        },
+        {
+          "hour": "18:00",
+          "percent": 17
+        },
+        {
+          "hour": "19:00",
+          "percent": 10
+        },
+        {
+          "hour": "20:00",
+          "percent": 5
+        },
+        {
+          "hour": "21:00",
+          "percent": 1
+        },
+        {
+          "hour": "22:00",
+          "percent": 1
+        }
+      ]
+    },
+    {
+      "Thursday": [
+        {
+          "hour": "10:00",
+          "percent": 40
+        },
+        {
+          "hour": "11:00",
+          "percent": 58
+        },
+        {
+          "hour": "12:00",
+          "percent": 70
+        },
+        {
+          "hour": "13:00",
+          "percent": 71
+        },
+        {
+          "hour": "14:00",
+          "percent": 62
+        },
+        {
+          "hour": "15:00",
+          "percent": 48
+        },
+        {
+          "hour": "16:00",
+          "percent": 35
+        },
+        {
+          "hour": "17:00",
+          "percent": 25
+        },
+        {
+          "hour": "18:00",
+          "percent": 17
+        },
+        {
+          "hour": "19:00",
+          "percent": 10
+        },
+        {
+          "hour": "20:00",
+          "percent": 5
+        },
+        {
+          "hour": "21:00",
+          "percent": 2
+        },
+        {
+          "hour": "22:00",
+          "percent": 1
+        }
+      ]
+    },
+    {
+      "Friday": [
+        {
+          "hour": "10:00",
+          "percent": 38
+        },
+        {
+          "hour": "11:00",
+          "percent": 56
+        },
+        {
+          "hour": "12:00",
+          "percent": 69
+        },
+        {
+          "hour": "13:00",
+          "percent": 70
+        },
+        {
+          "hour": "14:00",
+          "percent": 59
+        },
+        {
+          "hour": "15:00",
+          "percent": 45
+        },
+        {
+          "hour": "16:00",
+          "percent": 34
+        },
+        {
+          "hour": "17:00",
+          "percent": 28
+        },
+        {
+          "hour": "18:00",
+          "percent": 25
+        },
+        {
+          "hour": "19:00",
+          "percent": 20
+        },
+        {
+          "hour": "20:00",
+          "percent": 13
+        },
+        {
+          "hour": "21:00",
+          "percent": 6
+        },
+        {
+          "hour": "22:00",
+          "percent": 2
+        }
+      ]
+    },
+    {
+      "Saturday": [
+        {
+          "hour": "10:00",
+          "percent": 33
+        },
+        {
+          "hour": "11:00",
+          "percent": 60
+        },
+        {
+          "hour": "12:00",
+          "percent": 82
+        },
+        {
+          "hour": "13:00",
+          "percent": 86
+        },
+        {
+          "hour": "14:00",
+          "percent": 75
+        },
+        {
+          "hour": "15:00",
+          "percent": 61
+        },
+        {
+          "hour": "16:00",
+          "percent": 54
+        },
+        {
+          "hour": "17:00",
+          "percent": 48
+        },
+        {
+          "hour": "18:00",
+          "percent": 38
+        },
+        {
+          "hour": "19:00",
+          "percent": 25
+        },
+        {
+          "hour": "20:00",
+          "percent": 13
+        },
+        {
+          "hour": "21:00",
+          "percent": 6
+        },
+        {
+          "hour": "22:00",
+          "percent": 2
+        }
+      ]
+    }
+  ],
+  "relatedSearches": [
+    "animais do bioparc fuengirola",
+    "bioparc fuengirola mapa",
+    "bioparc fuengirola discount code",
+    "bioparc fuengirola tickets",
+    "bioparc fuengirola animales",
+    "bioparc fuengirola reviews",
+    "malaga zoo",
+    "things to do in fuengirola",
+    "animais do bioparc fuengirola",
+    "bioparc fuengirola mapa",
+    "bioparc fuengirola discount code",
+    "bioparc fuengirola tickets",
+    "bioparc fuengirola animales",
+    "bioparc fuengirola reviews",
+    "malaga zoo",
+    "things to do in fuengirola"
+  ],
+  "relateds": [
+    {
+      "mainName": "Valencia Bioparc",
+      "url": null
+    },
+    {
+      "mainName": "Selwo Marina",
+      "url": null
+    },
+    {
+      "mainName": "SEA LIFE Centre Benalmadena",
+      "url": null
+    },
+    {
+      "mainName": "Selwo Aventura",
+      "url": null
+    },
+    {
+      "mainName": "Tivoli World",
+      "url": null
+    },
+    {
+      "mainName": "Costa del Sol",
+      "url": null
+    },
+    {
+      "mainName": "Castillo Sohail",
+      "url": null
+    },
+    {
+      "mainName": "Aquamijas",
+      "url": null
+    },
+    {
+      "mainName": "Aqualand Torremolinos",
+      "url": null
+    },
+    {
+      "mainName": "Parque Zoológico de Barcelona",
+      "url": null
+    },
+    {
+      "mainName": "Zoológico de Madrid",
+      "url": null
+    },
+    {
+      "mainName": "Colomares Monument",
+      "url": null
+    },
+    {
+      "mainName": "Mundomar",
+      "url": null
+    },
+    {
+      "mainName": "Parque de Cabárceno",
+      "url": null
+    },
+    {
+      "mainName": "Terra Natura",
+      "url": null
+    },
+    {
+      "mainName": "Aquário de Barcelona",
+      "url": null
+    },
+    {
+      "mainName": "Mariposario de Benalmádena-Butterfly Park",
+      "url": null
+    },
+    {
+      "mainName": "L'Oceanogrŕfic",
+      "url": null
+    },
+    {
+      "mainName": "Ermita de Santiago",
+      "url": null
+    },
+    {
+      "mainName": "Fuengirola Central Mosque",
+      "url": null
+    },
+    {
+      "mainName": "Stupa of Enlightenment Benalmádena",
+      "url": null
+    },
+    {
+      "mainName": "Marbella Grand Mosque",
+      "url": null
+    },
+    {
+      "mainName": "Casa de los Navajas",
+      "url": null
+    },
+    {
+      "mainName": "Acuario Municipal de Santa Pola",
+      "url": null
+    },
+    {
+      "mainName": "Valencia Bioparc",
+      "url": null
+    },
+    {
+      "mainName": "Selwo Marina",
+      "url": null
+    },
+    {
+      "mainName": "SEA LIFE Centre Benalmadena",
+      "url": null
+    },
+    {
+      "mainName": "Selwo Aventura",
+      "url": null
+    },
+    {
+      "mainName": "Tivoli World",
+      "url": null
+    },
+    {
+      "mainName": "Costa del Sol",
+      "url": null
+    },
+    {
+      "mainName": "Castillo Sohail",
+      "url": null
+    },
+    {
+      "mainName": "Aquamijas",
+      "url": null
+    },
+    {
+      "mainName": "Aqualand Torremolinos",
+      "url": null
+    },
+    {
+      "mainName": "Parque Zoológico de Barcelona",
+      "url": null
+    },
+    {
+      "mainName": "Zoológico de Madrid",
+      "url": null
+    },
+    {
+      "mainName": "Colomares Monument",
+      "url": null
+    },
+    {
+      "mainName": "Mundomar",
+      "url": null
+    },
+    {
+      "mainName": "Parque de Cabárceno",
+      "url": null
+    },
+    {
+      "mainName": "Terra Natura",
+      "url": null
+    },
+    {
+      "mainName": "Aquário de Barcelona",
+      "url": null
+    },
+    {
+      "mainName": "Mariposario de Benalmádena-Butterfly Park",
+      "url": null
+    },
+    {
+      "mainName": "L'Oceanogrŕfic",
+      "url": null
+    },
+    {
+      "mainName": "Ermita de Santiago",
+      "url": null
+    },
+    {
+      "mainName": "Fuengirola Central Mosque",
+      "url": null
+    },
+    {
+      "mainName": "Stupa of Enlightenment Benalmádena",
+      "url": null
+    },
+    {
+      "mainName": "Marbella Grand Mosque",
+      "url": null
+    },
+    {
+      "mainName": "Casa de los Navajas",
+      "url": null
+    },
+    {
+      "mainName": "Acuario Municipal de Santa Pola",
+      "url": null
+    }
+  ]
+}

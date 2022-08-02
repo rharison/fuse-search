@@ -1,0 +1,386 @@
+{
+  "mainName": "Museu de La Plata",
+  "slug": "museu-de-la-plata",
+  "category": "Museu",
+  "locationInformation": {
+    "latitude": "-34.9088865",
+    "longitude": "-57.9353316"
+  },
+  "basicInformation": [
+    {
+      "label": "endereço",
+      "tooltip": "Copiar endereço",
+      "text": "Paseo del Bosque s/n, B1900 La Plata, Provincia de Buenos Aires, Argentina",
+      "icon": "https://www.gstatic.com/images/icons/material/system_gm/1x/place_gm_blue_24dp.png"
+    },
+    {
+      "label": "website",
+      "tooltip": "Abrir website",
+      "text": "museo.fcnym.unlp.edu.ar",
+      "icon": "https://www.gstatic.com/images/icons/material/system_gm/1x/public_gm_blue_24dp.png"
+    },
+    {
+      "label": "telefone",
+      "tooltip": "Copiar número de telefone",
+      "text": "+54 221 425-7744",
+      "icon": "https://www.gstatic.com/images/icons/material/system_gm/1x/phone_gm_blue_24dp.png"
+    },
+    {
+      "label": "Code",
+      "tooltip": "Copiar Plus Code",
+      "text": "33R7+CV La Plata, Buenos Aires, Argentina",
+      "icon": "https://maps.gstatic.com/mapfiles/maps_lite/images/2x/ic_plus_code.png"
+    }
+  ],
+  "ratingInformation": {
+    "basicRatingInformation": {
+      "averageGrade": 4.6,
+      "totalOfEvaluations": 20153
+    },
+    "ratingsByGrade": [
+      {
+        "grade": 5,
+        "totalRatings": 14100
+      },
+      {
+        "grade": 4,
+        "totalRatings": 4197
+      },
+      {
+        "grade": 3,
+        "totalRatings": 1297
+      },
+      {
+        "grade": 2,
+        "totalRatings": 264
+      },
+      {
+        "grade": 1,
+        "totalRatings": 295
+      }
+    ]
+  },
+  "ratingTags": [
+    {
+      "tag": "mario hermoso",
+      "count": 752,
+      "tooltip": "mario hermoso, mencionado em 752 avaliações"
+    },
+    {
+      "tag": "dinossauros",
+      "count": 221,
+      "tooltip": "dinossauros, mencionado em 221 avaliações"
+    },
+    {
+      "tag": "manutenção",
+      "count": 209,
+      "tooltip": "manutenção, mencionado em 209 avaliações"
+    },
+    {
+      "tag": "alfinete de dama",
+      "count": 151,
+      "tooltip": "alfinete de dama, mencionado em 151 avaliações"
+    },
+    {
+      "tag": "múmia",
+      "count": 103,
+      "tooltip": "múmia, mencionado em 103 avaliações"
+    },
+    {
+      "tag": "esqueleto",
+      "count": 73,
+      "tooltip": "esqueleto, mencionado em 73 avaliações"
+    },
+    {
+      "tag": "paleontologia",
+      "count": 47,
+      "tooltip": "paleontologia, mencionado em 47 avaliações"
+    },
+    {
+      "tag": "antropologia",
+      "count": 43,
+      "tooltip": "antropologia, mencionado em 43 avaliações"
+    },
+    {
+      "tag": "embalsamamento",
+      "count": 38,
+      "tooltip": "embalsamamento, mencionado em 38 avaliações"
+    }
+  ],
+  "featuredPhotos": [
+    "https://lh5.googleusercontent.com/p/AF1QipPnPpeliCVGtdulWRIKHTbDDsnuOP_T4KRroc8=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipN2MkIuibJdEIMGlu7eVyfnSJYYB1ejO9GMHvXt=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMnfdQvR7B5Ux1o7z2I5RUcBtgJWAmXfGn_KWH3=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMS2B6veG_0eKT-uNy_CzUL1GanFpp_xBh9kdyH=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipN5n0-FKtGQZt-bZp7h1G6mqTtSX7dxkUVS77ta=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipO1zsjTF2nDlpG3hr0vQvta-RR-wCFZZcvpaelI=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOAVne0WFcv5xdtA3dPiILMzXY_uv5MEzQbmoY2=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPCe2zTkMwprkjMwBebSq4KggSoZX3kx05mTwJw=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMBwInIRLCeAOw8dzBYVOn_yFsbeOPWJOMeda4a=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMmeyfyqEI8kCEMDIwXsiT1UvpmzYtqv3YaB-Dt=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMgN5Oi8A5q54NKnnCNMWdzWxg7xEFgwBMTiCql=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMjt2HRTgU7MsAqnc730rFjYZR3kq2tVEq-hUj3=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMgD1hfoa32oqAZOrwhhNcZ884FzqTJqGzWIyWs=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNFWhOX_P_BHlsw74bwjRTeFNKCo2LAtmuMnLNS=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNt_fKNAxz5lfJ3rnPVBiFe3vblL7p5fg0RXVV8=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNM_y0cgHllCmW4bWDwiegLyDJ8avUcoj6ESisM=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipN0tYzGtFpybwnWZWBUFPq7lRh0C9mrhad0hdjp=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNNlWssp4q0s4f8R8N0GR72l0whwzd6LTR1n9L_=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMcKUEUvGrW-0aoXCgzbBYtl1wK1nKn6-Cl_Pku=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOEosTkrcYASdS1rk-EcT79CfKACx7w0entPtZU=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMpSTmmUqFI7DvCW3WLyxnc91kqfc5jUvwHO2lR=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipN_DgUbdMY3x1ChnnO4zdem7_qg2Kmk9H63QM6c=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOn03gHK5ukV3SOEssqONHelYGac0JrR5O9KBI9=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipP8Y9P7vVnXpdIt3ItkqRLWghpls-IxKINfwd6O=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipP_WfjBplPfOTV8FdqUpp9ZPvGb0GHICrJsKFwt=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipM72pTHrKSoABTMhPgFVLuf4bhTpKG33MNmOWf6=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOXj40-Jqn3LTlv_VaPNIiV8Wd3yOvaRulfUoY=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOZjvtSVq-Wn-hGExEtbE3PcG--Ce4WOeoqZzJi=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOoSVKvUnMS-L5BhlqEdLfCzSFXztyVJDHn-Lus=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPDikMttb8EwiglRG5IIFlSLNyNlfGIc9bhLGbd=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPhtgda9z7beB26SsjNECmtH8jF2VaSsINdn5hg=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPoRdJFBrTarcFYbyGV44z3l8RD52AHxJKeFA2G=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOD3aTVdH2YvPmSeWUW8n9ffL5KH2NWozSeIhcC=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNysZ-DsSLkSRX4-lFF-08lCgEbmjk6nBfO3J-9=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNhPV3SXc5fPY55F8Qo1hiwhSMCD4XOpU-cB-49=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOh5-eD3ZlcqcpXIZgCuh38B7OETfAOjEklO6aF=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOopn498VDoREXNB8R06L1GF1phyGW4lCCNx8uh=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOzlXDT4FZufqE06ONaPKnkXQE9levTLQTi5BIo=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNKFel83A8rO6Oo-5sASanXnA-vz8k2FgD2ySkf=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipO89kMtaLveBL-nJLwACb5d_6TQ996eRDWEfCjK=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNKZIuRt4LFOcYDDEbIFpy8oeUm49TwsfITxkyG=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMdNpUny760tXDpLll4xDf036uIErzgFHCj-VBo=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMu0vM7WQtR57WwFTSBaT31g6W9_MsZ8X8EkCwM=w1024-h576-k-no"
+  ],
+  "topComments": [
+    {
+      "author": "John Elton",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucq9vrNuaqCUyKdZF44l2kC6Xai4kHXa86mIyPie4zo=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "Desde a compra dos ingressos foi tudo bem. A espera foi tranquila, entrei e já aproveitava. Tem os guias - explicam bem, apesar de rápido 😉- mas pedir repetiçao pode. Existem muitas réplicas mas há achados originais. A cronologia segue um padrão explicativo que vai de dinossauros até animais atuais. Sem dúvida é uma atração muito boa!! 👍👍👍",
+      "gradeComment": 5
+    },
+    {
+      "author": "Graciana Romitto",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucoKpFLnvfGRCiFk9qLUq3hcGHKfrILTfX7cDQU1=w36-h36-p-c0x00000000-rp-mo-br100",
+      "comment": "Museu muito interessante em La Plata, pertinho de Buenos Aires. Coleção incrível de geologia, paleontologia e zoologia. Também tem uma área muito legal sobre o antigo Egito, com duas múmias e muitos outros itens. Ótimo passeio para crianças e adultos!",
+      "gradeComment": 5
+    },
+    {
+      "author": "Florence Casariego",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucre2tK7Zm8Pz3KtR3bfa2QMV7pqypIJb7V4rww8OzU=w36-h36-p-c0x00000000-rp-mo-ba5-br100",
+      "comment": "Uma visita imperdível! O maior museu de ciências da América Latina e o 5 maior do mundo, com mais de três milhões de exemplares de espécies e artefatos históricos. Fomos na terça, que é o dia gratuito, por isso estava um pouco mais cheio. As salas são amplas e com uma infraestrutura incrível , contando a história desde a criação do universo, passando pela biodiversidade de fauna e flora, até os dias de hoje com a evolução da espécie humana. Há uma parte especial dedicada aos dinossauros que é muito emocionante. Além de educativo , é muito didático! Passeio imperdível!  Recomendo ir cedo para aproveitar todos os ambientes e tirar fotos com tranquilidade.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Leonardo Eustaquio",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucpYt5Etl4ldb12X191B7JhGxP304U0Qz-YGfhJEDQ=w36-h36-p-c0x00000000-rp-mo-ba5-br100",
+      "comment": "Imperdível para quem estiver conhecendo essa linda cidade. É possível ir a pé da estação de trem até lá. O museu é de grande aprendizagem em cada oportunidade de leitura e contemplação. Disponibilize um período inteiro, já que ele tem tanto a transmitir. A entrada tem um custo baixo, então é bem acessível aos viajantes.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Horranecele Barros",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucp5ej6NW4nYaro6Wsm7fzTjISqEsGXk7wo6s6fO1Ok=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "Lugar lindo, como o 1 e 2 andar estavam em reforma, só conheci o térreo mais valeu apena ir mesmo assim! Simplismente amei, e vou de novo assim que terminarem a reforma as outras alas. Super recomendo para passeio em familia, escolar, muito enriquecedor!",
+      "gradeComment": 5
+    },
+    {
+      "author": "Paolla",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucrVZZQWdmTtyGaH--Q4lxt99O4RCiFAt3rgQ_pB=w36-h36-p-c0x00000000-rp-mo-ba2-br100",
+      "comment": "O arquivo do museu é sensacional. Algumas exposições são bem antigas, mas é legal por um lado ver o empenho do museu desde cedo. Tem areas sobre zoologia, ciencias da terra, paleontologia, arqueologia, mumias expostas, meteorito... as explicacoes sao super completas. Eu gosto de ler tudo, demorei 5 horas lá dentro, mas pra quem passa olhando as coisas dá pra ir mais rápido.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Natasha Neves",
+      "photoAuthor": "https://lh3.googleusercontent.com/a/AItbvmneQ3gLjtnVbkudt6-rnrvN6cf3JKAAEOzWHRTo=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "A coleção é enorme e parece ser bem antiga. As informações são bem pertinentes e todas escritas em espanhol. Tem diversos setores sobre zoologia, antropologia, arqueologia, paleontologia e arte antiga da América Latina e do Egito. Para os amantes de museu é possível passar uma tarde inteira por lá. Além disso, o museu possui visitas guiadas incluídas já no preço do museu. Entrada geral custa 50 pesos e crianças até 12 anos não pagam.",
+      "gradeComment": 5
+    },
+    {
+      "author": "VANDINEI SILVA",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucpAsBlEl31jOTz-J5KBuZxt6ZJ9wg6NWamWCHMGto0=w36-h36-p-c0x00000000-rp-mo-ba5-br100",
+      "comment": "Incrível. Excelente museu. Uma aula de história que vai desde à entrada até a saída. Cada pedaço do museu conta uma parte da historia do homem e de seu habitat a terra. Vale muito a visita. Principalmente se tiver tempo de apreciar. Muito rico. O melhor que ja visitei em quesito ciências naturais.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Sandra Manão",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucr9ZNHrS5SjPmRTa5-bojQKs4FUgAJqcId5xpz0MA0=w36-h36-p-c0x00000000-rp-mo-ba3-br100",
+      "comment": "Vim a Lá Plata com o objetivo de conhecer esse museu, desde que chegamos estamos tentando pagar os ingressos.  É impossível. Estou decepcionada,  frustrada. Infelizmente em 5 de janeiro estou voltando ao meu país, sem conhecer o principal passeio turístico para mim Esse lugar não é para estrangeiros. Sinto  pois Lá Plata é um encanto, os argentinos muito acolhedores.",
+      "gradeComment": 1
+    },
+    {
+      "author": "Rafaela Xavier",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucrNPIqqCQHVBiW7inLia-vNTVXOqHRoegZYJL5F4E4=w36-h36-p-c0x00000000-rp-mo-ba3-br100",
+      "comment": "Lugar maravilhoso! A coleção do local é incrível!!! Nunca tinha visto um museu assim 🥰",
+      "gradeComment": 5
+    },
+    {
+      "author": "Marcos Paulo Moreira da Silva",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucqpfqk0f_LIpVupM24qKpEy5FAuO50SEdrOx_SZ=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "Uma ótima opção de passeio próximo à Buenos Aires! Museu é enorme e há muitas coisas bacanas! Aproveitamos e almoçamos em La Plata!",
+      "gradeComment": 5
+    },
+    {
+      "author": "João Luiz Preto",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucqjwwt9OszJnEf0gNAZGyhf993ujyU0pC90VBEcFhI=w36-h36-p-c0x00000000-rp-mo-br100",
+      "comment": "Excelente acervo! Recomendaria mais conservação do edifício/sede.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Felipe Pacheco",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZuco-BkJTLuulJ4nzBTZaJXY3DqUta_apYZLhxU_Qzw=w36-h36-p-c0x00000000-rp-mo-ba5-br100",
+      "comment": "Apesar de não ter a estrutura de um museu de história natural americano, com o de New York, mas achei bem interessante, com bastante material, e bantes animais em taxidermia,  muito interessante! Vale a visita.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Rita de Cássia Flor",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucqvfjv59pBhdb8SgcprTDt-ohFvp5JHhFZOKgu4uB8=w36-h36-p-c0x00000000-rp-mo-ba6-br100",
+      "comment": "Exigente na cultura muito bom para passeios em família uma viagem no passado",
+      "gradeComment": 5
+    },
+    {
+      "author": "Fernanda Zilves",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucqcN1PfsVuogJ8aJdrEfygxuscNTPO91mPBa7imLA=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "Bem legal, porém necessita mais cuidados tanto com espaço fisico quanto com as peças",
+      "gradeComment": 4
+    },
+    {
+      "author": "Oiarllane Cintra",
+      "photoAuthor": "https://lh3.googleusercontent.com/a/AItbvmkO3faq24b_W1dmipHy7U0CPEzv71OTwGt8MdNY=w36-h36-p-c0x00000000-rp-mo-ba3-br100",
+      "comment": "Grande coleção de taxidermia, Museu muito organizado e completo sobre Artes Naturais.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Meire Lazarini",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucobn1SK1CTIFY3sx3F_F9FlsKTGdPGxjOvEQHfgDw=w36-h36-p-c0x00000000-rp-mo-ba3-br100",
+      "comment": "Fantástico, maravilhoso vale a visita vá sem pressa.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Henrique Latorre",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucrjEwB11oMgIafgcUSM8nHOYHi-P4JftyWLvLXu5R8=w36-h36-p-c0x00000000-rp-mo-ba5-br100",
+      "comment": "Museu fantástico e com um acervo inigualável. Vale a pena visitar com bastante tempo",
+      "gradeComment": 5
+    },
+    {
+      "author": "Claudia Barbosa",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucpVaVSSf4TsEXBx4xD-eaOYJks7S1c-NK691VXItIo=w36-h36-p-c0x00000000-rp-mo-ba3-br100",
+      "comment": "Só abre fim de semana... maravilhoso.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Wagner Galli",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucoXlcWLB6Czhus4tYELGucISby6jQIrM9lUNtPDH9w=w36-h36-p-c0x00000000-rp-mo-ba7-br100",
+      "comment": "Uma visita imperdível! O maior museu de ciências da América Latina e o 5 maior do mundo, com mais de três milhões de exemplares de espécies e artefatos históricos. As salas são amplas e com uma infraestrutura incrível , contando a história desde a criação do universo, passando pela biodiversidade de fauna e flora, até os dias de hoje com a evolução da espécie humana. Há uma parte especial dedicada aos dinossauros que é muito emocionante. Além de educativo , é muito didático! Passeio imperdível! Recomendo ir cedo para aproveitar todos os ambientes e tirar fotos com tranquilidade. #casalconhecendoomundo recomenda @casalconhecendoomundo no Instagram",
+      "gradeComment": 5
+    }
+  ],
+  "peakHours": null,
+  "relatedSearches": [
+    "universidad nacional del plata",
+    "museo nacional de bellas artes",
+    "o que fazer em la plata",
+    "planetario la plata",
+    "museo de los niños",
+    "cidade de la plata",
+    "eremoterio",
+    "preguiça terrestre"
+  ],
+  "relateds": [
+    {
+      "mainName": "Bernardino Rivadavia Museum of Natural Science",
+      "url": null
+    },
+    {
+      "mainName": "Catedral de La Plata",
+      "url": null
+    },
+    {
+      "mainName": "Curutchet House",
+      "url": null
+    },
+    {
+      "mainName": "República de los Niños",
+      "url": null
+    },
+    {
+      "mainName": "Teatro Argentino de La Plata",
+      "url": null
+    },
+    {
+      "mainName": "Planetarium of La Plata",
+      "url": null
+    },
+    {
+      "mainName": "Paseo del Bosque",
+      "url": null
+    },
+    {
+      "mainName": "Plaza Moreno",
+      "url": null
+    },
+    {
+      "mainName": "Zoológico de La Plata",
+      "url": null
+    },
+    {
+      "mainName": "Estadio Único Diego Armando Maradona",
+      "url": null
+    },
+    {
+      "mainName": "Tierra Santa",
+      "url": null
+    },
+    {
+      "mainName": "Costa Park",
+      "url": null
+    },
+    {
+      "mainName": "Mundo Marino - El Oceanario Más Grande De Sudamérica",
+      "url": null
+    },
+    {
+      "mainName": "Administración FILIPPI",
+      "url": null
+    },
+    {
+      "mainName": "Club de Gimnasia y Esgrima La Plata",
+      "url": null
+    },
+    {
+      "mainName": "Estádio Juan Carmelo Zerillo",
+      "url": null
+    },
+    {
+      "mainName": "Geleira Perito Moreno",
+      "url": null
+    },
+    {
+      "mainName": "BUENOS AIRES ZOO",
+      "url": null
+    },
+    {
+      "mainName": "Temaikèn",
+      "url": null
+    },
+    {
+      "mainName": "La Boca",
+      "url": null
+    },
+    {
+      "mainName": "Juan B. Ambrosetti Museum of Ethnography",
+      "url": null
+    },
+    {
+      "mainName": "Hacienda Nápoles",
+      "url": null
+    },
+    {
+      "mainName": "Acuario Rodadero Santa Marta",
+      "url": null
+    },
+    {
+      "mainName": "Parque das Leyendas",
+      "url": null
+    }
+  ]
+}

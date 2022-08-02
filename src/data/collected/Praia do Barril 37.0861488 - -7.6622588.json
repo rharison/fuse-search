@@ -1,0 +1,938 @@
+{
+  "mainName": "Praia do Barril",
+  "slug": "praia-do-barril",
+  "category": "Atração turística",
+  "locationInformation": {
+    "latitude": "37.0861488",
+    "longitude": "-7.6622588"
+  },
+  "basicInformation": [
+    {
+      "label": "endereço",
+      "tooltip": "Copiar endereço",
+      "text": "8800-531 Santa Luzia, Portugal",
+      "icon": "https://www.gstatic.com/images/icons/material/system_gm/1x/place_gm_blue_24dp.png"
+    },
+    {
+      "label": "Code",
+      "tooltip": "Copiar Plus Code",
+      "text": "38PQ+F3 Santa Luzia, Portugal",
+      "icon": "https://maps.gstatic.com/mapfiles/maps_lite/images/2x/ic_plus_code.png"
+    },
+    {
+      "label": "merchant",
+      "text": "Reivindicar esta empresa",
+      "icon": "https://www.gstatic.com/images/icons/material/system_gm/1x/verified_user_gm_blue_24dp.png"
+    }
+  ],
+  "ratingInformation": {
+    "basicRatingInformation": {
+      "averageGrade": 4.6,
+      "totalOfEvaluations": 4002
+    },
+    "ratingsByGrade": [
+      {
+        "grade": 5,
+        "totalRatings": 2810
+      },
+      {
+        "grade": 4,
+        "totalRatings": 953
+      },
+      {
+        "grade": 3,
+        "totalRatings": 179
+      },
+      {
+        "grade": 2,
+        "totalRatings": 33
+      },
+      {
+        "grade": 1,
+        "totalRatings": 27
+      }
+    ]
+  },
+  "ratingTags": [
+    {
+      "tag": "só",
+      "count": 4,
+      "tooltip": "só, mencionado em 4 avaliações"
+    },
+    {
+      "tag": "âncoras",
+      "count": 87,
+      "tooltip": "âncoras, mencionado em 87 avaliações"
+    },
+    {
+      "tag": "cemitério",
+      "count": 40,
+      "tooltip": "cemitério, mencionado em 40 avaliações"
+    },
+    {
+      "tag": "algas",
+      "count": 38,
+      "tooltip": "algas, mencionado em 38 avaliações"
+    },
+    {
+      "tag": "guarda-sol",
+      "count": 15,
+      "tooltip": "guarda-sol, mencionado em 15 avaliações"
+    },
+    {
+      "tag": "espreguiçadeiras",
+      "count": 13,
+      "tooltip": "espreguiçadeiras, mencionado em 13 avaliações"
+    },
+    {
+      "tag": "naturismo",
+      "count": 11,
+      "tooltip": "naturismo, mencionado em 11 avaliações"
+    },
+    {
+      "tag": "praia de nudismo",
+      "count": 11,
+      "tooltip": "praia de nudismo, mencionado em 11 avaliações"
+    },
+    {
+      "tag": "ria",
+      "count": 10,
+      "tooltip": "ria, mencionado em 10 avaliações"
+    }
+  ],
+  "featuredPhotos": [
+    "https://lh5.googleusercontent.com/p/AF1QipOqiCMAza7BiCqfc60zlm0HidIuivmmZTKqrCNx=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPlsOwLFR3oipJsMI3hAFAYgo02uVd2ubs9ToDZ=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPV_DnJ4q_usb0_MrwRiFxBdADl_r1BLpUbkXuv=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipP-nqPisZA3d-PN3FNq1p6B7LDJ4LHVYcbBekM=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNFVkPD8TPbx8aBG9Show_6u8HkmDjnxPgjpM8=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOTfNAyT406a3ZmDqbhZC6y5N7Rn8FavLGfDGs=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMtRP31NOuA10C8s9_ULi86VyqR4c8NtOwk2pQ6=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNGD8D-T3MdB_JRzWajEdmB4IvXyq0eWyqf-NpM=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMgHIWeT3eAT1Mzs4KUy2D898bGTcJ0mgyBtZ7u=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPGYingdmMVOb_KFR2xrJvGIxGUDb7iD-n9vEXS=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMfdbAvh3AgD_1PV55cRyGAS2xlEOP-yOpFNI61=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMU-i1QjBiBSmTTXQgE7i-h9rRfC93dg_BtMp_7=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOrFCeNx4KWwx1baZkAEvVJjxcD3QQP0Ubv0Vz9=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNU8GlfsIfMp-XnhLbB8rEuElyxWDTihHJUx4px=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipO3RdmwtnX9n9pCZZdpwASj1gxZ20rRaO3KQgtE=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipN-mFDtHWd3NB7RSlVlBWW5RLRY9pfUGiGLh4mD=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOXr0-guYxnkk0f3SJl2Vj6BKf9Q4OyGj8yDQ96=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNEoF-UEr-kaGt3DqkHKgt_eJY4sajMitKJagM4=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOEZ7Cmkd4fdW-ZnZaetZSfcX2mO8UoRAS9agrP=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPQUS3C_pUAmzQ3z1YS2sj78XxS1EnswN_QPBr6=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPxSBaZUsv_qHAfRU1zZgD4cW64ECsszfheF_1F=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipM_FXOTHtV-mBg-gL2g3iVTxNS42mmxPGBdzAwa=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPL9CjOGsE3a4NeC44_BKuBzSqOjAPUXFR-ZI3P=w1024-h576-k-no"
+  ],
+  "topComments": [
+    {
+      "author": "Hugo Ferreira",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucpoQ-qK6KxXu4aEu2Tlvk8VJ0P9mDvzCwuiVSMIvuc=w36-h36-p-c0x00000000-rp-mo-ba5-br100",
+      "comment": "É uma das melhores praias de Portugal. Temos de ir de comboio ou a pé. O parking é caro, a não ser que consiga encontrar lugar na estrada. Bons restaurantes na praia, WC, serviço de desportos náuticos. Praia muito comprida  e com zonas bem isoladas. Privacidade total. Água cristalina e de temperatura atlântica. Percebe-se que a água é sempre renovada pelas correntes.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Claudia Lagna",
+      "photoAuthor": "https://lh3.googleusercontent.com/a/AItbvmnOvsfTAqD_0fTHy3btF9aA_nixm03KklRNwkP8=w36-h36-p-c0x00000000-rp-mo-ba5-br100",
+      "comment": "É só a melhor oração da zona de Tavira. De muito fácil acesso. Tem estacionamento gratuito ou pago. Para encontrar o estacionamento gratuito, convém ir cedo. Existem 2 formas de ter acesso a esta praia. Pode ir a pé ( são mais ou menos 1,5 km a partir da aldeamento turístico ou pode ir no tradicional comboio. ( este comboio tem o valor de 3,60€ ida e volta por pessoa. Funciona até às 19h.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Sonia Gonçalves",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZuconb_N_eIFuqrd7bemChNaArBGuLjaTNK7j19XQSA=w36-h36-p-c0x00000000-rp-mo-br100",
+      "comment": "Acesso à praia através do comboio ou a pé. Bilhete ida/volta são 3,60€ e demora uns 10min. Praia muito boa, água com temperatura fantástica com pouca ondulação. Têm uns restaurantes e lojas. Casas de banho limpas.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Joaquim Rocha",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucpe1Qk3P3iwM2eCyU6PBbLLQBq8lwGbdiMw1ewqlw=w36-h36-p-c0x00000000-rp-mo-ba6-br100",
+      "comment": "Praia bonita e espaçosa dentro da reserva natural da Ria Formosa. Tem um comboio de acesso à praia, mas também pode ser feito a pé. Não são permitidas bicicletas ou veículos motorizados. A única coisa contra será o acesso de pessoas com limitações de mobilidade. Aconselho a visita.",
+      "gradeComment": 4
+    },
+    {
+      "author": "MARIA DOS PRAZERES CAMPOS MARTINS",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucoZmLplhwVUO19VdFMTh33EDF4HBOQL2lv_eLTa=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "Sendo a primeira vez que fui a esta praia, fiquei fascinada! Fez-me lembrar o antigamente. Deixar o carro no estacionamento e apanhar um pequeno comboio que nos leva à praia, adorei,! Tem uma boa oferta de comidas e bebidas, para todos os bolsos. Recomendo ❤️",
+      "gradeComment": 5
+    },
+    {
+      "author": "Filipe Santos",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucowtFabJb4RGhZIedDOmik7bXxglGCQmJHkBizI2_g=w36-h36-p-c0x00000000-rp-mo-ba5-br100",
+      "comment": "Praia muito bonita com a particularidade de ter o museu(cemitério) de âncoras como pano de fundo. Tem um comboio para poupar a caminhada de cerca de 15 minutos desde o estacionamento até à praia. Pena o comércio e restauração abusar forte nos preços.",
+      "gradeComment": 4
+    },
+    {
+      "author": "Helena Godinho",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucrQhSxjjJxn0CbiGnrn-CT4ucB2gf5WR7dMVwpS=w36-h36-p-c0x00000000-rp-mo-ba3-br100",
+      "comment": "Magnífica praia onde todas as necessidades podem ser supridas: bar, restaurante, lojinhas, WC, vigilância e até comboio como alternativa ao acesso pedonal. Ir cedo e voltar só qdo o sol se põe 😊",
+      "gradeComment": 5
+    },
+    {
+      "author": "Joana Araujo",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucplX88jcmmedrx_wiMZwWsW4Hn9tQ9DGyQiMCtRzEY=w36-h36-p-c0x00000000-rp-mo-br100",
+      "comment": "A minha praia favorita. A tranquilidade e a serenidade que transmite é reconfortante. Vou para la de férias há 30 anos. Um Verão sem ir lá não é a mesma coisa.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Elisabete Silva",
+      "photoAuthor": "https://lh3.googleusercontent.com/a/AItbvmmdZB2AL8c_AkXCGUJWV6BKtOFNDot9JkTXzXuH=w36-h36-p-c0x00000000-rp-mo-br100",
+      "comment": "Tem pouco estacionamento na rua por isso tivemos de estacionar no parque pago do aldeamento praia del rei. Pode ir à pé cerca de 1km ou de comboio pagando cerca de 3e ida e volta ou cerca de 1.5e só uma viagem. Como tinha muita fila optamos por ir a pé. Praia muito grande e bonita mas com agua um pouco fria. Tem lá restaurantes, cafés e loja de souvenirs.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Catarina Xavier",
+      "photoAuthor": "https://lh3.googleusercontent.com/a/AItbvmnF_kex85jEm8IKN59Vq51LcxQFcqTSW_NaT2DF=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "Das praias mais bonitas de Portugal, não só pela paisagem como pelo cemitério de âncoras existente nas dunas. De acesso muito característico e relaxante de comboio, com uma vista incrível para a zona protegida da Ria formosa. Bares e restaurantes perto da praia e um excelente ambiente.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Joaquim Oliveira",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucpQdIdT4KlHVHZBu_1ExbY9i3pMzbHoo1BHYIixVw=w36-h36-p-c0x00000000-rp-mo-ba3-br100",
+      "comment": "Praia a visitar... Muito linda... Comboio para a praia 1.80€ para cada lado",
+      "gradeComment": 5
+    },
+    {
+      "author": "Rui Ferreira",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucp5bcxSrv2koP7rmD2xUrfGIreE_sIOPVWvdcXajQ=w36-h36-p-c0x00000000-rp-mo-ba3-br100",
+      "comment": "Uma das melhores praias do Algarve, com bons restaurante e muito espaço mesmo em pleno Agosto, com o pormenor de ter uma das poucas praias naturistas do Algarve!",
+      "gradeComment": 5
+    },
+    {
+      "author": "Rita Ferreira",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucrze2Gs8TQZ7oIiCU0UGa468pe7TmT_efm5A2NjKw=w36-h36-p-c0x00000000-rp-mo-ba5-br100",
+      "comment": "Praia com acesso pedonal e por comboio, este sujeito a pagamento, que faz as delícias da criançada. Com um lindo e extenso areal, possui cafés, bares, restaurantes, wcs, lojinhas e ainda o museu do atum. O mar é um pouco mais agitado quando comparado ao mar das ilhas da ria formosa. Tivemos o privilégio de observar golfinhos do areal.",
+      "gradeComment": 4
+    },
+    {
+      "author": "Douglas Sena",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucpILUPoetFleW5EAbtunrf9LSF6KmcVOUEawFgkMQ=w36-h36-p-c0x00000000-rp-mo-ba5-br100",
+      "comment": "Praticamente a melhor praia de Santa Luzia 🌊... Super recomendo a parte da Praia do Homem Nu, é muito tranquila e em épocas de Covid-19 tem muito pouca gente e pode se ficar bem  a vontade! PS:para se chegar lá tem que andar um bocadinho além da praia vigiada para o lado direito e ir caminhando até encontrar bom local para por o chapéu de sol 🔆 Boa praia e bom verão 2021 a todos nós 😀🎋🇪🇺🇵🇹🌅",
+      "gradeComment": 5
+    },
+    {
+      "author": "Marco Coelho",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucpXtBmb9RKnxcW-vHszMrkPMLYe2wiLK-7vX3zyJA=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "Adorei a praia. Acesso é feito de comboio ou a pé. Um excelente spot para um bom dia de praia em família.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Nuno Santos",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucr9Ehj5lVfQZO7nWgjcs4eDgYTb6IUZ_PWh7to6dA=w36-h36-p-c0x00000000-rp-mo-ba5-br100",
+      "comment": "Excelente praia no seu todo. Muito estacionamento embora pago, a experiência da viagem de comboio e a zona de restauração/museu do atum mais o cemitério das âncoras.",
+      "gradeComment": 5
+    },
+    {
+      "author": "nuno naybet",
+      "photoAuthor": "https://lh3.googleusercontent.com/a/AItbvmmH2OThSXmy0AwOXnzl34Fb3AEA5jP9MO5Bkjvn=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "Esta praia tem característica as fatechas velhas no areal, o que dá um toque de personalidade e beleza à praia. A água é boa, mas por norma apanho sempre vento... junto à praia à comércio para comer, beber e comprar roupa ou lembranças.  Wc limpos disponíveis aos banhistas. O passeio de comboio até à praia é obrigatório.",
+      "gradeComment": 3
+    },
+    {
+      "author": "Nuno da Cunha Pires",
+      "photoAuthor": "https://lh3.googleusercontent.com/a/AItbvmmo3yunWPYnlo6wgRdB9cciGLXMl0FaqHWKEFK0=w36-h36-p-c0x00000000-rp-mo-ba3-br100",
+      "comment": "O caminho até à praia pode ser feito de comboio e a caminhar... Sendo um passeio muito agradável. A água é transparente e bastante límpida. Quem quiser maior privacidade pode caminhar para esquerda até à praia do estreito ou para a direita até à praia do homem nu.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Leonardo Lemes da Costa",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucqZpnh7WqmZACLGFqlhhtSru_rO6FZ3w-Cu2fLT6vU=w36-h36-p-c0x00000000-rp-mo-ba3-br100",
+      "comment": "A praia é linda, tem bares, restaurantes e cadeiras e mesa a beira da praia.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Pedro Costa",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucrVqj0KBnl32E8Bu7aWiJxZY2uxabfAcxwx_MZlvw=w36-h36-p-c0x00000000-rp-mo-ba5-br100",
+      "comment": "Ótimo local para umas férias em família. Praia fabulosa, com uma temperatura de água boa, local calmo. Para levar os mais novos a divertirem se na água, contando com o comboio que faz o trajecto. Segundo ano e mantém se os mesmos pressupostos.",
+      "gradeComment": 4
+    }
+  ],
+  "peakHours": [
+    {
+      "Sunday": [
+        {
+          "hour": "04:00",
+          "percent": 1
+        },
+        {
+          "hour": "05:00",
+          "percent": 1
+        },
+        {
+          "hour": "06:00",
+          "percent": 1
+        },
+        {
+          "hour": "08:00",
+          "percent": 4
+        },
+        {
+          "hour": "09:00",
+          "percent": 17
+        },
+        {
+          "hour": "10:00",
+          "percent": 42
+        },
+        {
+          "hour": "11:00",
+          "percent": 72
+        },
+        {
+          "hour": "12:00",
+          "percent": 92
+        },
+        {
+          "hour": "13:00",
+          "percent": 94
+        },
+        {
+          "hour": "14:00",
+          "percent": 89
+        },
+        {
+          "hour": "15:00",
+          "percent": 88
+        },
+        {
+          "hour": "16:00",
+          "percent": 89
+        },
+        {
+          "hour": "17:00",
+          "percent": 78
+        },
+        {
+          "hour": "18:00",
+          "percent": 54
+        },
+        {
+          "hour": "19:00",
+          "percent": 28
+        },
+        {
+          "hour": "20:00",
+          "percent": 10
+        },
+        {
+          "hour": "21:00",
+          "percent": 2
+        },
+        {
+          "hour": "22:00",
+          "percent": 1
+        },
+        {
+          "hour": "23:00",
+          "percent": 1
+        },
+        {
+          "hour": "00:00",
+          "percent": 1
+        },
+        {
+          "hour": "01:00",
+          "percent": 1
+        },
+        {
+          "hour": "02:00",
+          "percent": 1
+        },
+        {
+          "hour": "03:00",
+          "percent": 1
+        }
+      ]
+    },
+    {
+      "Monday": [
+        {
+          "hour": "05:00",
+          "percent": 1
+        },
+        {
+          "hour": "06:00",
+          "percent": 1
+        },
+        {
+          "hour": "07:00",
+          "percent": 1
+        },
+        {
+          "hour": "08:00",
+          "percent": 1
+        },
+        {
+          "hour": "09:00",
+          "percent": 9
+        },
+        {
+          "hour": "10:00",
+          "percent": 29
+        },
+        {
+          "hour": "11:00",
+          "percent": 56
+        },
+        {
+          "hour": "12:00",
+          "percent": 75
+        },
+        {
+          "hour": "13:00",
+          "percent": 76
+        },
+        {
+          "hour": "14:00",
+          "percent": 68
+        },
+        {
+          "hour": "15:00",
+          "percent": 64
+        },
+        {
+          "hour": "16:00",
+          "percent": 64
+        },
+        {
+          "hour": "17:00",
+          "percent": 57
+        },
+        {
+          "hour": "18:00",
+          "percent": 41
+        },
+        {
+          "hour": "19:00",
+          "percent": 22
+        },
+        {
+          "hour": "20:00",
+          "percent": 9
+        },
+        {
+          "hour": "21:00",
+          "percent": 2
+        }
+      ]
+    },
+    {
+      "Tuesday": [
+        {
+          "hour": "08:00",
+          "percent": 4
+        },
+        {
+          "hour": "09:00",
+          "percent": 14
+        },
+        {
+          "hour": "10:00",
+          "percent": 33
+        },
+        {
+          "hour": "11:00",
+          "percent": 54
+        },
+        {
+          "hour": "12:00",
+          "percent": 66
+        },
+        {
+          "hour": "13:00",
+          "percent": 65
+        },
+        {
+          "hour": "14:00",
+          "percent": 62
+        },
+        {
+          "hour": "15:00",
+          "percent": 66
+        },
+        {
+          "hour": "16:00",
+          "percent": 68
+        },
+        {
+          "hour": "17:00",
+          "percent": 56
+        },
+        {
+          "hour": "18:00",
+          "percent": 35
+        },
+        {
+          "hour": "19:00",
+          "percent": 15
+        },
+        {
+          "hour": "20:00",
+          "percent": 4
+        }
+      ]
+    },
+    {
+      "Wednesday": [
+        {
+          "hour": "04:00",
+          "percent": 1
+        },
+        {
+          "hour": "07:00",
+          "percent": 1
+        },
+        {
+          "hour": "08:00",
+          "percent": 4
+        },
+        {
+          "hour": "09:00",
+          "percent": 13
+        },
+        {
+          "hour": "10:00",
+          "percent": 32
+        },
+        {
+          "hour": "11:00",
+          "percent": 54
+        },
+        {
+          "hour": "12:00",
+          "percent": 68
+        },
+        {
+          "hour": "13:00",
+          "percent": 70
+        },
+        {
+          "hour": "14:00",
+          "percent": 67
+        },
+        {
+          "hour": "15:00",
+          "percent": 68
+        },
+        {
+          "hour": "16:00",
+          "percent": 66
+        },
+        {
+          "hour": "17:00",
+          "percent": 54
+        },
+        {
+          "hour": "18:00",
+          "percent": 36
+        },
+        {
+          "hour": "19:00",
+          "percent": 18
+        },
+        {
+          "hour": "20:00",
+          "percent": 7
+        },
+        {
+          "hour": "21:00",
+          "percent": 2
+        },
+        {
+          "hour": "23:00",
+          "percent": 1
+        },
+        {
+          "hour": "00:00",
+          "percent": 1
+        },
+        {
+          "hour": "01:00",
+          "percent": 1
+        },
+        {
+          "hour": "02:00",
+          "percent": 1
+        },
+        {
+          "hour": "03:00",
+          "percent": 1
+        }
+      ]
+    },
+    {
+      "Thursday": [
+        {
+          "hour": "05:00",
+          "percent": 1
+        },
+        {
+          "hour": "06:00",
+          "percent": 1
+        },
+        {
+          "hour": "08:00",
+          "percent": 4
+        },
+        {
+          "hour": "09:00",
+          "percent": 14
+        },
+        {
+          "hour": "10:00",
+          "percent": 35
+        },
+        {
+          "hour": "11:00",
+          "percent": 61
+        },
+        {
+          "hour": "12:00",
+          "percent": 80
+        },
+        {
+          "hour": "13:00",
+          "percent": 83
+        },
+        {
+          "hour": "14:00",
+          "percent": 77
+        },
+        {
+          "hour": "15:00",
+          "percent": 78
+        },
+        {
+          "hour": "16:00",
+          "percent": 81
+        },
+        {
+          "hour": "17:00",
+          "percent": 72
+        },
+        {
+          "hour": "18:00",
+          "percent": 47
+        },
+        {
+          "hour": "19:00",
+          "percent": 22
+        },
+        {
+          "hour": "20:00",
+          "percent": 7
+        },
+        {
+          "hour": "21:00",
+          "percent": 1
+        },
+        {
+          "hour": "22:00",
+          "percent": 1
+        },
+        {
+          "hour": "23:00",
+          "percent": 1
+        },
+        {
+          "hour": "00:00",
+          "percent": 1
+        }
+      ]
+    },
+    {
+      "Friday": [
+        {
+          "hour": "04:00",
+          "percent": 1
+        },
+        {
+          "hour": "05:00",
+          "percent": 1
+        },
+        {
+          "hour": "06:00",
+          "percent": 1
+        },
+        {
+          "hour": "08:00",
+          "percent": 5
+        },
+        {
+          "hour": "09:00",
+          "percent": 16
+        },
+        {
+          "hour": "10:00",
+          "percent": 36
+        },
+        {
+          "hour": "11:00",
+          "percent": 60
+        },
+        {
+          "hour": "12:00",
+          "percent": 77
+        },
+        {
+          "hour": "13:00",
+          "percent": 82
+        },
+        {
+          "hour": "14:00",
+          "percent": 79
+        },
+        {
+          "hour": "15:00",
+          "percent": 80
+        },
+        {
+          "hour": "16:00",
+          "percent": 81
+        },
+        {
+          "hour": "17:00",
+          "percent": 71
+        },
+        {
+          "hour": "18:00",
+          "percent": 49
+        },
+        {
+          "hour": "19:00",
+          "percent": 25
+        },
+        {
+          "hour": "20:00",
+          "percent": 8
+        },
+        {
+          "hour": "21:00",
+          "percent": 1
+        },
+        {
+          "hour": "22:00",
+          "percent": 1
+        },
+        {
+          "hour": "23:00",
+          "percent": 1
+        },
+        {
+          "hour": "00:00",
+          "percent": 1
+        },
+        {
+          "hour": "01:00",
+          "percent": 1
+        },
+        {
+          "hour": "02:00",
+          "percent": 1
+        },
+        {
+          "hour": "03:00",
+          "percent": 1
+        }
+      ]
+    },
+    {
+      "Saturday": [
+        {
+          "hour": "04:00",
+          "percent": 1
+        },
+        {
+          "hour": "05:00",
+          "percent": 1
+        },
+        {
+          "hour": "06:00",
+          "percent": 1
+        },
+        {
+          "hour": "08:00",
+          "percent": 5
+        },
+        {
+          "hour": "09:00",
+          "percent": 20
+        },
+        {
+          "hour": "10:00",
+          "percent": 48
+        },
+        {
+          "hour": "11:00",
+          "percent": 81
+        },
+        {
+          "hour": "12:00",
+          "percent": 100
+        },
+        {
+          "hour": "13:00",
+          "percent": 96
+        },
+        {
+          "hour": "14:00",
+          "percent": 87
+        },
+        {
+          "hour": "15:00",
+          "percent": 89
+        },
+        {
+          "hour": "16:00",
+          "percent": 96
+        },
+        {
+          "hour": "17:00",
+          "percent": 89
+        },
+        {
+          "hour": "18:00",
+          "percent": 62
+        },
+        {
+          "hour": "19:00",
+          "percent": 31
+        },
+        {
+          "hour": "20:00",
+          "percent": 11
+        },
+        {
+          "hour": "21:00",
+          "percent": 2
+        },
+        {
+          "hour": "22:00",
+          "percent": 1
+        },
+        {
+          "hour": "23:00",
+          "percent": 1
+        },
+        {
+          "hour": "00:00",
+          "percent": 1
+        },
+        {
+          "hour": "01:00",
+          "percent": 1
+        },
+        {
+          "hour": "02:00",
+          "percent": 1
+        },
+        {
+          "hour": "03:00",
+          "percent": 1
+        }
+      ]
+    }
+  ],
+  "relatedSearches": [
+    "o que fazer em tavira",
+    "tavira portugal mapa"
+  ],
+  "relateds": [
+    {
+      "mainName": "Ilha de Tavira",
+      "url": null
+    },
+    {
+      "mainName": "Praia da Ilha de Tavira",
+      "url": null
+    },
+    {
+      "mainName": "Praia da Terra Estreita",
+      "url": null
+    },
+    {
+      "mainName": "Praia do Homem Nu",
+      "url": null
+    },
+    {
+      "mainName": "Cemitério das âncoras",
+      "url": null
+    },
+    {
+      "mainName": "Praia de Cabanas",
+      "url": null
+    },
+    {
+      "mainName": "Ponte antiga sobre o Rio Gilão",
+      "url": null
+    },
+    {
+      "mainName": "Mata Da Conceição",
+      "url": null
+    },
+    {
+      "mainName": "Castelo de Tavira",
+      "url": null
+    },
+    {
+      "mainName": "Ria Formosa",
+      "url": null
+    },
+    {
+      "mainName": "Ilha da Armona",
+      "url": null
+    },
+    {
+      "mainName": "Praia de Cacela Velha",
+      "url": null
+    },
+    {
+      "mainName": "Rio Gilao",
+      "url": null
+    },
+    {
+      "mainName": "Praia da Fuseta (Mar)",
+      "url": null
+    },
+    {
+      "mainName": "Praia da Barra Velha",
+      "url": null
+    },
+    {
+      "mainName": "Praia das Cascas",
+      "url": null
+    },
+    {
+      "mainName": "Praia dos Tesos",
+      "url": null
+    },
+    {
+      "mainName": "Praça da República",
+      "url": null
+    },
+    {
+      "mainName": "Praia Verde",
+      "url": null
+    },
+    {
+      "mainName": "Praia da Arrifana",
+      "url": null
+    },
+    {
+      "mainName": "Ilha da Culatra",
+      "url": null
+    },
+    {
+      "mainName": "Praia do Carvalho",
+      "url": null
+    },
+    {
+      "mainName": "Ilha de Cabanas",
+      "url": null
+    },
+    {
+      "mainName": "Ilha da Fuzeta",
+      "url": null
+    }
+  ]
+}

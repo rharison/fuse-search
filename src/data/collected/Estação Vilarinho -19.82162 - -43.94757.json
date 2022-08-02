@@ -1,0 +1,951 @@
+{
+  "mainName": "Estação Vilarinho",
+  "slug": "estacao-vilarinho",
+  "category": "Estação de metrô",
+  "locationInformation": {
+    "latitude": "-19.82162",
+    "longitude": "-43.94757"
+  },
+  "basicInformation": [
+    {
+      "label": "endereço",
+      "tooltip": "Copiar endereço",
+      "text": "Av. Vilarinho, 36 - Vila Cloris, Belo Horizonte - MG, 31610-070",
+      "icon": "https://www.gstatic.com/images/icons/material/system_gm/1x/place_gm_blue_24dp.png"
+    },
+    {
+      "label": "telefone",
+      "tooltip": "Copiar número de telefone",
+      "text": "(31) 3250-3901",
+      "icon": "https://www.gstatic.com/images/icons/material/system_gm/1x/phone_gm_blue_24dp.png"
+    },
+    {
+      "label": "Code",
+      "tooltip": "Copiar Plus Code",
+      "text": "53H2+9X Belo Horizonte, MG",
+      "icon": "https://maps.gstatic.com/mapfiles/maps_lite/images/2x/ic_plus_code.png"
+    }
+  ],
+  "ratingInformation": {
+    "basicRatingInformation": {
+      "averageGrade": 3.8,
+      "totalOfEvaluations": 264
+    },
+    "ratingsByGrade": [
+      {
+        "grade": 5,
+        "totalRatings": 117
+      },
+      {
+        "grade": 4,
+        "totalRatings": 60
+      },
+      {
+        "grade": 3,
+        "totalRatings": 45
+      },
+      {
+        "grade": 2,
+        "totalRatings": 13
+      },
+      {
+        "grade": 1,
+        "totalRatings": 29
+      }
+    ]
+  },
+  "ratingTags": [
+    {
+      "tag": "ônibus",
+      "count": 33,
+      "tooltip": "ônibus, mencionado em 33 avaliações"
+    },
+    {
+      "tag": "shopping",
+      "count": 12,
+      "tooltip": "shopping, mencionado em 12 avaliações"
+    },
+    {
+      "tag": "organizada",
+      "count": 8,
+      "tooltip": "organizada, mencionado em 8 avaliações"
+    },
+    {
+      "tag": "informações",
+      "count": 7,
+      "tooltip": "informações, mencionado em 7 avaliações"
+    },
+    {
+      "tag": "banheiro",
+      "count": 6,
+      "tooltip": "banheiro, mencionado em 6 avaliações"
+    },
+    {
+      "tag": "escadas rolantes",
+      "count": 6,
+      "tooltip": "escadas rolantes, mencionado em 6 avaliações"
+    },
+    {
+      "tag": "usuários",
+      "count": 5,
+      "tooltip": "usuários, mencionado em 5 avaliações"
+    },
+    {
+      "tag": "ser",
+      "count": 5,
+      "tooltip": "ser, mencionado em 5 avaliações"
+    },
+    {
+      "tag": "região",
+      "count": 5,
+      "tooltip": "região, mencionado em 5 avaliações"
+    },
+    {
+      "tag": "sinalização",
+      "count": 4,
+      "tooltip": "sinalização, mencionado em 4 avaliações"
+    }
+  ],
+  "featuredPhotos": [
+    "https://lh5.googleusercontent.com/p/AF1QipMRmDSNio6DqehtZjg5CrQ-FGMkQaA9B0SicgcC=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipM3tIz0f3-8njruNQOQ2LL8EdmUJShOJJgiIjWx=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPYHdJuHMfBbehcKPMkn2NCELl-Mk0v0puzi9qZ=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNNpgvSgj5kIS3adIE2pnllfPTEnpzSytEIeSFK=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPMhXDO0ho4LwYow1Of-XPnAlenNcnNi3Oa0qU=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNq6jW0aH9nYzN4bZS-x-W_QAOoSQgOJWFWqkX8=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOiL5mXhKRxpLo2uTrXau4ju2xqWD7JRcTrBvYT=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMH-U9lUkj3b5O6GR33NHkoDkINcMq6meus7n88=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMibWV_b_sUGbGv9CbB1O6QpWpClO7m06CUdnvJ=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPEVKgOD9r2oayiO5xSv6WXpv2U21v8oKGe-Og_=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPVV5YHJ1F9UxwVrgG5oJJKZv2w6ozqB-F_nIjO=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPPNhTyV_z3viUxGeDWbPI_WLWmGdeW74jUpit1=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPeXFLGDEusL2vhlHhNev7Dhevd27W1WX8C6W0=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPPzYC1KUWmJHYU-Iq5ienCf065ALHW4KOLXuX7=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPY0byo5xBiKUvA_GObq_7lLeU0g2rqCeKKiPQW=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOx3Z_Sg9T4KVGulxs3id7tKz0tscyKNbf7GmkU=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPEuF7ipobdfgLZbvM1-a6YQ5__YvNhVHQ9JwAZ=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPBaoSyomn_wQBkZbl0WC2YZUpDYqCjQMehAkvO=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMIBxqBup743ZdGs0Ro9gxJVL8mViypLJxck_Ll=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOF78nCQ9hBnCxb-giI1ECbVec0e4bfcszZnh7C=w1024-h576-k-no"
+  ],
+  "topComments": [
+    {
+      "author": "Marcelinho Dias",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucrqWay2qyvWJ4ACNGvhwgJTWWuc1zv1tTZzp0fj=w36-h36-p-c0x00000000-rp-mo-ba6-br100",
+      "comment": "Eu vim ate este lugar para conhecer o Shopping Estação BH e claro por consequência o metro e a estacao Vilarinho, que de quem sai do centro sentido bairro é a ultima Estação. Achei muito limpo a estação, funcionarios super atenciosos me deram informações adicionais bacanas sobre a regiao e metro, passagem a R$ 4,50. Este tem acesso ao shopping Estação BH e também ao terminal de onibus. Lugar tem acessibilidade para quem for deficiente. Gostei. Achei este local muito mais organizado do que as estações da cidade do Recife que tambem é administrado pela CBTU, posso comparar pois eu fui em Recife passear e digo que BH esta bem servido. Parabéns! Segue estrelas.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Nayara Rafaela",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucrmnPmu-3bUDBIGyGUWAFAgsAXX-8cd5ky9XD-vw8k=w36-h36-p-c0x00000000-rp-mo-ba3-br100",
+      "comment": "Estação Vilarinho  lugar tranquilo tem ,ônibus  sentido bairros. Move sentido centro e estação de metrô, fora que o shopping estação fica na parte superior dela",
+      "gradeComment": 5
+    },
+    {
+      "author": "Lorena Perpetuo",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucqha1cgzQD1R5_MYD6k7A6BAv3V013zaS4NnSCl1w=w36-h36-p-c0x00000000-rp-mo-br100",
+      "comment": "O metrô de BH precisa ser ampliado. Atende uma pequena parcela da população, deveria atender muito mais. A região metropolitana de BH cresce à cada dia, mas o transporte público não.",
+      "gradeComment": 3
+    },
+    {
+      "author": "Keilla Xavier",
+      "photoAuthor": "https://lh3.googleusercontent.com/a/AItbvmkctZ1vAttbVH7tuKKyHgmJ3aLuiQPclPmZkKv0=w36-h36-p-c0x00000000-rp-mo-br100",
+      "comment": "O tempo de espera e muito grande , caro e não tem quadro de horário disponível , tem q espera a boa vontade deles passarem nos intervalos coreto, coisa q nunca acontece,  falta de respeito total .",
+      "gradeComment": 1
+    },
+    {
+      "author": "fsociety",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucpSV577ISvGCyqxW0jAMw7x74n9HtYnfduMdNqGnQ=w36-h36-p-c0x00000000-rp-mo-br100",
+      "comment": "Não retornaram com os bebedouros e a única maneira de conseguir água é comprando ou na smart fit",
+      "gradeComment": 3
+    },
+    {
+      "author": "Rafael Fonseca",
+      "photoAuthor": "https://lh3.googleusercontent.com/a/AItbvmmeWV5uK4LOPvIlvWq2IKFvv780PDAOsXrf-tXt=w36-h36-p-c0x00000000-rp-mo-ba6-br100",
+      "comment": "A estação é bem ampla. Há conexão com o metro e acesso a diversas linhas de ônibus. A partir da estação você consegue se deslocar para qualquer região da cidade. Na estação você também poderá acessar o metro de Belo Horizonte. Há vários funcionários para auxiliá-lo e a sinalização facilita quem não conhece o lugar.",
+      "gradeComment": 4
+    },
+    {
+      "author": "Libaney Crispen",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucqBQjlY24gri3cfQxQ9372bG6nc1xCPADVmuL57GQ=w36-h36-p-c0x00000000-rp-mo-ba5-br100",
+      "comment": "Foi muito bom, tive que pegar um ônibus para o bairro Serra Verde e foi fácil o acesso!!",
+      "gradeComment": 5
+    },
+    {
+      "author": "Celso Palheta",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucq3H3ZsQhv4GrG-PAwcKsDCdBIZ6z5In5TIJLNtHw=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "Falta bancos de espera na plataforma para os clientes diarios do metrô Melhorar o Ar condicionado dos Carros antigos",
+      "gradeComment": 4
+    },
+    {
+      "author": "Yuri Lobão",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucrPl7VuDkuYOptVMqMONtmfShmdFt6Bd83AyfNi1A=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "Estação Terminal do Metrô, última ou primeira das 19 estações que até sem Belo Horizonte atualmente, de Eldorado a Vilarinho. Íntegra Terminal Municipal da BH Bus no Setor Sul e o Terminal Metropolitano da Ótimo no Setor Norte. Fica localizado dentro do Shopping Estação BH tendo acesso direto as dependências de tal.  Passagem atual R$ 4,50  Funcionamento de Segunda a Segunda 05:15 as 23:00 (Inclusive Fins de semana e Feriados)",
+      "gradeComment": 5
+    },
+    {
+      "author": "Barbara Vitoria Eugenio Nascimento",
+      "photoAuthor": "https://lh3.googleusercontent.com/a/AItbvmnCK2Pl1tj8ruHMmJjgu7YFCEra95b1hQmm6JUc=w36-h36-p-c0x00000000-rp-mo-ba3-br100",
+      "comment": "É um grande estabelecimento comercial, em um ponto muito bom! Oferece estacionamento de taxi no interior, comercio diversificado espaço fisico amplo mal aproveitado, horário de funcionamento deixando a desejar; ainda estações de desembarque de onibus regulamentados pelo DER e BHTrans apresentando aspectos limpos; porem na parte do DER presença de muito vendendores ambulantes que se misturam aos passageiros; desnecessario cobrança de acesso do lado norte ao lado sul no que percebo pratica abusiva com transeuntes e usuários,  presença grande de vendedores de bilhetes do BHtrans acomodados em pequeno espaço em determinado horario tornando trabalho extressante refletindo nos usuarios com atitudes grosseiras e descortes!!!.... Ainda, oferece acesso ao trem de passageiros que insiste em afirmar que se trata de metro de superficie oferecendo serviço precario e insuficiente e incompatível com o valor da passagem cobrada. Horario de funcionamento muito tarde ainda presença de funcionários mal educados! Vagões dos trens mal higienizados e apresentado piso molhado colocando em risco integridade física de usuários no pri meiro horario! Porem ambiente seguro de se transitar!",
+      "gradeComment": 4
+    },
+    {
+      "author": "Rogerinho Rccmg",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucp67AeN2iUXP2IlP5NwHpBPuSRywzQTrc4Wl91BDSg=w36-h36-p-c0x00000000-rp-mo-ba6-br100",
+      "comment": "Muito cheio e em tempos de pandemia o perigo é muito grande de se contaminar. Os usuários precisam ser cuidadosos e fazer uso de máscara (se possível usar duas máscaras) álcool em gel e manter distanciamento físico. Estes procedimentos podem salvar vidas. Em tempos normais, gosto muito de ir ao local pois se tornou um ponto de convergência entre usuarios da região norte da cidade!",
+      "gradeComment": 4
+    },
+    {
+      "author": "Helena Helena",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucpz-zuHZcvS_i5NcKQUifA3Hab2fn0S7Q9DXgV4nw=w36-h36-p-c0x00000000-rp-mo-br100",
+      "comment": "o problema é os horários dos ônibus q as vezes sai atrasado",
+      "gradeComment": 4
+    },
+    {
+      "author": "DCR Ribeiro",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucp4To46YLW0T5IIm5Zk4xk23ama39oKnGx05u0c=w36-h36-p-c0x00000000-rp-mo-ba6-br100",
+      "comment": "Estação Vilarinho é fantástica, integração dos terminais de ônibus BH bus/intermunicipal, metrô facilita o acesso à várias localidades. Fora o shopping de arquitetura moderna e ampla com variedades de loja, excelente cinema,estacionamento,BH precisa de mais espaços com a mesma pegada.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Vitor Campolina",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucord9uRLALYcVb61vPaBSH7M7n6-Mdh4qiXlDR6=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "Cada dia que passa eu tomo mais raiva desse lugar",
+      "gradeComment": 1
+    },
+    {
+      "author": "Rosana De Paula",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucpJQETW-dht9YDhJdK0OTO79nMqR_bJS-gMA3nxR38=w36-h36-p-c0x00000000-rp-mo-ba3-br100",
+      "comment": "Não tem banheiro na estação!! Só tem banheiro no shopping, quem está na estação tem q subir até o shopping pra poder usar o banheiro. Falta de consideração com os usuários. Principalmente pra quem tá com criança ou cheio de sacolas ou malas.",
+      "gradeComment": 2
+    },
+    {
+      "author": "Marcos Vinicius",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucrU1IlyC6oltHrlCcFqLIswSGtD4jBIzLlsH6niz4E=w36-h36-p-c0x00000000-rp-mo-br100",
+      "comment": "Minha nossa! Maior bagunça isso aí. Parece um labirinto. Mas tem muitas linhas de ônibus operando...",
+      "gradeComment": 2
+    },
+    {
+      "author": "Edilene Silva",
+      "photoAuthor": "https://lh3.googleusercontent.com/a/AItbvmkjYtjJEctjOP6A05mzNz1yMXnsRphuXjYSfYcS=w36-h36-p-c0x00000000-rp-mo-br100",
+      "comment": "Gosto muito da estaçåo vilarinho tem o shopping Encontra se tudo la",
+      "gradeComment": 5
+    },
+    {
+      "author": "Junio T",
+      "photoAuthor": "https://lh3.googleusercontent.com/a/AItbvmnSbtaAcKLdpDiRqpKMr5VxxREdPfNfttV6bFiY=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "Uma zona! Péssima Idéia de misturar um shopping com estação de ônibus. Escadas rolantes que nunca funciona.....acessibilidade zero. Juntar um transporte público de péssima qualidade, desorganizado, sem fiscalização, sem limpeza e higiene dentro dos ônibus e juntar tudo isso e colocar dentro do shopping é uma grande burrice. Quer ir no shopping, vá no Del Rey entre outros.",
+      "gradeComment": 1
+    },
+    {
+      "author": "Luiz Cesar Fonseca Alves",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucp3LjhZxYx_sBQZ2ojLVnREg-WlcFoBMnzeOMm2=w36-h36-p-c0x00000000-rp-mo-ba3-br100",
+      "comment": "Deveria ter mais horários de moves e escadas rolantes, sempre funcionando",
+      "gradeComment": 4
+    },
+    {
+      "author": "Rodrigo B",
+      "photoAuthor": "https://lh3.googleusercontent.com/a/AItbvmlf1_U64OWr8gEAm0aRABzN6bUEsY3YiPKywOYG=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "O local peca pela limpeza e desorganização de ambulantes que trabalham no local. O wi-fi nem sempre funciona e os horários das linhas de ônibus poderiam ser intercalados e não simultâneos, ou seja se vc perde um determinado ônibus vc perde os das demais linhas que atendem o seu bairro. AFF!",
+      "gradeComment": 3
+    }
+  ],
+  "peakHours": [
+    {
+      "Sunday": [
+        {
+          "hour": "04:00",
+          "percent": 1
+        },
+        {
+          "hour": "05:00",
+          "percent": 5
+        },
+        {
+          "hour": "06:00",
+          "percent": 10
+        },
+        {
+          "hour": "07:00",
+          "percent": 12
+        },
+        {
+          "hour": "08:00",
+          "percent": 11
+        },
+        {
+          "hour": "09:00",
+          "percent": 10
+        },
+        {
+          "hour": "10:00",
+          "percent": 11
+        },
+        {
+          "hour": "11:00",
+          "percent": 14
+        },
+        {
+          "hour": "12:00",
+          "percent": 18
+        },
+        {
+          "hour": "13:00",
+          "percent": 22
+        },
+        {
+          "hour": "14:00",
+          "percent": 26
+        },
+        {
+          "hour": "15:00",
+          "percent": 30
+        },
+        {
+          "hour": "16:00",
+          "percent": 34
+        },
+        {
+          "hour": "17:00",
+          "percent": 36
+        },
+        {
+          "hour": "18:00",
+          "percent": 35
+        },
+        {
+          "hour": "19:00",
+          "percent": 29
+        },
+        {
+          "hour": "20:00",
+          "percent": 21
+        },
+        {
+          "hour": "21:00",
+          "percent": 13
+        },
+        {
+          "hour": "22:00",
+          "percent": 7
+        },
+        {
+          "hour": "23:00",
+          "percent": 2
+        }
+      ]
+    },
+    {
+      "Monday": [
+        {
+          "hour": "04:00",
+          "percent": 10
+        },
+        {
+          "hour": "05:00",
+          "percent": 42
+        },
+        {
+          "hour": "06:00",
+          "percent": 82
+        },
+        {
+          "hour": "07:00",
+          "percent": 81
+        },
+        {
+          "hour": "08:00",
+          "percent": 45
+        },
+        {
+          "hour": "09:00",
+          "percent": 25
+        },
+        {
+          "hour": "10:00",
+          "percent": 30
+        },
+        {
+          "hour": "11:00",
+          "percent": 41
+        },
+        {
+          "hour": "12:00",
+          "percent": 44
+        },
+        {
+          "hour": "13:00",
+          "percent": 40
+        },
+        {
+          "hour": "14:00",
+          "percent": 37
+        },
+        {
+          "hour": "15:00",
+          "percent": 47
+        },
+        {
+          "hour": "16:00",
+          "percent": 70
+        },
+        {
+          "hour": "17:00",
+          "percent": 92
+        },
+        {
+          "hour": "18:00",
+          "percent": 97
+        },
+        {
+          "hour": "19:00",
+          "percent": 80
+        },
+        {
+          "hour": "20:00",
+          "percent": 51
+        },
+        {
+          "hour": "21:00",
+          "percent": 25
+        },
+        {
+          "hour": "22:00",
+          "percent": 9
+        },
+        {
+          "hour": "23:00",
+          "percent": 1
+        }
+      ]
+    },
+    {
+      "Tuesday": [
+        {
+          "hour": "04:00",
+          "percent": 12
+        },
+        {
+          "hour": "05:00",
+          "percent": 44
+        },
+        {
+          "hour": "06:00",
+          "percent": 82
+        },
+        {
+          "hour": "07:00",
+          "percent": 79
+        },
+        {
+          "hour": "08:00",
+          "percent": 46
+        },
+        {
+          "hour": "09:00",
+          "percent": 29
+        },
+        {
+          "hour": "10:00",
+          "percent": 34
+        },
+        {
+          "hour": "11:00",
+          "percent": 43
+        },
+        {
+          "hour": "12:00",
+          "percent": 44
+        },
+        {
+          "hour": "13:00",
+          "percent": 39
+        },
+        {
+          "hour": "14:00",
+          "percent": 37
+        },
+        {
+          "hour": "15:00",
+          "percent": 48
+        },
+        {
+          "hour": "16:00",
+          "percent": 70
+        },
+        {
+          "hour": "17:00",
+          "percent": 91
+        },
+        {
+          "hour": "18:00",
+          "percent": 95
+        },
+        {
+          "hour": "19:00",
+          "percent": 78
+        },
+        {
+          "hour": "20:00",
+          "percent": 51
+        },
+        {
+          "hour": "21:00",
+          "percent": 26
+        },
+        {
+          "hour": "22:00",
+          "percent": 10
+        },
+        {
+          "hour": "23:00",
+          "percent": 2
+        }
+      ]
+    },
+    {
+      "Wednesday": [
+        {
+          "hour": "04:00",
+          "percent": 13
+        },
+        {
+          "hour": "05:00",
+          "percent": 48
+        },
+        {
+          "hour": "06:00",
+          "percent": 86
+        },
+        {
+          "hour": "07:00",
+          "percent": 82
+        },
+        {
+          "hour": "08:00",
+          "percent": 47
+        },
+        {
+          "hour": "09:00",
+          "percent": 26
+        },
+        {
+          "hour": "10:00",
+          "percent": 30
+        },
+        {
+          "hour": "11:00",
+          "percent": 39
+        },
+        {
+          "hour": "12:00",
+          "percent": 41
+        },
+        {
+          "hour": "13:00",
+          "percent": 38
+        },
+        {
+          "hour": "14:00",
+          "percent": 37
+        },
+        {
+          "hour": "15:00",
+          "percent": 48
+        },
+        {
+          "hour": "16:00",
+          "percent": 72
+        },
+        {
+          "hour": "17:00",
+          "percent": 94
+        },
+        {
+          "hour": "18:00",
+          "percent": 100
+        },
+        {
+          "hour": "19:00",
+          "percent": 81
+        },
+        {
+          "hour": "20:00",
+          "percent": 51
+        },
+        {
+          "hour": "21:00",
+          "percent": 25
+        },
+        {
+          "hour": "22:00",
+          "percent": 8
+        },
+        {
+          "hour": "23:00",
+          "percent": 1
+        }
+      ]
+    },
+    {
+      "Thursday": [
+        {
+          "hour": "04:00",
+          "percent": 9
+        },
+        {
+          "hour": "05:00",
+          "percent": 40
+        },
+        {
+          "hour": "06:00",
+          "percent": 77
+        },
+        {
+          "hour": "07:00",
+          "percent": 74
+        },
+        {
+          "hour": "08:00",
+          "percent": 41
+        },
+        {
+          "hour": "09:00",
+          "percent": 24
+        },
+        {
+          "hour": "10:00",
+          "percent": 29
+        },
+        {
+          "hour": "11:00",
+          "percent": 38
+        },
+        {
+          "hour": "12:00",
+          "percent": 40
+        },
+        {
+          "hour": "13:00",
+          "percent": 37
+        },
+        {
+          "hour": "14:00",
+          "percent": 36
+        },
+        {
+          "hour": "15:00",
+          "percent": 45
+        },
+        {
+          "hour": "16:00",
+          "percent": 66
+        },
+        {
+          "hour": "17:00",
+          "percent": 86
+        },
+        {
+          "hour": "18:00",
+          "percent": 90
+        },
+        {
+          "hour": "19:00",
+          "percent": 75
+        },
+        {
+          "hour": "20:00",
+          "percent": 49
+        },
+        {
+          "hour": "21:00",
+          "percent": 24
+        },
+        {
+          "hour": "22:00",
+          "percent": 9
+        },
+        {
+          "hour": "23:00",
+          "percent": 2
+        }
+      ]
+    },
+    {
+      "Friday": [
+        {
+          "hour": "04:00",
+          "percent": 10
+        },
+        {
+          "hour": "05:00",
+          "percent": 37
+        },
+        {
+          "hour": "06:00",
+          "percent": 69
+        },
+        {
+          "hour": "07:00",
+          "percent": 67
+        },
+        {
+          "hour": "08:00",
+          "percent": 39
+        },
+        {
+          "hour": "09:00",
+          "percent": 24
+        },
+        {
+          "hour": "10:00",
+          "percent": 29
+        },
+        {
+          "hour": "11:00",
+          "percent": 38
+        },
+        {
+          "hour": "12:00",
+          "percent": 41
+        },
+        {
+          "hour": "13:00",
+          "percent": 37
+        },
+        {
+          "hour": "14:00",
+          "percent": 37
+        },
+        {
+          "hour": "15:00",
+          "percent": 46
+        },
+        {
+          "hour": "16:00",
+          "percent": 64
+        },
+        {
+          "hour": "17:00",
+          "percent": 79
+        },
+        {
+          "hour": "18:00",
+          "percent": 83
+        },
+        {
+          "hour": "19:00",
+          "percent": 71
+        },
+        {
+          "hour": "20:00",
+          "percent": 50
+        },
+        {
+          "hour": "21:00",
+          "percent": 28
+        },
+        {
+          "hour": "22:00",
+          "percent": 12
+        },
+        {
+          "hour": "23:00",
+          "percent": 4
+        }
+      ]
+    },
+    {
+      "Saturday": [
+        {
+          "hour": "04:00",
+          "percent": 2
+        },
+        {
+          "hour": "05:00",
+          "percent": 12
+        },
+        {
+          "hour": "06:00",
+          "percent": 26
+        },
+        {
+          "hour": "07:00",
+          "percent": 31
+        },
+        {
+          "hour": "08:00",
+          "percent": 26
+        },
+        {
+          "hour": "09:00",
+          "percent": 21
+        },
+        {
+          "hour": "10:00",
+          "percent": 24
+        },
+        {
+          "hour": "11:00",
+          "percent": 31
+        },
+        {
+          "hour": "12:00",
+          "percent": 37
+        },
+        {
+          "hour": "13:00",
+          "percent": 41
+        },
+        {
+          "hour": "14:00",
+          "percent": 42
+        },
+        {
+          "hour": "15:00",
+          "percent": 43
+        },
+        {
+          "hour": "16:00",
+          "percent": 45
+        },
+        {
+          "hour": "17:00",
+          "percent": 48
+        },
+        {
+          "hour": "18:00",
+          "percent": 47
+        },
+        {
+          "hour": "19:00",
+          "percent": 43
+        },
+        {
+          "hour": "20:00",
+          "percent": 34
+        },
+        {
+          "hour": "21:00",
+          "percent": 23
+        },
+        {
+          "hour": "22:00",
+          "percent": 13
+        },
+        {
+          "hour": "23:00",
+          "percent": 6
+        },
+        {
+          "hour": "00:00",
+          "percent": 2
+        }
+      ]
+    }
+  ],
+  "relatedSearches": [
+    "estação vilarinho move",
+    "estação vilarinho ônibus",
+    "estação vilarinho shopping",
+    "horário do metrô saindo da estação vilarinho",
+    "estação venda nova",
+    "metrô bh estação vilarinho",
+    "linha 01 cidade administrativa estação vilarinho",
+    "estação pampulha"
+  ],
+  "relateds": [
+    {
+      "mainName": "Estação Eldorado",
+      "url": null
+    },
+    {
+      "mainName": "Estação de Metrô São Gabriel",
+      "url": null
+    },
+    {
+      "mainName": "Estação Primeiro de Maio",
+      "url": null
+    },
+    {
+      "mainName": "Estação Floramar",
+      "url": null
+    },
+    {
+      "mainName": "Terminal Justinópolis",
+      "url": null
+    },
+    {
+      "mainName": "Estação Lagoinha",
+      "url": null
+    },
+    {
+      "mainName": "Estação Minas Shopping",
+      "url": null
+    },
+    {
+      "mainName": "Estação Central",
+      "url": null
+    },
+    {
+      "mainName": "Estação Cidade Industrial",
+      "url": null
+    },
+    {
+      "mainName": "Estação Carlos Prates",
+      "url": null
+    },
+    {
+      "mainName": "Estação Horto",
+      "url": null
+    },
+    {
+      "mainName": "Estação Barreiro",
+      "url": null
+    },
+    {
+      "mainName": "Estação Calafate",
+      "url": null
+    },
+    {
+      "mainName": "Estação Gameleira",
+      "url": null
+    },
+    {
+      "mainName": "Estação Vila Oeste",
+      "url": null
+    },
+    {
+      "mainName": "Estação Santa Efigênia",
+      "url": null
+    },
+    {
+      "mainName": "Cidade Administrativa de Minas Gerais",
+      "url": null
+    },
+    {
+      "mainName": "Rodoviária de Belo Horizonte",
+      "url": null
+    },
+    {
+      "mainName": "Estação Santa Inês",
+      "url": null
+    },
+    {
+      "mainName": "Estação Santa Teresa",
+      "url": null
+    },
+    {
+      "mainName": "Praça da Savassi",
+      "url": null
+    },
+    {
+      "mainName": "Minas Shopping",
+      "url": null
+    },
+    {
+      "mainName": "Praça Diogo de Vasconcelos",
+      "url": null
+    }
+  ]
+}

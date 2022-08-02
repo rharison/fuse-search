@@ -1,0 +1,776 @@
+{
+  "mainName": "Deck do Pescador",
+  "slug": "deck-do-pescador",
+  "category": "Ponto panorâmico",
+  "locationInformation": {
+    "latitude": "-23.9904376",
+    "longitude": "-46.3068957"
+  },
+  "basicInformation": [
+    {
+      "label": "endereço",
+      "tooltip": "Copiar endereço",
+      "text": "Av. Alm. Saldanha da Gama, s/n - Ponta da Praia, Santos - SP, 11030-401",
+      "icon": "https://www.gstatic.com/images/icons/material/system_gm/1x/place_gm_blue_24dp.png"
+    },
+    {
+      "label": "Code",
+      "tooltip": "Copiar Plus Code",
+      "text": "2M5V+R6 Ponta da Praia, Santos - SP",
+      "icon": "https://maps.gstatic.com/mapfiles/maps_lite/images/2x/ic_plus_code.png"
+    }
+  ],
+  "ratingInformation": {
+    "basicRatingInformation": {
+      "averageGrade": 4.6,
+      "totalOfEvaluations": 4597
+    },
+    "ratingsByGrade": [
+      {
+        "grade": 5,
+        "totalRatings": 3447
+      },
+      {
+        "grade": 4,
+        "totalRatings": 734
+      },
+      {
+        "grade": 3,
+        "totalRatings": 248
+      },
+      {
+        "grade": 2,
+        "totalRatings": 77
+      },
+      {
+        "grade": 1,
+        "totalRatings": 91
+      }
+    ]
+  },
+  "ratingTags": [
+    {
+      "tag": "por do sol",
+      "count": 151,
+      "tooltip": "por do sol, mencionado em 151 avaliações"
+    },
+    {
+      "tag": "navios",
+      "count": 135,
+      "tooltip": "navios, mencionado em 135 avaliações"
+    },
+    {
+      "tag": "reforma",
+      "count": 49,
+      "tooltip": "reforma, mencionado em 49 avaliações"
+    },
+    {
+      "tag": "lanchonete",
+      "count": 41,
+      "tooltip": "lanchonete, mencionado em 41 avaliações"
+    },
+    {
+      "tag": "passeio",
+      "count": 31,
+      "tooltip": "passeio, mencionado em 31 avaliações"
+    },
+    {
+      "tag": "água de coco",
+      "count": 29,
+      "tooltip": "água de coco, mencionado em 29 avaliações"
+    },
+    {
+      "tag": "quiosque",
+      "count": 21,
+      "tooltip": "quiosque, mencionado em 21 avaliações"
+    },
+    {
+      "tag": "relaxar",
+      "count": 20,
+      "tooltip": "relaxar, mencionado em 20 avaliações"
+    },
+    {
+      "tag": "ressaca",
+      "count": 18,
+      "tooltip": "ressaca, mencionado em 18 avaliações"
+    },
+    {
+      "tag": "admirar",
+      "count": 17,
+      "tooltip": "admirar, mencionado em 17 avaliações"
+    }
+  ],
+  "featuredPhotos": [
+    "https://lh5.googleusercontent.com/p/AF1QipOx1XK4zI3Z_Cz1-mHOPUU35-rQXfXBkiOjeC1O=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipO1D_1eNQjapRa7r2gpUChRUea5oHfhXOhqwpf2=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOzSAxsEIbRDBTxpV7PBifx6DbFMpSIzTHjSQnO=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMF_5zflomrO1XOnWgusqjZ6FTI4ktPSzI3lzkF=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMalhIBvLsu1C6PvFuvlXFcPDJYQsanCmkAsuMv=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOauH2yGFWAxOdHm10WHjUTJRR4NeEG_O4afDyO=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMI0CZwMCkei9G4Iqz4Y3Diz71QRQUD9wG1aqg=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipO4qJ1GiEI_ejoalIzzcF0qF7Wa_MtYb7OWLvwP=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipN5BC0J-t_Xpcrd2sxN5xywFdVPj0c-lSKt0UXM=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMjQPBa_T7JTxgHTuTgnVcAlTsefER6JFmjkHBt=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPEhUCBef88Sykb_C1GWNDLyxeAcnGAM-GC5K7o=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOQrwjvxpOSvv4_2KwOf4Faj5g7eQVaIAgF8K2y=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPaXdzdBBe8EqWW8RfWnIlRnSDsRrVl2R5BzEI7=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOLqH15ze4gRBH_XoQmw2NAjGSQ3nbgyXxkFXs4=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipM1hBRlr9em_mhIrDyGdExjf9SgNHmwKzk509AL=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOV1E3oE-513PqLAsl-mde16FCQiDcfSUPRkhbv=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPf16Q5skpBALntteJ8_4ks9fVrRbVJCVqMwdy-=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNzNxqown2X-WCHGI6AtW1LMDCzjUT4HEuZ_F75=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipO82NOQG6gCiDHi6B81gKSvUjenRSw1uU91bTSF=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMV3KCBqWNA3S62OqiPfNf2iphxc-93AZ_iNdVM=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipP5PBUx5gnmjr6fKJ1ysxt8Y_2pDVTX5NcsWCO2=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMAdkBsNErN7CHtzA5EbYfGEQTc8anR4XUjxfQq=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMFDzzcgo8ByINdSoNi15f6DgZQ26QR_5qyvd4A=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMOSXSPJHEC6FTh-oupVnuV2Zakbpsa4fNWNgdu=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPtPe0IWpwRj_rXqgvrzpcwTug2PoY2G4I5K2Uf=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMnklmA0AoBuOjOYpcDXQnxcctc_DLPaV_Ni7A6=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMH7hfyRbfLLybdDFwCX_-hbAnG-7cP1w-q4IMf=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPJRPklWwtltkLPnpUzT3bPVzEZ1izLhqh4r6oA=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNEsXpQi6n_Zsjw_E4xxlTZLaGDb83W2ffijH7j=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNVeaWfbOepLKT3f65BqQHLtbqkLvrMrm1-T-Zn=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipP8I9Ax_8-Mjzu5sI6CkM0wcLtcRz5ltz0hIxfJ=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMjRLStNC-9litf-_BnDs4hUhxDeVGIqP0e6PFt=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPtivN5z3HpB2vIBipSLE2s1b3OgQl53aQ9YG-k=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPp5AqzJv0wxqT7xhI6SDgIczPGj6665YH0qcQ0=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMkkhqTw7EgjSctDEG9Jul8RyEd0t_y5L-Oekph=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNdbe3mQY-wOGNt4V1-bNs3M2lgRyrhDqjCIw9b=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipO96D_hQVa7yBc17ED9f3SN5jYbVtUADrxpvgT7=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipO4aVf0dZiSXeseiZvSuCYxUOns7KEmbZ6JBh92=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMa-msrdgxN7KsYnv8pG-siVpGmE-adn23IY7Lz=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOB3eulrzpjsDV54z-CgddkuLT5A8mBZcDEyCHu=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOufHD_ow9hTfiw22HW0HY_D6A-dHxhOPxk-qHf=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNqqaeOCg1BIPR6D87NcdyftehiuBKCCJNvtAeo=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPi7Ql47LQ4zV2rdZ_2jR-MLXQ2xZrYYui4Xy3m=w1024-h576-k-no"
+  ],
+  "topComments": [
+    {
+      "author": "Clayton da silva",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucpUsINi5p77c0lVm93bhbN0g2eIK15XKHR9geAxGfQ=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "O deck é um ponto turistico excelente. Muito bom assistir a passagem dos navios, as tartarugas se alimentando nas estruturas e de vez em quando sai um peixinho bom.  Tem ótima infraestrutura e organização. Banheiros masculino e feminino e uma lanchonete",
+      "gradeComment": 5
+    },
+    {
+      "author": "Edson Soares Monteiro Monteiro",
+      "photoAuthor": "https://lh3.googleusercontent.com/a/AItbvmmrNDhddAG0Gk7CDu34ZiHNZ_rh_cW7IFV4iEiy=w36-h36-p-c0x00000000-rp-mo-ba3-br100",
+      "comment": "Lugar agradável e aconchegante e bem organizado Ótimo para quem quer tirar um lazer sem gastar muito bom para pescar ou simplesmente ver o lindo por do sol  O ponto negativo e o pouco espaço da lanchonete para os visitantes poderia fazer um mezanino sobre a lanchonete e o banheiro ficaria muito  mais agradável o local  Outro ponto positivo e o banheiro aberto para todos 👏🏽👏🏽👏🏽👏🏽",
+      "gradeComment": 5
+    },
+    {
+      "author": "Aline Campos",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucqMBOodZCoNquK2qjQQF3JWEphYXU70tfzuebub=w36-h36-p-c0x00000000-rp-mo-ba3-br100",
+      "comment": "Ótimo lugar na ponta da praia para apreciar o nascer ou pôr-do-sol. Algumas opções para alimentação em quiosques. É perto de lá também que saem algumas canoas havaianas para aulas. A experiência é maravilhosa, vale a pena.",
+      "gradeComment": 4
+    },
+    {
+      "author": "Luciano Ahualli da Silveira",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucrHmBaUaqUK1c8OoL2HXMeBnWfZa5-t_nkMQNDurEo=w36-h36-p-c0x00000000-rp-mo-ba5-br100",
+      "comment": "Lugar para pescadores e amantes do entardecer. Local é movimentado movimentado no final da tarde,mas não impede uma pescaria divertida.  Tem ótima linha de visão para o pôr do sol, sempre com possibilidade de observar a passagem de navios.  Falta um cuidado da prefeitura em tentar oferecer um pouco mais de conforto para quem visita o local.",
+      "gradeComment": 4
+    },
+    {
+      "author": "Ana Clara Rode",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucooL6LFWpy7CjE3KTA9h3BKzmaBQ6pIa7jKsx1_Og=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "Deck com boa infraestrutura, possui uma vista agradável da paisagem e é possível observar os barcos. Local para curtir o por do sol e apreciar o momento. O local também possui acesso ao mar para a saída com pequenos barcos e canos por exemplo.",
+      "gradeComment": 4
+    },
+    {
+      "author": "Daiane Festa",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucoE4799_Mib8CA9bGdMa6udyImXd5G5TANFG13X=w36-h36-p-c0x00000000-rp-mo-br100",
+      "comment": "Vista maravilhosa, vale muito a pena ir ao por do sol! 🤗😘",
+      "gradeComment": 5
+    },
+    {
+      "author": "Wagner Santos Fc",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucrKi42R-vBFqQn-jboSSn0PVBMv89pjvM434FZQj60=w36-h36-p-c0x00000000-rp-mo-ba5-br100",
+      "comment": "Local destinado à pesca esportiva com uma pequena estrutura para este fim, como bancos e pequenas mesas de apoio em pontos do guarda-corpo. Conta com sanitários e um pequeno e excelente bar com diversas cervejas, coco verde, salgados e um café expresso muito bom. O lugar também é excelente para fotografar, em detalhes, navios e transatlânticos entrando ou saindo do porto. O Deck do Pescador também é um lugar agradabilíssimo para relaxar já que sua vista para o mar e orlas de Santos e São Vicente, acaba sendo uma verdadeira terapia. A rampa náutica integrada a sua estrutura, é utilizada pelos praticantes de esportes aquáticos como canoas havaianas, caiaques e outros. Com todos estes atrativos não é de se admirar que a calçada à sua frente conte com um bom espaço para estacionamento de motos o qual acaba por reunir ali, diversos grupos de motociclismo, com algumas motos que são uma atração a parte. Para finalizar, o sol oferece ao local uma das melhores vistas do seu ocaso! Realmente vale a pena conhecer!",
+      "gradeComment": 5
+    },
+    {
+      "author": "Fernando Momberg",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucrAeebXUJ39GqS1FZ3-feXkCv2iqN_JiryTkO0DeU4=w36-h36-p-c0x00000000-rp-mo-ba5-br100",
+      "comment": "O deck está revitalizado e muito agradável. É o melhor lugar de Santos para ver os grandes navios bem de pertinho e o pôr do sol no fim do dia. Se você está acompanhado, aqui você pode sentar em um dos bancos ao ar livre e bater um bom papo, curtindo a linda paisagem.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Marcelo Praia Grande e Região",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucoMLTSrmB5uYtZMcZK2kHK9UYOzR4gwGtIUIevnEPs=w36-h36-p-c0x00000000-rp-mo-ba5-br100",
+      "comment": "Ótimo local para ver navios e tirar fotos do fim de tarde",
+      "gradeComment": 5
+    },
+    {
+      "author": "Amanda Valença",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucqDELYijuEJZskftn1UeYuEIgyc8_BFb5r88M1dZK8=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "Lugar agradável para pescar, tirar fotos, admirar a paisagem, olhar os navios, ver o por do sol e etc... Ambiente familiar, da pra passear com as crianças, mas não pode levar animais de estimação.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Lara Slatter",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucpHSvA5UrctOSLJx94g-fxs6YhMhEyM2iYiP4y5=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "O local oferece uma bela paisagem pra apreciação e também belas fotos! Uma galera se reúne lá para pescar, bater um papo no quiosque do local e etc. Vale muito a visita! De lá se pode avistar as escunas que saem para passeios, o museu da fortaleza, alguns rebocadores e também alguns dos gigantes navios porta-containers! Fique atento também à visita das garças, peixes e tartarugas sob a plataforma. ((ENTRADA GRATUITA))",
+      "gradeComment": 4
+    },
+    {
+      "author": "Fernando Murata",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucqoqn_tvXExVHLTojJq9eVdpYYr05Qnyn1avNbwgTk=w36-h36-p-c0x00000000-rp-mo-ba5-br100",
+      "comment": "Lugar limpo, seguro e muito agradável para um fim de tarde. Ótimo para ver o pôr do Sol e pescar.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Thais Damy",
+      "photoAuthor": "https://lh3.googleusercontent.com/a/AItbvmlguD5vcM7ptro0O2lQPKGlH8VB7xOx3KYeUsHa=w36-h36-p-c0x00000000-rp-mo-ba3-br100",
+      "comment": "Melhor lugar para se assistir o pôr do sol em Santos. \"Casa\" dos pescadores e remadores que utilizam o local como ponto de encontro aos finais de semana.",
+      "gradeComment": 5
+    },
+    {
+      "author": "roberto motta torres",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucpR_8JvXUuuajW8dxYet_wXmOmcvtZv9-C21l-fVg=w36-h36-p-c0x00000000-rp-mo-ba6-br100",
+      "comment": "Excelente local para ver as embarcações de grande porte passarem pelo canal.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Luiz Fernando Wendler",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucoaeiLNMx1oOl1w8UCWb9EVaXk1l3M5eSbZ6HRatJI=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "Gosto de pescar no Deck, por mais que não venha os peixes desejado, as vezes o local é  maravilhoso.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Adriano Passini",
+      "photoAuthor": "https://lh3.googleusercontent.com/a/AItbvmlX9aC4buogPLKLtyFsLGaM0H_SPSaqCIMQOkRq=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "Lindo local para curtir a Baía de Santos, a entrada é saída de barcos e navios. Deck bem conservado.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Antonio Rabadan Fernandez",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucppwFIqoyRPxd0sHZI9eAVtp7CoXcojGR5vJttl=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "Um deck de pesca onde não tem peixe e estranho. Deveria ter uma rede ao redor que mantivesse peixes de até 50 cm para todos poderem pescar , formar uma proteção contra predadores maiores com viveiro .",
+      "gradeComment": 4
+    },
+    {
+      "author": "Humberto Bertelli",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucpsQ7Y5yCWBmXexKDaXeOVkqN285Fqs1unUbE-Lhw=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "Bom ter o deck, mas a água é cheia de lixo o tempo todo, não tem nenhuma parte coberta pra proteger do sol e nem do chuvisco.",
+      "gradeComment": 3
+    },
+    {
+      "author": "José Aguinaldo da Silva Silva",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucqP61O1Xpf4at1Vnv1nAKyC3ZpwZj7X7pJAPmPc=w36-h36-p-c0x00000000-rp-mo-ba3-br100",
+      "comment": "Lugar muito gostos para se ver um bom por do sol.",
+      "gradeComment": 4
+    },
+    {
+      "author": "Reinaldo Teodoro",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucqI2Irv-tGJqu58RYnnEMTHpoVp_KXDYs8tYgtHXA=w36-h36-p-c0x00000000-rp-mo-ba3-br100",
+      "comment": "Bacana, sempre que possível é bom ver a paisagem, as enormes embarcações, os pescadores, enfim muito pitoresco!",
+      "gradeComment": 4
+    }
+  ],
+  "peakHours": [
+    {
+      "Sunday": [
+        {
+          "hour": "07:00",
+          "percent": 6
+        },
+        {
+          "hour": "08:00",
+          "percent": 16
+        },
+        {
+          "hour": "09:00",
+          "percent": 35
+        },
+        {
+          "hour": "10:00",
+          "percent": 56
+        },
+        {
+          "hour": "11:00",
+          "percent": 68
+        },
+        {
+          "hour": "12:00",
+          "percent": 67
+        },
+        {
+          "hour": "13:00",
+          "percent": 60
+        },
+        {
+          "hour": "14:00",
+          "percent": 61
+        },
+        {
+          "hour": "15:00",
+          "percent": 74
+        },
+        {
+          "hour": "16:00",
+          "percent": 90
+        },
+        {
+          "hour": "17:00",
+          "percent": 100
+        }
+      ]
+    },
+    {
+      "Monday": [
+        {
+          "hour": "07:00",
+          "percent": 5
+        },
+        {
+          "hour": "08:00",
+          "percent": 11
+        },
+        {
+          "hour": "09:00",
+          "percent": 17
+        },
+        {
+          "hour": "10:00",
+          "percent": 21
+        },
+        {
+          "hour": "11:00",
+          "percent": 21
+        },
+        {
+          "hour": "12:00",
+          "percent": 19
+        },
+        {
+          "hour": "13:00",
+          "percent": 17
+        },
+        {
+          "hour": "14:00",
+          "percent": 18
+        },
+        {
+          "hour": "15:00",
+          "percent": 22
+        },
+        {
+          "hour": "16:00",
+          "percent": 28
+        },
+        {
+          "hour": "17:00",
+          "percent": 30
+        },
+        {
+          "hour": "18:00",
+          "percent": 28
+        },
+        {
+          "hour": "19:00",
+          "percent": 21
+        },
+        {
+          "hour": "20:00",
+          "percent": 15
+        },
+        {
+          "hour": "21:00",
+          "percent": 10
+        }
+      ]
+    },
+    {
+      "Tuesday": [
+        {
+          "hour": "07:00",
+          "percent": 4
+        },
+        {
+          "hour": "08:00",
+          "percent": 10
+        },
+        {
+          "hour": "09:00",
+          "percent": 16
+        },
+        {
+          "hour": "10:00",
+          "percent": 20
+        },
+        {
+          "hour": "11:00",
+          "percent": 21
+        },
+        {
+          "hour": "12:00",
+          "percent": 19
+        },
+        {
+          "hour": "13:00",
+          "percent": 17
+        },
+        {
+          "hour": "14:00",
+          "percent": 17
+        },
+        {
+          "hour": "15:00",
+          "percent": 24
+        },
+        {
+          "hour": "16:00",
+          "percent": 33
+        },
+        {
+          "hour": "17:00",
+          "percent": 34
+        },
+        {
+          "hour": "18:00",
+          "percent": 26
+        },
+        {
+          "hour": "19:00",
+          "percent": 17
+        },
+        {
+          "hour": "20:00",
+          "percent": 11
+        },
+        {
+          "hour": "21:00",
+          "percent": 8
+        }
+      ]
+    },
+    {
+      "Wednesday": [
+        {
+          "hour": "07:00",
+          "percent": 7
+        },
+        {
+          "hour": "08:00",
+          "percent": 12
+        },
+        {
+          "hour": "09:00",
+          "percent": 17
+        },
+        {
+          "hour": "10:00",
+          "percent": 21
+        },
+        {
+          "hour": "11:00",
+          "percent": 21
+        },
+        {
+          "hour": "12:00",
+          "percent": 20
+        },
+        {
+          "hour": "13:00",
+          "percent": 19
+        },
+        {
+          "hour": "14:00",
+          "percent": 20
+        },
+        {
+          "hour": "15:00",
+          "percent": 23
+        },
+        {
+          "hour": "16:00",
+          "percent": 28
+        },
+        {
+          "hour": "17:00",
+          "percent": 29
+        },
+        {
+          "hour": "18:00",
+          "percent": 27
+        },
+        {
+          "hour": "19:00",
+          "percent": 21
+        },
+        {
+          "hour": "20:00",
+          "percent": 15
+        },
+        {
+          "hour": "21:00",
+          "percent": 11
+        }
+      ]
+    },
+    {
+      "Thursday": [
+        {
+          "hour": "07:00",
+          "percent": 6
+        },
+        {
+          "hour": "08:00",
+          "percent": 15
+        },
+        {
+          "hour": "09:00",
+          "percent": 24
+        },
+        {
+          "hour": "10:00",
+          "percent": 31
+        },
+        {
+          "hour": "11:00",
+          "percent": 33
+        },
+        {
+          "hour": "12:00",
+          "percent": 29
+        },
+        {
+          "hour": "13:00",
+          "percent": 24
+        },
+        {
+          "hour": "14:00",
+          "percent": 23
+        },
+        {
+          "hour": "15:00",
+          "percent": 31
+        },
+        {
+          "hour": "16:00",
+          "percent": 40
+        },
+        {
+          "hour": "17:00",
+          "percent": 42
+        },
+        {
+          "hour": "18:00",
+          "percent": 34
+        },
+        {
+          "hour": "19:00",
+          "percent": 24
+        },
+        {
+          "hour": "20:00",
+          "percent": 17
+        },
+        {
+          "hour": "21:00",
+          "percent": 13
+        }
+      ]
+    },
+    {
+      "Friday": [
+        {
+          "hour": "07:00",
+          "percent": 5
+        },
+        {
+          "hour": "08:00",
+          "percent": 11
+        },
+        {
+          "hour": "09:00",
+          "percent": 17
+        },
+        {
+          "hour": "10:00",
+          "percent": 23
+        },
+        {
+          "hour": "11:00",
+          "percent": 25
+        },
+        {
+          "hour": "12:00",
+          "percent": 23
+        },
+        {
+          "hour": "13:00",
+          "percent": 20
+        },
+        {
+          "hour": "14:00",
+          "percent": 18
+        },
+        {
+          "hour": "15:00",
+          "percent": 26
+        },
+        {
+          "hour": "16:00",
+          "percent": 43
+        },
+        {
+          "hour": "17:00",
+          "percent": 52
+        }
+      ]
+    },
+    {
+      "Saturday": [
+        {
+          "hour": "07:00",
+          "percent": 7
+        },
+        {
+          "hour": "08:00",
+          "percent": 16
+        },
+        {
+          "hour": "09:00",
+          "percent": 26
+        },
+        {
+          "hour": "10:00",
+          "percent": 34
+        },
+        {
+          "hour": "11:00",
+          "percent": 37
+        },
+        {
+          "hour": "12:00",
+          "percent": 34
+        },
+        {
+          "hour": "13:00",
+          "percent": 28
+        },
+        {
+          "hour": "14:00",
+          "percent": 25
+        },
+        {
+          "hour": "15:00",
+          "percent": 32
+        },
+        {
+          "hour": "16:00",
+          "percent": 45
+        },
+        {
+          "hour": "17:00",
+          "percent": 51
+        }
+      ]
+    }
+  ],
+  "relatedSearches": [
+    "deck de pescador 2022 clash royale",
+    "deck de pescador clash royale",
+    "pescaria no deck de santos",
+    "onde pescar em santos",
+    "pescaria em santos ponta da praia",
+    "pode pescar em santos",
+    "mercado de peixes santos",
+    "monte serrat santos"
+  ],
+  "relateds": [
+    {
+      "mainName": "Jardins da Orla de Santos",
+      "url": null
+    },
+    {
+      "mainName": "Museu de Pesca",
+      "url": null
+    },
+    {
+      "mainName": "Orla e Jardins da Praia de Santos",
+      "url": null
+    },
+    {
+      "mainName": "Igreja Santuário Santo Antônio do Valongo",
+      "url": null
+    },
+    {
+      "mainName": "Fonte Interativa da Ponta da Praia",
+      "url": null
+    },
+    {
+      "mainName": "Pantheon dos Andradas",
+      "url": null
+    },
+    {
+      "mainName": "Aquário Municipal de Santos",
+      "url": null
+    },
+    {
+      "mainName": "Memorial das Conquistas",
+      "url": null
+    },
+    {
+      "mainName": "Biquinha de Anchieta",
+      "url": null
+    },
+    {
+      "mainName": "Praia do Góis",
+      "url": null
+    },
+    {
+      "mainName": "Praia do Embare",
+      "url": null
+    },
+    {
+      "mainName": "Linha Turística do Bonde",
+      "url": null
+    },
+    {
+      "mainName": "Praia da Aparecida",
+      "url": null
+    },
+    {
+      "mainName": "Pinacoteca Benedicto Calixto",
+      "url": null
+    },
+    {
+      "mainName": "Praia do Boqueirão",
+      "url": null
+    },
+    {
+      "mainName": "Museu Pelé",
+      "url": null
+    },
+    {
+      "mainName": "Praia do Gonzaga",
+      "url": null
+    },
+    {
+      "mainName": "Praia do Gonzaginha",
+      "url": null
+    },
+    {
+      "mainName": "Praia do José Menino",
+      "url": null
+    },
+    {
+      "mainName": "Praia do Sangava",
+      "url": null
+    },
+    {
+      "mainName": "Ilha Porchat",
+      "url": null
+    },
+    {
+      "mainName": "Museu do Café",
+      "url": null
+    },
+    {
+      "mainName": "Estádio Urbano Caldeira",
+      "url": null
+    }
+  ]
+}

@@ -1,0 +1,884 @@
+{
+  "mainName": "Zubizuri",
+  "slug": "zubizuri",
+  "category": "Ponte",
+  "locationInformation": {
+    "latitude": "43.2663365",
+    "longitude": "-2.9277723"
+  },
+  "basicInformation": [
+    {
+      "label": "endereço",
+      "tooltip": "Copiar endereço",
+      "text": "Zubizuri, 48001 Bilbao, Biscay, Espanha",
+      "icon": "https://www.gstatic.com/images/icons/material/system_gm/1x/place_gm_blue_24dp.png"
+    },
+    {
+      "label": "Code",
+      "tooltip": "Copiar Plus Code",
+      "text": "738C+GV Bilbau, Espanha",
+      "icon": "https://maps.gstatic.com/mapfiles/maps_lite/images/2x/ic_plus_code.png"
+    },
+    {
+      "label": "merchant",
+      "text": "Reivindicar esta empresa",
+      "icon": "https://www.gstatic.com/images/icons/material/system_gm/1x/verified_user_gm_blue_24dp.png"
+    }
+  ],
+  "ratingInformation": {
+    "basicRatingInformation": {
+      "averageGrade": 4.3,
+      "totalOfEvaluations": 9745
+    },
+    "ratingsByGrade": [
+      {
+        "grade": 5,
+        "totalRatings": 5263
+      },
+      {
+        "grade": 4,
+        "totalRatings": 2919
+      },
+      {
+        "grade": 3,
+        "totalRatings": 1135
+      },
+      {
+        "grade": 2,
+        "totalRatings": 240
+      },
+      {
+        "grade": 1,
+        "totalRatings": 188
+      }
+    ]
+  },
+  "ratingTags": [
+    {
+      "tag": "santiago calatrava",
+      "count": 306,
+      "tooltip": "santiago calatrava, mencionado em 306 avaliações"
+    },
+    {
+      "tag": "tapetes",
+      "count": 206,
+      "tooltip": "tapetes, mencionado em 206 avaliações"
+    },
+    {
+      "tag": "design",
+      "count": 199,
+      "tooltip": "design, mencionado em 199 avaliações"
+    },
+    {
+      "tag": "solo",
+      "count": 146,
+      "tooltip": "solo, mencionado em 146 avaliações"
+    },
+    {
+      "tag": "ria",
+      "count": 112,
+      "tooltip": "ria, mencionado em 112 avaliações"
+    },
+    {
+      "tag": "vidro",
+      "count": 88,
+      "tooltip": "vidro, mencionado em 88 avaliações"
+    },
+    {
+      "tag": "obras",
+      "count": 78,
+      "tooltip": "obras, mencionado em 78 avaliações"
+    },
+    {
+      "tag": "arquitetura moderna",
+      "count": 71,
+      "tooltip": "arquitetura moderna, mencionado em 71 avaliações"
+    },
+    {
+      "tag": "prático",
+      "count": 27,
+      "tooltip": "prático, mencionado em 27 avaliações"
+    },
+    {
+      "tag": "funicular",
+      "count": 14,
+      "tooltip": "funicular, mencionado em 14 avaliações"
+    }
+  ],
+  "featuredPhotos": [
+    "https://lh5.googleusercontent.com/p/AF1QipNMn4SOB5EY5yyJWegj_n7rD_VESWnWdSKh9W-D=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOQB0Lb9UvlQP6-lXY6K-6RIvNjsZihBbFXB6-D=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipO2afp4SlhhghOpc_SSEvhTQVCDPg9JkVmxfAOI=w1024-h576-k-no"
+  ],
+  "topComments": null,
+  "peakHours": [
+    {
+      "Sunday": [
+        {
+          "hour": "04:00",
+          "percent": 2
+        },
+        {
+          "hour": "05:00",
+          "percent": 4
+        },
+        {
+          "hour": "06:00",
+          "percent": 5
+        },
+        {
+          "hour": "07:00",
+          "percent": 5
+        },
+        {
+          "hour": "08:00",
+          "percent": 9
+        },
+        {
+          "hour": "09:00",
+          "percent": 22
+        },
+        {
+          "hour": "10:00",
+          "percent": 46
+        },
+        {
+          "hour": "11:00",
+          "percent": 76
+        },
+        {
+          "hour": "12:00",
+          "percent": 98
+        },
+        {
+          "hour": "13:00",
+          "percent": 99
+        },
+        {
+          "hour": "14:00",
+          "percent": 83
+        },
+        {
+          "hour": "15:00",
+          "percent": 66
+        },
+        {
+          "hour": "16:00",
+          "percent": 65
+        },
+        {
+          "hour": "17:00",
+          "percent": 77
+        },
+        {
+          "hour": "18:00",
+          "percent": 89
+        },
+        {
+          "hour": "19:00",
+          "percent": 85
+        },
+        {
+          "hour": "20:00",
+          "percent": 63
+        },
+        {
+          "hour": "21:00",
+          "percent": 35
+        },
+        {
+          "hour": "22:00",
+          "percent": 13
+        },
+        {
+          "hour": "00:00",
+          "percent": 1
+        },
+        {
+          "hour": "01:00",
+          "percent": 1
+        },
+        {
+          "hour": "02:00",
+          "percent": 1
+        }
+      ]
+    },
+    {
+      "Monday": [
+        {
+          "hour": "04:00",
+          "percent": 1
+        },
+        {
+          "hour": "05:00",
+          "percent": 1
+        },
+        {
+          "hour": "07:00",
+          "percent": 5
+        },
+        {
+          "hour": "08:00",
+          "percent": 15
+        },
+        {
+          "hour": "09:00",
+          "percent": 31
+        },
+        {
+          "hour": "10:00",
+          "percent": 48
+        },
+        {
+          "hour": "11:00",
+          "percent": 61
+        },
+        {
+          "hour": "12:00",
+          "percent": 63
+        },
+        {
+          "hour": "13:00",
+          "percent": 55
+        },
+        {
+          "hour": "14:00",
+          "percent": 45
+        },
+        {
+          "hour": "15:00",
+          "percent": 45
+        },
+        {
+          "hour": "16:00",
+          "percent": 56
+        },
+        {
+          "hour": "17:00",
+          "percent": 72
+        },
+        {
+          "hour": "18:00",
+          "percent": 81
+        },
+        {
+          "hour": "19:00",
+          "percent": 75
+        },
+        {
+          "hour": "20:00",
+          "percent": 55
+        },
+        {
+          "hour": "21:00",
+          "percent": 32
+        },
+        {
+          "hour": "22:00",
+          "percent": 13
+        },
+        {
+          "hour": "23:00",
+          "percent": 2
+        },
+        {
+          "hour": "00:00",
+          "percent": 1
+        },
+        {
+          "hour": "01:00",
+          "percent": 1
+        },
+        {
+          "hour": "02:00",
+          "percent": 1
+        },
+        {
+          "hour": "03:00",
+          "percent": 1
+        }
+      ]
+    },
+    {
+      "Tuesday": [
+        {
+          "hour": "04:00",
+          "percent": 1
+        },
+        {
+          "hour": "05:00",
+          "percent": 1
+        },
+        {
+          "hour": "06:00",
+          "percent": 1
+        },
+        {
+          "hour": "07:00",
+          "percent": 7
+        },
+        {
+          "hour": "08:00",
+          "percent": 17
+        },
+        {
+          "hour": "09:00",
+          "percent": 33
+        },
+        {
+          "hour": "10:00",
+          "percent": 50
+        },
+        {
+          "hour": "11:00",
+          "percent": 62
+        },
+        {
+          "hour": "12:00",
+          "percent": 65
+        },
+        {
+          "hour": "13:00",
+          "percent": 59
+        },
+        {
+          "hour": "14:00",
+          "percent": 52
+        },
+        {
+          "hour": "15:00",
+          "percent": 53
+        },
+        {
+          "hour": "16:00",
+          "percent": 65
+        },
+        {
+          "hour": "17:00",
+          "percent": 80
+        },
+        {
+          "hour": "18:00",
+          "percent": 87
+        },
+        {
+          "hour": "19:00",
+          "percent": 79
+        },
+        {
+          "hour": "20:00",
+          "percent": 58
+        },
+        {
+          "hour": "21:00",
+          "percent": 35
+        },
+        {
+          "hour": "22:00",
+          "percent": 16
+        },
+        {
+          "hour": "01:00",
+          "percent": 1
+        },
+        {
+          "hour": "02:00",
+          "percent": 1
+        },
+        {
+          "hour": "03:00",
+          "percent": 1
+        }
+      ]
+    },
+    {
+      "Wednesday": [
+        {
+          "hour": "04:00",
+          "percent": 1
+        },
+        {
+          "hour": "05:00",
+          "percent": 1
+        },
+        {
+          "hour": "07:00",
+          "percent": 7
+        },
+        {
+          "hour": "08:00",
+          "percent": 18
+        },
+        {
+          "hour": "09:00",
+          "percent": 34
+        },
+        {
+          "hour": "10:00",
+          "percent": 51
+        },
+        {
+          "hour": "11:00",
+          "percent": 61
+        },
+        {
+          "hour": "12:00",
+          "percent": 60
+        },
+        {
+          "hour": "13:00",
+          "percent": 51
+        },
+        {
+          "hour": "14:00",
+          "percent": 43
+        },
+        {
+          "hour": "15:00",
+          "percent": 43
+        },
+        {
+          "hour": "16:00",
+          "percent": 52
+        },
+        {
+          "hour": "17:00",
+          "percent": 64
+        },
+        {
+          "hour": "18:00",
+          "percent": 70
+        },
+        {
+          "hour": "19:00",
+          "percent": 66
+        },
+        {
+          "hour": "20:00",
+          "percent": 51
+        },
+        {
+          "hour": "21:00",
+          "percent": 33
+        },
+        {
+          "hour": "22:00",
+          "percent": 16
+        },
+        {
+          "hour": "23:00",
+          "percent": 5
+        },
+        {
+          "hour": "00:00",
+          "percent": 1
+        },
+        {
+          "hour": "01:00",
+          "percent": 1
+        },
+        {
+          "hour": "02:00",
+          "percent": 1
+        },
+        {
+          "hour": "03:00",
+          "percent": 1
+        }
+      ]
+    },
+    {
+      "Thursday": [
+        {
+          "hour": "04:00",
+          "percent": 1
+        },
+        {
+          "hour": "05:00",
+          "percent": 1
+        },
+        {
+          "hour": "07:00",
+          "percent": 5
+        },
+        {
+          "hour": "08:00",
+          "percent": 16
+        },
+        {
+          "hour": "09:00",
+          "percent": 35
+        },
+        {
+          "hour": "10:00",
+          "percent": 56
+        },
+        {
+          "hour": "11:00",
+          "percent": 68
+        },
+        {
+          "hour": "12:00",
+          "percent": 66
+        },
+        {
+          "hour": "13:00",
+          "percent": 53
+        },
+        {
+          "hour": "14:00",
+          "percent": 44
+        },
+        {
+          "hour": "15:00",
+          "percent": 49
+        },
+        {
+          "hour": "16:00",
+          "percent": 67
+        },
+        {
+          "hour": "17:00",
+          "percent": 88
+        },
+        {
+          "hour": "18:00",
+          "percent": 100
+        },
+        {
+          "hour": "19:00",
+          "percent": 94
+        },
+        {
+          "hour": "20:00",
+          "percent": 73
+        },
+        {
+          "hour": "21:00",
+          "percent": 48
+        },
+        {
+          "hour": "22:00",
+          "percent": 25
+        },
+        {
+          "hour": "23:00",
+          "percent": 11
+        },
+        {
+          "hour": "00:00",
+          "percent": 3
+        },
+        {
+          "hour": "02:00",
+          "percent": 1
+        },
+        {
+          "hour": "03:00",
+          "percent": 1
+        }
+      ]
+    },
+    {
+      "Friday": [
+        {
+          "hour": "04:00",
+          "percent": 1
+        },
+        {
+          "hour": "05:00",
+          "percent": 1
+        },
+        {
+          "hour": "06:00",
+          "percent": 1
+        },
+        {
+          "hour": "07:00",
+          "percent": 11
+        },
+        {
+          "hour": "08:00",
+          "percent": 25
+        },
+        {
+          "hour": "09:00",
+          "percent": 43
+        },
+        {
+          "hour": "10:00",
+          "percent": 59
+        },
+        {
+          "hour": "11:00",
+          "percent": 70
+        },
+        {
+          "hour": "12:00",
+          "percent": 71
+        },
+        {
+          "hour": "13:00",
+          "percent": 64
+        },
+        {
+          "hour": "14:00",
+          "percent": 54
+        },
+        {
+          "hour": "15:00",
+          "percent": 50
+        },
+        {
+          "hour": "16:00",
+          "percent": 57
+        },
+        {
+          "hour": "17:00",
+          "percent": 70
+        },
+        {
+          "hour": "18:00",
+          "percent": 80
+        },
+        {
+          "hour": "19:00",
+          "percent": 80
+        },
+        {
+          "hour": "20:00",
+          "percent": 68
+        },
+        {
+          "hour": "21:00",
+          "percent": 54
+        },
+        {
+          "hour": "22:00",
+          "percent": 44
+        },
+        {
+          "hour": "23:00",
+          "percent": 36
+        },
+        {
+          "hour": "00:00",
+          "percent": 29
+        },
+        {
+          "hour": "01:00",
+          "percent": 19
+        },
+        {
+          "hour": "02:00",
+          "percent": 9
+        },
+        {
+          "hour": "03:00",
+          "percent": 1
+        }
+      ]
+    },
+    {
+      "Saturday": [
+        {
+          "hour": "04:00",
+          "percent": 4
+        },
+        {
+          "hour": "05:00",
+          "percent": 1
+        },
+        {
+          "hour": "07:00",
+          "percent": 2
+        },
+        {
+          "hour": "08:00",
+          "percent": 9
+        },
+        {
+          "hour": "09:00",
+          "percent": 22
+        },
+        {
+          "hour": "10:00",
+          "percent": 42
+        },
+        {
+          "hour": "11:00",
+          "percent": 61
+        },
+        {
+          "hour": "12:00",
+          "percent": 71
+        },
+        {
+          "hour": "13:00",
+          "percent": 68
+        },
+        {
+          "hour": "14:00",
+          "percent": 57
+        },
+        {
+          "hour": "15:00",
+          "percent": 46
+        },
+        {
+          "hour": "16:00",
+          "percent": 45
+        },
+        {
+          "hour": "17:00",
+          "percent": 54
+        },
+        {
+          "hour": "18:00",
+          "percent": 68
+        },
+        {
+          "hour": "19:00",
+          "percent": 77
+        },
+        {
+          "hour": "20:00",
+          "percent": 77
+        },
+        {
+          "hour": "21:00",
+          "percent": 66
+        },
+        {
+          "hour": "22:00",
+          "percent": 50
+        },
+        {
+          "hour": "23:00",
+          "percent": 35
+        },
+        {
+          "hour": "00:00",
+          "percent": 23
+        },
+        {
+          "hour": "01:00",
+          "percent": 15
+        },
+        {
+          "hour": "02:00",
+          "percent": 10
+        },
+        {
+          "hour": "03:00",
+          "percent": 6
+        }
+      ]
+    }
+  ],
+  "relatedSearches": [
+    "puente zubizuri",
+    "bilboa",
+    "torre iberdrola",
+    "azkuna zentroa",
+    "calatrava obras",
+    "bilbao wikipedia",
+    "ponte la salve bilbao",
+    "arquitecto del puente de la mujer"
+  ],
+  "relateds": [
+    {
+      "mainName": "Puente de San Antón",
+      "url": null
+    },
+    {
+      "mainName": "Ponte da Biscaia",
+      "url": null
+    },
+    {
+      "mainName": "Ponte da Constituição",
+      "url": null
+    },
+    {
+      "mainName": "Ria de Bilbau",
+      "url": null
+    },
+    {
+      "mainName": "Areatzako zubia",
+      "url": null
+    },
+    {
+      "mainName": "Salbe zubia / puente de La Salve",
+      "url": null
+    },
+    {
+      "mainName": "Iberdrola Dorrea",
+      "url": null
+    },
+    {
+      "mainName": "Mercado da Ribeira",
+      "url": null
+    },
+    {
+      "mainName": "Plaza Barria",
+      "url": null
+    },
+    {
+      "mainName": "Parque de Doña Casilda de Iturrizar",
+      "url": null
+    },
+    {
+      "mainName": "Museu Guggenheim Bilbao",
+      "url": null
+    },
+    {
+      "mainName": "Igreja de Santo Antão",
+      "url": null
+    },
+    {
+      "mainName": "Palácio Euskalduna",
+      "url": null
+    },
+    {
+      "mainName": "Teatro Arriaga",
+      "url": null
+    },
+    {
+      "mainName": "Basílica de Nossa Senhora de Begoña",
+      "url": null
+    },
+    {
+      "mainName": "Catedral de Santiago de Bilbau",
+      "url": null
+    },
+    {
+      "mainName": "Plaza del Ensanche",
+      "url": null
+    },
+    {
+      "mainName": "Monte Archanda",
+      "url": null
+    },
+    {
+      "mainName": "Museu de Belas Artes de Bilbau",
+      "url": null
+    },
+    {
+      "mainName": "Rio Ibaizábal",
+      "url": null
+    },
+    {
+      "mainName": "Fingerprint Sculpture",
+      "url": null
+    },
+    {
+      "mainName": "Palácio da Deputação Foral da Biscaia",
+      "url": null
+    },
+    {
+      "mainName": "Estádio de San Mamés",
+      "url": null
+    }
+  ]
+}

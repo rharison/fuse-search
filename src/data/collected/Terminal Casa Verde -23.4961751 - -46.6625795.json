@@ -1,0 +1,830 @@
+{
+  "mainName": "Terminal Casa Verde",
+  "slug": "terminal-casa-verde",
+  "category": "Estação de ônibus",
+  "locationInformation": {
+    "latitude": "-23.4961751",
+    "longitude": "-46.6625795"
+  },
+  "basicInformation": [
+    {
+      "label": "endereço",
+      "tooltip": "Copiar endereço",
+      "text": "R. Baía Formosa, 80 - Vila Bandeirantes, São Paulo - SP, 02552-120",
+      "icon": "https://www.gstatic.com/images/icons/material/system_gm/1x/place_gm_blue_24dp.png"
+    },
+    {
+      "label": "Code",
+      "tooltip": "Copiar Plus Code",
+      "text": "G83P+GX Vila Bandeirantes, São Paulo - SP",
+      "icon": "https://maps.gstatic.com/mapfiles/maps_lite/images/2x/ic_plus_code.png"
+    }
+  ],
+  "ratingInformation": null,
+  "ratingTags": [
+    {
+      "tag": "bairros",
+      "count": 4,
+      "tooltip": "bairros, mencionado em 4 avaliações"
+    },
+    {
+      "tag": "banheiros",
+      "count": 3,
+      "tooltip": "banheiros, mencionado em 3 avaliações"
+    }
+  ],
+  "featuredPhotos": [
+    "https://lh5.googleusercontent.com/p/AF1QipOCcopXWxSf4RBtE-Kt4pQEq60133rGSU_SbDLn=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNe-f-4bQAW9-B2nIPp0D54iVpDQ_FaP1pHCuYe=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOqukzEkN52yn2CbBtacOPmywHoDziQ9dcPRyyy=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOwebP6BzckkTUrFT3dEUvIKqYjsBXxA_NBs-6P=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipP-_-taCzlw8gYsWKH_pd1OOPxtgNznyPxCL96Z=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOFTrkWik0DXGtJKhzLNE42gNA3iLkn9cd1TEcK=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNi7XIUX5mTb6WN_TDFIGswVjQYSk9DzZ_S5Ccc=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOPTcXqFDGssLEzC-oK-Rz6k25WmEyny42B54rJ=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNJ3F0-RapEaP6OcB2KJjNV4ni4M7e6gtefMTjn=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMm2RkKvk0q3MFh2r2tF5Nnn6_t487r6YRU7xMs=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipM9EqiM7kkfKDjNWOc5DesQbDZzk6tO7kIYARZY=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMIQKSokB7dSK7qNsXsVNVatu5CmoL1B8_RYLm2=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOA7rlVu6VuX-vQj2bI6nxChu5FJgCSATLEUtoq=w1024-h576-k-no"
+  ],
+  "topComments": [
+    {
+      "author": "Esther Santos",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucp7qz4_VuRyZ4_G50n5MLIbF0yhyX0iWM9D0B0KMos=w36-h36-p-c0x00000000-rp-mo-br100",
+      "comment": "A maioria dos ônibus demora muito para sair ridículo isso Ter que ficar esperando 1 hora por um ônibus que está praticamente na sua cara.",
+      "gradeComment": 2
+    },
+    {
+      "author": "Oficina Auto Giro Oficina Auto Giro",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucqakwrK6IHz2kunzjxxYhhf19CUSRaX_NSsuT5l=w36-h36-p-c0x00000000-rp-mo-ba3-br100",
+      "comment": "Atendentes senhoras, são as donas das razões acima de Deus, grossas, ríspidas tratam as pessoas como se fossem lixos, não sabem nem falar direito, péssimo nota zerooooooooooooo.",
+      "gradeComment": 1
+    },
+    {
+      "author": "Sierly Rodrigues",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucr8VplGLa9mgoz99gQ7A0g7P7Ztrb-e_HsnBGjbwrU=w36-h36-p-c0x00000000-rp-mo-ba3-br100",
+      "comment": "Para minha sorte tirei dúvidas com um excelente fiscal! (Não sei o nome dele) :(",
+      "gradeComment": 5
+    },
+    {
+      "author": "rogerio funari",
+      "photoAuthor": "https://lh3.googleusercontent.com/a/AItbvmmUB8VOtpR5KfbqyTVgUpBvItnGbTb85Nyl8msd=w36-h36-p-c0x00000000-rp-mo-br100",
+      "comment": "Acho legal e bem localizado. Nao e cheio e tem bastante alternativas se ônibus.",
+      "gradeComment": 5
+    },
+    {
+      "author": "SuperEduardoBarreto DuDu (Th Best)",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZuco2xc80O-FdR9ThX52TfRjKOla_pluzwYCZ5WQ6=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "Bom   estive  lá. .. um  futuro  mini  shoping....vai  crescer   as pessoas   um  monte  um  mar  de   pessoas  o  comercio   local",
+      "gradeComment": 5
+    },
+    {
+      "author": "Bel Fernandesz",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucpgDb21-GSAqRYbaAufKiMI3s0tg9WTHGCr94KZZDs=w36-h36-p-c0x00000000-rp-mo-ba2-br100",
+      "comment": "Falta uma máquina para carregar bilhete único, porque não faz sentido esperar um atendimento de sptrans por exemplo de 20 min apenas para carregar um bilhete ..",
+      "gradeComment": 3
+    },
+    {
+      "author": "Renato Félix",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucrTVcFqpOqLc7PtVpJijnCk6Gw3DFao_IeWPkhVOw=w36-h36-p-c0x00000000-rp-mo-ba5-br100",
+      "comment": "Bom lugar porém no momento está marginalizados e obs no guichê o fiscal ou gerente poderia estalar um toldo pq o Sol bate ali e insuportável mto quente 🥵🌞🥴 que o todos bairros da cidade de São Paulo está um lixão pouca vergonha a Prefeituras só sabem arrecadar impostos e a secretaria o dividem em eles 📈😡🤑🌅🙈",
+      "gradeComment": 4
+    },
+    {
+      "author": "Joel Mateus",
+      "photoAuthor": "https://lh3.googleusercontent.com/a/AItbvmm6TVlNCoayUFrSSxLX3YTRaQO6N-YZWWUBMjvI=w36-h36-p-c0x00000000-rp-mo-br100",
+      "comment": "A terminal é acessível, mas achei as duas senhoras que atendem de manhã na bilheteria grosseiras, poderiam tentar ser mais educadas, pois tbm faz parte de suas obrigações.",
+      "gradeComment": 3
+    },
+    {
+      "author": "Julio ramos",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucrtfPaTZns38A0o_H6wHnnwNTRmm9LgiB3RkVIsrw=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "Local de fácil acesso, bem localizado na Avenida Engenheiro Caetano Alvares, próximo ao comércio da região da Casa Verde. O terminal não é muito grande e atende poucas linhas. Entrada e saída acessível para cadeirantes. O terminal fica localizado sentido B/C.",
+      "gradeComment": 4
+    },
+    {
+      "author": "Thiago Costa Prado",
+      "photoAuthor": "https://lh3.googleusercontent.com/a/AItbvmmcTbBAjX-wj0vMjI4WjvfHeih1DJIsK5DoJeoA=w36-h36-p-c0x00000000-rp-mo-ba3-br100",
+      "comment": "Fiquei contente quando vi as 6:00 da manhã um funcionário esperando o ônibus parar na plataforma para executar a limpeza devido ao novo corona vírus. E a cabine para realizar recargas, abriu pontualmente às 6:00.",
+      "gradeComment": 4
+    },
+    {
+      "author": "Má martins",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucpVB-bnSYCG_BObCRMPkwDeIeNfJrGpAABF2oe6=w36-h36-p-c0x00000000-rp-mo-br100",
+      "comment": "Uma demora  pra sair ônibus os motorista fica de papo uma enrolação pra sair o terminal cheio de ônibus filhas enormes e eles de papo horrível não sei porque deixa encher tanto os ônibus parece até que ganha comissão por pessoa aff",
+      "gradeComment": 1
+    },
+    {
+      "author": "angela kudaka",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucrFLKlhWpiqDn64Y7WFa36iZ8WYJ_mfAhKWzc8LmQ=w36-h36-p-c0x00000000-rp-mo-br100",
+      "comment": "E um terminal MUITO limpo.Banheiro limpo.parabens aos funcionários.As linhas atendem as minhas necessidades. Pessoal regras foram feitas para serem cumpridas.Respeitem o local de entrada. Elas não foram criadas sem nenhum critério.",
+      "gradeComment": 5
+    },
+    {
+      "author": "João Saroba",
+      "photoAuthor": "https://lh3.googleusercontent.com/a/AItbvmmg73vsCzFHkozQln_49yA5C9yWTMA1I25RJSA=w36-h36-p-c0x00000000-rp-mo-ba3-br100",
+      "comment": "Tem 80cm de calçada (dá pra passar até um boi) e o guardinha fica enchendo o saco de quem sai por conta de uma placa de proibição que fica virada para o lado de fora do terminal! Você tem que sair pela saída da pracinha dos cracudos pra poder ser assaltado com estilete enferrujado no seu pescoço!",
+      "gradeComment": 1
+    },
+    {
+      "author": "Beatriz Bordes",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucqEmUyTXRQAothvIy4CzPHjkMw_oLhwzoM9WXybYA=w36-h36-p-c0x00000000-rp-mo-br100",
+      "comment": "O funcionário em vez de abrir o ônibus pra quem tá esperando na fila ele fica conversando, mexendo no zap e tomando cafezinho kkkk",
+      "gradeComment": 1
+    },
+    {
+      "author": "Danielle Dos Santos Silva",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucqOiXlNGys8iKBWfMX9veDW4bfccVRw0LlZKE-QFHY=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "Adoro a Antônia que trabalha lá !! Muito prestativa !!!!!!",
+      "gradeComment": 4
+    },
+    {
+      "author": "Ale Rabelo",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucoomr51CyfokHbNvYLXs5v4ItisKcWXatGOp27Vvw=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "Tranquilo para pegar ônibus.",
+      "gradeComment": 4
+    },
+    {
+      "author": "Chaveiro magia das chaves",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucoh3QvIUxNW0cvIhNMegz9Mh5DGlF_BTJCpiDeGQA=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "Deveriam colocar uma linha até Ana Rosa, cruzando a paulista de ponta a ponta. Esta linha que vai até o Paysandu, deveria subir a Zilda até o fim, pois todo mundo desde a Zilda a pé, pra pegar ele aqui embaixo,  porque não tem mais nenhuma linha direto pró centro.",
+      "gradeComment": 5
+    },
+    {
+      "author": "siga o adolph",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucrkBHO80Hiw99dsUx4ZQx1ThLHNszWBfe_oKtJYvg=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "Local exige cuidados com segurança principalmente nos horários de menor movimento tome cuidado com pertences, carteira celulares ou qualquer item de valor agregado, no geral tem uma boa estrutura e grande interligação com outras regiões como por exemplo Barra Funda possui grande capacidade de transporte e vazão proporcional ao proposto.",
+      "gradeComment": 3
+    },
+    {
+      "author": "Caiubi Oliveira",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucq0veQl4YQT1HEsMSBAtn7KVG-nIuGlCV4folIdug=w36-h36-p-c0x00000000-rp-mo-br100",
+      "comment": "Vou direto pra pegar o Parque Dom Pedro 9300. Esse ônibus é útil pra todos da Casa Verde e Cachoeirinha pois passa no terminal Princesa Isabel e Terminal Bandeira. Só poderia ter algum ônibus para Barra Funda dentro porquê quem pega os Barra Funda na Av.Casa Verde ou na Engenheiro vem lotado. Poderia botar para Santana que saisse do terminal casa verde até barra funda e de barra funda até Santana.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Ricieri Soares Rezende",
+      "photoAuthor": "https://lh3.googleusercontent.com/a/AItbvmlObdrxhjeJTiimOM1b6-QtlUnrn_WmdRX70Hs-=w36-h36-p-c0x00000000-rp-mo-br100",
+      "comment": "Precisava  ter mais ônibus  pra pirituba  casa verde  cachoeirinha e brasilandia freguesia do o   limão  quase não tem ônibus pra pirituba  pirituba  e  um bairro tão próximo   vizinho da brasilandia e freguesia do o   e se torna longe por falta  de condução   e lembrando que pirituba tem  a estacao de trem  se tive condução fácil   ajudava muito  durante o dia só tem uma lotação que sai do cemitério da cachoeirinha  que da uma volta e pega todo trânsito da avenida itaberaba   e agora na madrugada tem essa linha noturna  precisamos de mais ônibus pra pirituba",
+      "gradeComment": 5
+    }
+  ],
+  "peakHours": [
+    {
+      "Sunday": [
+        {
+          "hour": "04:00",
+          "percent": 8
+        },
+        {
+          "hour": "05:00",
+          "percent": 11
+        },
+        {
+          "hour": "06:00",
+          "percent": 14
+        },
+        {
+          "hour": "07:00",
+          "percent": 16
+        },
+        {
+          "hour": "08:00",
+          "percent": 19
+        },
+        {
+          "hour": "09:00",
+          "percent": 23
+        },
+        {
+          "hour": "10:00",
+          "percent": 28
+        },
+        {
+          "hour": "11:00",
+          "percent": 33
+        },
+        {
+          "hour": "12:00",
+          "percent": 36
+        },
+        {
+          "hour": "13:00",
+          "percent": 35
+        },
+        {
+          "hour": "14:00",
+          "percent": 32
+        },
+        {
+          "hour": "15:00",
+          "percent": 28
+        },
+        {
+          "hour": "16:00",
+          "percent": 25
+        },
+        {
+          "hour": "17:00",
+          "percent": 24
+        },
+        {
+          "hour": "18:00",
+          "percent": 24
+        },
+        {
+          "hour": "19:00",
+          "percent": 23
+        },
+        {
+          "hour": "20:00",
+          "percent": 21
+        },
+        {
+          "hour": "21:00",
+          "percent": 16
+        },
+        {
+          "hour": "22:00",
+          "percent": 11
+        },
+        {
+          "hour": "23:00",
+          "percent": 6
+        },
+        {
+          "hour": "00:00",
+          "percent": 3
+        },
+        {
+          "hour": "01:00",
+          "percent": 1
+        },
+        {
+          "hour": "02:00",
+          "percent": 2
+        },
+        {
+          "hour": "03:00",
+          "percent": 5
+        }
+      ]
+    },
+    {
+      "Monday": [
+        {
+          "hour": "04:00",
+          "percent": 4
+        },
+        {
+          "hour": "05:00",
+          "percent": 34
+        },
+        {
+          "hour": "06:00",
+          "percent": 74
+        },
+        {
+          "hour": "07:00",
+          "percent": 89
+        },
+        {
+          "hour": "08:00",
+          "percent": 66
+        },
+        {
+          "hour": "09:00",
+          "percent": 38
+        },
+        {
+          "hour": "10:00",
+          "percent": 37
+        },
+        {
+          "hour": "11:00",
+          "percent": 55
+        },
+        {
+          "hour": "12:00",
+          "percent": 66
+        },
+        {
+          "hour": "13:00",
+          "percent": 61
+        },
+        {
+          "hour": "14:00",
+          "percent": 53
+        },
+        {
+          "hour": "15:00",
+          "percent": 53
+        },
+        {
+          "hour": "16:00",
+          "percent": 58
+        },
+        {
+          "hour": "17:00",
+          "percent": 63
+        },
+        {
+          "hour": "18:00",
+          "percent": 63
+        },
+        {
+          "hour": "19:00",
+          "percent": 58
+        },
+        {
+          "hour": "20:00",
+          "percent": 50
+        },
+        {
+          "hour": "21:00",
+          "percent": 39
+        },
+        {
+          "hour": "22:00",
+          "percent": 27
+        },
+        {
+          "hour": "23:00",
+          "percent": 16
+        },
+        {
+          "hour": "00:00",
+          "percent": 7
+        }
+      ]
+    },
+    {
+      "Tuesday": [
+        {
+          "hour": "04:00",
+          "percent": 1
+        },
+        {
+          "hour": "05:00",
+          "percent": 29
+        },
+        {
+          "hour": "06:00",
+          "percent": 74
+        },
+        {
+          "hour": "07:00",
+          "percent": 100
+        },
+        {
+          "hour": "08:00",
+          "percent": 82
+        },
+        {
+          "hour": "09:00",
+          "percent": 53
+        },
+        {
+          "hour": "10:00",
+          "percent": 46
+        },
+        {
+          "hour": "11:00",
+          "percent": 56
+        },
+        {
+          "hour": "12:00",
+          "percent": 61
+        },
+        {
+          "hour": "13:00",
+          "percent": 57
+        },
+        {
+          "hour": "14:00",
+          "percent": 52
+        },
+        {
+          "hour": "15:00",
+          "percent": 52
+        },
+        {
+          "hour": "16:00",
+          "percent": 55
+        },
+        {
+          "hour": "17:00",
+          "percent": 58
+        },
+        {
+          "hour": "18:00",
+          "percent": 57
+        },
+        {
+          "hour": "19:00",
+          "percent": 53
+        },
+        {
+          "hour": "20:00",
+          "percent": 46
+        },
+        {
+          "hour": "21:00",
+          "percent": 36
+        },
+        {
+          "hour": "22:00",
+          "percent": 26
+        },
+        {
+          "hour": "23:00",
+          "percent": 16
+        },
+        {
+          "hour": "00:00",
+          "percent": 7
+        }
+      ]
+    },
+    {
+      "Wednesday": [
+        {
+          "hour": "04:00",
+          "percent": 7
+        },
+        {
+          "hour": "05:00",
+          "percent": 37
+        },
+        {
+          "hour": "06:00",
+          "percent": 73
+        },
+        {
+          "hour": "07:00",
+          "percent": 90
+        },
+        {
+          "hour": "08:00",
+          "percent": 74
+        },
+        {
+          "hour": "09:00",
+          "percent": 50
+        },
+        {
+          "hour": "10:00",
+          "percent": 45
+        },
+        {
+          "hour": "11:00",
+          "percent": 54
+        },
+        {
+          "hour": "12:00",
+          "percent": 61
+        },
+        {
+          "hour": "13:00",
+          "percent": 56
+        },
+        {
+          "hour": "14:00",
+          "percent": 51
+        },
+        {
+          "hour": "15:00",
+          "percent": 52
+        },
+        {
+          "hour": "16:00",
+          "percent": 57
+        },
+        {
+          "hour": "17:00",
+          "percent": 62
+        },
+        {
+          "hour": "18:00",
+          "percent": 63
+        },
+        {
+          "hour": "19:00",
+          "percent": 60
+        },
+        {
+          "hour": "20:00",
+          "percent": 52
+        },
+        {
+          "hour": "21:00",
+          "percent": 41
+        },
+        {
+          "hour": "22:00",
+          "percent": 29
+        },
+        {
+          "hour": "23:00",
+          "percent": 18
+        },
+        {
+          "hour": "00:00",
+          "percent": 8
+        }
+      ]
+    },
+    {
+      "Thursday": [
+        {
+          "hour": "04:00",
+          "percent": 6
+        },
+        {
+          "hour": "05:00",
+          "percent": 35
+        },
+        {
+          "hour": "06:00",
+          "percent": 74
+        },
+        {
+          "hour": "07:00",
+          "percent": 96
+        },
+        {
+          "hour": "08:00",
+          "percent": 82
+        },
+        {
+          "hour": "09:00",
+          "percent": 55
+        },
+        {
+          "hour": "10:00",
+          "percent": 47
+        },
+        {
+          "hour": "11:00",
+          "percent": 58
+        },
+        {
+          "hour": "12:00",
+          "percent": 67
+        },
+        {
+          "hour": "13:00",
+          "percent": 64
+        },
+        {
+          "hour": "14:00",
+          "percent": 55
+        },
+        {
+          "hour": "15:00",
+          "percent": 52
+        },
+        {
+          "hour": "16:00",
+          "percent": 54
+        },
+        {
+          "hour": "17:00",
+          "percent": 57
+        },
+        {
+          "hour": "18:00",
+          "percent": 57
+        },
+        {
+          "hour": "19:00",
+          "percent": 53
+        },
+        {
+          "hour": "20:00",
+          "percent": 45
+        },
+        {
+          "hour": "21:00",
+          "percent": 36
+        },
+        {
+          "hour": "22:00",
+          "percent": 25
+        },
+        {
+          "hour": "23:00",
+          "percent": 15
+        },
+        {
+          "hour": "00:00",
+          "percent": 6
+        }
+      ]
+    },
+    {
+      "Friday": [
+        {
+          "hour": "04:00",
+          "percent": 5
+        },
+        {
+          "hour": "05:00",
+          "percent": 28
+        },
+        {
+          "hour": "06:00",
+          "percent": 62
+        },
+        {
+          "hour": "07:00",
+          "percent": 80
+        },
+        {
+          "hour": "08:00",
+          "percent": 67
+        },
+        {
+          "hour": "09:00",
+          "percent": 45
+        },
+        {
+          "hour": "10:00",
+          "percent": 39
+        },
+        {
+          "hour": "11:00",
+          "percent": 46
+        },
+        {
+          "hour": "12:00",
+          "percent": 52
+        },
+        {
+          "hour": "13:00",
+          "percent": 53
+        },
+        {
+          "hour": "14:00",
+          "percent": 51
+        },
+        {
+          "hour": "15:00",
+          "percent": 50
+        },
+        {
+          "hour": "16:00",
+          "percent": 52
+        },
+        {
+          "hour": "17:00",
+          "percent": 53
+        },
+        {
+          "hour": "18:00",
+          "percent": 53
+        },
+        {
+          "hour": "19:00",
+          "percent": 50
+        },
+        {
+          "hour": "20:00",
+          "percent": 44
+        },
+        {
+          "hour": "21:00",
+          "percent": 37
+        },
+        {
+          "hour": "22:00",
+          "percent": 29
+        },
+        {
+          "hour": "23:00",
+          "percent": 21
+        },
+        {
+          "hour": "00:00",
+          "percent": 13
+        },
+        {
+          "hour": "01:00",
+          "percent": 6
+        },
+        {
+          "hour": "02:00",
+          "percent": 1
+        }
+      ]
+    },
+    {
+      "Saturday": [
+        {
+          "hour": "04:00",
+          "percent": 3
+        },
+        {
+          "hour": "05:00",
+          "percent": 13
+        },
+        {
+          "hour": "06:00",
+          "percent": 26
+        },
+        {
+          "hour": "07:00",
+          "percent": 39
+        },
+        {
+          "hour": "08:00",
+          "percent": 47
+        },
+        {
+          "hour": "09:00",
+          "percent": 49
+        },
+        {
+          "hour": "11:00",
+          "percent": 52
+        },
+        {
+          "hour": "12:00",
+          "percent": 55
+        },
+        {
+          "hour": "13:00",
+          "percent": 58
+        },
+        {
+          "hour": "14:00",
+          "percent": 57
+        },
+        {
+          "hour": "15:00",
+          "percent": 51
+        },
+        {
+          "hour": "16:00",
+          "percent": 43
+        },
+        {
+          "hour": "17:00",
+          "percent": 37
+        },
+        {
+          "hour": "18:00",
+          "percent": 34
+        },
+        {
+          "hour": "19:00",
+          "percent": 32
+        },
+        {
+          "hour": "20:00",
+          "percent": 31
+        },
+        {
+          "hour": "21:00",
+          "percent": 28
+        },
+        {
+          "hour": "22:00",
+          "percent": 23
+        },
+        {
+          "hour": "23:00",
+          "percent": 16
+        },
+        {
+          "hour": "00:00",
+          "percent": 9
+        },
+        {
+          "hour": "01:00",
+          "percent": 2
+        }
+      ]
+    }
+  ],
+  "relatedSearches": [
+    "onde fica o terminal casa verde",
+    "como chegar em casa verde mato grosso do sul",
+    "ônibus verde sp",
+    "praça das monções 0",
+    "ônibus verde aceita bilhete único",
+    "sptrans",
+    "posto sptrans terminal são mateus",
+    "terminal são miguel bilhete único",
+    "onde fica o terminal casa verde",
+    "como chegar em casa verde mato grosso do sul",
+    "ônibus verde sp",
+    "praça das monções 0",
+    "ônibus verde aceita bilhete único",
+    "sptrans",
+    "posto sptrans terminal são mateus",
+    "terminal são miguel bilhete único"
+  ],
+  "relateds": []
+}

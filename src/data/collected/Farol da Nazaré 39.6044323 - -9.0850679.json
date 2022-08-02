@@ -1,0 +1,786 @@
+{
+  "mainName": "Farol da Nazaré",
+  "slug": "farol-da-nazare",
+  "category": "Ponto panorâmico",
+  "locationInformation": {
+    "latitude": "39.6044323",
+    "longitude": "-9.0850679"
+  },
+  "basicInformation": [
+    {
+      "label": "endereço",
+      "tooltip": "Copiar endereço",
+      "text": "Estr. do Farol, Nazaré, Portugal",
+      "icon": "https://www.gstatic.com/images/icons/material/system_gm/1x/place_gm_blue_24dp.png"
+    },
+    {
+      "label": "telefone",
+      "tooltip": "Copiar número de telefone",
+      "text": "+351 938 013 587",
+      "icon": "https://www.gstatic.com/images/icons/material/system_gm/1x/phone_gm_blue_24dp.png"
+    },
+    {
+      "label": "Code",
+      "tooltip": "Copiar Plus Code",
+      "text": "JW37+QX Nazaré, Portugal",
+      "icon": "https://maps.gstatic.com/mapfiles/maps_lite/images/2x/ic_plus_code.png"
+    },
+    {
+      "label": "merchant",
+      "text": "Reivindicar esta empresa",
+      "icon": "https://www.gstatic.com/images/icons/material/system_gm/1x/verified_user_gm_blue_24dp.png"
+    }
+  ],
+  "ratingInformation": {
+    "basicRatingInformation": {
+      "averageGrade": 4.8,
+      "totalOfEvaluations": 8542
+    },
+    "ratingsByGrade": [
+      {
+        "grade": 5,
+        "totalRatings": 6790
+      },
+      {
+        "grade": 4,
+        "totalRatings": 1442
+      },
+      {
+        "grade": 3,
+        "totalRatings": 250
+      },
+      {
+        "grade": 2,
+        "totalRatings": 27
+      },
+      {
+        "grade": 1,
+        "totalRatings": 33
+      }
+    ]
+  },
+  "ratingTags": [
+    {
+      "tag": "surf",
+      "count": 406,
+      "tooltip": "surf, mencionado em 406 avaliações"
+    },
+    {
+      "tag": "museu",
+      "count": 157,
+      "tooltip": "museu, mencionado em 157 avaliações"
+    },
+    {
+      "tag": "vagalhão",
+      "count": 132,
+      "tooltip": "vagalhão, mencionado em 132 avaliações"
+    },
+    {
+      "tag": "exposição",
+      "count": 81,
+      "tooltip": "exposição, mencionado em 81 avaliações"
+    },
+    {
+      "tag": "oceano",
+      "count": 77,
+      "tooltip": "oceano, mencionado em 77 avaliações"
+    },
+    {
+      "tag": "força",
+      "count": 49,
+      "tooltip": "força, mencionado em 49 avaliações"
+    },
+    {
+      "tag": "couvert",
+      "count": 18,
+      "tooltip": "couvert, mencionado em 18 avaliações"
+    },
+    {
+      "tag": "famoso",
+      "count": 13,
+      "tooltip": "famoso, mencionado em 13 avaliações"
+    },
+    {
+      "tag": "canhão",
+      "count": 10,
+      "tooltip": "canhão, mencionado em 10 avaliações"
+    }
+  ],
+  "featuredPhotos": [
+    "https://lh5.googleusercontent.com/p/AF1QipPely1nRq11KysdHpvXvTV4YG_o20--nie39CJb=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNZ3vZ1fQZxCqW4BmGP5b-OqNhvS7qYgB-uhZTS=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMzu-vtPixDHVuwhZgy8ewakVqny4B7ddJ0jiQc=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMtjM68RIHK6p55i6-s3lZ5oQ2cAtciBfYeKv0X=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOzqdku7RfQIaeXuzW0opvFceSWAmCRVTrlVbU=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPEFcNuT0VNWJ75nFXMRBgvjLJKHSvxIA0xhqt9=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPxnVbASRsAjaoaZszw28Zk2M3takLhYssi-aD7=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipN2j0s0tyW7LNjUdsRCzhGrRUAmcD4EkgYrk3rA=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNQxypYv8xZ6tDcfJv5o4YT9q7h1zovw05yseut=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOIPLJNF1G9bAHIP78ETnYzQC37V9I1vrclEsII=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPcdtne0xK1atxJEiIsykgl2QSo5U7K4F4jL_Qe=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNC40wQb1fQy8KDb99VpjHXRcNvyBFjcrXZ_DV-=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNghuzxA9TzJpX91Z26K3zY_gFbQJPPN2f69K8J=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipO0sb8t0Mpxfx9ChqFw35AMVEQxGciM4PlH94BX=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMwND7eoxRr69-JV9pM9aE-TTXz2_ha0zUjJgAA=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPp_03ZGBlZMouBCpfSVS5MijDr9_X6vwJzikcH=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOXrudvHWm15pyJIpBobSaeim7A3uA-ChN4fuvN=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMFgr4k_RbcgMNsSfqrcGnrXWLyFWzt7YP6ml_7=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNOw2cQ3NlOp7LRgsgGKYvs862VO0x33WblNMTN=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPQJqDsGZSb0sA_OEJtum5Nlox4Jmp8tmywBW8Y=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPoBclM1V12Dqnc59TGuiwYWPgnk-4NVqMjJSuE=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOxNvUp1xunwD-QaBYYvhFKP5_HR2pD-nbwS7VR=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOG5kr5w2V5gthnnt_Kg6V32-m_XQf8t9jE0r2v=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipO3SCQt_JzbXJte6ePsXXb_baoRH9XsHjmpKGIe=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMT-cL75AGO7pCljijKNIVcdCofpD5R7bi4XqDH=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPaN7wDOzt75Ni_gNYZVqa6RMMUEiHh7k0G7vkN=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNcdrrsP20KWxexn-bpmrV5YLEjLDaaqRnYvzQh=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipN6DrPkbFnowk90KIbrx9CVJf5rnUV1ebnySwFj=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMjmOL9rL1z2AS0c3yPr9NCBeeTPiwIb2OZwGTI=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPVg6DbF0H7XGMRD4I-DCrCB7Mf4QLPNSZ4lxLP=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOQBAWljruHvRUTCV0MdiBn10490mli5DmaHXsw=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPxnAlF1gSF8SRqu0WGZFUQ9_j63L3skvVLkwBA=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipO_gjPZsiM1r6jopjpYDifSwISRH5qZXfGweOzk=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOBRu2dyqV3NXJREWLput8eOpTNJzw38s-94n9p=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipM0SgVaqtgScPr7EJvGKNx6zw5Aa-MN-vy0O2ft=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipP4zX0c4CsFkuYz-I5M8bzJi4z9hrTWpP5gM1Mv=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipORPWQEG_6ewjLBcnPUFktnEThGNCnchXNpkNsx=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNy_3NGMRwI7TgS1R97L6fWPJPx_Z-wdam-BghA=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipN39NemOk2JMYHb-fZMRktqI6A6HM4o01cwB2cn=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNPO71F6cqvAvhvZbYirq_xL8yHBWZZqtYKZ0m8=w1024-h576-k-no"
+  ],
+  "topComments": [
+    {
+      "author": "Yukie Kabashima",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucoavab8eZURFU5v6S9mdnBIKPA1xDs546MYgEIZoQ=w36-h36-p-c0x00000000-rp-mo-ba5-br100",
+      "comment": "Apesar de ser mais conhecida pelas fotos de ondas gigantes, mesmo em épocas sem as ondas, pode ser um passeio muito interessante e bonito, mesmo para quem não se interessando surf, como eu. Salas com pranchas e descrição dos vencedores dos campeonatos de surf, das com exposição de fotos, e para mim o que gostei muito foi a sala onde explica o porquê das ondas gigantes através de póstera, fotos, maquete e vídeos. As vistas são incríveis, assim como a estrutura do farol em si.",
+      "gradeComment": 5
+    },
+    {
+      "author": "sonia costa",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZuco3Z-nSuljajg8-ehw7oe92oWgFtMihAshLUtGg=w36-h36-p-c0x00000000-rp-mo-ba5-br100",
+      "comment": "Vale a pena a visita ao local que se tornou tão famoso pelas super ondas. É engraçado como conhecendo o SItio da Nazaré já tantos anos só muito recentemente visitei o farol e o seu interior.  Recomendo a visita.",
+      "gradeComment": 4
+    },
+    {
+      "author": "Fábio José Soares de Sousa (Fábio Fino)",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucos1DjBXhwu2H5Xxir3OJzr6dCDewrnQL3HWvvjoes=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "Lugar fantástico de tirar o fôlego. Cuidado com os ventos qdo estiver na área do farol, pode ser bem perigoso. Vale muito a visita. Custa 1€ para acessar a área do farol. Vista lindíssima!",
+      "gradeComment": 5
+    },
+    {
+      "author": "Miss Nicinha",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZuco8cT8e9Zi5yRie3QG1d7YLVh4tr0L-F1QKPW7Ps-s=w36-h36-p-c0x00000000-rp-mo-ba5-br100",
+      "comment": "Lugar belíssimo para contemplar o mar. O preço para ir ao Farol é ter uma vista prevelgiada é de 1 Euro. Super simpática a senhora que me atendeu.  Recomendo esta visita/vista. Um lugar para voltar,  com toda a certeza!",
+      "gradeComment": 5
+    },
+    {
+      "author": "Lena Mara Oliveira De oliveira Oliveira",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucpy-Sd_pln1v5NG-U_I1jb5Guwtc2BsYCuQBWVbaA=w36-h36-p-c0x00000000-rp-mo-ba6-br100",
+      "comment": "Imperdível, a vista que se tem do farol é linda. A visita em outubro pelo menos, custou 1 Euro. Já tinha estado na praia de Nazaré por várias vezes e nunca tinha entrado. Vale a pena.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Moisés da Silva",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucolaCDEviFtC0i1Vu2fIfTwjQw7qQ4ZqQ-hfWLf=w36-h36-p-c0x00000000-rp-mo-ba3-br100",
+      "comment": "Muito bonito local de culto obrigatório para amantes do surf natureza e de belas paisagens",
+      "gradeComment": 5
+    },
+    {
+      "author": "Claudia Suares",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucrJpWtPf6xrOTQcO-p66LTUHIqz5TecWxn3qvFVbAk=w36-h36-p-c0x00000000-rp-mo-ba3-br100",
+      "comment": "A Praia da Nazaré é linda e ampla, mas a visita ao Farol é imperdível. A vista ali é uma das mais lindas que vi na vida. Sem palavras! Vale a pena a subida para também visitar as lojinhas de artesanato de lá de cima.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Denilson Mello",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucqyuYvdRCp0JlzY_v5xtPy8kAo2MQ2E262hDH08=w36-h36-p-c0x00000000-rp-mo-ba3-br100",
+      "comment": "Lugar muito bonito, lindas paisagens , feirinha tipica,  museu do surf no farol",
+      "gradeComment": 5
+    },
+    {
+      "author": "Orleans Lucena",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucq2AT8zACditTIASEcj9Y2mTqx_F8kGmprGIqhwEg=w36-h36-p-c0x00000000-rp-mo-br100",
+      "comment": "Muito lindo, recomendo conhecer.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Lucia Soares",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucoXgYsfstCytX9TWp3ozBx1o368l4Y1KVqTpzyEKs8=w36-h36-p-c0x00000000-rp-mo-ba3-br100",
+      "comment": "Um local lindo, a praia, a Rua, A Igreja muito bonito ! Na praça próxima à igreja tem uma mulher que vende uma amêndoas caramelizadas deliciosa, o farol fechou na hr que nós chegamos mas é um lugar muito bonito",
+      "gradeComment": 5
+    },
+    {
+      "author": "Jailson Flores",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucoS_0Mq5N59CSE0A-GLE0KNygDYf-3WFb9mYYWfOXo=w36-h36-p-c0x00000000-rp-mo-ba6-br100",
+      "comment": "Vale a visita, vista lindíssima!",
+      "gradeComment": 5
+    },
+    {
+      "author": "Bruno Rocha",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucppu7mt8NnULF5qd0jyYhFe8AqkhNlvWmkAAHryacw=w36-h36-p-c0x00000000-rp-mo-ba5-br100",
+      "comment": "Local ideal para ver o espectáculo do surf. Tem um \"museu\" com pranchas de vários surfistas. A entrada é super barata, 1 euro e podemos visitar as exposições no interior e subir ao pateo do farol.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Duarte Súcia",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucqbgBechDeknitzYOkXaNY5cNuDdE0veTf_gNRAayM=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "Situado no Forte de São Miguel em pleno promontório do Sítio, a fortificação foi mandada construir em 1577, pelo rei D. Sebastião, para defesa do povoado piscatório da Pederneira, cujo porto era uma referência da época. Depois de vários projetos é em 1644 que o rei D. João IV ordena a sua remodelação e ampliação, dando-se as obras por concluídas nesse ano, atendendo à data inscrita no lintel do portal. Como sentinela vigilante da fortaleza ficou São Miguel Arcanjo, padroeiro de muitos santuários, construídos geralmente em lugares altos. Tornou-se destino obrigatório para quem quer ver de perto as ondas gigantes da Praia do Norte, na Nazaré. Sabia que: Em 2018 foi visitado por cerca de 82 mil pessoas e o Forte já recebeu dezenas de doações por parte de surfistas que por ali passam? 📸",
+      "gradeComment": 5
+    },
+    {
+      "author": "Jaqueline Scholles",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucrYR3prE5XsOnYjGGiyhwmexec8NwS_qES4tnM2e8k=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "Um local mágico com várias recordações de momentos marcantes nas ondas gigantes da Nazaré..... um lugar a visitar",
+      "gradeComment": 4
+    },
+    {
+      "author": "André Paulo Ribeiro",
+      "photoAuthor": "https://lh3.googleusercontent.com/a/AItbvmnIDK4TEjZ4SDTJb3vKMbx4HqyEVEg_An_56L1F=w36-h36-p-c0x00000000-rp-mo-ba5-br100",
+      "comment": "Lugar , incrível, ótima vista do por do sol, romântico, descendo a escada de ferro você fica de frente para o mar,  observação das ondas gigantes , turístico, seguro caminhar a noite , tirar belas fotos do por do sol , lugar para estacionar o carro sem perigo, tem uma senhora que vende tecidos típicos ,",
+      "gradeComment": 5
+    },
+    {
+      "author": "Luciana Veiga",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucr_jPJjWSmjr2gjf6QmKLwJjYyB2wAAK4R4HXingQ=w36-h36-p-c0x00000000-rp-mo-ba3-br100",
+      "comment": "Lugar espetacular ! Lindo demais ! Fecha às 18 horas, então se programe para chegar mais cedo, visitar e curtir o por do sol com calma",
+      "gradeComment": 5
+    },
+    {
+      "author": "Nuno Monteiro",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucraGfiJWmivNd6gDYPrPqeRJee86twmQ-GrPOKy7A=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "Obrigatório visitar... A exposição das pranchas de surf é a indicação tanto do dono da prancha como os feitos alcançados, está excelente...",
+      "gradeComment": 5
+    },
+    {
+      "author": "Xana",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucrXtiHQERMku61iHJDbdu3VYxIGZjYLcPCRbuN5_A=w36-h36-p-c0x00000000-rp-mo-ba5-br100",
+      "comment": "Podemos entrar  no farol por 1€ estao expostas algumas das pranchas dos surfistas premiados do mundo, podemos perceber um pouco da tectônica da praia do norte. A vista é deslumbrante claro, podemos sentir a força da natureza, as gaivotas planam perto de nós.",
+      "gradeComment": 4
+    },
+    {
+      "author": "Ricardo Loureiro (Ricky)",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucpStoUkFfkcu-ebJpkMJgFpINf0C1HLtx9M7dbb5Q=w36-h36-p-c0x00000000-rp-mo-ba5-br100",
+      "comment": "Visual lindo de toda a costa das regiao. Imperdível. Atenção com o clima. Em dias nublados ou de muita umidade a visibilidade é quase zero. Vale a pena pegar o tuk-tuk. Custa somente 1€ por pax e o passeio se torna uma atração a mais.  Atenção com o horario. O Farol fecha as 17h, mesmo na temporada de verão. Uma pena...",
+      "gradeComment": 5
+    },
+    {
+      "author": "Helena Grynfogiel",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucoHXVGxgBoSGzTR_tZ_mmz_EFzI5GPeZjE_3A27zA=w36-h36-p-c0x00000000-rp-mo-ba6-br100",
+      "comment": "Lugar encantador, vale a pena ir em qualquer estação do ano, se quiser ver ondas tem um mês específico , mas mesmo assim é muito lindo ! Fomos no final da tarde e conseguimos ver a beleza de Nazaré, vá com sapato confortável. Vc tem que andar pq fica difícil estacionar , ou vá como nós fizemos bem no finzinho da tarde( assim as pessoas estão saindo). Fica a dica...",
+      "gradeComment": 5
+    }
+  ],
+  "peakHours": [
+    {
+      "Sunday": [
+        {
+          "hour": "10:00",
+          "percent": 32
+        },
+        {
+          "hour": "11:00",
+          "percent": 50
+        },
+        {
+          "hour": "12:00",
+          "percent": 65
+        },
+        {
+          "hour": "13:00",
+          "percent": 68
+        },
+        {
+          "hour": "14:00",
+          "percent": 63
+        },
+        {
+          "hour": "15:00",
+          "percent": 72
+        },
+        {
+          "hour": "16:00",
+          "percent": 100
+        },
+        {
+          "hour": "17:00",
+          "percent": 75
+        },
+        {
+          "hour": "19:00",
+          "percent": 21
+        },
+        {
+          "hour": "20:00",
+          "percent": 16
+        }
+      ]
+    },
+    {
+      "Monday": [
+        {
+          "hour": "10:00",
+          "percent": 30
+        },
+        {
+          "hour": "11:00",
+          "percent": 48
+        },
+        {
+          "hour": "12:00",
+          "percent": 56
+        },
+        {
+          "hour": "13:00",
+          "percent": 55
+        },
+        {
+          "hour": "14:00",
+          "percent": 53
+        },
+        {
+          "hour": "15:00",
+          "percent": 57
+        },
+        {
+          "hour": "16:00",
+          "percent": 58
+        },
+        {
+          "hour": "17:00",
+          "percent": 48
+        },
+        {
+          "hour": "18:00",
+          "percent": 32
+        },
+        {
+          "hour": "19:00",
+          "percent": 16
+        },
+        {
+          "hour": "20:00",
+          "percent": 7
+        }
+      ]
+    },
+    {
+      "Tuesday": [
+        {
+          "hour": "10:00",
+          "percent": 10
+        },
+        {
+          "hour": "11:00",
+          "percent": 36
+        },
+        {
+          "hour": "12:00",
+          "percent": 65
+        },
+        {
+          "hour": "13:00",
+          "percent": 63
+        },
+        {
+          "hour": "14:00",
+          "percent": 53
+        },
+        {
+          "hour": "15:00",
+          "percent": 55
+        },
+        {
+          "hour": "16:00",
+          "percent": 53
+        },
+        {
+          "hour": "17:00",
+          "percent": 43
+        },
+        {
+          "hour": "18:00",
+          "percent": 28
+        },
+        {
+          "hour": "19:00",
+          "percent": 16
+        },
+        {
+          "hour": "20:00",
+          "percent": 7
+        }
+      ]
+    },
+    {
+      "Wednesday": [
+        {
+          "hour": "10:00",
+          "percent": 20
+        },
+        {
+          "hour": "11:00",
+          "percent": 31
+        },
+        {
+          "hour": "12:00",
+          "percent": 32
+        },
+        {
+          "hour": "13:00",
+          "percent": 30
+        },
+        {
+          "hour": "14:00",
+          "percent": 41
+        },
+        {
+          "hour": "15:00",
+          "percent": 66
+        },
+        {
+          "hour": "16:00",
+          "percent": 73
+        },
+        {
+          "hour": "17:00",
+          "percent": 52
+        },
+        {
+          "hour": "18:00",
+          "percent": 22
+        },
+        {
+          "hour": "19:00",
+          "percent": 6
+        },
+        {
+          "hour": "20:00",
+          "percent": 1
+        }
+      ]
+    },
+    {
+      "Thursday": [
+        {
+          "hour": "10:00",
+          "percent": 13
+        },
+        {
+          "hour": "11:00",
+          "percent": 42
+        },
+        {
+          "hour": "12:00",
+          "percent": 52
+        },
+        {
+          "hour": "13:00",
+          "percent": 32
+        },
+        {
+          "hour": "14:00",
+          "percent": 37
+        },
+        {
+          "hour": "15:00",
+          "percent": 51
+        },
+        {
+          "hour": "16:00",
+          "percent": 55
+        },
+        {
+          "hour": "17:00",
+          "percent": 46
+        },
+        {
+          "hour": "18:00",
+          "percent": 32
+        },
+        {
+          "hour": "19:00",
+          "percent": 21
+        },
+        {
+          "hour": "20:00",
+          "percent": 16
+        }
+      ]
+    },
+    {
+      "Friday": [
+        {
+          "hour": "10:00",
+          "percent": 18
+        },
+        {
+          "hour": "11:00",
+          "percent": 37
+        },
+        {
+          "hour": "12:00",
+          "percent": 56
+        },
+        {
+          "hour": "13:00",
+          "percent": 66
+        },
+        {
+          "hour": "14:00",
+          "percent": 62
+        },
+        {
+          "hour": "15:00",
+          "percent": 55
+        },
+        {
+          "hour": "16:00",
+          "percent": 46
+        },
+        {
+          "hour": "17:00",
+          "percent": 38
+        },
+        {
+          "hour": "18:00",
+          "percent": 28
+        },
+        {
+          "hour": "19:00",
+          "percent": 18
+        },
+        {
+          "hour": "20:00",
+          "percent": 11
+        }
+      ]
+    },
+    {
+      "Saturday": [
+        {
+          "hour": "10:00",
+          "percent": 17
+        },
+        {
+          "hour": "11:00",
+          "percent": 31
+        },
+        {
+          "hour": "12:00",
+          "percent": 47
+        },
+        {
+          "hour": "13:00",
+          "percent": 65
+        },
+        {
+          "hour": "14:00",
+          "percent": 77
+        },
+        {
+          "hour": "15:00",
+          "percent": 81
+        },
+        {
+          "hour": "16:00",
+          "percent": 75
+        },
+        {
+          "hour": "17:00",
+          "percent": 61
+        },
+        {
+          "hour": "18:00",
+          "percent": 45
+        },
+        {
+          "hour": "19:00",
+          "percent": 31
+        },
+        {
+          "hour": "20:00",
+          "percent": 20
+        }
+      ]
+    }
+  ],
+  "relatedSearches": [
+    "farol de nazaré onde fica",
+    "praia da nazaré",
+    "farol de nazaré ondas gigantes",
+    "ilha de nazaré",
+    "nazaré maior onda",
+    "farol de nazaré cabo de santo agostinho",
+    "nazaré portugal hoje",
+    "imagens de nazaré, portugal",
+    "farol de nazaré onde fica",
+    "praia da nazaré",
+    "farol de nazaré ondas gigantes",
+    "ilha de nazaré",
+    "nazaré maior onda",
+    "farol de nazaré cabo de santo agostinho",
+    "nazaré portugal hoje",
+    "imagens de nazaré, portugal"
+  ],
+  "relateds": [
+    {
+      "mainName": "Forte de São Miguel Arcanjo",
+      "url": null
+    },
+    {
+      "mainName": "Ermida da Memória",
+      "url": null
+    },
+    {
+      "mainName": "Igreja da Misericórdia da Pederneira",
+      "url": null
+    },
+    {
+      "mainName": "Miradouro do Suberco",
+      "url": null
+    },
+    {
+      "mainName": "Elevador da Nazaré",
+      "url": null
+    },
+    {
+      "mainName": "Igreja de São Gião",
+      "url": null
+    },
+    {
+      "mainName": "Monte de São Bartolomeu",
+      "url": null
+    },
+    {
+      "mainName": "Santuário de Nossa Senhora da Nazaré",
+      "url": null
+    },
+    {
+      "mainName": "Pederneira",
+      "url": null
+    },
+    {
+      "mainName": "Praia da Nazare",
+      "url": null
+    },
+    {
+      "mainName": "Norpark - Diversões aquáticas da Nazaré",
+      "url": null
+    },
+    {
+      "mainName": "Museu Dr. Joaquim Manso",
+      "url": null
+    },
+    {
+      "mainName": "Praia do Norte",
+      "url": null
+    },
+    {
+      "mainName": "Farol do Cabo Carvoeiro",
+      "url": null
+    },
+    {
+      "mainName": "Naturumm 4x4 Tour- Nazaré Portugal Actividades de Animação Turística",
+      "url": null
+    },
+    {
+      "mainName": "Farol do Cabo Raso",
+      "url": null
+    },
+    {
+      "mainName": "Atlantic Safaris",
+      "url": null
+    },
+    {
+      "mainName": "Farol de Alfanzina",
+      "url": null
+    },
+    {
+      "mainName": "Farolim de Felgueiras",
+      "url": null
+    },
+    {
+      "mainName": "Farol de Leça",
+      "url": null
+    },
+    {
+      "mainName": "Mercado Municipal de Nazaré",
+      "url": null
+    },
+    {
+      "mainName": "Farol do Cabo de São Vicente",
+      "url": null
+    },
+    {
+      "mainName": "Parque de Cabárceno",
+      "url": null
+    },
+    {
+      "mainName": "Praia da Areeira",
+      "url": null
+    },
+    {
+      "mainName": "Forte de São Miguel Arcanjo",
+      "url": null
+    },
+    {
+      "mainName": "Ermida da Memória",
+      "url": null
+    },
+    {
+      "mainName": "Igreja da Misericórdia da Pederneira",
+      "url": null
+    },
+    {
+      "mainName": "Miradouro do Suberco",
+      "url": null
+    },
+    {
+      "mainName": "Elevador da Nazaré",
+      "url": null
+    },
+    {
+      "mainName": "Igreja de São Gião",
+      "url": null
+    },
+    {
+      "mainName": "Monte de São Bartolomeu",
+      "url": null
+    },
+    {
+      "mainName": "Santuário de Nossa Senhora da Nazaré",
+      "url": null
+    },
+    {
+      "mainName": "Pederneira",
+      "url": null
+    },
+    {
+      "mainName": "Praia da Nazare",
+      "url": null
+    },
+    {
+      "mainName": "Norpark - Diversões aquáticas da Nazaré",
+      "url": null
+    },
+    {
+      "mainName": "Museu Dr. Joaquim Manso",
+      "url": null
+    },
+    {
+      "mainName": "Praia do Norte",
+      "url": null
+    },
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

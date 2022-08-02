@@ -1,0 +1,669 @@
+{
+  "mainName": "Mercado Ver-o-Peso",
+  "slug": "mercado-ver-o-peso",
+  "category": "Feira Livre",
+  "locationInformation": {
+    "latitude": "-1.4523651",
+    "longitude": "-48.5037509"
+  },
+  "basicInformation": [
+    {
+      "label": "endereço",
+      "tooltip": "Copiar endereço",
+      "text": "Blvd. Castilhos França - Campina, Belém - PA, 66013-030",
+      "icon": "https://www.gstatic.com/images/icons/material/system_gm/1x/place_gm_blue_24dp.png"
+    },
+    {
+      "label": "Code",
+      "tooltip": "Copiar Plus Code",
+      "text": "GFXW+3F Campina, Belém - PA",
+      "icon": "https://maps.gstatic.com/mapfiles/maps_lite/images/2x/ic_plus_code.png"
+    },
+    {
+      "label": "merchant",
+      "text": "Reivindicar esta empresa",
+      "icon": "https://www.gstatic.com/images/icons/material/system_gm/1x/verified_user_gm_blue_24dp.png"
+    }
+  ],
+  "ratingInformation": {
+    "basicRatingInformation": {
+      "averageGrade": 4.4,
+      "totalOfEvaluations": 33927
+    },
+    "ratingsByGrade": [
+      {
+        "grade": 5,
+        "totalRatings": 21592
+      },
+      {
+        "grade": 4,
+        "totalRatings": 6373
+      },
+      {
+        "grade": 3,
+        "totalRatings": 3750
+      },
+      {
+        "grade": 2,
+        "totalRatings": 1092
+      },
+      {
+        "grade": 1,
+        "totalRatings": 1120
+      }
+    ]
+  },
+  "ratingTags": [
+    {
+      "tag": "turístico",
+      "count": 1007,
+      "tooltip": "turístico, mencionado em 1.007 avaliações"
+    },
+    {
+      "tag": "açaí",
+      "count": 818,
+      "tooltip": "açaí, mencionado em 818 avaliações"
+    },
+    {
+      "tag": "artesanato",
+      "count": 496,
+      "tooltip": "artesanato, mencionado em 496 avaliações"
+    },
+    {
+      "tag": "diversidade",
+      "count": 353,
+      "tooltip": "diversidade, mencionado em 353 avaliações"
+    },
+    {
+      "tag": "histórico",
+      "count": 341,
+      "tooltip": "histórico, mencionado em 341 avaliações"
+    },
+    {
+      "tag": "culinária",
+      "count": 264,
+      "tooltip": "culinária, mencionado em 264 avaliações"
+    },
+    {
+      "tag": "sujeira",
+      "count": 221,
+      "tooltip": "sujeira, mencionado em 221 avaliações"
+    },
+    {
+      "tag": "castanhas",
+      "count": 107,
+      "tooltip": "castanhas, mencionado em 107 avaliações"
+    },
+    {
+      "tag": "farinha",
+      "count": 82,
+      "tooltip": "farinha, mencionado em 82 avaliações"
+    },
+    {
+      "tag": "riqueza",
+      "count": 63,
+      "tooltip": "riqueza, mencionado em 63 avaliações"
+    }
+  ],
+  "featuredPhotos": [
+    "https://lh5.googleusercontent.com/p/AF1QipNInhjK-O5-9fTdCzdBB7w9PqpBecvmkVoTlcWc=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipP1qDtpLxS3UPAuXdnHiib-x2ofZbJfMiPljXfu=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNPUUPm30ICEClHiGfzkzH2ZDVc2Fqt7Th18EoL=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPEIgohkz9m1suXap8f2Oe3Lg0rqlsrI-snGLC8=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipO6B4TPuZA1Xt8b4WNsHIlLVNnpaaY76TqaO9iC=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipN6xwEnXOclhequCnMV-28SLwiH9Y8EwNPFPORh=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipM4Ygbe7Oe-YkzrlTuKqaUiaBX8b4jg0wNtqHL6=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipM2bg6zTXDlvdxfs54GJif_DLb4yYve5AGs6FQo=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPPpRyN06nff2TKuo09FIbkSRFvtRuWK5zlEfQc=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipP52Ov8Qd7p5kNYEmIGH_HreE0OZrX9DHP0-lR-=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMm1bxg0i79zKKqs2aOdsPcRsGLxQiVx4MeAxrF=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOiQdOuT02vhpnQ7UFLHmhknYR3pvpuWDL42VcM=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNdCVORT7vm5jRxGF8poQfhY5RGMdIxP2YuLT7T=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipM7XYLGqHcm762HFUQ1rt9hr1nye4ld9RZVCutX=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMiC6gPNDtyGpWI4LaI_5Gjdq0KqmsMUBwmR1YG=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMBfwQLb0LSWvbcKE_ST1i5qwcTyRlluaD_QgTt=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMVj5QYe0yK4B-brN1X7ve9q3PqdcKucUNxw_Dp=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOfqo1-GmZvW3Fm8khQ9XjEbQZT_mFSgcvKOkyN=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNOm0jZtHltT6rdkaaZrduTGornVgt8Vi4ppo9N=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipM_GbQjruymxJlUKhD_eG031Agajjb8ISmpvYmC=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMtbOh44E72ekd06CGlcT4RqdvTEQkT2UWAmPzX=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOuU_E7m7149a_Vw9b7gvMF9-hONDtoFu6tkc1c=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOzRCmUjvs7XXNeaR7kdCDUCOLDuQCcU804wsIM=w1024-h576-k-no"
+  ],
+  "topComments": [
+    {
+      "author": "Luan Rodrigo",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucpJpL7_eq3nVPl3o8b5OUNyOHxSfkkWTBY7uzQnihA=w36-h36-p-c0x00000000-rp-mo-ba6-br100",
+      "comment": "Bom, é um local cultural  que virou cartão postal da cidade,  vale a pena  conhecer, tem vários objetos  artesanal  além de cachaça regional. Aaa é se você for daqueles que vai afundo nas experiências  aproveite e coma no local, muitos vão Pará comer o famoso açaí com peixe. Eu fui  mais leve, N curto muito peixe rs",
+      "gradeComment": 4
+    },
+    {
+      "author": "Robinho Farias",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucpfbwm4OYN3KF7OsKimCbnBLAiTdRsLgzgjTs7tsQ=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "O que falar sobre o ver-O-peso, bom ele é um dos mercados públicos mais antigos do País, considerado como uma das maravilhas do estado. Foi eleito uma das 7 Maravilhas do Brasil por ser um dos mercados mais antigos do Brasil. Ponto turístico, cultural e econômico da cidade de Belém, formado pelo Mercado de Ferro, Praça do Pescador, Doca das Embarcações, Pedra do Peixe e, Feira Livre considerado a maior feira ao ar livre da América Latina que abastece a cidade com variados tipos de gêneros alimentícios e ervas medicinais, vindos das ilhas circunvizinhas à capital e dos municípios do interior, fornecidos por via fluvial. Belém, Pará, Brasil....",
+      "gradeComment": 5
+    },
+    {
+      "author": "Fotógrafo Amador",
+      "photoAuthor": "https://lh3.googleusercontent.com/a/AItbvmnK90wVuUOcyOBjPM7wqT_2zwWB7UAu-c8tTI-C=w36-h36-p-c0x00000000-rp-mo-ba3-br100",
+      "comment": "Um dos pontos turísticos mais tradicionais da cidade, local onde é possível conhecer a cultura do estado em sua essência, pois é cheio de histórias, culturalmente rico, com seus aromas e sabores que estão por toda parte! O mercado do Ver-o-peso é simplesmente um passeio imperdível para quem vem conhecer nossa cidade e quer experiênciar o jeito paraense de ser, lá além da possibilidade de experimentar sabores regionais, também é possível comprar artesanatos, lembranças e ouvir os ritmos da terra! O único ponto a ressaltar é que fiquem sempre atentos, pois costuma a acontecer pequenos furtos por conta de meliantes que transitam na área!",
+      "gradeComment": 5
+    },
+    {
+      "author": "Carlo Enrico",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucphIr0ErlRn5Nyf68xP7Pp3bDZMKamvFikHuyeA_o0=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "eu sou completamente apaixonado por esse lugar!! mas falta um pouco de atenção do poder público em coisas muito básicas como conservação e uma absurda falta de lixeiras. mas ainda assim é meu lugar predileto em Belém!  é a maior riqueza de sabores do Brasil e vale muito a pena!",
+      "gradeComment": 5
+    },
+    {
+      "author": "luciano araujo",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucqn4d2AVsthiEOPrg4xc8zqhoNF8US0vL-vLKDXPA=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "Faz jus a fama de mercadão completo! Cores e sabores do Pará e da região norte brasileira. Artesanatos, lembrancinhas, artistas de rua e tudo mais! Vale a pena visitar! Vá com fome para aproveitar apreciar cada sabor. Negociem tudo kkkk eles gostam. Como é um lugar cheio, a questão de segurança é a de sempre, levar o essencial e cuidar.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Keila",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucpnLy1PNnkaJ6KEVQkuUQs1ww3KAtqE5IRBpEXhIV8=w36-h36-p-c0x00000000-rp-mo-ba5-br100",
+      "comment": "O mercado é lindo demais, vale a pena a visita. O melhor lugar para estacionar o carro é na estação das docas. O local precisa de mais policiamento e limpeza. Lá tem várias barracas de alimentação, preço muito bom.",
+      "gradeComment": 3
+    },
+    {
+      "author": "Cristiane Fialho Santana",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucq_pckPk1eRMd5hqcfMBqIv1hInFncOB4OLJJLZzeg=w36-h36-p-c0x00000000-rp-mo-ba3-br100",
+      "comment": "Melhor experiência de feira livre, sou paraense mais nunca tinha ido no ver-o-peso e bom, foi único e muito divertido estar lá comida boa, atendimento excelente e pessoas bem receptivies. ❤️",
+      "gradeComment": 5
+    },
+    {
+      "author": "Valdir Nogueira",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucqVdSC9PbTaRVYt1K7nkFtc9CXy6aUMsIXbUFK59uU=w36-h36-p-c0x00000000-rp-mo-ba5-br100",
+      "comment": "O mercado é excepcional. Quem vai a Belém não pode deixar de passar um bom tempo no mercado para sentir as cores, cheiros, sabores, a vida fluindo de forma maravilhosa.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Marcia Cordeiro",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucoyFSoHuzI12Qpn6A-vuK7fcZr_znbOiZXXKGCr3Q=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "Centro antigo de Belém, beira rio, muita aglomeração de pessoas, bem sujo e com odor bem desagradável, mas não deixa de ser interessante.",
+      "gradeComment": 3
+    },
+    {
+      "author": "Gabriel Lima",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucpjRw0wErgDu1h0pvqh9vecUHehfezSNeS5Cs4wDQU=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "Diferente do que muitos me disseram antes de ir pra Belém, eu não achei \"muito perigoso\". É um lugar como qualquer outro, onde tem sim seus problemas de segurança, mas e só ter cuidado. Eu me senti super seguro e tranquilo durante a minha visita (ainda bem que não dei ouvidos aos que não falaram bem dessa cidade incrível). Em relação ao mercado, eu tinha muita vontade de conhecer e atendeu minhas expectativas. Muito bom, com uma variedade enorme de culinária, vestuário e artesanato. É lindo andar por esse mercado e ver como os paraenses são gente boa, divertidos e que mantém sempre a fé. Eu fiquei apaixonado por Belém e pretendo voltar mais vezes. Essa cidade já tem um lugar reservado dentro do meu coração. ❤ Eu amo Belém do Pará.",
+      "gradeComment": 5
+    }
+  ],
+  "peakHours": [
+    {
+      "Sunday": []
+    },
+    {
+      "Monday": [
+        {
+          "hour": "05:00",
+          "percent": 2
+        },
+        {
+          "hour": "06:00",
+          "percent": 5
+        },
+        {
+          "hour": "07:00",
+          "percent": 13
+        },
+        {
+          "hour": "08:00",
+          "percent": 25
+        },
+        {
+          "hour": "09:00",
+          "percent": 39
+        },
+        {
+          "hour": "10:00",
+          "percent": 50
+        },
+        {
+          "hour": "11:00",
+          "percent": 55
+        },
+        {
+          "hour": "12:00",
+          "percent": 54
+        },
+        {
+          "hour": "13:00",
+          "percent": 50
+        },
+        {
+          "hour": "14:00",
+          "percent": 47
+        },
+        {
+          "hour": "15:00",
+          "percent": 43
+        },
+        {
+          "hour": "16:00",
+          "percent": 36
+        },
+        {
+          "hour": "17:00",
+          "percent": 24
+        },
+        {
+          "hour": "18:00",
+          "percent": 12
+        }
+      ]
+    },
+    {
+      "Tuesday": [
+        {
+          "hour": "05:00",
+          "percent": 6
+        },
+        {
+          "hour": "06:00",
+          "percent": 11
+        },
+        {
+          "hour": "07:00",
+          "percent": 19
+        },
+        {
+          "hour": "08:00",
+          "percent": 30
+        },
+        {
+          "hour": "09:00",
+          "percent": 44
+        },
+        {
+          "hour": "10:00",
+          "percent": 55
+        },
+        {
+          "hour": "11:00",
+          "percent": 60
+        },
+        {
+          "hour": "12:00",
+          "percent": 58
+        },
+        {
+          "hour": "13:00",
+          "percent": 54
+        },
+        {
+          "hour": "14:00",
+          "percent": 51
+        },
+        {
+          "hour": "15:00",
+          "percent": 46
+        },
+        {
+          "hour": "16:00",
+          "percent": 38
+        },
+        {
+          "hour": "17:00",
+          "percent": 26
+        },
+        {
+          "hour": "18:00",
+          "percent": 14
+        }
+      ]
+    },
+    {
+      "Wednesday": [
+        {
+          "hour": "05:00",
+          "percent": 5
+        },
+        {
+          "hour": "06:00",
+          "percent": 10
+        },
+        {
+          "hour": "07:00",
+          "percent": 19
+        },
+        {
+          "hour": "08:00",
+          "percent": 31
+        },
+        {
+          "hour": "09:00",
+          "percent": 44
+        },
+        {
+          "hour": "10:00",
+          "percent": 56
+        },
+        {
+          "hour": "11:00",
+          "percent": 62
+        },
+        {
+          "hour": "12:00",
+          "percent": 62
+        },
+        {
+          "hour": "13:00",
+          "percent": 57
+        },
+        {
+          "hour": "14:00",
+          "percent": 51
+        },
+        {
+          "hour": "15:00",
+          "percent": 46
+        },
+        {
+          "hour": "16:00",
+          "percent": 38
+        },
+        {
+          "hour": "17:00",
+          "percent": 27
+        },
+        {
+          "hour": "18:00",
+          "percent": 15
+        }
+      ]
+    },
+    {
+      "Thursday": [
+        {
+          "hour": "05:00",
+          "percent": 6
+        },
+        {
+          "hour": "06:00",
+          "percent": 11
+        },
+        {
+          "hour": "07:00",
+          "percent": 19
+        },
+        {
+          "hour": "08:00",
+          "percent": 31
+        },
+        {
+          "hour": "09:00",
+          "percent": 45
+        },
+        {
+          "hour": "10:00",
+          "percent": 57
+        },
+        {
+          "hour": "11:00",
+          "percent": 62
+        },
+        {
+          "hour": "12:00",
+          "percent": 62
+        },
+        {
+          "hour": "13:00",
+          "percent": 58
+        },
+        {
+          "hour": "14:00",
+          "percent": 53
+        },
+        {
+          "hour": "15:00",
+          "percent": 47
+        },
+        {
+          "hour": "16:00",
+          "percent": 38
+        },
+        {
+          "hour": "17:00",
+          "percent": 27
+        },
+        {
+          "hour": "18:00",
+          "percent": 15
+        }
+      ]
+    },
+    {
+      "Friday": [
+        {
+          "hour": "05:00",
+          "percent": 9
+        },
+        {
+          "hour": "06:00",
+          "percent": 15
+        },
+        {
+          "hour": "07:00",
+          "percent": 24
+        },
+        {
+          "hour": "08:00",
+          "percent": 35
+        },
+        {
+          "hour": "09:00",
+          "percent": 47
+        },
+        {
+          "hour": "10:00",
+          "percent": 58
+        },
+        {
+          "hour": "11:00",
+          "percent": 67
+        },
+        {
+          "hour": "12:00",
+          "percent": 72
+        },
+        {
+          "hour": "13:00",
+          "percent": 71
+        },
+        {
+          "hour": "14:00",
+          "percent": 64
+        },
+        {
+          "hour": "15:00",
+          "percent": 53
+        },
+        {
+          "hour": "16:00",
+          "percent": 41
+        },
+        {
+          "hour": "17:00",
+          "percent": 29
+        },
+        {
+          "hour": "18:00",
+          "percent": 18
+        }
+      ]
+    },
+    {
+      "Saturday": [
+        {
+          "hour": "05:00",
+          "percent": 6
+        },
+        {
+          "hour": "06:00",
+          "percent": 14
+        },
+        {
+          "hour": "07:00",
+          "percent": 25
+        },
+        {
+          "hour": "08:00",
+          "percent": 42
+        },
+        {
+          "hour": "09:00",
+          "percent": 62
+        },
+        {
+          "hour": "10:00",
+          "percent": 83
+        },
+        {
+          "hour": "11:00",
+          "percent": 97
+        },
+        {
+          "hour": "12:00",
+          "percent": 100
+        },
+        {
+          "hour": "13:00",
+          "percent": 89
+        },
+        {
+          "hour": "14:00",
+          "percent": 71
+        },
+        {
+          "hour": "15:00",
+          "percent": 52
+        },
+        {
+          "hour": "16:00",
+          "percent": 35
+        },
+        {
+          "hour": "17:00",
+          "percent": 23
+        },
+        {
+          "hour": "18:00",
+          "percent": 15
+        }
+      ]
+    }
+  ],
+  "relatedSearches": [
+    "mercado ver-o-peso história",
+    "mercado ver-o-peso telefone",
+    "mercado ver-o-peso é perigoso",
+    "para que o mercado ver-o-peso foi construído",
+    "mercado ver-o-peso horário de funcionamento",
+    "onde fica o mercado ver-o-peso",
+    "mercado ver-o-peso imagens",
+    "mercado ver-o-peso turismo"
+  ],
+  "relateds": [
+    {
+      "mainName": "Estação das Docas",
+      "url": null
+    },
+    {
+      "mainName": "Museu Paraense Emílio Goeldi",
+      "url": null
+    },
+    {
+      "mainName": "Mercado da Carne",
+      "url": null
+    },
+    {
+      "mainName": "Parque Zoobotânico Mangal das Garças",
+      "url": null
+    },
+    {
+      "mainName": "Forte do Presépio",
+      "url": null
+    },
+    {
+      "mainName": "Baia do Guajará",
+      "url": null
+    },
+    {
+      "mainName": "Solar da Beira",
+      "url": null
+    },
+    {
+      "mainName": "Feira do Açaí - Ver-o-peso",
+      "url": null
+    },
+    {
+      "mainName": "Basílica Santuário de Nossa Senhora de Nazaré",
+      "url": null
+    },
+    {
+      "mainName": "Centro Cultural Sesc Ver-o-Peso",
+      "url": null
+    },
+    {
+      "mainName": "Círio de Nazaré",
+      "url": null
+    },
+    {
+      "mainName": "Beto Carrero World",
+      "url": null
+    },
+    {
+      "mainName": "Mundo a Vapor",
+      "url": null
+    },
+    {
+      "mainName": "Parque Mutirama",
+      "url": null
+    },
+    {
+      "mainName": "Beach Park",
+      "url": null
+    },
+    {
+      "mainName": "Parque da Mônica",
+      "url": null
+    },
+    {
+      "mainName": "Mirabilandia",
+      "url": null
+    },
+    {
+      "mainName": "Hopi Hari",
+      "url": null
+    },
+    {
+      "mainName": "Catedral Metropolitana de Belém Nossa Senhora da Graça",
+      "url": null
+    },
+    {
+      "mainName": "Theatro da Paz",
+      "url": null
+    },
+    {
+      "mainName": "Parque Zoológico Municipal \"Quinzinho de Barros\"",
+      "url": null
+    },
+    {
+      "mainName": "Aquário de São Paulo",
+      "url": null
+    },
+    {
+      "mainName": "Zoológico de São Paulo",
+      "url": null
+    },
+    {
+      "mainName": "Estádio Leônidas Sodré de Castro - Banpará Curuzu",
+      "url": null
+    }
+  ],
+  "editMode": false
+}

@@ -1,0 +1,600 @@
+{
+  "mainName": "Hôtel des Invalides",
+  "slug": "hotel-des-invalides",
+  "category": "Marco histórico",
+  "locationInformation": {
+    "latitude": "48.856529",
+    "longitude": "2.3127059"
+  },
+  "basicInformation": [
+    {
+      "label": "endereço",
+      "tooltip": "Copiar endereço",
+      "text": "129 Rue de Grenelle, 75007 Paris, França",
+      "icon": "https://www.gstatic.com/images/icons/material/system_gm/1x/place_gm_blue_24dp.png"
+    },
+    {
+      "label": "website",
+      "tooltip": "Abrir website",
+      "text": "musee-armee.fr",
+      "icon": "https://www.gstatic.com/images/icons/material/system_gm/1x/public_gm_blue_24dp.png"
+    },
+    {
+      "label": "Code",
+      "tooltip": "Copiar Plus Code",
+      "text": "V847+J3 Paris, França",
+      "icon": "https://maps.gstatic.com/mapfiles/maps_lite/images/2x/ic_plus_code.png"
+    }
+  ],
+  "ratingInformation": {
+    "basicRatingInformation": {
+      "averageGrade": 4.6,
+      "totalOfEvaluations": 28019
+    },
+    "ratingsByGrade": [
+      {
+        "grade": 5,
+        "totalRatings": 20125
+      },
+      {
+        "grade": 4,
+        "totalRatings": 6099
+      },
+      {
+        "grade": 3,
+        "totalRatings": 1356
+      },
+      {
+        "grade": 2,
+        "totalRatings": 210
+      },
+      {
+        "grade": 1,
+        "totalRatings": 229
+      }
+    ]
+  },
+  "ratingTags": [
+    {
+      "tag": "passado",
+      "count": 15,
+      "tooltip": "passado, mencionado em 15 avaliações"
+    },
+    {
+      "tag": "objetos",
+      "count": 5,
+      "tooltip": "objetos, mencionado em 5 avaliações"
+    },
+    {
+      "tag": "napoleão bonaparte",
+      "count": 1367,
+      "tooltip": "napoleão bonaparte, mencionado em 1.367 avaliações"
+    },
+    {
+      "tag": "armas",
+      "count": 291,
+      "tooltip": "armas, mencionado em 291 avaliações"
+    },
+    {
+      "tag": "cúpula",
+      "count": 203,
+      "tooltip": "cúpula, mencionado em 203 avaliações"
+    },
+    {
+      "tag": "história da frança",
+      "count": 141,
+      "tooltip": "história da frança, mencionado em 141 avaliações"
+    },
+    {
+      "tag": "história militar",
+      "count": 104,
+      "tooltip": "história militar, mencionado em 104 avaliações"
+    },
+    {
+      "tag": "luís xiv",
+      "count": 91,
+      "tooltip": "luís xiv, mencionado em 91 avaliações"
+    },
+    {
+      "tag": "armadura",
+      "count": 90,
+      "tooltip": "armadura, mencionado em 90 avaliações"
+    }
+  ],
+  "featuredPhotos": [
+    "https://lh5.googleusercontent.com/p/AF1QipOMZthKcZTSgzgXgwMAybLs4lMFSLU6BazYr1r_=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNTyykLa1eJMehxL-UDnKc6KLEEuHTrHsbFOvpf=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMZTRj_46Pv0g1zQ5bELo9zFnCejmktbhp_cj3v=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNxFLWHZpiVCC_D6Z4YUqmywFpvjRtdz5Q8Dmm4=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOKgMvbgxPQQOz3h7RYVS5qMTG5FLG31VPVG_6Q=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNlhKAm13kAtgsRziAdYI4-k8eucwEbv3iYpOA5=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMtIqCG2foJso-qzjr6Sk4LoQiMg9Sp7d4DzjZF=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMnvj2KfRLfjKi7EzhajN_DIDAIWGO8ehIA5yBH=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPaazTovAIj2bMtZsDmYsoBeDb1J3kWygbzRwOd=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMhf3D-2lumf3-2BrsWl4-1-aZn9vbXBU8IiDzr=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipO2zIvcPdqqOtNhHtkB3StjjKCCn5fqkAlLkaXO=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMfZssl-j1HWEdDQ1MFQFNYQpwHRdvJexNetdR4=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOPd0BbK-ecFm9v2YKOVvsx7wgxBgu_HylRkz3a=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipN1QKWd8JBEgD2fHajn_b4LtimrFRCtYIOEGVOB=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMFaiRMBwbe3wQd7jW9r7XNyxrihizB7DU9cjOk=w1024-h576-k-no"
+  ],
+  "topComments": [
+    {
+      "author": "felisberto magalhaes",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucqiul5ikSX_iI3uHlRwfqYur4faDrUnjr6Qh2Qy=w36-h36-p-c0x00000000-rp-mo-ba3-br100",
+      "comment": "Um espaço magnífico e imponentee extramamente fotogénico.O trabalho em pedra é incrível assim como a sua cúpula dourada.Tem um espaço interior de restauração muito agradável.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Thiago Henrique Lobo Lobo",
+      "photoAuthor": "https://lh3.googleusercontent.com/a/AItbvmlPRYYVjWs-rsNiYOWtGT-tgZQRk0Ag_CIaSeFS=w36-h36-p-c0x00000000-rp-mo-br100",
+      "comment": "Entrada adultos 14€, menores de 18 anos entram de graça, é um passeio para o dia todo, muita coisa para ver; os túmulos ficam na construção que parece ou é uma igreja; fecha as 18 horas",
+      "gradeComment": 3
+    },
+    {
+      "author": "Isilda Moura",
+      "photoAuthor": "https://lh3.googleusercontent.com/a/AItbvmmoki2l00qIbzKqzhKK7MW7ziCtLYn2BYOXtofi=w36-h36-p-c0x00000000-rp-mo-br100",
+      "comment": "Foi agitada muitos monumentos para visitar a Disney e as filas não perdoam. Adoramos  vamos repetir.❤️🌷",
+      "gradeComment": 5
+    },
+    {
+      "author": "Alonso de Carli Moro",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucqx2uA37N2KUT9WWqiBhB-LkPTWZt8v_M_9R6mzlLE=w36-h36-p-c0x00000000-rp-mo-ba2-br100",
+      "comment": "Palácio incrível, com muita história, uma igreja linda e um arsenal gigantesco de armas e armaduras de diversas épocas.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Frederico Almeida",
+      "photoAuthor": "https://lh3.googleusercontent.com/a/AItbvmn0VdHk_1L3utaHLKORPAEuhyGkYCEYWPo1ZjnF=w36-h36-p-c0x00000000-rp-mo-ba5-br100",
+      "comment": "A estrutura de todo o complexo é fantástica! Vale a pena reservar meio período da viagem para conhecer! Experiência enriquecedora!",
+      "gradeComment": 5
+    },
+    {
+      "author": "Diogo Bobsin",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucozbwbEtv-k2II8sCzsheHjdc6MdmyJdu1m0QsIaA=w36-h36-p-c0x00000000-rp-mo-ba3-br100",
+      "comment": "Lugar incrível. Fiquei 3hs com o meu filho vendo as histórias de guerras e evolução das armas e poderíamos ter ficado muito mais... A exposição Playmobil foi fabulosa.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Volmir Zolet da Silva Junior",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucre-9f1a256qi6wxLmBT87IGcznAOGmwla0K9Z2cA=w36-h36-p-c0x00000000-rp-mo-ba3-br100",
+      "comment": "O local reúne vários museus interessantes, então a visita pode ser longa (diria mais de 2h30) para quem deseja visitar todos eles. Há disponibilização de audioguia (pago), mas foi um pouco decepcionante porque aborda poucos elementos dos museus, e como há também raras descrições em inglês, haverá muitas lacunas na compreensão das exposições para quem não fala francês (pior ainda para quem não fala inglês), o que me deixou um pouco decepcionado. Para quem chega, há a entrada norte, principal, e a entrada sul, então é possível escolher qualquer uma delas a partir de onde você está chegando. O local todo é muito bonito, com arquitetura e esculturas excepcionais, valeria a visita para quem tem o museu pass e está na área e deseja também ver a construção (e se já conhece também a sua história), mesmo que dê uma rápida passada pelos museus. Não indicaria para quem não tem o museu pass, pois pode ficar uma visita cara.",
+      "gradeComment": 3
+    },
+    {
+      "author": "Bruno P. Carreira",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucqcQ8oCOjY7u4IFH07aHVB0kv-wB81vLtJV92Yq5Q=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "O Hôtel National des Invalides, ou Palácio dos Inválidos, é um monumento parisiense, cuja construção foi ordenada por Luís XIV, em 1670, para dar abrigo aos inválidos dos seus exércitos. Hoje é uma necrópole militar e sede de vários museus. Entre as personalidades ilustres aqui sepultadas encontram-se Napoleão Bonaparte, assim como o coração de Sébastien Le Prestre de Vauban, arquitecto militar francês, responsável pela poliorcética francesa, o qual criou, na época de Luís XIV, uma série de fortificações militares ao reino, tornando-o impenetrável. Obrigatório visitar!",
+      "gradeComment": 5
+    },
+    {
+      "author": "Jose Salazar",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucqz6XfTr2epB55hqxY2iGcblUh3TnThrsfLdoZI=w36-h36-p-c0x00000000-rp-mo-ba5-br100",
+      "comment": "Cada edificio o monumento son obras de arte",
+      "gradeComment": 5
+    },
+    {
+      "author": "theo is dead!!",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucrC1gIe1101iXQX2Hcu9f1HH77aozg_UkjxjnZHk3U=w36-h36-p-c0x00000000-rp-mo-br100",
+      "comment": "péssimo atendimento, má instruções de direção e exposição mal colocada. não explicava e era realmente isso, uma exposição sem nada a ser retirado dali. além disso é um monumento do exército, só n dou 1 ☆ pelo peso histórico e pelo caixão do napoleão",
+      "gradeComment": 3
+    },
+    {
+      "author": "Frederico Escocard",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucoRA7OwOcgjZ_QiP1kjFk0_WeJ5eFufD4ik9P0lk9o=w36-h36-p-c0x00000000-rp-mo-ba5-br100",
+      "comment": "Museu da guerra, milhares de armas, de todos os tipos, de diversas épocas, de diversos povos. A grande celebração da natureza humana de destruir, pilhar e matar. Acho que o vermelho da bandeira deve ser do sangue derramado dos adversários.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Carlos Eduardo Féres",
+      "photoAuthor": "https://lh3.googleusercontent.com/a/AItbvmkI8aeswBKi2tDe3qDHUJTtkozVrBLD1z4lhWXA=w36-h36-p-c0x00000000-rp-mo-ba5-br100",
+      "comment": "Construção imponente e grande história.",
+      "gradeComment": 4
+    },
+    {
+      "author": "Paulo Teixeira",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucrHJfPsduyJL_-oFGlUqniz00BHQ09DeoHF24ib_w=w36-h36-p-c0x00000000-rp-mo-ba5-br100",
+      "comment": "Para diversas pessoas que visitam os Invalides, o túmulo de Napoleão é o centro das atenções. Trata-se de um monumento central do Museu de l'Armée. Figura emblemática da história militar, o imperador Napoleão I ficou conhecido por ter conquistado uma parte da Europa, mas também por sua engenhosidade, que permitiu a criação de um império que ainda marca nossas vidas, graças à rica herança deixada. O túmulo de Napoleão fica dentro nos Invalides.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Artur Lira",
+      "photoAuthor": "https://lh3.googleusercontent.com/a/AItbvmm7dJKWDNhUNQ_Z__PHtwWBqPQT5fVP2TmJfeVr=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "Excelente complexo que abriga 2 museus e uma catedral onde está a tumba de Napoleão Bonaparte. Vale com certeza visitar. Recomendo visitar também a igreja de Saint-François-Xavier que está próxima.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Tiago André",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucp580bhX84TXmiSZLQ-4KfNjlNeLzHpXmxmmxGcVw=w36-h36-p-c0x00000000-rp-mo-ba6-br100",
+      "comment": "Sítio muito interessante para se visitar, aqui podemos ver grande parte da história militar de França. Especial destaque para a cúpula, lugar onde está sepultado Napoleão Bonaparte. Edifício espetacular com jardim muito bonitos com estátuas interessantes. Vale a pena visitar!",
+      "gradeComment": 5
+    },
+    {
+      "author": "Rodrigo Arruda",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucrUDsWYINP66N_SULVgT5p-DhFmR_7pjAfBm0kVzA=w36-h36-p-c0x00000000-rp-mo-ba5-br100",
+      "comment": "Ótima opção de visita em Paris",
+      "gradeComment": 4
+    },
+    {
+      "author": "Thiago de França Amorim",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucoPpffjh0vXxZSbUF6vHKZlypelCrvx0uYwlpwx6EU=w36-h36-p-c0x00000000-rp-mo-ba5-br100",
+      "comment": "Complexo de museus fantástico! Mto bacana. E você pode circular pelos edifícios sem pagar o ticket de entrada.",
+      "gradeComment": 5
+    },
+    {
+      "author": "ANTÔNIO CARLOS FREITAS",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucqR2oI3vAP_cbF4h0nzalq2VlzMHyXVXD0-TQS7jQ=w36-h36-p-c0x00000000-rp-mo-ba3-br100",
+      "comment": "Espetacular. Napoleão foi e ainda é um herói francês",
+      "gradeComment": 5
+    },
+    {
+      "author": "Angela Santos",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucrBcvDcxxi0IvrOmawC-lYDCoIS7Buxo8Eizr_QBA=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "Bacana!!! Bonito e imponente. Uma fortaleza militar. Pra quem gosta de histórias militares e sobre guerras é um ótimo lugar. Enorme, com pouquíssimos banheiros disponíveis. Torça pra achar um (que é pago..) e não deixe de ir, mmo sem vontade. Pq pra passar por ele de novo só tendo muita disposição pra andar por longos caminhos. No mmo lugar encontra-se o túmulo de Napoleão. Lugar arrogante como a própria pessoa o foi. Envolto pelo sagrado em todos os sentidos. Um Deus em forma de imperador sendo adorado por tudo e todos, em esculturas esculpidas nas paredes. É tão grande seu sarcófago, q contradiz completamente a pessoa de estatura tão pequena q ele foi.",
+      "gradeComment": 4
+    },
+    {
+      "author": "Bruno Padovani",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucqyTM5_CSvinPk_CZxeZFyMkjnHW_ri4RTJzPYQRA=w36-h36-p-c0x00000000-rp-mo-ba3-br100",
+      "comment": "Ótima visita!",
+      "gradeComment": 5
+    }
+  ],
+  "peakHours": [
+    {
+      "Sunday": [
+        {
+          "hour": "10:00",
+          "percent": 35
+        },
+        {
+          "hour": "11:00",
+          "percent": 53
+        },
+        {
+          "hour": "12:00",
+          "percent": 58
+        },
+        {
+          "hour": "13:00",
+          "percent": 55
+        },
+        {
+          "hour": "14:00",
+          "percent": 60
+        },
+        {
+          "hour": "15:00",
+          "percent": 73
+        },
+        {
+          "hour": "16:00",
+          "percent": 77
+        },
+        {
+          "hour": "17:00",
+          "percent": 63
+        }
+      ]
+    },
+    {
+      "Monday": [
+        {
+          "hour": "10:00",
+          "percent": 67
+        },
+        {
+          "hour": "11:00",
+          "percent": 78
+        },
+        {
+          "hour": "12:00",
+          "percent": 83
+        },
+        {
+          "hour": "13:00",
+          "percent": 86
+        },
+        {
+          "hour": "14:00",
+          "percent": 88
+        },
+        {
+          "hour": "15:00",
+          "percent": 88
+        },
+        {
+          "hour": "16:00",
+          "percent": 79
+        },
+        {
+          "hour": "17:00",
+          "percent": 61
+        }
+      ]
+    },
+    {
+      "Tuesday": [
+        {
+          "hour": "10:00",
+          "percent": 73
+        },
+        {
+          "hour": "11:00",
+          "percent": 84
+        },
+        {
+          "hour": "12:00",
+          "percent": 89
+        },
+        {
+          "hour": "13:00",
+          "percent": 93
+        },
+        {
+          "hour": "14:00",
+          "percent": 97
+        },
+        {
+          "hour": "15:00",
+          "percent": 100
+        },
+        {
+          "hour": "16:00",
+          "percent": 93
+        },
+        {
+          "hour": "17:00",
+          "percent": 76
+        }
+      ]
+    },
+    {
+      "Wednesday": [
+        {
+          "hour": "10:00",
+          "percent": 75
+        },
+        {
+          "hour": "11:00",
+          "percent": 85
+        },
+        {
+          "hour": "12:00",
+          "percent": 85
+        },
+        {
+          "hour": "13:00",
+          "percent": 83
+        },
+        {
+          "hour": "14:00",
+          "percent": 85
+        },
+        {
+          "hour": "15:00",
+          "percent": 89
+        },
+        {
+          "hour": "16:00",
+          "percent": 85
+        },
+        {
+          "hour": "17:00",
+          "percent": 69
+        }
+      ]
+    },
+    {
+      "Thursday": [
+        {
+          "hour": "10:00",
+          "percent": 69
+        },
+        {
+          "hour": "11:00",
+          "percent": 81
+        },
+        {
+          "hour": "12:00",
+          "percent": 88
+        },
+        {
+          "hour": "13:00",
+          "percent": 92
+        },
+        {
+          "hour": "14:00",
+          "percent": 94
+        },
+        {
+          "hour": "15:00",
+          "percent": 92
+        },
+        {
+          "hour": "16:00",
+          "percent": 84
+        },
+        {
+          "hour": "17:00",
+          "percent": 70
+        }
+      ]
+    },
+    {
+      "Friday": [
+        {
+          "hour": "10:00",
+          "percent": 66
+        },
+        {
+          "hour": "11:00",
+          "percent": 76
+        },
+        {
+          "hour": "12:00",
+          "percent": 78
+        },
+        {
+          "hour": "13:00",
+          "percent": 79
+        },
+        {
+          "hour": "14:00",
+          "percent": 86
+        },
+        {
+          "hour": "15:00",
+          "percent": 88
+        },
+        {
+          "hour": "16:00",
+          "percent": 77
+        },
+        {
+          "hour": "17:00",
+          "percent": 54
+        }
+      ]
+    },
+    {
+      "Saturday": [
+        {
+          "hour": "10:00",
+          "percent": 40
+        },
+        {
+          "hour": "11:00",
+          "percent": 57
+        },
+        {
+          "hour": "12:00",
+          "percent": 65
+        },
+        {
+          "hour": "13:00",
+          "percent": 65
+        },
+        {
+          "hour": "14:00",
+          "percent": 69
+        },
+        {
+          "hour": "15:00",
+          "percent": 80
+        },
+        {
+          "hour": "16:00",
+          "percent": 82
+        },
+        {
+          "hour": "17:00",
+          "percent": 65
+        }
+      ]
+    }
+  ],
+  "relatedSearches": [
+    "museu des invalides, paris",
+    "hôtel des invalides tickets",
+    "dôme des invalides",
+    "esplanade des invalides",
+    "palácio dos invalides paris história",
+    "igreja do domo paris",
+    "museu rodin"
+  ],
+  "relateds": [
+    {
+      "mainName": "Musée de l'Armée",
+      "url": null
+    },
+    {
+      "mainName": "Tomb of Napoleon Bonaparte",
+      "url": null
+    },
+    {
+      "mainName": "Panteão",
+      "url": null
+    },
+    {
+      "mainName": "Arco do Triunfo",
+      "url": null
+    },
+    {
+      "mainName": "Torre Eiffel",
+      "url": null
+    },
+    {
+      "mainName": "Army Museum",
+      "url": null
+    },
+    {
+      "mainName": "Praça da Concórdia",
+      "url": null
+    },
+    {
+      "mainName": "Invalides",
+      "url": null
+    },
+    {
+      "mainName": "Musée Rodin",
+      "url": null
+    },
+    {
+      "mainName": "Museu de Orsay",
+      "url": null
+    },
+    {
+      "mainName": "Museu do Louvre",
+      "url": null
+    },
+    {
+      "mainName": "Museum of Relief Maps",
+      "url": null
+    },
+    {
+      "mainName": "Ópera Garnier",
+      "url": null
+    },
+    {
+      "mainName": "Petit Palais",
+      "url": null
+    },
+    {
+      "mainName": "Sacré-Cœur",
+      "url": null
+    },
+    {
+      "mainName": "Ponte Alexandre III",
+      "url": null
+    },
+    {
+      "mainName": "Jardins das Tulherias",
+      "url": null
+    },
+    {
+      "mainName": "Bibliothèque de Documentation Internationale Contemporaine",
+      "url": null
+    },
+    {
+      "mainName": "Sainte-Chapelle",
+      "url": null
+    },
+    {
+      "mainName": "Grand Palais",
+      "url": null
+    },
+    {
+      "mainName": "Museu do Quai Branly",
+      "url": null
+    },
+    {
+      "mainName": "Conciergerie",
+      "url": null
+    },
+    {
+      "mainName": "Musée de l'Orangerie",
+      "url": null
+    }
+  ]
+}

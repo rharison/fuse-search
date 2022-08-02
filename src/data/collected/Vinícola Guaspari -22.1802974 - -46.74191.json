@@ -1,0 +1,622 @@
+{
+  "mainName": "Vinícola Guaspari",
+  "slug": "vinicola-guaspari",
+  "category": "Vinícola",
+  "locationInformation": {
+    "latitude": "-22.1802974",
+    "longitude": "-46.74191"
+  },
+  "basicInformation": [
+    {
+      "label": "endereço",
+      "tooltip": "Copiar endereço",
+      "text": "R. Pedro Ferrari, 300 - Parque dos Lagos, Espírito Santo do Pinhal - SP, 13990-000",
+      "icon": "https://www.gstatic.com/images/icons/material/system_gm/1x/place_gm_blue_24dp.png"
+    },
+    {
+      "label": "agendamento",
+      "tooltip": "Abrir link de agendamento",
+      "text": "vinicolaguaspari.com.br",
+      "icon": "https://fonts.gstatic.com/s/i/googlematerialicons/event/v14/gm_blue-24dp/1x/gm_event_gm_blue_24dp.png"
+    },
+    {
+      "label": "website",
+      "tooltip": "Abrir website",
+      "text": "vinicolaguaspari.com.br",
+      "icon": "https://www.gstatic.com/images/icons/material/system_gm/1x/public_gm_blue_24dp.png"
+    },
+    {
+      "label": "telefone",
+      "tooltip": "Copiar número de telefone",
+      "text": "(19) 3661-9191",
+      "icon": "https://www.gstatic.com/images/icons/material/system_gm/1x/phone_gm_blue_24dp.png"
+    },
+    {
+      "label": "Code",
+      "tooltip": "Copiar Plus Code",
+      "text": "R795+V6 Espírito Santo do Pinhal, São Paulo",
+      "icon": "https://maps.gstatic.com/mapfiles/maps_lite/images/2x/ic_plus_code.png"
+    }
+  ],
+  "ratingInformation": {
+    "basicRatingInformation": {
+      "averageGrade": 4.3,
+      "totalOfEvaluations": 230
+    },
+    "ratingsByGrade": [
+      {
+        "grade": 5,
+        "totalRatings": 162
+      },
+      {
+        "grade": 4,
+        "totalRatings": 30
+      },
+      {
+        "grade": 3,
+        "totalRatings": 8
+      },
+      {
+        "grade": 2,
+        "totalRatings": 5
+      },
+      {
+        "grade": 1,
+        "totalRatings": 25
+      }
+    ]
+  },
+  "ratingTags": [
+    {
+      "tag": "rótulos",
+      "count": 12,
+      "tooltip": "rótulos, mencionado em 12 avaliações"
+    },
+    {
+      "tag": "queijo",
+      "count": 11,
+      "tooltip": "queijo, mencionado em 11 avaliações"
+    },
+    {
+      "tag": "experiência",
+      "count": 10,
+      "tooltip": "experiência, mencionado em 10 avaliações"
+    },
+    {
+      "tag": "bar de vinhos",
+      "count": 9,
+      "tooltip": "bar de vinhos, mencionado em 9 avaliações"
+    },
+    {
+      "tag": "almoço",
+      "count": 9,
+      "tooltip": "almoço, mencionado em 9 avaliações"
+    },
+    {
+      "tag": "pena",
+      "count": 7,
+      "tooltip": "pena, mencionado em 7 avaliações"
+    },
+    {
+      "tag": "pão",
+      "count": 7,
+      "tooltip": "pão, mencionado em 7 avaliações"
+    },
+    {
+      "tag": "degustar",
+      "count": 6,
+      "tooltip": "degustar, mencionado em 6 avaliações"
+    },
+    {
+      "tag": "gosto",
+      "count": 5,
+      "tooltip": "gosto, mencionado em 5 avaliações"
+    },
+    {
+      "tag": "syrah",
+      "count": 5,
+      "tooltip": "syrah, mencionado em 5 avaliações"
+    }
+  ],
+  "featuredPhotos": [
+    "https://lh5.googleusercontent.com/p/AF1QipOaFnJG8vBAEDPX7O2WAalq1MJijKXgy0J9rPPS=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOOLsGrVlchBj-gYyifPuOC_R0tep6PuCWanZTo=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNbuP8CA_yRhdSPVDGD3WEI9AqlnxwGSpeRbRzE=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOfl_a3IPLRHGrB-p2c-WHcelKbRYnaQ93B8l0U=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPbTn3o1qOT3Ub-t-thD_1BEcnPxtlltC7_GUHv=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOW51cgZEPciMkngeQ8JxD4Kj34hoflZBPqpYm_=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMFafLhgT2H2n5c6cx8u_aAlidtDifohXUsiI_y=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOkELWLmqNdSbpTnTkkxJkaTApjw4Qvsr-3SJzE=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNXB0fnZGNPr8JzfSsf5laMgSPGfIeKtYL2jtz_=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPyU1acLcZp1xh9DrRrz9j3UFukwOirpU00Uw5s=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipM8lSy2VMt9aFw86ts6jWSizrGwDDzPv_fTYHvj=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNHUlQ0brdybGlp92xZYB_DqiVtOsYyQbipbF4J=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPxpDDm4Nw2mc2wVfYoH5Dfth7QbKgnB89Fwx7e=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNJ6Vr8wEeqEahVZEaqUw2H_OulbSa6giaAkwuY=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPLxqNAeeUFGa8UbgiAGf80oSAqZqEQJH6cIEQE=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPSnEE3S3RG_BFOuKSUG2o-732ujGbudnerjnlF=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOgrh1IfsDzgbKzchpFETZX4Mp92xg7GRyx_uu9=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipM_2RWb1WZH_lylcytHrKPMgSAgjLWNkOzpPMQw=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNr-W2OXvjRXyD1ai43tNyhKfEt56pAWSOrtmHV=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOXoUCHo-m0nvNYSWq-ytFJgxbLGtSohoX3wKEr=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipO79lRieGazq89Nxpq-zII9wG5CmnXY38DPwWT1=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPmQVcBKBtzpBpvyvt_tD_SUByWP-0y_GrrU1TF=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNHMnM5H58w2Fi6IMiBcWlVSpuGvha8L8uo93hf=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOPeKeMGe3bx5xBsRWQ8wNJaiosr1WZHWFnAe_q=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPE5G0wPBBeb1pdZCBG9rCfWxLKX67U3f0DtQgo=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNugFUAEafc1VS-YVU_lnftJqXdbkuAqKxdbqr1=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNZOZ3fO2TEt3MvqCt69qxFxyK6uN_MhRFV3w=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPuLGVnH5AMVxIUxZaxE0r-EftfmVrIF7RwhjDc=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipO3xbqwFquNXOjYhi2L7HY4RZ-QP55X65RRidex=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipM04MKe9STAhqTmrXxirdup_FegAXRL84x2f2y0=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipM9br8I0sakJVmc-K5fMf3sN9DyB8M0aspsIbgy=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPu-iY4R4hIep20lyZBXphYpvAjmM4tjfDKqNxd=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMTExh-p8AKiljlVjsrwKW5WwriiVBJ5fGg1EUl=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPD4LPJ1b79NMbow93BCRx6LOjj2xdinf_Km0Fl=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipO8hEETCMiUQbE2bYszQfeIpPgflcrWRApADMKo=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNZPfnvpjJFao-q55XIwenVCxUvRTekPb0j2Pbu=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPRnuIRoPj0EV2yEq0oe_bEfLN94jxJxbLtvx-z=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPDA2tbLAq3znMjEvDmBDlzfWvc5IMS-yV1Qjnn=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOt9DpO4ZINlXdUjlhagd2oPwJYfdpsrC6-h7nM=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNRXTVsbgROe4pRCGF7aYughKind5QVG0w4SC7O=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNQXwGlp-bcNM_ervL-G7sYGLwQf23verYDKcZt=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMWRQKAKcdiuuGl-c8vkvaWHJLpJzOTXKKxFWyZ=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNWpCceS2623cWUowG5dqVUTu4YyQko5M87v0MH=w1024-h576-k-no"
+  ],
+  "topComments": [
+    {
+      "author": "Cláudia Stefani",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucp2lSWkCEz-oVfw7eq-kn_LgtJqV9nXYc5kACgv7OQ=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "Passamos horas maravilhosas na vinícola Guaspari. O lugar é belíssimo, pensado em detalhes, tanto em relação ao paisagismo quanto à decoração dos locais fechados. O cuidado com as instalações de produção revelam a seriedade e a preocupação com a qualidade dos vinhos que pudemos constatar na degustação, muito bem conduzida pelo enólogo Pedro. Além dele, os demais funcionários foram todos muito atenciosos e simpáticos. Não são vinhos de preço acessível - os mais baratos custam em torno de R$ 128 (novembro/2021). Mas considerando que a qualidade os aproxima de bons vinhos franceses e italianos e que parte da produção depende de insumos importados, penso que o custo-benefício esteja adequado.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Octavius Antonio",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucqUX91KCZuZd2Cx_KDuOXAu3xfpA8l9tpHzhEebhz0=w36-h36-p-c0x00000000-rp-mo-ba5-br100",
+      "comment": "Um lugar diferenciado, Todos os funcionários muito educados, nos sentimos em outro ambiente, para quem tem muito dinheiro claro (o que não é nossa realidade hehehe) mas fomos para conhecer e saber como funciona. Vale a pena conhecer e se você tiver muuuito dinheiro vai levar muitos vinhos, lugar realmente impressiona com seus rótulos de vinhos 🍷 e alguma edições limitadas.",
+      "gradeComment": 4
+    },
+    {
+      "author": "Darrel Simone",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucqPW55YGz4xKJ_krBJGlig6blfkS6-pvrmmUVXZgvg=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "Uma experiência inesquecível. Somos apaixonados por café e vinho, na Vinícola Guaspari encontramos ambos e mais uma beleza natural fantástica. Super recomendo.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Mauro Lima",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucoxn0Ej3KOrGvQhYL8qvOqPHcpTPGQUHPwxJkvy5Q=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "Lugar muito aprazível, com várias oportunidades para fotografias. Os vinhos muito bem conceituados. Provamos o de entrada branco. Muito bom!",
+      "gradeComment": 5
+    },
+    {
+      "author": "Sonia Maria Conti",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucpUQWwlJ3x99TjwZxgRGo5Oo7uhOqrFOT6FyhxJZw=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "Vinicola bastante conhecida pela qualidade dos vinhos. Preços acima da média. Tour pela vinicola é bom. A degustação foram de 5 rótulos . Uma pena mas a vinicola não tem restaurante.",
+      "gradeComment": 4
+    },
+    {
+      "author": "Gustavo Spinola",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucoD2_bH4qPrDogIagY-BI1-jQD38QSVorPrLc70zA=w36-h36-p-c0x00000000-rp-mo-ba5-br100",
+      "comment": "Uma ótima experiência. Recomendo o tour, as pessoas compartilham muita informação interessante sobre a Vinícola. Várias áreas diferentes para conhecer e tudo muito bem cuidado e limpo. Bem diferente de vinícolas em países \"desenvolvidos\". Guaspari é extremamente disputada, com toda a razão, se programe com muita antecedência.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Gustavo Ferreira Castelo Branco",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucp5ypKDvM5EwwuCKjgXeJA7aBLRQPPKTtgD8tfvEg=w36-h36-p-c0x00000000-rp-mo-ba2-br100",
+      "comment": "Excelente experiência! Queijos, frios e vinhos fantásticos! Lugar lindo e atendimento da equipe é exemplar, diferenciado! Recomenda-se marcar hora com antecedência. Loja diversificada.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Octavio Verri",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucoh-LnlZJpY7ttoWzAskobdUooT_Bc9NnE1QrJiRF0=w36-h36-p-c0x00000000-rp-mo-br100",
+      "comment": "Fizemos a Visita da Vindima e foi uma grande decepção. O passeio pelas instalações da vinícola e as degustações dos rótulos é aceitável, apesar de não oferecer nada de especial que justifique o preço em comparação a outras vinícolas. Mas a grande decepção é o almoço \"harmonizado\", que nada mais é do que um buffet self-service de feijoada muito simples. A salada era basicamente alface e tomate e até os temperos eram industrializados, nada feito artesanalmente. Não havia sequer uma opção de queijo ou embutido para acompanhar o vinho. As sobremesas eram doces em calda, simples e sem graça, simplesmente vergonhoso.  O menu em nada contribuiu para elevar os vinhos. A ideia de um almoço harmonizada é justamente que os vinhos e os pratos se complementem e enriqueçam os atributos de cada um. A feijoada é um prato de difícil harmonização e é tradicionalmente consumida com caipirinha porque a acidez da bebida quebra a gordura do prato. Já com o vinho é bem mais difícil harmonizar e não sentimos vontade de beber.  Só posso descrever a experiência como decepcionante, feita de maneira preguiçosa, visando oferecer o mínimo e cobrando o máximo possível. Em outros almoços harmonizados em vinícolas que visitamos nunca vi algo parecido. A sensação que tivemos foi de pleno engodo, nos sentimos enganados diante do valor desembolsado por casal (R$ 1.560,00). Fomos em busca de um almoço que elevasse as características dos vinhos, com compatibilidade e elegância e o resultado foi catastrófico: feijão com vinho. Já havíamos visitado a vinícola antes, mas depois dessa experiência não temos a menor vontade de retornar.  Achamos muito mais satisfatório o jantar que tivemos no melhor restaurante da cidade, o Opção Trattoria, onde gastamos 350 por casal para comer muito melhor e tomar um excelente vinho. Não caiam nessa cilada da Visita da Vindima, realmente não vale a pena.",
+      "gradeComment": 1
+    },
+    {
+      "author": "Anderson Santos",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucp1jj-N6CEFHno0npl3aOeDUFZdsBsVOCsT1kxAOw=w36-h36-p-c0x00000000-rp-mo-ba5-br100",
+      "comment": "Vinícola linda, o atendimento na visita é muito bom e uma aula sobre a viniticultura paulista. Os vinhos são excelentes, muito bem elaborados e se destaca, segundo meu paladar, o rótulo Vista da Mata um blend das uvas Cabernet Sauvignon e Cabernet Franc. Estão de parabéns pelo projeto e ajudando a desenvolver o turismo vitinicultor e o crescimento da cidade de Espírito Santo do Pinhal.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Gerson Ferreira",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucrfBh8fa7hAVV_WwLe2JaqCqcFr33v4siQu1FOsHOw=w36-h36-p-c0x00000000-rp-mo-ba5-br100",
+      "comment": "Visita excelente. Os colaboradores no local são muito atenciosos e conhecem muito bem os produtos . Escolha entre alguns tipos de degustação que podem ser harmonizavas  por diversas tábuas de queijo e frios. Ambientes internos e ao ar livre para acomodação durante a degustação .",
+      "gradeComment": 5
+    },
+    {
+      "author": "Maria Lucia Carvalho Damy",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucpm3Re5deb4YUfwyhoRZqekOH1BLbNbPDOuMsnqyA=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "A visita à Vinícola foi extremamente enriquecedora, não somente pelas lindas paisagens, como também pela degustação ao final e pelo profissionalismo do monitor responsável. Recomendo!",
+      "gradeComment": 5
+    },
+    {
+      "author": "Felipe Tinoco Soares",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucpsOYW7uQlRCGbqJWBM6I3SYd3VgnElBS_zVKDtZg=w36-h36-p-c0x00000000-rp-mo-ba5-br100",
+      "comment": "Ótima experiência e a organização da vinícola é surpreendente. Não perde nada comparado com vinícolas grandes de Mendonça. Fizemos a degustação e passamos a tarde comendo tapas. Os vinhos são ótimos e não deixe de experimentar o Syrah que é sensacional. Os tapas tem preços justos e são bem servidos, principalmente o pão com jamon. Além de degustação, é possível comprar alguns rótulos na loja própria. A equipe foi super receptiva e nos serviu perfeitamente bem - vale procurar o Matheus e ou Maria, vocês não irão se arrepender. Vale muito a visita!",
+      "gradeComment": 5
+    },
+    {
+      "author": "isabella Barbosa",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZuco56SrmJMnwVyIFXO-NlZvcntX0WDHOPK1Rq-5JNw=w36-h36-p-c0x00000000-rp-mo-br100",
+      "comment": "A vinícola é linda! Um espaço super agradável para degustar os excelentes vinhos da casa! Os funcionários são bem treinados. As entradinhas são maravilhosas! Tudo perfeito e de alto padrão! Parabéns 🍷",
+      "gradeComment": 5
+    },
+    {
+      "author": "Gabrielle Ruat",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucpXFa1013U9oxZNEQNlgFekWs6EiEiwfaq03RMgXKk=w36-h36-p-c0x00000000-rp-mo-br100",
+      "comment": "Estivemos na vinícola no dia 14/05/22 com reserva para o Wine Bar. A nossa experiência não foi das melhores, infelizmente. O atendimento é extremamente lento (poucos funcionários), o que fez inclusive com que levantássemos da mesa para procurar alguém que pudesse nos atender. Sobre o prato que escolhemos, não consigo opinar pois estamos até hoje aguardando por ele (isso mesmo, simplesmente foi esquecido). Resumindo, o espaço do jardim é lindíssimo porém o estabelecimento cobra caro e o serviço  deixa muitíssimo a desejar.",
+      "gradeComment": 2
+    },
+    {
+      "author": "Marcelo Gallo Freitas",
+      "photoAuthor": "https://lh3.googleusercontent.com/a/AItbvmkO3XOaL8Xa1p_2HITebb5UmAJ56UJvRyD8WxiV=w36-h36-p-c0x00000000-rp-mo-br100",
+      "comment": "Lugar maravilhoso para degustar os ótimos vinhos  da vinícola e passar uma tarde agradável. Nota 10 no atendimento e atenção dos funcionários. Parabéns.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Luiz Andrade",
+      "photoAuthor": "https://lh3.googleusercontent.com/a/AItbvmlSRnn93T4gmQeuEhc1OIVWnNQA6PRKTSBF4y8_=w36-h36-p-c0x00000000-rp-mo-ba7-br100",
+      "comment": "Pessoal muito atencioso, ótimo atendimento, muito boa a experiência. Degustação com harmonização de vinhos tinha 4 tipos de vinhos muito bons e um tipo de pão e um tipo de queijo ( deixou a desejar, pois não tem muito haver com harmonização) para dois petiscos. A visita vale muito à Pena, já a harmonização não tem nada haver ( não vale o custo benefício). Pois não é harmonização. Mas no geral vale à pena a visitação.",
+      "gradeComment": 4
+    },
+    {
+      "author": "Guilherme Guarino",
+      "photoAuthor": "https://lh3.googleusercontent.com/a/AItbvmlBHdm1nBC7zK9UY-XIOZ6Me0GMfA_X_plTaJD4=w36-h36-p-c0x00000000-rp-mo-ba3-br100",
+      "comment": "Visita Vista com degustação sensacional com harmonização na tábua de frios e pães.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Fellipe Zaremba",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucrf7JhhKvFnMe4Besc2BuCn_i7qXaaR7CnQGNSf2_g=w36-h36-p-c0x00000000-rp-mo-ba5-br100",
+      "comment": "Pessoas, ambientes, preços e rótulos sensacionais. Possui estacionamento e é possível realizar outras atividades.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Alan Araujo",
+      "photoAuthor": "https://lh3.googleusercontent.com/a/AItbvmmofJ5txrY0MFQypvLLpqc9Z97oxtODN8EwHF9s=w36-h36-p-c0x00000000-rp-mo-ba5-br100",
+      "comment": "Não fiz degustação e portanto, vou falar somente da minha experiência: ótimo atendimento em local rústico/ agradável e bem aprazível. Vinícola nova e já com vinhos premiados de excelente qualidade. Comprei um vinho branco para tomar agora no verão. Voltarei …",
+      "gradeComment": 5
+    },
+    {
+      "author": "Antonio heleno brito neto",
+      "photoAuthor": "https://lh3.googleusercontent.com/a/AItbvmlIm3HMJieW69GWYzb_0gvuzozHapCXP14bN_E=w36-h36-p-c0x00000000-rp-mo-br100",
+      "comment": "A minha nota é baixa e não é menor em respeito aos funcionários. Atenciosos e solícitos. No mais foi uma decepção. Parece que se trata de um brinquedo dos proprietário que não entendem o que é turismo. Devem estar se lixando para os amantes dia vinhos. As estrelas da festas são inacessíveis. Quem pode pagar os valores cobrados por garrafas? Me dá impressão que esse projeto tem vida curta. Sei não!!!!!!",
+      "gradeComment": 1
+    }
+  ],
+  "peakHours": [
+    {
+      "Sunday": [
+        {
+          "hour": "09:00",
+          "percent": 27
+        },
+        {
+          "hour": "10:00",
+          "percent": 37
+        },
+        {
+          "hour": "11:00",
+          "percent": 47
+        },
+        {
+          "hour": "12:00",
+          "percent": 55
+        },
+        {
+          "hour": "13:00",
+          "percent": 58
+        },
+        {
+          "hour": "14:00",
+          "percent": 57
+        },
+        {
+          "hour": "15:00",
+          "percent": 51
+        },
+        {
+          "hour": "16:00",
+          "percent": 41
+        },
+        {
+          "hour": "17:00",
+          "percent": 30
+        }
+      ]
+    },
+    {
+      "Monday": [
+        {
+          "hour": "09:00",
+          "percent": 35
+        },
+        {
+          "hour": "10:00",
+          "percent": 41
+        },
+        {
+          "hour": "11:00",
+          "percent": 46
+        },
+        {
+          "hour": "12:00",
+          "percent": 49
+        },
+        {
+          "hour": "13:00",
+          "percent": 50
+        },
+        {
+          "hour": "14:00",
+          "percent": 48
+        },
+        {
+          "hour": "15:00",
+          "percent": 44
+        },
+        {
+          "hour": "16:00",
+          "percent": 38
+        },
+        {
+          "hour": "17:00",
+          "percent": 30
+        }
+      ]
+    },
+    {
+      "Tuesday": [
+        {
+          "hour": "09:00",
+          "percent": 50
+        },
+        {
+          "hour": "10:00",
+          "percent": 52
+        },
+        {
+          "hour": "11:00",
+          "percent": 49
+        },
+        {
+          "hour": "12:00",
+          "percent": 45
+        },
+        {
+          "hour": "13:00",
+          "percent": 43
+        },
+        {
+          "hour": "14:00",
+          "percent": 42
+        },
+        {
+          "hour": "15:00",
+          "percent": 41
+        },
+        {
+          "hour": "16:00",
+          "percent": 36
+        },
+        {
+          "hour": "17:00",
+          "percent": 29
+        }
+      ]
+    },
+    {
+      "Wednesday": [
+        {
+          "hour": "09:00",
+          "percent": 42
+        },
+        {
+          "hour": "10:00",
+          "percent": 50
+        },
+        {
+          "hour": "11:00",
+          "percent": 56
+        },
+        {
+          "hour": "12:00",
+          "percent": 59
+        },
+        {
+          "hour": "13:00",
+          "percent": 58
+        },
+        {
+          "hour": "14:00",
+          "percent": 54
+        },
+        {
+          "hour": "15:00",
+          "percent": 49
+        },
+        {
+          "hour": "16:00",
+          "percent": 42
+        },
+        {
+          "hour": "17:00",
+          "percent": 34
+        }
+      ]
+    },
+    {
+      "Thursday": [
+        {
+          "hour": "09:00",
+          "percent": 40
+        },
+        {
+          "hour": "10:00",
+          "percent": 46
+        },
+        {
+          "hour": "11:00",
+          "percent": 51
+        },
+        {
+          "hour": "12:00",
+          "percent": 57
+        },
+        {
+          "hour": "13:00",
+          "percent": 63
+        },
+        {
+          "hour": "14:00",
+          "percent": 67
+        },
+        {
+          "hour": "15:00",
+          "percent": 65
+        },
+        {
+          "hour": "16:00",
+          "percent": 56
+        },
+        {
+          "hour": "17:00",
+          "percent": 43
+        }
+      ]
+    },
+    {
+      "Friday": [
+        {
+          "hour": "09:00",
+          "percent": 52
+        },
+        {
+          "hour": "10:00",
+          "percent": 66
+        },
+        {
+          "hour": "11:00",
+          "percent": 74
+        },
+        {
+          "hour": "12:00",
+          "percent": 75
+        },
+        {
+          "hour": "13:00",
+          "percent": 77
+        },
+        {
+          "hour": "14:00",
+          "percent": 87
+        },
+        {
+          "hour": "15:00",
+          "percent": 94
+        },
+        {
+          "hour": "16:00",
+          "percent": 85
+        },
+        {
+          "hour": "17:00",
+          "percent": 60
+        }
+      ]
+    },
+    {
+      "Saturday": [
+        {
+          "hour": "09:00",
+          "percent": 42
+        },
+        {
+          "hour": "10:00",
+          "percent": 60
+        },
+        {
+          "hour": "11:00",
+          "percent": 78
+        },
+        {
+          "hour": "12:00",
+          "percent": 93
+        },
+        {
+          "hour": "13:00",
+          "percent": 100
+        },
+        {
+          "hour": "14:00",
+          "percent": 97
+        },
+        {
+          "hour": "15:00",
+          "percent": 87
+        },
+        {
+          "hour": "16:00",
+          "percent": 72
+        },
+        {
+          "hour": "17:00",
+          "percent": 55
+        }
+      ]
+    }
+  ],
+  "relatedSearches": [
+    "vinícola guaspari fotos",
+    "vinícola guaspari agendar visita",
+    "proprietário vinícola guaspari",
+    "vinícola guaspari onde fica",
+    "vinícola guaspari serra da mantiqueira",
+    "vinícola guaspari como chegar",
+    "vinícola guaspari telefone",
+    "almoço vinícola guaspari"
+  ],
+  "relateds": [
+    {
+      "mainName": "Vinicola Terrassos",
+      "url": null
+    },
+    {
+      "mainName": "Casa Geraldo",
+      "url": null
+    },
+    {
+      "mainName": "Vinícola Góes",
+      "url": null
+    },
+    {
+      "mainName": "do Genoma à Xícara - Turismo do Café",
+      "url": null
+    },
+    {
+      "mainName": "Família Geisse",
+      "url": null
+    },
+    {
+      "mainName": "PIZZATO Vinhas e Vinhos (Vinícola Pizzato Ltda)",
+      "url": null
+    },
+    {
+      "mainName": "Lidio Carraro Vinícola Boutique",
+      "url": null
+    },
+    {
+      "mainName": "Vinícola Leone di Venezia",
+      "url": null
+    },
+    {
+      "mainName": "Vinícola Casa Perini",
+      "url": null
+    },
+    {
+      "mainName": "Igreja Matriz de Espirito Santo do Pinhal",
+      "url": null
+    }
+  ]
+}

@@ -1,0 +1,982 @@
+{
+  "mainName": "Mirante da Sereia",
+  "slug": "mirante-da-sereia",
+  "category": "Mirante",
+  "locationInformation": {
+    "latitude": "-9.5619444",
+    "longitude": "-35.6438889"
+  },
+  "basicInformation": [
+    {
+      "label": "endereço",
+      "tooltip": "Copiar endereço",
+      "text": "Riacho Doce, Maceió - AL",
+      "icon": "https://www.gstatic.com/images/icons/material/system_gm/1x/place_gm_blue_24dp.png"
+    },
+    {
+      "label": "Code",
+      "tooltip": "Copiar Plus Code",
+      "text": "C9Q4+6C Maceió, Alagoas",
+      "icon": "https://maps.gstatic.com/mapfiles/maps_lite/images/2x/ic_plus_code.png"
+    }
+  ],
+  "ratingInformation": {
+    "basicRatingInformation": {
+      "averageGrade": 4.5,
+      "totalOfEvaluations": 1728
+    },
+    "ratingsByGrade": [
+      {
+        "grade": 5,
+        "totalRatings": 1191
+      },
+      {
+        "grade": 4,
+        "totalRatings": 313
+      },
+      {
+        "grade": 3,
+        "totalRatings": 164
+      },
+      {
+        "grade": 2,
+        "totalRatings": 39
+      },
+      {
+        "grade": 1,
+        "totalRatings": 21
+      }
+    ]
+  },
+  "ratingTags": null,
+  "featuredPhotos": [
+    "https://lh5.googleusercontent.com/p/AF1QipOL0SSE2_o7XHqNAGJH8IkfGgmgik9Ku0tTwM4K=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipM46n5g6x9O-vUjEGNVy4dEerqPy-513QqBFouu=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPvOQ1DkD7t8OqKIq_AOiE4Ac3EkvAKIMeHux1b=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipP5PPXkJo_e7KDK5-9GkPaFNvzvc4rOswULeRE=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNBfPoJGXGO_v9KL2wFZnNL7CUiear66d7-HSot=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNAdCufmFQPF0ZD5KljjkVF6M_TLWGVqcwJxZef=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOdsT8YtJJW07kJ5UoLaNvDRP2o07QYItfDJa5w=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMHox4xqlbc0bQthyPryAK0Zw6h_Jf8v7UIxcm7=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMxC0bnNLP_JjepzRP8ZqVwkZb68s476UkbgFG2=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNwlRdb2u4Sm1u2gcFteqQ1aIbZI8bTlgDCdiLk=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPPbwH8FbponjnBtlq5Z-4KMEtvEkt5Xc7E3tQD=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPgpSgpnTs24gJ9C0B7I6IqVRPdaP0oHm46wxVc=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOtCM1UNyBTc0DmKIlDF9BYuZzAYviD9fSzkQwP=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNgddNLyV7YqzmhVt2g6R1KkSaEjFLNIZzti44z=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipN65_fPW1ftzUXHyvEF58du5-TmRUxM6qhf1kne=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMHcDbrNyxTSFoA6c0Wm9JgJnYm2fxZkKy1jFor=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOBJJWjIQGmGtwWNOCFHLFy8ho7RmK82HVVz3cP=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNiR-v7LoCHBTImC5YrVdZ06I5BM-4j_18YpzvX=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNOUm2tVpt7hhqCpd08GUqy4tShu6lUmpg-k6SQ=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNodIxrQkfsz9JPOeXbgJRRbAUeAND2nkm4QZwF=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipN6mOYPSciMs0UXijEu8_Psm2Y1R66dc87XSHjg=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOyjPGc0rK7LJrpWAvMd3XjXhjMhhbytryzGgPm=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOLRLYX3XK9y93WGGA58Ky8GaL6bkwtRdkMt-94=w1024-h576-k-no"
+  ],
+  "topComments": [
+    {
+      "author": "Marcia Maia",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucpjsezc2saEXCxALsObnh92Nxzz3xQTGHgADDFdEpA=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "Um lugarzinho perdido na rodovia, para-se no acostamento. A vista é linda! Mas o que tornou a visita tão especial foi uma família de saguis que pude ver bem de pertinho!",
+      "gradeComment": 5
+    },
+    {
+      "author": "Leo Fofys",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucrldAh0ZgnJtPW87J3OiPbhKEz13c0IPucPGdlUfQ=w36-h36-p-c0x00000000-rp-mo-ba5-br100",
+      "comment": "Experiência maravilhosa !! Excelente para o banho !Águas mornas e calmas na parte dos corais, arreia calma sem aquele monte de ambulantes.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Lincoln Alexander Morgado",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucpNEEQf-WzQB6bNApZe977oiQYPnglUh4Z6jSAYDxc=w36-h36-p-c0x00000000-rp-mo-ba5-br100",
+      "comment": "Praia muito suja, mirante ruim,pois mal da pra ver a orla, nem poderia ser chamado de mirante.. fora que é sem estrutura e o pouco que tem é mal conservado, sem acesso a praia, e em volta com cheiro péssimo, só não leva 1 estrela pois a água é limpa igual as praias da região...",
+      "gradeComment": 2
+    },
+    {
+      "author": "Dayvson Melo",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucpylalHx96WNawbgjC7puBMVdIJHOX6N9Wp79IuZA=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "Praia muito bonita. Serviços dos bares com preço bom. A árvore dentro da praia é bem diferente. Água parece ser mineral. Dá pra ver os pequenos peixes passando por entre seus pés.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Elisabeth Machado Martins",
+      "photoAuthor": "https://lh3.googleusercontent.com/a/AItbvmns2Yxa0eZEtCJ3GlGns2ENOZ_kj7v6tQ9wg9Z6=w36-h36-p-c0x00000000-rp-mo-br100",
+      "comment": "Praia linda , água do mar uma piscina ...boa pra quem vai com crianças da pra se divertir bastante .... só pra comer q é um pouco precário .... Pra quem não gosta de peixe só resta uns caldinhos kkkk",
+      "gradeComment": 4
+    },
+    {
+      "author": "Guia de Turismo Alexandre Rocha",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucoiwLJGKGK3iOoV1eldo51qIJ4gJxV-JeUpRTbRoiI=w36-h36-p-c0x00000000-rp-mo-ba5-br100",
+      "comment": "Lindo mirante diante do belo mar de Maceió. Situado às margens da rodovia AL 101 Norte. Do local dá para avistar a escultura de uma sereia de 3 metros de altura construída em 1964.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Studio Afro pollystyle",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucrMiFcNDcoLyriHpTlvRKtxyItfHUDtd8LX6EjPLYo=w36-h36-p-c0x00000000-rp-mo-ba3-br100",
+      "comment": "Local maravilhosa estonteante , incrível água quente , tranquilo mar perfeito",
+      "gradeComment": 5
+    },
+    {
+      "author": "Clarissa Machado Rodrigues",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucqZ4QsWLIRlnxkxDzICO-IKPf02_BOoeF9P1b9HT1o=w36-h36-p-c0x00000000-rp-mo-ba6-br100",
+      "comment": "Vista espetacular, a água tem um bastante folhas caídas o que não deixa tão limpa a orla. Mas é tranquilo para levar as crianças.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Tasso Antônio",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZuco9DMlAldGryo_AuhRp7w1mDPDPj3FGzHTmST0upXQ=w36-h36-p-c0x00000000-rp-mo-ba3-br100",
+      "comment": "Não achei relevante. Praia urbana, nada demais. Vale dar 4 estrelas pela beleza da praça que é forrada de conchinhas",
+      "gradeComment": 4
+    },
+    {
+      "author": "Dalton Zerbetto",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucrpcme1fAHM3Y0wN3YIGE7u4VMoV9C99TGoX_W0KQ=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "Interessante vale uma parada rápida !",
+      "gradeComment": 4
+    },
+    {
+      "author": "Sheila Almeida",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucpyp2fSUuY3hVAvRlVUTgk65oGlOErQUOZDJZzq8TE=w36-h36-p-c0x00000000-rp-mo-ba5-br100",
+      "comment": "É bonito, mas não há nada extraordinário para ver em minha opinião, vale uma parada rápida para  ver a vista e já está bom.",
+      "gradeComment": 3
+    },
+    {
+      "author": "Luke (Luke)",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucr6boy86Pp4jzBiyppQLJgap1mF-V6i3-_ilXqpQQ=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "Bela praia para relaxar, fiquei surpreso pois estava bem limpa e organizada, as barracas são bem receptivas, e os funcionários das mesmas dão toda a atenção necessária para os visitantes estacionarem.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Mayara Magda",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucosn15C4Amkd8EJPofEUDAHYdHNLoM3yHD3uT58NQ=w36-h36-p-c0x00000000-rp-mo-ba3-br100",
+      "comment": "Praia da Sereia tem beleza natural encantadora. Na maré baixa forma uma piscina tranquila p aproveitar e quem quiser ver o arrecife de perto é só ir lá. Só cuidado com os ouriços para não pisar. As barracas da beira da praia estão mal cuidadas, mas oferecem diversos tipos de pratos e bebidas. Ponto maravilhoso são as quantidades de lixeiras na areia. No horário que eu fui, nem música tinha, maravilhoso para só relaxar e ouvir o som das ondas. O mirante está mal cuidado, mas a vista da praia e da Sereia são um espetáculo a parte.",
+      "gradeComment": 3
+    },
+    {
+      "author": "Elisângela Batista",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucon9_kXDZc6I7M0iLzx_0XwO4BYFOCCk_zWDflUsA=w36-h36-p-c0x00000000-rp-mo-br100",
+      "comment": "Lugar lindo e calmo. Mas é necessário manter a limpeza do local.",
+      "gradeComment": 5
+    },
+    {
+      "author": "veio Ton",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucrOmzl7vQYRjaEQH31hPWjcDT-dDBGzGWNJtxW0sg=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "Por incrível que pareça a visão não é das melhores, mas o lugar é muito bonito",
+      "gradeComment": 3
+    },
+    {
+      "author": "Ana Flôres",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucpzWeUsTMRLe5lm8joB97xc8BsXNsMc5r71xoLlBQ=w36-h36-p-c0x00000000-rp-mo-ba2-br100",
+      "comment": "Esse paraíso alagoano que faz parte da minha infância. Amo este lugar. Qd a maré tá baixa dá pra ir nos corais além de, formar uma \"piscina\" para as crianças brincarem tranquilamente. Tive o prazer de visitar após uns 25 anos. E o Mirante....nossa vista espetacular da costa. Passeio muito recomendável.",
+      "gradeComment": 5
+    },
+    {
+      "author": "James Lima",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucrBcU6QONnet6G_bqSYXMTMf17_HJVI4cvbeE2h3Pg=w36-h36-p-c0x00000000-rp-mo-ba3-br100",
+      "comment": "Um espaço bonito, mas não muito acessível. Carece de estacionamento, mas o ônibus para literalmente nele. Passei por ali em alguns momentos do dia em diferentes dias e nunca vi uma pessoa sequer usando o espaço. A vista da praia ainda é muito obstruída pelos coqueirais. Parece mais uma praça do que um mirante.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Iran Cunha",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucrL_1FePNDu57Qfh1AMA5IRZzP6Y6d_ehYpx6O_iw=w36-h36-p-c0x00000000-rp-mo-ba3-br100",
+      "comment": "Um lugar bacana.  Foi revitalizado há pouco tempo. A vista do mar está um pouco encoberta devido aos coqueiros. Não vi nenhuma local para lanchar próximo e nem sei se há boa iluminação à noite. Fica mais afastado da cidade de Maceió ( após a Guaxuma, no Riacho Doce)",
+      "gradeComment": 4
+    },
+    {
+      "author": "Alexandra Arruda",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucqa4Wc4qcV773-hAt10RjZrcatPEW9-3fNBwiYP-Q=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "Praia linda,com água azul turquesa.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Rose Alves",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucoXe96Fp6tcMtx7IYwLC6iW7yrMH5aQo0JK_wpz1g=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "O chão do Mirante da sereia e todo nas conchas, muito encantador.",
+      "gradeComment": 5
+    }
+  ],
+  "peakHours": [
+    {
+      "Sunday": [
+        {
+          "hour": "04:00",
+          "percent": 3
+        },
+        {
+          "hour": "05:00",
+          "percent": 7
+        },
+        {
+          "hour": "06:00",
+          "percent": 11
+        },
+        {
+          "hour": "07:00",
+          "percent": 17
+        },
+        {
+          "hour": "08:00",
+          "percent": 24
+        },
+        {
+          "hour": "09:00",
+          "percent": 32
+        },
+        {
+          "hour": "10:00",
+          "percent": 42
+        },
+        {
+          "hour": "11:00",
+          "percent": 58
+        },
+        {
+          "hour": "12:00",
+          "percent": 80
+        },
+        {
+          "hour": "13:00",
+          "percent": 98
+        },
+        {
+          "hour": "14:00",
+          "percent": 100
+        },
+        {
+          "hour": "15:00",
+          "percent": 83
+        },
+        {
+          "hour": "16:00",
+          "percent": 61
+        },
+        {
+          "hour": "17:00",
+          "percent": 44
+        },
+        {
+          "hour": "18:00",
+          "percent": 33
+        },
+        {
+          "hour": "19:00",
+          "percent": 25
+        },
+        {
+          "hour": "20:00",
+          "percent": 18
+        },
+        {
+          "hour": "21:00",
+          "percent": 12
+        },
+        {
+          "hour": "22:00",
+          "percent": 7
+        },
+        {
+          "hour": "23:00",
+          "percent": 4
+        },
+        {
+          "hour": "00:00",
+          "percent": 2
+        },
+        {
+          "hour": "01:00",
+          "percent": 1
+        },
+        {
+          "hour": "02:00",
+          "percent": 1
+        },
+        {
+          "hour": "03:00",
+          "percent": 2
+        }
+      ]
+    },
+    {
+      "Monday": [
+        {
+          "hour": "04:00",
+          "percent": 1
+        },
+        {
+          "hour": "06:00",
+          "percent": 2
+        },
+        {
+          "hour": "07:00",
+          "percent": 5
+        },
+        {
+          "hour": "08:00",
+          "percent": 6
+        },
+        {
+          "hour": "09:00",
+          "percent": 8
+        },
+        {
+          "hour": "10:00",
+          "percent": 9
+        },
+        {
+          "hour": "11:00",
+          "percent": 11
+        },
+        {
+          "hour": "12:00",
+          "percent": 12
+        },
+        {
+          "hour": "13:00",
+          "percent": 14
+        },
+        {
+          "hour": "14:00",
+          "percent": 15
+        },
+        {
+          "hour": "15:00",
+          "percent": 15
+        },
+        {
+          "hour": "16:00",
+          "percent": 14
+        },
+        {
+          "hour": "17:00",
+          "percent": 12
+        },
+        {
+          "hour": "18:00",
+          "percent": 11
+        },
+        {
+          "hour": "19:00",
+          "percent": 10
+        },
+        {
+          "hour": "20:00",
+          "percent": 9
+        },
+        {
+          "hour": "21:00",
+          "percent": 8
+        },
+        {
+          "hour": "22:00",
+          "percent": 6
+        },
+        {
+          "hour": "23:00",
+          "percent": 3
+        },
+        {
+          "hour": "01:00",
+          "percent": 1
+        },
+        {
+          "hour": "02:00",
+          "percent": 1
+        },
+        {
+          "hour": "03:00",
+          "percent": 1
+        }
+      ]
+    },
+    {
+      "Tuesday": [
+        {
+          "hour": "04:00",
+          "percent": 1
+        },
+        {
+          "hour": "05:00",
+          "percent": 2
+        },
+        {
+          "hour": "06:00",
+          "percent": 8
+        },
+        {
+          "hour": "07:00",
+          "percent": 14
+        },
+        {
+          "hour": "08:00",
+          "percent": 17
+        },
+        {
+          "hour": "09:00",
+          "percent": 17
+        },
+        {
+          "hour": "10:00",
+          "percent": 15
+        },
+        {
+          "hour": "11:00",
+          "percent": 12
+        },
+        {
+          "hour": "12:00",
+          "percent": 11
+        },
+        {
+          "hour": "13:00",
+          "percent": 9
+        },
+        {
+          "hour": "14:00",
+          "percent": 9
+        },
+        {
+          "hour": "15:00",
+          "percent": 7
+        },
+        {
+          "hour": "16:00",
+          "percent": 5
+        },
+        {
+          "hour": "17:00",
+          "percent": 4
+        },
+        {
+          "hour": "18:00",
+          "percent": 4
+        },
+        {
+          "hour": "19:00",
+          "percent": 5
+        },
+        {
+          "hour": "20:00",
+          "percent": 6
+        },
+        {
+          "hour": "21:00",
+          "percent": 7
+        },
+        {
+          "hour": "22:00",
+          "percent": 7
+        },
+        {
+          "hour": "23:00",
+          "percent": 5
+        },
+        {
+          "hour": "00:00",
+          "percent": 3
+        },
+        {
+          "hour": "01:00",
+          "percent": 1
+        },
+        {
+          "hour": "02:00",
+          "percent": 1
+        },
+        {
+          "hour": "03:00",
+          "percent": 1
+        }
+      ]
+    },
+    {
+      "Wednesday": [
+        {
+          "hour": "04:00",
+          "percent": 1
+        },
+        {
+          "hour": "05:00",
+          "percent": 3
+        },
+        {
+          "hour": "06:00",
+          "percent": 8
+        },
+        {
+          "hour": "07:00",
+          "percent": 14
+        },
+        {
+          "hour": "08:00",
+          "percent": 17
+        },
+        {
+          "hour": "09:00",
+          "percent": 16
+        },
+        {
+          "hour": "10:00",
+          "percent": 14
+        },
+        {
+          "hour": "11:00",
+          "percent": 11
+        },
+        {
+          "hour": "12:00",
+          "percent": 11
+        },
+        {
+          "hour": "13:00",
+          "percent": 13
+        },
+        {
+          "hour": "14:00",
+          "percent": 15
+        },
+        {
+          "hour": "15:00",
+          "percent": 16
+        },
+        {
+          "hour": "16:00",
+          "percent": 14
+        },
+        {
+          "hour": "17:00",
+          "percent": 11
+        },
+        {
+          "hour": "18:00",
+          "percent": 7
+        },
+        {
+          "hour": "19:00",
+          "percent": 6
+        },
+        {
+          "hour": "20:00",
+          "percent": 7
+        },
+        {
+          "hour": "22:00",
+          "percent": 11
+        },
+        {
+          "hour": "23:00",
+          "percent": 12
+        },
+        {
+          "hour": "00:00",
+          "percent": 11
+        },
+        {
+          "hour": "01:00",
+          "percent": 8
+        },
+        {
+          "hour": "02:00",
+          "percent": 3
+        }
+      ]
+    },
+    {
+      "Thursday": [
+        {
+          "hour": "04:00",
+          "percent": 2
+        },
+        {
+          "hour": "05:00",
+          "percent": 10
+        },
+        {
+          "hour": "06:00",
+          "percent": 16
+        },
+        {
+          "hour": "07:00",
+          "percent": 16
+        },
+        {
+          "hour": "08:00",
+          "percent": 14
+        },
+        {
+          "hour": "09:00",
+          "percent": 12
+        },
+        {
+          "hour": "10:00",
+          "percent": 14
+        },
+        {
+          "hour": "11:00",
+          "percent": 16
+        },
+        {
+          "hour": "12:00",
+          "percent": 19
+        },
+        {
+          "hour": "13:00",
+          "percent": 20
+        },
+        {
+          "hour": "14:00",
+          "percent": 18
+        },
+        {
+          "hour": "15:00",
+          "percent": 15
+        },
+        {
+          "hour": "16:00",
+          "percent": 12
+        },
+        {
+          "hour": "17:00",
+          "percent": 11
+        },
+        {
+          "hour": "18:00",
+          "percent": 11
+        },
+        {
+          "hour": "19:00",
+          "percent": 11
+        },
+        {
+          "hour": "20:00",
+          "percent": 11
+        },
+        {
+          "hour": "21:00",
+          "percent": 11
+        },
+        {
+          "hour": "22:00",
+          "percent": 10
+        },
+        {
+          "hour": "23:00",
+          "percent": 8
+        },
+        {
+          "hour": "00:00",
+          "percent": 4
+        },
+        {
+          "hour": "01:00",
+          "percent": 1
+        },
+        {
+          "hour": "02:00",
+          "percent": 1
+        },
+        {
+          "hour": "03:00",
+          "percent": 1
+        }
+      ]
+    },
+    {
+      "Friday": [
+        {
+          "hour": "04:00",
+          "percent": 1
+        },
+        {
+          "hour": "05:00",
+          "percent": 1
+        },
+        {
+          "hour": "06:00",
+          "percent": 6
+        },
+        {
+          "hour": "07:00",
+          "percent": 10
+        },
+        {
+          "hour": "08:00",
+          "percent": 11
+        },
+        {
+          "hour": "09:00",
+          "percent": 11
+        },
+        {
+          "hour": "10:00",
+          "percent": 9
+        },
+        {
+          "hour": "11:00",
+          "percent": 8
+        },
+        {
+          "hour": "12:00",
+          "percent": 8
+        },
+        {
+          "hour": "13:00",
+          "percent": 11
+        },
+        {
+          "hour": "14:00",
+          "percent": 14
+        },
+        {
+          "hour": "15:00",
+          "percent": 16
+        },
+        {
+          "hour": "16:00",
+          "percent": 16
+        },
+        {
+          "hour": "17:00",
+          "percent": 16
+        },
+        {
+          "hour": "18:00",
+          "percent": 15
+        },
+        {
+          "hour": "19:00",
+          "percent": 15
+        },
+        {
+          "hour": "20:00",
+          "percent": 16
+        },
+        {
+          "hour": "21:00",
+          "percent": 16
+        },
+        {
+          "hour": "22:00",
+          "percent": 14
+        },
+        {
+          "hour": "23:00",
+          "percent": 11
+        },
+        {
+          "hour": "00:00",
+          "percent": 5
+        },
+        {
+          "hour": "02:00",
+          "percent": 1
+        },
+        {
+          "hour": "03:00",
+          "percent": 1
+        }
+      ]
+    },
+    {
+      "Saturday": [
+        {
+          "hour": "04:00",
+          "percent": 1
+        },
+        {
+          "hour": "05:00",
+          "percent": 7
+        },
+        {
+          "hour": "06:00",
+          "percent": 14
+        },
+        {
+          "hour": "07:00",
+          "percent": 20
+        },
+        {
+          "hour": "08:00",
+          "percent": 25
+        },
+        {
+          "hour": "09:00",
+          "percent": 29
+        },
+        {
+          "hour": "10:00",
+          "percent": 33
+        },
+        {
+          "hour": "11:00",
+          "percent": 38
+        },
+        {
+          "hour": "12:00",
+          "percent": 42
+        },
+        {
+          "hour": "13:00",
+          "percent": 42
+        },
+        {
+          "hour": "14:00",
+          "percent": 39
+        },
+        {
+          "hour": "15:00",
+          "percent": 33
+        },
+        {
+          "hour": "16:00",
+          "percent": 25
+        },
+        {
+          "hour": "17:00",
+          "percent": 18
+        },
+        {
+          "hour": "18:00",
+          "percent": 13
+        },
+        {
+          "hour": "19:00",
+          "percent": 10
+        },
+        {
+          "hour": "20:00",
+          "percent": 9
+        },
+        {
+          "hour": "21:00",
+          "percent": 8
+        },
+        {
+          "hour": "22:00",
+          "percent": 7
+        },
+        {
+          "hour": "23:00",
+          "percent": 5
+        },
+        {
+          "hour": "00:00",
+          "percent": 3
+        },
+        {
+          "hour": "02:00",
+          "percent": 1
+        },
+        {
+          "hour": "03:00",
+          "percent": 1
+        }
+      ]
+    }
+  ],
+  "relatedSearches": [
+    "pousada no mirante da sereia",
+    "praia de ipioca",
+    "praia do mirante maceió",
+    "praia do francês",
+    "praia do gunga"
+  ],
+  "relateds": [
+    {
+      "mainName": "Praia da Sereia",
+      "url": null
+    },
+    {
+      "mainName": "Praia da Sereia- Maceió",
+      "url": null
+    },
+    {
+      "mainName": "Praia de Riacho Doce",
+      "url": null
+    },
+    {
+      "mainName": "Mirante de São Gonçalo",
+      "url": null
+    },
+    {
+      "mainName": "Praia de Ipioca",
+      "url": null
+    },
+    {
+      "mainName": "Carro Quebrado",
+      "url": null
+    },
+    {
+      "mainName": "Praia de Guaxuma",
+      "url": null
+    },
+    {
+      "mainName": "Jacarecica do Sul",
+      "url": null
+    },
+    {
+      "mainName": "Praia de Pajuçara",
+      "url": null
+    },
+    {
+      "mainName": "Praia de Cruz das Almas",
+      "url": null
+    },
+    {
+      "mainName": "Praia do Carro Quebrado",
+      "url": null
+    },
+    {
+      "mainName": "Pontal da Barra",
+      "url": null
+    },
+    {
+      "mainName": "Praia de Paripueira",
+      "url": null
+    },
+    {
+      "mainName": "Piscinas Naturais de Pajuçara",
+      "url": null
+    },
+    {
+      "mainName": "Praia de Tabuba",
+      "url": null
+    },
+    {
+      "mainName": "Praia da Garça Torta",
+      "url": null
+    },
+    {
+      "mainName": "Praia do Gunga",
+      "url": null
+    },
+    {
+      "mainName": "Praia de Jatiúca",
+      "url": null
+    },
+    {
+      "mainName": "Praia do Francês",
+      "url": null
+    },
+    {
+      "mainName": "Praia de Ponta Verde",
+      "url": null
+    },
+    {
+      "mainName": "Praia da Barra de São Miguel",
+      "url": null
+    },
+    {
+      "mainName": "Museu Théo Brandão",
+      "url": null
+    },
+    {
+      "mainName": "Área de Proteção Ambiental Costa dos Corais",
+      "url": null
+    },
+    {
+      "mainName": "Dunas de Marapé",
+      "url": null
+    }
+  ]
+}

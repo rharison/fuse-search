@@ -1,0 +1,737 @@
+{
+  "mainName": "Parque Estadual da Serra do Cabral",
+  "slug": "parque-estadual-da-serra-do-cabral",
+  "category": "Parque estadual",
+  "locationInformation": {
+    "latitude": "-17.8273346",
+    "longitude": "-44.2610174"
+  },
+  "basicInformation": [
+    {
+      "label": "endereço",
+      "tooltip": "Copiar endereço",
+      "text": "Alameda Serra do Cabral, 726 - Horto Florestal, Buenópolis - MG",
+      "icon": "https://www.gstatic.com/images/icons/material/system_gm/1x/place_gm_blue_24dp.png"
+    },
+    {
+      "label": "website",
+      "tooltip": "Abrir website",
+      "text": "ief.mg.gov.br",
+      "icon": "https://www.gstatic.com/images/icons/material/system_gm/1x/public_gm_blue_24dp.png"
+    },
+    {
+      "label": "Code",
+      "tooltip": "Copiar Plus Code",
+      "text": "5PFQ+3H Buenópolis, Minas Gerais",
+      "icon": "https://maps.gstatic.com/mapfiles/maps_lite/images/2x/ic_plus_code.png"
+    },
+    {
+      "label": "merchant",
+      "text": "Reivindicar esta empresa",
+      "icon": "https://www.gstatic.com/images/icons/material/system_gm/1x/verified_user_gm_blue_24dp.png"
+    }
+  ],
+  "ratingInformation": {
+    "basicRatingInformation": {
+      "averageGrade": 4.7,
+      "totalOfEvaluations": 89
+    },
+    "ratingsByGrade": [
+      {
+        "grade": 5,
+        "totalRatings": 75
+      },
+      {
+        "grade": 4,
+        "totalRatings": 8
+      },
+      {
+        "grade": 3,
+        "totalRatings": 2
+      },
+      {
+        "grade": 2,
+        "totalRatings": 1
+      },
+      {
+        "grade": 1,
+        "totalRatings": 3
+      }
+    ]
+  },
+  "ratingTags": [
+    {
+      "tag": "água",
+      "count": 4,
+      "tooltip": "água, mencionado em 4 avaliações"
+    },
+    {
+      "tag": "aventura",
+      "count": 3,
+      "tooltip": "aventura, mencionado em 3 avaliações"
+    },
+    {
+      "tag": "natureza",
+      "count": 3,
+      "tooltip": "natureza, mencionado em 3 avaliações"
+    }
+  ],
+  "featuredPhotos": [
+    "https://lh5.googleusercontent.com/p/AF1QipNnoyPejwAW53xJoNRcnpVILAAKsPZAFGPot7-S=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNvho7hqSqO5oaDiaHYkvgDvMm2XvwPZuMT0cJD=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMS6uzKHdhYAbXNp8hzkG6_mHZWtwk0zCsKldK0=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPP58nOJojTEOMqLF5vMNMp6lmyvWQCzzJF85Nc=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMT8ahVBf-7gBGvAP5UC5dxRJ7zKA1lZVcHDp4V=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMw_yLdg4iYrhgzDOr44DbN7VLWMgfOj07rfzWC=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipO4lDZb7dMuvrJuStvQsdRn4NgymF-7mOQtJwdj=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNLHgPVtRwCbFE5w4KmnHiyhY6ywZmqg88YfC2Q=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPuDhrZIc39mT53kUyB-2Iv9GM4CdPS9QIiUGFp=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOyHcUbmL8iuIkBJ1j4ZT504pJwBrSkFc1vSM7d=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNemV1qDRpjvJQM9d2XW2J1wG0kCf59YQiNWxM9=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMsPR19hz9evSXNrtNp7mcRlgQjZa7NT9F6jDei=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOjPqXsaZMkaEFlnggShP5TOwaE-swe6YM33kZZ=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipO5DItSTef2NS7b4CwkOqRbaXl26Lk0KmkAnEu3=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMLsqad4WxHWD6tHsv_oiNEpEETrmn5qg7bofeP=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOQWwb3w5T_nLkl4WfjN0MPm5CfUaa27V-643Av=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMGxpOtxJFnHvJiTUwQOitPG4i_EH5GPJDHCNms=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMvH7tqzGEnEIKNVseIhVEtB5o6eCi2JEh9KFNh=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOy_Xt6Lw_ZRVqzhYKmVDt53xZCUf85GufpuFkx=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNU_9-6A2-Y5zFjYmLsbgcYCG5FzrffoKQCrEIQ=w1024-h576-k-no"
+  ],
+  "topComments": [
+    {
+      "author": "Bruno Leal Medeiros",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucqqYK5fzMD3j49mB0EYPlmZy8UeHwhaHlQNTVGCtQ=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "A serra é eterna. Tristeza o avanço dos eucaliptos e carvoeiras em areas de preservaçao. Ainda possui beleza rara, águas limpas, flora e fauna em abundância. Os sítios arqueológicos são incontáveis, diversos ainda inexplorados. Paraíso pouco reconhecido e riquíssimo.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Silvio Barros",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucosfsYRZKumM6Qp2IPsvQIxbVtTOVZv91RUFV-o=w36-h36-p-c0x00000000-rp-mo-ba5-br100",
+      "comment": "Amei as paisagens,  muito lindo parece q foi pintados mão de Deus. Lugar maravilhoso",
+      "gradeComment": 5
+    },
+    {
+      "author": "Edmar Cardoso",
+      "photoAuthor": "https://lh3.googleusercontent.com/a/AItbvmnWeGkRhgft6hfgRpzWt-GTir0YQpROll0SIHip=w36-h36-p-c0x00000000-rp-mo-br100",
+      "comment": "Muito ótimo amo muito este lugar inclusive desde a época da minha infância",
+      "gradeComment": 5
+    },
+    {
+      "author": "Rosemary Barbosa da Silva Moura",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucov7K9IYA5zfjSXhUzAj9DrgjSn5uBlhovslkxdFPY=w36-h36-p-c0x00000000-rp-mo-ba5-br100",
+      "comment": "Pessoal, acabei de retonar da Área de Preservação Ambiental Serra do Cabral. Meu passeio aconteceu por Joaquim Felício e não por Buenópolis. O parque é bonito, tem uma diversidade ecológica maravilhosa. A estrada é toda de cascalho, mas não se encontra banheiros, restaurantes, pousadas ou mesmo placa de sinalização. Em Joaquim Felício tem uma estrutura básica, mínima com pousadas/hotéis e restaurante familiar. Tem um guia turístico em Joaquim Felício que cobra R$ 30,00 por pessoa. Na realidade eu atravessei esta área de preservação porque desejava chegar a Lagoa dos Cristais.",
+      "gradeComment": 4
+    },
+    {
+      "author": "Hellen Dantas",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucqVU64uJtV-ROIpJEc_YR0O1Wo5uxUiFce-dLd6H3o=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "Não tem placas sobre as cachoeiras, precisa ir com alguém que conheça. Tem grutas, desenhos rupestres. Se ver as montanhas de pedras, parem e explore o lugar, certamente irá ver as grutas. As cachoeiras são poucos exploradas então são de difícil acesso, mas lindas. Vale muito a pena.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Joao carvalho Costa",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucrp29AeFPt5hPLTcawlvQmqfAGtc-525RgXktHOAoY=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "Lugar lindo!!!! Vale a pena visitar e conhecer as maravilhas desse lugar!!!",
+      "gradeComment": 5
+    },
+    {
+      "author": "Lucas De Menezes",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucrKByz7tunMoEUmW9fcQjkYHKDrPhvq27dXt0ve9GI=w36-h36-p-c0x00000000-rp-mo-ba3-br100",
+      "comment": "Tudo q VC pensa  em maravilhoso se encontra aqui. Amo esse lugar.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Luiz Carlos Finelli",
+      "photoAuthor": "https://lh3.googleusercontent.com/a/AItbvmluCkLXRdFU89wIK7jBd_NyI-bqq6dFncwud9As=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "Ótimo local para passear, muita água e natureza . Caminhadas, bicicleta e carro.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Leonicegqdfshkhddfmrd Serra",
+      "photoAuthor": "https://lh3.googleusercontent.com/a/AItbvmkVsi7OyCOpCLMN1OJZ2wRWYub4mxSWidVm0CvK=w36-h36-p-c0x00000000-rp-mo-ba3-br100",
+      "comment": "Maravilhosa  quem  não  conhece  estar  perdendo  a oportunidade  de conhecer um lugar onde vc a obra de Deus  em tudo",
+      "gradeComment": 5
+    },
+    {
+      "author": "Professor Willians Lúcio",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucq-csIoOZofT_CaOZpxRjRSUX3pdRf-dghKGsvAARo=w36-h36-p-c0x00000000-rp-mo-ba3-br100",
+      "comment": "Lugar incrível! Muita natureza e história! Um dia irei voltar!",
+      "gradeComment": 5
+    },
+    {
+      "author": "Sidney alexandre",
+      "photoAuthor": "https://lh3.googleusercontent.com/a/AItbvml--Ci_9k_zfJmyzeMEgYu87_SFSNHlPMfT17cY=w36-h36-p-c0x00000000-rp-mo-br100",
+      "comment": "Lugar top",
+      "gradeComment": 5
+    },
+    {
+      "author": "Raquel Rodrigues",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucoFfmvxbK_zm3vTnyO7jOn30Yd2velWNw1igTXDBz0=w36-h36-p-c0x00000000-rp-mo-br100",
+      "comment": "É o lugar onde eu vivi desde pequena. E é  um lugar encantador",
+      "gradeComment": 5
+    },
+    {
+      "author": "Pr. Igor Flávio",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucoXfhxQ4ipz5ZWvfz76iHYabXB6vJSj9QS7Mn33kHU=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "Lugar especial e maravilhoso",
+      "gradeComment": 5
+    },
+    {
+      "author": "Jose Do Amparo Barbosa",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucojfoiSkXgQ97OfVKkCTmD_OXMPVpsqxJU16hUY=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "Excelente.  Lugar esplêndido.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Jairo Silva",
+      "photoAuthor": "https://lh3.googleusercontent.com/a/AItbvmloAsn52Upyb7Yf-AlROaH1mvY-MkcyVWSdrr_1=w36-h36-p-c0x00000000-rp-mo-br100",
+      "comment": "Lugar de paz!",
+      "gradeComment": 5
+    },
+    {
+      "author": "TIAGOPLAY456 (TIACO)",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucpKROHDjCst2FddU-0X9A44bcJT0_Lr4pvGrDF9=w36-h36-p-c0x00000000-rp-mo-ba2-br100",
+      "comment": "Lugar muito confortável e relaxante,porém as coisas que vendem la são muito caras",
+      "gradeComment": 3
+    },
+    {
+      "author": "Marina Alvim",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucpGH8zcwN92qXAa58rNcgwO4_BCi04jVfDAR2ik9w=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "Infelizmente, estive no parque no dia 12 de janeiro 2019 e fui informada que o mesmo não está funcionando nos fds (?) pelo futuro próximo.  Então, se vc estiver planejando uma aventura no local no sábado ou domingo, ligue antes para saber se as atividades já foram retomadas!",
+      "gradeComment": 1
+    },
+    {
+      "author": "Rafael Magalhães",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucrBG5eB_e-TN3fkt9jz6uTezOET53fg4Gi053tzcA=w36-h36-p-c0x00000000-rp-mo-ba2-br100",
+      "comment": "Lugar maravilhoso! Vista sensacional!",
+      "gradeComment": 5
+    },
+    {
+      "author": "Douglas Eduardo",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucrtqBmxA_1bGF2QJL82toMuRqSKK87sNQn_GELC=w36-h36-p-c0x00000000-rp-mo-br100",
+      "comment": "Lugar que precisamos defender e zelar com muita responsabilidade! Nosso parque é de extrema importância para nossa população,principalmente pela diversidade e riqueza em água!",
+      "gradeComment": 5
+    },
+    {
+      "author": "Euller Henrique",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucpKnIHlJbQDU3fI1y3iWuf_4ebe6XPl3cWSqhLMQw=w36-h36-p-c0x00000000-rp-mo-br100",
+      "comment": "Ótimo lugar, para quem procura aventura, contato com a natureza, ar puro, paz, tranquilidade e paisagens exuberantes. Vale muito a pena uma visita! Recomendo. ;D",
+      "gradeComment": 5
+    }
+  ],
+  "peakHours": [
+    {
+      "Sunday": [
+        {
+          "hour": "04:00",
+          "percent": 15
+        },
+        {
+          "hour": "05:00",
+          "percent": 43
+        },
+        {
+          "hour": "06:00",
+          "percent": 62
+        },
+        {
+          "hour": "07:00",
+          "percent": 65
+        },
+        {
+          "hour": "08:00",
+          "percent": 50
+        },
+        {
+          "hour": "09:00",
+          "percent": 28
+        },
+        {
+          "hour": "10:00",
+          "percent": 15
+        },
+        {
+          "hour": "11:00",
+          "percent": 21
+        },
+        {
+          "hour": "12:00",
+          "percent": 40
+        },
+        {
+          "hour": "13:00",
+          "percent": 62
+        },
+        {
+          "hour": "14:00",
+          "percent": 68
+        },
+        {
+          "hour": "15:00",
+          "percent": 50
+        },
+        {
+          "hour": "16:00",
+          "percent": 18
+        }
+      ]
+    },
+    {
+      "Monday": [
+        {
+          "hour": "08:00",
+          "percent": 6
+        },
+        {
+          "hour": "09:00",
+          "percent": 9
+        },
+        {
+          "hour": "10:00",
+          "percent": 9
+        },
+        {
+          "hour": "11:00",
+          "percent": 9
+        },
+        {
+          "hour": "12:00",
+          "percent": 3
+        }
+      ]
+    },
+    {
+      "Tuesday": [
+        {
+          "hour": "09:00",
+          "percent": 9
+        },
+        {
+          "hour": "10:00",
+          "percent": 31
+        },
+        {
+          "hour": "11:00",
+          "percent": 50
+        },
+        {
+          "hour": "12:00",
+          "percent": 62
+        },
+        {
+          "hour": "13:00",
+          "percent": 65
+        },
+        {
+          "hour": "14:00",
+          "percent": 56
+        },
+        {
+          "hour": "15:00",
+          "percent": 43
+        },
+        {
+          "hour": "16:00",
+          "percent": 25
+        },
+        {
+          "hour": "17:00",
+          "percent": 6
+        }
+      ]
+    },
+    {
+      "Wednesday": [
+        {
+          "hour": "04:00",
+          "percent": 34
+        },
+        {
+          "hour": "05:00",
+          "percent": 43
+        },
+        {
+          "hour": "06:00",
+          "percent": 53
+        },
+        {
+          "hour": "07:00",
+          "percent": 62
+        },
+        {
+          "hour": "08:00",
+          "percent": 71
+        },
+        {
+          "hour": "09:00",
+          "percent": 81
+        },
+        {
+          "hour": "10:00",
+          "percent": 81
+        },
+        {
+          "hour": "11:00",
+          "percent": 78
+        },
+        {
+          "hour": "12:00",
+          "percent": 65
+        },
+        {
+          "hour": "13:00",
+          "percent": 50
+        },
+        {
+          "hour": "14:00",
+          "percent": 31
+        },
+        {
+          "hour": "15:00",
+          "percent": 15
+        },
+        {
+          "hour": "16:00",
+          "percent": 3
+        },
+        {
+          "hour": "00:00",
+          "percent": 6
+        },
+        {
+          "hour": "01:00",
+          "percent": 12
+        },
+        {
+          "hour": "02:00",
+          "percent": 18
+        },
+        {
+          "hour": "03:00",
+          "percent": 25
+        }
+      ]
+    },
+    {
+      "Thursday": [
+        {
+          "hour": "04:00",
+          "percent": 15
+        },
+        {
+          "hour": "05:00",
+          "percent": 34
+        },
+        {
+          "hour": "06:00",
+          "percent": 56
+        },
+        {
+          "hour": "07:00",
+          "percent": 75
+        },
+        {
+          "hour": "08:00",
+          "percent": 87
+        },
+        {
+          "hour": "09:00",
+          "percent": 96
+        },
+        {
+          "hour": "10:00",
+          "percent": 100
+        },
+        {
+          "hour": "11:00",
+          "percent": 96
+        },
+        {
+          "hour": "12:00",
+          "percent": 90
+        },
+        {
+          "hour": "13:00",
+          "percent": 78
+        },
+        {
+          "hour": "14:00",
+          "percent": 62
+        },
+        {
+          "hour": "15:00",
+          "percent": 46
+        },
+        {
+          "hour": "16:00",
+          "percent": 34
+        },
+        {
+          "hour": "17:00",
+          "percent": 18
+        },
+        {
+          "hour": "18:00",
+          "percent": 6
+        }
+      ]
+    },
+    {
+      "Friday": [
+        {
+          "hour": "05:00",
+          "percent": 3
+        },
+        {
+          "hour": "06:00",
+          "percent": 15
+        },
+        {
+          "hour": "07:00",
+          "percent": 31
+        },
+        {
+          "hour": "08:00",
+          "percent": 40
+        },
+        {
+          "hour": "09:00",
+          "percent": 50
+        },
+        {
+          "hour": "10:00",
+          "percent": 50
+        },
+        {
+          "hour": "11:00",
+          "percent": 50
+        },
+        {
+          "hour": "12:00",
+          "percent": 43
+        },
+        {
+          "hour": "13:00",
+          "percent": 34
+        },
+        {
+          "hour": "14:00",
+          "percent": 25
+        },
+        {
+          "hour": "15:00",
+          "percent": 15
+        },
+        {
+          "hour": "16:00",
+          "percent": 3
+        }
+      ]
+    },
+    {
+      "Saturday": [
+        {
+          "hour": "04:00",
+          "percent": 18
+        },
+        {
+          "hour": "05:00",
+          "percent": 12
+        },
+        {
+          "hour": "06:00",
+          "percent": 12
+        },
+        {
+          "hour": "07:00",
+          "percent": 21
+        },
+        {
+          "hour": "08:00",
+          "percent": 31
+        },
+        {
+          "hour": "09:00",
+          "percent": 40
+        },
+        {
+          "hour": "10:00",
+          "percent": 43
+        },
+        {
+          "hour": "11:00",
+          "percent": 46
+        },
+        {
+          "hour": "12:00",
+          "percent": 46
+        },
+        {
+          "hour": "13:00",
+          "percent": 43
+        },
+        {
+          "hour": "14:00",
+          "percent": 40
+        },
+        {
+          "hour": "15:00",
+          "percent": 37
+        },
+        {
+          "hour": "16:00",
+          "percent": 34
+        },
+        {
+          "hour": "17:00",
+          "percent": 31
+        },
+        {
+          "hour": "18:00",
+          "percent": 28
+        },
+        {
+          "hour": "19:00",
+          "percent": 28
+        },
+        {
+          "hour": "20:00",
+          "percent": 34
+        },
+        {
+          "hour": "21:00",
+          "percent": 46
+        },
+        {
+          "hour": "22:00",
+          "percent": 62
+        },
+        {
+          "hour": "23:00",
+          "percent": 75
+        },
+        {
+          "hour": "00:00",
+          "percent": 81
+        },
+        {
+          "hour": "01:00",
+          "percent": 71
+        },
+        {
+          "hour": "02:00",
+          "percent": 56
+        },
+        {
+          "hour": "03:00",
+          "percent": 34
+        }
+      ]
+    }
+  ],
+  "relatedSearches": [
+    "serra do cabral mapa",
+    "parque estadual da serra do cabral fotos",
+    "serra do cabral café",
+    "fotos serra do cabral, mg",
+    "serra do cabral lassance",
+    "apa serra do cabral",
+    "serra do cabral várzea da palma",
+    "circuito serra do cabral"
+  ],
+  "relateds": [
+    {
+      "mainName": "Sede administrativa do Parque Nacional das Sempre-Vivas",
+      "url": null
+    },
+    {
+      "mainName": "Parque Estadual do Rio Preto",
+      "url": null
+    },
+    {
+      "mainName": "Parque Estadual Biribiri",
+      "url": null
+    },
+    {
+      "mainName": "Parque Estadual Pico do Itambé",
+      "url": null
+    },
+    {
+      "mainName": "Parque Estadual Serra Negra",
+      "url": null
+    },
+    {
+      "mainName": "Parque Estadual do Itacolomi",
+      "url": null
+    },
+    {
+      "mainName": "Parque Estadual da Serra do Ouro Branco",
+      "url": null
+    },
+    {
+      "mainName": "Parque Estadual Caminho dos Gerais",
+      "url": null
+    },
+    {
+      "mainName": "Parque Estadual Sete Salões",
+      "url": null
+    },
+    {
+      "mainName": "Parque Estadual Nova Baden",
+      "url": null
+    },
+    {
+      "mainName": "Serra do Espinhaço",
+      "url": null
+    },
+    {
+      "mainName": "Parque Estadual Serra do Intendente",
+      "url": null
+    },
+    {
+      "mainName": "Parque Estadual Grăo Mogol",
+      "url": null
+    },
+    {
+      "mainName": "Parque Estadual Serra da Boa Esperança",
+      "url": null
+    },
+    {
+      "mainName": "Parque Estadual do Pau Furado",
+      "url": null
+    },
+    {
+      "mainName": "Parque Estadual da Lapa Grande",
+      "url": null
+    },
+    {
+      "mainName": "Parque Estadual do Sumidouro",
+      "url": null
+    },
+    {
+      "mainName": "Parque Estadual Serra Negra da Mantiqueira",
+      "url": null
+    },
+    {
+      "mainName": "Parque Nacional Grande Sertão Veredas",
+      "url": null
+    },
+    {
+      "mainName": "Parque Estadual do Ibitipoca",
+      "url": null
+    },
+    {
+      "mainName": "Parque Estadual Mata do Limoeiro",
+      "url": null
+    },
+    {
+      "mainName": "Pico do Pião",
+      "url": null
+    },
+    {
+      "mainName": "Parque Estadual do Rio Doce",
+      "url": null
+    }
+  ]
+}

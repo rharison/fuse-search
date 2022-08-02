@@ -1,0 +1,654 @@
+{
+  "mainName": "Il Facchino",
+  "slug": "il-facchino",
+  "category": "Fonte",
+  "locationInformation": {
+    "latitude": "41.8983217",
+    "longitude": "12.4813881"
+  },
+  "basicInformation": [
+    {
+      "label": "endereço",
+      "tooltip": "Copiar endereço",
+      "text": "Via Lata, 00186 Roma RM, Itália",
+      "icon": "https://www.gstatic.com/images/icons/material/system_gm/1x/place_gm_blue_24dp.png"
+    },
+    {
+      "label": "telefone",
+      "tooltip": "Copiar número de telefone",
+      "text": "+39 06 0608",
+      "icon": "https://www.gstatic.com/images/icons/material/system_gm/1x/phone_gm_blue_24dp.png"
+    },
+    {
+      "label": "Code",
+      "tooltip": "Copiar Plus Code",
+      "text": "VFXJ+8H Roma, Itália",
+      "icon": "https://maps.gstatic.com/mapfiles/maps_lite/images/2x/ic_plus_code.png"
+    }
+  ],
+  "ratingInformation": {
+    "basicRatingInformation": {
+      "averageGrade": 4.6,
+      "totalOfEvaluations": 35
+    },
+    "ratingsByGrade": [
+      {
+        "grade": 5,
+        "totalRatings": 24
+      },
+      {
+        "grade": 4,
+        "totalRatings": 7
+      },
+      {
+        "grade": 3,
+        "totalRatings": 4
+      },
+      {
+        "grade": 2,
+        "totalRatings": 0
+      },
+      {
+        "grade": 1,
+        "totalRatings": 0
+      }
+    ]
+  },
+  "ratingTags": [
+    {
+      "tag": "rosto",
+      "count": 3,
+      "tooltip": "rosto, mencionado em 3 avaliações"
+    }
+  ],
+  "featuredPhotos": [
+    "https://lh5.googleusercontent.com/p/AF1QipOPoZAUmWKqiIEg_8zdDkuM9yfB66uhOmKVzg64=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPI8TidJw5BzXTNdkh8xsdgSxQ3YeP_D9R5Z-rA=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNrQlu76ZRoEDaI2YAI0sl4udDFP4iaGKbhkugf=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPAvRymT1wzoqAKHr4UeSvXflSYXPM6S9lbM5vk=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOpeQG2YqzR5FHss-gMJLWAx5RNTELdCzVZ_BEC=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPzjkBYyOXGGcmZ31ucUurexRlYTBHIzGLhaiL6=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNUhBw7-JV8FlBf0OY-RksNZ63E1H0zAYV9eBtd=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMRoxBmu9lL36WM0h5Mwyr7oktxFZ4XAcNxfdGU=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNNf_qjcm007KmevRkOYesniEVeUujXXohxwuj8=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPzZXT3sjMX05DW350BRFXwsMnCJDUwMFes-Pg4=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMPwcCRQ8_1_lR6QoI9YlSs0LS4AQTsXnEwONPQ=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipM8zq8orJO_3w8mcMcTJPUQyjZx1RiZu571aB_0=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipO72HXycAE67uZ-b-PfLw1tj0fSe50ilYe9gBEl=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOvpFfX-6SjMdpNR2frYrHQJybkSkt-NcPis3xc=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNLBbX37A0mBbooPT3KUpAs2-aceyuPdW-kjYe9=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMp64kNmPDx8Z9kSSdYAMhMtL7cl41fVa0EYsZg=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOlmluh2e3uHFKQW14ilf_QPFYQh7c8WfjNBdnG=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPBuIN-tBkvRWN6vLYfp5Cq-Ak3jrcXK6JVp6H7=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOAD2__ilONmDNVqF2KwdjDqjOnpSrvt7eRejTf=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipP6-mT7D8HwpjUFUMGOE7G3ubPCj5dPcVDuIlZq=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNCLPQjXxC6apnRZIwttSM2hTw60mlybNRF1UeP=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNjzFU-bOFmWFwW2eBiGqfWpYLiwQzWh87ZtjPq=w1024-h576-k-no"
+  ],
+  "topComments": [
+    {
+      "author": "carlo petroselli",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucpB6Ov5vOfe5qMiNotYChsbgQFCZQ_XPYgELk305y0=w36-h36-p-c0x00000000-rp-mo-ba8-br100",
+      "comment": "(Tradução do Google) A poucos passos da Piazza Venezia em frente à igreja de San Marcello, em uma rua lateral está a fonte do Porter A fonte aparece muito danificada com o rosto gasto representa um aquaroli ou carregadores carregando água com seu vestido típico do século XVI., Foi atribuído por Vanvitelli a Michelangelo. E uma das estátuas falantes do Pasquinate que arengou o descontentamento do povo romano com mensagens anônimas.  (Original) A pochi passi da piazza Venezia davanti alla chiesa di S.Marcello una via laterale si trova la fontana del Facchino La fontana appare molto danneggiata con il volto consumato rappresenta un aquaroli o i facchini che trasportavano acqua con il suo tipico vestito cinquecentesco., Fu attribuita dal Vanvitelli a Michelangelo. E una delle statue parlanti delle Pasquinate che arringavano il malcontento del popolo romano con messaggi anonimi.",
+      "gradeComment": 4
+    },
+    {
+      "author": "ArtBill Vasilis Y.",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucrc0w8ml5u133hqiwMUtUf9FHTyAz7bzbGbq3psUXk=w36-h36-p-c0x00000000-rp-mo-ba6-br100",
+      "comment": "(Tradução do Google) A Fontanella del Facchino (Fonte do Porteiro) na Via Lata tem a forma de um velho segurando um barril, do qual flui um fluxo de água. O homem não é realmente um porteiro, mas uma aquarela (carregador de água), uma figura que ganhava a vida fornecendo água fresca para as casas das pessoas. A água corria de porta em porta em barris chamados coppelle.  Acredita-se que o aquarolo seja Abbondio Rizio, um conhecido personagem local, que se distinguiu por sua força e habilidade na bebida.  A fonte, que data do final do século XVI, poderia um dia ser encontrada na vizinha Via del Corso e era tão famosa que deu nome ao bairro vizinho conhecido como Isola del Facchino.  A Fontanella del Facchino também é uma das seis estátuas \"falantes\" de Roma.  (Original) Η  Fontanella del Facchino  (Σιντριβάνι του Πορτερ), στη  Via Lata , παίρνει τη μορφή ενός γέρου που κρατά ένα βαρέλι, από το οποίο ρέει ένα ρεύμα νερού. Ο άνδρας δεν είναι στην πραγματικότητα ένας αχθοφόρος, αλλά ένας  ακουαρόλο  (νεροκουβαλητής), μια φιγούρα που έβγαζε τα προς το ζην παρέχοντας γλυκό νερό στα σπίτια των ανθρώπων. Το νερό κυλούσε από πόρτα σε πόρτα σε βαρέλια που ονομάζονταν  coppelle .  Ο  ακουαρόλο  πιστεύεται ότι είναι ο Abbondio Rizio, ένας πολύ γνωστός ντόπιος χαρακτήρας, ο οποίος διακρίθηκε για τη δύναμή του και την ικανότητά του στο ποτό.  Το σιντριβάνι, που χρονολογείται από τα τέλη του 16ου αιώνα, θα μπορούσε κάποτε να βρεθεί στην κοντινή  Via del Corso και ήταν τόσο διάσημο που έδωσε το όνομά του στην άμεση γειτονιά, που ήταν γνωστή ως  Isola del Facchino .  Η  Fontanella del Facchino  είναι επίσης ένα από τα  έξι «ομιλούντα» αγάλματα της Ρώμης .",
+      "gradeComment": 5
+    },
+    {
+      "author": "Marina Del Gatto",
+      "photoAuthor": "https://lh3.googleusercontent.com/a/AItbvmkJ5u69RXJVyn0sjWHkMOaTY-EWrtWEOHdYeXlK=w36-h36-p-c0x00000000-rp-mo-ba6-br100",
+      "comment": "(Tradução do Google) Depois Pasquino, Marforio, Donna Lucrezia e Baboon aqui é \"o Porter.\" Outra estátua falando de Roma, representa uma figura masculina, com o rosto quase completamente arruinado, ao derramar a água de um barril. O rosto desfigurado é devido a vândalos que estavam alvo atirando pedras. Representa a cor da água, figura que, até os papas restabelecerem os aquedutos no final do século XVI, retiravam água das fontes públicas e a vendiam de porta em porta. Como os outros cinco, foi a \"voz\" de várias Pasquinas, as sátiras irreverentes destinadas a atingir até mesmo as figuras públicas mais proeminentes de Roma, pesadamente e sempre anonimamente.  (Original) Dopo Pasquino, Marforio, Donna Lucrezia e il Babbuino ecco \"il Facchino\". Un'altra statua parlante di Roma, rappresenta una figura maschile, con il viso quasi completamente rovinato, mentre versa acqua da una botte. Il viso sfigurato è dovuto ai vandali  che ne facevano bersaglio lanciando pietre.  Rappresenta infatti un acquarolo, quella figura che, fino a quando, alla fine del ‘500, i pontefici ripristinarono gli acquedotti, prendeva l'acqua dalle fontane pubbliche e la rivendeva porta a porta. Come le altre cinque è stata la “voce” di diverse Pasquinate, le irriverenti satire indirizzate a colpire anche pesantemente e sempre in modo anonimo i personaggi pubblici più in vista a Roma.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Куимов Дмитрий",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucohxVw05Vv7N8u5zA9YRXTGlaEPe4iaXViZMVCR82E=w36-h36-p-c0x00000000-rp-mo-ba6-br100",
+      "comment": "(Tradução do Google) Visitado em janeiro de 2020. Como sempre, a fonte chegou até nós por acidente). Construído em 1580, não é suficientemente ruim preservado. Somente a cabeça do transportador de água está danificada. Na história da fonte, diz-se que as pedras foram atiradas pelos meninos e com o consentimento de seus pais (((. A água nela, como a maioria dessas fontes, está bebendo, o que é muito agradável)).  (Original) Посетили в январе 2020 года. Как всегда фонтанчик попался нам совсем случайно). Построен в 1580 году довольно не плохо сохранился. Только голова водоноса повреждена. В истории фонтана сказано, что в него кидали камни мальчишки, причём с согласия своих родителей(((. Вода в нём как и большинстве таких фонтанчиков питьевая, что очень радует)).",
+      "gradeComment": 5
+    },
+    {
+      "author": "Roberto Moglioni",
+      "photoAuthor": "https://lh3.googleusercontent.com/a/AItbvmlzKNCCQhAwfudngM69pbHRVaINnbSsVVcWwSRY=w36-h36-p-c0x00000000-rp-mo-ba5-br100",
+      "comment": "(Tradução do Google) Fonte esculpida por Jacopo Del Conte em nome da guilda dos fabricantes de água por volta de 1590 e instalada no Palazzo De Carolis ao lado da via del Corso. Em 1874 foi transferido para o lado na via Lata. Representa uma concha ou acquarolo, um trabalhador romano característico que revendia a água das fontes públicas vagando pelas casas. A fonte está hoje (2021) muito danificada, mas ainda funcionando e transportando água doce do aqueduto Vergine.  (Original) Fontana scolpita da Jacopo Del Conte su incarico della Corporazione degli Acquaioli intorno al 1590 e installata su Palazzo De Carolis sul lato di via del Corso. Nel 1874 fu spostata sul lato su via Lata. Rappresenta un acquaiolo o acquarolo, un caratteristico lavoratore romano che rivendeva l'acqua delle fontane pubbliche girando per le case. La fontana è oggi (2021) molto danneggiata, ma ancora funzionante e portatrice di acqua fresca dell'acquedotto Vergine.",
+      "gradeComment": 4
+    },
+    {
+      "author": "Gianluca Pica",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucol89bTltKwsay3b5J9NpcP9FHY8kjkKscTmBhvkgk=w36-h36-p-c0x00000000-rp-mo-ba5-br100",
+      "comment": "(Tradução do Google) Uma deliciosa fonte, a que se chama del Facchino, uma das pequenas joias de Roma que, quando estou com os meus turistas e passo por aqui, mostro sempre! Construída na segunda metade do século XVI, a fonte é curiosa pelo homem representado no ato de carregar uma espécie de barrilete. Aqui, posso dizer que a Fonte do Porteiro é, na realidade, uma fotografia de uma actividade muito popular, e em voga, na Roma do passado, uma obra muito comum centrada na figura do aquarista! Quem era ele? Uma espécie de negociante de água, um homem que ia de fonte em fonte buscar água para limpar e vender para quem precisava. Na verdade, considere que na época não era aconselhável coletar água do Tibre ...  (Original) Una fontanella deliziosa, quella denominata del Facchino, una delle piccole chicche di Roma che, quando sono con i miei turisti e passo da queste parti, faccio sempre vedere! Realizzata nella seconda metà del Cinquecento la fontanella è curiosa per l'uomo rappresentato nell'atto di portare una sorta di piccola botte. Ecco, posso dire che la Fontana del Facchino è, in realtà, una fotografia di un'attività molto popolare, ed in voga, nella Roma del passato, un lavoro molto comune incentrato sulla figura dell'acquarolo! Chi era costui? Una sorta di rivenditore d'acqua, un uomo che andava di fontana in fontana a raccogliere acqua per ripulirla e rivenderla a chi serviva. Si consideri, infatti, che già all'epoca non era consigliabile raccogliere l'acqua del Tevere...",
+      "gradeComment": 5
+    },
+    {
+      "author": "vincenzo marsella",
+      "photoAuthor": "https://lh3.googleusercontent.com/a/AItbvmnpdq76oBDsUcL7KL4sMmxx3NopLrheyTCqovxe=w36-h36-p-c0x00000000-rp-mo-ba6-br100",
+      "comment": "(Tradução do Google) Originalmente localizado na Via del Corso, na fachada principal do Palazzo de Carolis em 1874, foi transferido para sua posição atual. Representa uma figura masculina, com o rosto quase todo gasto, enquanto despejava água de um barril. É a mais jovem das estátuas falantes, datando de 1580, ano em que Jacopo Del Conte a construiu em nome da corporação Acquaroli. Na verdade, a figura que tirava água de fontes públicas e vendia de porta em porta representa um \"acquarolo\". Como as outras cinco, ela era a \"voz\" de várias pasquinadas, as sátiras violentas e muitas vezes irreverentes destinadas a atingir ainda mais fortemente e sempre de forma anônima as figuras públicas mais proeminentes de Roma.  (Original) Posta originariamente in via del Corso, sulla facciata principale del palazzo de Carolis nel 1874 fu spostata nella posizione attuale. Rappresenta una figura maschile, con il viso quasi completamente consumato, mentre versa acqua da una botte. È la più giovane delle statue parlanti, risalendo infatti al 1580, anno in cui Jacopo Del Conte la realizzò su incarico della Corporazione degli Acquaroli. Rappresenta infatti un “acquarolo” quella figura che, prendeva l'acqua dalle fontane pubbliche e la rivendeva porta a porta. Come le altre cinque è stata la “voce” di diverse pasquinate, le violente e spesso irriverenti satire indirizzate a colpire anche pesantemente e sempre in modo anonimo i personaggi pubblici più in vista a Roma.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Blasco della Floresta",
+      "photoAuthor": "https://lh3.googleusercontent.com/a/AItbvmlzurUM5wXH9fsT1hf1wL2nn7yKGWMvC2aLxjTN=w36-h36-p-c0x00000000-rp-mo-ba6-br100",
+      "comment": "(Tradução do Google) A fonte do porteiro na via Lata, uma rua lateral da via del Corso, é obra de Jacopo del Conte e foi feita por volta de 1580 em nome da Guilda de Acquaioli. É alimentado por água virgem e foi localizado na fachada principal do Palazzo De Carolis na via del Corso, em 1872 foi transferido para a fachada lateral. É uma das estátuas falantes de Roma.  (Original) La fontanella del facchino su via Lata, una traversa di via del Corso,  è opera di Jacopo del Conte e fu fatta intorno al 1580 per incarico della Corporazione degli Acquaioli. È  alimentata dall'acqua Vergine , e si trovava collocata sulla facciata principale di Palazzo De Carolis in via del Corso,  nel 1872 fu trasferita sulla facciata laterale. È una delle statue parlanti di Roma.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Franco Aliasi",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucplDtVVG60FEMGZTsCJL_EUl-qbxqHMjgu76XNwgXM=w36-h36-p-c0x00000000-rp-mo-ba6-br100",
+      "comment": "(Tradução do Google) Uma das muitas fontes pequenas, mas características encontradas em Roma  (Original) Una delle tante piccole ma caratteristiche fontana che si trovano a Roma",
+      "gradeComment": 5
+    },
+    {
+      "author": "Mattia Iacono",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucojUJojQQc9JLcLqRkIpB20OYf4Eh4oqXTU29Rmww=w36-h36-p-c0x00000000-rp-mo-ba6-br100",
+      "comment": "(Tradução do Google) essas fontes romanas são muito agradáveis ​​de ver e muito apreciáveis. Isso retrata um homem carregando um pequeno barril. Pena que o jato é muito fraco  (Original) queste fontane romane sono molto carine da vedere e molto apprezzabili. Questa raffigura un uomo che porta una piccola botte. Peccato solo che il getto è molto debole",
+      "gradeComment": 4
+    },
+    {
+      "author": "Enricro Cro",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucoPrtG_WakBREmmkdgYNyppeI1JI0cEc6RrET7qWds=w36-h36-p-c0x00000000-rp-mo-ba7-br100",
+      "comment": "(Tradução do Google) Excelente, uma pena que não é valorizado.  A Fonte do Porteiro porque se diz que à noite ele foi encher os barris com água na próxima Fonte de Trevi e durante o dia vendeu em torno de Roma.  (Original) Stupenda, peccato che sia poco valorizzata.  La Fontana del Facchino perché si narra che di notte andasse a riempire le botti di acqua nella vicina Fontana di Trevi e di giorno la rivendesse in giro per Roma.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Roberto Michetti",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucrf8LIU6kRgxHbFxDvGqwZ8BxOfrelOkooSdz1jKA=w36-h36-p-c0x00000000-rp-mo-ba5-br100",
+      "comment": "(Tradução do Google) Bebedouro que remonta a cerca de 1700, representa um transportador de água. Foi na era papal uma das estátuas falantes de Roma e ainda é uma das mais conhecidas. A estreita Via Lata e o contexto em que está inserida talvez não os mereçam plenamente.  (Original) Fontanella risalente al 1700 circa, rappresenta un portatore d'acqua. È stata in epoca pontificia una delle statue parlanti di Roma ed è tutt'oggi una delle più conosciute. La stretta via Lata ed il contesto nel quale è inserita forse non le rende pieno merito.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Maria Tanasa Turism Roma (www.turismroma.com)",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucp99fEB77jykx7AYLSgl-qlTZ43OTsSYdCtrsaxLn4=w36-h36-p-c0x00000000-rp-mo-ba8-br100",
+      "comment": "(Tradução do Google) Fontana del Facchino - (facchino = porter) que você descobre no lado esquerdo do Palácio Carolis Simonetti - Banca di Roma - é uma das estátuas falantes (parlante = falante) em Roma. A estátua tem o rosto desfigurado pelas pedras atiradas pelos moradores por considerarem o personagem interpretado como Martinho Lutero por causa das roupas; na verdade, a estátua foi esculpida em 1580 por Jacopo del Conte - outras fontes dizem que foi esculpida por Michelangelo, para a corporação dos carregadores de água.  (Original) Fontana del Facchino -  (facchino = porter) o descoperi pe latul stâng al Palatului Carolis Simonetti- Banca di Roma- este una din statuiele parlante (parlante = vorbitoare) din Roma. Statuia are chipul desfigurat de pietrele aruncate de localnici pentru ca au considerat că personajul redat este Martin Lutero datorita veșmintelor; în realitate statuia a fost sculptată in 1580 de Jacopo del Conte - alte surse spun că a fost sculptată de Michelangelo, pentru corporația celor ce cărau apă.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Damiano Costantini",
+      "photoAuthor": "https://lh3.googleusercontent.com/a/AItbvmm0157weiNIXKxdiK4P9z-e9TjkUxjj0ILRgtiZ=w36-h36-p-c0x00000000-rp-mo-ba5-br100",
+      "comment": "(Tradução do Google) Bela fonte e uma das estátuas falantes típicas de Roma.  (Original) Bellissima fontana e una delle tipiche statue parlanti di Roma.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Maria Clemente Flaj",
+      "photoAuthor": "https://lh3.googleusercontent.com/a/AItbvml7qaZlYJsdCrmVH-mC6-b4pARBbdmCZ5IvXC5r=w36-h36-p-c0x00000000-rp-mo-ba5-br100",
+      "comment": "(Tradução do Google) Fonte pequena e escondida, que no entanto procurei, tendo em conta o meu gosto por saborear a água por onde vou. Simples e charmoso.  (Original) Pequeña y escondida fuente, que yo sin embargo busqué, habida cuenta mi afición a probar el agua allá por donde voy. Sencilla y encantadora.",
+      "gradeComment": 4
+    },
+    {
+      "author": "Reda ALI",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucqH2KN-jZbK8ufAYe_yNpV-EUNyLLtFhp49SQnK=w36-h36-p-c0x00000000-rp-mo-ba3-br100",
+      "comment": "(Tradução do Google) Banco  (Original) بنك",
+      "gradeComment": 5
+    },
+    {
+      "author": "Paolo Mattioli",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucr34UqNXqdAO14TN6SxI1c7Fpga5NrmY2K1sEOZguE=w36-h36-p-c0x00000000-rp-mo-ba6-br100",
+      "comment": "(Tradução do Google) Uma estátua falante como o Pasquino ... uma jóia!  (Original) Una statua parlante come il Pasquino ... una chicca!",
+      "gradeComment": 5
+    },
+    {
+      "author": "franck MLRT (Franck M31)",
+      "photoAuthor": "https://lh3.googleusercontent.com/a/AItbvmkJqYfpILplyAPRAHAgQ4TnBrpv-SmpLF4FspDU=w36-h36-p-c0x00000000-rp-mo-ba5-br100",
+      "comment": "(Tradução do Google) Há muito melhor como uma fonte  (Original) Il y a beaucoup mieux comme fontaine",
+      "gradeComment": 3
+    },
+    {
+      "author": "Paolo Taffoni",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucpb6NsvZZsWTIuirBGdGAZ0ij3mUKKZYebxUmjx=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "(Tradução do Google) Tanta história por trás dessa fonte  (Original) Tanta storia dietro a questa fontana",
+      "gradeComment": 5
+    },
+    {
+      "author": "Aghi.",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZuco8ToNlnQU9DZ2LIbtIsLtML0nBdtfjFSZRU5G10N8=w36-h36-p-c0x00000000-rp-mo-br100",
+      "comment": "Ornamento....",
+      "gradeComment": 4
+    }
+  ],
+  "peakHours": [
+    {
+      "Sunday": []
+    },
+    {
+      "Monday": [
+        {
+          "hour": "04:00",
+          "percent": 1
+        },
+        {
+          "hour": "05:00",
+          "percent": 1
+        },
+        {
+          "hour": "06:00",
+          "percent": 1
+        },
+        {
+          "hour": "07:00",
+          "percent": 4
+        },
+        {
+          "hour": "08:00",
+          "percent": 19
+        },
+        {
+          "hour": "09:00",
+          "percent": 43
+        },
+        {
+          "hour": "10:00",
+          "percent": 64
+        },
+        {
+          "hour": "11:00",
+          "percent": 69
+        },
+        {
+          "hour": "12:00",
+          "percent": 58
+        },
+        {
+          "hour": "13:00",
+          "percent": 42
+        },
+        {
+          "hour": "14:00",
+          "percent": 29
+        },
+        {
+          "hour": "15:00",
+          "percent": 19
+        },
+        {
+          "hour": "16:00",
+          "percent": 11
+        },
+        {
+          "hour": "17:00",
+          "percent": 5
+        },
+        {
+          "hour": "19:00",
+          "percent": 1
+        },
+        {
+          "hour": "20:00",
+          "percent": 1
+        },
+        {
+          "hour": "21:00",
+          "percent": 1
+        },
+        {
+          "hour": "22:00",
+          "percent": 1
+        },
+        {
+          "hour": "23:00",
+          "percent": 1
+        },
+        {
+          "hour": "00:00",
+          "percent": 1
+        },
+        {
+          "hour": "01:00",
+          "percent": 1
+        },
+        {
+          "hour": "02:00",
+          "percent": 1
+        },
+        {
+          "hour": "03:00",
+          "percent": 1
+        }
+      ]
+    },
+    {
+      "Tuesday": [
+        {
+          "hour": "06:00",
+          "percent": 1
+        },
+        {
+          "hour": "07:00",
+          "percent": 1
+        },
+        {
+          "hour": "08:00",
+          "percent": 17
+        },
+        {
+          "hour": "09:00",
+          "percent": 59
+        },
+        {
+          "hour": "10:00",
+          "percent": 100
+        },
+        {
+          "hour": "11:00",
+          "percent": 96
+        },
+        {
+          "hour": "12:00",
+          "percent": 60
+        },
+        {
+          "hour": "13:00",
+          "percent": 37
+        },
+        {
+          "hour": "14:00",
+          "percent": 30
+        },
+        {
+          "hour": "15:00",
+          "percent": 22
+        },
+        {
+          "hour": "16:00",
+          "percent": 11
+        },
+        {
+          "hour": "17:00",
+          "percent": 2
+        },
+        {
+          "hour": "18:00",
+          "percent": 1
+        },
+        {
+          "hour": "19:00",
+          "percent": 1
+        }
+      ]
+    },
+    {
+      "Wednesday": [
+        {
+          "hour": "08:00",
+          "percent": 21
+        },
+        {
+          "hour": "09:00",
+          "percent": 44
+        },
+        {
+          "hour": "10:00",
+          "percent": 59
+        },
+        {
+          "hour": "11:00",
+          "percent": 55
+        },
+        {
+          "hour": "12:00",
+          "percent": 44
+        },
+        {
+          "hour": "13:00",
+          "percent": 36
+        },
+        {
+          "hour": "14:00",
+          "percent": 31
+        },
+        {
+          "hour": "15:00",
+          "percent": 25
+        },
+        {
+          "hour": "16:00",
+          "percent": 16
+        },
+        {
+          "hour": "17:00",
+          "percent": 7
+        },
+        {
+          "hour": "18:00",
+          "percent": 1
+        },
+        {
+          "hour": "20:00",
+          "percent": 1
+        }
+      ]
+    },
+    {
+      "Thursday": [
+        {
+          "hour": "07:00",
+          "percent": 1
+        },
+        {
+          "hour": "08:00",
+          "percent": 14
+        },
+        {
+          "hour": "09:00",
+          "percent": 37
+        },
+        {
+          "hour": "10:00",
+          "percent": 59
+        },
+        {
+          "hour": "11:00",
+          "percent": 63
+        },
+        {
+          "hour": "12:00",
+          "percent": 46
+        },
+        {
+          "hour": "13:00",
+          "percent": 24
+        },
+        {
+          "hour": "14:00",
+          "percent": 20
+        },
+        {
+          "hour": "15:00",
+          "percent": 35
+        },
+        {
+          "hour": "16:00",
+          "percent": 18
+        },
+        {
+          "hour": "17:00",
+          "percent": 1
+        },
+        {
+          "hour": "18:00",
+          "percent": 1
+        },
+        {
+          "hour": "19:00",
+          "percent": 1
+        },
+        {
+          "hour": "00:00",
+          "percent": 1
+        }
+      ]
+    },
+    {
+      "Friday": [
+        {
+          "hour": "06:00",
+          "percent": 1
+        },
+        {
+          "hour": "08:00",
+          "percent": 10
+        },
+        {
+          "hour": "09:00",
+          "percent": 27
+        },
+        {
+          "hour": "10:00",
+          "percent": 46
+        },
+        {
+          "hour": "11:00",
+          "percent": 53
+        },
+        {
+          "hour": "12:00",
+          "percent": 46
+        },
+        {
+          "hour": "13:00",
+          "percent": 31
+        },
+        {
+          "hour": "14:00",
+          "percent": 18
+        },
+        {
+          "hour": "15:00",
+          "percent": 11
+        },
+        {
+          "hour": "16:00",
+          "percent": 7
+        },
+        {
+          "hour": "17:00",
+          "percent": 4
+        },
+        {
+          "hour": "18:00",
+          "percent": 1
+        },
+        {
+          "hour": "19:00",
+          "percent": 1
+        },
+        {
+          "hour": "20:00",
+          "percent": 1
+        },
+        {
+          "hour": "21:00",
+          "percent": 1
+        }
+      ]
+    },
+    {
+      "Saturday": []
+    }
+  ],
+  "relatedSearches": [
+    "facchino in inglese",
+    "facchini",
+    "pasquino",
+    "piazza pasquino roma",
+    "rome fountain",
+    "3 fountains in rome",
+    "talking statues of rome",
+    "list of fountains"
+  ],
+  "relateds": [
+    {
+      "mainName": "Estátua do Abade Luigi",
+      "url": null
+    },
+    {
+      "mainName": "Marfório",
+      "url": null
+    },
+    {
+      "mainName": "Fontana del Babuino",
+      "url": null
+    },
+    {
+      "mainName": "Palazzo De Carolis",
+      "url": null
+    },
+    {
+      "mainName": "Fontana della Botticella",
+      "url": null
+    },
+    {
+      "mainName": "Fountain of the Tureen",
+      "url": null
+    },
+    {
+      "mainName": "Fontana della Navicella",
+      "url": null
+    },
+    {
+      "mainName": "Fontana di Piazza Nicosia",
+      "url": null
+    },
+    {
+      "mainName": "Fountain of the Cannonballs",
+      "url": null
+    },
+    {
+      "mainName": "Fontana degli Artisti",
+      "url": null
+    },
+    {
+      "mainName": "Fontaine de la place des Cinq Écoles",
+      "url": null
+    },
+    {
+      "mainName": "Catecumeni Fountain",
+      "url": null
+    },
+    {
+      "mainName": "Fontaine de la Prison",
+      "url": null
+    },
+    {
+      "mainName": "Fountain of the Books",
+      "url": null
+    },
+    {
+      "mainName": "Fonte da Água Paula",
+      "url": null
+    },
+    {
+      "mainName": "Fontana del Mascherone",
+      "url": null
+    },
+    {
+      "mainName": "Fontana delle Anfore",
+      "url": null
+    },
+    {
+      "mainName": "Pigna",
+      "url": null
+    },
+    {
+      "mainName": "Fontana di Piazza Farnese",
+      "url": null
+    },
+    {
+      "mainName": "Fountain of Neptune",
+      "url": null
+    },
+    {
+      "mainName": "Fontana di Santa Maria in Trastevere",
+      "url": null
+    },
+    {
+      "mainName": "Palazzo del Viminale",
+      "url": null
+    },
+    {
+      "mainName": "Fonte do Moisés",
+      "url": null
+    }
+  ]
+}

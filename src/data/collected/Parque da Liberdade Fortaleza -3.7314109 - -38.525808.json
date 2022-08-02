@@ -1,0 +1,983 @@
+{
+  "mainName": "Parque da Liberdade Fortaleza",
+  "slug": "parque-da-liberdade-fortaleza",
+  "category": "Parque ecológico",
+  "locationInformation": {
+    "latitude": "-3.7314109",
+    "longitude": "-38.525808"
+  },
+  "basicInformation": [
+    {
+      "label": "endereço",
+      "tooltip": "Copiar endereço",
+      "text": "R. Pedro I, s/n - Centro, Fortaleza - CE, 60035-100",
+      "icon": "https://www.gstatic.com/images/icons/material/system_gm/1x/place_gm_blue_24dp.png"
+    },
+    {
+      "label": "website",
+      "tooltip": "Abrir website",
+      "text": "aorracer.com",
+      "icon": "https://www.gstatic.com/images/icons/material/system_gm/1x/public_gm_blue_24dp.png"
+    },
+    {
+      "label": "Code",
+      "tooltip": "Copiar Plus Code",
+      "text": "7F9F+CM Centro, Fortaleza - CE",
+      "icon": "https://maps.gstatic.com/mapfiles/maps_lite/images/2x/ic_plus_code.png"
+    },
+    {
+      "label": "send-to-device",
+      "text": "Enviar para smartphone",
+      "icon": "https://maps.gstatic.com/consumer/images/icons/1x/send_to_mobile_alt_gm_blue_24dp.png"
+    }
+  ],
+  "ratingInformation": {
+    "basicRatingInformation": {
+      "averageGrade": 4,
+      "totalOfEvaluations": 7661
+    },
+    "ratingsByGrade": [
+      {
+        "grade": 5,
+        "totalRatings": 3931
+      },
+      {
+        "grade": 4,
+        "totalRatings": 1396
+      },
+      {
+        "grade": 3,
+        "totalRatings": 1415
+      },
+      {
+        "grade": 2,
+        "totalRatings": 493
+      },
+      {
+        "grade": 1,
+        "totalRatings": 426
+      }
+    ]
+  },
+  "ratingTags": [
+    {
+      "tag": "segurança",
+      "count": 179,
+      "tooltip": "segurança, mencionado em 179 avaliações"
+    },
+    {
+      "tag": "ser",
+      "count": 104,
+      "tooltip": "ser, mencionado em 104 avaliações"
+    },
+    {
+      "tag": "histórico",
+      "count": 90,
+      "tooltip": "histórico, mencionado em 90 avaliações"
+    },
+    {
+      "tag": "praça",
+      "count": 66,
+      "tooltip": "praça, mencionado em 66 avaliações"
+    },
+    {
+      "tag": "reforma",
+      "count": 65,
+      "tooltip": "reforma, mencionado em 65 avaliações"
+    },
+    {
+      "tag": "poder público",
+      "count": 43,
+      "tooltip": "poder público, mencionado em 43 avaliações"
+    },
+    {
+      "tag": "legal",
+      "count": 32,
+      "tooltip": "legal, mencionado em 32 avaliações"
+    },
+    {
+      "tag": "sujeira",
+      "count": 18,
+      "tooltip": "sujeira, mencionado em 18 avaliações"
+    },
+    {
+      "tag": "patrimônio",
+      "count": 10,
+      "tooltip": "patrimônio, mencionado em 10 avaliações"
+    },
+    {
+      "tag": "nostálgico",
+      "count": 8,
+      "tooltip": "nostálgico, mencionado em 8 avaliações"
+    }
+  ],
+  "featuredPhotos": [
+    "https://lh5.googleusercontent.com/p/AF1QipOgOFjJs6CXCtAg2XCfsNY8k68aOuEymHc5uJal=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNYdUSLh5yVWChxniWTwRsKIyGPuH4N8TEY1eEg=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNHpSQjQwqZXri13E3ETJxxcQi18LvHLRg6OqQi=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNiRUOSCEuRcBXu2-YsbTp15pQodE7TTeaNwbIm=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipM-xg-eZD42N6e0r3swW5PWNUXRrfgfzGe2a4BR=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNCqxzD5WiBAFa8HM78EfeRZ6PjcDxBu4b0946H=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipP_sSZ9mazXDnheC__sZ_YKXzyelKIde6JyDc3V=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMVL-7vEbY_tNFvrka5CxXU_mZ4CYG6nM-QK5sd=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNX6JjMJd_xAMM3e2k1DpaUxBmAvmNd89xmm3Zx=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPq9_Bj9IPQ8QFr7DqGl9U9vewHDDb-BtgXQsKI=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOWnquCmnsRVSTSF4aXhkwF-ldx7QYuYto2Wwqz=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOCo2B693FlKdTRRJYBE_Qy7jXkDr8cfO1e9E1Q=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipO9ETW1fW1wolEK0f0QB1YtlxsvBQlIZnEW_4ON=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipN-tTQ7eYr0BHC96etDD_ZNbMZ9MZ1FScXg1SQC=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMQabfcAYhaBAMr1GI2Iw90FY6hABaeIvFDyXOr=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMXmZSRQChlApUghEFVVUwpLnY-5ViWXdaM5X3Z=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOqu_seWJk6Mw3A5IoSdMpzY-pKr9L6kyE48OFt=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMAoWDApPi1eNYRrxfpxzNDp9xhXVGROEfRqssD=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOk-6XAbDDvyJl4jbzMf1z6JND4cuJEs9MmaKYW=w1024-h576-k-no"
+  ],
+  "topComments": [
+    {
+      "author": "Pedro Possidonio",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucrW9k_FnHDUccvHcTdfoYmJkH0pK_WoyX2sEUwhLKs=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "Patrimônio histórico da cidade, um lugar lindo, agradável, ficou muito bom após a reforma. Tem agora um circuito de ilhas pedagógicas com vários brinquedos espalhados pelo parque. Bom para fotos, caminhada, descanso, pique nique, e principalmente para levar as crianças.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Rosalia Rodrigues",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucpNfddqzqAlclH_GdwIJbCV7pCNzq4dr66Td9gXcfk=w36-h36-p-c0x00000000-rp-mo-ba5-br100",
+      "comment": "Reinaugurado este ano de 2022, ficou uma estrutura muito boa; com espaços que valorizam as diversas inteligências, onde as crianças podem ser estimuladas. Há  um bom espaço e apoio ao projeto \" bicicletar\" .Td está  muito limpo e bonito. Esperamos q haja manutenção, segurança e atividades p q o espaço seja sempre  utilizado  pelos fortalezenses e turistas.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Renato CB250F",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucpSWenAAz1T5C5j3N4rgcu1bX-1W5bBcT9_yjCzBw=w36-h36-p-c0x00000000-rp-mo-ba3-br100",
+      "comment": "Parabenizo a prefeitura de Fortaleza pela reforma! Esse lugar precisa sempre revitalizado, hoje é uma boa pedida para trazer a família e fazer um pic-nic ao ar livre. Quando tiverem um tempinho, visitem o parque.",
+      "gradeComment": 5
+    },
+    {
+      "author": "livia santos",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucoSjMcfOVgxbV9h4-yMV4LR8uKqx2FP8tz_Lvb-9A=w36-h36-p-c0x00000000-rp-mo-ba2-br100",
+      "comment": "Muito limpo , ambiente muito agradável ótimo para crianças brincar sem medo , sem falar da segurança né",
+      "gradeComment": 5
+    },
+    {
+      "author": "Adriana Pereira",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucqqntFWGpOIvGJgKKJjnLz_b_tqnOJYCRNsK6DXx_g=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "Está ótimo pra levar as crianças! E com AMC dando apoio aos ciclistas está melhor ainda!!",
+      "gradeComment": 5
+    },
+    {
+      "author": "Marcos Costa",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucq9wPDhdrvM-F-ok_d3jAx8cQdpKFSi43ndNnoP=w36-h36-p-c0x00000000-rp-mo-br100",
+      "comment": "Excelente trabalho de restauração e espero que a conservação seja igualmente excelente e contínua. A sensação de segurança não  é  tão boa assim.",
+      "gradeComment": 5
+    },
+    {
+      "author": "ana silva",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZuco0WCgASns1uTlTlcMxIynrpy4kwZwEYeW-QxXR=w36-h36-p-c0x00000000-rp-mo-ba3-br100",
+      "comment": "A minha cidade que sempre sonhei em ter. O parquinho tá um sonho.❤️",
+      "gradeComment": 5
+    },
+    {
+      "author": "Raimundo de Brito Nobre",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucqm73v1ad7r2C8XZMyVIWHfXpiQMgGyIZWwEdAXkg=w36-h36-p-c0x00000000-rp-mo-ba3-br100",
+      "comment": "Tudo muito lindo, prestigiando meu sobrinho Yuri Nobre arquiteto que fez projeto de revitalização.",
+      "gradeComment": 5
+    },
+    {
+      "author": "naganocs",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucqAZ7MbtQYIvgK4WEqx-kn80uBrsh0KAu2H7qi96A=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "Já achava um lugar lindo antes da revitalização, agora está ainda melhor. Vamos preservar!",
+      "gradeComment": 5
+    },
+    {
+      "author": "Soul Reaver",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucqERJJjPwEwHnzsPvVJlhaomL2HNq_dYeotZxqTwu8=w36-h36-p-c0x00000000-rp-mo-ba3-br100",
+      "comment": "Neste momento o parque encontrasse em reforma. O parque vai ter grandes melhorias além de ter uma estação de metrô dentro do parque.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Ayla Costa",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucqqJLXRMugLl2JkxL3VQW4A15ewzRKA5mR7yaPB=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "Ficou lindo o parque, pode estacionar dentro pelo menos aos domingos. Ótima opção pra levar crianças.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Francisca Alveni dos Santos",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucrXQehmmjtwCe2kUr7HCe5DkowfYIxGKeYZWQdbpH8=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "Lugar agradável, tudo pintado, limpo, com a Guarda Municipal circulando, algumas mudanças na dinâmica do parque, mas a água está muito escura, espero que logo volte a ficar limpa, senti falta dos patinhos, gansos e outras aves que tanto apreciei e fotografei no passado. É um lugar pra apreciar um fim de tarde...",
+      "gradeComment": 4
+    },
+    {
+      "author": "Everson Sales",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucoaRrs1lpJcIq2I3VITxZ_RdsGhxFlbnvz1JB3Xsdk=w36-h36-p-c0x00000000-rp-mo-ba6-br100",
+      "comment": "O parque é lindo demais!!! Tem uma história grande e faz parte da trajetória de Fortaleza. Aqui, se tem placas indicando e relatando um pouco da história de cada monumento, entre eles; estátua do cupido, tipo um pier, que era usado nos tempos antigos para passeio de barco, etc. Muito bacana, espero que valorizem este lugar, pois vale a pena.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Italo Siqueira Lima",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucoeE-0PrJpS_0mjxC2thi-cc9lGm-St0HmfXjTbDg=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "Área bem arborizada que conta com equipamentos de lazer para crianças pequenas. As maiores podem desfrutar melhor com colegas em bicicletas para aproveitar a extensa área.  O acesso é fácil, há vagas de estacionamento no local mas são limitadas. Há estacionamentos particulares no entorno.  Às vezes há uma programação cultural aos finais de semana, então é bom consultar junto à SECULT ou jornais locais.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Asdobildo Lapioca",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucoMoFWKe_wNBijEkoTscVSa9CT2AErWwW7cVaVr3g=w36-h36-p-c0x00000000-rp-mo-ba6-br100",
+      "comment": "Depois da reforma, ficou bonito e agradável.",
+      "gradeComment": 5
+    },
+    {
+      "author": "José Assuero",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucpgd0rGX1IE4LSpqot1dFsbjD9ihiCVFfg1CenbOEE=w36-h36-p-c0x00000000-rp-mo-ba3-br100",
+      "comment": "Lindo lugar para curtir com a família.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Mirianny Almeida",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucqVGOZJc-nCBNJT3mSy5M_eKCXIN5zuh5pIVYleviw=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "Achei insegura para ir com criança. Bastante morador de rua. Com isso fiquei um pouco assustada para ir com meu filho. Os brinquedos são bacanas. E o local é bonito mas precisa de mais cuidado e limpeza.",
+      "gradeComment": 4
+    },
+    {
+      "author": "Daianny Paula",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucrg6jayVGNPR2QN0CGt3Jk55Bm5lgmmDhuy9XrLIA=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "Está lindo ,limpo e organizado e depois da reforma está ainda melhor pra levar as crianças pra brincar.O obra está quase pronta!",
+      "gradeComment": 3
+    },
+    {
+      "author": "Adina",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucqP2iacZtdlGdn-aUMWHwS-KdbxheR2EZm51PicFRk=w36-h36-p-c0x00000000-rp-mo-ba3-br100",
+      "comment": "Lindo ambiente para relaxar. Quem ama admirar a paisagem e gosta de tirar umas fotos. Tem espaço também pra crianças brincarem. Ficou lindo depois da reforma.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Hertz Nogueira",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucrdBGFPFab6VphdOfWmxJU6hByc_KG2R9FwKzqX=w36-h36-p-c0x00000000-rp-mo-ba3-br100",
+      "comment": "Poucas opções de atrativos e falta de uma infra!",
+      "gradeComment": 3
+    }
+  ],
+  "peakHours": [
+    {
+      "Sunday": [
+        {
+          "hour": "04:00",
+          "percent": 1
+        },
+        {
+          "hour": "05:00",
+          "percent": 2
+        },
+        {
+          "hour": "06:00",
+          "percent": 7
+        },
+        {
+          "hour": "07:00",
+          "percent": 13
+        },
+        {
+          "hour": "08:00",
+          "percent": 18
+        },
+        {
+          "hour": "09:00",
+          "percent": 21
+        },
+        {
+          "hour": "10:00",
+          "percent": 19
+        },
+        {
+          "hour": "11:00",
+          "percent": 14
+        },
+        {
+          "hour": "12:00",
+          "percent": 8
+        },
+        {
+          "hour": "13:00",
+          "percent": 4
+        },
+        {
+          "hour": "14:00",
+          "percent": 4
+        },
+        {
+          "hour": "15:00",
+          "percent": 7
+        },
+        {
+          "hour": "16:00",
+          "percent": 10
+        },
+        {
+          "hour": "17:00",
+          "percent": 12
+        },
+        {
+          "hour": "18:00",
+          "percent": 10
+        },
+        {
+          "hour": "19:00",
+          "percent": 7
+        },
+        {
+          "hour": "20:00",
+          "percent": 2
+        },
+        {
+          "hour": "21:00",
+          "percent": 1
+        },
+        {
+          "hour": "22:00",
+          "percent": 1
+        },
+        {
+          "hour": "23:00",
+          "percent": 1
+        },
+        {
+          "hour": "00:00",
+          "percent": 1
+        },
+        {
+          "hour": "01:00",
+          "percent": 1
+        },
+        {
+          "hour": "02:00",
+          "percent": 1
+        },
+        {
+          "hour": "03:00",
+          "percent": 1
+        }
+      ]
+    },
+    {
+      "Monday": [
+        {
+          "hour": "05:00",
+          "percent": 2
+        },
+        {
+          "hour": "06:00",
+          "percent": 6
+        },
+        {
+          "hour": "07:00",
+          "percent": 11
+        },
+        {
+          "hour": "08:00",
+          "percent": 19
+        },
+        {
+          "hour": "09:00",
+          "percent": 27
+        },
+        {
+          "hour": "10:00",
+          "percent": 35
+        },
+        {
+          "hour": "11:00",
+          "percent": 42
+        },
+        {
+          "hour": "12:00",
+          "percent": 46
+        },
+        {
+          "hour": "13:00",
+          "percent": 45
+        },
+        {
+          "hour": "14:00",
+          "percent": 43
+        },
+        {
+          "hour": "15:00",
+          "percent": 51
+        },
+        {
+          "hour": "16:00",
+          "percent": 81
+        },
+        {
+          "hour": "17:00",
+          "percent": 95
+        },
+        {
+          "hour": "18:00",
+          "percent": 58
+        },
+        {
+          "hour": "19:00",
+          "percent": 19
+        },
+        {
+          "hour": "20:00",
+          "percent": 4
+        },
+        {
+          "hour": "21:00",
+          "percent": 1
+        },
+        {
+          "hour": "23:00",
+          "percent": 1
+        },
+        {
+          "hour": "00:00",
+          "percent": 1
+        },
+        {
+          "hour": "01:00",
+          "percent": 1
+        },
+        {
+          "hour": "02:00",
+          "percent": 1
+        },
+        {
+          "hour": "03:00",
+          "percent": 1
+        }
+      ]
+    },
+    {
+      "Tuesday": [
+        {
+          "hour": "04:00",
+          "percent": 1
+        },
+        {
+          "hour": "05:00",
+          "percent": 3
+        },
+        {
+          "hour": "06:00",
+          "percent": 6
+        },
+        {
+          "hour": "07:00",
+          "percent": 12
+        },
+        {
+          "hour": "08:00",
+          "percent": 19
+        },
+        {
+          "hour": "09:00",
+          "percent": 28
+        },
+        {
+          "hour": "10:00",
+          "percent": 37
+        },
+        {
+          "hour": "11:00",
+          "percent": 45
+        },
+        {
+          "hour": "12:00",
+          "percent": 50
+        },
+        {
+          "hour": "13:00",
+          "percent": 51
+        },
+        {
+          "hour": "14:00",
+          "percent": 49
+        },
+        {
+          "hour": "15:00",
+          "percent": 57
+        },
+        {
+          "hour": "16:00",
+          "percent": 88
+        },
+        {
+          "hour": "17:00",
+          "percent": 100
+        },
+        {
+          "hour": "18:00",
+          "percent": 59
+        },
+        {
+          "hour": "19:00",
+          "percent": 19
+        },
+        {
+          "hour": "20:00",
+          "percent": 5
+        },
+        {
+          "hour": "21:00",
+          "percent": 1
+        },
+        {
+          "hour": "23:00",
+          "percent": 1
+        },
+        {
+          "hour": "00:00",
+          "percent": 1
+        },
+        {
+          "hour": "01:00",
+          "percent": 1
+        },
+        {
+          "hour": "02:00",
+          "percent": 1
+        }
+      ]
+    },
+    {
+      "Wednesday": [
+        {
+          "hour": "04:00",
+          "percent": 1
+        },
+        {
+          "hour": "05:00",
+          "percent": 3
+        },
+        {
+          "hour": "06:00",
+          "percent": 7
+        },
+        {
+          "hour": "07:00",
+          "percent": 14
+        },
+        {
+          "hour": "08:00",
+          "percent": 22
+        },
+        {
+          "hour": "09:00",
+          "percent": 33
+        },
+        {
+          "hour": "10:00",
+          "percent": 42
+        },
+        {
+          "hour": "11:00",
+          "percent": 49
+        },
+        {
+          "hour": "12:00",
+          "percent": 51
+        },
+        {
+          "hour": "13:00",
+          "percent": 51
+        },
+        {
+          "hour": "14:00",
+          "percent": 53
+        },
+        {
+          "hour": "15:00",
+          "percent": 63
+        },
+        {
+          "hour": "16:00",
+          "percent": 75
+        },
+        {
+          "hour": "17:00",
+          "percent": 75
+        },
+        {
+          "hour": "18:00",
+          "percent": 56
+        },
+        {
+          "hour": "19:00",
+          "percent": 31
+        },
+        {
+          "hour": "20:00",
+          "percent": 12
+        },
+        {
+          "hour": "21:00",
+          "percent": 3
+        }
+      ]
+    },
+    {
+      "Thursday": [
+        {
+          "hour": "05:00",
+          "percent": 2
+        },
+        {
+          "hour": "06:00",
+          "percent": 6
+        },
+        {
+          "hour": "07:00",
+          "percent": 11
+        },
+        {
+          "hour": "08:00",
+          "percent": 19
+        },
+        {
+          "hour": "09:00",
+          "percent": 27
+        },
+        {
+          "hour": "10:00",
+          "percent": 36
+        },
+        {
+          "hour": "11:00",
+          "percent": 43
+        },
+        {
+          "hour": "12:00",
+          "percent": 47
+        },
+        {
+          "hour": "13:00",
+          "percent": 46
+        },
+        {
+          "hour": "14:00",
+          "percent": 45
+        },
+        {
+          "hour": "15:00",
+          "percent": 54
+        },
+        {
+          "hour": "16:00",
+          "percent": 81
+        },
+        {
+          "hour": "17:00",
+          "percent": 91
+        },
+        {
+          "hour": "18:00",
+          "percent": 57
+        },
+        {
+          "hour": "19:00",
+          "percent": 19
+        },
+        {
+          "hour": "20:00",
+          "percent": 4
+        },
+        {
+          "hour": "22:00",
+          "percent": 1
+        },
+        {
+          "hour": "23:00",
+          "percent": 1
+        },
+        {
+          "hour": "00:00",
+          "percent": 1
+        },
+        {
+          "hour": "01:00",
+          "percent": 1
+        },
+        {
+          "hour": "02:00",
+          "percent": 1
+        },
+        {
+          "hour": "03:00",
+          "percent": 1
+        }
+      ]
+    },
+    {
+      "Friday": [
+        {
+          "hour": "05:00",
+          "percent": 2
+        },
+        {
+          "hour": "06:00",
+          "percent": 5
+        },
+        {
+          "hour": "07:00",
+          "percent": 11
+        },
+        {
+          "hour": "08:00",
+          "percent": 19
+        },
+        {
+          "hour": "09:00",
+          "percent": 29
+        },
+        {
+          "hour": "10:00",
+          "percent": 38
+        },
+        {
+          "hour": "11:00",
+          "percent": 45
+        },
+        {
+          "hour": "12:00",
+          "percent": 47
+        },
+        {
+          "hour": "13:00",
+          "percent": 47
+        },
+        {
+          "hour": "14:00",
+          "percent": 49
+        },
+        {
+          "hour": "15:00",
+          "percent": 60
+        },
+        {
+          "hour": "16:00",
+          "percent": 75
+        },
+        {
+          "hour": "17:00",
+          "percent": 75
+        },
+        {
+          "hour": "18:00",
+          "percent": 54
+        },
+        {
+          "hour": "20:00",
+          "percent": 8
+        },
+        {
+          "hour": "22:00",
+          "percent": 1
+        },
+        {
+          "hour": "23:00",
+          "percent": 1
+        },
+        {
+          "hour": "00:00",
+          "percent": 1
+        },
+        {
+          "hour": "01:00",
+          "percent": 1
+        },
+        {
+          "hour": "02:00",
+          "percent": 1
+        },
+        {
+          "hour": "03:00",
+          "percent": 1
+        }
+      ]
+    },
+    {
+      "Saturday": [
+        {
+          "hour": "05:00",
+          "percent": 2
+        },
+        {
+          "hour": "06:00",
+          "percent": 6
+        },
+        {
+          "hour": "07:00",
+          "percent": 12
+        },
+        {
+          "hour": "08:00",
+          "percent": 22
+        },
+        {
+          "hour": "09:00",
+          "percent": 35
+        },
+        {
+          "hour": "10:00",
+          "percent": 50
+        },
+        {
+          "hour": "11:00",
+          "percent": 64
+        },
+        {
+          "hour": "12:00",
+          "percent": 74
+        },
+        {
+          "hour": "13:00",
+          "percent": 76
+        },
+        {
+          "hour": "14:00",
+          "percent": 71
+        },
+        {
+          "hour": "15:00",
+          "percent": 59
+        },
+        {
+          "hour": "16:00",
+          "percent": 45
+        },
+        {
+          "hour": "17:00",
+          "percent": 31
+        },
+        {
+          "hour": "18:00",
+          "percent": 19
+        },
+        {
+          "hour": "19:00",
+          "percent": 11
+        },
+        {
+          "hour": "20:00",
+          "percent": 6
+        },
+        {
+          "hour": "21:00",
+          "percent": 3
+        },
+        {
+          "hour": "22:00",
+          "percent": 2
+        },
+        {
+          "hour": "01:00",
+          "percent": 1
+        },
+        {
+          "hour": "02:00",
+          "percent": 1
+        }
+      ]
+    }
+  ],
+  "relatedSearches": null,
+  "relateds": [
+    {
+      "mainName": "Santuário Sagrado Coração de Jesus",
+      "url": null
+    },
+    {
+      "mainName": "Praça dos Mártires",
+      "url": null
+    },
+    {
+      "mainName": "Parque Rachel de Queiroz",
+      "url": null
+    },
+    {
+      "mainName": "Praça dos Leões",
+      "url": null
+    },
+    {
+      "mainName": "Palácio do Bispo",
+      "url": null
+    },
+    {
+      "mainName": "Lord Hotel",
+      "url": null
+    },
+    {
+      "mainName": "Parque Adahil Barreto",
+      "url": null
+    },
+    {
+      "mainName": "Ponte dos Ingleses",
+      "url": null
+    },
+    {
+      "mainName": "João Felipe",
+      "url": null
+    },
+    {
+      "mainName": "Parque Rio Branco",
+      "url": null
+    },
+    {
+      "mainName": "Praça do Ferreira - Centro",
+      "url": null
+    },
+    {
+      "mainName": "Zoológico Municipal Sargento Prata",
+      "url": null
+    },
+    {
+      "mainName": "São Benedito",
+      "url": null
+    },
+    {
+      "mainName": "Fortaleza de Nossa Senhora da Assunção",
+      "url": null
+    },
+    {
+      "mainName": "Casa de José de Alencar",
+      "url": null
+    },
+    {
+      "mainName": "Mercado Cultural dos Pinhões",
+      "url": null
+    },
+    {
+      "mainName": "Casa do Barão de Camocim - Centro Cultural",
+      "url": null
+    },
+    {
+      "mainName": "Casa do Português",
+      "url": null
+    },
+    {
+      "mainName": "Museu do Ceará",
+      "url": null
+    },
+    {
+      "mainName": "Farol do Mucuripe",
+      "url": null
+    },
+    {
+      "mainName": "Estoril",
+      "url": null
+    },
+    {
+      "mainName": "Ponte do Ingleses",
+      "url": null
+    },
+    {
+      "mainName": "Mercado Central de Fortaleza",
+      "url": null
+    },
+    {
+      "mainName": "Cineteatro São Luiz",
+      "url": null
+    }
+  ],
+  "editMode": false
+}

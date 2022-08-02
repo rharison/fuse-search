@@ -1,0 +1,966 @@
+{
+  "mainName": "Varanda de Pilatos",
+  "slug": "varanda-de-pilatos",
+  "category": "Observatório",
+  "locationInformation": {
+    "latitude": "39.3621517",
+    "longitude": "-9.4073569"
+  },
+  "basicInformation": [
+    {
+      "label": "endereço",
+      "tooltip": "Copiar endereço",
+      "text": "Peniche, Portugal",
+      "icon": "https://www.gstatic.com/images/icons/material/system_gm/1x/place_gm_blue_24dp.png"
+    },
+    {
+      "label": "Code",
+      "tooltip": "Copiar Plus Code",
+      "text": "9H6V+V3 Peniche, Portugal",
+      "icon": "https://maps.gstatic.com/mapfiles/maps_lite/images/2x/ic_plus_code.png"
+    },
+    {
+      "label": "merchant",
+      "text": "Reivindicar esta empresa",
+      "icon": "https://www.gstatic.com/images/icons/material/system_gm/1x/verified_user_gm_blue_24dp.png"
+    }
+  ],
+  "ratingInformation": {
+    "basicRatingInformation": {
+      "averageGrade": 4.8,
+      "totalOfEvaluations": 149
+    },
+    "ratingsByGrade": [
+      {
+        "grade": 5,
+        "totalRatings": 116
+      },
+      {
+        "grade": 4,
+        "totalRatings": 30
+      },
+      {
+        "grade": 3,
+        "totalRatings": 3
+      },
+      {
+        "grade": 2,
+        "totalRatings": 0
+      },
+      {
+        "grade": 1,
+        "totalRatings": 0
+      }
+    ]
+  },
+  "ratingTags": [
+    {
+      "tag": "pôr do sol",
+      "count": 9,
+      "tooltip": "pôr do sol, mencionado em 9 avaliações"
+    },
+    {
+      "tag": "mar",
+      "count": 9,
+      "tooltip": "mar, mencionado em 9 avaliações"
+    },
+    {
+      "tag": "rochas",
+      "count": 5,
+      "tooltip": "rochas, mencionado em 5 avaliações"
+    },
+    {
+      "tag": "varanda",
+      "count": 4,
+      "tooltip": "varanda, mencionado em 4 avaliações"
+    },
+    {
+      "tag": "paisagem",
+      "count": 4,
+      "tooltip": "paisagem, mencionado em 4 avaliações"
+    },
+    {
+      "tag": "fotografias",
+      "count": 4,
+      "tooltip": "fotografias, mencionado em 4 avaliações"
+    },
+    {
+      "tag": "falésias",
+      "count": 3,
+      "tooltip": "falésias, mencionado em 3 avaliações"
+    }
+  ],
+  "featuredPhotos": [
+    "https://lh5.googleusercontent.com/p/AF1QipPPyo-rMw0tMOFQ68DLBIfdnvxPgZqtrExtDXdZ=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOEnci8mT3kl4OKvZMtrEnlXVkdT5k3ESz_HgtC=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOp9uqY_KqOqYZ2retdSAjNZmK7x2HP5uAWXs-K=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNK-ZBID-1_mcaZxh6RT5nnkM0FoamMECtXzqI2=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPGaASoBGrdRJ53EptOwQKiBEJGRTYXa-RspBEe=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNcosEJi9c6EpsUyUkrTwHdemzrnoLeogtTBabU=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNUf0Hq4lkOs8afW-xdY8LqqxuG-2IpuqHSWNVn=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNP32ncecwGqajw6uH7vEGbjYA6GVNjd3QCWOzY=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMfK27qlUky3szcdwsOKyYeAAHvAHzB5yDgf8No=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNjWwAvvpHIKMWg3xrs6lR8eqDvtlPmjeDYBiYs=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipN1NK5RdzMUy9Bjy2HdVrzfDxK0EmkG_cdvw_8c=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipN9Ujc0wrQMJYKYxgZuY9VR1K0JUWDA0D1wV-8F=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOhSHOUvBiQie0pHmPGACJG8Es4YqekhWWf5QXG=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOYA3wFL6eYKdByxJ5zxeVkh1hEdWd7IfwiBIuX=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMy1cIzN2W0bOgafRwlue8Cd89DVH1FVUWbT1pP=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMXwuZPKNMmfBq9CjDKK2aeIpupQUH7S3WRzjU1=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMHj5J4RRzv6_BSqI1xlsFy7G5T05p1f9HQAM0f=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMlbb5Myfol0ZXB-UCTJaJOD5GI2ZVfHeSf03wS=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOxw5BQOTamVRft_d1Z4s6_XKz39ECVpEPrqeva=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPc2i3WLhJpI11_SrtjEtpzuLn9uw4k_SVILDwd=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNBLRQreY_I5CeNxty4bM4_LZIiAr6kZauGc3w=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPemZslMnXJvA8swO5ub_Peg9M-oQTQWyGoWgLI=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPleWvAmq1rDyjpBVkWQ5vWhZg_1jHRD_giv3Q0=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipM92rRTG69ljKw0j4gzLzIHvcOWXZwoUNg7v2NO=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOmc2Mq2FDOFYanEB2DK2t7T99tvmXuERZ_84Fs=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipO4i7y-zVReT4Np7DxlNqvFtHa2EVuipQhEvEza=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMjIrTn7f9RSg93QBzgThs40hVzJ7NUx_-kI9F0=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipP_GgwyCWN1jCJQRkeDj4g-oZ6iu0PKszwVpHyB=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPFH0_IoHEbJse1KvgFTRq48xzzmlzp4T9pJzOf=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipP90Sw7CnAX6MBLn5MDebkJvp5wrvcrwN-Ewd84=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNDsrKzjtfuj1dlcbDkJPsnmvjpjU-pFtFsyySj=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNNFVAf-bvvcX92QKYI_0QPu4HZTDIckz8uPbXm=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOfoctTwcWga_-NTLZaQZyaFFDzIXoO6xte5m4L=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNiNRUYyoTS1QQt99dB_85TmsmOBV9VdMRxjDkP=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNE9r4Eo_MRZzMwW_PVl46LifURQfrBIN7eSKPJ=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMr-xjW8Fv04v_nLM1GrtM2t0PtjiKpGRTz3uHC=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOVOKv_eLw1skEWmla9l9866iX6ER7iVKwIVEkH=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPOmF7CsAu6CmNRCesaPd_DuvIaRYgOc2Rq6QE=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNSpFonXVjI5qvDWTsIxaDnd76HSx3LSo3V6RDt=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOaIVfxIrSY_NYCqkS_myMia0ac5t6Xrwd8dYGG=w1024-h576-k-no"
+  ],
+  "topComments": [
+    {
+      "author": "Paula Neto",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucpszTeYjGo5LrtL2Jdj20KGyeWomB3lOcodSmLMdA=w36-h36-p-c0x00000000-rp-mo-ba3-br100",
+      "comment": "Vale a pena visitar, é um local muito agradável.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Isabel Neves",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucpzvrIQl3QIHOv-Ca01pZupdvzGjKpDLHhQtH7qSQ=w36-h36-p-c0x00000000-rp-mo-ba3-br100",
+      "comment": "Aqui pode desfrutar de uma vista privilegiada sobre o mar e os rochedos, e também pode aqui avistar as Berlengas.  \"Nos calcários contíguos à Varanda de Pilatos, é possível encontrar fósseis de Crinóides (“estrelinhas”). A descida à Varanda de Pilatos permite compreender a importância dos fenómenos de dissolução associados às formações carbonatadas. Refira-se que estes campos de lapiás litorais (rede mais ou menos densa e profunda de sulcos) são quase únicos no nosso país.\"",
+      "gradeComment": 4
+    },
+    {
+      "author": "Rúben Ribeiro",
+      "photoAuthor": "https://lh3.googleusercontent.com/a/AItbvml-AYqre-FpMEZ_WXXTXzJv0zp7oVnIOqJt-l7Xsw=w36-h36-p-c0x00000000-rp-mo-ba3-br100",
+      "comment": "Simplesmente lindo, parece uma ilhota.",
+      "gradeComment": 4
+    },
+    {
+      "author": "Fabricia Hamad",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucr8WlqIbWS_GK2EJCA4ULaNzXU066iFry29LCuHXB4=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "Muito lindo o lugar, infelizmente as pessoas usam com banheiro 😢",
+      "gradeComment": 4
+    },
+    {
+      "author": "Cláudio Silva",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucp_YLtZYoxNk-mAOwDqXf3ux9DeOcFlDSjnYK_irA=w36-h36-p-c0x00000000-rp-mo-ba5-br100",
+      "comment": "Escondida no chão e no meio das rochas, uma local muito romântico para ver o pôr do sol",
+      "gradeComment": 5
+    },
+    {
+      "author": "Mirelly Helmbrecht",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucqMjWwH8KA277W05hHKhpSHxEOrympSPuwtzyQODP0=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "O por do sol mais incrível que já vi!",
+      "gradeComment": 5
+    },
+    {
+      "author": "Aline Pacheco",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucpGC4dsbqzO9dJRcPWK-6wiZ3X3I_f22B0x42ET=w36-h36-p-c0x00000000-rp-mo-ba3-br100",
+      "comment": "Local espetacular para vislumbrar a beleza do mar. É preciso descer umas escadinhas para ter acesso à varanda.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Hugo Sandra Fernandes",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucp5Q9lpLcthqilcD3Q8UlKLCb65BsDuAQbsTUC_zQ=w36-h36-p-c0x00000000-rp-mo-ba5-br100",
+      "comment": "Local lindo , vão pela marginal norte fica um pouco antes de chegar ao farol olham para a vossa direita e vão ver uma tabuleta a dizer varanda de Pilatos . Parem e vão visitar vale a pena . Não podem lá ir com o mar bravo , embora esteja muito alto em relação ao mar , quando o mar está bravo chega cá acima . Também tem de seguir os carreiros pois á buracos que são perigosos , muito cuidado com as crianças pequenas .",
+      "gradeComment": 5
+    },
+    {
+      "author": "jie jin",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucq2JWPtHw5vSZsMr-oydFFeMM7QQut9S3jm1eYNKSg=w36-h36-p-c0x00000000-rp-mo-ba5-br100",
+      "comment": "lá em baixo cheira urina",
+      "gradeComment": 4
+    },
+    {
+      "author": "joao gomes campos",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucrbTDYTmyBivPemBQQJtVPG5GcVEPRfgHlT2Zbq=w36-h36-p-c0x00000000-rp-mo-ba7-br100",
+      "comment": "Lugar emblemático dos Geossítios da Península de Peniche. É impossível ficar indiferente a está paisagem extraordinária criada pelo poder lento mas constante dos elementos no processo erosivo, estas paisagens carsicas  litorais  onde é possível ver registos fossilizados de crinoides que habitavam estes litorais. Admirar a Nau dos Corvos com a sua ligeira inclinação resultado imaginário do poder de uma vaga mais forte que lhe retira o equilíbrio, em dias de horizontes límpidos ao entardecer admirar as silhuetas das ilhas Berlengas em telas multicolores de tons quentes nos longos dias de verão ou entre as brumas fantasmagóricas e marés agitados dos dias mais sombrios de impiedosas tormentas.",
+      "gradeComment": 5
+    },
+    {
+      "author": "António Correia",
+      "photoAuthor": "https://lh3.googleusercontent.com/a/AItbvmkBr0nFTmEmRFDg5T1Y0EpbWwpvE5nJ-4RgSvT6=w36-h36-p-c0x00000000-rp-mo-ba5-br100",
+      "comment": "Local fantástico e de características muito peculiares. Desde o seu acesso, através das íngremes escadas, ao próprio local, que é uma verdadeira varanda natural, este é um excelente ponto de observação \"vertiginosa\" para o mar. De visita naturalmente recomendada.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Flavio Correia",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucqMeDA00r4ltH3a_QVxM-lt4JVCU1ETmTxGtxEP=w36-h36-p-c0x00000000-rp-mo-br100",
+      "comment": "Óptima casa de banho pública, porém muito a desejar de asseio",
+      "gradeComment": 3
+    },
+    {
+      "author": "Paula Neves",
+      "photoAuthor": "https://lh3.googleusercontent.com/a/AItbvmmFQWgmm29oSLaR-ti2OdelY65Gcdv4cjLAnq8i=w36-h36-p-c0x00000000-rp-mo-ba3-br100",
+      "comment": "Adorei.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Paulo Almeida",
+      "photoAuthor": "https://lh3.googleusercontent.com/a/AItbvmlMZlRlY2SBl3KNvHsVUQsrqfq2W5oKuO9UfsI-=w36-h36-p-c0x00000000-rp-mo-ba5-br100",
+      "comment": "Local simples, mas de uma beleza fabulosa, sobretudo para um pôr do sol",
+      "gradeComment": 5
+    },
+    {
+      "author": "Susana Moleiro (Kasa Lovers)",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucqg2dO5xNT_6cgQfhJhkYFokFb9WlAUILE2lFuNkg=w36-h36-p-c0x00000000-rp-mo-ba3-br100",
+      "comment": "Miradouro incrível para um pôr do sol memorável.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Carlos Cordeiro",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucq_PpSM1DlDFUoiPKwragkXizYbR2nTg9j4hkkWfg=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "Bom para assistir ao pôr do sol",
+      "gradeComment": 5
+    },
+    {
+      "author": "Alex Struber",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucqCWsMNRMF31fd20ABJ6RYh-2utTE3XSFQv9KE=w36-h36-p-c0x00000000-rp-mo-br100",
+      "comment": "Muito lindo",
+      "gradeComment": 5
+    },
+    {
+      "author": "Antonio Manuel Abreu",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucpmWEq_eHVtsnAysuxYN_4Pj3F3J-hh8_8Us3dx1w=w36-h36-p-c0x00000000-rp-mo-ba2-br100",
+      "comment": "Tirando o vento, o que é normal, está se muito bem",
+      "gradeComment": 4
+    },
+    {
+      "author": "Fernando Luis",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucoGbVVsc-NHXrpmYhWbQ3tiJ5Urfu7SEIJntQ6wrA=w36-h36-p-c0x00000000-rp-mo-ba5-br100",
+      "comment": "É um sítio bom para tirar fotografias",
+      "gradeComment": 5
+    },
+    {
+      "author": "ANTÓNIO BATISTA",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucpXXUTnM7FD7SGhrx_sn6LRZf8c-aRJnp_cLJal1L4=w36-h36-p-c0x00000000-rp-mo-ba6-br100",
+      "comment": "Um lugar inesperado, na paisagem, bastante agradável e fora do vulgar.",
+      "gradeComment": 4
+    }
+  ],
+  "peakHours": [
+    {
+      "Sunday": [
+        {
+          "hour": "05:00",
+          "percent": 4
+        },
+        {
+          "hour": "06:00",
+          "percent": 4
+        },
+        {
+          "hour": "08:00",
+          "percent": 4
+        },
+        {
+          "hour": "09:00",
+          "percent": 9
+        },
+        {
+          "hour": "10:00",
+          "percent": 22
+        },
+        {
+          "hour": "11:00",
+          "percent": 36
+        },
+        {
+          "hour": "12:00",
+          "percent": 50
+        },
+        {
+          "hour": "13:00",
+          "percent": 59
+        },
+        {
+          "hour": "14:00",
+          "percent": 68
+        },
+        {
+          "hour": "15:00",
+          "percent": 72
+        },
+        {
+          "hour": "16:00",
+          "percent": 68
+        },
+        {
+          "hour": "17:00",
+          "percent": 59
+        },
+        {
+          "hour": "18:00",
+          "percent": 50
+        },
+        {
+          "hour": "19:00",
+          "percent": 36
+        },
+        {
+          "hour": "20:00",
+          "percent": 27
+        },
+        {
+          "hour": "21:00",
+          "percent": 22
+        },
+        {
+          "hour": "22:00",
+          "percent": 13
+        },
+        {
+          "hour": "23:00",
+          "percent": 9
+        },
+        {
+          "hour": "00:00",
+          "percent": 4
+        },
+        {
+          "hour": "01:00",
+          "percent": 4
+        },
+        {
+          "hour": "02:00",
+          "percent": 4
+        },
+        {
+          "hour": "03:00",
+          "percent": 4
+        }
+      ]
+    },
+    {
+      "Monday": [
+        {
+          "hour": "04:00",
+          "percent": 4
+        },
+        {
+          "hour": "05:00",
+          "percent": 4
+        },
+        {
+          "hour": "06:00",
+          "percent": 4
+        },
+        {
+          "hour": "07:00",
+          "percent": 4
+        },
+        {
+          "hour": "08:00",
+          "percent": 4
+        },
+        {
+          "hour": "11:00",
+          "percent": 9
+        },
+        {
+          "hour": "12:00",
+          "percent": 13
+        },
+        {
+          "hour": "13:00",
+          "percent": 18
+        },
+        {
+          "hour": "14:00",
+          "percent": 22
+        },
+        {
+          "hour": "15:00",
+          "percent": 31
+        },
+        {
+          "hour": "16:00",
+          "percent": 31
+        },
+        {
+          "hour": "17:00",
+          "percent": 36
+        },
+        {
+          "hour": "18:00",
+          "percent": 31
+        },
+        {
+          "hour": "19:00",
+          "percent": 27
+        },
+        {
+          "hour": "20:00",
+          "percent": 22
+        },
+        {
+          "hour": "21:00",
+          "percent": 18
+        },
+        {
+          "hour": "22:00",
+          "percent": 13
+        },
+        {
+          "hour": "23:00",
+          "percent": 9
+        },
+        {
+          "hour": "00:00",
+          "percent": 4
+        },
+        {
+          "hour": "01:00",
+          "percent": 4
+        },
+        {
+          "hour": "02:00",
+          "percent": 4
+        },
+        {
+          "hour": "03:00",
+          "percent": 4
+        }
+      ]
+    },
+    {
+      "Tuesday": [
+        {
+          "hour": "04:00",
+          "percent": 4
+        },
+        {
+          "hour": "05:00",
+          "percent": 4
+        },
+        {
+          "hour": "06:00",
+          "percent": 4
+        },
+        {
+          "hour": "07:00",
+          "percent": 4
+        },
+        {
+          "hour": "08:00",
+          "percent": 4
+        },
+        {
+          "hour": "09:00",
+          "percent": 9
+        },
+        {
+          "hour": "10:00",
+          "percent": 13
+        },
+        {
+          "hour": "11:00",
+          "percent": 22
+        },
+        {
+          "hour": "12:00",
+          "percent": 31
+        },
+        {
+          "hour": "13:00",
+          "percent": 40
+        },
+        {
+          "hour": "14:00",
+          "percent": 45
+        },
+        {
+          "hour": "15:00",
+          "percent": 45
+        },
+        {
+          "hour": "16:00",
+          "percent": 36
+        },
+        {
+          "hour": "17:00",
+          "percent": 27
+        },
+        {
+          "hour": "18:00",
+          "percent": 18
+        },
+        {
+          "hour": "19:00",
+          "percent": 13
+        },
+        {
+          "hour": "20:00",
+          "percent": 22
+        },
+        {
+          "hour": "21:00",
+          "percent": 40
+        },
+        {
+          "hour": "22:00",
+          "percent": 18
+        },
+        {
+          "hour": "23:00",
+          "percent": 4
+        },
+        {
+          "hour": "00:00",
+          "percent": 4
+        },
+        {
+          "hour": "01:00",
+          "percent": 4
+        },
+        {
+          "hour": "02:00",
+          "percent": 4
+        },
+        {
+          "hour": "03:00",
+          "percent": 4
+        }
+      ]
+    },
+    {
+      "Wednesday": [
+        {
+          "hour": "04:00",
+          "percent": 9
+        },
+        {
+          "hour": "05:00",
+          "percent": 9
+        },
+        {
+          "hour": "06:00",
+          "percent": 4
+        },
+        {
+          "hour": "07:00",
+          "percent": 4
+        },
+        {
+          "hour": "08:00",
+          "percent": 4
+        },
+        {
+          "hour": "09:00",
+          "percent": 4
+        },
+        {
+          "hour": "10:00",
+          "percent": 9
+        },
+        {
+          "hour": "11:00",
+          "percent": 18
+        },
+        {
+          "hour": "12:00",
+          "percent": 27
+        },
+        {
+          "hour": "13:00",
+          "percent": 36
+        },
+        {
+          "hour": "14:00",
+          "percent": 40
+        },
+        {
+          "hour": "15:00",
+          "percent": 36
+        },
+        {
+          "hour": "16:00",
+          "percent": 27
+        },
+        {
+          "hour": "17:00",
+          "percent": 18
+        },
+        {
+          "hour": "18:00",
+          "percent": 9
+        },
+        {
+          "hour": "19:00",
+          "percent": 13
+        },
+        {
+          "hour": "20:00",
+          "percent": 59
+        },
+        {
+          "hour": "21:00",
+          "percent": 31
+        },
+        {
+          "hour": "22:00",
+          "percent": 9
+        },
+        {
+          "hour": "23:00",
+          "percent": 9
+        },
+        {
+          "hour": "00:00",
+          "percent": 9
+        },
+        {
+          "hour": "01:00",
+          "percent": 9
+        },
+        {
+          "hour": "02:00",
+          "percent": 9
+        },
+        {
+          "hour": "03:00",
+          "percent": 9
+        }
+      ]
+    },
+    {
+      "Thursday": [
+        {
+          "hour": "04:00",
+          "percent": 9
+        },
+        {
+          "hour": "05:00",
+          "percent": 9
+        },
+        {
+          "hour": "06:00",
+          "percent": 9
+        },
+        {
+          "hour": "07:00",
+          "percent": 4
+        },
+        {
+          "hour": "10:00",
+          "percent": 27
+        },
+        {
+          "hour": "11:00",
+          "percent": 63
+        },
+        {
+          "hour": "12:00",
+          "percent": 9
+        },
+        {
+          "hour": "13:00",
+          "percent": 4
+        },
+        {
+          "hour": "14:00",
+          "percent": 4
+        },
+        {
+          "hour": "15:00",
+          "percent": 9
+        },
+        {
+          "hour": "16:00",
+          "percent": 18
+        },
+        {
+          "hour": "17:00",
+          "percent": 22
+        },
+        {
+          "hour": "18:00",
+          "percent": 27
+        },
+        {
+          "hour": "19:00",
+          "percent": 22
+        },
+        {
+          "hour": "20:00",
+          "percent": 18
+        },
+        {
+          "hour": "21:00",
+          "percent": 13
+        },
+        {
+          "hour": "22:00",
+          "percent": 4
+        },
+        {
+          "hour": "00:00",
+          "percent": 4
+        },
+        {
+          "hour": "01:00",
+          "percent": 4
+        },
+        {
+          "hour": "02:00",
+          "percent": 4
+        },
+        {
+          "hour": "03:00",
+          "percent": 4
+        }
+      ]
+    },
+    {
+      "Friday": [
+        {
+          "hour": "04:00",
+          "percent": 4
+        },
+        {
+          "hour": "05:00",
+          "percent": 4
+        },
+        {
+          "hour": "06:00",
+          "percent": 9
+        },
+        {
+          "hour": "07:00",
+          "percent": 4
+        },
+        {
+          "hour": "08:00",
+          "percent": 4
+        },
+        {
+          "hour": "10:00",
+          "percent": 4
+        },
+        {
+          "hour": "11:00",
+          "percent": 4
+        },
+        {
+          "hour": "12:00",
+          "percent": 13
+        },
+        {
+          "hour": "13:00",
+          "percent": 18
+        },
+        {
+          "hour": "14:00",
+          "percent": 22
+        },
+        {
+          "hour": "15:00",
+          "percent": 22
+        },
+        {
+          "hour": "16:00",
+          "percent": 18
+        },
+        {
+          "hour": "17:00",
+          "percent": 13
+        },
+        {
+          "hour": "18:00",
+          "percent": 13
+        },
+        {
+          "hour": "19:00",
+          "percent": 54
+        },
+        {
+          "hour": "20:00",
+          "percent": 100
+        },
+        {
+          "hour": "21:00",
+          "percent": 36
+        }
+      ]
+    },
+    {
+      "Saturday": [
+        {
+          "hour": "09:00",
+          "percent": 4
+        },
+        {
+          "hour": "10:00",
+          "percent": 18
+        },
+        {
+          "hour": "11:00",
+          "percent": 31
+        },
+        {
+          "hour": "12:00",
+          "percent": 45
+        },
+        {
+          "hour": "13:00",
+          "percent": 50
+        },
+        {
+          "hour": "14:00",
+          "percent": 40
+        },
+        {
+          "hour": "15:00",
+          "percent": 36
+        },
+        {
+          "hour": "16:00",
+          "percent": 59
+        },
+        {
+          "hour": "17:00",
+          "percent": 100
+        },
+        {
+          "hour": "18:00",
+          "percent": 95
+        },
+        {
+          "hour": "19:00",
+          "percent": 63
+        },
+        {
+          "hour": "20:00",
+          "percent": 45
+        },
+        {
+          "hour": "21:00",
+          "percent": 27
+        },
+        {
+          "hour": "22:00",
+          "percent": 9
+        },
+        {
+          "hour": "23:00",
+          "percent": 4
+        }
+      ]
+    }
+  ],
+  "relatedSearches": null,
+  "relateds": [
+    {
+      "mainName": "Ermida de Santa Cruz",
+      "url": null
+    },
+    {
+      "mainName": "Gruta da Furninha",
+      "url": null
+    },
+    {
+      "mainName": "Farol do Cabo Carvoeiro",
+      "url": null
+    },
+    {
+      "mainName": "Santuário de Nossa Senhora dos Remédios (Peniche)",
+      "url": null
+    },
+    {
+      "mainName": "Ilhéu da Papôa",
+      "url": null
+    },
+    {
+      "mainName": "Baleal Beach",
+      "url": null
+    },
+    {
+      "mainName": "Cabo Carvoeiro",
+      "url": null
+    },
+    {
+      "mainName": "Miradouro da Cruz dos Remédios",
+      "url": null
+    },
+    {
+      "mainName": "Prainha de São Pedro",
+      "url": null
+    },
+    {
+      "mainName": "Igreja da Santa Casa da Misericórdia de Peniche",
+      "url": null
+    },
+    {
+      "mainName": "Península de Peniche",
+      "url": null
+    },
+    {
+      "mainName": "Praia do Molhe Leste",
+      "url": null
+    },
+    {
+      "mainName": "Museu da Renda de Bilros de Peniche",
+      "url": null
+    },
+    {
+      "mainName": "Museu Nacional Resistência e Liberdade",
+      "url": null
+    },
+    {
+      "mainName": "À Rendilheira",
+      "url": null
+    },
+    {
+      "mainName": "Igreja de São Pedro (Peniche)",
+      "url": null
+    },
+    {
+      "mainName": "Praia da Consolação",
+      "url": null
+    },
+    {
+      "mainName": "Praia do Portinho da Areia Sul",
+      "url": null
+    },
+    {
+      "mainName": "Praia da Gambôa",
+      "url": null
+    },
+    {
+      "mainName": "Farol da Berlenga",
+      "url": null
+    },
+    {
+      "mainName": "Praia do Portinho da Areia do Norte",
+      "url": null
+    },
+    {
+      "mainName": "Ilheu da Papoa",
+      "url": null
+    },
+    {
+      "mainName": "Praia do Medão Grande",
+      "url": null
+    },
+    {
+      "mainName": "Igreja de Nossa Senhora da Ajuda (Peniche)",
+      "url": null
+    }
+  ]
+}

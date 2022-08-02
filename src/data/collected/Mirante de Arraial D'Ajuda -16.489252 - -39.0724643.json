@@ -1,0 +1,963 @@
+{
+  "mainName": "Mirante de Arraial D'Ajuda",
+  "slug": "mirante-de-arraial-d'ajuda",
+  "category": "Observatório",
+  "locationInformation": {
+    "latitude": "-16.489252",
+    "longitude": "-39.0724643"
+  },
+  "basicInformation": [
+    {
+      "label": "endereço",
+      "tooltip": "Copiar endereço",
+      "text": "Arraial d'Ajuda, Porto Seguro - BA, 45810-000",
+      "icon": "https://www.gstatic.com/images/icons/material/system_gm/1x/place_gm_blue_24dp.png"
+    },
+    {
+      "label": "website",
+      "tooltip": "Abrir website",
+      "text": "visitearraialdajuda.com",
+      "icon": "https://www.gstatic.com/images/icons/material/system_gm/1x/public_gm_blue_24dp.png"
+    },
+    {
+      "label": "telefone",
+      "tooltip": "Copiar número de telefone",
+      "text": "(73) 99972-7662",
+      "icon": "https://www.gstatic.com/images/icons/material/system_gm/1x/phone_gm_blue_24dp.png"
+    },
+    {
+      "label": "Code",
+      "tooltip": "Copiar Plus Code",
+      "text": "GW6H+72 Porto Seguro, Bahia",
+      "icon": "https://maps.gstatic.com/mapfiles/maps_lite/images/2x/ic_plus_code.png"
+    },
+    {
+      "label": "merchant",
+      "text": "Reivindicar esta empresa",
+      "icon": "https://www.gstatic.com/images/icons/material/system_gm/1x/verified_user_gm_blue_24dp.png"
+    }
+  ],
+  "ratingInformation": {
+    "basicRatingInformation": {
+      "averageGrade": 4.9,
+      "totalOfEvaluations": 300
+    },
+    "ratingsByGrade": [
+      {
+        "grade": 5,
+        "totalRatings": 260
+      },
+      {
+        "grade": 4,
+        "totalRatings": 36
+      },
+      {
+        "grade": 3,
+        "totalRatings": 3
+      },
+      {
+        "grade": 2,
+        "totalRatings": 0
+      },
+      {
+        "grade": 1,
+        "totalRatings": 1
+      }
+    ]
+  },
+  "ratingTags": null,
+  "featuredPhotos": [
+    "https://lh5.googleusercontent.com/p/AF1QipNzAqcpxFK-gNma-MUL4we1-fsuB-chJBGrqg9e=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipP9EXhPb805I2f18NDunFrGN5CiUpzxXw1F54aW=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMKukOqVc6lQZfedXAqXhKucmih7fCJxfll_BKU=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNiPVpKr0FTv2TTTXenZOBWYED9nch7kBW_a3R_=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOSucqTf7frJvLxaaTWo4KDBWmRKJ1NsGZA8PJn=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNBzOTNe9vGUlAB5Ud_5unlLslGTeT8W_7vkqj0=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOWjs4ZJ_N3rRaw09da0FTJXeIf9cgKD0W_YsWu=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNeshBQ2mdUJmQAJY_7TOeJ8BG_RqFNaZwnh543=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMSu0MMw5HlEThgN2UJl-E4bBA-e8HqSlYEBFDL=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipP_SyUJoKmhp22HNEveA5loduQc8fFPv0XBQ_mR=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPNkIy3SQt24XRPRBeb4AGyCZDBTO_9TyrGtc8F=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipM-1ZCWwoC4k1ONDYmMdRWlB0R7vSq9jt5Ed97T=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOnVC7DBW042pWjPOuv3SHsIrEUM9Rg9iFLEQzL=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMKb2rmYo4ljXIPj_zzayIZA88y49uo-5wWl2dw=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOh-9we-ugmAvkf-WJAklDESslJBPx9LqTWer5v=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMvYSHWn4qBUYLvQ5rYGW5QvjNcX2PjFnOvG4eY=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipN1oQfRp0t1ELRG-Nkorrbk3v-Xb4XXJF71IYcs=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipM3bSUe6AU_1E3q-IgkS0elPmpJz6L_8RttBLhp=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNJqKLXiePfdv7VC6MEuD2kOfbNzqq9oAZiLv4X=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPtH2PbFrbTL3T8mVwInnlnuIvKi6FeU3O-2fa5=w1024-h576-k-no"
+  ],
+  "topComments": [
+    {
+      "author": "Adriana Souza",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZuco6zw9NFJ7pUy8bEVBaapYA0kSoOZ8909DCzH-VKA=w36-h36-p-c0x00000000-rp-mo-ba5-br100",
+      "comment": "Linda vista para oceano. Vale a visita. Há diversas fitinhas amarradas. Fica localizado no fundo da Igreja Matriz Nossa Senhora d’Ajuda. É indescritível a sensação de paz do local.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Karilyn De campos Rodrigues",
+      "photoAuthor": "https://lh3.googleusercontent.com/a/AItbvmmcwe77twPu2gIKNP-pvE05CwbHhNKa-Brmnfmm=w36-h36-p-c0x00000000-rp-mo-ba3-br100",
+      "comment": "Um dos lugares mais lindos que visitei quando fui a Porto Seguro, o passeio vale muito a pena, rendem fotos lindas.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Leandro Pantano",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucr40-mV3ZTniPAeSvDXwIosqvAbDVGTlmgzC6FfABs=w36-h36-p-c0x00000000-rp-mo-ba5-br100",
+      "comment": "Lugar lindo. A vista é espetacular. Não pode deixar se amarrar sua fita e fazer um pedido.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Adriana Souza",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZuco6zw9NFJ7pUy8bEVBaapYA0kSoOZ8909DCzH-VKA=w36-h36-p-c0x00000000-rp-mo-ba5-br100",
+      "comment": "Sem palavras pra descrever este lugar Lindo lindo",
+      "gradeComment": 5
+    },
+    {
+      "author": "Henrique Gimenez",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucrQYb_Li5qbH9UnmCL1WCOasNdnRrmP5KXmjOrGoiU=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "Ponto turístico e passeio obrigatório.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Lucas Henrique",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZuco91tydKvwYR2M6lNSk-CEKt2Hhd2UUok06qvld5Q=w36-h36-p-c0x00000000-rp-mo-ba3-br100",
+      "comment": "Lugar lindo para você visitar.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Klaus Clovis Barg",
+      "photoAuthor": "https://lh3.googleusercontent.com/a/AItbvmkMqCFnSRAYgo0ZRfBLoqr7INQbE9CIbVKlV-N5=w36-h36-p-c0x00000000-rp-mo-br100",
+      "comment": "A vista é linda, o centro histórico também, os restaurantes também são ótimos. A Rua Mucoge é fantástica. Porém basta você se afastar um pouco, chegando até a escadaria na frente da igreja e o lixo acumulado nas laterais é enorme. Assim como por todo Arraial D'ajuda tem muito lixo pelas estradas. Outro detalhe não existem lixeiras na praia, a prefeitura não recolhe o lixo trazido pelo mar nas praias deixando as praias sujas. Praticamente não existem acessos públicos as praias as propriedades privadas tomaram quase toda orla.",
+      "gradeComment": 4
+    },
+    {
+      "author": "Vicenzo Domine",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucoU6v_e5VGlQf-44nSyuo8uJIs1K-0LHzqWhcwzGw=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "Lugar lindo. Vista maravilhosa.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Jorge Felipe C. Cuevas",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucoMYTnCa8N3CggL7MMaLeDFHmUMWu-mF3mM7hdcOP8=w36-h36-p-c0x00000000-rp-mo-ba5-br100",
+      "comment": "O mirante é lindo. Fica atrás da Igreja de Nossa Senhora D'Ajuda e tem uma vista privilegiada. As noites de Lua cheia, são sensacionais.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Bruna Cavalcante",
+      "photoAuthor": "https://lh3.googleusercontent.com/a/AItbvmmP3YbU1uKLRLoYYuQ6oMEGRGKqOCKm5EhwCIJq=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "Lindo , paisagem deslumbrante.😘",
+      "gradeComment": 5
+    },
+    {
+      "author": "André Cardoso José",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucpxM_NmAomUN8oq_jEK8MwoaFAsJT2nV0XDD-VAkdY=w36-h36-p-c0x00000000-rp-mo-ba3-br100",
+      "comment": "Linda vista que rende fotos sensacionais. No fim do dia fica lotado, tem que disputar espaço para a foto.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Edson Guimarães",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucqiEcByL99wHAdPrLDU48QcEZBAXNpgK_Fkb7Nqqw=w36-h36-p-c0x00000000-rp-mo-ba6-br100",
+      "comment": "Deslumbrante... magnífico... espetacular... tem que ser visitado... muito show...",
+      "gradeComment": 5
+    },
+    {
+      "author": "Mary Josy paula paula",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucol9dAvHa7fcxr8RPaiU2k5jXs8-vhKAOMH2cHRXqo=w36-h36-p-c0x00000000-rp-mo-br100",
+      "comment": "Amei o mar o sol e claro o lugar de gente lindas",
+      "gradeComment": 5
+    },
+    {
+      "author": "Janaine Rocha",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucrPiARMRi_gy9YqHQtmNJwAvrxH-lpx68VGnz1jWCg=w36-h36-p-c0x00000000-rp-mo-ba3-br100",
+      "comment": "Vista linda! Pertinho do centro, atrás da igreja",
+      "gradeComment": 5
+    },
+    {
+      "author": "Leone Halnisch",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucq4E4aWRNylDYUSlxzZqVL_ErerQfXmJ7rf0U8wCgc=w36-h36-p-c0x00000000-rp-mo-br100",
+      "comment": "Fantástica pra quem gosta de natureza,como eu.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Jean Favaretto",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucrD_02bUqaWMnXqHXRtQVHJoPL7BDdgsjt7LCj6UuI=w36-h36-p-c0x00000000-rp-mo-ba5-br100",
+      "comment": "Linda a vista do Arraial! E as lojinhas que tem ali perto encantam! ^_^",
+      "gradeComment": 5
+    },
+    {
+      "author": "Natalia Regina",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucrjEAGrxnaledaE-3P20vOWI-sZIHhnTZ1SF2pyERI=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "Lugar lindo, com uma vista sensacional... e um centrinho de comércios com artesanatos, restaurantes.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Rodrigo Jose Santos",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucowNDF1bTA_1g9D8vV0jQ1IZpFL0hfu6GM6pWmctg=w36-h36-p-c0x00000000-rp-mo-ba5-br100",
+      "comment": "Lugar calmo, com vista muito linda. Trás uma sensação de paz",
+      "gradeComment": 5
+    },
+    {
+      "author": "Edmilson Vinicius dos Santos",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucrfUPm6mgDpaQPvF73WlrRVxVL-kWsPEUKXBzlRe5k=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "Ótimo Vista!",
+      "gradeComment": 5
+    },
+    {
+      "author": "Reges Sabino",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucqOGhN5oKG3COJq7LApsiuiZd7W-2sNZWgkF1mSjQ=w36-h36-p-c0x00000000-rp-mo-ba3-br100",
+      "comment": "Ótimo para fotos",
+      "gradeComment": 5
+    }
+  ],
+  "peakHours": [
+    {
+      "Sunday": [
+        {
+          "hour": "04:00",
+          "percent": 1
+        },
+        {
+          "hour": "05:00",
+          "percent": 1
+        },
+        {
+          "hour": "06:00",
+          "percent": 1
+        },
+        {
+          "hour": "07:00",
+          "percent": 1
+        },
+        {
+          "hour": "08:00",
+          "percent": 1
+        },
+        {
+          "hour": "09:00",
+          "percent": 8
+        },
+        {
+          "hour": "10:00",
+          "percent": 20
+        },
+        {
+          "hour": "11:00",
+          "percent": 26
+        },
+        {
+          "hour": "12:00",
+          "percent": 22
+        },
+        {
+          "hour": "13:00",
+          "percent": 24
+        },
+        {
+          "hour": "14:00",
+          "percent": 54
+        },
+        {
+          "hour": "15:00",
+          "percent": 86
+        },
+        {
+          "hour": "16:00",
+          "percent": 61
+        },
+        {
+          "hour": "17:00",
+          "percent": 32
+        },
+        {
+          "hour": "18:00",
+          "percent": 26
+        },
+        {
+          "hour": "19:00",
+          "percent": 23
+        },
+        {
+          "hour": "20:00",
+          "percent": 19
+        },
+        {
+          "hour": "21:00",
+          "percent": 14
+        },
+        {
+          "hour": "22:00",
+          "percent": 9
+        },
+        {
+          "hour": "23:00",
+          "percent": 4
+        },
+        {
+          "hour": "01:00",
+          "percent": 1
+        },
+        {
+          "hour": "02:00",
+          "percent": 1
+        },
+        {
+          "hour": "03:00",
+          "percent": 1
+        }
+      ]
+    },
+    {
+      "Monday": [
+        {
+          "hour": "04:00",
+          "percent": 1
+        },
+        {
+          "hour": "05:00",
+          "percent": 1
+        },
+        {
+          "hour": "06:00",
+          "percent": 1
+        },
+        {
+          "hour": "07:00",
+          "percent": 1
+        },
+        {
+          "hour": "08:00",
+          "percent": 1
+        },
+        {
+          "hour": "09:00",
+          "percent": 6
+        },
+        {
+          "hour": "10:00",
+          "percent": 19
+        },
+        {
+          "hour": "11:00",
+          "percent": 16
+        },
+        {
+          "hour": "12:00",
+          "percent": 10
+        },
+        {
+          "hour": "13:00",
+          "percent": 18
+        },
+        {
+          "hour": "14:00",
+          "percent": 45
+        },
+        {
+          "hour": "15:00",
+          "percent": 59
+        },
+        {
+          "hour": "16:00",
+          "percent": 37
+        },
+        {
+          "hour": "17:00",
+          "percent": 16
+        },
+        {
+          "hour": "18:00",
+          "percent": 10
+        },
+        {
+          "hour": "19:00",
+          "percent": 7
+        },
+        {
+          "hour": "20:00",
+          "percent": 4
+        },
+        {
+          "hour": "21:00",
+          "percent": 1
+        },
+        {
+          "hour": "22:00",
+          "percent": 1
+        },
+        {
+          "hour": "23:00",
+          "percent": 1
+        },
+        {
+          "hour": "00:00",
+          "percent": 1
+        },
+        {
+          "hour": "01:00",
+          "percent": 1
+        },
+        {
+          "hour": "02:00",
+          "percent": 1
+        },
+        {
+          "hour": "03:00",
+          "percent": 1
+        }
+      ]
+    },
+    {
+      "Tuesday": [
+        {
+          "hour": "04:00",
+          "percent": 1
+        },
+        {
+          "hour": "05:00",
+          "percent": 1
+        },
+        {
+          "hour": "06:00",
+          "percent": 1
+        },
+        {
+          "hour": "07:00",
+          "percent": 1
+        },
+        {
+          "hour": "08:00",
+          "percent": 3
+        },
+        {
+          "hour": "09:00",
+          "percent": 14
+        },
+        {
+          "hour": "10:00",
+          "percent": 22
+        },
+        {
+          "hour": "11:00",
+          "percent": 24
+        },
+        {
+          "hour": "12:00",
+          "percent": 18
+        },
+        {
+          "hour": "13:00",
+          "percent": 19
+        },
+        {
+          "hour": "14:00",
+          "percent": 66
+        },
+        {
+          "hour": "15:00",
+          "percent": 100
+        },
+        {
+          "hour": "16:00",
+          "percent": 41
+        },
+        {
+          "hour": "17:00",
+          "percent": 13
+        },
+        {
+          "hour": "18:00",
+          "percent": 11
+        },
+        {
+          "hour": "19:00",
+          "percent": 11
+        },
+        {
+          "hour": "20:00",
+          "percent": 9
+        },
+        {
+          "hour": "22:00",
+          "percent": 4
+        },
+        {
+          "hour": "23:00",
+          "percent": 1
+        },
+        {
+          "hour": "00:00",
+          "percent": 1
+        },
+        {
+          "hour": "01:00",
+          "percent": 1
+        },
+        {
+          "hour": "02:00",
+          "percent": 1
+        },
+        {
+          "hour": "03:00",
+          "percent": 1
+        }
+      ]
+    },
+    {
+      "Wednesday": [
+        {
+          "hour": "04:00",
+          "percent": 1
+        },
+        {
+          "hour": "05:00",
+          "percent": 1
+        },
+        {
+          "hour": "06:00",
+          "percent": 1
+        },
+        {
+          "hour": "07:00",
+          "percent": 1
+        },
+        {
+          "hour": "08:00",
+          "percent": 2
+        },
+        {
+          "hour": "09:00",
+          "percent": 10
+        },
+        {
+          "hour": "10:00",
+          "percent": 16
+        },
+        {
+          "hour": "11:00",
+          "percent": 20
+        },
+        {
+          "hour": "12:00",
+          "percent": 19
+        },
+        {
+          "hour": "13:00",
+          "percent": 23
+        },
+        {
+          "hour": "14:00",
+          "percent": 50
+        },
+        {
+          "hour": "15:00",
+          "percent": 71
+        },
+        {
+          "hour": "16:00",
+          "percent": 47
+        },
+        {
+          "hour": "17:00",
+          "percent": 19
+        },
+        {
+          "hour": "18:00",
+          "percent": 13
+        },
+        {
+          "hour": "19:00",
+          "percent": 12
+        },
+        {
+          "hour": "20:00",
+          "percent": 11
+        },
+        {
+          "hour": "21:00",
+          "percent": 9
+        },
+        {
+          "hour": "22:00",
+          "percent": 6
+        },
+        {
+          "hour": "23:00",
+          "percent": 3
+        },
+        {
+          "hour": "01:00",
+          "percent": 1
+        },
+        {
+          "hour": "02:00",
+          "percent": 1
+        },
+        {
+          "hour": "03:00",
+          "percent": 1
+        }
+      ]
+    },
+    {
+      "Thursday": [
+        {
+          "hour": "04:00",
+          "percent": 1
+        },
+        {
+          "hour": "05:00",
+          "percent": 1
+        },
+        {
+          "hour": "06:00",
+          "percent": 1
+        },
+        {
+          "hour": "07:00",
+          "percent": 1
+        },
+        {
+          "hour": "08:00",
+          "percent": 5
+        },
+        {
+          "hour": "09:00",
+          "percent": 15
+        },
+        {
+          "hour": "10:00",
+          "percent": 23
+        },
+        {
+          "hour": "11:00",
+          "percent": 24
+        },
+        {
+          "hour": "12:00",
+          "percent": 21
+        },
+        {
+          "hour": "13:00",
+          "percent": 27
+        },
+        {
+          "hour": "14:00",
+          "percent": 64
+        },
+        {
+          "hour": "15:00",
+          "percent": 94
+        },
+        {
+          "hour": "16:00",
+          "percent": 62
+        },
+        {
+          "hour": "17:00",
+          "percent": 28
+        },
+        {
+          "hour": "18:00",
+          "percent": 19
+        },
+        {
+          "hour": "19:00",
+          "percent": 17
+        },
+        {
+          "hour": "20:00",
+          "percent": 14
+        },
+        {
+          "hour": "21:00",
+          "percent": 11
+        },
+        {
+          "hour": "22:00",
+          "percent": 7
+        },
+        {
+          "hour": "23:00",
+          "percent": 3
+        },
+        {
+          "hour": "01:00",
+          "percent": 1
+        },
+        {
+          "hour": "02:00",
+          "percent": 1
+        },
+        {
+          "hour": "03:00",
+          "percent": 1
+        }
+      ]
+    },
+    {
+      "Friday": [
+        {
+          "hour": "04:00",
+          "percent": 1
+        },
+        {
+          "hour": "05:00",
+          "percent": 1
+        },
+        {
+          "hour": "06:00",
+          "percent": 1
+        },
+        {
+          "hour": "07:00",
+          "percent": 1
+        },
+        {
+          "hour": "09:00",
+          "percent": 11
+        },
+        {
+          "hour": "10:00",
+          "percent": 23
+        },
+        {
+          "hour": "11:00",
+          "percent": 27
+        },
+        {
+          "hour": "12:00",
+          "percent": 22
+        },
+        {
+          "hour": "13:00",
+          "percent": 25
+        },
+        {
+          "hour": "14:00",
+          "percent": 51
+        },
+        {
+          "hour": "15:00",
+          "percent": 68
+        },
+        {
+          "hour": "16:00",
+          "percent": 45
+        },
+        {
+          "hour": "17:00",
+          "percent": 20
+        },
+        {
+          "hour": "18:00",
+          "percent": 12
+        },
+        {
+          "hour": "19:00",
+          "percent": 11
+        },
+        {
+          "hour": "20:00",
+          "percent": 10
+        },
+        {
+          "hour": "21:00",
+          "percent": 9
+        },
+        {
+          "hour": "22:00",
+          "percent": 6
+        },
+        {
+          "hour": "23:00",
+          "percent": 4
+        },
+        {
+          "hour": "00:00",
+          "percent": 2
+        },
+        {
+          "hour": "01:00",
+          "percent": 1
+        },
+        {
+          "hour": "02:00",
+          "percent": 1
+        },
+        {
+          "hour": "03:00",
+          "percent": 1
+        }
+      ]
+    },
+    {
+      "Saturday": [
+        {
+          "hour": "04:00",
+          "percent": 1
+        },
+        {
+          "hour": "05:00",
+          "percent": 1
+        },
+        {
+          "hour": "06:00",
+          "percent": 1
+        },
+        {
+          "hour": "07:00",
+          "percent": 1
+        },
+        {
+          "hour": "08:00",
+          "percent": 3
+        },
+        {
+          "hour": "09:00",
+          "percent": 9
+        },
+        {
+          "hour": "10:00",
+          "percent": 14
+        },
+        {
+          "hour": "11:00",
+          "percent": 17
+        },
+        {
+          "hour": "12:00",
+          "percent": 16
+        },
+        {
+          "hour": "13:00",
+          "percent": 19
+        },
+        {
+          "hour": "14:00",
+          "percent": 41
+        },
+        {
+          "hour": "15:00",
+          "percent": 67
+        },
+        {
+          "hour": "16:00",
+          "percent": 50
+        },
+        {
+          "hour": "17:00",
+          "percent": 21
+        },
+        {
+          "hour": "18:00",
+          "percent": 14
+        },
+        {
+          "hour": "19:00",
+          "percent": 15
+        },
+        {
+          "hour": "20:00",
+          "percent": 16
+        },
+        {
+          "hour": "21:00",
+          "percent": 15
+        },
+        {
+          "hour": "22:00",
+          "percent": 12
+        },
+        {
+          "hour": "23:00",
+          "percent": 7
+        },
+        {
+          "hour": "00:00",
+          "percent": 2
+        },
+        {
+          "hour": "01:00",
+          "percent": 1
+        },
+        {
+          "hour": "02:00",
+          "percent": 1
+        },
+        {
+          "hour": "03:00",
+          "percent": 1
+        }
+      ]
+    }
+  ],
+  "relatedSearches": [
+    "mirante das fitas arraial d'ajuda",
+    "largo da ajuda",
+    "mirante das fitas onde fica",
+    "o que fazer em arraial d'ajuda",
+    "fitinhas arraial d'ajuda",
+    "mirante das fitas frases",
+    "igreja arraial d'ajuda",
+    "fita de são francisco"
+  ],
+  "relateds": [
+    {
+      "mainName": "Centro Histórico do Arraial d'Ajuda",
+      "url": null
+    },
+    {
+      "mainName": "Igreja Matriz Nossa Senhora D'Ajuda",
+      "url": null
+    },
+    {
+      "mainName": "Praia do Delegado",
+      "url": null
+    },
+    {
+      "mainName": "Praia dos Pescadores",
+      "url": null
+    },
+    {
+      "mainName": "Praia do Apaga Fogo",
+      "url": null
+    },
+    {
+      "mainName": "Bróduei - Arraial d'Ajuda",
+      "url": null
+    },
+    {
+      "mainName": "Praia do Mucugê",
+      "url": null
+    },
+    {
+      "mainName": "Praia do Parracho",
+      "url": null
+    },
+    {
+      "mainName": "Parracho",
+      "url": null
+    },
+    {
+      "mainName": "Pitinga",
+      "url": null
+    },
+    {
+      "mainName": "Taipe",
+      "url": null
+    },
+    {
+      "mainName": "Rio da Barra",
+      "url": null
+    },
+    {
+      "mainName": "Praia de Araçaípe",
+      "url": null
+    },
+    {
+      "mainName": "Arraial d’Ajuda Eco Parque",
+      "url": null
+    }
+  ]
+}

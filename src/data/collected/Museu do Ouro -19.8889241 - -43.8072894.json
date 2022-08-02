@@ -1,0 +1,565 @@
+{
+  "mainName": "Museu do Ouro",
+  "slug": "museu-do-ouro",
+  "category": "Museu",
+  "locationInformation": {
+    "latitude": "-19.8889241",
+    "longitude": "-43.8072894"
+  },
+  "basicInformation": [
+    {
+      "label": "endereço",
+      "tooltip": "Copiar endereço",
+      "text": "R. da Intendência, s/n - Centro, Sabará - MG, 34505-480",
+      "icon": "https://www.gstatic.com/images/icons/material/system_gm/1x/place_gm_blue_24dp.png"
+    },
+    {
+      "label": "website",
+      "tooltip": "Abrir website",
+      "text": "museudoouro.museus.gov.br",
+      "icon": "https://www.gstatic.com/images/icons/material/system_gm/1x/public_gm_blue_24dp.png"
+    },
+    {
+      "label": "Code",
+      "tooltip": "Copiar Plus Code",
+      "text": "456V+C3 Centro, Sabará - MG",
+      "icon": "https://maps.gstatic.com/mapfiles/maps_lite/images/2x/ic_plus_code.png"
+    }
+  ],
+  "ratingInformation": {
+    "basicRatingInformation": {
+      "averageGrade": 4.6,
+      "totalOfEvaluations": 461
+    },
+    "ratingsByGrade": [
+      {
+        "grade": 5,
+        "totalRatings": 340
+      },
+      {
+        "grade": 4,
+        "totalRatings": 88
+      },
+      {
+        "grade": 3,
+        "totalRatings": 25
+      },
+      {
+        "grade": 2,
+        "totalRatings": 6
+      },
+      {
+        "grade": 1,
+        "totalRatings": 2
+      }
+    ]
+  },
+  "ratingTags": [
+    {
+      "tag": "acervo",
+      "count": 24,
+      "tooltip": "acervo, mencionado em 24 avaliações"
+    },
+    {
+      "tag": "cultura",
+      "count": 9,
+      "tooltip": "cultura, mencionado em 9 avaliações"
+    },
+    {
+      "tag": "história de minas gerais",
+      "count": 8,
+      "tooltip": "história de minas gerais, mencionado em 8 avaliações"
+    },
+    {
+      "tag": "objetos",
+      "count": 8,
+      "tooltip": "objetos, mencionado em 8 avaliações"
+    },
+    {
+      "tag": "passado",
+      "count": 8,
+      "tooltip": "passado, mencionado em 8 avaliações"
+    },
+    {
+      "tag": "história do brasil",
+      "count": 7,
+      "tooltip": "história do brasil, mencionado em 7 avaliações"
+    },
+    {
+      "tag": "mineração",
+      "count": 7,
+      "tooltip": "mineração, mencionado em 7 avaliações"
+    },
+    {
+      "tag": "ser",
+      "count": 6,
+      "tooltip": "ser, mencionado em 6 avaliações"
+    },
+    {
+      "tag": "ciclo do ouro",
+      "count": 5,
+      "tooltip": "ciclo do ouro, mencionado em 5 avaliações"
+    },
+    {
+      "tag": "intendente",
+      "count": 5,
+      "tooltip": "intendente, mencionado em 5 avaliações"
+    }
+  ],
+  "featuredPhotos": [
+    "https://lh5.googleusercontent.com/p/AF1QipMc7TWrArhbYcnkn5DA8ohcY7eyaqo0dwO4j5g=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPCKS2SZW6ELED8cXvYgjtZGSkb9KqNRMdoc3B7=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipO15AEPg57EwPEp3B0UmUWzgu6hiLJJfqSMQv-w=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNzshqkXlL3zZ1fW6jcVIqq6ZQxpKRYruWVYL9b=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMXllUH7Pp0nkjJwKWPJtxvqYhA3CvhA4Q2a_dq=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOndEpB4WSJo1TLjbqZmmxlA7WO19o4Mp8UDB0=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMw9QjoK2XM0vuDgUPTM7S9-uu7Xg18yI2RdMrt=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipO0s-jrliXfSINtfVeYWb0lPSWxFhTPypsCzRZ9=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNWDVGdc954wSzIv0uKtRA7WelDSUDMtebDsdWN=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPAzGMrzqZr-OS4i1SBEC8VH3a_5vtlobqfXyYB=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPvaon4QZl-9iQ26PVEDXOeX99TcDnKmICsF-1M=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPRBcYhpWYQZkNgunm2xrwh3JYwmrTR0pyr8IYt=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipM4Q-JMIbl_FLvGAq32CNsBHX-0T-3mSgBa41I=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMrIg6jyfrtcgCxHQY42NWXXwwEbmn_SX8XJ0kI=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNYny2ENLfwT_tZrEZjsD-mhB7DhGnwii6QFp3k=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMVZmGvWF8rESZxBBPwuroTKXXxmfC8XhneW-i8=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPPHTvTt1IIr1lqb8jQ8LlZnSMUzFos9Fz0scfd=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMpwDdgp9vDYSLLukXm2sxpKBR83Z4YylAAXed_=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipP71jk00zgEb0LZSWABcaiaUxVaIvGltoRgSd6P=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipO4dzV5C4wwPxkHZxyjSmoY55i6coGTrvHs-W0l=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPXftHUWGJ2Hf8Y2AFYzz7fDxu019N6Hpn-PrGR=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNPfMxgEsbXRk_XiRluexACdbu5OBGHseKluDOG=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMB-Ed4yTjAa2RQc0vLTjbOp4BqjsTbMXiI1o4=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPTG3nzXZ502IX7Ugj974IbbRFjtKFEEPPKmzXt=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNstrRtCQeLzSZCa_6-8IAMCmYCyvMkpEi2Jqjb=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipM-P8b9aFOHSwiuWHZaOlEb8vMuNLq0zvgzDyfJ=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOJhsvkfFEzEoFonz7gD5DXX8BI3GpHnh9i3Z9u=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipO_cubIfgYbqgqkdKlgizxqOMHtfYm9UDkaRREN=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMMNn6VIGdS0EkzYVNbivPOFILnz709nOv5owxG=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMFvb5GxQZ2iUFJWmwMyVVP5YK11ESW6YzG0UW8=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMD16bTe83DTl8DtDVIBsnW1xjVwVqGOYoeEBiz=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOo0XxoiDpavNKFC4V-K8wvbGWnrBznOuX4g3iH=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipO2WHFwr9eFQ2PdLWH3mRQN3GzC8FZuocmT7aMv=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOnlwJWq4WFjWCppzZcQJ9F-aa5exzmTzfDGpL3=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMHpMIyQQKAsL1kqo-kjF43aO8SsndMuItEnq0J=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPj3mnOBmWZmqjpKAV_fda1_Tsh8v7Vyhu6ei7a=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMWTccC3viJLLPTzZB7pXd8b-uw8rEVJW-sGuK4=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMHaC8C5d3vC4slIf3xnoxGv8aAJ_VxKxXy8MvG=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipO5y8A5-d3cvkw_FDmmtaj1B_2aMQSDQdIpxLcI=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOfytp__ds_w-vbRBwo9pqXDGAXyno9mPr6ZCuS=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMuz6JBqpDFy4wOgC43JYpqa5cLleMfXddYMxtE=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipP4pIYoq2Vzk_8XgXEsJDYqsRqgqSO3KSfEQdIJ=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipN4EzM8-NFnccVnd7lHv9K_LjuvP0L1CntDHJY=w1024-h576-k-no"
+  ],
+  "topComments": [
+    {
+      "author": "Guilherme",
+      "photoAuthor": "https://lh3.googleusercontent.com/a/AItbvmkCNTypIUs9OCR7MitAIOfYrmlgylKSMfjSp0_C=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "Museu incrível que ajuda a contar a história do Ciclo do Ouro de Minas Gerais no século XVIII. Com diversos objetos dos séculos XVIII e XIX, o espaço possui um ótimo acervo com objetos da época. Foto é autorizada, porém sem flash. Enfim, parada obrigatória aos que gostam do tema \"período colonial brasileiro\".",
+      "gradeComment": 5
+    },
+    {
+      "author": "Panga Santos",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucriR5QotoK3gVujEy3uNDdeamW4HfmRLmAWrQf7T94=w36-h36-p-c0x00000000-rp-mo-ba6-br100",
+      "comment": "O museu está instalado em uma casa do século XVII, com arquitetura do período colonial do século XVII.  O edifício já abrigou a Antiga Casa de Intendência e Fundição, onde era feita a cunhagem e a tributação do ouro, mais conhecida como a cobrança do quinto pela Coroa Portuguesa, extraído da Comarca do Rio das Velhas. Com o fim das atividades tributárias, o prédio foi a leilão, no ano de 1840, assim foi transformado em moradia, posteriormente em escola até ser adquirido pela Companhia Siderúrgica Belgo-Mineira e ser doado ao Serviço do Patrimônio Histórico e Artístico Nacional (SPHAN). Com isso, o prédio é reformado e transformado em museu no ano de 1946.  Em seu acervo constam peças e equipamentos utilizados na garimpagem e na arte de ourivesaria. O museu também guarda uma prensa, datada no ano de 1670, utilizada em casas de fundição e um engenho de triturar minério de ouro, com o qual se substituía a mão de obra escrava no oficio. Além das exposições, funciona no local uma biblioteca especializada na história de Minas Gerais e do Brasil.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Matheus Montenegro",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucqlZhE851aUmMT0Svljvs6g5cyPGMm7RZAPXMHs4LY=w36-h36-p-c0x00000000-rp-mo-ba6-br100",
+      "comment": "O Museu do Ouro é um museu brasileiro inaugurado em 16 de maio de 1946 na cidade de Sabará, Minas Gerais.  O museu está instalado em uma casa do século XVII, com arquitetura do período colonial do século XVII. O edifício já abrigou a Antiga Casa de Intendência e Fundição, onde era feita a cunhagem e a tributação do ouro, mais conhecida como a cobrança do quinto pela Coroa Portuguesa, extraído da Comarca do Rio das Velhas.  Com o fim das atividades tributárias, o prédio foi a leilão, no ano de 1840, assim foi transformado em moradia, posteriormente em escola até ser adquirido pela Companhia Siderúrgica Belgo-Mineira e ser doado ao Serviço do Patrimônio Histórico e Artístico Nacional (SPHAN). Com isso, o prédio foi reformado e transformado em museu no ano de 1946.  Em seu acervo constam peças e equipamentos utilizados na garimpagem e na arte de ourivesaria. O museu também guarda uma prensa, datada no ano de 1670, utilizada em casas de fundição e um engenho de triturar minério de ouro, com o qual se substituía a mão de obra escrava no oficio. Além das exposições, funciona no local uma biblioteca especializada na história de Minas Gerais e do Brasil.  O Instituto Brasileiro de Museus, órgão do Ministério da Cultura, administra o local.",
+      "gradeComment": 3
+    },
+    {
+      "author": "carlos Carlos",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucq-mV6b72jEe4PtjirvS-24Le1221D9qWY1chK59v0=w36-h36-p-c0x00000000-rp-mo-br100",
+      "comment": "Eu minha filha adoramos o passeio, valeu muito apena saber mais sobre a história de Minas recomendo.......",
+      "gradeComment": 5
+    },
+    {
+      "author": "PRISCILA VIANA",
+      "photoAuthor": "https://lh3.googleusercontent.com/a/AItbvmmxQPv4nSmQ85zyP7-26aP3ywwND_9x46QLjvVF=w36-h36-p-c0x00000000-rp-mo-br100",
+      "comment": "Experiência histórica riquíssima. Local de fácil acesso e boa infra-estrutura. Experiência única, recomendo muito.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Helcio Costa",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucqBKO2ciozsHfa62YDeUOt1nM-ckCFOO_xNMhJ2xQ=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "Um acervo interessante, que conta bem sobre um período histórico importante de Sabará e do Brasil. As peças em exposição retratam sobre a atividade extrativista, e também retratam sobre a sociedade da época.",
+      "gradeComment": 5
+    },
+    {
+      "author": "André Fonseca",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucp1eQbazGj2H1bkF_VqBB1aSRKQfCtBSp-jixSbbQ=w36-h36-p-c0x00000000-rp-mo-ba5-br100",
+      "comment": "Prédio histórico. Conta com um tour guiado e gratuito contando um pouco da história do ouro e dos intendentes.",
+      "gradeComment": 4
+    },
+    {
+      "author": "Michele L. Rod",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucoC8SopABcaAHFOtBK4zJr1QsqdF3rQQX2WTaHckHc=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "Museu legal, conta um pouco de história de forma bem prática, e a estrutura do local está bem conservada, funcionária e seguranças muito simpáticos. La é possível carimbar o passaporte da Estrada Real. Abre as 10h e pra chegar lá é uma ladeira bem puxada, vale a pena a visita, que é feita em pouco tempo",
+      "gradeComment": 4
+    },
+    {
+      "author": "Henrique Cassimiro (Rick)",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucoKuZJkOfP3o93ds3Pz0y1lf_SPwtBjW7xzv7bWXUs=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "Sempre bom saber mais da história do nosso país. Muito bom!",
+      "gradeComment": 5
+    },
+    {
+      "author": "Fernando Ribeiro venção",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucoV87-IUSxElEa-1UeSmUjIOZSPbaglSPxuUxTW=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "Pena que não consegui entrar. Mas achei bem interessante a fachada. Acho que deveria ter placas na entrada das ruas. Ou na frente das casas descrevendo o local.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Cristiane Santos",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucrjNoj7o9GVE3YTzSMF8MtB4LAIGgOjHGYMIoCvyw=w36-h36-p-c0x00000000-rp-mo-ba3-br100",
+      "comment": "Museu muito legal. Funcionários receptivos. Acervo rico em muitas peças originais. Prédio conservado. Peças lindas em perfeito estado. Uma verdadeira volta ao passado.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Natália Aparecida Azevedo Oliveira",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucrT5TW1T57xJTtRHB9RasKcLobglx25cpfbqI2V=w36-h36-p-c0x00000000-rp-mo-br100",
+      "comment": "Muito bem cuidado e o guia que nos recepcionou é extremamente atencioso, domina a história de cada peça do acervo e é muito alto astral.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Paulo Henrique de Souza Tavares",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucqgc84rzsfKPP26vj4CdCSeca8m6tslSdIuvKUZdZs=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "O lugar, que abre pontualmente às 10h00, é um convite a voltar no tempo. Pagando uma taxa simbólica de R$ 1,00 (fev/2019) você tem acesso ao rico acervo que conta com diversas peças, em grande parte do século XVIII, retratando capítulos da história do Brasil colonial, além da cultura da época. Móveis, armas, objetos de uso na mineração, brasões e imagens sacras belíssimas compõem os ambientes do local onde um dia funcionou a casa de quem ocupava o cargo de intendente do ouro da coroa portuguesa. O lugar que parece muito deteriorado quando olhado de fora, traz grandes riquezas do lado de dentro.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Adelmo Feitosa",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucqMEvaGfy12JrlJMN-5zftp9UMhpjO573BKRgN1yA=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "Ótima oportunidade para vivenciar o modo de extração do ouro na época colonial do Brasil.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Flávio Palma",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucrP-vMTGmKoZ6mmvggxkGhikgVLe4Uo2lff42eStM8=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "Sensacional, tem uma maquete intrigante de como era feito o trato do ouro. Instalações em prédio histórico que vale a pena conferir cada detalhe.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Geralda Teodoro",
+      "photoAuthor": "https://lh3.googleusercontent.com/a/AItbvmmdsfvr-Q5hYJ0d_g4-tJ4uUhuTO9lkpwYBPhYt=w36-h36-p-c0x00000000-rp-mo-br100",
+      "comment": "Gostei e valeu a pena, enriqueceu meus conhecimentos . Me ajudou na matéria de história  .",
+      "gradeComment": 5
+    },
+    {
+      "author": "Marcus Diniz",
+      "photoAuthor": "https://lh3.googleusercontent.com/a/AItbvmmidqKXhzYyBdPVRt1cnx3OlkeOm7goThRNd9iZ=w36-h36-p-c0x00000000-rp-mo-br100",
+      "comment": "Muito legal aprender sobre a história. Peças bem cuidadas e muita informação.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Drigo GPADV",
+      "photoAuthor": "https://lh3.googleusercontent.com/a/AItbvmnVHzE-NWxtPbKSMgVWANbKoY_6pjzbA7VzdmO1=w36-h36-p-c0x00000000-rp-mo-br100",
+      "comment": "Este importantissimo prédio e museu precisa de ajuda urgente. Residência do Intendente da Coroa que permanece  única e intocável em sua originalidade. Merece mais atenção das autoridades, pois está em péssimo estado de conservação. O seu acervo é maravilhoso e merece destino melhor. Vale muito a sua visita.",
+      "gradeComment": 3
+    },
+    {
+      "author": "Ilde Hass",
+      "photoAuthor": "https://lh3.googleusercontent.com/a/AItbvmkWN6CEQ9PtotOiTGh-DgynGjzgvn6mXiGRpPwh=w36-h36-p-c0x00000000-rp-mo-ba3-br100",
+      "comment": "Foi naravilhodo conhecer a história da mineração no Brasil. Vale muito a pena visitar.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Marcia Cristina Martins Ramos",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucq0aFrtgCn7Vn8NoXRRq4od27RLw7S7ddyN6-yzXw=w36-h36-p-c0x00000000-rp-mo-br100",
+      "comment": "Excelente local para pesquisas sobre memória e história do ouro, para passear com a família e tbm caravanas de escolas. Excelente recepção, guia turístico, guarda patrimonial. Super indico",
+      "gradeComment": 5
+    }
+  ],
+  "peakHours": [
+    {
+      "Sunday": [
+        {
+          "hour": "12:00",
+          "percent": 76
+        },
+        {
+          "hour": "13:00",
+          "percent": 87
+        },
+        {
+          "hour": "14:00",
+          "percent": 82
+        },
+        {
+          "hour": "15:00",
+          "percent": 66
+        },
+        {
+          "hour": "16:00",
+          "percent": 50
+        }
+      ]
+    },
+    {
+      "Monday": []
+    },
+    {
+      "Tuesday": [
+        {
+          "hour": "10:00",
+          "percent": 62
+        },
+        {
+          "hour": "11:00",
+          "percent": 70
+        },
+        {
+          "hour": "12:00",
+          "percent": 67
+        },
+        {
+          "hour": "13:00",
+          "percent": 58
+        },
+        {
+          "hour": "14:00",
+          "percent": 51
+        },
+        {
+          "hour": "15:00",
+          "percent": 64
+        },
+        {
+          "hour": "16:00",
+          "percent": 81
+        }
+      ]
+    },
+    {
+      "Wednesday": [
+        {
+          "hour": "10:00",
+          "percent": 44
+        },
+        {
+          "hour": "11:00",
+          "percent": 51
+        },
+        {
+          "hour": "12:00",
+          "percent": 58
+        },
+        {
+          "hour": "13:00",
+          "percent": 63
+        },
+        {
+          "hour": "14:00",
+          "percent": 66
+        },
+        {
+          "hour": "15:00",
+          "percent": 66
+        },
+        {
+          "hour": "16:00",
+          "percent": 58
+        }
+      ]
+    },
+    {
+      "Thursday": [
+        {
+          "hour": "10:00",
+          "percent": 52
+        },
+        {
+          "hour": "11:00",
+          "percent": 59
+        },
+        {
+          "hour": "12:00",
+          "percent": 59
+        },
+        {
+          "hour": "13:00",
+          "percent": 55
+        },
+        {
+          "hour": "14:00",
+          "percent": 58
+        },
+        {
+          "hour": "15:00",
+          "percent": 74
+        },
+        {
+          "hour": "16:00",
+          "percent": 87
+        }
+      ]
+    },
+    {
+      "Friday": [
+        {
+          "hour": "10:00",
+          "percent": 51
+        },
+        {
+          "hour": "11:00",
+          "percent": 65
+        },
+        {
+          "hour": "12:00",
+          "percent": 74
+        },
+        {
+          "hour": "13:00",
+          "percent": 81
+        },
+        {
+          "hour": "14:00",
+          "percent": 83
+        },
+        {
+          "hour": "15:00",
+          "percent": 82
+        },
+        {
+          "hour": "16:00",
+          "percent": 77
+        }
+      ]
+    },
+    {
+      "Saturday": [
+        {
+          "hour": "12:00",
+          "percent": 85
+        },
+        {
+          "hour": "13:00",
+          "percent": 97
+        },
+        {
+          "hour": "14:00",
+          "percent": 100
+        },
+        {
+          "hour": "15:00",
+          "percent": 92
+        },
+        {
+          "hour": "16:00",
+          "percent": 78
+        }
+      ]
+    }
+  ],
+  "relatedSearches": [
+    "museu do ouro bogotá",
+    "museu do ouro acervo",
+    "museu do ouro (sabará)",
+    "museu do ouro em minas gerais",
+    "museu borba gato",
+    "a cidade de ouro",
+    "santuário de las lajas",
+    "museu nacional da colômbia"
+  ],
+  "relateds": [
+    {
+      "mainName": "Museu Casa Histórica de Alcântara",
+      "url": null
+    },
+    {
+      "mainName": "MART - Museu de Arte Religiosa e Tradicional",
+      "url": null
+    },
+    {
+      "mainName": "Museu de Arqueologia de Itaipu",
+      "url": null
+    },
+    {
+      "mainName": "Museu Casa de Benjamin Constant",
+      "url": null
+    },
+    {
+      "mainName": "Museu Regional de São João del-Rei",
+      "url": null
+    },
+    {
+      "mainName": "Museu da Abolição",
+      "url": null
+    },
+    {
+      "mainName": "Museu Regional Casa dos Ottoni Serro",
+      "url": null
+    },
+    {
+      "mainName": "Museu Villa-Lobos",
+      "url": null
+    },
+    {
+      "mainName": "Museu Regional de Caeté",
+      "url": null
+    },
+    {
+      "mainName": "Museu Regional de Caeté/Ibram",
+      "url": null
+    },
+    {
+      "mainName": "Museu Casa da Hera",
+      "url": null
+    },
+    {
+      "mainName": "Museu de Arte Sacra de Paraty",
+      "url": null
+    },
+    {
+      "mainName": "Museu Victor Meirelles",
+      "url": null
+    },
+    {
+      "mainName": "Museu Solar Monjardim",
+      "url": null
+    },
+    {
+      "mainName": "Casa Borba Gato",
+      "url": null
+    },
+    {
+      "mainName": "Museu das Missões",
+      "url": null
+    },
+    {
+      "mainName": "Museu da Inconfidência",
+      "url": null
+    },
+    {
+      "mainName": "Museu do Diamante",
+      "url": null
+    },
+    {
+      "mainName": "Chafariz Do Rosário",
+      "url": null
+    },
+    {
+      "mainName": "Museu de Arte Sacra de Boa Morte",
+      "url": null
+    },
+    {
+      "mainName": "Museu da Chácara do Céu",
+      "url": null
+    },
+    {
+      "mainName": "Museu Histórico Nacional",
+      "url": null
+    },
+    {
+      "mainName": "Museu Lasar Segall",
+      "url": null
+    },
+    {
+      "mainName": "Museu Casa Guignard",
+      "url": null
+    }
+  ]
+}

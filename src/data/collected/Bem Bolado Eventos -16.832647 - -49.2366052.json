@@ -1,0 +1,788 @@
+{
+  "mainName": "Bem Bolado Eventos",
+  "slug": "bem-bolado-eventos",
+  "category": "Salão de festas",
+  "locationInformation": {
+    "latitude": "-16.832647",
+    "longitude": "-49.2366052"
+  },
+  "basicInformation": [
+    {
+      "label": "endereço",
+      "tooltip": "Copiar endereço",
+      "text": "Rua Das Carnaúbas Q43L8, 9/10/11 - Retiro do Bosque, Aparecida de Goiânia - GO, 74990-780",
+      "icon": "https://www.gstatic.com/images/icons/material/system_gm/1x/place_gm_blue_24dp.png"
+    },
+    {
+      "label": "telefone",
+      "tooltip": "Copiar número de telefone",
+      "text": "(62) 99322-8570",
+      "icon": "https://www.gstatic.com/images/icons/material/system_gm/1x/phone_gm_blue_24dp.png"
+    },
+    {
+      "label": "Code",
+      "tooltip": "Copiar Plus Code",
+      "text": "5Q87+W9 Retiro do Bosque, Aparecida de Goiânia - GO",
+      "icon": "https://maps.gstatic.com/mapfiles/maps_lite/images/2x/ic_plus_code.png"
+    }
+  ],
+  "ratingInformation": {
+    "basicRatingInformation": {
+      "averageGrade": 4.7,
+      "totalOfEvaluations": 33
+    },
+    "ratingsByGrade": [
+      {
+        "grade": 5,
+        "totalRatings": 27
+      },
+      {
+        "grade": 4,
+        "totalRatings": 4
+      },
+      {
+        "grade": 3,
+        "totalRatings": 1
+      },
+      {
+        "grade": 2,
+        "totalRatings": 0
+      },
+      {
+        "grade": 1,
+        "totalRatings": 1
+      }
+    ]
+  },
+  "ratingTags": null,
+  "featuredPhotos": [
+    "https://lh5.googleusercontent.com/p/AF1QipP1F5Jzm1ofinESuICTG8rBs9wEQVmvLMqI4S9i=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipN3LuLyNc6jQbH6wwFhCe5OBfNXl7RSbkBUSfge=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOjU78S5QEPUcD9Vmibs-4Oa0Fj6FpMZSS8aiW3=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPCeFt2DjzcizJ6h9PLfWhOeCircgsXqkKyg2Yo=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipN7Y2NUBYwl8fxCbkyzUPeiYt5ds5Kti2XZMQeM=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMLJbs2q_gEH2WcyBXHHCso1Pf_RkIqkMXzoMI2=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMr4fMtXOh84hQNo82YRM7jrhVQR8U9pMUWQp4t=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipO79RPvRxhnWd_VHWme5nbg_6seUWEBvK9t90kE=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOVh1DM0iaA11GepAxg9fzNsPvUotf-7ylL6iQf=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNaWIDPqlIKO48hzM5VhIGEsteNtIqA6yMZNtpi=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNA0l1a1ybXkcuG94FXmt_rWFiEgzi6MhquoZ55=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPWKYnzAAcJMgr_uBbql70vhH6mTgi5o8cWqr5V=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMWmfWyxJq5HZFtR73EhvifpKwWa3q5iqdAkW1_=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMWe45tVnHBjXIAdBJdZS9S3PYcoGioRjwxWkJ3=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipO7cqoviqJK7vyscJDNYkN2V0kte6BPXL8A7Ztj=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPhqBT1Pzo7Viw51uXzxIYr7pc8BkHSdHd5u9oP=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOwWplwK6vao37v4lcKtyxVCXrA07zXh6Xnxrc3=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPCM4uuDHW_wSO5VVk0um2vC9QhQ3Y4DarMLxiD=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOkhZsiO5yOlU4US8c9Qc3GzrM_-k_kjYNeDoNm=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNnM974lSdjOC7y1iS3eRdywoI2P8EI3WCJLtu8=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNqCkwtF--JHALwFxDf2-h8aORehf00fm9A_GEG=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMC08Y9AurJjgF3cuUJ-m7qYHOJSpJ3NTvGjbgi=w1024-h576-k-no"
+  ],
+  "topComments": null,
+  "peakHours": [
+    {
+      "Sunday": [
+        {
+          "hour": "04:00",
+          "percent": 40
+        },
+        {
+          "hour": "05:00",
+          "percent": 46
+        },
+        {
+          "hour": "06:00",
+          "percent": 49
+        },
+        {
+          "hour": "07:00",
+          "percent": 49
+        },
+        {
+          "hour": "08:00",
+          "percent": 48
+        },
+        {
+          "hour": "09:00",
+          "percent": 50
+        },
+        {
+          "hour": "10:00",
+          "percent": 55
+        },
+        {
+          "hour": "11:00",
+          "percent": 64
+        },
+        {
+          "hour": "12:00",
+          "percent": 77
+        },
+        {
+          "hour": "13:00",
+          "percent": 90
+        },
+        {
+          "hour": "14:00",
+          "percent": 98
+        },
+        {
+          "hour": "15:00",
+          "percent": 100
+        },
+        {
+          "hour": "16:00",
+          "percent": 94
+        },
+        {
+          "hour": "17:00",
+          "percent": 82
+        },
+        {
+          "hour": "18:00",
+          "percent": 67
+        },
+        {
+          "hour": "19:00",
+          "percent": 51
+        },
+        {
+          "hour": "20:00",
+          "percent": 37
+        },
+        {
+          "hour": "21:00",
+          "percent": 25
+        },
+        {
+          "hour": "22:00",
+          "percent": 17
+        },
+        {
+          "hour": "23:00",
+          "percent": 13
+        },
+        {
+          "hour": "00:00",
+          "percent": 13
+        },
+        {
+          "hour": "01:00",
+          "percent": 18
+        },
+        {
+          "hour": "02:00",
+          "percent": 24
+        },
+        {
+          "hour": "03:00",
+          "percent": 32
+        }
+      ]
+    },
+    {
+      "Monday": [
+        {
+          "hour": "04:00",
+          "percent": 18
+        },
+        {
+          "hour": "05:00",
+          "percent": 20
+        },
+        {
+          "hour": "06:00",
+          "percent": 22
+        },
+        {
+          "hour": "07:00",
+          "percent": 22
+        },
+        {
+          "hour": "08:00",
+          "percent": 22
+        },
+        {
+          "hour": "09:00",
+          "percent": 21
+        },
+        {
+          "hour": "10:00",
+          "percent": 21
+        },
+        {
+          "hour": "11:00",
+          "percent": 21
+        },
+        {
+          "hour": "12:00",
+          "percent": 21
+        },
+        {
+          "hour": "13:00",
+          "percent": 22
+        },
+        {
+          "hour": "14:00",
+          "percent": 21
+        },
+        {
+          "hour": "15:00",
+          "percent": 21
+        },
+        {
+          "hour": "16:00",
+          "percent": 21
+        },
+        {
+          "hour": "17:00",
+          "percent": 22
+        },
+        {
+          "hour": "18:00",
+          "percent": 23
+        },
+        {
+          "hour": "19:00",
+          "percent": 24
+        },
+        {
+          "hour": "20:00",
+          "percent": 23
+        },
+        {
+          "hour": "21:00",
+          "percent": 21
+        },
+        {
+          "hour": "22:00",
+          "percent": 19
+        },
+        {
+          "hour": "23:00",
+          "percent": 16
+        },
+        {
+          "hour": "00:00",
+          "percent": 13
+        },
+        {
+          "hour": "01:00",
+          "percent": 12
+        },
+        {
+          "hour": "02:00",
+          "percent": 13
+        },
+        {
+          "hour": "03:00",
+          "percent": 15
+        }
+      ]
+    },
+    {
+      "Tuesday": [
+        {
+          "hour": "04:00",
+          "percent": 15
+        },
+        {
+          "hour": "05:00",
+          "percent": 18
+        },
+        {
+          "hour": "06:00",
+          "percent": 21
+        },
+        {
+          "hour": "07:00",
+          "percent": 23
+        },
+        {
+          "hour": "08:00",
+          "percent": 24
+        },
+        {
+          "hour": "09:00",
+          "percent": 23
+        },
+        {
+          "hour": "10:00",
+          "percent": 21
+        },
+        {
+          "hour": "11:00",
+          "percent": 19
+        },
+        {
+          "hour": "12:00",
+          "percent": 17
+        },
+        {
+          "hour": "13:00",
+          "percent": 17
+        },
+        {
+          "hour": "14:00",
+          "percent": 19
+        },
+        {
+          "hour": "15:00",
+          "percent": 21
+        },
+        {
+          "hour": "16:00",
+          "percent": 22
+        },
+        {
+          "hour": "17:00",
+          "percent": 23
+        },
+        {
+          "hour": "18:00",
+          "percent": 22
+        },
+        {
+          "hour": "19:00",
+          "percent": 20
+        },
+        {
+          "hour": "20:00",
+          "percent": 17
+        },
+        {
+          "hour": "21:00",
+          "percent": 14
+        },
+        {
+          "hour": "22:00",
+          "percent": 12
+        },
+        {
+          "hour": "23:00",
+          "percent": 10
+        },
+        {
+          "hour": "00:00",
+          "percent": 10
+        },
+        {
+          "hour": "01:00",
+          "percent": 10
+        },
+        {
+          "hour": "02:00",
+          "percent": 10
+        },
+        {
+          "hour": "03:00",
+          "percent": 12
+        }
+      ]
+    },
+    {
+      "Wednesday": [
+        {
+          "hour": "04:00",
+          "percent": 18
+        },
+        {
+          "hour": "05:00",
+          "percent": 18
+        },
+        {
+          "hour": "06:00",
+          "percent": 18
+        },
+        {
+          "hour": "07:00",
+          "percent": 18
+        },
+        {
+          "hour": "08:00",
+          "percent": 18
+        },
+        {
+          "hour": "09:00",
+          "percent": 18
+        },
+        {
+          "hour": "10:00",
+          "percent": 18
+        },
+        {
+          "hour": "11:00",
+          "percent": 18
+        },
+        {
+          "hour": "12:00",
+          "percent": 18
+        },
+        {
+          "hour": "13:00",
+          "percent": 18
+        },
+        {
+          "hour": "14:00",
+          "percent": 18
+        },
+        {
+          "hour": "15:00",
+          "percent": 20
+        },
+        {
+          "hour": "16:00",
+          "percent": 21
+        },
+        {
+          "hour": "17:00",
+          "percent": 25
+        },
+        {
+          "hour": "18:00",
+          "percent": 29
+        },
+        {
+          "hour": "19:00",
+          "percent": 32
+        },
+        {
+          "hour": "20:00",
+          "percent": 33
+        },
+        {
+          "hour": "21:00",
+          "percent": 31
+        },
+        {
+          "hour": "22:00",
+          "percent": 27
+        },
+        {
+          "hour": "23:00",
+          "percent": 23
+        },
+        {
+          "hour": "00:00",
+          "percent": 20
+        },
+        {
+          "hour": "01:00",
+          "percent": 19
+        },
+        {
+          "hour": "02:00",
+          "percent": 18
+        },
+        {
+          "hour": "03:00",
+          "percent": 18
+        }
+      ]
+    },
+    {
+      "Thursday": [
+        {
+          "hour": "04:00",
+          "percent": 17
+        },
+        {
+          "hour": "05:00",
+          "percent": 20
+        },
+        {
+          "hour": "06:00",
+          "percent": 22
+        },
+        {
+          "hour": "07:00",
+          "percent": 24
+        },
+        {
+          "hour": "08:00",
+          "percent": 26
+        },
+        {
+          "hour": "09:00",
+          "percent": 26
+        },
+        {
+          "hour": "10:00",
+          "percent": 26
+        },
+        {
+          "hour": "11:00",
+          "percent": 26
+        },
+        {
+          "hour": "12:00",
+          "percent": 26
+        },
+        {
+          "hour": "13:00",
+          "percent": 27
+        },
+        {
+          "hour": "14:00",
+          "percent": 28
+        },
+        {
+          "hour": "15:00",
+          "percent": 30
+        },
+        {
+          "hour": "16:00",
+          "percent": 30
+        },
+        {
+          "hour": "17:00",
+          "percent": 30
+        },
+        {
+          "hour": "18:00",
+          "percent": 29
+        },
+        {
+          "hour": "19:00",
+          "percent": 25
+        },
+        {
+          "hour": "20:00",
+          "percent": 21
+        },
+        {
+          "hour": "21:00",
+          "percent": 17
+        },
+        {
+          "hour": "22:00",
+          "percent": 13
+        },
+        {
+          "hour": "23:00",
+          "percent": 10
+        },
+        {
+          "hour": "00:00",
+          "percent": 9
+        },
+        {
+          "hour": "01:00",
+          "percent": 10
+        },
+        {
+          "hour": "02:00",
+          "percent": 11
+        },
+        {
+          "hour": "03:00",
+          "percent": 14
+        }
+      ]
+    },
+    {
+      "Friday": [
+        {
+          "hour": "04:00",
+          "percent": 17
+        },
+        {
+          "hour": "05:00",
+          "percent": 19
+        },
+        {
+          "hour": "06:00",
+          "percent": 21
+        },
+        {
+          "hour": "07:00",
+          "percent": 22
+        },
+        {
+          "hour": "08:00",
+          "percent": 22
+        },
+        {
+          "hour": "09:00",
+          "percent": 21
+        },
+        {
+          "hour": "10:00",
+          "percent": 20
+        },
+        {
+          "hour": "11:00",
+          "percent": 18
+        },
+        {
+          "hour": "12:00",
+          "percent": 17
+        },
+        {
+          "hour": "13:00",
+          "percent": 17
+        },
+        {
+          "hour": "14:00",
+          "percent": 18
+        },
+        {
+          "hour": "15:00",
+          "percent": 20
+        },
+        {
+          "hour": "16:00",
+          "percent": 21
+        },
+        {
+          "hour": "17:00",
+          "percent": 24
+        },
+        {
+          "hour": "18:00",
+          "percent": 25
+        },
+        {
+          "hour": "19:00",
+          "percent": 25
+        },
+        {
+          "hour": "20:00",
+          "percent": 24
+        },
+        {
+          "hour": "21:00",
+          "percent": 21
+        },
+        {
+          "hour": "22:00",
+          "percent": 19
+        },
+        {
+          "hour": "23:00",
+          "percent": 16
+        },
+        {
+          "hour": "00:00",
+          "percent": 14
+        },
+        {
+          "hour": "01:00",
+          "percent": 13
+        },
+        {
+          "hour": "02:00",
+          "percent": 13
+        },
+        {
+          "hour": "03:00",
+          "percent": 15
+        }
+      ]
+    },
+    {
+      "Saturday": [
+        {
+          "hour": "04:00",
+          "percent": 30
+        },
+        {
+          "hour": "05:00",
+          "percent": 25
+        },
+        {
+          "hour": "06:00",
+          "percent": 22
+        },
+        {
+          "hour": "07:00",
+          "percent": 21
+        },
+        {
+          "hour": "08:00",
+          "percent": 22
+        },
+        {
+          "hour": "09:00",
+          "percent": 24
+        },
+        {
+          "hour": "10:00",
+          "percent": 27
+        },
+        {
+          "hour": "11:00",
+          "percent": 30
+        },
+        {
+          "hour": "12:00",
+          "percent": 33
+        },
+        {
+          "hour": "13:00",
+          "percent": 36
+        },
+        {
+          "hour": "14:00",
+          "percent": 38
+        },
+        {
+          "hour": "15:00",
+          "percent": 41
+        },
+        {
+          "hour": "16:00",
+          "percent": 44
+        },
+        {
+          "hour": "17:00",
+          "percent": 49
+        },
+        {
+          "hour": "18:00",
+          "percent": 54
+        },
+        {
+          "hour": "19:00",
+          "percent": 61
+        },
+        {
+          "hour": "20:00",
+          "percent": 67
+        },
+        {
+          "hour": "21:00",
+          "percent": 72
+        },
+        {
+          "hour": "22:00",
+          "percent": 74
+        },
+        {
+          "hour": "23:00",
+          "percent": 72
+        },
+        {
+          "hour": "00:00",
+          "percent": 67
+        },
+        {
+          "hour": "01:00",
+          "percent": 58
+        },
+        {
+          "hour": "02:00",
+          "percent": 49
+        },
+        {
+          "hour": "03:00",
+          "percent": 39
+        }
+      ]
+    }
+  ],
+  "relatedSearches": null,
+  "relateds": null,
+  "editMode": false
+}

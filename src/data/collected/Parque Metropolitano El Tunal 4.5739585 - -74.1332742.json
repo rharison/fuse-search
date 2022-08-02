@@ -1,0 +1,759 @@
+{
+  "mainName": "Parque Metropolitano El Tunal",
+  "slug": "parque-metropolitano-el-tunal",
+  "category": "Parque",
+  "locationInformation": {
+    "latitude": "4.5739585",
+    "longitude": "-74.1332742"
+  },
+  "basicInformation": [
+    {
+      "label": "endereço",
+      "tooltip": "Copiar endereço",
+      "text": "Cra. 19 #52B-15, Bogotá, Colômbia",
+      "icon": "https://www.gstatic.com/images/icons/material/system_gm/1x/place_gm_blue_24dp.png"
+    },
+    {
+      "label": "website",
+      "tooltip": "Abrir website",
+      "text": "idrd.gov.co",
+      "icon": "https://www.gstatic.com/images/icons/material/system_gm/1x/public_gm_blue_24dp.png"
+    },
+    {
+      "label": "telefone",
+      "tooltip": "Copiar número de telefone",
+      "text": "+57 313 2660016",
+      "icon": "https://www.gstatic.com/images/icons/material/system_gm/1x/phone_gm_blue_24dp.png"
+    },
+    {
+      "label": "merchant",
+      "text": "Reivindicar esta empresa",
+      "icon": "https://www.gstatic.com/images/icons/material/system_gm/1x/verified_user_gm_blue_24dp.png"
+    }
+  ],
+  "ratingInformation": {
+    "basicRatingInformation": {
+      "averageGrade": 4.4,
+      "totalOfEvaluations": 17622
+    },
+    "ratingsByGrade": [
+      {
+        "grade": 5,
+        "totalRatings": 10562
+      },
+      {
+        "grade": 4,
+        "totalRatings": 4647
+      },
+      {
+        "grade": 3,
+        "totalRatings": 1690
+      },
+      {
+        "grade": 2,
+        "totalRatings": 324
+      },
+      {
+        "grade": 1,
+        "totalRatings": 399
+      }
+    ]
+  },
+  "ratingTags": [
+    {
+      "tag": "esportes",
+      "count": 742,
+      "tooltip": "esportes, mencionado em 742 avaliações"
+    },
+    {
+      "tag": "biblioteca",
+      "count": 176,
+      "tooltip": "biblioteca, mencionado em 176 avaliações"
+    },
+    {
+      "tag": "BMX",
+      "count": 54,
+      "tooltip": "BMX, mencionado em 54 avaliações"
+    },
+    {
+      "tag": "iluminação pública",
+      "count": 50,
+      "tooltip": "iluminação pública, mencionado em 50 avaliações"
+    },
+    {
+      "tag": "palco",
+      "count": 36,
+      "tooltip": "palco, mencionado em 36 avaliações"
+    },
+    {
+      "tag": "futsal",
+      "count": 30,
+      "tooltip": "futsal, mencionado em 30 avaliações"
+    },
+    {
+      "tag": "cometa",
+      "count": 15,
+      "tooltip": "cometa, mencionado em 15 avaliações"
+    }
+  ],
+  "featuredPhotos": [
+    "https://lh5.googleusercontent.com/p/AF1QipNUHT12FjJYJk5kzO1FphK2pN8ihMr472fR_AhJ=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMyXm3i9wA_7ism7aRckE16QramKuIQ4HL30OaZ=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNxutn5CdHXFDeevEsbNlX8dMynPvxY7aceOJc=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMywHWEYS92P5Vkz4Toj-tJcweRj56zj2_F7U9n=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPcOzqz6rDp6PS59iB7NG114b-v2ZfvBVMuek3S=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPEB2Y_J-vQXJcakhBhd3SnKsW_JW_ZXsD_hIAa=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNTgQp55l_qVx3fCQd9fYHqDfDMDHELreNJFJoI=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOcF1-0D2HMZamnvcBwCvS7gEeNzYgRoCiMpUbt=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOyzQU0Ew67PxgMEiE5nCK-TgOIIhTnQjzveWAD=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMXuFl6f94F4YDE2IHqSkCSdfDiM8QPJ_yJZY7k=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMvMnJdiNhKkfHLhMHCkzB9HmvmHBFb0soObC0c=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMLRJLBqbpnPX4q4jeXP4kTdHzyo_IYWCmUwWVw=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPp9_noXS3DWEZ9wGOXfyY4AOGCaygHBaSDs1eL=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNH_Smp-0H949y_K-jsOFZ3BEaCym6iZHKLL_ri=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPPO284_X5Q_BZN0oq5xJS5LsS4HAl1QmI6RcLC=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipN39QdGfFC8a_xr5lqOCajodF0t4JC2FjqBDgTX=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNvqGXaTNwlbfSlpM_2TWZ4u_HY2ZEXAgUJXyWz=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNnOZ2PJIhdBCV_nq8rJGuKcaNEg5xijgfM7W5h=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipP_hofrdgTUkNx0OLmtRcO0njFgqBdAiBgCoOhI=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPdN28vOQbdHFx4HzTq0PGo38I-lol8M9setUBE=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipO5IyX3YrLwCCI91iWfEcsoe-AP4OuBvGqIMMiI=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPNLEvCdybtwD1b7ONpQHOoXcTeV5wmIAGdZy3F=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOLZ5RU2R5G_Hn3H0hT5dtvexaNo2MVPQtUVzsj=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOeMEbfLXk4luBECjZK8W4CLnnc-b9qrONLNUDd=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPYV4umkwqtz7KV2Pi7lI5VmVXDTqpgYr6p-rFx=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNG2cVjoBIKAaJ11OdgPyP9f0rmkYJ3rXUpcovB=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNcGA2kX4D3dCqsMIKzTAe7nwuvR0M1TZ8iJLA9=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNQS39ah4VN4qhAyqVMMO_lIR6m4DfHgkt12q71=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPPwSrenUFsb_ojTostHiiW-6Ka6AGTZQoH8tqD=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOqwq65vfbsiuTtySq4DHVKbLOBU218Is5uoiQX=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMwGYDbd5yD5i2-thx9djeeApsM7v6lBbndVaIl=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOdzwtr72kggaPQLIDdwJT1euBxliu5ixaKJdV_=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPmY_l-ohsCGJ7C_AcVBdGe-fmcX2ZdJlpOKV6J=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMVx98A67IepuIU68k4FPL7aH0UZ-xf3kC9sC2a=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMvlvqPUIDQTejGiWua6XSRMma3blKg6DoZzZdR=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPNMphyWp9wW3NCYxf-bNdJilO72GYuIN2LXHY=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipO15UOgEGZN9tee-F6mCtslLwz7ubjmgswozV9Y=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPMD1Pkkw6FoL2gVL0fBSidZZtF469GaUiv8ZjM=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOugjO99epTNCVdjm46pIMCq4e8FGQeSvbcP91p=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNTbfSvG3ejSZ9d8E5efLPON3f689uwXP7hlRhU=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMfTZgMZjLIidIF3CExzyUNiMuDdkY9DKpHahk=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipO3TV5ezvyQUob7zEwJBxei7ej75UuTcdmyoIiq=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNZun_VidA-WWSGUfXv4cgWQetx6aF_LqHQ1gJk=w1024-h576-k-no"
+  ],
+  "topComments": [
+    {
+      "author": "Stella González",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucq3R8uTsjJzDzSbxerpc_0VdbWNGTo8SynFR2XsnQ=w36-h36-p-c0x00000000-rp-mo-br100",
+      "comment": "Esta super bonito",
+      "gradeComment": 5
+    },
+    {
+      "author": "Luisa Maximiano",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucp2U1yGNComJXhgSkAMusKIhp4EvHlR4Z9jRVq9GkY=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "Parque bem gostoso e completo, bom para passar uma tarde com os amigos, fazer exercícios ou ir a biblioteca que se encontra dentro dele.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Ismael Amaya",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucpDN-laCBo4mQLunAvNS-nClt72coYaIVaJZEkh=w36-h36-p-c0x00000000-rp-mo-ba3-br100",
+      "comment": "Bbb",
+      "gradeComment": 5
+    },
+    {
+      "author": "orosman Garzon",
+      "photoAuthor": "https://lh3.googleusercontent.com/a/AItbvmkUmHoKQhaFE1ybheSOzVa9rIKQICxC_s1UPTfd=w36-h36-p-c0x00000000-rp-mo-br100",
+      "comment": "Espetacular...running",
+      "gradeComment": 5
+    },
+    {
+      "author": "William J Galindo Ariza",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucrlKDM9pCoHsBwoaABDqmmdzQ69leo2lAHvjbo8YRM=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "Grande",
+      "gradeComment": 3
+    },
+    {
+      "author": "jaime eduardo cárdenas rueda",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucpx6y6jokHizekYRxcnuhJJsXChYyNMUjMnpeQYNw=w36-h36-p-c0x00000000-rp-mo-ba5-br100",
+      "comment": "Grande",
+      "gradeComment": 4
+    },
+    {
+      "author": "Sebastián Mancilla",
+      "photoAuthor": "https://lh3.googleusercontent.com/a/AItbvmlUNaLLz3JL2eMaN-LzD6ohUGVYVzs_Wch4IGON=w36-h36-p-c0x00000000-rp-mo-br100",
+      "comment": "Chimbita",
+      "gradeComment": 5
+    },
+    {
+      "author": "Angel SALDARRIAGA",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucrJ256Fh7scwJEy052Ean1lN0SDwpS3_qc3IZiDLg=w36-h36-p-c0x00000000-rp-mo-ba5-br100",
+      "comment": "Bonito",
+      "gradeComment": 3
+    },
+    {
+      "author": "santiago barragan",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucpv53Q0S1Nb84oVxA9BlnAQkr8tFI3La1cG3NU9AZs=w36-h36-p-c0x00000000-rp-mo-br100",
+      "comment": "Bacanisimooo 😆😆😆",
+      "gradeComment": 5
+    },
+    {
+      "author": "Mauricio Velez",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucolGk-xunUo11pRPICY8Is9Jsg5dS6zMM3Goumne0c=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "(Tradução do Google) Dou três estrelas porque quase não há árvores, parece muito árido, não permitem estacionamento para um carro, o que torna muito desconfortável ir, pois não há nas proximidades, você tem que ir ao shopping mais próximo. Só fui ver a iluminação, que na minha opinião, é um pouco ruim e deveriam realizar atividades ou possibilitar a área de recreação infantil, quando fui, estava tudo escuro.  (Original) Doy tres estrellas porque casi no hay árboles, se ve muy árido, no habilitan parqueadero para carro, lo que hace muy incómodo ir ya que no hay cerca, toca ir hasta el centro comercial mas.cercano. fui solo a ver el alumbrado, el cual para mi opinión, está algo pobre y deberían realizar actividades o habilitar la zona de juegos de niños, cuando fui, todo estaba a oscuras.",
+      "gradeComment": 3
+    },
+    {
+      "author": "angelicamaria garciagarcia",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucrjEfeLWLQHH0l32SedzeJxu9z1tPUvhQtdqOLVMw=w36-h36-p-c0x00000000-rp-mo-br100",
+      "comment": "(Tradução do Google) O lugar mais completo para fazer atividade física, recreação e o melhor de tudo dentro do parque é a biblioteca pública Gabriel García Márquez onde você terá acesso gratuito a muitas histórias, internet e quarto infantil, parque. O atum completo e altamente recomendado.  (Original) El lugar más completo para hacer actividad física , recreación y lo mejor de todo dentro de el parque está la biblioteca pública Gabriel García Márquez dónde tendrás acceso gratuito a muchas historias, internet y sala infantil , parque. El tuna completo y recomendadísimo.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Juan Galvez",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucrfEXDYE2_l5qgP_-ul77KFYAIlGvzxl7NGehKdoQ=w36-h36-p-c0x00000000-rp-mo-ba3-br100",
+      "comment": "(Tradução do Google) Surpreendentemente aconchegante, um lugar de lazer para curtir com a família, lindas paisagens para curtir e relaxar os olhos enquanto respira um ar puro. Lindo lugar!  (Original) Sorprendentemente acogedor, lugar de esparcimiento para disfrutar en familia, hermoso paisaje para disfrutar y relajar la vista respirando aire fresco. Lindo lugar!",
+      "gradeComment": 5
+    },
+    {
+      "author": "Fer choo",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucoUdVLzqmMH_BsKnpXfnlIItdVK8HONfjAVQD8Jgw=w36-h36-p-c0x00000000-rp-mo-ba2-br100",
+      "comment": "(Tradução do Google) Local agradável para descansar, praticar esportes e desfrutar de todas as áreas verdes e outros locais adequados para a prática de esportes  (Original) Lugar agradable para descansar, hacer deporte, y disfrutar todas las zonas verdes y demás sitios aptos para hacer deporte",
+      "gradeComment": 5
+    },
+    {
+      "author": "JHON GARCIA",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucp9pUU63PSxdaiD4cTWUvEowmC7aN1Cr12Jt4Ma6A=w36-h36-p-c0x00000000-rp-mo-ba3-br100",
+      "comment": "(Tradução do Google) Excelente altamente recomendado e seguro para estar com a família e compartilhar uma boa tarde  (Original) Excelente muy recomendado  y seguro para estar en  familia y compartir una buena tarde",
+      "gradeComment": 5
+    },
+    {
+      "author": "Luisa Quintero",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucqI4JOMK6lhWfwWzNC-vX1_NeQtxSuDpGmm_UeoNQ=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "(Tradução do Google) Parque com quadras poliesportivas, amplo e tranquilo.  (Original) Parque con canchas deportivas, amplio y tranquilo.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Ana Rodriguez",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucrPyQLn2GBhyOvNexJ6y_JxFX_Z8WINXrzhBCs_Pt4=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "(Tradução do Google) É um parque muito extenso, nele se encontram todo tipo de lugares, pet park, biblioteca Gabriel García Márquez, campos de futebol, basquete, barracas para comprar comida, pista de skate, pista de patinação, pista de atletismo, quadras de tênis, pista de ciclismo, ali são algumas fontes de água e parques infantis.  (Original) Es un parque muy extenso, hay todo tipo de lugares en él, parque para mascotas, la biblioteca Gabriel García Márquez, canchas de fútbol, basquetbol, casetas para comprar comida, zona de skate, pista de patinaje, pista de atletismo, canchas de tenis, zona de ciclismo, hay algunos bebederos de agua y parques infantiles.",
+      "gradeComment": 4
+    },
+    {
+      "author": "Maria Isabel Forero rivera",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucox1ndZ8iUwurEZWeq7m5AYGxpP_2yhcqQac9otQA=w36-h36-p-c0x00000000-rp-mo-ba3-br100",
+      "comment": "(Tradução do Google) Lugar muito agradável e agradável para compartilhar com a família  (Original) Lugar muy bonito y agradable para compartir en familia",
+      "gradeComment": 5
+    },
+    {
+      "author": "Rowinson Pinilla Vega",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucreKlLiYxjtcOWJhAppGzzio6S5DrfxAq7FLk7z9w=w36-h36-p-c0x00000000-rp-mo-br100",
+      "comment": "(Tradução do Google) É um parque muito bonito, lá para se divertir com a família, amigos, conhecidos. Seja fazendo algum esporte ou exercício que é muito essencial para a saúde.  (Original) Es un parque muy precioso, allí a distraerse uno con la familia, amigos, conocidos. Ya sea haciendo algún deporte o ejercicio que es muy fundamental para la salud.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Shirley Rivera",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucpLnAkSWynsRDAZw7rbQv9cf_1bx2ewmiikV05gLg=w36-h36-p-c0x00000000-rp-mo-ba3-br100",
+      "comment": "(Tradução do Google) Excelente é grande, tem um lago com brinquedos de areia para crianças, um castelo e várias atrações para crianças como escorregadores. Onde dezembro as luzes acendem às 6:00 da tarde. O único aspecto negativo é que o estacionamento é uma área muito pequena e é difícil chegar de carro.  (Original) Excelente es grande, tiene lago con juego de arena para los niños, un castillo y varias atracciones para niños como toboganes. En donde diciembre prenden a las 6:00 de la tarde las luces. Lo único negativo es el estacionamiento es un área muy pequeña y es difícil llegar en carro.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Giovanni Melendez",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucr60qOt1hDwVSCpfJqPf-Dvm2sZGJPyKVq-tkYflA=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "(Tradução do Google) Geralmente o parque é muito bonito. São necessárias muito mais árvores, monitorando as pessoas que trazem cães e não recolhem seus excrementos. Às segundas-feiras o parque fica muito sujo por causa de todo o lixo deixado por alguns maus visitantes nos finais de semana. É IMPOSSÍVEL usar o estacionamento porque, como dizem os próprios seguranças, é EXCLUSIVO para funcionários do IDRD e sem falar nas piscinas onde estão sempre cheias, mas ESTRANHO quando há SUPOSTAMENTE inscrições nunca há vagas. Como e quem manipula isso no IDRD?  (Original) Generalmente el parque es muy bonito. Hacen falta muchos más árboles, seguimiento a personas que llevan perros y no recogen sus excrementos. Los lunes el parque queda muy sucio por toda la basura que dejan algunos malos visitantes los fines de semana. El parqueadero es IMPOSIBLE utilizarlo porque como dicen los mismos guardas de seguridad es EXCLUSIVO para los funcionarios del IDRD y ni hablar de las piscinas donde siempre están llenas pero EXTRAÑAMENTE cuando SUPUESTAMENTE hay inscripciones NUNCA hay cupos. Cómo y quién manipula eso en el IDRD?",
+      "gradeComment": 3
+    }
+  ],
+  "peakHours": [
+    {
+      "Sunday": [
+        {
+          "hour": "05:00",
+          "percent": 4
+        },
+        {
+          "hour": "06:00",
+          "percent": 12
+        },
+        {
+          "hour": "07:00",
+          "percent": 26
+        },
+        {
+          "hour": "08:00",
+          "percent": 45
+        },
+        {
+          "hour": "09:00",
+          "percent": 67
+        },
+        {
+          "hour": "10:00",
+          "percent": 85
+        },
+        {
+          "hour": "11:00",
+          "percent": 95
+        },
+        {
+          "hour": "12:00",
+          "percent": 100
+        },
+        {
+          "hour": "13:00",
+          "percent": 99
+        },
+        {
+          "hour": "14:00",
+          "percent": 94
+        },
+        {
+          "hour": "15:00",
+          "percent": 82
+        },
+        {
+          "hour": "16:00",
+          "percent": 63
+        },
+        {
+          "hour": "17:00",
+          "percent": 42
+        },
+        {
+          "hour": "18:00",
+          "percent": 24
+        },
+        {
+          "hour": "19:00",
+          "percent": 12
+        },
+        {
+          "hour": "20:00",
+          "percent": 5
+        }
+      ]
+    },
+    {
+      "Monday": [
+        {
+          "hour": "05:00",
+          "percent": 4
+        },
+        {
+          "hour": "06:00",
+          "percent": 6
+        },
+        {
+          "hour": "07:00",
+          "percent": 10
+        },
+        {
+          "hour": "08:00",
+          "percent": 14
+        },
+        {
+          "hour": "09:00",
+          "percent": 18
+        },
+        {
+          "hour": "10:00",
+          "percent": 23
+        },
+        {
+          "hour": "11:00",
+          "percent": 28
+        },
+        {
+          "hour": "12:00",
+          "percent": 31
+        },
+        {
+          "hour": "13:00",
+          "percent": 32
+        },
+        {
+          "hour": "14:00",
+          "percent": 31
+        },
+        {
+          "hour": "15:00",
+          "percent": 27
+        },
+        {
+          "hour": "16:00",
+          "percent": 22
+        },
+        {
+          "hour": "17:00",
+          "percent": 17
+        },
+        {
+          "hour": "18:00",
+          "percent": 14
+        },
+        {
+          "hour": "19:00",
+          "percent": 10
+        },
+        {
+          "hour": "20:00",
+          "percent": 8
+        }
+      ]
+    },
+    {
+      "Tuesday": [
+        {
+          "hour": "05:00",
+          "percent": 5
+        },
+        {
+          "hour": "06:00",
+          "percent": 8
+        },
+        {
+          "hour": "07:00",
+          "percent": 11
+        },
+        {
+          "hour": "08:00",
+          "percent": 14
+        },
+        {
+          "hour": "09:00",
+          "percent": 16
+        },
+        {
+          "hour": "10:00",
+          "percent": 16
+        },
+        {
+          "hour": "11:00",
+          "percent": 15
+        },
+        {
+          "hour": "12:00",
+          "percent": 12
+        },
+        {
+          "hour": "13:00",
+          "percent": 11
+        },
+        {
+          "hour": "14:00",
+          "percent": 12
+        },
+        {
+          "hour": "15:00",
+          "percent": 17
+        },
+        {
+          "hour": "16:00",
+          "percent": 24
+        },
+        {
+          "hour": "17:00",
+          "percent": 29
+        },
+        {
+          "hour": "18:00",
+          "percent": 28
+        },
+        {
+          "hour": "19:00",
+          "percent": 21
+        },
+        {
+          "hour": "20:00",
+          "percent": 12
+        }
+      ]
+    },
+    {
+      "Wednesday": [
+        {
+          "hour": "05:00",
+          "percent": 7
+        },
+        {
+          "hour": "06:00",
+          "percent": 11
+        },
+        {
+          "hour": "07:00",
+          "percent": 15
+        },
+        {
+          "hour": "08:00",
+          "percent": 18
+        },
+        {
+          "hour": "09:00",
+          "percent": 18
+        },
+        {
+          "hour": "10:00",
+          "percent": 16
+        },
+        {
+          "hour": "11:00",
+          "percent": 12
+        },
+        {
+          "hour": "12:00",
+          "percent": 10
+        },
+        {
+          "hour": "13:00",
+          "percent": 9
+        },
+        {
+          "hour": "14:00",
+          "percent": 12
+        },
+        {
+          "hour": "15:00",
+          "percent": 16
+        },
+        {
+          "hour": "16:00",
+          "percent": 19
+        },
+        {
+          "hour": "17:00",
+          "percent": 19
+        },
+        {
+          "hour": "18:00",
+          "percent": 17
+        },
+        {
+          "hour": "19:00",
+          "percent": 12
+        },
+        {
+          "hour": "20:00",
+          "percent": 7
+        }
+      ]
+    },
+    {
+      "Thursday": [
+        {
+          "hour": "05:00",
+          "percent": 4
+        },
+        {
+          "hour": "06:00",
+          "percent": 8
+        },
+        {
+          "hour": "07:00",
+          "percent": 11
+        },
+        {
+          "hour": "08:00",
+          "percent": 14
+        },
+        {
+          "hour": "09:00",
+          "percent": 16
+        },
+        {
+          "hour": "10:00",
+          "percent": 16
+        },
+        {
+          "hour": "11:00",
+          "percent": 16
+        },
+        {
+          "hour": "12:00",
+          "percent": 15
+        },
+        {
+          "hour": "13:00",
+          "percent": 15
+        },
+        {
+          "hour": "14:00",
+          "percent": 15
+        },
+        {
+          "hour": "15:00",
+          "percent": 17
+        },
+        {
+          "hour": "16:00",
+          "percent": 20
+        },
+        {
+          "hour": "17:00",
+          "percent": 21
+        },
+        {
+          "hour": "18:00",
+          "percent": 21
+        },
+        {
+          "hour": "19:00",
+          "percent": 18
+        },
+        {
+          "hour": "20:00",
+          "percent": 12
+        }
+      ]
+    },
+    {
+      "Friday": [
+        {
+          "hour": "05:00",
+          "percent": 4
+        },
+        {
+          "hour": "06:00",
+          "percent": 8
+        },
+        {
+          "hour": "07:00",
+          "percent": 11
+        },
+        {
+          "hour": "08:00",
+          "percent": 14
+        },
+        {
+          "hour": "09:00",
+          "percent": 15
+        },
+        {
+          "hour": "10:00",
+          "percent": 14
+        },
+        {
+          "hour": "11:00",
+          "percent": 13
+        },
+        {
+          "hour": "12:00",
+          "percent": 13
+        },
+        {
+          "hour": "13:00",
+          "percent": 14
+        },
+        {
+          "hour": "14:00",
+          "percent": 16
+        },
+        {
+          "hour": "15:00",
+          "percent": 18
+        },
+        {
+          "hour": "16:00",
+          "percent": 20
+        },
+        {
+          "hour": "17:00",
+          "percent": 20
+        },
+        {
+          "hour": "19:00",
+          "percent": 14
+        },
+        {
+          "hour": "20:00",
+          "percent": 9
+        }
+      ]
+    },
+    {
+      "Saturday": [
+        {
+          "hour": "05:00",
+          "percent": 5
+        },
+        {
+          "hour": "06:00",
+          "percent": 12
+        },
+        {
+          "hour": "07:00",
+          "percent": 22
+        },
+        {
+          "hour": "08:00",
+          "percent": 31
+        },
+        {
+          "hour": "09:00",
+          "percent": 36
+        },
+        {
+          "hour": "10:00",
+          "percent": 35
+        },
+        {
+          "hour": "11:00",
+          "percent": 29
+        },
+        {
+          "hour": "12:00",
+          "percent": 22
+        },
+        {
+          "hour": "13:00",
+          "percent": 18
+        },
+        {
+          "hour": "14:00",
+          "percent": 18
+        },
+        {
+          "hour": "15:00",
+          "percent": 22
+        },
+        {
+          "hour": "16:00",
+          "percent": 24
+        },
+        {
+          "hour": "17:00",
+          "percent": 24
+        },
+        {
+          "hour": "18:00",
+          "percent": 21
+        },
+        {
+          "hour": "19:00",
+          "percent": 15
+        },
+        {
+          "hour": "20:00",
+          "percent": 10
+        }
+      ]
+    }
+  ],
+  "relatedSearches": [
+    "parque el tunal piscina",
+    "parque el tunal horario",
+    "parque tunal piscina inscripciones 2022",
+    "el tunal hospital",
+    "parque el tunal - mapa",
+    "parque el tunal como llegar",
+    "el tunal es peligroso",
+    "barrio el tunal",
+    "parque el tunal piscina",
+    "parque el tunal horario",
+    "parque tunal piscina inscripciones 2022",
+    "el tunal hospital",
+    "parque el tunal - mapa",
+    "parque el tunal como llegar",
+    "el tunal es peligroso",
+    "barrio el tunal"
+  ],
+  "relateds": []
+}

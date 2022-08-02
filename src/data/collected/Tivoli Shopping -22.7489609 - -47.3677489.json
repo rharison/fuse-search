@@ -1,0 +1,711 @@
+{
+  "mainName": "Tivoli Shopping",
+  "slug": "tivoli-shopping",
+  "category": "Shopping center",
+  "locationInformation": {
+    "latitude": "-22.7489609",
+    "longitude": "-47.3677489"
+  },
+  "basicInformation": [
+    {
+      "label": "endereço",
+      "tooltip": "Copiar endereço",
+      "text": "R. do Ósmio, 699 - Vila Mollon IV, Santa Bárbara d'Oeste - SP, 13456-625",
+      "icon": "https://www.gstatic.com/images/icons/material/system_gm/1x/place_gm_blue_24dp.png"
+    },
+    {
+      "label": "cardápio",
+      "tooltip": "Abrir link do cardápio",
+      "text": "Cardápio\nburgerking.com.br",
+      "icon": "https://www.gstatic.com/images/icons/material/system_gm/1x/list_gm_blue_24dp.png"
+    },
+    {
+      "label": "website",
+      "tooltip": "Abrir website",
+      "text": "tivolishopping.com.br",
+      "icon": "https://www.gstatic.com/images/icons/material/system_gm/1x/public_gm_blue_24dp.png"
+    },
+    {
+      "label": "telefone",
+      "tooltip": "Copiar número de telefone",
+      "text": "(19) 3457-9966",
+      "icon": "https://www.gstatic.com/images/icons/material/system_gm/1x/phone_gm_blue_24dp.png"
+    },
+    {
+      "label": "Code",
+      "tooltip": "Copiar Plus Code",
+      "text": "7J2J+CW Vila Mollon IV, Santa Bárbara d'Oeste - SP",
+      "icon": "https://maps.gstatic.com/mapfiles/maps_lite/images/2x/ic_plus_code.png"
+    }
+  ],
+  "ratingInformation": {
+    "basicRatingInformation": {
+      "averageGrade": 4.4,
+      "totalOfEvaluations": 19229
+    },
+    "ratingsByGrade": [
+      {
+        "grade": 5,
+        "totalRatings": 12062
+      },
+      {
+        "grade": 4,
+        "totalRatings": 4645
+      },
+      {
+        "grade": 3,
+        "totalRatings": 1842
+      },
+      {
+        "grade": 2,
+        "totalRatings": 306
+      },
+      {
+        "grade": 1,
+        "totalRatings": 374
+      }
+    ]
+  },
+  "ratingTags": [
+    {
+      "tag": "praça de alimentação",
+      "count": 422,
+      "tooltip": "praça de alimentação, mencionado em 422 avaliações"
+    },
+    {
+      "tag": "família",
+      "count": 328,
+      "tooltip": "família, mencionado em 328 avaliações"
+    },
+    {
+      "tag": "passeio",
+      "count": 159,
+      "tooltip": "passeio, mencionado em 159 avaliações"
+    },
+    {
+      "tag": "cinema",
+      "count": 116,
+      "tooltip": "cinema, mencionado em 116 avaliações"
+    },
+    {
+      "tag": "diversão",
+      "count": 99,
+      "tooltip": "diversão, mencionado em 99 avaliações"
+    },
+    {
+      "tag": "lazer",
+      "count": 95,
+      "tooltip": "lazer, mencionado em 95 avaliações"
+    },
+    {
+      "tag": "finais de semana",
+      "count": 51,
+      "tooltip": "finais de semana, mencionado em 51 avaliações"
+    },
+    {
+      "tag": "gosto",
+      "count": 40,
+      "tooltip": "gosto, mencionado em 40 avaliações"
+    },
+    {
+      "tag": "agora",
+      "count": 21,
+      "tooltip": "agora, mencionado em 21 avaliações"
+    },
+    {
+      "tag": "laser",
+      "count": 12,
+      "tooltip": "laser, mencionado em 12 avaliações"
+    }
+  ],
+  "featuredPhotos": [
+    "https://lh5.googleusercontent.com/p/AF1QipOhqS_fRXqlje_GF8M3bhyfwJSi_iY_aqbFcklP=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOjcfS1aCDa1q_aH-muwritt5mA39QwwYd8DFwy=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNjTSOzyyspBAxvekwC3YJI2qYuzjE9TsIzbigb=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipN26PPlB1xyabiMFJM0IupsjXvkP2rtkyoop_Hc=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNiDcGfkM6TjpO-aeNs2Pct-H5sm_v0Y4WlqhE_=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNIRW9CaguNAuTOALxEv0RMo30_1Vg0AQ_4VO91=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPxXlXJ_6QTOjL9m8Hot-8S9iYpo1VZnfAGQ5hF=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMQnUb3QLntaM-GGnIldkxCeJqfaLQTWRFKJCsK=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPm08yR_py-okXq2yoDWRiTX3XYlBJPq_EbK4ZT=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPkDt5uo6o9UMxCLad12O3wu39J2v1pJOIZOOwJ=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOyE_5asIYi7qCqxkN-3Zzxd2S5taey4nh5M-sM=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNJbK2uZOMxAhkZF6GMMcFlkxXjM9ExJRh9R-Bd=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipP-IIRxYl67M0A-go_TTVgJ6wSl-g_whVw5HwHj=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOHqL0993UrMVrKBjTBtpOWTurA8lXjyQmSekvf=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipN-UUpJ3tyOqUoRWG4ijqQUYT3IPztRL0cBLPtG=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOZmwsDFIdVE2J1wGLayl2u1H4BC0nA3imqSa3T=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipP48xQxcnB5z7N4r5vWwI-ZV_tZzwSPoHo7ZC4D=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPPTknhLAhzHiP3uG-fkZmceomq1dk2WxSnVsAV=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPA4anI7hy9t3-3k3HrsRrHSeuWFmGuE08OYXI_=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNZbCGJN0Bupz6KOqWl3AUNPCtcXv7eUaMf_2hC=w1024-h576-k-no"
+  ],
+  "topComments": [
+    {
+      "author": "Gherit Printes",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucrEifOBN3M70GEuWGgKuMTcE5VrCmOhH2U4pEG3KOw=w36-h36-p-c0x00000000-rp-mo-ba5-br100",
+      "comment": "É um shopping muito completo e cheio de opções!",
+      "gradeComment": 5
+    },
+    {
+      "author": "Guilherme Chinellato",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucoVapU7xC3CLKVKWG9xXD68czBtZohKlSdIwVZBDQ=w36-h36-p-c0x00000000-rp-mo-ba3-br100",
+      "comment": "É um ambiente agradável e depois das reformas ficou muito bonito. Porém nós horários de maior movimento é quase impossível achar lugar pra sentar na praça de alimentação, é também muito mal organizado pois não tem nenhum controle sobre as mesas e cadeiras, uma família com umas mesas e muitas cadeiras e muitas mesas sem nenhuma cadeira. A praça de alimentação nos finais de semana é um verdadeiro caos, uma anarquia. Mas pelo menos é bem limpo, a equipe de limpeza é excelente.",
+      "gradeComment": 4
+    },
+    {
+      "author": "Júlio Sergio Lopes",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucr9tkjvFXa6meuSAMU3VOCqF0g4gSa76DgV_42V=w36-h36-p-c0x00000000-rp-mo-br100",
+      "comment": "Trabalho com entregas. Cheguei hoje lá por volta das 12:15. Arrumei a mercadoria no meu carrinho, mas fui bloqueado de entrar com ele. Alegaram que no horário de almoço tem riscos para os usuários do shopping. Tive que levar nas mãos., que na minha opinião tem mais riscos, além de fazer em três viagens eu faria em uma só!",
+      "gradeComment": 1
+    },
+    {
+      "author": "Deyvid Ramos",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucoTMrppOADNvg2mgwpIboCZ9qrfALYpuMENXXjMraw=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "Praça de alimentação precisa ser ampliada e modernizada,os corredores cheios de quiosques, muito desagradável",
+      "gradeComment": 3
+    },
+    {
+      "author": "Nick",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZuconR4p3JjOM7U3eQDxdp92zHyqxplPqCut_p6guPw=w36-h36-p-c0x00000000-rp-mo-ba5-br100",
+      "comment": "Lugar ótimo para dar uma volta, passear, e uma área de lazer perfeita para dar uma volta, e comprar algo, e ir embora. Porém, o estacionamento é meio caro, 7,00 R$ 3 horas e + 1,00 Real por hora, sendo que nos shoppings de outras cidades vizinhas são mais baratos e por mais tempo.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Jailson Silva",
+      "photoAuthor": "https://lh3.googleusercontent.com/a/AItbvmkvtyQPrlrTMOuEl_4lU4sUE7pSVml0_xKLFJgg=w36-h36-p-c0x00000000-rp-mo-ba5-br100",
+      "comment": "Muitas opções de lojas em um único térreo e estácionamento grande . Só peca pelas poucas opções na praça de alimentação e pelas poucas mesas . Mas se conseguir se sentar , com certeza vai se interessar em comer alguma coisa . São poucas as opções mas o suficiente para não sair com fome . Restaurante até a data de hoje só tem um . Comida simples e cara pelo que é servido . Cobrásse os 10% mas quando se pede a conta pro garçom , ele manda ir pagar direto no caixa .",
+      "gradeComment": 4
+    },
+    {
+      "author": "Elom Reis",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucrH4996AeWT8qx9KcJE-9RxSB1dv_7jMAmpr8RJLc0=w36-h36-p-c0x00000000-rp-mo-ba5-br100",
+      "comment": "Gostei bastante de estar no shopping tivoli,fixa bem localizado e de fácil acesso... Um shopping não muito grande mas bem organizado e com tudo que vc precisa, e com um estacionamento bem grande.. Super recomendo esse shopping... Em minha próxima visita a cidade irei visitar de novo..forte abraço que Deus abençoe a todos...",
+      "gradeComment": 5
+    },
+    {
+      "author": "Ricardo Jordão",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucqKRHe2JHA2cUhUJ3C8CK-RtzymHty65yTvBv8p=w36-h36-p-c0x00000000-rp-mo-ba3-br100",
+      "comment": "Boa opção de passeio. Somente 1 ressalva à praça de alimentação. BK chama pelo nome, não tem sistema de senha, isso é péssimo se vc esta sentado longe, pq somente eles tem que ser diferente? Ah o kioske do churros, muito ruim, churros fritos e requentados.",
+      "gradeComment": 4
+    },
+    {
+      "author": "Juliane Dias",
+      "photoAuthor": "https://lh3.googleusercontent.com/a/AItbvmnRR9ojIPMfK-Qj6K_hrabn8Kt9YYGDCv-80XrN=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "Lugar com boa praça de alimentação e amplo estacionamento e boas opções de lojas. Para quem tem criança pequena é possível pegar carrinho emprestado facilitando a locomoção, e também possui um bom fraldario, com poltronas para amamentação. Amei isso.",
+      "gradeComment": 4
+    },
+    {
+      "author": "Julie Machi",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZuco9oV2chYoEwjko7-l12zKXeLaZFPdhdm4482gvIFg=w36-h36-p-c0x00000000-rp-mo-ba3-br100",
+      "comment": "Minha única reclamação é o valor do estacionamento vs tempo. De resto, um lugar agradável, com grande variedade de lojas, temperatura perfeita (bem geladinho), amo a área de alimentação, amo o cinema, a área de brinquedos apesar de cara é boa, bons banheiros. Muito limpo tb.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Renovadas Estética e Beleza Fernanda Nemoto",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucqCZGj_CrUk3WAIVs7Bg5U2i8qJQfo-OA9qBrYqSDg=w36-h36-p-c0x00000000-rp-mo-ba3-br100",
+      "comment": "Único shopping da região que fica localizado em Sbo. Gosto mais da praça de alimentação e entretenimento. Bom tbm que tem as lojas Renner, Pernambucanas, C&A, Americanas, loja de 1 real que me atendem mto bem. Já comprei geladeira, máquina de lavar roupas, micro-ondas e vários eletrodomésticos. Pra mim, ter lojas até as 22h me ajuda mto.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Valeria Padulla",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucov9SgsMi-PyGHwKHJCbt6PNBlBAF3wMRzIWnRrHg=w36-h36-p-c0x00000000-rp-mo-ba3-br100",
+      "comment": "O local é agradável, de fácil acesso. Visitei por algumas vezes o Coco Bambu, tem música ao vivo, se não curte música depressiva procure outro restaurante. No demais a loja oferece excelente atendimento.",
+      "gradeComment": 5
+    },
+    {
+      "author": "francisco junior",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucogQDi8TYzU0MJwk6xp_WGmTyw0Pavydbe3KemsQQ=w36-h36-p-c0x00000000-rp-mo-ba3-br100",
+      "comment": "Em todo o espaço do shopping meu pet foi bem recebido inclusive dentro da magazine Luiza e demais lojas, mas infelizmente na área de jogos não há placas de proibição e mesmo o pet estando no colo fui abordado e achei chato. Já que não pode pet mesmo no colo que coloquem placa de aviso.",
+      "gradeComment": 3
+    },
+    {
+      "author": "Clayton16480robert 356",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucpJ1OpL7SjWOumlwa5BJEvAhZtfpKSAKwM2F5bQ6Yw=w36-h36-p-c0x00000000-rp-mo-br100",
+      "comment": "Lugar top,não concordo com a taxa de estacionamento se vc consumiu algo no mesmo. Taxa deveria ser cobrado a cima de um limite estabelecido de 25 ou talvez 30.00",
+      "gradeComment": 5
+    },
+    {
+      "author": "herbert moura",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucqOmTPv0jZQyR6cP4o0mnfP8tKpnuwgRKk62S2J=w36-h36-p-c0x00000000-rp-mo-ba2-br100",
+      "comment": "ACONSELHO QUEM AINDA NAO CONHECE PARA CONHECER, ÓTIMO LUGAR PARA PASSEIO E DIVERSÃO COM A FAMILIA, COM RECINTO PARA ALIMENTAÇÃO AREA DE RECREAÇÃO PARA CRIANÇAS LOJAS DE TODAS AS UTILIDADES ÁREA PETS E CINEMA PARA A FAMÍLIA, DEIXEM SEU LIKE CASO CURTIREM DEUS ABENÇOE. 🕊️❤️",
+      "gradeComment": 5
+    },
+    {
+      "author": "Roberto Maschietto",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucoykfnceAiORZCYq065uZfRm8JjHTAEyQmjioolBA=w36-h36-p-c0x00000000-rp-mo-ba3-br100",
+      "comment": "Ótimo shopping, ele eh pequeno mais tem várias lojas uma areia de alimentação boa com várias opções e um cinema muito bom. Vale a pena visitar.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Tiagowitch",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucoq7QRS8hNx1H34u5I8Zm_QnXmu8PnVeiaKw7sEVg=w36-h36-p-c0x00000000-rp-mo-br100",
+      "comment": "Bom, porém os eventos vem piorando a cada dia, o evento do vídeo game foi o melhor",
+      "gradeComment": 4
+    },
+    {
+      "author": "Carolina C. Santos",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucouj11Qdm9YibbBKyDBIztdAsxmYBvKuFM-Zr5hywk=w36-h36-p-c0x00000000-rp-mo-br100",
+      "comment": "A nível de interior o shopping é agradável, porém possui muitas oportunidades para desenvolvimento, principalmente no atendimento ao cliente ofertados pelos lojistas e praça de alimentação (que hoje possui poucas opções).",
+      "gradeComment": 4
+    },
+    {
+      "author": "Loide Fernandes",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucqKG5pu16SPrdnb8pXNoQ-nuoc8wP6PaNspsbpy8A=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "Bom shopping, boa estrutura, muiiitas lojas, mas a praça de alimentação deixa a desejar pelo tamanho do shopping, pedia mais opções.",
+      "gradeComment": 4
+    },
+    {
+      "author": "Andreza Sousa",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucpjmfmJNJGcL4vn6fvKpHMDarakZ7oqQXjs3WOTE-Y=w36-h36-p-c0x00000000-rp-mo-br100",
+      "comment": "Lindo demais 😍,super limpo e organizado, muito bom para passeio e compras,e também para muita diversão....",
+      "gradeComment": 5
+    }
+  ],
+  "peakHours": [
+    {
+      "Sunday": [
+        {
+          "hour": "14:00",
+          "percent": 85
+        },
+        {
+          "hour": "15:00",
+          "percent": 97
+        },
+        {
+          "hour": "16:00",
+          "percent": 95
+        },
+        {
+          "hour": "17:00",
+          "percent": 88
+        },
+        {
+          "hour": "18:00",
+          "percent": 80
+        },
+        {
+          "hour": "19:00",
+          "percent": 67
+        }
+      ]
+    },
+    {
+      "Monday": [
+        {
+          "hour": "10:00",
+          "percent": 18
+        },
+        {
+          "hour": "11:00",
+          "percent": 25
+        },
+        {
+          "hour": "12:00",
+          "percent": 32
+        },
+        {
+          "hour": "13:00",
+          "percent": 38
+        },
+        {
+          "hour": "14:00",
+          "percent": 42
+        },
+        {
+          "hour": "15:00",
+          "percent": 44
+        },
+        {
+          "hour": "16:00",
+          "percent": 45
+        },
+        {
+          "hour": "17:00",
+          "percent": 47
+        },
+        {
+          "hour": "18:00",
+          "percent": 51
+        },
+        {
+          "hour": "19:00",
+          "percent": 55
+        },
+        {
+          "hour": "20:00",
+          "percent": 51
+        },
+        {
+          "hour": "21:00",
+          "percent": 38
+        }
+      ]
+    },
+    {
+      "Tuesday": [
+        {
+          "hour": "10:00",
+          "percent": 18
+        },
+        {
+          "hour": "11:00",
+          "percent": 25
+        },
+        {
+          "hour": "12:00",
+          "percent": 32
+        },
+        {
+          "hour": "13:00",
+          "percent": 38
+        },
+        {
+          "hour": "14:00",
+          "percent": 41
+        },
+        {
+          "hour": "15:00",
+          "percent": 42
+        },
+        {
+          "hour": "16:00",
+          "percent": 41
+        },
+        {
+          "hour": "17:00",
+          "percent": 44
+        },
+        {
+          "hour": "18:00",
+          "percent": 51
+        },
+        {
+          "hour": "19:00",
+          "percent": 58
+        },
+        {
+          "hour": "20:00",
+          "percent": 56
+        },
+        {
+          "hour": "21:00",
+          "percent": 41
+        }
+      ]
+    },
+    {
+      "Wednesday": [
+        {
+          "hour": "10:00",
+          "percent": 19
+        },
+        {
+          "hour": "11:00",
+          "percent": 26
+        },
+        {
+          "hour": "12:00",
+          "percent": 34
+        },
+        {
+          "hour": "13:00",
+          "percent": 40
+        },
+        {
+          "hour": "14:00",
+          "percent": 43
+        },
+        {
+          "hour": "15:00",
+          "percent": 43
+        },
+        {
+          "hour": "16:00",
+          "percent": 42
+        },
+        {
+          "hour": "17:00",
+          "percent": 44
+        },
+        {
+          "hour": "18:00",
+          "percent": 51
+        },
+        {
+          "hour": "20:00",
+          "percent": 59
+        },
+        {
+          "hour": "21:00",
+          "percent": 45
+        }
+      ]
+    },
+    {
+      "Thursday": [
+        {
+          "hour": "10:00",
+          "percent": 17
+        },
+        {
+          "hour": "11:00",
+          "percent": 26
+        },
+        {
+          "hour": "12:00",
+          "percent": 36
+        },
+        {
+          "hour": "13:00",
+          "percent": 45
+        },
+        {
+          "hour": "14:00",
+          "percent": 51
+        },
+        {
+          "hour": "15:00",
+          "percent": 52
+        },
+        {
+          "hour": "16:00",
+          "percent": 51
+        },
+        {
+          "hour": "17:00",
+          "percent": 53
+        },
+        {
+          "hour": "18:00",
+          "percent": 60
+        },
+        {
+          "hour": "19:00",
+          "percent": 65
+        },
+        {
+          "hour": "20:00",
+          "percent": 61
+        },
+        {
+          "hour": "21:00",
+          "percent": 45
+        }
+      ]
+    },
+    {
+      "Friday": [
+        {
+          "hour": "10:00",
+          "percent": 21
+        },
+        {
+          "hour": "11:00",
+          "percent": 29
+        },
+        {
+          "hour": "12:00",
+          "percent": 37
+        },
+        {
+          "hour": "13:00",
+          "percent": 45
+        },
+        {
+          "hour": "14:00",
+          "percent": 51
+        },
+        {
+          "hour": "15:00",
+          "percent": 53
+        },
+        {
+          "hour": "16:00",
+          "percent": 53
+        },
+        {
+          "hour": "17:00",
+          "percent": 54
+        },
+        {
+          "hour": "18:00",
+          "percent": 60
+        },
+        {
+          "hour": "19:00",
+          "percent": 72
+        },
+        {
+          "hour": "20:00",
+          "percent": 75
+        },
+        {
+          "hour": "21:00",
+          "percent": 59
+        }
+      ]
+    },
+    {
+      "Saturday": [
+        {
+          "hour": "10:00",
+          "percent": 24
+        },
+        {
+          "hour": "11:00",
+          "percent": 40
+        },
+        {
+          "hour": "12:00",
+          "percent": 58
+        },
+        {
+          "hour": "13:00",
+          "percent": 76
+        },
+        {
+          "hour": "14:00",
+          "percent": 89
+        },
+        {
+          "hour": "15:00",
+          "percent": 95
+        },
+        {
+          "hour": "16:00",
+          "percent": 93
+        },
+        {
+          "hour": "17:00",
+          "percent": 89
+        },
+        {
+          "hour": "18:00",
+          "percent": 91
+        },
+        {
+          "hour": "19:00",
+          "percent": 100
+        },
+        {
+          "hour": "20:00",
+          "percent": 99
+        },
+        {
+          "hour": "21:00",
+          "percent": 78
+        }
+      ]
+    }
+  ],
+  "relatedSearches": [
+    "tivoli shopping cinema",
+    "tivoli shopping trabalhe conosco",
+    "tivoli shopping lojas",
+    "brinquedos tivoli shopping",
+    "tivoli shopping horário de funcionamento",
+    "tivoli shopping telefone",
+    "tivoli shopping endereço",
+    "timax calçados tivoli shopping"
+  ],
+  "relateds": [
+    {
+      "mainName": "Parque D. Pedro Shopping",
+      "url": null
+    },
+    {
+      "mainName": "Shopping Hortolândia",
+      "url": null
+    },
+    {
+      "mainName": "Shopping Metrô Tatuapé",
+      "url": null
+    },
+    {
+      "mainName": "Taubaté Shopping",
+      "url": null
+    },
+    {
+      "mainName": "Grand Plaza Shopping",
+      "url": null
+    },
+    {
+      "mainName": "Shopping West Plaza",
+      "url": null
+    },
+    {
+      "mainName": "MUSEU DO VIDEOGAME ITINERANTE",
+      "url": null
+    },
+    {
+      "mainName": "Shopping ABC",
+      "url": null
+    },
+    {
+      "mainName": "Manaira Shopping",
+      "url": null
+    },
+    {
+      "mainName": "Botafogo Praia Shopping",
+      "url": null
+    },
+    {
+      "mainName": "Shopping Iguatemi Campinas",
+      "url": null
+    },
+    {
+      "mainName": "Diamond Mall",
+      "url": null
+    },
+    {
+      "mainName": "RibeirãoShopping",
+      "url": null
+    },
+    {
+      "mainName": "Shopping Estação",
+      "url": null
+    },
+    {
+      "mainName": "Cachoeira do Sapezeiro",
+      "url": null
+    },
+    {
+      "mainName": "BH Shopping",
+      "url": null
+    },
+    {
+      "mainName": "Iguatemi São Carlos",
+      "url": null
+    },
+    {
+      "mainName": "Salvador Norte Shopping",
+      "url": null
+    },
+    {
+      "mainName": "Shopping Plaza Niterói",
+      "url": null
+    },
+    {
+      "mainName": "Iguatemi Porto Alegre",
+      "url": null
+    },
+    {
+      "mainName": "Minas Shopping",
+      "url": null
+    },
+    {
+      "mainName": "Shopping Grande Rio",
+      "url": null
+    },
+    {
+      "mainName": "Praiamar Shopping",
+      "url": null
+    },
+    {
+      "mainName": "Porto Velho Shopping",
+      "url": null
+    }
+  ]
+}

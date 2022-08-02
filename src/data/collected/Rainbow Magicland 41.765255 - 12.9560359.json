@@ -1,0 +1,827 @@
+{
+  "mainName": "Rainbow Magicland",
+  "slug": "rainbow-magicland",
+  "category": "Parque de diversão",
+  "locationInformation": {
+    "latitude": "41.765255",
+    "longitude": "12.9560359"
+  },
+  "basicInformation": [
+    {
+      "label": "endereço",
+      "tooltip": "Copiar endereço",
+      "text": "Via della Pace, 00038 Valmontone RM, Itália",
+      "icon": "https://www.gstatic.com/images/icons/material/system_gm/1x/place_gm_blue_24dp.png"
+    },
+    {
+      "label": "website",
+      "tooltip": "Abrir website",
+      "text": "magicland.it",
+      "icon": "https://www.gstatic.com/images/icons/material/system_gm/1x/public_gm_blue_24dp.png"
+    },
+    {
+      "label": "telefone",
+      "tooltip": "Copiar número de telefone",
+      "text": "+39 06 9531 8700",
+      "icon": "https://www.gstatic.com/images/icons/material/system_gm/1x/phone_gm_blue_24dp.png"
+    },
+    {
+      "label": "Code",
+      "tooltip": "Copiar Plus Code",
+      "text": "QX84+4C Valmontone, Roma, Itália",
+      "icon": "https://maps.gstatic.com/mapfiles/maps_lite/images/2x/ic_plus_code.png"
+    }
+  ],
+  "ratingInformation": {
+    "basicRatingInformation": {
+      "averageGrade": 4,
+      "totalOfEvaluations": 14136
+    },
+    "ratingsByGrade": [
+      {
+        "grade": 5,
+        "totalRatings": 6649
+      },
+      {
+        "grade": 4,
+        "totalRatings": 3897
+      },
+      {
+        "grade": 3,
+        "totalRatings": 1975
+      },
+      {
+        "grade": 2,
+        "totalRatings": 711
+      },
+      {
+        "grade": 1,
+        "totalRatings": 904
+      }
+    ]
+  },
+  "ratingTags": [
+    {
+      "tag": "julho",
+      "count": 33,
+      "tooltip": "julho, mencionado em 33 avaliações"
+    },
+    {
+      "tag": "espectáculos",
+      "count": 367,
+      "tooltip": "espectáculos, mencionado em 367 avaliações"
+    },
+    {
+      "tag": "choque circulatório",
+      "count": 169,
+      "tooltip": "choque circulatório, mencionado em 169 avaliações"
+    },
+    {
+      "tag": "credo",
+      "count": 36,
+      "tooltip": "credo, mencionado em 36 avaliações"
+    },
+    {
+      "tag": "insígnia",
+      "count": 24,
+      "tooltip": "insígnia, mencionado em 24 avaliações"
+    },
+    {
+      "tag": "por assinatura",
+      "count": 23,
+      "tooltip": "por assinatura, mencionado em 23 avaliações"
+    },
+    {
+      "tag": "stunt performer",
+      "count": 16,
+      "tooltip": "stunt performer, mencionado em 16 avaliações"
+    }
+  ],
+  "featuredPhotos": [
+    "https://lh5.googleusercontent.com/p/AF1QipMble6o9hmp-z50Eycl0u99ZlEslOlF61PbI6U=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPtgGXydo7R7M6ysApN-WD89XmhkSf-59ABNsmC=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPwiTcaWVNr3oidyXAYpdhGy9fUx7zFke3B4KNP=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNWZaIPCJv6GLPBscvF1O-PIxoz0swhARGyvk0T=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipP1H8YdDkMvLcxhWdAXxSY-IN0Oh4c2EEykeyZx=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipP8qc2SZIaxdnFAcj0ADaMLMxBi0-Ir2nz66oUq=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOWZR6eMaXZv86Lw-tIlXUDbJ-ZQJZs78Fx-5qR=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOAsUvA3Zapgg-JO9AG6FpoW_gl43f0rBNihoqf=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOn6wB7w77oFGJXLzzZ-VoQr80xz9-cQXa4ksg-=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNZoaEyj_mMFZfBZRBHGg1EnJKIoUMieiBIqLb5=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipP1CpH377_Ms3jMMI00gf8aX9MdHRprwG4mbnTb=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPJOhracN696CXsEeXFoyI8VFt12pN3eogKJcl0=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMO2CQj87sC-dkGHePSmceGm9YBHshrF2j9Dkzc=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOM7ABghk3wAiGyUZ3O5VvsGyrq-YB5ke3A_826=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipP4gl7CQS-DpHhh-IqyC6BS82ue_TywR1JvXZDj=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipObVJZTzo9JJ2dRSI5SLgsBhTCZT2C2MeeS_x2o=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPUPwmtuZPafdq0bR2jXemhj-MfXgyuPvOa4MQP=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPJt-pcP-Kh7Iaxk9RLcp4-VGnd8rqISmMNxTeG=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNRFq4YrrmQjOaP8Zrn7MHTTy1zWQW8l868fngM=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPuJ0ks3RPUi1sjQZlQOn20C7oFEShAzlYqVIu_=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNS35eeoejY6OWw4F3Eke8aj8bPaf0O9GB_L7j7=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNdekamSv6dCdEXmKpvKZbxHqR3Xsqjn3eztI8S=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOPhZBjwiHz_nWnl5o6s9IH70q2NkaAFdqDQIJ5=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOgpj_mfOpcXy4x31cR_Pvk1YKFz54kvzOgCXI=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOSUo0PjnUzN8eWtjWrh8QYsgvmZ5Ox6Yc3kjFO=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipN5O-j6vq5xgiiiz3AQ_ifZaHhNjUCrz7Y69HTb=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPXiw19YQjpzp3ynMb9q3rjt-9es6_tn-362L8X=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOu2pgGgI07ehWrVOUhxBxGRBX6eBMxk_FPcABi=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOKqbL29Xcg3TQsY2nwLsop8B84S87ncwoNo_VW=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNC3t0PyoNz5lwWk7mpq2Up6uldQv7PgFujXfCy=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOrJ2A-exVbyx9MJsYdvuH24iE42iqP2Bo-KE1I=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPJw9cjxVFs4NlMgfAnjCPlhfu9sthrKXkwPpXU=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPN1YblfEOSNIn4Vm-_2-0Du9HyFrLSzSqDzsfy=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipP32Z-5EJ-4nyvJDfFTvfUcfzvg003vAdSNLf3h=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOjSptORP_VcLuzJjL4TzvHDgVlexVZNyzAz5xY=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMjcRYkr23skSNUEER5LY_AXj8MeY3iHN630Vg=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPb-OP0F69EkpxmFiQ3mc1XcloqJJKYU_FLRYrJ=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNmuy6IS3oIftnyk-g66S-DeTR0AgTvE4p3k7ph=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMHqYa485UU5qgajSKBafH7UOCf6zzLjJWmDQLa=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOa-6vKI7Dxigh9-eyOhFNva0g1Z_asCFl-6TyS=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNIRIOhv8pb6L7Lm_pJvA8N3UkklyFFVLVIeFUF=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipN13CHnS0_1zy1Ma5PbH3_BcV_JHhWJSjd9xL2O=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOOfh8rhTiGImLbcoN4jL-SS-W74P2EX85nzK8u=w1024-h576-k-no"
+  ],
+  "topComments": [
+    {
+      "author": "Mayara Colombo",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucrzSFuZ_3mnVzdMZw8_25PC_p21-KRbTE4QHrM0GBE=w36-h36-p-c0x00000000-rp-mo-br100",
+      "comment": "Excelente diversão para a família toda. De 3 a 90 anos. Muitas atrações radicais, shows, e atrações também para toda família. Uma delícia!",
+      "gradeComment": 5
+    },
+    {
+      "author": "Fabricio Raito",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucoComp921WMvxmuECkdGJnJzB_a_q64MjxP2Y6RJQ=w36-h36-p-c0x00000000-rp-mo-ba3-br100",
+      "comment": "O lugar é ótimo, infelizmente a montanha russa nao funcionava no dia que visitei. Fiquei decepcionado",
+      "gradeComment": 4
+    },
+    {
+      "author": "Bιᥲᥒᥴᥲ Pᥱrᥱs",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucrKTskAxwL2yNWkvC1owT8EVBqzEZJXMjZto0S52T0=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "O Primeiro Mundo é adorável",
+      "gradeComment": 5
+    },
+    {
+      "author": "guglielmo venosa",
+      "photoAuthor": "https://lh3.googleusercontent.com/a/AItbvmlk-9nyFIQ9njuuFiKMgsEAuDldYH-SnFtZAg7X=w36-h36-p-c0x00000000-rp-mo-br100",
+      "comment": "Belissimo",
+      "gradeComment": 5
+    },
+    {
+      "author": "GUIDO SPIGA",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucopr3iDmG0o6WZqkRtiuxvHf0-dGxtnyp6iCzdYfIg=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "Grande Favij",
+      "gradeComment": 4
+    },
+    {
+      "author": "Luca Meoni",
+      "photoAuthor": "https://lh3.googleusercontent.com/a/AItbvmmUp3wWboBaTd1SiHPDbn2DRDcAHsP_ypLx8PBp=w36-h36-p-c0x00000000-rp-mo-ba6-br100",
+      "comment": "(Tradução do Google) Parque de diversões legal, não tem muitas atrações mas todas muito divertidas e fofas. Qualidade de preço eu diria excelente! Em particular, o encantador show noturno é incrível! Espetáculo com jogos aquáticos e danças muito especiais. Definitivamente imperdível, é feito à noite após o jantar. A equipe muito agradável e sempre útil com um sorriso. Para refazer!  (Original) Parco di divertimenti carino, non ha moltissime attrazioni ma tutte molto divertenti e carine. Prezzo qualità direi ottimo! In particolare lo spettacolo incanto della sera è stupefacente! Spettacolo con giochi d'acqua e balli veramente particolare. Sicuramente da vedere, viene fatto la sera dopo cena. Il personale molto carino disponibile e sempre con il sorriso. Da rifare!",
+      "gradeComment": 5
+    },
+    {
+      "author": "Valerio Castriziani",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucobEtjZqKjndCK0FWwAJzwTZcAUjRXdj-Agn6u8bw=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "(Tradução do Google) No geral, experiência positiva. No entanto, não sinto vontade de ir além de quatro estrelas.  A entrada diária de adulto é de 37€ e o parque está aberto das 10h30 às 18h00, pelo menos no período de junho. A taxa parece um pouco alta para mim, especialmente para quais são as atrações no interior. A casa do Houdini e o Choque (principal atracção) estavam encerrados mas, devo salientar, que na saída deram-nos um bilhete grátis, por pessoa, apenas para sucumbirmos a esta falta e regressarmos noutro dia à nossa escolha.  O estacionamento custa 7€. Reservar uma mesa de piquenique tem um custo, não sei exatamente qual. Recomendo comer na sombra, no gramado, sem gastar mais dinheiro.  Eu aprecio o esforço considerável que eles fazem para ser um dos melhores parques de diversões da Itália, mas, por experiência, eles ainda não se enquadram no top 3. Mirabilandia e Gardaland ainda estão muito longe.  (Original) In generale, esperienza positiva. Però, non mi sento di andare oltre le quattro stelle.  L'ingresso giornaliero adulto è di 37€ ed il parco è aperto dalle 10.30 alle 18.00, almeno nel periodo di giugno. La tariffa mi sembra un po' alta, soprattutto per quelle che sono le attrazioni all'interno. La casa di Houdini e lo Shock (l'attrazione principale) erano chiuse ma, devo evidenziare, che all'uscita ci hanno regalato un biglietto gratuito, a persona, proprio per soccombere a questa mancanza e tornare in un altro giorno a nostra scelta.  Il parcheggio costa 7€. Prenotare un tavolo da pic-nic ha un costo, non so di preciso quale. Consiglio di mangiare anche all'ombra, sul prato, senza spendere altri soldi.  Apprezzo il notevole sforzo che fanno per essere uno dei parchi divertimento migliori d'Italia ma, per esperienza, ancora non rientrano nella top 3. Mirabilandia e Gardaland sono ancora molto lontani.",
+      "gradeComment": 4
+    },
+    {
+      "author": "tora dol",
+      "photoAuthor": "https://lh3.googleusercontent.com/a/AItbvmkHgZxciocqnsyAa8PmpzNXUtYJE2BgdMBI80A3=w36-h36-p-c0x00000000-rp-mo-br100",
+      "comment": "(Tradução do Google) Experiência mais ou menos! Eu não sinto vontade de ir além de duas estrelas.  A entrada diária de adulto é de € 37 !!! No site estava escrito que depois das 21h custava € 9,00, mas quando chegamos ao caixa (às 21h) fomos presenteados com € 14 cada! Incluiu o show de fogos de artifício UNA CIOFECA! A taxa parece um pouco alta para mim, especialmente para quais são as atrações no interior. O Choque (a atração principal) foi fechado!!!  O estacionamento custa 7€.  Estacione completamente no escuro e ninguém foi capaz de fornecer informações sobre a queima de fogos! Sinto muito, mas não estamos lá !!!  (Original) Esperienza così così ! Non mi sento di andare oltre le due stelle.  L'ingresso giornaliero adulto è di 37€ !!! Sul sito c’era scritto che dopo le 21 costava 9,00€ , invece arrivati in cassa (alle 21:00) ci hanno sfilato 14€a testa ! Era compreso lo spettacolo dei fuochi di artificio UNA CIOFECA ! La tariffa mi sembra un po' alta, soprattutto per quelle che sono le attrazioni all'interno. Lo Shock (l'attrazione principale) era chiusa !!!  Il parcheggio costa 7€.  Parco completamente al buio e nessuno ha saputo fornire indicazioni sullo spettacolo pirotecnico! Mi dispiace ma non ci siamo !!!",
+      "gradeComment": 2
+    },
+    {
+      "author": "Maria Hristova",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucoN1t5iTrPxABmhgMM44P34MMDsskcWuCz9T5zL=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "(Tradução do Google) Comprei meus ingressos online e estou feliz com todo o atendimento que recebemos no parque! Esta foi a minha segunda visita e foi apenas porque meu parceiro nunca esteve em tal lugar. Para ser honesto, nos divertimos como crianças e ele queria ficar lá o dia todo! Eu paguei o almoço online também, foi muito conveniente! Esteja ciente de que alguns restaurantes não estão abertos sem parar, então almoce e não deixe para as 16h como nós! Obrigado Magicland na próxima vez que visitarmos a Itália, um dia é salvo para visitá-lo novamente.  (Original) I bought my tickets online and I am happy with all the service we received at the park! This was my second visit and it was just because my partner has never been in such place. To be honest we had fun like little kids and he wanted to stay there all day! I paid for lunch online too, it was really convenient! Be aware that some restaurants are not open non stop so have lunch and don't leave it for 4pm like us! Thank you Magicland next time we visit Italy one day is saved to visit you again.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Manuela Scarano",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucoGR9I_IeApc1zZIVkrxFsF4zezlU0eanUREb6Y=w36-h36-p-c0x00000000-rp-mo-br100",
+      "comment": "(Tradução do Google) O parque é lindo, bem administrado, limpo e com muitas atrações para todos os gostos. A única falha são as conexões, o ônibus só chega na estação de Valmontone, e de Roma Termini para a estação de Valmontone há muito poucos trens. O parque fecha às 12h, mas tivemos que sair às 18h.  (Original) Il parco è bello, ben gestito, pulito e con tante attrazioni per tutti i gusti. L'unica pecca sono i collegamenti, il bus navetta arriva solo alla stazione di Valmontone, e da Roma Termini alla stazione di Valmontone ci sono pochissimi treni. Il parco chiude alle 24 ma siamo dovuti andare via alle 18.",
+      "gradeComment": 3
+    },
+    {
+      "author": "Davide Maugeri",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucpcg4bKEEfS2I7OYomvk45kMKvWuCoeu3HHFWQYYQ=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "(Tradução do Google) Um bom dia. Ao longo dos anos o parque vai adquirindo uma identidade bem definida, e a oferta em termos de atrações e espetáculos é cada vez mais enriquecida. A atmosfera nos últimos tempos é mais festiva e animada do que nunca, entre os desfiles de Gattobaleno e os jogos musicais de água muitas vezes você se vê sorrindo e batendo palmas ao ritmo da música. O parque está sendo gradualmente limpo e os efeitos danificados recuperados. Há muito mais cuidado do que havia quatro anos atrás. No entanto, uma grande falha para mim é que apesar das melhorias, uma grande fatia de pessoas que vem ao parque parece persistir, simplesmente pensando \"aquele lugar onde você se molha, vamos tomar uma caciara\", na minha opinião o O parque não deve apenas se comprometer a fazer cumprir as regras dentro da estrutura (que também incluem evitar vandalismo, pular as filas, fumar EM TODO LUGAR, usar termos vulgares e assediar outros hóspedes), mas também anunciar o parque para uma fatia do público ( crianças e famílias) que podem combater adequadamente a outra metade. Em geral, porém, tive um dia maravilhoso e espero voltar muito em breve.  (Original) Una bella giornata. Col passare degli anni il parco sta acquisendo un'identità ben definita, e l'offerta in termini di attrazioni e spettacoli si arricchisce sempre di più. L'atmosfera che si respira negli ultimi tempi è più festosa e vivace che mai, fra parate di Gattobaleno e giochi d'acqua musicali ci si ritrova spesso a sorridere e battere le mani a ritmo di musica. Il parco sta venendo poco a poco tirato tutto quanto a lucido e gli effetti guasti rimessi a posto. Si nota molta più cura di quanta non ce ne fosse quattro anni fa. Tuttavia una grossa pecca per me è che nonostante le migliorie, sembra persistere una grossa fetta di gente che viene al parco pensando semplicemente \"quello è il posto dove ci si bagna, andiamo a fare caciara\", secondo me il parco dovrebbe impegnarsi non solo a fare rispettare le regole all'interno della struttura (che prevedono anche astenersi dal vandalizzare, saltare le code, fumare OVUNQUE, usare termini volgari e molestare gli altri ospiti), ma anche a pubblicizzare il parco a una fetta di pubblico (bambini e famiglie) che possa adeguatamente contrastare l'altra metà. In generale però ho passato una bellissima giornata e spero di tornare molto presto.",
+      "gradeComment": 4
+    },
+    {
+      "author": "Paolo Amiro",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucoRCqsHTWEzzELDcTmx6ayEwNcph6tAeyeiDT7l1Tc=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "(Tradução do Google) Eu recomendo que você compre seus ingressos online no dia anterior para economizar. Lugar de estacionamento por uma taxa de 7 euros. Algumas atrações estão sujeitas a cobranças. Recepção 10, mas você paga por tudo e também caro. Traga seu próprio sanduíche se for estudante 😅  (Original) Vi consiglio di comprare i biglietti online il giorno prima per risparmiare. Posto auto a pagamento 7euro. Alcune attrazioni sono a pagamento. Accoglienza 10 ma si paga tutto e anche caro. Portatevi il panino da casa se siete studenti 😅",
+      "gradeComment": 4
+    },
+    {
+      "author": "Fabrizio Troncanetti",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucq3g2hupl6-7G8h6-3LAyIMeGvd0T5M_vXFbPqD=w36-h36-p-c0x00000000-rp-mo-ba5-br100",
+      "comment": "MagicLand è stata una vera sorpresa. Ci sono andato oggi per la prima volta e devo dire che sono stato molto fortunato. Poche file e traffico. Il parco nel complesso è molto bello, curato e pulito. Ci sono diverse aree per tutte l'eta. Consiglio di non andarci se si hanno bimbi con altezza inferiore di 95cm. Unica nota negativa, 7€ per il parcheggio mi sembrano troppi. Ho dato 5 stelle a questo parco perché offre la possibilità di riempire la borraccia da una fontanella nell'area picnic, non poco visto che questo periodo fa molto caldo",
+      "gradeComment": 5
+    },
+    {
+      "author": "GIAFFY'S WORLD",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucrWEUub3Y3ofy1GBslJUZ-gd3w8d-kMbaeqjnR-=w36-h36-p-c0x00000000-rp-mo-ba6-br100",
+      "comment": "È diventato, ormai da qualche anno, il parco divertimenti della Capitale, seppure è fuori dal centro urbano. La mia generazione ha vissuto il mitico Luneur, da poco riaperto. Ma il Rainbow MagicLand indubbiamente ha il merito di tenere il passo dei grandi parchi come Gardaland.",
+      "gradeComment": 5
+    },
+    {
+      "author": "massimiliano schiariti",
+      "photoAuthor": "https://lh3.googleusercontent.com/a/AItbvmkN4MsvOX2ja4rndb6PEQobZvmJ7xqQKXADwQ6k=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "(Tradução do Google) Lugar maravilhoso ... Para visitar com calma ... Numerosas atrações (embora algumas tenham fechado devido a regulamentos anticovid) funcionários simpáticos e prestativos. A iniciativa de reciclagem do plástico é muito legal ... Recomendo a reserva .. Bela experiência, nos divertimos muito  (Original) Posto meraviglioso... Da visitare con calma... Numerose attrazioni (anche se alcune chiuse per le normative anticovid) personale cordiale e disponibile. Molto bella l'iniziativa del riciclo plastica... Mi raccomando la prenotazione.. Bellissima esperienza, ci siamo divertiti tanto",
+      "gradeComment": 5
+    },
+    {
+      "author": "Emanuela Isabella",
+      "photoAuthor": "https://lh3.googleusercontent.com/a/AItbvmkskXKL5dhv5mZnVm-4Fg8aYj_l0zuLkstkvKxu=w36-h36-p-c0x00000000-rp-mo-ba3-br100",
+      "comment": "(Tradução do Google) Ideal para crianças! Entrada à tarde altamente recomendada para o calor! Pena que as atrações permaneçam completamente escuras quando o sol se põe, uma verdadeira pena e na minha opinião perigosa. Caro superfaturado estacionamento coberto.  (Original) Ideale per i bambini! Entrata pomeridiana consigliatissima per il caldo! Peccato che le attrazioni rimangano completamente al buio al calar del sole, un vero peccato e a mio parere pericoloso. Parcheggio interno troppo caro esagerato.",
+      "gradeComment": 3
+    },
+    {
+      "author": "Emanuele Barattoni",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucqxGyiGOGdQGY64DN8VYhcGNMxOQewv9p7CF2xE6A=w36-h36-p-c0x00000000-rp-mo-br100",
+      "comment": "(Tradução do Google) O parque em si é excelente, adequado para todas as faixas etárias, desde crianças a adultos. O problema surge quando, mesmo para uma lata de Coca-Cola, sua carteira está vazia. Ah, se vier de carro, terá de acrescentar sete euros ao preço do bilhete de estacionamento (preço que foi recentemente aumentado). Outro problema surge quando para acessar qualquer atração é preciso esperar pelo menos meia hora seguida, caso não esteja no final de semana. Legal sim, mas se você tiver uma bolsa de geladeira com tudo que precisa e muita paciência!  (Original) Il parco in sé per sé è ottimo, adatto ad ogni fascia d’età, a partire dei bambini fino agli adulti. Il problema sorge nel momento in cui, anche per una lattina di Coca Cola, vi viene svuotato il portafoglio. Ah, al prezzo del biglietto se venite con la macchina dovrete aggiungere sette euro per il parcheggio (prezzo che è stato alzato da poco). Un altro problema sorge nel momento in cui per accedere ad una qualunque attrazione è necessario farsi minimo mezz’ora di fila, se non vi trovate nel weekend. Bello sì, ma se vi munite di una borsa frigo con tutto il necessario e di tanta pazienza!",
+      "gradeComment": 3
+    },
+    {
+      "author": "bertuccia 79",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZuco6CvwLzE8MnusrF33S2G08oNN9baAX_xzTius9P1g=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "(Tradução do Google) Um parque de diversões que oferece muitas atrações para todas as idades. Da montanha-russa The Shock que zunia a 180 km / h ao trilho Cagliostro que vai no escuro girando sobre si mesmo, ao jogo de laser 3D que oferece emoções verdadeiramente emocionantes. Indicado para famílias com crianças passarem um dia despreocupado e alegre com a máxima segurança.  (Original) Un parco divertimenti che offre tante attrazioni adatte per tutte le età. Dalle montagne russe The shock che sfrecciano a 180 km/h alla rotaia Cagliostro che va al buio roteando su sé stessa, al laser game in 3D che regala emozioni davvero entusiasmanti. Adatto a famiglie con bambini per trascorrere una giornata in spensieratezza ed allegria nella massima sicurezza.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Dorotea D.",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZuco-rXkcbtUVE7l93LT8JkQpo3FVrf1-htNIDeS2=w36-h36-p-c0x00000000-rp-mo-br100",
+      "comment": "(Tradução do Google) Um bom parque de diversões, infelizmente algumas atrações estavam fechadas .. é melhor comprar o ingresso online porque custa cerca de 50% a mais nos caixas eletrônicos .. A novidade love boat .... ridículo e caro, 5 euros por 15 minutos em um trabicolo que vaza por todos os lados ..  (Original) Un bel parco di divertimento, purtroppo alcune attrazioni erano chiuse..conviene fare il biglietto online perché alle casse costa all'incirca il 50% in più.. La novità love boat....ridicola e costosa, 5 euro per 15 minuti in un trabicolo che fa acqua da tutte le parti..",
+      "gradeComment": 3
+    },
+    {
+      "author": "†DeNy †",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucojUy-NnN33t6_m2nTCIHlog8bJwAbu9C9KrBd0fLg=w36-h36-p-c0x00000000-rp-mo-br100",
+      "comment": "(Tradução do Google) Então tudo bem. Tenho que dizer uma coisa que fui lá às 5 da tarde, entrei no parque às 9, depois havia os agendados que vinham quando lhes parecia e nós, os que não estavam agendados, tínhamos que esperar por eles. Galera e tá tudo legal mas consegui fazer apenas 3 caronas, você poderia colocar mais enfermeiras ou fazer duas filas, uma agendada e outra nem tanto tem duas enfermeiras então pelo menos as pessoas vão se divertir o mais rápido possível você pode tô esperando tanto assim bha Aqui coloco 3 fotos pra mostrar como foi esse domingo.  (Original) Allora tutto bello. C'è una cosa che devo dire sono andata lì alle 5 di pomeriggio sono entrata nel parco alle 9, poi c'erano quelli prenotati che venivano quando pare a loro e noi quelli non prenotati dovevamo aspettare i comodi loro. Raga e tutto bello però mi  sono riuscita a fare solo 3 giostre, potreste mettere più infermiere oppure fare due file, una prenotata e una no tanto ci sono due infermiere fate così almeno la gente si va a divertire più presto possibile non si può aspettare così tanto bha Qui ho messo 3 foto per farvi vedere come è stato domenica questa.",
+      "gradeComment": 4
+    }
+  ],
+  "peakHours": [
+    {
+      "Sunday": [
+        {
+          "hour": "10:00",
+          "percent": 51
+        },
+        {
+          "hour": "11:00",
+          "percent": 84
+        },
+        {
+          "hour": "12:00",
+          "percent": 100
+        },
+        {
+          "hour": "13:00",
+          "percent": 96
+        },
+        {
+          "hour": "14:00",
+          "percent": 94
+        },
+        {
+          "hour": "15:00",
+          "percent": 98
+        },
+        {
+          "hour": "16:00",
+          "percent": 94
+        },
+        {
+          "hour": "17:00",
+          "percent": 75
+        },
+        {
+          "hour": "18:00",
+          "percent": 49
+        },
+        {
+          "hour": "19:00",
+          "percent": 27
+        },
+        {
+          "hour": "20:00",
+          "percent": 13
+        },
+        {
+          "hour": "21:00",
+          "percent": 6
+        }
+      ]
+    },
+    {
+      "Monday": [
+        {
+          "hour": "10:00",
+          "percent": 10
+        },
+        {
+          "hour": "11:00",
+          "percent": 16
+        },
+        {
+          "hour": "12:00",
+          "percent": 20
+        },
+        {
+          "hour": "13:00",
+          "percent": 20
+        },
+        {
+          "hour": "14:00",
+          "percent": 19
+        },
+        {
+          "hour": "15:00",
+          "percent": 19
+        },
+        {
+          "hour": "16:00",
+          "percent": 19
+        },
+        {
+          "hour": "17:00",
+          "percent": 15
+        },
+        {
+          "hour": "18:00",
+          "percent": 9
+        },
+        {
+          "hour": "19:00",
+          "percent": 3
+        },
+        {
+          "hour": "20:00",
+          "percent": 1
+        }
+      ]
+    },
+    {
+      "Tuesday": [
+        {
+          "hour": "10:00",
+          "percent": 6
+        },
+        {
+          "hour": "11:00",
+          "percent": 9
+        },
+        {
+          "hour": "12:00",
+          "percent": 10
+        },
+        {
+          "hour": "13:00",
+          "percent": 9
+        },
+        {
+          "hour": "14:00",
+          "percent": 9
+        },
+        {
+          "hour": "15:00",
+          "percent": 9
+        },
+        {
+          "hour": "16:00",
+          "percent": 9
+        },
+        {
+          "hour": "17:00",
+          "percent": 6
+        },
+        {
+          "hour": "18:00",
+          "percent": 3
+        },
+        {
+          "hour": "19:00",
+          "percent": 1
+        },
+        {
+          "hour": "21:00",
+          "percent": 1
+        }
+      ]
+    },
+    {
+      "Wednesday": [
+        {
+          "hour": "10:00",
+          "percent": 7
+        },
+        {
+          "hour": "11:00",
+          "percent": 10
+        },
+        {
+          "hour": "12:00",
+          "percent": 12
+        },
+        {
+          "hour": "13:00",
+          "percent": 12
+        },
+        {
+          "hour": "14:00",
+          "percent": 12
+        },
+        {
+          "hour": "15:00",
+          "percent": 13
+        },
+        {
+          "hour": "16:00",
+          "percent": 12
+        },
+        {
+          "hour": "17:00",
+          "percent": 10
+        },
+        {
+          "hour": "18:00",
+          "percent": 7
+        },
+        {
+          "hour": "19:00",
+          "percent": 4
+        },
+        {
+          "hour": "20:00",
+          "percent": 2
+        }
+      ]
+    },
+    {
+      "Thursday": [
+        {
+          "hour": "10:00",
+          "percent": 13
+        },
+        {
+          "hour": "11:00",
+          "percent": 18
+        },
+        {
+          "hour": "12:00",
+          "percent": 21
+        },
+        {
+          "hour": "13:00",
+          "percent": 21
+        },
+        {
+          "hour": "14:00",
+          "percent": 21
+        },
+        {
+          "hour": "15:00",
+          "percent": 22
+        },
+        {
+          "hour": "16:00",
+          "percent": 21
+        },
+        {
+          "hour": "17:00",
+          "percent": 18
+        },
+        {
+          "hour": "18:00",
+          "percent": 13
+        },
+        {
+          "hour": "19:00",
+          "percent": 7
+        },
+        {
+          "hour": "20:00",
+          "percent": 3
+        },
+        {
+          "hour": "21:00",
+          "percent": 1
+        }
+      ]
+    },
+    {
+      "Friday": [
+        {
+          "hour": "10:00",
+          "percent": 14
+        },
+        {
+          "hour": "11:00",
+          "percent": 21
+        },
+        {
+          "hour": "12:00",
+          "percent": 24
+        },
+        {
+          "hour": "13:00",
+          "percent": 25
+        },
+        {
+          "hour": "14:00",
+          "percent": 25
+        },
+        {
+          "hour": "15:00",
+          "percent": 25
+        },
+        {
+          "hour": "16:00",
+          "percent": 24
+        },
+        {
+          "hour": "17:00",
+          "percent": 20
+        },
+        {
+          "hour": "18:00",
+          "percent": 14
+        },
+        {
+          "hour": "19:00",
+          "percent": 9
+        },
+        {
+          "hour": "20:00",
+          "percent": 6
+        },
+        {
+          "hour": "21:00",
+          "percent": 5
+        }
+      ]
+    },
+    {
+      "Saturday": [
+        {
+          "hour": "10:00",
+          "percent": 34
+        },
+        {
+          "hour": "11:00",
+          "percent": 56
+        },
+        {
+          "hour": "12:00",
+          "percent": 65
+        },
+        {
+          "hour": "13:00",
+          "percent": 63
+        },
+        {
+          "hour": "14:00",
+          "percent": 63
+        },
+        {
+          "hour": "15:00",
+          "percent": 67
+        },
+        {
+          "hour": "16:00",
+          "percent": 66
+        },
+        {
+          "hour": "17:00",
+          "percent": 54
+        },
+        {
+          "hour": "18:00",
+          "percent": 38
+        },
+        {
+          "hour": "19:00",
+          "percent": 24
+        },
+        {
+          "hour": "20:00",
+          "percent": 14
+        },
+        {
+          "hour": "21:00",
+          "percent": 8
+        },
+        {
+          "hour": "22:00",
+          "percent": 5
+        },
+        {
+          "hour": "23:00",
+          "percent": 3
+        }
+      ]
+    }
+  ],
+  "relatedSearches": [
+    "magicland roma",
+    "bioparco roma",
+    "luna park roma",
+    "luneur park",
+    "leolandia",
+    "magicland roma",
+    "bioparco roma",
+    "luna park roma",
+    "luneur park",
+    "leolandia"
+  ],
+  "relateds": [
+    {
+      "mainName": "Cinecittà World",
+      "url": null
+    },
+    {
+      "mainName": "Zoomarine",
+      "url": null
+    },
+    {
+      "mainName": "Mirabilândia",
+      "url": null
+    },
+    {
+      "mainName": "Shock",
+      "url": null
+    },
+    {
+      "mainName": "Luneur Park",
+      "url": null
+    },
+    {
+      "mainName": "Hydromania",
+      "url": null
+    },
+    {
+      "mainName": "Gardaland",
+      "url": null
+    },
+    {
+      "mainName": "Mystika",
+      "url": null
+    },
+    {
+      "mainName": "Huntik 5D",
+      "url": null
+    },
+    {
+      "mainName": "Amusement Park Rome",
+      "url": null
+    },
+    {
+      "mainName": "Bioparque de Roma",
+      "url": null
+    },
+    {
+      "mainName": "Leolandia",
+      "url": null
+    },
+    {
+      "mainName": "Edenlandia",
+      "url": null
+    },
+    {
+      "mainName": "Fiabilandia",
+      "url": null
+    },
+    {
+      "mainName": "Le Rapide",
+      "url": null
+    },
+    {
+      "mainName": "Cagliostro",
+      "url": null
+    },
+    {
+      "mainName": "Aquafelix",
+      "url": null
+    },
+    {
+      "mainName": "CavallinoMatto",
+      "url": null
+    },
+    {
+      "mainName": "Cinecittà",
+      "url": null
+    },
+    {
+      "mainName": "Etnaland",
+      "url": null
+    },
+    {
+      "mainName": "CanevaWorld Resort",
+      "url": null
+    },
+    {
+      "mainName": "Aquafan",
+      "url": null
+    },
+    {
+      "mainName": "Haunted Hotel",
+      "url": null
+    },
+    {
+      "mainName": "Cinecittà World",
+      "url": null
+    },
+    {
+      "mainName": "Zoomarine",
+      "url": null
+    },
+    {
+      "mainName": "Mirabilândia",
+      "url": null
+    },
+    {
+      "mainName": "Shock",
+      "url": null
+    },
+    {
+      "mainName": "Luneur Park",
+      "url": null
+    },
+    {
+      "mainName": "Hydromania",
+      "url": null
+    },
+    {
+      "mainName": "Gardaland",
+      "url": null
+    },
+    {
+      "mainName": "Mystika",
+      "url": null
+    },
+    {
+      "mainName": "Huntik 5D",
+      "url": null
+    },
+    {
+      "mainName": "Amusement Park Rome",
+      "url": null
+    },
+    {
+      "mainName": "Bioparque de Roma",
+      "url": null
+    },
+    {
+      "mainName": "Leolandia",
+      "url": null
+    },
+    {
+      "mainName": "Edenlandia",
+      "url": null
+    },
+    {
+      "mainName": "Fiabilandia",
+      "url": null
+    },
+    {
+      "mainName": "Le Rapide",
+      "url": null
+    },
+    {
+      "mainName": "Cagliostro",
+      "url": null
+    },
+    {
+      "mainName": "Aquafelix",
+      "url": null
+    },
+    {
+      "mainName": "CavallinoMatto",
+      "url": null
+    },
+    {
+      "mainName": "Cinecittà",
+      "url": null
+    },
+    {
+      "mainName": "Etnaland",
+      "url": null
+    },
+    {
+      "mainName": "CanevaWorld Resort",
+      "url": null
+    },
+    {
+      "mainName": "Aquafan",
+      "url": null
+    },
+    {
+      "mainName": "Haunted Hotel",
+      "url": null
+    }
+  ]
+}

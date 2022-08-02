@@ -1,0 +1,946 @@
+{
+  "mainName": "Casa de los Azulejos",
+  "slug": "casa-de-los-azulejos",
+  "category": "Local histórico",
+  "locationInformation": {
+    "latitude": "19.4343286",
+    "longitude": "-99.140163"
+  },
+  "basicInformation": [
+    {
+      "label": "endereço",
+      "tooltip": "Copiar endereço",
+      "text": "Av Francisco I. Madero 4, Centro Histórico de la Cdad. de México, Centro, Cuauhtémoc, 06500 Ciudad de México, CDMX, México",
+      "icon": "https://www.gstatic.com/images/icons/material/system_gm/1x/place_gm_blue_24dp.png"
+    },
+    {
+      "label": "Code",
+      "tooltip": "Copiar Plus Code",
+      "text": "CVM5+PW Centro, Cidade do México, Distrito Federal, México",
+      "icon": "https://maps.gstatic.com/mapfiles/maps_lite/images/2x/ic_plus_code.png"
+    }
+  ],
+  "ratingInformation": {
+    "basicRatingInformation": {
+      "averageGrade": 4.5,
+      "totalOfEvaluations": 30034
+    },
+    "ratingsByGrade": [
+      {
+        "grade": 5,
+        "totalRatings": 20125
+      },
+      {
+        "grade": 4,
+        "totalRatings": 6724
+      },
+      {
+        "grade": 3,
+        "totalRatings": 2169
+      },
+      {
+        "grade": 2,
+        "totalRatings": 534
+      },
+      {
+        "grade": 1,
+        "totalRatings": 482
+      }
+    ]
+  },
+  "ratingTags": [
+    {
+      "tag": "delicioso",
+      "count": 7,
+      "tooltip": "delicioso, mencionado em 7 avaliações"
+    },
+    {
+      "tag": "refeição",
+      "count": 523,
+      "tooltip": "refeição, mencionado em 523 avaliações"
+    },
+    {
+      "tag": "mario hermoso",
+      "count": 470,
+      "tooltip": "mario hermoso, mencionado em 470 avaliações"
+    },
+    {
+      "tag": "tradição",
+      "count": 464,
+      "tooltip": "tradição, mencionado em 464 avaliações"
+    },
+    {
+      "tag": "muralismo",
+      "count": 287,
+      "tooltip": "muralismo, mencionado em 287 avaliações"
+    },
+    {
+      "tag": "emblemático",
+      "count": 213,
+      "tooltip": "emblemático, mencionado em 213 avaliações"
+    },
+    {
+      "tag": "piano",
+      "count": 199,
+      "tooltip": "piano, mencionado em 199 avaliações"
+    },
+    {
+      "tag": "decoração",
+      "count": 113,
+      "tooltip": "decoração, mencionado em 113 avaliações"
+    },
+    {
+      "tag": "belas artes",
+      "count": 61,
+      "tooltip": "belas artes, mencionado em 61 avaliações"
+    },
+    {
+      "tag": "vice-reino",
+      "count": 18,
+      "tooltip": "vice-reino, mencionado em 18 avaliações"
+    }
+  ],
+  "featuredPhotos": [
+    "https://lh5.googleusercontent.com/p/AF1QipNkIL34JkGqKRRCAf7JHX2KVhvd6uk2I8ZEq6CR=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMxWJ7WtTyQ2X81M_JyP5kMEsO1JKKjG37oXZKC=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOjRkjoLHqJ8QZQUkXUB-yf35PTOi4Y2xDTE9Qy=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNpM_KoUHjiXTu10JiVfBoOYJtv008eo_DDBuQo=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPzjfvoq80jHSzvUaKnWYKNzs4sn-c17Do782Ze=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMvudEdtZw4ZHGChCQbm4n8pZvfL_JPeHLgdl23=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPeoIU7fpfev2RQxD4IkvUFk_xnyQUpzLSerZha=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNWJkmiMyTnqQEBmpo_uoFzAjniDDQNcM4OaP8g=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNQPl0vbSsNwlHgvG95CZ4OrVEkKnS15srhSNeU=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNzM6sn5DRDQuoBF6moHF0X39pTE6j7uAh-F5DW=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNqTfbFEHv4zhnrxzzgfCz-kefEhPj9TIOYjkTI=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPZRAO0MF7liPkl18R7St2jR9RScsXHReQRYDb_=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMyYi5ezH-1oTk8b8LIN5J66F0fY36H2KxFVi9s=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOxbxFP3RF3pmMDzEZg0H-JirPAHBqpd0PVNZtT=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPDiM9ead5osMDJiDCvnjY1z0WiGBaqGBuvYWuu=w1024-h576-k-no"
+  ],
+  "topComments": [
+    {
+      "author": "Khalil Dib",
+      "photoAuthor": "https://lh3.googleusercontent.com/a/AItbvmkGdGpRDGn-IqZkER044pOrVu5qRdsGb3VP-dAZ=w36-h36-p-c0x00000000-rp-mo-br100",
+      "comment": "Local muito bonito; tem um certo charme. Eu e minha esposa almoçamos lá.  Temos mais filmagens do que fotos ( especialmente da parte interna).",
+      "gradeComment": 5
+    },
+    {
+      "author": "Paulo Sergio De Oliveira",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucqxgT_mI4mrx_FEJmBa2K2qojQP_guEZDXqD9_Jtg=w36-h36-p-c0x00000000-rp-mo-ba5-br100",
+      "comment": "É um lugar muito bonito e muito antigo na ciudad de México. Local muito bem decorado. Culinária tradicional mexicana. O pessoal do staff é muito gentil e atencioso. Pratos deliciosos e com bons preços. Recomendo muito apreciar a piña colada do local é uma delícia.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Luis Moura",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucol-WdIySpZRPfOlInXk_6D7gix4bxRmEmhy3wRTw=w36-h36-p-c0x00000000-rp-mo-ba3-br100",
+      "comment": "Ótimo restaurante para você que não aguenta mais comida e tempero local. Cozinha internacional de ótima qualidade",
+      "gradeComment": 5
+    },
+    {
+      "author": "José Teixeira Junior",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucoNWyWUlIWJDpFRR3YXnn_BTfWd1rruPRJpk--XdDc=w36-h36-p-c0x00000000-rp-mo-ba5-br100",
+      "comment": "Procurando um local com cozinha internacional tradicional para variar da rotina dos temperos da culinária mexicana acabei cruzando com o Restaurante Sanborns Madero.  Entrei despretensioso e recebi um excelente atendimento, um prato de filet saboroso com ponto impecável, batata francesa como deve ser, limonada bem produzida, e, sobremesa sensacional.  Com relação ao preço, muito justo para o que foi ofertado.  E, a melhor surpresa, ambiente histórico muito bacana, muito contextualizado e aderente à história mexicana.  Recomendo demais!",
+      "gradeComment": 4
+    },
+    {
+      "author": "Adriana Felix da Silva",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucpMLP40KZvVDlYgOHwKF79G8JqapbsKIHRo4CCLn_A=w36-h36-p-c0x00000000-rp-mo-ba3-br100",
+      "comment": "Simplesmente apaixonada. Arquitetura linda e os preços dos cafés acessíveis a todos os bolsos. É um lugar Incrível e aconchegante",
+      "gradeComment": 5
+    },
+    {
+      "author": "Marília Freire",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucp9i2-OZJV6_PfgYIxGkjF2RnrGeAc1EUc3ngd7_Q=w36-h36-p-c0x00000000-rp-mo-ba6-br100",
+      "comment": "Lindo casarão do século 17 que hoje funciona como  restaurante. A arquitetura é bela. O cenário é lindo. Tomei café da manhã lá em um sábado e foi excelente. Fica no centro histórico. Fachada toda em azulejos.",
+      "gradeComment": 4
+    },
+    {
+      "author": "Leonardo Borges Ferreira",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucq7VvdVWVvFq2oKmLnAkzfG1L-Oic0X--wxJ0YE3Q=w36-h36-p-c0x00000000-rp-mo-ba5-br100",
+      "comment": "Muito top, lembra a 25 de março de São Paulo. Um excelente lugar para fazer compras! Tem um restaurante muito magnífico e uma vista linda para boas fotos.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Victor Santos",
+      "photoAuthor": "https://lh3.googleusercontent.com/a/AItbvmm3VdFILtaj-5ulg2dHbcrpOLCAiLWNQxuw7zzd=w36-h36-p-c0x00000000-rp-mo-ba5-br100",
+      "comment": "Local pitoresco , mesas tanto no térreo como no segundo andar . Pequenas lojas diversas ao redor da parte central .",
+      "gradeComment": 4
+    },
+    {
+      "author": "Luciane Hiramatsu Azevedo",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucp6dCEThv7tEWuylJm9UZAaEXBpcIDYUyUB5WQHLFY=w36-h36-p-c0x00000000-rp-mo-ba2-br100",
+      "comment": "Doce típico muito delicioso. Domingo muito cheio!",
+      "gradeComment": 5
+    },
+    {
+      "author": "Sandro Reis",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZuco-hR6EzV1OJQWmoI-doiMRWQTu7XwDGfCVDW9lz-k=w36-h36-p-c0x00000000-rp-mo-ba6-br100",
+      "comment": "Casa histórica, que hoje abriga um restaurante, uma cafeteria e uma pequena loja de departamentos, segundo o guia que me levou lá, hoje pertence a Carlos Slim, dono da Claro!",
+      "gradeComment": 5
+    },
+    {
+      "author": "grazielle castro",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucrY2_9Qew6hYZxWemKQDEtimFMciiAqSMGOFbxNKg=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "Linda! Por fora não parece ser tão grande e bela. Excelente lugar para tomar um drink, ou tomar um café, ou até mesmo almoçar... Parada obrigatória entre o Palácio de Belas Artes e o Zócalo!",
+      "gradeComment": 5
+    },
+    {
+      "author": "Dilce Vianna",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucqiH9tZcSmaeHY1QMenxhj7ybGjCWa57q6LltTQhA=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "Bem agradável. Estava sendo ministrado um curso de arte quando visitei",
+      "gradeComment": 5
+    },
+    {
+      "author": "Rodrigo R Garcia",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucqu01lN3jPt9H0Qn8s2ZMi5FfOpqscbLshz0pxWqpY=w36-h36-p-c0x00000000-rp-mo-ba3-br100",
+      "comment": "Lugar muito bonito, comida saborosa sem frescura. Preço justo.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Marina Bazoni",
+      "photoAuthor": "https://lh3.googleusercontent.com/a/AItbvmlUO5_3jsRF-A_9pWPkBtIBxEA5noo2pYd-66C2=w36-h36-p-c0x00000000-rp-mo-br100",
+      "comment": "Bonito por dentro e por fora. A comida é muito boa.",
+      "gradeComment": 4
+    },
+    {
+      "author": "Thaís Ferreira",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucr0kj0kyue8IRIKZcYl1MfeeRyWld8nmRvoKuBt=w36-h36-p-c0x00000000-rp-mo-ba3-br100",
+      "comment": "Trata-se de um restaurante muito bonito! Por dentro, é muito bonito para sentar e almoçar ou mesmo para tomar um café. As mesas são antigas. Há mais de um andar ( com mesanino) e música boa de um bom violinista. O atendimento é excelente e apesar de uma fila para entrar, são organizadoras e acaba não demorando muito! Banheiro limpo. Bem no centro da cidade! Se foi ao Zocalo e a torre, pode aproveitar e almoçar por ali!",
+      "gradeComment": 5
+    },
+    {
+      "author": "Portugueses em Viagem",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucp3lPQSG-v_Mkf-gGAu_Bb_DxVSiZLtlN6R7vy0EQ=w36-h36-p-c0x00000000-rp-mo-ba3-br100",
+      "comment": "Um lugar mítico que tens de conhecer. Comida deliciosa, servida em ambulância. Staff muito profissional e simpático e o edíficio é lindo. Visita obrigatória se estiveres na cidade.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Eliete Oliveira Vargas",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucoVtUPT-MMdOIlDgP8yXSpIPhjF-Jr550CeEDRp8MI=w36-h36-p-c0x00000000-rp-mo-br100",
+      "comment": "Lindo, funciona um restaurante e é possível entrar e ver de perto esta beleza de casa da condessa.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Eliana Cipriano",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucrsa9ztXlUgnNcfpf-9O8GpzFQ-DQQ10ab4WLKOYUk=w36-h36-p-c0x00000000-rp-mo-ba2-br100",
+      "comment": "Gente amei esse lugar É muito lindo e chik Adorável",
+      "gradeComment": 5
+    },
+    {
+      "author": "Thomas Miliou",
+      "photoAuthor": "https://lh3.googleusercontent.com/a/AItbvmnoB3axDJvr-zzZiaBVZf8Yh3Cbg565ewv_wFPq=w36-h36-p-c0x00000000-rp-mo-br100",
+      "comment": "Decadente. Vale conhecer o prédio. Uma pena porque poderia ser incrível. Não vale a pena comer aqui. Limpeza questionável, bastante popular, cardápio tem algumas opções de pratos típicos. Pedi um prato famosas enchilafas  de frango com molho suíço, que era legal mas nada demais. Era um crepe com receio de frango e queijo gratinado. Os copos eram sujos.",
+      "gradeComment": 3
+    },
+    {
+      "author": "Giselaine",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucp9-bhx6w_wy9X-jBkSW4fq4M51pqRIu-uqykCEyw=w36-h36-p-c0x00000000-rp-mo-ba3-br100",
+      "comment": "Esperava mais... Não gostei muito da comida, mas é questão de gosto. O ambiente é bonito e o atendimento é mediano. Nosso pedido de bebidas veio errado, mesmo depois de confirmar várias vezes. O preço é razoável, não aceitam pagamento em dólar.",
+      "gradeComment": 3
+    }
+  ],
+  "peakHours": [
+    {
+      "Sunday": [
+        {
+          "hour": "07:00",
+          "percent": 8
+        },
+        {
+          "hour": "08:00",
+          "percent": 17
+        },
+        {
+          "hour": "09:00",
+          "percent": 30
+        },
+        {
+          "hour": "10:00",
+          "percent": 47
+        },
+        {
+          "hour": "11:00",
+          "percent": 64
+        },
+        {
+          "hour": "12:00",
+          "percent": 76
+        },
+        {
+          "hour": "13:00",
+          "percent": 80
+        },
+        {
+          "hour": "14:00",
+          "percent": 80
+        },
+        {
+          "hour": "15:00",
+          "percent": 80
+        },
+        {
+          "hour": "16:00",
+          "percent": 79
+        },
+        {
+          "hour": "17:00",
+          "percent": 76
+        },
+        {
+          "hour": "18:00",
+          "percent": 69
+        },
+        {
+          "hour": "19:00",
+          "percent": 56
+        },
+        {
+          "hour": "21:00",
+          "percent": 27
+        },
+        {
+          "hour": "22:00",
+          "percent": 15
+        },
+        {
+          "hour": "23:00",
+          "percent": 7
+        },
+        {
+          "hour": "00:00",
+          "percent": 3
+        }
+      ]
+    },
+    {
+      "Monday": [
+        {
+          "hour": "07:00",
+          "percent": 6
+        },
+        {
+          "hour": "08:00",
+          "percent": 12
+        },
+        {
+          "hour": "09:00",
+          "percent": 19
+        },
+        {
+          "hour": "10:00",
+          "percent": 27
+        },
+        {
+          "hour": "11:00",
+          "percent": 34
+        },
+        {
+          "hour": "12:00",
+          "percent": 40
+        },
+        {
+          "hour": "13:00",
+          "percent": 43
+        },
+        {
+          "hour": "14:00",
+          "percent": 44
+        },
+        {
+          "hour": "15:00",
+          "percent": 43
+        },
+        {
+          "hour": "16:00",
+          "percent": 40
+        },
+        {
+          "hour": "17:00",
+          "percent": 37
+        },
+        {
+          "hour": "18:00",
+          "percent": 34
+        },
+        {
+          "hour": "19:00",
+          "percent": 29
+        },
+        {
+          "hour": "20:00",
+          "percent": 23
+        },
+        {
+          "hour": "21:00",
+          "percent": 17
+        },
+        {
+          "hour": "22:00",
+          "percent": 11
+        },
+        {
+          "hour": "23:00",
+          "percent": 6
+        },
+        {
+          "hour": "00:00",
+          "percent": 2
+        }
+      ]
+    },
+    {
+      "Tuesday": [
+        {
+          "hour": "07:00",
+          "percent": 6
+        },
+        {
+          "hour": "08:00",
+          "percent": 13
+        },
+        {
+          "hour": "09:00",
+          "percent": 22
+        },
+        {
+          "hour": "10:00",
+          "percent": 30
+        },
+        {
+          "hour": "11:00",
+          "percent": 36
+        },
+        {
+          "hour": "12:00",
+          "percent": 40
+        },
+        {
+          "hour": "13:00",
+          "percent": 41
+        },
+        {
+          "hour": "14:00",
+          "percent": 41
+        },
+        {
+          "hour": "15:00",
+          "percent": 41
+        },
+        {
+          "hour": "16:00",
+          "percent": 40
+        },
+        {
+          "hour": "17:00",
+          "percent": 39
+        },
+        {
+          "hour": "18:00",
+          "percent": 36
+        },
+        {
+          "hour": "19:00",
+          "percent": 31
+        },
+        {
+          "hour": "20:00",
+          "percent": 24
+        },
+        {
+          "hour": "21:00",
+          "percent": 17
+        },
+        {
+          "hour": "22:00",
+          "percent": 11
+        },
+        {
+          "hour": "23:00",
+          "percent": 6
+        },
+        {
+          "hour": "00:00",
+          "percent": 2
+        }
+      ]
+    },
+    {
+      "Wednesday": [
+        {
+          "hour": "07:00",
+          "percent": 6
+        },
+        {
+          "hour": "08:00",
+          "percent": 13
+        },
+        {
+          "hour": "09:00",
+          "percent": 22
+        },
+        {
+          "hour": "10:00",
+          "percent": 30
+        },
+        {
+          "hour": "11:00",
+          "percent": 37
+        },
+        {
+          "hour": "12:00",
+          "percent": 40
+        },
+        {
+          "hour": "13:00",
+          "percent": 42
+        },
+        {
+          "hour": "14:00",
+          "percent": 43
+        },
+        {
+          "hour": "15:00",
+          "percent": 43
+        },
+        {
+          "hour": "16:00",
+          "percent": 43
+        },
+        {
+          "hour": "17:00",
+          "percent": 42
+        },
+        {
+          "hour": "18:00",
+          "percent": 39
+        },
+        {
+          "hour": "19:00",
+          "percent": 34
+        },
+        {
+          "hour": "20:00",
+          "percent": 28
+        },
+        {
+          "hour": "21:00",
+          "percent": 21
+        },
+        {
+          "hour": "22:00",
+          "percent": 14
+        },
+        {
+          "hour": "23:00",
+          "percent": 8
+        },
+        {
+          "hour": "00:00",
+          "percent": 3
+        }
+      ]
+    },
+    {
+      "Thursday": [
+        {
+          "hour": "07:00",
+          "percent": 6
+        },
+        {
+          "hour": "08:00",
+          "percent": 14
+        },
+        {
+          "hour": "09:00",
+          "percent": 23
+        },
+        {
+          "hour": "10:00",
+          "percent": 33
+        },
+        {
+          "hour": "11:00",
+          "percent": 40
+        },
+        {
+          "hour": "12:00",
+          "percent": 44
+        },
+        {
+          "hour": "13:00",
+          "percent": 45
+        },
+        {
+          "hour": "14:00",
+          "percent": 46
+        },
+        {
+          "hour": "15:00",
+          "percent": 46
+        },
+        {
+          "hour": "16:00",
+          "percent": 48
+        },
+        {
+          "hour": "17:00",
+          "percent": 48
+        },
+        {
+          "hour": "18:00",
+          "percent": 46
+        },
+        {
+          "hour": "19:00",
+          "percent": 40
+        },
+        {
+          "hour": "20:00",
+          "percent": 33
+        },
+        {
+          "hour": "21:00",
+          "percent": 24
+        },
+        {
+          "hour": "22:00",
+          "percent": 16
+        },
+        {
+          "hour": "23:00",
+          "percent": 9
+        },
+        {
+          "hour": "00:00",
+          "percent": 4
+        }
+      ]
+    },
+    {
+      "Friday": [
+        {
+          "hour": "07:00",
+          "percent": 6
+        },
+        {
+          "hour": "08:00",
+          "percent": 14
+        },
+        {
+          "hour": "09:00",
+          "percent": 24
+        },
+        {
+          "hour": "10:00",
+          "percent": 34
+        },
+        {
+          "hour": "11:00",
+          "percent": 42
+        },
+        {
+          "hour": "12:00",
+          "percent": 46
+        },
+        {
+          "hour": "13:00",
+          "percent": 47
+        },
+        {
+          "hour": "14:00",
+          "percent": 48
+        },
+        {
+          "hour": "15:00",
+          "percent": 49
+        },
+        {
+          "hour": "16:00",
+          "percent": 52
+        },
+        {
+          "hour": "17:00",
+          "percent": 53
+        },
+        {
+          "hour": "18:00",
+          "percent": 51
+        },
+        {
+          "hour": "19:00",
+          "percent": 46
+        },
+        {
+          "hour": "20:00",
+          "percent": 40
+        },
+        {
+          "hour": "21:00",
+          "percent": 33
+        },
+        {
+          "hour": "22:00",
+          "percent": 26
+        },
+        {
+          "hour": "23:00",
+          "percent": 18
+        },
+        {
+          "hour": "00:00",
+          "percent": 11
+        }
+      ]
+    },
+    {
+      "Saturday": [
+        {
+          "hour": "07:00",
+          "percent": 8
+        },
+        {
+          "hour": "08:00",
+          "percent": 19
+        },
+        {
+          "hour": "09:00",
+          "percent": 35
+        },
+        {
+          "hour": "10:00",
+          "percent": 52
+        },
+        {
+          "hour": "11:00",
+          "percent": 66
+        },
+        {
+          "hour": "12:00",
+          "percent": 75
+        },
+        {
+          "hour": "13:00",
+          "percent": 80
+        },
+        {
+          "hour": "14:00",
+          "percent": 84
+        },
+        {
+          "hour": "15:00",
+          "percent": 91
+        },
+        {
+          "hour": "16:00",
+          "percent": 97
+        },
+        {
+          "hour": "17:00",
+          "percent": 100
+        },
+        {
+          "hour": "18:00",
+          "percent": 95
+        },
+        {
+          "hour": "19:00",
+          "percent": 82
+        },
+        {
+          "hour": "20:00",
+          "percent": 65
+        },
+        {
+          "hour": "21:00",
+          "percent": 47
+        },
+        {
+          "hour": "22:00",
+          "percent": 31
+        },
+        {
+          "hour": "23:00",
+          "percent": 18
+        },
+        {
+          "hour": "00:00",
+          "percent": 10
+        }
+      ]
+    }
+  ],
+  "relatedSearches": [
+    "palacio de los azulejos",
+    "azulejo wikipédia",
+    "passeio no méxico",
+    "roteiro cidade do méxico é arredores",
+    "o que fazer no méxico em 5 dias",
+    "que roupa levar para cidade do méxico",
+    "turismo méxico",
+    "dicas viagem cidade do méxico",
+    "palacio de los azulejos",
+    "azulejo wikipédia",
+    "passeio no méxico",
+    "roteiro cidade do méxico é arredores",
+    "o que fazer no méxico em 5 dias",
+    "que roupa levar para cidade do méxico",
+    "turismo méxico",
+    "dicas viagem cidade do méxico"
+  ],
+  "relateds": [
+    {
+      "mainName": "Centro Histórico da Cidade do México",
+      "url": null
+    },
+    {
+      "mainName": "Palácio dos Correios do México",
+      "url": null
+    },
+    {
+      "mainName": "Torre Latinoamericana",
+      "url": null
+    },
+    {
+      "mainName": "Palacio de Bellas Artes",
+      "url": null
+    },
+    {
+      "mainName": "Citibanamex Culture Palace, Palacio de Iturbide",
+      "url": null
+    },
+    {
+      "mainName": "Alameda Central",
+      "url": null
+    },
+    {
+      "mainName": "Church of San Francisco",
+      "url": null
+    },
+    {
+      "mainName": "Catedral Metropolitana da Cidade do México",
+      "url": null
+    },
+    {
+      "mainName": "Xel-Há",
+      "url": null
+    },
+    {
+      "mainName": "Six Flags México",
+      "url": null
+    },
+    {
+      "mainName": "Parque Eco-arqueológico Xcaret",
+      "url": null
+    },
+    {
+      "mainName": "La Feria de Chapultepec Mágico",
+      "url": null
+    },
+    {
+      "mainName": "Palácio Nacional",
+      "url": null
+    },
+    {
+      "mainName": "Zócalo",
+      "url": null
+    },
+    {
+      "mainName": "Antigo Colégio de São Ildefonso",
+      "url": null
+    },
+    {
+      "mainName": "Casa Borda",
+      "url": null
+    },
+    {
+      "mainName": "Castelo de Chapultepec",
+      "url": null
+    },
+    {
+      "mainName": "Palacio de Minería",
+      "url": null
+    },
+    {
+      "mainName": "UNAM Palacio de la Escuela de Medicina Museo de la Medicina",
+      "url": null
+    },
+    {
+      "mainName": "Templo Mayor",
+      "url": null
+    },
+    {
+      "mainName": "Museum of the Object of the Object (MODO)",
+      "url": null
+    },
+    {
+      "mainName": "Palace of the Marqués del Apartado",
+      "url": null
+    },
+    {
+      "mainName": "Museo de la Ciudad de Mexico",
+      "url": null
+    },
+    {
+      "mainName": "Centro Histórico da Cidade do México",
+      "url": null
+    },
+    {
+      "mainName": "Palácio dos Correios do México",
+      "url": null
+    },
+    {
+      "mainName": "Torre Latinoamericana",
+      "url": null
+    },
+    {
+      "mainName": "Palacio de Bellas Artes",
+      "url": null
+    },
+    {
+      "mainName": "Citibanamex Culture Palace, Palacio de Iturbide",
+      "url": null
+    },
+    {
+      "mainName": "Alameda Central",
+      "url": null
+    },
+    {
+      "mainName": "Church of San Francisco",
+      "url": null
+    },
+    {
+      "mainName": "Catedral Metropolitana da Cidade do México",
+      "url": null
+    },
+    {
+      "mainName": "Xel-Há",
+      "url": null
+    },
+    {
+      "mainName": "Six Flags México",
+      "url": null
+    },
+    {
+      "mainName": "Parque Eco-arqueológico Xcaret",
+      "url": null
+    },
+    {
+      "mainName": "La Feria de Chapultepec Mágico",
+      "url": null
+    },
+    {
+      "mainName": "Palácio Nacional",
+      "url": null
+    },
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

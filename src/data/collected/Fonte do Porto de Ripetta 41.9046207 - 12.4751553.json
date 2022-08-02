@@ -1,0 +1,980 @@
+{
+  "mainName": "Fonte do Porto de Ripetta",
+  "slug": "fonte-do-porto-de-ripetta",
+  "category": "Fonte",
+  "locationInformation": {
+    "latitude": "41.9046207",
+    "longitude": "12.4751553"
+  },
+  "basicInformation": [
+    {
+      "label": "endereço",
+      "tooltip": "Copiar endereço",
+      "text": "Lungotevere Marzio, 00186 Roma RM, Itália",
+      "icon": "https://www.gstatic.com/images/icons/material/system_gm/1x/place_gm_blue_24dp.png"
+    },
+    {
+      "label": "telefone",
+      "tooltip": "Copiar número de telefone",
+      "text": "+39 06 0608",
+      "icon": "https://www.gstatic.com/images/icons/material/system_gm/1x/phone_gm_blue_24dp.png"
+    },
+    {
+      "label": "Code",
+      "tooltip": "Copiar Plus Code",
+      "text": "WF3G+R3 Roma, Itália",
+      "icon": "https://maps.gstatic.com/mapfiles/maps_lite/images/2x/ic_plus_code.png"
+    }
+  ],
+  "ratingInformation": {
+    "basicRatingInformation": {
+      "averageGrade": 4.3,
+      "totalOfEvaluations": 202
+    },
+    "ratingsByGrade": [
+      {
+        "grade": 5,
+        "totalRatings": 112
+      },
+      {
+        "grade": 4,
+        "totalRatings": 47
+      },
+      {
+        "grade": 3,
+        "totalRatings": 35
+      },
+      {
+        "grade": 2,
+        "totalRatings": 4
+      },
+      {
+        "grade": 1,
+        "totalRatings": 4
+      }
+    ]
+  },
+  "ratingTags": [
+    {
+      "tag": "colunas",
+      "count": 3,
+      "tooltip": "colunas, mencionado em 3 avaliações"
+    }
+  ],
+  "featuredPhotos": [
+    "https://lh5.googleusercontent.com/p/AF1QipOeu_eZXhgywWqHzYZM7AY6VDZ-UKTGskNeJw=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPRjW90AIUyS8bzhvse3N8CrkHGD9ZcbjHkMVs=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPK9FzMUgTBBBuB7NXnXJAEW6miaZgt8fhrj2kI=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNUrkPkEbvh5iAm7yaFD54RSswfnrOBygY9QYId=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMf8CkjI5bc57tftz7_DZoPnpUPRik4J7M3GZ6M=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOh4H2-wQcjIaMUGzwsidzJvvQ5NQV98USqtmU_=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMJtESD1wPa5kClO4t1wyt9-KZlcIVLKf0cfnZh=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOik2njGLYkOf4TJsbqW2zk7obmFZBSXa2BTvjG=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipM3G2WRFiQGeJEa-rkWBTntwTgA0VgxlYqgAmjE=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNIU86eTvp3yP7H7TO9aiW38fM-A343W6-BQRzd=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPqqexqb8l0Ysnre1svjnltr2hWq_0AbI-Ax6Eg=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOdHOjvfoic9RRhYZcUwLZ78ukpzTZPkpcWWxae=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPd1RXFB_cDiesVnHyK1yy_7qtZNP0Npj974_5L=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPX5Mqjhzonu-noOc6mVkQIt57C_7q6o8ox_i-f=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipM721CPDsx2Xn76wZ_QfgEBSA5pAsE0EGl8eogF=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOV81hetD2gCvj1Lyj_gHxrDaTnZPxlflwcbDhP=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMzRyGu7rbtrMxYLmhAV0eoKAYXV4YPS71AF9y5=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOcNZ1ZKRAn5JjCjNdfGvLJfB7Tl8OtPo2g999m=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNBkCpasD9sAoydZwZRrmQckIfvEtojg6MjN_1K=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMcgQFwgUFReL7zaUBQ75nDRS8MF72fu-IcZ2p5=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipM0I6IV1opUIvWX8AoQ6CgSLIX_3T7HvIDYktWu=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMwb4EmgXESAsTnxGKF81yB0u22pBiSH6kz6ZtS=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOr-VPAVi8fDdDNJaVxtkWG9sCGuTtZnlLgNF5_=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipM7I7gePC31PHxRAz98HULnI-4H2F47yMfkMpLY=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipO7WG4rBX_qKpfXzzQhtpJ1179oFjFeI_RbOjdB=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipM1iPOWAllB_8D3oJW3QG8PCrYqBEZtP-L3z-n4=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipO23qvcZlZR6D0vbZAjk-FOt5S-n9Mqf8zmHQym=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMPUjH3TqoXur_uWpyhLe3S-zFymCMKal_J1Fv6=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOYMmaa528evdt_EK4QmFrQ5vtAI05aZqPh9n1_=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipM5kdG2TEvbkb6N1O7T2N1cuKa-rcCIZJqFPHT3=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNgbSE_HNn6ZTL7F31uzHvJWF1rSmXvxbpl_gCk=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPFJr0FPrHist_QuFJQ1PUdUc3IoLYgisSid5BV=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOSib59doXlkvucs9gvamL_v83VwDd7_RS0sUYy=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPwzPqXo9SI_kqwSHmrajpjr7Pi20ci5Pk7hSo=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMM5ki-BCcxXh9UWd_4gkpB82r0G54l2b9VAhPI=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNtmTp6GINHhjEVnoSSbF8zfZTpFfoHZ3USfKkD=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPQ1pPpHl3aQ9HgDUOD4wTvSvSIaONRpDXUgHZc=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipP-TfNFzNo0TYnnHeCg1UBbGhu3MkFVp3Y6XuLf=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipM8VQ-ToImY-iDN1laziVV4y-gTSpKOMICj3HHs=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNJqoaJ8lNVxM_VRmK3QEV4LtraopzO5lQdbY90=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNnX_jOMk4c1ol8wVGD5EhxxxSh7WEiDA6tgkJs=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPnvd22x7Ok_xxNJffGk3SmwaqFIev8umHqhEth=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNnOlPK2RhVp9liZrBNDH-nKypYYgJor597eEJ2=w1024-h576-k-no"
+  ],
+  "topComments": [
+    {
+      "author": "Daniel Shivel-Hamlin",
+      "photoAuthor": "https://lh3.googleusercontent.com/a/AItbvmkT9uBtZRvzcSozb7eMAPYrdoqALRcZ8g0lY9vk=w36-h36-p-c0x00000000-rp-mo-br100",
+      "comment": "(Tradução do Google) Meu marido e eu pendurados aqui na primeira noite da nossa lua de mel. Nós acabamos de passar por isso enquanto vagamos por aí. Ótimo lugar para observar as pessoas. A fonte ilumina lindamente à noite!  (Original) My husband and I hung out here on the first night of our honeymoon.  We just happened upon it while roaming around.  Great place to people watch.  The fountain lights up beautifully at night!",
+      "gradeComment": 5
+    },
+    {
+      "author": "hamed kian",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucryRTTj3cDIKp-87Ok9oD9AbfFt46gaRyzAK6g0lw=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "(Tradução do Google) Uma pequena praça com uma pequena fonte junto ao rio é um local para uma pequena pausa. E, claro, um lugar para começar a entrar na bela Roma entre belos bairros com acesso local de carro, ônibus  (Original) A small square with a small fountain by the river is a place for a short break. And of course a place to start entering beautiful Rome among beautiful neighborhoods with local access by car, bus",
+      "gradeComment": 4
+    },
+    {
+      "author": "Andrea Remine",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucqT5AHkRlrTlYwM9i7FYM-KD9SrpKFpbdLslxMeew=w36-h36-p-c0x00000000-rp-mo-br100",
+      "comment": "(Tradução do Google) A construção foi confiada ao arquitecto Alessandro Specchi, que contou com a colaboração de Carlo Fontana e ... de um sismo que, tendo desabado um arco do Coliseu, facilitou a construção da empresa, fornecendo um material precioso como o travertino. O edifício era caracterizado por duas curvas largas que, do cais, subiam ao nível da rua (onde se destacava a igreja de San Gregorio dei Muratori e o edifício da alfândega, denominado \"la Doganella\") e por um hemiciclo no centro das quais era uma graciosa fonte no topo de um penhasco encimada por uma estrela (brasão heráldico da família papal Albani), especialmente útil para dar água aos animais de carga que chegavam aqui em grande número para o transporte de mercadorias; mais tarde, uma lanterna de ferro forjado foi adicionada para facilitar o desembarque dos barcos à noite. Nas laterais do hemiciclo foram colocadas duas colunas sobre as quais, posteriormente, foram indicados os vários níveis das cheias ocorridas entre 1495 e 1750.  (Original) La realizzazione venne affidata all’architetto Alessandro Specchi, che si avvalse della collaborazione di Carlo Fontana e …di un terremoto, che avendo fatto crollare un’arcata del Colosseo, agevolò la realizzazione dell’impresa, fornendo un materiale pregiato come il travertino. La costruzione era caratterizzata da due ampie cordonate curve che, dalle banchine, salivano al livello stradale (dove si affacciavano la chiesa di S.Gregorio dei Muratori e l’edificio della Dogana, detta “la Doganella”) e da un emiciclo al centro del quale vi era una graziosa fontana a scogliera sormontata da una stella (stemma araldico della famiglia papale Albani), utile soprattutto per abbeverare gli animali da soma che qui arrivavano numerosi per le operazioni di trasporto delle mercanzie; in seguito le venne aggiunta una lanterna in ferro battuto per facilitare l’approdo notturno delle barche. Ai lati dell’emiciclo furono collocate due colonne sulle quali, successivamente, vennero indicati i vari livelli delle alluvioni avvenute dal 1495 al 1750.",
+      "gradeComment": 4
+    },
+    {
+      "author": "Roberto Sciarrone",
+      "photoAuthor": "https://lh3.googleusercontent.com/a/AItbvmlLpzdta-VfMvyTy-Of4M2YnxphxuiDJxq5riWYCg=w36-h36-p-c0x00000000-rp-mo-ba6-br100",
+      "comment": "(Tradução do Google) A fonte no porto de Ripetta - também chamada de fonte Navigatore ou dei Navigatori - está localizada na Piazza del Porto di Ripetta. Mudou-se no início do século XX para ampliar as margens do Tibre, quando o porto fluvial homônimo onde estava localizado foi desmantelado. Inaugurada em 16 de agosto de 1704, a composição teve como principal função beber bebedouros para os numerosos animais de carga utilizados para descarregar e carregar mercadorias  (Original) La fontana del porto di Ripetta - chiamata anche fontana del Navigatore o dei Navigatori - si trova in piazza del Porto di Ripetta. Trasferita nei primi anni del Novecento per l'allargamento degli argini del Tevere, allorché  venne smantellato l'omonimo porto fluviale dove inizialmente si trovava. Inaugurata il 16 agosto 1704, la composizione aveva la funzione principale di abbeveratoio per i numerosi animali da soma utilizzati per le operazioni di sbarco e imbarco delle merci",
+      "gradeComment": 5
+    },
+    {
+      "author": "carlo petroselli",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucpB6Ov5vOfe5qMiNotYChsbgQFCZQ_XPYgELk305y0=w36-h36-p-c0x00000000-rp-mo-ba8-br100",
+      "comment": "(Tradução do Google) Localizada na praça com o mesmo nome, escondida e esquecida em uma parte da praça, aparece em toda a sua beleza para onde foi transferida no início dos anos 1900 para participar da ampliação das barragens do Tibre. Angelo. A fonte consiste em um grupo rochoso e dois golfinhos de cauda cruzada entre os quais uma grande concha é colocada em cima dela e o símbolo heráldico do pai Clemente XI é colocado, o trimônio com as estrelas de oito pontas. A fonte agora parece seca e muito arruinada e desfigurada, parecia funcional até o século passado.  (Original) Situata nell'omonima piazza nascosta e dimentica  in una parte della piazza appare in tutta la sua bellezza dove fu trasferita agli inizi del 900 per fare parte all'allargamento degli argini del Tevere era posta sul porto di Ripetta uno dei porti più importanti Di Roma a poa distanza da Castel D.Angelo. La fontana e costituita da un gruppo roccioso e due delfini dalla coda incrociata tra i quali e posta una grossa conchiglia sulla sommità di essa e posto il simbolo araldico  di papà Clemente XI il trimonzio con le stelle a otto punte. La fontana ora appare a secco e molto rovinata e deturpata appariva funzionante fino al secolo scorso.",
+      "gradeComment": 4
+    },
+    {
+      "author": "Mattia Santandrea",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucrQl4PTEjnNT_x3774l35itafRQfJvcTtHb8PV8=w36-h36-p-c0x00000000-rp-mo-ba5-br100",
+      "comment": "(Tradução do Google) Belo chafariz, coberto de vegetação e geralmente desligado.  (Original) Bella fontana, coperta dalla vegetazione e solitamente spenta.",
+      "gradeComment": 3
+    },
+    {
+      "author": "Patricia González",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucrj7_twPnIYvQg7TVMtf1tWvdj_Sai_1w_PY5DwCg=w36-h36-p-c0x00000000-rp-mo-ba3-br100",
+      "comment": "(Tradução do Google) É lindo, é uma pena que se encontre num local discreto e o seu estado de conservação prima pela ausência.  (Original) Es una preciosidad, lastima que esté en un sitio poco visible y su estado de conservación brille por su ausencia.",
+      "gradeComment": 3
+    },
+    {
+      "author": "MAURIZIO FRANGIPANE",
+      "photoAuthor": "https://lh3.googleusercontent.com/a/AItbvmnBebbY6o_lthROYLDCZbY7DokC-Pj9SE9R_GdB=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "(Tradução do Google) Deve recuperar a excelente oferta que outrora teve, hoje parece pouco aceitável ... Falta também a possibilidade de escolher um bom vinho ..  (Original) Deve riconquistare l'offerta eccellente che ha avuto un tempo, oggi appare appena accettabile...Manca pure la possibilità di scelta di un buon vino..",
+      "gradeComment": 3
+    },
+    {
+      "author": "Nemesi",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucpi08wfsd-iDsVADzaC8Xovxn7_t1SiY4lzF24P3Bo=w36-h36-p-c0x00000000-rp-mo-ba6-br100",
+      "comment": "(Tradução do Google) A fonte é linda e bem integrada ao contexto urbano. Infelizmente pessoas rudes desconhecidas abandonam seus resíduos na banheira e também em sua borda. Em terra ao redor da fonte, garrafas e latas de cerveja testemunham a incivilidade e a ignorância.  (Original) La fontana è bella e ben inserita nel contesto urbano. Purtroppo ignoti maleducati abbandonano i loro rifiuti nella vasca e anche sul suo bordo. A terra tutto intorno la fontana, bottiglie e lattine di birra testimoniano l'incivilta' e l'ignoranza.",
+      "gradeComment": 3
+    },
+    {
+      "author": "Eugene Tarutin",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucrXVEymBkHkdioKCPEC7BZJU2yt6rJdxd8JodW3QQ=w36-h36-p-c0x00000000-rp-mo-ba5-br100",
+      "comment": "(Tradução do Google) Apenas passei. Eu vi a fonte enquanto o semáforo estava esperando. Ele não atribuiu qualquer importância, e só então - quando voltou para casa, encontrou informações sobre ele. Muito interessante! Eu não coloquei 5 porque não funciona (  (Original) Просто проходил мимо. Увидел фонтан, пока ждал светофор. Не придал значения, а уже потом - когда вернулся домой, нашёл информацию про него. Очень интересно!  Не поставил 5, потому что не работает (",
+      "gradeComment": 4
+    },
+    {
+      "author": "cesare faccenda",
+      "photoAuthor": "https://lh3.googleusercontent.com/a/AItbvmnosNIklEYeIqJqNou0boQe9azlnuVXot06vFP5VA=w36-h36-p-c0x00000000-rp-mo-ba3-br100",
+      "comment": "(Tradução do Google) Uma das muitas fontes bonitas de Roma  (Original) Una delle tante belle fontane di Roma",
+      "gradeComment": 5
+    },
+    {
+      "author": "Dario Calampa Fabbri",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucosABw9B8FZ-Qf_gs2iIGjY9BnKXGWnoGXSFNO9yw=w36-h36-p-c0x00000000-rp-mo-ba6-br100",
+      "comment": "(Tradução do Google) Outro dos símbolos de Roma para visitar. Infelizmente, não resta mais nada do esplêndido porto de Ripetta, a não ser uma fonte bonita, mas muito reduzida: muito suja e em ruínas. É doloroso ver aquela fonte tão danificada e agora totalmente abandonada a um destino triste, provavelmente já marcado. Espero que o município de Roma não o esqueça e que decida restaurá-lo para trazê-lo de volta a um nível de beleza mais apropriado. Na mesma área da fonte, há também uma coluna que relata os níveis de altura da água das várias inundações do Tibre durante os últimos séculos. Mesmo isso ainda deve ser restaurado  (Original) Un altro dei simboli di Roma da visitare. Purtroppo dello splendido porto di Ripetta non è rimasto altro che una bella fontana ma ridotta veramente male: sporchissima e malridotta. È un dolore vedere quella fontana così danneggiata ed ormai totalmente abbandonata ad un triste destino, probabilmente già segnato. Spero che il comune di Roma non la dimentichi e che decida di restaurarla per riportarla ad un livello di bellezza a lei più consono. Nella stessa area della fontana c'è anche una colonna che riporta i livelli dell'altezza dell'acqua delle varie esondazioni del Tevere durante gli ultimi secoli. Anche quella è comunque da restaurare",
+      "gradeComment": 3
+    },
+    {
+      "author": "francesca b",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucpDwOMK7B5JCQ_ZPQ9_SiBI2rHbnpAwVZuqOvKK=w36-h36-p-c0x00000000-rp-mo-ba8-br100",
+      "comment": "(Tradução do Google) Fonte agradável, certamente em outra cidade poderia ter sido uma atração turística magnífica, aqui em Roma é obviamente um dos muitos sem muitos detalhes atraentes. No entanto, ele está localizado no Lungotevere em um lugar de passagem, então dê uma olhada, talvez você ache que merece!  (Original) Gradevole fontana, certo in un'altra città avrebbe potuto essere una magnifica attrazione turistica, qui a Roma ovviamente é una delle tante senza particolari troppo attrattivi. Si trova comunque su lungotevere in un posto di passaggio, uno sguardo quindi dedicateglielo, magari scoprirete che merita!",
+      "gradeComment": 3
+    },
+    {
+      "author": "Massimo Lucidi",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZuco447NTKRdtYaNyQfhV7ZhMvupH-5rHXEc8bZstpQ=w36-h36-p-c0x00000000-rp-mo-ba5-br100",
+      "comment": "(Tradução do Google) Um lindo lugar embelezado por um edifício histórico, uma obra-prima arquitetônica  (Original) Un bellissimo posto impreziosito da uno storico Palazzo capolavoro di architettura",
+      "gradeComment": 5
+    },
+    {
+      "author": "Maria Tanasa Turism Roma (www.turismroma.com)",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucp99fEB77jykx7AYLSgl-qlTZ43OTsSYdCtrsaxLn4=w36-h36-p-c0x00000000-rp-mo-ba8-br100",
+      "comment": "(Tradução do Google) Fantana del Porto di Ripetta - O poço artesiano com o nome do antigo porto fluvial Ripetta, foi encomendado em 1704 pelo Papa Clemente XI Albani, como evidenciado pelo brasão de armas.  (Original) Fantana del Porto di Ripetta- Fântâna arteziană ce ia numele de la anticul port fluvial Ripetta, a fost comisionta în 1704 de papa Clemente XI Albani, după cum atestată stema.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Massimo Mazzanti",
+      "photoAuthor": "https://lh3.googleusercontent.com/a/AItbvmlmz7O7bUovLA9_JNIrjCf4a-Ie9-gjpkJYRMWB=w36-h36-p-c0x00000000-rp-mo-ba5-br100",
+      "comment": "(Tradução do Google) Fonte maravilhosa se os britânicos ou os franceses tivessem tal coisa ... eles teriam feito de nós um lugar de culto mundial  (Original) Fontana stupenda se gli inglesi o francesi avessero avuto una cosa del genere......ci avrebbero fatto un luogo di culto mondiale",
+      "gradeComment": 5
+    },
+    {
+      "author": "Cristina Antonelli",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucpw8rJjXp4vHW6A7OQCz2DaEFzQOsE1CM_UAiDcv7M=w36-h36-p-c0x00000000-rp-mo-ba5-br100",
+      "comment": "(Tradução do Google) Que pena que não é claramente visível e é tratado muito pouco para dizer o mínimo  (Original) Peccato che non sia ben visibile ed è curata pochissimo per non dire per nulla",
+      "gradeComment": 5
+    },
+    {
+      "author": "Angelo Proietti",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucoy7LY2BQ90r4lP1iDmgVu5jVQgF1IdeP7TuWwmgA=w36-h36-p-c0x00000000-rp-mo-ba3-br100",
+      "comment": "(Tradução do Google) Bonito mas sujo e muito mal conservado!  (Original) Bellissima ma sporca e tenuta malissimo!",
+      "gradeComment": 4
+    },
+    {
+      "author": "Duncan Wilcox",
+      "photoAuthor": "https://lh3.googleusercontent.com/a/AItbvmnLIISfQ-zYb9LPGH_rfcmxLGRy8RwQri17GTxK=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "(Tradução do Google) Vale muito a pena ver  (Original) Very worth seeing",
+      "gradeComment": 4
+    },
+    {
+      "author": "Barbara Berni",
+      "photoAuthor": "https://lh3.googleusercontent.com/a/AItbvmmk8sEEXmLx6HXh5z2QhEvTae7Yv9nKqI_rOE5u=w36-h36-p-c0x00000000-rp-mo-br100",
+      "comment": "(Tradução do Google) Nada a dizer pouco cuidado e escondido do caos da cidade  (Original) Nulla da dire poco curata e nascosta dal caos cittadino",
+      "gradeComment": 3
+    }
+  ],
+  "peakHours": [
+    {
+      "Sunday": [
+        {
+          "hour": "04:00",
+          "percent": 1
+        },
+        {
+          "hour": "05:00",
+          "percent": 1
+        },
+        {
+          "hour": "06:00",
+          "percent": 11
+        },
+        {
+          "hour": "07:00",
+          "percent": 14
+        },
+        {
+          "hour": "08:00",
+          "percent": 17
+        },
+        {
+          "hour": "09:00",
+          "percent": 25
+        },
+        {
+          "hour": "10:00",
+          "percent": 38
+        },
+        {
+          "hour": "11:00",
+          "percent": 48
+        },
+        {
+          "hour": "12:00",
+          "percent": 46
+        },
+        {
+          "hour": "13:00",
+          "percent": 38
+        },
+        {
+          "hour": "14:00",
+          "percent": 30
+        },
+        {
+          "hour": "15:00",
+          "percent": 32
+        },
+        {
+          "hour": "16:00",
+          "percent": 40
+        },
+        {
+          "hour": "17:00",
+          "percent": 46
+        },
+        {
+          "hour": "18:00",
+          "percent": 50
+        },
+        {
+          "hour": "19:00",
+          "percent": 46
+        },
+        {
+          "hour": "20:00",
+          "percent": 35
+        },
+        {
+          "hour": "21:00",
+          "percent": 22
+        },
+        {
+          "hour": "22:00",
+          "percent": 9
+        },
+        {
+          "hour": "23:00",
+          "percent": 1
+        },
+        {
+          "hour": "00:00",
+          "percent": 1
+        },
+        {
+          "hour": "01:00",
+          "percent": 1
+        },
+        {
+          "hour": "02:00",
+          "percent": 1
+        },
+        {
+          "hour": "03:00",
+          "percent": 1
+        }
+      ]
+    },
+    {
+      "Monday": [
+        {
+          "hour": "04:00",
+          "percent": 1
+        },
+        {
+          "hour": "05:00",
+          "percent": 1
+        },
+        {
+          "hour": "06:00",
+          "percent": 1
+        },
+        {
+          "hour": "07:00",
+          "percent": 4
+        },
+        {
+          "hour": "08:00",
+          "percent": 25
+        },
+        {
+          "hour": "09:00",
+          "percent": 41
+        },
+        {
+          "hour": "10:00",
+          "percent": 41
+        },
+        {
+          "hour": "11:00",
+          "percent": 30
+        },
+        {
+          "hour": "12:00",
+          "percent": 24
+        },
+        {
+          "hour": "13:00",
+          "percent": 29
+        },
+        {
+          "hour": "14:00",
+          "percent": 37
+        },
+        {
+          "hour": "15:00",
+          "percent": 45
+        },
+        {
+          "hour": "16:00",
+          "percent": 53
+        },
+        {
+          "hour": "17:00",
+          "percent": 61
+        },
+        {
+          "hour": "18:00",
+          "percent": 62
+        },
+        {
+          "hour": "19:00",
+          "percent": 56
+        },
+        {
+          "hour": "20:00",
+          "percent": 43
+        },
+        {
+          "hour": "21:00",
+          "percent": 27
+        },
+        {
+          "hour": "22:00",
+          "percent": 11
+        },
+        {
+          "hour": "23:00",
+          "percent": 1
+        },
+        {
+          "hour": "00:00",
+          "percent": 1
+        },
+        {
+          "hour": "01:00",
+          "percent": 1
+        },
+        {
+          "hour": "02:00",
+          "percent": 1
+        },
+        {
+          "hour": "03:00",
+          "percent": 1
+        }
+      ]
+    },
+    {
+      "Tuesday": [
+        {
+          "hour": "04:00",
+          "percent": 1
+        },
+        {
+          "hour": "05:00",
+          "percent": 1
+        },
+        {
+          "hour": "06:00",
+          "percent": 8
+        },
+        {
+          "hour": "07:00",
+          "percent": 32
+        },
+        {
+          "hour": "08:00",
+          "percent": 56
+        },
+        {
+          "hour": "09:00",
+          "percent": 70
+        },
+        {
+          "hour": "10:00",
+          "percent": 72
+        },
+        {
+          "hour": "11:00",
+          "percent": 56
+        },
+        {
+          "hour": "12:00",
+          "percent": 33
+        },
+        {
+          "hour": "13:00",
+          "percent": 16
+        },
+        {
+          "hour": "14:00",
+          "percent": 11
+        },
+        {
+          "hour": "15:00",
+          "percent": 25
+        },
+        {
+          "hour": "16:00",
+          "percent": 53
+        },
+        {
+          "hour": "17:00",
+          "percent": 77
+        },
+        {
+          "hour": "18:00",
+          "percent": 80
+        },
+        {
+          "hour": "19:00",
+          "percent": 61
+        },
+        {
+          "hour": "20:00",
+          "percent": 32
+        },
+        {
+          "hour": "21:00",
+          "percent": 9
+        },
+        {
+          "hour": "22:00",
+          "percent": 1
+        },
+        {
+          "hour": "23:00",
+          "percent": 1
+        },
+        {
+          "hour": "00:00",
+          "percent": 1
+        },
+        {
+          "hour": "01:00",
+          "percent": 1
+        },
+        {
+          "hour": "02:00",
+          "percent": 1
+        },
+        {
+          "hour": "03:00",
+          "percent": 1
+        }
+      ]
+    },
+    {
+      "Wednesday": [
+        {
+          "hour": "04:00",
+          "percent": 1
+        },
+        {
+          "hour": "05:00",
+          "percent": 1
+        },
+        {
+          "hour": "06:00",
+          "percent": 1
+        },
+        {
+          "hour": "07:00",
+          "percent": 9
+        },
+        {
+          "hour": "08:00",
+          "percent": 20
+        },
+        {
+          "hour": "09:00",
+          "percent": 30
+        },
+        {
+          "hour": "10:00",
+          "percent": 37
+        },
+        {
+          "hour": "11:00",
+          "percent": 37
+        },
+        {
+          "hour": "12:00",
+          "percent": 35
+        },
+        {
+          "hour": "13:00",
+          "percent": 30
+        },
+        {
+          "hour": "14:00",
+          "percent": 32
+        },
+        {
+          "hour": "15:00",
+          "percent": 48
+        },
+        {
+          "hour": "16:00",
+          "percent": 77
+        },
+        {
+          "hour": "17:00",
+          "percent": 100
+        },
+        {
+          "hour": "18:00",
+          "percent": 98
+        },
+        {
+          "hour": "19:00",
+          "percent": 69
+        },
+        {
+          "hour": "20:00",
+          "percent": 35
+        },
+        {
+          "hour": "21:00",
+          "percent": 19
+        },
+        {
+          "hour": "22:00",
+          "percent": 22
+        },
+        {
+          "hour": "23:00",
+          "percent": 30
+        },
+        {
+          "hour": "00:00",
+          "percent": 27
+        },
+        {
+          "hour": "01:00",
+          "percent": 11
+        },
+        {
+          "hour": "02:00",
+          "percent": 1
+        },
+        {
+          "hour": "03:00",
+          "percent": 1
+        }
+      ]
+    },
+    {
+      "Thursday": [
+        {
+          "hour": "04:00",
+          "percent": 1
+        },
+        {
+          "hour": "05:00",
+          "percent": 1
+        },
+        {
+          "hour": "06:00",
+          "percent": 1
+        },
+        {
+          "hour": "07:00",
+          "percent": 22
+        },
+        {
+          "hour": "08:00",
+          "percent": 51
+        },
+        {
+          "hour": "09:00",
+          "percent": 54
+        },
+        {
+          "hour": "10:00",
+          "percent": 35
+        },
+        {
+          "hour": "11:00",
+          "percent": 20
+        },
+        {
+          "hour": "12:00",
+          "percent": 20
+        },
+        {
+          "hour": "13:00",
+          "percent": 24
+        },
+        {
+          "hour": "14:00",
+          "percent": 29
+        },
+        {
+          "hour": "15:00",
+          "percent": 30
+        },
+        {
+          "hour": "16:00",
+          "percent": 29
+        },
+        {
+          "hour": "17:00",
+          "percent": 27
+        },
+        {
+          "hour": "18:00",
+          "percent": 27
+        },
+        {
+          "hour": "19:00",
+          "percent": 30
+        },
+        {
+          "hour": "20:00",
+          "percent": 35
+        },
+        {
+          "hour": "21:00",
+          "percent": 38
+        },
+        {
+          "hour": "22:00",
+          "percent": 37
+        },
+        {
+          "hour": "23:00",
+          "percent": 29
+        },
+        {
+          "hour": "00:00",
+          "percent": 17
+        },
+        {
+          "hour": "01:00",
+          "percent": 3
+        },
+        {
+          "hour": "02:00",
+          "percent": 1
+        },
+        {
+          "hour": "03:00",
+          "percent": 1
+        }
+      ]
+    },
+    {
+      "Friday": [
+        {
+          "hour": "04:00",
+          "percent": 1
+        },
+        {
+          "hour": "05:00",
+          "percent": 1
+        },
+        {
+          "hour": "06:00",
+          "percent": 1
+        },
+        {
+          "hour": "07:00",
+          "percent": 4
+        },
+        {
+          "hour": "08:00",
+          "percent": 16
+        },
+        {
+          "hour": "09:00",
+          "percent": 24
+        },
+        {
+          "hour": "10:00",
+          "percent": 27
+        },
+        {
+          "hour": "11:00",
+          "percent": 24
+        },
+        {
+          "hour": "12:00",
+          "percent": 19
+        },
+        {
+          "hour": "13:00",
+          "percent": 17
+        },
+        {
+          "hour": "14:00",
+          "percent": 25
+        },
+        {
+          "hour": "15:00",
+          "percent": 38
+        },
+        {
+          "hour": "16:00",
+          "percent": 53
+        },
+        {
+          "hour": "17:00",
+          "percent": 61
+        },
+        {
+          "hour": "18:00",
+          "percent": 59
+        },
+        {
+          "hour": "19:00",
+          "percent": 53
+        },
+        {
+          "hour": "20:00",
+          "percent": 46
+        },
+        {
+          "hour": "21:00",
+          "percent": 46
+        },
+        {
+          "hour": "22:00",
+          "percent": 50
+        },
+        {
+          "hour": "23:00",
+          "percent": 46
+        },
+        {
+          "hour": "00:00",
+          "percent": 33
+        },
+        {
+          "hour": "01:00",
+          "percent": 16
+        },
+        {
+          "hour": "02:00",
+          "percent": 1
+        },
+        {
+          "hour": "03:00",
+          "percent": 1
+        }
+      ]
+    },
+    {
+      "Saturday": [
+        {
+          "hour": "04:00",
+          "percent": 1
+        },
+        {
+          "hour": "05:00",
+          "percent": 1
+        },
+        {
+          "hour": "06:00",
+          "percent": 1
+        },
+        {
+          "hour": "07:00",
+          "percent": 1
+        },
+        {
+          "hour": "08:00",
+          "percent": 6
+        },
+        {
+          "hour": "09:00",
+          "percent": 20
+        },
+        {
+          "hour": "10:00",
+          "percent": 29
+        },
+        {
+          "hour": "11:00",
+          "percent": 30
+        },
+        {
+          "hour": "12:00",
+          "percent": 24
+        },
+        {
+          "hour": "13:00",
+          "percent": 16
+        },
+        {
+          "hour": "14:00",
+          "percent": 16
+        },
+        {
+          "hour": "15:00",
+          "percent": 27
+        },
+        {
+          "hour": "16:00",
+          "percent": 50
+        },
+        {
+          "hour": "17:00",
+          "percent": 70
+        },
+        {
+          "hour": "18:00",
+          "percent": 80
+        },
+        {
+          "hour": "19:00",
+          "percent": 70
+        },
+        {
+          "hour": "20:00",
+          "percent": 50
+        },
+        {
+          "hour": "21:00",
+          "percent": 30
+        },
+        {
+          "hour": "22:00",
+          "percent": 25
+        },
+        {
+          "hour": "23:00",
+          "percent": 32
+        },
+        {
+          "hour": "00:00",
+          "percent": 40
+        },
+        {
+          "hour": "01:00",
+          "percent": 40
+        },
+        {
+          "hour": "02:00",
+          "percent": 25
+        },
+        {
+          "hour": "03:00",
+          "percent": 8
+        }
+      ]
+    }
+  ],
+  "relatedSearches": null,
+  "relateds": [
+    {
+      "mainName": "Fontana di Piazza Nicosia",
+      "url": null
+    },
+    {
+      "mainName": "Igreja de São Jerônimo dos Croatas",
+      "url": null
+    },
+    {
+      "mainName": "Via di Ripetta",
+      "url": null
+    },
+    {
+      "mainName": "Porto di Ripa Grande",
+      "url": null
+    },
+    {
+      "mainName": "Ponte Cavour",
+      "url": null
+    },
+    {
+      "mainName": "San Rocco all'Augusteo",
+      "url": null
+    },
+    {
+      "mainName": "Campo de Marte",
+      "url": null
+    },
+    {
+      "mainName": "Palazzo Borghese",
+      "url": null
+    },
+    {
+      "mainName": "Ara Pacis",
+      "url": null
+    },
+    {
+      "mainName": "Rio Tibre",
+      "url": null
+    },
+    {
+      "mainName": "Piazza del Popolo",
+      "url": null
+    }
+  ]
+}

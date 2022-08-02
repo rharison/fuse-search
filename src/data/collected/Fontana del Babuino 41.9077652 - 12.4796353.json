@@ -1,0 +1,935 @@
+{
+  "mainName": "Fontana del Babuino",
+  "slug": "fontana-del-babuino",
+  "category": "Fonte",
+  "locationInformation": {
+    "latitude": "41.9077652",
+    "longitude": "12.4796353"
+  },
+  "basicInformation": [
+    {
+      "label": "endereço",
+      "tooltip": "Copiar endereço",
+      "text": "Via del Babuino, 00187 Roma RM, Itália",
+      "icon": "https://www.gstatic.com/images/icons/material/system_gm/1x/place_gm_blue_24dp.png"
+    },
+    {
+      "label": "website",
+      "tooltip": "Abrir website",
+      "text": "sovraintendenzaroma.it",
+      "icon": "https://www.gstatic.com/images/icons/material/system_gm/1x/public_gm_blue_24dp.png"
+    },
+    {
+      "label": "telefone",
+      "tooltip": "Copiar número de telefone",
+      "text": "+39 06 0608",
+      "icon": "https://www.gstatic.com/images/icons/material/system_gm/1x/phone_gm_blue_24dp.png"
+    },
+    {
+      "label": "Code",
+      "tooltip": "Copiar Plus Code",
+      "text": "WF5H+4V Roma, Itália",
+      "icon": "https://maps.gstatic.com/mapfiles/maps_lite/images/2x/ic_plus_code.png"
+    },
+    {
+      "label": "send-to-device",
+      "text": "Enviar para smartphone",
+      "icon": "https://maps.gstatic.com/consumer/images/icons/1x/send_to_mobile_alt_gm_blue_24dp.png"
+    }
+  ],
+  "ratingInformation": {
+    "basicRatingInformation": {
+      "averageGrade": 4.6,
+      "totalOfEvaluations": 160
+    },
+    "ratingsByGrade": [
+      {
+        "grade": 5,
+        "totalRatings": 114
+      },
+      {
+        "grade": 4,
+        "totalRatings": 34
+      },
+      {
+        "grade": 3,
+        "totalRatings": 10
+      },
+      {
+        "grade": 2,
+        "totalRatings": 2
+      },
+      {
+        "grade": 1,
+        "totalRatings": 0
+      }
+    ]
+  },
+  "ratingTags": [
+    {
+      "tag": "povo",
+      "count": 5,
+      "tooltip": "povo, mencionado em 5 avaliações"
+    },
+    {
+      "tag": "luxo",
+      "count": 3,
+      "tooltip": "luxo, mencionado em 3 avaliações"
+    },
+    {
+      "tag": "pedra",
+      "count": 3,
+      "tooltip": "pedra, mencionado em 3 avaliações"
+    }
+  ],
+  "featuredPhotos": [
+    "https://lh5.googleusercontent.com/p/AF1QipPGSY26hwGgpYGUPdb4HKrmAaeorSjh3mI00QM8=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipP-gMDthLbKOAJ0cBHQUeZoIJQG2ugAtyvlrPv5=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPt8RsAlQTrOogADsKwIx-h4oGZxzxsP4MCVY2F=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOlug-4WTYvK3u0bdE2Q1QMuDZBWZ8GqtfjeGw7=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOpkWVSfHWN4soYd1o8_GoCWuzZI0hgMmeuQ0w=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOpVJ22uPrTOYtEzkYWNjIex_vxDgfNURLHgGLM=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMD6uRPMNf9EiWQrhg4LEwtf0AWo4JBaluu75ME=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipN3bw4_RtggEf031d84SrA3WZ5ZZxd0XTdTvUxv=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNPeW9Noww6tvJDkroZ1n03SLDU-MwxRB_YW9zl=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipO3cU0S62FU9Fb1fz5tuD210sK7GMP-PLVeG2xF=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNprVWo1lUluv14GxlvWFCWf9_7c2ESuQY8rsC6=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipP_RUm0bvSLju2GD2TXn17RzxBrwgvhAwXYBCPN=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMOPhjZvO-J8i_Zds05XJsEoP_zvxZOTph4k8yL=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNLIvCxinQvC_QqTqWkN0Veezt_YLEqBCTi03AB=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNlHiRL4I6rO4WAvVXS0-jGBt1BiSnFTUsZ5RcC=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPxY3e0mnV0HIgw3BVNfTeMPseLTOSIb9lI45-q=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMQs5HDror4HVBMWKRTitkz2pJzPx0wEk_6_1Hs=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipN5wDX-E18ItCMMNQ6SQaZxWthBeC1id02fZP2-=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipODGscNDS-2yh7UxqypIGjTTVOBTcfMzR-C4sR1=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMuKXGsEdMYlHb10kZa0YMO1p6WZTr6kvR4Bhne=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMtmIWK8X5_lI3ZigcjpTQ4PYHdSeJYjx6_yN_9=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNjZyA6U4b7E8Ky4vITssuvWBI-HIa_SaEM3R_s=w1024-h576-k-no"
+  ],
+  "topComments": [
+    {
+      "author": "Rui Farinha",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucofeFOOQobYwyuzST85zy8BEeU6dMP-NqtPk-MtvI8=w36-h36-p-c0x00000000-rp-mo-ba2-br100",
+      "comment": "Água fresquinha",
+      "gradeComment": 5
+    },
+    {
+      "author": "Massimiliano Di Maio",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucqJfXvzP95TfRV8Kepevu5P09bEGcSeyKdLtL3Gvg=w36-h36-p-c0x00000000-rp-mo-ba7-br100",
+      "comment": "(Tradução do Google) Uma das cinco \"estátuas falantes\", ou seja, estátuas que antigamente eram usadas para postar mensagens (as chamadas \"pasquinadas\"), ou reclamações anônimas e assim renomeadas pelos romanos porque não compreendiam sua \"beleza\". A estátua foi doada por um benfeitor e com o tempo ganhou tantas lendas que até a rua que a acolheu levou o seu nome.  (Original) Una delle cinque \"statue parlanti\", ossia statue che anticamente venivano utilizzate per affiggere messaggi (le cosiddette \"pasquinate\"), ovvero lamentele anonime e ribattezzata così dai romani perché non ne coglievano la \"bellezza\". La statua fu donata da un benefattore e nel tempo si carico' di talmente tante leggende da far assumere anche alla via che la ospitava il suo nome.",
+      "gradeComment": 5
+    },
+    {
+      "author": "luigi borcime",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucq4WLeX7aTJGudoXoRoN73Yrj5mMYuSiFzw1DbvVA=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "Solo nel 1957, a seguito di una campagna di recupero portata avanti da alcuni cittadini romani, il Sileno è tornato nella via che della statua aveva preso il nome, e si trova ora a fianco della chiesa di Sant’Atanasio dei Greci",
+      "gradeComment": 5
+    },
+    {
+      "author": "Maria Tanasa Turism Roma (www.turismroma.com)",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucp99fEB77jykx7AYLSgl-qlTZ43OTsSYdCtrsaxLn4=w36-h36-p-c0x00000000-rp-mo-ba8-br100",
+      "comment": "(Tradução do Google) Fontana del Babuino - a fonte artesiana do babuíno foi feita em 1575 pelo papa Pius V Ghislieri com o nome original - a fonte de Silenus, retratada como uma sátira antiga com um corpo deformado, mas logo os habitantes locais o chamaram de babuíno por aparência feia e se tornam uma das cinco estátuas falantes da cidade eterna, nas quais foram colados panfletos contra o poder.  (Original) Fontana del Babuino- fântână arteziana a Babuinului a fost realizată în 1575 de papa Pius V Ghislieri cu denumirea originală- fantana lui Silenus, înfățișa ca un satir bătrân cu fizic deformat, dar în scurt timp localnicii l-au supranumit babuin pentru aspectul inestetic și devine una din cele 5 statui vorbitoare ale orașului eternp pe care lipeau pamflete împotriva puterii.",
+      "gradeComment": 5
+    },
+    {
+      "author": "bruno c",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucoPq06wWrU2fAW0erm7natwpPZTv1jHBPnMptKNqw=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "(Tradução do Google) Situada no tridente romano, com água sempre doce encontramos Uma das fontes falantes de Roma ...  Lembre-se que quando os romanos tiveram que reclamar Nn eles não fizeram nada além de escrever sinais e colá-los na estátua .. Uma espécie de amplificador de desconforto para alertar todos os fatos ...  (Original) Situata nel tridente romano, con un acqua sempre fresca troviamo Una delle fontane parlanti di Roma...  Si ricorda che quando i Romani avevano da lamentarsi Nn facevano altro che scrivere cartelli ed attaccarli sulla statua.. Una sorta di amplificatore del disagio per mettere a conoscenza tutti dei fatti...",
+      "gradeComment": 5
+    },
+    {
+      "author": "Hartmut P",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucomjvI-0-UelUOs4Bm08rcHK7Faeq5sHe-ENjW8PA=w36-h36-p-c0x00000000-rp-mo-ba5-br100",
+      "comment": "(Tradução do Google) Uma relíquia dos tempos médicos, quando as fontes eram um sinal de riqueza e bem decoradas. Este não é esteticamente bonito, mas de alguma forma ainda tem seu caráter  (Original) A relict of medical times , when fountains were a sign of wealth and decorated nicely. This one is not aesthetically beautiful, but somehow still has its character",
+      "gradeComment": 3
+    },
+    {
+      "author": "LP84 Seltz",
+      "photoAuthor": "https://lh3.googleusercontent.com/a/AItbvmk2WqAYqyTl8omf07yfQ3TnhZShOzQzoPNr5tVB=w36-h36-p-c0x00000000-rp-mo-ba7-br100",
+      "comment": "(Tradução do Google) Outra fonte romana, certamente não a mais significativa, mas agradável de passar.  (Original) Un'altra fontana romana, sicuramente non la più significativa, ma carina per passarci di fronte.",
+      "gradeComment": 4
+    },
+    {
+      "author": "NIMICA",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucq5kr8kdi5wFVYkshRSNvKtalE-XHoJ2puJjlk_qtw=w36-h36-p-c0x00000000-rp-mo-ba7-br100",
+      "comment": "(Tradução do Google) Roma é famosa por suas maravilhosas fontes, mas há uma que certamente não resplandece de beleza, e é justamente a fonte Babuino, na Via del Babuino.  Sua história remonta a 1571, quando o comerciante ferrarere Alessandro Grandi construiu, às suas próprias custas, uma fonte de uso público. Segundo a prática habitual da época, em troca da concessão, pelo Papa Pio IV, do abastecimento de água diretamente no seu palácio, Grandi mandou colocar uma bacia de mármore africano encostada à fachada do edifício, que também servia de abrigo para os animais. Como decoração das banheiras decidiu-se colocar a estátua de um Silenus em tamanho natural.  Devido à sua feiura, a estátua foi imediatamente apelidada pelos romanos de “er babuino”, tanto que toda a rua também recebeu o nome desta denominação. Para aumentar a fama dos Silenus, havia também a particular reverência que o cardeal Dezza, que morava nas proximidades, prestava a ela: cada vez que passava por ela, ele se curvava e tirava o chapéu. Provavelmente míope o cardeal deve ter confundido a estátua com a de algum santo, mas este gesto deu grande notoriedade ao Silenus que passou a ser um símbolo. De fato, as \"babuinadas\", mensagens anônimas contendo ferozes sátiras políticas dirigidas ao Papa ou a personalidades ilustres da época, estavam penduradas na estátua, assim como as \"pasquinades\". Por isso, esta estátua, juntamente com a do Porteiro, Pasquino, Madama Lucrezia e o Abade Luigi, passaram a fazer parte do \"Congresso dos Espirituosos\", um conjunto de estátuas falantes que deu voz aos Romanos.  (Original) Roma è famosa per le sue fontane meravigliose ma ce n’è una che non brilla certo per bellezza, ed è proprio la fontana del Babuino, in Via del Babuino.  La sua storia risale al 1571 quando il commerciante ferrarere Alessandro Grandi realizzò, a sue spese, una fontana ad uso pubblico. Secondo una prassi consueta a quei tempi, in cambio della concessione, da parte di Papa Pio IV, dell’erogazione dell’acqua direttamente nel suo palazzo il Grandi fece addossare al prospetto dell’edificio una vasca in marmo africano che serviva anche da abbeveratoio per gli animali. Come decorazione delle vasca si scelse di mettere la statua di un sileno a grandezza naturale.  Per la sua bruttezza la statua da subito fu soprannominata dai romani “er babuino” tanto che anche tutta la via prese il nome da questo appellativo. Ad accrescere la fama del Sileno ci fu anche la particolare riverenza che il cardinale Dezza, che abitava lì vicino, le tributava: ogni volta che le passava davanti si inchinava e si toglieva il cappello. Probabilmente miope il cardinale doveva aver scambiato la statua per quella di qualche santo ma questo gesto diede grande notorietà al Sileno che cominciò ad essere un simbolo. Alla statua venivano infatti appese le “babuinate”, messaggi anonimi contenenti feroci satire politiche rivolte al pontefice o a persoaggi illustri dell’epoca, proprio come le “pasquinate”. Per questo motivo questa statua, insieme a quella del Facchino, di Pasquino, di Madama Lucrezia e dell’Abate Luigi entrò a far parte del “ Congresso degli Arguti” un consesso di statue parlanti che davano voce ai Romani.",
+      "gradeComment": 5
+    },
+    {
+      "author": "maria cristina cristallini",
+      "photoAuthor": "https://lh3.googleusercontent.com/a/AItbvmma9SyQ7rWVG3W51pTc19LKL6LLx9AoEemy053Z=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "(Tradução do Google) Em Roma você pode encontrar muitas \"guloseimas\" escondidas em cada esquina. Esta fonte faz parte das \"estátuas falantes\" que existem pela cidade. Não te conto a história toda, se você procurar, vai encontrar. Parece absurdo mas, acredite, vale a pena marcar uma visita guiada a este e aos outros e você vai descobrir um mundo!  (Original) A Roma puoi trovare tante \"chicche\" nascoste in ogni angolo di strada. Questa fontana, fa parte delle \"statue parlanti\" che sono in giro per la città. Non vi dico tutta la storia, se cercate la troverete. Sembra assurda ma, credetemi, vale la pena prenotarsi per una visita guidata a questa e alle altre e scoprirete un mondo!",
+      "gradeComment": 5
+    },
+    {
+      "author": "vincenzo marsella",
+      "photoAuthor": "https://lh3.googleusercontent.com/a/AItbvmnpdq76oBDsUcL7KL4sMmxx3NopLrheyTCqovxe=w36-h36-p-c0x00000000-rp-mo-ba6-br100",
+      "comment": "(Tradução do Google) É a representação de um \"Silenus deitado\", chamado pelo povo de Roma de \"babuíno\" por ser tão feio e deformado que pode ser comparado a um macaco. Em 1571, o Papa Pio V concedeu o uso de algumas onças de água do novo aqueduto de Virgínia , ao palácio do nobre Alessandro Grandi, que mandou construir um chafariz de uso público em homenagem ao Pontífice, colocando a estátua como ornamento da bacia quadrangular, encostada à fachada do edifício. A estátua do chafariz era tão singular que influenciou fortemente o imaginação e interesse dos romanos. Um dos primeiros efeitos foi determinar a mudança do mesmo topónimo da estrada, que de via Paolina passou a via del Babuino. Além disso, foi logo incluída entre as \"estátuas falantes\" de Roma, e como os outros cinco eram a \"voz\" de várias pasquinadas, as sátiras violentas e muitas vezes irreverentes destinadas a atingir ainda mais fortemente e sempre de forma anônima as figuras públicas mais proeminentes de Roma a partir do século XIV. Devido às obras de construção da rede de esgotos, em 1877 todo o complexo foi desmembrado: a bacia foi utilizada para outra fonte na via Flaminia, enquanto a estátua foi colocada no interior do antigo edifício Boncompagni, que se tornou o Palazzo Boncompagni Cerasi . Somente em 1957, após uma campanha de recuperação realizada por alguns cidadãos romanos, o Silenus voltou à rua que havia levado o nome da estátua.  (Original) È la raffigurazione di un “sileno giacente\", chiamato dal popolo di Roma “babbuino” perché così brutto e deforme da poter essere paragonato ad una scimmia. Nel 1571 papa Pio V concesse l'utilizzo di alcune once d'acqua del nuovo acquedotto Vergine, al palazzo del nobile Alessandro Grandi, il quale fece realizzare, in onore del Pontefice, una fontana ad uso pubblico, ponendo la statua ad ornamento della vasca quadrangolare, addossata alla facciata del palazzo. La statua della fontana era talmente singolare che influenzò fortemente la fantasia e l'interesse dei romani. Uno dei primi effetti fu di determinare il cambiamento dello stesso toponimo della strada, che da via Paolina mutò appunto in via del Babuino. Inoltre, venne presto annoverata tra le “statue parlanti” di Roma, e come le altre cinque è stata la “voce” di diverse pasquinate, le violente e spesso irriverenti satire indirizzate a colpire anche pesantemente e sempre in modo anonimo i personaggi pubblici più in vista nella Roma a partire dal XIV secolo. A causa dei lavori per la costruzione della rete fognaria, nel 1877 l'intero complesso venne smembrato: la vasca fu utilizzata per un'altra fontana in via Flaminia, mentre la statua venne riposta all'interno del palazzo ex Boncompagni, divenuto Palazzo Boncompagni Cerasi. Solo nel 1957, a seguito di una campagna di recupero portata avanti da alcuni cittadini romani, il Sileno è tornato nella via che della statua aveva preso il nome.",
+      "gradeComment": 5
+    }
+  ],
+  "peakHours": [
+    {
+      "Sunday": [
+        {
+          "hour": "09:00",
+          "percent": 13
+        },
+        {
+          "hour": "10:00",
+          "percent": 40
+        },
+        {
+          "hour": "11:00",
+          "percent": 72
+        },
+        {
+          "hour": "12:00",
+          "percent": 81
+        },
+        {
+          "hour": "13:00",
+          "percent": 59
+        },
+        {
+          "hour": "14:00",
+          "percent": 31
+        },
+        {
+          "hour": "15:00",
+          "percent": 13
+        },
+        {
+          "hour": "16:00",
+          "percent": 18
+        },
+        {
+          "hour": "17:00",
+          "percent": 36
+        },
+        {
+          "hour": "18:00",
+          "percent": 50
+        },
+        {
+          "hour": "19:00",
+          "percent": 36
+        },
+        {
+          "hour": "20:00",
+          "percent": 13
+        },
+        {
+          "hour": "22:00",
+          "percent": 4
+        },
+        {
+          "hour": "23:00",
+          "percent": 4
+        }
+      ]
+    },
+    {
+      "Monday": [
+        {
+          "hour": "06:00",
+          "percent": 4
+        },
+        {
+          "hour": "07:00",
+          "percent": 4
+        },
+        {
+          "hour": "08:00",
+          "percent": 9
+        },
+        {
+          "hour": "09:00",
+          "percent": 13
+        },
+        {
+          "hour": "10:00",
+          "percent": 22
+        },
+        {
+          "hour": "11:00",
+          "percent": 27
+        },
+        {
+          "hour": "12:00",
+          "percent": 27
+        },
+        {
+          "hour": "13:00",
+          "percent": 22
+        },
+        {
+          "hour": "14:00",
+          "percent": 18
+        },
+        {
+          "hour": "15:00",
+          "percent": 9
+        },
+        {
+          "hour": "16:00",
+          "percent": 18
+        },
+        {
+          "hour": "17:00",
+          "percent": 36
+        },
+        {
+          "hour": "18:00",
+          "percent": 50
+        },
+        {
+          "hour": "19:00",
+          "percent": 40
+        },
+        {
+          "hour": "20:00",
+          "percent": 18
+        },
+        {
+          "hour": "21:00",
+          "percent": 9
+        },
+        {
+          "hour": "22:00",
+          "percent": 4
+        },
+        {
+          "hour": "23:00",
+          "percent": 4
+        },
+        {
+          "hour": "01:00",
+          "percent": 4
+        }
+      ]
+    },
+    {
+      "Tuesday": [
+        {
+          "hour": "06:00",
+          "percent": 4
+        },
+        {
+          "hour": "07:00",
+          "percent": 4
+        },
+        {
+          "hour": "08:00",
+          "percent": 9
+        },
+        {
+          "hour": "09:00",
+          "percent": 13
+        },
+        {
+          "hour": "10:00",
+          "percent": 18
+        },
+        {
+          "hour": "11:00",
+          "percent": 22
+        },
+        {
+          "hour": "12:00",
+          "percent": 27
+        },
+        {
+          "hour": "13:00",
+          "percent": 31
+        },
+        {
+          "hour": "14:00",
+          "percent": 31
+        },
+        {
+          "hour": "15:00",
+          "percent": 31
+        },
+        {
+          "hour": "16:00",
+          "percent": 31
+        },
+        {
+          "hour": "17:00",
+          "percent": 27
+        },
+        {
+          "hour": "18:00",
+          "percent": 27
+        },
+        {
+          "hour": "19:00",
+          "percent": 22
+        },
+        {
+          "hour": "20:00",
+          "percent": 13
+        },
+        {
+          "hour": "21:00",
+          "percent": 9
+        },
+        {
+          "hour": "23:00",
+          "percent": 4
+        },
+        {
+          "hour": "00:00",
+          "percent": 4
+        },
+        {
+          "hour": "01:00",
+          "percent": 4
+        }
+      ]
+    },
+    {
+      "Wednesday": [
+        {
+          "hour": "06:00",
+          "percent": 4
+        },
+        {
+          "hour": "07:00",
+          "percent": 13
+        },
+        {
+          "hour": "08:00",
+          "percent": 22
+        },
+        {
+          "hour": "09:00",
+          "percent": 27
+        },
+        {
+          "hour": "10:00",
+          "percent": 27
+        },
+        {
+          "hour": "11:00",
+          "percent": 22
+        },
+        {
+          "hour": "12:00",
+          "percent": 18
+        },
+        {
+          "hour": "13:00",
+          "percent": 22
+        },
+        {
+          "hour": "14:00",
+          "percent": 31
+        },
+        {
+          "hour": "15:00",
+          "percent": 45
+        },
+        {
+          "hour": "16:00",
+          "percent": 54
+        },
+        {
+          "hour": "17:00",
+          "percent": 54
+        },
+        {
+          "hour": "18:00",
+          "percent": 50
+        },
+        {
+          "hour": "19:00",
+          "percent": 36
+        },
+        {
+          "hour": "20:00",
+          "percent": 18
+        },
+        {
+          "hour": "21:00",
+          "percent": 9
+        },
+        {
+          "hour": "22:00",
+          "percent": 4
+        },
+        {
+          "hour": "00:00",
+          "percent": 9
+        },
+        {
+          "hour": "01:00",
+          "percent": 4
+        }
+      ]
+    },
+    {
+      "Thursday": [
+        {
+          "hour": "05:00",
+          "percent": 4
+        },
+        {
+          "hour": "06:00",
+          "percent": 9
+        },
+        {
+          "hour": "07:00",
+          "percent": 27
+        },
+        {
+          "hour": "08:00",
+          "percent": 45
+        },
+        {
+          "hour": "09:00",
+          "percent": 59
+        },
+        {
+          "hour": "10:00",
+          "percent": 68
+        },
+        {
+          "hour": "11:00",
+          "percent": 59
+        },
+        {
+          "hour": "12:00",
+          "percent": 45
+        },
+        {
+          "hour": "13:00",
+          "percent": 31
+        },
+        {
+          "hour": "14:00",
+          "percent": 36
+        },
+        {
+          "hour": "15:00",
+          "percent": 50
+        },
+        {
+          "hour": "16:00",
+          "percent": 68
+        },
+        {
+          "hour": "17:00",
+          "percent": 68
+        },
+        {
+          "hour": "18:00",
+          "percent": 50
+        },
+        {
+          "hour": "19:00",
+          "percent": 22
+        },
+        {
+          "hour": "20:00",
+          "percent": 4
+        },
+        {
+          "hour": "21:00",
+          "percent": 4
+        },
+        {
+          "hour": "23:00",
+          "percent": 4
+        },
+        {
+          "hour": "00:00",
+          "percent": 4
+        },
+        {
+          "hour": "01:00",
+          "percent": 4
+        },
+        {
+          "hour": "02:00",
+          "percent": 4
+        },
+        {
+          "hour": "03:00",
+          "percent": 4
+        }
+      ]
+    },
+    {
+      "Friday": [
+        {
+          "hour": "04:00",
+          "percent": 4
+        },
+        {
+          "hour": "05:00",
+          "percent": 4
+        },
+        {
+          "hour": "06:00",
+          "percent": 9
+        },
+        {
+          "hour": "07:00",
+          "percent": 18
+        },
+        {
+          "hour": "08:00",
+          "percent": 27
+        },
+        {
+          "hour": "09:00",
+          "percent": 40
+        },
+        {
+          "hour": "10:00",
+          "percent": 45
+        },
+        {
+          "hour": "11:00",
+          "percent": 50
+        },
+        {
+          "hour": "12:00",
+          "percent": 50
+        },
+        {
+          "hour": "13:00",
+          "percent": 45
+        },
+        {
+          "hour": "14:00",
+          "percent": 36
+        },
+        {
+          "hour": "15:00",
+          "percent": 31
+        },
+        {
+          "hour": "16:00",
+          "percent": 45
+        },
+        {
+          "hour": "17:00",
+          "percent": 50
+        },
+        {
+          "hour": "18:00",
+          "percent": 27
+        },
+        {
+          "hour": "19:00",
+          "percent": 4
+        },
+        {
+          "hour": "22:00",
+          "percent": 13
+        },
+        {
+          "hour": "23:00",
+          "percent": 36
+        },
+        {
+          "hour": "00:00",
+          "percent": 27
+        },
+        {
+          "hour": "01:00",
+          "percent": 4
+        }
+      ]
+    },
+    {
+      "Saturday": [
+        {
+          "hour": "06:00",
+          "percent": 4
+        },
+        {
+          "hour": "07:00",
+          "percent": 13
+        },
+        {
+          "hour": "08:00",
+          "percent": 22
+        },
+        {
+          "hour": "09:00",
+          "percent": 36
+        },
+        {
+          "hour": "10:00",
+          "percent": 40
+        },
+        {
+          "hour": "11:00",
+          "percent": 36
+        },
+        {
+          "hour": "12:00",
+          "percent": 27
+        },
+        {
+          "hour": "13:00",
+          "percent": 22
+        },
+        {
+          "hour": "14:00",
+          "percent": 27
+        },
+        {
+          "hour": "15:00",
+          "percent": 50
+        },
+        {
+          "hour": "16:00",
+          "percent": 81
+        },
+        {
+          "hour": "17:00",
+          "percent": 100
+        },
+        {
+          "hour": "18:00",
+          "percent": 95
+        },
+        {
+          "hour": "19:00",
+          "percent": 63
+        },
+        {
+          "hour": "20:00",
+          "percent": 31
+        },
+        {
+          "hour": "21:00",
+          "percent": 13
+        },
+        {
+          "hour": "22:00",
+          "percent": 4
+        },
+        {
+          "hour": "23:00",
+          "percent": 9
+        },
+        {
+          "hour": "00:00",
+          "percent": 18
+        },
+        {
+          "hour": "01:00",
+          "percent": 13
+        },
+        {
+          "hour": "02:00",
+          "percent": 4
+        }
+      ]
+    }
+  ],
+  "relatedSearches": [
+    "fontana della barcaccia",
+    "pasquinade",
+    "silenus",
+    "aqua virgo",
+    "baboon wiki",
+    "fontana della barcaccia",
+    "pasquinade",
+    "silenus",
+    "aqua virgo",
+    "baboon wiki"
+  ],
+  "relateds": [
+    {
+      "mainName": "Marfório",
+      "url": null
+    },
+    {
+      "mainName": "Estátua do Abade Luigi",
+      "url": null
+    },
+    {
+      "mainName": "Il Facchino",
+      "url": null
+    },
+    {
+      "mainName": "Fonte da Deusa Roma",
+      "url": null
+    },
+    {
+      "mainName": "Fonte do Mouro",
+      "url": null
+    },
+    {
+      "mainName": "Fonte do Panteão",
+      "url": null
+    },
+    {
+      "mainName": "Fonte Das Tartarugas",
+      "url": null
+    },
+    {
+      "mainName": "Fonte do Moisés",
+      "url": null
+    },
+    {
+      "mainName": "Foof Museum of the Dog Mondragone",
+      "url": null
+    },
+    {
+      "mainName": "Fonte do Tirreno",
+      "url": null
+    },
+    {
+      "mainName": "Fountain Piazza Mazzini",
+      "url": null
+    },
+    {
+      "mainName": "Fontana dell'Adriatico",
+      "url": null
+    },
+    {
+      "mainName": "Fountain of Neptune",
+      "url": null
+    },
+    {
+      "mainName": "Fontana dei Quattro Fiumi",
+      "url": null
+    },
+    {
+      "mainName": "Piazza del Popolo",
+      "url": null
+    },
+    {
+      "mainName": "Quattro Fontane",
+      "url": null
+    },
+    {
+      "mainName": "Escadarias da Praça da Espanha",
+      "url": null
+    },
+    {
+      "mainName": "Igreja de Santo Atanásio dos Gregos",
+      "url": null
+    },
+    {
+      "mainName": "Fontana della Barcaccia",
+      "url": null
+    },
+    {
+      "mainName": "Fonte do Tritão",
+      "url": null
+    },
+    {
+      "mainName": "Fonte de Água Paola",
+      "url": null
+    },
+    {
+      "mainName": "Piazza Colonna",
+      "url": null
+    },
+    {
+      "mainName": "Ponte Quebrada",
+      "url": null
+    },
+    {
+      "mainName": "Marfório",
+      "url": null
+    },
+    {
+      "mainName": "Estátua do Abade Luigi",
+      "url": null
+    },
+    {
+      "mainName": "Il Facchino",
+      "url": null
+    },
+    {
+      "mainName": "Fonte da Deusa Roma",
+      "url": null
+    },
+    {
+      "mainName": "Fonte do Mouro",
+      "url": null
+    },
+    {
+      "mainName": "Fonte do Panteão",
+      "url": null
+    },
+    {
+      "mainName": "Fonte Das Tartarugas",
+      "url": null
+    },
+    {
+      "mainName": "Fonte do Moisés",
+      "url": null
+    },
+    {
+      "mainName": "Foof Museum of the Dog Mondragone",
+      "url": null
+    },
+    {
+      "mainName": "Fonte do Tirreno",
+      "url": null
+    },
+    {
+      "mainName": "Fountain Piazza Mazzini",
+      "url": null
+    },
+    {
+      "mainName": "Fontana dell'Adriatico",
+      "url": null
+    },
+    {
+      "mainName": "Fountain of Neptune",
+      "url": null
+    },
+    {
+      "mainName": "Fontana dei Quattro Fiumi",
+      "url": null
+    },
+    {
+      "mainName": "Piazza del Popolo",
+      "url": null
+    },
+    {
+      "mainName": "Quattro Fontane",
+      "url": null
+    },
+    {
+      "mainName": "Escadarias da Praça da Espanha",
+      "url": null
+    },
+    {
+      "mainName": "Igreja de Santo Atanásio dos Gregos",
+      "url": null
+    },
+    {
+      "mainName": "Fontana della Barcaccia",
+      "url": null
+    },
+    {
+      "mainName": "Fonte do Tritão",
+      "url": null
+    },
+    {
+      "mainName": "Fonte de Água Paola",
+      "url": null
+    },
+    {
+      "mainName": "Piazza Colonna",
+      "url": null
+    },
+    {
+      "mainName": "Ponte Quebrada",
+      "url": null
+    }
+  ]
+}

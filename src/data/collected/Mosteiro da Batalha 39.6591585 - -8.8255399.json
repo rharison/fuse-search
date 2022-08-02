@@ -1,0 +1,668 @@
+{
+  "mainName": "Mosteiro da Batalha",
+  "slug": "mosteiro-da-batalha",
+  "category": "Monastério",
+  "locationInformation": {
+    "latitude": "39.6591585",
+    "longitude": "-8.8255399"
+  },
+  "basicInformation": [
+    {
+      "label": "endereço",
+      "tooltip": "Copiar endereço",
+      "text": "Largo Infante Dom Henrique, 2440-109 Batalha, Portugal",
+      "icon": "https://www.gstatic.com/images/icons/material/system_gm/1x/place_gm_blue_24dp.png"
+    },
+    {
+      "label": "website",
+      "tooltip": "Abrir website",
+      "text": "mosteirobatalha.pt",
+      "icon": "https://www.gstatic.com/images/icons/material/system_gm/1x/public_gm_blue_24dp.png"
+    },
+    {
+      "label": "telefone",
+      "tooltip": "Copiar número de telefone",
+      "text": "+351 244 765 497",
+      "icon": "https://www.gstatic.com/images/icons/material/system_gm/1x/phone_gm_blue_24dp.png"
+    },
+    {
+      "label": "Code",
+      "tooltip": "Copiar Plus Code",
+      "text": "M55F+MQ Batalha, Portugal",
+      "icon": "https://maps.gstatic.com/mapfiles/maps_lite/images/2x/ic_plus_code.png"
+    }
+  ],
+  "ratingInformation": {
+    "basicRatingInformation": {
+      "averageGrade": 4.7,
+      "totalOfEvaluations": 20886
+    },
+    "ratingsByGrade": [
+      {
+        "grade": 5,
+        "totalRatings": 16002
+      },
+      {
+        "grade": 4,
+        "totalRatings": 3961
+      },
+      {
+        "grade": 3,
+        "totalRatings": 688
+      },
+      {
+        "grade": 2,
+        "totalRatings": 102
+      },
+      {
+        "grade": 1,
+        "totalRatings": 133
+      }
+    ]
+  },
+  "ratingTags": [
+    {
+      "tag": "grande",
+      "count": 4,
+      "tooltip": "grande, mencionado em 4 avaliações"
+    },
+    {
+      "tag": "só",
+      "count": 3,
+      "tooltip": "só, mencionado em 3 avaliações"
+    },
+    {
+      "tag": "gótico",
+      "count": 253,
+      "tooltip": "gótico, mencionado em 253 avaliações"
+    },
+    {
+      "tag": "construção",
+      "count": 140,
+      "tooltip": "construção, mencionado em 140 avaliações"
+    },
+    {
+      "tag": "vitrais",
+      "count": 65,
+      "tooltip": "vitrais, mencionado em 65 avaliações"
+    },
+    {
+      "tag": "bilhete",
+      "count": 55,
+      "tooltip": "bilhete, mencionado em 55 avaliações"
+    },
+    {
+      "tag": "túmulos",
+      "count": 35,
+      "tooltip": "túmulos, mencionado em 35 avaliações"
+    },
+    {
+      "tag": "rei",
+      "count": 26,
+      "tooltip": "rei, mencionado em 26 avaliações"
+    },
+    {
+      "tag": "marco",
+      "count": 26,
+      "tooltip": "marco, mencionado em 26 avaliações"
+    },
+    {
+      "tag": "soldado",
+      "count": 21,
+      "tooltip": "soldado, mencionado em 21 avaliações"
+    }
+  ],
+  "featuredPhotos": [
+    "https://lh5.googleusercontent.com/p/AF1QipPhvhZzaFGN0xM16AP7HxXzK-LUrRQ795lKG4pl=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPnOx4lwz1-bQI-Onbze3FxzRf0wpqfLOjtZHWw=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPbG0QTR2aT17jzYVIc2xjQTOwwL-3lDBAK_qI=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipP1KwIspB3L7fPAsMrJ5eup5ufJvs5w7BRy_TB5=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOGfhNEBfpLUNXuaa2KEZREYvD5NMUqQMktuk5c=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOSjtyGRSY7j0yqpg1u5VdFWgiruFm79ISb0v7D=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOlV0xPODgngyTJCx6rjWEW3C27mNiVtb8HSu54=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPYD0FLJ9JpRyL3HigDkKdAd2wXqrSigV4Llvi9=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipO4DpZSo8KPGzV_lk_z5aUOByoYMwEmPbHp3XA=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNxDaODDZs2nwLtDpBXNJ-Gd8MZeQGYm-HOQrNQ=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMi8uynJA9BHfmtpkWth9vkGe9z9Xf1bQfmGNNB=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPjvCtSHz1DwexHCyjT671YcE9c4xlre21zMAoh=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMI-_V8IwGBKPKRsvg5kYtq8TVy7UUU9FVvlRX0=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipN7zLHsgO48c6AzdsfsKwXdcxBhsc6jZEHDkaz5=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPImzuStqYRql4QlEvgJO1koCi5AO95MB7Fyov-=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNnJ4FEqDjnbV8aiK8O5vz_e_E4WXqDBsfJ1UmT=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNGGyHA-lrGB0j2fIGlEWmBT2t3e5loI4s_mI4=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMpeX7-P6nI5xwmUof810Rp98rk4qXvr9hj7yZo=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNopgU9vkD-0mneS8yyKBcO2aPZ_x-0FRdeZK98=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNkkjhUvuS_Wld4KJAJ2hmYpMXjgGV0QJywwRd-=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPsBD9CyprFcnslM-Lbc3chYM_9bFWIHJwSZHZj=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipP_WbDG4IqIPXJFnvVwGszXFJHpyppEabWmaENS=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOoLSn5Kh2ynLKUXCnHPp_ZwJ9lHgqoSWuN11uL=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOX2t8qjycgISLRHL5X097xlqlxdYuFfdxF2_C6=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMzDgm7dIxwjMj0yftHWtWtE1_U5D-9heRXxhT4=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOGw72TZwWStoOKJ63YR2uKOUbAvPRac4cy32Fh=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPQRMKKATFtJNK0JCc6_OMSM7RaeKpyMDZD5GSQ=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPiA8B6oHgT1HlG3FMR_6raRdiGoAPB7J5YposO=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPhRxhgsmqXjH6pmsgk8gPsQSq_YB-8wP9pv6To=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNVI7nY-e0Mypd3cTbMEiFuW0TI40jTEhx3783S=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNd84d2QDE5ARXbMXwclcMc6ldoWnPQSrL3bOm2=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOZAVOVBU2BJAt1pRN1K-mRR4VaN9O9zi_bY4ri=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOOVCfb6GXi65UK-O9Z_J7DA20OAYFYiW8IInOX=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNeogg5k0DLPoe0bIgOVC1uUtgs18WoTFG8fv-2=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNNvcEYeYn5r1Hfxgx2J9jxX6r6L0FXnfNkRmK7=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNlLtIVBB9NKAQ_TsFtsyNFxDTeG7l8mkzOfK9o=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipM6uInERGh1kRNYQRb75I9e6atPZvmYZs9eJNEJ=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMUwfhuOiExELOwUv1MVeJYZIcrLv0DkUqUgupR=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOAu3VdxTUP59fIAf-CI2zY8z0WrzsUvdwE-0y8=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMrsmFmKFL6kKpViOqYVgY1P6ZVkpr4ss-TGoh3=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipO5nWWGpZV3GGlfPde_qVWkkf3LXbrjOpnRGKRN=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNyL5gieY7Ay-1QggvUHQtperNZJm_aKJiDmYwl=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNb-45uY4wWNyX32Cm3Y-74TOJD1PvQtnXtxEo1=w1024-h576-k-no"
+  ],
+  "topComments": [
+    {
+      "author": "Claudia DuCrKr",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZuco9edPs4VInvo8du7wTJTE-l5q_5hkU4ePwM_F6gw=w36-h36-p-c0x00000000-rp-mo-ba6-br100",
+      "comment": "É sempre um local para ir e para voltar novamente! Cheio de história, cheio de arte e admiração! Um Mosteiro gótico único, as suas ogivas bem ornamentadas com história! Há sua volta tem um espaço enorme onde se pode caminhar ou estar com crianças! Também pastelarias e lojas com lembranças tradicionais da zona! Um lugar muito agradável!",
+      "gradeComment": 5
+    },
+    {
+      "author": "José Ricardo",
+      "photoAuthor": "https://lh3.googleusercontent.com/a/AItbvmkZ4tupk67HzfZr7xGh7On0P8irlbMQWTm1-tov=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "Excelente Monumento Nacional, que proporciona várias visitas com abordagens diferentes ao longo do ano. Há sempre mais qualquer coisa a descobrir espaço com este tamanho e tanta riqueza de promenores. Aconselho também a visita ao menos conhecido Museu Concelhio da Batalha, ali bem perto, onde entre outras exposições, se pode encontrar uma exposição explicativa da construção e diversas ocupações históricas do Mosteiro. E para completar o roteiro, a visita ao CIBA (Centro de Interpretação da Batalha de Aljubarrota),excelente museu que explica a história da Batalha que deu origem à construção do Mosteiro.",
+      "gradeComment": 5
+    },
+    {
+      "author": "António Brandão",
+      "photoAuthor": "https://lh3.googleusercontent.com/a/AItbvmm_gWRuxFC-McaKvehn5_Oc3ZKiXN4pSeK8XuSp=w36-h36-p-c0x00000000-rp-mo-ba6-br100",
+      "comment": "Local único. Especial nos pormenores, nos espaços inacabados, na riqueza dos silêncios e no imaginário que recria os tempos passados, os herois que nos mantêm nos lugares, nas ornamentaçōes sem igual. A Historia e a memória mantém-se vivos com as cores e os vitrais que iluminam os presentes e os espiritos, revelando a beleza dos construtores, o arrojo dos artesãos da pedra, da madeira e is arquitectos que exploraram novas formas de sustentação e de criação, tornando este espaco um monumento intemporal. Este monunento nacional é um local sem paralelo. Obrigatório visitar em Portugal.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Isaque Ferreira",
+      "photoAuthor": "https://lh3.googleusercontent.com/a/AItbvmlC1NIPHgre81wUzB6CXqYX9rF9udBY7-KP-130=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "Um mosteiro mt bonito quer por fora como por dentro, inclui a visita as capelas imperfeitas td bem organizado na visita apesar de não ser guiada... Claro que se visita túmulo soldado desconhecido e se conhece as pouco da história e seu mistério...",
+      "gradeComment": 5
+    },
+    {
+      "author": "Matheus Cunha",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucoT5xEjH-kozFNGp0FLbFFWGoc9xLLIc1yTINm_tQ=w36-h36-p-c0x00000000-rp-mo-ba3-br100",
+      "comment": "Que lugar surpreendente. Você bate o olho de longe e vê que o monumento é espetacular. A história da construção dele é espetacular e a exposição dos túmulos do rei D. João I , Rainha Filipa e seus filhos. Dentro tem um museu militar, mas a melhor parte é admirar a arquitetura do lugar, o jardim interno, a sala dos túmulos e a troca de guarda dos soldados que ficam na guarda em honraria ao túmulo dos soldados desconhecidos. Quem vai a Fátima, vale muito a pena passar nele, é próximo, mas precisa de carro pra chegar.",
+      "gradeComment": 5
+    },
+    {
+      "author": "André Pereira",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucqBw_qqoKoYA_TIx21bPbwm2jNjzR0IytmeoLjnNg=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "Lugar magnífico, cheio de história e com um espaço envolvente super agradável. O amplo espaço à volta estava limpo e é agradável, os cafés e restaurantes à volta são  um \"+\" e o mosteiro em si, é, numa única palavra, magnífico. Os 150 anos de construção refletem-se numa das belas obras primas da arquitectura portuguesa com tracos góticos (predominantes), manuelinas e apontamento renascentistas. Não visitamos o interior mas ficou na lista para o fazer num futuro próximo.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Fredy Oliveira",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucplGfnaamLV5Z8sWw0oYU1kGz6ZxrYA0IJezhKHTw=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "Adorei! Vale bem a visita, Mosteiro com muitos detalhes e a sua pequena vila que o rodeia é bastante interessante para passear. Aconselho comprar o bilhete dos 3 mosteiros e visitar o de Alcobaça e de Tomar ao mesmo tempo uma pequena tour com muita história.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Joao Silva",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucodzUNP3sW9o4OIvcKyGIPZcHWocIHuK17bjS699Q=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "De uma beleza inquestionável o seu estado de conservação é bom mas, como é normal em Portugal, o valor para uma visita completa é um bocado pesado.  O Mosteiro de Santa Maria da Vitória, mais conhecido como Mosteiro da Batalha e igualmente designado por \"Templo da Pátria\", é um mosteiro dominicano situado na vila de Batalha, no distrito de Leiria na região do Centro, província da Beira Litoral, em Portugal, que foi mandado edificar em 1386 pelo rei D. João I de Portugal[3] como agradecimento à Virgem Maria pela vitória contra os rivais castelhanos na batalha de Aljubarrota. Este mosteiro da Ordem de São Domingos foi construído ao longo de dois séculos até cerca de 1563, durante o reinado de sete reis de Portugal, embora desde 1388 já ali vivessem os primeiros frades dominicanos. Exemplo da arquitectura gótica tardia portuguesa, ou estilo manuelino, é considerado património mundial pela UNESCO, e em 7 de Julho de 2007 foi eleito como uma das Sete Maravilhas de Portugal. Em Portugal, o IPPAR ainda classifica-o como Monumento Nacional, desde 1910. Tem, desde 2016, o estatuto de Panteão Nacional.  (Texto Wikipédia)",
+      "gradeComment": 4
+    },
+    {
+      "author": "Susana Santos",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucqN8K2t7bwdIzTU57a2JRXMKDVz-r4WZjKN4Vxsxyc=w36-h36-p-c0x00000000-rp-mo-ba3-br100",
+      "comment": "O mosteiro está a ficar muito bonito muito limpo. Ainda com zonas em restauro mas a ficar lindo. A mudança da gu de Honra continua a ser um ponto alto, de grande símbolismo e de respeito. Adoro as capelas imperfeitas. Bonito e muito cultural.",
+      "gradeComment": 4
+    },
+    {
+      "author": "Sónia Maria Fonseca",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucqugYOCXqjHHWuT9Ea-ldYwphvUDJElPWROkEd19Zo=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "A jóia do gótico,  em Portugal,  com a sua decoração rendilhada, leva-nos a viajar no tempo e imaginar os artesãos a trabalhar os blocos de pedra. Os detalhes do portal principal,  com a hierarquia dos anjos e o Cristo em Magestade, dão-nos as boas vindas, enquanto as Capelas Imperfeitas, emoldurando o céu,  transmitem serenidade e paz.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Naiza Sa",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZuco_QOURZne125xtuNEJkkBVeDFmGIJ58lwZ3MBA-A=w36-h36-p-c0x00000000-rp-mo-ba3-br100",
+      "comment": "O Mosteiro da Batalha é um lugar incrível! Passear por aquele lugar e imaginar como construíram aquela arte é fantástico! Tem muita história Lá! A Igreja é belíssima! No dia em que visitamos teve um casamento! Recomendo muito o passeio!",
+      "gradeComment": 5
+    },
+    {
+      "author": "Marco Fonseca",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucoDE6yQjKU0tzXZNWjHOYMvDGCjHINm1KpvIJmyyQ=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "É sempre um local magnífico, ao qual não me canso de regressar 😊♥️  O Mosteiro de Santa Maria da Vitória, também designado Mosteiro da Batalha é, indiscutivelmente, uma das mais belas obras da arquitetura portuguesa e europeia. Este excecional conjunto arquitetónico resultou do cumprimento de uma promessa feita pelo rei D. João I, em agradecimento pela vitória em Aljubarrota, batalha travada em 14 de Agosto de 1385, que lhe assegurou o trono e garantiu a independência de Portugal. Monumento nacional, integra a Lista do Património da Humanidade definida pela UNESCO, desde 1983.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Benoit Cuche",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucqtN6WDZgC2DRRIBiI-rWQuXzJC9WQZbXhZPDCgcQ=w36-h36-p-c0x00000000-rp-mo-ba3-br100",
+      "comment": "É um monumento fantástico Quando fomos estava a chover por isso não deu para apreciar muito por fora.  Apenas a zona da capela está aberta ao publico de forma gratuita. Há 2 acessos para outras partes e 3 bilheteiras.... O mosteiro que foi feito com o dinheiro dos fieis transformado numa maquina de fazer dinheiro.  O estacionamento está bastante longe da porta de entrada e as casas de banho publicas estavam um horror.",
+      "gradeComment": 3
+    },
+    {
+      "author": "Pedro Damião",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucoMA4-jyl0aVZ49yXfie4nW6R-Pdq3afIt7p7ZtuQ=w36-h36-p-c0x00000000-rp-mo-ba6-br100",
+      "comment": "Uma obra suberba. O estado de conservação deixa alguma dúvida se está a correr bem. A capela pode ser visitada de forma gratuita. Estacionamento nas imediações é fácil.",
+      "gradeComment": 4
+    },
+    {
+      "author": "filipe paiva",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucosKzMj_R4vLTeTzCo_RHfTl0O8hSU67_aPurMFvg=w36-h36-p-c0x00000000-rp-mo-ba2-br100",
+      "comment": "Excelente lugar para amantes de cultura medieval e para turistas. Há vários lugares em vários cantos do castelo que podem capturar a beleza da região com cenários de agricultura, verdadeiros tapetes verdes até onde a vista alcança",
+      "gradeComment": 5
+    },
+    {
+      "author": "Ana Margarida Teixeira P.",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucqgnXUH8Ho2wYUYUMpfQYx7jEBochjs4wLhIqCC1kM=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "Património da humanidade mundial da UNESCO, o seu verdadeiro nome é Mosteiro de Santa Maria da Vitória, e é representativo do estilo gótico português. Demorou cerca de 185 anos a ser construído e é um memorial à batalha de Aljubarrota que foi iniciado por D. João I.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Daniel Seixo",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucqPrnvHRKI9K2WIrHgcdSZIe58K42p59wTaWWa7rqQ=w36-h36-p-c0x00000000-rp-mo-ba5-br100",
+      "comment": "O Mosteiro é magnífico. Ao percorrer a Nacional e ver logo o mosteiro perto da estrada aguça o apetite para o visitar. Para quem gosta de história, é um local obrigatório a visitar.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Nilton Menezes",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucooKoaoJtvfAHurYB7MVpIj0dscyWiqT1KOa4dZI9g=w36-h36-p-c0x00000000-rp-mo-ba5-br100",
+      "comment": "Lugar muito bonito que faz você voltar no tempo, vale a pena visitar. Super recomendo. Nil & Cléo. Manaus Amazonas Brasil 🇧🇷.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Luiz Mota Oficial Arte",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucoiAHjbUwx5vgG0GsOFVNHn8wDcdctP8r2Shkekjw=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "Construção em estilo rococó,  de um acabamento finíssimo.  Digna de ser visitada e incluída no roteiro de viagem. Você verá uma Construção ímpar.",
+      "gradeComment": 5
+    },
+    {
+      "author": "MANUdias",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucptwyRbG-VTMqQurYwS3OUTY_s5BrqekyvZn6BeLzk=w36-h36-p-c0x00000000-rp-mo-ba6-br100",
+      "comment": "O Mosteiro de Santa Maria da Vitória, também designado Mosteiro da Batalha é, indiscutivelmente, uma das mais belas obras da arquitetura portuguesa e europeia. .Este excecional conjunto arquitetónico resultou do cumprimento de uma promessa feita pelo rei D. João I, em agradecimento pela vitória em Aljubarrota, batalha travada em 14 de agosto de 1385, que lhe assegurou o trono e garantiu a independência de Portugal.  As obras prolongaram-se por mais de 150 anos, através de várias fases de construção. Esta duração justifica a existência, nas suas propostas artísticas, de soluções góticas (predominantes) manuelinas e um breve apontamento renascentista. Vários acrescentos foram introduzidos no projeto inicial, resultando um vasto conjunto monástico que atualmente apresenta umaķ igreja, dois claustros com dependências anexas e dois panteões reais, a Capela do Fundador e as Capelas Imperfeitas.",
+      "gradeComment": 5
+    }
+  ],
+  "peakHours": [
+    {
+      "Sunday": [
+        {
+          "hour": "09:00",
+          "percent": 28
+        },
+        {
+          "hour": "10:00",
+          "percent": 70
+        },
+        {
+          "hour": "11:00",
+          "percent": 100
+        },
+        {
+          "hour": "12:00",
+          "percent": 92
+        },
+        {
+          "hour": "13:00",
+          "percent": 77
+        },
+        {
+          "hour": "14:00",
+          "percent": 84
+        },
+        {
+          "hour": "15:00",
+          "percent": 97
+        },
+        {
+          "hour": "16:00",
+          "percent": 96
+        },
+        {
+          "hour": "17:00",
+          "percent": 78
+        }
+      ]
+    },
+    {
+      "Monday": [
+        {
+          "hour": "09:00",
+          "percent": 24
+        },
+        {
+          "hour": "10:00",
+          "percent": 43
+        },
+        {
+          "hour": "11:00",
+          "percent": 55
+        },
+        {
+          "hour": "12:00",
+          "percent": 51
+        },
+        {
+          "hour": "13:00",
+          "percent": 44
+        },
+        {
+          "hour": "14:00",
+          "percent": 45
+        },
+        {
+          "hour": "15:00",
+          "percent": 51
+        },
+        {
+          "hour": "16:00",
+          "percent": 51
+        },
+        {
+          "hour": "17:00",
+          "percent": 39
+        }
+      ]
+    },
+    {
+      "Tuesday": [
+        {
+          "hour": "09:00",
+          "percent": 19
+        },
+        {
+          "hour": "10:00",
+          "percent": 34
+        },
+        {
+          "hour": "11:00",
+          "percent": 41
+        },
+        {
+          "hour": "12:00",
+          "percent": 40
+        },
+        {
+          "hour": "13:00",
+          "percent": 39
+        },
+        {
+          "hour": "14:00",
+          "percent": 43
+        },
+        {
+          "hour": "15:00",
+          "percent": 46
+        },
+        {
+          "hour": "16:00",
+          "percent": 43
+        },
+        {
+          "hour": "17:00",
+          "percent": 34
+        }
+      ]
+    },
+    {
+      "Wednesday": [
+        {
+          "hour": "09:00",
+          "percent": 20
+        },
+        {
+          "hour": "10:00",
+          "percent": 36
+        },
+        {
+          "hour": "11:00",
+          "percent": 47
+        },
+        {
+          "hour": "12:00",
+          "percent": 47
+        },
+        {
+          "hour": "13:00",
+          "percent": 43
+        },
+        {
+          "hour": "14:00",
+          "percent": 44
+        },
+        {
+          "hour": "15:00",
+          "percent": 50
+        },
+        {
+          "hour": "16:00",
+          "percent": 51
+        },
+        {
+          "hour": "17:00",
+          "percent": 40
+        }
+      ]
+    },
+    {
+      "Thursday": [
+        {
+          "hour": "09:00",
+          "percent": 29
+        },
+        {
+          "hour": "10:00",
+          "percent": 50
+        },
+        {
+          "hour": "11:00",
+          "percent": 59
+        },
+        {
+          "hour": "12:00",
+          "percent": 52
+        },
+        {
+          "hour": "13:00",
+          "percent": 45
+        },
+        {
+          "hour": "14:00",
+          "percent": 47
+        },
+        {
+          "hour": "15:00",
+          "percent": 53
+        },
+        {
+          "hour": "16:00",
+          "percent": 50
+        },
+        {
+          "hour": "17:00",
+          "percent": 38
+        }
+      ]
+    },
+    {
+      "Friday": [
+        {
+          "hour": "09:00",
+          "percent": 20
+        },
+        {
+          "hour": "10:00",
+          "percent": 38
+        },
+        {
+          "hour": "11:00",
+          "percent": 49
+        },
+        {
+          "hour": "12:00",
+          "percent": 45
+        },
+        {
+          "hour": "13:00",
+          "percent": 38
+        },
+        {
+          "hour": "14:00",
+          "percent": 40
+        },
+        {
+          "hour": "15:00",
+          "percent": 49
+        },
+        {
+          "hour": "16:00",
+          "percent": 50
+        },
+        {
+          "hour": "17:00",
+          "percent": 39
+        }
+      ]
+    },
+    {
+      "Saturday": [
+        {
+          "hour": "09:00",
+          "percent": 23
+        },
+        {
+          "hour": "10:00",
+          "percent": 49
+        },
+        {
+          "hour": "11:00",
+          "percent": 70
+        },
+        {
+          "hour": "12:00",
+          "percent": 73
+        },
+        {
+          "hour": "13:00",
+          "percent": 60
+        },
+        {
+          "hour": "14:00",
+          "percent": 56
+        },
+        {
+          "hour": "15:00",
+          "percent": 76
+        },
+        {
+          "hour": "16:00",
+          "percent": 92
+        },
+        {
+          "hour": "17:00",
+          "percent": 74
+        }
+      ]
+    }
+  ],
+  "relatedSearches": [
+    "mosteiro da batalha curiosidades",
+    "mosteiro da batalha sepultamentos",
+    "mosteiro da batalha preço",
+    "mosteiro da batalha história",
+    "mosteiro da batalha onde fica",
+    "abóbada mosteiro da batalha",
+    "capelas inacabadas mosteiro da batalha",
+    "mosteiro da batalha patrimonio cultural"
+  ],
+  "relateds": [
+    {
+      "mainName": "Mosteiro de Alcobaça",
+      "url": null
+    },
+    {
+      "mainName": "Convento de Cristo",
+      "url": null
+    },
+    {
+      "mainName": "Mosteiro dos Jerónimos",
+      "url": null
+    },
+    {
+      "mainName": "Capelas Imperfeitas",
+      "url": null
+    },
+    {
+      "mainName": "Capela do Fundador",
+      "url": null
+    },
+    {
+      "mainName": "Torre de Belém",
+      "url": null
+    },
+    {
+      "mainName": "Palácio Nacional de Mafra",
+      "url": null
+    },
+    {
+      "mainName": "Castelo de Óbidos",
+      "url": null
+    },
+    {
+      "mainName": "Parque e Palácio Nacional da Pena",
+      "url": null
+    },
+    {
+      "mainName": "Castelo de Leiria",
+      "url": null
+    },
+    {
+      "mainName": "Grutas de Mira de Aire",
+      "url": null
+    },
+    {
+      "mainName": "Centro de Interpretação da Batalha de Aljubarrota",
+      "url": null
+    },
+    {
+      "mainName": "Grutas da Moeda",
+      "url": null
+    },
+    {
+      "mainName": "Mosteiro de Santa Cruz",
+      "url": null
+    },
+    {
+      "mainName": "Panteão Nacional",
+      "url": null
+    },
+    {
+      "mainName": "Museu de Arte Sacra do Mosteiro de Arouca",
+      "url": null
+    },
+    {
+      "mainName": "Parque de Cabárceno",
+      "url": null
+    },
+    {
+      "mainName": "Cabo de São Vicente",
+      "url": null
+    },
+    {
+      "mainName": "Santuário de Fátima",
+      "url": null
+    },
+    {
+      "mainName": "Palácio Nacional de Sintra",
+      "url": null
+    },
+    {
+      "mainName": "Castelo de S. Jorge",
+      "url": null
+    },
+    {
+      "mainName": "Ponte da Boitaca",
+      "url": null
+    },
+    {
+      "mainName": "Sítios de arte rupestre do Vale do Coa",
+      "url": null
+    }
+  ]
+}

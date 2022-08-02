@@ -1,0 +1,994 @@
+{
+  "mainName": "Estação do Valongo",
+  "slug": "estacao-do-valongo",
+  "category": "Pátio de trens",
+  "locationInformation": {
+    "latitude": "-23.9311616",
+    "longitude": "-46.333535"
+  },
+  "basicInformation": [
+    {
+      "label": "endereço",
+      "tooltip": "Copiar endereço",
+      "text": "Porto Saboó, Santos - SP, 11010-260",
+      "icon": "https://www.gstatic.com/images/icons/material/system_gm/1x/place_gm_blue_24dp.png"
+    },
+    {
+      "label": "locatedin",
+      "text": "Localizado em: RUMO Pátio de Revistamento Valongo",
+      "icon": "https://www.google.com/images/cleardot.gif"
+    },
+    {
+      "label": "Code",
+      "tooltip": "Copiar Plus Code",
+      "text": "3M98+GH Porto Saboó, Santos - SP",
+      "icon": "https://maps.gstatic.com/mapfiles/maps_lite/images/2x/ic_plus_code.png"
+    },
+    {
+      "label": "send-to-device",
+      "text": "Enviar para smartphone",
+      "icon": "https://maps.gstatic.com/consumer/images/icons/1x/send_to_mobile_alt_gm_blue_24dp.png"
+    },
+    {
+      "label": "merchant",
+      "text": "Reivindicar esta empresa",
+      "icon": "https://www.gstatic.com/images/icons/material/system_gm/1x/verified_user_gm_blue_24dp.png"
+    }
+  ],
+  "ratingInformation": {
+    "basicRatingInformation": {
+      "averageGrade": 4.2,
+      "totalOfEvaluations": 147
+    },
+    "ratingsByGrade": [
+      {
+        "grade": 5,
+        "totalRatings": 82
+      },
+      {
+        "grade": 4,
+        "totalRatings": 31
+      },
+      {
+        "grade": 3,
+        "totalRatings": 22
+      },
+      {
+        "grade": 2,
+        "totalRatings": 5
+      },
+      {
+        "grade": 1,
+        "totalRatings": 7
+      }
+    ]
+  },
+  "ratingTags": [
+    {
+      "tag": "histórico",
+      "count": 13,
+      "tooltip": "histórico, mencionado em 13 avaliações"
+    },
+    {
+      "tag": "bonde",
+      "count": 11,
+      "tooltip": "bonde, mencionado em 11 avaliações"
+    },
+    {
+      "tag": "turístico",
+      "count": 9,
+      "tooltip": "turístico, mencionado em 9 avaliações"
+    },
+    {
+      "tag": "museu",
+      "count": 4,
+      "tooltip": "museu, mencionado em 4 avaliações"
+    },
+    {
+      "tag": "legal",
+      "count": 3,
+      "tooltip": "legal, mencionado em 3 avaliações"
+    }
+  ],
+  "featuredPhotos": [
+    "https://lh5.googleusercontent.com/p/AF1QipMogntqzH2cXeuEUbkDPQNVFeTttBB_VknyLo4O=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMcB-TqIaEXfakDeVhJetoxGJTqkvaSxWAqbr9t=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPkmNatDmzMbIPGZJ4G9RJi1vv9sJxo6UnjEhih=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOIXzldUVpN0Fi2jOFxNBi9jivGK0V9VvvuMTHh=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMNWXaW7CfNMS8Kafr4ytoot2o4WZb1JW5LjvOm=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNP5jv9mQ0WeVvmH8e3pZZjwJibtMijAjF2ME4j=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPFmwhZxzz6dlx9vpZFaYs-kv2lcJhPSADxaAvD=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOf5CW8ERyMmokVwgz1L1CzhKiAJSR5dNw39sOK=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPe_kcc0Z_HQ2Equ7uTQws-hWjodYTFPhcI1-iM=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMfm3ql6NXlqLVvD6p-FQQYEHWrxmVvlRCOztgd=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNtb2jkWJ_zir-qNWRxXtDHSyZBdfcIsNSTVgq3=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipO5UelDVkfmw8f-2BgGt5OnGCvoCQ8t0nJMDPAJ=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPsozCWjkryLOvAFtcUPH2IBftRoDeRx6RwcXF1=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNWKUcv-ZNV_DayupSkVOOS7FclpyoLWIlz8AHN=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMseN2zTXD4q8W91EG7VTVE7JEk5KohN4jy81O3=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMboq3RfJA8FKjMVr_PcoYt8XksHfcG-Jm7C7Fl=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPI7JRgJmMY2X_8KDHYzni9c6thYTtxtEmTRgdU=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPE-FifG9batF1TBPKAkROIq2NPi8yKxpoo_xyE=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPRF1SNdig-u_jMbMH7BBtAOku9rT5goK2gglti=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNZ62dzZhSob2V4C3phQseE1LIo-pJabcfs5JNm=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMd6m3a-vB6pcLq99Z0MOmuzSCUHBn7nRT9rW1U=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNdKbexXnB5Yb3scmdyt6AnBWDp1ln83WB2o470=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOkL4ijAXvlzgozqVDegIqGnNlYWoFWts7qD6JE=w1024-h576-k-no"
+  ],
+  "topComments": [
+    {
+      "author": "RENATA",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucpIMP8hRyF2UwetAIJiuueUDwnj3G4ox6eQGXv0tw=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "A Estação do Valongo faz parte do passeio pelo centro histórico. Pertinho da Bolsa do Café  , abriga um restaurante escola bistrô que é um charme! Vale uma parada para almoço( ver site ou página) que tem o cardápio e horários. Ainda por lá tem o famoso passeio de bonde pelo centro de Santos.É  a saída dos bondinhos. Vale muito esse passeio também! Ao lado tem  o Santuário do Valongo e em frente o Museu do Pelé, ambos valem uma visita. Passear pelo centro histórico é observar a história viva em cada canto , em cada casarão, trilhos... Cidade que encanta por suas belezas naturais , acolhedora em todos os aspectos e viva em sua história!",
+      "gradeComment": 5
+    },
+    {
+      "author": "Luiz Alvaro Salles Aguiar de Menezes",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucq5BYtBCL1zp68Z8EAixP45AmGqNE3rflhZwtd3VHI=w36-h36-p-c0x00000000-rp-mo-ba6-br100",
+      "comment": "Aberta em 1867 pela São Paulo Railway (SPR), foi a primeira estação ferroviária do estado de São Paulo, sendo inaugurada juntamente com a ferrovia que seguia até Jundiaí, no interior paulista.  Construída nas proximidades do cais do porto santista, era o ponto de chegada da produção cafeeira de todo o estado.  Hoje a Estação de Trem do Valongo abriga a Secretaria Municipal de Turismo de Santos e o passeio de bondes pelo centro histórico da cidade.",
+      "gradeComment": 4
+    },
+    {
+      "author": "Lino Gaviolli",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZuco9rLM5XNks-8f3oN2vRTSLx0PAA7x1Y8wZlFuesJE=w36-h36-p-c0x00000000-rp-mo-ba5-br100",
+      "comment": "O site não indica o horário de funcionamento do Bonde, nem que a  passagem é paga apenas com dinheiro. O 0800 da prefeitura não funciona (aliás, há semanas como disse uma funcionária). O atendimento é ruim.",
+      "gradeComment": 1
+    },
+    {
+      "author": "Josiane Negoseki",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucpEZ6oqKObcuX-wl7uu4iHPUVDYqiKthd3_M5KEww=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "Passeio de bonde em comemoração do dia dos namorados",
+      "gradeComment": 5
+    },
+    {
+      "author": "ronaldo giannoni",
+      "photoAuthor": "https://lh3.googleusercontent.com/a/AItbvmkH2k-K8CdoCB6XE39hRbcEUcxsfi_BX0MyPtIw=w36-h36-p-c0x00000000-rp-mo-ba5-br100",
+      "comment": "Esse é um lugar para voltar ao passado Andar de Bonde Museu do Rei Pelé Etc",
+      "gradeComment": 5
+    },
+    {
+      "author": "Douglas Barabam",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucp89QTP9MkQ0TewtwDwLCnEBGgqo7rSrosnfpiEIg8=w36-h36-p-c0x00000000-rp-mo-ba5-br100",
+      "comment": "Local de arquitetura inglesa antiga. Foi interessante  conhecer.",
+      "gradeComment": 4
+    },
+    {
+      "author": "Mauricio (Ribeiro)",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucr5_2CKDlT5O8IyI9jyauEI5xpIIuLyJuEuY9LbYXY=w36-h36-p-c0x00000000-rp-mo-ba6-br100",
+      "comment": "Antiga estação de trem, muito bonita e histórica, hoje serve de estação inicial do bonde turístico que percorre o centro histórico de Santos",
+      "gradeComment": 5
+    },
+    {
+      "author": "alsb",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucoXfxapeto03ljZdC8n850q5Dskbtu7ey5sBheKrpE=w36-h36-p-c0x00000000-rp-mo-ba6-br100",
+      "comment": "um ponto potente de visitação patrimonial, visto que, tudo que era escoado do porto, era transportado por linhas férreas, por via dos trilhos desta estação inglesa, projetada por uma companhia inglesa, a SPR, tendo como trajeto principal, a capital, até junduaí - trajeto conhecido por \"santos-jundiaí\".  vale a visita, visto que, além da interação com a edificação, é possivel conhecer outras instituições culturais presentes nas proximidades.",
+      "gradeComment": 3
+    },
+    {
+      "author": "Felipe Rezende",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucrFD-uRVnr78rDUa_RmS4ZIoYL-fI4sAAA2wg0gvBM=w36-h36-p-c0x00000000-rp-mo-ba3-br100",
+      "comment": "Lugar com policiamento e bem legal",
+      "gradeComment": 5
+    },
+    {
+      "author": "Gabriel Andrade",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucoqaX26-DrwG4a3yAUao8Ixk_P0V_tFtePryIMwtw=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "O local é muito bonito, prédios históricos e um bom local para fazer fotos. Mas falta policiamento, chega a ser bem perigoso.",
+      "gradeComment": 3
+    },
+    {
+      "author": "Sá Pereira Paulo",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucpmAd_ZarQANcjEdInpHd777TCZvNYqZ7ekJ7YJ=w36-h36-p-c0x00000000-rp-mo-ba6-br100",
+      "comment": "Ponto turístico de grande importância e movimento. Restaurante escola no local",
+      "gradeComment": 4
+    },
+    {
+      "author": "daniel silva",
+      "photoAuthor": "https://lh3.googleusercontent.com/a/AItbvmkd-uMEwp6wmPOOU8VTLovq13JA285BRXF4Wj32=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "Um belo ponto turístico,e em frente o museu Pelé e dublado a igreja santo Antônio do Valongo, igreja linda e histórica estilo barroco.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Sidney Ra",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucpLb6IdzpGvE3kIOTlBcwJ83EUXIOH4DbxBn_9l=w36-h36-p-c0x00000000-rp-mo-ba5-br100",
+      "comment": "O lugar é bom.... Muito bom pra visitas lugar histórico.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Luck Harold",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucohtigwQL_EyGyVW8GX4zAkgVuOaC1voEFIHlthjfU=w36-h36-p-c0x00000000-rp-mo-ba5-br100",
+      "comment": "Bom para passear de bonde.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Anna beatriz gameiro febbe",
+      "photoAuthor": "https://lh3.googleusercontent.com/a/AItbvmnM4Aoh8GUiO8SbABXzA1YUFAQvVLvA_Ht-gRVz=w36-h36-p-c0x00000000-rp-mo-br100",
+      "comment": "Um lugar muito legal, mas paga a visitação!  Possui uma ótima lanchonete , não é muito barato !",
+      "gradeComment": 4
+    },
+    {
+      "author": "Heitor Duarte",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucopLxO_MKtUXLXXjjnDR23zu0u3M7PWgW88UmGo04w=w36-h36-p-c0x00000000-rp-mo-ba2-br100",
+      "comment": "Estação temática, tem passeio de bondinho feirinha e fotos tematicas",
+      "gradeComment": 3
+    },
+    {
+      "author": "Arthur Moura",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZuco-W80TWR7sMdeI_T7oxLQyaNqakv70PoaYqQIY3g=w36-h36-p-c0x00000000-rp-mo-br100",
+      "comment": "O passeio de bonde é bem bacana.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Wilson Vasconcellos",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucrpfVkomvnXSSGaJPWTSqLRLg3skYwYzxGJ-gLBCqk=w36-h36-p-c0x00000000-rp-mo-ba7-br100",
+      "comment": "Local histórico e de onde partem os bondinhos que fazem o tour pela cidade de Santos.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Marcelo Sonohara (msonohara)",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZuco3qTFo6VvgUVrJlOdxu6tWC_p9Myi6ytOM2aMU-g=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "Tem um lindo passeio pela cidade feito através do Bonde.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Cláudia Lopes Pereira",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucqaPlU4-C2MrtBEyp7Fe3LoU5tj6Q0YMlRe9vBh7A=w36-h36-p-c0x00000000-rp-mo-ba6-br100",
+      "comment": "Aqui você pode fazer um passeio de 45 minutos, por onde passa por uns 40 lugares históricos. A  Estação foi inaugurada em 1867 e foi desativada em 1996, quando foi extinto o transporte de passageiros da linha férrea. Em 2004, passou a ser a Secretaria de Turismo de Santos e do restaurante-escola Estação Bistrô. Vale a pena conhecer.",
+      "gradeComment": 5
+    }
+  ],
+  "peakHours": [
+    {
+      "Sunday": [
+        {
+          "hour": "04:00",
+          "percent": 14
+        },
+        {
+          "hour": "05:00",
+          "percent": 21
+        },
+        {
+          "hour": "06:00",
+          "percent": 35
+        },
+        {
+          "hour": "07:00",
+          "percent": 42
+        },
+        {
+          "hour": "08:00",
+          "percent": 50
+        },
+        {
+          "hour": "09:00",
+          "percent": 50
+        },
+        {
+          "hour": "10:00",
+          "percent": 57
+        },
+        {
+          "hour": "11:00",
+          "percent": 64
+        },
+        {
+          "hour": "12:00",
+          "percent": 78
+        },
+        {
+          "hour": "13:00",
+          "percent": 92
+        },
+        {
+          "hour": "14:00",
+          "percent": 100
+        },
+        {
+          "hour": "15:00",
+          "percent": 100
+        },
+        {
+          "hour": "16:00",
+          "percent": 92
+        },
+        {
+          "hour": "17:00",
+          "percent": 71
+        },
+        {
+          "hour": "18:00",
+          "percent": 50
+        },
+        {
+          "hour": "19:00",
+          "percent": 28
+        },
+        {
+          "hour": "20:00",
+          "percent": 7
+        },
+        {
+          "hour": "21:00",
+          "percent": 7
+        },
+        {
+          "hour": "22:00",
+          "percent": 7
+        },
+        {
+          "hour": "23:00",
+          "percent": 7
+        },
+        {
+          "hour": "00:00",
+          "percent": 7
+        },
+        {
+          "hour": "01:00",
+          "percent": 7
+        },
+        {
+          "hour": "02:00",
+          "percent": 7
+        },
+        {
+          "hour": "03:00",
+          "percent": 7
+        }
+      ]
+    },
+    {
+      "Monday": [
+        {
+          "hour": "04:00",
+          "percent": 7
+        },
+        {
+          "hour": "05:00",
+          "percent": 7
+        },
+        {
+          "hour": "06:00",
+          "percent": 7
+        },
+        {
+          "hour": "07:00",
+          "percent": 7
+        },
+        {
+          "hour": "08:00",
+          "percent": 7
+        },
+        {
+          "hour": "09:00",
+          "percent": 14
+        },
+        {
+          "hour": "10:00",
+          "percent": 14
+        },
+        {
+          "hour": "11:00",
+          "percent": 14
+        },
+        {
+          "hour": "12:00",
+          "percent": 14
+        },
+        {
+          "hour": "13:00",
+          "percent": 7
+        },
+        {
+          "hour": "14:00",
+          "percent": 7
+        },
+        {
+          "hour": "15:00",
+          "percent": 7
+        },
+        {
+          "hour": "16:00",
+          "percent": 7
+        },
+        {
+          "hour": "17:00",
+          "percent": 7
+        },
+        {
+          "hour": "20:00",
+          "percent": 7
+        },
+        {
+          "hour": "21:00",
+          "percent": 7
+        },
+        {
+          "hour": "22:00",
+          "percent": 7
+        },
+        {
+          "hour": "23:00",
+          "percent": 7
+        },
+        {
+          "hour": "00:00",
+          "percent": 7
+        },
+        {
+          "hour": "01:00",
+          "percent": 7
+        },
+        {
+          "hour": "02:00",
+          "percent": 7
+        },
+        {
+          "hour": "03:00",
+          "percent": 7
+        }
+      ]
+    },
+    {
+      "Tuesday": [
+        {
+          "hour": "04:00",
+          "percent": 7
+        },
+        {
+          "hour": "05:00",
+          "percent": 7
+        },
+        {
+          "hour": "06:00",
+          "percent": 7
+        },
+        {
+          "hour": "07:00",
+          "percent": 7
+        },
+        {
+          "hour": "08:00",
+          "percent": 14
+        },
+        {
+          "hour": "09:00",
+          "percent": 14
+        },
+        {
+          "hour": "10:00",
+          "percent": 21
+        },
+        {
+          "hour": "11:00",
+          "percent": 21
+        },
+        {
+          "hour": "12:00",
+          "percent": 28
+        },
+        {
+          "hour": "13:00",
+          "percent": 28
+        },
+        {
+          "hour": "14:00",
+          "percent": 28
+        },
+        {
+          "hour": "15:00",
+          "percent": 21
+        },
+        {
+          "hour": "16:00",
+          "percent": 7
+        },
+        {
+          "hour": "17:00",
+          "percent": 7
+        },
+        {
+          "hour": "18:00",
+          "percent": 7
+        },
+        {
+          "hour": "19:00",
+          "percent": 7
+        },
+        {
+          "hour": "20:00",
+          "percent": 7
+        },
+        {
+          "hour": "21:00",
+          "percent": 7
+        },
+        {
+          "hour": "22:00",
+          "percent": 7
+        },
+        {
+          "hour": "23:00",
+          "percent": 7
+        },
+        {
+          "hour": "00:00",
+          "percent": 7
+        },
+        {
+          "hour": "01:00",
+          "percent": 7
+        },
+        {
+          "hour": "02:00",
+          "percent": 7
+        },
+        {
+          "hour": "03:00",
+          "percent": 7
+        }
+      ]
+    },
+    {
+      "Wednesday": [
+        {
+          "hour": "04:00",
+          "percent": 7
+        },
+        {
+          "hour": "05:00",
+          "percent": 7
+        },
+        {
+          "hour": "06:00",
+          "percent": 7
+        },
+        {
+          "hour": "07:00",
+          "percent": 7
+        },
+        {
+          "hour": "08:00",
+          "percent": 7
+        },
+        {
+          "hour": "09:00",
+          "percent": 7
+        },
+        {
+          "hour": "10:00",
+          "percent": 21
+        },
+        {
+          "hour": "11:00",
+          "percent": 57
+        },
+        {
+          "hour": "12:00",
+          "percent": 42
+        },
+        {
+          "hour": "13:00",
+          "percent": 7
+        },
+        {
+          "hour": "14:00",
+          "percent": 7
+        },
+        {
+          "hour": "15:00",
+          "percent": 7
+        },
+        {
+          "hour": "16:00",
+          "percent": 7
+        },
+        {
+          "hour": "17:00",
+          "percent": 7
+        },
+        {
+          "hour": "18:00",
+          "percent": 7
+        },
+        {
+          "hour": "19:00",
+          "percent": 7
+        },
+        {
+          "hour": "20:00",
+          "percent": 7
+        },
+        {
+          "hour": "21:00",
+          "percent": 7
+        },
+        {
+          "hour": "22:00",
+          "percent": 7
+        },
+        {
+          "hour": "23:00",
+          "percent": 7
+        },
+        {
+          "hour": "00:00",
+          "percent": 7
+        },
+        {
+          "hour": "01:00",
+          "percent": 7
+        },
+        {
+          "hour": "02:00",
+          "percent": 7
+        },
+        {
+          "hour": "03:00",
+          "percent": 7
+        }
+      ]
+    },
+    {
+      "Thursday": [
+        {
+          "hour": "04:00",
+          "percent": 7
+        },
+        {
+          "hour": "05:00",
+          "percent": 7
+        },
+        {
+          "hour": "06:00",
+          "percent": 7
+        },
+        {
+          "hour": "07:00",
+          "percent": 7
+        },
+        {
+          "hour": "08:00",
+          "percent": 7
+        },
+        {
+          "hour": "09:00",
+          "percent": 42
+        },
+        {
+          "hour": "10:00",
+          "percent": 71
+        },
+        {
+          "hour": "11:00",
+          "percent": 64
+        },
+        {
+          "hour": "12:00",
+          "percent": 35
+        },
+        {
+          "hour": "13:00",
+          "percent": 7
+        },
+        {
+          "hour": "14:00",
+          "percent": 7
+        },
+        {
+          "hour": "15:00",
+          "percent": 7
+        },
+        {
+          "hour": "16:00",
+          "percent": 7
+        },
+        {
+          "hour": "17:00",
+          "percent": 14
+        },
+        {
+          "hour": "18:00",
+          "percent": 7
+        },
+        {
+          "hour": "19:00",
+          "percent": 7
+        },
+        {
+          "hour": "20:00",
+          "percent": 7
+        },
+        {
+          "hour": "21:00",
+          "percent": 7
+        },
+        {
+          "hour": "22:00",
+          "percent": 7
+        },
+        {
+          "hour": "23:00",
+          "percent": 7
+        },
+        {
+          "hour": "00:00",
+          "percent": 7
+        },
+        {
+          "hour": "01:00",
+          "percent": 7
+        },
+        {
+          "hour": "02:00",
+          "percent": 7
+        },
+        {
+          "hour": "03:00",
+          "percent": 7
+        }
+      ]
+    },
+    {
+      "Friday": [
+        {
+          "hour": "04:00",
+          "percent": 7
+        },
+        {
+          "hour": "05:00",
+          "percent": 7
+        },
+        {
+          "hour": "06:00",
+          "percent": 7
+        },
+        {
+          "hour": "07:00",
+          "percent": 14
+        },
+        {
+          "hour": "08:00",
+          "percent": 21
+        },
+        {
+          "hour": "09:00",
+          "percent": 35
+        },
+        {
+          "hour": "10:00",
+          "percent": 42
+        },
+        {
+          "hour": "11:00",
+          "percent": 50
+        },
+        {
+          "hour": "12:00",
+          "percent": 50
+        },
+        {
+          "hour": "13:00",
+          "percent": 42
+        },
+        {
+          "hour": "14:00",
+          "percent": 35
+        },
+        {
+          "hour": "15:00",
+          "percent": 28
+        },
+        {
+          "hour": "16:00",
+          "percent": 21
+        },
+        {
+          "hour": "17:00",
+          "percent": 21
+        },
+        {
+          "hour": "18:00",
+          "percent": 14
+        },
+        {
+          "hour": "19:00",
+          "percent": 14
+        },
+        {
+          "hour": "20:00",
+          "percent": 7
+        },
+        {
+          "hour": "21:00",
+          "percent": 7
+        },
+        {
+          "hour": "22:00",
+          "percent": 7
+        },
+        {
+          "hour": "23:00",
+          "percent": 7
+        },
+        {
+          "hour": "00:00",
+          "percent": 7
+        },
+        {
+          "hour": "01:00",
+          "percent": 7
+        },
+        {
+          "hour": "02:00",
+          "percent": 7
+        },
+        {
+          "hour": "03:00",
+          "percent": 7
+        }
+      ]
+    },
+    {
+      "Saturday": [
+        {
+          "hour": "04:00",
+          "percent": 28
+        },
+        {
+          "hour": "05:00",
+          "percent": 28
+        },
+        {
+          "hour": "06:00",
+          "percent": 28
+        },
+        {
+          "hour": "07:00",
+          "percent": 35
+        },
+        {
+          "hour": "08:00",
+          "percent": 42
+        },
+        {
+          "hour": "09:00",
+          "percent": 50
+        },
+        {
+          "hour": "10:00",
+          "percent": 50
+        },
+        {
+          "hour": "11:00",
+          "percent": 42
+        },
+        {
+          "hour": "12:00",
+          "percent": 35
+        },
+        {
+          "hour": "13:00",
+          "percent": 35
+        },
+        {
+          "hour": "14:00",
+          "percent": 35
+        },
+        {
+          "hour": "15:00",
+          "percent": 35
+        },
+        {
+          "hour": "16:00",
+          "percent": 35
+        },
+        {
+          "hour": "17:00",
+          "percent": 35
+        },
+        {
+          "hour": "18:00",
+          "percent": 35
+        },
+        {
+          "hour": "19:00",
+          "percent": 35
+        },
+        {
+          "hour": "20:00",
+          "percent": 35
+        },
+        {
+          "hour": "21:00",
+          "percent": 35
+        },
+        {
+          "hour": "22:00",
+          "percent": 35
+        },
+        {
+          "hour": "23:00",
+          "percent": 35
+        },
+        {
+          "hour": "00:00",
+          "percent": 35
+        },
+        {
+          "hour": "01:00",
+          "percent": 35
+        },
+        {
+          "hour": "02:00",
+          "percent": 35
+        },
+        {
+          "hour": "03:00",
+          "percent": 28
+        }
+      ]
+    }
+  ],
+  "relatedSearches": [
+    "estação valongo santos shows",
+    "valongo significado",
+    "estacao valongo show belo",
+    "estação do ano",
+    "valongo brasil",
+    "estação jundiaí",
+    "estação da luz endereço",
+    "largo marquês de monte alegre santos"
+  ],
+  "relateds": [
+    {
+      "mainName": "Linha Turística do Bonde",
+      "url": null
+    },
+    {
+      "mainName": "Casa do Trem Bélico",
+      "url": null
+    },
+    {
+      "mainName": "Museu Pelé",
+      "url": null
+    },
+    {
+      "mainName": "Igreja Santuário Santo Antônio do Valongo",
+      "url": null
+    },
+    {
+      "mainName": "Monte Serrat",
+      "url": null
+    },
+    {
+      "mainName": "Palácio José Bonifácio",
+      "url": null
+    },
+    {
+      "mainName": "Porto",
+      "url": null
+    },
+    {
+      "mainName": "Museu do Café",
+      "url": null
+    },
+    {
+      "mainName": "Conselheiro Nebias",
+      "url": null
+    },
+    {
+      "mainName": "Praça Mauá",
+      "url": null
+    },
+    {
+      "mainName": "Estação da Luz",
+      "url": null
+    },
+    {
+      "mainName": "Serra do Mar",
+      "url": null
+    }
+  ]
+}

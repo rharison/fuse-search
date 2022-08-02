@@ -1,0 +1,605 @@
+{
+  "mainName": "Museu do Açude",
+  "slug": "museu-do-acude",
+  "category": "Museu",
+  "locationInformation": {
+    "latitude": "-22.9648139",
+    "longitude": "-43.2820705"
+  },
+  "basicInformation": [
+    {
+      "label": "endereço",
+      "tooltip": "Copiar endereço",
+      "text": "Estr. do Açude, 764 - Alto da Boa Vista, Rio de Janeiro - RJ, 20531-330",
+      "icon": "https://www.gstatic.com/images/icons/material/system_gm/1x/place_gm_blue_24dp.png"
+    },
+    {
+      "label": "website",
+      "tooltip": "Abrir website",
+      "text": "museuscastromaya.com.br",
+      "icon": "https://www.gstatic.com/images/icons/material/system_gm/1x/public_gm_blue_24dp.png"
+    },
+    {
+      "label": "Code",
+      "tooltip": "Copiar Plus Code",
+      "text": "2PP9+35 Alto da Boa Vista, Rio de Janeiro - RJ",
+      "icon": "https://maps.gstatic.com/mapfiles/maps_lite/images/2x/ic_plus_code.png"
+    }
+  ],
+  "ratingInformation": {
+    "basicRatingInformation": {
+      "averageGrade": 4.7,
+      "totalOfEvaluations": 533
+    },
+    "ratingsByGrade": [
+      {
+        "grade": 5,
+        "totalRatings": 419
+      },
+      {
+        "grade": 4,
+        "totalRatings": 87
+      },
+      {
+        "grade": 3,
+        "totalRatings": 22
+      },
+      {
+        "grade": 2,
+        "totalRatings": 1
+      },
+      {
+        "grade": 1,
+        "totalRatings": 4
+      }
+    ]
+  },
+  "ratingTags": [
+    {
+      "tag": "natureza",
+      "count": 27,
+      "tooltip": "natureza, mencionado em 27 avaliações"
+    },
+    {
+      "tag": "acervo",
+      "count": 26,
+      "tooltip": "acervo, mencionado em 26 avaliações"
+    },
+    {
+      "tag": "jardins",
+      "count": 26,
+      "tooltip": "jardins, mencionado em 26 avaliações"
+    },
+    {
+      "tag": "trilha",
+      "count": 24,
+      "tooltip": "trilha, mencionado em 24 avaliações"
+    },
+    {
+      "tag": "obras de arte",
+      "count": 22,
+      "tooltip": "obras de arte, mencionado em 22 avaliações"
+    },
+    {
+      "tag": "repelente",
+      "count": 15,
+      "tooltip": "repelente, mencionado em 15 avaliações"
+    },
+    {
+      "tag": "arte contemporânea",
+      "count": 10,
+      "tooltip": "arte contemporânea, mencionado em 10 avaliações"
+    },
+    {
+      "tag": "verde",
+      "count": 9,
+      "tooltip": "verde, mencionado em 9 avaliações"
+    },
+    {
+      "tag": "azulejos",
+      "count": 5,
+      "tooltip": "azulejos, mencionado em 5 avaliações"
+    },
+    {
+      "tag": "mosquito",
+      "count": 5,
+      "tooltip": "mosquito, mencionado em 5 avaliações"
+    }
+  ],
+  "featuredPhotos": [
+    "https://lh5.googleusercontent.com/p/AF1QipPC9dQS3CbrAuVPfOzB5aInLw-XPhMzoeOtEaHe=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMuW1TXt67c8MaQ0KXkhzmNaej9GakPGAUEUGww=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMURe5ATHCkG7D5OPwfxYsl2qFAQSiP4ZqsRfAX=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNQuACx28M48x0AoXbjXCxsgR5t90xguySrLzei=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPieM9RrAZ9d_x40BhAzSEwyGl51EEMUzCCQNGl=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMf4XXseztcE29ig30YF1PjDRA-U9CZbmk3IVMo=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMzdCt4neE4fzewSapm1XRRKvXaqElKg4Mu3V1t=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPjmL2_cGgq01WkBtYdTQHKzXRQYDx7Bg4Vu9RV=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOf4XYVOEtD4DPejhorsarOZHOs2tDnjxR2qIK8=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPnEIo4n7bK_zxrybVLswW5WkKtnLtjxMf5U-bo=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMExZKTIuo5wHsg5J82_Q_mztM41io5x5IPHF5P=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMuXnbQ2SK6vBWEFyzQ_tT-7x7CU244kXHGcaSr=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPfQgKVl0PjTSpQgDadfEJK0IFWvqSJ-YmonwV8=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNhy5pXFKUL4Z_zLjX035pdCIRJo5zlisxZmQD8=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMu2HWB9qh5QM-WRKVEqv1NiTeFmmH38boj8rDG=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMa5s3lNvIdVs1wxsUmJR9RW173Jz8oGXzaEpIO=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOR22pKbKnvjEC6qXUe1OXhyCe9vFjR7uEO1yyC=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOu_yPZmHPJC36x4HtyVQS7RiiPCm-xohPOA0Xo=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNJb9_vcBBTmYL0-pjH_iVX_BZl8zqcgWvFirkt=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOQn_FNLXdhwG6n6GYZ659m86sutnDYmdrF9SzM=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNw2j9gH-blzCGw5wxpF_ovXt-nzUlaaXXeAufL=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMQiUDiWSfpE17_EKaiNvrcNxPwn843YqfbURfT=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOi71peaM-Ss_oJgCf6Au8PTTXlL6z4DwNksbDm=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPGov4GSoJPK55fQUHpAK7xm0mEtJIg0M2jbTkf=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNSfu_4fh8AM7WKIqX7KhXzLyxf26TTpGxWSl30=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPa4yh6WpRLS2FGR0k_kv75IrK94EQGWyd3oHxY=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMx99VKIIoXDKvt4do_hF_OCfk3NuElbnL6wEZ-=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOjCl7BOBX5afMaJWXo36Kf5VyS7wbxAY-_4uOj=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOkGwNrnVJjxDRhZyf3oSuyT2FF_KVks8XFa-dF=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipM4M2YW0Ej9z2SOuBOELU1Kow-OFkaWUdu-gafV=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPiYdkWL7LGLCRt_NT25j9S5g26vpsAEFccyc7I=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOce4Wcf1ULno_WZyxla33Es7TdCYgXA4iy6X0i=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipN5owGFoNeMyQNmUqLkBcdhcK2_VZOPEO0mehQ7=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNYlcdTc3yVmU_c71Ew9yCVeg2Ooor3dF-_clC2=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMKMCbVRu8h1-n1iNXZQLdOzwfEdRoeIWB_KQMP=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMVVZh9IQqEZqsroKUtaFZwi01xxH9hB0wsI3Tm=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPuOttEPPbxDR-Av6eLGe59frugivb9IufO3edJ=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOje5pHOLdbEZxuFZi7mZthekMBUuO5xqUUPjqz=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipP7p8C_d0m4wtcn8eIRaJ0bB8URxd9g0ZL73DPh=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNPUh-CwbJMxI2GeUxKk5Lqd_ZBkLahTwMIH3nc=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPtsO6vRMTm-GBZUJjCM89_jbwKw3pR15G71jIj=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOE_kReNcSr7YyRieAA6a27QYxzs06DjZKOkKUs=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNyxKjg2XmkbiSqBAQK3nmzOlyFsQP_Bw637hku=w1024-h576-k-no"
+  ],
+  "topComments": [
+    {
+      "author": "Júnior Godim",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucoDwb-ZCXs-fGIaGWP4dIeHMPmAThGhAOkFONAIig4=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "Museu maravilhoso! No meio da Floresta da Tijuca, no Alto da Boa Vista, tem um acervo muito bom de peças clássicas e arte contemporânea espalhada na mata, piscina e jardins. Vale a pena visitar e aproveitar bastante o espaço. Não tem nada próximo, então leve água e comida se for ficar algum tempo por lá. Um ponto negativo é não ter acessibilidade, as obras ficam no meio do mato, com trilhas e pedras, fora o acesso que é bem longe de transporte público - uns 20 minutos andando.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Guilherme Monteiro",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucrMQ4-sMzrwa8ifMEdo9iXSuIUntZI3-mWmJkNCqQ=w36-h36-p-c0x00000000-rp-mo-ba6-br100",
+      "comment": "Local muito interessante apesar de afastado. Possui uma coleção objetivos antigos que pertencia a Castro Maya e um jardim com diversas obras de arte. Interessante a vista pois a história de castro  maia está muito ligada a história do rio. O ponto alto da vista é o jardim que na minha opinião é muito bonito. Taxa de entrada 8 reais. Levem repelente pois lá tem muito mosquito. As artes estão espalhadas no jardim ao estilo Inhotim. Ingressos são comprados lá na hora com o segurança. O local tem estacionamento caso preciso",
+      "gradeComment": 4
+    },
+    {
+      "author": "Silvana Faltoni",
+      "photoAuthor": "https://lh3.googleusercontent.com/a/AItbvmlXV3Z1zr1snVM5D8mWuPxK3ibcebO2sP9Y7Z1y=w36-h36-p-c0x00000000-rp-mo-ba5-br100",
+      "comment": "Lugar esplêndido casa toda decorada com azulejos portugueses . Coleção de cerâmicas portuguesas maravilhosa . Encravado numa área de floresta de 150.000.00 mts . Imperdível . Pena que esteja bem mau mantido como tudo que vai parar nas mãos do poder público .",
+      "gradeComment": 4
+    },
+    {
+      "author": "Cristina Beatriz Teper",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucoSq3e_wO-ftb8gT_DO-exQIFXJIp2TmwAGusAM=w36-h36-p-c0x00000000-rp-mo-ba3-br100",
+      "comment": "Foi além do esperado. O caminho até chegar lá é de tirar o fôlego. O museu surpreende pelo acervo e as maravilhosas instalações",
+      "gradeComment": 5
+    },
+    {
+      "author": "Trilheiros Freguesia",
+      "photoAuthor": "https://lh3.googleusercontent.com/a/AItbvmliN027OTXMHsk4zWvgNuvVia-cUkJ2o9QdMCiw=w36-h36-p-c0x00000000-rp-mo-br100",
+      "comment": "Nosso grupo amou visitar esse lugar com tantas histórias. Vamos valorizar nosso Brasil!!!! Trilheiros Freguesia Uma Aventura Todo Dia! Instagram: @trilheirosfreguesia",
+      "gradeComment": 5
+    },
+    {
+      "author": "Cleison Silva",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucqSJ6Nsu7553BTIWT29Zxyhn3w62H7WoQ-jJL9BBg=w36-h36-p-c0x00000000-rp-mo-ba2-br100",
+      "comment": "Fabuloso! Uma viagem no tempo. Funcionários educados, me trataram muito bem. Lugar é lindo.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Eddy Pop",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucozfsfjDM05u7W2rEblY_WfO0Kb4vpNqs81nh7ce58=w36-h36-p-c0x00000000-rp-mo-ba2-br100",
+      "comment": "Local agradável pra relaxar e passar um tempo com a família, sem contar que contar um pouco da história do Rio, vale a pena visitar este local no parque da floresta da Tijuca.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Karen Vieira",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucovfpmKsDjv2hfJ0RpELYSAPZAVpCJqvITDgl1F0A=w36-h36-p-c0x00000000-rp-mo-ba3-br100",
+      "comment": "Lugar espetacular, pura história, vale muito à pena visitar, mesmo estando fechado você pode curtir a área externa que já é maravilhosa. Me siga no Instagram para mais dicas. @boratrilharsonhos",
+      "gradeComment": 5
+    },
+    {
+      "author": "Amanda Soutinho",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucr5U6f-uxpGdyFVSJAOnYQm3tIpV6kEknKf0Zv0=w36-h36-p-c0x00000000-rp-mo-ba5-br100",
+      "comment": "Local incrível, parte do parque Nacional da Tijuca, porém pouco explorado. Vale a pena a visita para conhecer a história local.",
+      "gradeComment": 5
+    },
+    {
+      "author": "monica cruz",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucpImbyLSi3F7JJiN5aGaVMfGFxuNiaXauXLD4VO=w36-h36-p-c0x00000000-rp-mo-br100",
+      "comment": "Recomendo a todos conhecerem a história afro Brasileira. É importante pra nós . Parabéns !!!!",
+      "gradeComment": 5
+    },
+    {
+      "author": "Machado Bad",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucqBeFCHXp7RhGHib6CgePnhrlfhyT4uFjwPCg1jIXM=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "Lugar lindo. Vale muito a visita.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Arthur Ottoni",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucrCLUjObhTp-oQqQzubYK8HmXGEgK0yaP9-SvtHaQk=w36-h36-p-c0x00000000-rp-mo-ba5-br100",
+      "comment": "Os jardins estão abertos aos FDS e alguns dias da semana. Bem bonito, razoavelmente bem cuidado. De fácil acesso.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Aparecida Mauro",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucqB-P5aW5kdNQ3Tg1-blMZ9M0w_4RvKfqjV9x0ohA=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "Museu um pouco escondido, mas que vale muito a pena conhecer, seja pela história como também pela natureza que cerca um museu-casa bem conservado com alguns cômodos mobiliados e ambientados que preservam o caráter de moradia dos espaços.",
+      "gradeComment": 4
+    },
+    {
+      "author": "Ana Claudia Da Costa",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucpjIyoAfsKFZ_fyXU-vP3mZq2ZlEFCmI6s4A-jAWw=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "Lindo museu, com diversas peças históricas e com um valor de visitação bem barato, 8,00 reais. O local por si só já vale a pena.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Michelle Cantreva Rodrigues",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucqzDK_dEhUSNl5xATeOku19bEOgOQkRBnQeY8wWKLE=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "Apesar de distante e bem escondido, o local é lindo! Cheio de árvores e jardins belíssimos, uma fauna riquíssima. Ótimo para fazer pic-nic. Tem uma ótima infraestrutura, banheiros e bebedouros. Tem o casarão principal para visitação e os jardins para controlar a natureza. O horário de funcionamento é um pouco restrito, de 9h às 17h. A visita é paga, só aceitam dinheiro. Não tem nenhuma lanchonete (nem no local e nem nas proximidades), necessário levar lanche de casa. Recomendo levar repelente.",
+      "gradeComment": 5
+    },
+    {
+      "author": "José Bastos",
+      "photoAuthor": "https://lh3.googleusercontent.com/a/AItbvmlIfsqiwO2rKejANLNLsl69E0Vn7OpICvsMCaAT=w36-h36-p-c0x00000000-rp-mo-ba6-br100",
+      "comment": "Evidente que num país onde cultura é assunto dispensável, a manutenção geral do enorme espaço deste museu deixa um pouco a desejar. Mas nada que impeça o visitante de deliciar-se com o local. O acervo eclético talvez encante mais às pessoas comuns que somos do que os ordenados acervos dos museus históricos, cuja apreensão requer certo grau de dedicação e conhecimento. O patrono deste museu, Castro Maya, era um homem erudito e gostava de colecionar coisas belas ou interessantes. Quem não gostaria? Fortemente recomendável a visita ao Museu do Açude. Uma observação. Apesar de haver no local bancos decorados com azulejos (que assentos frios . . .), conviria dotar a área externa de bancos confortáveis para que visitantes possam sentar e apreciar a bela paisagem ao redor. Desabafo: como seria bom, após a visita, deparar com uma delicatessen no espaço construído onde se pudesse saborear um bom café, tomar um suco, mordiscar uns canapés ou degustar uma fatia de torta . . . quem sabe um dia . . .",
+      "gradeComment": 4
+    },
+    {
+      "author": "Diego da Silva Pulido",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucq94fYAEOG3040ycnA2nTD9lDQbPuLXIWqUdD3zy5M=w36-h36-p-c0x00000000-rp-mo-ba3-br100",
+      "comment": "Lugar maravilhoso, lindo!",
+      "gradeComment": 5
+    },
+    {
+      "author": "Gisele Nepomuceno",
+      "photoAuthor": "https://lh3.googleusercontent.com/a/AItbvmnSdYeYGAoiRb5Jjv2rHQIvj8J3efC2d8fVfhiu=w36-h36-p-c0x00000000-rp-mo-ba3-br100",
+      "comment": "O museu do Açude possui um espaço aberto de natureza maravilhoso pra fazer um piquenique ou mesmo passar uma parte do seu tempo na natureza, ótimo para levar também criança pelo aproveitamento do espaço verde. O local possui estrutura d banheiro, bebedouro e a entrada é apenas R$6,00. Vale a visita",
+      "gradeComment": 5
+    },
+    {
+      "author": "Jorge Martins",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucoAzZ5GjFRvIGjpK_OtzR_HJ-ioxUpkrYGiHi5Rsg=w36-h36-p-c0x00000000-rp-mo-ba5-br100",
+      "comment": "Encantador.  O museu fica no meio da floresta da Tijuca.  Levem repelente adulto e infantil.  Excelente área aberta, muito verde. Lugar de muita paz.  Os funcionários são parceiros, atenciosos e com vasto conhecimento sobre a história do lugar.  O ingresso colaborativo custa R$ 6 por pessoa.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Vinícius Alves",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucpxgDE8TNLYUFOHmH-bFk-nxTf6lftvRSFXMKsRjA=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "Lugar muito bonito e infelizmente pouco explorado. Falta divulgação por parte do local também.. mas no geral é muito bom! Lugar incrível, história de um homem tão incrível quanto.  Tranquilo de se chegar (de carro), com estacionamento, etc. Funcionários simpáticos e muito explicativos. Vale muito a pena a visitação!!!",
+      "gradeComment": 5
+    }
+  ],
+  "peakHours": [
+    {
+      "Sunday": [
+        {
+          "hour": "09:00",
+          "percent": 29
+        },
+        {
+          "hour": "10:00",
+          "percent": 42
+        },
+        {
+          "hour": "11:00",
+          "percent": 52
+        },
+        {
+          "hour": "12:00",
+          "percent": 60
+        },
+        {
+          "hour": "13:00",
+          "percent": 72
+        },
+        {
+          "hour": "14:00",
+          "percent": 88
+        },
+        {
+          "hour": "15:00",
+          "percent": 86
+        },
+        {
+          "hour": "16:00",
+          "percent": 56
+        }
+      ]
+    },
+    {
+      "Monday": [
+        {
+          "hour": "09:00",
+          "percent": 25
+        },
+        {
+          "hour": "10:00",
+          "percent": 29
+        },
+        {
+          "hour": "11:00",
+          "percent": 29
+        },
+        {
+          "hour": "12:00",
+          "percent": 29
+        },
+        {
+          "hour": "13:00",
+          "percent": 31
+        },
+        {
+          "hour": "14:00",
+          "percent": 34
+        },
+        {
+          "hour": "15:00",
+          "percent": 36
+        },
+        {
+          "hour": "16:00",
+          "percent": 30
+        }
+      ]
+    },
+    {
+      "Tuesday": []
+    },
+    {
+      "Wednesday": [
+        {
+          "hour": "09:00",
+          "percent": 32
+        },
+        {
+          "hour": "10:00",
+          "percent": 40
+        },
+        {
+          "hour": "11:00",
+          "percent": 45
+        },
+        {
+          "hour": "12:00",
+          "percent": 50
+        },
+        {
+          "hour": "13:00",
+          "percent": 59
+        },
+        {
+          "hour": "14:00",
+          "percent": 63
+        },
+        {
+          "hour": "15:00",
+          "percent": 57
+        },
+        {
+          "hour": "16:00",
+          "percent": 41
+        }
+      ]
+    },
+    {
+      "Thursday": [
+        {
+          "hour": "09:00",
+          "percent": 26
+        },
+        {
+          "hour": "10:00",
+          "percent": 45
+        },
+        {
+          "hour": "11:00",
+          "percent": 63
+        },
+        {
+          "hour": "12:00",
+          "percent": 75
+        },
+        {
+          "hour": "13:00",
+          "percent": 78
+        },
+        {
+          "hour": "14:00",
+          "percent": 76
+        },
+        {
+          "hour": "15:00",
+          "percent": 68
+        },
+        {
+          "hour": "16:00",
+          "percent": 52
+        }
+      ]
+    },
+    {
+      "Friday": [
+        {
+          "hour": "09:00",
+          "percent": 28
+        },
+        {
+          "hour": "10:00",
+          "percent": 39
+        },
+        {
+          "hour": "11:00",
+          "percent": 49
+        },
+        {
+          "hour": "12:00",
+          "percent": 55
+        },
+        {
+          "hour": "13:00",
+          "percent": 56
+        },
+        {
+          "hour": "14:00",
+          "percent": 51
+        },
+        {
+          "hour": "15:00",
+          "percent": 41
+        },
+        {
+          "hour": "16:00",
+          "percent": 29
+        }
+      ]
+    },
+    {
+      "Saturday": [
+        {
+          "hour": "09:00",
+          "percent": 39
+        },
+        {
+          "hour": "10:00",
+          "percent": 61
+        },
+        {
+          "hour": "11:00",
+          "percent": 79
+        },
+        {
+          "hour": "12:00",
+          "percent": 93
+        },
+        {
+          "hour": "13:00",
+          "percent": 100
+        },
+        {
+          "hour": "14:00",
+          "percent": 96
+        },
+        {
+          "hour": "15:00",
+          "percent": 77
+        },
+        {
+          "hour": "16:00",
+          "percent": 49
+        }
+      ]
+    }
+  ],
+  "relatedSearches": [
+    "museu do açude telefone",
+    "museu do açude contato",
+    "museu do açude fotos",
+    "museu do pontal",
+    "museu do amanhã",
+    "museu histórico nacional",
+    "museus rio de janeiro",
+    "telefone museu do açude rj"
+  ],
+  "relateds": [
+    {
+      "mainName": "Museu da Chácara do Céu",
+      "url": null
+    },
+    {
+      "mainName": "Museu Histórico Nacional",
+      "url": null
+    },
+    {
+      "mainName": "Museu de Favela",
+      "url": null
+    },
+    {
+      "mainName": "Museu Aeroespacial",
+      "url": null
+    },
+    {
+      "mainName": "Museu Villa-Lobos",
+      "url": null
+    },
+    {
+      "mainName": "Museu da República",
+      "url": null
+    },
+    {
+      "mainName": "Mirante da Cascatinha",
+      "url": null
+    },
+    {
+      "mainName": "Museu Histórico da Cidade do Rio de Janeiro",
+      "url": null
+    },
+    {
+      "mainName": "Açude da Solidão",
+      "url": null
+    },
+    {
+      "mainName": "Cova da onça",
+      "url": null
+    },
+    {
+      "mainName": "Parque das Ruínas",
+      "url": null
+    },
+    {
+      "mainName": "Museu do Índio",
+      "url": null
+    },
+    {
+      "mainName": "Museu de Arte Contemporânea de Niterói",
+      "url": null
+    },
+    {
+      "mainName": "Museu Regional Casa dos Ottoni Serro",
+      "url": null
+    },
+    {
+      "mainName": "Alto do Cruzeiro",
+      "url": null
+    },
+    {
+      "mainName": "Museu Casa de Benjamin Constant",
+      "url": null
+    },
+    {
+      "mainName": "Espaço Cultural da Marinha",
+      "url": null
+    },
+    {
+      "mainName": "Museu Nacional - UFRJ",
+      "url": null
+    },
+    {
+      "mainName": "Cascatinha Taunay",
+      "url": null
+    },
+    {
+      "mainName": "Museu Militar Conde de Linhares",
+      "url": null
+    },
+    {
+      "mainName": "Instituto Casa Roberto Marinho",
+      "url": null
+    },
+    {
+      "mainName": "Capela Mayrink",
+      "url": null
+    },
+    {
+      "mainName": "Instituto Moreira Salles - IMS Rio",
+      "url": null
+    },
+    {
+      "mainName": "Serra da Carioca",
+      "url": null
+    }
+  ]
+}

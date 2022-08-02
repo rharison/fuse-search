@@ -1,0 +1,979 @@
+{
+  "mainName": "Ingenio Park",
+  "slug": "ingenio-park",
+  "category": "Parque",
+  "locationInformation": {
+    "latitude": "3.3867032",
+    "longitude": "-76.5292925"
+  },
+  "basicInformation": [
+    {
+      "label": "endereço",
+      "tooltip": "Copiar endereço",
+      "text": "Cra. 80, Cali, Valle del Cauca, Colômbia",
+      "icon": "https://www.gstatic.com/images/icons/material/system_gm/1x/place_gm_blue_24dp.png"
+    },
+    {
+      "label": "Code",
+      "tooltip": "Copiar Plus Code",
+      "text": "9FPC+M7 Cali, Valle del Cauca, Colômbia",
+      "icon": "https://maps.gstatic.com/mapfiles/maps_lite/images/2x/ic_plus_code.png"
+    },
+    {
+      "label": "send-to-device",
+      "text": "Enviar para smartphone",
+      "icon": "https://maps.gstatic.com/consumer/images/icons/1x/send_to_mobile_alt_gm_blue_24dp.png"
+    },
+    {
+      "label": "merchant",
+      "text": "Reivindicar esta empresa",
+      "icon": "https://www.gstatic.com/images/icons/material/system_gm/1x/verified_user_gm_blue_24dp.png"
+    }
+  ],
+  "ratingInformation": {
+    "basicRatingInformation": {
+      "averageGrade": 4.6,
+      "totalOfEvaluations": 16868
+    },
+    "ratingsByGrade": [
+      {
+        "grade": 5,
+        "totalRatings": 12193
+      },
+      {
+        "grade": 4,
+        "totalRatings": 3677
+      },
+      {
+        "grade": 3,
+        "totalRatings": 719
+      },
+      {
+        "grade": 2,
+        "totalRatings": 129
+      },
+      {
+        "grade": 1,
+        "totalRatings": 150
+      }
+    ]
+  },
+  "ratingTags": [
+    {
+      "tag": "delicioso",
+      "count": 4,
+      "tooltip": "delicioso, mencionado em 4 avaliações"
+    },
+    {
+      "tag": "ideal",
+      "count": 141,
+      "tooltip": "ideal, mencionado em 141 avaliações"
+    },
+    {
+      "tag": "salada de frutas",
+      "count": 107,
+      "tooltip": "salada de frutas, mencionado em 107 avaliações"
+    },
+    {
+      "tag": "atividades físicas",
+      "count": 60,
+      "tooltip": "atividades físicas, mencionado em 60 avaliações"
+    }
+  ],
+  "featuredPhotos": [
+    "https://lh5.googleusercontent.com/p/AF1QipOa85BqmyY1dZ9K4dHbAIyS0s3mot_3gFU92ghO=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPSqCbsSH0R6gdQkXjw5UbyQ1WE5TWhHLFq1MIz=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPInt5KxPUhwF-2LVBFZBT1PgTpbB9cpTaPGuNQ=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNNUMssAsnfDdpPsorjSeX2Zu7UMb0quS6ih806=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMez-fAsVBZ1WnZ3387hoDzOuIlNKDUaHz-61NE=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMtkT-bg3ofIZCOZnbtzC_dnrpQJXTqZaS-Wsjz=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipO4mNyKhomNPbwSaPASgVH_eRAA2RECB3nFGZhn=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipO5jnvzTFiFrNQYIohQ8JSK8nQ5nXs_M28DHfHX=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipN5e5o00iF04LxLtyAg_U9S2hnxckPeUcG5ElsS=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPSBl7rjxbb1NoAUYdP5mFf3mjQCg3y7Tw7hou5=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipO1bFfPVH0dly-qGaoMdRYONUKQ9nAQUUadlVPl=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNJROySwmyNs2FMaNTtedqPHAL73RFaUzQHia7a=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMxuhR1-DdCtYkgJz0sI_WAw7Me3-TcKc92iqzW=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipP0xSIgERoVf1GeCerDzcwLkfrkvwvgCAyxgVmW=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipN3FRdlX4uoh2KJbLq-DKXAmrkIaHc8HnuD9LgP=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMJL9DnUgsWUVDmM0PMyUNLNyMplCkoBK6wc-hp=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPLDndnqDjDBWEPyt9tCt2ssHMyWLgK1m2t4XLl=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipO9SwIsI1vOL_xrov90dFqBvoOYumAPGppWpf28=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipM5X7NAJHIaj0BOfIz8-APpPdVtxavozaNGiV7M=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNAPDpOcBCs8QYdDyjno76ZUDQxGo_6jk8U8y76=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMbrVE3PgF_iiO18r5PZB7UX3WgPRixo3YYA4FD=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNxqu8_dZP8F2TW9DoRcaMCmjylS9ROPj6MWjCh=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPd071hVM0orgTQ-vbnglaBl0q2XO_L3D6ua3cH=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNu_MZgOn5XUc1veom6BqWtMWT7l8vj2acdf7EC=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOzvBCUYwlvG-SB2U73B8NprJetBLPvS3qAGXIq=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOJ_NHPeyTSDDgQEkTC8wdaHYPq_N0-8kqz5dX-=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOmGkzCYZtjCMjpsrWpRE_Q5OO9h2b3tQKPXOyz=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOVtzhdpW_tezrhbcffrtg9nfGFumSKO2sxWglI=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMYrx87amjUebS6OS26CFzn2_V1wT6L8xZrTrI-=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOSb_25CwymfnLNup85TFzmjJKRjwdtNEX3AcLd=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMKxbHTHu3VVJI3tcnq_iT-y7ZnZBkr_qqzBvOT=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipONWFSi8EFaHDZec3Mos1IPNvi5Yrq-vlfC1Z0H=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPGLHUFwyBzYcqf4Ej98E8HyJqW_aRSPRrbmjb8=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOCgV8uLAgfnnnt5N0ttes4-upXEsjVV7ADNYkb=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMEimSEbYG6SpLOIAqx-l6q2grZOhClW8ShOnJ0=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPdzh3-nzLQIZGR0M_7Y_CbbRtqtnoQtici78Qq=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPBoeB0yJ-Zd3iOO48gyeN7m0U1EiIWhyG47Ozi=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNtYB2xQ-TXFeKKWI_tYuoYPdlIK-cuFexMewMZ=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNPMYrzGU9R6Sk9XUEbu6P23Ztcdj-mgV_SoT8A=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOjHh04-zxAlHft1cmrB5SQ1BbkcOdAnZV2TdPc=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOpQYKELHe_qb4u9wo6ZkJeoqh6Nr5MiI5BdE6-=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNkI_PzwFNO29XzVT_xjCoxAWNF5WjMtlM7XaYx=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipN-jgMEacxSNMBT3nSwiC_vLSBarax1nIOPRUwS=w1024-h576-k-no"
+  ],
+  "topComments": [
+    {
+      "author": "Poliana Oliveira",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucoe1KSEF5Qjxx9Ps63SYrvwAg-eYtgLOJipz2Dwln8=w36-h36-p-c0x00000000-rp-mo-ba3-br100",
+      "comment": "Um ótimo lugar para praticar esportes e estar perto da natureza mesmo dentro da cidade :) Os turistas em Cali não podem deixar de visitar.",
+      "gradeComment": 4
+    },
+    {
+      "author": "Daniel Cruz",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucqucpCrnmbD_ogt80P24XFE_iWIB6jBJMgFEAYu=w36-h36-p-c0x00000000-rp-mo-br100",
+      "comment": "Bacanisimo!",
+      "gradeComment": 5
+    },
+    {
+      "author": "lady valencia",
+      "photoAuthor": "https://lh3.googleusercontent.com/a/AItbvmkyWiyTfBDNhzcgOY2TvcSZQyR-XlrVrbJSMV12=w36-h36-p-c0x00000000-rp-mo-br100",
+      "comment": "Super especial",
+      "gradeComment": 5
+    },
+    {
+      "author": "JORGE HENAO",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZuco8zmatdCa-7p-cXPeoWsyQDz5KfbAvZ9Qw1JyBcQ=w36-h36-p-c0x00000000-rp-mo-ba3-br100",
+      "comment": "Super bonito!!",
+      "gradeComment": 5
+    },
+    {
+      "author": "Monica L Muñoz",
+      "photoAuthor": "https://lh3.googleusercontent.com/a/AItbvmmZTjSXesZUYX9qj_icRojbv-vzNySSK_cbnmmf=w36-h36-p-c0x00000000-rp-mo-br100",
+      "comment": "Bonito lugar para recearse",
+      "gradeComment": 5
+    },
+    {
+      "author": "erica salles",
+      "photoAuthor": "https://lh3.googleusercontent.com/a/AItbvmm4bJEhbnx5rzOCRtT4MxwV7eFpGKknyfI2Q4Eo=w36-h36-p-c0x00000000-rp-mo-ba3-br100",
+      "comment": "Lindo e com variedade culinária de Cali.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Humberto González Tigreros",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucpip5_mvYJeLj9BumRswvJt0r14hhjNLP3Nbo8dzA=w36-h36-p-c0x00000000-rp-mo-ba2-br100",
+      "comment": "Seguro e integral.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Áoraz Gomez",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucrglOi109xrayyyWWkYjsw_CbMAA_NNZd_bkk1D3g=w36-h36-p-c0x00000000-rp-mo-ba2-br100",
+      "comment": "Bastante bonito",
+      "gradeComment": 4
+    },
+    {
+      "author": "Mileida Pérez",
+      "photoAuthor": "https://lh3.googleusercontent.com/a/AItbvmkA_8SzcCPJWYPUyWo9tBpKDIoKK5JdzDxEGhLB=w36-h36-p-c0x00000000-rp-mo-br100",
+      "comment": "Super lindo",
+      "gradeComment": 5
+    },
+    {
+      "author": "Jenny Lopez",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucpQRTQUOhdpUAOmujprsxS94wcuxi1macWSWPncdw=w36-h36-p-c0x00000000-rp-mo-ba2-br100",
+      "comment": "Ciclovia",
+      "gradeComment": 5
+    },
+    {
+      "author": "Willson Gomez",
+      "photoAuthor": "https://lh3.googleusercontent.com/a/AItbvml4FSkp5wBPR9MwZfXRR4WxYg4NbNkA-LFKMdS6=w36-h36-p-c0x00000000-rp-mo-ba2-br100",
+      "comment": "Muivonito",
+      "gradeComment": 5
+    },
+    {
+      "author": "Rosita Florez",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucow_oyP-YPJjcUdvD5UoQalFLA_cRnNGwSoS_6azw=w36-h36-p-c0x00000000-rp-mo-ba3-br100",
+      "comment": "bonito.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Hector Augusto",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucreLJK1Ay7N9rwGG6sOB__qhZrEzUfYS4QJAH1f=w36-h36-p-c0x00000000-rp-mo-ba2-br100",
+      "comment": "(Tradução do Google) As vezes que fui foi muito tranquilo. Muitas pessoas se exercitando, há empresas em torno de alimentos e personal trainers em seu espaço oferecendo seus serviços. Ideal para caminhar, exercitar ou limpar a mente.  (Original) Las veces que he ido ha sido muy tranquilo. Mucha gente haciendo ejercicio, hay negocios al rededor de comida y personal trainers en su espacio ofreciendo sus servicios. Ideal para caminar, hacer ejercicio o despejar la mente.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Laury Cruz",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucpsqJ3g-e-9tZNzO-3cqh6RwuurJcpFkcl3AhZ4qPY=w36-h36-p-c0x00000000-rp-mo-ba5-br100",
+      "comment": "(Tradução do Google) Ótimo para todos os tipos de atividades, esportes, cultura, dizer olá com a família, celebração do que você precisar, ótimo para um lanche, vista luxuosa...  (Original) Genial para todo tipo de actividades, deportiva, cultural, saluda en familia, celebración de lo que necesites, genial para un tentempié , vista lujosa...siempre buenisimo parche",
+      "gradeComment": 5
+    },
+    {
+      "author": "Akil Smith",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucrBqhDE3xf8mBGHQNdxZz1tZ_9sdblG4g8ECwtx=w36-h36-p-c0x00000000-rp-mo-ba5-br100",
+      "comment": "(Tradução do Google) Realmente era um lugar incrível, limpo tem lugar para uma refeição completa e a água é linda 😍.  (Original) It was really an incredible place, clean there's a place to have a full meal and the water is beautiful 😍.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Felipe Mora",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucrEMu2X6SJchgaviOUNY_GezpN9BQLijWlql5uLNYY=w36-h36-p-c0x00000000-rp-mo-ba5-br100",
+      "comment": "(Tradução do Google) É um excelente lugar para fazer atividades físicas e passar tempo com a família ou amigos.  Este espaço tem campos de futebol, ginásio, máquinas e até aulas de grupo nas manhãs de dança.  É um local muito visitado para comer todo o tipo de comida, desde o cholado a uma empanada.  Convidamos você a conhecer nosso empreendimento de antepastos, Vali Artesanal, que estará visitando este parque aos domingos para lhe oferecer nossos deliciosos sabores!  (Original) Es un excelente lugar para realizar actividades físicas y pasar un rato en familia o amigos.  Este espacio cuenta con canchas de futbol, gimnasio, maquinas e incluso clases grupales en las mañanas de baile.  Es un lugar muy visitado para comer todo tipo de alimentos, desde cholado hasta una empanada.  Los invitamos a que conozcan nuestro emprendimiento de Antipastos, Vali Artesanal que estará visitando este parque los domingos para brindarles nuestros deliciosos sabores!",
+      "gradeComment": 5
+    },
+    {
+      "author": "AMPARO LOPEZ",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucoOaf95Z-RM0cS4UNkJGTShrM4Am9sgHUqrpJ0g=w36-h36-p-c0x00000000-rp-mo-ba3-br100",
+      "comment": "(Tradução do Google) Espaço amplo e seguro para animais de estimação. Só tem um detalhe, não tem repelente, muitos mosquitos  (Original) Espacio amplio y seguro para las mascotas. Solo hay un detalle, no hay repelente que valga, demasiados mosquitos",
+      "gradeComment": 4
+    },
+    {
+      "author": "Jairo Medina Chaves",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucq26QD8FbY_huwM-05FbAFFNopkS_ZERv2xlKZ0R2Q=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "(Tradução do Google) Bom para se exercitar, caminhar, passar algum tempo com a família. E desfrute também de um típico Cholado  (Original) Agradable para hacer ejercicio, caminata, pasar un rato en familia. Y también disfrutar de un típico Cholado",
+      "gradeComment": 4
+    },
+    {
+      "author": "Sergio Andrés Araque Bermudez",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucqcolxFJaDieEHQJTlzH0zErX0GQ0-Jw93441BGBdg=w36-h36-p-c0x00000000-rp-mo-ba3-br100",
+      "comment": "(Tradução do Google) É um espaço muito amplo e muito bem adaptado para a realização de vários tipos de atividade física, bem como para ir estacionar nos seus espaços verdes, comer nas barracas de comida e divertir-se com amigos, crianças e animais de estimação com atividades recreativas. Localizado ao sul de Cali, tem espaço para estacionar em frente, embora não seja um estacionamento estabelecido e tenha vários acessos.  (Original) Es un espacio muy grande y muy bien adaptado para realizar varios tipos de actividad física, así mismo como para ir a parchar en sus espacios verdes, comer en los puestos de comida y divertirse con amigos, niños y mascotas con actividades recreativas. Ubicado al sur de Cali, tiene espacio para parquear en frente, aunque no es un parqueadero establecido, y tiene múltiples accesos.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Felipe Ortiz",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucr1-mDlcKoeKz7x-T_iyx5lCjbm-QzhgslH5Dostkk=w36-h36-p-c0x00000000-rp-mo-br100",
+      "comment": "(Tradução do Google) É um lugar muito tranquilo e seguro para estar com a família ou com seus amigos em grupo. Você pode comer cachorros-quentes, cholados com frutas e outros sucos gelados muito gostosos. Eu gosto que as pessoas sejam respeitosas e que existam atividades que você pode desfrutar se você for uma pessoa amigável.  (Original) Es un lugar muy tranquilo y seguro para estar en familia o con tus amigos en un grupo. Se pueden comer perros calientes, cholados con frutas, y otros fríos jugos muy deliciosos. Me gusta que la gente es respetuosa, y que hay actividades que pueden gustar si se es una persona amigable.",
+      "gradeComment": 5
+    }
+  ],
+  "peakHours": [
+    {
+      "Sunday": [
+        {
+          "hour": "04:00",
+          "percent": 1
+        },
+        {
+          "hour": "05:00",
+          "percent": 1
+        },
+        {
+          "hour": "06:00",
+          "percent": 3
+        },
+        {
+          "hour": "07:00",
+          "percent": 9
+        },
+        {
+          "hour": "08:00",
+          "percent": 22
+        },
+        {
+          "hour": "09:00",
+          "percent": 43
+        },
+        {
+          "hour": "10:00",
+          "percent": 63
+        },
+        {
+          "hour": "11:00",
+          "percent": 70
+        },
+        {
+          "hour": "12:00",
+          "percent": 62
+        },
+        {
+          "hour": "13:00",
+          "percent": 49
+        },
+        {
+          "hour": "14:00",
+          "percent": 48
+        },
+        {
+          "hour": "15:00",
+          "percent": 63
+        },
+        {
+          "hour": "16:00",
+          "percent": 85
+        },
+        {
+          "hour": "17:00",
+          "percent": 100
+        },
+        {
+          "hour": "18:00",
+          "percent": 96
+        },
+        {
+          "hour": "19:00",
+          "percent": 77
+        },
+        {
+          "hour": "20:00",
+          "percent": 50
+        },
+        {
+          "hour": "21:00",
+          "percent": 27
+        },
+        {
+          "hour": "22:00",
+          "percent": 12
+        },
+        {
+          "hour": "23:00",
+          "percent": 5
+        },
+        {
+          "hour": "00:00",
+          "percent": 2
+        },
+        {
+          "hour": "01:00",
+          "percent": 1
+        },
+        {
+          "hour": "02:00",
+          "percent": 1
+        },
+        {
+          "hour": "03:00",
+          "percent": 1
+        }
+      ]
+    },
+    {
+      "Monday": [
+        {
+          "hour": "05:00",
+          "percent": 1
+        },
+        {
+          "hour": "06:00",
+          "percent": 4
+        },
+        {
+          "hour": "08:00",
+          "percent": 13
+        },
+        {
+          "hour": "09:00",
+          "percent": 18
+        },
+        {
+          "hour": "10:00",
+          "percent": 20
+        },
+        {
+          "hour": "11:00",
+          "percent": 20
+        },
+        {
+          "hour": "12:00",
+          "percent": 19
+        },
+        {
+          "hour": "13:00",
+          "percent": 18
+        },
+        {
+          "hour": "14:00",
+          "percent": 21
+        },
+        {
+          "hour": "15:00",
+          "percent": 27
+        },
+        {
+          "hour": "16:00",
+          "percent": 35
+        },
+        {
+          "hour": "17:00",
+          "percent": 41
+        },
+        {
+          "hour": "18:00",
+          "percent": 42
+        },
+        {
+          "hour": "19:00",
+          "percent": 37
+        },
+        {
+          "hour": "20:00",
+          "percent": 28
+        },
+        {
+          "hour": "21:00",
+          "percent": 18
+        },
+        {
+          "hour": "22:00",
+          "percent": 9
+        },
+        {
+          "hour": "23:00",
+          "percent": 3
+        },
+        {
+          "hour": "00:00",
+          "percent": 1
+        },
+        {
+          "hour": "01:00",
+          "percent": 1
+        },
+        {
+          "hour": "02:00",
+          "percent": 1
+        },
+        {
+          "hour": "03:00",
+          "percent": 1
+        }
+      ]
+    },
+    {
+      "Tuesday": [
+        {
+          "hour": "05:00",
+          "percent": 2
+        },
+        {
+          "hour": "06:00",
+          "percent": 5
+        },
+        {
+          "hour": "07:00",
+          "percent": 9
+        },
+        {
+          "hour": "08:00",
+          "percent": 12
+        },
+        {
+          "hour": "09:00",
+          "percent": 15
+        },
+        {
+          "hour": "10:00",
+          "percent": 17
+        },
+        {
+          "hour": "11:00",
+          "percent": 17
+        },
+        {
+          "hour": "12:00",
+          "percent": 17
+        },
+        {
+          "hour": "13:00",
+          "percent": 17
+        },
+        {
+          "hour": "14:00",
+          "percent": 17
+        },
+        {
+          "hour": "15:00",
+          "percent": 20
+        },
+        {
+          "hour": "16:00",
+          "percent": 25
+        },
+        {
+          "hour": "17:00",
+          "percent": 31
+        },
+        {
+          "hour": "18:00",
+          "percent": 34
+        },
+        {
+          "hour": "19:00",
+          "percent": 33
+        },
+        {
+          "hour": "20:00",
+          "percent": 26
+        },
+        {
+          "hour": "21:00",
+          "percent": 17
+        },
+        {
+          "hour": "22:00",
+          "percent": 9
+        },
+        {
+          "hour": "23:00",
+          "percent": 4
+        },
+        {
+          "hour": "01:00",
+          "percent": 1
+        },
+        {
+          "hour": "02:00",
+          "percent": 1
+        },
+        {
+          "hour": "03:00",
+          "percent": 1
+        }
+      ]
+    },
+    {
+      "Wednesday": [
+        {
+          "hour": "05:00",
+          "percent": 3
+        },
+        {
+          "hour": "06:00",
+          "percent": 7
+        },
+        {
+          "hour": "07:00",
+          "percent": 11
+        },
+        {
+          "hour": "08:00",
+          "percent": 14
+        },
+        {
+          "hour": "09:00",
+          "percent": 16
+        },
+        {
+          "hour": "10:00",
+          "percent": 17
+        },
+        {
+          "hour": "11:00",
+          "percent": 17
+        },
+        {
+          "hour": "12:00",
+          "percent": 16
+        },
+        {
+          "hour": "13:00",
+          "percent": 15
+        },
+        {
+          "hour": "14:00",
+          "percent": 17
+        },
+        {
+          "hour": "15:00",
+          "percent": 21
+        },
+        {
+          "hour": "16:00",
+          "percent": 26
+        },
+        {
+          "hour": "17:00",
+          "percent": 32
+        },
+        {
+          "hour": "18:00",
+          "percent": 34
+        },
+        {
+          "hour": "19:00",
+          "percent": 32
+        },
+        {
+          "hour": "20:00",
+          "percent": 26
+        },
+        {
+          "hour": "21:00",
+          "percent": 19
+        },
+        {
+          "hour": "22:00",
+          "percent": 12
+        },
+        {
+          "hour": "23:00",
+          "percent": 6
+        },
+        {
+          "hour": "00:00",
+          "percent": 1
+        },
+        {
+          "hour": "01:00",
+          "percent": 1
+        },
+        {
+          "hour": "02:00",
+          "percent": 1
+        },
+        {
+          "hour": "03:00",
+          "percent": 1
+        }
+      ]
+    },
+    {
+      "Thursday": [
+        {
+          "hour": "04:00",
+          "percent": 1
+        },
+        {
+          "hour": "05:00",
+          "percent": 2
+        },
+        {
+          "hour": "06:00",
+          "percent": 6
+        },
+        {
+          "hour": "07:00",
+          "percent": 10
+        },
+        {
+          "hour": "08:00",
+          "percent": 14
+        },
+        {
+          "hour": "09:00",
+          "percent": 17
+        },
+        {
+          "hour": "10:00",
+          "percent": 18
+        },
+        {
+          "hour": "11:00",
+          "percent": 18
+        },
+        {
+          "hour": "12:00",
+          "percent": 17
+        },
+        {
+          "hour": "13:00",
+          "percent": 16
+        },
+        {
+          "hour": "14:00",
+          "percent": 18
+        },
+        {
+          "hour": "15:00",
+          "percent": 22
+        },
+        {
+          "hour": "16:00",
+          "percent": 27
+        },
+        {
+          "hour": "17:00",
+          "percent": 31
+        },
+        {
+          "hour": "18:00",
+          "percent": 33
+        },
+        {
+          "hour": "19:00",
+          "percent": 30
+        },
+        {
+          "hour": "20:00",
+          "percent": 24
+        },
+        {
+          "hour": "21:00",
+          "percent": 17
+        },
+        {
+          "hour": "22:00",
+          "percent": 10
+        },
+        {
+          "hour": "23:00",
+          "percent": 5
+        },
+        {
+          "hour": "00:00",
+          "percent": 1
+        },
+        {
+          "hour": "01:00",
+          "percent": 1
+        },
+        {
+          "hour": "02:00",
+          "percent": 1
+        },
+        {
+          "hour": "03:00",
+          "percent": 1
+        }
+      ]
+    },
+    {
+      "Friday": [
+        {
+          "hour": "04:00",
+          "percent": 1
+        },
+        {
+          "hour": "05:00",
+          "percent": 1
+        },
+        {
+          "hour": "06:00",
+          "percent": 4
+        },
+        {
+          "hour": "07:00",
+          "percent": 8
+        },
+        {
+          "hour": "08:00",
+          "percent": 11
+        },
+        {
+          "hour": "09:00",
+          "percent": 14
+        },
+        {
+          "hour": "10:00",
+          "percent": 16
+        },
+        {
+          "hour": "11:00",
+          "percent": 16
+        },
+        {
+          "hour": "12:00",
+          "percent": 16
+        },
+        {
+          "hour": "13:00",
+          "percent": 15
+        },
+        {
+          "hour": "14:00",
+          "percent": 17
+        },
+        {
+          "hour": "15:00",
+          "percent": 22
+        },
+        {
+          "hour": "16:00",
+          "percent": 28
+        },
+        {
+          "hour": "17:00",
+          "percent": 33
+        },
+        {
+          "hour": "18:00",
+          "percent": 35
+        },
+        {
+          "hour": "19:00",
+          "percent": 31
+        },
+        {
+          "hour": "20:00",
+          "percent": 24
+        },
+        {
+          "hour": "21:00",
+          "percent": 17
+        },
+        {
+          "hour": "22:00",
+          "percent": 11
+        },
+        {
+          "hour": "23:00",
+          "percent": 6
+        },
+        {
+          "hour": "00:00",
+          "percent": 2
+        },
+        {
+          "hour": "02:00",
+          "percent": 1
+        },
+        {
+          "hour": "03:00",
+          "percent": 1
+        }
+      ]
+    },
+    {
+      "Saturday": [
+        {
+          "hour": "05:00",
+          "percent": 2
+        },
+        {
+          "hour": "06:00",
+          "percent": 5
+        },
+        {
+          "hour": "07:00",
+          "percent": 10
+        },
+        {
+          "hour": "08:00",
+          "percent": 16
+        },
+        {
+          "hour": "09:00",
+          "percent": 21
+        },
+        {
+          "hour": "10:00",
+          "percent": 25
+        },
+        {
+          "hour": "11:00",
+          "percent": 27
+        },
+        {
+          "hour": "12:00",
+          "percent": 27
+        },
+        {
+          "hour": "13:00",
+          "percent": 26
+        },
+        {
+          "hour": "14:00",
+          "percent": 28
+        },
+        {
+          "hour": "15:00",
+          "percent": 33
+        },
+        {
+          "hour": "16:00",
+          "percent": 41
+        },
+        {
+          "hour": "17:00",
+          "percent": 47
+        },
+        {
+          "hour": "18:00",
+          "percent": 47
+        },
+        {
+          "hour": "19:00",
+          "percent": 40
+        },
+        {
+          "hour": "20:00",
+          "percent": 30
+        },
+        {
+          "hour": "21:00",
+          "percent": 20
+        },
+        {
+          "hour": "22:00",
+          "percent": 12
+        },
+        {
+          "hour": "23:00",
+          "percent": 8
+        },
+        {
+          "hour": "00:00",
+          "percent": 5
+        },
+        {
+          "hour": "01:00",
+          "percent": 2
+        },
+        {
+          "hour": "03:00",
+          "percent": 1
+        }
+      ]
+    }
+  ],
+  "relatedSearches": null,
+  "relateds": [
+    {
+      "mainName": "Parque Ingenio 1",
+      "url": null
+    },
+    {
+      "mainName": "El Ingenio Central Park",
+      "url": null
+    },
+    {
+      "mainName": "El Ingenio - Zona de Rampas Park",
+      "url": null
+    },
+    {
+      "mainName": "Parque del Ingenio 1",
+      "url": null
+    },
+    {
+      "mainName": "BIO SALUDABLE EL INGENIO Park",
+      "url": null
+    },
+    {
+      "mainName": "Ingenio 3 Park",
+      "url": null
+    },
+    {
+      "mainName": "Parkour park el ingenio",
+      "url": null
+    },
+    {
+      "mainName": "85a Park",
+      "url": null
+    },
+    {
+      "mainName": "Edificio Boulevard del Ingenio",
+      "url": null
+    },
+    {
+      "mainName": "Park Avenue",
+      "url": null
+    },
+    {
+      "mainName": "Parqueadero Público Kr86 Cl13a",
+      "url": null
+    },
+    {
+      "mainName": "Edificio El Cipres del Ingenio",
+      "url": null
+    },
+    {
+      "mainName": "Edificio Stefany",
+      "url": null
+    },
+    {
+      "mainName": "Edificio Bosques del Ingenio",
+      "url": null
+    }
+  ]
+}

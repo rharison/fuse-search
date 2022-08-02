@@ -1,0 +1,613 @@
+{
+  "mainName": "Museu Salvador Dalí",
+  "slug": "museu-salvador-dali",
+  "category": "Museu de arte",
+  "locationInformation": {
+    "latitude": "27.7659086",
+    "longitude": "-82.6315789"
+  },
+  "basicInformation": [
+    {
+      "label": "endereço",
+      "tooltip": "Copiar endereço",
+      "text": "1 Dali Blvd, St. Petersburg, FL 33701, Estados Unidos",
+      "icon": "https://www.gstatic.com/images/icons/material/system_gm/1x/place_gm_blue_24dp.png"
+    },
+    {
+      "label": "website",
+      "tooltip": "Abrir website",
+      "text": "thedali.org",
+      "icon": "https://www.gstatic.com/images/icons/material/system_gm/1x/public_gm_blue_24dp.png"
+    },
+    {
+      "label": "telefone",
+      "tooltip": "Copiar número de telefone",
+      "text": "+1 727-823-3767",
+      "icon": "https://www.gstatic.com/images/icons/material/system_gm/1x/phone_gm_blue_24dp.png"
+    },
+    {
+      "label": "Code",
+      "tooltip": "Copiar Plus Code",
+      "text": "Q989+99 São Petersburgo, Flórida, EUA",
+      "icon": "https://maps.gstatic.com/mapfiles/maps_lite/images/2x/ic_plus_code.png"
+    },
+    {
+      "label": "send-to-device",
+      "text": "Enviar para smartphone",
+      "icon": "https://maps.gstatic.com/consumer/images/icons/1x/send_to_mobile_alt_gm_blue_24dp.png"
+    }
+  ],
+  "ratingInformation": {
+    "basicRatingInformation": {
+      "averageGrade": 4.7,
+      "totalOfEvaluations": 13127
+    },
+    "ratingsByGrade": [
+      {
+        "grade": 5,
+        "totalRatings": 10381
+      },
+      {
+        "grade": 4,
+        "totalRatings": 1835
+      },
+      {
+        "grade": 3,
+        "totalRatings": 477
+      },
+      {
+        "grade": 2,
+        "totalRatings": 162
+      },
+      {
+        "grade": 1,
+        "totalRatings": 272
+      }
+    ]
+  },
+  "ratingTags": [
+    {
+      "tag": "van gogh",
+      "count": 277,
+      "tooltip": "van gogh, mencionado em 277 avaliações"
+    },
+    {
+      "tag": "app",
+      "count": 254,
+      "tooltip": "app, mencionado em 254 avaliações"
+    },
+    {
+      "tag": "realidade virtual",
+      "count": 230,
+      "tooltip": "realidade virtual, mencionado em 230 avaliações"
+    },
+    {
+      "tag": "surrealismo",
+      "count": 146,
+      "tooltip": "surrealismo, mencionado em 146 avaliações"
+    },
+    {
+      "tag": "realidade aumentada",
+      "count": 99,
+      "tooltip": "realidade aumentada, mencionado em 99 avaliações"
+    },
+    {
+      "tag": "download",
+      "count": 98,
+      "tooltip": "download, mencionado em 98 avaliações"
+    },
+    {
+      "tag": "frida kahlo",
+      "count": 51,
+      "tooltip": "frida kahlo, mencionado em 51 avaliações"
+    },
+    {
+      "tag": "headset",
+      "count": 48,
+      "tooltip": "headset, mencionado em 48 avaliações"
+    }
+  ],
+  "featuredPhotos": [
+    "https://lh5.googleusercontent.com/p/AF1QipNCidvy9kDitwNjXRjy8FBJmajuBhzyo73iroTH=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMbcy-CW3cxX9Z0pqDkGIw4Tvoimzfq7D_MBdbC=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipM5uF8-oXefLENc55PMiiwPlyk6XbJTZPPwhrw=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMYw77kJRnrlRo5Irbmkb32PfKYpt_zpFKwUi2P=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOiHfoY92fNZ9kzwowSqeRoJv3HvoD6S3F5WYkc=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOXd4hRf7BRJIxeOHWsX0dNf50ox1g3s1Wu_9GZ=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipO8sKWohljUNX8nw1zKPyN87SrCdg-ThLDZGALc=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPD7qnP_peSgRdhaUnPH-IfHDFJZ9GNZgrkUdPQ=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipP1_A2LmS3EIKGavS-q_P5zpRs33U512MdUS4yQ=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNOehUsep-IEt2m8y8kQUlxhfBrDtmEvD0ds7Lk=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMDfd6PoxW3VOrVHeBzgIjnKvuQswUtDKzwMppg=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipM22y-CgloDVmMNoIdBEPAxs7SNBp_RV43Kqn8=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPOUex0Ga9NsaPwxJmf7uhkaYPxgur7lwb6fqQn=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPyaLCdY1CiwfsmLKFvYz6vI2oLBwNIJJ_D_QVb=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOitMTsfYO_Ay1sz1_DF8AK4K8wYDEJDnu4aiwE=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMzb09cRFeR0JHP6jG6G_97CLw2e_2BZaQLdNLs=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOvnXZUkm0SCcTVXyhEXPTKSJdxoHC6JvoNyoHI=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPoRvc5EzNaUYCm664VC6TkhMia_dEbo_-ildfY=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOEJK4y5JpsMbE3m7xH4yk7eVTIBUvmojHkoMr-=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipM84ZKu4NK5PlVGC7ur1kpP_FVdI04xdGNyazU5=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPDWIYnMOC13YKDvUmCy6wCDFIwMhJ7DKzxvIoi=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPQIyAyr_QHFBADcgPxa59YFF_7F0t4fCB2y1Ad=w1024-h576-k-no"
+  ],
+  "topComments": [
+    {
+      "author": "Eli",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucqDE7iV9icCpzcqjIUKgFbhbEvey_DRtBxRTHoUbA=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "Com um bom acervo de obras de Salvador Dalí e arquitetura interessante, este museu vale o passeio.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Lucas Azevedo",
+      "photoAuthor": "https://lh3.googleusercontent.com/a/AItbvmkHD_qCIHYD9y2t_8F--sv5Xuni3c_xdDS9XhRt=w36-h36-p-c0x00000000-rp-mo-ba5-br100",
+      "comment": "Espetacular, magnífico, perfeito e... SURREAL!!! Maravilhoso museu com obras expostas e explicações de cada peça inclusive em Português. Vale super a pena a visita. Programe um dia inteiro lá para contemplar as obras. Não tem como se arrepender. As quintas-feiras a partir das 5pm o ingresso custa 10 dólares por pessoa.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Rui G. Ghellere",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucorYMiB38-VKOHUos4m0RmXZG7nVXhiwWXCXCmANg=w36-h36-p-c0x00000000-rp-mo-ba8-br100",
+      "comment": "Simplesmente divino. Tudo maravilhoso, desde a arquitetura do museo, o acervo e o staff, tudo perfeito. O áudio guia (inglês ou espanhol) ajuda bastante. As obras são divinas! De quebra deu para ver a exibição temporária do Super Chef Ferran Adrià sobre o restaurante El Bulli!",
+      "gradeComment": 5
+    },
+    {
+      "author": "Israel Adolfo Miranda Busto",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucp_LaOwCwwSNYk7ZpJyIa2OFyrdw306EIigc_Y6Qlc=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "Museu Surpreendente em São Petesburgo na Flórida. Aliás, linda cidade. Muito limpa e organizada. Excelente acervo de Salvador Dali. Linda a arquitetura interna e externa. Na parte interna do museu, existe uma loja com a mais diversa gama de lembrancinhas. Na área externa muitos locais para fazer belas fotos. Recomendo",
+      "gradeComment": 5
+    },
+    {
+      "author": "Elias Audi Jr",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucqajJwfCCeBbVPoC0Ok5s20w6GtKETrx_TylciC=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "Maravilhoso. Coleção fantástica de obras de Salvador Dali. Nunca tinha visto uma quantidade tão grande de obras do Dali, num mesmo museu. Prédio lindo, atendimento excelente, dentro de uma cidade lindíssima. Foi uma surpresa agradabilíssima, considerando que eu não esperava tanto. Além disso, o estacionamento foi muito fácil. Tudo de bom. Voltaria tranquilamente.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Lanna Lima",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucrmdiC1_cG_Uj9INPfHeWS6Yt3G86mBDFa5fT_RKb4=w36-h36-p-c0x00000000-rp-mo-br100",
+      "comment": "Lindo e impressionante! As obras são maravilhosas e a arquitetura impressionante!",
+      "gradeComment": 5
+    },
+    {
+      "author": "Ana Paula Felicissimo",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucpfg9bN61nK7v6EZU8coRExaKcL1ORqZ7hT80zPdF8=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "Delícia de museu! Organizado, funcionários simpáticos e atenciosos, coleção de obras lindas. Tem visitas guiadas gratuitas o tempo todo, com explicações ótimas e didáticas sobre as principais obras. A 40 minutos de Orlando, vale a visita!",
+      "gradeComment": 5
+    },
+    {
+      "author": "fabiodut",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucq4jGftRDp1VGK8RdO5pMRmwHX3qNc5S_baJQ3cdZU=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "O Museu oferece recurso audiovisual com a história de cada obra em vários idiomas, já incluso no preço do ingresso. Uma pena não ter em português. Interessante que tem várias obras do início do trabalho do artista e percebe-se como ele evoluiu.",
+      "gradeComment": 4
+    },
+    {
+      "author": "Andrezza Magalhães",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucr6IQ5jhv1ysM4queUvunwwcgAjKvV1u95Ez5biJZ0=w36-h36-p-c0x00000000-rp-mo-ba3-br100",
+      "comment": "Maravilhoso! A entrada custa 24 dólares",
+      "gradeComment": 5
+    },
+    {
+      "author": "Rafael Maia Zilioli",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZuco-togjvlhQPi-xtSW_ejfeeaUyyO0N6wV0eefnjzA=w36-h36-p-c0x00000000-rp-mo-ba6-br100",
+      "comment": "Atrativo imperdível de Saint. Pete para quem gosta de museus e arte. Possui acervo grande de Salvador Dalí. Museu possui uma parte de experiência de realidade virtual muito legal. Interação sensacionais com as obras de Dalí. Museu muito bonito por fora também por estar localizado na Baía de Saint. Pete. O estacionamento custa USD 10,00.",
+      "gradeComment": 4
+    },
+    {
+      "author": "Priscylla Silva",
+      "photoAuthor": "https://lh3.googleusercontent.com/a/AItbvmlyztneFgqFVfGn2WABKyqksdctQ3imqgHochKu=w36-h36-p-c0x00000000-rp-mo-br100",
+      "comment": "Excelente local,  eles oferecem tradutor em diversos idiomas para o entendimentos das artes.Você consegue fazer tudo com tranquilidade em 2 horas.É mais interessante ir na Quinta feira as 5 da tarde devido ao valor promocional.",
+      "gradeComment": 4
+    },
+    {
+      "author": "Elisa Z. da Silva",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucojNH9yTnpkGB4NV5ZaS-QZsJMyyQ9yc6m5YFPclw=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "Lindo prédio, chama atenção.  Jardim interativo. Escultura na entrada bonita e interessante. Exposição com explicação de vários quadros em vários idiomas. Tem guia em vários horários também. Tem  simuladores. Quinta feira das 17.00 h ás 21.00 tem preço promocional.",
+      "gradeComment": 1
+    },
+    {
+      "author": "mari lucia carraro",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucqfmAVLeXGyNqIT49Sxc4q5ztBYS-UzKtZ0AqrkCQ=w36-h36-p-c0x00000000-rp-mo-br100",
+      "comment": "Lugar impressionante, no tamanho certo para explorar sem ficar cansado no fim do passeio. Recomendo o uso do guia eletrônico. As obras despertam a curiosidade de crianças. Boa opção para ir pela manhã e depois almoçar na região do Yatch Club.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Jorge Craveiro",
+      "photoAuthor": "https://lh3.googleusercontent.com/a/AItbvmnvI7lbSl3UOWn50TfoOIfSCS59aAbwtHD37N2t=w36-h36-p-c0x00000000-rp-mo-br100",
+      "comment": "Museu com estrutura das melhores que conheci no mundo, o prédio e uma escultura",
+      "gradeComment": 5
+    },
+    {
+      "author": "Marcos Alencar",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucrLrveBQ23tu39VyfkueEh0xxlWdkdxHIOz9ebRdMM=w36-h36-p-c0x00000000-rp-mo-ba3-br100",
+      "comment": "Experiência incrível.  Vale muito a pena visitar este Museu. O acervo é muito valioso e toda a história desse gênio da pintura é contada com muita praticidade.  Uma pena que o café do Museu termine tão cedo o expediente.",
+      "gradeComment": 4
+    },
+    {
+      "author": "Paulo nascimento",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucp7THCnYvayX0ZoNqX6-628WlhAudZcc4G5SkBZiw=w36-h36-p-c0x00000000-rp-mo-ba3-br100",
+      "comment": "Extraordinário,  nunca imaginei que veria na vida tão impressionante exposição de Dali e Magritte com tal fartura de informações,  recebemos um fone de ouvido que vai explicando cada obra do pintor, magnífico!",
+      "gradeComment": 5
+    },
+    {
+      "author": "José Sousa Dias",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucpXrKCAjnUxHo-z4-Li8rxwPT5fKB-4clInIxXSLLE=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "Inesperado o encontro com este pequeno museu de Dali. Em simultâneo estava uma exposição de obras de Magritte. Arquitectura espectacular. Vale a visita a este St. PETERSBURG da Flórida.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Emerson Lage",
+      "photoAuthor": "https://lh3.googleusercontent.com/a/AItbvmnsi8JOamEloem_izPt30F7_kcuQvNXpMWh3cBtnT0=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "Espetacular. Muito agradável, interessante e interativo. Merece, certamente, uma visita. Além da cidade onde está localizado St. Petersburg.  De uma beleza única, inclusive a estrada de acesso.  Passeio agradabilíssimo.  Excelentes opções de restaurantes e cafés. Uma baía belíssima,  com um por do sol deslumbrante.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Alisson Montanarin",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucoARUYZyxutDCuNIGl08d1-75rkNR68xryrK60a=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "Muito boa a visita, tem estacionamento do lado que custa 10 dólares, tem audioguias em português e outras línguas, muito bem explicado e tem uma loja maravilhosa, vale a pena a visita externa para fotos e curtir o labirinto.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Ma. Iurk",
+      "photoAuthor": "https://lh3.googleusercontent.com/a/AItbvmnkR5QRn45dzpB1Es51WcEvY7NDAjgfTI66XrUV=w36-h36-p-c0x00000000-rp-mo-ba5-br100",
+      "comment": "Excelente museu. Lindo prédio.",
+      "gradeComment": 5
+    }
+  ],
+  "peakHours": [
+    {
+      "Sunday": [
+        {
+          "hour": "10:00",
+          "percent": 37
+        },
+        {
+          "hour": "11:00",
+          "percent": 65
+        },
+        {
+          "hour": "12:00",
+          "percent": 84
+        },
+        {
+          "hour": "13:00",
+          "percent": 89
+        },
+        {
+          "hour": "14:00",
+          "percent": 91
+        },
+        {
+          "hour": "15:00",
+          "percent": 88
+        },
+        {
+          "hour": "16:00",
+          "percent": 68
+        },
+        {
+          "hour": "17:00",
+          "percent": 37
+        }
+      ]
+    },
+    {
+      "Monday": [
+        {
+          "hour": "10:00",
+          "percent": 34
+        },
+        {
+          "hour": "11:00",
+          "percent": 54
+        },
+        {
+          "hour": "12:00",
+          "percent": 66
+        },
+        {
+          "hour": "13:00",
+          "percent": 66
+        },
+        {
+          "hour": "14:00",
+          "percent": 62
+        },
+        {
+          "hour": "15:00",
+          "percent": 56
+        },
+        {
+          "hour": "16:00",
+          "percent": 45
+        },
+        {
+          "hour": "17:00",
+          "percent": 28
+        }
+      ]
+    },
+    {
+      "Tuesday": [
+        {
+          "hour": "10:00",
+          "percent": 37
+        },
+        {
+          "hour": "11:00",
+          "percent": 56
+        },
+        {
+          "hour": "12:00",
+          "percent": 67
+        },
+        {
+          "hour": "13:00",
+          "percent": 68
+        },
+        {
+          "hour": "14:00",
+          "percent": 61
+        },
+        {
+          "hour": "15:00",
+          "percent": 52
+        },
+        {
+          "hour": "16:00",
+          "percent": 41
+        },
+        {
+          "hour": "17:00",
+          "percent": 29
+        }
+      ]
+    },
+    {
+      "Wednesday": [
+        {
+          "hour": "10:00",
+          "percent": 38
+        },
+        {
+          "hour": "11:00",
+          "percent": 57
+        },
+        {
+          "hour": "12:00",
+          "percent": 65
+        },
+        {
+          "hour": "13:00",
+          "percent": 66
+        },
+        {
+          "hour": "14:00",
+          "percent": 65
+        },
+        {
+          "hour": "15:00",
+          "percent": 59
+        },
+        {
+          "hour": "16:00",
+          "percent": 44
+        },
+        {
+          "hour": "17:00",
+          "percent": 27
+        }
+      ]
+    },
+    {
+      "Thursday": [
+        {
+          "hour": "10:00",
+          "percent": 34
+        },
+        {
+          "hour": "11:00",
+          "percent": 53
+        },
+        {
+          "hour": "12:00",
+          "percent": 67
+        },
+        {
+          "hour": "13:00",
+          "percent": 69
+        },
+        {
+          "hour": "14:00",
+          "percent": 61
+        },
+        {
+          "hour": "15:00",
+          "percent": 54
+        },
+        {
+          "hour": "16:00",
+          "percent": 60
+        },
+        {
+          "hour": "17:00",
+          "percent": 73
+        },
+        {
+          "hour": "18:00",
+          "percent": 70
+        },
+        {
+          "hour": "19:00",
+          "percent": 46
+        }
+      ]
+    },
+    {
+      "Friday": [
+        {
+          "hour": "10:00",
+          "percent": 38
+        },
+        {
+          "hour": "11:00",
+          "percent": 58
+        },
+        {
+          "hour": "12:00",
+          "percent": 69
+        },
+        {
+          "hour": "13:00",
+          "percent": 67
+        },
+        {
+          "hour": "14:00",
+          "percent": 63
+        },
+        {
+          "hour": "15:00",
+          "percent": 63
+        },
+        {
+          "hour": "16:00",
+          "percent": 53
+        },
+        {
+          "hour": "17:00",
+          "percent": 29
+        }
+      ]
+    },
+    {
+      "Saturday": [
+        {
+          "hour": "10:00",
+          "percent": 49
+        },
+        {
+          "hour": "11:00",
+          "percent": 76
+        },
+        {
+          "hour": "12:00",
+          "percent": 94
+        },
+        {
+          "hour": "13:00",
+          "percent": 100
+        },
+        {
+          "hour": "14:00",
+          "percent": 99
+        },
+        {
+          "hour": "15:00",
+          "percent": 95
+        },
+        {
+          "hour": "16:00",
+          "percent": 85
+        },
+        {
+          "hour": "17:00",
+          "percent": 68
+        }
+      ]
+    }
+  ],
+  "relatedSearches": null,
+  "relateds": [
+    {
+      "mainName": "Teatro-Museu Dalí",
+      "url": null
+    },
+    {
+      "mainName": "Sunken Gardens",
+      "url": null
+    },
+    {
+      "mainName": "Museum of Fine Arts",
+      "url": null
+    },
+    {
+      "mainName": "Fundação Gala-Salvador Dalí",
+      "url": null
+    },
+    {
+      "mainName": "Chihuly Collection",
+      "url": null
+    },
+    {
+      "mainName": "John and Mable Ringling Museum of Art",
+      "url": null
+    },
+    {
+      "mainName": "The Florida Aquarium",
+      "url": null
+    },
+    {
+      "mainName": "Cafe Gala",
+      "url": null
+    },
+    {
+      "mainName": "Fort de Soto Park",
+      "url": null
+    },
+    {
+      "mainName": "The Florida Holocaust Museum",
+      "url": null
+    },
+    {
+      "mainName": "Casa Museu Salvador Dalí",
+      "url": null
+    },
+    {
+      "mainName": "Great Explorations Children's Museum",
+      "url": null
+    },
+    {
+      "mainName": "Fairgrounds St. Pete",
+      "url": null
+    },
+    {
+      "mainName": "The James Museum of Western & Wildlife Art",
+      "url": null
+    },
+    {
+      "mainName": "St. Pete Pier™",
+      "url": null
+    },
+    {
+      "mainName": "Dalí Paris",
+      "url": null
+    },
+    {
+      "mainName": "Tampa Museum of Art",
+      "url": null
+    },
+    {
+      "mainName": "Morean Arts Center",
+      "url": null
+    },
+    {
+      "mainName": "Dalí Universe",
+      "url": null
+    },
+    {
+      "mainName": "Duke Energy Center for the Arts - Mahaffey Theater",
+      "url": null
+    },
+    {
+      "mainName": "Aquário Marinho de Clearwater",
+      "url": null
+    },
+    {
+      "mainName": "Busch Gardens Tampa",
+      "url": null
+    },
+    {
+      "mainName": "Tropicana Field",
+      "url": null
+    }
+  ]
+}

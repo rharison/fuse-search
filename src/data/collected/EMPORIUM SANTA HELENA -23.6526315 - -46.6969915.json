@@ -1,0 +1,663 @@
+{
+  "mainName": "EMPORIUM SANTA HELENA",
+  "slug": "emporium-santa-helena",
+  "category": "Empório gourmet",
+  "locationInformation": {
+    "latitude": "-23.6526315",
+    "longitude": "-46.6969915"
+  },
+  "basicInformation": [
+    {
+      "label": "endereço",
+      "tooltip": "Copiar endereço",
+      "text": "Rua Darwin, 607B - Santo Amaro, São Paulo - SP, 04741-011",
+      "icon": "https://www.gstatic.com/images/icons/material/system_gm/1x/place_gm_blue_24dp.png"
+    },
+    {
+      "label": "website",
+      "tooltip": "Abrir website",
+      "text": "emporiumsantahelena.com.br",
+      "icon": "https://www.gstatic.com/images/icons/material/system_gm/1x/public_gm_blue_24dp.png"
+    },
+    {
+      "label": "telefone",
+      "tooltip": "Copiar número de telefone",
+      "text": "(11) 4564-1771",
+      "icon": "https://www.gstatic.com/images/icons/material/system_gm/1x/phone_gm_blue_24dp.png"
+    },
+    {
+      "label": "Code",
+      "tooltip": "Copiar Plus Code",
+      "text": "88W3+W6 Santo Amaro, São Paulo - SP",
+      "icon": "https://maps.gstatic.com/mapfiles/maps_lite/images/2x/ic_plus_code.png"
+    }
+  ],
+  "ratingInformation": {
+    "basicRatingInformation": {
+      "averageGrade": 4.5,
+      "totalOfEvaluations": 174
+    },
+    "ratingsByGrade": [
+      {
+        "grade": 5,
+        "totalRatings": 115
+      },
+      {
+        "grade": 4,
+        "totalRatings": 40
+      },
+      {
+        "grade": 3,
+        "totalRatings": 10
+      },
+      {
+        "grade": 2,
+        "totalRatings": 3
+      },
+      {
+        "grade": 1,
+        "totalRatings": 6
+      }
+    ]
+  },
+  "ratingTags": [
+    {
+      "tag": "preços",
+      "count": 14,
+      "tooltip": "preços, mencionado em 14 avaliações"
+    },
+    {
+      "tag": "variedade",
+      "count": 9,
+      "tooltip": "variedade, mencionado em 9 avaliações"
+    },
+    {
+      "tag": "importados",
+      "count": 8,
+      "tooltip": "importados, mencionado em 8 avaliações"
+    },
+    {
+      "tag": "cliente",
+      "count": 6,
+      "tooltip": "cliente, mencionado em 6 avaliações"
+    },
+    {
+      "tag": "organizado",
+      "count": 4,
+      "tooltip": "organizado, mencionado em 4 avaliações"
+    },
+    {
+      "tag": "queijos",
+      "count": 3,
+      "tooltip": "queijos, mencionado em 3 avaliações"
+    },
+    {
+      "tag": "vinhos",
+      "count": 3,
+      "tooltip": "vinhos, mencionado em 3 avaliações"
+    }
+  ],
+  "featuredPhotos": [
+    "https://lh5.googleusercontent.com/p/AF1QipMK971wtHa5Vd1LGCaCt8apfcZFXE-xoMnI4TLR=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPfVjVWqKw-OGj98_6o6xrqMOjJKr-yK_3CpJoq=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMxe3kNfyHVQWqvzLh13kgm6QSh3bAFJkhu-wKW=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOWkkKZDABzaD0kRc_8kiVUL3t8qLPu0eMY6ose=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMT4MuNNXfiYL1t6x-E7NeZFEIdznPjvYsgxJwe=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPqOUu2YdP5yFyaQlNSYRf_w95JCfX5hL3oieuR=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOR3-4ibHSmzne9xRF2wOysfuPJh181AHzHasWb=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNsUBU9-JXc47kRZ9AqpbazI97QBF1TGerKGwXx=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipM6lJZDCZ5hUFH-K7zyelKcLS2OCx_efpT3xnp7=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMX_NVmq4kpkIopTv0bg3WEmphCTaNhXyqGw_GT=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNVK6gtANRH_azd7zVY9h7nBKAEGmJp60SUEKKf=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOgFVth2vh3jBzbP6seoObHV9BpJec-y4USXBVy=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNgezes58tbjQdFNC-jYNvkdEo4aVOToseKnSOT=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOhG_I3h9taQQLe8qR64yYl6NtALGV4b_FePSDJ=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMWKRQhMibKBsFygPX_2mRmIO77qpqZfQ7COcHC=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNsYBnbY6mPJoWeo7d7VWx0jnzeNJgv8TeF8J_5=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOZtV9PYH6gpmNgZOYmZ6hpaEUcvDeQWPHaeYQs=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMWOtPJJ2jDC-T8VQjKjhMRdljtKpXXtHsDFRPt=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNwpyKPhirqiN4dhrd-DszXQSH5SBoRnXbNb6nh=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNB62eygoFpIeVsNosSsWZxE9xZO6ctQLvy52cy=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPrJ2LvYS2t7Fn7TIa17m2l6bnEAVRl4TosHVol=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOKMaRa0kwjQLXEkai_VHm2wsls20_-6zrElA1t=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipM1lFGwHSOtNpp58fKvdlsQTf6ir30_Og2TW5sX=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPjWT9MfAsWVLAy55wtRqs_u9WfW_X4qYLtfOk1=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPKGk7iZm-N4i6-UqfK2n_l6w4Kt5do9cDOj-Vk=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOZlH3Z0SOwnXTr55mljt181mAhYteoXRm0DF3s=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipM5CwC-Y5BUomOz5elxx8K03C90t7UEaAbdccxd=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPH0tIr2qfmHfwR0AAM4ssvwsJbj552HsGJdUOZ=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPXAcfL5bI_kH9Ebm7FQymXotzRzsSvLf3J0Cjw=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMCzf6rMNmh7fQb9awKEOfL56YiEpTBOZfc-F-F=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNY1tg9kSgTmudSneWuCbHR02XbC2rCtjiZxvqK=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMbHCC_-SuVfEBGwVI3GW9Dg9S-IyA0MJuP1VeY=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMnCaq_veEZNxb0VLJlcu9IpcXRolxQecckJKo3=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPJkRaEN9rG6SnZHNp1ifNQVF4u1jGsTMNiTtSO=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOxjmaOB6aSC8x3cxPNte1HvazSS8k1N4ljVqRM=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPLuIamukgPnVP1fp-YfMGuQT2XlDvMoRKzLkFI=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPFnhWU73ABRh3SjWHNvC4e-4iBxQy_tpmXmAby=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMllMjxF_NBoHdkWh9RTb79wPIrIE6CaxbjZVqo=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipM3nPDzRTTORRsHwg2rOh1IsbCHR_zuUL3BgwgJ=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMiV8IumbbuSXepCTCXGXGJ0wZzlpCVRBd7fnaT=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOIu-xbbOHwRqnDISXWrJkwNv6Oh78My-_IY_I3=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOzIqEXwtvVNItPE7Ir3s9DERYDwX9yBsEKDLs1=w1024-h576-k-no"
+  ],
+  "topComments": [
+    {
+      "author": "Orlando Corleto",
+      "photoAuthor": "https://lh3.googleusercontent.com/a/AItbvmnCqZ4G2Pmb_1ZVCi3nxsdOdELbC9YTeb6Y061O=w36-h36-p-c0x00000000-rp-mo-br100",
+      "comment": "Estou perdendo totalmente a confiança. Hoje 28/01/2022  peguei na prateleira um joelho de porco defumado com a data vencida a 19 dias. Trouxe para casa um pacote de costelinha defumada, um pedaço de lombo, um joelho defumado e dois gomos de paio,  quando abri a costelinha estava podre e para minha surpresa o lombo estava vencido (não vi na loja).",
+      "gradeComment": 1
+    },
+    {
+      "author": "Eloisa Helena de Andrade",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucoAycEMt928kIoWOpb6r7-IpveiaRxAiGOMVeA5N18=w36-h36-p-c0x00000000-rp-mo-ba3-br100",
+      "comment": "Muito bom, tem tudo que preciso. Excelente atendimento",
+      "gradeComment": 5
+    },
+    {
+      "author": "LAIS FONSECA",
+      "photoAuthor": "https://lh3.googleusercontent.com/a/AItbvmkp_mBcPJxl2ob9CbzoNJY_K4-EJKjxIpc0l2Yx=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "Bons produtos mas a loja é pequena e atulhada de coisas q fica difícil pra ver",
+      "gradeComment": 3
+    },
+    {
+      "author": "Antonio Carlos Negreiros",
+      "photoAuthor": "https://lh3.googleusercontent.com/a/AItbvmlbczTJwlTS75-RZkIcuMGm1ouLNQR9gQkjJ5pX=w36-h36-p-c0x00000000-rp-mo-br100",
+      "comment": "Sou cliente deles  a 36 anos tudo  lá  é  de qualidade  superior o atendimento é  excelente . Tanto é  que saio  de Itanhaém  e vou comprar  lá  coisas  que não  acho na  minha  cidade",
+      "gradeComment": 5
+    },
+    {
+      "author": "Nilda Santos",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucp6qMehGa3s35JA8hWteUqkFhJ402PjThKlyzizYYQ=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "Bons produtos mas os preços são altos demais",
+      "gradeComment": 4
+    },
+    {
+      "author": "Maria Cristina Bogner Aparecida",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucq-Cw5mcCv6egAI6qY_etGPAXt_BLKxXiGiyti7=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "Mto bom. Excelente atendimento e variedade de produtos",
+      "gradeComment": 5
+    },
+    {
+      "author": "Beatriz Z N",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucpOMkcHk--TfD16QuYQZRzPoPk06INlK5uqewfvlg=w36-h36-p-c0x00000000-rp-mo-ba3-br100",
+      "comment": "Ótimo lugar, mtas opções de produtos, mas o atendimento me deixou na mão.",
+      "gradeComment": 3
+    },
+    {
+      "author": "Bira Teodoro (Bolichemania)",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucrWoPw3VZqQR6g7HJnw85T7BRsB3kxRWkJ2oAnrP5I=w36-h36-p-c0x00000000-rp-mo-ba5-br100",
+      "comment": "Apesar de pequeno tem uma ótima variedade de produtos com qualidade. Atendimento prestativo e eficiente.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Carla",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucpSQs1ddSCUo8JNP58XO6pR9nBv22cPu1axl_5NsHg=w36-h36-p-c0x00000000-rp-mo-ba5-br100",
+      "comment": "Uma típica lojinha \"tem de tudo\" porém absurdamente abusivos todos os preços praticados. O limão em pleno mês de abril/21 chegou a ser R$ 14,00 o quilo, isso é exploração! Se aproveitar de uma pandemia para lucrar absurdamente... não é justo! Nunca mais!!Atenção consumidores abram o olho antes de pisar lá dentro! Os preços praticados lá ultrapassam o nível da palavra ganância!",
+      "gradeComment": 1
+    },
+    {
+      "author": "Canal do Reverendo Alex",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucrsqKzreP7mbP0iNMb7jSSccYh0pHk2rHeVvhKquwU=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "Muita variedade e produtos diferenciados.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Edson Pessin",
+      "photoAuthor": "https://lh3.googleusercontent.com/a/AItbvmlQ1cxgE3MHLWtukHswiSFFY6b7lN2s9pZENM24=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "Lugar perfeitp",
+      "gradeComment": 5
+    },
+    {
+      "author": "paulo carneiro",
+      "photoAuthor": "https://lh3.googleusercontent.com/a/AItbvmmS3CCz7zkLHRRLSUG1_KfpKM_4WZsUqGHghKKU=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "Mesma qualidade de produtos da antiga loja do mercado de Santo Amaro.",
+      "gradeComment": 4
+    },
+    {
+      "author": "Marcelo Sclearuc",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucqpgtnDqotRBTvMmLEgQrGvxJJZIBeFHcED-C5a=w36-h36-p-c0x00000000-rp-mo-br100",
+      "comment": "Dna Helena sempre show.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Maria Cristina Bogner Aparecida",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucq-Cw5mcCv6egAI6qY_etGPAXt_BLKxXiGiyti7=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "Mto bom. Excelente atendimento e variedade de produtos",
+      "gradeComment": 5
+    },
+    {
+      "author": "Riccelli Adriel",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucqRRCjwjR1ElWmOQCdzMyzbfs6eaixevpLzdvUgGg=w36-h36-p-c0x00000000-rp-mo-ba3-br100",
+      "comment": "Excelentes opções e atendimento impecavel",
+      "gradeComment": 5
+    },
+    {
+      "author": "Beatriz Z N",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucpOMkcHk--TfD16QuYQZRzPoPk06INlK5uqewfvlg=w36-h36-p-c0x00000000-rp-mo-ba3-br100",
+      "comment": "Ótimo lugar, mtas opções de produtos, mas o atendimento me deixou na mão.",
+      "gradeComment": 3
+    },
+    {
+      "author": "Carla",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucpSQs1ddSCUo8JNP58XO6pR9nBv22cPu1axl_5NsHg=w36-h36-p-c0x00000000-rp-mo-ba5-br100",
+      "comment": "Uma típica lojinha \"tem de tudo\" porém absurdamente abusivos todos os preços praticados. O limão em pleno mês de abril/21 chegou a ser R$ 14,00 o quilo, isso é exploração! Se aproveitar de uma pandemia para lucrar absurdamente... não é justo! Nunca mais!!Atenção consumidores abram o olho antes de pisar lá dentro! Os preços praticados lá ultrapassam o nível da palavra ganância!",
+      "gradeComment": 1
+    },
+    {
+      "author": "Vera Magdalena Lemme Boragk",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZuco7M4JmxE_ObgQ_vqskONYqWHUwnGA3gRFJVGbbmQ=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "Gosto dos produtos, porém só dá pra ir de vez em quando. Muito caro.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Pedro Kozlakowski",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucqnKxRmQnw8zlO4g6VaH-uVkBR1DGRem8VOu-cVCw=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "Um pouco careiro, poderiam colocar os preços nos produtos. O sistema de controle das compras também é confuso, o mesmo balcão é utilizado pras compras de todos os clientes.",
+      "gradeComment": 3
+    },
+    {
+      "author": "Bruno César",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucqJSXmfSbDO9mhsHKV2330o6UpoWDn-21b7JCi0pA=w36-h36-p-c0x00000000-rp-mo-ba3-br100",
+      "comment": "Empórium aonde vc encontra todo tipo de produto para sua família",
+      "gradeComment": 5
+    }
+  ],
+  "peakHours": [
+    {
+      "Sunday": [
+        {
+          "hour": "09:00",
+          "percent": 34
+        },
+        {
+          "hour": "10:00",
+          "percent": 60
+        },
+        {
+          "hour": "11:00",
+          "percent": 70
+        },
+        {
+          "hour": "12:00",
+          "percent": 68
+        },
+        {
+          "hour": "13:00",
+          "percent": 70
+        },
+        {
+          "hour": "14:00",
+          "percent": 61
+        }
+      ]
+    },
+    {
+      "Monday": [
+        {
+          "hour": "07:00",
+          "percent": 13
+        },
+        {
+          "hour": "08:00",
+          "percent": 24
+        },
+        {
+          "hour": "09:00",
+          "percent": 37
+        },
+        {
+          "hour": "10:00",
+          "percent": 51
+        },
+        {
+          "hour": "11:00",
+          "percent": 62
+        },
+        {
+          "hour": "12:00",
+          "percent": 69
+        },
+        {
+          "hour": "13:00",
+          "percent": 73
+        },
+        {
+          "hour": "14:00",
+          "percent": 74
+        },
+        {
+          "hour": "15:00",
+          "percent": 75
+        },
+        {
+          "hour": "16:00",
+          "percent": 75
+        },
+        {
+          "hour": "17:00",
+          "percent": 70
+        },
+        {
+          "hour": "18:00",
+          "percent": 60
+        },
+        {
+          "hour": "19:00",
+          "percent": 44
+        },
+        {
+          "hour": "20:00",
+          "percent": 27
+        }
+      ]
+    },
+    {
+      "Tuesday": [
+        {
+          "hour": "07:00",
+          "percent": 20
+        },
+        {
+          "hour": "08:00",
+          "percent": 31
+        },
+        {
+          "hour": "09:00",
+          "percent": 41
+        },
+        {
+          "hour": "10:00",
+          "percent": 53
+        },
+        {
+          "hour": "11:00",
+          "percent": 62
+        },
+        {
+          "hour": "12:00",
+          "percent": 68
+        },
+        {
+          "hour": "13:00",
+          "percent": 69
+        },
+        {
+          "hour": "14:00",
+          "percent": 67
+        },
+        {
+          "hour": "15:00",
+          "percent": 63
+        },
+        {
+          "hour": "16:00",
+          "percent": 63
+        },
+        {
+          "hour": "17:00",
+          "percent": 67
+        },
+        {
+          "hour": "18:00",
+          "percent": 68
+        },
+        {
+          "hour": "19:00",
+          "percent": 58
+        },
+        {
+          "hour": "20:00",
+          "percent": 38
+        }
+      ]
+    },
+    {
+      "Wednesday": [
+        {
+          "hour": "07:00",
+          "percent": 8
+        },
+        {
+          "hour": "08:00",
+          "percent": 18
+        },
+        {
+          "hour": "09:00",
+          "percent": 34
+        },
+        {
+          "hour": "10:00",
+          "percent": 56
+        },
+        {
+          "hour": "11:00",
+          "percent": 79
+        },
+        {
+          "hour": "12:00",
+          "percent": 93
+        },
+        {
+          "hour": "13:00",
+          "percent": 95
+        },
+        {
+          "hour": "14:00",
+          "percent": 86
+        },
+        {
+          "hour": "15:00",
+          "percent": 74
+        },
+        {
+          "hour": "16:00",
+          "percent": 68
+        },
+        {
+          "hour": "17:00",
+          "percent": 68
+        },
+        {
+          "hour": "18:00",
+          "percent": 66
+        },
+        {
+          "hour": "19:00",
+          "percent": 54
+        },
+        {
+          "hour": "20:00",
+          "percent": 36
+        }
+      ]
+    },
+    {
+      "Thursday": [
+        {
+          "hour": "07:00",
+          "percent": 23
+        },
+        {
+          "hour": "08:00",
+          "percent": 40
+        },
+        {
+          "hour": "09:00",
+          "percent": 62
+        },
+        {
+          "hour": "10:00",
+          "percent": 81
+        },
+        {
+          "hour": "11:00",
+          "percent": 91
+        },
+        {
+          "hour": "12:00",
+          "percent": 88
+        },
+        {
+          "hour": "13:00",
+          "percent": 77
+        },
+        {
+          "hour": "14:00",
+          "percent": 68
+        },
+        {
+          "hour": "15:00",
+          "percent": 69
+        },
+        {
+          "hour": "16:00",
+          "percent": 79
+        },
+        {
+          "hour": "17:00",
+          "percent": 83
+        },
+        {
+          "hour": "18:00",
+          "percent": 74
+        },
+        {
+          "hour": "19:00",
+          "percent": 53
+        },
+        {
+          "hour": "20:00",
+          "percent": 29
+        }
+      ]
+    },
+    {
+      "Friday": [
+        {
+          "hour": "07:00",
+          "percent": 24
+        },
+        {
+          "hour": "08:00",
+          "percent": 40
+        },
+        {
+          "hour": "09:00",
+          "percent": 59
+        },
+        {
+          "hour": "10:00",
+          "percent": 79
+        },
+        {
+          "hour": "11:00",
+          "percent": 94
+        },
+        {
+          "hour": "12:00",
+          "percent": 100
+        },
+        {
+          "hour": "13:00",
+          "percent": 97
+        },
+        {
+          "hour": "14:00",
+          "percent": 89
+        },
+        {
+          "hour": "15:00",
+          "percent": 82
+        },
+        {
+          "hour": "16:00",
+          "percent": 80
+        },
+        {
+          "hour": "17:00",
+          "percent": 80
+        },
+        {
+          "hour": "18:00",
+          "percent": 76
+        },
+        {
+          "hour": "19:00",
+          "percent": 65
+        },
+        {
+          "hour": "20:00",
+          "percent": 45
+        }
+      ]
+    },
+    {
+      "Saturday": [
+        {
+          "hour": "07:00",
+          "percent": 9
+        },
+        {
+          "hour": "08:00",
+          "percent": 24
+        },
+        {
+          "hour": "09:00",
+          "percent": 47
+        },
+        {
+          "hour": "10:00",
+          "percent": 75
+        },
+        {
+          "hour": "11:00",
+          "percent": 94
+        },
+        {
+          "hour": "12:00",
+          "percent": 96
+        },
+        {
+          "hour": "13:00",
+          "percent": 88
+        },
+        {
+          "hour": "14:00",
+          "percent": 81
+        },
+        {
+          "hour": "15:00",
+          "percent": 82
+        },
+        {
+          "hour": "16:00",
+          "percent": 88
+        },
+        {
+          "hour": "17:00",
+          "percent": 90
+        },
+        {
+          "hour": "18:00",
+          "percent": 82
+        },
+        {
+          "hour": "19:00",
+          "percent": 66
+        },
+        {
+          "hour": "20:00",
+          "percent": 45
+        }
+      ]
+    }
+  ],
+  "relatedSearches": [
+    "armazém santa helena é confiável",
+    "empório santa helena ribeirão preto",
+    "empório santa luzia",
+    "armazém na zona cerealista"
+  ],
+  "relateds": null
+}

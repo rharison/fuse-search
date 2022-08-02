@@ -1,0 +1,424 @@
+{
+  "mainName": "Rosa Sul",
+  "slug": "rosa-sul",
+  "category": "Praia",
+  "locationInformation": {
+    "latitude": "-28.1341585",
+    "longitude": "-48.6430289"
+  },
+  "basicInformation": [
+    {
+      "label": "endereço",
+      "tooltip": "Copiar endereço",
+      "text": "Ibiraquera, Imbituba - SC",
+      "icon": "https://www.gstatic.com/images/icons/material/system_gm/1x/place_gm_blue_24dp.png"
+    },
+    {
+      "label": "send-to-device",
+      "text": "Enviar para smartphone",
+      "icon": "https://maps.gstatic.com/consumer/images/icons/1x/send_to_mobile_alt_gm_blue_24dp.png"
+    }
+  ],
+  "ratingInformation": {
+    "basicRatingInformation": {
+      "averageGrade": 4.8,
+      "totalOfEvaluations": 157
+    },
+    "ratingsByGrade": [
+      {
+        "grade": 5,
+        "totalRatings": 131
+      },
+      {
+        "grade": 4,
+        "totalRatings": 17
+      },
+      {
+        "grade": 3,
+        "totalRatings": 5
+      },
+      {
+        "grade": 2,
+        "totalRatings": 3
+      },
+      {
+        "grade": 1,
+        "totalRatings": 1
+      }
+    ]
+  },
+  "ratingTags": [
+    {
+      "tag": "surf",
+      "count": 12,
+      "tooltip": "surf, mencionado em 12 avaliações"
+    },
+    {
+      "tag": "carro",
+      "count": 8,
+      "tooltip": "carro, mencionado em 8 avaliações"
+    },
+    {
+      "tag": "natureza",
+      "count": 6,
+      "tooltip": "natureza, mencionado em 6 avaliações"
+    },
+    {
+      "tag": "trilhas",
+      "count": 5,
+      "tooltip": "trilhas, mencionado em 5 avaliações"
+    },
+    {
+      "tag": "pé",
+      "count": 4,
+      "tooltip": "pé, mencionado em 4 avaliações"
+    }
+  ],
+  "featuredPhotos": [
+    "https://lh5.googleusercontent.com/p/AF1QipOvo7ju3S-KvJP-t6nlDo2Vb3j2ekDNcH8yF81Y=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOX_sL_pettKKLK4Pu67NToFXjQMPgfvj1Wmac6=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOx78kZdY-RV9t2p199KWWABkTxEDtl0M1jhNQm=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNTtZ0kvpvEwVNYPHjP-SJYHTPBz4B3QwY6cq3q=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipO2EZ1MO46-QFs4mIS7O05Kr_hSiUYp8jWaysuX=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOQSm8-L7LIi1FDICKzC2t29bttWBlaVupdj84D=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMfbhp9HzM857YV-OJpUH85_7X-EqB5XNNcCpI1=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPZTBAnkCrV284JfVec95BwqFU8mulBThLRl3yP=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipO6Z-wzlgWf1XKPwapSKCQtbcxg5-wGjdwviIvt=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNfCdxYkvOZuawTCJkCxmxWoafqGy_mKBs9FhKz=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNEoT-lmsbi5pKKd8l6yha2ytotyYJ2fh7BCsph=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNJgspPQYrrtqiYFS9RKzgcY7FNdsf_3HhUzhPm=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMdfVzhSnOLWnclf-ZedayZAdQWVb2ftwKcgrUI=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNXLOwCIbLPAb69NVsq40IMpHNeEEbaO5DXqI4t=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOWQQ35VNo7yUj41uBdjTh7PTitJsD0_7vsCF6o=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPYV9N0CvEyogCUNF9rH9cm0m02cMaQa-qkn6GA=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPBoK2etnn8C5C-g5gswlAe_2Av2jouSzMhB8G9=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMamffsmrdakdNb-FMt7yqu-ttiBdnhQQT0-eNT=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipN1LHICvStdR4EzhgEwiiKUUbYWwaY9Cp97yMg1=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOCns41dKvcScgvZLJcEsUpuRixxk1c7rVvEMbC=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipO36i8LO2cITJgUBpttiIX3RJExpHyY26-n7R2H=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipO3pB9u7yPjDJvE3dUCMD7OanZqRqBO-mEN2Px8=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMcM_lzGpcmcldRcd6e0bRnCxPSwdrHa6IegIac=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMK1ny4e4NkICKyBkBGDusC2RT_ndUyQHXEY84b=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPG5DD_Au8kTVJpOOW8yuY7qmVB5EoJald-B1gC=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipM3UWfSSHdzkrkzEuGWCgwCS9lP6jMSWI_CWHDi=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOtrXEpHauYX1S5pfoqaQHjoiYIgkPAP7r3vKOR=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMsTT_K6OVOBq-ItCKWLS_hVPnmKwEsWOvEJmX9=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipO0NgSfFNtnL-Zm-KSwbecuIq5lLQ8qTx158i0x=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMrAGNIj3-IbkAsh1IIBjmVyUlCXgMt_eZNWyrT=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipN2oysB_gJiV0WeblaVcQaeRYYRlVqEzB27XDqW=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPl6vy7Td44TjXHfPiKYV5DYFSXPw-Q72DJNOSo=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMqpcu9MYRdmh-03kvVKlbe_J1hX0K_PIqYPyDa=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPW3_8NkAwJnWH0p34uYh2B95rQREUaUnH9j-a8=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipO5wFQ_75kFnytz3mtyX2Sr2C3kRJYcov3kD_i-=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNRTVNaLP9ViJ9QIEQBaaY3qELBm--Uh0ZKrIx5=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPPo0uBBPG5fWEJltT1oF2Kntdczi41NWV-SZmc=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipN0L5__-Jd1FXwVOTuyT7RWOVKfL5vtghlmRP-U=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPuykCZ3g9Kt1NiXq4KfV6aDNXtxukdZ95_e5j2=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMxrCNOLPiypqfsL3RkxNOMUNXakByOluzEFx7d=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNzxO_X6ir1KiYKl0sQEHXJFbtItXp7L9g9A4mM=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMyAmsryeitbP1MLZtyHaMBjWcrZOTyYwJsalmx=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOLN7B_vJFuhVKH_lsw4Kr_MJBZIQbRuxEV4JhW=w1024-h576-k-no"
+  ],
+  "topComments": [
+    {
+      "author": "nathalia fabre",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucrNlHuW3MPzwctp7OGm4X70I7T_wRXinerQgJWiWhA=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "Lugar maravilhoso e de fácil acesso. Para conseguir estacionar na rua precisa chegar cedo, se não tem que pagar estacionamento privado, custa 50 reais a diária. Os restaurantes são ótimos. Adoramos o restaurante pimenta rosa, fica na beira da praia, as porções são boas por um preço normal de litoral. O atendimento é ótimo.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Horácio Almeida",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucq2OVg-UM232pZIi7SUvi3gTdBWveddOgu9IaNepQ=w36-h36-p-c0x00000000-rp-mo-ba7-br100",
+      "comment": "Em se tratando de belezas naturais é um local muito bonito, deslumbrante. Ondas fortes e mar com bastante barulho, mostrando a força da natureza. As trilhas para se chegar até lá são um pouco mais longas mas não menos bonitas que as do Rosa Norte e Lagoa do Meio. No caminho encontram-se várias lojas de conveniência para dar uma parada e uma hidratada. O caminho tem uma boa infra na realidade nas trilhas é bem melhor de se andar do que na estrada. As estradas não possuem calçadas e nem refúgios seguros para pedestres e os carros passam em velocidade bem alta causando certa insegurança e desconforto para quem vai a pé. A praia tem orla de areia alta, média e bem fofa, não é o melhor lugar para se caminhar e explorar, melhor ficar parado aproveitando os bares e restaurantes da localidade mas se prepare, os preços no paraíso não são baratos. Pra quem vai de carro tem alguns estacionamentos a R$30,00 o dia. Vale a pena o passeio e também conhecer a localidade pelas belezas naturais bem preservadas e para sentir a força da natureza. Fizemos caminhos diferentes para chegar e para voltar, usando trilhas diferentes. Recomendo.",
+      "gradeComment": 4
+    },
+    {
+      "author": "Sólon Soares",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucr1d9_b98c6logGiprwaYtxjFdX5Rgc8SSEwC6K_Yw=w36-h36-p-c0x00000000-rp-mo-ba3-br100",
+      "comment": "Praia belíssima e com mais infraestrutura que o Rosa Norte.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Andre Schneider",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucqaa5S8rlozuh9eNn5CaGYCaNYBeSijEQaTiKKTYYU=w36-h36-p-c0x00000000-rp-mo-ba5-br100",
+      "comment": "Transcendental - talvez seja essa a palavra que defina a experiência de passar alguns dias no Rosa, principalmente se estiver com a pessoa amada. Se alguém te dizer que o lugar é místico, acredite, se disserem que é simplesmente lindo, acredite. A natureza caprichou ao fazer cada recorte da praia, os nativos, investidores, turistas, sei lá quem mais, conseguem melhorar o lugar a cada ano. Um espaço especial, onde convivem garotos surfistas que sobem e descem o morro com suas pranchas a pé, de bike, surfistas calhordas, que aparecem com suas camionetonas equipadas, superpranchas e caem na água da mesma forma, com a mesma alegria infantil de brincar com as ondas. Famílias inteiras que viajam mais de 1.000 km, vindos da Argentina, Uruguai - semana do turismo - do interior do RS, SC, PR, SP, todos em busca dessa vibe que o Rosa Sul tem. Praias recortadas por trilhas paradisíacas. Com opções para quem quer caminhar, correr, pedalar, surfar, voar, ou simplesmente contemplar. Como diria Chicó no Auto da Compadecida, refletindo a genialidade de Ariano Suassuna ao ser perguntado sobre como seriam possíveis coisas tão improváveis como tudo que descrevi do Rosa: \"Não sei, só sei que foi assim!\" #aindavoumorarnapraia",
+      "gradeComment": 5
+    },
+    {
+      "author": "Paloma Orlandi",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucp4NzxKoBP4cIOBV5UygCX3avJzA36Zgp1plrt21RA=w36-h36-p-c0x00000000-rp-mo-ba5-br100",
+      "comment": "Praia do rosa sul é linda também, assim como a rosa norte. Fomos bem cedo pois levamos o dog, então estava vazia. Mas perto das 9:30 quando fomos embora já tinha fila de carro procurando estacionamento (e era final de março, fora de temporada). No verão acho que o transito deve ser estressante na região. De resto, só elogios, aquele ambiente de paz e a água verde do mar, que limpa a alma.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Gustavo Ferrari",
+      "photoAuthor": "https://lh3.googleusercontent.com/a/AItbvmndILRp03HlDZQ-Rgeed3FhIJV3nUJU_fbuEqWX=w36-h36-p-c0x00000000-rp-mo-ba5-br100",
+      "comment": "Praia bonita. Estrada para carros pessima. Difícil estacionar. Estacionamentos pagos de 20 a 30 reais",
+      "gradeComment": 4
+    },
+    {
+      "author": "Henrique Girardi",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucp7N44od-99DeP7WXB7pw5ihVHmaI6y8v08vYrpDg=w36-h36-p-c0x00000000-rp-mo-ba5-br100",
+      "comment": "Não consigo ver toda essa maravilha que o povo comenta desta praia! O acesso é sofrível, com estrada totalmente esburacada (Uber nem entra lá). O centrinho tem poucas opções de alimentação e em algumas delas só é aceito dinheiro. O que mais tem lá são estacionamentos privados para carros.",
+      "gradeComment": 3
+    },
+    {
+      "author": "Fabiano Costa",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucrcJphi1RlwHsV5ag2PIGEeqFsUJx2J_yyeNu8opA=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "Linda Praia..🌄⛱️☀️🌍🏖️🌅🏄",
+      "gradeComment": 5
+    },
+    {
+      "author": "Eduardo Martello",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucqLG8bDFcWmNlT2FHROyR1sGAD-694XrPyhq5G8Gw=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "Praia bem tranquila, único problema é  pouco estacionamento, nessa caso eu paguei para ficar mais próximo a praia",
+      "gradeComment": 5
+    },
+    {
+      "author": "Marciélen Pagnoncelli",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucqO5rTY8wS2Rvo113grOcp5M48jBOiYfVvHOuTatg=w36-h36-p-c0x00000000-rp-mo-ba3-br100",
+      "comment": "Praia com uma ótima infraestrutura (restaurantes, quiosques, aluguel de cadeiras e guarda-sol), grande extensão de areia, mar de ondas.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Rose Moreno",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucrr5YIf4wlI3Sua_OWIW0G-oparbkPMzYj1OVpMmA=w36-h36-p-c0x00000000-rp-mo-ba3-br100",
+      "comment": "Amei ,lindo lugar natureza pura!!!",
+      "gradeComment": 5
+    },
+    {
+      "author": "Gilvane da silva",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucopxP9CoZZTYzzIJZmJvWSjhueykX7E0DIihTppDA=w36-h36-p-c0x00000000-rp-mo-ba6-br100",
+      "comment": "Lugar de águas cristalinas vento dunas e morros trilhas muitas da pra subir oa morros e nas trilhas da pra tirarmuitas fotos legais no rosa sul é onde fica a melhor praia e ainda tem a lagoa no meio onde separa o sul do norte. A parte sul as ondas são um pouco mais leves ja na parte norte as ondas são mais fortes onde ficam a maior parte dos surfistas é muito surfista na temporada fica intransitável a rua norte. Vá de moto é bem melhor e vc estaciona em qualquer lugar de carro vá cedo senão caxao pro bili.kkkkk✌🔝🔝🔝🔝🔝✌✌✌✌",
+      "gradeComment": 5
+    },
+    {
+      "author": "Todas as Praias",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucpyxWXGnEaUxrZPgwiiI9SdTr_ypwfcO0aSMw4o1LI=w36-h36-p-c0x00000000-rp-mo-ba8-br100",
+      "comment": "Lado direito da praia. O lado mais frequentado e com boa estrutura turística. pico de surf. fica lotado.",
+      "gradeComment": 4
+    },
+    {
+      "author": "Giovani Grando",
+      "photoAuthor": "https://lh3.googleusercontent.com/a/AItbvmmSx-T-HeZ5zVqe46PjKP_uPkb9Xho6r4fqe6_O=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "Pousada Caminho Nômade - #umdiaemcadapraia  Lugar espetacular, enseada da Praia do Portinho é a nossa dica em dias com vento sul.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Ubiratan Rodrigues (Bira)",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucqocSziii0__zKjW9AVjOWqrfOk-bV6VSzCpUiM=w36-h36-p-c0x00000000-rp-mo-ba3-br100",
+      "comment": "Lugar lindo e com a natureza bastante preservada",
+      "gradeComment": 5
+    },
+    {
+      "author": "Fábio e Linda",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucrM8SP1tJIIGag0TsCgnO6Dh7PKj7w-U3-uk8amXsw=w36-h36-p-c0x00000000-rp-mo-ba5-br100",
+      "comment": "Lugar maravilhoso só deixa um pouco a desejar a estrada de acesso não aconselho a quem tem carro esporte",
+      "gradeComment": 5
+    },
+    {
+      "author": "Container amarelo Pousada",
+      "photoAuthor": "https://lh3.googleusercontent.com/a/AItbvmlFNof5c9e_TONMnWBUcSMIwstRQnIAbmTrgVes=w36-h36-p-c0x00000000-rp-mo-ba2-br100",
+      "comment": "Lugar top",
+      "gradeComment": 5
+    },
+    {
+      "author": "Douglas Agertt Pereira",
+      "photoAuthor": "https://lh3.googleusercontent.com/a/AItbvmmLuY3QdhGf_jeFiYZyz54KzBwt5vOwupgrD1ke=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "Paisagem muito linda!",
+      "gradeComment": 5
+    },
+    {
+      "author": "Juliana Ventura",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucpLdyQOffaeaVtzzOFX7vXyKbJv83--Z8bsdGHn8hY=w36-h36-p-c0x00000000-rp-mo-br100",
+      "comment": "Danny kamekona  Juliana kamekona Eu vou fazer cenas comigo fica comigo",
+      "gradeComment": 5
+    },
+    {
+      "author": "Poliane Dos Santos Sebastiao",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucquLg7AoNQ-blU4F1rLhMMRpN9bRBiaWpsy4oe7z50=w36-h36-p-c0x00000000-rp-mo-ba3-br100",
+      "comment": "Lugar paradisíaco, trilhas incríveis com essa vista maravilhosa, ótimo para renovar as energias!!",
+      "gradeComment": 5
+    }
+  ],
+  "peakHours": null,
+  "relatedSearches": [
+    "rosa sul festa",
+    "trilha rosa sul",
+    "rosa sul atacado",
+    "rosa norte",
+    "rosa sul sunset",
+    "pousada rosa sul",
+    "rosa sul embalagens",
+    "rosa sul campinas",
+    "rosa sul festa",
+    "trilha rosa sul",
+    "rosa sul atacado",
+    "rosa norte",
+    "rosa sul sunset",
+    "pousada rosa sul",
+    "rosa sul embalagens",
+    "rosa sul campinas"
+  ],
+  "relateds": [
+    {
+      "mainName": "Rosa Norte",
+      "url": null
+    },
+    {
+      "mainName": "Do Luz",
+      "url": null
+    },
+    {
+      "mainName": "Praia do Rosa",
+      "url": null
+    },
+    {
+      "mainName": "Praia do rosa sul",
+      "url": null
+    },
+    {
+      "mainName": "Praia Da Vila, Imbituba SC",
+      "url": null
+    },
+    {
+      "mainName": "Praia do Ouvidor",
+      "url": null
+    },
+    {
+      "mainName": "Praia da Ribanceira",
+      "url": null
+    },
+    {
+      "mainName": "Praia do Silveira",
+      "url": null
+    },
+    {
+      "mainName": "Praia do Rosa - Rosa Norte",
+      "url": null
+    },
+    {
+      "mainName": "Garopaba",
+      "url": null
+    },
+    {
+      "mainName": "Trilha Praia do Rosa à Vermelha",
+      "url": null
+    },
+    {
+      "mainName": "Praia D'água",
+      "url": null
+    },
+    {
+      "mainName": "Praia da Ferrugem",
+      "url": null
+    },
+    {
+      "mainName": "Praia da Barra - Garopaba",
+      "url": null
+    },
+    {
+      "mainName": "Praia do Siriú",
+      "url": null
+    },
+    {
+      "mainName": "Lagoa do Meio",
+      "url": null
+    },
+    {
+      "mainName": "Ibiraquera",
+      "url": null
+    },
+    {
+      "mainName": "Siriu",
+      "url": null
+    },
+    {
+      "mainName": "Itapirubá",
+      "url": null
+    },
+    {
+      "mainName": "Praia do Porto",
+      "url": null
+    },
+    {
+      "mainName": "Gamboa Beach",
+      "url": null
+    },
+    {
+      "mainName": "Ilha do Batuta",
+      "url": null
+    },
+    {
+      "mainName": "Guarda do Embau",
+      "url": null
+    },
+    {
+      "mainName": "Praia Vermelha",
+      "url": null
+    },
+    {
+      "mainName": "Rosa Norte",
+      "url": null
+    },
+    {
+      "mainName": "Do Luz",
+      "url": null
+    },
+    {
+      "mainName": "Praia do Rosa",
+      "url": null
+    },
+    {
+      "mainName": "Praia do rosa sul",
+      "url": null
+    },
+    {
+      "mainName": "Praia Da Vila, Imbituba SC",
+      "url": null
+    },
+    {
+      "mainName": "Praia do Ouvidor",
+      "url": null
+    },
+    {
+      "mainName": "Praia da Ribanceira",
+      "url": null
+    },
+    {
+      "mainName": "Praia do Silveira",
+      "url": null
+    },
+    {
+      "mainName": "Praia do Rosa - Rosa Norte",
+      "url": null
+    },
+    {
+      "mainName": "Garopaba",
+      "url": null
+    },
+    {
+      "mainName": "Trilha Praia do Rosa à Vermelha",
+      "url": null
+    },
+    {
+      "mainName": "Praia D'água",
+      "url": null
+    },
+    {
+      "mainName": "Praia da Ferrugem",
+      "url": null
+    },
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

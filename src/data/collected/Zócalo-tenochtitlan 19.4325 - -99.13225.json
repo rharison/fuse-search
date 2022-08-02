@@ -1,0 +1,837 @@
+{
+  "mainName": "Zócalo/tenochtitlan",
+  "slug": "zocalotenochtitlan",
+  "category": "Estação de metrô",
+  "locationInformation": {
+    "latitude": "19.4325",
+    "longitude": "-99.13225"
+  },
+  "basicInformation": [
+    {
+      "label": "endereço",
+      "tooltip": "Copiar endereço",
+      "text": "Historic center of Mexico City, Centro, Cuauhtémoc, 06000 Mexico City, México",
+      "icon": "https://www.gstatic.com/images/icons/material/system_gm/1x/place_gm_blue_24dp.png"
+    },
+    {
+      "label": "endereço",
+      "tooltip": "Copiar endereço",
+      "text": "Centro Histórico de la Cdad. de México, Centro, Cuauhtémoc, 06000 Ciudad de México, CDMX",
+      "icon": "https://www.gstatic.com/images/icons/material/system_gm/1x/place_gm_blue_24dp.png"
+    },
+    {
+      "label": "Code",
+      "tooltip": "Copiar Plus Code",
+      "text": "CVM9+24 Cidade do México, Distrito Federal, México",
+      "icon": "https://maps.gstatic.com/mapfiles/maps_lite/images/2x/ic_plus_code.png"
+    }
+  ],
+  "ratingInformation": {
+    "basicRatingInformation": {
+      "averageGrade": 4.4,
+      "totalOfEvaluations": 579
+    },
+    "ratingsByGrade": [
+      {
+        "grade": 5,
+        "totalRatings": 381
+      },
+      {
+        "grade": 4,
+        "totalRatings": 128
+      },
+      {
+        "grade": 3,
+        "totalRatings": 38
+      },
+      {
+        "grade": 2,
+        "totalRatings": 7
+      },
+      {
+        "grade": 1,
+        "totalRatings": 25
+      }
+    ]
+  },
+  "ratingTags": [
+    {
+      "tag": "histórico",
+      "count": 37,
+      "tooltip": "histórico, mencionado em 37 avaliações"
+    },
+    {
+      "tag": "cultura",
+      "count": 18,
+      "tooltip": "cultura, mencionado em 18 avaliações"
+    },
+    {
+      "tag": "praça",
+      "count": 11,
+      "tooltip": "praça, mencionado em 11 avaliações"
+    },
+    {
+      "tag": "evento",
+      "count": 8,
+      "tooltip": "evento, mencionado em 8 avaliações"
+    },
+    {
+      "tag": "país",
+      "count": 8,
+      "tooltip": "país, mencionado em 8 avaliações"
+    },
+    {
+      "tag": "bandeira",
+      "count": 7,
+      "tooltip": "bandeira, mencionado em 7 avaliações"
+    },
+    {
+      "tag": "exposições",
+      "count": 7,
+      "tooltip": "exposições, mencionado em 7 avaliações"
+    },
+    {
+      "tag": "catedral",
+      "count": 6,
+      "tooltip": "catedral, mencionado em 6 avaliações"
+    },
+    {
+      "tag": "governo",
+      "count": 6,
+      "tooltip": "governo, mencionado em 6 avaliações"
+    },
+    {
+      "tag": "metrô da cidade do méxico",
+      "count": 5,
+      "tooltip": "metrô da cidade do méxico, mencionado em 5 avaliações"
+    }
+  ],
+  "featuredPhotos": [
+    "https://lh5.googleusercontent.com/p/AF1QipP1PQoOK03CHChdptyGnPA8PlHBuqrb9QYUi0G2=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNorHPUBkQmOYNRkY0UueJBA2cgcTd1SRubWmFo=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOTVRpgJO1iJhU-LGCMKY2EI_vSIWPR8wwLaaD9=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMCVxGNo-XoWh3kKOa1_-7ipDb2hdMLPLFWVQJ_=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNJ-8HVTNkJs93OrzBD6ozoEa_hj2GOGh9e9BlG=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMVtrRHIeobdAy8UKEOH7e37UgtkcG83PAC8xt8=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPGnsXjSx2l1RtIZWpeXxQBr08StyEd7nNqw7__=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNLIfuaOHeUZKPbO51mjUl_5E9V2hicR08OT6KI=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNOq-y6aeY67Gm9UgzfueSUqCtTdNyfU2W9Sl9-=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPBIzMK_p-Fmm8YNEayUlaQOdUeYQ1-1UWIBZw5=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNciNT2VaSKE1EZd9Nrzaf_gTRzLeKqx-_PFLis=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNVOqnkLwulOzO1427f1n7m0HPdsXAXPpjskuAY=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPiD1jMJZcWgLGnB_P_Tkyx2NwNqWARyDQpt_oz=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipO8blxqdAWUjnF7aPSGFUCbfG1oibvyTZQ3_CuN=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOWv7b_v0tKrQuy4U7N4HK4u5dlmE65mn94UsXQ=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipObhxlTphWJHzEtyhKJIsj_bdb98PBsa91BENb2=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipO6JTWP7QiJQcnVs-VI9FvzQJAYt-yYkwFZT0eu=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPki3Cyt_0BF92X0YWV9rxqVC2J_xRc5gwBWoJ_=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNLPjY1r759hxyctuSqsgBxpVTUblRlKVCphqDG=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPyVuQS2l6NA0-8z0Wobnx9VW_tU_kjPk05aYhv=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMT_AWHsJo5Lk8wmst8Mof7VDQzceUeQVL1qZ73=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPiC9KEhicJT2min-93jdRVEnBjTsn4KJW_7lFt=w1024-h576-k-no"
+  ],
+  "topComments": [
+    {
+      "author": "Narciso Menezes",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucpo34bVHa95VPmmCB0KWaSGhPN1UPel5y7xlqZTBnI=w36-h36-p-c0x00000000-rp-mo-ba6-br100",
+      "comment": "Serviço de metrô excelente. Cobre todos os bairros.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Irma Barrios",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucoivwvXWR6Usz_rpMMGFGLvTPhE-wWtLsyjLxcV-BI=w36-h36-p-c0x00000000-rp-mo-ba5-br100",
+      "comment": "Emblemático e histórico lugar",
+      "gradeComment": 5
+    },
+    {
+      "author": "Adélcio Carlos de Oliveira",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucp875gjHwi9VT8sg7PolGhzMqmwb5cXGbzFdIADolo=w36-h36-p-c0x00000000-rp-mo-ba5-br100",
+      "comment": "Lindo local",
+      "gradeComment": 5
+    },
+    {
+      "author": "Andrea Velazquez Palomeque",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucrdfaDQm7olOgZuGPBYB6pBJvESA8hmapnAbucrgrA=w36-h36-p-c0x00000000-rp-mo-ba6-br100",
+      "comment": "(Tradução do Google) Em geral, a estação é limpa e eles a monitoram. Eles aconselham você a colocar suas coisas na frente e cuidar delas.  Durante a hora do rush você deve ter muito cuidado porque os carros estão tão cheios que apenas algumas pessoas descem. Quando eu estava na fila, por acaso vi uma mulher com sua filha e ela era cega e foi muito difícil para ela entrar no carro até que as pessoas que estavam esperando a ajudassem. Eu acho que deveria haver uma pessoa que poderia ser abordada para pedir ajuda onde os ingressos são comprados. Espero que eles possam fazer alguma coisa.  (Original) En general la estación está limpia y la tienen vigila. Te aconsejan que pongas tus cosas al frente y las cuides.  En hora pico debes estar muy al pendiente porque los vagones van tan llenos que apenas bajan algunas personas. Cuando estaba en la fila, me tocó ver a una mujer con su hija y ella era invidente y le costó mucho poder subir al vagón hasta que las personas que estaban esperando la ayudaron. Considero que debería haber una persona a la que se le pudieran acercar a pedir ayuda en donde se compran los boletos. Ojalá puedan hacer algo.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Mary Retiz",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucraqUg2wF7BsT25_QDcN0rCbC2_xSxB8bKywa4c0Q=w36-h36-p-c0x00000000-rp-mo-ba5-br100",
+      "comment": "(Tradução do Google) Local reconhecido por muita gente, com grande variedade de produtos à venda, restaurantes, bares, entre muitas mais atrações para nacionais e turistas, ambiente muito familiar e preços variáveis  (Original) Lugar reconocido por mucha gente, con gran variedad de productos en venta, restaurantes,  bares, entre muchos atractivos  más para nacionales y turistas, ambiente muy familiar y precios variables",
+      "gradeComment": 5
+    },
+    {
+      "author": "Jeremy Cruz",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucrCNehvfCckOf4w3l1QSbU57C5fTbw_pzY0zrvGUSw=w36-h36-p-c0x00000000-rp-mo-ba6-br100",
+      "comment": "(Tradução do Google) Basicamente o centro do universo nesta cidade. Há sempre algo acontecendo lá. Uma praça única e enorme  (Original) Básicamente el centro del universo en esta ciudad. Siempre hay algo pasando ahí. Una plaza única y enorme",
+      "gradeComment": 5
+    },
+    {
+      "author": "Leonardo Anzures",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucoebPMCnU3kAm75RgJ2kOum2bogTxZr8aLtYj89YOQ=w36-h36-p-c0x00000000-rp-mo-ba6-br100",
+      "comment": "(Tradução do Google) Toda vez que vou à Plancha del Zócalo, gosto muito. Eu amo meu CDMX. 👏❤️🙏👏  (Original) Cada vez que voy a la Plancha del Zócalo, lo disfruto mucho. Amo mi CDMX. 👏❤️🙏👏",
+      "gradeComment": 5
+    },
+    {
+      "author": "Arantza Gascón",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucru9awGQicYghqxvU98akLP_ZOLpSs5cYkxjK6ieQ=w36-h36-p-c0x00000000-rp-mo-ba7-br100",
+      "comment": "(Tradução do Google) É uma das minhas estações favoritas, mas também é uma das mais movimentadas para o turismo que fica logo à saída da estação, pois está localizada no centro histórico e no Zócalo da Cidade do México, é o ponto central da linha dois dos metro, o que é azul e na saída tem um modelo magnífico com a exemplificação dos edifícios e monumentos que se encontram fora da estação 🚉  (Original) Es una de mis estaciones favoritas, pero también es una de las más concurridas por el turismo que hay justamente afuera de la estación, pues se encuentra en el centro histórico y el Zócalo de la ciudad de México, es punto central de la línea dos del metro, la que es color azul y en la parte de la salida tiene una maqueta magnífica con la ejemplificación de los edificios y monumentos que están fuera de la estación 🚉",
+      "gradeComment": 5
+    },
+    {
+      "author": "Eduardo A Pérez",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucoCZ-tfaWavl8X2KWuRiszfor8qo6KS31x54nK5LjQ=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "(Tradução do Google) Além dos problemas que o serviço oferecido pelo metrô STC tem, esta estação é uma das mais funcionais e melhor localizadas. Além da amplitude das instalações, as excelentes maquetes da cidade e a excelente localização das saídas para os principais pontos de interesse do Zócalo, a bilheteira e os espaços comerciais (incluindo o Passeio pelos livros da passagem) são muito ferramentas. O grande problema que a estação tem é a teimosia dos seus administradores em manter várias das saídas fechadas, é comum a saída para o Palácio Nacional, a Câmara Municipal e a esplanada do Zócalo.  (Original) Más allá de los problemas que tiene el servicio que ofrece el STC metro, esta estación es una de las más funcionales y mejor ubicadas. Además de la amplitud de las instalaciones, las excelentes maquetas de la ciudad y de la excelente ubicación de las salidas hacia los principales puntos de interés del Zócalo, los servicios de taquilla y locales comerciales (incluido el Paseo por los libros del pasaje) son muy útiles. El gran problema que tiene la estación es la terquedad de sus administradores por mantener cerradas varias de las salidas, es común que la salida al Palacio Nacional, al Ayuntamiento y a la explanada del Zócalo.",
+      "gradeComment": 4
+    },
+    {
+      "author": "hugo ramirez",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucrhb-4dPMXy4feICdRxLTDS7D7wLsxLuVFMbHXx=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "(Tradução do Google) Esse lugar é cheio de história, um lugar lindo para se visitar, são milhares de estabelecimentos de alimentação, hotéis ... Você vai encontrar de tudo a preços imbatíveis,  (Original) Este lugar está lleno de historia, hermoso lugar para visitar, hay Miles de establecimientos de comida, hoteles... Encontrarás de todo a precios inigualables,",
+      "gradeComment": 5
+    }
+  ],
+  "peakHours": [
+    {
+      "Sunday": [
+        {
+          "hour": "07:00",
+          "percent": 1
+        },
+        {
+          "hour": "08:00",
+          "percent": 3
+        },
+        {
+          "hour": "09:00",
+          "percent": 6
+        },
+        {
+          "hour": "10:00",
+          "percent": 10
+        },
+        {
+          "hour": "11:00",
+          "percent": 16
+        },
+        {
+          "hour": "12:00",
+          "percent": 22
+        },
+        {
+          "hour": "13:00",
+          "percent": 29
+        },
+        {
+          "hour": "14:00",
+          "percent": 35
+        },
+        {
+          "hour": "15:00",
+          "percent": 39
+        },
+        {
+          "hour": "16:00",
+          "percent": 38
+        },
+        {
+          "hour": "17:00",
+          "percent": 34
+        },
+        {
+          "hour": "18:00",
+          "percent": 27
+        },
+        {
+          "hour": "19:00",
+          "percent": 20
+        },
+        {
+          "hour": "20:00",
+          "percent": 13
+        },
+        {
+          "hour": "21:00",
+          "percent": 7
+        },
+        {
+          "hour": "22:00",
+          "percent": 3
+        },
+        {
+          "hour": "23:00",
+          "percent": 1
+        }
+      ]
+    },
+    {
+      "Monday": [
+        {
+          "hour": "06:00",
+          "percent": 1
+        },
+        {
+          "hour": "07:00",
+          "percent": 3
+        },
+        {
+          "hour": "08:00",
+          "percent": 7
+        },
+        {
+          "hour": "09:00",
+          "percent": 13
+        },
+        {
+          "hour": "10:00",
+          "percent": 22
+        },
+        {
+          "hour": "11:00",
+          "percent": 33
+        },
+        {
+          "hour": "12:00",
+          "percent": 46
+        },
+        {
+          "hour": "13:00",
+          "percent": 57
+        },
+        {
+          "hour": "14:00",
+          "percent": 65
+        },
+        {
+          "hour": "15:00",
+          "percent": 68
+        },
+        {
+          "hour": "16:00",
+          "percent": 65
+        },
+        {
+          "hour": "17:00",
+          "percent": 68
+        },
+        {
+          "hour": "18:00",
+          "percent": 74
+        },
+        {
+          "hour": "19:00",
+          "percent": 50
+        },
+        {
+          "hour": "20:00",
+          "percent": 23
+        },
+        {
+          "hour": "21:00",
+          "percent": 12
+        },
+        {
+          "hour": "22:00",
+          "percent": 6
+        },
+        {
+          "hour": "23:00",
+          "percent": 3
+        },
+        {
+          "hour": "00:00",
+          "percent": 1
+        }
+      ]
+    },
+    {
+      "Tuesday": [
+        {
+          "hour": "06:00",
+          "percent": 2
+        },
+        {
+          "hour": "07:00",
+          "percent": 5
+        },
+        {
+          "hour": "08:00",
+          "percent": 10
+        },
+        {
+          "hour": "09:00",
+          "percent": 17
+        },
+        {
+          "hour": "10:00",
+          "percent": 26
+        },
+        {
+          "hour": "11:00",
+          "percent": 37
+        },
+        {
+          "hour": "12:00",
+          "percent": 47
+        },
+        {
+          "hour": "13:00",
+          "percent": 57
+        },
+        {
+          "hour": "14:00",
+          "percent": 63
+        },
+        {
+          "hour": "16:00",
+          "percent": 66
+        },
+        {
+          "hour": "17:00",
+          "percent": 76
+        },
+        {
+          "hour": "18:00",
+          "percent": 78
+        },
+        {
+          "hour": "19:00",
+          "percent": 52
+        },
+        {
+          "hour": "20:00",
+          "percent": 25
+        },
+        {
+          "hour": "21:00",
+          "percent": 13
+        },
+        {
+          "hour": "22:00",
+          "percent": 7
+        },
+        {
+          "hour": "23:00",
+          "percent": 3
+        },
+        {
+          "hour": "00:00",
+          "percent": 1
+        }
+      ]
+    },
+    {
+      "Wednesday": [
+        {
+          "hour": "06:00",
+          "percent": 1
+        },
+        {
+          "hour": "07:00",
+          "percent": 4
+        },
+        {
+          "hour": "08:00",
+          "percent": 8
+        },
+        {
+          "hour": "09:00",
+          "percent": 16
+        },
+        {
+          "hour": "10:00",
+          "percent": 27
+        },
+        {
+          "hour": "11:00",
+          "percent": 41
+        },
+        {
+          "hour": "12:00",
+          "percent": 56
+        },
+        {
+          "hour": "13:00",
+          "percent": 67
+        },
+        {
+          "hour": "14:00",
+          "percent": 75
+        },
+        {
+          "hour": "15:00",
+          "percent": 79
+        },
+        {
+          "hour": "16:00",
+          "percent": 82
+        },
+        {
+          "hour": "17:00",
+          "percent": 83
+        },
+        {
+          "hour": "18:00",
+          "percent": 78
+        },
+        {
+          "hour": "19:00",
+          "percent": 62
+        },
+        {
+          "hour": "20:00",
+          "percent": 40
+        },
+        {
+          "hour": "21:00",
+          "percent": 21
+        },
+        {
+          "hour": "22:00",
+          "percent": 9
+        },
+        {
+          "hour": "23:00",
+          "percent": 3
+        },
+        {
+          "hour": "00:00",
+          "percent": 1
+        }
+      ]
+    },
+    {
+      "Thursday": [
+        {
+          "hour": "06:00",
+          "percent": 2
+        },
+        {
+          "hour": "07:00",
+          "percent": 4
+        },
+        {
+          "hour": "08:00",
+          "percent": 9
+        },
+        {
+          "hour": "09:00",
+          "percent": 16
+        },
+        {
+          "hour": "10:00",
+          "percent": 27
+        },
+        {
+          "hour": "11:00",
+          "percent": 39
+        },
+        {
+          "hour": "12:00",
+          "percent": 52
+        },
+        {
+          "hour": "13:00",
+          "percent": 63
+        },
+        {
+          "hour": "14:00",
+          "percent": 70
+        },
+        {
+          "hour": "15:00",
+          "percent": 75
+        },
+        {
+          "hour": "16:00",
+          "percent": 77
+        },
+        {
+          "hour": "17:00",
+          "percent": 76
+        },
+        {
+          "hour": "18:00",
+          "percent": 69
+        },
+        {
+          "hour": "19:00",
+          "percent": 54
+        },
+        {
+          "hour": "20:00",
+          "percent": 36
+        },
+        {
+          "hour": "21:00",
+          "percent": 20
+        },
+        {
+          "hour": "22:00",
+          "percent": 9
+        },
+        {
+          "hour": "23:00",
+          "percent": 3
+        },
+        {
+          "hour": "00:00",
+          "percent": 1
+        }
+      ]
+    },
+    {
+      "Friday": [
+        {
+          "hour": "06:00",
+          "percent": 1
+        },
+        {
+          "hour": "07:00",
+          "percent": 4
+        },
+        {
+          "hour": "08:00",
+          "percent": 8
+        },
+        {
+          "hour": "09:00",
+          "percent": 15
+        },
+        {
+          "hour": "10:00",
+          "percent": 25
+        },
+        {
+          "hour": "11:00",
+          "percent": 37
+        },
+        {
+          "hour": "12:00",
+          "percent": 51
+        },
+        {
+          "hour": "13:00",
+          "percent": 65
+        },
+        {
+          "hour": "14:00",
+          "percent": 78
+        },
+        {
+          "hour": "15:00",
+          "percent": 86
+        },
+        {
+          "hour": "16:00",
+          "percent": 89
+        },
+        {
+          "hour": "17:00",
+          "percent": 84
+        },
+        {
+          "hour": "18:00",
+          "percent": 74
+        },
+        {
+          "hour": "19:00",
+          "percent": 59
+        },
+        {
+          "hour": "20:00",
+          "percent": 42
+        },
+        {
+          "hour": "21:00",
+          "percent": 27
+        },
+        {
+          "hour": "22:00",
+          "percent": 16
+        },
+        {
+          "hour": "23:00",
+          "percent": 8
+        },
+        {
+          "hour": "00:00",
+          "percent": 3
+        }
+      ]
+    },
+    {
+      "Saturday": [
+        {
+          "hour": "06:00",
+          "percent": 1
+        },
+        {
+          "hour": "07:00",
+          "percent": 2
+        },
+        {
+          "hour": "08:00",
+          "percent": 5
+        },
+        {
+          "hour": "09:00",
+          "percent": 11
+        },
+        {
+          "hour": "10:00",
+          "percent": 20
+        },
+        {
+          "hour": "11:00",
+          "percent": 35
+        },
+        {
+          "hour": "12:00",
+          "percent": 53
+        },
+        {
+          "hour": "13:00",
+          "percent": 73
+        },
+        {
+          "hour": "14:00",
+          "percent": 90
+        },
+        {
+          "hour": "15:00",
+          "percent": 100
+        },
+        {
+          "hour": "16:00",
+          "percent": 98
+        },
+        {
+          "hour": "17:00",
+          "percent": 87
+        },
+        {
+          "hour": "18:00",
+          "percent": 69
+        },
+        {
+          "hour": "19:00",
+          "percent": 48
+        },
+        {
+          "hour": "20:00",
+          "percent": 30
+        },
+        {
+          "hour": "21:00",
+          "percent": 17
+        },
+        {
+          "hour": "22:00",
+          "percent": 8
+        },
+        {
+          "hour": "23:00",
+          "percent": 3
+        },
+        {
+          "hour": "00:00",
+          "percent": 1
+        }
+      ]
+    }
+  ],
+  "relatedSearches": [
+    "zocalo",
+    "zócalo tradução",
+    "zócalo flag",
+    "zócalo public square wikipedia",
+    "zócalo significado",
+    "zócalo mexico",
+    "zocalo mexican",
+    "tenochtitlan pyramids"
+  ],
+  "relateds": [
+    {
+      "mainName": "Zócalo",
+      "url": "https://www.google.com/maps/search/Z%C3%B3calo,+P.za+de+la+Constituci%C3%B3n+S%2FN,+Centro+Hist%C3%B3rico+de+la+Cdad.+de+M%C3%A9xico,+Centro,+Cuauht%C3%A9moc,+06010+Ciudad+de+M%C3%A9xico,+CDMX,+M%C3%A9xico"
+    },
+    {
+      "mainName": "Allende",
+      "url": "https://www.google.com/maps/search/Allende,+Esquina+y+06010,+Calle+de+Tacuba,+Calle+de+Motolinia+%26,+Centro+Hist%C3%B3rico+de+la+Cdad.+de+M%C3%A9xico,+06000+Ciudad+de+M%C3%A9xico,+M%C3%A9xico"
+    },
+    {
+      "mainName": "Pino Suárez",
+      "url": "https://www.google.com/maps/search/Pino+Su%C3%A1rez,+Jos%C3%A9+Mar%C3%ADa+Pino+Su%C3%A1rez,+Centro,+Cuauht%C3%A9moc,+06080+Ciudad+de+M%C3%A9xico,+CDMX,+M%C3%A9xico"
+    },
+    {
+      "mainName": "Tlatelolco",
+      "url": "https://www.google.com/maps/search/Tlatelolco,+Zoltan+Kodaly,+Tlatelolco,+06900+Ciudad+de+M%C3%A9xico,+CDMX,+M%C3%A9xico"
+    },
+    {
+      "mainName": "Tepito",
+      "url": "https://www.google.com/maps/search/Tepito,+Morelos,+06200+Ciudad+de+M%C3%A9xico,+CDMX,+M%C3%A9xico"
+    },
+    {
+      "mainName": "Apatlaco",
+      "url": "https://www.google.com/maps/search/Apatlaco,+Tenexpan,+Pur%C3%ADsima+Atlazolpa,+09429+Ciudad+de+M%C3%A9xico,+CDMX,+M%C3%A9xico"
+    },
+    {
+      "mainName": "San Lázaro",
+      "url": "https://www.google.com/maps/search/San+L%C3%A1zaro,+7+de+Julio,+15390+Ciudad+de+M%C3%A9xico,+CDMX,+M%C3%A9xico"
+    },
+    {
+      "mainName": "Guelatao",
+      "url": "https://www.google.com/maps/search/Guelatao,+Ej%C3%A9rcito+de+Oriente+Indeco+II+Issste,+09100+Ciudad+de+M%C3%A9xico,+CDMX,+M%C3%A9xico"
+    },
+    {
+      "mainName": "Bondojito",
+      "url": "https://www.google.com/maps/search/Bondojito,+Tablas+de+San+Agust%C3%ADn,+07860+Ciudad+de+M%C3%A9xico,+CDMX,+M%C3%A9xico"
+    },
+    {
+      "mainName": "Mixcalco",
+      "url": "https://www.google.com/maps/search/Mixcalco,+Ciudad+de+M%C3%A9xico,+CDMX,+M%C3%A9xico"
+    },
+    {
+      "mainName": "Copilco",
+      "url": "https://www.google.com/maps/search/Copilco,+Eje+10+Sur+(Copilco),+Copilco+Universidad,+04310+Ciudad+de+M%C3%A9xico,+CDMX,+M%C3%A9xico"
+    },
+    {
+      "mainName": "Iztacalco",
+      "url": "https://www.google.com/maps/search/Iztacalco,+Eje+3+Ote,+Francisco+del+Paso+y+Troncoso,+Los+Picos+de+Iztacalco+II+A,+Iztacalco,+08770+Ciudad+de+M%C3%A9xico,+CDMX,+M%C3%A9xico"
+    },
+    {
+      "mainName": "Obrera",
+      "url": "https://www.google.com/maps/search/Obrera,+06800+Ciudad+de+M%C3%A9xico,+CDMX,+M%C3%A9xico"
+    },
+    {
+      "mainName": "Xola",
+      "url": "https://www.google.com/maps/search/Xola,+%C3%81lamos,+03510+Ciudad+de+M%C3%A9xico,+CDMX,+M%C3%A9xico"
+    },
+    {
+      "mainName": "Tacuba",
+      "url": "https://www.google.com/maps/search/Tacuba,+11410+Ciudad+de+M%C3%A9xico,+CDMX,+M%C3%A9xico"
+    },
+    {
+      "mainName": "Mixcoac",
+      "url": "https://www.google.com/maps/search/Mixcoac,+03910+Ciudad+de+M%C3%A9xico,+CDMX,+M%C3%A9xico"
+    },
+    {
+      "mainName": "Cuauhtémoc",
+      "url": "https://www.google.com/maps/search/Cuauht%C3%A9moc,+Av+Chapultepec,+Ju%C3%A1rez,+06600+Ciudad+de+M%C3%A9xico,+CDMX,+M%C3%A9xico"
+    },
+    {
+      "mainName": "Guerrero",
+      "url": "https://www.google.com/maps/search/Guerrero,+Zarco,+Guerrero,+Cuauht%C3%A9moc,+06300+Ciudad+de+M%C3%A9xico,+CDMX,+M%C3%A9xico"
+    },
+    {
+      "mainName": "Metro Station",
+      "url": "https://www.google.com/maps/search/Metro+Station,+L%C3%B3pez+Ray%C3%B3n+46,+Lagunilla,+Centro,+Cuauht%C3%A9moc,+06200+Ciudad+de+M%C3%A9xico,+CDMX,+M%C3%A9xico"
+    },
+    {
+      "mainName": "Hidalgo",
+      "url": "https://www.google.com/maps/search/Hidalgo,+Guerrero,+06300+Ciudad+de+M%C3%A9xico,+CDMX,+M%C3%A9xico"
+    }
+  ]
+}

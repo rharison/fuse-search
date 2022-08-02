@@ -1,0 +1,506 @@
+{
+  "mainName": "Vinícola Assunção",
+  "slug": "vinicola-assuncao",
+  "category": "Vinícola",
+  "locationInformation": {
+    "latitude": "-15.9465023",
+    "longitude": "-48.9963788"
+  },
+  "basicInformation": [
+    {
+      "label": "endereço",
+      "tooltip": "Copiar endereço",
+      "text": "GO 338 - KM 41 à direita 7km, Pirenópolis - GO, 72980-000",
+      "icon": "https://www.gstatic.com/images/icons/material/system_gm/1x/place_gm_blue_24dp.png"
+    },
+    {
+      "label": "telefone",
+      "tooltip": "Copiar número de telefone",
+      "text": "(62) 98501-3677",
+      "icon": "https://www.gstatic.com/images/icons/material/system_gm/1x/phone_gm_blue_24dp.png"
+    },
+    {
+      "label": "Code",
+      "tooltip": "Copiar Plus Code",
+      "text": "3233+9C Pirenópolis, Goiás",
+      "icon": "https://maps.gstatic.com/mapfiles/maps_lite/images/2x/ic_plus_code.png"
+    },
+    {
+      "label": "send-to-device",
+      "text": "Enviar para smartphone",
+      "icon": "https://maps.gstatic.com/consumer/images/icons/1x/send_to_mobile_alt_gm_blue_24dp.png"
+    }
+  ],
+  "ratingInformation": {
+    "basicRatingInformation": {
+      "averageGrade": 4.6,
+      "totalOfEvaluations": 125
+    },
+    "ratingsByGrade": [
+      {
+        "grade": 5,
+        "totalRatings": 103
+      },
+      {
+        "grade": 4,
+        "totalRatings": 12
+      },
+      {
+        "grade": 3,
+        "totalRatings": 1
+      },
+      {
+        "grade": 2,
+        "totalRatings": 3
+      },
+      {
+        "grade": 1,
+        "totalRatings": 6
+      }
+    ]
+  },
+  "ratingTags": [
+    {
+      "tag": "suco",
+      "count": 12,
+      "tooltip": "suco, mencionado em 12 avaliações"
+    },
+    {
+      "tag": "picnic",
+      "count": 11,
+      "tooltip": "picnic, mencionado em 11 avaliações"
+    },
+    {
+      "tag": "experiência",
+      "count": 8,
+      "tooltip": "experiência, mencionado em 8 avaliações"
+    },
+    {
+      "tag": "ambiente",
+      "count": 7,
+      "tooltip": "ambiente, mencionado em 7 avaliações"
+    },
+    {
+      "tag": "pães",
+      "count": 6,
+      "tooltip": "pães, mencionado em 6 avaliações"
+    },
+    {
+      "tag": "restaurante",
+      "count": 5,
+      "tooltip": "restaurante, mencionado em 5 avaliações"
+    },
+    {
+      "tag": "preço",
+      "count": 5,
+      "tooltip": "preço, mencionado em 5 avaliações"
+    },
+    {
+      "tag": "colher",
+      "count": 4,
+      "tooltip": "colher, mencionado em 4 avaliações"
+    },
+    {
+      "tag": "passeio",
+      "count": 3,
+      "tooltip": "passeio, mencionado em 3 avaliações"
+    },
+    {
+      "tag": "bistrô",
+      "count": 3,
+      "tooltip": "bistrô, mencionado em 3 avaliações"
+    }
+  ],
+  "featuredPhotos": [
+    "https://lh5.googleusercontent.com/p/AF1QipM65SrYSU9rnSwnbBICjn_RkVPOGuHcTVSqxGkJ=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNJmDvst2lrTVgsrsL0ZpRPUj5dFIbG1nrFuY8A=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOnd4DwNNv_2Nt7lU6ocLm17m3SBvR9c5XSt_Qh=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNHbtaP3Z6I4IIrebgiv1dLD9KP3GewYs1Zi7JC=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPS9MNyouFJ1v0PW7397FCGBpaVpGlmEbNbdIrk=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOzLogYHqy20T7_Gtdo0IeJ1An_QaZVQwelxPha=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipO7wRj-7UWQOL0uAmWIx36GR--tk-FX4EXWPbap=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNFMCZstrurv1dns5OIbzclu5_yGwR8LQHxvFgy=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNxCi8aUH_iGrinboaGBla0W0m-MvmKASaghK0k=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOdLVnycuS0RKzMMD5Tyk0_EeYh4wk_39LNIeD8=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNK4gltkYztPJWpSnwimRFaEix7VF2oyDcGuCDj=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOL6xh3m0dRKGKpSWJt4TQjCesPOKSQUG6kR_vG=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNqBwwG7D6WMM6woziApv15XGRJi7Y3eBXwteP5=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMlK6v3b6mWru1PsyPEs4KGvovC4bJpbhRaGnBE=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMTe2TFHSmLCnckkroHVp3j5UYmX4S_NL3yha9k=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMGGLmfZqPez_qqr-KLhTpceDMzvxBybbq1P-vs=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipO3k7wayLBGj-_4RgUPsnqMb3sG93nOtA8QRTyh=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOiU92JB2q80jCr9X5L3b7D3jeNukMt20tVnYWl=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOOJe8ZWIUfSeX_pMeQlyM3c-fPNU8wEdrUF4Pj=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOfGGfZigF3q5rxzT2GUBkpzdpJYiJtx48LcNjj=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipO3hW0c12I-1rVRU4yuKlKpsuLiDvOmNSAyW0qX=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPT90JKjDJwkw2I4U9LOkFQGkfuxV0sLRz8BQ4s=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPgBF0OJSNf1136xY3b8yv1gafJVDTAoUuLc8Bu=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPdepVqOQyhEblzfqfLT6I3N0SoWcikoYJd2NU1=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMAqrTWKWg5UsLq7oBqcj-uwjHhpZp7KB133T1I=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPj75FdupfG7TGH16nyyhYds9-pFy1kHRJ2_rEb=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOIq5d601ZQfD7FJzgo2Cpd84LnehtFF1kFCKIl=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPKlm4gCalwhOdYobLM2vD-rJ72DNMau-XKiRJE=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPmSNbo_V9YUZHrUCT57szdY-5_rlvM5z9_IIdz=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMmdw7ReSlmgAvcHYMK61RDsjrdVLoScfahmCq9=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOCG-YBwMaIvEXC1hslTEX2zybCUU9Gv9av_n9F=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMz3OqUD-jK790Z_oFd_GnlaKFnFTJtzn01JHrM=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPr8KOwdJOc8Ih9aaX3WQjfOrxid2tKjGe91V83=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMo7Fg-K6OiCVqNR2UnW1XxjtSooLa22MJ6yw_0=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNnNBCB7-qpKh-1uKjyh6aXrYsWVXugYxOIG5Lz=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMH5O1dl5pEdmV5k0ay6M2Fo-QH8J0BQmftr8bf=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPLWxg1GxK8O2TD-9dnkvPWW2p6bUbf7DZDrHQ7=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipM6_luuW36BhYuNY7TZkn9jx1Ntw98CwThjLO-G=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPULUEk25E4O_ALsFj6Mkx4danh2TAA5fAJzeyf=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipO1k5skXZd9BqQC3vt85guuRRxjxR1yji-0fmNj=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPz0Cc1ifi__q4qiuQNla4PzGkbV-bJkLnMZDZx=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMTgjnGlSPFysnDW878VSEgnjaaVqrwYDEbLaTA=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipM-rKJic0YLZomUOzn2Apz6DzDG5ERcHnPxOKec=w1024-h576-k-no"
+  ],
+  "topComments": [
+    {
+      "author": "eliane cruz",
+      "photoAuthor": "https://lh3.googleusercontent.com/a/AItbvmmsY-RfMfg4SwJFx9YyjCj97l4-oO-2oHh70OgS=w36-h36-p-c0x00000000-rp-mo-ba5-br100",
+      "comment": "Experiência incrível ver uma vinícola em pleno cerrado! Lindo projeto familiar, com tudo muito bem cuidado! Zelo na fabricação do suco e dos vinhos! Fizemos a visita guiada com o Guilherme, que é o agrônomo responsável e foi uma verdadeira aula de conhecimento sobre os climas da viticultura! Vale muito a visita e o picnic!!!",
+      "gradeComment": 5
+    },
+    {
+      "author": "Tatiana Terra",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucoieFESxOw37CINYSMAKSCIXWGJTO66axUghHni9k8=w36-h36-p-c0x00000000-rp-mo-ba3-br100",
+      "comment": "Um excelente local para conhecer perto de Pirenópolis. Tudo muito bem cuidado, boa recepção com pessoas hospitaleiras. Comida deliciosa e vinhos para saborear.",
+      "gradeComment": 4
+    },
+    {
+      "author": "Mayra Santana",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucpFih0A5Xtv005mK7H5YHrIv69wzvnGYQ1lYU8AIWA=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "Que experiência linda conhecer a Vinícola Assunção! Um ambiente aconchegante e cheia de opções para você conhecer mais do que o cerrado pode oferecer. A Vinícola junto com o Vem de Vinho oferece a opção de atividades como picnic, passeio guiado pela Vinícola conhecendo os tipos de uvas produzidas e a produção do suco e dos vinhos, você pode também colher diretamente do pé as suas uvas e levar para casa. Se você estiver passando por Pirinópolis, não perca a oportunidade de conhecer esse lindo lugar. Optamos por um picnic e foi sensacional.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Thalita Mesquita",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucqynvzga9numNuc91EPzHlJ_klrx9Ch-GhhgJ8UnA=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "Já imaginou apreciar um delicioso piquenique em meio a um parreiral no interior de Goiás? Graças a Vinícola Assunção, localizada em Pirenópolis, isso é possível!  Quem promove essa experiência incrível é a @vem.devinho e o agendamento deve ser realizado com antecedência. O piquenique conta com tábua de frios, cesta de pães, geleia, pesto, água, suco – que, inclusive, é uma produção própria e premiada – e outros mimos.  O lugar é super romântico, organizado e instagramável, claro! E além deste, eles também oferecem outras opções de pacotes – como a visitação guiada e a degustação harmonizada com vinhos – e um bistrô.  A minha indicação para você é ir no período da tarde, pois o pôr-do-sol ganha um charme a mais por lá, com tantos cantinhos especiais para admirá-lo!",
+      "gradeComment": 5
+    },
+    {
+      "author": "Julio Cesar Correa Campos",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucqsZ8O2CfjxgTWbTlQoLhWvLGyZd0DO7okSTqDYJrI=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "Um caos completo. 7km de estrada de terra com vários mata-burros perigosos no caminho pra um lugar com um preço exorbitante e um atendimento vergonhoso. Cheguei 12h e a comida chegou na mesa às 15h. Não tinha ninguém pra atender; fomos atrás do nosso cardápio, porque ninguém trouxe; levantamos para fazer o pedido, porque ninguém veio retirar; comida demorou 1h... preço nas alturas e serviço de bar de esquina. O ambiente é bonito, mas não vale nunca o desgaste. Não recomendo... falta muito pra chegar no nível de vinícolas que vemos por aí, no Sul e no interior de SP. Lamentável. Paga-se 20 reais para ter acesso ao parreiral (com direito a colher cachos de uvas) e uma garrafa do vinho deles custa, no mínimo, 90 reais. Mas passamos tanta raiva no dia que comemos (uma parmegiana salgada) e fomos embora... Deus me free de voltar",
+      "gradeComment": 1
+    },
+    {
+      "author": "Fabiola Reis",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucpS7ynexj50dPEGAoBExcUpNJtaACIo8z_GSjZmcTc=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "Amei a experiência, fiz o pic nic , gostei muito de tudo que eles oferecem , suco maravilhoso, o pão caseiro feito na hora incrível , enfim , recomendo muito essa experiência, estrada de chão uns 7 km o ideal é ir com um carro mais alto.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Franklin Duran",
+      "photoAuthor": "https://lh3.googleusercontent.com/a/AItbvmlLQsaGqYT9Dr14QT1EApBnKscK5FLVahMyGSlZ8Q=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "Ambiente muito agradável. Visitas ficam melhor no período das uvas.",
+      "gradeComment": 4
+    },
+    {
+      "author": "Rafael Camargo Carneiro",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucoG2GipyC6z_LmiPj3TiR2AHOyRb-vncyaqA5D6k3o=w36-h36-p-c0x00000000-rp-mo-ba3-br100",
+      "comment": "O lugar é lindo, o almoço é FENOMENAL, e os vinhos deliciosos. Faça a visita guiada com o Guilherme!",
+      "gradeComment": 5
+    },
+    {
+      "author": "Itala Carneiro",
+      "photoAuthor": "https://lh3.googleusercontent.com/a/AItbvmnXIbK1zqkqzVg_3VKxancpHDNjFj1sZZ-amnlB=w36-h36-p-c0x00000000-rp-mo-br100",
+      "comment": "Infelizmente não tive uma boa experiência! Chegamos numa sexta às 13hs e logo sentamos no restaurante Vem de Vinho, percebi que as pessoas que estavam atendendo as mesas não tinham referência (cada hora uma pessoa diferente, sem ao menos uma identificação e fazendo várias coisas ao mesmo tempo! Levando o público para passeio,  atendendo na lojinha de vinhos e tentando atender as mesas). Depois de uns 15 min que sentamos, recebemos o cardápio, claro depois de levantar a mão algumas vezes. Pedimos um suco e um vinho! Nossa entrada demorou 45 minutos, claro depois de pedir algumas vezes. Pedimos os pratos principais e depois de 1h fomos informados que não haviam registrado o pedido. Então saímos da vinícola às 15h sem almoçar, isso é inacreditável!!!E claro perdemos a vontade de conhecer o espaço da vinícola. Ao chefe, lamentamos não ter experimentado os pratos, pelo que percebemos parecia ser bom e muito bem apresentado. Acredito que a equipe precisa se organizar para não frustrar os clientes.",
+      "gradeComment": 2
+    },
+    {
+      "author": "Marina Perillo",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucrcfGCpb3wRPeLm5vfwuyetJQUo-LWcWY794uIpIA=w36-h36-p-c0x00000000-rp-mo-ba2-br100",
+      "comment": "Picnic: expectativa x realidade  Nas fotos temos a impressão que o picnic é maravilhoso e farto. Mas presencialmente a realidade é outra. Pagamos R$ 720 por essa mesa (foto). Sim, SETECENTOS reais. Fomos em um grupo de sete pessoas, onde cada um pagou R$ 85 pelo picnic e cinco pessoas quiseram provar o vinho da casa que custa R$ 25 a taça. Na foto tá faltando a cesta com pães, que como tudo, demorou bastante para chegar. Não fizemos o passeios pelas parreiras pois tava chovendo, talvez esse seja o passeio recomendado e não o picnic.",
+      "gradeComment": 2
+    },
+    {
+      "author": "Karin Hagy",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucrFnNNml3KHbXAxIlXvJy0pZNh4h2QE9y__I0m9_A=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "🍇Lugar lindo. 🍇Maravilhoso. Tudo com muito esmero e cuidado. Voce pode colher a sua própria uva e levar para casa 😍. O suco de uva (produção local) é  maravilhoso. Puro. Sem açúcar ou conservantes. O pão é assado na hora 😋!   A tábua de frios além de linda estava maravilhosa. Voltarei novamente sem dúvida !",
+      "gradeComment": 5
+    },
+    {
+      "author": "Leonardo Silva",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucpRfwEG_VAhYTWyicVCfSj3JbIZ3AvGqs9HQRYgIw=w36-h36-p-c0x00000000-rp-mo-br100",
+      "comment": "Perfeito em todo os sentidos! Atendimento maravilhoso, o melhor vinho que ja provei, comida de excelente qualidade! Quero voltar mil vezes",
+      "gradeComment": 5
+    },
+    {
+      "author": "Barros L",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucrDrLsKha0FTq7vy0pFfztItf9tsj7KwNS2Ha3rJg=w36-h36-p-c0x00000000-rp-mo-ba5-br100",
+      "comment": "Ótima experiência para passar uma tarde com um lindo por do sol. A vinícola fica uns 7 km da rodovia em estrada de terra bem conservada, o maps te leva lá corretamente. Neste evento chegamos às 17 horas para apreciar o por do sol e uma refeição com entrada e prato principal. A única ressalva foi não ter o vinho deles para nos servirem. Foi oferecido um branco e tinto da Miolo. Eu gostaria de ter experimentado o vinho da vinícola, para poder avaliar nosso vinho brasileiro.",
+      "gradeComment": 5
+    },
+    {
+      "author": "karollainy oliveira",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucqWu80vZzoQK0ZGpYD66PR5yB5VnLr_K43F6_G_ZuQ=w36-h36-p-c0x00000000-rp-mo-ba3-br100",
+      "comment": "Lugar aconchegante. Maravilhoso! Pena que quando eu fui não tinha uva madura",
+      "gradeComment": 5
+    },
+    {
+      "author": "Sheila Faria",
+      "photoAuthor": "https://lh3.googleusercontent.com/a/AItbvmkLYR3GiwGw4CfG-YDYhqWyNBZjYkJgub94V97L=w36-h36-p-c0x00000000-rp-mo-br100",
+      "comment": "O ambiente é bom, porém o local  é de difícil  acesso com mata burros bem instáveis o que ocasionou um pneu furado e ninguém disposto pra ajudar no local.  O atendimento  deixa a desejar. Demora pra trazer um cardápio, demora para pedidos ficarem pronto, demora pra trazer o sal,poucos  garçons. Rede de internet ruim o que dificulta o pagamento via máquina e até pix. Não  retorno foi perrengue demais.",
+      "gradeComment": 1
+    },
+    {
+      "author": "Jardelino Pereira Neto",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucoj0KZU2eceBBin3F-_x3FzY2MasUZh5GJz4WN5vA=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "Um lugar muito bonito. Os proprietários e colabores são muito receptivos. Há restaurante para almoçar e comer aperitivos. Também é disponibilizado uma visita guiada para conhecimento de como se produz o vinho 🍷. O caminho de Pirenópolis até lá são 17km, sendo parte por terra. Não recomendo ir com veículos de suspensão baixa por conta da estrada de terra.",
+      "gradeComment": 4
+    },
+    {
+      "author": "David D Rezende",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucqG0QP4ODaC-WwqqPKTEMXGs7U049u9GkD7nGjJE4g=w36-h36-p-c0x00000000-rp-mo-ba3-br100",
+      "comment": "Excelente! Lugar lindo, atendimento excepcional. Ótimos produtos. Vale muito a pena conhecer.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Itala Rayssa Machado",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZuco_q6_Il--cQK6pvcVoIkUl85X4aTrpFbPxHGv2jg=w36-h36-p-c0x00000000-rp-mo-br100",
+      "comment": "Ótima experiência! A visita guiada é bem completa e informativa, você anda pelas parreiras e conhece a pequena fábrica, onde é produzido os sucos e vinhos, lá mesmo na vinícola. Vale muito a pena.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Ilton Siqueira",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZuco1wxaHdftpOG1_nPMSKAvtuPLKsh4JgCVoTvyyNnw=w36-h36-p-c0x00000000-rp-mo-ba6-br100",
+      "comment": "Local super agradável com boa gastronomia, excelente suco de uva e atendimento Host muito bom. Vale a pena fazer a visita a vinícola e produção de vinho.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Marcos César",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucoNao5BTtIlbi3pCs1u73Ylp3_IIfmnb7cstIWtYQ=w36-h36-p-c0x00000000-rp-mo-br100",
+      "comment": "Muito bom testemunhar o esforço empreendido para oferecer acolhimento, bom serviço e produção de vinho na zona rural de Pirinopolis.  Gostei bastante do vinho Assunção , da comida do restaurante  e de ver as parteiras carregadas. Desejo sucesso.",
+      "gradeComment": 5
+    }
+  ],
+  "peakHours": [
+    {
+      "Sunday": [
+        {
+          "hour": "10:00",
+          "percent": 28
+        },
+        {
+          "hour": "11:00",
+          "percent": 47
+        },
+        {
+          "hour": "12:00",
+          "percent": 66
+        },
+        {
+          "hour": "13:00",
+          "percent": 78
+        },
+        {
+          "hour": "14:00",
+          "percent": 79
+        },
+        {
+          "hour": "15:00",
+          "percent": 70
+        },
+        {
+          "hour": "16:00",
+          "percent": 58
+        },
+        {
+          "hour": "17:00",
+          "percent": 46
+        }
+      ]
+    },
+    {
+      "Monday": []
+    },
+    {
+      "Tuesday": [
+        {
+          "hour": "10:00",
+          "percent": 24
+        },
+        {
+          "hour": "11:00",
+          "percent": 29
+        },
+        {
+          "hour": "12:00",
+          "percent": 34
+        },
+        {
+          "hour": "13:00",
+          "percent": 36
+        },
+        {
+          "hour": "14:00",
+          "percent": 36
+        },
+        {
+          "hour": "15:00",
+          "percent": 31
+        }
+      ]
+    },
+    {
+      "Wednesday": [
+        {
+          "hour": "10:00",
+          "percent": 24
+        },
+        {
+          "hour": "11:00",
+          "percent": 29
+        },
+        {
+          "hour": "12:00",
+          "percent": 31
+        },
+        {
+          "hour": "13:00",
+          "percent": 31
+        },
+        {
+          "hour": "14:00",
+          "percent": 29
+        },
+        {
+          "hour": "15:00",
+          "percent": 24
+        }
+      ]
+    },
+    {
+      "Thursday": [
+        {
+          "hour": "10:00",
+          "percent": 29
+        },
+        {
+          "hour": "11:00",
+          "percent": 37
+        },
+        {
+          "hour": "12:00",
+          "percent": 38
+        },
+        {
+          "hour": "13:00",
+          "percent": 36
+        },
+        {
+          "hour": "14:00",
+          "percent": 36
+        },
+        {
+          "hour": "15:00",
+          "percent": 36
+        }
+      ]
+    },
+    {
+      "Friday": [
+        {
+          "hour": "10:00",
+          "percent": 27
+        },
+        {
+          "hour": "11:00",
+          "percent": 36
+        },
+        {
+          "hour": "12:00",
+          "percent": 40
+        },
+        {
+          "hour": "13:00",
+          "percent": 44
+        },
+        {
+          "hour": "14:00",
+          "percent": 49
+        },
+        {
+          "hour": "15:00",
+          "percent": 54
+        },
+        {
+          "hour": "16:00",
+          "percent": 52
+        },
+        {
+          "hour": "17:00",
+          "percent": 39
+        }
+      ]
+    },
+    {
+      "Saturday": [
+        {
+          "hour": "10:00",
+          "percent": 57
+        },
+        {
+          "hour": "11:00",
+          "percent": 81
+        },
+        {
+          "hour": "12:00",
+          "percent": 97
+        },
+        {
+          "hour": "13:00",
+          "percent": 100
+        },
+        {
+          "hour": "14:00",
+          "percent": 92
+        },
+        {
+          "hour": "15:00",
+          "percent": 81
+        },
+        {
+          "hour": "16:00",
+          "percent": 74
+        },
+        {
+          "hour": "17:00",
+          "percent": 69
+        }
+      ]
+    }
+  ],
+  "relatedSearches": [
+    "vinícola pireneus",
+    "vinícola vaz",
+    "vinícola perto de pirenópolis",
+    "vinícolas em cocalzinho",
+    "vinícola caldas mg",
+    "vem de vinho",
+    "vinho intrépido",
+    "vinho pirenópolis"
+  ],
+  "relateds": [
+    {
+      "mainName": "Santuário de Vida Silvestre Vagafogo",
+      "url": null
+    },
+    {
+      "mainName": "Cachoeiras dos Dragões",
+      "url": null
+    },
+    {
+      "mainName": "Museu Das Cavalhadas",
+      "url": null
+    },
+    {
+      "mainName": "Cachoeira do Abade",
+      "url": null
+    }
+  ]
+}

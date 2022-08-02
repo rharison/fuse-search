@@ -1,0 +1,764 @@
+{
+  "mainName": "Parque Nacional do Pau Brasil",
+  "slug": "parque-nacional-do-pau-brasil",
+  "category": "Parque nacional",
+  "locationInformation": {
+    "latitude": "-16.4984801",
+    "longitude": "-39.2557482"
+  },
+  "basicInformation": [
+    {
+      "label": "endereço",
+      "tooltip": "Copiar endereço",
+      "text": "Sul Baiano, Porto Seguro - BA, 45810-000",
+      "icon": "https://www.gstatic.com/images/icons/material/system_gm/1x/place_gm_blue_24dp.png"
+    },
+    {
+      "label": "website",
+      "tooltip": "Abrir website",
+      "text": "parquepaubrasil.com.br",
+      "icon": "https://www.gstatic.com/images/icons/material/system_gm/1x/public_gm_blue_24dp.png"
+    },
+    {
+      "label": "telefone",
+      "tooltip": "Copiar número de telefone",
+      "text": "(73) 3281-0805",
+      "icon": "https://www.gstatic.com/images/icons/material/system_gm/1x/phone_gm_blue_24dp.png"
+    },
+    {
+      "label": "Code",
+      "tooltip": "Copiar Plus Code",
+      "text": "GP2V+JP Porto Seguro, Bahia",
+      "icon": "https://maps.gstatic.com/mapfiles/maps_lite/images/2x/ic_plus_code.png"
+    },
+    {
+      "label": "merchant",
+      "text": "Reivindicar esta empresa",
+      "icon": "https://www.gstatic.com/images/icons/material/system_gm/1x/verified_user_gm_blue_24dp.png"
+    }
+  ],
+  "ratingInformation": {
+    "basicRatingInformation": {
+      "averageGrade": 4.7,
+      "totalOfEvaluations": 156
+    },
+    "ratingsByGrade": [
+      {
+        "grade": 5,
+        "totalRatings": 117
+      },
+      {
+        "grade": 4,
+        "totalRatings": 30
+      },
+      {
+        "grade": 3,
+        "totalRatings": 5
+      },
+      {
+        "grade": 2,
+        "totalRatings": 2
+      },
+      {
+        "grade": 1,
+        "totalRatings": 2
+      }
+    ]
+  },
+  "ratingTags": [
+    {
+      "tag": "trilhas",
+      "count": 11,
+      "tooltip": "trilhas, mencionado em 11 avaliações"
+    },
+    {
+      "tag": "natureza",
+      "count": 8,
+      "tooltip": "natureza, mencionado em 8 avaliações"
+    },
+    {
+      "tag": "bike",
+      "count": 6,
+      "tooltip": "bike, mencionado em 6 avaliações"
+    },
+    {
+      "tag": "turismo",
+      "count": 3,
+      "tooltip": "turismo, mencionado em 3 avaliações"
+    }
+  ],
+  "featuredPhotos": [
+    "https://lh5.googleusercontent.com/p/AF1QipMtRiD6QlNBxsAYcNdsEB_4SgL3b-ZRq5uFOxRV=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipP_UKPkKC1Kl9SRrxcoILwxUdg1rp01oUeAi0rB=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPXvpJVhGr_5WIRb3pYZBZTv3dWIuFkktJXSzXR=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPE52bcyVO1N86r5CVPBSBIOTtAtyvbjFKDewPK=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPYadqgslbVf8UD4leG7mZL6Kv5wHYK8dQQm9Wf=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPnwzmEoDcM9f0KOTOu0sga3dXRrOU6oLBXp4nX=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipP9CuGuvmJJgLFJnt6q1uATThWrkPCZk0TKrqYf=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPqP4Ga7MEyJnv_7oiVAgvlO3G72LJCNArEHBXH=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMFYynVO80Y8i0ofDZ0A-fRtP_yMRApAnQ01vC2=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOQ-Ej2I4kqlJvjAPkp04ofwCUCAl_KL-UvuTmb=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMtXU0B_Iqiqvej1zUXMQOR7ewubQiv4vEU8rhy=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMEJsshI29qZDL8Js9C00dBmzs3JiaYOPCJaVzQ=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMtbngkV2H3Imu3ak6n7SLESKT0iz9g9ajKYkG9=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPbhU4rNn9ttvd1d6xlV1p0Iy32UofFgYOa1kKp=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipN-yqIHj8QQLJLF36ipSzSATgNcInCB2RObpD-a=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipM3Uktcii3iAY3XAsDsa7OQ4ltBsDKEyRDepTa0=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNpYK_LcazscnaujEbi9Xq_NlcyONgz0xdb5HSl=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMoyKn1SiDRIM6A_TDaPFuZQlz0KA7WFdJDiwe2=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPUhUu1ZpdOFuRF6u6Q9mcYxXwaf2vSAxt5y9at=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNhFmcmohMSPGfi7aqKtiO7VPefXlTyRxzQlQ8=w1024-h576-k-no"
+  ],
+  "topComments": [
+    {
+      "author": "Thais Nakayama",
+      "photoAuthor": "https://lh3.googleusercontent.com/a/AItbvmm49SrPofnRmdcGV0HNNJ7BOy7mCJmSRklUxAqD=w36-h36-p-c0x00000000-rp-mo-ba3-br100",
+      "comment": "Parque com grande área de preservação. As trilhas são distantes, porém é possível agendar o tour com o veículo do parque (o custo está descrito no site). A equipe de funcionários é muito gentil e disponível.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Thales Jati (Thaleco)",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucpxw91_FcL3VDHtWBvF3tTjbV4htNDyTvquVUIgMQ=w36-h36-p-c0x00000000-rp-mo-ba5-br100",
+      "comment": "Deve ser ótimo, mas está em fase de transição para a iniciativa privada agora. Não está entrando carro e as caminhadas são longas. Verifique antes de ir. maio de 2019.",
+      "gradeComment": 4
+    },
+    {
+      "author": "Kleber Augusto Buss",
+      "photoAuthor": "https://lh3.googleusercontent.com/a/AItbvml6XjUrKatZCjBS2a336J7vPKtz-8vOR0vIEeBa=w36-h36-p-c0x00000000-rp-mo-ba3-br100",
+      "comment": "O lugar em si, parece ser sensacional. Porém no dia em que fomos lá,  não tinha nenhum responsável pelo parque para recepção aos clientes, apenas um segurança que pode prestar poucas informações. Com isto não pudemos fazer nenhuma das trilhas que o parque oferece. Ficamos decepcionados pois o parque fica a uns 45 km de Porto Seguro,  perdemos a viagem.",
+      "gradeComment": 2
+    },
+    {
+      "author": "Ailton motobikers",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucqof8nSa1xeZ8CM3Lsd_e1ylbnVIGz5malobXHmMDw=w36-h36-p-c0x00000000-rp-mo-br100",
+      "comment": "trilhas muito top, contato com a natureza em todo o tempo",
+      "gradeComment": 5
+    },
+    {
+      "author": "Alberto Rodrigues",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucovmbjlbuhiUnKxRXmMQD_dTdqhMyVkZKTHoA2qXw=w36-h36-p-c0x00000000-rp-mo-ba3-br100",
+      "comment": "O pessoal , que nos recebeu super educados  , atenciosos e prestativos ,a dificuldade é que os automóveis só é possível chegar até a sede, e as principais trilhas ficam a 15 kms da sede ,e da sede para frente até ás principais trilhas só com veículo 4x4 mas não tinha nem um no momento. Fizemos uma trilha mais próxima da sede ,mas acho que tem potencial para melhorar cada vez mais, espero voltar e me surpreender com com as melhorias e poder conhecer as outras trilhas.",
+      "gradeComment": 3
+    },
+    {
+      "author": "Felipe Penedo",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucq6mH7_alVX55FhZcByzlG2X6OKeJ5q-SfvAJDi3A=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "Um parque lindo e inacreditavelmente tão pouco visitado. Tem bastante lugar para picnic em todas as trilhas e ver um Pau Brasil milenar é sensacional!",
+      "gradeComment": 5
+    },
+    {
+      "author": "Lena Annes",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucpCa6BmvMKTGmOzk4vkumMqNgD9YJD39U2oxCWu0A=w36-h36-p-c0x00000000-rp-mo-br100",
+      "comment": "Tem muito para se descobrir sobre a história do Brasil a partir de uma visita ao parque e sua biodiversidade. Você vai conhecer (ou avistar, se tiver sorte) aves raras, bromélias gigantes e um exemplar de pau Brasil, com estimados 1.500 anos. Tem que agendar a visita e ir com tempo para fazer trilha, piquenique e tomar banho de cachoeira. E conhecer para preservar. O parque deverá receber divesas melhorias nós próximos meses.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Carolina Grohmann",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucrGbm5gafi3dYK19PCcNe-0CnBjzM2f1AxeSADvDA=w36-h36-p-c0x00000000-rp-mo-ba2-br100",
+      "comment": "Apesar do acesso às trilhas ainda ser somente por bike, vale a pena o esforço para viver a Mata Atlântica do PN do Pau Brasil. Assusta um pouco o caminho até a entrada do PN (poucas placas), mas qdo chegamos fomos bem recebidos pelos funcionários. As trilhas são super estruturadas. Passeio incrível! Quando abrir para carro, será sem dúvida mais um ponto turístico de referência em Porto Seguro!",
+      "gradeComment": 5
+    },
+    {
+      "author": "Samuelson Freitas",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucpcYWPaVgaKSL2hI_xMy7rTVafuOkSfHZ-R_keheyg=w36-h36-p-c0x00000000-rp-mo-ba5-br100",
+      "comment": "Precisamos conhecer e proteger o nosso grande e importante patrimônio natural. A nossa Mata Atlântica é de grande importância para o habitat de espécies endêmicas e esse espaço vem sendo degradado. O parque é grande e lindo, trilhas muito legais e monitores interativos e dinâmicos. É sempre um prazer está em contato com o meio ambiente",
+      "gradeComment": 5
+    },
+    {
+      "author": "Marcos T. Morita",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucp1TjEC1sdbJhOdZ4IOn0GCPd6R4XuGOWkR7Ta9yw=w36-h36-p-c0x00000000-rp-mo-br100",
+      "comment": "Estou tentando ligar há dias em diferentes horários e não consigo informações para saber se está aberto. Nem as agências de turismo de Arraial d'Ajuda possuem informações do Parque.",
+      "gradeComment": 2
+    },
+    {
+      "author": "alternAtivos",
+      "photoAuthor": "https://lh3.googleusercontent.com/a/AItbvmmGmxVnemxMHgnUbMa-Cmi46Y1TaH_xwezF8RML=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "Ótimo local para visitação. Tomem cuidado ao colocar no GPS, se colocar este ponto ele leva a uma estrada incorreta, coloquem como centro de visitantes parque nacional do pau Brasil que ele irá dar as coordenadas corretas, muita gente acaba errando o caminho",
+      "gradeComment": 5
+    },
+    {
+      "author": "Marivaldo Costa",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucqv7E9ZuH0KTYmm_dY6YYT5eMAB5kOkBrfCm0cRTg=w36-h36-p-c0x00000000-rp-mo-ba2-br100",
+      "comment": "Luga maravilhoso traz uma paz para o corpo ótimo lugar pra vcs que gosta de aventura eu recomendo",
+      "gradeComment": 5
+    },
+    {
+      "author": "Aldo Dantas",
+      "photoAuthor": "https://lh3.googleusercontent.com/a/AItbvmlSa5GTZpViILAFzzQcYGPYqXZInTfk8YGDwVm7=w36-h36-p-c0x00000000-rp-mo-br100",
+      "comment": "Ótimo lugar para contemplar a natureza !!!",
+      "gradeComment": 5
+    },
+    {
+      "author": "Juseli Da silva",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucqjNJY-mWWIuy89y4xNvJiyy-RqsdQfMtKXHZJr3xk=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "Para quem curte a natureza este é um dos melhores de porto seguro e para quem gosta de pedalar é mais perfeito ainda!",
+      "gradeComment": 5
+    },
+    {
+      "author": "mauro Candotti",
+      "photoAuthor": "https://lh3.googleusercontent.com/a/AItbvmk4Rzy4R8-xqrBZ7WjADDZ41YrJfxHhqr4wF_X3=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "Excelente lugar , parabens equipe que preserva o parque",
+      "gradeComment": 5
+    },
+    {
+      "author": "T Marquardt",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucrZ3mcBejufeNVaLY7Zx8T1iuqVgsldRZnI-ngG=w36-h36-p-c0x00000000-rp-mo-ba2-br100",
+      "comment": "Passeio excepcional, imperdível! Atendimento do Cleiton e do Lucio, Nota 10!",
+      "gradeComment": 5
+    },
+    {
+      "author": "Janete Cruz",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucqR2uxBV5XX67JtNGPif3yrPCSdiQLyKgytUp-JKBE=w36-h36-p-c0x00000000-rp-mo-ba3-br100",
+      "comment": "Porto Seguro, impossível não amar. A cidade respira turismo. Lá você torna-se um eterno descobridor.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Claudio Roman Rodriguez",
+      "photoAuthor": "https://lh3.googleusercontent.com/a/AItbvmmS-NUstiOaiY6ZXqBHZ2bBkrnlPInavr4GG7HN=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "Um lindo lugar desaproveitado.  Belezas singulares mais pouca estrutura para receber visitantes",
+      "gradeComment": 3
+    },
+    {
+      "author": "Lauro Paiva",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucoAVFZaAoYak37-fSvJYopEslJXsgHVZiYX09SEpg=w36-h36-p-c0x00000000-rp-mo-ba5-br100",
+      "comment": "Neste mundo cheio de fundas e flechas, o parque Nacional do Pau Brasil é um oásis de paz e tranquilidade.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Taximarcaobahiatur",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucp_r_-hRugaJDsHbMPgd-OujoLDVQ82tJB5d9LdfE4=w36-h36-p-c0x00000000-rp-mo-ba3-br100",
+      "comment": "Serv de qualidade",
+      "gradeComment": 5
+    }
+  ],
+  "peakHours": [
+    {
+      "Sunday": [
+        {
+          "hour": "04:00",
+          "percent": 23
+        },
+        {
+          "hour": "05:00",
+          "percent": 41
+        },
+        {
+          "hour": "06:00",
+          "percent": 55
+        },
+        {
+          "hour": "07:00",
+          "percent": 66
+        },
+        {
+          "hour": "08:00",
+          "percent": 73
+        },
+        {
+          "hour": "09:00",
+          "percent": 79
+        },
+        {
+          "hour": "10:00",
+          "percent": 87
+        },
+        {
+          "hour": "11:00",
+          "percent": 95
+        },
+        {
+          "hour": "12:00",
+          "percent": 100
+        },
+        {
+          "hour": "13:00",
+          "percent": 98
+        },
+        {
+          "hour": "14:00",
+          "percent": 86
+        },
+        {
+          "hour": "15:00",
+          "percent": 63
+        },
+        {
+          "hour": "16:00",
+          "percent": 36
+        },
+        {
+          "hour": "17:00",
+          "percent": 9
+        },
+        {
+          "hour": "03:00",
+          "percent": 4
+        }
+      ]
+    },
+    {
+      "Monday": [
+        {
+          "hour": "04:00",
+          "percent": 4
+        },
+        {
+          "hour": "05:00",
+          "percent": 6
+        },
+        {
+          "hour": "06:00",
+          "percent": 9
+        },
+        {
+          "hour": "07:00",
+          "percent": 13
+        },
+        {
+          "hour": "08:00",
+          "percent": 18
+        },
+        {
+          "hour": "09:00",
+          "percent": 22
+        },
+        {
+          "hour": "10:00",
+          "percent": 26
+        },
+        {
+          "hour": "11:00",
+          "percent": 27
+        },
+        {
+          "hour": "12:00",
+          "percent": 26
+        },
+        {
+          "hour": "13:00",
+          "percent": 23
+        },
+        {
+          "hour": "14:00",
+          "percent": 18
+        },
+        {
+          "hour": "15:00",
+          "percent": 9
+        },
+        {
+          "hour": "16:00",
+          "percent": 2
+        },
+        {
+          "hour": "02:00",
+          "percent": 2
+        },
+        {
+          "hour": "03:00",
+          "percent": 2
+        }
+      ]
+    },
+    {
+      "Tuesday": [
+        {
+          "hour": "05:00",
+          "percent": 5
+        },
+        {
+          "hour": "06:00",
+          "percent": 18
+        },
+        {
+          "hour": "07:00",
+          "percent": 29
+        },
+        {
+          "hour": "08:00",
+          "percent": 38
+        },
+        {
+          "hour": "09:00",
+          "percent": 45
+        },
+        {
+          "hour": "10:00",
+          "percent": 50
+        },
+        {
+          "hour": "11:00",
+          "percent": 48
+        },
+        {
+          "hour": "12:00",
+          "percent": 44
+        },
+        {
+          "hour": "13:00",
+          "percent": 36
+        },
+        {
+          "hour": "14:00",
+          "percent": 26
+        },
+        {
+          "hour": "15:00",
+          "percent": 15
+        },
+        {
+          "hour": "16:00",
+          "percent": 4
+        }
+      ]
+    },
+    {
+      "Wednesday": [
+        {
+          "hour": "06:00",
+          "percent": 9
+        },
+        {
+          "hour": "07:00",
+          "percent": 25
+        },
+        {
+          "hour": "08:00",
+          "percent": 41
+        },
+        {
+          "hour": "09:00",
+          "percent": 54
+        },
+        {
+          "hour": "10:00",
+          "percent": 61
+        },
+        {
+          "hour": "11:00",
+          "percent": 58
+        },
+        {
+          "hour": "12:00",
+          "percent": 47
+        },
+        {
+          "hour": "13:00",
+          "percent": 30
+        },
+        {
+          "hour": "14:00",
+          "percent": 9
+        }
+      ]
+    },
+    {
+      "Thursday": [
+        {
+          "hour": "07:00",
+          "percent": 19
+        },
+        {
+          "hour": "08:00",
+          "percent": 41
+        },
+        {
+          "hour": "09:00",
+          "percent": 56
+        },
+        {
+          "hour": "10:00",
+          "percent": 62
+        },
+        {
+          "hour": "11:00",
+          "percent": 63
+        },
+        {
+          "hour": "12:00",
+          "percent": 63
+        },
+        {
+          "hour": "13:00",
+          "percent": 62
+        },
+        {
+          "hour": "14:00",
+          "percent": 55
+        },
+        {
+          "hour": "15:00",
+          "percent": 40
+        },
+        {
+          "hour": "16:00",
+          "percent": 19
+        }
+      ]
+    },
+    {
+      "Friday": [
+        {
+          "hour": "06:00",
+          "percent": 5
+        },
+        {
+          "hour": "07:00",
+          "percent": 13
+        },
+        {
+          "hour": "08:00",
+          "percent": 25
+        },
+        {
+          "hour": "09:00",
+          "percent": 36
+        },
+        {
+          "hour": "10:00",
+          "percent": 48
+        },
+        {
+          "hour": "11:00",
+          "percent": 59
+        },
+        {
+          "hour": "12:00",
+          "percent": 63
+        },
+        {
+          "hour": "13:00",
+          "percent": 58
+        },
+        {
+          "hour": "14:00",
+          "percent": 44
+        },
+        {
+          "hour": "15:00",
+          "percent": 25
+        },
+        {
+          "hour": "16:00",
+          "percent": 5
+        },
+        {
+          "hour": "21:00",
+          "percent": 5
+        },
+        {
+          "hour": "22:00",
+          "percent": 6
+        },
+        {
+          "hour": "23:00",
+          "percent": 4
+        }
+      ]
+    },
+    {
+      "Saturday": [
+        {
+          "hour": "04:00",
+          "percent": 18
+        },
+        {
+          "hour": "05:00",
+          "percent": 16
+        },
+        {
+          "hour": "06:00",
+          "percent": 13
+        },
+        {
+          "hour": "07:00",
+          "percent": 11
+        },
+        {
+          "hour": "08:00",
+          "percent": 9
+        },
+        {
+          "hour": "09:00",
+          "percent": 8
+        },
+        {
+          "hour": "10:00",
+          "percent": 5
+        },
+        {
+          "hour": "11:00",
+          "percent": 5
+        },
+        {
+          "hour": "12:00",
+          "percent": 4
+        },
+        {
+          "hour": "13:00",
+          "percent": 4
+        },
+        {
+          "hour": "14:00",
+          "percent": 4
+        },
+        {
+          "hour": "15:00",
+          "percent": 5
+        },
+        {
+          "hour": "16:00",
+          "percent": 6
+        },
+        {
+          "hour": "17:00",
+          "percent": 9
+        },
+        {
+          "hour": "18:00",
+          "percent": 11
+        },
+        {
+          "hour": "19:00",
+          "percent": 13
+        },
+        {
+          "hour": "20:00",
+          "percent": 15
+        },
+        {
+          "hour": "21:00",
+          "percent": 18
+        },
+        {
+          "hour": "22:00",
+          "percent": 19
+        },
+        {
+          "hour": "23:00",
+          "percent": 20
+        },
+        {
+          "hour": "00:00",
+          "percent": 20
+        },
+        {
+          "hour": "01:00",
+          "percent": 20
+        },
+        {
+          "hour": "02:00",
+          "percent": 20
+        },
+        {
+          "hour": "03:00",
+          "percent": 19
+        }
+      ]
+    }
+  ],
+  "relatedSearches": [
+    "parque nacional do monte pascoal",
+    "icmbio",
+    "parque de diversões em eunápolis",
+    "como está porto seguro",
+    "turismo para porto seguro",
+    "porto seguro bahia informações",
+    "cidade porto seguro",
+    "onde fica o centro de porto seguro"
+  ],
+  "relateds": [
+    {
+      "mainName": "Parque Nacional do Descobrimento",
+      "url": null
+    },
+    {
+      "mainName": "RPPN Estação Veracel",
+      "url": null
+    },
+    {
+      "mainName": "Parque Nacional da Serra da Mocidade",
+      "url": null
+    },
+    {
+      "mainName": "Parque Nacional do Alto Cariri",
+      "url": null
+    },
+    {
+      "mainName": "Parque Nacional da Serra das Lontras",
+      "url": null
+    },
+    {
+      "mainName": "Parque Nacional dos Campos Amazônicos",
+      "url": null
+    },
+    {
+      "mainName": "Parque Nacional das Nascentes do Rio Parnaíba",
+      "url": null
+    },
+    {
+      "mainName": "Parque Nacional da Serra do Pardo",
+      "url": null
+    },
+    {
+      "mainName": "Parque Nacional das Araucárias",
+      "url": null
+    },
+    {
+      "mainName": "Parque Nacional de Boa Nova",
+      "url": null
+    },
+    {
+      "mainName": "Parque Nacional Marinho das Ilhas dos Currais",
+      "url": null
+    },
+    {
+      "mainName": "Parque Nacional de Pacaás Novos",
+      "url": null
+    },
+    {
+      "mainName": "Parque Nacional Nascentes do Lago Jari",
+      "url": null
+    },
+    {
+      "mainName": "Parque Nacional do Araguaia",
+      "url": null
+    },
+    {
+      "mainName": "Reserva Biológica de Una",
+      "url": null
+    },
+    {
+      "mainName": "Parque Nacional do Viruá",
+      "url": null
+    },
+    {
+      "mainName": "Parque Nacional da Furna Feia",
+      "url": null
+    },
+    {
+      "mainName": "Parque Nacional de Saint-Hilaire/Lange",
+      "url": null
+    },
+    {
+      "mainName": "Parque Nacional da Serra do Itajaí",
+      "url": null
+    },
+    {
+      "mainName": "Parque Nacional da Amazônia",
+      "url": null
+    },
+    {
+      "mainName": "Parque Nacional do Monte Roraima",
+      "url": null
+    },
+    {
+      "mainName": "Sede administrativa do Parque Nacional das Sempre-Vivas",
+      "url": null
+    },
+    {
+      "mainName": "Parque Nacional do Cabo Orange",
+      "url": null
+    }
+  ]
+}

@@ -1,0 +1,932 @@
+{
+  "mainName": "Cisterna delle Sette Sale",
+  "slug": "cisterna-delle-sette-sale",
+  "category": "Marco histórico",
+  "locationInformation": {
+    "latitude": "41.8927033",
+    "longitude": "12.4994444"
+  },
+  "basicInformation": [
+    {
+      "label": "endereço",
+      "tooltip": "Copiar endereço",
+      "text": "Via Mecenate, 6, 00184 Roma RM, Itália",
+      "icon": "https://www.gstatic.com/images/icons/material/system_gm/1x/place_gm_blue_24dp.png"
+    },
+    {
+      "label": "website",
+      "tooltip": "Abrir website",
+      "text": "sotterraneidiroma.it",
+      "icon": "https://www.gstatic.com/images/icons/material/system_gm/1x/public_gm_blue_24dp.png"
+    },
+    {
+      "label": "telefone",
+      "tooltip": "Copiar número de telefone",
+      "text": "+39 347 381 1874",
+      "icon": "https://www.gstatic.com/images/icons/material/system_gm/1x/phone_gm_blue_24dp.png"
+    },
+    {
+      "label": "Code",
+      "tooltip": "Copiar Plus Code",
+      "text": "VFVX+3Q Roma, Itália",
+      "icon": "https://maps.gstatic.com/mapfiles/maps_lite/images/2x/ic_plus_code.png"
+    },
+    {
+      "label": "merchant",
+      "text": "Reivindicar esta empresa",
+      "icon": "https://www.gstatic.com/images/icons/material/system_gm/1x/verified_user_gm_blue_24dp.png"
+    }
+  ],
+  "ratingInformation": {
+    "basicRatingInformation": {
+      "averageGrade": 4.3,
+      "totalOfEvaluations": 6
+    },
+    "ratingsByGrade": [
+      {
+        "grade": 5,
+        "totalRatings": 3
+      },
+      {
+        "grade": 4,
+        "totalRatings": 2
+      },
+      {
+        "grade": 3,
+        "totalRatings": 1
+      },
+      {
+        "grade": 2,
+        "totalRatings": 0
+      },
+      {
+        "grade": 1,
+        "totalRatings": 0
+      }
+    ]
+  },
+  "ratingTags": null,
+  "featuredPhotos": [
+    "https://lh5.googleusercontent.com/p/AF1QipNcG0VZhgdWeK0gNBKnTYOqTjb_yqffzH1h2FS9=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOxeHkuILUf7m1F5rmFlzO5dCTtZ_4i1E0mVT1Y=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMZWvI3EHNx89nVsNf8B7T9_VtgUW1_fa7lQmZT=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOPha2P90snBqbJkNGP_7bVOskBvaUp6pZ_wtzu=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMiNzN0JwG6-YlDdKT5wAdMzfvnd5o_GlDWY0tl=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNQ6Zi6Inn4RMegC8RNyuSTEVgLQBGgctGUG-HS=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMXdteeSYKFhZ6fRlUBzFPJBq8BuMy4qBi0ow6b=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOxWsJ2RMzNIzKkhx_Djqw-t55wJ_7RFO7llDfi=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipP7kpChxhgzWSZWH1bqGjz7vQd2vGDW4-CXc0_p=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPsX9tvSDafz308np2l7Fc11LysBiNJ7MUfRece=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMnK1P07tYoarDHjksaEQtr3DWRMntYIxFRM4Q1=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPji55Bc-JmtIi1CLMM5bT5Duu8p0dFyyEAPcGN=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipN2liGuVvJG1zMCDnsy2hHzmp_T-c-esYvHtnnn=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNe79FVs3QrALCPepv6a7uygIzgtl4lSk5fdFGL=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOoFmfIBnnoGxjxi2mvOtJ9aS51QHESB1M83ZKa=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOmrrlid4BkeVCMBg5MDxzqe7f4avLB5xYCZnc4=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPFwZr1tka-tgmugq5VFi-UDS6qiFfJwHdRG4lS=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNfUBbbNMtAuiQTmziEQe-VKMT3olgTqtZ1riMG=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipM5-lGj3afqcKOZv_wuCzJEdURCmZMiVf_4qYhn=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPtKeECcSMkbkTI1t1O2GlZLZj487deWziJE-be=w1024-h576-k-no"
+  ],
+  "topComments": null,
+  "peakHours": [
+    {
+      "Sunday": [
+        {
+          "hour": "04:00",
+          "percent": 45
+        },
+        {
+          "hour": "05:00",
+          "percent": 54
+        },
+        {
+          "hour": "06:00",
+          "percent": 54
+        },
+        {
+          "hour": "07:00",
+          "percent": 54
+        },
+        {
+          "hour": "08:00",
+          "percent": 54
+        },
+        {
+          "hour": "09:00",
+          "percent": 45
+        },
+        {
+          "hour": "10:00",
+          "percent": 45
+        },
+        {
+          "hour": "11:00",
+          "percent": 36
+        },
+        {
+          "hour": "12:00",
+          "percent": 27
+        },
+        {
+          "hour": "13:00",
+          "percent": 27
+        },
+        {
+          "hour": "14:00",
+          "percent": 18
+        },
+        {
+          "hour": "15:00",
+          "percent": 18
+        },
+        {
+          "hour": "16:00",
+          "percent": 18
+        },
+        {
+          "hour": "17:00",
+          "percent": 27
+        },
+        {
+          "hour": "18:00",
+          "percent": 45
+        },
+        {
+          "hour": "19:00",
+          "percent": 54
+        },
+        {
+          "hour": "20:00",
+          "percent": 72
+        },
+        {
+          "hour": "21:00",
+          "percent": 81
+        },
+        {
+          "hour": "22:00",
+          "percent": 81
+        },
+        {
+          "hour": "23:00",
+          "percent": 72
+        },
+        {
+          "hour": "00:00",
+          "percent": 54
+        },
+        {
+          "hour": "01:00",
+          "percent": 45
+        },
+        {
+          "hour": "02:00",
+          "percent": 45
+        },
+        {
+          "hour": "03:00",
+          "percent": 45
+        }
+      ]
+    },
+    {
+      "Monday": [
+        {
+          "hour": "04:00",
+          "percent": 27
+        },
+        {
+          "hour": "05:00",
+          "percent": 54
+        },
+        {
+          "hour": "06:00",
+          "percent": 72
+        },
+        {
+          "hour": "07:00",
+          "percent": 63
+        },
+        {
+          "hour": "08:00",
+          "percent": 45
+        },
+        {
+          "hour": "09:00",
+          "percent": 27
+        },
+        {
+          "hour": "10:00",
+          "percent": 18
+        },
+        {
+          "hour": "11:00",
+          "percent": 18
+        },
+        {
+          "hour": "12:00",
+          "percent": 90
+        },
+        {
+          "hour": "13:00",
+          "percent": 36
+        },
+        {
+          "hour": "14:00",
+          "percent": 18
+        },
+        {
+          "hour": "15:00",
+          "percent": 18
+        },
+        {
+          "hour": "16:00",
+          "percent": 18
+        },
+        {
+          "hour": "17:00",
+          "percent": 18
+        },
+        {
+          "hour": "18:00",
+          "percent": 18
+        },
+        {
+          "hour": "19:00",
+          "percent": 18
+        },
+        {
+          "hour": "21:00",
+          "percent": 18
+        },
+        {
+          "hour": "22:00",
+          "percent": 18
+        },
+        {
+          "hour": "23:00",
+          "percent": 18
+        },
+        {
+          "hour": "00:00",
+          "percent": 18
+        },
+        {
+          "hour": "01:00",
+          "percent": 18
+        },
+        {
+          "hour": "02:00",
+          "percent": 18
+        },
+        {
+          "hour": "03:00",
+          "percent": 18
+        }
+      ]
+    },
+    {
+      "Tuesday": [
+        {
+          "hour": "04:00",
+          "percent": 36
+        },
+        {
+          "hour": "05:00",
+          "percent": 18
+        },
+        {
+          "hour": "06:00",
+          "percent": 9
+        },
+        {
+          "hour": "07:00",
+          "percent": 9
+        },
+        {
+          "hour": "08:00",
+          "percent": 9
+        },
+        {
+          "hour": "09:00",
+          "percent": 18
+        },
+        {
+          "hour": "10:00",
+          "percent": 18
+        },
+        {
+          "hour": "11:00",
+          "percent": 27
+        },
+        {
+          "hour": "12:00",
+          "percent": 18
+        },
+        {
+          "hour": "13:00",
+          "percent": 9
+        },
+        {
+          "hour": "17:00",
+          "percent": 9
+        },
+        {
+          "hour": "18:00",
+          "percent": 18
+        },
+        {
+          "hour": "19:00",
+          "percent": 36
+        },
+        {
+          "hour": "20:00",
+          "percent": 36
+        },
+        {
+          "hour": "21:00",
+          "percent": 27
+        },
+        {
+          "hour": "22:00",
+          "percent": 27
+        },
+        {
+          "hour": "23:00",
+          "percent": 45
+        },
+        {
+          "hour": "00:00",
+          "percent": 54
+        },
+        {
+          "hour": "01:00",
+          "percent": 63
+        },
+        {
+          "hour": "02:00",
+          "percent": 63
+        },
+        {
+          "hour": "03:00",
+          "percent": 45
+        }
+      ]
+    },
+    {
+      "Wednesday": [
+        {
+          "hour": "04:00",
+          "percent": 54
+        },
+        {
+          "hour": "05:00",
+          "percent": 54
+        },
+        {
+          "hour": "06:00",
+          "percent": 54
+        },
+        {
+          "hour": "07:00",
+          "percent": 45
+        },
+        {
+          "hour": "08:00",
+          "percent": 36
+        },
+        {
+          "hour": "09:00",
+          "percent": 27
+        },
+        {
+          "hour": "10:00",
+          "percent": 18
+        },
+        {
+          "hour": "11:00",
+          "percent": 9
+        },
+        {
+          "hour": "15:00",
+          "percent": 9
+        },
+        {
+          "hour": "17:00",
+          "percent": 18
+        },
+        {
+          "hour": "18:00",
+          "percent": 27
+        },
+        {
+          "hour": "19:00",
+          "percent": 36
+        },
+        {
+          "hour": "20:00",
+          "percent": 36
+        },
+        {
+          "hour": "21:00",
+          "percent": 45
+        },
+        {
+          "hour": "22:00",
+          "percent": 36
+        },
+        {
+          "hour": "23:00",
+          "percent": 36
+        },
+        {
+          "hour": "00:00",
+          "percent": 36
+        },
+        {
+          "hour": "01:00",
+          "percent": 45
+        },
+        {
+          "hour": "02:00",
+          "percent": 54
+        },
+        {
+          "hour": "03:00",
+          "percent": 54
+        }
+      ]
+    },
+    {
+      "Thursday": [
+        {
+          "hour": "04:00",
+          "percent": 54
+        },
+        {
+          "hour": "05:00",
+          "percent": 54
+        },
+        {
+          "hour": "06:00",
+          "percent": 54
+        },
+        {
+          "hour": "07:00",
+          "percent": 45
+        },
+        {
+          "hour": "08:00",
+          "percent": 36
+        },
+        {
+          "hour": "09:00",
+          "percent": 27
+        },
+        {
+          "hour": "10:00",
+          "percent": 18
+        },
+        {
+          "hour": "11:00",
+          "percent": 27
+        },
+        {
+          "hour": "12:00",
+          "percent": 45
+        },
+        {
+          "hour": "13:00",
+          "percent": 18
+        },
+        {
+          "hour": "14:00",
+          "percent": 9
+        },
+        {
+          "hour": "16:00",
+          "percent": 9
+        },
+        {
+          "hour": "17:00",
+          "percent": 18
+        },
+        {
+          "hour": "18:00",
+          "percent": 27
+        },
+        {
+          "hour": "19:00",
+          "percent": 36
+        },
+        {
+          "hour": "20:00",
+          "percent": 36
+        },
+        {
+          "hour": "21:00",
+          "percent": 36
+        },
+        {
+          "hour": "22:00",
+          "percent": 36
+        },
+        {
+          "hour": "23:00",
+          "percent": 36
+        },
+        {
+          "hour": "00:00",
+          "percent": 36
+        },
+        {
+          "hour": "01:00",
+          "percent": 36
+        },
+        {
+          "hour": "02:00",
+          "percent": 45
+        },
+        {
+          "hour": "03:00",
+          "percent": 54
+        }
+      ]
+    },
+    {
+      "Friday": [
+        {
+          "hour": "04:00",
+          "percent": 63
+        },
+        {
+          "hour": "05:00",
+          "percent": 63
+        },
+        {
+          "hour": "06:00",
+          "percent": 54
+        },
+        {
+          "hour": "07:00",
+          "percent": 54
+        },
+        {
+          "hour": "08:00",
+          "percent": 45
+        },
+        {
+          "hour": "09:00",
+          "percent": 45
+        },
+        {
+          "hour": "10:00",
+          "percent": 36
+        },
+        {
+          "hour": "11:00",
+          "percent": 27
+        },
+        {
+          "hour": "12:00",
+          "percent": 18
+        },
+        {
+          "hour": "13:00",
+          "percent": 18
+        },
+        {
+          "hour": "14:00",
+          "percent": 18
+        },
+        {
+          "hour": "15:00",
+          "percent": 54
+        },
+        {
+          "hour": "16:00",
+          "percent": 81
+        },
+        {
+          "hour": "17:00",
+          "percent": 27
+        },
+        {
+          "hour": "18:00",
+          "percent": 36
+        },
+        {
+          "hour": "19:00",
+          "percent": 54
+        },
+        {
+          "hour": "20:00",
+          "percent": 72
+        },
+        {
+          "hour": "21:00",
+          "percent": 81
+        },
+        {
+          "hour": "22:00",
+          "percent": 90
+        },
+        {
+          "hour": "23:00",
+          "percent": 100
+        },
+        {
+          "hour": "00:00",
+          "percent": 90
+        },
+        {
+          "hour": "01:00",
+          "percent": 90
+        },
+        {
+          "hour": "02:00",
+          "percent": 81
+        },
+        {
+          "hour": "03:00",
+          "percent": 72
+        }
+      ]
+    },
+    {
+      "Saturday": [
+        {
+          "hour": "04:00",
+          "percent": 54
+        },
+        {
+          "hour": "05:00",
+          "percent": 63
+        },
+        {
+          "hour": "06:00",
+          "percent": 72
+        },
+        {
+          "hour": "07:00",
+          "percent": 90
+        },
+        {
+          "hour": "08:00",
+          "percent": 90
+        },
+        {
+          "hour": "09:00",
+          "percent": 90
+        },
+        {
+          "hour": "10:00",
+          "percent": 72
+        },
+        {
+          "hour": "11:00",
+          "percent": 54
+        },
+        {
+          "hour": "12:00",
+          "percent": 36
+        },
+        {
+          "hour": "13:00",
+          "percent": 18
+        },
+        {
+          "hour": "14:00",
+          "percent": 18
+        },
+        {
+          "hour": "15:00",
+          "percent": 18
+        },
+        {
+          "hour": "16:00",
+          "percent": 18
+        },
+        {
+          "hour": "17:00",
+          "percent": 27
+        },
+        {
+          "hour": "18:00",
+          "percent": 36
+        },
+        {
+          "hour": "19:00",
+          "percent": 45
+        },
+        {
+          "hour": "20:00",
+          "percent": 45
+        },
+        {
+          "hour": "21:00",
+          "percent": 45
+        },
+        {
+          "hour": "22:00",
+          "percent": 45
+        },
+        {
+          "hour": "23:00",
+          "percent": 45
+        },
+        {
+          "hour": "00:00",
+          "percent": 54
+        },
+        {
+          "hour": "01:00",
+          "percent": 54
+        },
+        {
+          "hour": "02:00",
+          "percent": 54
+        },
+        {
+          "hour": "03:00",
+          "percent": 54
+        }
+      ]
+    }
+  ],
+  "relatedSearches": [
+    "cisterna delle sette sale concorso",
+    "via delle sette sale 30",
+    "via delle sette sale, 29",
+    "sette sale roma",
+    "via delle sette sale sapienza",
+    "via delle terme di traiano",
+    "esedra terme",
+    "terme di traiano pianta",
+    "cisterna delle sette sale concorso",
+    "via delle sette sale 30",
+    "via delle sette sale, 29",
+    "sette sale roma",
+    "via delle sette sale sapienza",
+    "via delle terme di traiano",
+    "esedra terme",
+    "terme di traiano pianta"
+  ],
+  "relateds": [
+    {
+      "mainName": "Termas de Trajano",
+      "url": null
+    },
+    {
+      "mainName": "Monte Ópio",
+      "url": null
+    },
+    {
+      "mainName": "Termas de Tito",
+      "url": null
+    },
+    {
+      "mainName": "Ninfeo di via Degli Annibaldi",
+      "url": null
+    },
+    {
+      "mainName": "Obelisco Esquilino",
+      "url": null
+    },
+    {
+      "mainName": "Ninfeu de Alexandre",
+      "url": null
+    },
+    {
+      "mainName": "Torre delle Milizie",
+      "url": null
+    },
+    {
+      "mainName": "Domus Aurea",
+      "url": null
+    },
+    {
+      "mainName": "Muralha Serviana",
+      "url": null
+    },
+    {
+      "mainName": "Basílica Úlpia",
+      "url": null
+    },
+    {
+      "mainName": "Palazzo Valentini",
+      "url": null
+    },
+    {
+      "mainName": "Monte Vélia",
+      "url": null
+    },
+    {
+      "mainName": "Batistério de Latrão",
+      "url": null
+    },
+    {
+      "mainName": "Caffee House di Palazzo Brancaccio",
+      "url": null
+    },
+    {
+      "mainName": "Monte Esquilino",
+      "url": null
+    },
+    {
+      "mainName": "Fórum de Nerva",
+      "url": null
+    },
+    {
+      "mainName": "Templo da Paz",
+      "url": null
+    },
+    {
+      "mainName": "Fórum de Augusto",
+      "url": null
+    },
+    {
+      "mainName": "Ludus Magnus",
+      "url": null
+    },
+    {
+      "mainName": "Mercado Trajano",
+      "url": null
+    },
+    {
+      "mainName": "Celio",
+      "url": null
+    },
+    {
+      "mainName": "Foro di Cesare - Viaggio nei fori",
+      "url": null
+    },
+    {
+      "mainName": "Coluna Antonina",
+      "url": null
+    },
+    {
+      "mainName": "Termas de Trajano",
+      "url": null
+    },
+    {
+      "mainName": "Monte Ópio",
+      "url": null
+    },
+    {
+      "mainName": "Termas de Tito",
+      "url": null
+    },
+    {
+      "mainName": "Ninfeo di via Degli Annibaldi",
+      "url": null
+    },
+    {
+      "mainName": "Obelisco Esquilino",
+      "url": null
+    },
+    {
+      "mainName": "Ninfeu de Alexandre",
+      "url": null
+    },
+    {
+      "mainName": "Torre delle Milizie",
+      "url": null
+    },
+    {
+      "mainName": "Domus Aurea",
+      "url": null
+    },
+    {
+      "mainName": "Muralha Serviana",
+      "url": null
+    },
+    {
+      "mainName": "Basílica Úlpia",
+      "url": null
+    },
+    {
+      "mainName": "Palazzo Valentini",
+      "url": null
+    },
+    {
+      "mainName": "Monte Vélia",
+      "url": null
+    },
+    {
+      "mainName": "Batistério de Latrão",
+      "url": null
+    },
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

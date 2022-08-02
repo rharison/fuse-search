@@ -1,0 +1,738 @@
+{
+  "mainName": "Praia do Caju",
+  "slug": "praia-do-caju",
+  "category": "Praia",
+  "locationInformation": {
+    "latitude": "-10.2653789",
+    "longitude": "-48.3638506"
+  },
+  "basicInformation": [
+    {
+      "label": "endereço",
+      "tooltip": "Copiar endereço",
+      "text": "Plano Diretor Sul, Palmas - TO",
+      "icon": "https://www.gstatic.com/images/icons/material/system_gm/1x/place_gm_blue_24dp.png"
+    }
+  ],
+  "ratingInformation": {
+    "basicRatingInformation": {
+      "averageGrade": 4.4,
+      "totalOfEvaluations": 3128
+    },
+    "ratingsByGrade": [
+      {
+        "grade": 5,
+        "totalRatings": 1893
+      },
+      {
+        "grade": 4,
+        "totalRatings": 781
+      },
+      {
+        "grade": 3,
+        "totalRatings": 313
+      },
+      {
+        "grade": 2,
+        "totalRatings": 69
+      },
+      {
+        "grade": 1,
+        "totalRatings": 72
+      }
+    ]
+  },
+  "ratingTags": [
+    {
+      "tag": "barracas",
+      "count": 55,
+      "tooltip": "barracas, mencionado em 55 avaliações"
+    },
+    {
+      "tag": "estrutura",
+      "count": 45,
+      "tooltip": "estrutura, mencionado em 45 avaliações"
+    },
+    {
+      "tag": "organizado",
+      "count": 40,
+      "tooltip": "organizado, mencionado em 40 avaliações"
+    },
+    {
+      "tag": "lazer",
+      "count": 29,
+      "tooltip": "lazer, mencionado em 29 avaliações"
+    },
+    {
+      "tag": "quiosques",
+      "count": 26,
+      "tooltip": "quiosques, mencionado em 26 avaliações"
+    },
+    {
+      "tag": "água doce",
+      "count": 13,
+      "tooltip": "água doce, mencionado em 13 avaliações"
+    },
+    {
+      "tag": "capital",
+      "count": 9,
+      "tooltip": "capital, mencionado em 9 avaliações"
+    },
+    {
+      "tag": "asfalto",
+      "count": 9,
+      "tooltip": "asfalto, mencionado em 9 avaliações"
+    },
+    {
+      "tag": "peixe frito",
+      "count": 8,
+      "tooltip": "peixe frito, mencionado em 8 avaliações"
+    },
+    {
+      "tag": "a tarde",
+      "count": 5,
+      "tooltip": "a tarde, mencionado em 5 avaliações"
+    }
+  ],
+  "featuredPhotos": [
+    "https://lh5.googleusercontent.com/p/AF1QipMtPSMdSRl2KFqi9pbE5mk2a6DEz5JRQmFY22dc=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipP9PjpO6V8mke9tkdkLZPdaH6mtUGr-NON9MNyP=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOB4JvWPnQV6oSrtrN4NY5E9J8trXckWeYKN7oZ=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNu0W5y65NdOvwbNL0KsSVluQcMSrsICq2zKvMH=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipO5KbXR7RN_DaiCloOzupT9niJHtiBkSejFXrjd=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPbUAu30rTR-x7c7w1AIcvOkPNrCp3aYXzDQ4a_=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMp1mORGg97gmzmf8SdLgY8WH6gqN39NlJRN3Ij=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNQNMDesBGU9nTcBZ2nMd5ooQrdsv90hpeoztCu=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNek8zuGmlJayjFUYojjalmabx13DEcZXaHwDGg=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipM_8VdBSphv0JFoD8-EvuTojSrK9gnn4PePPc8C=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPwj2NudtVfvqkxooJhALQ52nqth8uoUozz30sU=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOH4uNXiGxZ99NBHYvAT2fGDBFAQ_3RIHNjxWeI=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMgZJI-KbxutUURRix9p4rMcDOwmX5iB7p4BndM=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipN_xTMUlR6IVEN_OE-vxe0mCC8O1OqMMOFOiMny=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMY65PUnnhD0-jxl9Gr3oETr9EWSVQiIRdszpVJ=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNTBeK4Xx1rVVT90dNJWIhKmDZizBMYIh2DzBAN=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipM6sfGnfTGioNeXzSqp_DVSUFD48ocghJm5ib2w=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMV8S3EVaOU9mVRr8iuU8o2fCZniZUqZ4yfMCKb=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOxHE6TA4ARwi_eDTCt7Ntu5AbJsgg1q94NaTYL=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipM8rl-JZ-CHwap73KpXfsblwe_K0A7EE4Av0O8q=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPAHbW5yL4_qcP_j_XtLmDxbNvLRERUuZCQh2j6=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNyc8Hk4Kpip2McWmZXNRkI-yWPA63NEC471jQo=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipP6XZHvcVNLQJcQhp1bJqYXxNKO2-SDdLpJDHxi=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNq09iVQCQ6_ZiDOSTDMMtFUSUKctiP7aHFq0MZ=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipORxdFB4bWyMOngpVEFzWSRFwVtcIhp1eUhBFhI=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipP0D2_wKKzfb8_sipLg71OByBll7i8cueCXW3Rt=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMmwWtqQrbibX-ocKBSKWYth3-9RRRsf8mSVSJm=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPusz7e84GITXHM3BqDUD3UjmAdKfmRxiNkzRb1=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMwKNLIz_zvZFTJW8TeBDhORMv9JNcoOOgmfS0Q=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOBwnjeucNev7Uz3tuJRdMZMCS3jOVdwqaTGgug=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOEJrRAnebFJnR8ANonAsn-Yy8alxwd-aOHJNBz=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMEOyQuHoGITChmYh3pjmFWtMM7aeuGP3TVW-nf=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPz2mfG4ORtHSWTW-Z_Hxo_X7cik17IKkZP4u5v=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOp1IQcgmq321PdL19gu4Anik4i2tEy4M4vAov2=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMC_1qq7x7c2NwVOGqOBIhWPpYtqZeWsExGohzn=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMt1xC1XZIWJC9gNt2-EmmfJ_6k2q-m0Mi0d4UL=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNsGTFfH1OCoj96Uz_gAghkXltic-osVqSItKli=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipO0qFpT-wvXNCgVz_J6q2waWmnTNhnM-nPS8dVr=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipM5x4N7CGURoEzJaIgaUa22pbK686F-ylpGvkst=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNKy-WG3L8NkRWxRgWBUlTXACw4rPehaxBlgNls=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPKiezcskK1O0XwPYAUoBh3fA4gNZZkxQxKsL1X=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMdw50sloogONDPRG6qJWOrcp12MkK1jHNIwd_a=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipP7ezbzGth3SJGbZjIuw88yYNEukzdMs4QVH8z8=w1024-h576-k-no"
+  ],
+  "topComments": [
+    {
+      "author": "Li",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucr47txJIr5o-gOekBapGm9syQMZi6awwVLHvQL2RQ=w36-h36-p-c0x00000000-rp-mo-ba5-br100",
+      "comment": "Das praias de Palmas a do Caju foi a que mais gostei. Embora a extensão para banho não seja muito grande a profundidade para banho é melhor. Tem barracas para todos os tipos e preços. Pode levar caixa de som o que deixa muitas vezes o ambiente com poluição sonora. Amplo estacionamento.",
+      "gradeComment": 4
+    },
+    {
+      "author": "Marina xavier",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZuco5jov2IDuTf3wBbMlb3ZDkRyPEolp94Mc0BwyIbg=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "Praia de água doce que para nós que somos Paulista lembra muito uma repressa. Falta melhorar um pouco a estrutura do local.",
+      "gradeComment": 3
+    },
+    {
+      "author": "Nice Gonçalves",
+      "photoAuthor": "https://lh3.googleusercontent.com/a/AItbvmnkE9Dtk_kynnyu8g3hhmyck2PhNUp--E6kiWxN=w36-h36-p-c0x00000000-rp-mo-br100",
+      "comment": "Não gostei tudo caro e a comida não e boa.",
+      "gradeComment": 4
+    },
+    {
+      "author": "Robson Silva",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucp13Qf29xk9tnBixY8Q5sGD6AEATgZwK_diuOttIA=w36-h36-p-c0x00000000-rp-mo-ba2-br100",
+      "comment": "Um dos melhores lugares para levar a criançada para tomar.banhonde lago em Palmas.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Silvania De Jesus",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucp5CPrsU8coCLYsEdI1ZoP8qMqEjfYFkyi6CKFpKQ=w36-h36-p-c0x00000000-rp-mo-ba3-br100",
+      "comment": "Lugar pra ver pôr do sol e da aquele mergulho.",
+      "gradeComment": 4
+    },
+    {
+      "author": "ELI COSTA",
+      "photoAuthor": "https://lh3.googleusercontent.com/a/AItbvmkcAysqjMtrAaXudbcxHy0reSNZb9e-ZAUo86nl=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "A praia é ótima , bem movimentada e com bastante restaurantes,  porém fiquem esperto com os guardadores de carros , riscam os carros caso vc não os contrate para olharem ,o lugar é de fácil acesso , mais o trajeto é feito por ruas sem pavimentação, o que faz seu carro ficar vermelho de tanta  terra seca",
+      "gradeComment": 5
+    },
+    {
+      "author": "Carlos Cesar Wutzow",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucoCfA2aRExkCTwhBvQUtOCUVEcKj8dBh9e10D9g-d8=w36-h36-p-c0x00000000-rp-mo-ba6-br100",
+      "comment": "Praia de água doce. Acesso difícil para quem vai sem transporte próprio. Uber dá calote. Tive que voltar a pé. Cardápios das barracas muito caro.",
+      "gradeComment": 3
+    },
+    {
+      "author": "Nati Krapper",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucp2gNuKPLE9Vj6z5BoBvMNFNkjJzkIpiP8rgY-b=w36-h36-p-c0x00000000-rp-mo-ba3-br100",
+      "comment": "Várias opções de bares e os valores variam muito entre eles. Atendimento da maioria é demorado e de qualidade mediana. Mesas bem próximas umas das outras. Local muito bonito.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Marielda Santiago",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucpWgf7XL5qwNyuE7f3j8Q6RVM0SgmYvJYhTUneOiMw=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "A barraca em especial ( barraca do capixaba é a melhor... Indicação de prato, tucunaré frito",
+      "gradeComment": 5
+    },
+    {
+      "author": "Ryan Alves",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucqNz-10-eubxDCk4QIZkrZctXIHOiyVSo5VljgE7qc=w36-h36-p-c0x00000000-rp-mo-ba2-br100",
+      "comment": "5 Estrelas, Ótima praia para tomar um belo banho com sua família, namorada(a) etc... Bom ir pra comer um peixinho não acham? Ambiente bastante agradável, Contém: Estacionamento, Barracas ---> (Comida) Tem cerca dentro do banho para não ultrapassar a profundidade, Tem salva-vidas, Local bastante bom.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Marli Isabel Morford",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucp1iqgemPtuQK1N98XmzjUpyl_4MxzzRRCCcwlHvrI=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "Divertida e para toda familia, Praia de Água doce, areia em toda a extensao,  organizada. Local para criancas é ótimo, estacionamento, atendimento dos restaurantes nos quiosques, precos razoáveis. Mas se quiser ir e nao consumir é  possivel sim.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Robson Silva",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucp13Qf29xk9tnBixY8Q5sGD6AEATgZwK_diuOttIA=w36-h36-p-c0x00000000-rp-mo-ba2-br100",
+      "comment": "Um dos melhores lugares para levar a criançada para tomar.banhonde lago em Palmas.",
+      "gradeComment": 5
+    },
+    {
+      "author": "icaro thayllon",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucps4OM8mMNkLPkVAE0aYvUxU31_ZCoJ6GE_Vr7s=w36-h36-p-c0x00000000-rp-mo-br100",
+      "comment": "Muitas barracas e lugar com sombra. As coisas são bem caras. Por exemplo, um tucunaré R$95,00 o kg. 4 pessoas foram mordidas por piranha fora da cerca de proteção e a cerca está bem desgastada, não seria exagero dizer que quem estiver do lado de dentro corre risco.",
+      "gradeComment": 3
+    },
+    {
+      "author": "Klayton Souza",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucrtyVNAZpRpaIPxFyezF-6Le4XZv0kvedswUYvAK4Q=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "A cada dia, vai colocando mais estruturas! Perdendo a magia da praia, com as barracas de palha. É o avanço o futuro! Atendimento excelente",
+      "gradeComment": 3
+    },
+    {
+      "author": "Nice Gonçalves",
+      "photoAuthor": "https://lh3.googleusercontent.com/a/AItbvmnkE9Dtk_kynnyu8g3hhmyck2PhNUp--E6kiWxN=w36-h36-p-c0x00000000-rp-mo-br100",
+      "comment": "Não gostei tudo caro e a comida não e boa.",
+      "gradeComment": 4
+    },
+    {
+      "author": "ツ Đrÿ ઇઉ",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucpYcCpsim3Qu9k_APhJ4HTb-28fWMBzHxzzued5v9M=w36-h36-p-c0x00000000-rp-mo-ba3-br100",
+      "comment": "Lugar agradável,  limpo,  WiFi grátis,  várias barracas para servir bebidas e comidas. Banheiro unisexy. Praia ideal para qualquer momento do dia com a família,  amigos e amor.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Romara Amaro",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucpSXBqpEhgBIjNmWVJJMsObDHKCCadlJ8UR_UfS6WE=w36-h36-p-c0x00000000-rp-mo-ba3-br100",
+      "comment": "Praia com infra estrutura boa. Restaurantes com cardápio variado. Ótimo lugar para levar as crianças. Apesar da prefeitura disponilizar muitas lixeiras em vários pontos da orla, infelizmente os frequentadores poluem a praia com lixo. E bastante lixo.",
+      "gradeComment": 4
+    },
+    {
+      "author": "Silvania De Jesus",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucp5CPrsU8coCLYsEdI1ZoP8qMqEjfYFkyi6CKFpKQ=w36-h36-p-c0x00000000-rp-mo-ba3-br100",
+      "comment": "Lugar pra ver pôr do sol e da aquele mergulho.",
+      "gradeComment": 4
+    },
+    {
+      "author": "Marinalva Flor Amoreco",
+      "photoAuthor": "https://lh3.googleusercontent.com/a/AItbvmmdeZk2SlKiqvkm_J2lNdGZOw7Sq1-dvLYO9ngG=w36-h36-p-c0x00000000-rp-mo-ba3-br100",
+      "comment": "Boa comida, lugar lindo,porém uma coisa horrível acontece devido aos frequentadores... cada um trás seu som e ouve no último volume. Só o Rio Tocantins para salvar e abafar os sons.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Eliana Camargo",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucpbcPuoCgQMzrogoRPs5lzmXyGdTjTV84uFUD4aeg=w36-h36-p-c0x00000000-rp-mo-ba3-br100",
+      "comment": "Amei a praia do cajú realmente me surpreendeu a água é carinha, eu fui no Meio da semana e tá a super agradável para nadar🤗😘",
+      "gradeComment": 5
+    }
+  ],
+  "peakHours": [
+    {
+      "Sunday": [
+        {
+          "hour": "07:00",
+          "percent": 1
+        },
+        {
+          "hour": "08:00",
+          "percent": 3
+        },
+        {
+          "hour": "09:00",
+          "percent": 9
+        },
+        {
+          "hour": "10:00",
+          "percent": 19
+        },
+        {
+          "hour": "11:00",
+          "percent": 35
+        },
+        {
+          "hour": "12:00",
+          "percent": 52
+        },
+        {
+          "hour": "13:00",
+          "percent": 69
+        },
+        {
+          "hour": "14:00",
+          "percent": 85
+        },
+        {
+          "hour": "15:00",
+          "percent": 98
+        },
+        {
+          "hour": "16:00",
+          "percent": 100
+        },
+        {
+          "hour": "17:00",
+          "percent": 81
+        },
+        {
+          "hour": "18:00",
+          "percent": 51
+        },
+        {
+          "hour": "19:00",
+          "percent": 24
+        },
+        {
+          "hour": "20:00",
+          "percent": 9
+        },
+        {
+          "hour": "21:00",
+          "percent": 3
+        },
+        {
+          "hour": "22:00",
+          "percent": 1
+        }
+      ]
+    },
+    {
+      "Monday": [
+        {
+          "hour": "08:00",
+          "percent": 1
+        },
+        {
+          "hour": "09:00",
+          "percent": 2
+        },
+        {
+          "hour": "10:00",
+          "percent": 5
+        },
+        {
+          "hour": "11:00",
+          "percent": 8
+        },
+        {
+          "hour": "12:00",
+          "percent": 12
+        },
+        {
+          "hour": "13:00",
+          "percent": 16
+        },
+        {
+          "hour": "14:00",
+          "percent": 23
+        },
+        {
+          "hour": "15:00",
+          "percent": 31
+        },
+        {
+          "hour": "16:00",
+          "percent": 33
+        },
+        {
+          "hour": "17:00",
+          "percent": 27
+        },
+        {
+          "hour": "18:00",
+          "percent": 17
+        },
+        {
+          "hour": "19:00",
+          "percent": 8
+        },
+        {
+          "hour": "20:00",
+          "percent": 2
+        }
+      ]
+    },
+    {
+      "Tuesday": [
+        {
+          "hour": "09:00",
+          "percent": 1
+        },
+        {
+          "hour": "10:00",
+          "percent": 2
+        },
+        {
+          "hour": "11:00",
+          "percent": 4
+        },
+        {
+          "hour": "12:00",
+          "percent": 6
+        },
+        {
+          "hour": "13:00",
+          "percent": 8
+        },
+        {
+          "hour": "14:00",
+          "percent": 12
+        },
+        {
+          "hour": "15:00",
+          "percent": 17
+        },
+        {
+          "hour": "16:00",
+          "percent": 19
+        },
+        {
+          "hour": "17:00",
+          "percent": 15
+        },
+        {
+          "hour": "18:00",
+          "percent": 9
+        },
+        {
+          "hour": "19:00",
+          "percent": 3
+        }
+      ]
+    },
+    {
+      "Wednesday": [
+        {
+          "hour": "10:00",
+          "percent": 2
+        },
+        {
+          "hour": "11:00",
+          "percent": 3
+        },
+        {
+          "hour": "12:00",
+          "percent": 5
+        },
+        {
+          "hour": "13:00",
+          "percent": 6
+        },
+        {
+          "hour": "14:00",
+          "percent": 8
+        },
+        {
+          "hour": "15:00",
+          "percent": 12
+        },
+        {
+          "hour": "16:00",
+          "percent": 14
+        },
+        {
+          "hour": "17:00",
+          "percent": 13
+        },
+        {
+          "hour": "18:00",
+          "percent": 8
+        },
+        {
+          "hour": "19:00",
+          "percent": 3
+        }
+      ]
+    },
+    {
+      "Thursday": [
+        {
+          "hour": "10:00",
+          "percent": 2
+        },
+        {
+          "hour": "11:00",
+          "percent": 3
+        },
+        {
+          "hour": "12:00",
+          "percent": 6
+        },
+        {
+          "hour": "13:00",
+          "percent": 8
+        },
+        {
+          "hour": "14:00",
+          "percent": 12
+        },
+        {
+          "hour": "15:00",
+          "percent": 16
+        },
+        {
+          "hour": "16:00",
+          "percent": 19
+        },
+        {
+          "hour": "17:00",
+          "percent": 16
+        },
+        {
+          "hour": "18:00",
+          "percent": 9
+        },
+        {
+          "hour": "19:00",
+          "percent": 3
+        }
+      ]
+    },
+    {
+      "Friday": [
+        {
+          "hour": "10:00",
+          "percent": 2
+        },
+        {
+          "hour": "11:00",
+          "percent": 3
+        },
+        {
+          "hour": "12:00",
+          "percent": 6
+        },
+        {
+          "hour": "13:00",
+          "percent": 9
+        },
+        {
+          "hour": "14:00",
+          "percent": 12
+        },
+        {
+          "hour": "15:00",
+          "percent": 15
+        },
+        {
+          "hour": "16:00",
+          "percent": 18
+        },
+        {
+          "hour": "17:00",
+          "percent": 17
+        },
+        {
+          "hour": "18:00",
+          "percent": 11
+        },
+        {
+          "hour": "19:00",
+          "percent": 5
+        },
+        {
+          "hour": "20:00",
+          "percent": 1
+        }
+      ]
+    },
+    {
+      "Saturday": [
+        {
+          "hour": "07:00",
+          "percent": 1
+        },
+        {
+          "hour": "08:00",
+          "percent": 3
+        },
+        {
+          "hour": "09:00",
+          "percent": 6
+        },
+        {
+          "hour": "10:00",
+          "percent": 10
+        },
+        {
+          "hour": "11:00",
+          "percent": 13
+        },
+        {
+          "hour": "12:00",
+          "percent": 17
+        },
+        {
+          "hour": "13:00",
+          "percent": 25
+        },
+        {
+          "hour": "14:00",
+          "percent": 36
+        },
+        {
+          "hour": "15:00",
+          "percent": 46
+        },
+        {
+          "hour": "16:00",
+          "percent": 49
+        },
+        {
+          "hour": "17:00",
+          "percent": 43
+        },
+        {
+          "hour": "18:00",
+          "percent": 30
+        },
+        {
+          "hour": "19:00",
+          "percent": 16
+        },
+        {
+          "hour": "20:00",
+          "percent": 7
+        },
+        {
+          "hour": "21:00",
+          "percent": 3
+        },
+        {
+          "hour": "22:00",
+          "percent": 1
+        },
+        {
+          "hour": "23:00",
+          "percent": 2
+        },
+        {
+          "hour": "00:00",
+          "percent": 2
+        },
+        {
+          "hour": "01:00",
+          "percent": 2
+        },
+        {
+          "hour": "02:00",
+          "percent": 1
+        }
+      ]
+    }
+  ],
+  "relatedSearches": [
+    "praia do caju localização",
+    "praia do caju 44",
+    "praia do caju restaurante",
+    "praia do caju poema",
+    "cep da praia do caju",
+    "fotos da praia do caju palmas, tocantins",
+    "praia do caju palmas endereço",
+    "cep praia do caju palmas"
+  ],
+  "relateds": [
+    {
+      "mainName": "Praia do Prata",
+      "url": null
+    },
+    {
+      "mainName": "Praia das Arnos",
+      "url": null
+    },
+    {
+      "mainName": "Praia Graciosa",
+      "url": null
+    },
+    {
+      "mainName": "Ilha Canela Beach",
+      "url": null
+    },
+    {
+      "mainName": "Cachoeira do Evilson",
+      "url": null
+    },
+    {
+      "mainName": "Cachoeira da Roncadeira",
+      "url": null
+    },
+    {
+      "mainName": "Palácio Araguaia",
+      "url": null
+    },
+    {
+      "mainName": "Parque Cesamar",
+      "url": null
+    },
+    {
+      "mainName": "Parque dos Povos Indígenas",
+      "url": null
+    },
+    {
+      "mainName": "Memorial Coluna Prestes",
+      "url": null
+    },
+    {
+      "mainName": "Praça dos Girassóis",
+      "url": null
+    },
+    {
+      "mainName": "Centro Geodésico do Brasil",
+      "url": null
+    },
+    {
+      "mainName": "Usina Hidrelétrica Luis Eduardo Magalhães (UHE Lajeado)",
+      "url": null
+    },
+    {
+      "mainName": "Espaço Cultural",
+      "url": null
+    },
+    {
+      "mainName": "Feira do Bosque",
+      "url": null
+    },
+    {
+      "mainName": "Parque Estadual do Lajeado",
+      "url": null
+    },
+    {
+      "mainName": "Parque Estadual do Jalapão",
+      "url": null
+    }
+  ]
+}

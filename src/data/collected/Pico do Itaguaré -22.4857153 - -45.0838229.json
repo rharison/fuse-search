@@ -1,0 +1,860 @@
+{
+  "mainName": "Pico do Itaguaré",
+  "slug": "pico-do-itaguare",
+  "category": "Trilha de Caminhada",
+  "locationInformation": {
+    "latitude": "-22.4857153",
+    "longitude": "-45.0838229"
+  },
+  "basicInformation": [
+    {
+      "label": "endereço",
+      "tooltip": "Copiar endereço",
+      "text": "Sertão dos Martins P4, Passa Quatro - MG, 37460-000",
+      "icon": "https://www.gstatic.com/images/icons/material/system_gm/1x/place_gm_blue_24dp.png"
+    },
+    {
+      "label": "telefone",
+      "tooltip": "Copiar número de telefone",
+      "text": "(35) 99922-6074",
+      "icon": "https://www.gstatic.com/images/icons/material/system_gm/1x/phone_gm_blue_24dp.png"
+    },
+    {
+      "label": "Code",
+      "tooltip": "Copiar Plus Code",
+      "text": "GW78+PF Passa Quatro, Minas Gerais",
+      "icon": "https://maps.gstatic.com/mapfiles/maps_lite/images/2x/ic_plus_code.png"
+    }
+  ],
+  "ratingInformation": {
+    "basicRatingInformation": {
+      "averageGrade": 4.9,
+      "totalOfEvaluations": 205
+    },
+    "ratingsByGrade": [
+      {
+        "grade": 5,
+        "totalRatings": 195
+      },
+      {
+        "grade": 4,
+        "totalRatings": 7
+      },
+      {
+        "grade": 3,
+        "totalRatings": 1
+      },
+      {
+        "grade": 2,
+        "totalRatings": 0
+      },
+      {
+        "grade": 1,
+        "totalRatings": 2
+      }
+    ]
+  },
+  "ratingTags": [
+    {
+      "tag": "cume",
+      "count": 15,
+      "tooltip": "cume, mencionado em 15 avaliações"
+    },
+    {
+      "tag": "experiência",
+      "count": 6,
+      "tooltip": "experiência, mencionado em 6 avaliações"
+    },
+    {
+      "tag": "carro",
+      "count": 5,
+      "tooltip": "carro, mencionado em 5 avaliações"
+    },
+    {
+      "tag": "nascer do sol",
+      "count": 4,
+      "tooltip": "nascer do sol, mencionado em 4 avaliações"
+    },
+    {
+      "tag": "trechos",
+      "count": 3,
+      "tooltip": "trechos, mencionado em 3 avaliações"
+    },
+    {
+      "tag": "técnica",
+      "count": 3,
+      "tooltip": "técnica, mencionado em 3 avaliações"
+    },
+    {
+      "tag": "livro",
+      "count": 3,
+      "tooltip": "livro, mencionado em 3 avaliações"
+    },
+    {
+      "tag": "vale",
+      "count": 3,
+      "tooltip": "vale, mencionado em 3 avaliações"
+    },
+    {
+      "tag": "pedra",
+      "count": 3,
+      "tooltip": "pedra, mencionado em 3 avaliações"
+    },
+    {
+      "tag": "escalada",
+      "count": 3,
+      "tooltip": "escalada, mencionado em 3 avaliações"
+    }
+  ],
+  "featuredPhotos": [
+    "https://lh5.googleusercontent.com/p/AF1QipNNZDItlxIRup3L55DcXsSNgZE9ZTZqsPdJkbZ1=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPnqX_ZjYwnuZr8k-B3KANDQyq-brp-6CNuoBVn=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPXIetiqVkteRxRwvKu_MXwdyqrSVqujGIOvc9D=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNxLcdbWRnxldSkVa-Yze2pMVmmvFQaMral3ClL=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPpAzsF2Ayibs3z8nbHHVWBhfaxysMTPY-yRpSD=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPrYXQNMNyImavaBB1_-yd2wSm6YmYUNDG64gtJ=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNtD2vTXvSxoZ3BjJeTybX6zK0jNi3WfbTAJZUM=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPgPQri6ZEvadnkcW_snUOYgGjhWvMGWA2wULru=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMWXcCSsKVPqd38eVRz_A-6zYssvfy0-O2nTCtm=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMd4hbr7vhXH8pTZAW1x-oYRcsHxvS-I6nR7f4l=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPqiXE2BvyWddqRfuXMJ2FsbITs-BFHINtWW-wo=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNCixOroNh7JZjjvRD0_5gBBZyFEoXBOOooRuzO=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipM2grhdj_MxC2pHQXQQIFg4ylvSXNacrvSArPsr=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPhmnZHWS6vE-qn4kwx7YOP8jPihc9gJW7Iq1g3=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPRzOARjvxTqc8rxq4NxRbjrd5Ial2OeR-BAO-E=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPWyWHWpGxpiuCpOBjdRmqMXGlSE58Q1EQF0s_l=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPdXbP59KbfIYIMLYafX9sgCRvv-79e3R9l-X_n=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMkxJMopqVm-x7-BZtVCfB9blwjzGsBMIPRkpb5=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPtjDqzXkGeazILiqYLJIFUUoIKapfj-b4qgj8H=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOnmJJR_2ZJuxv6G38JEkueQMTxuZNe8RoC20O6=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMJ4-QT6gfIdn8NCt3lvjNRX3NhEQ5KeEaBSdL8=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPM5JK7XoNOLltxmWipZ_3G2JYk4IycmCUxH4pr=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPTm8GwS-XGMXnTPGxSzTAezLMyhT_g_86NpLGd=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipM0auC93zvsnq2xLVw8h1h0Cd_UtG-QH7B8CFTx=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipO8Cwume7D4hnqWLF_VbZi79CtcjBG1QZIExH59=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPQ3LNByWFX8PhwlJJNLeQj9EXukrmKkFrpINws=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOZ_ZLdM-RrnGF-UzoUTNwLxMIegNgkJFceAuFr=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMPHfOZNK4RY3AI_iy3HIAEvV51-_EhHEIGW_RB=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipONWA7kpfynOiBy5PNNNnSEm2DvHgzJLZjTCPDz=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOOahGGUsqcopQZ-lI9cDIRikjd9anBtYGERSDI=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMpO86jRONz3q2v-2NkSA77AaU2vNKBl5FULfQ_=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNi4WpRfTO-8SWrRAEPaRePPpSEezMm1k4DDaiy=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPQco4hfrVeyM6i8r7molOjkH7z9W8GoYcaxTUL=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipObx3lmaDEyKeUgBgYNaay1MGISuUPDVI_aLNKp=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPa6c5sjN3fwMc9OjlqVGKuDrg8u1z_zakeNREm=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipP2qI-HWDsr_0fGcagfnHsIRGQIFIvW6Mt38pjo=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOZLG9g3rht-KgKTWcQJBo511a6KXxhUyX42VJZ=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipN4dCdDUTuCXiGe63ZETUcvA3mbEcjKCobyDhP3=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPuq1qgcMOyFa2H1iR-b2fu9G1dcBoDe-S0kj4=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPHO-hQ9ss9HS44KfhO4UAJRbYyJ1uGbroZzX39=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipO5TiZhcLPBCI4AZtTSZEvr8pu8uSczeytw9_f7=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipODXUDEnwX3cpeV-u27gCnh639ERzWSJtNlLczl=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipORNmdmpyfO_FBUY7qdAI6jGgb-fosFxfkEPfx4=w1024-h576-k-no"
+  ],
+  "topComments": [
+    {
+      "author": "Matheus Montenegro",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucqlZhE851aUmMT0Svljvs6g5cyPGMm7RZAPXMHs4LY=w36-h36-p-c0x00000000-rp-mo-ba6-br100",
+      "comment": "O pico do Itaguaré é uma montanha situada na divisa dos estados de Minas Gerais e São Paulo, na serra da Mantiqueira. Seu cume está a 2.308 metros acima do nível do mar.  A montanha encontra-se na divisa dos municípios de Passa Quatro e Cruzeiro, mas a zona urbana mais próxima é a da pequena cidade mineira de Marmelópolis. A subida mais fácil pode ser feita através de uma trilha que parte da zona rural do município de Cruzeiro.  O nome Itaguaré pode significar \"pedra sagrada\" ou mesmo \"pedra rachada\" em tupi. Suas encostas são íngremes e conforme a altitude aumenta, ficam cada vez mais escarpadas.  Da cidade de Cruzeiro, avista-se o pico em todo seu contorno, tendo este a aparência de um \"gigante deitado\" ou de \"nariz de gigante\". É apelidado \"Gigante Adormecido\". Embora a zona urbana de Cruzeiro diste apenas cerca de 16 km em linha reta do pico, a região do pico do Itaguaré é praticamente deserta e desconhecida. A montanha é inóspita, com ventos extremamente fortes e noites de inverno em que se registram temperaturas negativas.  Alguns pontos de sua subida podem ser utilizados para a prática do voo livre, porém sem nenhuma estrutura adequada. Também fica no pico do Itaguaré a chamada \"Toca das Andorinhas\", uma pequena caverna que refugia milhares dessas aves, ali muito dóceis. Seu acesso é difícil, conhecido apenas pelos raros nativos da região ao redor do pico.  Uma \"escalaminhada\" de cerca de 3 dias que vem despontando recentemente é a travessia Marins-Itaguaré. Exige bom preparo físico. Há relatos de alguns montanhistas que realizaram o percurso em apenas um dia, mas isso é recomendado apenas para os muito experientes, devido às condições difíceis da trilha, cheias de montanhas, áreas alagadas, vegetação muito alta e escassez de água potável.",
+      "gradeComment": 4
+    },
+    {
+      "author": "Accel Gustavo",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucqTpY175fL61Ht3as3fTXw4KrbjhvGioTkGgMev0g=w36-h36-p-c0x00000000-rp-mo-ba6-br100",
+      "comment": "Gostei bastante da experiência de subir esse pico, me deu sim um receio, alguns trechos são bem expostos mas achei tranquilo, muito triste alguém que chegue até lá e não vá até o livro por medo de passar por algum ponto. Infelizmente a travessia que fiz foi marcada foi coisas nojentas demais, coisa que nunca vi em nenhum outro lugar, como: lixos, papeis higiênicos, lenços umedecidos e fezes!!. Muito triste ver que isso é algo comum na travessia.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Renata Cristina Anastácio",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucof8EarNex_TppLcUiu1OAGYAx5i8PVVl7sD8C85Ns=w36-h36-p-c0x00000000-rp-mo-ba5-br100",
+      "comment": "Ahhh, que carinho por este lugar. Lindo  perfeito, maravilhoso. Só faça essa trilha se tiver experiência. Trilha íngreme, com trechos de escalaminhada, subida constante. Pegamos vento forte, um tempo inicialmente com neblina, mas depois abriu. Vento na serra da mantiqueira é comum. Vá agasalhado, com corta vento. Recomendo uso de bastão, luva.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Luan Lamnor",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucpePaEjOZcioKELI3k1tu2ujtjRqRudVxXJUTG7jg=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "Pico excelente pra passar o fim de semana ou então fazer a travessia. Um pouco técnico e exposto para pessoas iniciantes ou que não levam muito jeito para a prática, mas bem tranquilo para já iniciados.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Fernando Dani",
+      "photoAuthor": "https://lh3.googleusercontent.com/a/AItbvmk7mxBp2aWd__XU7-9wBL0Zfjt7zfsBsQbdJZNA=w36-h36-p-c0x00000000-rp-mo-br100",
+      "comment": "Pico do Itaguaré, outro cume de montanha localizada no complexo da Serra da Mantiqueira.  Uma trilha Longa ! Vamos lá se é inexperiente, primeira trilha de montanha, ou está indo sozinho pela primeira vez, CUIDADO. O Pico dos Itaguaré é uma lugar maravilhoso, trilha difícil, você passa entre rochas, subidas em pedras, desfiladeiros. Vá de preferência no Inverno, pois o céu fica um tom azulado lindo.  Choveu? Não vá !!! Durante a trilha à pontos de quase uma escalada de montanha.  Tem estacionamento no começo da trilha.  Uma trilha de linda, onde você passa por trecho de floresta, rochas, riachos(bom na volta para se molhar e se refrescar) e pequenas escaladas de rocha. Uma caminhada de 4 a 6 horas. Dificuldade Difícil. Visual do cume lindo. À áreas de camping, venta Bastante lá !  Porém vale muito o esforço, contato com a natureza é incrível.  Fui com uma equipe de guias da @soltasolatrips",
+      "gradeComment": 5
+    },
+    {
+      "author": "Marcos",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucrYywhg59wN0nkm4hBeynKPAS0wjbczvL-dv_io2g=w36-h36-p-c0x00000000-rp-mo-ba3-br100",
+      "comment": "Realizando a travessia Marins x Itaguaré pude passar por esse pico incrível, experiência única. Uma das travessias mais prazerosas de se fazer.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Moto e Braço",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucpgl4bipHG5QICkI-cCJxXVRx8KS-MI4dVhWcdoBA=w36-h36-p-c0x00000000-rp-mo-ba5-br100",
+      "comment": "Fantástico, uma trilha deslumbrante que exige preparo e técnica mas que lhe proporciona momentos intensos de trocas com a natureza!",
+      "gradeComment": 5
+    },
+    {
+      "author": "Alda Fátima de Souza",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucplzV5qVnPvnvMhVdxMZ5v2L0DLaSPbH0j3eqm9KQ=w36-h36-p-c0x00000000-rp-mo-ba3-br100",
+      "comment": "Chegar ao topo do pico do Itaguaré é uma experiência fantástica. Tem que ter disposição para caminhada e subida, ao final do trecho tem um paredão para uma pequena escalada, por isso não é bom levar muito peso.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Lafaiete Fiorotto",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucqLBQEVla5BCYV_7aFEibHd0MaoT4jqY2jb0v7B=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "Um dos lugares mais legais que já fui, trilha nível médio, até sair da mata cansa bastante, depois a parte de pedra fica mais tranquila , vista sensacional.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Paulo Schurhaus",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucqL2vW0_gKW2wIkw2npPV35ZrbSX3TUeYXYJQslNco=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "Travessia Marins a Itaguaré foi uma experiência incrível, na minha opinião foi mais difícil que a Serra Fina, muita pedra e escalaminhada.  Pico Itaguaré com vista panorâmica linda 😍🌄🌠⛰🇧🇷",
+      "gradeComment": 5
+    },
+    {
+      "author": "César Eller",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucofuSVFy2WuDrPhvZGVN_A2NOPuoKKzgfHtiTHupA=w36-h36-p-c0x00000000-rp-mo-br100",
+      "comment": "Excelente trilha de nível moderado, visual fantástico e bom lugar para acampar, essa época é ótima para fazer a prática de montanha! Aconselho!",
+      "gradeComment": 5
+    },
+    {
+      "author": "Marcos Vieira",
+      "photoAuthor": "https://lh3.googleusercontent.com/a/AItbvmksdtnCrDCGRVDqbdHSKnS90PRmpKJMa-3C3Fyv=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "Trilha top Demais, visual no pico incrível, uma trilha difícil mais com guia uma das melhores para quem quer começar a trilhar. Sempre com cautela e muito cuidado. O frio a noite pode se tornar seu maior inimigo.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Odair Theodoro",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucp_ftMFCaMFGkTQsrdqMZSUdvJaV6CvpLSCdRYgMbs=w36-h36-p-c0x00000000-rp-mo-br100",
+      "comment": "É  segunda vez  que subo é  surreal  a sensação  é  uma energia  muito  boa",
+      "gradeComment": 5
+    },
+    {
+      "author": "Paulo Reis",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucqWXNQakAYT8_GtO4YBJpS70f2n0k6C1NnS7_LuWOI=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "Lugar de beleza inenarrável!!! Com 2.308m de altitude, o pico do Itaguaré fica na divisa de Minas e São Paulo, próximo a Marmelópolis e ao lado do Pico dos Marins. Com uma trilha de aproximadamente 03h que começa em meio a mata e termina subindo entre as pedras que leva ao cume, o pico do Itaguaré oferece uma visão incrível do vale do Paraíba. Também existe uma trilha (feita em dois dias) para uma travessia onde passa pelo Marins e depois Itaguaré. Essencial um guia para evitar problemas pelo caminho. Super recomendado para quem gosta desse tipo de passeio!!!",
+      "gradeComment": 5
+    },
+    {
+      "author": "Alexandre Shyzuo Serrano",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucpTmM67-Kn5uLEkXRXykt9P4DOvSWbkxgGkluwTvnk=w36-h36-p-c0x00000000-rp-mo-ba5-br100",
+      "comment": "Fantástico!!! Uma longa travessia, com formações rochosas lindas. Quem gosta de montanhas super recomendo.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Guto Mafra",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucp9ZCggDBMEUsi4PiFQPNYXdOegysRMCdg2I6sb2Q=w36-h36-p-c0x00000000-rp-mo-br100",
+      "comment": "Estive la alguns atras, um visual lindo, otimos locais para acampar. Sobre o estacionamento, recomendo deixar num sitio que fica 2km antes do inicio da trilha (perguntar ao pessoal) pois ja aconteceram roubos nos carros parados no estacionameto no inicio da trilha. Paguei 20 reais na época. Abs!",
+      "gradeComment": 5
+    },
+    {
+      "author": "Thiiagoo Alvees",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucrjrnIG_-1akmoMmrs0hX23WBG9sU869PkjhPTv13g=w36-h36-p-c0x00000000-rp-mo-ba6-br100",
+      "comment": "(Está sem o livro, tem caneta) Fiz essa trilha dia 27/3, saindo da Dutra pegamos uma estrada de terra de aprox 18km, esse trecho demora pois exige cuidado para não danificar o carro com as pedras do chão, carro baixo chega porém com bastante cuidado, algumas subidas e descidas que se chove piora, de costume das estradas de terra. Lá tem apenas um descampado onde deixamos o carro, de lá já inicia a trilha, passamos por 3 pontos de água, se for com cuidado pelas pedras nem molha o calçado, são praticamente os únicos pontos de água, grande parte do trecho a trilha é coberta, a ascensão do começo é de cansar as pernas, perto do cume o terreno muda, a vegetação diminui e as pedras aumentam, nas pedras é preciso atenção pra acompanhar as setas q estão quase desapercebidas, tem alguns totens de pedra. Pra alcançar o cume foi tranquila a navegação, pra achar o livro do cume tive 2 dificuldades, o medo de pular as pedras e a dificuldade de achar, se não fosse a ajuda de um rapaz q estava lá não iríamos achar o livro, subimos em 4h e descemos em 3h, isso parando bastante pra tirar foto e pra curtir o cume. Super indico! Quem gosta de aventura vá até o livro.",
+      "gradeComment": 5
+    },
+    {
+      "author": "diiego tavares",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucr_eFKsnsnYYGx27u8lKeQ7nPV1itEr8_cNtC3j=w36-h36-p-c0x00000000-rp-mo-ba3-br100",
+      "comment": "Lugar muito lindo Trilha muito cansativa rs Mais quero ir de novo",
+      "gradeComment": 5
+    },
+    {
+      "author": "Victor Pietro Moreno",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucrQTi6zfMqRZif1kxX8nAxQm2XG2xmiKgvIRRowr7M=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "Tem uma gruta do lado direito (subindo) que é legal contornar e subir na pedra, tem uma vista linda.  Dificuldade média. Pode ser um pouco difícil de se localizar caso não tenha experiência, principalmente perto do pico. Encontramos uma cobra - o mato é um pouco alto.  Várias regiões pra acampar perto da base.  Vista maravilhosa! Dá pra ver a Serra Fina e todo o percurso da travessia Marins x Itaguaré.  Estacionamento isolado. Estrada relativamente ruim pra chegar até lá.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Van Campos",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucqodjbyzuMQH29QVSJH3LeiI2wDCAqUL6jawatBCx4=w36-h36-p-c0x00000000-rp-mo-ba3-br100",
+      "comment": "Sensacional, colocaram uma corda para ajudar na passagem",
+      "gradeComment": 5
+    }
+  ],
+  "peakHours": [
+    {
+      "Sunday": [
+        {
+          "hour": "04:00",
+          "percent": 41
+        },
+        {
+          "hour": "05:00",
+          "percent": 85
+        },
+        {
+          "hour": "06:00",
+          "percent": 89
+        },
+        {
+          "hour": "07:00",
+          "percent": 83
+        },
+        {
+          "hour": "08:00",
+          "percent": 93
+        },
+        {
+          "hour": "09:00",
+          "percent": 100
+        },
+        {
+          "hour": "10:00",
+          "percent": 93
+        },
+        {
+          "hour": "11:00",
+          "percent": 78
+        },
+        {
+          "hour": "12:00",
+          "percent": 62
+        },
+        {
+          "hour": "13:00",
+          "percent": 48
+        },
+        {
+          "hour": "14:00",
+          "percent": 37
+        },
+        {
+          "hour": "15:00",
+          "percent": 29
+        },
+        {
+          "hour": "16:00",
+          "percent": 23
+        },
+        {
+          "hour": "17:00",
+          "percent": 17
+        },
+        {
+          "hour": "18:00",
+          "percent": 11
+        },
+        {
+          "hour": "19:00",
+          "percent": 7
+        },
+        {
+          "hour": "20:00",
+          "percent": 4
+        },
+        {
+          "hour": "21:00",
+          "percent": 3
+        },
+        {
+          "hour": "22:00",
+          "percent": 1
+        },
+        {
+          "hour": "01:00",
+          "percent": 1
+        },
+        {
+          "hour": "02:00",
+          "percent": 3
+        },
+        {
+          "hour": "03:00",
+          "percent": 11
+        }
+      ]
+    },
+    {
+      "Monday": []
+    },
+    {
+      "Tuesday": []
+    },
+    {
+      "Wednesday": [
+        {
+          "hour": "08:00",
+          "percent": 2
+        },
+        {
+          "hour": "09:00",
+          "percent": 5
+        },
+        {
+          "hour": "10:00",
+          "percent": 11
+        },
+        {
+          "hour": "11:00",
+          "percent": 15
+        },
+        {
+          "hour": "12:00",
+          "percent": 14
+        },
+        {
+          "hour": "13:00",
+          "percent": 10
+        },
+        {
+          "hour": "14:00",
+          "percent": 5
+        },
+        {
+          "hour": "15:00",
+          "percent": 2
+        },
+        {
+          "hour": "16:00",
+          "percent": 1
+        },
+        {
+          "hour": "17:00",
+          "percent": 1
+        },
+        {
+          "hour": "18:00",
+          "percent": 1
+        },
+        {
+          "hour": "19:00",
+          "percent": 1
+        },
+        {
+          "hour": "20:00",
+          "percent": 1
+        },
+        {
+          "hour": "21:00",
+          "percent": 1
+        },
+        {
+          "hour": "22:00",
+          "percent": 1
+        },
+        {
+          "hour": "23:00",
+          "percent": 1
+        },
+        {
+          "hour": "00:00",
+          "percent": 1
+        },
+        {
+          "hour": "01:00",
+          "percent": 1
+        }
+      ]
+    },
+    {
+      "Thursday": [
+        {
+          "hour": "04:00",
+          "percent": 3
+        },
+        {
+          "hour": "05:00",
+          "percent": 3
+        },
+        {
+          "hour": "06:00",
+          "percent": 4
+        },
+        {
+          "hour": "07:00",
+          "percent": 4
+        },
+        {
+          "hour": "08:00",
+          "percent": 5
+        },
+        {
+          "hour": "09:00",
+          "percent": 5
+        },
+        {
+          "hour": "10:00",
+          "percent": 5
+        },
+        {
+          "hour": "11:00",
+          "percent": 5
+        },
+        {
+          "hour": "12:00",
+          "percent": 5
+        },
+        {
+          "hour": "13:00",
+          "percent": 4
+        },
+        {
+          "hour": "14:00",
+          "percent": 4
+        },
+        {
+          "hour": "15:00",
+          "percent": 4
+        },
+        {
+          "hour": "16:00",
+          "percent": 3
+        },
+        {
+          "hour": "17:00",
+          "percent": 3
+        },
+        {
+          "hour": "18:00",
+          "percent": 3
+        },
+        {
+          "hour": "19:00",
+          "percent": 3
+        },
+        {
+          "hour": "20:00",
+          "percent": 3
+        },
+        {
+          "hour": "21:00",
+          "percent": 3
+        },
+        {
+          "hour": "22:00",
+          "percent": 3
+        },
+        {
+          "hour": "23:00",
+          "percent": 3
+        },
+        {
+          "hour": "00:00",
+          "percent": 3
+        },
+        {
+          "hour": "01:00",
+          "percent": 3
+        },
+        {
+          "hour": "02:00",
+          "percent": 3
+        },
+        {
+          "hour": "03:00",
+          "percent": 3
+        }
+      ]
+    },
+    {
+      "Friday": [
+        {
+          "hour": "04:00",
+          "percent": 8
+        },
+        {
+          "hour": "05:00",
+          "percent": 6
+        },
+        {
+          "hour": "06:00",
+          "percent": 5
+        },
+        {
+          "hour": "07:00",
+          "percent": 7
+        },
+        {
+          "hour": "08:00",
+          "percent": 10
+        },
+        {
+          "hour": "09:00",
+          "percent": 12
+        },
+        {
+          "hour": "10:00",
+          "percent": 13
+        },
+        {
+          "hour": "11:00",
+          "percent": 11
+        },
+        {
+          "hour": "12:00",
+          "percent": 10
+        },
+        {
+          "hour": "13:00",
+          "percent": 9
+        },
+        {
+          "hour": "14:00",
+          "percent": 11
+        },
+        {
+          "hour": "15:00",
+          "percent": 14
+        },
+        {
+          "hour": "16:00",
+          "percent": 17
+        },
+        {
+          "hour": "17:00",
+          "percent": 18
+        },
+        {
+          "hour": "18:00",
+          "percent": 19
+        },
+        {
+          "hour": "19:00",
+          "percent": 19
+        },
+        {
+          "hour": "20:00",
+          "percent": 18
+        },
+        {
+          "hour": "21:00",
+          "percent": 18
+        },
+        {
+          "hour": "22:00",
+          "percent": 19
+        },
+        {
+          "hour": "23:00",
+          "percent": 20
+        },
+        {
+          "hour": "00:00",
+          "percent": 21
+        },
+        {
+          "hour": "01:00",
+          "percent": 20
+        },
+        {
+          "hour": "02:00",
+          "percent": 17
+        },
+        {
+          "hour": "03:00",
+          "percent": 12
+        }
+      ]
+    },
+    {
+      "Saturday": [
+        {
+          "hour": "04:00",
+          "percent": 33
+        },
+        {
+          "hour": "05:00",
+          "percent": 17
+        },
+        {
+          "hour": "06:00",
+          "percent": 13
+        },
+        {
+          "hour": "07:00",
+          "percent": 18
+        },
+        {
+          "hour": "08:00",
+          "percent": 29
+        },
+        {
+          "hour": "09:00",
+          "percent": 44
+        },
+        {
+          "hour": "10:00",
+          "percent": 58
+        },
+        {
+          "hour": "11:00",
+          "percent": 68
+        },
+        {
+          "hour": "12:00",
+          "percent": 70
+        },
+        {
+          "hour": "13:00",
+          "percent": 66
+        },
+        {
+          "hour": "14:00",
+          "percent": 59
+        },
+        {
+          "hour": "15:00",
+          "percent": 51
+        },
+        {
+          "hour": "16:00",
+          "percent": 48
+        },
+        {
+          "hour": "17:00",
+          "percent": 51
+        },
+        {
+          "hour": "18:00",
+          "percent": 59
+        },
+        {
+          "hour": "19:00",
+          "percent": 66
+        },
+        {
+          "hour": "20:00",
+          "percent": 69
+        },
+        {
+          "hour": "21:00",
+          "percent": 67
+        },
+        {
+          "hour": "22:00",
+          "percent": 65
+        },
+        {
+          "hour": "23:00",
+          "percent": 68
+        },
+        {
+          "hour": "00:00",
+          "percent": 77
+        },
+        {
+          "hour": "01:00",
+          "percent": 84
+        },
+        {
+          "hour": "02:00",
+          "percent": 77
+        },
+        {
+          "hour": "03:00",
+          "percent": 57
+        }
+      ]
+    }
+  ],
+  "relatedSearches": [
+    "pico do itaguaré trilha",
+    "pico do itaguaré passa quatro",
+    "pico do itaguaré altitude",
+    "pico do itaguaré temperatura",
+    "pico do itapeva",
+    "pico das agulhas negras",
+    "cavalinho do itaguaré",
+    "travessia marins itaguaré"
+  ],
+  "relateds": [
+    {
+      "mainName": "Pico dos Marins2.421 m",
+      "url": null
+    },
+    {
+      "mainName": "Pedra da Mina2.798 m",
+      "url": null
+    },
+    {
+      "mainName": "Pico dos Três Estados2.665 m",
+      "url": null
+    },
+    {
+      "mainName": "Pedra da Macela",
+      "url": null
+    },
+    {
+      "mainName": "Pico da Gomeira",
+      "url": null
+    },
+    {
+      "mainName": "Pico das Agulhas Negras2.791 m",
+      "url": null
+    },
+    {
+      "mainName": "Serra da Mantiqueira2.798 m",
+      "url": null
+    },
+    {
+      "mainName": "Pedra do Sino de Itatiaia2.670 m",
+      "url": null
+    },
+    {
+      "mainName": "Pedra do Baú1.950 m",
+      "url": null
+    },
+    {
+      "mainName": "Pico do Cristal2.770 m",
+      "url": null
+    },
+    {
+      "mainName": "Pico Santo Agostinho",
+      "url": null
+    },
+    {
+      "mainName": "Pico da Bandeira2.890 m",
+      "url": null
+    },
+    {
+      "mainName": "Pico da Neblina2.995 m",
+      "url": null
+    },
+    {
+      "mainName": "Pico do Selado",
+      "url": null
+    },
+    {
+      "mainName": "Serra do Caparaó",
+      "url": null
+    },
+    {
+      "mainName": "Serra do Papagaio",
+      "url": null
+    },
+    {
+      "mainName": "Dedo de Deus1.692 m",
+      "url": null
+    },
+    {
+      "mainName": "Pedra do Sino",
+      "url": null
+    },
+    {
+      "mainName": "Pico do Itapeva2.030 m",
+      "url": null
+    },
+    {
+      "mainName": "Serra do Mar",
+      "url": null
+    },
+    {
+      "mainName": "Monte Roraima2.810 m",
+      "url": null
+    },
+    {
+      "mainName": "Pico Paraná1.877 m",
+      "url": null
+    },
+    {
+      "mainName": "Serra do Espinhaço2.072 m",
+      "url": null
+    },
+    {
+      "mainName": "Pedra da Gávea844 m",
+      "url": null
+    }
+  ]
+}

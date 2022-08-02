@@ -1,0 +1,718 @@
+{
+  "mainName": "Siam Mall",
+  "slug": "siam-mall",
+  "category": "Shopping center",
+  "locationInformation": {
+    "latitude": "28.06955",
+    "longitude": "-16.7220796"
+  },
+  "basicInformation": [
+    {
+      "label": "endereço",
+      "tooltip": "Copiar endereço",
+      "text": "Av. Siam, 3, 38660 Costa Adeje, Santa Cruz de Tenerife, Espanha",
+      "icon": "https://www.gstatic.com/images/icons/material/system_gm/1x/place_gm_blue_24dp.png"
+    },
+    {
+      "label": "website",
+      "tooltip": "Abrir website",
+      "text": "ccsiammall.com",
+      "icon": "https://www.gstatic.com/images/icons/material/system_gm/1x/public_gm_blue_24dp.png"
+    },
+    {
+      "label": "telefone",
+      "tooltip": "Copiar número de telefone",
+      "text": "+34 922 75 02 52",
+      "icon": "https://www.gstatic.com/images/icons/material/system_gm/1x/phone_gm_blue_24dp.png"
+    },
+    {
+      "label": "Code",
+      "tooltip": "Copiar Plus Code",
+      "text": "379H+R5 Costa Adeje, Espanha",
+      "icon": "https://maps.gstatic.com/mapfiles/maps_lite/images/2x/ic_plus_code.png"
+    },
+    {
+      "label": "send-to-device",
+      "text": "Enviar para smartphone",
+      "icon": "https://maps.gstatic.com/consumer/images/icons/1x/send_to_mobile_alt_gm_blue_24dp.png"
+    }
+  ],
+  "ratingInformation": {
+    "basicRatingInformation": {
+      "averageGrade": 4.4,
+      "totalOfEvaluations": 21658
+    },
+    "ratingsByGrade": [
+      {
+        "grade": 5,
+        "totalRatings": 12998
+      },
+      {
+        "grade": 4,
+        "totalRatings": 5939
+      },
+      {
+        "grade": 3,
+        "totalRatings": 1943
+      },
+      {
+        "grade": 2,
+        "totalRatings": 410
+      },
+      {
+        "grade": 1,
+        "totalRatings": 368
+      }
+    ]
+  },
+  "ratingTags": [
+    {
+      "tag": "cheio",
+      "count": 5,
+      "tooltip": "cheio, mencionado em 5 avaliações"
+    },
+    {
+      "tag": "perto",
+      "count": 3,
+      "tooltip": "perto, mencionado em 3 avaliações"
+    },
+    {
+      "tag": "ilha",
+      "count": 115,
+      "tooltip": "ilha, mencionado em 115 avaliações"
+    },
+    {
+      "tag": "lazer",
+      "count": 96,
+      "tooltip": "lazer, mencionado em 96 avaliações"
+    },
+    {
+      "tag": "sul",
+      "count": 66,
+      "tooltip": "sul, mencionado em 66 avaliações"
+    },
+    {
+      "tag": "parque aquático",
+      "count": 60,
+      "tooltip": "parque aquático, mencionado em 60 avaliações"
+    },
+    {
+      "tag": "playa de las américas",
+      "count": 16,
+      "tooltip": "playa de las américas, mencionado em 16 avaliações"
+    }
+  ],
+  "featuredPhotos": [
+    "https://lh5.googleusercontent.com/p/AF1QipPbFf__cug8mBrXaC-Unv0J5xuSa2WudClb31BB=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPqBbpo4R2Kp7rCCAZ0f8EmkLyTL9P3BKtUipAC=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipO4DW1wq5BBUi0rIKFxI4-6JRT4sAuEAlkw6JW5=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOV5OBSSS0flUw6qG3wl9UyNM1_t986aNeZOU1H=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOh4KD3bPzH3K_znKbubVtZDlR-rFlXo1LTrceD=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOAU5NyL172tm8Z7CiqKr8b9pH9TyjYfmRo0sXW=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMYBxivJiMC0JqqdHDVYdjYCuJCndSZfBFVC1EY=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPZmjvqevtOIqESiKvja-1qWCTAXcTii9mTAy3K=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipP0kcdtSC7uKFwX5ssW_5OL697vwsHWb28QI9eA=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipN3MgNrpv2KLD7O7z3aAlfqitOzew51rwzEgFzr=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOl2EW8dSa1b0Qtn3dFnw0Hmsp2hOUMRaAj0myG=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipM6WTIP6CEFD0aH719NoHB7twLS57iSZOyIZjCB=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOnWLlNQ5tpFCjlylmBzAvTUmtgezvWtfG3wKRS=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOc_R6NGhWUZLvWSCvZgr687q_t4wCJZbmhwOo=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMLd0TVDj-y-yZqvewWJVxaCMit8XlUzv9Lhg8Q=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPQKGdhDHFNU7ownwPSEF6D0NlRy-N5cVJNQt9i=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipN7sIj6ljKq0z2XgL9zg3DHekr2kuIDWiInTbRl=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPGdyV0_FV80F3zQ-sfw4oOvTM5Zg4MeHG72nNI=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNXnwF7F2IW2d9y2jyKGOx_7PVdPu6pU2E7BpiX=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOcFlkIop0Q0wj1mG7bAOL3mgvtBc7m6czZN2Kg=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOPCScVKjJ3XWDQUVtAh3ViCMhOoOfNkaAiPkWp=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOpTisH_LLVRyFGEsjxiBWcBMaemztsgaMFr4xW=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipN5Iqr91LaS4ir2QwB4nwVrJacFvxDRPuVYS9wT=w1024-h576-k-no"
+  ],
+  "topComments": [
+    {
+      "author": "PAULO Pereira",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucrT4w-peG_8tEBkBDqmPhdWV7_PHWXWWqzuuLHY5A=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "Local agradável de passear principalmente nos dias de muiymto calor. Esplanada/terraço agradável com boa vista para tomar um café ou outra bebida.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Daniela Simoes",
+      "photoAuthor": "https://lh3.googleusercontent.com/a/AItbvmnANkLnEy4FMYu9CUBY3eDaBAOdZe2mcM0CK9M3=w36-h36-p-c0x00000000-rp-mo-ba2-br100",
+      "comment": "O melhor parque aquático que já fui por 3 vezes. Espero voltar em breve. Não percam esta experiência",
+      "gradeComment": 5
+    },
+    {
+      "author": "Alicia Rodriguez",
+      "photoAuthor": "https://lh3.googleusercontent.com/a/AItbvmnKBLPM7LhHbzHWkPNWEs4PdTsvpw_aVETMjZVZ=w36-h36-p-c0x00000000-rp-mo-ba3-br100",
+      "comment": "Lindísimo!¡",
+      "gradeComment": 4
+    },
+    {
+      "author": "Luis Rocha (Lelongo Flights)",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucpBOQOwohxh0jiYQjAfaJEfDtwp05lsPZpNyXMffw=w36-h36-p-c0x00000000-rp-mo-ba3-br100",
+      "comment": "Centró comercial moderno, muito bonito e com comércio razoável.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Duarte Flores",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucpyKdtktmnKry_getaRZ18qrm5ryaEILWALF5o9QSI=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "Um centro comercial exemplar, moderno e muito AMPLO.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Jose",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucrT5Jx86Ry8yoMJPffD-MAF5w-rp3H9wyF-jXMw=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "Maioria do shopping é só lojas de roupa",
+      "gradeComment": 4
+    },
+    {
+      "author": "Vagner Lopes Moreira Maia",
+      "photoAuthor": "https://lh3.googleusercontent.com/a/AItbvml1-2pS48mmaBZdR00c4lgwBNSR4wnf_-EXSRRp=w36-h36-p-c0x00000000-rp-mo-br100",
+      "comment": "Um dos melhores Shoppings de Tenerife.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Jauu Santilal",
+      "photoAuthor": "https://lh3.googleusercontent.com/a/AItbvmkhwbVV7ciEpWU_wsSHjpKfgdOhBz73RHWKaOiV=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "Muito bom",
+      "gradeComment": 5
+    },
+    {
+      "author": "Moises Tré",
+      "photoAuthor": "https://lh3.googleusercontent.com/a/AItbvmkTDTqTlFaPUrnRMEOYWP8SOB7kRXVRKbenZqGS=w36-h36-p-c0x00000000-rp-mo-ba3-br100",
+      "comment": "espetacular",
+      "gradeComment": 5
+    },
+    {
+      "author": "antonio martins",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucpYU2DhrBovNswnMRdNK-R59BPoMMevqoIaYkXz=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "Mais um centro comercial",
+      "gradeComment": 4
+    },
+    {
+      "author": "Sofia Rei",
+      "photoAuthor": "https://lh3.googleusercontent.com/a/AItbvmkr_sETBV9Fo9gyNU0-60HLhP9uuJanI0O2H8Vn=w36-h36-p-c0x00000000-rp-mo-ba3-br100",
+      "comment": "inacreditavel. melhor dia de sempre",
+      "gradeComment": 5
+    },
+    {
+      "author": "Virna Pellejero",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucq56i89yvsuJoY7o_o4jNaPgxeCWFq9k5sEAWkm=w36-h36-p-c0x00000000-rp-mo-br100",
+      "comment": "Un lugar espetacular",
+      "gradeComment": 4
+    },
+    {
+      "author": "Sandra Brandão",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucruxbQfFC9u89Qp0kT10k55t7hAzuKIjcZYhvM0AA=w36-h36-p-c0x00000000-rp-mo-br100",
+      "comment": "Gosto de ir lá passear",
+      "gradeComment": 5
+    },
+    {
+      "author": "Francisco franye Franye",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucrcTL_j76qOB6zOFHiWPlYtOWYXD6SkbhGuwhM30us=w36-h36-p-c0x00000000-rp-mo-ba5-br100",
+      "comment": "Espetacular  vista fastifactoria",
+      "gradeComment": 3
+    },
+    {
+      "author": "Sandra Teixeira",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucoj9N4qPFkmAgsGSNPvFMAGwIh0J4z-ABv3aGXtAdg=w36-h36-p-c0x00000000-rp-mo-ba3-br100",
+      "comment": "Muito bommmm...",
+      "gradeComment": 5
+    },
+    {
+      "author": "Luis P.",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucqC0yUSYlXosdAuH82rY6SKIMSiuG6XpfBVXSaJ7mw=w36-h36-p-c0x00000000-rp-mo-ba5-br100",
+      "comment": "Barraquito 3 €",
+      "gradeComment": 3
+    },
+    {
+      "author": "marco santos",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucqlxrC37IHh3A964ATC2BFAdAPp0Em4ELg2y3m5fQ=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "Muito bonito....",
+      "gradeComment": 5
+    },
+    {
+      "author": "Marco Susana",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucrhhhdCPvw5xJ5M6Bhkcbm4_gxSVtArZxCoML9-qwk=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "Shopping diferente.",
+      "gradeComment": 4
+    },
+    {
+      "author": "Lourival Reis",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucqFFlKzYyUAImZKcXQYHQ33bwfYYjRFoKh-uCcojg=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "Adorei",
+      "gradeComment": 5
+    },
+    {
+      "author": "Diogo Monteiro",
+      "photoAuthor": "https://lh3.googleusercontent.com/a/AItbvmmhXwQ18wL78LpmSZsPvNmjyUhUjapxmyMlvaGv=w36-h36-p-c0x00000000-rp-mo-br100",
+      "comment": "Adorei",
+      "gradeComment": 5
+    }
+  ],
+  "peakHours": [
+    {
+      "Sunday": [
+        {
+          "hour": "10:00",
+          "percent": 39
+        },
+        {
+          "hour": "11:00",
+          "percent": 64
+        },
+        {
+          "hour": "12:00",
+          "percent": 83
+        },
+        {
+          "hour": "13:00",
+          "percent": 90
+        },
+        {
+          "hour": "14:00",
+          "percent": 83
+        },
+        {
+          "hour": "15:00",
+          "percent": 76
+        },
+        {
+          "hour": "16:00",
+          "percent": 79
+        },
+        {
+          "hour": "17:00",
+          "percent": 91
+        },
+        {
+          "hour": "18:00",
+          "percent": 100
+        },
+        {
+          "hour": "19:00",
+          "percent": 92
+        },
+        {
+          "hour": "20:00",
+          "percent": 68
+        },
+        {
+          "hour": "21:00",
+          "percent": 41
+        }
+      ]
+    },
+    {
+      "Monday": [
+        {
+          "hour": "10:00",
+          "percent": 34
+        },
+        {
+          "hour": "11:00",
+          "percent": 51
+        },
+        {
+          "hour": "12:00",
+          "percent": 63
+        },
+        {
+          "hour": "13:00",
+          "percent": 65
+        },
+        {
+          "hour": "14:00",
+          "percent": 59
+        },
+        {
+          "hour": "15:00",
+          "percent": 54
+        },
+        {
+          "hour": "16:00",
+          "percent": 55
+        },
+        {
+          "hour": "17:00",
+          "percent": 61
+        },
+        {
+          "hour": "18:00",
+          "percent": 67
+        },
+        {
+          "hour": "19:00",
+          "percent": 64
+        },
+        {
+          "hour": "21:00",
+          "percent": 34
+        }
+      ]
+    },
+    {
+      "Tuesday": [
+        {
+          "hour": "10:00",
+          "percent": 37
+        },
+        {
+          "hour": "11:00",
+          "percent": 52
+        },
+        {
+          "hour": "12:00",
+          "percent": 62
+        },
+        {
+          "hour": "13:00",
+          "percent": 61
+        },
+        {
+          "hour": "14:00",
+          "percent": 54
+        },
+        {
+          "hour": "15:00",
+          "percent": 49
+        },
+        {
+          "hour": "16:00",
+          "percent": 51
+        },
+        {
+          "hour": "17:00",
+          "percent": 60
+        },
+        {
+          "hour": "18:00",
+          "percent": 67
+        },
+        {
+          "hour": "19:00",
+          "percent": 63
+        },
+        {
+          "hour": "20:00",
+          "percent": 48
+        },
+        {
+          "hour": "21:00",
+          "percent": 29
+        }
+      ]
+    },
+    {
+      "Wednesday": [
+        {
+          "hour": "10:00",
+          "percent": 36
+        },
+        {
+          "hour": "11:00",
+          "percent": 51
+        },
+        {
+          "hour": "12:00",
+          "percent": 61
+        },
+        {
+          "hour": "13:00",
+          "percent": 62
+        },
+        {
+          "hour": "14:00",
+          "percent": 55
+        },
+        {
+          "hour": "15:00",
+          "percent": 49
+        },
+        {
+          "hour": "16:00",
+          "percent": 49
+        },
+        {
+          "hour": "17:00",
+          "percent": 58
+        },
+        {
+          "hour": "18:00",
+          "percent": 68
+        },
+        {
+          "hour": "19:00",
+          "percent": 68
+        },
+        {
+          "hour": "20:00",
+          "percent": 55
+        },
+        {
+          "hour": "21:00",
+          "percent": 35
+        }
+      ]
+    },
+    {
+      "Thursday": [
+        {
+          "hour": "10:00",
+          "percent": 37
+        },
+        {
+          "hour": "11:00",
+          "percent": 52
+        },
+        {
+          "hour": "12:00",
+          "percent": 61
+        },
+        {
+          "hour": "13:00",
+          "percent": 63
+        },
+        {
+          "hour": "14:00",
+          "percent": 59
+        },
+        {
+          "hour": "15:00",
+          "percent": 54
+        },
+        {
+          "hour": "16:00",
+          "percent": 55
+        },
+        {
+          "hour": "17:00",
+          "percent": 62
+        },
+        {
+          "hour": "18:00",
+          "percent": 70
+        },
+        {
+          "hour": "19:00",
+          "percent": 68
+        },
+        {
+          "hour": "20:00",
+          "percent": 54
+        },
+        {
+          "hour": "21:00",
+          "percent": 34
+        }
+      ]
+    },
+    {
+      "Friday": [
+        {
+          "hour": "10:00",
+          "percent": 37
+        },
+        {
+          "hour": "11:00",
+          "percent": 51
+        },
+        {
+          "hour": "12:00",
+          "percent": 61
+        },
+        {
+          "hour": "13:00",
+          "percent": 63
+        },
+        {
+          "hour": "14:00",
+          "percent": 58
+        },
+        {
+          "hour": "15:00",
+          "percent": 53
+        },
+        {
+          "hour": "16:00",
+          "percent": 53
+        },
+        {
+          "hour": "17:00",
+          "percent": 60
+        },
+        {
+          "hour": "18:00",
+          "percent": 70
+        },
+        {
+          "hour": "19:00",
+          "percent": 70
+        },
+        {
+          "hour": "20:00",
+          "percent": 57
+        },
+        {
+          "hour": "21:00",
+          "percent": 37
+        }
+      ]
+    },
+    {
+      "Saturday": [
+        {
+          "hour": "10:00",
+          "percent": 35
+        },
+        {
+          "hour": "11:00",
+          "percent": 56
+        },
+        {
+          "hour": "12:00",
+          "percent": 74
+        },
+        {
+          "hour": "13:00",
+          "percent": 79
+        },
+        {
+          "hour": "14:00",
+          "percent": 74
+        },
+        {
+          "hour": "15:00",
+          "percent": 68
+        },
+        {
+          "hour": "16:00",
+          "percent": 70
+        },
+        {
+          "hour": "17:00",
+          "percent": 81
+        },
+        {
+          "hour": "18:00",
+          "percent": 90
+        },
+        {
+          "hour": "19:00",
+          "percent": 88
+        },
+        {
+          "hour": "20:00",
+          "percent": 72
+        },
+        {
+          "hour": "21:00",
+          "percent": 48
+        }
+      ]
+    }
+  ],
+  "relatedSearches": [
+    "siam mall shops",
+    "siam mall restaurants",
+    "siam mall free bus",
+    "siam mall opening times",
+    "siam mall covid test",
+    "hiperdino siam mall",
+    "meridiano shopping center tenerife",
+    "costa adeje to siam mall"
+  ],
+  "relateds": [
+    {
+      "mainName": "Siam Park",
+      "url": null
+    },
+    {
+      "mainName": "Loro Parque",
+      "url": null
+    },
+    {
+      "mainName": "Monumento Natural de La Caldera del Rey",
+      "url": null
+    },
+    {
+      "mainName": "Jungle Park",
+      "url": null
+    },
+    {
+      "mainName": "Iglesia de San Eugenio (Ermita del Pueblo Canario)",
+      "url": null
+    },
+    {
+      "mainName": "Playa de las Américas",
+      "url": null
+    },
+    {
+      "mainName": "The Golden Mile",
+      "url": null
+    },
+    {
+      "mainName": "Central Park of Arona",
+      "url": null
+    },
+    {
+      "mainName": "Playa del Puertito",
+      "url": null
+    },
+    {
+      "mainName": "Playa de Ajabo",
+      "url": null
+    },
+    {
+      "mainName": "Centro Comercial Meridiano",
+      "url": null
+    },
+    {
+      "mainName": "Playa La Pinta Puerto Colón",
+      "url": null
+    },
+    {
+      "mainName": "Playa del Bobo",
+      "url": null
+    },
+    {
+      "mainName": "Playa El Beril",
+      "url": null
+    },
+    {
+      "mainName": "Playa del Duque",
+      "url": null
+    },
+    {
+      "mainName": "Massage Fanabe",
+      "url": null
+    },
+    {
+      "mainName": "Playa de El Bobo",
+      "url": null
+    },
+    {
+      "mainName": "Fañabé Beach",
+      "url": null
+    },
+    {
+      "mainName": "Barranco del Infierno",
+      "url": null
+    },
+    {
+      "mainName": "Playa del Camisón",
+      "url": null
+    },
+    {
+      "mainName": "Cafe Bar Lormar",
+      "url": null
+    },
+    {
+      "mainName": "Siam Beach",
+      "url": null
+    },
+    {
+      "mainName": "La Caldera",
+      "url": null
+    }
+  ]
+}

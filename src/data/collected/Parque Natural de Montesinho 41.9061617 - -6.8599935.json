@@ -1,0 +1,937 @@
+{
+  "mainName": "Parque Natural de Montesinho",
+  "slug": "parque-natural-de-montesinho",
+  "category": "Reserva natural",
+  "locationInformation": {
+    "latitude": "41.9061617",
+    "longitude": "-6.8599935"
+  },
+  "basicInformation": [
+    {
+      "label": "endereço",
+      "tooltip": "Copiar endereço",
+      "text": "Parâmio, Portugal",
+      "icon": "https://www.gstatic.com/images/icons/material/system_gm/1x/place_gm_blue_24dp.png"
+    },
+    {
+      "label": "Code",
+      "tooltip": "Copiar Plus Code",
+      "text": "W44R+F2 Parâmio, Portugal",
+      "icon": "https://maps.gstatic.com/mapfiles/maps_lite/images/2x/ic_plus_code.png"
+    },
+    {
+      "label": "merchant",
+      "text": "Reivindicar esta empresa",
+      "icon": "https://www.gstatic.com/images/icons/material/system_gm/1x/verified_user_gm_blue_24dp.png"
+    }
+  ],
+  "ratingInformation": {
+    "basicRatingInformation": {
+      "averageGrade": 4.6,
+      "totalOfEvaluations": 2784
+    },
+    "ratingsByGrade": [
+      {
+        "grade": 5,
+        "totalRatings": 2059
+      },
+      {
+        "grade": 4,
+        "totalRatings": 547
+      },
+      {
+        "grade": 3,
+        "totalRatings": 104
+      },
+      {
+        "grade": 2,
+        "totalRatings": 21
+      },
+      {
+        "grade": 1,
+        "totalRatings": 53
+      }
+    ]
+  },
+  "ratingTags": [
+    {
+      "tag": "aldeia",
+      "count": 42,
+      "tooltip": "aldeia, mencionado em 42 avaliações"
+    },
+    {
+      "tag": "fauna",
+      "count": 21,
+      "tooltip": "fauna, mencionado em 21 avaliações"
+    },
+    {
+      "tag": "flora",
+      "count": 20,
+      "tooltip": "flora, mencionado em 20 avaliações"
+    },
+    {
+      "tag": "estado",
+      "count": 13,
+      "tooltip": "estado, mencionado em 13 avaliações"
+    },
+    {
+      "tag": "sítio",
+      "count": 11,
+      "tooltip": "sítio, mencionado em 11 avaliações"
+    },
+    {
+      "tag": "cervídeos",
+      "count": 9,
+      "tooltip": "cervídeos, mencionado em 9 avaliações"
+    },
+    {
+      "tag": "biodiversidade",
+      "count": 8,
+      "tooltip": "biodiversidade, mencionado em 8 avaliações"
+    },
+    {
+      "tag": "lobo",
+      "count": 7,
+      "tooltip": "lobo, mencionado em 7 avaliações"
+    },
+    {
+      "tag": "reino",
+      "count": 6,
+      "tooltip": "reino, mencionado em 6 avaliações"
+    },
+    {
+      "tag": "descoberta",
+      "count": 5,
+      "tooltip": "descoberta, mencionado em 5 avaliações"
+    }
+  ],
+  "featuredPhotos": [
+    "https://lh5.googleusercontent.com/p/AF1QipOf8nLgGeiPHlXl_5FaS_Iyw0mEjwvP7X6TvfKD=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOgYTUvAvUDpTsEWyuSqy2r8oYKZUu2bFa2rLhc=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNt-7PYa-fvp7nb9q3eyo9zTC1JE_tqiI_aI7rd=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMOZr8ONYRkvOStS-9CCAZjpJZTffhTbTniBb0=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNThnzfPaconrnEE8uSfRNn7hYhvk_2PVAIPygG=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOGT0JVkjoxNvzDZLjUYB0t0TS4CQy2OI67fYfo=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMlt91CjJ-VNkvHXxay97Fr_IRqP30VmnXJGrU=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMk9KwggENXBIkszWmmqXvbtGeQ7LGUXJ5aZ2rI=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOnLREQ-LfcCSugu16WM99weaNHbBuC5ogODHZM=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNV57XRJGsJou4WWNl6MkGhhZ8dLJMGpNUd9ZRE=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipM6ZyC27UoeQ9J6KOVqtZ1uAFU7bVJ7GFlRQ1b2=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNnd0qSTy0h5S3StjEVBGcTY6dyTyhWwmYtaIGQ=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipM5zZFcbi710yCxNp7qO2Eftq3Myx64fcytggU=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipN0_DEkXqwjesq8QPNwCGACVosgjcBpSRAHEwFd=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNL9goH8U9MQsT47Bp4Yl04f5zSWWhtr7YJPq7J=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMOJAGyIrqJd9g32JDTkZfp3dIRE0hDlkY_G6I=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPXmy0sJUsxfYAEg64vAVsjp0IbfedsNEKSdOEy=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOu1x5SzRPrwk5u2SqtkRtydKdHi7wZVaXPAbkD=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPtrTbsISWqy7JULYHWJjD3_aB-tSaQXMjD4MA=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOvMiJHfRfMxScGX9Lj7lXw5A4blnHKNuRWTcvL=w1024-h576-k-no"
+  ],
+  "topComments": null,
+  "peakHours": [
+    {
+      "Sunday": [
+        {
+          "hour": "04:00",
+          "percent": 71
+        },
+        {
+          "hour": "05:00",
+          "percent": 78
+        },
+        {
+          "hour": "06:00",
+          "percent": 84
+        },
+        {
+          "hour": "07:00",
+          "percent": 88
+        },
+        {
+          "hour": "08:00",
+          "percent": 90
+        },
+        {
+          "hour": "09:00",
+          "percent": 90
+        },
+        {
+          "hour": "10:00",
+          "percent": 92
+        },
+        {
+          "hour": "11:00",
+          "percent": 94
+        },
+        {
+          "hour": "12:00",
+          "percent": 97
+        },
+        {
+          "hour": "13:00",
+          "percent": 99
+        },
+        {
+          "hour": "14:00",
+          "percent": 99
+        },
+        {
+          "hour": "15:00",
+          "percent": 97
+        },
+        {
+          "hour": "16:00",
+          "percent": 93
+        },
+        {
+          "hour": "17:00",
+          "percent": 86
+        },
+        {
+          "hour": "18:00",
+          "percent": 79
+        },
+        {
+          "hour": "19:00",
+          "percent": 72
+        },
+        {
+          "hour": "20:00",
+          "percent": 65
+        },
+        {
+          "hour": "21:00",
+          "percent": 60
+        },
+        {
+          "hour": "22:00",
+          "percent": 57
+        },
+        {
+          "hour": "23:00",
+          "percent": 55
+        },
+        {
+          "hour": "00:00",
+          "percent": 55
+        },
+        {
+          "hour": "01:00",
+          "percent": 56
+        },
+        {
+          "hour": "02:00",
+          "percent": 59
+        },
+        {
+          "hour": "03:00",
+          "percent": 64
+        }
+      ]
+    },
+    {
+      "Monday": [
+        {
+          "hour": "04:00",
+          "percent": 52
+        },
+        {
+          "hour": "05:00",
+          "percent": 54
+        },
+        {
+          "hour": "06:00",
+          "percent": 55
+        },
+        {
+          "hour": "07:00",
+          "percent": 56
+        },
+        {
+          "hour": "08:00",
+          "percent": 55
+        },
+        {
+          "hour": "09:00",
+          "percent": 55
+        },
+        {
+          "hour": "10:00",
+          "percent": 53
+        },
+        {
+          "hour": "11:00",
+          "percent": 52
+        },
+        {
+          "hour": "12:00",
+          "percent": 51
+        },
+        {
+          "hour": "13:00",
+          "percent": 50
+        },
+        {
+          "hour": "14:00",
+          "percent": 50
+        },
+        {
+          "hour": "15:00",
+          "percent": 50
+        },
+        {
+          "hour": "16:00",
+          "percent": 50
+        },
+        {
+          "hour": "17:00",
+          "percent": 49
+        },
+        {
+          "hour": "18:00",
+          "percent": 49
+        },
+        {
+          "hour": "19:00",
+          "percent": 48
+        },
+        {
+          "hour": "20:00",
+          "percent": 47
+        },
+        {
+          "hour": "21:00",
+          "percent": 46
+        },
+        {
+          "hour": "22:00",
+          "percent": 46
+        },
+        {
+          "hour": "23:00",
+          "percent": 45
+        },
+        {
+          "hour": "00:00",
+          "percent": 46
+        },
+        {
+          "hour": "01:00",
+          "percent": 47
+        },
+        {
+          "hour": "02:00",
+          "percent": 48
+        },
+        {
+          "hour": "03:00",
+          "percent": 50
+        }
+      ]
+    },
+    {
+      "Tuesday": [
+        {
+          "hour": "04:00",
+          "percent": 47
+        },
+        {
+          "hour": "05:00",
+          "percent": 48
+        },
+        {
+          "hour": "06:00",
+          "percent": 49
+        },
+        {
+          "hour": "07:00",
+          "percent": 49
+        },
+        {
+          "hour": "08:00",
+          "percent": 49
+        },
+        {
+          "hour": "09:00",
+          "percent": 48
+        },
+        {
+          "hour": "10:00",
+          "percent": 47
+        },
+        {
+          "hour": "11:00",
+          "percent": 46
+        },
+        {
+          "hour": "12:00",
+          "percent": 45
+        },
+        {
+          "hour": "13:00",
+          "percent": 44
+        },
+        {
+          "hour": "14:00",
+          "percent": 44
+        },
+        {
+          "hour": "15:00",
+          "percent": 45
+        },
+        {
+          "hour": "16:00",
+          "percent": 46
+        },
+        {
+          "hour": "17:00",
+          "percent": 47
+        },
+        {
+          "hour": "18:00",
+          "percent": 47
+        },
+        {
+          "hour": "19:00",
+          "percent": 47
+        },
+        {
+          "hour": "20:00",
+          "percent": 47
+        },
+        {
+          "hour": "21:00",
+          "percent": 46
+        },
+        {
+          "hour": "23:00",
+          "percent": 44
+        },
+        {
+          "hour": "00:00",
+          "percent": 43
+        },
+        {
+          "hour": "01:00",
+          "percent": 43
+        },
+        {
+          "hour": "02:00",
+          "percent": 44
+        },
+        {
+          "hour": "03:00",
+          "percent": 45
+        }
+      ]
+    },
+    {
+      "Wednesday": [
+        {
+          "hour": "04:00",
+          "percent": 49
+        },
+        {
+          "hour": "05:00",
+          "percent": 49
+        },
+        {
+          "hour": "06:00",
+          "percent": 49
+        },
+        {
+          "hour": "07:00",
+          "percent": 49
+        },
+        {
+          "hour": "08:00",
+          "percent": 49
+        },
+        {
+          "hour": "09:00",
+          "percent": 48
+        },
+        {
+          "hour": "10:00",
+          "percent": 48
+        },
+        {
+          "hour": "11:00",
+          "percent": 48
+        },
+        {
+          "hour": "12:00",
+          "percent": 48
+        },
+        {
+          "hour": "13:00",
+          "percent": 48
+        },
+        {
+          "hour": "14:00",
+          "percent": 48
+        },
+        {
+          "hour": "15:00",
+          "percent": 48
+        },
+        {
+          "hour": "16:00",
+          "percent": 48
+        },
+        {
+          "hour": "17:00",
+          "percent": 48
+        },
+        {
+          "hour": "18:00",
+          "percent": 48
+        },
+        {
+          "hour": "19:00",
+          "percent": 48
+        },
+        {
+          "hour": "20:00",
+          "percent": 49
+        },
+        {
+          "hour": "21:00",
+          "percent": 49
+        },
+        {
+          "hour": "22:00",
+          "percent": 49
+        },
+        {
+          "hour": "23:00",
+          "percent": 49
+        },
+        {
+          "hour": "00:00",
+          "percent": 49
+        },
+        {
+          "hour": "01:00",
+          "percent": 49
+        },
+        {
+          "hour": "02:00",
+          "percent": 49
+        },
+        {
+          "hour": "03:00",
+          "percent": 49
+        }
+      ]
+    },
+    {
+      "Thursday": [
+        {
+          "hour": "04:00",
+          "percent": 48
+        },
+        {
+          "hour": "05:00",
+          "percent": 50
+        },
+        {
+          "hour": "06:00",
+          "percent": 51
+        },
+        {
+          "hour": "07:00",
+          "percent": 52
+        },
+        {
+          "hour": "08:00",
+          "percent": 53
+        },
+        {
+          "hour": "09:00",
+          "percent": 52
+        },
+        {
+          "hour": "10:00",
+          "percent": 51
+        },
+        {
+          "hour": "11:00",
+          "percent": 51
+        },
+        {
+          "hour": "12:00",
+          "percent": 51
+        },
+        {
+          "hour": "13:00",
+          "percent": 52
+        },
+        {
+          "hour": "14:00",
+          "percent": 54
+        },
+        {
+          "hour": "15:00",
+          "percent": 55
+        },
+        {
+          "hour": "16:00",
+          "percent": 56
+        },
+        {
+          "hour": "17:00",
+          "percent": 56
+        },
+        {
+          "hour": "18:00",
+          "percent": 55
+        },
+        {
+          "hour": "19:00",
+          "percent": 53
+        },
+        {
+          "hour": "20:00",
+          "percent": 52
+        },
+        {
+          "hour": "21:00",
+          "percent": 52
+        },
+        {
+          "hour": "22:00",
+          "percent": 51
+        },
+        {
+          "hour": "23:00",
+          "percent": 51
+        },
+        {
+          "hour": "00:00",
+          "percent": 50
+        },
+        {
+          "hour": "01:00",
+          "percent": 48
+        },
+        {
+          "hour": "02:00",
+          "percent": 47
+        },
+        {
+          "hour": "03:00",
+          "percent": 47
+        }
+      ]
+    },
+    {
+      "Friday": [
+        {
+          "hour": "04:00",
+          "percent": 57
+        },
+        {
+          "hour": "05:00",
+          "percent": 52
+        },
+        {
+          "hour": "06:00",
+          "percent": 49
+        },
+        {
+          "hour": "07:00",
+          "percent": 49
+        },
+        {
+          "hour": "08:00",
+          "percent": 50
+        },
+        {
+          "hour": "09:00",
+          "percent": 52
+        },
+        {
+          "hour": "10:00",
+          "percent": 53
+        },
+        {
+          "hour": "11:00",
+          "percent": 54
+        },
+        {
+          "hour": "12:00",
+          "percent": 53
+        },
+        {
+          "hour": "13:00",
+          "percent": 52
+        },
+        {
+          "hour": "14:00",
+          "percent": 52
+        },
+        {
+          "hour": "15:00",
+          "percent": 53
+        },
+        {
+          "hour": "16:00",
+          "percent": 54
+        },
+        {
+          "hour": "17:00",
+          "percent": 57
+        },
+        {
+          "hour": "18:00",
+          "percent": 59
+        },
+        {
+          "hour": "19:00",
+          "percent": 60
+        },
+        {
+          "hour": "20:00",
+          "percent": 60
+        },
+        {
+          "hour": "21:00",
+          "percent": 61
+        },
+        {
+          "hour": "22:00",
+          "percent": 61
+        },
+        {
+          "hour": "23:00",
+          "percent": 63
+        },
+        {
+          "hour": "00:00",
+          "percent": 65
+        },
+        {
+          "hour": "01:00",
+          "percent": 67
+        },
+        {
+          "hour": "02:00",
+          "percent": 66
+        },
+        {
+          "hour": "03:00",
+          "percent": 62
+        }
+      ]
+    },
+    {
+      "Saturday": [
+        {
+          "hour": "04:00",
+          "percent": 71
+        },
+        {
+          "hour": "05:00",
+          "percent": 69
+        },
+        {
+          "hour": "06:00",
+          "percent": 70
+        },
+        {
+          "hour": "07:00",
+          "percent": 74
+        },
+        {
+          "hour": "08:00",
+          "percent": 80
+        },
+        {
+          "hour": "09:00",
+          "percent": 84
+        },
+        {
+          "hour": "10:00",
+          "percent": 87
+        },
+        {
+          "hour": "11:00",
+          "percent": 88
+        },
+        {
+          "hour": "12:00",
+          "percent": 88
+        },
+        {
+          "hour": "13:00",
+          "percent": 90
+        },
+        {
+          "hour": "14:00",
+          "percent": 94
+        },
+        {
+          "hour": "15:00",
+          "percent": 97
+        },
+        {
+          "hour": "16:00",
+          "percent": 100
+        },
+        {
+          "hour": "17:00",
+          "percent": 99
+        },
+        {
+          "hour": "18:00",
+          "percent": 96
+        },
+        {
+          "hour": "19:00",
+          "percent": 91
+        },
+        {
+          "hour": "20:00",
+          "percent": 86
+        },
+        {
+          "hour": "21:00",
+          "percent": 83
+        },
+        {
+          "hour": "22:00",
+          "percent": 82
+        },
+        {
+          "hour": "23:00",
+          "percent": 83
+        },
+        {
+          "hour": "00:00",
+          "percent": 83
+        },
+        {
+          "hour": "01:00",
+          "percent": 83
+        },
+        {
+          "hour": "02:00",
+          "percent": 80
+        },
+        {
+          "hour": "03:00",
+          "percent": 76
+        }
+      ]
+    }
+  ],
+  "relatedSearches": [
+    "parque natural de montesinho o que visitar",
+    "montesinho portugal",
+    "o que é um parque natural",
+    "parque natural da serra da estrela",
+    "parque natural do litoral norte",
+    "onde fica o parque natural do alvão",
+    "gerês parque nacional",
+    "parque nacional peneda-gerês"
+  ],
+  "relateds": [
+    {
+      "mainName": "Aldeia de Montesinho",
+      "url": null
+    },
+    {
+      "mainName": "Serra de Montesinho",
+      "url": null
+    },
+    {
+      "mainName": "Parque Biológico de Vinhais",
+      "url": null
+    },
+    {
+      "mainName": "Parque Natural do Douro Internacional",
+      "url": null
+    },
+    {
+      "mainName": "Parque Natural do Alvão",
+      "url": null
+    },
+    {
+      "mainName": "Castelo de Bragança",
+      "url": null
+    },
+    {
+      "mainName": "Parque Natural do Litoral Norte",
+      "url": null
+    },
+    {
+      "mainName": "Parque Natural do Vale do Guadiana",
+      "url": null
+    },
+    {
+      "mainName": "Parque Natural da Serra de São Mamede",
+      "url": null
+    },
+    {
+      "mainName": "Barragem de Serra Serrada",
+      "url": null
+    },
+    {
+      "mainName": "Parque Natural das Serras de Aire e Candeeiros",
+      "url": null
+    },
+    {
+      "mainName": "Parque Natural do Tejo Internacional",
+      "url": null
+    },
+    {
+      "mainName": "Parque Natural da Serra da Estrela",
+      "url": null
+    },
+    {
+      "mainName": "Reserva Natural da Serra da Malcata",
+      "url": null
+    },
+    {
+      "mainName": "Reserva Natural do Paul de Arzila",
+      "url": null
+    },
+    {
+      "mainName": "Parque Natural de Sintra-Cascais",
+      "url": null
+    },
+    {
+      "mainName": "Paisagem Protegida da Arriba Fóssil da Costa da Caparica",
+      "url": null
+    },
+    {
+      "mainName": "Serra da Nogueira",
+      "url": null
+    },
+    {
+      "mainName": "Lagosteiros Natural Monument",
+      "url": null
+    },
+    {
+      "mainName": "Ponte do couço",
+      "url": null
+    },
+    {
+      "mainName": "Centro Ciência Viva de Bragança",
+      "url": null
+    },
+    {
+      "mainName": "Reserva Natural do Paul do Boquilobo",
+      "url": null
+    },
+    {
+      "mainName": "Parque Nacional da Peneda-Gerês",
+      "url": null
+    },
+    {
+      "mainName": "Parque Natural do Sudoeste Alentejano e Costa Vicentina",
+      "url": null
+    }
+  ]
+}

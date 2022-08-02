@@ -1,0 +1,604 @@
+{
+  "mainName": "Toverland",
+  "slug": "toverland",
+  "category": "Parque temático",
+  "locationInformation": {
+    "latitude": "51.3968835",
+    "longitude": "5.9847667"
+  },
+  "basicInformation": [
+    {
+      "label": "endereço",
+      "tooltip": "Copiar endereço",
+      "text": "Toverlaan 2, 5975 MR Sevenum, Países Baixos",
+      "icon": "https://www.gstatic.com/images/icons/material/system_gm/1x/place_gm_blue_24dp.png"
+    },
+    {
+      "label": "website",
+      "tooltip": "Abrir website",
+      "text": "toverland.com",
+      "icon": "https://www.gstatic.com/images/icons/material/system_gm/1x/public_gm_blue_24dp.png"
+    },
+    {
+      "label": "telefone",
+      "tooltip": "Copiar número de telefone",
+      "text": "+31 77 467 7050",
+      "icon": "https://www.gstatic.com/images/icons/material/system_gm/1x/phone_gm_blue_24dp.png"
+    },
+    {
+      "label": "Code",
+      "tooltip": "Copiar Plus Code",
+      "text": "9XWM+QW Sevenum, Países Baixos",
+      "icon": "https://maps.gstatic.com/mapfiles/maps_lite/images/2x/ic_plus_code.png"
+    }
+  ],
+  "ratingInformation": {
+    "basicRatingInformation": {
+      "averageGrade": 4.6,
+      "totalOfEvaluations": 20602
+    },
+    "ratingsByGrade": [
+      {
+        "grade": 5,
+        "totalRatings": 14101
+      },
+      {
+        "grade": 4,
+        "totalRatings": 5131
+      },
+      {
+        "grade": 3,
+        "totalRatings": 852
+      },
+      {
+        "grade": 2,
+        "totalRatings": 198
+      },
+      {
+        "grade": 1,
+        "totalRatings": 320
+      }
+    ]
+  },
+  "ratingTags": [
+    {
+      "tag": "sombra",
+      "count": 10,
+      "tooltip": "sombra, mencionado em 10 avaliações"
+    },
+    {
+      "tag": "efteling",
+      "count": 251,
+      "tooltip": "efteling, mencionado em 251 avaliações"
+    },
+    {
+      "tag": "família nuclear",
+      "count": 122,
+      "tooltip": "família nuclear, mencionado em 122 avaliações"
+    },
+    {
+      "tag": "balsa",
+      "count": 103,
+      "tooltip": "balsa, mencionado em 103 avaliações"
+    },
+    {
+      "tag": "antigos",
+      "count": 92,
+      "tooltip": "antigos, mencionado em 92 avaliações"
+    },
+    {
+      "tag": "pacote de expansão",
+      "count": 54,
+      "tooltip": "pacote de expansão, mencionado em 54 avaliações"
+    }
+  ],
+  "featuredPhotos": [
+    "https://lh5.googleusercontent.com/p/AF1QipMrAe7slB9GS46n8zuc1b2lNNPclkoqkS7Di2GX=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNReWIwlSdCkbuXYKeRQXIw_7GYSs_0vEy4gBZM=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipM3zkjaxOwy505e5vpXl0yfTDt7-y2h4F7PpE-n=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMVBqWZRprePCf-YKENI8g5ovg2sHrJypRHzhr7=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMrY85CCwwdR_zNC1m8ZbxwNU0HQoK6iwox31xG=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOPXs34F9ROtA65ZjYF0Sj_4SQGATiiVY-bmMtY=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOy6uB6AiBghVXTAqHZGxZehXeMEQgx2P_K6xSp=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMTicQg8WM4wHVlZC6TyxRG_hDvQ7XRLwEDQIX4=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNDUIG9fqK9jCCvzbNv4jkCerqVSnQPfsvMCLGI=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipP6gNl8hu6qeXRzOgt3sSBSSReHy6mhJqvzvf_y=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOYpnaid_3QuuDOUso1qUoALRm7imxzQUBHhFDH=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipO3-4RN1ZV__UJPI31PParhp9T96OLuHzlcRtHY=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOfvsyPtdE2Hn4mXmLlPhOG6EZjvNMqU92vAUzl=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNB1YZy4LJaK0aTBqDRFQPXeF0hqz7A6ewlp6mV=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNU9aTQONdFoFnK3V64cn47H2_tfzGASO4a3Ear=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPXuFHLX7ccyAf8hAqi56xJvvtSnUq7tlfsJym5=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNzY8Jxv_I24zReI-wn8gq3ideB506s6KgrxVrZ=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPPXO6hlz1ME_cYisO7-nP87Eg0YoGNovZ8l5kp=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMhPZJ5XbjEyHbZxqXXUeeyf8xtrth14TJdnpWv=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipP9YU5Ood2MseTv0B3WJbfTLO11FQohDcH6jLdQ=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipM1AzwhzVsIf0xgGgVv4_IHqhvczgcI36o7QSzj=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipO17Ee0M1v67LlAZp5fxb7JMTQarT6O2VvaczOp=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMdJFEIx06pfaU04qDbFHcTyJVhce6uNc1OgbgV=w1024-h576-k-no"
+  ],
+  "topComments": [
+    {
+      "author": "Clau",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucop7xxXLWOtCFrnb38plNCyy40z2MfZClpAtWjoWvU=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "Lugar agradável com diversos ambientes. Várias opções de montanhas russas. Sugiro levar um pequeno guarda chuva e capa de chuva, leve lanches, frutas e bebidas para consumir enquanto espera nas filas das atrações. Tem diversão para todas as idades.",
+      "gradeComment": 4
+    },
+    {
+      "author": "Carol Capel",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucpRwvChWTDhDhGCPFW_4mzHztihghrZ9s1klaX0Sho=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "Amei o parque! Vale muito a pena a visita. Tudo limpinho. Comida excelente! Sobremesa maravilhosa. As montanhas russas novinhas e tudo muito lindo e bem cuidado!",
+      "gradeComment": 5
+    },
+    {
+      "author": "Teresa Correia",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucr6sXgc2WNMo0OucU5273crJbvVa8YkWFb6QOf5qQ=w36-h36-p-c0x00000000-rp-mo-br100",
+      "comment": "😆👌",
+      "gradeComment": 4
+    },
+    {
+      "author": "Liviu Dunaevschi",
+      "photoAuthor": "https://lh3.googleusercontent.com/a/AItbvml_kY1dLO8k2X9cfbnb2WVWXUYCTsZWHVfWKDhc=w36-h36-p-c0x00000000-rp-mo-ba2-br100",
+      "comment": "Suuuper",
+      "gradeComment": 5
+    },
+    {
+      "author": "Victor Matos Dasilva",
+      "photoAuthor": "https://lh3.googleusercontent.com/a/AItbvmnzca6PRs1b2jXIPiNkxkLjbvELhhYDKcNAyzN7=w36-h36-p-c0x00000000-rp-mo-br100",
+      "comment": "Muito legal",
+      "gradeComment": 5
+    },
+    {
+      "author": "Vasco Viegas",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucoJ0DrHQlmcgdOB-f6I7xQY-9Fjb_dTRHQOBF2Aew=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "Espectáculo",
+      "gradeComment": 5
+    },
+    {
+      "author": "maria evana Ribeiro",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucp8a_f1YJZvAlZM2sTQL39QDKJAzNFsTu83isf5sw=w36-h36-p-c0x00000000-rp-mo-br100",
+      "comment": "Otimo lugar para adolescente em busca de emoção e adultos.",
+      "gradeComment": 4
+    },
+    {
+      "author": "Dr. Jana Lingemann",
+      "photoAuthor": "https://lh3.googleusercontent.com/a/AItbvmk2dJEstXiFbc_0txCW741fR4jc0rywYFMxL48K=w36-h36-p-c0x00000000-rp-mo-br100",
+      "comment": "(Tradução do Google) Ótimo parque cuidadosamente projetado. Muito bem conservado e rodeado pela natureza. Há atrações para toda a família. Até minha filhinha (8 meses) gostou. A equipe é muito simpática e atenciosa. Nós voltaremos!  (Original) Toller, liebevoll gestalteter Park. Sehr gepflegt und in die Natur eingefasst. Es gibt Attraktionen für die ganze Familie. Selbst meine kleine Tochter (8 Monate) hatte ihren Spaß. Das Personal ist sehr freundlich und aufmerksam. Wir kommen wieder!",
+      "gradeComment": 5
+    },
+    {
+      "author": "Yvette Huizer",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucrb2Y5uvQ4tEhkdyQmrk8G7H9wnN1q5Qxi4XCsD-A=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "(Tradução do Google) Nossa filha de 11 anos: 'Muito divertido, muito bonito e melhorou muito há alguns anos. O Phoenix foi muito legal.'  Belo parque com muitas opções de jogos aquáticos e ambiente natural. Temas mágicos que são muito atraentes. O parque irradia tranquilidade fora das filas, mas estas também são muito bem decoradas. Montanhas-russas divertidas e muitos playgrounds separados de escalada e escalada. Os salões internos também são divertidos, principalmente para os mais pequenos!  Infelizmente, o show de mergulho não estava lá quando estávamos lá.  (Original) Onze dochter van 11: 'Echt superleuk, heel mooi en echt veel verbetert met een aantal jaren terug. De Fenix was echt gaaf.'  Prachtig park met veel waterspeelmoglijkheden en natuurlijke omgeving. Magische thema's die erg aanspreken. Het park straalt rust uit buiten de wachtrijen, maar ook deze zijn heel mooi aangekleed. Leuke achtbanen en veel losse klim- en klauterspeeltuinen. De binnenhallen zijn ook leuk, zeker voor de kleinsten!  Helaas was de duikshow er niet toen wij er waren.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Seren Kor",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucrCukXnG1BpPP9KG9ZngIT-68JqYZ5odHI_r4Eghg=w36-h36-p-c0x00000000-rp-mo-ba5-br100",
+      "comment": "(Tradução do Google) Lugares de estacionamento previstos para deficientes 🎢 Portas automáticas 🎢 Aplicativo Toverland Tempos de espera não muito longos Pessoal muito simpático Parque muito bem cuidado Tanto para crianças como para jovens de 20 anos 🎢 No caminho para o parque estava claramente marcado 🎢 Não ficou claro o que seria e o que seria aberto ✖ Não ficou tão claro sobre as regras da coroa  Foi realmente um grande aniversário! Obrigado por isso  (Original) Parkeer vakken voorzien voor invalide 🎢 Automatische deuren 🎢 Toverland app 🎢 Niet te lange wachttijden 🎢 Zeer vriendelijk personeel 🎢 Park heel goed onderhouden 🎢 Zowel voor kinderen als voor 20 jarigen 🎢 Op weg naar het park was het duidelijk gemarkeerd 🎢 Het was niet duidelijk wat wel en open zou zijn ✖ Over de corona regels was het niet zo duidelijk ✖  Het was echt een top verjaardag! Dankjewel hiervoor 🎢🎢🎢",
+      "gradeComment": 5
+    },
+    {
+      "author": "Xander van Merkesteijn",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucr4o47CdMPaGIi6YKNk4WrulTRJzhqNaEXYOk-z_g=w36-h36-p-c0x00000000-rp-mo-ba5-br100",
+      "comment": "(Tradução do Google) Toverland continua me surpreendendo com todas as atualizações que são introduzidas em ritmo acelerado. Venho aqui desde o primeiro ano quando havia apenas 1 grande salão com atrações. É claro que todo parque/empresa tem políticas que você preferiria ver de forma diferente, mas Toverland está bem encaminhado para o topo.  Trabalhar cada vez mais na experiência e no tema para dar às pessoas a ideia de que elas acabam em um mundo completamente diferente é ótimo, desde a música pelo parque até as filas onde você está ocupado. O parque também tem alguns toppers e estreias na área com Troy, Fenix ​​e Boosterbikes.  A equipe é muito simpática e mostra que gosta de trabalhar em Toverland, o que também ganha um sorriso em troca. Como aniversariante, no final do dia, quase todos os funcionários o parabenizaram ou conversaram com você.  É uma pena ver que tantos restaurantes estão fechados na pré-temporada (o que é compreensível), mas você também está mais limitado em suas escolhas.  A taxa de entrada está ok. Os preços do catering são normais o que você pode esperar. A loja de souvenirs realmente depende do que você compra. Algumas lembranças estão no topo dos parques holandeses em termos de preço e outros itens estão muito abaixo do preço que você perdeu em outros lugares.  Sempre bom voltar.  (Original) Toverland blijft mij toch steeds weer verrassen met alle upgrades die in een snel tempo worden ingeleid. Ik kom hier al vanaf het eerste jaar toen er pas 1 grote hal stond met attracties. Natuurlijk heeft elk park/bedrijf beleidsregels die je liever anders ziet maar Toverland is hard op weg naar de top.  Het steeds meer werken aan de beleving en thematisering om mensen het idee te geven dat ze in een compleet andere wereld terecht komen is super van het muziek door het park tot de wachtrijen waar je bezig gehouden wordt. Het park heeft ook wel echt een paar toppers en primeurs in de omgeving met Troy, Fenix en Boosterbikes.  Personeel is zeer vriendelijk en straalt uit dat ze het naar hun zin hebben om in Toverland te werken wat ook weer een glimlach terug verdient. Als jarige heeft aan het eind van de dag bijna iedere medewerker je wel gefeliciteerd of een praatje met je gemaakt.  Jammer om te zien dat in het voorseizoen zoveel eetgelegenheden dicht zijn (wat wel begrijpelijk is) maar je dus ook beperkter bent in je keuzes.  Entreeprijs is in orde. De horecaprijzen zijn normaal wat je kunt verwachten. De souvenierswinkel ligt het er echt aan wat je koopt. Sommige souveniers zijn wel de top van de Nederlandse parken qua prijs en andere artikelen zitten ver onder de prijs wat je ergens anders kwijt bent.  Altijd leuk weer even terug te komen.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Thorsten Debler",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucrwNZNoTq4PuTNU5sdXCWqYcb4vIx4FEswTSXT3sQ=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "(Tradução do Google) Pequeno parque agradável. Você pode ficar nela o dia todo. A montanha-russa de madeira é extremamente rápida, o que acho muito incomum para uma montanha-russa de madeira. Há muito a oferecer para crianças com menos de 130 cm e você só pode andar em 2 montanhas-russas de uma altura de 140 cm.  (Original) Schöner kleiner Park. Man kann sich gut den ganzen Tag darin aufhalten. Die Holzachterbahn ist extrem schnell, was ich sehr ungewöhnlich für eine Holzachterbahn finde. Es ist viel geboten für Kinder unter 130cm und 2 Achterbahnen kann man sogar erst ab einer Körpergröße von 140cm fahren.",
+      "gradeComment": 4
+    },
+    {
+      "author": "Tim de Wert",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucoG9ErMoQHyh7GgI1fWSE4iWAaWJ2Gl772OCyCvBHg=w36-h36-p-c0x00000000-rp-mo-ba6-br100",
+      "comment": "(Tradução do Google) Que parque de diversões divertido e bonito para jovens e idosos. há pequenas atrações suficientes para crianças de até 4 anos. Para isso, foram mobilados dois grandes salões cobertos com todo o tipo de equipamento lúdico, montanha-russa, carrossel, equipamento de escalada, etc. Há também um grande parque infantil ao ar livre para crianças mais velhas.  Para as crianças mais velhas 😜 são há muitas montanhas-russas em diferentes formas, sentadas, penduradas, navegando na água, com loops ou gotas.  O parque é bem ajardinado com diferentes temas e paisagens decorativas. Há muitos restaurantes e locais para comer.  (Original) Wat een leuk en mooi pretpark voor jong en oud. er zijn voldoende kleine atracties voor kinderen tot 4 jaar. Hiervoor zijn zelfs twee grote overdekte hallen ingericht met allerlei speeltoestellen, achtbaan, draaimolen, klimtoestellen,etc. Daarnaast is er een hele grote buiten speeltuin voor oudere kinderen.  Voor de oudere kinderen 😜 zijn er veel achtbanen in verschillende vormen, zittende, hangende, watervarende, met loopings of drops.  Het park is mooi aangelegd met verschillende thema's en decoratieve landschappen. Er zijn voldoende restaurant s en eet gelegenheden.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Nicolas Pru",
+      "photoAuthor": "https://lh3.googleusercontent.com/a/AItbvmnUkxB_TFdUcZBzUj-ZWqO-ku1sBEWBlONgiCz6=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "(Tradução do Google) Parque de diversões Gentile, mais para crianças de 6 a 14 anos do que para adultos. Mas a atração com motocicletas é única. Horário de funcionamento das 10h às 18h. Você paga menos online e se comprar com uma semana de antecedência  (Original) Parc d'attraction gentillet m, plus pour les 6-14 ans que pour les adultes. Mais l'attraction avec les motos est unique en son genre. Heure d'ouverture 10h à 18h. Vous payez moins cher en ligne et si vous les achetez une semaine à l'avance",
+      "gradeComment": 3
+    },
+    {
+      "author": "Ben Bruce",
+      "photoAuthor": "https://lh3.googleusercontent.com/a/AItbvmkgL_rFSH-jH_Xy4yvQIa5fURP6rsRIIH4Hl_Mx=w36-h36-p-c0x00000000-rp-mo-ba3-br100",
+      "comment": "(Tradução do Google) Um excelente parque temático com muitos bons passeios e atrações, adorável e limpo, ótimas opções de comida, um bom dia inteiro! Vá para Troy, mas fique para Bami Salami! Esteja ciente de que parece haver muitas excursões escolares ao parque no momento, devido a isso, o parque fica inundado até por volta das 16h, momento em que se torna muito mais gerenciável!  (Original) An excellently themed park with plenty of good rides and attractions, lovely and clean, great food options, a nice full day out! Go for Troy but stay for Bami Salami! Just be aware that there seems to be a lot of school trips to the park at the moment, due to this the park is flooded until around 4pm at which point it becomes a lot more manageable!",
+      "gradeComment": 5
+    },
+    {
+      "author": "Courtney Mirrer",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucrvcIKiaVmkdd41KaMi4KI1XxRYXScg718lItVmyA=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "(Tradução do Google) Parque muito agradável por um preço pequeno. Você certamente estará lá por um dia e poderíamos ir a qualquer lugar em um sábado na pré-temporada. Algumas montanhas-russas especiais que você não tem em todos os lugares são muito legais. E é certamente um parque agradável agradável para crianças pequenas.  (Original) Heel leuk park voor een klein prijsje. Je bent er zeker wel een dagje zoet en wij konden in het pre-season op een zaterdag overal zo in. Zijn wat leuke bijzondere achtbanen die je niet overal hebt heel leuk. En het is zeker ook een leuk fijn park voor kleine kinderen.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Daniela Coenen",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZuco-2pB8-5T2WieL2FyXnRat4Xsn6Z938tIt3BoIsg=w36-h36-p-c0x00000000-rp-mo-br100",
+      "comment": "(Tradução do Google) Foi ótimo! 🤩🥳 Novos mundos temáticos muito legais! Com ótimas zonas tranquilas à sombra das árvores! O mundo animal é integrado, ótimo e feito com atenção aos detalhes! Nós estamos animados!  (Original) Es war super! 🤩🥳 Richtig schöne neue Themen Welten! Mit ganz tollen Ruhezonen mit Schatten der Bäume! Die Tierwelt ist mit Integriert, ganz toll und mit liebe zum Detail gemacht! Wir sind begeistert!",
+      "gradeComment": 5
+    },
+    {
+      "author": "Jessica Nießen",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucpdm3RLiq82BICx1rQJOZFihpHcweJK4qFGqZPGmw=w36-h36-p-c0x00000000-rp-mo-br100",
+      "comment": "(Tradução do Google) Nós estávamos lá com nosso filho de quase 2,5 anos e inicialmente estávamos preocupados que seria muito chato, mas realmente valeu a pena e ele valeu a pena! Da próxima vez levaremos uma muda de roupa conosco, porque há playgrounds aquáticos por toda parte. Um realmente grande com muitas opções de jogo. A área interna costuma ser atrativa para os mais pequenos, embora também haja mais de um playground. Valeu a pena o dinheiro e é realmente recomendado!  (Original) Wir waren mit unserem fast 2,5 jährigen Sohn da und hatten anfänglich Sorge, dass es zu langweilig ist, aber es hat sich wirklich gelohnt und er ist auf seine Kosten gekommen! Beim nächsten Mal nehmen wir Wechselklamotten mit, da an jeglichen Stellen Wasserspielplätze sind. Ein ganz großer mit super vielen Spielmöglichkeiten. Für die kleinen ist meist der Indoor Bereich attraktiv, wobei es auch mehr als einen Spielplatz gibt. War sein Geld wert und ist wirklich empfehlenswert!",
+      "gradeComment": 5
+    },
+    {
+      "author": "ranbomb",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucpfeUnGP0HWGlIeCGiL_9GRHeRMQJwPFF-P6aMUvww=w36-h36-p-c0x00000000-rp-mo-ba2-br100",
+      "comment": "(Tradução do Google) Belo parque! Estava aqui com meu melhor amigo montanhas-russas divertidas as filas às vezes eram longas, mas não era tão ruim assim. A pizza era muito saborosa e as lojas são muito agradáveis. Estive aqui muitas vezes desde pequena, sempre terá um lugar no meu coração de infância!  (Original) Leuk park! Was hier met mijn beste vriendin leuke achtbanen de rijen waren soms lang maar het viel heel erg mee. De pizza was heel erg lekker en de winkeltjes zijn erg leuk. Ben hier vaak geweest al sinds ik klein was, blijft altijd een plekje in mijn kinder hart hebben!",
+      "gradeComment": 5
+    },
+    {
+      "author": "Carolina N.",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucqMOS8BoPieX7XmuMNPQzQzXQWZbHC4TpgaraqfEg=w36-h36-p-c0x00000000-rp-mo-br100",
+      "comment": "(Tradução do Google) Parque de diversões muito agradável, para todas as idades, os tempos de espera pelas atrações podem ser bastante longos, entre 30 minutos e 1 hora. Nos divertimos muito, tivemos um super dia.  (Original) Hele leuke attractiepark, voor alle leeftijden,  de wachttijden voor de attracties kunnen best lang zijn, tussen 30 minuten en 1 uur. We hebben veel plezier gehad, een super dag geweest.",
+      "gradeComment": 5
+    }
+  ],
+  "peakHours": [
+    {
+      "Sunday": [
+        {
+          "hour": "10:00",
+          "percent": 51
+        },
+        {
+          "hour": "11:00",
+          "percent": 77
+        },
+        {
+          "hour": "12:00",
+          "percent": 92
+        },
+        {
+          "hour": "13:00",
+          "percent": 92
+        },
+        {
+          "hour": "14:00",
+          "percent": 91
+        },
+        {
+          "hour": "15:00",
+          "percent": 93
+        },
+        {
+          "hour": "16:00",
+          "percent": 89
+        },
+        {
+          "hour": "17:00",
+          "percent": 69
+        }
+      ]
+    },
+    {
+      "Monday": [
+        {
+          "hour": "10:00",
+          "percent": 37
+        },
+        {
+          "hour": "11:00",
+          "percent": 55
+        },
+        {
+          "hour": "12:00",
+          "percent": 64
+        },
+        {
+          "hour": "13:00",
+          "percent": 63
+        },
+        {
+          "hour": "14:00",
+          "percent": 62
+        },
+        {
+          "hour": "15:00",
+          "percent": 61
+        },
+        {
+          "hour": "16:00",
+          "percent": 56
+        },
+        {
+          "hour": "17:00",
+          "percent": 44
+        }
+      ]
+    },
+    {
+      "Tuesday": [
+        {
+          "hour": "10:00",
+          "percent": 39
+        },
+        {
+          "hour": "11:00",
+          "percent": 55
+        },
+        {
+          "hour": "12:00",
+          "percent": 61
+        },
+        {
+          "hour": "13:00",
+          "percent": 60
+        },
+        {
+          "hour": "14:00",
+          "percent": 60
+        },
+        {
+          "hour": "15:00",
+          "percent": 59
+        },
+        {
+          "hour": "16:00",
+          "percent": 51
+        },
+        {
+          "hour": "17:00",
+          "percent": 36
+        }
+      ]
+    },
+    {
+      "Wednesday": [
+        {
+          "hour": "10:00",
+          "percent": 34
+        },
+        {
+          "hour": "11:00",
+          "percent": 49
+        },
+        {
+          "hour": "12:00",
+          "percent": 56
+        },
+        {
+          "hour": "13:00",
+          "percent": 57
+        },
+        {
+          "hour": "14:00",
+          "percent": 57
+        },
+        {
+          "hour": "15:00",
+          "percent": 58
+        },
+        {
+          "hour": "16:00",
+          "percent": 52
+        },
+        {
+          "hour": "17:00",
+          "percent": 38
+        }
+      ]
+    },
+    {
+      "Thursday": [
+        {
+          "hour": "10:00",
+          "percent": 46
+        },
+        {
+          "hour": "11:00",
+          "percent": 68
+        },
+        {
+          "hour": "12:00",
+          "percent": 74
+        },
+        {
+          "hour": "13:00",
+          "percent": 74
+        },
+        {
+          "hour": "14:00",
+          "percent": 77
+        },
+        {
+          "hour": "15:00",
+          "percent": 78
+        },
+        {
+          "hour": "16:00",
+          "percent": 68
+        },
+        {
+          "hour": "17:00",
+          "percent": 52
+        }
+      ]
+    },
+    {
+      "Friday": [
+        {
+          "hour": "10:00",
+          "percent": 40
+        },
+        {
+          "hour": "11:00",
+          "percent": 59
+        },
+        {
+          "hour": "12:00",
+          "percent": 67
+        },
+        {
+          "hour": "13:00",
+          "percent": 67
+        },
+        {
+          "hour": "14:00",
+          "percent": 68
+        },
+        {
+          "hour": "15:00",
+          "percent": 69
+        },
+        {
+          "hour": "16:00",
+          "percent": 62
+        },
+        {
+          "hour": "17:00",
+          "percent": 49
+        }
+      ]
+    },
+    {
+      "Saturday": [
+        {
+          "hour": "10:00",
+          "percent": 53
+        },
+        {
+          "hour": "11:00",
+          "percent": 80
+        },
+        {
+          "hour": "12:00",
+          "percent": 94
+        },
+        {
+          "hour": "13:00",
+          "percent": 97
+        },
+        {
+          "hour": "14:00",
+          "percent": 97
+        },
+        {
+          "hour": "15:00",
+          "percent": 100
+        },
+        {
+          "hour": "16:00",
+          "percent": 96
+        },
+        {
+          "hour": "17:00",
+          "percent": 81
+        }
+      ]
+    }
+  ],
+  "relatedSearches": [
+    "walibi holland",
+    "fēnix at toverland",
+    "julianatoren",
+    "walibi holland tickets",
+    "looopings",
+    "avonturenpark",
+    "slagharen",
+    "irrland"
+  ],
+  "relateds": [
+    {
+      "mainName": "Family park Drievliet",
+      "url": null
+    },
+    {
+      "mainName": "Bobbejaanland",
+      "url": null
+    },
+    {
+      "mainName": "Duinrell",
+      "url": null
+    },
+    {
+      "mainName": "Movie Park Germany",
+      "url": null
+    },
+    {
+      "mainName": "Walibi World",
+      "url": null
+    },
+    {
+      "mainName": "Plopsaland De Panne",
+      "url": null
+    },
+    {
+      "mainName": "Phantasialand",
+      "url": null
+    },
+    {
+      "mainName": "Efteling",
+      "url": null
+    },
+    {
+      "mainName": "Europa Park",
+      "url": null
+    },
+    {
+      "mainName": "Beekse Bergen",
+      "url": null
+    },
+    {
+      "mainName": "Walibi Belgium",
+      "url": null
+    },
+    {
+      "mainName": "Troy",
+      "url": null
+    },
+    {
+      "mainName": "Fēnix",
+      "url": null
+    },
+    {
+      "mainName": "Booster Bike",
+      "url": null
+    },
+    {
+      "mainName": "Natura Artis Magistra",
+      "url": null
+    },
+    {
+      "mainName": "Attractiepark Slagharen",
+      "url": null
+    },
+    {
+      "mainName": "Julianatoren Apeldoorn",
+      "url": null
+    },
+    {
+      "mainName": "Wunderland Kalkar",
+      "url": null
+    },
+    {
+      "mainName": "Wildlands",
+      "url": null
+    },
+    {
+      "mainName": "AdventurePark Hellendoorn",
+      "url": null
+    },
+    {
+      "mainName": "Irrland",
+      "url": null
+    },
+    {
+      "mainName": "Bellewaerde",
+      "url": null
+    },
+    {
+      "mainName": "Attractiepark DippieDoe",
+      "url": null
+    },
+    {
+      "mainName": "Heide Park Resort",
+      "url": null
+    }
+  ]
+}

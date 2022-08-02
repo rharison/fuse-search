@@ -1,0 +1,962 @@
+{
+  "mainName": "AACD - Servidor",
+  "slug": "aacd-servidor",
+  "category": "Estação de metrô",
+  "locationInformation": {
+    "latitude": "-23.5973046",
+    "longitude": "-46.6522814"
+  },
+  "basicInformation": [
+    {
+      "label": "endereço",
+      "tooltip": "Copiar endereço",
+      "text": "Rua Pedro de Toledo, 1.601 - Indianópolis, São Paulo - SP, 04027-000",
+      "icon": "https://www.gstatic.com/images/icons/material/system_gm/1x/place_gm_blue_24dp.png"
+    },
+    {
+      "label": "website",
+      "tooltip": "Abrir website",
+      "text": "viamobilidade.com.br",
+      "icon": "https://www.gstatic.com/images/icons/material/system_gm/1x/public_gm_blue_24dp.png"
+    },
+    {
+      "label": "telefone",
+      "tooltip": "Copiar número de telefone",
+      "text": "0800 770 7106",
+      "icon": "https://www.gstatic.com/images/icons/material/system_gm/1x/phone_gm_blue_24dp.png"
+    },
+    {
+      "label": "Code",
+      "tooltip": "Copiar Plus Code",
+      "text": "C83X+33 São Paulo, SP",
+      "icon": "https://maps.gstatic.com/mapfiles/maps_lite/images/2x/ic_plus_code.png"
+    }
+  ],
+  "ratingInformation": {
+    "basicRatingInformation": {
+      "averageGrade": 4.5,
+      "totalOfEvaluations": 310
+    },
+    "ratingsByGrade": [
+      {
+        "grade": 5,
+        "totalRatings": 214
+      },
+      {
+        "grade": 4,
+        "totalRatings": 67
+      },
+      {
+        "grade": 3,
+        "totalRatings": 17
+      },
+      {
+        "grade": 2,
+        "totalRatings": 2
+      },
+      {
+        "grade": 1,
+        "totalRatings": 10
+      }
+    ]
+  },
+  "ratingTags": [
+    {
+      "tag": "hospitais",
+      "count": 16,
+      "tooltip": "hospitais, mencionado em 16 avaliações"
+    },
+    {
+      "tag": "organizado",
+      "count": 10,
+      "tooltip": "organizado, mencionado em 10 avaliações"
+    },
+    {
+      "tag": "banheiros",
+      "count": 7,
+      "tooltip": "banheiros, mencionado em 7 avaliações"
+    },
+    {
+      "tag": "região",
+      "count": 6,
+      "tooltip": "região, mencionado em 6 avaliações"
+    },
+    {
+      "tag": "acessibilidade",
+      "count": 5,
+      "tooltip": "acessibilidade, mencionado em 5 avaliações"
+    },
+    {
+      "tag": "vida",
+      "count": 4,
+      "tooltip": "vida, mencionado em 4 avaliações"
+    },
+    {
+      "tag": "estrutura",
+      "count": 4,
+      "tooltip": "estrutura, mencionado em 4 avaliações"
+    },
+    {
+      "tag": "servidor público",
+      "count": 3,
+      "tooltip": "servidor público, mencionado em 3 avaliações"
+    },
+    {
+      "tag": "usuários",
+      "count": 3,
+      "tooltip": "usuários, mencionado em 3 avaliações"
+    },
+    {
+      "tag": "segurança",
+      "count": 3,
+      "tooltip": "segurança, mencionado em 3 avaliações"
+    }
+  ],
+  "featuredPhotos": [
+    "https://lh5.googleusercontent.com/p/AF1QipNm2UoHA1HIKvznEAPYqWTI61gYUrTbx0fGCSHd=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPniMXEmtCY3WNVCF0jvlIs3szx1GERB8qKfViL=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPw5LPewz14VuwCWwxHKe8mK0VFkJbZj8uqXZkB=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipM70fxRwAiMYZ92Myj-L_nrTwpsudBGUM-uXerm=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPrn78bGrJBJ3XwpXfnKSxGBJm3HYMry3FmZ4fP=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMEo5rPxiUEfaheEq_8mgKqX3Qt-GGbuehzEB3x=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPKc2crLpM1Laes7divl_z-9wfNcc9gHgz6_mYR=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMhfNk_os4_30LS7GRqffPwEy23yZIiqXJYR7zh=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPrqhnvXirHevX9LK9yZLA54MX7IEiWN5KzGi_b=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNbHfk-kMQuQGgDDQqjP0vww7b0efYxynGNHpNh=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNGARsV02bTBTRG1185-LmeeNY6oMHIuPgpbXaH=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipO1EdAQ8hMMwFPanXMnj8ryptgsFcZS930x1r5Q=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMpuEbbEgwh7xqqFUqGlknj1u38qUrg05J-q0h6=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNJXmzqR1aB6ix-KsIsQj42GZt2ndQ0pW6SfarM=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOoh4Ujw5IkGC57zJQ4rhNEKN9ZxfmkORiXiUSh=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOOrGGvH2P4xZCW0sZ9pj08LBGMP6HrnoR2n6ud=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNG50tdIj1DupjynRR5a-D-mDRXAd4OKZmL425Z=w1024-h576-k-no"
+  ],
+  "topComments": [
+    {
+      "author": "Leonardo Grillo",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucpQ4Z-73d7SPk4icwDikGbXO86sHP0aPIBfSg2Zew=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "Muito agradável e de fácil acesso. A estação é extremamente limpa (uma das mais limpas que já visitei). O fluxo de passageiros é pequeno e possui ótima segurança. Um dos principais acessos ao Parque Ibirapuera para quem utiliza o transporte público para chegar no local.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Victor Hugo Vlog e Audiovisual",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucq5f-Uxd_1vOu-GDjbEkHelCr-SJ0DPTTHOL8JuqQ=w36-h36-p-c0x00000000-rp-mo-ba5-br100",
+      "comment": "Estação moderna, bem iluminada, com infra-estrutura recente e boa localização para ir ao Parque Ibirapuera e ao Hospital do Servidor Público (que leva o nome da estação). Foi estrategicamente importante sua abertura pois tira o fluxo de passageiros da Linha 4 - Amarela que precisavam fazer baldeação à CPTM.  O único problema é a falta de sinal de celular.",
+      "gradeComment": 4
+    },
+    {
+      "author": "Rafael Alcantara",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucoYDTYyhrSzcf0Yxl1Y0S8-WikSNvVOVnL3v7TzC_U=w36-h36-p-c0x00000000-rp-mo-ba6-br100",
+      "comment": "Estação mordena e bem localizada. Fica situada a poucos minutos dos hospitais do servidor público e Edmundo Vasconcelos. Quanto a infraestrutura, dispõem de corredores largos e boa área para circulação de passageiros. Limpa e bem conservada, o banheiro também é limpo. O único defeito é a concessionária não explorar melhor comercialmente à área disponível.",
+      "gradeComment": 4
+    },
+    {
+      "author": "Marcos de Lima Filho",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucqjnmZPfTROvNA80bGp7JMYLZNdHE3TVNlerR-yxA=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "Estive na AACD para perguntar se eles atendiam pelo meu convenio (Amil) e confirmar se faziam um determinado exame conforme recomendação medica. Informaram que se eu estivesse com a guia, poderiam fazer um encaixe e realizar o exame na hora. Caso contrário, teria que fazer o agendamento que é a forma correta. Resumindo, fiz o exame, não demorou a espera e o atendimento foi rápido. Todos os funcionários estão de parabéns, desde o primeiro atendimento com as funcionárias da recepção até os responsáveis por fazer o exame. Atendimento ótimo, recomento a todos. Parabéns.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Morango Boni",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucqMgabhcdt5uyQyz9ZklTHYEilgZku3sGdJVI3oggI=w36-h36-p-c0x00000000-rp-mo-ba7-br100",
+      "comment": "Estação faz parte da linha roxa que faz conexão do Capão Redondo a Chácara Klabin, muito bem localizada limpa e organizada, banheiros limpos e funcionários atenciosos.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Antonio Otávio Trigueiro",
+      "photoAuthor": "https://lh3.googleusercontent.com/a/AItbvmlvZhn3aceBHPtZQ6_Yj0KiIrt7en5dUyJ2EJ7p=w36-h36-p-c0x00000000-rp-mo-br100",
+      "comment": "Se possível gostaria de pedir ao superior do segurança MORAES ler e orientar o mesmo a respeito do decreto lei 64.884 de 24mar20, fato constrangedor ocorrido em data de 08fev16:4022, documentação será encaminhada via ouvidoria",
+      "gradeComment": 1
+    },
+    {
+      "author": "Priscilla Fernandes",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucpsVwKb6UMY-CwgwXWg93w2DTZGkR2zxnEv01Ef=w36-h36-p-c0x00000000-rp-mo-ba5-br100",
+      "comment": "Estação linda! Tudo novinho, muito organizado.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Claudio Ferreira",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucrTpWcvcMeLhE0Ek9lNoCNoQkVzpt0GHast01wj=w36-h36-p-c0x00000000-rp-mo-ba3-br100",
+      "comment": "Péssima .... funcionários e seguranças totalmente despreparados. Educação e respeito não fazem parte do dia a dia. A pior linha entre todas as outras",
+      "gradeComment": 1
+    },
+    {
+      "author": "Marcos Y. Yamada",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucp8RuC1CVV5nJtj0I4GyUn6JxXDxUJHyVQNtbEOcY4=w36-h36-p-c0x00000000-rp-mo-ba7-br100",
+      "comment": "Uma das estações da linha 5 - Lilás do Metrô de São Paulo. Facilitou muito o acesso para os hospitais do Servidor Público Estadual, AACD e Edmundo Vasconcelos. Instalações modernas e com acessibilidade.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Rafael de Paula",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucq1kAMLY85TrQa08SfrRd_23jDQ-UfoiA12Oax2=w36-h36-p-c0x00000000-rp-mo-ba5-br100",
+      "comment": "Ótimo hospital fui muito bem atendido pessoal atenciosos fácil acesso metrô linha5 lilás ou estacionamento na frente",
+      "gradeComment": 4
+    },
+    {
+      "author": "LUIZ FERNANDO TADEU BELLANI",
+      "photoAuthor": "https://lh3.googleusercontent.com/a/AItbvml314Uj40Z6cvxu_vjB0upekLsJzaFIIZCFpZo=w36-h36-p-c0x00000000-rp-mo-ba5-br100",
+      "comment": "Estação bem localizada. Situada numa área bem estruturada. Perto do grande hospital do servidor público estadual. Perto do parque do Ibirapuera. Essa linha do metrô da acesso a várias regiões de São Paulo.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Marisa Jose",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucq-mXV3U8C6DCghZ1jSf3i-9ssaWFyEPfpp9Md-iQ=w36-h36-p-c0x00000000-rp-mo-ba7-br100",
+      "comment": "São Paulo nos seus momentos de primeiro mundo. Estação metrô da AACD... que bom seria se todas tivessem este padrão .. tudo lindo, claro, iluminado, limpo... toda comunicação em português e inglês... não fica nada a dever ao metro de países mais desenvolvidos",
+      "gradeComment": 5
+    },
+    {
+      "author": "Walace Silva",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucqRMq7os7C9lzPNhFUYs758po-aEm9LOcWXeQ-b2g=w36-h36-p-c0x00000000-rp-mo-ba6-br100",
+      "comment": "Estação ampla e enorme , conta com acessibilidade de ponta e é bem segura ao redor .",
+      "gradeComment": 5
+    },
+    {
+      "author": "Julia Paixão",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucpfsApFN2f1KYb0qtiNVAY_HXZUk_SWb9bfQ1qDu6I=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "Estação extremamente limpa, conservada, muito bonita e bem sinalizada também!",
+      "gradeComment": 5
+    },
+    {
+      "author": "Sandro Luiz Martins",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucq_wFL1P6JoDcgLoZncTUg5Sqdzt6EcOOCLD5Dj9Y0=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "O sonho dos servidores públicos é servir aqui & sim, falo também por mim e PhD geral. Parabéns! Merecemos IAMSP!",
+      "gradeComment": 5
+    },
+    {
+      "author": "Alexandre",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZuco_OXBf3tR863YdrhJQYKxkZWjFqUsQxoh1dZ_05w=w36-h36-p-c0x00000000-rp-mo-ba8-br100",
+      "comment": "Boa infraestrutura e acesso ao hospital do servidor público estadual e AACD e próximo ao parque do Ibirapuera.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Rodrigo Gonçalves Luiz",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucqqNMBkWmpI9AEiuKo1Vq-6GGUAaY_i9wQQXIcqpQ=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "A estação de metrô AACD Servidor faz parte da linha lilás. Na maioria do tempo ela é vazia e tranquila. Tem ótimo acesso para o Hospita do Sevidor público do estado de São Paulo e a instituição AACD. Não tem muita demora entre um trem e outro. Os intervalos são pequenos e na maioria das vezes não muita lotacaonos vagões. Tem banheiro na estação. Faz ligação com outras linhas do metrô. Facilitou bastante a vida de quem precisa dos serviços médicos da região, pois é muito difícil chegar no local de carro devido ao intenso trânsito e também sem muitos lugares para estacionar. Na estacao tem estacionamento, mas é bem caro.",
+      "gradeComment": 4
+    },
+    {
+      "author": "Fabio Muniz Pires",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucrLgYGAthJc-sWgKv59yy16vs56AjTFG_SlHVaGKeE=w36-h36-p-c0x00000000-rp-mo-ba3-br100",
+      "comment": "Depois de eu ter sofrido um AVC, ao sair do hospital, eu não conseguia nem ficar sentado, graças à AACD servidor e toda a equipe de médicos e terapeutas, hoje eu ando, tomo meu banho sozinho e já estou até trabalhando após um ano e meio de avc um lugar e pessoas maravilhosas! Desde o pessoal da portaria, da recepção, médicos, todos ótimos! Lá me sinto muito bem acolhido e tratado! Quem conhece lá vê na hora que as doações são muito bem empregadas e os terapeutas trabalham mesmo por amor! Vc vê nos olhos deles a felicidade por cada evolução no seu quadro! Um espetáculo de lugar, eu amo lá",
+      "gradeComment": 5
+    },
+    {
+      "author": "Richard Mendelsohn",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucoEOXAvSU75mwM01YrLx9hWHoMsWT59gAeBkXqzPA=w36-h36-p-c0x00000000-rp-mo-ba6-br100",
+      "comment": "Facilitou muito a vida para quem usa o Hospital do Servidor e a AACD. É perceptível a falta que a estação fazia para os usuários que, até pouco tempo atrás, tinham que se locomover de ônibus da Santa Cruz ao local.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Wellington Lima",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucrMRYE2wnyEBCfpaJsrHH1d4eoYNMX4_6cabbSkBjY=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "Péssimo atendimento no bicicletário da estação AACD ontem por volta das 20 horas eu fui colocar minha bicicleta porém dificultaram fizeram de tudo para que eu não usasse alegando que precisava de comprovante de residência funcionários mal educados mal-humorados na estação péssimo atendimento . Dois únicos funcionários na SSO demorado atendimento fiquei por volta de 15 a 20 minutos esperando o funcionário subir para me destratar.",
+      "gradeComment": 1
+    }
+  ],
+  "peakHours": [
+    {
+      "Sunday": [
+        {
+          "hour": "05:00",
+          "percent": 2
+        },
+        {
+          "hour": "06:00",
+          "percent": 4
+        },
+        {
+          "hour": "07:00",
+          "percent": 6
+        },
+        {
+          "hour": "08:00",
+          "percent": 8
+        },
+        {
+          "hour": "09:00",
+          "percent": 10
+        },
+        {
+          "hour": "10:00",
+          "percent": 12
+        },
+        {
+          "hour": "11:00",
+          "percent": 14
+        },
+        {
+          "hour": "12:00",
+          "percent": 17
+        },
+        {
+          "hour": "13:00",
+          "percent": 19
+        },
+        {
+          "hour": "14:00",
+          "percent": 20
+        },
+        {
+          "hour": "15:00",
+          "percent": 22
+        },
+        {
+          "hour": "16:00",
+          "percent": 24
+        },
+        {
+          "hour": "17:00",
+          "percent": 25
+        },
+        {
+          "hour": "18:00",
+          "percent": 24
+        },
+        {
+          "hour": "19:00",
+          "percent": 21
+        },
+        {
+          "hour": "20:00",
+          "percent": 16
+        },
+        {
+          "hour": "21:00",
+          "percent": 11
+        },
+        {
+          "hour": "22:00",
+          "percent": 5
+        },
+        {
+          "hour": "23:00",
+          "percent": 1
+        }
+      ]
+    },
+    {
+      "Monday": [
+        {
+          "hour": "04:00",
+          "percent": 5
+        },
+        {
+          "hour": "05:00",
+          "percent": 19
+        },
+        {
+          "hour": "06:00",
+          "percent": 44
+        },
+        {
+          "hour": "07:00",
+          "percent": 70
+        },
+        {
+          "hour": "08:00",
+          "percent": 84
+        },
+        {
+          "hour": "09:00",
+          "percent": 80
+        },
+        {
+          "hour": "10:00",
+          "percent": 70
+        },
+        {
+          "hour": "11:00",
+          "percent": 65
+        },
+        {
+          "hour": "12:00",
+          "percent": 67
+        },
+        {
+          "hour": "13:00",
+          "percent": 71
+        },
+        {
+          "hour": "14:00",
+          "percent": 73
+        },
+        {
+          "hour": "15:00",
+          "percent": 70
+        },
+        {
+          "hour": "16:00",
+          "percent": 63
+        },
+        {
+          "hour": "17:00",
+          "percent": 53
+        },
+        {
+          "hour": "18:00",
+          "percent": 41
+        },
+        {
+          "hour": "19:00",
+          "percent": 30
+        },
+        {
+          "hour": "20:00",
+          "percent": 20
+        },
+        {
+          "hour": "21:00",
+          "percent": 11
+        },
+        {
+          "hour": "22:00",
+          "percent": 5
+        },
+        {
+          "hour": "23:00",
+          "percent": 1
+        }
+      ]
+    },
+    {
+      "Tuesday": [
+        {
+          "hour": "04:00",
+          "percent": 1
+        },
+        {
+          "hour": "05:00",
+          "percent": 12
+        },
+        {
+          "hour": "06:00",
+          "percent": 38
+        },
+        {
+          "hour": "07:00",
+          "percent": 73
+        },
+        {
+          "hour": "08:00",
+          "percent": 93
+        },
+        {
+          "hour": "09:00",
+          "percent": 89
+        },
+        {
+          "hour": "10:00",
+          "percent": 82
+        },
+        {
+          "hour": "11:00",
+          "percent": 80
+        },
+        {
+          "hour": "12:00",
+          "percent": 79
+        },
+        {
+          "hour": "13:00",
+          "percent": 77
+        },
+        {
+          "hour": "14:00",
+          "percent": 75
+        },
+        {
+          "hour": "15:00",
+          "percent": 74
+        },
+        {
+          "hour": "16:00",
+          "percent": 70
+        },
+        {
+          "hour": "17:00",
+          "percent": 64
+        },
+        {
+          "hour": "18:00",
+          "percent": 54
+        },
+        {
+          "hour": "19:00",
+          "percent": 42
+        },
+        {
+          "hour": "20:00",
+          "percent": 29
+        },
+        {
+          "hour": "21:00",
+          "percent": 18
+        },
+        {
+          "hour": "22:00",
+          "percent": 9
+        },
+        {
+          "hour": "23:00",
+          "percent": 3
+        }
+      ]
+    },
+    {
+      "Wednesday": [
+        {
+          "hour": "04:00",
+          "percent": 10
+        },
+        {
+          "hour": "05:00",
+          "percent": 25
+        },
+        {
+          "hour": "06:00",
+          "percent": 46
+        },
+        {
+          "hour": "07:00",
+          "percent": 70
+        },
+        {
+          "hour": "08:00",
+          "percent": 90
+        },
+        {
+          "hour": "09:00",
+          "percent": 100
+        },
+        {
+          "hour": "10:00",
+          "percent": 97
+        },
+        {
+          "hour": "11:00",
+          "percent": 87
+        },
+        {
+          "hour": "12:00",
+          "percent": 79
+        },
+        {
+          "hour": "13:00",
+          "percent": 78
+        },
+        {
+          "hour": "14:00",
+          "percent": 82
+        },
+        {
+          "hour": "15:00",
+          "percent": 85
+        },
+        {
+          "hour": "16:00",
+          "percent": 80
+        },
+        {
+          "hour": "17:00",
+          "percent": 65
+        },
+        {
+          "hour": "18:00",
+          "percent": 46
+        },
+        {
+          "hour": "19:00",
+          "percent": 29
+        },
+        {
+          "hour": "20:00",
+          "percent": 18
+        },
+        {
+          "hour": "22:00",
+          "percent": 9
+        },
+        {
+          "hour": "23:00",
+          "percent": 6
+        },
+        {
+          "hour": "00:00",
+          "percent": 2
+        },
+        {
+          "hour": "03:00",
+          "percent": 2
+        }
+      ]
+    },
+    {
+      "Thursday": [
+        {
+          "hour": "04:00",
+          "percent": 6
+        },
+        {
+          "hour": "05:00",
+          "percent": 23
+        },
+        {
+          "hour": "06:00",
+          "percent": 50
+        },
+        {
+          "hour": "07:00",
+          "percent": 76
+        },
+        {
+          "hour": "08:00",
+          "percent": 84
+        },
+        {
+          "hour": "09:00",
+          "percent": 77
+        },
+        {
+          "hour": "10:00",
+          "percent": 70
+        },
+        {
+          "hour": "11:00",
+          "percent": 71
+        },
+        {
+          "hour": "12:00",
+          "percent": 75
+        },
+        {
+          "hour": "13:00",
+          "percent": 77
+        },
+        {
+          "hour": "14:00",
+          "percent": 77
+        },
+        {
+          "hour": "15:00",
+          "percent": 73
+        },
+        {
+          "hour": "16:00",
+          "percent": 67
+        },
+        {
+          "hour": "17:00",
+          "percent": 58
+        },
+        {
+          "hour": "18:00",
+          "percent": 48
+        },
+        {
+          "hour": "19:00",
+          "percent": 38
+        },
+        {
+          "hour": "20:00",
+          "percent": 27
+        },
+        {
+          "hour": "21:00",
+          "percent": 18
+        },
+        {
+          "hour": "22:00",
+          "percent": 11
+        },
+        {
+          "hour": "23:00",
+          "percent": 5
+        },
+        {
+          "hour": "00:00",
+          "percent": 1
+        }
+      ]
+    },
+    {
+      "Friday": [
+        {
+          "hour": "04:00",
+          "percent": 6
+        },
+        {
+          "hour": "05:00",
+          "percent": 16
+        },
+        {
+          "hour": "06:00",
+          "percent": 31
+        },
+        {
+          "hour": "07:00",
+          "percent": 48
+        },
+        {
+          "hour": "08:00",
+          "percent": 63
+        },
+        {
+          "hour": "09:00",
+          "percent": 70
+        },
+        {
+          "hour": "10:00",
+          "percent": 72
+        },
+        {
+          "hour": "11:00",
+          "percent": 71
+        },
+        {
+          "hour": "12:00",
+          "percent": 71
+        },
+        {
+          "hour": "13:00",
+          "percent": 72
+        },
+        {
+          "hour": "14:00",
+          "percent": 71
+        },
+        {
+          "hour": "15:00",
+          "percent": 68
+        },
+        {
+          "hour": "16:00",
+          "percent": 61
+        },
+        {
+          "hour": "17:00",
+          "percent": 53
+        },
+        {
+          "hour": "18:00",
+          "percent": 42
+        },
+        {
+          "hour": "19:00",
+          "percent": 32
+        },
+        {
+          "hour": "20:00",
+          "percent": 22
+        },
+        {
+          "hour": "21:00",
+          "percent": 14
+        },
+        {
+          "hour": "22:00",
+          "percent": 7
+        },
+        {
+          "hour": "23:00",
+          "percent": 3
+        },
+        {
+          "hour": "03:00",
+          "percent": 1
+        }
+      ]
+    },
+    {
+      "Saturday": [
+        {
+          "hour": "04:00",
+          "percent": 2
+        },
+        {
+          "hour": "05:00",
+          "percent": 6
+        },
+        {
+          "hour": "06:00",
+          "percent": 10
+        },
+        {
+          "hour": "07:00",
+          "percent": 15
+        },
+        {
+          "hour": "08:00",
+          "percent": 18
+        },
+        {
+          "hour": "09:00",
+          "percent": 20
+        },
+        {
+          "hour": "10:00",
+          "percent": 21
+        },
+        {
+          "hour": "11:00",
+          "percent": 22
+        },
+        {
+          "hour": "12:00",
+          "percent": 23
+        },
+        {
+          "hour": "13:00",
+          "percent": 25
+        },
+        {
+          "hour": "14:00",
+          "percent": 27
+        },
+        {
+          "hour": "15:00",
+          "percent": 28
+        },
+        {
+          "hour": "16:00",
+          "percent": 27
+        },
+        {
+          "hour": "17:00",
+          "percent": 24
+        },
+        {
+          "hour": "18:00",
+          "percent": 20
+        },
+        {
+          "hour": "19:00",
+          "percent": 15
+        },
+        {
+          "hour": "20:00",
+          "percent": 12
+        },
+        {
+          "hour": "21:00",
+          "percent": 9
+        },
+        {
+          "hour": "22:00",
+          "percent": 6
+        },
+        {
+          "hour": "23:00",
+          "percent": 2
+        }
+      ]
+    }
+  ],
+  "relatedSearches": [
+    "aacd servidor telefone",
+    "aacd-servidor até parque ibirapuera",
+    "estação aacd-servidor da linha 5-lilás",
+    "estação aacd-servidor mapa",
+    "como chegar na estação aacd-servidor",
+    "como ir de metrô para aacd",
+    "aacd - servidor - rua pedro de toledo - indianópolis, são paulo - sp",
+    "estação aacd-servidor baldeação"
+  ],
+  "relateds": [
+    {
+      "mainName": "Hospital São Paulo",
+      "url": null
+    },
+    {
+      "mainName": "Moema",
+      "url": null
+    },
+    {
+      "mainName": "Eucaliptos",
+      "url": null
+    },
+    {
+      "mainName": "Santa Cruz",
+      "url": null
+    },
+    {
+      "mainName": "Chácara Klabin",
+      "url": null
+    },
+    {
+      "mainName": "Borba Gato",
+      "url": null
+    },
+    {
+      "mainName": "Instituto de Assistência Médica ao Servidor Público Estadual de S. Paulo",
+      "url": null
+    },
+    {
+      "mainName": "Capão Redondo",
+      "url": null
+    },
+    {
+      "mainName": "Parque Ibirapuera",
+      "url": null
+    },
+    {
+      "mainName": "Alto da Boa Vista",
+      "url": null
+    },
+    {
+      "mainName": "Vila Mariana",
+      "url": null
+    },
+    {
+      "mainName": "Adolfo Pinheiro",
+      "url": null
+    },
+    {
+      "mainName": "Campo Belo",
+      "url": null
+    },
+    {
+      "mainName": "Largo Treze",
+      "url": null
+    },
+    {
+      "mainName": "Saúde",
+      "url": null
+    },
+    {
+      "mainName": "Praça da Árvore",
+      "url": null
+    },
+    {
+      "mainName": "Giovanni Gronchi",
+      "url": null
+    },
+    {
+      "mainName": "Pinheiros",
+      "url": null
+    },
+    {
+      "mainName": "Vila das Belezas",
+      "url": null
+    },
+    {
+      "mainName": "Ana Rosa",
+      "url": null
+    },
+    {
+      "mainName": "Santos - Imigrantes",
+      "url": null
+    },
+    {
+      "mainName": "Paraíso",
+      "url": null
+    },
+    {
+      "mainName": "Campo Limpo",
+      "url": null
+    },
+    {
+      "mainName": "São Judas",
+      "url": null
+    }
+  ]
+}

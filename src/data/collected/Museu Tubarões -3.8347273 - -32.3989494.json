@@ -1,0 +1,629 @@
+{
+  "mainName": "Museu Tubarões",
+  "slug": "museu-tubaroes",
+  "category": "Museu",
+  "locationInformation": {
+    "latitude": "-3.8347273",
+    "longitude": "-32.3989494"
+  },
+  "basicInformation": [
+    {
+      "label": "endereço",
+      "tooltip": "Copiar endereço",
+      "text": "Distrito Estadual - Avenida Joaquim Ferreira Gomes - Vila do Porto, Fernando de Noronha - PE, 53990-000",
+      "icon": "https://www.gstatic.com/images/icons/material/system_gm/1x/place_gm_blue_24dp.png"
+    },
+    {
+      "label": "website",
+      "tooltip": "Abrir website",
+      "text": "m.facebook.com",
+      "icon": "https://www.gstatic.com/images/icons/material/system_gm/1x/public_gm_blue_24dp.png"
+    },
+    {
+      "label": "telefone",
+      "tooltip": "Copiar número de telefone",
+      "text": "(81) 3619-1365",
+      "icon": "https://www.gstatic.com/images/icons/material/system_gm/1x/phone_gm_blue_24dp.png"
+    },
+    {
+      "label": "Code",
+      "tooltip": "Copiar Plus Code",
+      "text": "5J82+4C Fernando de Noronha, Pernambuco",
+      "icon": "https://maps.gstatic.com/mapfiles/maps_lite/images/2x/ic_plus_code.png"
+    }
+  ],
+  "ratingInformation": {
+    "basicRatingInformation": {
+      "averageGrade": 4.6,
+      "totalOfEvaluations": 783
+    },
+    "ratingsByGrade": [
+      {
+        "grade": 5,
+        "totalRatings": 545
+      },
+      {
+        "grade": 4,
+        "totalRatings": 158
+      },
+      {
+        "grade": 3,
+        "totalRatings": 60
+      },
+      {
+        "grade": 2,
+        "totalRatings": 12
+      },
+      {
+        "grade": 1,
+        "totalRatings": 8
+      }
+    ]
+  },
+  "ratingTags": null,
+  "featuredPhotos": [
+    "https://lh5.googleusercontent.com/p/AF1QipMWRbh55qxk-Z8eldtcfkYxqvJDO6WsE1RjngIV=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOVIpUTcTSscE1fu9dmViRtxU4iGgcsoL4eM8p5=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMJ9YETz6Ogw-M7mqalaYhp20UESLe-Br2frcqH=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPOF68nkt6Z1CxzCnOKe7QSiHc_RQaVkcndd1Xl=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipO0VB89tEDgSkzDOySG03efwYS6ECdtDjLs03Rp=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipP6YaWhErausGOHmF8K9Fco6rdbzD7yqFCayu4i=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNTtXUna8eRHOQ4mFqfpQ2cp6NqTyZt-pJIvE9j=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNusP13BZbf5NKoR-SBD5Q90jX-uTbK1lmVKQEq=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipP32_KaLUYxW0ZXHd8k6uxTA2xZSh7e5dSGANwF=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipO_R3WeWOpYRaZ9MPyV9y61MyP9TOOwcojxSWoM=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNR6npYyOfXFRna0OgaQ_SvL0kAD68fFUmW1Dfb=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOjoVcuHxbJ_BfH9CXBc-3_kF5EE03Y7AXevf1P=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNEa0hQgd3M15OQv_olhiibElGY2JYIkVefZvo=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMh0geoSgLczn2_es45m-jIIeQtH8pKuGZe0B4g=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMqXKkJlwoB_NtW7lVckIXG3tLAvSm5VpxZo3sY=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNMkkNCHfjTHNvjPzomX6Z1l4-DbJ-1DBk2fTWv=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNKFXniRtuueWIeEYYx9vnXIBU4kCWmWkweoqpf=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPnB-TNZ9vOFQCkwLcPJl8vlzavJKktf8oJCpRE=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOWktYtI3M9s_M3UWlgtSb3eL5VMuGcsX1xmBjp=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNOvfZYf46nz_M-BGQG702Hv2uMjsv7UrhPES6U=w1024-h576-k-no"
+  ],
+  "topComments": [
+    {
+      "author": "João Härter",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZuco7iU_8a8XJXx0bhKDk6uNpxst4prqOVaD5aY-pV1c=w36-h36-p-c0x00000000-rp-mo-ba5-br100",
+      "comment": "Entrada gratuita, tem restaurante e lojinha dentro. O café expresso duplo custa 20 reais",
+      "gradeComment": 5
+    },
+    {
+      "author": "Eduander Martín (Edu)",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucqC6szwO9xwrbHpuLXaXycxu7UVRFwhnwxTLHajxMM=w36-h36-p-c0x00000000-rp-mo-ba6-br100",
+      "comment": "Não precisa pagar entrada para acessar o espaço.  No interior não tem muitos atrativos. Alguns ossos de tubarão, muitas informações da área da biologia marinha da ilha. Tem um passeio muito legal de submarino pela tela do computador.  O local tem souvenires é um restaurante que aceita cartões e pix.",
+      "gradeComment": 4
+    },
+    {
+      "author": "Teresa Cristina Pereira",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucqPTS9URz_ufFHRwc5brdKXuNrqEne2Ai9ysatL0w=w36-h36-p-c0x00000000-rp-mo-ba6-br100",
+      "comment": "Lugar especial com galeria de posts sobre, uma ótima lanchonete e lojinha que têm excelente atendimento. O espaço externo tem mesas, cadeiras e balanço para se apreciar a praia.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Claudineia Ferreira",
+      "photoAuthor": "https://lh3.googleusercontent.com/a/AItbvml0r1YizzJ50bUt8RY8ToMZ8zEPKkv8A-2jIS4w=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "O museu é simples.  A vista é linda.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Sergio Eduardo de Siqueira",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucpPNvejJmczvRLJJWxjhJMVnPK2OnnefmNL4DDSLQ=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "Não sabia o que esperar do museu do tubarão e no final o que mais me agradou foi conhecer a formação da ilha de Fernando de Noronha…. Sabiam que se olharmos para a parte submersa , Fernando de Noronha tem 72 Km de extensão e a parte submersa chega até 4000 metros de profundidade…… valeu a passagem por ali pois estava no meu trajeto de passeio…. Mas não valeria desviar para ir conhecer exclusivamente o local….",
+      "gradeComment": 4
+    },
+    {
+      "author": "Mayara Schmitz",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucomMqiPeKktRtxc34d4iyBFFFZV3mFD91nNscJVbQ=w36-h36-p-c0x00000000-rp-mo-ba2-br100",
+      "comment": "O local é lindo e tem um gramado com esculturas para tirar fotos. O museu em si é cheio de informações e possui uma exposição riquíssima da vida marinha com esqueletos e arcadas dentárias de tubarões, raias e muito mais. Também possui lojinha de Souvenirs e um restaurante/café. Comemos um baião de dois magnífico (serviu muito bem 2 pessoas, e ainda sobrou) e o preço é dentro da média da localidade. A entrada no museu é gratuita e vale muito a pena conhecer.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Sol Pelissari",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucqQqLXTPgJ45pJFW4rYjkcKBg6U0IqLDXp95Ow6Gzo=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "O espaço é muito amplo, os rapazes que atendem nas mesas são muito gentis e atenciosos, o custo benefício é ótimo. Comemos camarão ao Leu e estava excelente. Tomamos caipiroska e como não tinha Smirnoff fomos servidos de Absolut sem pagar a mais por isso. Achamos que foi muita gentileza por parte do restaurante pois podiam simplesmente dizer que não tinha a vodka e oferecer a que era mais cara. Os toiletes são bons. Só não tinha sabonete líquido para lavar mão. Do restaurante se pode apreciar o buraco da Raquel e uma linda vista para o mar.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Emerspn Oliveira",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucqZJMA6RoXTJRHY7FIqsSFVTnWMaC1wmYsUSLS2hI4=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "Uma das vistas mais lindas da ilha combinado com.um gramado bem cuida de e uma culinária de dar água na boca... fora todo o conhecimento sobre os tubarões que estão expostos por todos os lados, com esqueleto, arcada dentária, fotos, e cartazes ilustrativos. A equipe é  nada mil no quesito atendimento... ótimos garçons e uma cozinha que só faz gostosuras. Se for a Fernando de Noronha não deixe de conhecer o museu dos tubarões",
+      "gradeComment": 5
+    },
+    {
+      "author": "Andressa Silva",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucowBNHewYnQYcWRubDXfRcc8QVe1Zw3kDjyANf7SA=w36-h36-p-c0x00000000-rp-mo-ba2-br100",
+      "comment": "Um espaço pequeno mas com muitas informações sobre tubarões e a formação da Ilha de Fernando de Noronha, possui lojinha oficial e restaurante, além de uma vista incrível para o Buraco da Raquel e a praia de Caieiras",
+      "gradeComment": 5
+    },
+    {
+      "author": "Kyodo Temaki",
+      "photoAuthor": "https://lh3.googleusercontent.com/a/AItbvmnzasw4e7tHe5Z7654k3GsJb9qShccRMuGB1zjKig=w36-h36-p-c0x00000000-rp-mo-br100",
+      "comment": "Excelente restaurante de frutos do mar, ótimo local para eventos em Fernando de Noronha e um Museu dedicado aos gigantes do Mar",
+      "gradeComment": 5
+    },
+    {
+      "author": "Josy C",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucrWLPetqVES_j_TWFkRGptD4K54u1aOecivc8GWL-U=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "O Museu está \"jogado as traças\". Uma pena. Deveria ser bem melhor conservado. Qdo estivemos no local, fomos informados por moradores que só abre após as 10hs. Mas não havia nenhuma placa ou indicativo. Muito triste.",
+      "gradeComment": 2
+    },
+    {
+      "author": "Jessica",
+      "photoAuthor": "https://lh3.googleusercontent.com/a/AItbvmlpn--j4mmuCMxrrOCjfum3rTuICsqZQ_UaQSmo=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "Museu bonitinho, mas bem pequeno, com apenas uma sala, uma lojinha de souvenir e um restaurante. Na área externa há uma vista bem bonita, incluindo o Buraco de Raquel.",
+      "gradeComment": 3
+    },
+    {
+      "author": "Amaro C.A.Filho",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucrBFFg-6f9py-AokEn4A3nar7QEw6eNwQtMb8Oq=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "Lugar simples e agradável. No restaurante pedimos uma peixada muito boa, acompanhada de cerveja gelada. Bom atendimento.",
+      "gradeComment": 4
+    },
+    {
+      "author": "Asuna Hinata",
+      "photoAuthor": "https://lh3.googleusercontent.com/a/AItbvmnvy-e19WadKMAwP3jfO-APqWxWhpYA8HMGpIfb=w36-h36-p-c0x00000000-rp-mo-br100",
+      "comment": "PÉSSIMO ATENDIMENTO! Lugar lindo a noite... Mas primeira e última vez...",
+      "gradeComment": 1
+    },
+    {
+      "author": "Fernando Velosos",
+      "photoAuthor": "https://lh3.googleusercontent.com/a/AItbvml87bi0F_8XQaaiaK7p6RoaF-A23xt2WI27HvqK=w36-h36-p-c0x00000000-rp-mo-ba6-br100",
+      "comment": "Preço Noronha. Mas, nesse aqui, a comida realmente vale. Bobó de camarão e de frutos. Peixada vale também. A vista sensacional.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Kelly Geber",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucrJ0TIER9nH71zotyAdAih5rjTJoy9FhRs30OeIph8=w36-h36-p-c0x00000000-rp-mo-br100",
+      "comment": "Além do museu e da bela vista, o local conta com um campo gramado amplo. Excelente para deixar seu filho solto para correr e brincar",
+      "gradeComment": 5
+    },
+    {
+      "author": "Katiane Teresinha Worm",
+      "photoAuthor": "https://lh3.googleusercontent.com/a/AItbvml0YbPMgSrptODJ2DavR3r9JPeaNdmtf9paKfMx=w36-h36-p-c0x00000000-rp-mo-ba2-br100",
+      "comment": "Vista maravilhosa, local onde venta e oferece um alento ao calor que fazia ilha. Suco de limão feito na hora é maravilhoso!",
+      "gradeComment": 5
+    },
+    {
+      "author": "Samuel Campello",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucrn4Xq26A_IBYgTzJAd7mn8e6iKc6tH1VOKzJ3R1w=w36-h36-p-c0x00000000-rp-mo-ba3-br100",
+      "comment": "Lugar muito lindo restauramte mudei com muita informação sobre os tubarões, uma linda vista do buraco da Raquel e da praia da Caieira . podendo ser observado filhote de tubarões nas piscinas naturais ...",
+      "gradeComment": 5
+    },
+    {
+      "author": "penhant 3",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucra-iP9JQG1QZvF1uYFsk8Rd_sjKfxmWk-STIqFwmQ=w36-h36-p-c0x00000000-rp-mo-br100",
+      "comment": "Onde você encontra a réplica do passaporte pernambuco, em tamanho gigante!! Muito bom!!",
+      "gradeComment": 5
+    },
+    {
+      "author": "Gustavo Oliveira",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucoxQniKVfk7BtH8v8u6ZwHXVJhpcX6QjBSrXrO6og=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "Bom restaurante, curiosidades sobre tubarões em uma lojinha de souvenires.",
+      "gradeComment": 4
+    }
+  ],
+  "peakHours": [
+    {
+      "Sunday": []
+    },
+    {
+      "Monday": [
+        {
+          "hour": "09:00",
+          "percent": 39
+        },
+        {
+          "hour": "10:00",
+          "percent": 52
+        },
+        {
+          "hour": "11:00",
+          "percent": 63
+        },
+        {
+          "hour": "12:00",
+          "percent": 67
+        },
+        {
+          "hour": "13:00",
+          "percent": 67
+        },
+        {
+          "hour": "14:00",
+          "percent": 71
+        },
+        {
+          "hour": "15:00",
+          "percent": 86
+        },
+        {
+          "hour": "16:00",
+          "percent": 95
+        },
+        {
+          "hour": "17:00",
+          "percent": 76
+        },
+        {
+          "hour": "18:00",
+          "percent": 43
+        },
+        {
+          "hour": "19:00",
+          "percent": 19
+        },
+        {
+          "hour": "20:00",
+          "percent": 10
+        }
+      ]
+    },
+    {
+      "Tuesday": [
+        {
+          "hour": "09:00",
+          "percent": 45
+        },
+        {
+          "hour": "10:00",
+          "percent": 47
+        },
+        {
+          "hour": "11:00",
+          "percent": 45
+        },
+        {
+          "hour": "12:00",
+          "percent": 52
+        },
+        {
+          "hour": "13:00",
+          "percent": 60
+        },
+        {
+          "hour": "14:00",
+          "percent": 67
+        },
+        {
+          "hour": "15:00",
+          "percent": 69
+        },
+        {
+          "hour": "16:00",
+          "percent": 67
+        },
+        {
+          "hour": "17:00",
+          "percent": 60
+        },
+        {
+          "hour": "18:00",
+          "percent": 50
+        },
+        {
+          "hour": "19:00",
+          "percent": 39
+        },
+        {
+          "hour": "20:00",
+          "percent": 28
+        }
+      ]
+    },
+    {
+      "Wednesday": [
+        {
+          "hour": "09:00",
+          "percent": 36
+        },
+        {
+          "hour": "10:00",
+          "percent": 56
+        },
+        {
+          "hour": "11:00",
+          "percent": 47
+        },
+        {
+          "hour": "12:00",
+          "percent": 39
+        },
+        {
+          "hour": "13:00",
+          "percent": 54
+        },
+        {
+          "hour": "14:00",
+          "percent": 82
+        },
+        {
+          "hour": "15:00",
+          "percent": 93
+        },
+        {
+          "hour": "16:00",
+          "percent": 76
+        },
+        {
+          "hour": "17:00",
+          "percent": 45
+        },
+        {
+          "hour": "18:00",
+          "percent": 17
+        },
+        {
+          "hour": "19:00",
+          "percent": 4
+        },
+        {
+          "hour": "20:00",
+          "percent": 2
+        }
+      ]
+    },
+    {
+      "Thursday": [
+        {
+          "hour": "09:00",
+          "percent": 47
+        },
+        {
+          "hour": "10:00",
+          "percent": 86
+        },
+        {
+          "hour": "11:00",
+          "percent": 56
+        },
+        {
+          "hour": "12:00",
+          "percent": 36
+        },
+        {
+          "hour": "13:00",
+          "percent": 41
+        },
+        {
+          "hour": "14:00",
+          "percent": 47
+        },
+        {
+          "hour": "15:00",
+          "percent": 47
+        },
+        {
+          "hour": "16:00",
+          "percent": 43
+        },
+        {
+          "hour": "17:00",
+          "percent": 34
+        },
+        {
+          "hour": "18:00",
+          "percent": 26
+        },
+        {
+          "hour": "19:00",
+          "percent": 17
+        },
+        {
+          "hour": "20:00",
+          "percent": 10
+        }
+      ]
+    },
+    {
+      "Friday": [
+        {
+          "hour": "09:00",
+          "percent": 43
+        },
+        {
+          "hour": "10:00",
+          "percent": 56
+        },
+        {
+          "hour": "11:00",
+          "percent": 58
+        },
+        {
+          "hour": "12:00",
+          "percent": 60
+        },
+        {
+          "hour": "13:00",
+          "percent": 78
+        },
+        {
+          "hour": "14:00",
+          "percent": 100
+        },
+        {
+          "hour": "15:00",
+          "percent": 100
+        },
+        {
+          "hour": "16:00",
+          "percent": 76
+        },
+        {
+          "hour": "17:00",
+          "percent": 43
+        },
+        {
+          "hour": "18:00",
+          "percent": 17
+        },
+        {
+          "hour": "19:00",
+          "percent": 4
+        },
+        {
+          "hour": "20:00",
+          "percent": 2
+        }
+      ]
+    },
+    {
+      "Saturday": [
+        {
+          "hour": "09:00",
+          "percent": 36
+        },
+        {
+          "hour": "10:00",
+          "percent": 43
+        },
+        {
+          "hour": "11:00",
+          "percent": 41
+        },
+        {
+          "hour": "12:00",
+          "percent": 36
+        },
+        {
+          "hour": "13:00",
+          "percent": 36
+        },
+        {
+          "hour": "14:00",
+          "percent": 41
+        },
+        {
+          "hour": "15:00",
+          "percent": 50
+        },
+        {
+          "hour": "16:00",
+          "percent": 47
+        },
+        {
+          "hour": "17:00",
+          "percent": 34
+        },
+        {
+          "hour": "18:00",
+          "percent": 17
+        },
+        {
+          "hour": "19:00",
+          "percent": 6
+        },
+        {
+          "hour": "20:00",
+          "percent": 4
+        }
+      ]
+    }
+  ],
+  "relatedSearches": [
+    "fernando de noronha",
+    "tubarão noronha",
+    "projeto tamar fernando de noronha",
+    "museu do tubarão recife",
+    "o pico noronha",
+    "memorial noronhense",
+    "festival da lua cheia noronha",
+    "vila nossa senhora dos remédios"
+  ],
+  "relateds": [
+    {
+      "mainName": "Praia do Porto de Santo Antônio Noronha",
+      "url": null
+    },
+    {
+      "mainName": "Buraco da Raquel",
+      "url": null
+    },
+    {
+      "mainName": "Ponta das Caracas",
+      "url": null
+    },
+    {
+      "mainName": "Praia do Cachorro",
+      "url": null
+    },
+    {
+      "mainName": "Praia do Leão",
+      "url": null
+    },
+    {
+      "mainName": "Praia do Meio",
+      "url": null
+    },
+    {
+      "mainName": "Praia do Atalaia",
+      "url": null
+    },
+    {
+      "mainName": "Ponta da Sapata",
+      "url": null
+    },
+    {
+      "mainName": "Praia do Sueste",
+      "url": null
+    },
+    {
+      "mainName": "Praia do Boldró",
+      "url": null
+    },
+    {
+      "mainName": "Praia do Americano",
+      "url": null
+    },
+    {
+      "mainName": "Baía dos Porcos",
+      "url": null
+    },
+    {
+      "mainName": "Praia da Conceição",
+      "url": null
+    },
+    {
+      "mainName": "Praia da Cacimba do Padre",
+      "url": null
+    },
+    {
+      "mainName": "Baía dos Golfinhos",
+      "url": null
+    },
+    {
+      "mainName": "Morro Dois Irmãos",
+      "url": null
+    },
+    {
+      "mainName": "Fundação Projeto Tamar - Fernando de Noronha",
+      "url": null
+    },
+    {
+      "mainName": "Mirante Forte Boldro",
+      "url": null
+    },
+    {
+      "mainName": "Praia do Sancho",
+      "url": null
+    },
+    {
+      "mainName": "Forte de Nossa Senhora dos Remédios",
+      "url": null
+    },
+    {
+      "mainName": "Parque Nacional Marinho de Fernando de Noronha",
+      "url": null
+    },
+    {
+      "mainName": "Fernando de Noronha",
+      "url": null
+    },
+    {
+      "mainName": "Enseada dos Tubarões",
+      "url": null
+    }
+  ]
+}

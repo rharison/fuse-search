@@ -1,0 +1,356 @@
+{
+  "mainName": "Cete",
+  "slug": "cete-unifesp",
+  "category": "Médico",
+  "locationInformation": {
+    "latitude": "-23.5941216",
+    "longitude": "-46.6452186"
+  },
+  "basicInformation": [
+    {
+      "label": "endereço",
+      "tooltip": "Copiar endereço",
+      "text": "R. Estado de Israel, 636 - Vila Clementino, São Paulo - SP, 04022-001",
+      "icon": "https://www.gstatic.com/images/icons/material/system_gm/1x/place_gm_blue_24dp.png"
+    },
+    {
+      "label": "website",
+      "tooltip": "Abrir website",
+      "text": "cete.med.br",
+      "icon": "https://www.gstatic.com/images/icons/material/system_gm/1x/public_gm_blue_24dp.png"
+    },
+    {
+      "label": "telefone",
+      "tooltip": "Copiar número de telefone",
+      "text": "(11) 5576-4848",
+      "icon": "https://www.gstatic.com/images/icons/material/system_gm/1x/phone_gm_blue_24dp.png"
+    },
+    {
+      "label": "Code",
+      "tooltip": "Copiar Plus Code",
+      "text": "C943+9W Vila Clementino, São Paulo - SP",
+      "icon": "https://maps.gstatic.com/mapfiles/maps_lite/images/2x/ic_plus_code.png"
+    }
+  ],
+  "ratingInformation": {
+    "basicRatingInformation": {
+      "averageGrade": 4.4,
+      "totalOfEvaluations": 33
+    },
+    "ratingsByGrade": [
+      {
+        "grade": 5,
+        "totalRatings": 25
+      },
+      {
+        "grade": 4,
+        "totalRatings": 4
+      },
+      {
+        "grade": 3,
+        "totalRatings": 0
+      },
+      {
+        "grade": 2,
+        "totalRatings": 0
+      },
+      {
+        "grade": 1,
+        "totalRatings": 4
+      }
+    ]
+  },
+  "ratingTags": [
+    {
+      "tag": "recepção",
+      "count": 5,
+      "tooltip": "recepção, mencionado em 5 avaliações"
+    },
+    {
+      "tag": "fisioterapeuta",
+      "count": 4,
+      "tooltip": "fisioterapeuta, mencionado em 4 avaliações"
+    }
+  ],
+  "featuredPhotos": null,
+  "topComments": null,
+  "peakHours": [
+    {
+      "Sunday": []
+    },
+    {
+      "Monday": [
+        {
+          "hour": "07:00",
+          "percent": 15
+        },
+        {
+          "hour": "08:00",
+          "percent": 21
+        },
+        {
+          "hour": "09:00",
+          "percent": 28
+        },
+        {
+          "hour": "10:00",
+          "percent": 35
+        },
+        {
+          "hour": "11:00",
+          "percent": 38
+        },
+        {
+          "hour": "12:00",
+          "percent": 38
+        },
+        {
+          "hour": "13:00",
+          "percent": 35
+        },
+        {
+          "hour": "14:00",
+          "percent": 30
+        },
+        {
+          "hour": "15:00",
+          "percent": 23
+        }
+      ]
+    },
+    {
+      "Tuesday": [
+        {
+          "hour": "07:00",
+          "percent": 27
+        },
+        {
+          "hour": "08:00",
+          "percent": 39
+        },
+        {
+          "hour": "09:00",
+          "percent": 47
+        },
+        {
+          "hour": "10:00",
+          "percent": 52
+        },
+        {
+          "hour": "11:00",
+          "percent": 49
+        },
+        {
+          "hour": "12:00",
+          "percent": 43
+        },
+        {
+          "hour": "13:00",
+          "percent": 35
+        },
+        {
+          "hour": "14:00",
+          "percent": 26
+        },
+        {
+          "hour": "15:00",
+          "percent": 19
+        }
+      ]
+    },
+    {
+      "Wednesday": [
+        {
+          "hour": "07:00",
+          "percent": 24
+        },
+        {
+          "hour": "08:00",
+          "percent": 47
+        },
+        {
+          "hour": "09:00",
+          "percent": 69
+        },
+        {
+          "hour": "10:00",
+          "percent": 76
+        },
+        {
+          "hour": "11:00",
+          "percent": 67
+        },
+        {
+          "hour": "12:00",
+          "percent": 52
+        },
+        {
+          "hour": "13:00",
+          "percent": 45
+        },
+        {
+          "hour": "14:00",
+          "percent": 42
+        },
+        {
+          "hour": "15:00",
+          "percent": 32
+        }
+      ]
+    },
+    {
+      "Thursday": [
+        {
+          "hour": "07:00",
+          "percent": 45
+        },
+        {
+          "hour": "08:00",
+          "percent": 83
+        },
+        {
+          "hour": "09:00",
+          "percent": 100
+        },
+        {
+          "hour": "10:00",
+          "percent": 82
+        },
+        {
+          "hour": "11:00",
+          "percent": 58
+        },
+        {
+          "hour": "12:00",
+          "percent": 53
+        },
+        {
+          "hour": "13:00",
+          "percent": 57
+        },
+        {
+          "hour": "14:00",
+          "percent": 56
+        },
+        {
+          "hour": "15:00",
+          "percent": 46
+        }
+      ]
+    },
+    {
+      "Friday": [
+        {
+          "hour": "07:00",
+          "percent": 19
+        },
+        {
+          "hour": "08:00",
+          "percent": 32
+        },
+        {
+          "hour": "09:00",
+          "percent": 41
+        },
+        {
+          "hour": "10:00",
+          "percent": 42
+        },
+        {
+          "hour": "11:00",
+          "percent": 45
+        },
+        {
+          "hour": "12:00",
+          "percent": 49
+        },
+        {
+          "hour": "13:00",
+          "percent": 39
+        },
+        {
+          "hour": "14:00",
+          "percent": 27
+        },
+        {
+          "hour": "15:00",
+          "percent": 21
+        }
+      ]
+    },
+    {
+      "Saturday": []
+    }
+  ],
+  "relatedSearches": null,
+  "relateds": [
+    {
+      "mainName": "Embraer CETE-MG",
+      "url": null
+    },
+    {
+      "mainName": "Praça Sete de Setembro",
+      "url": null
+    },
+    {
+      "mainName": "CET - Centro de Estudos e Terapias",
+      "url": null
+    },
+    {
+      "mainName": "Cidade do Galo",
+      "url": null
+    },
+    {
+      "mainName": "Centro De Educação Tecnologica",
+      "url": null
+    },
+    {
+      "mainName": "Conveniência",
+      "url": null
+    },
+    {
+      "mainName": "Caeté",
+      "url": null
+    },
+    {
+      "mainName": "Adjetivo-CETEP",
+      "url": null
+    },
+    {
+      "mainName": "Prefeitura Municipal de Caeté",
+      "url": null
+    },
+    {
+      "mainName": "Câmara Municipal de Caeté",
+      "url": null
+    },
+    {
+      "mainName": "CETE Centro Especializado de Terapia e Estimulação Ltda",
+      "url": null
+    },
+    {
+      "mainName": "Clínica Cete-Centro de Educação e Terapia Especializada",
+      "url": null
+    },
+    {
+      "mainName": "Clinica Cete",
+      "url": null
+    },
+    {
+      "mainName": "CETE",
+      "url": null
+    },
+    {
+      "mainName": "CETE - UNIFESP",
+      "url": null
+    },
+    {
+      "mainName": "CETER ESTÁGIOS",
+      "url": null
+    },
+    {
+      "mainName": "cet clinica",
+      "url": null
+    }
+  ]
+}

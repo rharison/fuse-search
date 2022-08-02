@@ -1,0 +1,822 @@
+{
+  "mainName": "Praia de Macapá",
+  "slug": "praia-de-macapa",
+  "category": "Praia",
+  "locationInformation": {
+    "latitude": "-2.9118896",
+    "longitude": "-41.4475968"
+  },
+  "basicInformation": [
+    {
+      "label": "endereço",
+      "tooltip": "Copiar endereço",
+      "text": "Coqueiro, Luís Correia - PI, 64220-000",
+      "icon": "https://www.gstatic.com/images/icons/material/system_gm/1x/place_gm_blue_24dp.png"
+    }
+  ],
+  "ratingInformation": {
+    "basicRatingInformation": {
+      "averageGrade": 4.6,
+      "totalOfEvaluations": 2118
+    },
+    "ratingsByGrade": [
+      {
+        "grade": 5,
+        "totalRatings": 1614
+      },
+      {
+        "grade": 4,
+        "totalRatings": 333
+      },
+      {
+        "grade": 3,
+        "totalRatings": 112
+      },
+      {
+        "grade": 2,
+        "totalRatings": 31
+      },
+      {
+        "grade": 1,
+        "totalRatings": 28
+      }
+    ]
+  },
+  "ratingTags": [
+    {
+      "tag": "maré",
+      "count": 60,
+      "tooltip": "maré, mencionado em 60 avaliações"
+    },
+    {
+      "tag": "barracas",
+      "count": 42,
+      "tooltip": "barracas, mencionado em 42 avaliações"
+    },
+    {
+      "tag": "estrutura",
+      "count": 32,
+      "tooltip": "estrutura, mencionado em 32 avaliações"
+    },
+    {
+      "tag": "kitesurf",
+      "count": 31,
+      "tooltip": "kitesurf, mencionado em 31 avaliações"
+    },
+    {
+      "tag": "piscinas naturais",
+      "count": 28,
+      "tooltip": "piscinas naturais, mencionado em 28 avaliações"
+    },
+    {
+      "tag": "diversão",
+      "count": 12,
+      "tooltip": "diversão, mencionado em 12 avaliações"
+    },
+    {
+      "tag": "lagoas",
+      "count": 11,
+      "tooltip": "lagoas, mencionado em 11 avaliações"
+    },
+    {
+      "tag": "banana boat",
+      "count": 9,
+      "tooltip": "banana boat, mencionado em 9 avaliações"
+    },
+    {
+      "tag": "banco de areia",
+      "count": 8,
+      "tooltip": "banco de areia, mencionado em 8 avaliações"
+    },
+    {
+      "tag": "bode",
+      "count": 8,
+      "tooltip": "bode, mencionado em 8 avaliações"
+    }
+  ],
+  "featuredPhotos": [
+    "https://lh5.googleusercontent.com/p/AF1QipOj6aEWOzbCiAngnHqiZP0UcbH4T_1UMRwRdxaH=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNyCeN1VFaPceDyYgs5czuYCd5BJosbG9OFZSIX=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMhj8fIvAP8WhGPuDM32P8J7bbM0EWer9Tnzv35=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOjuFPNOKTWvmOC8eZl9zrxwTevOBpalBf-ngAv=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPHRT16s0oZ6MY7ZNVw7JU7EKJbNivjntQmRs5Y=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOiSCKtJswk09KdfGeD77wHs1ScfrhCJ0je-FeA=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOWeQZsisb_8-RMtPj0WiUR5gjcqbIRFd7tHIxt=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPs-BRsO9BU779vXquuBHMoxbG81ihlyWOxIC9D=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipO_mJYYeGQZPxDY7ydRNrJBUOAGIm5CHMMfEP2d=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPA0yxuMMFWx_v7sEQQeRUSFtY19rj2XVXJMJ1a=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNUPe8FWhQJPg80fz2s9txggD5BJ-bRHKkoqyoe=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNJh3OA1B0OQ7qwZS3E-jmgGGayB3j3N_lDyPDr=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPuc7bizu6uFLcEN7h0fkIDFcoPb_j_8b5PoTM9=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNS35rKR42uKUAWpCAt25FtgbkiDsh1gZ7pKugn=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipM8nUjx05iXYL8J8aEcozlYt9GldDFavwoUcaFM=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNuzhfSoMzANNejkjjpeYcsaXUG1_M-mJzi8Uhw=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipN5LnFhr7cs0NTbfxSrQgXPz7yfhzBjvn3evfQt=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPTkOWAqEOpFd9QRnc6_rj41YKYVdO9mgGOYM-M=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipP3R4WHZc3-BT9_Gbttj7hK3aoEaYl2Ll6iaRo=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipP6DDyYhI0JfXmioAIyGTI13celKDNoKr1kNa5j=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipM-7bO57LzT4zM2SIwnHyYklQr3JE7Ryb9TSI0Q=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOvqWwFoe6yaWzrT2f3y1jGHUH9z_FenZFfQmjg=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNa47B4jy68M3QJYEuetP03xp2L-d4JtNcHQomQ=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPBrOPmeUb4Y_2JNabJKt6wI8_YuMKOy5BHxgwp=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPLd9mdURlo6TOOYiMGiLX1jjG6Zlj4VkMhFCW1=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNDKAVz6S8DaKvcEsIvgWY0ZpAa8ZCYExmSs9H-=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMx0sXdvXxJBF-IFvHT5vP9lsbtkxIj6Ke4Q49F=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipN_Xd8XoY7liY-n7CgF89fVvBmXTUTBSDLm_qFS=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOUNxWhr-hPNbelCSDisjJjvu-rn368_YHCMYdC=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipO8IkXk55Nw_q--frAfoHoM-fRxkIpyMWhrC-JZ=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOBRkxPKF7rywi7vKD2p6EwF_vCCDyLV-700Pyi=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNR8-59wEiozw-HyY3DrWcHp2vYRnh_5elDxara=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOX73rD-A-Y7sO6S42MWSiesgSBE177jobwyDYD=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNkfN9iTGzmXBFLWOrGfC7aYmRElakswPaCzrpL=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMG0OHEeAfVRKF-lKVnrdoZ4hntGNpqTqbcv-FS=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMSrrSVtXWvJ41MEa8IldxRBigSt46uGKHKOesr=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOiImTIejA__h3fU7a_J90WUu2Ur_pe11Q9p6MH=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMlQsp8r730NF1xhlTr0eHtGPAij529bwDW_ZWf=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNhOY7ZVvV5rDZEC94DnrXblP1M_-K47pDgLerQ=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNz__iuR703mKiF6WfQMLSwT2AsF0BF8l4j3uQl=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNfgbAjKqArMFaOGqG7zYzX9dktTOLcSJdqYBfR=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMMDAxgXa9WeOeExMkmPr_svICPa2HEoSrozK2L=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNpJqClR_a0tJrEIReIhn17K7srH95ntdU0geyg=w1024-h576-k-no"
+  ],
+  "topComments": [
+    {
+      "author": "Carlos Henrique Cezar",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucp2eJwsTVn-o41mdEhzr4_oonvIn2P0cS0UU6A6=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "A Praia mais bonita do Piauí sem dúvida! O encontro do Rio com o mar é um espetáculo a parte. Na variação das marés formam se várias piscinas naturais de água morninha e transparente. Não deixe de visitar... Gostei de ficar no Bar do Bode 🐐, onde pude conhecer o \"Mimoso\"",
+      "gradeComment": 5
+    },
+    {
+      "author": "Alexandre Soares",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucpe2-2GTu7bSO9TYkpt4hWub24KxR6qIjfmRkjNdaU=w36-h36-p-c0x00000000-rp-mo-ba6-br100",
+      "comment": "Excelente praia, muito bem e exuberante, tem faixas de areia diferenciadas, realmente muda bastante com a subida e deacida da maré, mas no beira mar é bem calmo, e dependendo do ponto, bem raso. Eu e a família ficamos no Bar do Bode, que também é ótimo!",
+      "gradeComment": 5
+    },
+    {
+      "author": "Viajo logo Existo - Leo e Rachel Spencer",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucqMNVnsV82xKKLXyEly6UWgTgMhJmLviZ3l2Oknag=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "Praia bem interessante, principalmente na maré baixa quando se forma grandes bancos de areia e piscinas naturais. Bem diferente.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Juciara Sousa",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucq_qrVspJgn-FR8dLUeTWIwE9coGX6RDXyOJ8pKP-U=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "Amo essa praia, é um céu na terra. A natureza caprichou em cada detalhe, mar calmo sem onda, várias piscinas naturais. O encontro dor mar com a vegetação torna ainda mais paradisíaco. Boas opções de restaurantes, com cardápio muito bom.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Gabriel de Sousa",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucriOrUzT-RTpYHFVybBCjVEpVp7lLm1GpuKTScqJAY=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "Único problema é a maré baixa..... km de areia",
+      "gradeComment": 5
+    },
+    {
+      "author": "Luiz Rodrigo",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucoVKdoM_n6QJtXRUyANuM92P2jOwQ9ELVhYl94bfg=w36-h36-p-c0x00000000-rp-mo-br100",
+      "comment": "Praia linda, muito calma e com ótimas refeições 🥰 perfeito para levar crianças e idosos.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Yago G. Oliveira",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucogkVvNtLOlJkq2HJ5XnMKCMtk9KtWNZDGhsJyZXs8=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "É um lugar maravilhoso, a praia em si, pessoalmente não acho ser a melhor do estado, mas está entre as mais belas do nordeste para fotografar. A água é morna. Os bares possuem banheiros, alguns bons outros nem tanto; não é sorte e nem regra. Vale a visita, sem dúvidas. Apenas de pequena, as praias do Piauí ainda tem um aspecto bem natural, apesar de virem sofrente uma urbanização descontrolada, sem planos diretores e critérios.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Suélio Luiz",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucqKO-YMVw1vIJm4FhwUVy3wPulRYwzjFk5aD6lSGlc=w36-h36-p-c0x00000000-rp-mo-ba6-br100",
+      "comment": "Pra quem gosta de praia sem ondas, é uma boa opção. Tem uma barraca muito boa que eu recomendo, a barraca do bode.",
+      "gradeComment": 3
+    },
+    {
+      "author": "Fernando Chaves",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucoJ8ZjoXOo6-i_Xj-P_21pZ5HNG2_C0-OOhD6q0dy4=w36-h36-p-c0x00000000-rp-mo-ba6-br100",
+      "comment": "Lugar lindo quando a Maré está baixa. O grande Problema é estrutura de Praia. Poucas Barracas, e as quem Tem não são Boas.",
+      "gradeComment": 4
+    },
+    {
+      "author": "Fabio (FABIO DE BEM)",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucr-8knkSDm4ww0ju8ZDFujGmvWgpovHTAqollDV=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "Maravilha! Cheguei por volta das oito horas da manhã às ondas batiam o mar ainda um pouco frio. Tive o privilégio de ver o mar recuando as bancas de areia se formando e as Lagoinhas também! De repente se podia andar mar adentro em uma profundidade que não se passava das canelas! Com o entardecer chegando a maré foi subindo e, a água que foi lentamente cobrindo as áreas e, formando novas piscinas naturais, eram as águas que estavam mais próximas a superfície que conseguiram passar pelas primeiras bancadas de areias e, assim as águas que chegavam eram morninhas. O sol ia sumindo no horizonte deixando a vermelhidão no  céu e, às ondas aumentando e, nos relaxando.!",
+      "gradeComment": 5
+    },
+    {
+      "author": "Igor Kenneth",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucpsj2pI5xnGivy7dL3nCTmoN3JdzD_a45ye-6r0ug=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "Praia excelente para a prática do kite, muitas formações de lagoas, a beleza da cor da água chama muita atenção por sempre ser verde e no inverno se torna azul cristalina, muito bom para praticar sup dentre outros esportes, muitas pousadas top, vista magnífica, a cidade só precisa de mais lugares a noite para encontra os amigos, mais lugares para comer, ligar magnífico de lindo.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Érica Martins",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZuco9ruqdPsH14TEbofyJ4-thRz4kFH7Ts99JY5wGZA=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "Maravilhosa praia onde desemboca o Rio São Miguel. Com o recuo da maré forma piscinas naturais de água transparente. Boa estrutura de bares e restaurantes. Dá para tomar banho de Rio e de mar. Acesso muito fácil e sinalizado.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Jwilson Silva",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucqZrFmmvXpWfiafkNYjFAC5TGRSyd04JjYGOQE2_A=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "Excelente local para se levar família, bastante tranquila poucas ondas e bons passeios",
+      "gradeComment": 4
+    },
+    {
+      "author": "Hand Marques",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucq_L_dkg5bDzhpzhGUVQN1bGp8h2CkVyYuRhJtZS8A=w36-h36-p-c0x00000000-rp-mo-ba5-br100",
+      "comment": "Uma das melhores praias do litoral piauiense",
+      "gradeComment": 5
+    },
+    {
+      "author": "elizabete Viana",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucr2vSY-I5p8xOCIylWvwcOUtZNt8z__n-Vvy1SD1Uc=w36-h36-p-c0x00000000-rp-mo-ba5-br100",
+      "comment": "Praia linda no Piauí e tem vários bares com mensagens positivas que deixam o lugar mais agradável.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Leonardo Gomes Filho",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucqzOy5mRqrzUv3LlDianSSqE4cuit59xjEKnjuOfw=w36-h36-p-c0x00000000-rp-mo-br100",
+      "comment": "Mais uma piscina que praia. Não tem aquela ar de praia do coqueiro ou Atalaia. Mas é muito bom para crianças e quem pratica esportes como Kyte ou standup paddle",
+      "gradeComment": 3
+    },
+    {
+      "author": "carlos rafael pereira lima",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucoIeoW2Fd3rl6tcqZ4oJ-LvBuKDpWDmLqB2bRX-aA=w36-h36-p-c0x00000000-rp-mo-br100",
+      "comment": "Praia muito boa para curtir e se divertir, um pouco perigosa durante a tarde, pois a maré vem muito rápida.",
+      "gradeComment": 4
+    },
+    {
+      "author": "Marcia Reijanne",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucpmN6ByFV3i_Le_7Ynoeb5SNyNXasJWNzRt7oep6g=w36-h36-p-c0x00000000-rp-mo-ba3-br100",
+      "comment": "Uma praia limpa, linda e o vilarejo ainda com muitos moradores nativos.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Ailton RL",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucqW4Eneq8EeiOOePZ4lWyKQ_b_D4-2lveHkWsIMig=w36-h36-p-c0x00000000-rp-mo-ba5-br100",
+      "comment": "Lugar belíssimo, excelente para levar crianças, várias opções de passatempo com brincadeiras , vários bares muita opção de bebida e comida típica praiana",
+      "gradeComment": 5
+    },
+    {
+      "author": "Edson Xavier",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucqJ3keKeEIrnmiim8vAUA9lJU8kV7sWwwWKpas0kA=w36-h36-p-c0x00000000-rp-mo-ba3-br100",
+      "comment": "Praia linda e bem calma!! Ótima para passar o dia!",
+      "gradeComment": 5
+    }
+  ],
+  "peakHours": [
+    {
+      "Sunday": [
+        {
+          "hour": "04:00",
+          "percent": 1
+        },
+        {
+          "hour": "05:00",
+          "percent": 1
+        },
+        {
+          "hour": "06:00",
+          "percent": 3
+        },
+        {
+          "hour": "07:00",
+          "percent": 7
+        },
+        {
+          "hour": "08:00",
+          "percent": 18
+        },
+        {
+          "hour": "09:00",
+          "percent": 37
+        },
+        {
+          "hour": "10:00",
+          "percent": 59
+        },
+        {
+          "hour": "11:00",
+          "percent": 75
+        },
+        {
+          "hour": "12:00",
+          "percent": 78
+        },
+        {
+          "hour": "13:00",
+          "percent": 74
+        },
+        {
+          "hour": "14:00",
+          "percent": 72
+        },
+        {
+          "hour": "15:00",
+          "percent": 69
+        },
+        {
+          "hour": "16:00",
+          "percent": 57
+        },
+        {
+          "hour": "17:00",
+          "percent": 34
+        },
+        {
+          "hour": "18:00",
+          "percent": 15
+        },
+        {
+          "hour": "19:00",
+          "percent": 6
+        },
+        {
+          "hour": "20:00",
+          "percent": 3
+        },
+        {
+          "hour": "21:00",
+          "percent": 2
+        },
+        {
+          "hour": "22:00",
+          "percent": 2
+        },
+        {
+          "hour": "23:00",
+          "percent": 2
+        },
+        {
+          "hour": "00:00",
+          "percent": 2
+        },
+        {
+          "hour": "01:00",
+          "percent": 2
+        },
+        {
+          "hour": "02:00",
+          "percent": 2
+        },
+        {
+          "hour": "03:00",
+          "percent": 2
+        }
+      ]
+    },
+    {
+      "Monday": [
+        {
+          "hour": "07:00",
+          "percent": 2
+        },
+        {
+          "hour": "08:00",
+          "percent": 5
+        },
+        {
+          "hour": "09:00",
+          "percent": 10
+        },
+        {
+          "hour": "10:00",
+          "percent": 15
+        },
+        {
+          "hour": "11:00",
+          "percent": 18
+        },
+        {
+          "hour": "12:00",
+          "percent": 17
+        },
+        {
+          "hour": "13:00",
+          "percent": 15
+        },
+        {
+          "hour": "14:00",
+          "percent": 15
+        },
+        {
+          "hour": "15:00",
+          "percent": 17
+        },
+        {
+          "hour": "16:00",
+          "percent": 15
+        },
+        {
+          "hour": "17:00",
+          "percent": 9
+        },
+        {
+          "hour": "18:00",
+          "percent": 3
+        }
+      ]
+    },
+    {
+      "Tuesday": [
+        {
+          "hour": "08:00",
+          "percent": 2
+        },
+        {
+          "hour": "09:00",
+          "percent": 5
+        },
+        {
+          "hour": "10:00",
+          "percent": 9
+        },
+        {
+          "hour": "11:00",
+          "percent": 12
+        },
+        {
+          "hour": "12:00",
+          "percent": 12
+        },
+        {
+          "hour": "13:00",
+          "percent": 11
+        },
+        {
+          "hour": "14:00",
+          "percent": 10
+        },
+        {
+          "hour": "15:00",
+          "percent": 10
+        },
+        {
+          "hour": "16:00",
+          "percent": 9
+        },
+        {
+          "hour": "17:00",
+          "percent": 6
+        },
+        {
+          "hour": "18:00",
+          "percent": 3
+        }
+      ]
+    },
+    {
+      "Wednesday": [
+        {
+          "hour": "08:00",
+          "percent": 1
+        },
+        {
+          "hour": "09:00",
+          "percent": 4
+        },
+        {
+          "hour": "10:00",
+          "percent": 7
+        },
+        {
+          "hour": "11:00",
+          "percent": 9
+        },
+        {
+          "hour": "12:00",
+          "percent": 10
+        },
+        {
+          "hour": "13:00",
+          "percent": 8
+        },
+        {
+          "hour": "14:00",
+          "percent": 8
+        },
+        {
+          "hour": "15:00",
+          "percent": 9
+        },
+        {
+          "hour": "16:00",
+          "percent": 8
+        },
+        {
+          "hour": "17:00",
+          "percent": 4
+        }
+      ]
+    },
+    {
+      "Thursday": [
+        {
+          "hour": "08:00",
+          "percent": 2
+        },
+        {
+          "hour": "09:00",
+          "percent": 5
+        },
+        {
+          "hour": "10:00",
+          "percent": 8
+        },
+        {
+          "hour": "11:00",
+          "percent": 11
+        },
+        {
+          "hour": "12:00",
+          "percent": 11
+        },
+        {
+          "hour": "13:00",
+          "percent": 11
+        },
+        {
+          "hour": "14:00",
+          "percent": 12
+        },
+        {
+          "hour": "15:00",
+          "percent": 13
+        },
+        {
+          "hour": "16:00",
+          "percent": 11
+        },
+        {
+          "hour": "17:00",
+          "percent": 6
+        },
+        {
+          "hour": "18:00",
+          "percent": 1
+        }
+      ]
+    },
+    {
+      "Friday": [
+        {
+          "hour": "07:00",
+          "percent": 1
+        },
+        {
+          "hour": "08:00",
+          "percent": 5
+        },
+        {
+          "hour": "09:00",
+          "percent": 12
+        },
+        {
+          "hour": "10:00",
+          "percent": 20
+        },
+        {
+          "hour": "11:00",
+          "percent": 26
+        },
+        {
+          "hour": "12:00",
+          "percent": 27
+        },
+        {
+          "hour": "13:00",
+          "percent": 25
+        },
+        {
+          "hour": "14:00",
+          "percent": 24
+        },
+        {
+          "hour": "15:00",
+          "percent": 25
+        },
+        {
+          "hour": "16:00",
+          "percent": 24
+        },
+        {
+          "hour": "17:00",
+          "percent": 18
+        },
+        {
+          "hour": "18:00",
+          "percent": 10
+        },
+        {
+          "hour": "19:00",
+          "percent": 4
+        },
+        {
+          "hour": "20:00",
+          "percent": 1
+        },
+        {
+          "hour": "22:00",
+          "percent": 1
+        },
+        {
+          "hour": "23:00",
+          "percent": 1
+        },
+        {
+          "hour": "00:00",
+          "percent": 1
+        }
+      ]
+    },
+    {
+      "Saturday": [
+        {
+          "hour": "04:00",
+          "percent": 1
+        },
+        {
+          "hour": "06:00",
+          "percent": 2
+        },
+        {
+          "hour": "07:00",
+          "percent": 8
+        },
+        {
+          "hour": "08:00",
+          "percent": 24
+        },
+        {
+          "hour": "09:00",
+          "percent": 51
+        },
+        {
+          "hour": "10:00",
+          "percent": 81
+        },
+        {
+          "hour": "11:00",
+          "percent": 100
+        },
+        {
+          "hour": "12:00",
+          "percent": 99
+        },
+        {
+          "hour": "13:00",
+          "percent": 91
+        },
+        {
+          "hour": "14:00",
+          "percent": 85
+        },
+        {
+          "hour": "15:00",
+          "percent": 78
+        },
+        {
+          "hour": "16:00",
+          "percent": 62
+        },
+        {
+          "hour": "17:00",
+          "percent": 39
+        },
+        {
+          "hour": "18:00",
+          "percent": 19
+        },
+        {
+          "hour": "19:00",
+          "percent": 8
+        },
+        {
+          "hour": "20:00",
+          "percent": 4
+        },
+        {
+          "hour": "21:00",
+          "percent": 3
+        },
+        {
+          "hour": "22:00",
+          "percent": 3
+        },
+        {
+          "hour": "23:00",
+          "percent": 3
+        },
+        {
+          "hour": "00:00",
+          "percent": 2
+        },
+        {
+          "hour": "01:00",
+          "percent": 2
+        },
+        {
+          "hour": "02:00",
+          "percent": 2
+        },
+        {
+          "hour": "03:00",
+          "percent": 1
+        }
+      ]
+    }
+  ],
+  "relatedSearches": [
+    "praia de macapá onde fica",
+    "praia de macapá pousadas",
+    "barraca na praia de macapá",
+    "fotos da praia de macapá",
+    "macapá piauí",
+    "hotel praia de macapá piaui",
+    "praia de atalaia pi",
+    "macapá tem mar"
+  ],
+  "relateds": [
+    {
+      "mainName": "Praia do Coqueiro",
+      "url": null
+    },
+    {
+      "mainName": "Praia de Maramar",
+      "url": null
+    },
+    {
+      "mainName": "Árvore Penteada",
+      "url": null
+    },
+    {
+      "mainName": "Barra Grande",
+      "url": null
+    },
+    {
+      "mainName": "Praia do Arrombado",
+      "url": null
+    },
+    {
+      "mainName": "Praia Peito de Moça",
+      "url": null
+    },
+    {
+      "mainName": "Delta do Parnaíba",
+      "url": null
+    },
+    {
+      "mainName": "Cajueiro Rei",
+      "url": null
+    },
+    {
+      "mainName": "Ilha dos Poldros",
+      "url": null
+    },
+    {
+      "mainName": "Praia do Barro Preto",
+      "url": null
+    },
+    {
+      "mainName": "Porto das Barcas",
+      "url": null
+    },
+    {
+      "mainName": "Praia do Cajueiro",
+      "url": null
+    },
+    {
+      "mainName": "Lagoa do Portinho",
+      "url": null
+    },
+    {
+      "mainName": "Parque Ecológico Cachoeira do Urubu",
+      "url": null
+    },
+    {
+      "mainName": "Área de Proteção Ambiental Delta do Parnaíba",
+      "url": null
+    },
+    {
+      "mainName": "Porto dos Tatus",
+      "url": null
+    },
+    {
+      "mainName": "Praia das Curimãs",
+      "url": null
+    },
+    {
+      "mainName": "Rio Parnaíba",
+      "url": null
+    },
+    {
+      "mainName": "Praça Santo Antônio",
+      "url": null
+    },
+    {
+      "mainName": "Barra dos Remédios",
+      "url": null
+    },
+    {
+      "mainName": "Ilha Grande de Santa Isabel",
+      "url": null
+    }
+  ]
+}

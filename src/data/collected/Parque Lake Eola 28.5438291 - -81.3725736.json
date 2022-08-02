@@ -1,0 +1,893 @@
+{
+  "mainName": "Parque Lake Eola",
+  "slug": "parque-lake-eola",
+  "category": "Parque",
+  "locationInformation": {
+    "latitude": "28.5438291",
+    "longitude": "-81.3725736"
+  },
+  "basicInformation": [
+    {
+      "label": "endereço",
+      "tooltip": "Copiar endereço",
+      "text": "512 E Washington St, Orlando, FL 32801, Estados Unidos",
+      "icon": "https://www.gstatic.com/images/icons/material/system_gm/1x/place_gm_blue_24dp.png"
+    },
+    {
+      "label": "website",
+      "tooltip": "Abrir website",
+      "text": "orlando.gov",
+      "icon": "https://www.gstatic.com/images/icons/material/system_gm/1x/public_gm_blue_24dp.png"
+    },
+    {
+      "label": "telefone",
+      "tooltip": "Copiar número de telefone",
+      "text": "+1 407-246-4484",
+      "icon": "https://www.gstatic.com/images/icons/material/system_gm/1x/phone_gm_blue_24dp.png"
+    },
+    {
+      "label": "Code",
+      "tooltip": "Copiar Plus Code",
+      "text": "GJVG+GX Orlando, Flórida, EUA",
+      "icon": "https://maps.gstatic.com/mapfiles/maps_lite/images/2x/ic_plus_code.png"
+    }
+  ],
+  "ratingInformation": {
+    "basicRatingInformation": {
+      "averageGrade": 4.7,
+      "totalOfEvaluations": 18897
+    },
+    "ratingsByGrade": [
+      {
+        "grade": 5,
+        "totalRatings": 15007
+      },
+      {
+        "grade": 4,
+        "totalRatings": 3008
+      },
+      {
+        "grade": 3,
+        "totalRatings": 628
+      },
+      {
+        "grade": 2,
+        "totalRatings": 121
+      },
+      {
+        "grade": 1,
+        "totalRatings": 133
+      }
+    ]
+  },
+  "ratingTags": [
+    {
+      "tag": "cisnes",
+      "count": 783,
+      "tooltip": "cisnes, mencionado em 783 avaliações"
+    },
+    {
+      "tag": "feira livre",
+      "count": 467,
+      "tooltip": "feira livre, mencionado em 467 avaliações"
+    },
+    {
+      "tag": "sem-teto",
+      "count": 225,
+      "tooltip": "sem-teto, mencionado em 225 avaliações"
+    },
+    {
+      "tag": "anatidae",
+      "count": 94,
+      "tooltip": "anatidae, mencionado em 94 avaliações"
+    },
+    {
+      "tag": "dia da independência dos estados unidos",
+      "count": 63,
+      "tooltip": "dia da independência dos estados unidos, mencionado em 63 avaliações"
+    },
+    {
+      "tag": "decoração natalina",
+      "count": 44,
+      "tooltip": "decoração natalina, mencionado em 44 avaliações"
+    },
+    {
+      "tag": "city beautiful movement",
+      "count": 28,
+      "tooltip": "city beautiful movement, mencionado em 28 avaliações"
+    }
+  ],
+  "featuredPhotos": [
+    "https://lh5.googleusercontent.com/p/AF1QipMqLeaFLG5ZDlHuQcWjs4DCc-ThpNSQ-TK6ySvg=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMBYkNb8cweshoRcYHwIogl3hV9mmOR90jxlx2H=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOJP6WH05LP_9W4q49sSUgV0kqXlfMZAIwL6oJ2=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPH1SMeDMrryx6iVhFFaAmJgnJV7liTMyPs4Bm3=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPtFfw0-FRitHSQ04eL6W-FTgmw4rrRzV2hsfC1=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOIn6m5LtmS7RrVget4GFrN2sFYblMcGe2AeJO3=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPW9a1DZ0sZB6EaX1KDAYsjl-EYzT3NzMIrMusp=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNoq1L34QDGhVBMkD_pdM0ydih0zyOJWji4ksGI=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipN4EC-uQZ0AM9Fdvf5y9ES-YHaDLnbxKe21bu1g=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNroSgEibTklY94ic8FQwG1K3cZj58bqpaFo5bX=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipM7GASZKOipHX9HX8ALymRR-fq5-cJaHt4f_cfR=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipM0ngS6P61qPeYYbx5ejVNcTTZ_mofJV9i9odgj=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipO2rza0Fq7rOAqE6_XhD79sekoIQu6-ZMw7X8Bz=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNd1OqOfTTqA-rmVn7BkYiLkYcAEe5d1EGsJ2Wt=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipO9ZjJaoOmDe5L7dtwGgEWDcs0sxLWzf2tWPSeJ=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipO4NTC1nddJzr29NZWGtXWEIgzugR4tBWrUC6NC=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNjCYuTo7KcdC0dxx3d1SkJBlF0XBrO56nRqZz4=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNaXXO0DjxgxbWdievhQPfMbpfbISZA_Gvsr16-=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMPyx97UxFR2U88Vu-qVey25TY4msONnanVMtZG=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMaeDOuPZR8H25tNdKyklhVYKGwbGIYl_eWmSxI=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPRAiLloGELdX_sXWTBrNzCyemdiWNStst73l3G=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMXUcmyZ3r1FpyEZsvN7GSbJspFxHqn0zOo7_xe=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNCUbnJCYh6TQexODFlrkOlyAm_qfJDNqymX6hj=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipO0NZh4x_wz-IF2KHWTmrXBPcmOcDFuXz_8d0b8=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPj0nf2AyTVNEO3aeXc9ARCbOvclu2msaX2uo1S=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMVOxJmeD2mFczAf8qXZRCzhd2X4fpa7OfmZXiy=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPcUmM_-xWZr-wAtKMz1GIYojqIHcADufqiHcT9=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMHl-MybNkUpY8YYyNmKR-l3FXJm-Qe77PfpmhP=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPyjpYt6Z8dlp12xXvUJirj5SIy45_GgD53tck6=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipP0gTor22wI5gSk6SMrtGCYBH4rmFWCqRaEGVz9=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipN6VJRzcbKarp8oAaTiSjayfOdAyKJj4NJq31cc=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPMkUdrwvb5oJbvWlxyG_pbRoHHZEx5TkRlPWXy=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPacEEot70y1-dn8MzYfUFh2Tr06bj8OhzXrJFa=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOr_m_wuDR0A_7-oTViJf11_Dm4Uko_9_mnWI3o=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipM6V71IOHB_lpPi3iMlCS__7I85jXyr6QVjLEl3=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNPlOLzc8XuVpmhMNT4gehElxnSUFzgaZAkbkF6=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMmb37duhjObPBbaJfYIYhVTaZGNLdddYeEnzI=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPGsAOnjQmBS3snWTVVRjNA49HciBNpjjv9uGst=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOY_AzxOHFNWKsWjK8AK5Tw9LyLTuEI4wdodnA_=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPX7QmjztmEHNDFAvGIeAKxhus9lCmc4tghi41N=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPDCfnCWJconyrgkA-WIywUb1QHduxmzbUAruxE=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOtzz1rORm2HTBpgj778iwubqU8KxlSGzDoOs4n=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNHbBqBDGP7TAxoUeRzLA9klbBVqgUCGYvGtdzY=w1024-h576-k-no"
+  ],
+  "topComments": [
+    {
+      "author": "Andre Severino da Silva",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucoa2lj43RDwbZQ21QDJ6RYXq7rP21fQqjt-KiGUFA=w36-h36-p-c0x00000000-rp-mo-ba5-br100",
+      "comment": "Um lago para passar meio período. Possui banheiro gratis, playgroud para as crianças, lanchonetes e cafeteiras aos redores. Além da sua vista maravilhosa.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Tiago Oliva",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucq_jRRSoJgv3EieWAsMUxkRZpWUkIbtazVJhBod0Ms=w36-h36-p-c0x00000000-rp-mo-ba6-br100",
+      "comment": "Parque muito lindo, muito bem decorado para o natal. Recomendo ir ao entardecer para ver o por do sol e ver as luzes de natal. Na verdade todos os parques de orlando são mais lindos no horário noturno. Os banheiros ficam abertos até as 10pm. Tem uma feira aos fins de semana que vai até as 4pm.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Jose Gledestone Soares Fernandes",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucqBdTXQbUoPIQueDWCzj5s8-GN_jRjLZOWEj5bEl88=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "Ótimo parque público no centro de Orlando. Aos domingos tem uma feirinha com produtos alternativos, comidas e aula de ioga. Há a opção de pagar uma pequena taxa e atravessar o lago de pedalinho.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Chris Dias",
+      "photoAuthor": "https://lh3.googleusercontent.com/a/AItbvmkVTj65bo44lXhCpMY_M8jlL9t41PlE3o037CKZ=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "Lindo parque para passeios em dia de sol. Vale lindas fotos. Tem banheiro público bem limpinho",
+      "gradeComment": 5
+    },
+    {
+      "author": "CAROLINA VITA",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucqyoh2ttSjBrS77iyQzXBST-TMKjmoZoP-FXNTs7Q=w36-h36-p-c0x00000000-rp-mo-br100",
+      "comment": "Espaço bem agradável para passeio ou corrida. Fui no domingo e estava acontecendo uma feira com comida e exposições.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Katia Siqueira Santos",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucq0mcRNxLOC4ZNcrJSr77Kf5nPZxLYLpDdLhARkWA=w36-h36-p-c0x00000000-rp-mo-ba3-br100",
+      "comment": "Lugar lindo, com cisnes no lago, no domingo tem uma feira",
+      "gradeComment": 5
+    },
+    {
+      "author": "Gonçalves",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucoKggZDF4AqseJkK3EegNZv8jrMW4o_LbMyGa_S=w36-h36-p-c0x00000000-rp-mo-br100",
+      "comment": "Tudo muito limpo maravilhoso.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Silvia Alem",
+      "photoAuthor": "https://lh3.googleusercontent.com/a/AItbvmk-EIsuguH06RkepB12mLGNT0DeKyQCwEj2aTlS=w36-h36-p-c0x00000000-rp-mo-ba6-br100",
+      "comment": "Espaço lindo e bem cuidado, muito bom para passear com a família ou simplesmente relaxar no ambiente tranquilo com a vista do lago e seus cisnes. Oferece play ground para as crianças pequenas,  estacionamento com parquimetro. Muito bem localizado,  próximo à bares, restaurantes e supermercado.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Marie Martim",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucrFho-nyGSdDA9GbiB_t41NoBo_1Q0BgUROZCp9FQ=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "Passeio de domingo, pra relaxar com a família. As crianças curtiram muito o playground. Há uma feira onde há diversas opções de comidas e bebidas. Optamos pelo falafel para fugir do fast food convencional.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Marcus Vinicius Peixoto Chidid",
+      "photoAuthor": "https://lh3.googleusercontent.com/a/AItbvmnCxNtU4gKY_71s47NKivk-6TmT1DODiyCbS_XJ=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "Fantástico, maravilhoso,para caminhar,fazer atividade física,relaxar,meditar e até fazer pic nic,aos Domingos feirinha com artesanato e comidas típicas de vários países.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Emanuel da Silveira",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucogCYTWQoxp-nGEOfNtiIlS7XC3s6ISnAK0Q41Ae7U=w36-h36-p-c0x00000000-rp-mo-ba5-br100",
+      "comment": "Domingos, os domingos assim são perfeitos. Comida, bebida e pessoas felizes. Sem enchentes de turistas. Perfect",
+      "gradeComment": 5
+    },
+    {
+      "author": "Guilherme Carrapatoso Garcia",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucrRgzdNxBnjKjErrmsDfYPh2YaSPU5FasbqpAjTfr0=w36-h36-p-c0x00000000-rp-mo-ba6-br100",
+      "comment": "Ótimo parque para visitar fui ao domingo para conhecer a feira. Não tem muito de natural se comparado as feiras artesanais do Brasil mas interessante o passei e local agradavel.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Mar Cassi",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucoRbLO4YAlvJlb0qIToQLxNEPDzNPZGFn6zB9PlFA=w36-h36-p-c0x00000000-rp-mo-br100",
+      "comment": "Adoro esse parque! Bom espaço para caminhadas e diversão para as crianças, fui até presenteada com um ensaio de ballet, muito legal!!!",
+      "gradeComment": 5
+    },
+    {
+      "author": "Eliezer Silva",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucr_Xd2rWEEPFBRoMnLbENpQ8QN_RImIIWu7lHGnpQ=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "Parque agradável , com bela paisagem . Aos domingos tem feira com várias barracas de alimentação e outros produtos.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Cibele Gomes",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucpHiJ8Y8J0dUbaYYZAOPZUSWN57BW7SKtu_TqE2oK0=w36-h36-p-c0x00000000-rp-mo-ba5-br100",
+      "comment": "Ambiente incrível. Parque muito lindo e grande, possui um lago lindo bem no meio e você pode caminhar ao redor vendo pequenos animais. No domingo de manhã tem uma feirinha local onde são vendidos diversos produtos. É um ambiente super agradável para ir com crianças. Tem um parquinho bem divertido para as crianças brincarem.",
+      "gradeComment": 5
+    },
+    {
+      "author": "paulo cesar da silva gonçalves",
+      "photoAuthor": "https://lh3.googleusercontent.com/a/AItbvmm3X4MfFC5rMTCscDYpHp2MLXJUHJq3G9GcGHfH=w36-h36-p-c0x00000000-rp-mo-ba3-br100",
+      "comment": "Paisagem maravilhosa, principalmente à noite. Local imperdível para visitar.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Valdecira Martin",
+      "photoAuthor": "https://lh3.googleusercontent.com/a/AItbvmnp6QLZfbSsAF16MC-ihm3GQcKs_KtzX0V_pd1X=w36-h36-p-c0x00000000-rp-mo-br100",
+      "comment": "Lindo, com uma arborização,  tem parque pras  crianças. Você pode passear com seu pet e aos domingos tem uma feirinha. Recomendo",
+      "gradeComment": 5
+    },
+    {
+      "author": "Helena Lourenço",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucpPFQtZ-Fs2-eNTBvZzRsGBUJtETA_aWT1OMJLVWw=w36-h36-p-c0x00000000-rp-mo-ba7-br100",
+      "comment": "Está  lindo, com a iluminação  de Natal,  a noite fica mais lindo ainda.....",
+      "gradeComment": 5
+    },
+    {
+      "author": "Léslie Timm",
+      "photoAuthor": "https://lh3.googleusercontent.com/a/AItbvmmiSouMhAJwSaDFh44jsUogyNLXRO8qDT41JfR3=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "Lugar bonito, com muita natureza, cisnes, patos, esquilos... Pode-se alugar pedalinhos para andar no lago e há um Dispenser de ração para dar aos animais ao custo de $,25. As pessoas correm e passeiam com seus cães ao redor do lago.",
+      "gradeComment": 4
+    },
+    {
+      "author": "Ana Paula Beck",
+      "photoAuthor": "https://lh3.googleusercontent.com/a/AItbvmnX7Sq7n9BX4ZEBOJ2riAW67qU6lwW-8PUY3CQ9=w36-h36-p-c0x00000000-rp-mo-ba2-br100",
+      "comment": "Lugar encantador, fui num domingo de manhã e tinha uma feirinha com artesanato e algumas opções de comida. Vale a visita.",
+      "gradeComment": 5
+    }
+  ],
+  "peakHours": [
+    {
+      "Sunday": [
+        {
+          "hour": "07:00",
+          "percent": 2
+        },
+        {
+          "hour": "08:00",
+          "percent": 9
+        },
+        {
+          "hour": "09:00",
+          "percent": 22
+        },
+        {
+          "hour": "10:00",
+          "percent": 43
+        },
+        {
+          "hour": "11:00",
+          "percent": 68
+        },
+        {
+          "hour": "12:00",
+          "percent": 90
+        },
+        {
+          "hour": "13:00",
+          "percent": 100
+        },
+        {
+          "hour": "14:00",
+          "percent": 93
+        },
+        {
+          "hour": "15:00",
+          "percent": 75
+        },
+        {
+          "hour": "16:00",
+          "percent": 57
+        },
+        {
+          "hour": "17:00",
+          "percent": 45
+        },
+        {
+          "hour": "18:00",
+          "percent": 38
+        },
+        {
+          "hour": "19:00",
+          "percent": 34
+        },
+        {
+          "hour": "20:00",
+          "percent": 28
+        },
+        {
+          "hour": "21:00",
+          "percent": 21
+        },
+        {
+          "hour": "22:00",
+          "percent": 13
+        },
+        {
+          "hour": "23:00",
+          "percent": 7
+        }
+      ]
+    },
+    {
+      "Monday": [
+        {
+          "hour": "06:00",
+          "percent": 1
+        },
+        {
+          "hour": "07:00",
+          "percent": 2
+        },
+        {
+          "hour": "08:00",
+          "percent": 3
+        },
+        {
+          "hour": "09:00",
+          "percent": 5
+        },
+        {
+          "hour": "10:00",
+          "percent": 8
+        },
+        {
+          "hour": "11:00",
+          "percent": 11
+        },
+        {
+          "hour": "12:00",
+          "percent": 14
+        },
+        {
+          "hour": "13:00",
+          "percent": 16
+        },
+        {
+          "hour": "14:00",
+          "percent": 16
+        },
+        {
+          "hour": "15:00",
+          "percent": 15
+        },
+        {
+          "hour": "16:00",
+          "percent": 15
+        },
+        {
+          "hour": "17:00",
+          "percent": 15
+        },
+        {
+          "hour": "18:00",
+          "percent": 16
+        },
+        {
+          "hour": "19:00",
+          "percent": 17
+        },
+        {
+          "hour": "20:00",
+          "percent": 16
+        },
+        {
+          "hour": "21:00",
+          "percent": 13
+        },
+        {
+          "hour": "22:00",
+          "percent": 8
+        },
+        {
+          "hour": "23:00",
+          "percent": 4
+        }
+      ]
+    },
+    {
+      "Tuesday": [
+        {
+          "hour": "06:00",
+          "percent": 1
+        },
+        {
+          "hour": "07:00",
+          "percent": 2
+        },
+        {
+          "hour": "08:00",
+          "percent": 3
+        },
+        {
+          "hour": "09:00",
+          "percent": 6
+        },
+        {
+          "hour": "10:00",
+          "percent": 9
+        },
+        {
+          "hour": "11:00",
+          "percent": 12
+        },
+        {
+          "hour": "12:00",
+          "percent": 14
+        },
+        {
+          "hour": "13:00",
+          "percent": 15
+        },
+        {
+          "hour": "14:00",
+          "percent": 14
+        },
+        {
+          "hour": "15:00",
+          "percent": 14
+        },
+        {
+          "hour": "16:00",
+          "percent": 14
+        },
+        {
+          "hour": "17:00",
+          "percent": 15
+        },
+        {
+          "hour": "18:00",
+          "percent": 16
+        },
+        {
+          "hour": "19:00",
+          "percent": 17
+        },
+        {
+          "hour": "20:00",
+          "percent": 16
+        },
+        {
+          "hour": "21:00",
+          "percent": 14
+        },
+        {
+          "hour": "22:00",
+          "percent": 10
+        },
+        {
+          "hour": "23:00",
+          "percent": 6
+        }
+      ]
+    },
+    {
+      "Wednesday": [
+        {
+          "hour": "07:00",
+          "percent": 2
+        },
+        {
+          "hour": "08:00",
+          "percent": 4
+        },
+        {
+          "hour": "09:00",
+          "percent": 7
+        },
+        {
+          "hour": "10:00",
+          "percent": 10
+        },
+        {
+          "hour": "11:00",
+          "percent": 13
+        },
+        {
+          "hour": "12:00",
+          "percent": 15
+        },
+        {
+          "hour": "13:00",
+          "percent": 16
+        },
+        {
+          "hour": "14:00",
+          "percent": 16
+        },
+        {
+          "hour": "15:00",
+          "percent": 16
+        },
+        {
+          "hour": "16:00",
+          "percent": 18
+        },
+        {
+          "hour": "17:00",
+          "percent": 19
+        },
+        {
+          "hour": "18:00",
+          "percent": 21
+        },
+        {
+          "hour": "19:00",
+          "percent": 20
+        },
+        {
+          "hour": "20:00",
+          "percent": 18
+        },
+        {
+          "hour": "21:00",
+          "percent": 15
+        },
+        {
+          "hour": "22:00",
+          "percent": 10
+        },
+        {
+          "hour": "23:00",
+          "percent": 6
+        }
+      ]
+    },
+    {
+      "Thursday": [
+        {
+          "hour": "06:00",
+          "percent": 1
+        },
+        {
+          "hour": "07:00",
+          "percent": 2
+        },
+        {
+          "hour": "08:00",
+          "percent": 5
+        },
+        {
+          "hour": "09:00",
+          "percent": 8
+        },
+        {
+          "hour": "10:00",
+          "percent": 11
+        },
+        {
+          "hour": "11:00",
+          "percent": 13
+        },
+        {
+          "hour": "12:00",
+          "percent": 15
+        },
+        {
+          "hour": "13:00",
+          "percent": 15
+        },
+        {
+          "hour": "14:00",
+          "percent": 15
+        },
+        {
+          "hour": "15:00",
+          "percent": 16
+        },
+        {
+          "hour": "16:00",
+          "percent": 19
+        },
+        {
+          "hour": "17:00",
+          "percent": 24
+        },
+        {
+          "hour": "18:00",
+          "percent": 30
+        },
+        {
+          "hour": "19:00",
+          "percent": 32
+        },
+        {
+          "hour": "20:00",
+          "percent": 29
+        },
+        {
+          "hour": "21:00",
+          "percent": 22
+        },
+        {
+          "hour": "22:00",
+          "percent": 13
+        },
+        {
+          "hour": "23:00",
+          "percent": 6
+        }
+      ]
+    },
+    {
+      "Friday": [
+        {
+          "hour": "07:00",
+          "percent": 2
+        },
+        {
+          "hour": "08:00",
+          "percent": 4
+        },
+        {
+          "hour": "09:00",
+          "percent": 8
+        },
+        {
+          "hour": "10:00",
+          "percent": 11
+        },
+        {
+          "hour": "11:00",
+          "percent": 15
+        },
+        {
+          "hour": "12:00",
+          "percent": 17
+        },
+        {
+          "hour": "13:00",
+          "percent": 17
+        },
+        {
+          "hour": "14:00",
+          "percent": 17
+        },
+        {
+          "hour": "15:00",
+          "percent": 16
+        },
+        {
+          "hour": "16:00",
+          "percent": 16
+        },
+        {
+          "hour": "17:00",
+          "percent": 16
+        },
+        {
+          "hour": "18:00",
+          "percent": 19
+        },
+        {
+          "hour": "19:00",
+          "percent": 21
+        },
+        {
+          "hour": "20:00",
+          "percent": 21
+        },
+        {
+          "hour": "21:00",
+          "percent": 19
+        },
+        {
+          "hour": "22:00",
+          "percent": 15
+        },
+        {
+          "hour": "23:00",
+          "percent": 11
+        }
+      ]
+    },
+    {
+      "Saturday": [
+        {
+          "hour": "06:00",
+          "percent": 4
+        },
+        {
+          "hour": "07:00",
+          "percent": 10
+        },
+        {
+          "hour": "08:00",
+          "percent": 17
+        },
+        {
+          "hour": "09:00",
+          "percent": 26
+        },
+        {
+          "hour": "10:00",
+          "percent": 36
+        },
+        {
+          "hour": "11:00",
+          "percent": 43
+        },
+        {
+          "hour": "12:00",
+          "percent": 47
+        },
+        {
+          "hour": "13:00",
+          "percent": 47
+        },
+        {
+          "hour": "14:00",
+          "percent": 44
+        },
+        {
+          "hour": "15:00",
+          "percent": 40
+        },
+        {
+          "hour": "16:00",
+          "percent": 37
+        },
+        {
+          "hour": "17:00",
+          "percent": 35
+        },
+        {
+          "hour": "18:00",
+          "percent": 33
+        },
+        {
+          "hour": "19:00",
+          "percent": 31
+        },
+        {
+          "hour": "20:00",
+          "percent": 29
+        },
+        {
+          "hour": "21:00",
+          "percent": 25
+        },
+        {
+          "hour": "22:00",
+          "percent": 21
+        },
+        {
+          "hour": "23:00",
+          "percent": 17
+        }
+      ]
+    }
+  ],
+  "relatedSearches": [
+    "lake eola restaurants",
+    "downtown de orlando",
+    "visitar o downtown de orlando",
+    "winter park",
+    "icon park",
+    "orlando museum of art",
+    "o que fazer em orlando",
+    "lake eola 4th of july"
+  ],
+  "relateds": [
+    {
+      "mainName": "Lake Eola",
+      "url": null
+    },
+    {
+      "mainName": "Harry P. Leu Gardens",
+      "url": null
+    },
+    {
+      "mainName": "Medieval Market",
+      "url": null
+    },
+    {
+      "mainName": "Center of Northern Peoples",
+      "url": null
+    },
+    {
+      "mainName": "Nelson Mandelapark",
+      "url": null
+    },
+    {
+      "mainName": "The Old Great Square",
+      "url": null
+    },
+    {
+      "mainName": "Stradbally Hall",
+      "url": null
+    },
+    {
+      "mainName": "The Linq Promenade",
+      "url": null
+    },
+    {
+      "mainName": "Mountain America Exposition Center",
+      "url": null
+    },
+    {
+      "mainName": "Il Campo",
+      "url": null
+    },
+    {
+      "mainName": "Orlando Science Center",
+      "url": null
+    },
+    {
+      "mainName": "Museu de Arte de Orlando",
+      "url": null
+    },
+    {
+      "mainName": "Festival Internacional de Escultura em Areia",
+      "url": null
+    },
+    {
+      "mainName": "Hatch Memorial Shell",
+      "url": null
+    },
+    {
+      "mainName": "Spaceship Earth",
+      "url": null
+    },
+    {
+      "mainName": "Discovery Cove",
+      "url": null
+    },
+    {
+      "mainName": "Disney Springs",
+      "url": null
+    },
+    {
+      "mainName": "Epcot",
+      "url": null
+    },
+    {
+      "mainName": "Sudeley Castle",
+      "url": null
+    },
+    {
+      "mainName": "Lake Rianhard",
+      "url": null
+    },
+    {
+      "mainName": "Kraft Azalea Garden",
+      "url": null
+    },
+    {
+      "mainName": "SeaWorld Orlando",
+      "url": null
+    },
+    {
+      "mainName": "Hollywood Rip Ride Rockit",
+      "url": null
+    }
+  ]
+}

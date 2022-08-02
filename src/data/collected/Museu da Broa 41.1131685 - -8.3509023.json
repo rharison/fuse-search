@@ -1,0 +1,944 @@
+{
+  "mainName": "Museu da Broa",
+  "slug": "museu-da-broa",
+  "category": "Museu",
+  "locationInformation": {
+    "latitude": "41.1131685",
+    "longitude": "-8.3509023"
+  },
+  "basicInformation": [
+    {
+      "label": "endereço",
+      "tooltip": "Copiar endereço",
+      "text": "Capela, Portugal",
+      "icon": "https://www.gstatic.com/images/icons/material/system_gm/1x/place_gm_blue_24dp.png"
+    },
+    {
+      "label": "Code",
+      "tooltip": "Copiar Plus Code",
+      "text": "4J7X+7J Capela, Portugal",
+      "icon": "https://maps.gstatic.com/mapfiles/maps_lite/images/2x/ic_plus_code.png"
+    },
+    {
+      "label": "merchant",
+      "text": "Reivindicar esta empresa",
+      "icon": "https://www.gstatic.com/images/icons/material/system_gm/1x/verified_user_gm_blue_24dp.png"
+    }
+  ],
+  "ratingInformation": {
+    "basicRatingInformation": {
+      "averageGrade": 4.1,
+      "totalOfEvaluations": 570
+    },
+    "ratingsByGrade": [
+      {
+        "grade": 5,
+        "totalRatings": 267
+      },
+      {
+        "grade": 4,
+        "totalRatings": 169
+      },
+      {
+        "grade": 3,
+        "totalRatings": 96
+      },
+      {
+        "grade": 2,
+        "totalRatings": 23
+      },
+      {
+        "grade": 1,
+        "totalRatings": 15
+      }
+    ]
+  },
+  "ratingTags": [
+    {
+      "tag": "moinho",
+      "count": 36,
+      "tooltip": "moinho, mencionado em 36 avaliações"
+    },
+    {
+      "tag": "natureza",
+      "count": 24,
+      "tooltip": "natureza, mencionado em 24 avaliações"
+    },
+    {
+      "tag": "caminhada",
+      "count": 21,
+      "tooltip": "caminhada, mencionado em 21 avaliações"
+    },
+    {
+      "tag": "história",
+      "count": 11,
+      "tooltip": "história, mencionado em 11 avaliações"
+    },
+    {
+      "tag": "família",
+      "count": 10,
+      "tooltip": "família, mencionado em 10 avaliações"
+    },
+    {
+      "tag": "ser",
+      "count": 8,
+      "tooltip": "ser, mencionado em 8 avaliações"
+    },
+    {
+      "tag": "sitio",
+      "count": 7,
+      "tooltip": "sitio, mencionado em 7 avaliações"
+    },
+    {
+      "tag": "parque de merendas",
+      "count": 6,
+      "tooltip": "parque de merendas, mencionado em 6 avaliações"
+    },
+    {
+      "tag": "informação",
+      "count": 5,
+      "tooltip": "informação, mencionado em 5 avaliações"
+    },
+    {
+      "tag": "paisagem",
+      "count": 4,
+      "tooltip": "paisagem, mencionado em 4 avaliações"
+    }
+  ],
+  "featuredPhotos": [
+    "https://lh5.googleusercontent.com/p/AF1QipOAc_7lzD54cDrV1x3_F7oWuBVpUa8WKAIJNA2c=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOmqtpiPSFD5MCL5_VzsDWgsDrIzNzvHSmga8kb=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOzyxtQl2dKaH4Jlgeqf5HsaZhHv8sG2ojsSc_b=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNc70FhW-jn02DaeJBlN5Z_Uj2v0kkBqKTTQLwz=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOA4r4JzktOwCpHO9fgpUMOByP1LeTLd8VfkRvV=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNTsocBlyAX2GnOtQh6rnncyKfo02-pzHrnVuN0=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMx_wRcLQJ7DPGXQrzLtuVT9Fdl3tHt3tX0mG70=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPSXkybsoFdu809ZX-VIpd1zHKINZCAopRKSMru=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMABElj8iyxzQplCZuW6fBncsiY_NWdZ19FQxqO=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNncvaazkHfp91rSbqI9sUdVs0Wk_O-7aWzY4O-=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMdnBoNIbFC0Ro-I9aj_Y9buSyFEF2lctBT1chQ=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipM0YuwaABC5PG5MCgDvtrt8W_1PY-S-uG7ahmbW=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipO3WaOuDNrVv_Yf_9l7ys_i29rtzHtGMc4JDWBT=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipP00_ydR8fi074uKGjLNEjdZXcDjX2WTUdVgAQX=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipO2ThJATNdEK94cV0uh1iq7yikX_0300xirQCDM=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNnaOBIbLZmaddg2zFkCUQ7ArOhhyZ5dq5675Fj=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNjQA48cM-qUN0jF8ZiGLsARu--N-UgLP3TgOUF=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNx1lVafnNO1muwIO6wRPApGWTi4NJmplDUCtRz=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipM3Ojrkg6jLh3eLe60zcj3teWuWaRPu03vCFXWn=w1024-h576-k-no"
+  ],
+  "topComments": [
+    {
+      "author": "Paulo Resende",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucqyt7NrPrgc6ozlh4JQxZccVSP1A9e_AP9ox_73Gg=w36-h36-p-c0x00000000-rp-mo-ba6-br100",
+      "comment": "Local muito acolhedor e muito agradável a caminhada pelo leito do rio",
+      "gradeComment": 5
+    },
+    {
+      "author": "Felipe Viana",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucoBuRI2XWpQ6RvZDf76jLxOABLzdHUK4hbETsha_DY=w36-h36-p-c0x00000000-rp-mo-ba5-br100",
+      "comment": "O lugar é agradável, bonito e bem preservado! Dá até para fazer piquenique na maior segurança possível! País de primeiro mundo né mores!",
+      "gradeComment": 5
+    },
+    {
+      "author": "TáGenial PT NOVO CANAL",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucrxE7amiwynsfsPe6sbhB3GbcZ6hndM4h2FxkgJGQ=w36-h36-p-c0x00000000-rp-mo-br100",
+      "comment": "Local de paz e sossego para uma boa visita e caminhada. Era bom que a Junta de Freguesia de Lagares e Figueira e a Câmara Municipal de Penafiel fizessem uma intervenção para melhoria de segurança.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Hélder Oliveira",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucrYSeTnNd7gyVrxmcnaR-_gDTFspC2SXs6vpkUF=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "Como estava tudo fechado não posso comentar sobre o museu. O percurso pedonal pela beira do riacho é interessante.",
+      "gradeComment": 3
+    },
+    {
+      "author": "Susana Costa",
+      "photoAuthor": "https://lh3.googleusercontent.com/a/AItbvmne_kirkgEr7H8RW_HtAWITdzJ6yLAEMOKoxMC4=w36-h36-p-c0x00000000-rp-mo-ba3-br100",
+      "comment": "Deveria ser possível visitar as casinhas. O local no meio da natureza torna-o mágico.",
+      "gradeComment": 4
+    },
+    {
+      "author": "Ana Maria Ribeiro Caetano",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucr9jFasXFnpNahQdnBBdVR59tIijj4DRN350-jdbw=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "Dificuldade no percurso, mas muito bonito e cuidado",
+      "gradeComment": 3
+    },
+    {
+      "author": "Cristina Brandão",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucroYMw66DLPbm16LIXU1tbOynhOlj0lYQ9xBJQvaQ=w36-h36-p-c0x00000000-rp-mo-ba6-br100",
+      "comment": "Não visitei todo o museu, pois foi por acaso que parei na berma da estrada e vi que existia esse museu. Merece ser um pouco mais preservado. A visita completa fica para outra ocasião, e será com prévio agendamento de uma visita guiada.",
+      "gradeComment": 4
+    },
+    {
+      "author": "Manuel Areias",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucrHg0aKF1p6FBBbPnB4qXuows_t_hQPpU-_U8dzI_o=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "Local aprazível para visitar e desfrutar, dois percursos pedestres pelo interior e acompanhando o percurso de água terminando um deles num parque de merendas , um bom local para o convívio familiar e ou de amigos.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Ixux Motors",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucrZ29oUPvgamvbGSXhL3SflCMgmQzPi3rBo31awdQ=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "Um lugar encantador rodeado de natureza e relativamente bem preservado. A meu ver precisa de mais investimento pois o trageto faz ligação a um parque de merendas que está abandonado e requer obras e limpeza. Falta também mais informação sobre a fauna e flora presentes no local. Eu recomendo.",
+      "gradeComment": 4
+    },
+    {
+      "author": "Emanuela Costa",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucqa0pSglw-rrgdgiLV7sbXJJjyEyjrz6T_ddSvE2g=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "Espaço rural recuperado. Moinhos fechados. Trajeto nesta altura um pouco descuidado. Cerca danificada. Erva muito alta. Natureza e contrates com a pedra dos moinhos fenomenal.  Rioaxho com pouca água.  Deve ser mais belo com água abundante.",
+      "gradeComment": 4
+    }
+  ],
+  "peakHours": [
+    {
+      "Sunday": [
+        {
+          "hour": "04:00",
+          "percent": 1
+        },
+        {
+          "hour": "05:00",
+          "percent": 1
+        },
+        {
+          "hour": "06:00",
+          "percent": 1
+        },
+        {
+          "hour": "07:00",
+          "percent": 1
+        },
+        {
+          "hour": "08:00",
+          "percent": 3
+        },
+        {
+          "hour": "09:00",
+          "percent": 25
+        },
+        {
+          "hour": "10:00",
+          "percent": 79
+        },
+        {
+          "hour": "11:00",
+          "percent": 100
+        },
+        {
+          "hour": "12:00",
+          "percent": 58
+        },
+        {
+          "hour": "13:00",
+          "percent": 32
+        },
+        {
+          "hour": "14:00",
+          "percent": 33
+        },
+        {
+          "hour": "15:00",
+          "percent": 37
+        },
+        {
+          "hour": "16:00",
+          "percent": 36
+        },
+        {
+          "hour": "17:00",
+          "percent": 30
+        },
+        {
+          "hour": "18:00",
+          "percent": 22
+        },
+        {
+          "hour": "19:00",
+          "percent": 14
+        },
+        {
+          "hour": "20:00",
+          "percent": 7
+        },
+        {
+          "hour": "21:00",
+          "percent": 3
+        },
+        {
+          "hour": "22:00",
+          "percent": 1
+        },
+        {
+          "hour": "00:00",
+          "percent": 1
+        },
+        {
+          "hour": "01:00",
+          "percent": 1
+        },
+        {
+          "hour": "02:00",
+          "percent": 1
+        },
+        {
+          "hour": "03:00",
+          "percent": 1
+        }
+      ]
+    },
+    {
+      "Monday": [
+        {
+          "hour": "04:00",
+          "percent": 1
+        },
+        {
+          "hour": "05:00",
+          "percent": 1
+        },
+        {
+          "hour": "06:00",
+          "percent": 1
+        },
+        {
+          "hour": "08:00",
+          "percent": 1
+        },
+        {
+          "hour": "09:00",
+          "percent": 3
+        },
+        {
+          "hour": "10:00",
+          "percent": 4
+        },
+        {
+          "hour": "11:00",
+          "percent": 4
+        },
+        {
+          "hour": "12:00",
+          "percent": 4
+        },
+        {
+          "hour": "13:00",
+          "percent": 4
+        },
+        {
+          "hour": "14:00",
+          "percent": 5
+        },
+        {
+          "hour": "15:00",
+          "percent": 7
+        },
+        {
+          "hour": "16:00",
+          "percent": 7
+        },
+        {
+          "hour": "17:00",
+          "percent": 6
+        },
+        {
+          "hour": "18:00",
+          "percent": 3
+        },
+        {
+          "hour": "19:00",
+          "percent": 2
+        },
+        {
+          "hour": "20:00",
+          "percent": 2
+        },
+        {
+          "hour": "21:00",
+          "percent": 1
+        },
+        {
+          "hour": "23:00",
+          "percent": 1
+        },
+        {
+          "hour": "00:00",
+          "percent": 1
+        },
+        {
+          "hour": "01:00",
+          "percent": 1
+        },
+        {
+          "hour": "02:00",
+          "percent": 1
+        },
+        {
+          "hour": "03:00",
+          "percent": 1
+        }
+      ]
+    },
+    {
+      "Tuesday": [
+        {
+          "hour": "04:00",
+          "percent": 1
+        },
+        {
+          "hour": "05:00",
+          "percent": 1
+        },
+        {
+          "hour": "06:00",
+          "percent": 1
+        },
+        {
+          "hour": "07:00",
+          "percent": 1
+        },
+        {
+          "hour": "08:00",
+          "percent": 2
+        },
+        {
+          "hour": "09:00",
+          "percent": 5
+        },
+        {
+          "hour": "10:00",
+          "percent": 6
+        },
+        {
+          "hour": "11:00",
+          "percent": 5
+        },
+        {
+          "hour": "12:00",
+          "percent": 4
+        },
+        {
+          "hour": "13:00",
+          "percent": 3
+        },
+        {
+          "hour": "14:00",
+          "percent": 5
+        },
+        {
+          "hour": "15:00",
+          "percent": 7
+        },
+        {
+          "hour": "16:00",
+          "percent": 9
+        },
+        {
+          "hour": "17:00",
+          "percent": 8
+        },
+        {
+          "hour": "18:00",
+          "percent": 6
+        },
+        {
+          "hour": "19:00",
+          "percent": 3
+        },
+        {
+          "hour": "20:00",
+          "percent": 1
+        },
+        {
+          "hour": "21:00",
+          "percent": 1
+        },
+        {
+          "hour": "22:00",
+          "percent": 1
+        },
+        {
+          "hour": "23:00",
+          "percent": 1
+        },
+        {
+          "hour": "01:00",
+          "percent": 1
+        },
+        {
+          "hour": "02:00",
+          "percent": 1
+        },
+        {
+          "hour": "03:00",
+          "percent": 1
+        }
+      ]
+    },
+    {
+      "Wednesday": [
+        {
+          "hour": "04:00",
+          "percent": 1
+        },
+        {
+          "hour": "05:00",
+          "percent": 1
+        },
+        {
+          "hour": "06:00",
+          "percent": 1
+        },
+        {
+          "hour": "07:00",
+          "percent": 1
+        },
+        {
+          "hour": "09:00",
+          "percent": 2
+        },
+        {
+          "hour": "10:00",
+          "percent": 3
+        },
+        {
+          "hour": "11:00",
+          "percent": 4
+        },
+        {
+          "hour": "12:00",
+          "percent": 5
+        },
+        {
+          "hour": "13:00",
+          "percent": 6
+        },
+        {
+          "hour": "14:00",
+          "percent": 6
+        },
+        {
+          "hour": "15:00",
+          "percent": 6
+        },
+        {
+          "hour": "16:00",
+          "percent": 5
+        },
+        {
+          "hour": "17:00",
+          "percent": 4
+        },
+        {
+          "hour": "18:00",
+          "percent": 3
+        },
+        {
+          "hour": "19:00",
+          "percent": 2
+        },
+        {
+          "hour": "20:00",
+          "percent": 1
+        },
+        {
+          "hour": "21:00",
+          "percent": 1
+        },
+        {
+          "hour": "23:00",
+          "percent": 1
+        },
+        {
+          "hour": "00:00",
+          "percent": 1
+        },
+        {
+          "hour": "01:00",
+          "percent": 1
+        },
+        {
+          "hour": "02:00",
+          "percent": 1
+        },
+        {
+          "hour": "03:00",
+          "percent": 1
+        }
+      ]
+    },
+    {
+      "Thursday": [
+        {
+          "hour": "04:00",
+          "percent": 1
+        },
+        {
+          "hour": "05:00",
+          "percent": 1
+        },
+        {
+          "hour": "06:00",
+          "percent": 1
+        },
+        {
+          "hour": "07:00",
+          "percent": 1
+        },
+        {
+          "hour": "08:00",
+          "percent": 1
+        },
+        {
+          "hour": "09:00",
+          "percent": 5
+        },
+        {
+          "hour": "10:00",
+          "percent": 7
+        },
+        {
+          "hour": "11:00",
+          "percent": 7
+        },
+        {
+          "hour": "12:00",
+          "percent": 5
+        },
+        {
+          "hour": "13:00",
+          "percent": 3
+        },
+        {
+          "hour": "14:00",
+          "percent": 6
+        },
+        {
+          "hour": "15:00",
+          "percent": 14
+        },
+        {
+          "hour": "16:00",
+          "percent": 16
+        },
+        {
+          "hour": "17:00",
+          "percent": 13
+        },
+        {
+          "hour": "18:00",
+          "percent": 12
+        },
+        {
+          "hour": "19:00",
+          "percent": 13
+        },
+        {
+          "hour": "20:00",
+          "percent": 15
+        },
+        {
+          "hour": "21:00",
+          "percent": 16
+        },
+        {
+          "hour": "22:00",
+          "percent": 15
+        },
+        {
+          "hour": "23:00",
+          "percent": 13
+        },
+        {
+          "hour": "00:00",
+          "percent": 11
+        },
+        {
+          "hour": "01:00",
+          "percent": 7
+        },
+        {
+          "hour": "02:00",
+          "percent": 4
+        },
+        {
+          "hour": "03:00",
+          "percent": 1
+        }
+      ]
+    },
+    {
+      "Friday": [
+        {
+          "hour": "04:00",
+          "percent": 1
+        },
+        {
+          "hour": "05:00",
+          "percent": 1
+        },
+        {
+          "hour": "06:00",
+          "percent": 1
+        },
+        {
+          "hour": "08:00",
+          "percent": 2
+        },
+        {
+          "hour": "09:00",
+          "percent": 4
+        },
+        {
+          "hour": "10:00",
+          "percent": 6
+        },
+        {
+          "hour": "11:00",
+          "percent": 7
+        },
+        {
+          "hour": "12:00",
+          "percent": 8
+        },
+        {
+          "hour": "13:00",
+          "percent": 8
+        },
+        {
+          "hour": "14:00",
+          "percent": 11
+        },
+        {
+          "hour": "15:00",
+          "percent": 15
+        },
+        {
+          "hour": "16:00",
+          "percent": 16
+        },
+        {
+          "hour": "17:00",
+          "percent": 12
+        },
+        {
+          "hour": "18:00",
+          "percent": 6
+        },
+        {
+          "hour": "19:00",
+          "percent": 3
+        },
+        {
+          "hour": "20:00",
+          "percent": 2
+        },
+        {
+          "hour": "21:00",
+          "percent": 2
+        },
+        {
+          "hour": "22:00",
+          "percent": 1
+        },
+        {
+          "hour": "23:00",
+          "percent": 1
+        },
+        {
+          "hour": "02:00",
+          "percent": 1
+        },
+        {
+          "hour": "03:00",
+          "percent": 1
+        }
+      ]
+    },
+    {
+      "Saturday": [
+        {
+          "hour": "04:00",
+          "percent": 1
+        },
+        {
+          "hour": "05:00",
+          "percent": 1
+        },
+        {
+          "hour": "06:00",
+          "percent": 1
+        },
+        {
+          "hour": "07:00",
+          "percent": 1
+        },
+        {
+          "hour": "08:00",
+          "percent": 2
+        },
+        {
+          "hour": "09:00",
+          "percent": 8
+        },
+        {
+          "hour": "10:00",
+          "percent": 13
+        },
+        {
+          "hour": "11:00",
+          "percent": 13
+        },
+        {
+          "hour": "12:00",
+          "percent": 9
+        },
+        {
+          "hour": "13:00",
+          "percent": 7
+        },
+        {
+          "hour": "14:00",
+          "percent": 10
+        },
+        {
+          "hour": "15:00",
+          "percent": 16
+        },
+        {
+          "hour": "16:00",
+          "percent": 21
+        },
+        {
+          "hour": "17:00",
+          "percent": 21
+        },
+        {
+          "hour": "18:00",
+          "percent": 18
+        },
+        {
+          "hour": "19:00",
+          "percent": 13
+        },
+        {
+          "hour": "20:00",
+          "percent": 9
+        },
+        {
+          "hour": "21:00",
+          "percent": 7
+        },
+        {
+          "hour": "22:00",
+          "percent": 6
+        },
+        {
+          "hour": "23:00",
+          "percent": 5
+        },
+        {
+          "hour": "00:00",
+          "percent": 4
+        },
+        {
+          "hour": "01:00",
+          "percent": 3
+        },
+        {
+          "hour": "02:00",
+          "percent": 2
+        }
+      ]
+    }
+  ],
+  "relatedSearches": null,
+  "relateds": [
+    {
+      "mainName": "Capela dos Santos Passos",
+      "url": null
+    },
+    {
+      "mainName": "Igreja de Santo António dos Capuchos",
+      "url": null
+    },
+    {
+      "mainName": "Museu Municipal de Penafiel",
+      "url": null
+    },
+    {
+      "mainName": "Palacete do Barão do Calvário",
+      "url": null
+    },
+    {
+      "mainName": "Igreja Matriz de Penafiel",
+      "url": null
+    },
+    {
+      "mainName": "Igreja do Salvador de Cabeça Santa",
+      "url": null
+    },
+    {
+      "mainName": "Igreja das Freiras",
+      "url": null
+    },
+    {
+      "mainName": "Igreja da Misericórdia de Penafiel",
+      "url": null
+    },
+    {
+      "mainName": "Igreja de São Gens de Boelhe",
+      "url": null
+    },
+    {
+      "mainName": "Praia Fluvial de Luzim",
+      "url": null
+    },
+    {
+      "mainName": "Igreja de São Pedro",
+      "url": null
+    },
+    {
+      "mainName": "Jardim do Sameiro",
+      "url": null
+    },
+    {
+      "mainName": "Castro de Monte Mozinho",
+      "url": null
+    },
+    {
+      "mainName": "Centro Interpretativo da Aldeia de Quintandona",
+      "url": null
+    },
+    {
+      "mainName": "Magikland",
+      "url": null
+    },
+    {
+      "mainName": "Serra da Boneca",
+      "url": null
+    },
+    {
+      "mainName": "Quinta da Aveleda",
+      "url": null
+    },
+    {
+      "mainName": "Baloiço da Boneca",
+      "url": null
+    },
+    {
+      "mainName": "Mosteiro do Salvador de Paço de Sousa",
+      "url": null
+    },
+    {
+      "mainName": "Santuário de Nossa Senhora do Sameiro",
+      "url": null
+    },
+    {
+      "mainName": "Passadiços do Paiva - Areinho",
+      "url": null
+    },
+    {
+      "mainName": "Espigueiro",
+      "url": null
+    }
+  ]
+}

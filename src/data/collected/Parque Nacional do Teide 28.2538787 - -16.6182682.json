@@ -1,0 +1,932 @@
+{
+  "mainName": "Parque Nacional do Teide",
+  "slug": "parque-nacional-do-teide",
+  "category": "Parque nacional",
+  "locationInformation": {
+    "latitude": "28.2538787",
+    "longitude": "-16.6182682"
+  },
+  "basicInformation": [
+    {
+      "label": "endereço",
+      "tooltip": "Copiar endereço",
+      "text": "Santa Cruz de Tenerife, Espanha",
+      "icon": "https://www.gstatic.com/images/icons/material/system_gm/1x/place_gm_blue_24dp.png"
+    },
+    {
+      "label": "website",
+      "tooltip": "Abrir website",
+      "text": "tenerife.es",
+      "icon": "https://www.gstatic.com/images/icons/material/system_gm/1x/public_gm_blue_24dp.png"
+    },
+    {
+      "label": "telefone",
+      "tooltip": "Copiar número de telefone",
+      "text": "+34 922 92 23 71",
+      "icon": "https://www.gstatic.com/images/icons/material/system_gm/1x/phone_gm_blue_24dp.png"
+    },
+    {
+      "label": "Code",
+      "tooltip": "Copiar Plus Code",
+      "text": "793J+HM Paradores Cañadas del Teide, Espanha",
+      "icon": "https://maps.gstatic.com/mapfiles/maps_lite/images/2x/ic_plus_code.png"
+    }
+  ],
+  "ratingInformation": {
+    "basicRatingInformation": {
+      "averageGrade": 4.8,
+      "totalOfEvaluations": 32331
+    },
+    "ratingsByGrade": [
+      {
+        "grade": 5,
+        "totalRatings": 27416
+      },
+      {
+        "grade": 4,
+        "totalRatings": 3930
+      },
+      {
+        "grade": 3,
+        "totalRatings": 624
+      },
+      {
+        "grade": 2,
+        "totalRatings": 144
+      },
+      {
+        "grade": 1,
+        "totalRatings": 217
+      }
+    ]
+  },
+  "ratingTags": [
+    {
+      "tag": "site",
+      "count": 36,
+      "tooltip": "site, mencionado em 36 avaliações"
+    },
+    {
+      "tag": "cheio",
+      "count": 4,
+      "tooltip": "cheio, mencionado em 4 avaliações"
+    },
+    {
+      "tag": "teleférico",
+      "count": 657,
+      "tooltip": "teleférico, mencionado em 657 avaliações"
+    },
+    {
+      "tag": "lua",
+      "count": 231,
+      "tooltip": "lua, mencionado em 231 avaliações"
+    },
+    {
+      "tag": "lava",
+      "count": 158,
+      "tooltip": "lava, mencionado em 158 avaliações"
+    },
+    {
+      "tag": "marte",
+      "count": 154,
+      "tooltip": "marte, mencionado em 154 avaliações"
+    },
+    {
+      "tag": "funicular",
+      "count": 66,
+      "tooltip": "funicular, mencionado em 66 avaliações"
+    },
+    {
+      "tag": "mar de nuvens",
+      "count": 49,
+      "tooltip": "mar de nuvens, mencionado em 49 avaliações"
+    },
+    {
+      "tag": "caldeira vulcânica",
+      "count": 46,
+      "tooltip": "caldeira vulcânica, mencionado em 46 avaliações"
+    },
+    {
+      "tag": "telecabine",
+      "count": 32,
+      "tooltip": "telecabine, mencionado em 32 avaliações"
+    }
+  ],
+  "featuredPhotos": [
+    "https://lh5.googleusercontent.com/p/AF1QipNw7dQMiHz1SLxGjT7mV9Xbo0KyX6RkaRwF5_aw=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNgv-9Wem1BJJOQcYbVNyusNFJrArqG2Q1q8LvS=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPef5rxXSTXj4oh6xg6ZBM_mXZ7j93DuxcZ5HcH=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMKA3VXJrwqM3J4QTZbaibylIzdm27ZAUI4KeEl=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOyfo5oMHHcjcBGDtZ0gJeMwkcvfs97RREBslTu=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipO9vkkT1LSXKfWsIah0YISU99lVDLdgDx-RWgML=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipP3tir0XVq4RBvPdlBvoeE1B8vUiwtE7xPmk8Ty=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMeF7SCAgBtVXwbVozM9zFYqz6PoUOykqGpOrJw=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOdp9XH-j6yoQufAgxat1UkO6ZuMgs9SY5-_YwV=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNBayRnTWKURp2qUSalviSH_WIOdAxcaL1ZAtCN=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMOPru_ZoOrcQ4QNm-tR4tT8LMYQXAmOf1G8D-1=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNSBktYcIoFMcmq6IRACAZFNNRKgrZOaEgSkMsn=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipN61rP4cK6dwVwHpgdp-7kSzt5vo-Ev3wlPkU3k=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMiqVbjUikiz1FOPkGCU5ypOE5_gM1E5PANetpN=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOic49EopgwF99IRnCzZn2QPqh0YAqnfQoc17tv=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipN_yL8YvM8DDMNRgyudPg5FmBQUeLFf8BfG0_2n=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMwVc_jcs16mzO2klTXygWy890HV1tC1DXvMeAk=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPKSRCo8ynECXnkuvQ4XVjaIIUsYR5aszOWtoQe=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMnOPonC3L1Hfaeij04Q49AiGdVNE0PIXOOkE-4=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipO7wBSbS6ImwVPT5Z38STe9Tj-KLEsKE297NqxP=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMKncungP9XOOHnwzrbhQW-goyzmH09J3PfAXJ3=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNNA74wHQ1snpYM1VIUY4BgezedLBm6TgFxMET2=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPW2J3uHL7zHwtivRX8GTumlEY7FpK5Zdl_-fYm=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipODF69sE9sL4jsUVUi0aTgOxJWw__x5etIJUmAu=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPFc7kE0PcDamMFXcftdFeI6TX85nswqzG-7JTT=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNPA0UI54gR8lCwxIWpr2NwaU8q_jbUgeDFg8Ko=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipO_hyepifGBu0C14gQtq4PuB5P9kQJId2p6FCW1=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOSd4CZcSRPhoqPIgXEl_C3X2z8q8HKRxsx6Z-1=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipP-DIddq1bIqrN4iluMeMNcG-0PXYckLZj07csv=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPLyojCydOQh4iK7Ydp7yzN2TXEpqoonwD3Jh4=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNnH5FI53zOEbUlgE15mZxBydCdVvWHweLNwzrc=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNmpS67Dg7dsEgJLwe2N2O45cntGSfhWxF9Iigl=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipP5HTXVG_01Yfli3CSzyd7wgDZy4dnn3hOUbKNN=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMDHBarSRXfrW1A-kpGyYxequ9tyXGyHzVP3XxY=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNI1F85816Y3TdNol08Jn_E5DcEzGwQCe9lXzGJ=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipP9c4HXmUlFQYT4iJzSMlHtOBg1PZV8yau2NVdA=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMMQwVRQA2-E2j5sekzCNW5djvMtTEXNxtO23T3=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMcETf4ZzzbCJ1Xs86W-KH2UDv0JQ8_BkR88Yn8=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipP9ysTc0tt2bbG7xBb6svZUEskOkZI3Rj0XZbdI=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOyNRUdYv3q5M69m726F_c3YXlAz7Zo01LylRyB=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNHh90m3cfVrLP7oQNQLODrkstsMZsjAMXO-xk=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMCdW0nbjyXwkERH0f4r2vDDt9VFMXdNguur6Xv=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNPWBPO5fVG4ahXLf3YBrIVKB3GJCzSb7ElHgGL=w1024-h576-k-no"
+  ],
+  "topComments": [
+    {
+      "author": "TNS & DNA",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucoeuAd6Wr8wUE0MkgRwBxEJTX_xXpq0PfmK4LzK31g=w36-h36-p-c0x00000000-rp-mo-ba6-br100",
+      "comment": "Vale a pena visitar e fazer a viagem de teleferico ate perto do pico.depois é so fazer o caminho a pé ate ao cume.caminho nao é dificil faz se bem.levar agasalho pode estar frio la em cima.vists magnifica dá para ver as ilhas do arquipelago das Canarias.😃",
+      "gradeComment": 5
+    },
+    {
+      "author": "Filipa Sousa",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucrhoLIO453W50Dd-3SU1OLK-G8T2yW1kef59qSTXzw=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "Um local mágico, imponente, com vistas deslumbrantes! Fiquei muito surpreendida. Nota-se uma grande preocupação com a manutenção não só das estradas de acesso, como de todo o parque, miradouros, trilhos, etc, em que a limpeza é um dos muitos pontos positivos. Aconselho a consultar antecipadamente o estado do tempo (por exemplo, no windguru). Nós escolhemos um dia em que não havia nebulosidade alta e apanhámos um tempo fantástico, 14o e o sol bem quente.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Helder Filipe Ferrás Leal",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucoR9kAJ1Lzu-CEJwBWyll85jL3IuQMbf-t1bVMLHow=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "Mágico.",
+      "gradeComment": 5
+    },
+    {
+      "author": "RDZ Tech",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucorvJpOmAMqOJxoYNIhzX8TdQctXT54-P4FZQAwsA=w36-h36-p-c0x00000000-rp-mo-br100",
+      "comment": "Lugar a não perder. Mesmo que não suba ao teleférico, existem muitos sítios a explorar. Todos os acessos são com boas estradas e bem sinalizadas. Recomendo também subir para ver o por do sol e as estrelas. Para os amantes da astronomia vale a subida à noite.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Graziele De Moraes",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucp2kgI-rlnIk7jhu36GnXxss8uvxe5O1RVaW4mJKA=w36-h36-p-c0x00000000-rp-mo-ba2-br100",
+      "comment": "Muito lindo. Pico mais alto da Espanha. Praias lindas.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Vera Martins",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucoAskJBM6GuP_VuyBunvYTFL6WQi46R3vbzeATz7VE=w36-h36-p-c0x00000000-rp-mo-ba3-br100",
+      "comment": "Lindíssimo,  vale muito a pena de apanhar o teleférico. Não esquecer de levar um casaco, pois lá em cima é  fresquinho.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Rui Francisco",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucr6LJuQo1zBWehjDnTKRCxj4yI6cmJektbEygidt9I=w36-h36-p-c0x00000000-rp-mo-ba3-br100",
+      "comment": "Experiência a não perder. Subir à noite vale apena para observação das estrelas",
+      "gradeComment": 5
+    },
+    {
+      "author": "Alex Mendes",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucpBFfK2lVrdmV6_OFFt_V0-m3vOZL9J9RcrPD9YWQ=w36-h36-p-c0x00000000-rp-mo-br100",
+      "comment": "Um espetáculo de passeio. Vale a pena a visita com calma para poder andar bastante no topo do vulcão. No inverno pode ver bastante gelo lá em cima.",
+      "gradeComment": 5
+    },
+    {
+      "author": "maria gonçalves",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucpwuVSNzWFcHVCUZwVOuMxFK99IkaehfxK5Se1Z=w36-h36-p-c0x00000000-rp-mo-ba3-br100",
+      "comment": "Um local muito agradável para quem goste de natureza. Recomendo",
+      "gradeComment": 5
+    },
+    {
+      "author": "Eduardo Nunes",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucoqBWEAD4ys1xCyFV-5E6SZRQ10d9TwnZXAR1knwA=w36-h36-p-c0x00000000-rp-mo-ba5-br100",
+      "comment": "Lindíssimo parte do vulcão",
+      "gradeComment": 5
+    },
+    {
+      "author": "maria carrascoso",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucoMbu6DYQtequroj1bRl0EqIH4jdl8NvSUNHSsOCeM=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "Lugar maravilhoso experiência única da natureza",
+      "gradeComment": 5
+    },
+    {
+      "author": "Prf Gael",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucqgBFTIt114kxGaAIz44RFAIAbETE8L2n9aozHg=w36-h36-p-c0x00000000-rp-mo-ba3-br100",
+      "comment": "A ida ao Teid foi demais, não me importava nada ir pra lá viver.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Miguel Cagica",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucpQM2P-SzZeuD2O3_3xaHfdroB-c_ZiarKSyUD9ww=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "A não perder. Um mundo diferente de paisagens vulcânicas que fazem lembrar outros planetas",
+      "gradeComment": 5
+    },
+    {
+      "author": "Rui Telmo Belo",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZuco2jAA0-BUDikKBxT9nGKxZPUKlRL1qThWjC4TxHCc=w36-h36-p-c0x00000000-rp-mo-ba5-br100",
+      "comment": "Obrigatório visitar. Imponente! Subida obrigatória de teleférico ao vulcão. Cuidado que para subir ao cume é necessário uma autorização e aconselho a pedir com muita antecedência. Fazer o sendero 3. MUITO BONITO. Fácil mas com uma subida inclinada. Percurso sempre em terra mas muito bem marcado.",
+      "gradeComment": 5
+    },
+    {
+      "author": "laia",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucpnJVbKEyF30XWS7Udk1T8WXkcsbc1I5KuGLfBi8g=w36-h36-p-c0x00000000-rp-mo-ba5-br100",
+      "comment": "Precioso, único e imponente.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Filipe De Castro",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucpxa70oq_Uij_nQi8bzVe3lUT5d-8gx34_vSR_8KKE=w36-h36-p-c0x00000000-rp-mo-br100",
+      "comment": "Pico mais alto da Espanha. Caso queira subir no vulcão necessita de uma permissão a qual demanda uma fila de 3 meses. Para os mitos, basta escalar umas pedras e entrar na trilha do vulcão sem passar pela fiscalização. Para os mais mitos ainda, pode-se entrar de graça no teleférico. Ainda é possível conhecer uma família da região que todos os nomes começam com C e aproveitar uma boa Moet Chandon no alto do vulcão. Levem seus sanduíches.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Tiago Almeida",
+      "photoAuthor": "https://lh3.googleusercontent.com/a/AItbvml_SuW1lH5m0oO9zM5SqgKYxQsFuVm-E0v6-oqF=w36-h36-p-c0x00000000-rp-mo-ba2-br100",
+      "comment": "Roteiro de carro super acessível. Vistas incríveis, vale muito a pena tirar um dia para visitar o Parque Nacional do Teide. Aconselho a comprar o bilhete para o teleférico pela internet para ter a certeza que terá a oportunidade de subir o Teide.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Luis Pires (lmepires)",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucrwg2aHuusYkBNZEY5Wy2QVfvZXycp2qNHZJ55cWv0=w36-h36-p-c0x00000000-rp-mo-ba5-br100",
+      "comment": "Um parque lindíssimo a não perder se visitar Tenerife",
+      "gradeComment": 5
+    },
+    {
+      "author": "Patricia Antunes",
+      "photoAuthor": "https://lh3.googleusercontent.com/a/AItbvmnIGJ1Kj7cAO8A7g-J3vybejtTp7P_GgmCTyHXb=w36-h36-p-c0x00000000-rp-mo-ba5-br100",
+      "comment": "É visita obrigatória se vier a Tenerife. Por vezes o tempo está mau mas vale a pena subir. Passamos as nuvens e entramos noutro mundo",
+      "gradeComment": 5
+    },
+    {
+      "author": "Christiane Viriato",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucqn0UziEFnlkGiZJFUUirrAIznUy2Fr2gOe9Xs5jcs=w36-h36-p-c0x00000000-rp-mo-ba2-br100",
+      "comment": "Uma das experiências mais incríveis que já tive! Aconselho alugar um carro, e a ir mais cedo, pois o teleférico só funciona até umas 16/17.",
+      "gradeComment": 5
+    }
+  ],
+  "peakHours": [
+    {
+      "Sunday": [
+        {
+          "hour": "04:00",
+          "percent": 5
+        },
+        {
+          "hour": "05:00",
+          "percent": 6
+        },
+        {
+          "hour": "06:00",
+          "percent": 6
+        },
+        {
+          "hour": "07:00",
+          "percent": 6
+        },
+        {
+          "hour": "08:00",
+          "percent": 9
+        },
+        {
+          "hour": "09:00",
+          "percent": 19
+        },
+        {
+          "hour": "10:00",
+          "percent": 40
+        },
+        {
+          "hour": "11:00",
+          "percent": 70
+        },
+        {
+          "hour": "12:00",
+          "percent": 95
+        },
+        {
+          "hour": "13:00",
+          "percent": 100
+        },
+        {
+          "hour": "14:00",
+          "percent": 82
+        },
+        {
+          "hour": "15:00",
+          "percent": 56
+        },
+        {
+          "hour": "16:00",
+          "percent": 37
+        },
+        {
+          "hour": "17:00",
+          "percent": 31
+        },
+        {
+          "hour": "18:00",
+          "percent": 32
+        },
+        {
+          "hour": "19:00",
+          "percent": 32
+        },
+        {
+          "hour": "20:00",
+          "percent": 26
+        },
+        {
+          "hour": "21:00",
+          "percent": 17
+        },
+        {
+          "hour": "22:00",
+          "percent": 7
+        },
+        {
+          "hour": "03:00",
+          "percent": 2
+        }
+      ]
+    },
+    {
+      "Monday": [
+        {
+          "hour": "08:00",
+          "percent": 1
+        },
+        {
+          "hour": "09:00",
+          "percent": 13
+        },
+        {
+          "hour": "10:00",
+          "percent": 36
+        },
+        {
+          "hour": "11:00",
+          "percent": 62
+        },
+        {
+          "hour": "12:00",
+          "percent": 80
+        },
+        {
+          "hour": "13:00",
+          "percent": 78
+        },
+        {
+          "hour": "14:00",
+          "percent": 59
+        },
+        {
+          "hour": "15:00",
+          "percent": 37
+        },
+        {
+          "hour": "16:00",
+          "percent": 23
+        },
+        {
+          "hour": "17:00",
+          "percent": 20
+        },
+        {
+          "hour": "18:00",
+          "percent": 22
+        },
+        {
+          "hour": "19:00",
+          "percent": 23
+        },
+        {
+          "hour": "21:00",
+          "percent": 13
+        },
+        {
+          "hour": "22:00",
+          "percent": 5
+        }
+      ]
+    },
+    {
+      "Tuesday": [
+        {
+          "hour": "08:00",
+          "percent": 3
+        },
+        {
+          "hour": "09:00",
+          "percent": 15
+        },
+        {
+          "hour": "10:00",
+          "percent": 36
+        },
+        {
+          "hour": "11:00",
+          "percent": 60
+        },
+        {
+          "hour": "12:00",
+          "percent": 73
+        },
+        {
+          "hour": "13:00",
+          "percent": 68
+        },
+        {
+          "hour": "14:00",
+          "percent": 51
+        },
+        {
+          "hour": "15:00",
+          "percent": 36
+        },
+        {
+          "hour": "16:00",
+          "percent": 28
+        },
+        {
+          "hour": "17:00",
+          "percent": 25
+        },
+        {
+          "hour": "18:00",
+          "percent": 22
+        },
+        {
+          "hour": "19:00",
+          "percent": 19
+        },
+        {
+          "hour": "20:00",
+          "percent": 15
+        },
+        {
+          "hour": "21:00",
+          "percent": 11
+        },
+        {
+          "hour": "22:00",
+          "percent": 7
+        },
+        {
+          "hour": "23:00",
+          "percent": 4
+        },
+        {
+          "hour": "00:00",
+          "percent": 1
+        }
+      ]
+    },
+    {
+      "Wednesday": [
+        {
+          "hour": "08:00",
+          "percent": 4
+        },
+        {
+          "hour": "09:00",
+          "percent": 16
+        },
+        {
+          "hour": "10:00",
+          "percent": 40
+        },
+        {
+          "hour": "11:00",
+          "percent": 76
+        },
+        {
+          "hour": "12:00",
+          "percent": 96
+        },
+        {
+          "hour": "13:00",
+          "percent": 83
+        },
+        {
+          "hour": "14:00",
+          "percent": 55
+        },
+        {
+          "hour": "15:00",
+          "percent": 36
+        },
+        {
+          "hour": "16:00",
+          "percent": 30
+        },
+        {
+          "hour": "17:00",
+          "percent": 28
+        },
+        {
+          "hour": "18:00",
+          "percent": 25
+        },
+        {
+          "hour": "19:00",
+          "percent": 22
+        },
+        {
+          "hour": "20:00",
+          "percent": 18
+        },
+        {
+          "hour": "21:00",
+          "percent": 14
+        },
+        {
+          "hour": "22:00",
+          "percent": 9
+        },
+        {
+          "hour": "23:00",
+          "percent": 5
+        },
+        {
+          "hour": "00:00",
+          "percent": 1
+        }
+      ]
+    },
+    {
+      "Thursday": [
+        {
+          "hour": "07:00",
+          "percent": 1
+        },
+        {
+          "hour": "08:00",
+          "percent": 9
+        },
+        {
+          "hour": "09:00",
+          "percent": 25
+        },
+        {
+          "hour": "10:00",
+          "percent": 51
+        },
+        {
+          "hour": "11:00",
+          "percent": 78
+        },
+        {
+          "hour": "12:00",
+          "percent": 93
+        },
+        {
+          "hour": "13:00",
+          "percent": 90
+        },
+        {
+          "hour": "14:00",
+          "percent": 71
+        },
+        {
+          "hour": "15:00",
+          "percent": 50
+        },
+        {
+          "hour": "16:00",
+          "percent": 35
+        },
+        {
+          "hour": "17:00",
+          "percent": 31
+        },
+        {
+          "hour": "18:00",
+          "percent": 31
+        },
+        {
+          "hour": "19:00",
+          "percent": 30
+        },
+        {
+          "hour": "20:00",
+          "percent": 25
+        },
+        {
+          "hour": "21:00",
+          "percent": 16
+        },
+        {
+          "hour": "22:00",
+          "percent": 7
+        }
+      ]
+    },
+    {
+      "Friday": [
+        {
+          "hour": "08:00",
+          "percent": 3
+        },
+        {
+          "hour": "09:00",
+          "percent": 17
+        },
+        {
+          "hour": "10:00",
+          "percent": 37
+        },
+        {
+          "hour": "11:00",
+          "percent": 59
+        },
+        {
+          "hour": "12:00",
+          "percent": 74
+        },
+        {
+          "hour": "13:00",
+          "percent": 76
+        },
+        {
+          "hour": "14:00",
+          "percent": 65
+        },
+        {
+          "hour": "15:00",
+          "percent": 48
+        },
+        {
+          "hour": "16:00",
+          "percent": 33
+        },
+        {
+          "hour": "17:00",
+          "percent": 24
+        },
+        {
+          "hour": "18:00",
+          "percent": 22
+        },
+        {
+          "hour": "19:00",
+          "percent": 22
+        },
+        {
+          "hour": "20:00",
+          "percent": 21
+        },
+        {
+          "hour": "21:00",
+          "percent": 18
+        },
+        {
+          "hour": "22:00",
+          "percent": 13
+        },
+        {
+          "hour": "23:00",
+          "percent": 9
+        },
+        {
+          "hour": "00:00",
+          "percent": 7
+        },
+        {
+          "hour": "01:00",
+          "percent": 5
+        },
+        {
+          "hour": "02:00",
+          "percent": 4
+        },
+        {
+          "hour": "03:00",
+          "percent": 2
+        }
+      ]
+    },
+    {
+      "Saturday": [
+        {
+          "hour": "04:00",
+          "percent": 7
+        },
+        {
+          "hour": "05:00",
+          "percent": 7
+        },
+        {
+          "hour": "06:00",
+          "percent": 6
+        },
+        {
+          "hour": "07:00",
+          "percent": 7
+        },
+        {
+          "hour": "08:00",
+          "percent": 14
+        },
+        {
+          "hour": "09:00",
+          "percent": 28
+        },
+        {
+          "hour": "10:00",
+          "percent": 50
+        },
+        {
+          "hour": "11:00",
+          "percent": 75
+        },
+        {
+          "hour": "12:00",
+          "percent": 91
+        },
+        {
+          "hour": "13:00",
+          "percent": 91
+        },
+        {
+          "hour": "14:00",
+          "percent": 77
+        },
+        {
+          "hour": "15:00",
+          "percent": 58
+        },
+        {
+          "hour": "16:00",
+          "percent": 42
+        },
+        {
+          "hour": "17:00",
+          "percent": 35
+        },
+        {
+          "hour": "18:00",
+          "percent": 32
+        },
+        {
+          "hour": "19:00",
+          "percent": 29
+        },
+        {
+          "hour": "20:00",
+          "percent": 24
+        },
+        {
+          "hour": "21:00",
+          "percent": 18
+        },
+        {
+          "hour": "22:00",
+          "percent": 13
+        },
+        {
+          "hour": "23:00",
+          "percent": 8
+        },
+        {
+          "hour": "00:00",
+          "percent": 6
+        },
+        {
+          "hour": "01:00",
+          "percent": 6
+        },
+        {
+          "hour": "02:00",
+          "percent": 6
+        },
+        {
+          "hour": "03:00",
+          "percent": 7
+        }
+      ]
+    }
+  ],
+  "relatedSearches": [
+    "tenerife",
+    "teide erupção",
+    "parques nacionais espanha",
+    "vulcão de tenerife",
+    "tenerife turismo",
+    "tenerife tem vulcão",
+    "tenerife brasil",
+    "tenerife sea onde fica"
+  ],
+  "relateds": [
+    {
+      "mainName": "Teide",
+      "url": null
+    },
+    {
+      "mainName": "Teleferi Teide",
+      "url": null
+    },
+    {
+      "mainName": "Pico Viejo",
+      "url": null
+    },
+    {
+      "mainName": "Loro Parque",
+      "url": null
+    },
+    {
+      "mainName": "Abama Beach",
+      "url": null
+    },
+    {
+      "mainName": "Roque Cinchado",
+      "url": null
+    },
+    {
+      "mainName": "Siam Park",
+      "url": null
+    },
+    {
+      "mainName": "Institute of Astrophysics of the Canary Islands",
+      "url": null
+    },
+    {
+      "mainName": "El Médano",
+      "url": null
+    },
+    {
+      "mainName": "Playa de Las Teresitas",
+      "url": null
+    },
+    {
+      "mainName": "Mount Guajara",
+      "url": null
+    },
+    {
+      "mainName": "Pirâmides de Güímar",
+      "url": null
+    },
+    {
+      "mainName": "Parque Nacional de Garajonay",
+      "url": null
+    },
+    {
+      "mainName": "Montaña Blanca",
+      "url": null
+    },
+    {
+      "mainName": "Roque de Garachico",
+      "url": null
+    },
+    {
+      "mainName": "Auditório de Tenerife",
+      "url": null
+    },
+    {
+      "mainName": "Museu da Natureza e do Homem",
+      "url": null
+    },
+    {
+      "mainName": "Basílica da Candelária",
+      "url": null
+    },
+    {
+      "mainName": "Orotava Valley",
+      "url": null
+    },
+    {
+      "mainName": "Roques de Anaga",
+      "url": null
+    },
+    {
+      "mainName": "Universidade de La Laguna",
+      "url": null
+    },
+    {
+      "mainName": "Parque Nacional de Timanfaya",
+      "url": null
+    },
+    {
+      "mainName": "Sendero de los Sentidos",
+      "url": null
+    },
+    {
+      "mainName": "Campo de Golf - Golf del Sur",
+      "url": null
+    }
+  ]
+}

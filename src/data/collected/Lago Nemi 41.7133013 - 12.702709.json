@@ -1,0 +1,463 @@
+{
+  "mainName": "Lago Nemi",
+  "slug": "lago-nemi",
+  "category": "Lago",
+  "locationInformation": {
+    "latitude": "41.7133013",
+    "longitude": "12.702709"
+  },
+  "basicInformation": [
+    {
+      "label": "endereço",
+      "tooltip": "Copiar endereço",
+      "text": "Roma, Itália",
+      "icon": "https://www.gstatic.com/images/icons/material/system_gm/1x/place_gm_blue_24dp.png"
+    },
+    {
+      "label": "endereço",
+      "tooltip": "Copiar endereço",
+      "text": "Città Metropolitana di Roma",
+      "icon": "https://www.gstatic.com/images/icons/material/system_gm/1x/place_gm_blue_24dp.png"
+    }
+  ],
+  "ratingInformation": {
+    "basicRatingInformation": {
+      "averageGrade": 4.5,
+      "totalOfEvaluations": 678
+    },
+    "ratingsByGrade": [
+      {
+        "grade": 5,
+        "totalRatings": 477
+      },
+      {
+        "grade": 4,
+        "totalRatings": 124
+      },
+      {
+        "grade": 3,
+        "totalRatings": 53
+      },
+      {
+        "grade": 2,
+        "totalRatings": 10
+      },
+      {
+        "grade": 1,
+        "totalRatings": 14
+      }
+    ]
+  },
+  "ratingTags": [
+    {
+      "tag": "natureza",
+      "count": 22,
+      "tooltip": "natureza, mencionado em 22 avaliações"
+    },
+    {
+      "tag": "percepção visual",
+      "count": 12,
+      "tooltip": "percepção visual, mencionado em 12 avaliações"
+    },
+    {
+      "tag": "história",
+      "count": 10,
+      "tooltip": "história, mencionado em 10 avaliações"
+    },
+    {
+      "tag": "sugestão",
+      "count": 8,
+      "tooltip": "sugestão, mencionado em 8 avaliações"
+    },
+    {
+      "tag": "navio",
+      "count": 8,
+      "tooltip": "navio, mencionado em 8 avaliações"
+    },
+    {
+      "tag": "paz",
+      "count": 8,
+      "tooltip": "paz, mencionado em 8 avaliações"
+    },
+    {
+      "tag": "vila",
+      "count": 7,
+      "tooltip": "vila, mencionado em 7 avaliações"
+    },
+    {
+      "tag": "morango",
+      "count": 6,
+      "tooltip": "morango, mencionado em 6 avaliações"
+    },
+    {
+      "tag": "museu",
+      "count": 6,
+      "tooltip": "museu, mencionado em 6 avaliações"
+    },
+    {
+      "tag": "espectáculos",
+      "count": 6,
+      "tooltip": "espectáculos, mencionado em 6 avaliações"
+    }
+  ],
+  "featuredPhotos": [
+    "https://lh5.googleusercontent.com/p/AF1QipORyMAMWeMpT07-YDKpqDiTs4mvGUJbiBYrWwov=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPTCOS81NUtqCXecsZFP8hExLTEwUFaKuD22psU=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMmcNaLwK4WpV505GNcE0cB7O8ipiBeG-9y7zDD=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMXgSU3nfI4EKiFOOOA5AfTpVOYB-PdkjnVuY1Y=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNqwxTW26keUJGR4HqnO0Q25yyu0ig1BykduA5F=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMiPQ7KbyCmGd4vRR8QUH6S3lkZPcVz9CdnMR9n=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNBBnw88VvTM-nUIwDs1sMX4xpYTSjuuuGA3v-C=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipN9XY-HHMgzHTjZXA72SgnD4rKz5bRKRJYq9d-s=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipN9XVkkzw-I0wXFkAMG6hovdwTlQDSN0yRA2e--=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNFvj7gkQlegd0DPfzdDLrq4enRaLHpVZ0xPpLm=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipND5_pW-C4vPCSis3CO8q-mo8F2nwAx3cE1FzXT=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNIXKDjKNoAjsd8I1cvHNEcF1r2w-qRJo029hg=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPg03RbfcSk7rMokeqvwvI6QQC61tIEafZWn8T1=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMPb8gYPmOW8NWwu_Dy7MwvLAZZrEYlIJylQWv4=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipN0MO6-8yFFxHLBZHlizIkNgekt01jOxZpnGE3v=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNhQj8fjNjFeQXwhRJZ-Ws4NPIUzc-FPFzNJhKO=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNa_Itf-A_7Ado47KOxUqqP6osP3EhbIapQcXG1=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipM_slhyjVZMbAabxu6y3TnLPBAA7hMhuAzg7R85=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOrU2ZuCzJtcxMV2y30lOQF5yFSm8NG1B79YYUh=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPcKf3-TUFitQ2l0Cx2_cmeTKby5pCVeIHmdyH6=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMU8JhxIZb1EmgAnGv_DA0GKN1_gjohRfH4anT1=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNiIkGdN5Gi7eAgAmkX13b65gLuw9vZk53-Czvz=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOj1mTrjI-133NJufS0a1Fn2ezWESyGHKWxnnLl=w1024-h576-k-no"
+  ],
+  "topComments": [
+    {
+      "author": "Chef Emanuele Vizzini Dr. Emanuele Vizzini",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucphHtcg-K6hj5TQ-JVP9fEojZ8JwKfSpcd_YvwzIA=w36-h36-p-c0x00000000-rp-mo-ba5-br100",
+      "comment": "Belisssimo!!!",
+      "gradeComment": 5
+    },
+    {
+      "author": "Nebulosa Psicodelica",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucr0jwoeeAW2yhmBaxDn-_Fir3r1QwkFN_wWJz7gKyM=w36-h36-p-c0x00000000-rp-mo-br100",
+      "comment": "Salve Diana rainha!!!",
+      "gradeComment": 5
+    },
+    {
+      "author": "Claudio Vieira",
+      "photoAuthor": "https://lh3.googleusercontent.com/a/AItbvml9GyW9mQzeRBIE0nnoIShOZns4DGGCeyEZ1fUu=w36-h36-p-c0x00000000-rp-mo-br100",
+      "comment": "Lugar lindo com natureza exuberante e comidas típicas da região..",
+      "gradeComment": 5
+    },
+    {
+      "author": "Lory Ines",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucrxqZSe6xHncR88y5U0MBeiBwUiSPX4MYJK76Yfhw=w36-h36-p-c0x00000000-rp-mo-ba3-br100",
+      "comment": "É um lago vulcânico. Belíssima paisagem.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Zdenka A",
+      "photoAuthor": "https://lh3.googleusercontent.com/a/AItbvmn-DntnklU6qerb2OKIKaFdZB8QgoaTO2rXCoFG=w36-h36-p-c0x00000000-rp-mo-ba2-br100",
+      "comment": "(Tradução do Google) Ótimo ambiente e ruas limpas. Panquecas e bebidas de luxo. Tudo com morangos  (Original) Skvělé, čisté prostredi i ulice. Luxusni palacinky a piti. Vse s jahodami",
+      "gradeComment": 5
+    },
+    {
+      "author": "Lynlie D.",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucpBQAWykWK_rh-VnNCZgR-Ce8smE1cZx4RzJhOf=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "(Tradução do Google) Pequena, mas bonita, a apenas uma hora de Roma você encontrará esta joia. Devido ao covid, muitas pessoas não vão, mas agora é verão aqui na Itália, este pode ser um lugar para mergulhar e relaxar. Tanto a natação quanto a canoagem são permitidas. Simplesmente deslumbrante 🥳  (Original) Small but beautiful, just an hour outside of Rome you will find this jewel. Due to covid not of much of people go but now it's summer here in Italy this can be a place to soak and chill. Both swimming and boating is allowed. Just stunning 🥳",
+      "gradeComment": 5
+    },
+    {
+      "author": "Jessica Di Domenico",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucpWt3GWPHLmhYC7U27DHFYU44JyYaHCyJPLF136dw=w36-h36-p-c0x00000000-rp-mo-ba3-br100",
+      "comment": "Rive molto carine, si consiglia nel weekend di venire molto presto per parcheggiare",
+      "gradeComment": 5
+    },
+    {
+      "author": "Pasquale Torino",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucpm-7atvr4AkP8WvNscjluZwo4Ojqqv2jv4PTmDVA=w36-h36-p-c0x00000000-rp-mo-ba6-br100",
+      "comment": "(Tradução do Google) muito agradável  (Original) Molto bello",
+      "gradeComment": 5
+    },
+    {
+      "author": "Laura Vitali",
+      "photoAuthor": "https://lh3.googleusercontent.com/a/AItbvmlXlfhL7ULBbWIlV5uIhDAgzqZwDY-EYvcHzjU3=w36-h36-p-c0x00000000-rp-mo-ba2-br100",
+      "comment": "(Tradução do Google) Belo lago para passar alguns fins de semana em relaxamento absoluto!  Muito bonito!  (Original) Splendido lago per passare qualche fine settimana in assoluto relax!  Bellissimo!",
+      "gradeComment": 5
+    },
+    {
+      "author": "Francesco Remoli",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucqtwd1SLyn1zRiWT5te1LFvEtyzGQkcRs2hGZIihw=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "Dopo la passeggiata panoramica a Nemi, consiglio panino con porchetta e crostatina grande con fragole: paradiso dei sensi!",
+      "gradeComment": 5
+    },
+    {
+      "author": "Francesco Remoli",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucqtwd1SLyn1zRiWT5te1LFvEtyzGQkcRs2hGZIihw=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "Dopo la passeggiata panoramica a Nemi, consiglio panino con porchetta e crostatina grande con fragole: paradiso dei sensi!",
+      "gradeComment": 5
+    },
+    {
+      "author": "Alessandra L'Abate",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucrPIiKscEwPhaRunUM_x9KVhFlTMUpcV1iWL7yTjhc=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "(Tradução do Google) Decidimos nos mudar de Roma para uma pequena viagem de domingo fora da cidade. Nemi é uma vila muito agradável, cidade de flores e morangos. A vista do lago é muito impressionante! Na cidade existem vários locais onde pode almoçar e jantar, ou simplesmente saborear pratos ou bebidas com os morangos típicos da zona.  (Original) Abbiamo deciso di spostarci da Roma per una piccola gita domenicale fuori porta. Nemi è un paesino davvero molto carino, città dei fiori e delle fragole. La vista sul lago e molto suggestiva! In città ci sono svariati locali dove poter pranzare e cenare, o semplicemente assaporare pietanze o drink con le fragoline tipiche della zona.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Daniele",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucpei4UsfibL059tnFzPoIt4TqGqbP0KZTdHxcaXzg=w36-h36-p-c0x00000000-rp-mo-ba6-br100",
+      "comment": "(Tradução do Google) Vista romântica do lago da charmosa vila de Nemi !!! Outra parada obrigatória no tour Castelli Romani.  (Original) Vista romanticissima del lago dall'incantevole paesino di Nemi!!! Altra tappa obbligatoria nel tour dei Castelli Romani.",
+      "gradeComment": 5
+    },
+    {
+      "author": "planetizzy 7",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucp19RKY-xPmJAjJovOUN5BHD_dDq-Ceg4C82rQ9fA=w36-h36-p-c0x00000000-rp-mo-br100",
+      "comment": "(Tradução do Google) Natureza selvagem 🌿🍃❤️ 🇮🇹 um lugar lindo 👌 minhas fotos de dezembro de 2021 Instagram @izzy_b7  (Original) La nature sauvage 🌿🍃❤️ 🇮🇹 un endroit magnifique 👌 mes photos de dec 2021  Instagram @izzy_b7",
+      "gradeComment": 5
+    },
+    {
+      "author": "Jessica Di Domenico",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucpWt3GWPHLmhYC7U27DHFYU44JyYaHCyJPLF136dw=w36-h36-p-c0x00000000-rp-mo-ba3-br100",
+      "comment": "Rive molto carine, si consiglia nel weekend di venire molto presto per parcheggiare",
+      "gradeComment": 5
+    },
+    {
+      "author": "Manuel C",
+      "photoAuthor": "https://lh3.googleusercontent.com/a/AItbvmmp0TW-XentS70jmwLOPpO5g0OQivsYBe4r5hlK=w36-h36-p-c0x00000000-rp-mo-ba6-br100",
+      "comment": "(Tradução do Google) Desde que o vi pela primeira vez, me apaixonei por ele. O lago é lindo, com águas claras e limpas, muito selvagem e rico em história. A primeira vez que estive lá para pescar carpa fiz uma das capturas mais memoráveis ​​que já me aconteceram. Para poder pescar você deve entrar em contato com Carlo Catarci que detém os direitos exclusivos de pesca. O regulamento está em vigor na província de Roma. Boa experiencia  (Original) Da quando l'ho visto la prima volta mi ci sono innamorato. Il lago è bellissimo con acqua limpida e pulita, molto selvaggio e ricco di storia. La prima volta che ci sono stato per pescarci a carpfishing ho realizzato una delle pescate più memorabili che mi siano mai capitate. Per poter pescare bisogna rivolgersi a Carlo Catarci che detiene i diritti esclusivi per la pesca. Come regolamento vige quello in vigore per la provincia di Roma. Bella esperienza",
+      "gradeComment": 5
+    },
+    {
+      "author": "ritapassionfoodlove",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucpFVplyQsyzY3w9tkBf9DaMQWTK-xsTcfCfb3PHLC0=w36-h36-p-c0x00000000-rp-mo-ba5-br100",
+      "comment": "(Tradução do Google) Lugar encantador aperitivo Vista para o lago maravilhosa seguindo as instruções para o terraço dos amantes, em seguida, continue o caminho ... 😍 almoço Restaurante com vista para o lago o ramo dourado ....  (Original) Posto incantevole  aperitivo Vista lago stupendo srguendo indicazioni la terrazza  degli innamorati poi proseguire il sentiero...😍pranzo  Vista lago  ristorante il ramo d'oro......TUTTO OTTIMO ,CONSIGLIO PRENOTAZIONE VISTA LAGO UN PAIO DI GIORNI PRINA....",
+      "gradeComment": 5
+    },
+    {
+      "author": "Mavi Petito",
+      "photoAuthor": "https://lh3.googleusercontent.com/a/AItbvml3qFiUW3inJEdJb-bwACbG07mm1i_gf4YcQqWO=w36-h36-p-c0x00000000-rp-mo-ba3-br100",
+      "comment": "(Tradução do Google) Lago Nemi, um lugar de relaxamento e frescor, acolhedor e característico  (Original) Il lago di Nemi, luogo di relax e freschezza, accogliente e caratteristico",
+      "gradeComment": 5
+    },
+    {
+      "author": "Andrea Fadda",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucqPnHy8xqZIIbAJnCFk_Q6o3OSbAjrns8_VMpUxjv4=w36-h36-p-c0x00000000-rp-mo-ba8-br100",
+      "comment": "(Tradução do Google) Simplesmente espetacular de todos os lados, você pode apreciar esta vista maravilhosa. Um espetáculo da natureza para ser desfrutado ....  (Original) Semplicemente spettacolare da ogni parte tu possa affacciarti per godere questa meravigliosa vista. Spettacolo della natura tutta da gustare....",
+      "gradeComment": 4
+    },
+    {
+      "author": "Donna Maravillas",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucq9ly5IXMsyzkZXutvqcw-K6MARB3UghVdnaKR9sg=w36-h36-p-c0x00000000-rp-mo-br100",
+      "comment": "(Tradução do Google) Bom lugar para dar um passeio rápido. Tem caminhos bons para trekking, mas precisa de alguma manutenção pública, pois algumas áreas são bastante perigosas, especialmente para crianças e idosos. Se você ficar no centro da cidade, há muitos ótimos restaurantes e bares ou cafés para jantar. Imperdível, experimente os seus pastéis com morangos silvestres.  (Original) Nice place to have a quick stroll. It has pathways good for trekking but needs some public maintenance as some areas are quite dangerous especially for children and the elderly. If you stay in the town centre there are lots of great restaurants and bars or cafés to dine to. A must, try their pastries with wild strawberries.",
+      "gradeComment": 4
+    }
+  ],
+  "peakHours": null,
+  "relatedSearches": [
+    "nami",
+    "qual deusa da mitologia romana nasceu dentro da cabeça do pai",
+    "filha de júpiter",
+    "amazonas mitologia diana",
+    "nemi anime",
+    "nemi astrologia",
+    "diana",
+    "nemi comic",
+    "nami",
+    "qual deusa da mitologia romana nasceu dentro da cabeça do pai",
+    "filha de júpiter",
+    "amazonas mitologia diana",
+    "nemi anime",
+    "nemi astrologia",
+    "diana",
+    "nemi comic"
+  ],
+  "relateds": [
+    {
+      "mainName": "Barcos do Nemi",
+      "url": null
+    },
+    {
+      "mainName": "Lago Albano",
+      "url": null
+    },
+    {
+      "mainName": "Templo de Diana",
+      "url": null
+    },
+    {
+      "mainName": "Colinas Albanas",
+      "url": null
+    },
+    {
+      "mainName": "Monte Cavo",
+      "url": null
+    },
+    {
+      "mainName": "Parco dei Castelli Romani",
+      "url": null
+    },
+    {
+      "mainName": "Lago de Bracciano",
+      "url": null
+    },
+    {
+      "mainName": "Vulcão Lacial",
+      "url": null
+    },
+    {
+      "mainName": "Lake Vico",
+      "url": null
+    },
+    {
+      "mainName": "Lago de Martignano",
+      "url": null
+    },
+    {
+      "mainName": "Terrazza degli innamorati",
+      "url": null
+    },
+    {
+      "mainName": "Foof Museum of the Dog Mondragone",
+      "url": null
+    },
+    {
+      "mainName": "Maschio delle Faete",
+      "url": null
+    },
+    {
+      "mainName": "Lago Bolsena",
+      "url": null
+    },
+    {
+      "mainName": "Lago del Turano",
+      "url": null
+    },
+    {
+      "mainName": "Monte Artemisio",
+      "url": null
+    },
+    {
+      "mainName": "The Gardens Of Ninfa",
+      "url": null
+    },
+    {
+      "mainName": "Fontana Tempesta",
+      "url": null
+    },
+    {
+      "mainName": "Lago del Salto",
+      "url": null
+    },
+    {
+      "mainName": "Lago Trasimeno",
+      "url": null
+    },
+    {
+      "mainName": "Lake Lesina",
+      "url": null
+    },
+    {
+      "mainName": "Parco Sforza Cesarini",
+      "url": null
+    },
+    {
+      "mainName": "Pratoni del Vivaro",
+      "url": null
+    },
+    {
+      "mainName": "Palazzo Sforza-Cesarini",
+      "url": null
+    },
+    {
+      "mainName": "Barcos do Nemi",
+      "url": null
+    },
+    {
+      "mainName": "Lago Albano",
+      "url": null
+    },
+    {
+      "mainName": "Templo de Diana",
+      "url": null
+    },
+    {
+      "mainName": "Colinas Albanas",
+      "url": null
+    },
+    {
+      "mainName": "Monte Cavo",
+      "url": null
+    },
+    {
+      "mainName": "Parco dei Castelli Romani",
+      "url": null
+    },
+    {
+      "mainName": "Lago de Bracciano",
+      "url": null
+    },
+    {
+      "mainName": "Vulcão Lacial",
+      "url": null
+    },
+    {
+      "mainName": "Lake Vico",
+      "url": null
+    },
+    {
+      "mainName": "Lago de Martignano",
+      "url": null
+    },
+    {
+      "mainName": "Terrazza degli innamorati",
+      "url": null
+    },
+    {
+      "mainName": "Foof Museum of the Dog Mondragone",
+      "url": null
+    },
+    {
+      "mainName": "Maschio delle Faete",
+      "url": null
+    },
+    {
+      "mainName": "Lago Bolsena",
+      "url": null
+    },
+    {
+      "mainName": "Lago del Turano",
+      "url": null
+    },
+    {
+      "mainName": "Monte Artemisio",
+      "url": null
+    },
+    {
+      "mainName": "The Gardens Of Ninfa",
+      "url": null
+    },
+    {
+      "mainName": "Fontana Tempesta",
+      "url": null
+    },
+    {
+      "mainName": "Lago del Salto",
+      "url": null
+    },
+    {
+      "mainName": "Lago Trasimeno",
+      "url": null
+    },
+    {
+      "mainName": "Lake Lesina",
+      "url": null
+    },
+    {
+      "mainName": "Parco Sforza Cesarini",
+      "url": null
+    },
+    {
+      "mainName": "Pratoni del Vivaro",
+      "url": null
+    },
+    {
+      "mainName": "Palazzo Sforza-Cesarini",
+      "url": null
+    }
+  ]
+}

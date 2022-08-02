@@ -1,0 +1,962 @@
+{
+  "mainName": "Mundo Maravilhoso da Criança",
+  "slug": "mundo-maravilhoso-da-crianca",
+  "category": "Parque de diversão",
+  "locationInformation": {
+    "latitude": "-10.981263",
+    "longitude": "-37.0431663"
+  },
+  "basicInformation": [
+    {
+      "label": "endereço",
+      "tooltip": "Copiar endereço",
+      "text": "Av. Santos Dumont, 3601-3681 - Atalaia, Aracaju - SE",
+      "icon": "https://www.gstatic.com/images/icons/material/system_gm/1x/place_gm_blue_24dp.png"
+    },
+    {
+      "label": "Code",
+      "tooltip": "Copiar Plus Code",
+      "text": "2X94+FP Atalaia, Aracaju - SE",
+      "icon": "https://maps.gstatic.com/mapfiles/maps_lite/images/2x/ic_plus_code.png"
+    },
+    {
+      "label": "merchant",
+      "text": "Reivindicar esta empresa",
+      "icon": "https://www.gstatic.com/images/icons/material/system_gm/1x/verified_user_gm_blue_24dp.png"
+    }
+  ],
+  "ratingInformation": {
+    "basicRatingInformation": {
+      "averageGrade": 4.5,
+      "totalOfEvaluations": 2036
+    },
+    "ratingsByGrade": [
+      {
+        "grade": 5,
+        "totalRatings": 1328
+      },
+      {
+        "grade": 4,
+        "totalRatings": 400
+      },
+      {
+        "grade": 3,
+        "totalRatings": 233
+      },
+      {
+        "grade": 2,
+        "totalRatings": 37
+      },
+      {
+        "grade": 1,
+        "totalRatings": 38
+      }
+    ]
+  },
+  "ratingTags": [
+    {
+      "tag": "brinquedos",
+      "count": 156,
+      "tooltip": "brinquedos, mencionado em 156 avaliações"
+    },
+    {
+      "tag": "brincar",
+      "count": 40,
+      "tooltip": "brincar, mencionado em 40 avaliações"
+    },
+    {
+      "tag": "opções",
+      "count": 25,
+      "tooltip": "opções, mencionado em 25 avaliações"
+    },
+    {
+      "tag": "kart",
+      "count": 14,
+      "tooltip": "kart, mencionado em 14 avaliações"
+    },
+    {
+      "tag": "infantil",
+      "count": 10,
+      "tooltip": "infantil, mencionado em 10 avaliações"
+    },
+    {
+      "tag": "iluminação",
+      "count": 10,
+      "tooltip": "iluminação, mencionado em 10 avaliações"
+    },
+    {
+      "tag": "gangorra",
+      "count": 8,
+      "tooltip": "gangorra, mencionado em 8 avaliações"
+    },
+    {
+      "tag": "espaço público",
+      "count": 8,
+      "tooltip": "espaço público, mencionado em 8 avaliações"
+    },
+    {
+      "tag": "carro elétrico",
+      "count": 7,
+      "tooltip": "carro elétrico, mencionado em 7 avaliações"
+    },
+    {
+      "tag": "poder público",
+      "count": 6,
+      "tooltip": "poder público, mencionado em 6 avaliações"
+    }
+  ],
+  "featuredPhotos": [
+    "https://lh5.googleusercontent.com/p/AF1QipP3yaimM2Gbh2BvI2dMRSe8rN379y7zeqgcFFY9=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipO_GOwXa9pBwuYLRclIxbi6Ghed0nsiSE4x_HFW=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipP1igYGR1IWy-Li1NHy7jb4G0Pd7Im4W-zQ489e=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMwEIZAiTTuTMvBWX9_7STmNIyYWFIEswO2kKWh=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPXovH7Ek2MZ78QqMDVSAaEhJGLP1Nc6pIqVsMk=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOxMz6GrpYuaad56TaoM9hLSzm5705yS3Kivvzr=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipM9LcKIi_IQeXamg519TzUXwjZLEXg2xn7nydSN=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNAgrvQrV78xKODZypX650XXEJ2MekLGMG3IexM=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNip-lv90o0anCPcxU49hpzx2xWuqNUbEyDBm98=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPa_dbG0eC5Y9t4ezdb4DJwOteokidtAPXmTaOl=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOQOWpjlZxpbsdGcU0sAd7AJehBfBEiGGhZ7l51=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMnaTJRFdptO7fd93iFY187V63OwwEiyFr53gIq=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipO9FzoHsXbTrRjj_Wm6ChxH2klYZAK-lJX5FhXQ=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOFc2GyguG10jshuCPBaZVwsyf88kO4m3tXARjh=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMMjCm9b31OCZsfIOLEX6qgj1cvY9OndzK9arg6=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMJN7vDyxwWogCFe-TJuJzUkDZNL7nPRXo1ByWj=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNKDXcrY6cp3E6nNEEosEP_oO5-BRlu18nEd-ii=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOZ86OpL5JYPihFQgVCZFmvxjrhX6g_WwiWEvOh=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPVwxxNnMRn0QwT_RZpVQymXeO5MJrIYfSLR30n=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPLCsNcRuPY4H-tsbw2qusfHM2pZRY_KBlHvz-6=w1024-h576-k-no"
+  ],
+  "topComments": [
+    {
+      "author": "Marisa Jose",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucq-mXV3U8C6DCghZ1jSf3i-9ssaWFyEPfpp9Md-iQ=w36-h36-p-c0x00000000-rp-mo-ba7-br100",
+      "comment": "Parque com diversos brinquedos. A localização é excelente, na orla, num ponto central da praia de Atalaia, próximo a muitos hotéis, bares, restaurantes e ao lado da sede do projeto Tamar. Tudo muito bonito, limpo, organizado e colorido.",
+      "gradeComment": 4
+    },
+    {
+      "author": "Karina Potenza",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucpm3HTXgKVOSHTJf8X4RiTgb3g8xu6srQ3Scdih1Q=w36-h36-p-c0x00000000-rp-mo-ba5-br100",
+      "comment": "Parquinho bem legal. Fui a noite e estava cheio pela época (Jan/2022) - sem fotos. Mas fui outra vez de dia em Out/2020 e estava tranquilo.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Danyelly Sant's",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucqKRuxXcfXyANRGJZVUJmjHrrDMVGaW_8Wq_euIJGg=w36-h36-p-c0x00000000-rp-mo-ba3-br100",
+      "comment": "Venham visitar o mundo maravilhoso da criança esse local é ótimo pra sua criança se divertir, lugar seguro a policia sempre presente, tem estacionamento na entrada principal e nas entradas laterais, tem banheiro, acesso para deficientes ♿,  tem lanchonetes ao redor e tem também a pista de corrida de kart no fundo do parque. Venha  visitar",
+      "gradeComment": 5
+    },
+    {
+      "author": "sukinha santista",
+      "photoAuthor": "https://lh3.googleusercontent.com/a/AItbvmkaKFLMDSLDu1nm_QWAR_Ehhr8A9EA5uSgw680JbA=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "Lugar fantástico para levar a criançada para se divertir. Adulto Tb se diverte. Tem carrinho de kart e quiosques com lanches c preços acessíveis. Meu lugar FAVORITO,quando vou à orla noite!",
+      "gradeComment": 5
+    },
+    {
+      "author": "Salete Melo",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucq9mHMac681teNi8IRHxKj8JDvH7eXcBL6IbqV-EVU=w36-h36-p-c0x00000000-rp-mo-br100",
+      "comment": "A casa é extremamente aconchegante faz jus ao nome uma vista maravilhosa, anfitriã super atenciosa,decoração simples mas o espaço abraça a gente.e o preço compatível com a hospedagem.comoleta com td q se faz necessário para uma estadia.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Themis Caminha",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucoieLUPgO_yXmNcz5y8klwz1w062V2jwN0rClFGtL0=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "Uma excelente opção para crianças. O parquinho, porém,  ten brinquedos que precisam de manutenção. Achei o local inseguro ao anoitecer.  Tem banheiros limpos na administração.  Muitos brinquedos,  pista de bugue e de kart para adultos e adolescentes.",
+      "gradeComment": 3
+    },
+    {
+      "author": "Paula Geovanna",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucqu200cugzfarBOo5iaiGfPQFCiX2CemxwSnSdzY48=w36-h36-p-c0x00000000-rp-mo-ba3-br100",
+      "comment": "lugar ao ar livre, bom para levar crianças. brinquedos precisam de mudanças, porém me traz boas memórias da infância.",
+      "gradeComment": 4
+    },
+    {
+      "author": "Junior Pereira",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucowf3mlTAlYTgq7odO-vhOAo7vwyJDuTG8UB8a_YQ=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "Ótimas lembranças desse lugar! Colorido. Ótimo para crianças.",
+      "gradeComment": 5
+    },
+    {
+      "author": "rodrigo jasmelino",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucotqcrrundgXu5iAbJ--3Mc-7EIAsRk_2PijfTA=w36-h36-p-c0x00000000-rp-mo-br100",
+      "comment": "Bom lugar pra as crianças se divertir",
+      "gradeComment": 5
+    },
+    {
+      "author": "Danilo Benedicto",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucqAIr0LGomT9QXwabPgScR65qDzNSYJEwYVQGc9Pw=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "Ótimo ligar para fazer as crianças felizes E os pais mais pobre kkkķkk. Muito bom e com muita variedade de diversão",
+      "gradeComment": 3
+    },
+    {
+      "author": "Patricia Remy",
+      "photoAuthor": "https://lh3.googleusercontent.com/a/AItbvmmPezbuq9IylQ2Knl9DFeZEhw_P40_FLNgMVK3a=w36-h36-p-c0x00000000-rp-mo-ba3-br100",
+      "comment": "Lugar amplo com uma localização fantástica, porém está muito descuidado.  Brinquedos sujos que desagradam qualquer mãe. Deveriam fazer uma manutenção urgente para o local ficar mais atrativo e agradável.",
+      "gradeComment": 3
+    },
+    {
+      "author": "GEOVANE GUERRA",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucphlBbhDyvFdHY2dm1CSwayS7a9ULd9IihaHfuLeKU=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "Excelente local para as crianças, super recomendo.  Fui durante o dia e noite. No dia estava vazio, meu filho brincou nos brinquedos fixos. A noite, tem diversos brinquedos, pula-pula, e etc.....",
+      "gradeComment": 5
+    },
+    {
+      "author": "Cristiano Souza Ferreira",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucq6BasKkLa9QLRVZrdqFCV_0ukiaaekSOP-ffUj9g=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "Espaço bom para a levarmos nossos filhos, para se divertirem, inclusive nós pais também nos divertirmos muito.",
+      "gradeComment": 4
+    },
+    {
+      "author": "cristiane Carvalho",
+      "photoAuthor": "https://lh3.googleusercontent.com/a/AItbvmmmmjlWYc_hRLWZEQyrzva67maAggUIQQt_z6Hi=w36-h36-p-c0x00000000-rp-mo-br100",
+      "comment": "Tem brinquedos quebrados, gangorras faltando. Mas é um local legal pra levar as crianças. Tem carrinhos, triciclos elétricos e kart, pula- pula",
+      "gradeComment": 4
+    },
+    {
+      "author": "Alexandre Melquisedeque Almeida Machado",
+      "photoAuthor": "https://lh3.googleusercontent.com/a/AItbvmnjdLpZT1aZRCjWtvCeYjC6O-gqPKHu4TmQIEHr=w36-h36-p-c0x00000000-rp-mo-br100",
+      "comment": "Lindo e ótimo para crianças se divertirem",
+      "gradeComment": 5
+    },
+    {
+      "author": "Rita Santos silva",
+      "photoAuthor": "https://lh3.googleusercontent.com/a/AItbvmnkI9Wvhu5n5oXv_MQ5atJm2fohsWeopsnMxzoU=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "Lugar lindo, perfeito para levar as crianças.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Sem Nome",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucrczTVkudSrrvpSO3RLf0MtqD0jm75phO1iIxkTf6k=w36-h36-p-c0x00000000-rp-mo-br100",
+      "comment": "Ótimo lugar para levar as crianças e se divertir com o sorriso delas.",
+      "gradeComment": 5
+    },
+    {
+      "author": "edinho edson",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucoWY-GttLI8lZFvlRKZ7XPa-FBjfIAcka1DJ0qzuBo=w36-h36-p-c0x00000000-rp-mo-ba2-br100",
+      "comment": "Ate que é legal, pena que alguns brinquedos estao quebrados, mas vale apena colocar os pequenos pra brincar",
+      "gradeComment": 4
+    },
+    {
+      "author": "J Gimenez",
+      "photoAuthor": "https://lh3.googleusercontent.com/a/AItbvmm7585q0bOWs9IQ8lEdMOjYQrRcKnWPeg1d6nZF=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "Muito bonito a noite chama bem a atenção ,pra quem tem crianças vale o passeio fica bem próximo da praia. E fica muito iluminado a noite parece um parque de diversões.",
+      "gradeComment": 3
+    },
+    {
+      "author": "Ubirai Cruz",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucr41uJ5EiT0gE5fwaCh1E06tTeAJZlOhV3q2fA-pw=w36-h36-p-c0x00000000-rp-mo-ba7-br100",
+      "comment": "Maravilha!!! Coisa difícil de se ver em outras capitais....",
+      "gradeComment": 5
+    }
+  ],
+  "peakHours": [
+    {
+      "Sunday": [
+        {
+          "hour": "04:00",
+          "percent": 1
+        },
+        {
+          "hour": "05:00",
+          "percent": 1
+        },
+        {
+          "hour": "06:00",
+          "percent": 1
+        },
+        {
+          "hour": "07:00",
+          "percent": 1
+        },
+        {
+          "hour": "14:00",
+          "percent": 3
+        },
+        {
+          "hour": "15:00",
+          "percent": 18
+        },
+        {
+          "hour": "16:00",
+          "percent": 54
+        },
+        {
+          "hour": "17:00",
+          "percent": 93
+        },
+        {
+          "hour": "18:00",
+          "percent": 100
+        },
+        {
+          "hour": "19:00",
+          "percent": 93
+        },
+        {
+          "hour": "20:00",
+          "percent": 88
+        },
+        {
+          "hour": "21:00",
+          "percent": 61
+        },
+        {
+          "hour": "22:00",
+          "percent": 23
+        },
+        {
+          "hour": "23:00",
+          "percent": 3
+        },
+        {
+          "hour": "00:00",
+          "percent": 1
+        },
+        {
+          "hour": "01:00",
+          "percent": 1
+        },
+        {
+          "hour": "02:00",
+          "percent": 1
+        },
+        {
+          "hour": "03:00",
+          "percent": 1
+        }
+      ]
+    },
+    {
+      "Monday": [
+        {
+          "hour": "04:00",
+          "percent": 1
+        },
+        {
+          "hour": "05:00",
+          "percent": 1
+        },
+        {
+          "hour": "06:00",
+          "percent": 1
+        },
+        {
+          "hour": "07:00",
+          "percent": 1
+        },
+        {
+          "hour": "10:00",
+          "percent": 1
+        },
+        {
+          "hour": "11:00",
+          "percent": 1
+        },
+        {
+          "hour": "14:00",
+          "percent": 1
+        },
+        {
+          "hour": "15:00",
+          "percent": 3
+        },
+        {
+          "hour": "16:00",
+          "percent": 6
+        },
+        {
+          "hour": "17:00",
+          "percent": 9
+        },
+        {
+          "hour": "18:00",
+          "percent": 10
+        },
+        {
+          "hour": "19:00",
+          "percent": 8
+        },
+        {
+          "hour": "20:00",
+          "percent": 5
+        },
+        {
+          "hour": "21:00",
+          "percent": 2
+        },
+        {
+          "hour": "23:00",
+          "percent": 1
+        },
+        {
+          "hour": "00:00",
+          "percent": 1
+        },
+        {
+          "hour": "01:00",
+          "percent": 1
+        },
+        {
+          "hour": "02:00",
+          "percent": 1
+        },
+        {
+          "hour": "03:00",
+          "percent": 1
+        }
+      ]
+    },
+    {
+      "Tuesday": [
+        {
+          "hour": "04:00",
+          "percent": 1
+        },
+        {
+          "hour": "05:00",
+          "percent": 1
+        },
+        {
+          "hour": "06:00",
+          "percent": 1
+        },
+        {
+          "hour": "07:00",
+          "percent": 1
+        },
+        {
+          "hour": "08:00",
+          "percent": 1
+        },
+        {
+          "hour": "09:00",
+          "percent": 1
+        },
+        {
+          "hour": "12:00",
+          "percent": 1
+        },
+        {
+          "hour": "13:00",
+          "percent": 2
+        },
+        {
+          "hour": "14:00",
+          "percent": 4
+        },
+        {
+          "hour": "15:00",
+          "percent": 8
+        },
+        {
+          "hour": "16:00",
+          "percent": 10
+        },
+        {
+          "hour": "17:00",
+          "percent": 9
+        },
+        {
+          "hour": "18:00",
+          "percent": 8
+        },
+        {
+          "hour": "19:00",
+          "percent": 9
+        },
+        {
+          "hour": "20:00",
+          "percent": 8
+        },
+        {
+          "hour": "21:00",
+          "percent": 5
+        },
+        {
+          "hour": "22:00",
+          "percent": 2
+        },
+        {
+          "hour": "23:00",
+          "percent": 1
+        },
+        {
+          "hour": "00:00",
+          "percent": 1
+        },
+        {
+          "hour": "01:00",
+          "percent": 1
+        },
+        {
+          "hour": "02:00",
+          "percent": 1
+        },
+        {
+          "hour": "03:00",
+          "percent": 1
+        }
+      ]
+    },
+    {
+      "Wednesday": [
+        {
+          "hour": "04:00",
+          "percent": 1
+        },
+        {
+          "hour": "05:00",
+          "percent": 1
+        },
+        {
+          "hour": "06:00",
+          "percent": 1
+        },
+        {
+          "hour": "07:00",
+          "percent": 1
+        },
+        {
+          "hour": "08:00",
+          "percent": 1
+        },
+        {
+          "hour": "09:00",
+          "percent": 2
+        },
+        {
+          "hour": "10:00",
+          "percent": 3
+        },
+        {
+          "hour": "11:00",
+          "percent": 3
+        },
+        {
+          "hour": "12:00",
+          "percent": 2
+        },
+        {
+          "hour": "13:00",
+          "percent": 2
+        },
+        {
+          "hour": "14:00",
+          "percent": 3
+        },
+        {
+          "hour": "15:00",
+          "percent": 6
+        },
+        {
+          "hour": "16:00",
+          "percent": 10
+        },
+        {
+          "hour": "17:00",
+          "percent": 14
+        },
+        {
+          "hour": "18:00",
+          "percent": 15
+        },
+        {
+          "hour": "19:00",
+          "percent": 14
+        },
+        {
+          "hour": "20:00",
+          "percent": 11
+        },
+        {
+          "hour": "21:00",
+          "percent": 7
+        },
+        {
+          "hour": "22:00",
+          "percent": 3
+        },
+        {
+          "hour": "23:00",
+          "percent": 1
+        },
+        {
+          "hour": "00:00",
+          "percent": 1
+        },
+        {
+          "hour": "01:00",
+          "percent": 1
+        },
+        {
+          "hour": "02:00",
+          "percent": 1
+        },
+        {
+          "hour": "03:00",
+          "percent": 1
+        }
+      ]
+    },
+    {
+      "Thursday": [
+        {
+          "hour": "04:00",
+          "percent": 1
+        },
+        {
+          "hour": "05:00",
+          "percent": 1
+        },
+        {
+          "hour": "06:00",
+          "percent": 1
+        },
+        {
+          "hour": "07:00",
+          "percent": 1
+        },
+        {
+          "hour": "09:00",
+          "percent": 1
+        },
+        {
+          "hour": "10:00",
+          "percent": 1
+        },
+        {
+          "hour": "11:00",
+          "percent": 2
+        },
+        {
+          "hour": "12:00",
+          "percent": 3
+        },
+        {
+          "hour": "13:00",
+          "percent": 3
+        },
+        {
+          "hour": "14:00",
+          "percent": 5
+        },
+        {
+          "hour": "15:00",
+          "percent": 8
+        },
+        {
+          "hour": "16:00",
+          "percent": 17
+        },
+        {
+          "hour": "17:00",
+          "percent": 24
+        },
+        {
+          "hour": "18:00",
+          "percent": 24
+        },
+        {
+          "hour": "19:00",
+          "percent": 24
+        },
+        {
+          "hour": "20:00",
+          "percent": 24
+        },
+        {
+          "hour": "21:00",
+          "percent": 17
+        },
+        {
+          "hour": "22:00",
+          "percent": 7
+        },
+        {
+          "hour": "23:00",
+          "percent": 1
+        },
+        {
+          "hour": "00:00",
+          "percent": 1
+        },
+        {
+          "hour": "01:00",
+          "percent": 1
+        },
+        {
+          "hour": "02:00",
+          "percent": 1
+        },
+        {
+          "hour": "03:00",
+          "percent": 1
+        }
+      ]
+    },
+    {
+      "Friday": [
+        {
+          "hour": "04:00",
+          "percent": 1
+        },
+        {
+          "hour": "05:00",
+          "percent": 1
+        },
+        {
+          "hour": "06:00",
+          "percent": 1
+        },
+        {
+          "hour": "07:00",
+          "percent": 1
+        },
+        {
+          "hour": "10:00",
+          "percent": 1
+        },
+        {
+          "hour": "11:00",
+          "percent": 2
+        },
+        {
+          "hour": "12:00",
+          "percent": 3
+        },
+        {
+          "hour": "13:00",
+          "percent": 3
+        },
+        {
+          "hour": "14:00",
+          "percent": 4
+        },
+        {
+          "hour": "15:00",
+          "percent": 8
+        },
+        {
+          "hour": "16:00",
+          "percent": 20
+        },
+        {
+          "hour": "17:00",
+          "percent": 32
+        },
+        {
+          "hour": "18:00",
+          "percent": 32
+        },
+        {
+          "hour": "20:00",
+          "percent": 47
+        },
+        {
+          "hour": "21:00",
+          "percent": 41
+        },
+        {
+          "hour": "22:00",
+          "percent": 22
+        },
+        {
+          "hour": "23:00",
+          "percent": 7
+        },
+        {
+          "hour": "00:00",
+          "percent": 1
+        },
+        {
+          "hour": "01:00",
+          "percent": 1
+        },
+        {
+          "hour": "02:00",
+          "percent": 1
+        },
+        {
+          "hour": "03:00",
+          "percent": 1
+        }
+      ]
+    },
+    {
+      "Saturday": [
+        {
+          "hour": "05:00",
+          "percent": 1
+        },
+        {
+          "hour": "06:00",
+          "percent": 1
+        },
+        {
+          "hour": "07:00",
+          "percent": 2
+        },
+        {
+          "hour": "08:00",
+          "percent": 3
+        },
+        {
+          "hour": "09:00",
+          "percent": 3
+        },
+        {
+          "hour": "10:00",
+          "percent": 4
+        },
+        {
+          "hour": "11:00",
+          "percent": 4
+        },
+        {
+          "hour": "12:00",
+          "percent": 5
+        },
+        {
+          "hour": "13:00",
+          "percent": 5
+        },
+        {
+          "hour": "14:00",
+          "percent": 8
+        },
+        {
+          "hour": "15:00",
+          "percent": 22
+        },
+        {
+          "hour": "16:00",
+          "percent": 51
+        },
+        {
+          "hour": "17:00",
+          "percent": 72
+        },
+        {
+          "hour": "18:00",
+          "percent": 75
+        },
+        {
+          "hour": "19:00",
+          "percent": 83
+        },
+        {
+          "hour": "20:00",
+          "percent": 90
+        },
+        {
+          "hour": "21:00",
+          "percent": 73
+        },
+        {
+          "hour": "22:00",
+          "percent": 41
+        },
+        {
+          "hour": "23:00",
+          "percent": 16
+        },
+        {
+          "hour": "00:00",
+          "percent": 4
+        }
+      ]
+    }
+  ],
+  "relatedSearches": null,
+  "relateds": [
+    {
+      "mainName": "Lagos da Orla",
+      "url": null
+    },
+    {
+      "mainName": "Parque da Cidade",
+      "url": null
+    },
+    {
+      "mainName": "Oceanário de Aracaju",
+      "url": null
+    },
+    {
+      "mainName": "Praia de Aruana",
+      "url": null
+    },
+    {
+      "mainName": "Passarela do Caranguejo",
+      "url": null
+    },
+    {
+      "mainName": "Espaço Zé Peixe",
+      "url": null
+    },
+    {
+      "mainName": "Orla de Atalaia",
+      "url": null
+    },
+    {
+      "mainName": "Arcos da Orla de Atalaia",
+      "url": null
+    },
+    {
+      "mainName": "Praia do Refúgio",
+      "url": null
+    },
+    {
+      "mainName": "Praia de Atalaia Nova",
+      "url": null
+    },
+    {
+      "mainName": "Caueira",
+      "url": null
+    },
+    {
+      "mainName": "Parque dos Falcões",
+      "url": null
+    },
+    {
+      "mainName": "Museu da Gente Sergipana Gov. Marcelo Déda",
+      "url": null
+    },
+    {
+      "mainName": "Praia do Náufrago",
+      "url": null
+    },
+    {
+      "mainName": "Largo da Gente Sergipana",
+      "url": null
+    },
+    {
+      "mainName": "Praia do Mosqueiro",
+      "url": null
+    },
+    {
+      "mainName": "Praia de Atalaia",
+      "url": null
+    },
+    {
+      "mainName": "Palácio Museu Olímpio Campos",
+      "url": null
+    },
+    {
+      "mainName": "Praia da Costa",
+      "url": null
+    },
+    {
+      "mainName": "Praia do Saco",
+      "url": null
+    },
+    {
+      "mainName": "Parque da Sementeira",
+      "url": null
+    },
+    {
+      "mainName": "Usina Hidrelétrica de Xingó",
+      "url": null
+    }
+  ],
+  "editMode": false
+}

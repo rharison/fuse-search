@@ -1,0 +1,902 @@
+{
+  "mainName": "Villa Sciarra",
+  "slug": "villa-sciarra",
+  "category": "Parque",
+  "locationInformation": {
+    "latitude": "41.8834801",
+    "longitude": "12.4646959"
+  },
+  "basicInformation": [
+    {
+      "label": "endereço",
+      "tooltip": "Copiar endereço",
+      "text": "V.le delle Mura Gianicolensi, 11, 00153 Roma RM, Itália",
+      "icon": "https://www.gstatic.com/images/icons/material/system_gm/1x/place_gm_blue_24dp.png"
+    },
+    {
+      "label": "website",
+      "tooltip": "Abrir website",
+      "text": "sovraintendenzaroma.it",
+      "icon": "https://www.gstatic.com/images/icons/material/system_gm/1x/public_gm_blue_24dp.png"
+    },
+    {
+      "label": "telefone",
+      "tooltip": "Copiar número de telefone",
+      "text": "+39 06 0608",
+      "icon": "https://www.gstatic.com/images/icons/material/system_gm/1x/phone_gm_blue_24dp.png"
+    },
+    {
+      "label": "Code",
+      "tooltip": "Copiar Plus Code",
+      "text": "VFM7+9V Roma, Itália",
+      "icon": "https://maps.gstatic.com/mapfiles/maps_lite/images/2x/ic_plus_code.png"
+    },
+    {
+      "label": "merchant",
+      "text": "Reivindicar esta empresa",
+      "icon": "https://www.gstatic.com/images/icons/material/system_gm/1x/verified_user_gm_blue_24dp.png"
+    }
+  ],
+  "ratingInformation": {
+    "basicRatingInformation": {
+      "averageGrade": 4.2,
+      "totalOfEvaluations": 2494
+    },
+    "ratingsByGrade": [
+      {
+        "grade": 5,
+        "totalRatings": 1216
+      },
+      {
+        "grade": 4,
+        "totalRatings": 738
+      },
+      {
+        "grade": 3,
+        "totalRatings": 359
+      },
+      {
+        "grade": 2,
+        "totalRatings": 95
+      },
+      {
+        "grade": 1,
+        "totalRatings": 86
+      }
+    ]
+  },
+  "ratingTags": [
+    {
+      "tag": "chafariz",
+      "count": 147,
+      "tooltip": "chafariz, mencionado em 147 avaliações"
+    },
+    {
+      "tag": "estátua",
+      "count": 75,
+      "tooltip": "estátua, mencionado em 75 avaliações"
+    },
+    {
+      "tag": "janículo",
+      "count": 51,
+      "tooltip": "janículo, mencionado em 51 avaliações"
+    },
+    {
+      "tag": "impacto ambiental",
+      "count": 27,
+      "tooltip": "impacto ambiental, mencionado em 27 avaliações"
+    },
+    {
+      "tag": "vila romana",
+      "count": 19,
+      "tooltip": "vila romana, mencionado em 19 avaliações"
+    },
+    {
+      "tag": "aviário",
+      "count": 16,
+      "tooltip": "aviário, mencionado em 16 avaliações"
+    },
+    {
+      "tag": "pavão-indiano",
+      "count": 11,
+      "tooltip": "pavão-indiano, mencionado em 11 avaliações"
+    },
+    {
+      "tag": "cleópatra",
+      "count": 5,
+      "tooltip": "cleópatra, mencionado em 5 avaliações"
+    }
+  ],
+  "featuredPhotos": [
+    "https://lh5.googleusercontent.com/p/AF1QipOm5AoCcSOMFtN9f4703PjJuc5VcY95FNaBTkdh=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNrRUSjipMquAahiGAdSNI_zrQzzxWsdjhrzFw3=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOI3VCn9UXcz98yiGOs_LlXRm4NvE5DP2ggKs5t=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMJR3c9kWR1F0NN3wsB24DXJfSCYPmqjKw9a-J8=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipP992Q99n0MuiGelQSE8ktWrZrJcV--5d-Dd_9k=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOo5XvZCcQVKpGlrt_PZG9O3vHmQs7VjO0PbiYo=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNew7RPhJ5uD2IfiNwrg8Ar6KEtLwMzVXFQ5hVE=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPM17hFc0aiQ3IWCp4FUq4DWPwGE4JZXitond-e=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNJrDjrJ1TIfLebNO0LiDScFr3mkI7nUfl-SwHM=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMIN2tOFOPKrDC0ss_AKsebLF3JiMNZuCVdLzy5=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipM0ZvX_XBGBOUkcawHSV5CnJUAKBQ28beoU7Nsg=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMeN_BtIP_am3DbFwGtCu8spL-npQ9s-1rLQ0nd=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMf0WcomcXEzAa4Lf1ZqheKmvs_mVoB_hhYSyAJ=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMqPcg4H_Kv0iWkNdnXDXxqVz7v9P8_3tpMep_I=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPZe5sHXegtsmpeWCnFAowqOCsAbdW7aGIXuBE3=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOpoJlkG-F9jArYHa-LMGF1dJhoY0ABCZeoBmrO=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipM1AswQqf7VufsGqwe1DUgsrm-k-ylb5BnHDG3O=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOmgs-_leefInqTv_2gA6PGMS-O0pFXBLqBYfOH=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOJ9dEMCfFlaYqdDxMtcwo0KnODaw4ck9mTRZyG=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPPwjZUa-ytOBKOGHw9TX0y44DwjSk4vDf6UUP1=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipM-44oxTDP6CD5Nyn__RKZwKFixB9eqPwbXYdw9=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipN3Fns9FJBQ5cnS67-WCdGSAQH8qK2xV9M0LCJK=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNCia5hbdutObuN6ZgjTPdruNSunej36c3qD8f1=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNh3J1BPO5i9inT2g1ko6_A0xLkm2VJvS3VxeDw=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOIPgZKyRENxCEJq8KnxpH52anHHx3jBhobEIvY=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOyVP5KNGL4eYht1laF2ujpVC_-gWKcyjy3PrGo=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOQQVha2NBITSE9Xv3yQOSxz5IhUbaBrwPa_NzW=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPP7kffeR-ySaThDyzZNzuiujAYPRP4GO9ZUv4c=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipP5ePX44BEySH_ukLSQY4NkgSQgwrewz9h_jvv0=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNRItAt5348_-jKahXpscXeKVE_8y9wF2BZb9rf=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPzrKLABU-czBjFCq5huBxw_LXkH4pr0lbGUkJr=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOJszlyKGYWBAZFfxqa5og_pp8C24Vcat69taqV=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMzQC2mBDgF0gqkJzrDzEVjogzBNADS5N_bYU5h=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNE94tqLCLAuvQ-zrNMuWo40kwma36WFqHmLZDn=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNDWXdwaPgg6x44RjWcedH6h2hLc78Xu-05__GE=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipP1Z5vGPwtq5CF3r60RFA0XWe7NlbHw0kqHMfM0=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPv5dPwEFvE7ZmpIrbKPkaK50aCZlgynjfmEl97=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipM7RKFTLVQLTZUcOvgaKcVNMsOl_TrD7-IlYxCS=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipP8cmP2XhdYLxJ2Syzne6TJtA_wC27r9J-lfBJk=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNUFdaa0O-9XWPotenvnuhr3zGDuJvKuSnYvrlY=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOXMApGjivC8dO-VuaTCx_aKGc8M6YvSpdizZer=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMEjXC5T5_I3R49GQgo6DENNkdASzg9H2kvuTXs=w1024-h576-k-no"
+  ],
+  "topComments": [
+    {
+      "author": "Inês Linares",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucrwKALoPhdlXgu7DVgn2H7HbeR0teFnMoKzwrkydA=w36-h36-p-c0x00000000-rp-mo-br100",
+      "comment": "Um espaço agradável para fazer um piquenique. Demora a chegar a pé e não faz parte dos roteiros habituais da cidade eterna, mas se tiverem tempo extra aproveitem e visitem",
+      "gradeComment": 4
+    },
+    {
+      "author": "Manuel G",
+      "photoAuthor": "https://lh3.googleusercontent.com/a/AItbvmm5LdVLY-m5oksM96QlmxLqSCMa3LHwcsof6xcT=w36-h36-p-c0x00000000-rp-mo-ba3-br100",
+      "comment": "Belissimo",
+      "gradeComment": 5
+    },
+    {
+      "author": "Hironimus Sikas",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucqF7CUapN6YBeOQ7IFRp-WiJ2yhEFPs8T_ol392=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "Verde e fresca",
+      "gradeComment": 5
+    },
+    {
+      "author": "Franco Aliasi",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucplDtVVG60FEMGZTsCJL_EUl-qbxqHMjgu76XNwgXM=w36-h36-p-c0x00000000-rp-mo-ba6-br100",
+      "comment": "(Tradução do Google) Dizer que é uma maravilha e pouco... Outra pérola de Roma e como tudo em Roma é: história, beleza, brilho! Tudo o que herdámos é lindo e infelizmente mal conservado.... Algumas zonas da moradia estão inacessíveis por questões de segurança, vedações muito antigas/rasgadas, algumas fontes abandonadas e assoberbadas por matos... Um grupo de voluntários tenta compensar a falta de limpeza e manutenção.  (Original) Dire che è una meraviglia e poco... Altra perla di Roma e come tutto ciò che si trova a Roma è : storia, bellezza, luminosità! Tutto ciò che abbiamo ereditato è bello e purtroppo tenuto male.... Alcune zone della Villa sono  inaccessibili per motivi di sicurezza, staccionate vecchissime/divelte, alcune fontane abbandonate e sopraffatte dalle sterpaglie... Un gruppo di volontari cerca di sopperire alla mancanza di pulizia e di manutenzione.",
+      "gradeComment": 4
+    },
+    {
+      "author": "Emanuela Paluello",
+      "photoAuthor": "https://lh3.googleusercontent.com/a/AItbvmkbeZA-WCh_p3bnVxb2sLMoV7-_pMSInE8hAIW4=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "Quando mio figlio era piccolo venivamo spesso a Villa Sciarra. L'area giochi era di fianco alla voliera. Era tenuta molto bene ed all'interno della voliera c'erano diverse varietà di uccelli. Dopo un'accurato restauro delle  varie statue e fontane nel corso degli anni, oggi mi è sembrata un po' meno curata ma sempre molto bella. Purtroppo nella voliera non c'è più alcun volatile....peccato!",
+      "gradeComment": 4
+    },
+    {
+      "author": "Carlo C.",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucrlb1ypuf8UbJJ_TELC8tR7lu1VmZL5NYryE3kO7T8=w36-h36-p-c0x00000000-rp-mo-ba6-br100",
+      "comment": "(Tradução do Google) O parque não é grande, mas muito bonito devido à presença de esplêndidas árvores antigas entre as quais se destacam um gigantesco cedro do Líbano e um maravilhoso ginkgo biloba muito grande, talvez o maior de Roma, e pelo arranjo particular nas encostas do Janículo . das muralhas Gianicolense. A parte superior, a maior, está muito bem conservada, mas infelizmente a parte inferior não é tanto, o que exigiria intervenções de recuperação substanciais. Um primeiro edifício foi construído na área já em meados do século XVI. No século XVII existia uma villa que pertencia aos Barberini, depois aos Sciarra e depois de sucessivas passagens foi comprada pelo casal Wurts, que deu ao parque e à villa a sua aparência atual. O mesmo 1928 doou o imóvel ao Estado.  (Original) Il parco non è grande ma molto bello per la presenza di splendidi alberi secolari tra i quali spiccano un cedro del Libano gigantesco e una meravigliosa ginkgo biloba molto grande,  forse la più grande di Roma, e per la particolare disposizione sulle pendici del Gianicolo a  ridosso delle mura Gianicolensi. La parte alta, la più vasta, è molto ben tenuta, ma purtroppo, non altrettanto quella più bassa che necessiterebbe di consistenti interventi di recupero. Già dalla metà del XVI secolo nell'area  fu costruito un primo edificio. Nel XVII secolo era presente una villa appartenuta ai Barberini, poi agli Sciarra e poi dopo successivi passaggi fu acquistato dai coniugi Wurts, che diedero al parco e alla villa l'aspetto attuale. Gli stessi 1928 donarono la proprietà allo Stato.",
+      "gradeComment": 4
+    },
+    {
+      "author": "Antonio Della Vecchia",
+      "photoAuthor": "https://lh3.googleusercontent.com/a/AItbvmnJdFRoxwpPdL8UmnNlofwa7jUmNypBXwjGLTOy=w36-h36-p-c0x00000000-rp-mo-ba6-br100",
+      "comment": "(Tradução do Google) Oásis verde no coração das muralhas Gianicolense... Lenço Barberini e finalmente George Washington Wurts e sua esposa... e as estátuas da vila Visconti em Brignano. Panorama de Monteverde e as vilas do início do século XX.... para visitar e vivenciar plenamente o verde e a paisagem. O cassino Barberini agora é dedicado a um centro cultural alemão. Rodeado pelas paredes com uma brecha singular.  (Original) Oasi di verde nel cuore delle mura Gianicolensi...Barberini sciarra e in fine George Washington Wurts e consorte ....e le statue della villa Visconti di Brignano. Panorama su Monteverde e i villini di inizio Novecento ....da visitare e vivere a pieno del verde e del panorama. Il casino Barberini oggi è dedicato ad un centro di cultura tedesco. Circondato dalle mura con una singolare breccia.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Massimiliano Di Maio",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucqJfXvzP95TfRV8Kepevu5P09bEGcSeyKdLtL3Gvg=w36-h36-p-c0x00000000-rp-mo-ba7-br100",
+      "comment": "(Tradução do Google) Esta área desde os tempos antigos foi ocupada por hortas e jardins. Diz a lenda que aqui Júlio César hospedou Cleópatra e na morte dela deu o \"horti\" aos romanos. Ao longo dos séculos passou de mão em mão para várias famílias nobres e em 1849 foi palco das batalhas de Giuseppe Garibaldi contra os franceses. George Wurts foi o último proprietário, de fato em sua morte ele doou a Villa ao estado italiano. Ele foi responsável pela aparência atual e layout dos jardins e monumentos.  (Original) Quest'area fin dall'antichità era occupata da orti e giardini. La leggenda narra che qui Giulio Cesare ospitò Cleopatra ed alla sua morte donò gli \"horti\" ai romani. Nei secoli è passata di mano in mano a diverse famiglie nobiliari e nel 1849 fu teatro delle battaglie di Giuseppe Gari­baldi contro i francesi. George Wurts fu l'ultimo proprietario, infatti alla sua morte donò la Villa allo stato Italiano. A lui si deve l'aspetto attuale e la disposizione dei giardini e dei monumenti.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Kora Katia",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucqiaO94Yj8fvLTzi43tz7Vn4jFRFjEk7jcO0iEb6g=w36-h36-p-c0x00000000-rp-mo-ba5-br100",
+      "comment": "(Tradução do Google) Por outro lado, abandonado a si mesmo como toda Roma. Uma mansão tão espetacular cheia de estátuas, fontes e templos em outra cidade em outra nação seria mantida como uma joia. Também está a uma curta distância de Trastevere, no coração de Monteverde Vecchio. Para visitar mas com o coração debaixo dos sapatos.  (Original) Abbandonata a se stessa come tutta Roma d altronde. Una villa così spettacolare piena di statue e fontane e tempio in un altra città in un altra nazione sarebbe tenuta come un gioiello. È inoltre a poca distanza da Trastevere, nel cuore di Monteverde Vecchio. Da visitare ma col cuore sotto le scarpe.",
+      "gradeComment": 4
+    },
+    {
+      "author": "Jomin Neelikatt",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucpLcCnVnMXbzvM_dzntWu02_rWFoRk58HOUiGnI9g=w36-h36-p-c0x00000000-rp-mo-ba5-br100",
+      "comment": "(Tradução do Google) Parque realmente enorme, com várias entradas, o que permite respirar um pouco de ar puro. Muita vegetação, muitos caminhos, fontes e bebedouros. A vista da varanda é magnífica. Perfeito para amigos de quatro patas.  (Original) Parco veramente enorme, con più entrate, che permette di respirare un po' d'aria pulita. Tanto verde, tanti percorsi, fontane e fontanelle. La vista dal balcone è magnifica. Perfetta per gli amici a quattro zampe.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Alfredo Chiari",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucqqFex2J5yW8ATImVR6avMiJDjiJb9RExWlJDE=w36-h36-p-c0x00000000-rp-mo-ba3-br100",
+      "comment": "(Tradução do Google) Com a primavera a moradia começa a dar o seu melhor. Precisaria de mais atenção da administração capitolina. É um lugar especial.  (Original) Con la primavera la villa comincia a dare il meglio di sé. Necessiterebbe di maggiore cura da parte dell'amministrazione capitolina. È un luogo speciale.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Massimo Smiraglio",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZuco1-VhLyGBg3Q8DSVNtspSO0dZ0s-kGdfFXqgy7WbA=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "(Tradução do Google) Linda Vila! Pequeno, antigo, arqueológico! Excelente para passear com ou sem cão e desfrutar de um momento relaxante à sombra!  (Original) Bellissima Villa! Piccola, antica, archeologica! Ottima per passeggiare con o senza cane e godersi un momento relax all'ombra!",
+      "gradeComment": 5
+    },
+    {
+      "author": "Danilo Vinci",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucpRlXZGGdXkFVBUs1fnGfqUDBnrdbJVoUyvnHH-_TE=w36-h36-p-c0x00000000-rp-mo-ba5-br100",
+      "comment": "(Tradução do Google) A vila é uma jóia. Nasci a poucos metros desta esplêndida vila. Quando eu era pequena, ela era muito bem cuidada e sempre havia um policial que verificava constantemente. Agora está um pouco degradado, mas mantém seu charme intacto.  Um pouco de história (Wikipédia). Villa Sciarra é uma das vilas urbanas de Roma com uma extensão de sete hectares e meio localizada nas encostas da colina Janiculum entre os bairros de Trastevere e Monteverde Vecchio, encostada nas Muralhas de Gianicolo, que pode ser acessada a partir de duas entradas possíveis : o primeiro na praça Wurts, desenhado por Pio Piacentini, que leva o nome do último proprietário, George Washington Wurts, a quem devemos a planta do jardim e os monumentos que contém, e o segundo no Largo Filippo Minutilli. Leva o nome da família nobre papal de Sciarra.  A vila é uma jóia. Nasci a poucos metros desta esplêndida vila. Quando eu era pequena, ela era muito bem cuidada e sempre havia um policial que verificava constantemente. Agora está um pouco degradado, mas mantém seu charme intacto.  Um pouco de história (Wikipédia). Villa Sciarra é uma das vilas urbanas de Roma com uma extensão de sete hectares e meio localizada nas encostas da colina Janiculum entre os bairros de Trastevere e Monteverde Vecchio, encostada nas Muralhas de Gianicolo, que pode ser acessada a partir de duas entradas possíveis : o primeiro na praça Wurts, desenhado por Pio Piacentini, que leva o nome do último proprietário, George Washington Wurts, a quem devemos a planta do jardim e os monumentos que contém, e o segundo no Largo Filippo Minutilli. Leva o nome da família nobre papal de Sciarra.  (Original) La villa è un gioiello. Sono nato a pochi metri da questa splendida villa. Quando ero piccolino era molto ben curata e c'era sempre un vigile che controllava in continuazione. Adesso è un po' malandata ma mantiene inalterato il suo fascino.  Un pochino di Storia (Wikipedia). Villa Sciarra è una delle ville urbane di Roma con un'estensione di sette ettari e mezzo situata sulle pendici del colle Gianicolo tra i quartieri di Trastevere e Monteverde Vecchio, addossata alle Mura gianicolensi, cui si accede da due possibili ingressi: il primo su piazzale Wurts, progettato da Pio Piacentini, che prende il nome dall'ultimo proprietario, George Washington Wurts, al quale si deve la disposizione del giardino e dei monumenti in esso contenuti, ed il secondo su largo Filippo Minutilli. Prende il nome dalla famiglia nobile pontificia degli Sciarra.  The villa is a gem. I was born a few meters from this splendid villa. When I was little she was very well looked after and there was always a policeman who was constantly checking. Now it is a bit run down but it keeps its charm intact.  A little bit of history (Wikipedia). Villa Sciarra is one of the urban villas of Rome with an extension of seven and a half hectares located on the slopes of the Janiculum hill between the districts of Trastevere and Monteverde Vecchio, leaning against the Gianicolo Walls, which can be accessed from two possible entrances: the first on the square Wurts, designed by Pio Piacentini, who takes its name from the last owner, George Washington Wurts, to whom we owe the layout of the garden and the monuments it contains, and the second on Largo Filippo Minutilli. It takes its name from the papal noble family of Sciarra.",
+      "gradeComment": 4
+    },
+    {
+      "author": "Federico Fragano",
+      "photoAuthor": "https://lh3.googleusercontent.com/a/AItbvml9cAEvJ5L6qiMuc-ifEf9aUTgMm8pErz6VQF8=w36-h36-p-c0x00000000-rp-mo-br100",
+      "comment": "(Tradução do Google) Esplêndida moradia ajardinada que sai lentamente de uma longa fase de abandono. É improvável que ele volte como era antes, mas o caminho tomado é o certo. No interior, espécies arbóreas raras e exemplares majestosos de carvalhos e azinheiras.  (Original) Splendida Villa giardino che lentamente esce da una lunga fase di abbandono. Difficile che torni come una volta, ma la strada intrapresa è quella giusta. Al suo interno rare specie arboree e maestosi esemplari di Rovere e Leccio.",
+      "gradeComment": 4
+    },
+    {
+      "author": "Francesco Paoletti",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucoYav7TJWsN45OPCjghLc1WDToK4tw2i2zTFnSP=w36-h36-p-c0x00000000-rp-mo-ba5-br100",
+      "comment": "(Tradução do Google) Maravilhosa... não só pelas suas avenidas arborizadas, pelas fontes, pelo cheiro de história que se respira... mas também porque vinculo a esta maravilhosa moradia o momento que transformou a minha vida numa \"vida maravilhosa\"  (Original) Meravigliosa...non solo per i suoi viali alberati, per le fontane,  per il profumo di storia che si respira...ma anche perché lego a questa villa meravigliosa il momento che mi ha cambiato la vita in una \"vita meravigliosa \"",
+      "gradeComment": 5
+    },
+    {
+      "author": "Malena Dragotto Bertero",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucoviomO-eYokU3_1Pkwml_GtY54a7lYDKACe4vsEs8=w36-h36-p-c0x00000000-rp-mo-ba3-br100",
+      "comment": "(Tradução do Google) Talvez eu seja um pouco imparcial porque gosto mais de tudo no outono, mas achei o parque lindo. É muito tranquilo, ideal para uma pausa da agitação de Roma. Além disso, há uma instalação muito interessante: colocam alto-falantes nas esculturas e contam sua história (em italiano, claro). Gostei especialmente do Pan y Siringa. Altamente recomendado Villa Sciarra!  (Original) Quizás soy un poco imparcial porque todo me gusta más en otoño, pero el parque me pareció hermoso. Es muy tranquilo, ideal para descansar un rato del bullicio de Roma. Además, hay una instalación muy interesante: les colocaron parlantes a las esculturas y estas te cuentan su historia (en italiano, claro). Me gustó particularmente la de Pan y Siringa. ¡Recomendadísima Villa Sciarra!",
+      "gradeComment": 5
+    },
+    {
+      "author": "Sabrina R",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucqc77-97f_FWxE6ghNi4apd3yR-dxDp3XnK_rvQ5Q=w36-h36-p-c0x00000000-rp-mo-ba3-br100",
+      "comment": "(Tradução do Google) Um parque agradável para passear e que tem um parque infantil agradável para as crianças. Também é possível emprestar alguns jogos como, por exemplo, triciclos ou etiquetas, que as crianças podem usar dentro da vila: uma ótima iniciativa!  (Original) Un bel parco dove passeggiare e che ha un bel parco giochi per i bambini. È possibile prendere anche in prestito alcuni giochi quali, ad esempio, tricicli o cartellini, che i bambini possono usare all'interno della villa: una bella iniziativa!",
+      "gradeComment": 5
+    },
+    {
+      "author": "M.J Agudelo",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucq6EEPLdk45ouL2VhIJSWMdvdmyoLwuYpVZcu0itQ=w36-h36-p-c0x00000000-rp-mo-ba3-br100",
+      "comment": "(Tradução do Google) uma pequena vila da família Bernini, área pequena, perfeita para passar com a família, é uma pena que seja tão negligenciada, tanto as esculturas quanto as fontes  (Original) una pequeña villa de la familia Bernini, zona pequeña, perfecta para pasar con la familia, es una lastima que esté tan descuidada, tanto las esculturas como las fuentes",
+      "gradeComment": 2
+    },
+    {
+      "author": "Pasquale Mariani",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucrx6lSwF4fnnNERq6SUb0ookjE37gcxTLf0QB5Aww=w36-h36-p-c0x00000000-rp-mo-ba5-br100",
+      "comment": "(Tradução do Google) Villa Sciarra está localizada por uma parte nas encostas da colina Janículo entre os bairros de Trastevere e Monteverde Vecchio, encostada nas muralhas de Gianicolo. O acesso é feito por três entradas: via Calandrelli, via Dandolo e via delle Mura Gianicolensi. Para chegar por meio de transporte público, é aconselhável utilizar as linhas de ônibus 44 (de Montalcini ao Teatro Marcello) e 75 (de Poerio à Piazza Indipendenza). A entrada é gratuita por se tratar de um parque público. Está aberto todos os dias durante todo o ano de sol a sol, especificamente de outubro a fevereiro das 07:00 às 18:00, de abril a agosto das 07:00 às 21:00 e em setembro e março até às 20:00. . Villa Sciarra é um lugar ideal especialmente para passear imerso na natureza. Entrando pela via Calandrelli, junto ao histórico aviário de ferro, agora em desuso, outrora utilizado para a criação de pavões brancos, existe um parque infantil equipado para crianças e outro para cães, ponto de encontro dos cidadãos do bairro. Muito famosas são as fontes que se guardam dentro do parque: há a dos Sátiros com a famosa biscione, brasão heráldico da família Visconti; a de Diana e Endymion e a Fonte do Belvedere, construída em 1912 em projeto do engenheiro Enrico Gennari. E novamente, a Fonte da Tartaruga e do Caracol e das Esfinges, representando os quatro pecados capitais  (Original) Villa Sciarra si trova per una parte sulle pendici del colle Gianicolo tra i quartieri di Trastevere e Monteverde Vecchio, addossata alle Mura gianicolensi. Vi si accede attraverso tre ingressi: via Calandrelli, via Dandolo e via delle Mura Gianicolensi. Per arrivarci con i mezzi pubblici si consiglia di utilizzare le linee di autobus 44 (da Montalcini a Teatro Marcello) e 75 (da Poerio a piazza Indipendenza). L'ingresso è gratuito, trattandosi di un parco pubblico. È aperto tutti i giorni tutto l'anno dall'alba al tramonto, nello specifico da ottobre a febbraio dalle 07:00 alle 18:00, da aprile ad agosto dalle 07:00 alle 21:00 e a settembre e a marzo fino alle 20:00. Villa Sciarra è un luogo ideale soprattutto per fare passeggiate immersi nella natura. Entrando da via Calandrelli, accanto alla storica uccelliera in ferro, ormai caduta in disuso, un tempo adibita all'allevamento dei pavoni bianchi, vi è un'area giochi attrezzata per bambini e una per i cani, punto di ritrovo dei cittadini del quartiere. Molto famose sono poi le fontane che sono conservate all'interno del parco: c'è quella dei Satiri con il famoso biscione, stemma araldico della famiglia Visconti; quella di Diana ed Endimione e la Fontana Belvedere, realizzata nel 1912 su progetto dell'ingegnere Enrico Gennari. E ancora, la Fontana della Tartaruga e della Lumaca e quella delle Sfingi, raffigurante i quattro vizi capitali",
+      "gradeComment": 5
+    },
+    {
+      "author": "Eleonora Sermoneta",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucp5apBa3KtfPcEcCRUb0rmZrRvWOGvav_tGGgG12Co=w36-h36-p-c0x00000000-rp-mo-br100",
+      "comment": "Splendida Villa a Monteverde  Vecchio  che nel corso degli anni è  sempre scesa nel degrado sempre di più. Un vero peccato vedere l'area riservata ai giochi dei bambini transennata perché non agibile..Da circa un anno gli scalini degli scivoli per i bambini erano in parte rotti e ancora non se ne parla di sostituirli.  Per chi non ha terrazzo o balcone per i bambini il parco è  l'unico \"sfogo \"soprattutto  nelle giornate calde d'estate.",
+      "gradeComment": 2
+    }
+  ],
+  "peakHours": [
+    {
+      "Sunday": [
+        {
+          "hour": "07:00",
+          "percent": 3
+        },
+        {
+          "hour": "08:00",
+          "percent": 12
+        },
+        {
+          "hour": "09:00",
+          "percent": 32
+        },
+        {
+          "hour": "10:00",
+          "percent": 59
+        },
+        {
+          "hour": "11:00",
+          "percent": 81
+        },
+        {
+          "hour": "12:00",
+          "percent": 83
+        },
+        {
+          "hour": "13:00",
+          "percent": 69
+        },
+        {
+          "hour": "14:00",
+          "percent": 59
+        },
+        {
+          "hour": "15:00",
+          "percent": 65
+        },
+        {
+          "hour": "16:00",
+          "percent": 82
+        },
+        {
+          "hour": "17:00",
+          "percent": 97
+        },
+        {
+          "hour": "18:00",
+          "percent": 100
+        },
+        {
+          "hour": "19:00",
+          "percent": 86
+        },
+        {
+          "hour": "20:00",
+          "percent": 63
+        }
+      ]
+    },
+    {
+      "Monday": [
+        {
+          "hour": "07:00",
+          "percent": 9
+        },
+        {
+          "hour": "08:00",
+          "percent": 25
+        },
+        {
+          "hour": "09:00",
+          "percent": 46
+        },
+        {
+          "hour": "10:00",
+          "percent": 63
+        },
+        {
+          "hour": "11:00",
+          "percent": 66
+        },
+        {
+          "hour": "12:00",
+          "percent": 58
+        },
+        {
+          "hour": "13:00",
+          "percent": 49
+        },
+        {
+          "hour": "14:00",
+          "percent": 52
+        },
+        {
+          "hour": "15:00",
+          "percent": 66
+        },
+        {
+          "hour": "16:00",
+          "percent": 85
+        },
+        {
+          "hour": "17:00",
+          "percent": 95
+        },
+        {
+          "hour": "18:00",
+          "percent": 90
+        },
+        {
+          "hour": "19:00",
+          "percent": 72
+        },
+        {
+          "hour": "20:00",
+          "percent": 48
+        }
+      ]
+    },
+    {
+      "Tuesday": [
+        {
+          "hour": "07:00",
+          "percent": 17
+        },
+        {
+          "hour": "08:00",
+          "percent": 37
+        },
+        {
+          "hour": "09:00",
+          "percent": 57
+        },
+        {
+          "hour": "10:00",
+          "percent": 71
+        },
+        {
+          "hour": "11:00",
+          "percent": 72
+        },
+        {
+          "hour": "12:00",
+          "percent": 62
+        },
+        {
+          "hour": "13:00",
+          "percent": 49
+        },
+        {
+          "hour": "14:00",
+          "percent": 46
+        },
+        {
+          "hour": "15:00",
+          "percent": 57
+        },
+        {
+          "hour": "16:00",
+          "percent": 78
+        },
+        {
+          "hour": "17:00",
+          "percent": 95
+        },
+        {
+          "hour": "18:00",
+          "percent": 93
+        },
+        {
+          "hour": "19:00",
+          "percent": 74
+        },
+        {
+          "hour": "20:00",
+          "percent": 47
+        }
+      ]
+    },
+    {
+      "Wednesday": [
+        {
+          "hour": "07:00",
+          "percent": 16
+        },
+        {
+          "hour": "08:00",
+          "percent": 34
+        },
+        {
+          "hour": "09:00",
+          "percent": 54
+        },
+        {
+          "hour": "10:00",
+          "percent": 69
+        },
+        {
+          "hour": "11:00",
+          "percent": 74
+        },
+        {
+          "hour": "12:00",
+          "percent": 66
+        },
+        {
+          "hour": "13:00",
+          "percent": 51
+        },
+        {
+          "hour": "14:00",
+          "percent": 42
+        },
+        {
+          "hour": "15:00",
+          "percent": 49
+        },
+        {
+          "hour": "16:00",
+          "percent": 74
+        },
+        {
+          "hour": "17:00",
+          "percent": 97
+        },
+        {
+          "hour": "18:00",
+          "percent": 97
+        },
+        {
+          "hour": "19:00",
+          "percent": 70
+        },
+        {
+          "hour": "20:00",
+          "percent": 38
+        }
+      ]
+    },
+    {
+      "Thursday": [
+        {
+          "hour": "07:00",
+          "percent": 18
+        },
+        {
+          "hour": "08:00",
+          "percent": 34
+        },
+        {
+          "hour": "09:00",
+          "percent": 51
+        },
+        {
+          "hour": "10:00",
+          "percent": 63
+        },
+        {
+          "hour": "11:00",
+          "percent": 66
+        },
+        {
+          "hour": "12:00",
+          "percent": 60
+        },
+        {
+          "hour": "13:00",
+          "percent": 49
+        },
+        {
+          "hour": "14:00",
+          "percent": 43
+        },
+        {
+          "hour": "15:00",
+          "percent": 51
+        },
+        {
+          "hour": "16:00",
+          "percent": 75
+        },
+        {
+          "hour": "17:00",
+          "percent": 96
+        },
+        {
+          "hour": "18:00",
+          "percent": 92
+        },
+        {
+          "hour": "19:00",
+          "percent": 65
+        },
+        {
+          "hour": "20:00",
+          "percent": 35
+        }
+      ]
+    },
+    {
+      "Friday": [
+        {
+          "hour": "07:00",
+          "percent": 13
+        },
+        {
+          "hour": "08:00",
+          "percent": 33
+        },
+        {
+          "hour": "09:00",
+          "percent": 57
+        },
+        {
+          "hour": "10:00",
+          "percent": 71
+        },
+        {
+          "hour": "11:00",
+          "percent": 69
+        },
+        {
+          "hour": "12:00",
+          "percent": 57
+        },
+        {
+          "hour": "13:00",
+          "percent": 49
+        },
+        {
+          "hour": "14:00",
+          "percent": 51
+        },
+        {
+          "hour": "15:00",
+          "percent": 59
+        },
+        {
+          "hour": "16:00",
+          "percent": 66
+        },
+        {
+          "hour": "17:00",
+          "percent": 70
+        },
+        {
+          "hour": "18:00",
+          "percent": 67
+        },
+        {
+          "hour": "19:00",
+          "percent": 59
+        },
+        {
+          "hour": "20:00",
+          "percent": 48
+        }
+      ]
+    },
+    {
+      "Saturday": [
+        {
+          "hour": "07:00",
+          "percent": 6
+        },
+        {
+          "hour": "08:00",
+          "percent": 23
+        },
+        {
+          "hour": "09:00",
+          "percent": 45
+        },
+        {
+          "hour": "10:00",
+          "percent": 67
+        },
+        {
+          "hour": "11:00",
+          "percent": 79
+        },
+        {
+          "hour": "12:00",
+          "percent": 77
+        },
+        {
+          "hour": "13:00",
+          "percent": 62
+        },
+        {
+          "hour": "14:00",
+          "percent": 49
+        },
+        {
+          "hour": "15:00",
+          "percent": 51
+        },
+        {
+          "hour": "16:00",
+          "percent": 71
+        },
+        {
+          "hour": "17:00",
+          "percent": 91
+        },
+        {
+          "hour": "18:00",
+          "percent": 91
+        },
+        {
+          "hour": "19:00",
+          "percent": 68
+        },
+        {
+          "hour": "20:00",
+          "percent": 40
+        }
+      ]
+    }
+  ],
+  "relatedSearches": [
+    "villa torlonia",
+    "трастевере",
+    "trastevere in italian",
+    "oldest part of rome italy",
+    "trastevere wikipedia",
+    "oldest neighborhood in rome",
+    "fun facts about trastevere",
+    "where is trastevere located in rome",
+    "villa torlonia",
+    "трастевере",
+    "trastevere in italian",
+    "oldest part of rome italy",
+    "trastevere wikipedia",
+    "oldest neighborhood in rome",
+    "fun facts about trastevere",
+    "where is trastevere located in rome"
+  ],
+  "relateds": [
+    {
+      "mainName": "Villa Doria Pamphilj",
+      "url": null
+    },
+    {
+      "mainName": "Villa Celimontana",
+      "url": null
+    },
+    {
+      "mainName": "Casino Barberini",
+      "url": null
+    },
+    {
+      "mainName": "Janículo",
+      "url": null
+    },
+    {
+      "mainName": "Palazzo Sciarra Colonna",
+      "url": null
+    },
+    {
+      "mainName": "APS A.CIPRIANI e COMITATO GIANICOLO",
+      "url": null
+    },
+    {
+      "mainName": "Villa Carpegna",
+      "url": null
+    },
+    {
+      "mainName": "Villa Paganini",
+      "url": null
+    },
+    {
+      "mainName": "Parc Virgiliano",
+      "url": null
+    },
+    {
+      "mainName": "Parc des Scipioni",
+      "url": null
+    },
+    {
+      "mainName": "Villa Ada",
+      "url": null
+    },
+    {
+      "mainName": "Galerie Sciarra",
+      "url": null
+    },
+    {
+      "mainName": "Villa Balestra",
+      "url": null
+    },
+    {
+      "mainName": "Villa Spada",
+      "url": null
+    },
+    {
+      "mainName": "Villa Aldobrandini",
+      "url": null
+    },
+    {
+      "mainName": "Villa Glori",
+      "url": null
+    },
+    {
+      "mainName": "Villa Lazzaroni",
+      "url": null
+    },
+    {
+      "mainName": "Giardino degli Aranci",
+      "url": null
+    },
+    {
+      "mainName": "Porta de São Pancrácio",
+      "url": null
+    },
+    {
+      "mainName": "Jardins da Villa Borghese",
+      "url": null
+    },
+    {
+      "mainName": "Parco di Villa Chigi",
+      "url": null
+    },
+    {
+      "mainName": "Fontana dei satiri",
+      "url": null
+    },
+    {
+      "mainName": "Villa Lais",
+      "url": null
+    },
+    {
+      "mainName": "Villa Doria Pamphilj",
+      "url": null
+    },
+    {
+      "mainName": "Villa Celimontana",
+      "url": null
+    },
+    {
+      "mainName": "Casino Barberini",
+      "url": null
+    },
+    {
+      "mainName": "Janículo",
+      "url": null
+    },
+    {
+      "mainName": "Palazzo Sciarra Colonna",
+      "url": null
+    },
+    {
+      "mainName": "APS A.CIPRIANI e COMITATO GIANICOLO",
+      "url": null
+    },
+    {
+      "mainName": "Villa Carpegna",
+      "url": null
+    },
+    {
+      "mainName": "Villa Paganini",
+      "url": null
+    },
+    {
+      "mainName": "Parc Virgiliano",
+      "url": null
+    },
+    {
+      "mainName": "Parc des Scipioni",
+      "url": null
+    },
+    {
+      "mainName": "Villa Ada",
+      "url": null
+    },
+    {
+      "mainName": "Galerie Sciarra",
+      "url": null
+    },
+    {
+      "mainName": "Villa Balestra",
+      "url": null
+    },
+    {
+      "mainName": "Villa Spada",
+      "url": null
+    },
+    {
+      "mainName": "Villa Aldobrandini",
+      "url": null
+    },
+    {
+      "mainName": "Villa Glori",
+      "url": null
+    },
+    {
+      "mainName": "Villa Lazzaroni",
+      "url": null
+    },
+    {
+      "mainName": "Giardino degli Aranci",
+      "url": null
+    },
+    {
+      "mainName": "Porta de São Pancrácio",
+      "url": null
+    },
+    {
+      "mainName": "Jardins da Villa Borghese",
+      "url": null
+    },
+    {
+      "mainName": "Parco di Villa Chigi",
+      "url": null
+    },
+    {
+      "mainName": "Fontana dei satiri",
+      "url": null
+    },
+    {
+      "mainName": "Villa Lais",
+      "url": null
+    }
+  ]
+}

@@ -1,0 +1,649 @@
+{
+  "mainName": "Bar Praia Azul",
+  "slug": "bar-praia-azul",
+  "category": "Praia",
+  "locationInformation": {
+    "latitude": "-8.9759559",
+    "longitude": "-35.181723"
+  },
+  "basicInformation": [
+    {
+      "label": "endereço",
+      "tooltip": "Copiar endereço",
+      "text": "Barra Grande, Maragogi - AL, 57955-000",
+      "icon": "https://www.gstatic.com/images/icons/material/system_gm/1x/place_gm_blue_24dp.png"
+    }
+  ],
+  "ratingInformation": {
+    "basicRatingInformation": {
+      "averageGrade": 4.6,
+      "totalOfEvaluations": 5047
+    },
+    "ratingsByGrade": [
+      {
+        "grade": 5,
+        "totalRatings": 3664
+      },
+      {
+        "grade": 4,
+        "totalRatings": 923
+      },
+      {
+        "grade": 3,
+        "totalRatings": 333
+      },
+      {
+        "grade": 2,
+        "totalRatings": 62
+      },
+      {
+        "grade": 1,
+        "totalRatings": 65
+      }
+    ]
+  },
+  "ratingTags": [
+    {
+      "tag": "barracas",
+      "count": 87,
+      "tooltip": "barracas, mencionado em 87 avaliações"
+    },
+    {
+      "tag": "estrutura",
+      "count": 83,
+      "tooltip": "estrutura, mencionado em 83 avaliações"
+    },
+    {
+      "tag": "piscinas naturais",
+      "count": 67,
+      "tooltip": "piscinas naturais, mencionado em 67 avaliações"
+    },
+    {
+      "tag": "petiscos",
+      "count": 43,
+      "tooltip": "petiscos, mencionado em 43 avaliações"
+    },
+    {
+      "tag": "turquesa",
+      "count": 35,
+      "tooltip": "turquesa, mencionado em 35 avaliações"
+    },
+    {
+      "tag": "corais",
+      "count": 34,
+      "tooltip": "corais, mencionado em 34 avaliações"
+    },
+    {
+      "tag": "mario hermoso",
+      "count": 28,
+      "tooltip": "mario hermoso, mencionado em 28 avaliações"
+    },
+    {
+      "tag": "consumo",
+      "count": 16,
+      "tooltip": "consumo, mencionado em 16 avaliações"
+    },
+    {
+      "tag": "calmo",
+      "count": 10,
+      "tooltip": "calmo, mencionado em 10 avaliações"
+    },
+    {
+      "tag": "macaxeira",
+      "count": 9,
+      "tooltip": "macaxeira, mencionado em 9 avaliações"
+    }
+  ],
+  "featuredPhotos": [
+    "https://lh5.googleusercontent.com/p/AF1QipMvJEuf_naRTqm4ny2kRSaOVrGvtrbnXDr-KGVh=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMiSs0z-dffdllXpkKK0y9TxeP7KDQf6ypeITiC=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipM2K1l9UgPYTT5yLIlgTtiSITDjEjtFygjdT6_2=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipN7NOEkRXlGER6PO87ldz4khiGLtuzrnKTFgfR3=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPE6eenjJ81dOfTPIzVmMf2UUGw_ugYcHw1Sr0I=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPBqMV1-kk9PoocADmiOMlc4Pr7bGU-G6bWOYIm=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNhUl3jelFP3OMZ5zHLjWuregjMXNt1M9QWDKwu=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipO9nsCK5cPmvxojkJAEne4qrKYH07MUaieETFOn=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMO7NSj4C_WTKolG5JjpDvlwWr3SQH2UqJ_9NC6=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMcZJGybVhIzZUcLypbpmXGa9fRLuseDug9RN0=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOwx13JdR7n6ztXJ5vBp0ng2JtXtWD86COri28=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPiGGQin3K1woSZRtHzZSYTwoLmeLCVC7u4GUFT=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPMAmzu3CGgdaFw-Yof9a-_u8Ql7ZWAABQtJk2q=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMDOYOmxsjGxrMwEYPtTEEBr5bNVET90TBLaiKF=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMSeH43e9_T5nseOYi8Yw2VGNOWNhtpR_FVzaWG=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPKFGLGQCB56hU5zM6EIsehencL3CJSvSXc-0Fy=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPoqz_oFP7HkyHwBJEx0eaWf2HaRJDjcvgSCTFO=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMZLCnHLICXL8Hq8ErF_tf6XauvGiqmZSnTdkLg=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMdQ-VxArWUcb9AJWczHeXyxOOVWvyitOtAu3Qm=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNltx9HTZr-6u8tDVZCs5DQv66NeukALduy_TWU=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipM013CXMLdNG3c-k6ZVJjsnfm90D19RiimUZwY1=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNuz-Tnl9vsoHZBLxlmGpQi4ZtFBaD_Zzo7V2aF=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipN47Frb5UiqIzPhWFnzyMUQcQrJs3ZpE4eZ6fG6=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMLEyHLFay7gVakfw65rZGQwiQgXzqdRhyoUP6C=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipODXAlbmjaXrtTG2Wlj86KphAX_gSX3S4M54tnP=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPdRG8XJ6UYR-LUKPW848TdSlSm93-VheaAVFLB=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipM_hd09wpnYR_z5H76SgjNZcgikj_wGR9rmxzw=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNMXWN-TufvIpF5Tab3l8fdtz84AEkdskk6y2H-=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipM1ZqbpZ1gpd7SC4h-JkTU7NkNo52PnXSzHF6J8=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipM7Gp7a3EI-29jA8_0vnQfVCDqQ9n3rVFJrcsHT=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNimtAAIHMaSRrUkCknqjNve4guUxgJTkcrgZhS=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOvxAMlxFJmdCoqlW9rJq7_XFRKmEasA4WhAPKF=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMTywmML6oGGsBukaSiOYLT1qPHJHD8siUU7E65=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNU3NgONdarIzvkxcaP9SkCaAxEH2khmmvlfHTh=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipML52R4a1pU8u8JuIcP0-af7y8WHEsq421iSrul=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNOLfEMqnfU7VdPQo7t_ZVSJd7FJC1Rm8H5CGmR=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipN0izPRwn8VozUrGQOfjX6s9d-AUgSETz1OUB-Q=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipN-QeWDAVo5DIoZX_LzfLUO6lyySVyJDY2BDzN2=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOGy-9Vgl4evqLDFPWZj3-9mLWRiVLO8hBIePrZ=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipM-4CQHWA-qS7KYlkXB55yyEKDHDDsWRNUZbfgS=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipP7tdujSeO1kzt-9HJVwvRVBZ6fLLyAc5tbN4kw=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMrvFeERFi7Si2JBKyl7AhPlIeI-olLuevct6kO=w1024-h576-k-no"
+  ],
+  "topComments": [
+    {
+      "author": "Viajada Gouveia",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucqKt8YUkG6KJQVefXnVddct0XP7zE9f3ZTCWlV5mH8=w36-h36-p-c0x00000000-rp-mo-ba5-br100",
+      "comment": "Apesar do lugar ser lindo, acho que Maragogi em geral deixa a desejar. Em dias quente LOTA  e tem pouco estrutura para o status de \"caribe\" Brasileiro. Os preços até que são de um caribe mas a estrutura não 😔 As vezes falta até luz e água, de tão sobrecarregado que é o lugar. Como todo lugar badalado tem fila pra quase tudo desde fotos a comer, e a noite as coisas fecham relativamente cedo não tem muita opção para se comer a noite sem ser em ambientes extremamente  cheios. Tudo é lento e custoso. Evite ir nos feriados se poder se der ao luxo de ir durante a semana vc aproveitará melhor. Por fim leve dinheiro porque nada é de graça nem as fotos que vc viu aqui.",
+      "gradeComment": 3
+    },
+    {
+      "author": "Ellen Santa Cruz",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucpHdM0DyAsGz6dDKzehgBGDiZcMPfLL9oK1pX7k=w36-h36-p-c0x00000000-rp-mo-ba2-br100",
+      "comment": "Praia sem o mínimo de estrutura, e realmente DECEPCIONANTE. Sujeira espalhada por toda a praia (copos de plástico, tampas de garrafa, latas...). Não há nenhum banheiro, o acesso é a pé por ruas de barro. Preço altíssimo, péssima qualidade da comida e você não passa nem 5 min em paz sem que um ambulante te ofereça alguma coisa. Decepcionada pelo \"Caribe Brasileiro\"",
+      "gradeComment": 3
+    },
+    {
+      "author": "Letícia Corrêa Dias",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucrhJ9FTgKv0RYlsxTCQ94DUZfudpXxmyUHNSNXRQQ=w36-h36-p-c0x00000000-rp-mo-ba5-br100",
+      "comment": "Uma das melhores praias que já fui na vida! A água é bem quentinha e calma, além de ser muito bonita! Fui ao final da tarde e ainda presenciei um arco-íris bem bonito. O estacionamento não é nada fora do normal e o bar também não, mas acredito que pelo preço, a comida poderia ser mais gostosa… de qualquer forma, recomendo!",
+      "gradeComment": 5
+    },
+    {
+      "author": "Nicolas pietro",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucqAfC_OAlgRVG819YkkuxR0KxsYyIhlLjUdwKqCQHA=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "Praia de Antunes, uma das mais lindas de Maragogi. Não deixe de incluir no seu pacote de passeio. Seja de carro, buggy, lancha, jet ski, canoa, catamarã, não emporta a embarcação, o importante mesmo é conhecer e se encantar por este paraíso. Em qualquer estação do ano, vc vai curtir e se encantar com suas belezas naturais.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Marta Rodrigues",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucpVogH9wbxomGX6upGVTJz7BCAH3oCGZk5LpcxjoS0=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "Na internet vi fotos da praia super hiper azul! Na realidade quando fui, não estava tão azul assim, porém ao passar do dia o tom foi mudando e ficando um verde bonito! A água não é cristalina, o tom é bem leitoso e quentinha! A praia é bem cheia agitada, com muitas pessoas, lugares pra tirar fotos dentro da água (tipo ensaios fotográficos com cenários artificiais) ,  lanchas próximo aos banhistas e coisas do tipo! Considerando a atual situação de Covid 19 que vivemos, achei muito cheia e não segura! Foi melhor ter caminhado um pouco mais e chegado a praia do lado, praia do Xaréu, que era ainda mais linda , vazia e paradisíaca! Porém o ponto positivo é que a praia de Antunes tem estrutura de cadeiras, bebidas e petiscos, diferente da praia do Xaréu!",
+      "gradeComment": 4
+    },
+    {
+      "author": "Ricky Santos",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucosd8iwIrKeYIM6jtQlyI0RwhPcdpdafmx3rPbjlOc=w36-h36-p-c0x00000000-rp-mo-ba5-br100",
+      "comment": "A praia até pode ser bonita conforme bate sol e torna paisagens lindas pela cor do mar. Mas nenhuma estrutura decente para o turista se não for restaurantes simples.",
+      "gradeComment": 2
+    },
+    {
+      "author": "Rafael H.",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucobmivCqofc9-oKFqDdWekpvhosa6FyOJL5D7hM0Q=w36-h36-p-c0x00000000-rp-mo-ba5-br100",
+      "comment": "Praia de Antunes, a praia mais bonita de Maragogi!!! Águas calmas e cristalinas. Na maré baixa é possível ir a pé em várias piscinas (levem chinelo para andar sobre os corais). Não deixem de ir. O acesso é por meio de uma estrada de terra e próximo a praia tem um local para estacionar o carro (tem uma pequena placa na estrada, o google maps navegou direitinho até lá). Quando fui tinha duas barracas que ofereciam cadeiras e guarda-sóis. Achei o preço das comidas um pouco salgado e muito mal servido.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Ivanete Saar",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucok_CA3pfCS4rHmrSPHMHsAij8AnafAaPwCBGVFG0Y=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "O lugar é muito bom, principalmente as refeições. Uma delícia, ótima quantidade e qualidade. O atendimento também é muito bom, assim como o preço.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Paola Macedo",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucoEc0fEqQZVET1BY1oeg0Ap_3QQNUTMlcjAo9cubQ=w36-h36-p-c0x00000000-rp-mo-br100",
+      "comment": "Água cristalina, mar azul um lindo cenário a experiência é sem explicação, ficamos na barraca da dona Sara ( Bar praia azul), os valores valem muito a pena, fizemos com eles tbm o passeio de lancha quem nos levou foi o Marcelo super atencioso e calmo,conhecendo a praia da Bruna sendo mais vazia porém linda como a do Antunes, mas por aqui cada cantinho tem a sua particularidade então acho que vale a pena Sobre a barraca os funcionários e dona são muito atenciosos e simpáticos",
+      "gradeComment": 5
+    },
+    {
+      "author": "NN B (Bia)",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucpyL54nJGZ-r-Ki582Rakpcul35al4MRqheAw5qsw=w36-h36-p-c0x00000000-rp-mo-ba5-br100",
+      "comment": "Assim, Maragogi não tem nada. Apenas o passeio de barco, para as piscinas. No meu caso, que fiquei em Maceió, era mais do mesmo. Porque o visual da orla de Maceió é de tirar o fôlego. Mas para quem vêm de Recife, justifique. A estrada é estreita e cheia de curvas, muito cuidado, achei bem perigosa, não vale o esforço. Acabou o passeio de barco, não tem mais nada para fazer, nada. A cidade é muito feia, e precária também. Ali próximo fica, a Praia de Antunes, que é um local, sem nenhuma estrutura, paga cem reais para sentar e comer uns petiscos ruins. Nessa praia a entrada é sem sinalização, e perigosa para entrar e saí. Parece um terreno invadido. No local, é impossível tomar banho, é muito raso. Detestei. Não vale!",
+      "gradeComment": 1
+    },
+    {
+      "author": "Felipe de Morais",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucpTrG1Noxm3uVCA9Xj4epEkgpCAtQYpTnNs6fspULc=w36-h36-p-c0x00000000-rp-mo-ba5-br100",
+      "comment": "A praia é muito bonita, a água é bem quentinha. No dia que fui estava com águas bem verdinhas.  Estacionar foi bem tranquilo, fomos em um domingo.  Ficamos em uma barraca que cobrou 40 de consumo mínimo pelo guarda sol e cadeiras, aparentemente a maior parte das barracas funciona da mesma maneira.  Os vendedores nos abordaram com bastante frequência, isso foi um pouco chato. Podem tirar a sua paz e tranquilidade.  É uma praia badalada, se busca paz e tranquilidade tem outras que são mais tranquilas.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Jessica Leme",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucogbiJbNmbf0GOUz3JJqVjzZmzbiqIdXbPpcoAhLoA=w36-h36-p-c0x00000000-rp-mo-ba6-br100",
+      "comment": "A praia é linda, tem estrutura de cadeiras e guarda-sol, além de ducha. O atendimento do bar foi bom e cortês. Os valores não são os melhores, mas considerando que está na beira da praia, está ok. O peixe estava um pouco gorduroso e veio poucas fritas. Fala que acompanha saladinha, mas eram duas folhas de alface embaixo do peixe, nem dá para considerar como saladinha. A cerveja estava deliciosa e trincando de gelada.",
+      "gradeComment": 3
+    },
+    {
+      "author": "Jhaimess S.A. (Jhaimess)",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucrQh1M3uHYvXlpKTFJhHNQ7A7TNijodf-v72Z6o31k=w36-h36-p-c0x00000000-rp-mo-ba5-br100",
+      "comment": "Praia linda, 10km de Maragogi, possui barracas que cobram consumação e não mesas. Não gostei do atendimento e petiscos de uma barraca que tem um ônibus como cozinha. Depois fui em uma de cor verde e atendimento foi ótimo e petiscos também. Eles não implicam de você levar sua bebida. Tem ótimos hotéis e pousada. Linda a praia, também tem passeios pelas gales. Fomos em época de maré alta e não podemos efetuar o passeio. Recomendo observar o tempo e a tábua de marés para aproveitar ao máximo as belezas desse mar lindo! Receptividade ótima",
+      "gradeComment": 5
+    },
+    {
+      "author": "Leonardo Rodrigues",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucqri_Ph6SXeCYPU2lDAmhoyt8cmsoyZTbaitInecOc=w36-h36-p-c0x00000000-rp-mo-ba5-br100",
+      "comment": "A praia de Antunes fica a poucos quilômetros de Maragogi, aproximadamente uns 8km. Tem uma bela faixa de areia, muitos coqueiros, mar cristalino e fica melhor na maré baixa. Ideal para passar o dia com crianças, família, amigos. Não possui muita estrutura com barracas para comer algo, maior movimento é nos finais de semana. A água e muito quente pelo fato de ser bem raso e tranquilo. A beleza se dá pelo contraste entre os coqueiros, a areia e o mar. Vale a pena passar o dia e se tiver coragem, ali ao lado tem voos de paraglider. Tenha coragem e vá!",
+      "gradeComment": 5
+    },
+    {
+      "author": "Viviane de bem",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucqj__PuL9QE1Q-OVXeDFE6kvNFMd7lsRxclHmECEqo=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "Gente não deixem de conhecer essa praia. É paradisíaca, linda de mais. Só tem q ir cedo para poder aproveitar melhor. Quando a maré está baixa anda-se quase 2km dentro do mar até chegar as piscinas naturais... Indescritível a sensação de estar nessa praia, mas  precisa voltar antes da maré subir para não ficar preso no mar. Kkkkkk uma dica levem tênis para poder passar pelos corais. Na minha opinião foi a praia mais linda da região e do estado.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Carlos Henrique",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucpYOJ7E0oHD6f6KdZwjv-W3hjG8lCZNqnYwM0JCeZk=w36-h36-p-c0x00000000-rp-mo-ba6-br100",
+      "comment": "Lugar maravilhoso, praia calma, água de coloração maravilhosa e atendimento dentro do esperado. Como sabemos é uma praia paradisíaca e nem procurada, então é de se esperar que seus preços são acima do normal. Acho que deveria ter melhores opções no cardápio, pois até quando se pede um almoço, vem petiscos.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Andre Janz",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucrae5nD6tyTVRneQqxSV2CQe_zlHW__ryA6xS9t=w36-h36-p-c0x00000000-rp-mo-ba8-br100",
+      "comment": "Lindíssima praia em Maragogi. Vale a pena fazer os passeios para conhecer os recifes, mas dou uma dica: pergunte qual o tempo de permanência do barco no local e se o barco vai até as piscinas e aonde se pode andar nos recifes, pois alguns barqueiros fazem um passeio bem curto e não vão nos melhores locais de banho...",
+      "gradeComment": 5
+    },
+    {
+      "author": "Izidra Machado",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucowmanlZYVJvrn_HNTGhF_41BX-AcMzsA3N4klo=w36-h36-p-c0x00000000-rp-mo-br100",
+      "comment": "Eu já rodei todo o litoral brasileiro de carro.... mas antunes não se compara a nada que eu tenha conhecido Sou completamente apaixonada pela beleza e energia desse lugar ...quando estou na praia da Bruna não consigo parar de sorrir☆☆☆☆☆☆☆☆☆☆☆☆☆",
+      "gradeComment": 5
+    },
+    {
+      "author": "Leonardo Brito (Léo)",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucr9WM9j-c3c26zOrjjuumdxN-UZW-wAweQHPFS8oMA=w36-h36-p-c0x00000000-rp-mo-ba5-br100",
+      "comment": "Se quer um lugar para um almoço e tomar aquele drink e atendimento de primeira, quando for para Japaratinga,  vá neste local. Mesmo sendo um restaurante e bar a beira mar, eles alugam o espaço para eventos.  imagine uma festa de casamento neste local.(no dia que estive Nete local estava havendo ornamentação para um casamento) a praia muito boa.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Gisele Batista",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucq4OZ1lANs_gDgUjmP5W89T7TS3Qko0mCSEi_3UNg=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "Simplesmente maravilhosa essa praia! A cor da água é incrível e é quentinha! Quando a maré está baixa é possível caminhar até os corais no fundo. Mas para se voltar com ela subindo cansa demais, pois é bem longe. No local tem poucas opções de barraca para comer e a comida não é tão boa. Clima agradável, pois venta bem, fui em outubro.",
+      "gradeComment": 5
+    }
+  ],
+  "peakHours": [
+    {
+      "Sunday": [
+        {
+          "hour": "08:00",
+          "percent": 43
+        },
+        {
+          "hour": "09:00",
+          "percent": 68
+        },
+        {
+          "hour": "10:00",
+          "percent": 88
+        },
+        {
+          "hour": "11:00",
+          "percent": 97
+        },
+        {
+          "hour": "12:00",
+          "percent": 100
+        },
+        {
+          "hour": "13:00",
+          "percent": 95
+        },
+        {
+          "hour": "14:00",
+          "percent": 80
+        },
+        {
+          "hour": "15:00",
+          "percent": 55
+        },
+        {
+          "hour": "16:00",
+          "percent": 28
+        }
+      ]
+    },
+    {
+      "Monday": [
+        {
+          "hour": "08:00",
+          "percent": 11
+        },
+        {
+          "hour": "09:00",
+          "percent": 21
+        },
+        {
+          "hour": "10:00",
+          "percent": 35
+        },
+        {
+          "hour": "11:00",
+          "percent": 48
+        },
+        {
+          "hour": "12:00",
+          "percent": 52
+        },
+        {
+          "hour": "13:00",
+          "percent": 47
+        },
+        {
+          "hour": "14:00",
+          "percent": 35
+        },
+        {
+          "hour": "15:00",
+          "percent": 21
+        },
+        {
+          "hour": "16:00",
+          "percent": 10
+        }
+      ]
+    },
+    {
+      "Tuesday": [
+        {
+          "hour": "08:00",
+          "percent": 9
+        },
+        {
+          "hour": "09:00",
+          "percent": 16
+        },
+        {
+          "hour": "10:00",
+          "percent": 22
+        },
+        {
+          "hour": "11:00",
+          "percent": 27
+        },
+        {
+          "hour": "12:00",
+          "percent": 28
+        },
+        {
+          "hour": "13:00",
+          "percent": 24
+        },
+        {
+          "hour": "14:00",
+          "percent": 18
+        },
+        {
+          "hour": "15:00",
+          "percent": 10
+        },
+        {
+          "hour": "16:00",
+          "percent": 5
+        }
+      ]
+    },
+    {
+      "Wednesday": [
+        {
+          "hour": "08:00",
+          "percent": 4
+        },
+        {
+          "hour": "09:00",
+          "percent": 9
+        },
+        {
+          "hour": "10:00",
+          "percent": 11
+        },
+        {
+          "hour": "11:00",
+          "percent": 14
+        },
+        {
+          "hour": "12:00",
+          "percent": 18
+        },
+        {
+          "hour": "13:00",
+          "percent": 24
+        },
+        {
+          "hour": "14:00",
+          "percent": 24
+        },
+        {
+          "hour": "15:00",
+          "percent": 16
+        },
+        {
+          "hour": "16:00",
+          "percent": 6
+        }
+      ]
+    },
+    {
+      "Thursday": [
+        {
+          "hour": "08:00",
+          "percent": 10
+        },
+        {
+          "hour": "09:00",
+          "percent": 17
+        },
+        {
+          "hour": "10:00",
+          "percent": 24
+        },
+        {
+          "hour": "11:00",
+          "percent": 28
+        },
+        {
+          "hour": "12:00",
+          "percent": 30
+        },
+        {
+          "hour": "13:00",
+          "percent": 27
+        },
+        {
+          "hour": "14:00",
+          "percent": 22
+        },
+        {
+          "hour": "15:00",
+          "percent": 16
+        },
+        {
+          "hour": "16:00",
+          "percent": 10
+        }
+      ]
+    },
+    {
+      "Friday": [
+        {
+          "hour": "08:00",
+          "percent": 12
+        },
+        {
+          "hour": "09:00",
+          "percent": 26
+        },
+        {
+          "hour": "10:00",
+          "percent": 41
+        },
+        {
+          "hour": "11:00",
+          "percent": 50
+        },
+        {
+          "hour": "12:00",
+          "percent": 50
+        },
+        {
+          "hour": "13:00",
+          "percent": 42
+        },
+        {
+          "hour": "14:00",
+          "percent": 33
+        },
+        {
+          "hour": "15:00",
+          "percent": 24
+        },
+        {
+          "hour": "16:00",
+          "percent": 17
+        }
+      ]
+    },
+    {
+      "Saturday": [
+        {
+          "hour": "08:00",
+          "percent": 25
+        },
+        {
+          "hour": "09:00",
+          "percent": 42
+        },
+        {
+          "hour": "10:00",
+          "percent": 63
+        },
+        {
+          "hour": "11:00",
+          "percent": 83
+        },
+        {
+          "hour": "12:00",
+          "percent": 95
+        },
+        {
+          "hour": "13:00",
+          "percent": 95
+        },
+        {
+          "hour": "14:00",
+          "percent": 83
+        },
+        {
+          "hour": "15:00",
+          "percent": 64
+        },
+        {
+          "hour": "16:00",
+          "percent": 44
+        }
+      ]
+    }
+  ],
+  "relatedSearches": [
+    "praia de maragogi",
+    "praia dos carneiros",
+    "porto de galinhas",
+    "praia do antunes",
+    "onde comer na praia de antunes",
+    "praia xaréu",
+    "como acessar praia de antunes",
+    "fotos praia de antunes - maragogi"
+  ],
+  "relateds": [
+    {
+      "mainName": "Praia de Antunes",
+      "url": null
+    },
+    {
+      "mainName": "Praia da Barra Grande",
+      "url": null
+    },
+    {
+      "mainName": "Praia Ponta do Mangue",
+      "url": null
+    },
+    {
+      "mainName": "Praia do Xaréu",
+      "url": null
+    },
+    {
+      "mainName": "Praia de Maragogi",
+      "url": null
+    },
+    {
+      "mainName": "Praia Xareu",
+      "url": null
+    },
+    {
+      "mainName": "Praia São Bento",
+      "url": null
+    },
+    {
+      "mainName": "Praia Do Camacho",
+      "url": null
+    },
+    {
+      "mainName": "Maragogi Beach Park",
+      "url": null
+    },
+    {
+      "mainName": "CAMINHO DE MOISÉS",
+      "url": null
+    },
+    {
+      "mainName": "Praia de São Bento",
+      "url": null
+    },
+    {
+      "mainName": "Praia de Ipioca",
+      "url": null
+    },
+    {
+      "mainName": "Praia de Japaratinga",
+      "url": null
+    },
+    {
+      "mainName": "Praia de São Miguel dos Milagres",
+      "url": null
+    },
+    {
+      "mainName": "Praia Patacho",
+      "url": null
+    },
+    {
+      "mainName": "Praia do Gunga",
+      "url": null
+    },
+    {
+      "mainName": "Praia do Toque",
+      "url": null
+    },
+    {
+      "mainName": "Carro Quebrado",
+      "url": null
+    },
+    {
+      "mainName": "Praia do Carro Quebrado",
+      "url": null
+    },
+    {
+      "mainName": "Praia do Dourado, MARAGOGI.",
+      "url": null
+    },
+    {
+      "mainName": "Praia de Lages",
+      "url": null
+    },
+    {
+      "mainName": "Praia dos Carneiros",
+      "url": null
+    },
+    {
+      "mainName": "Porto de Galinhas",
+      "url": null
+    }
+  ]
+}

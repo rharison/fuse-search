@@ -1,0 +1,991 @@
+{
+  "mainName": "Parque Vitória Régia",
+  "slug": "parque-vitoria-regia",
+  "category": "Parque",
+  "locationInformation": {
+    "latitude": "-22.3314438",
+    "longitude": "-49.0579744"
+  },
+  "basicInformation": [
+    {
+      "label": "endereço",
+      "tooltip": "Copiar endereço",
+      "text": "105, Av. Nações Unidas, 25-25 - Jardim Brasil, Bauru - SP",
+      "icon": "https://www.gstatic.com/images/icons/material/system_gm/1x/place_gm_blue_24dp.png"
+    },
+    {
+      "label": "website",
+      "tooltip": "Abrir website",
+      "text": "bauru.sp.gov.br",
+      "icon": "https://www.gstatic.com/images/icons/material/system_gm/1x/public_gm_blue_24dp.png"
+    },
+    {
+      "label": "Code",
+      "tooltip": "Copiar Plus Code",
+      "text": "MW9R+CR Jardim Brasil, Bauru - SP",
+      "icon": "https://maps.gstatic.com/mapfiles/maps_lite/images/2x/ic_plus_code.png"
+    },
+    {
+      "label": "merchant",
+      "text": "Reivindicar esta empresa",
+      "icon": "https://www.gstatic.com/images/icons/material/system_gm/1x/verified_user_gm_blue_24dp.png"
+    }
+  ],
+  "ratingInformation": {
+    "basicRatingInformation": {
+      "averageGrade": 4.4,
+      "totalOfEvaluations": 7718
+    },
+    "ratingsByGrade": [
+      {
+        "grade": 5,
+        "totalRatings": 4866
+      },
+      {
+        "grade": 4,
+        "totalRatings": 1596
+      },
+      {
+        "grade": 3,
+        "totalRatings": 871
+      },
+      {
+        "grade": 2,
+        "totalRatings": 196
+      },
+      {
+        "grade": 1,
+        "totalRatings": 189
+      }
+    ]
+  },
+  "ratingTags": [
+    {
+      "tag": "lazer",
+      "count": 110,
+      "tooltip": "lazer, mencionado em 110 avaliações"
+    },
+    {
+      "tag": "cartão postal",
+      "count": 96,
+      "tooltip": "cartão postal, mencionado em 96 avaliações"
+    },
+    {
+      "tag": "arborizado",
+      "count": 39,
+      "tooltip": "arborizado, mencionado em 39 avaliações"
+    },
+    {
+      "tag": "quarta feira",
+      "count": 39,
+      "tooltip": "quarta feira, mencionado em 39 avaliações"
+    },
+    {
+      "tag": "relaxar",
+      "count": 34,
+      "tooltip": "relaxar, mencionado em 34 avaliações"
+    },
+    {
+      "tag": "brincar",
+      "count": 27,
+      "tooltip": "brincar, mencionado em 27 avaliações"
+    },
+    {
+      "tag": "usuários",
+      "count": 23,
+      "tooltip": "usuários, mencionado em 23 avaliações"
+    },
+    {
+      "tag": "o dia",
+      "count": 22,
+      "tooltip": "o dia, mencionado em 22 avaliações"
+    },
+    {
+      "tag": "a tarde",
+      "count": 19,
+      "tooltip": "a tarde, mencionado em 19 avaliações"
+    },
+    {
+      "tag": "poder público",
+      "count": 16,
+      "tooltip": "poder público, mencionado em 16 avaliações"
+    }
+  ],
+  "featuredPhotos": [
+    "https://lh5.googleusercontent.com/p/AF1QipNQl632tXKm2HGMguP-ve03iBjs7TXZ_EAe60FS=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPZsLmyu2Y2jgalGqaeZRCwPAHrq-76Zk54MJqg=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPLXP_820o46dmQBILlK2DxA1VivoFLQxv16Wv-=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOfa0T3rzQiZ89Qvix1Hnq82bT48yoWpEcCcDdE=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOwvMuBYByUuCOtTIugIRfMUim8xsUTvw48Gxzb=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMWUGzfoMRxgd-sJ6MV_fRjJKztCdASScrXY0wH=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPgQpSOxI5cfGYsl44UMfvwpONH-1WGMr5lOF_w=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipP2FKzB2zPfgUSiYGDfEALIBmzZvfYJWQ2qJLhq=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOUGAZdYLsrEHSw6rPVHDBA9miORhLXi8q0XWPy=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNUD61-MFKWv98v9j2F6X_lEDv8lvcSFRdhx2YO=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMD-xhD7BXdY1J_m-WGq-Bsxgz_Quy0b8XOWHTQ=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNygupMp9bZJ_C4unEUwnImVsfvs6Fd2gZwAAJO=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNhylg3Jq1lCaQg3u12ArXoLtrHvOTj6pcdS8ME=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPg_X4c9gYxFXqFLTFruUGqkwTmnBBtkk85ok3F=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipM7TIg4AJXcdcNXG2dZxjdgApsSuaHPl5x9VVCX=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipO_UU0_3dO4xp8KiLev1dmDO_NWfeMuJuurfP5d=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMQxL3Jxrkt7zblocVomQR8dQvstI4wiwmXjRTv=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMWNDcT26SKywJdNWla2XneRbGwSR5es-bk73pt=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNxbudDtj69riwC3Moi06vN7sG__TKuVWtykmH-=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipO15cvNXBDtulakfs2sm30GBCfTQVBqR9xHWTHx=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipM1gzOPnKF70Aj2o-PV-EMoiHn2HHV23dwJfhEo=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipN6nnkz4OncDqq-KBkY6biRxPv4UrB02hCccUZF=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipO7kIInEqo3RgD34mDIGI6lQ6HGRoC_zlZqESRz=w1024-h576-k-no"
+  ],
+  "topComments": [
+    {
+      "author": "Prazer, Mariana!",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucrfjhZxJbjJp-LqCVwWMp-z8UsoFP4jh-2zCiT6wQ=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "Fotos tiradas por meus filhos. Gostamos de vir aqui e sentar de embaixo das árvores, fazer um piquenique. Agora com a reforma tem um grande espaço para andar de bicicleta. Balanços de árvore também estão disponíveis para crianças. E o caldo de cana ao lado é ótimo!",
+      "gradeComment": 5
+    },
+    {
+      "author": "Alcides Renofio Neto",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucqFDZDjHxaErEhjeozILLBQHjxDgndxeQ9QGCI48AY=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "Cartão postal da cidade, às vezes com ótimas atividades ao ar livre, como a feira de quarta, música na praça e às vezes... Sujo, com odor fétido perto dos lagos, com poluição sonora de visitantes com carros nas calçadas, competindo com o som de uma lanchonete na frente da praça do parque, competindo por sua vez com som ao vivo no próprio parque, enfim, parque sem paz, sobretudo aos finais de semana, em certos horários.",
+      "gradeComment": 3
+    },
+    {
+      "author": "Jarve Gerleande Sales de Assis",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucpz1RL-YWKC2fl24Pp02JHiID6Eo8n_l7Ibt2N0KhI=w36-h36-p-c0x00000000-rp-mo-br100",
+      "comment": "O Parque Vitória Régia, localizado na Av. Nações Unidas em Bauru, é sem dúvidas, um lindo lugar para descanso e lazer, junto a natureza, bem no meio da área urbana da cidade. Há um lindo lago com Patos e Peixes, Playground para as crianças, um amplo Anfiteatro ao ar livre, além de áreas ideias para piquenique, espaço para prática de exercícios físicos, e cenário para belas fotos. Também, todas as Quartas a noite, há a feira livre noturna de Bauru, que além de frutas, verduras, legumes, pastel e caldo de cana, há música ao vivo e outras apresentações culturais. O parque é rodeados com várias opções de alimentação, com excelentes bares, restaurantes, sorveteria, entre outros... Adoramos! Super Recomendo!",
+      "gradeComment": 5
+    },
+    {
+      "author": "Amanda Yumii",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucp75RFIry_EBikA6HdOa8p8u6uEMnqcUUh-qH3WYg=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "Ótimo lugar para um passeio, piquenique... Bem arborizado, algumas aves. Adorei, pois há muitas espécies de árvores nativas da América, tê-las identificadas seria um belo trabalho. Muito bom, um lugar maravilhoso para quem ama estar ligado cm a natureza... lindos ipês, pitangas, girassóis♥️🤗 Há patinhos, mais para que eles possam crescer, os mesmos precisam de uma atenção maior como: alimentação baseada em ração inicial... infelizmente achei um sem vida☹️",
+      "gradeComment": 4
+    },
+    {
+      "author": "Junior / Gráfica JR.",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucp9ayjZl0sb8nOfc28rolvcb7wi8GZkPucUl28xJQs=w36-h36-p-c0x00000000-rp-mo-ba3-br100",
+      "comment": "Lugar maravilhoso e muito grande, bom mesmo a na quarta feira a noite a feira que tem nesse lugar é top demais.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Ederson Bruno Siles",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucpFUL4prxjb1IY-Ie-i071nXUFk57hiobaFogRpAg=w36-h36-p-c0x00000000-rp-mo-ba3-br100",
+      "comment": "Um Anfiteatro Magnífico no coração de Bauru uma lenda histórica por diversos acontecimentos realizados ali Sensacional Natureza incrível e alí nasce o Ribeirão das flores água do grandioso  Aquífero Guarani",
+      "gradeComment": 5
+    },
+    {
+      "author": "Marcio Rodrigues de Almeida",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZuco5i0PApWbEe1Ppdqo36oR9-70aNNyYBdk3sfTrtw=w36-h36-p-c0x00000000-rp-mo-ba3-br100",
+      "comment": "Bom pra fazer exercício, caminhar, levar crianças e pets pra passear.",
+      "gradeComment": 4
+    },
+    {
+      "author": "Márcia Madureira",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucqFXOVQszQ1ciIrRlMytle0Ce6wKewclWim9dGZfA=w36-h36-p-c0x00000000-rp-mo-br100",
+      "comment": "Que caminhada maravilhosa. E que maravilhosa iniciativa ao colocar patinhos no parque,  eles são  lindos, o senhorzinho   que os alimenta tem um   carinho enorme por eles até os chama de filhos e todos tem nome. Ele é  voluntário e ama o que faz. Eu gostaria de fazer um apelo à  quem  que vai lá,  para que ajudasse a  tomar conta dos patinhos e os protegessem,  já que há muitos vândalos que apesar de usufruir do local não  cuidam e até  degradam tudo,  principalmente  aos finais de semana o que é  uma pena. Por favor vamos ajudar a  vigiar,  cuidar e  preservar a única área de lazer  gratuita que temos  😪🤷🏼‍♀️",
+      "gradeComment": 4
+    },
+    {
+      "author": "Lucinéia Bastos",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucqdTE2TPM62rWSKPonHwo2C_4rYORvoKFhTUUcimg=w36-h36-p-c0x00000000-rp-mo-ba6-br100",
+      "comment": "Estive nessa feira a noite, pensa em um lugar gostoso pra passear com família, amigos, até mesmo sozinho, amei.!!! Tem de tudo um pouco, legumes fresquinhos, compotas de doces caseiros, queijo fresco, leite de vaca, churros, garapa, pamonha, curso, brinquedos, sucos naturais, pastel, ovos, entre outras coisas, um ambiente famíliar, descontraído, é muito bom!!!! Recomendo!!",
+      "gradeComment": 5
+    },
+    {
+      "author": "Gi Nutrição Por Amor",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucrfC9I9iE7lvb2Pb549_LQ6hay0zGPco3vN3IW7jOk=w36-h36-p-c0x00000000-rp-mo-ba3-br100",
+      "comment": "Tirando que deveria ter guarda municipal pra proibir usuários no local é um ambiente excelente pra fazer piquenique com a família. Só deveria ter policiamento pq ficar com filhos com cheiro de drogas no ambiente tem sido revoltante.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Viviane Passos",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucoutI1LjOSRofmg6PLN9cp7D-O_ulM9WC-qpzaJgA=w36-h36-p-c0x00000000-rp-mo-br100",
+      "comment": "Lugar gostoso com muitas árvores,alem do parquinho para as crianças.  Porém ideal para ir de dia,anoite tem muito adolescente fumando,e tomando conta de toda arquibancada, devia ter um guardinha de olho.  O banheiro nao da pra usar,sempre cheirando urina. .  Tirando isso o parque sempre está limpo e bem cuidado.",
+      "gradeComment": 4
+    },
+    {
+      "author": "Hugo Lourenco",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZuco7iKLVeLTDu3BD50tYsWwNPQSbHwvviFd5Ob2YPMc=w36-h36-p-c0x00000000-rp-mo-br100",
+      "comment": "Excelente lugar para arejar, fazer novas amizades e apreciar o ar livre, sem ter de sair da cidade ou se deslocar para muito longe, tem barulho da avenida ao lado mas nao incomoda tanto assim, famílias, namorados, pessoas passeando, se exercitando, crianças, animais, policiais, moradores de rua, vendedores de trufas, picolés, algodao doce, briquedos, vendedores de prazer, peixes no lago, passaros e pombos, todos usam o espaço em armonia e é raro quando alguém invade o seu espaço, é um lugar muito gostoso, as vezes tem shows, teatro, apresentações ou eventos no palco fixo, existem grupos que se reúnem para praticar coisas em comins, taichi-chuan, alongamentos, equilíbrio sobre a fita (nao sei o nome da atividade), RPG, e várias modalidades, NÃO TEM BANHEIRO!, tem playground para crianças inclusive com brinquedos para deficientes e cadeirantes, tem vários bebedores e o estacionamento, nao tem mas pode-se estacionar na rua mesmo, varios comercios de alimentos (sorveteria, barzinho, lanche...) tudo POPULAR! O lugar nao é de todo limpo, mas também não é um lixão... pode-se usar tranquilamente.",
+      "gradeComment": 4
+    },
+    {
+      "author": "L T",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucoUrSubcSGM_bvH-2czCJ4TCf0D7D0GrQZMl5F34H0=w36-h36-p-c0x00000000-rp-mo-ba6-br100",
+      "comment": "Local amplo... Bem organizado... Muito bem cuidado por se tratar de um local público... Local para estacionar na paralela a AV das nações .... Parque grande pra caminhar.... Em uma das árvores tem uns balanços feitos com pneus de moto reciclados... Tem também uns bancos rústicos feitos com os troncos das árvores que ali por algum motivo foram cortadas.... Parabéns pelos zeladores do local....",
+      "gradeComment": 5
+    },
+    {
+      "author": "Bruno Veronesi",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucr-G2OblNMzZH9nusVd4DiYTZxxfzZWBiVTb9Boyw=w36-h36-p-c0x00000000-rp-mo-ba5-br100",
+      "comment": "Lugar realmente maravilhoso pra passear com a família, levar as crianças pra brincar e apreciar a natureza, por ser próximo de uma das principais avenidas de Bauru, você consegue ver o movimento dos carros, e o local em si, tem muito verde, bastante brinquedo para a criançada aproveitar, no local também você conta com carrinho de raspadinha, carrinho de picolé, algodão doce e também tem uma mulher que fica pintando o rosto das crianças para que a diversão seja completa!!! Recomendo muito!!!",
+      "gradeComment": 5
+    },
+    {
+      "author": "Beatriz Lopes",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucokBAzkY0NQNo0H4zLE3qQ37hEmlMHMbmazxfwmg0s=w36-h36-p-c0x00000000-rp-mo-ba3-br100",
+      "comment": "Lugar maravilhoso para um passeio, laser, exercícios ou caminhada.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Rodrigues Póss",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucrVs1kQp8O91Pi7WUgvFhmmtV1R6BQ78F1pptElAgc=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "Um dos cartões postais de Bauru, este parque e bem arborizado, com pista de caminhada , lagos , concha acústica e outros atrativos . Localizado aos redores da cidade universitária, tem uma boa infraestrutura para lazer e relaxar. E um local bem tranquilo possilitando até algumas reflexões, momentos de relaxamento. Vale a pena conhecer, muito bonito!",
+      "gradeComment": 4
+    },
+    {
+      "author": "Daniel Buceli",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucpES3IMR-coQlmTzKHmGnYjzLSY-CRSk-6kOo9Ilw=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "Fazia tempo que não passava por lá e fomos hoje fazer um ensaio de gestante com minha esposa. Fizeram excelentes modificações, com caminho melhor identificado, troncos com espaços para sentar (com conforto) debaixo da sombra de árvores. Da pra passear, fazer piquenique ou apenas curtir um momento de sossego, ler um livro ou passear com a família.",
+      "gradeComment": 4
+    },
+    {
+      "author": "Francis Quero VzlaBrasil",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucrUKHJHIAznuR8mW7uJv8leDB0ziUbv7l0vqi9W1A=w36-h36-p-c0x00000000-rp-mo-ba3-br100",
+      "comment": "O parque de exercicios e Infantil estava bem cuidado, limpio, minhas crianças gostaram muito",
+      "gradeComment": 5
+    },
+    {
+      "author": "Rosalina Ines da silva pimentel",
+      "photoAuthor": "https://lh3.googleusercontent.com/a/AItbvmkB0oMKWtN9sSDTk6LHy8fFyfnSFk6Q-UOGWzQd=w36-h36-p-c0x00000000-rp-mo-br100",
+      "comment": "Maravilhoso bastante árvore 🌲 pra respirar um ar puro só ir lá é muito bom pra esparecer",
+      "gradeComment": 5
+    },
+    {
+      "author": "maria Augusta",
+      "photoAuthor": "https://lh3.googleusercontent.com/a/AItbvmlljP7wdNLtoogyCCQE4R6HOnRxzAfQNkoOTk4j=w36-h36-p-c0x00000000-rp-mo-br100",
+      "comment": "Lugar maravilhoso, única coisa que falta na estrutura é banheiro muitas famílias frequentam com crianças e vc percebe q as pessoas acabam indo embora por falta de estrutura,e isso acaba prejudicando o comércio ao redor do parque, mais o parque é lindooooo 😍",
+      "gradeComment": 1
+    }
+  ],
+  "peakHours": [
+    {
+      "Sunday": [
+        {
+          "hour": "04:00",
+          "percent": 1
+        },
+        {
+          "hour": "05:00",
+          "percent": 2
+        },
+        {
+          "hour": "06:00",
+          "percent": 4
+        },
+        {
+          "hour": "07:00",
+          "percent": 8
+        },
+        {
+          "hour": "08:00",
+          "percent": 14
+        },
+        {
+          "hour": "09:00",
+          "percent": 20
+        },
+        {
+          "hour": "10:00",
+          "percent": 24
+        },
+        {
+          "hour": "11:00",
+          "percent": 26
+        },
+        {
+          "hour": "12:00",
+          "percent": 27
+        },
+        {
+          "hour": "13:00",
+          "percent": 31
+        },
+        {
+          "hour": "14:00",
+          "percent": 38
+        },
+        {
+          "hour": "15:00",
+          "percent": 47
+        },
+        {
+          "hour": "16:00",
+          "percent": 55
+        },
+        {
+          "hour": "17:00",
+          "percent": 57
+        },
+        {
+          "hour": "18:00",
+          "percent": 54
+        },
+        {
+          "hour": "19:00",
+          "percent": 46
+        },
+        {
+          "hour": "20:00",
+          "percent": 35
+        },
+        {
+          "hour": "21:00",
+          "percent": 24
+        },
+        {
+          "hour": "22:00",
+          "percent": 16
+        },
+        {
+          "hour": "23:00",
+          "percent": 9
+        },
+        {
+          "hour": "00:00",
+          "percent": 5
+        },
+        {
+          "hour": "01:00",
+          "percent": 3
+        },
+        {
+          "hour": "02:00",
+          "percent": 2
+        },
+        {
+          "hour": "03:00",
+          "percent": 1
+        }
+      ]
+    },
+    {
+      "Monday": [
+        {
+          "hour": "04:00",
+          "percent": 1
+        },
+        {
+          "hour": "05:00",
+          "percent": 1
+        },
+        {
+          "hour": "07:00",
+          "percent": 1
+        },
+        {
+          "hour": "08:00",
+          "percent": 2
+        },
+        {
+          "hour": "09:00",
+          "percent": 2
+        },
+        {
+          "hour": "10:00",
+          "percent": 2
+        },
+        {
+          "hour": "11:00",
+          "percent": 3
+        },
+        {
+          "hour": "12:00",
+          "percent": 3
+        },
+        {
+          "hour": "13:00",
+          "percent": 4
+        },
+        {
+          "hour": "14:00",
+          "percent": 5
+        },
+        {
+          "hour": "15:00",
+          "percent": 7
+        },
+        {
+          "hour": "16:00",
+          "percent": 8
+        },
+        {
+          "hour": "17:00",
+          "percent": 9
+        },
+        {
+          "hour": "18:00",
+          "percent": 10
+        },
+        {
+          "hour": "19:00",
+          "percent": 9
+        },
+        {
+          "hour": "20:00",
+          "percent": 8
+        },
+        {
+          "hour": "21:00",
+          "percent": 6
+        },
+        {
+          "hour": "22:00",
+          "percent": 3
+        },
+        {
+          "hour": "23:00",
+          "percent": 1
+        },
+        {
+          "hour": "01:00",
+          "percent": 1
+        },
+        {
+          "hour": "02:00",
+          "percent": 1
+        },
+        {
+          "hour": "03:00",
+          "percent": 1
+        }
+      ]
+    },
+    {
+      "Tuesday": [
+        {
+          "hour": "04:00",
+          "percent": 1
+        },
+        {
+          "hour": "05:00",
+          "percent": 1
+        },
+        {
+          "hour": "06:00",
+          "percent": 1
+        },
+        {
+          "hour": "08:00",
+          "percent": 2
+        },
+        {
+          "hour": "09:00",
+          "percent": 3
+        },
+        {
+          "hour": "10:00",
+          "percent": 4
+        },
+        {
+          "hour": "11:00",
+          "percent": 5
+        },
+        {
+          "hour": "12:00",
+          "percent": 5
+        },
+        {
+          "hour": "13:00",
+          "percent": 6
+        },
+        {
+          "hour": "14:00",
+          "percent": 6
+        },
+        {
+          "hour": "15:00",
+          "percent": 7
+        },
+        {
+          "hour": "16:00",
+          "percent": 9
+        },
+        {
+          "hour": "17:00",
+          "percent": 9
+        },
+        {
+          "hour": "18:00",
+          "percent": 10
+        },
+        {
+          "hour": "19:00",
+          "percent": 10
+        },
+        {
+          "hour": "20:00",
+          "percent": 8
+        },
+        {
+          "hour": "21:00",
+          "percent": 6
+        },
+        {
+          "hour": "22:00",
+          "percent": 4
+        },
+        {
+          "hour": "23:00",
+          "percent": 1
+        },
+        {
+          "hour": "00:00",
+          "percent": 1
+        },
+        {
+          "hour": "01:00",
+          "percent": 1
+        },
+        {
+          "hour": "02:00",
+          "percent": 1
+        },
+        {
+          "hour": "03:00",
+          "percent": 1
+        }
+      ]
+    },
+    {
+      "Wednesday": [
+        {
+          "hour": "04:00",
+          "percent": 1
+        },
+        {
+          "hour": "05:00",
+          "percent": 1
+        },
+        {
+          "hour": "06:00",
+          "percent": 1
+        },
+        {
+          "hour": "07:00",
+          "percent": 1
+        },
+        {
+          "hour": "08:00",
+          "percent": 1
+        },
+        {
+          "hour": "09:00",
+          "percent": 2
+        },
+        {
+          "hour": "10:00",
+          "percent": 4
+        },
+        {
+          "hour": "11:00",
+          "percent": 4
+        },
+        {
+          "hour": "12:00",
+          "percent": 5
+        },
+        {
+          "hour": "13:00",
+          "percent": 6
+        },
+        {
+          "hour": "14:00",
+          "percent": 10
+        },
+        {
+          "hour": "15:00",
+          "percent": 22
+        },
+        {
+          "hour": "16:00",
+          "percent": 44
+        },
+        {
+          "hour": "17:00",
+          "percent": 74
+        },
+        {
+          "hour": "18:00",
+          "percent": 97
+        },
+        {
+          "hour": "19:00",
+          "percent": 100
+        },
+        {
+          "hour": "20:00",
+          "percent": 79
+        },
+        {
+          "hour": "21:00",
+          "percent": 47
+        },
+        {
+          "hour": "22:00",
+          "percent": 21
+        },
+        {
+          "hour": "23:00",
+          "percent": 7
+        },
+        {
+          "hour": "00:00",
+          "percent": 3
+        },
+        {
+          "hour": "01:00",
+          "percent": 3
+        },
+        {
+          "hour": "02:00",
+          "percent": 2
+        },
+        {
+          "hour": "03:00",
+          "percent": 1
+        }
+      ]
+    },
+    {
+      "Thursday": [
+        {
+          "hour": "04:00",
+          "percent": 1
+        },
+        {
+          "hour": "07:00",
+          "percent": 3
+        },
+        {
+          "hour": "08:00",
+          "percent": 4
+        },
+        {
+          "hour": "09:00",
+          "percent": 4
+        },
+        {
+          "hour": "10:00",
+          "percent": 5
+        },
+        {
+          "hour": "11:00",
+          "percent": 6
+        },
+        {
+          "hour": "12:00",
+          "percent": 7
+        },
+        {
+          "hour": "13:00",
+          "percent": 10
+        },
+        {
+          "hour": "14:00",
+          "percent": 13
+        },
+        {
+          "hour": "15:00",
+          "percent": 15
+        },
+        {
+          "hour": "16:00",
+          "percent": 17
+        },
+        {
+          "hour": "17:00",
+          "percent": 18
+        },
+        {
+          "hour": "18:00",
+          "percent": 17
+        },
+        {
+          "hour": "19:00",
+          "percent": 16
+        },
+        {
+          "hour": "20:00",
+          "percent": 15
+        },
+        {
+          "hour": "21:00",
+          "percent": 13
+        },
+        {
+          "hour": "22:00",
+          "percent": 10
+        },
+        {
+          "hour": "23:00",
+          "percent": 6
+        },
+        {
+          "hour": "00:00",
+          "percent": 2
+        },
+        {
+          "hour": "01:00",
+          "percent": 1
+        },
+        {
+          "hour": "02:00",
+          "percent": 1
+        },
+        {
+          "hour": "03:00",
+          "percent": 1
+        }
+      ]
+    },
+    {
+      "Friday": [
+        {
+          "hour": "05:00",
+          "percent": 1
+        },
+        {
+          "hour": "06:00",
+          "percent": 1
+        },
+        {
+          "hour": "07:00",
+          "percent": 1
+        },
+        {
+          "hour": "09:00",
+          "percent": 1
+        },
+        {
+          "hour": "10:00",
+          "percent": 2
+        },
+        {
+          "hour": "11:00",
+          "percent": 3
+        },
+        {
+          "hour": "12:00",
+          "percent": 5
+        },
+        {
+          "hour": "13:00",
+          "percent": 6
+        },
+        {
+          "hour": "14:00",
+          "percent": 8
+        },
+        {
+          "hour": "15:00",
+          "percent": 10
+        },
+        {
+          "hour": "16:00",
+          "percent": 13
+        },
+        {
+          "hour": "17:00",
+          "percent": 15
+        },
+        {
+          "hour": "18:00",
+          "percent": 18
+        },
+        {
+          "hour": "19:00",
+          "percent": 21
+        },
+        {
+          "hour": "20:00",
+          "percent": 22
+        },
+        {
+          "hour": "21:00",
+          "percent": 21
+        },
+        {
+          "hour": "22:00",
+          "percent": 19
+        },
+        {
+          "hour": "23:00",
+          "percent": 16
+        },
+        {
+          "hour": "00:00",
+          "percent": 11
+        },
+        {
+          "hour": "01:00",
+          "percent": 7
+        },
+        {
+          "hour": "02:00",
+          "percent": 4
+        },
+        {
+          "hour": "03:00",
+          "percent": 1
+        }
+      ]
+    },
+    {
+      "Saturday": [
+        {
+          "hour": "04:00",
+          "percent": 2
+        },
+        {
+          "hour": "05:00",
+          "percent": 2
+        },
+        {
+          "hour": "06:00",
+          "percent": 3
+        },
+        {
+          "hour": "07:00",
+          "percent": 4
+        },
+        {
+          "hour": "08:00",
+          "percent": 6
+        },
+        {
+          "hour": "09:00",
+          "percent": 8
+        },
+        {
+          "hour": "10:00",
+          "percent": 10
+        },
+        {
+          "hour": "11:00",
+          "percent": 12
+        },
+        {
+          "hour": "12:00",
+          "percent": 15
+        },
+        {
+          "hour": "13:00",
+          "percent": 18
+        },
+        {
+          "hour": "14:00",
+          "percent": 22
+        },
+        {
+          "hour": "15:00",
+          "percent": 28
+        },
+        {
+          "hour": "16:00",
+          "percent": 36
+        },
+        {
+          "hour": "17:00",
+          "percent": 45
+        },
+        {
+          "hour": "18:00",
+          "percent": 52
+        },
+        {
+          "hour": "19:00",
+          "percent": 57
+        },
+        {
+          "hour": "20:00",
+          "percent": 57
+        },
+        {
+          "hour": "21:00",
+          "percent": 52
+        },
+        {
+          "hour": "22:00",
+          "percent": 43
+        },
+        {
+          "hour": "23:00",
+          "percent": 32
+        },
+        {
+          "hour": "00:00",
+          "percent": 21
+        },
+        {
+          "hour": "01:00",
+          "percent": 12
+        },
+        {
+          "hour": "02:00",
+          "percent": 7
+        },
+        {
+          "hour": "03:00",
+          "percent": 3
+        }
+      ]
+    }
+  ],
+  "relatedSearches": [
+    "parque vitória régia, sorocaba",
+    "vitória régia",
+    "parque vitória régia bauru história",
+    "praça vitória régia holambra",
+    "telefone hotel vitória régia bauru",
+    "praça vitória régia jardim brasil bauru sp",
+    "o que fazer em bauru a noite",
+    "baile funk bauru"
+  ],
+  "relateds": [
+    {
+      "mainName": "Bosque da Comunidade",
+      "url": null
+    },
+    {
+      "mainName": "Jardim Botânico Municipal de Bauru",
+      "url": null
+    },
+    {
+      "mainName": "Calçadão da Batista",
+      "url": null
+    },
+    {
+      "mainName": "Anfiteatro Vitória Régia",
+      "url": null
+    },
+    {
+      "mainName": "Parque Zoológico Municipal de Bauru",
+      "url": null
+    },
+    {
+      "mainName": "Pinacoteca Municipal de Bauru",
+      "url": null
+    },
+    {
+      "mainName": "Edifício do Automóvel Clube de Bauru",
+      "url": null
+    },
+    {
+      "mainName": "MHISB Museu Historico de Bauru",
+      "url": null
+    },
+    {
+      "mainName": "Pinacoteca Municipal de Bauru - Casa Ponce Paz",
+      "url": null
+    },
+    {
+      "mainName": "Estação Bauru (NOB)",
+      "url": null
+    },
+    {
+      "mainName": "Virada Cultural",
+      "url": null
+    }
+  ]
+}

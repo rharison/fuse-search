@@ -1,0 +1,649 @@
+{
+  "mainName": "Edifício BD Bacatá",
+  "slug": "edificio-bd-bacata",
+  "category": "Ótica",
+  "locationInformation": {
+    "latitude": "4.6048102",
+    "longitude": "-74.0705108"
+  },
+  "basicInformation": [
+    {
+      "label": "endereço",
+      "tooltip": "Copiar endereço",
+      "text": "Cl. 19 #6 - 31, Bogotá, Cundinamarca, Colômbia",
+      "icon": "https://www.gstatic.com/images/icons/material/system_gm/1x/place_gm_blue_24dp.png"
+    },
+    {
+      "label": "place-info-links:https://www.google.com/local/place/g/1211q9l_/attributegroup/health_and_safety,service_options?gl=BR&hl=pt-BR&gsas=1",
+      "text": "Saúde e segurança: Necessário fazer agendamento · É obrigatório usar máscara de proteção · Mais 2",
+      "icon": "https://gstatic.com/local/placeinfo/health_and_safety_ic_blue500.png"
+    },
+    {
+      "label": "agendamento",
+      "tooltip": "Abrir link de agendamento",
+      "text": "opticaalemanahsm.com",
+      "icon": "https://fonts.gstatic.com/s/i/googlematerialicons/event/v14/gm_blue-24dp/1x/gm_event_gm_blue_24dp.png"
+    },
+    {
+      "label": "website",
+      "tooltip": "Abrir website",
+      "text": "opticaalemanahsm.com",
+      "icon": "https://www.gstatic.com/images/icons/material/system_gm/1x/public_gm_blue_24dp.png"
+    },
+    {
+      "label": "telefone",
+      "tooltip": "Copiar número de telefone",
+      "text": "+57 601 2830180",
+      "icon": "https://www.gstatic.com/images/icons/material/system_gm/1x/phone_gm_blue_24dp.png"
+    },
+    {
+      "label": "merchant",
+      "text": "Reivindicar esta empresa",
+      "icon": "https://www.gstatic.com/images/icons/material/system_gm/1x/verified_user_gm_blue_24dp.png"
+    },
+    {
+      "label": "place-info-links:",
+      "text": "Empresa que acolhe a comunidade LGBTQ+",
+      "icon": "https://gstatic.com/local/placeinfo/lgbtq_friendly_ic_24dp.png"
+    }
+  ],
+  "ratingInformation": {
+    "basicRatingInformation": {
+      "averageGrade": 4.5,
+      "totalOfEvaluations": 397
+    },
+    "ratingsByGrade": [
+      {
+        "grade": 5,
+        "totalRatings": 271
+      },
+      {
+        "grade": 4,
+        "totalRatings": 78
+      },
+      {
+        "grade": 3,
+        "totalRatings": 27
+      },
+      {
+        "grade": 2,
+        "totalRatings": 11
+      },
+      {
+        "grade": 1,
+        "totalRatings": 10
+      }
+    ]
+  },
+  "ratingTags": [
+    {
+      "tag": "prédio",
+      "count": 19,
+      "tooltip": "prédio, mencionado em 19 avaliações"
+    },
+    {
+      "tag": "escritório",
+      "count": 12,
+      "tooltip": "escritório, mencionado em 12 avaliações"
+    },
+    {
+      "tag": "hotel",
+      "count": 8,
+      "tooltip": "hotel, mencionado em 8 avaliações"
+    },
+    {
+      "tag": "chão",
+      "count": 7,
+      "tooltip": "chão, mencionado em 7 avaliações"
+    },
+    {
+      "tag": "café",
+      "count": 7,
+      "tooltip": "café, mencionado em 7 avaliações"
+    },
+    {
+      "tag": "elevador",
+      "count": 6,
+      "tooltip": "elevador, mencionado em 6 avaliações"
+    },
+    {
+      "tag": "shopping",
+      "count": 6,
+      "tooltip": "shopping, mencionado em 6 avaliações"
+    },
+    {
+      "tag": "apartamento",
+      "count": 6,
+      "tooltip": "apartamento, mencionado em 6 avaliações"
+    },
+    {
+      "tag": "luxo",
+      "count": 5,
+      "tooltip": "luxo, mencionado em 5 avaliações"
+    },
+    {
+      "tag": "design",
+      "count": 5,
+      "tooltip": "design, mencionado em 5 avaliações"
+    }
+  ],
+  "featuredPhotos": [
+    "https://lh5.googleusercontent.com/p/AF1QipOERmX5Q3Wt5icw5uLn0LJZJkv-xTU-RtRlRYFb=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNMN9Lu4XtD55Y8luzynyWjDoYLvuc-5p1xGTZ-=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOXi-xLv4tnkvxoNwVoW8Ar0DCjZj7p472_6IPl=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNHj7o7uB4UAvoc5sq7CsUmYDlrwQvGaRNUPxwb=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOMG8BwbHS_J50Ak0-GFE0Kh3dsAvnJ7AKzdzkg=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPD7nBaTJeraaRaYDAC_nZRK6UTNib-vJLQ5clC=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMO9f5S6_1Ijhf8pTpTNWP7y2T54q4kYD0TqYnD=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPeLGlZu73QIsOWeW3kEpFOYDa27WMVk2-G4U65=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMOpoLshNtD5SCmke-xB_G7byKlff08KNZMi5eD=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPa1vl7nmUhMlm-pIdo-Lj9HYhfI0KlrrME83Gb=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNYlJfP8gfFclniLJc0cn172SoBWmfFBCqxZtmA=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNkZjNaQsCRL2bBAuD5P0f58amkuT4_IjjmB7Aj=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOkIM05cCDxkx4HbspRwlWS0qS2BvuoLDfqSUov=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPHBxDLyqt8Kzfxdgcn2N5w7Bwn5a0Pk6javhMK=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPpIOu-uPGOlRbcxCM1UL_o2rHLCAsKQmAm_v7m=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMK6TDgW0_HFxdCqsmUUdrlk7LDBu_7C6sl0i9I=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNrK5y8j6MSa9WimaNhslmL4fS_TC4oTyYkOCc6=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNVEgO-55IsALad9r3FoMCWBferV8GBBSofM1ci=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOPavtnJQyi99lWOc6SO3FLCYEhRKUSZnGimMey=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMQQNuD8op4ioezwdw9zi2Be_WcvI_mmKCcaMGr=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOR_IdpSZCGlvjKinsgYxiVjzxqzqm2I1LD9pfb=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNP3vZebTivO5fNo1feEWKuej3l0rzjTtRzidKE=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNl8uw-vcVVMOQt0aGwUCCYWHFOiOZpjtMZMwtB=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMZFJC8P-ZZwyPlrc5q7WlQbdfjUXUIaxdNuclL=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMY0Guybjkxv9qL4UeJmmNKwqZyt8Gq-Az7wqy5=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOfEeUuXHJ-5b57pOOJixdgDhrqtokN2PsPW1l8=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOPal9QoTNMt1QkEE1uwz8NJrXA1ZIOziSZEhjY=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMKPxL6uNosXb1AHjwwGQbero-qBQHI9ZjFyst9=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNQ050s_OiXFJjj6N7Rw5Gx3Nd9eerJNqb03N_M=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNvm3VBIIEZhyfSwJDprONsX64pp1cm9m07BHSI=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOjEKlCC9ga1LYjSazj60G8N8caV1dTdV2zgrv9=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNyPl3jS-tTqAUtgIILnLFFWen-gPv2_Xsi-kbW=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMcRPZZKneH2jgX4Kgsrx1qLANBOxT0RuMabrgB=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipN6mysoZ1EZrVn9wZfEIjwRkK2Dq-aZ7_PQxKuZ=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipP39JnjPcqB5HUzmUahqvs4nbn65mqWyauGu-D8=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMnuXM110AvMOKZdHIsbhZPd5sFH3sxwSPTQv8=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNAGc8zq_fappZL4Pk3LFwEYXb3SOXZlI8avKLW=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMkfqVEZRvIolk5V4YX5wLvb9yqmWdks0yvRH6Y=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPC7D_-dk68FaPssrgV6uv4gTQjqF0GCKOjvw30=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMwirDmEGeUCy4zrCDKQY5LDpeTUfwDhdj6xsnV=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMnp4urxU3AAk97a90KyM5mwRSD1w-qHdpLqUmL=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNPRzopdv13nxOSCoWkcEssvr99HcyY966gF9AL=w1024-h576-k-no"
+  ],
+  "topComments": [
+    {
+      "author": "Carlos Niño",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucr4zDfDyMicFNVZ4IAfvy0I9xGSFXNTDmYUk-CPGo4=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "(Tradução do Google) Embora não esteja totalmente acabado. Possui apartamentos modernos, ótimo aproveitamento de espaço e excelentes vistas. Eu vejo futuro. No momento é hora de lidar com o inconveniente dos elevadores  (Original) Aunque no se ha terminado del todo. Cuenta con unos aptos modernos, óptimo aprovechamiento del espacio y excelente vista. Le veo futuro. Por el momento toca lidiar con el inconveniente de los ascensores",
+      "gradeComment": 5
+    },
+    {
+      "author": "Julian Salazar",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucrdpAyzsW_nlk0FTE314aPdeqXbTiFzMzCGxPksDys=w36-h36-p-c0x00000000-rp-mo-ba5-br100",
+      "comment": "(Tradução do Google) Achei muito legal, só tinha visto fotos e consegui ver pessoalmente recentemente, às vezes não consigo entender como esses tipos de edifícios são alcançados, não os entendo, mas entendo e aprecio suas beleza e imponência na paisagem.  (Original) Me parecio muy lindo, solo habia visto fotos y lo logre ver en persona hace poco, a veces no logro entender como se logran este tipo de edificaciones, no las comprendo, pero si comprendo y aprecio su belleza e imponencia en el paisaje.",
+      "gradeComment": 5
+    },
+    {
+      "author": "ZEVAZTIIAN Ferreira",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucqTb66JFWNrpZlq3NlPsuTMSuZHyIeKM7jdVlk0=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "(Tradução do Google) O primeiro arranha-céu da cidade de Bogotá e claramente do país, já que possuía torres altas como a Colpatria, que por muitos anos teve o título de a torre mais alta da Colômbia. A torre BD em Bacata está em construção há vários anos devido a várias situações, mas uma vez concluída a sua construção, é o local mais emblemático da cidade.  (Original) Primer rascacielos de la ciudad de Bogotá y claramente del país, ya que se contaba con torres altas como la de Colpatria que durante muchos años llevaba el titulo como la torre mas alta de Colombia. la torre BD de Bacata llevo varios años en su construcción por diversas situaciones pero ya culminado su construcción es el lugar mas icónico de la ciudad.",
+      "gradeComment": 4
+    },
+    {
+      "author": "JOSE LUIS SALAMANCA CASTANEDA",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucrHAsE04aJWzGx76_FnyoAP-x-_XL4EupQQEYNc=w36-h36-p-c0x00000000-rp-mo-ba5-br100",
+      "comment": "(Tradução do Google) O BD Bacatá, abreviatura de Bogotá Downtown Bacatá, é conhecido por ser o primeiro arranha-céu da Colômbia, teve sua construção iniciada em 2011 e estava programado para ser entregue integralmente em 2017. O projeto está localizado no centro da cidade, no cruzamento da Carrera 5 com a Calle 19,  (Original) El BD Bacatá, abreviatura para Bogotá Downtown Bacatá, es conocido por ser el primer rascacielos de Colombia, inició su construcción en 2011 y estaba programado para ser entregado en su totalidad en 2017. El proyecto está ubicado en el centro de la ciudad en la intersección de la carrera 5 y la calle 19,",
+      "gradeComment": 4
+    },
+    {
+      "author": "WDavid Medina Pineda",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucppJzaO4-ltjNgMFVujOSHVexvuIoKRzWBxr4uf8A=w36-h36-p-c0x00000000-rp-mo-ba5-br100",
+      "comment": "(Tradução do Google) O BD Bacatá (abreviatura de Bogotá Downtown Bacatá) é um conjunto arquitetônico que está sendo construído em Bogotá. O projeto está localizado no centro da cidade, no cruzamento da Carrera 5 com a Calle 19. Foi projetado para ter cinco usos: habitação, escritórios, hotel, shopping center e estacionamento (privado e público). Com duas torres, a mais alta terá 67 andares e 216 metros e a segunda 56 andares e 167 metros. Arquitetos da Espanha e da Colômbia participaram de seu projeto. Os seus gestores serão o Grupo Hotusa e os Hotéis Eurostars. É o primeiro arranha-céu financiado por pessoas físicas por meio de ações e direitos fiduciários.  Sua construção começou em 2011 e estava prevista para ser entregue em 2017, mas após uma série de atrasos foi anunciado que seria concluído no segundo semestre de 2020, mas a entrega foi novamente adiada. o prédio já está em funcionamento, o prédio e a parte que falta são os hotéis.  (Original) El BD Bacatá (abreviatura para Bogotá Downtown Bacatá) es un complejo arquitectónico que se está construyendo en Bogotá. El proyecto está ubicado en el centro de la ciudad en la intersección de la carrera 5 y la calle 19. Se ha proyectado que tenga cinco usos: vivienda, oficinas, hotel, centro comercial y parqueadero (privado y público).​ Estará compuesto por dos torres, la más alta tendrá 67 pisos y medirá 216 metros y la segunda 56 pisos y 167 metros. En su diseño han intervenido arquitectos de España y Colombia. Sus gestores serán el Grupo Hotusa y Eurostars Hotels. Es el primer rascacielos financiado por personas naturales mediante acciones y derechos fiduciarios.  Su construcción comenzó en 2011 y se tenía previsto entregarlo para 2017, pero tras una serie de retrasos fue anunciado que sería finalizado en el segundo semestre de 2020,pero nuevamente se postergó la entrega.A marzo de 2021 ya está en funcionamiento el 60% del edificio y la parte faltante son los hoteles.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Oscar Ayala",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZuco4Aq4VHQoi8ubL0iReo1MfNch_GDZlJcTbHAMHoU0=w36-h36-p-c0x00000000-rp-mo-ba5-br100",
+      "comment": "(Tradução do Google) Visão imponente. Belo edifício para conhecer e desfrutar  (Original) Imponente vista. Lindo edificio para conocer y disfrutar",
+      "gradeComment": 5
+    },
+    {
+      "author": "julian bohorquez",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucotPwXu-Dpb5Iwa8BbqtW7kgPxViLHf5eF1qBLNRA=w36-h36-p-c0x00000000-rp-mo-br100",
+      "comment": "(Tradução do Google) Belo edifício no centro da cidade e pode ser visto de quase qualquer lugar da cidade  (Original) Bonito edificio en el centro de la ciudad y se puede ver desde casi cualquier punto de la ciudad",
+      "gradeComment": 5
+    },
+    {
+      "author": "Diana Alexandra",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucqWuQCFO64t_UZWi16XFkxXka-JakGV1RU3rDlH6A=w36-h36-p-c0x00000000-rp-mo-ba5-br100",
+      "comment": "(Tradução do Google) Bom projeto arquitetônico, emblemático.  (Original) Buen diseño arquitectonico, emblematico.",
+      "gradeComment": 4
+    },
+    {
+      "author": "Rockartt",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucp4RhSd0_90gqGyEX_mWIKGA3tArJye93d_Mgu6zg=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "(Tradução do Google) Ponto de vista Bacatá @rockartt  (Original) Point of view Bacatá @rockartt",
+      "gradeComment": 4
+    },
+    {
+      "author": "Alejandro Giraldo Garzón",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucoYhH07g08BhW5qX0Mkb-N-XbfuHAnnjqkAtp9YJQ=w36-h36-p-c0x00000000-rp-mo-ba3-br100",
+      "comment": "(Tradução do Google) Um setor super perigoso, cheio de descartáveis, além de muitas das janelas do prédio estarem grafitadas ou quebradas, é muito feio por causa desses detalhes. Será o primeiro arranha-céu da Colômbia, mas nem chega ao fundo do sapato do World Trade Center de NY, por exemplo.  (Original) Un sector super peligroso, lleno de desechables, además muchas de las ventanas del edificio están grafiteadas o rotas, está muy feo por estos detalles. Será el primer rascacielos de Colombia pero no le llega ni a la suela del zapato al World Trade Center de NY por poner un ejemplo.",
+      "gradeComment": 1
+    },
+    {
+      "author": "Yulieth Arrieta",
+      "photoAuthor": "https://lh3.googleusercontent.com/a/AItbvmm1YanM89cAsqRVk1-ROe2MiAoIX21DRt9DoLub=w36-h36-p-c0x00000000-rp-mo-ba2-br100",
+      "comment": "(Tradução do Google) Instalações muito agradáveis, tecnologia de elevador muito inovadora, mas honestamente demoram muito tempo e, além disso, apenas dois dos seis que existem funcionam  (Original) Instalaciones muy bonitas, la tecnología  de los ascensores muy novedosa, pero sinceramente son muy demorados y adicional solo funcionan dos de seis que existen",
+      "gradeComment": 3
+    },
+    {
+      "author": "Claudia Vargas",
+      "photoAuthor": "https://lh3.googleusercontent.com/a/AItbvmmn5_-ysXU4ATp26B45dNo3s0M6WdcGn_wz5ZEv=w36-h36-p-c0x00000000-rp-mo-br100",
+      "comment": "(Tradução do Google) Eu amo a atenção prestada e a tradição de seu serviço e qualidade  (Original) Me encanta la atención brindada y la tradición de sus servicio y calidad",
+      "gradeComment": 5
+    },
+    {
+      "author": "OGutzA.2",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucpwH8zk1kFp_M8bi5IASkspIAsLvUbwL-run1Y20g=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "(Tradução do Google) Ele é creditado com a altura que esses momentos são os maiores. Se os andares superiores tivessem uma área maior, a qualificação teria sido mais meritória.  (Original) Se le abona la altura que estos momentos es la mayor. Si los últimos pisos fueran de mayor área, hubiera sido más meritorio el calificativo.",
+      "gradeComment": 4
+    },
+    {
+      "author": "Dayana Niño",
+      "photoAuthor": "https://lh3.googleusercontent.com/a/AItbvmnWemu7l4Hb3HqZg4WgyWW34uP4QNNrlivIh8YU=w36-h36-p-c0x00000000-rp-mo-br100",
+      "comment": "(Tradução do Google) Excelente atenção, calor e profissionais com todo o conhecimento e atitude ao serviço.  (Original) Excelente atencion,calor humano y profesionales con todo conocimiento y actitud para el servicio.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Roberto Rodríguez C.",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucpQ8KdvVhgGON2gsBsSVJeMHisLp5m5iwNAB9hW=w36-h36-p-c0x00000000-rp-mo-ba5-br100",
+      "comment": "(Tradução do Google) Belíssimo edifício, em fase de conclusão de obra, no qual se pode aceder ao miradouro mais alto da cidade  (Original) Hermoso edificio, cerca de conclusión de obra, en el cual se podrá acceder al mirador más alto de la ciudad",
+      "gradeComment": 5
+    },
+    {
+      "author": "Javier Hernández",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucrNnuyEID1hToFSsZN4P712zWklsGOR79FK2hR2wHs=w36-h36-p-c0x00000000-rp-mo-ba3-br100",
+      "comment": "(Tradução do Google) Falta que eles adicionaram tela de LED na parte cinza e tenham mais visual ao ter lugar em arranha-céus  (Original) Falta que le añadieron pantalla LED en la parte gris y tenga más visual al momento de tener cabida en rascasielos",
+      "gradeComment": 5
+    },
+    {
+      "author": "Luis Eduardo Vásquez Urrego",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZuco3Vkqbtph4pqEtpdztEUZlcnT6dqpYXzFu9a0ZUPg=w36-h36-p-c0x00000000-rp-mo-ba5-br100",
+      "comment": "(Tradução do Google) A torre mais alta do país. Acabamentos de luxo. O hotel ainda não está funcionando. Vista tirada do 42º andar.  (Original) Torre más alta del país. Acabados de lujo. El hotel aún no funciona. Vista tomada del piso 42.",
+      "gradeComment": 4
+    },
+    {
+      "author": "luisa zambrano",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucpleIumg_wtno47hue-WkPhnr_rANQQdB45uE_04Ow=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "(Tradução do Google) Sua estrutura arquitetônica é linda, e já detém o título de maior prédio de Bogotá. A única coisa ruim que vejo é que os preços dos estabelecimentos são caros, mas é muito bonito e tem lugares interessantes para comer e comer. ginásio smart fit espaçoso  (Original) Su estructura arquitectónica es bonita, además ya ostenta el título del edificio más grande de Bogotá lo único malo que veo yo es que los precios de los establecimientos son costosos pero es muy bonito y tiene sitios interesantes para comer además de in gimnasio espacioso de smart fit",
+      "gradeComment": 4
+    },
+    {
+      "author": "CJ RIZEN",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZuco4QbxcfC8VyaH6ZCGy19dSa-9RSwZv7rYo7qU9kQ=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "(Tradução do Google) O BD Bacatá (abreviatura de Bogotá Downtown Bacatá) é um conjunto arquitetônico que está sendo construído em Bogotá. O projeto está localizado no centro da cidade, no cruzamento da Carrera 5 com a Calle 19. Foi projetado para ter cinco utilizações: habitação, escritórios, hotel, centro comercial e estacionamento (privado e público). Será composta por duas torres, a mais alta terá 67 andares e terá 216 metros e a segunda 56 andares e 167 metros. Arquitetos da Espanha e da Colômbia intervieram em seu projeto, e seus gerentes serão o Grupo Hotusa e o Eurostars Hoteles, o primeiro arranha-céu financiado por particulares por meio de ações e direitos fiduciários.  BD Bacatá  (Original) El BD Bacatá (abreviatura para Bogotá Downtown Bacatá) es un complejo arquitectónico que se está construyendo en Bogotá. El proyecto está ubicado en el centro de la ciudad en la intersección de la carrera 5 y la calle 19. Se ha proyectado que tenga cinco usos: vivienda, oficinas, hotel, centro comercial y parqueadero (privado y público). Estará compuesto por dos torres, la más alta tendrá 67 pisos y medirá 216 metros y la segunda 56 pisos y 167 metros. En su diseño han intervenido arquitectos de España y Colombia.​ Sus gestores serán el Grupo Hotusa y Eurostars Hoteles el primer rascacielos financiado por personas naturales mediante acciones y derechos fiduciario.  BD Bacatá",
+      "gradeComment": 5
+    },
+    {
+      "author": "Alex Wega",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucosdvB4ziIjXgD-flX-hZPViBGstKNu2WU_J52D=w36-h36-p-c0x00000000-rp-mo-br100",
+      "comment": "(Tradução do Google) boa ubicação. relativa segurança para estar no centro. excelente vista  (Original) buena ubicacion. relativa seguridad para estar en el centro. excelente vista",
+      "gradeComment": 5
+    }
+  ],
+  "peakHours": [
+    {
+      "Sunday": []
+    },
+    {
+      "Monday": [
+        {
+          "hour": "08:00",
+          "percent": 36
+        },
+        {
+          "hour": "09:00",
+          "percent": 48
+        },
+        {
+          "hour": "10:00",
+          "percent": 59
+        },
+        {
+          "hour": "11:00",
+          "percent": 68
+        },
+        {
+          "hour": "12:00",
+          "percent": 74
+        },
+        {
+          "hour": "13:00",
+          "percent": 75
+        },
+        {
+          "hour": "14:00",
+          "percent": 73
+        },
+        {
+          "hour": "15:00",
+          "percent": 66
+        },
+        {
+          "hour": "16:00",
+          "percent": 57
+        },
+        {
+          "hour": "17:00",
+          "percent": 46
+        }
+      ]
+    },
+    {
+      "Tuesday": [
+        {
+          "hour": "08:00",
+          "percent": 52
+        },
+        {
+          "hour": "09:00",
+          "percent": 72
+        },
+        {
+          "hour": "10:00",
+          "percent": 87
+        },
+        {
+          "hour": "11:00",
+          "percent": 96
+        },
+        {
+          "hour": "12:00",
+          "percent": 100
+        },
+        {
+          "hour": "13:00",
+          "percent": 99
+        },
+        {
+          "hour": "14:00",
+          "percent": 98
+        },
+        {
+          "hour": "15:00",
+          "percent": 93
+        },
+        {
+          "hour": "16:00",
+          "percent": 85
+        },
+        {
+          "hour": "17:00",
+          "percent": 71
+        }
+      ]
+    },
+    {
+      "Wednesday": [
+        {
+          "hour": "08:00",
+          "percent": 53
+        },
+        {
+          "hour": "09:00",
+          "percent": 73
+        },
+        {
+          "hour": "10:00",
+          "percent": 87
+        },
+        {
+          "hour": "11:00",
+          "percent": 91
+        },
+        {
+          "hour": "12:00",
+          "percent": 92
+        },
+        {
+          "hour": "13:00",
+          "percent": 94
+        },
+        {
+          "hour": "14:00",
+          "percent": 97
+        },
+        {
+          "hour": "15:00",
+          "percent": 96
+        },
+        {
+          "hour": "16:00",
+          "percent": 89
+        },
+        {
+          "hour": "17:00",
+          "percent": 72
+        }
+      ]
+    },
+    {
+      "Thursday": [
+        {
+          "hour": "09:00",
+          "percent": 60
+        },
+        {
+          "hour": "10:00",
+          "percent": 76
+        },
+        {
+          "hour": "11:00",
+          "percent": 83
+        },
+        {
+          "hour": "12:00",
+          "percent": 85
+        },
+        {
+          "hour": "13:00",
+          "percent": 85
+        },
+        {
+          "hour": "14:00",
+          "percent": 87
+        },
+        {
+          "hour": "15:00",
+          "percent": 88
+        },
+        {
+          "hour": "16:00",
+          "percent": 83
+        },
+        {
+          "hour": "17:00",
+          "percent": 70
+        }
+      ]
+    },
+    {
+      "Friday": [
+        {
+          "hour": "08:00",
+          "percent": 41
+        },
+        {
+          "hour": "09:00",
+          "percent": 53
+        },
+        {
+          "hour": "10:00",
+          "percent": 65
+        },
+        {
+          "hour": "11:00",
+          "percent": 76
+        },
+        {
+          "hour": "12:00",
+          "percent": 84
+        },
+        {
+          "hour": "13:00",
+          "percent": 89
+        },
+        {
+          "hour": "14:00",
+          "percent": 91
+        },
+        {
+          "hour": "15:00",
+          "percent": 88
+        },
+        {
+          "hour": "16:00",
+          "percent": 82
+        },
+        {
+          "hour": "17:00",
+          "percent": 73
+        }
+      ]
+    },
+    {
+      "Saturday": [
+        {
+          "hour": "09:00",
+          "percent": 32
+        },
+        {
+          "hour": "10:00",
+          "percent": 44
+        },
+        {
+          "hour": "11:00",
+          "percent": 53
+        },
+        {
+          "hour": "12:00",
+          "percent": 59
+        },
+        {
+          "hour": "13:00",
+          "percent": 58
+        },
+        {
+          "hour": "14:00",
+          "percent": 53
+        },
+        {
+          "hour": "15:00",
+          "percent": 43
+        },
+        {
+          "hour": "16:00",
+          "percent": 33
+        }
+      ]
+    }
+  ],
+  "relatedSearches": [
+    "bogotá wikipedia",
+    "bogota airport code",
+    "colombia tallest building",
+    "edificios mas altos de colombia"
+  ],
+  "relateds": [
+    {
+      "mainName": "Torre Colpatria",
+      "url": null
+    },
+    {
+      "mainName": "Torres Atrio",
+      "url": null
+    },
+    {
+      "mainName": "BD bacatá mirador",
+      "url": null
+    },
+    {
+      "mainName": "Bacatá Tower Casino",
+      "url": null
+    },
+    {
+      "mainName": "Calle 19",
+      "url": null
+    },
+    {
+      "mainName": "Centro de Comercio Internacional",
+      "url": null
+    },
+    {
+      "mainName": "Avianca Building",
+      "url": null
+    },
+    {
+      "mainName": "Salitre Mágico",
+      "url": null
+    },
+    {
+      "mainName": "Cici Aquapark",
+      "url": null
+    },
+    {
+      "mainName": "North Point - Carrillo",
+      "url": null
+    },
+    {
+      "mainName": "GRAND BAY CLUB",
+      "url": null
+    },
+    {
+      "mainName": "Cali Tower",
+      "url": null
+    },
+    {
+      "mainName": "Torre del Café",
+      "url": null
+    },
+    {
+      "mainName": "Coltejer Building",
+      "url": null
+    },
+    {
+      "mainName": "Luckia Casino - biggest poker room in Bogotá",
+      "url": null
+    },
+    {
+      "mainName": "Aguas A - 1",
+      "url": null
+    },
+    {
+      "mainName": "North Point Tower building Krystal P H",
+      "url": null
+    },
+    {
+      "mainName": "Estación Universidades-KR 3 - CL 21",
+      "url": null
+    },
+    {
+      "mainName": "Windsor House",
+      "url": null
+    },
+    {
+      "mainName": "La Candelaria",
+      "url": null
+    },
+    {
+      "mainName": "Iglesia Nuestra Señora de las Nieves",
+      "url": null
+    },
+    {
+      "mainName": "Museu do Ouro",
+      "url": null
+    }
+  ]
+}

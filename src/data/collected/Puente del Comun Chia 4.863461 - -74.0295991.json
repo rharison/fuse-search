@@ -1,0 +1,792 @@
+{
+  "mainName": "Puente del Comun Chia",
+  "slug": "puente-del-comun-chia",
+  "category": "Local histórico",
+  "locationInformation": {
+    "latitude": "4.863461",
+    "longitude": "-74.0295991"
+  },
+  "basicInformation": [
+    {
+      "label": "endereço",
+      "tooltip": "Copiar endereço",
+      "text": "Chía, Cundinamarca, Colômbia",
+      "icon": "https://www.gstatic.com/images/icons/material/system_gm/1x/place_gm_blue_24dp.png"
+    },
+    {
+      "label": "Code",
+      "tooltip": "Copiar Plus Code",
+      "text": "VX7C+95 Chía, Cundinamarca, Colômbia",
+      "icon": "https://maps.gstatic.com/mapfiles/maps_lite/images/2x/ic_plus_code.png"
+    }
+  ],
+  "ratingInformation": {
+    "basicRatingInformation": {
+      "averageGrade": 4.6,
+      "totalOfEvaluations": 208
+    },
+    "ratingsByGrade": [
+      {
+        "grade": 5,
+        "totalRatings": 149
+      },
+      {
+        "grade": 4,
+        "totalRatings": 45
+      },
+      {
+        "grade": 3,
+        "totalRatings": 8
+      },
+      {
+        "grade": 2,
+        "totalRatings": 3
+      },
+      {
+        "grade": 1,
+        "totalRatings": 3
+      }
+    ]
+  },
+  "ratingTags": [
+    {
+      "tag": "fotos",
+      "count": 8,
+      "tooltip": "fotos, mencionado em 8 avaliações"
+    },
+    {
+      "tag": "arquitetura",
+      "count": 7,
+      "tooltip": "arquitetura, mencionado em 7 avaliações"
+    },
+    {
+      "tag": "turístico",
+      "count": 5,
+      "tooltip": "turístico, mencionado em 5 avaliações"
+    },
+    {
+      "tag": "emblemático",
+      "count": 3,
+      "tooltip": "emblemático, mencionado em 3 avaliações"
+    }
+  ],
+  "featuredPhotos": [
+    "https://lh5.googleusercontent.com/p/AF1QipO-qpUaG1l1W5fRkkv4AD325cXZc4uBOfC1il6t=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNAE6IuQMm6-fRwa-QPDocutRfzsoVgIwlyOTwX=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipO_1ED1SkWX7HvcWoP1kwyWBV0N3xEOD4pB3hJS=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMYKyjk7ruJ16WKLGBvlWyNjJRxGBbUXhbns1FJ=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMtNjWwqNXv5WfGloX6pqhe8yJ30C24eYQho4bm=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNcyKXPCfx14jg0NsgN2kBD5u3ODpdBRWrHmXvu=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOhMtFYVudPEz34YiyD2yC7oXWp3ynEISrjfpRh=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMWek2oGEbzbqQaCDpcJiSWL2S8ujga8rx7mvz7=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNQzueRY-oHEdiat1i1pQExlgaXg_kL3IwfNOoA=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipO-dvyLx_PGkQayqolLtPkH9Wei-iYlxiOHv4qQ=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPhFFDrr5w8kRT5V-Oy4-naqfXtcU69I8Hip2gf=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPASx8w3xrBbc2QF1o_SvE32edpq-sHEZvrDnOM=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipP60C2ATrSzxQrIcLcx3GB5MgSZPuj8JmARyExr=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipN8mAjD5KFZUB-4onAZZPQ6EUi88RJpepeZWfOO=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOcM9h7_ZmLsEonuSIMp3x4zV43EfyjDzmPSEJU=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipP6y98DfFj9lBGnFwMmE4n3Ep8KYHC-XkaghGMl=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipN1tp4nyMCyJvW6RaKk4-Cm87zipoE6L1TpQRLQ=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipM3uumHvmGF2zV006W-1xzjqWWq1W9Mx7aSg5fr=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipO6FOakbo7l-7eT1s9RVfPHfzwWlzBqqp9_lRNf=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMiyeS26x9sLbpZJfymWNvG72w90ot5e98l7bOK=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPtwIxxEc5wjFXjMeb1fCdExDBQJgfO6FknawNH=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNZabLsbX-uSXH2fo59vi9AM6aWHOw5B4cRFRwy=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipORB2NJ5Zuo0Qx1KVP6YQs3fjXcYibB1IZS2ebM=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNCf32DU0xnNJXiJQI9SaQ9ZmuvV4HvVwyzLnab=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipM4mmrvIwU4fUlUMV2A0HzwPzd67HdR3aG3m-dW=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipM-VgvbXR2ujSqh5LqUFK4c2bCpqU56k9bW7n9A=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipP7Ft0mT_noM3xSpfX5SxujOkgnyEqYcGZWEmmG=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMSmpqxZ1QyG5KmR6wlFDEDAml3066uiXX6zcdS=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMkzlqGeb1_RzBkQc-gQ2fBONi-3oZd4KxNg15S=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOr-hCyPIDgqDI7unwtgI-AxDHquUI4nvHa2p-O=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipP-ZTR4xtj_kbZkRC1xTNcGhNLyMrXjSlMcJgX4=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOlDyfv66wVJRpxITpxArJpwW1OP04vfRdsPKTL=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOfWBLn4lQZ0Bbxo4ju17NIprd_PjgmiDQZAmww=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPbIQ2ZXEGBTFB3qyZ48pBWrBXIJx0IvKbSKEgD=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMgiz5KtflJh3DZ6481xvfAw78RVJ2oI0pCKL5f=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPlGZHxoCx87lkRWWO0Tm8TdfbsdVFp0_RWcSW0=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNl_Ms473QJHCUJcOfUQv9X6uhp4F2FoOqiZU5t=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOr7Yr6Smy_a8OSBowltXKKSWhOcaiimDKbs1d0=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipO-MolMRa9XrIyqZQ18Yq6lMUw93p_8oqDGcFv9=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNgyhBdibrVoErZfiFTayBJIATcpL4p_UFjmw3k=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNymOG4LKe_FvCsVl9c9tC94EwDZv5YqIUaivss=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNhj4aw96X_cLj6pI-0Dzqph5ud_OGhYghRui2y=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNhQCZexiUlLWsmHcZZh_EIBKPSvhIGixAsPw1j=w1024-h576-k-no"
+  ],
+  "topComments": [
+    {
+      "author": "Luis Felipe Gonzalez",
+      "photoAuthor": "https://lh3.googleusercontent.com/a/AItbvmn_QOMqL6yu6jN5cQD7bbgRwHYNImeLpX9Rdm0o=w36-h36-p-c0x00000000-rp-mo-br100",
+      "comment": "(Tradução do Google) A ponte comum está muito bem preservada e o seu entorno é muito bonito, com a sua arquitectura de pedra e na sua envolvente contrasta entre o muito moderno e o antigo onde se pode ver o castelo de Marroquín e as estradas com pontes e savana  (Original) El puente del común se encuentra muy bien conservado y su entorno es muy bonito ,con su arquitectura en piedra y en sus alrededores contrasta  entre muy modernos y antiguos dónde se aprecia el castillo de Marroquín y las vías con puentes y naturaleza sabanera",
+      "gradeComment": 5
+    },
+    {
+      "author": "César Augusto Martínez Cabieles",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucpilyMfKQCYNLAXwnc6JT7Y0EJ7kTfo8EbkSFhj=w36-h36-p-c0x00000000-rp-mo-ba7-br100",
+      "comment": "(Tradução do Google) Estrutura da década de 1790 construída em adobe e pedra. Ponte que servia para atravessar o rio Bogotá naqueles anos! Não é fácil estacionar para visitá-lo. Falta acesso.  (Original) Una estructura que data de los años 1790 construido en adobe y piedra. Puente que se usaba para cruzar el rio Bogota en esos años! No es fácil estacionar para poderlo visitar. Falta acceso.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Martha Quiroga",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucr29Z7kV_LZ1WzS-Naf3QCcWq--zLA87ZXRXvPQsZE=w36-h36-p-c0x00000000-rp-mo-ba6-br100",
+      "comment": "(Tradução do Google) A Ponte Comum foi construída em 1796. É uma ponte da época colonial, construída sobre o rio Bogotá, em Chía. É um lugar histórico na região. No entanto, hoje para os moradores que por ali passam, já se torna paisagem e não chama tanta atenção quanto para os turistas que vêm conhecer o cerrado.  (Original) El puente del Común fue construido en 1796. Es un puente de la época de la colonia, construido sobre el río Bogotá, en Chía. Es un lugar histórico de la zona. Sin embargo hoy en día para los residentes que transitan por allí, ya se vuelve paisaje y no llama tanto la atención, cómo lo es para los turistas que vienen a conocer la sabana.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Paula María",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucr8SaEjVX2f_nfu08I9fNGVt8Lj5HLdttcN1D8K4w=w36-h36-p-c0x00000000-rp-mo-ba6-br100",
+      "comment": "(Tradução do Google) O lugar é da importância da ponte de Boyacá ou outros locais históricos da independência, do século de XVIII mas é muito negligenciado pelo município de Chia e a Universidade do Savannah, já não tem a sinalização turística e nos trabalhos eles são perdendo as gravuras originais devido ao graffiti e à passagem do tempo. Além disso, o rio Bogotá é altamente poluído, o cheiro nos dias de sol aumenta e também pode ser inseguro. É um ótimo lugar para caminhar e descansar.  (Original) El lugar es de la importancia del puente de Boyacá u otros sitios históricos de la independencia, del siglo XVIII pero está muy descuidado por parte del municipio de Chía y la Universidad de la Sabana, ya no tiene la señalización turística y en las obras se están perdiendo los grabados originales por los grafitis y el paso del tiempo. Además el río Bogotá está altamente contaminado, el olor en días soleados aumenta y también puede ser inseguro. Es un muy buen lugar para caminar y descansar.",
+      "gradeComment": 4
+    },
+    {
+      "author": "l l",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucoS064PB1RMmFCri4jwu89p9WRACpZ9sSZvnCwEtM4=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "(Tradução do Google) Lugar histórico para visitar, bem preservado, pode ser alcançado a pé a partir da linha ferroviária ou da cidade, tem boas vistas do castelo Chía, fica perto da cidade, perto do comércio  (Original) Lugar histórico para recorrer, bien conservado, se puede llegar caminando desde la línea del ferrocarril o la ciudad, tiene buenas vistas del castillo de Chía, queda cerca a la ciudad, comercio cerca",
+      "gradeComment": 4
+    },
+    {
+      "author": "Santiago Suárez",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucoswE7LLJlZsHu6NOf1QxZm00HEAqBq02CRyg7r=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "(Tradução do Google) Ponte ao estilo colonial que cruza o rio de Bogotá, pode ser apreciado da rodovia que vai de Bogotá para Chia, no entanto, o estacionamento mais próximo é o do centro comercial Chia e o da Universidade do Savannah. Para chegar à ponte a pé você tem que sair do shopping pela entrada da universidade e andar, sem passar pela ponte pedonal que leva à universidade, pela plataforma na direção oposta aos carros até a próxima ponte pedonal, depois Para atravessá-lo, o Puente del Común está na frente. O lugar não está lotado, não está iluminado, recomenda-se ir bem abrigado  (Original) Puente al estilo colonial que atraviesa el río Bogotá, se puede apreciar desde la carretera que va de Bogotá a Chia, sin embargo, el parqueadero mas cercano es el del centro comercial Centro Chia y el de la Universidad de la Sabana. Para llegar al puente caminando se ha de salir del centro comercial por la entrada que da a la universidad y caminar, sin pasar el puente peatonal que lleva a la universidad, por el andén en sentido contrario a los autos hasta el siguiente puente peatonal, después de cruzarlo, el Puente del Común está en frente. El lugar no es concurrido, no es iluminado, se recomienda ir bien abrigado",
+      "gradeComment": 5
+    },
+    {
+      "author": "damian tique",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucr9tCnQHk7gf-nsiZCeEFyslX74laj5lV3EhrqwCA=w36-h36-p-c0x00000000-rp-mo-ba2-br100",
+      "comment": "Exelente lugar para visitar, cuidar y respetar.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Luis Miguel Tamayo Gaviria",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucoT_2hHBKQOW46vJq9hCI492BSWO40WN-pOwReAyA=w36-h36-p-c0x00000000-rp-mo-ba7-br100",
+      "comment": "(Tradução do Google) É um lugar histórico, alegórico à revolução dos comuneros em 1781, próximo a este sítio -no rio Bogotá- em Zipaquirá foram assinadas as capitulações deste episódio da história colombiana. Desta ponte é possível ver claramente a alarmante contaminação do rio que vai atravessar o cerrado.  (Original) Es un lugar histórico, alegórico a la revolución de los comuneros en 1781, cerca de este sitio -sobre el río Bogotá- en Zipaquirá se firmaron las capitulaciones de este episodio de la historia colombiana. Desde este puente se puede ver claramente la alarmante contaminación del Río que va atravesar la sabana.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Ramiro Eduardo",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucprPEdAodBEz2hGyaa12HqZkoRCgD8vWm2x96em5TI=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "(Tradução do Google) Bem fofo, fofo, não, mas sim bom de se olhar  (Original) Pues lindo, lindo, Nó, pero sí agradable a la vista",
+      "gradeComment": 5
+    },
+    {
+      "author": "Damian Barrera",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucoirER7JFXgKxnve9Dfh6iN81Rq00HuF9RMoEPcvQ=w36-h36-p-c0x00000000-rp-mo-br100",
+      "comment": "(Tradução do Google) Um monumento com história de arquitetura colonial, representado no brasão de armas do seu município  (Original) Un monumento con historia de arquitectura colonial, representado en el escudo de su municipio",
+      "gradeComment": 3
+    },
+    {
+      "author": "jf rvrs",
+      "photoAuthor": "https://lh3.googleusercontent.com/a/AItbvmkjNmb9KzDpyKFyTydOI2FhyT4mcA2-AVRjCPWn7MA=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "(Tradução do Google) Um pouco de aromas fortes, mas uma boa visão da natureza.  (Original) Un poco de aromas fuertes pero una buena vista de la naturaleza.",
+      "gradeComment": 4
+    },
+    {
+      "author": "Mariana Deza Chavarri",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucohLZMdY1VHfmDng1WTVrcoIgGA_e5zOqH-PTK-xhU=w36-h36-p-c0x00000000-rp-mo-ba3-br100",
+      "comment": "(Tradução do Google) Lindo lugar para parar no caminho para a Catedral de Zipaquirá  (Original) Hermoso sitio para parar camino a la Cátedral de Zipaquirá",
+      "gradeComment": 5
+    },
+    {
+      "author": "javier santamaria",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucoU5vuaUJFN2Y0QyUGJ8CO05P4YYeKb_2TT759PAw=w36-h36-p-c0x00000000-rp-mo-ba3-br100",
+      "comment": "(Tradução do Google) Finalmente um lugar para fotógrafos  (Original) Por fin un lugar para los fotografos",
+      "gradeComment": 5
+    },
+    {
+      "author": "J Abraham Barrera",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucozN_7Z3aqtgAxGUPQ5KVqdWB-1QTsOPtXxQ6lj=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "(Tradução do Google) Encontra-se abandonado e, segundo a sua ligação com a história de 1792, provavelmente  (Original) Esta abandonado, y segun tine conexion con el historico de 1792  problamente",
+      "gradeComment": 1
+    },
+    {
+      "author": "daniel arias",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucqn2He3LbBMayR26ydxjA0kMPmhHlscJM4ITHv4Tw=w36-h36-p-c0x00000000-rp-mo-br100",
+      "comment": "(Tradução do Google) Lugar emblemático da República Colombiana Construído no século XVIII Localizado na Chia Ciudad de la Luna  (Original) Lugar Emblemático de la República Colombiana Construido en el siglo 18 Ubicado en Chía Ciudad de la Luna",
+      "gradeComment": 5
+    },
+    {
+      "author": "ᛏᛃᚱᛁᛊ ᛒᚢᛏᛏᛃᛖᚱ",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucpnsgTHt-kzlP7-YNDzbDKvkj78ky0TcrsSii2kAQ=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "(Tradução do Google) Boa estrutura, histórica  (Original) Bonita estructura, histórico",
+      "gradeComment": 5
+    },
+    {
+      "author": "andres guillermo hernandez ospino",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucrTcnLCLODZ5T9NtVoLLuZYb0huSrvsNpIPnA5Iyg=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "(Tradução do Google) Lugar que mostra nossa história de como era a Colômbia na era colonial  (Original) Lugar que muestra nuestra historia del como era Colombia el la época de la colonia",
+      "gradeComment": 2
+    },
+    {
+      "author": "Freddy Rodríguez",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucriYVZJah4wOmaWozLtsBDgRrBRonVNbrYLJ2mDiCM=w36-h36-p-c0x00000000-rp-mo-ba5-br100",
+      "comment": "(Tradução do Google) É um local de interesse turístico, é muito bonito, muito limpo, ideal para uma sessão de selfies, não tem cafetaria, casas de banho ... nada mais do que a ponte  (Original) Es un sitio de interés turístico, está muy bonito, muy limpio, ideal para una sesión de selfies, no hay cafeteria, baños...nada más que el puente",
+      "gradeComment": 5
+    },
+    {
+      "author": "okar mon",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucpFM-0z4QRgQSMNA1EhJLN3G17AofRxDks-Gxj1Fw=w36-h36-p-c0x00000000-rp-mo-ba2-br100",
+      "comment": "(Tradução do Google) Bom destino para ir de bicicleta embora a tenham abandonado  (Original) Buen destino para ir en bicicleta aunque lo tienen abandonado",
+      "gradeComment": 4
+    },
+    {
+      "author": "Diego Valderrama",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucotHhD75CKYWvsZVRolaMG_aZfY3lO847MyKtGZEg=w36-h36-p-c0x00000000-rp-mo-ba5-br100",
+      "comment": "(Tradução do Google) Muito bonito, boas paisagens, bom lugar para tirar fotos  (Original) Muy bonito, buenos paisajes, bien lugar para tomar fotografías",
+      "gradeComment": 5
+    }
+  ],
+  "peakHours": [
+    {
+      "Sunday": [
+        {
+          "hour": "04:00",
+          "percent": 10
+        },
+        {
+          "hour": "05:00",
+          "percent": 20
+        },
+        {
+          "hour": "06:00",
+          "percent": 20
+        },
+        {
+          "hour": "07:00",
+          "percent": 30
+        },
+        {
+          "hour": "08:00",
+          "percent": 40
+        },
+        {
+          "hour": "09:00",
+          "percent": 50
+        },
+        {
+          "hour": "10:00",
+          "percent": 60
+        },
+        {
+          "hour": "11:00",
+          "percent": 70
+        },
+        {
+          "hour": "12:00",
+          "percent": 70
+        },
+        {
+          "hour": "13:00",
+          "percent": 70
+        },
+        {
+          "hour": "14:00",
+          "percent": 60
+        },
+        {
+          "hour": "15:00",
+          "percent": 50
+        },
+        {
+          "hour": "16:00",
+          "percent": 50
+        },
+        {
+          "hour": "17:00",
+          "percent": 60
+        },
+        {
+          "hour": "18:00",
+          "percent": 100
+        },
+        {
+          "hour": "19:00",
+          "percent": 80
+        },
+        {
+          "hour": "20:00",
+          "percent": 30
+        },
+        {
+          "hour": "21:00",
+          "percent": 10
+        },
+        {
+          "hour": "22:00",
+          "percent": 10
+        },
+        {
+          "hour": "23:00",
+          "percent": 10
+        },
+        {
+          "hour": "00:00",
+          "percent": 10
+        },
+        {
+          "hour": "01:00",
+          "percent": 10
+        },
+        {
+          "hour": "02:00",
+          "percent": 10
+        },
+        {
+          "hour": "03:00",
+          "percent": 10
+        }
+      ]
+    },
+    {
+      "Monday": [
+        {
+          "hour": "04:00",
+          "percent": 10
+        },
+        {
+          "hour": "05:00",
+          "percent": 10
+        },
+        {
+          "hour": "06:00",
+          "percent": 10
+        },
+        {
+          "hour": "07:00",
+          "percent": 20
+        },
+        {
+          "hour": "08:00",
+          "percent": 30
+        },
+        {
+          "hour": "10:00",
+          "percent": 30
+        },
+        {
+          "hour": "11:00",
+          "percent": 30
+        },
+        {
+          "hour": "12:00",
+          "percent": 30
+        },
+        {
+          "hour": "13:00",
+          "percent": 70
+        },
+        {
+          "hour": "14:00",
+          "percent": 20
+        },
+        {
+          "hour": "15:00",
+          "percent": 10
+        },
+        {
+          "hour": "16:00",
+          "percent": 10
+        },
+        {
+          "hour": "17:00",
+          "percent": 10
+        },
+        {
+          "hour": "21:00",
+          "percent": 10
+        },
+        {
+          "hour": "22:00",
+          "percent": 20
+        },
+        {
+          "hour": "23:00",
+          "percent": 20
+        },
+        {
+          "hour": "00:00",
+          "percent": 10
+        },
+        {
+          "hour": "02:00",
+          "percent": 10
+        },
+        {
+          "hour": "03:00",
+          "percent": 10
+        }
+      ]
+    },
+    {
+      "Tuesday": [
+        {
+          "hour": "04:00",
+          "percent": 10
+        },
+        {
+          "hour": "12:00",
+          "percent": 10
+        },
+        {
+          "hour": "13:00",
+          "percent": 30
+        },
+        {
+          "hour": "14:00",
+          "percent": 40
+        },
+        {
+          "hour": "15:00",
+          "percent": 40
+        },
+        {
+          "hour": "16:00",
+          "percent": 20
+        },
+        {
+          "hour": "17:00",
+          "percent": 20
+        },
+        {
+          "hour": "18:00",
+          "percent": 20
+        },
+        {
+          "hour": "19:00",
+          "percent": 20
+        },
+        {
+          "hour": "20:00",
+          "percent": 20
+        },
+        {
+          "hour": "21:00",
+          "percent": 30
+        },
+        {
+          "hour": "22:00",
+          "percent": 20
+        },
+        {
+          "hour": "23:00",
+          "percent": 20
+        },
+        {
+          "hour": "00:00",
+          "percent": 20
+        },
+        {
+          "hour": "01:00",
+          "percent": 10
+        },
+        {
+          "hour": "02:00",
+          "percent": 10
+        },
+        {
+          "hour": "03:00",
+          "percent": 10
+        }
+      ]
+    },
+    {
+      "Wednesday": [
+        {
+          "hour": "04:00",
+          "percent": 10
+        },
+        {
+          "hour": "05:00",
+          "percent": 20
+        },
+        {
+          "hour": "06:00",
+          "percent": 30
+        },
+        {
+          "hour": "07:00",
+          "percent": 20
+        },
+        {
+          "hour": "08:00",
+          "percent": 10
+        },
+        {
+          "hour": "13:00",
+          "percent": 10
+        },
+        {
+          "hour": "14:00",
+          "percent": 10
+        },
+        {
+          "hour": "15:00",
+          "percent": 20
+        },
+        {
+          "hour": "16:00",
+          "percent": 30
+        },
+        {
+          "hour": "17:00",
+          "percent": 40
+        },
+        {
+          "hour": "18:00",
+          "percent": 40
+        },
+        {
+          "hour": "19:00",
+          "percent": 40
+        },
+        {
+          "hour": "20:00",
+          "percent": 30
+        },
+        {
+          "hour": "21:00",
+          "percent": 20
+        },
+        {
+          "hour": "22:00",
+          "percent": 10
+        },
+        {
+          "hour": "23:00",
+          "percent": 10
+        },
+        {
+          "hour": "00:00",
+          "percent": 10
+        },
+        {
+          "hour": "03:00",
+          "percent": 10
+        }
+      ]
+    },
+    {
+      "Thursday": []
+    },
+    {
+      "Friday": [
+        {
+          "hour": "04:00",
+          "percent": 10
+        },
+        {
+          "hour": "05:00",
+          "percent": 10
+        },
+        {
+          "hour": "06:00",
+          "percent": 20
+        },
+        {
+          "hour": "07:00",
+          "percent": 30
+        },
+        {
+          "hour": "08:00",
+          "percent": 30
+        },
+        {
+          "hour": "09:00",
+          "percent": 20
+        },
+        {
+          "hour": "10:00",
+          "percent": 20
+        },
+        {
+          "hour": "11:00",
+          "percent": 20
+        },
+        {
+          "hour": "12:00",
+          "percent": 20
+        },
+        {
+          "hour": "13:00",
+          "percent": 30
+        },
+        {
+          "hour": "14:00",
+          "percent": 40
+        },
+        {
+          "hour": "15:00",
+          "percent": 40
+        },
+        {
+          "hour": "16:00",
+          "percent": 40
+        },
+        {
+          "hour": "17:00",
+          "percent": 40
+        },
+        {
+          "hour": "18:00",
+          "percent": 30
+        },
+        {
+          "hour": "19:00",
+          "percent": 30
+        },
+        {
+          "hour": "20:00",
+          "percent": 20
+        },
+        {
+          "hour": "21:00",
+          "percent": 20
+        },
+        {
+          "hour": "22:00",
+          "percent": 10
+        },
+        {
+          "hour": "23:00",
+          "percent": 10
+        },
+        {
+          "hour": "00:00",
+          "percent": 10
+        },
+        {
+          "hour": "01:00",
+          "percent": 10
+        },
+        {
+          "hour": "02:00",
+          "percent": 10
+        },
+        {
+          "hour": "03:00",
+          "percent": 10
+        }
+      ]
+    },
+    {
+      "Saturday": [
+        {
+          "hour": "04:00",
+          "percent": 10
+        },
+        {
+          "hour": "05:00",
+          "percent": 10
+        },
+        {
+          "hour": "06:00",
+          "percent": 10
+        },
+        {
+          "hour": "07:00",
+          "percent": 10
+        },
+        {
+          "hour": "08:00",
+          "percent": 10
+        },
+        {
+          "hour": "09:00",
+          "percent": 40
+        },
+        {
+          "hour": "10:00",
+          "percent": 80
+        },
+        {
+          "hour": "11:00",
+          "percent": 70
+        },
+        {
+          "hour": "12:00",
+          "percent": 40
+        },
+        {
+          "hour": "13:00",
+          "percent": 40
+        },
+        {
+          "hour": "14:00",
+          "percent": 50
+        },
+        {
+          "hour": "15:00",
+          "percent": 70
+        },
+        {
+          "hour": "16:00",
+          "percent": 90
+        },
+        {
+          "hour": "17:00",
+          "percent": 100
+        },
+        {
+          "hour": "18:00",
+          "percent": 100
+        },
+        {
+          "hour": "19:00",
+          "percent": 90
+        },
+        {
+          "hour": "20:00",
+          "percent": 70
+        },
+        {
+          "hour": "21:00",
+          "percent": 50
+        },
+        {
+          "hour": "22:00",
+          "percent": 40
+        },
+        {
+          "hour": "23:00",
+          "percent": 30
+        },
+        {
+          "hour": "00:00",
+          "percent": 20
+        },
+        {
+          "hour": "01:00",
+          "percent": 20
+        },
+        {
+          "hour": "02:00",
+          "percent": 10
+        },
+        {
+          "hour": "03:00",
+          "percent": 10
+        }
+      ]
+    }
+  ],
+  "relatedSearches": [
+    "mapa de chía por barrios",
+    "chía cundinamarca mapa",
+    "vereda de chía",
+    "coordenadas chía",
+    "puente ospina pérez",
+    "chia nombre",
+    "construcción del puente cal y canto",
+    "bogotá - chía",
+    "mapa de chía por barrios",
+    "chía cundinamarca mapa",
+    "vereda de chía",
+    "coordenadas chía",
+    "puente ospina pérez",
+    "chia nombre",
+    "construcción del puente cal y canto",
+    "bogotá - chía"
+  ],
+  "relateds": []
+}

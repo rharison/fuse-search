@@ -1,0 +1,746 @@
+{
+  "mainName": "Pedrocchi Café",
+  "slug": "pedrocchi-cafe",
+  "category": "Café",
+  "locationInformation": {
+    "latitude": "45.4077448",
+    "longitude": "11.877228"
+  },
+  "basicInformation": [
+    {
+      "label": "endereço",
+      "tooltip": "Copiar endereço",
+      "text": "Via VIII Febbraio, 15, 35122 Padova PD, Itália",
+      "icon": "https://www.gstatic.com/images/icons/material/system_gm/1x/place_gm_blue_24dp.png"
+    },
+    {
+      "label": "cardápio",
+      "tooltip": "Abrir link do cardápio",
+      "text": "Cardápio\nindd.adobe.com",
+      "icon": "https://www.gstatic.com/images/icons/material/system_gm/1x/list_gm_blue_24dp.png"
+    },
+    {
+      "label": "website",
+      "tooltip": "Abrir website",
+      "text": "caffepedrocchi.it",
+      "icon": "https://www.gstatic.com/images/icons/material/system_gm/1x/public_gm_blue_24dp.png"
+    },
+    {
+      "label": "telefone",
+      "tooltip": "Copiar número de telefone",
+      "text": "+39 049 878 1231",
+      "icon": "https://www.gstatic.com/images/icons/material/system_gm/1x/phone_gm_blue_24dp.png"
+    },
+    {
+      "label": "Code",
+      "tooltip": "Copiar Plus Code",
+      "text": "CV5G+3V Pádua, Itália",
+      "icon": "https://maps.gstatic.com/mapfiles/maps_lite/images/2x/ic_plus_code.png"
+    }
+  ],
+  "ratingInformation": {
+    "basicRatingInformation": {
+      "averageGrade": 4.4,
+      "totalOfEvaluations": 7627
+    },
+    "ratingsByGrade": [
+      {
+        "grade": 5,
+        "totalRatings": 4758
+      },
+      {
+        "grade": 4,
+        "totalRatings": 1836
+      },
+      {
+        "grade": 3,
+        "totalRatings": 561
+      },
+      {
+        "grade": 2,
+        "totalRatings": 216
+      },
+      {
+        "grade": 1,
+        "totalRatings": 256
+      }
+    ]
+  },
+  "ratingTags": [
+    {
+      "tag": "história",
+      "count": 383,
+      "tooltip": "história, mencionado em 383 avaliações"
+    },
+    {
+      "tag": "menta",
+      "count": 245,
+      "tooltip": "menta, mencionado em 245 avaliações"
+    },
+    {
+      "tag": "símbolo",
+      "count": 41,
+      "tooltip": "símbolo, mencionado em 41 avaliações"
+    },
+    {
+      "tag": "alunos",
+      "count": 40,
+      "tooltip": "alunos, mencionado em 40 avaliações"
+    },
+    {
+      "tag": "universidade",
+      "count": 39,
+      "tooltip": "universidade, mencionado em 39 avaliações"
+    },
+    {
+      "tag": "cacau",
+      "count": 35,
+      "tooltip": "cacau, mencionado em 35 avaliações"
+    },
+    {
+      "tag": "monumento",
+      "count": 34,
+      "tooltip": "monumento, mencionado em 34 avaliações"
+    },
+    {
+      "tag": "piano",
+      "count": 20,
+      "tooltip": "piano, mencionado em 20 avaliações"
+    }
+  ],
+  "featuredPhotos": [
+    "https://lh5.googleusercontent.com/p/AF1QipPd-1ibcXOUCMx-hAJL9yp--PxK3vwryZqRRoRK=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOTWV6y5RBR9UWxVMO1sCbSlVDtKh7bXJZQBlse=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMkHMv8OIdv52EEniggN3aCQfW2nwbROBqmeJMC=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipP2HONwvcM1oSWIheeHsT-guB61Ta1Bh0UmF_E8=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipN6Bzx4fnwbjmUEW24SApW6TCS_6SiFHdwu6pGt=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMVJbAvyXEj_jqcJNRS8K43vLYCDRD6AhVOeONG=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPs35c7YHqjRMnjaVC7w99qRmL1EgdRuUwNPsqb=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPeeIuAN52nYp5gYvS5DjsIXKOLDB2CuP0R4w9-=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMJxOUWPND_bW0W848EHPQlgUIQzEEk7ik468rK=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPEFCWtj790SsqP-IaQy-fSONa6DA5GW8RI_gA2=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOCJMGnONPGs_4NZYWfR6wqSWWJakTYGidWk09c=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOy_NlkxPMCqc-PucRrhpkPSeEKNPPV1uj8j--r=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMjjy5pmdyGSwQfE0Sh-IrFLS6_X6Tfqlyd0fom=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPBMj5CDKH_HRwjx2topxME9rI1L7inpstUgAY8=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOijjRwYHb1mPbbwXaZbA-byQVDkWm_K52kBzzl=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOrR6PrwLTfqJpeRjH_dYvoH4nLu4kgGdtKbs4w=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPdbOsBI9bcBLvoQn77uDPB591Z9aG6u_xiWY-s=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMEm1XxeTFuX2n8P7PNDA790mKVRYZxiAR8EbF_=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNRKyz7KWfP0eit6zYSrXefDGvYDN5ve7YHypX_=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPVbWPXWtpKFDwsTf3txEwCYJ3XYmDFNERwXVIf=w1024-h576-k-no"
+  ],
+  "topComments": [
+    {
+      "author": "Leonardo Costi",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucopOYBhuxxeDfTiplb8VDsXwXbU53ct7ag3Mge8x70=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "Muito bom. Mas há outros melhores em Parma. Aqui vale pela história e pela tradição!",
+      "gradeComment": 4
+    },
+    {
+      "author": "Curinguinha Kuringuinha",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucrPDyBlQwKNzJjq7XFrt3OpGXUvgdRus_ZYpoEdnw=w36-h36-p-c0x00000000-rp-mo-ba2-br100",
+      "comment": "Tudo muito bom gente e não é o lugar mais caro da cidade, levemente mais alto o preço do que outras cafeterias. O lugar é histórico e vale no mínimo olhar por dentro. A dica é pedir algo no balcão que custa menos e depois sentar nas mesas especificas pra isso no interior do café. Peçam o P31 que é um spritz típico deles e é bem docinho e leve.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Maicon Goettert",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucqf3bPqSLZjWehaVVHJMN1VSWCCWDuT_Cvt7y8c22Q=w36-h36-p-c0x00000000-rp-mo-ba2-br100",
+      "comment": "O Caffe Pedrocchi é mais que saboroso, é uma experiência a degustação!",
+      "gradeComment": 5
+    },
+    {
+      "author": "Maria Tavares",
+      "photoAuthor": "https://lh3.googleusercontent.com/a/AItbvmk6F3Sxz-v4RmM2MswIaF_O1DKTrj5I1gwYbHuC=w36-h36-p-c0x00000000-rp-mo-br100",
+      "comment": "Adorei entrar pq: o café talvez seja único, eu digo : o néctar dos Deuses. Sabor, cor do café, tudo!! A estrutura clássica e maravilhosa! Recomendo vivamente.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Edegar Neumann",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucrSZlSZqULN7OZ5fD0dcLwpSC4IOE1SWfj9sddObYM=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "A torta Pedrocchi é deliciosa e o ambiente é muito aconchegante, recheado de História e charme.",
+      "gradeComment": 4
+    },
+    {
+      "author": "Marcelino Jose de Souza",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucrmKb8COVYeXM6unPwiA4yarZx6PgHsjJOwRy0xgg=w36-h36-p-c0x00000000-rp-mo-ba3-br100",
+      "comment": "Um pequeno museu, mas que conta uma parte grande da história dos conflitos armados que envolveram a cidade de Padova e a região, da invasão de Napolēao até a 2a. Guerra.",
+      "gradeComment": 4
+    },
+    {
+      "author": "Helena Grynfogiel",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucoqhUTATpH-70NvZnMgJb9IWTMVbJrhVhL0de-hCw=w36-h36-p-c0x00000000-rp-mo-ba6-br100",
+      "comment": "Gostoso . Vale a pena conhecer , bem localizado tem lugares histórico e culturais ao redor , por isso que acabei postando estas fotos , vale a pena conhecer .",
+      "gradeComment": 5
+    },
+    {
+      "author": "MANOELA VELOSO",
+      "photoAuthor": "https://lh3.googleusercontent.com/a/AItbvmkbNXSo_foywurZHJc3AwxMMut7ZYUVUBnuCya1=w36-h36-p-c0x00000000-rp-mo-ba2-br100",
+      "comment": "Delicioso chocolate quente e café. Bom atendimento.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Miro Garcia",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucpLq0vhHjltvLv3CHPzPQ19Tb766sjxRdtvMmyQZg=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "Aconchegante, com bom atendimento em local agradável, comida saborosa.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Eduardo Pires",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucoy-iNc_lIeH-vwOZulUhOCdKb9p71zokAgmqb8ww=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "O melhor café com menta que eu já tomei.",
+      "gradeComment": 4
+    },
+    {
+      "author": "Pedro Lamosa",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucrWyZDir5SlRz1V3ITTcnLYyOU8_OJWnv7RZyh4=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "Atmosfera deliciosa. Preço médio alto.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Marcio Gomes",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucpOiSEhg002GJylWZ-kLjSzf2dAhkV4SZSRcywnOOw=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "Ambiente agradável , experimentei um Spritz muito bom .",
+      "gradeComment": 5
+    },
+    {
+      "author": "Aier Morcelli",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucoEJjU7isBALExY8C_-bOkAMvlmGgNllKMjIa6U=w36-h36-p-c0x00000000-rp-mo-ba6-br100",
+      "comment": "Muito chique. De primeira classe. Comi uma piadina Muito boa!",
+      "gradeComment": 5
+    },
+    {
+      "author": "Ana Vicente",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucqpUbQc5UiQrz34abhZdQ28dIMRnmu0MnSmOa5X6A=w36-h36-p-c0x00000000-rp-mo-ba6-br100",
+      "comment": "Muito bonito. óptima comida e bom atendimento",
+      "gradeComment": 5
+    },
+    {
+      "author": "Fatima Montoza",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucpJ8Ut2CGh9J61M-iRAh5WFTueAFKQFT9Bf7l0tGg=w36-h36-p-c0x00000000-rp-mo-ba3-br100",
+      "comment": "Lugar famoso, atendimento demorado, decoração bonita",
+      "gradeComment": 5
+    },
+    {
+      "author": "Fábio T. Ribeiro",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucpqQ3m9MSPsBcLlfSBXORxcp9SbJAcH_dxHHGQvpMI=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "Maravilhoso, esplêndido, bom Atendimento e ótimos produtos",
+      "gradeComment": 5
+    },
+    {
+      "author": "Douglas Therezani",
+      "photoAuthor": "https://lh3.googleusercontent.com/a/AItbvmnWIhjMQCaVrULasOMUkNw9iMU5-LLSKZq6mUcf=w36-h36-p-c0x00000000-rp-mo-ba5-br100",
+      "comment": "Belo lugar, preço um pouco \"salgado\".",
+      "gradeComment": 5
+    },
+    {
+      "author": "Maura Troncoso braga Jose",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucppx0gcU9H4rCCpdJpVjTO3qmas6IjVShfjtJFATNI=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "Um charme, café delicioso!!",
+      "gradeComment": 5
+    },
+    {
+      "author": "PRISCILA FRASSETTO VITALI",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucoVvznv0WV1hCyUrg6SWaYzDTt4TrTebwNpu_e-CQ=w36-h36-p-c0x00000000-rp-mo-ba5-br100",
+      "comment": "É como voltar no tempo e sentir intelectual.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Paulo Veloso",
+      "photoAuthor": "https://lh3.googleusercontent.com/a/AItbvmmbMunYKx-GxwZFu_Us9IxYVxsCTe57SRkSX6Gc=w36-h36-p-c0x00000000-rp-mo-ba3-br100",
+      "comment": "Bem giro.",
+      "gradeComment": 4
+    }
+  ],
+  "peakHours": [
+    {
+      "Sunday": [
+        {
+          "hour": "08:00",
+          "percent": 10
+        },
+        {
+          "hour": "09:00",
+          "percent": 32
+        },
+        {
+          "hour": "10:00",
+          "percent": 63
+        },
+        {
+          "hour": "11:00",
+          "percent": 84
+        },
+        {
+          "hour": "12:00",
+          "percent": 84
+        },
+        {
+          "hour": "13:00",
+          "percent": 76
+        },
+        {
+          "hour": "14:00",
+          "percent": 76
+        },
+        {
+          "hour": "15:00",
+          "percent": 81
+        },
+        {
+          "hour": "16:00",
+          "percent": 84
+        },
+        {
+          "hour": "17:00",
+          "percent": 80
+        },
+        {
+          "hour": "18:00",
+          "percent": 71
+        },
+        {
+          "hour": "19:00",
+          "percent": 57
+        },
+        {
+          "hour": "20:00",
+          "percent": 41
+        },
+        {
+          "hour": "21:00",
+          "percent": 27
+        },
+        {
+          "hour": "22:00",
+          "percent": 16
+        },
+        {
+          "hour": "23:00",
+          "percent": 8
+        }
+      ]
+    },
+    {
+      "Monday": [
+        {
+          "hour": "08:00",
+          "percent": 7
+        },
+        {
+          "hour": "09:00",
+          "percent": 21
+        },
+        {
+          "hour": "10:00",
+          "percent": 39
+        },
+        {
+          "hour": "11:00",
+          "percent": 52
+        },
+        {
+          "hour": "12:00",
+          "percent": 52
+        },
+        {
+          "hour": "13:00",
+          "percent": 47
+        },
+        {
+          "hour": "14:00",
+          "percent": 44
+        },
+        {
+          "hour": "15:00",
+          "percent": 46
+        },
+        {
+          "hour": "16:00",
+          "percent": 48
+        },
+        {
+          "hour": "17:00",
+          "percent": 47
+        },
+        {
+          "hour": "18:00",
+          "percent": 43
+        },
+        {
+          "hour": "19:00",
+          "percent": 36
+        },
+        {
+          "hour": "20:00",
+          "percent": 28
+        },
+        {
+          "hour": "21:00",
+          "percent": 20
+        },
+        {
+          "hour": "22:00",
+          "percent": 13
+        },
+        {
+          "hour": "23:00",
+          "percent": 7
+        }
+      ]
+    },
+    {
+      "Tuesday": [
+        {
+          "hour": "08:00",
+          "percent": 9
+        },
+        {
+          "hour": "09:00",
+          "percent": 21
+        },
+        {
+          "hour": "10:00",
+          "percent": 34
+        },
+        {
+          "hour": "11:00",
+          "percent": 42
+        },
+        {
+          "hour": "12:00",
+          "percent": 43
+        },
+        {
+          "hour": "13:00",
+          "percent": 40
+        },
+        {
+          "hour": "14:00",
+          "percent": 37
+        },
+        {
+          "hour": "15:00",
+          "percent": 38
+        },
+        {
+          "hour": "16:00",
+          "percent": 40
+        },
+        {
+          "hour": "17:00",
+          "percent": 43
+        },
+        {
+          "hour": "18:00",
+          "percent": 43
+        },
+        {
+          "hour": "19:00",
+          "percent": 41
+        },
+        {
+          "hour": "20:00",
+          "percent": 36
+        },
+        {
+          "hour": "21:00",
+          "percent": 29
+        },
+        {
+          "hour": "22:00",
+          "percent": 21
+        },
+        {
+          "hour": "23:00",
+          "percent": 14
+        }
+      ]
+    },
+    {
+      "Wednesday": [
+        {
+          "hour": "08:00",
+          "percent": 10
+        },
+        {
+          "hour": "09:00",
+          "percent": 23
+        },
+        {
+          "hour": "10:00",
+          "percent": 37
+        },
+        {
+          "hour": "11:00",
+          "percent": 45
+        },
+        {
+          "hour": "12:00",
+          "percent": 46
+        },
+        {
+          "hour": "13:00",
+          "percent": 44
+        },
+        {
+          "hour": "14:00",
+          "percent": 42
+        },
+        {
+          "hour": "15:00",
+          "percent": 40
+        },
+        {
+          "hour": "16:00",
+          "percent": 38
+        },
+        {
+          "hour": "17:00",
+          "percent": 40
+        },
+        {
+          "hour": "18:00",
+          "percent": 44
+        },
+        {
+          "hour": "19:00",
+          "percent": 47
+        },
+        {
+          "hour": "20:00",
+          "percent": 44
+        },
+        {
+          "hour": "21:00",
+          "percent": 35
+        },
+        {
+          "hour": "22:00",
+          "percent": 23
+        },
+        {
+          "hour": "23:00",
+          "percent": 12
+        }
+      ]
+    },
+    {
+      "Thursday": [
+        {
+          "hour": "08:00",
+          "percent": 10
+        },
+        {
+          "hour": "09:00",
+          "percent": 24
+        },
+        {
+          "hour": "10:00",
+          "percent": 41
+        },
+        {
+          "hour": "11:00",
+          "percent": 50
+        },
+        {
+          "hour": "12:00",
+          "percent": 48
+        },
+        {
+          "hour": "13:00",
+          "percent": 42
+        },
+        {
+          "hour": "14:00",
+          "percent": 41
+        },
+        {
+          "hour": "15:00",
+          "percent": 47
+        },
+        {
+          "hour": "16:00",
+          "percent": 55
+        },
+        {
+          "hour": "17:00",
+          "percent": 59
+        },
+        {
+          "hour": "18:00",
+          "percent": 58
+        },
+        {
+          "hour": "19:00",
+          "percent": 53
+        },
+        {
+          "hour": "20:00",
+          "percent": 48
+        },
+        {
+          "hour": "21:00",
+          "percent": 41
+        },
+        {
+          "hour": "22:00",
+          "percent": 32
+        },
+        {
+          "hour": "23:00",
+          "percent": 20
+        }
+      ]
+    },
+    {
+      "Friday": [
+        {
+          "hour": "08:00",
+          "percent": 10
+        },
+        {
+          "hour": "09:00",
+          "percent": 22
+        },
+        {
+          "hour": "10:00",
+          "percent": 35
+        },
+        {
+          "hour": "11:00",
+          "percent": 44
+        },
+        {
+          "hour": "12:00",
+          "percent": 48
+        },
+        {
+          "hour": "13:00",
+          "percent": 49
+        },
+        {
+          "hour": "14:00",
+          "percent": 51
+        },
+        {
+          "hour": "15:00",
+          "percent": 53
+        },
+        {
+          "hour": "16:00",
+          "percent": 50
+        },
+        {
+          "hour": "17:00",
+          "percent": 45
+        },
+        {
+          "hour": "18:00",
+          "percent": 43
+        },
+        {
+          "hour": "19:00",
+          "percent": 48
+        },
+        {
+          "hour": "20:00",
+          "percent": 55
+        },
+        {
+          "hour": "21:00",
+          "percent": 56
+        },
+        {
+          "hour": "22:00",
+          "percent": 47
+        }
+      ]
+    },
+    {
+      "Saturday": [
+        {
+          "hour": "08:00",
+          "percent": 10
+        },
+        {
+          "hour": "09:00",
+          "percent": 32
+        },
+        {
+          "hour": "10:00",
+          "percent": 67
+        },
+        {
+          "hour": "11:00",
+          "percent": 96
+        },
+        {
+          "hour": "12:00",
+          "percent": 100
+        },
+        {
+          "hour": "13:00",
+          "percent": 89
+        },
+        {
+          "hour": "14:00",
+          "percent": 85
+        },
+        {
+          "hour": "15:00",
+          "percent": 90
+        },
+        {
+          "hour": "16:00",
+          "percent": 97
+        },
+        {
+          "hour": "17:00",
+          "percent": 99
+        },
+        {
+          "hour": "18:00",
+          "percent": 93
+        },
+        {
+          "hour": "19:00",
+          "percent": 81
+        },
+        {
+          "hour": "20:00",
+          "percent": 64
+        },
+        {
+          "hour": "21:00",
+          "percent": 47
+        },
+        {
+          "hour": "22:00",
+          "percent": 31
+        },
+        {
+          "hour": "23:00",
+          "percent": 19
+        }
+      ]
+    }
+  ],
+  "relatedSearches": [
+    "cafe establishment",
+    "coffee shop wikipedia",
+    "coffee house",
+    "gilli firenze",
+    "padova wikipedia",
+    "patavium",
+    "padova it",
+    "cafe establishment",
+    "coffee shop wikipedia",
+    "coffee house",
+    "gilli firenze",
+    "padova wikipedia",
+    "patavium",
+    "padova it"
+  ],
+  "relateds": []
+}

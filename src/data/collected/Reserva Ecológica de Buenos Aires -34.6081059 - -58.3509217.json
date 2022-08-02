@@ -1,0 +1,895 @@
+{
+  "mainName": "Reserva Ecológica de Buenos Aires",
+  "slug": "reserva-ecologica-de-buenos-aires",
+  "category": "Reserva natural",
+  "locationInformation": {
+    "latitude": "-34.6081059",
+    "longitude": "-58.3509217"
+  },
+  "basicInformation": [
+    {
+      "label": "endereço",
+      "tooltip": "Copiar endereço",
+      "text": "Buenos Aires, Buenos Aires Province, Argentina",
+      "icon": "https://www.gstatic.com/images/icons/material/system_gm/1x/place_gm_blue_24dp.png"
+    },
+    {
+      "label": "endereço",
+      "tooltip": "Copiar endereço",
+      "text": "Buenos Aires, Provincia de Buenos Aires",
+      "icon": "https://www.gstatic.com/images/icons/material/system_gm/1x/place_gm_blue_24dp.png"
+    },
+    {
+      "label": "website",
+      "tooltip": "Abrir website",
+      "text": "buenosaires.gob.ar",
+      "icon": "https://www.gstatic.com/images/icons/material/system_gm/1x/public_gm_blue_24dp.png"
+    },
+    {
+      "label": "telefone",
+      "tooltip": "Copiar número de telefone",
+      "text": "+54 11 4893-1853",
+      "icon": "https://www.gstatic.com/images/icons/material/system_gm/1x/phone_gm_blue_24dp.png"
+    },
+    {
+      "label": "Code",
+      "tooltip": "Copiar Plus Code",
+      "text": "9JRX+QJ Buenos Aires, Cidade Autônoma de Buenos Aires, Argentina",
+      "icon": "https://maps.gstatic.com/mapfiles/maps_lite/images/2x/ic_plus_code.png"
+    }
+  ],
+  "ratingInformation": {
+    "basicRatingInformation": {
+      "averageGrade": 4.5,
+      "totalOfEvaluations": 76931
+    },
+    "ratingsByGrade": [
+      {
+        "grade": 5,
+        "totalRatings": 50274
+      },
+      {
+        "grade": 4,
+        "totalRatings": 17851
+      },
+      {
+        "grade": 3,
+        "totalRatings": 6477
+      },
+      {
+        "grade": 2,
+        "totalRatings": 1111
+      },
+      {
+        "grade": 1,
+        "totalRatings": 1218
+      }
+    ]
+  },
+  "ratingTags": [
+    {
+      "tag": "férias",
+      "count": 12,
+      "tooltip": "férias, mencionado em 12 avaliações"
+    },
+    {
+      "tag": "feira",
+      "count": 276,
+      "tooltip": "feira, mencionado em 276 avaliações"
+    },
+    {
+      "tag": "cimento",
+      "count": 242,
+      "tooltip": "cimento, mencionado em 242 avaliações"
+    },
+    {
+      "tag": "carrinho de supermercado",
+      "count": 217,
+      "tooltip": "carrinho de supermercado, mencionado em 217 avaliações"
+    },
+    {
+      "tag": "circuito",
+      "count": 144,
+      "tooltip": "circuito, mencionado em 144 avaliações"
+    },
+    {
+      "tag": "atividades físicas",
+      "count": 114,
+      "tooltip": "atividades físicas, mencionado em 114 avaliações"
+    }
+  ],
+  "featuredPhotos": [
+    "https://lh5.googleusercontent.com/p/AF1QipMyFmnFcDK4mfUB_GwSJXzzaxxQceuQYaLVP_nv=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipO5UH8SeXbOvwKMC1joZJS_o6W1bqscMBhpp2Ya=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMupWqm0Lwb1KlYk4ToqqeVVoTC5E1HqFSo2Uk1=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOGlsSFTJIc6jMEDEAHk709bgPDVWd0mlCMRlzr=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPP9HPDgOWbIhATLr0MYFiV15zS_XqsOlrBxIoK=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOcITE8m_jIPuYbWt8JGLUAhDn3WJX27Rtzy99w=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOdXK5bIpLWL-PP4pgfZme31dia7mXvQqYD6I_u=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPvKP6Jagn0lQaqZDn7FV3-Xnl6h21wtBBbHSsc=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMyp0qDbwuwq5x8vYZpv5HmqBhhuVcFmnn_OLK5=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPPa27e-OjmQHPAXIFYwcFHeS7yDiGn1VWG-aFz=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNR7ADlng6dT8DOM6jGln4ts1YQU-ubzBwWUXvf=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMqQHqUhuYnPuIBVSS-dBbd6qla7rbDu5wkrQPR=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipO6lCc-89OTAG1ZW3z9Utt9aC4h6qmUwihZ2WPu=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOAPwyXbjNqVgGgCbftQxQJC6oLQjfLYDltWDiB=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMvkDV1bTdVvpc6iHLiOqSLtw-ugLPnSU9wZMAk=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPAqcficXkNBMU2MxMQigJkFJdE8586Yws5pOwN=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipP_HdNJwsj_l5guZcNx-hftJqIqKbQqWi6cvw1_=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNUOCTNF3g1xijnOu7TC1BAjv8GNh6V0sN6tzb1=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipO7KwE07jxut4qFWYhdlgK7X2WxoZlUmwY1KmhF=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPtdMlgJYc8qTyajw3RbIyUEW9KmJHoCkJuVE_P=w1024-h576-k-no"
+  ],
+  "topComments": [
+    {
+      "author": "Jonas Albuquerque",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucq89EkF8hWPc2aQLaAZFCC5_IrT8IJbaL6e3JZ9AoI=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "Ótimo lugar para uma caminhada longa com uma ótima vista para a reserva. E conta com vários foodtrucks ao longo do caminho pra fazer um lanche de respeito. Só leve um agasalho porque venta bastante.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Adrian G. Aguirre O Fofinho",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucpWExifcx1cVyMQN6R1vGwUfAl6zU_wxA-KJyAcIRo=w36-h36-p-c0x00000000-rp-mo-ba6-br100",
+      "comment": "Um bonito lugar para passear em família e casal. Muita gente, árvores e aves. Música brasileiras para dançar.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Sandra Resende",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucoOMoTNcq9rvTdlxHC3T5nnmhfXFruZTlpuXtNWvA=w36-h36-p-c0x00000000-rp-mo-ba3-br100",
+      "comment": "Gostei muito da visita a Reserva, é um lugar pouco conhecido pelos turistas, mas pra quem gosta de caminhar ou andar de bicicleta, é o lugar! Tem natureza e um rio que passa lá, rendeu belas fotos, é engraçado porque não é muito divulgado para os brasileiros, e o melhor é que a entrada é de graça!",
+      "gradeComment": 5
+    },
+    {
+      "author": "Jordana Soares",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucqIoWvUtWsrMq5d54u5g8B-FM3roF-Bwc9bEXx5=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "Lugar lindo, ótimas energias, maravilhoso para se conectar com a natureza, mta sombra e ar fresco... final de semana costuma lotar muito",
+      "gradeComment": 5
+    },
+    {
+      "author": "Marta Cristina Petrolli",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucqzachvAYlkhWv8zgSWdj3Z74ol_FUnsvVbQRKjpQ0=w36-h36-p-c0x00000000-rp-mo-ba6-br100",
+      "comment": "Muito muito linda e bem cuidada!!!! Uma grande reserva bem no coração de Buenos Aires, isso é uma benção 🥰😍",
+      "gradeComment": 5
+    },
+    {
+      "author": "Thiago Navas",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucqg7_-phIVofWrXKFqo7C1fu8czujryQoxBdIuti-E=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "Parque localizado próximo ao famoso Puerto Madero, ótimo para caminhadas e andar de bike. CUIDADO com as cobras na região, criam seu caminho na estrada, fiquem sempre atentos.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Pedro Torres Pedrim",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucqYM0I_atbQjJqYwqySUvzIijJf5alebZP8GBJSsA=w36-h36-p-c0x00000000-rp-mo-ba5-br100",
+      "comment": "A reserva ecológica é muito bonita e agradável para um bom passeio. Conta com Lagos naturais e animais silvestres, além de flora regional. Um enorme calçadão à beira da avenida circunda a reserva. Diversos quiosques com alimentos típicos e bons preços fazem parte dessa atração que fica num ponto turístico maravilhoso da cidade de Buenos Aires. Vale conferir!",
+      "gradeComment": 4
+    },
+    {
+      "author": "Jéssika Mesquita",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucqbGalCQVlmgkhbMPQXpIVUKOlXMSTqGUpPIh-oBw=w36-h36-p-c0x00000000-rp-mo-ba5-br100",
+      "comment": "Não há muito o que ver. É um parque para caminhadas e corridas, mas não espere encontrar algo tipo Bosque Palermo... Não é...rs",
+      "gradeComment": 3
+    },
+    {
+      "author": "Claude Monteiro Junior",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZuco-yXHRbEI9e-1PZbTpQr2O7WEnBPq3u5a29Njz9eM=w36-h36-p-c0x00000000-rp-mo-ba5-br100",
+      "comment": ".Lugar muito bonito para descansar. O incomodo é que eles não tem bebedouros de água no parque, existe somente um Na entrada. Leve sua garrafa de água e comida, recomendável bolsa termina, Cuidado com os répteis e RECOLHA SEU LIXO",
+      "gradeComment": 5
+    },
+    {
+      "author": "Daniela Alves",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucqehfYaiaUxr2WLLIZU1l2ECfSD3CJCutogDJF2ag=w36-h36-p-c0x00000000-rp-mo-ba3-br100",
+      "comment": "Um ótimo local para apreciar a vista e ter contato com a natureza. É possível fazer caminhada, corrida e andar de bicicleta. Permite a apreciação de árvores e pássaros. A vista para o Rio Del Plata é uma agradável surpresa! Há bancos e é possível ficar na grama.",
+      "gradeComment": 4
+    },
+    {
+      "author": "Vagner Oliveira",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucoqHv0azInC7XbA7KUdAlyuoV_EVwlTb-ohGy5eBw=w36-h36-p-c0x00000000-rp-mo-ba2-br100",
+      "comment": "Passeio em meio a mata muito legal. Aves silvestres, ótima caminhada, pequinique.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Débora Santos",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZuco7cB48PIIzA29p8srRKaDsziJhLnH8xO1S8MZ3iNE=w36-h36-p-c0x00000000-rp-mo-ba3-br100",
+      "comment": "A reserva é linda. Entrada gratuita. Muitas pessoas praticando esportes. Muito verde, ótimo lugar para descascar, fazer piquinic e tirar fotos. Banheiros para uso e água gelada para abastecer a garrafinha. Amei o lugar. Insta : deborasantosef",
+      "gradeComment": 5
+    },
+    {
+      "author": "Ellisa Manso",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucqdj3L6uKMGZIdKi1q9Afdg_TZmb3h69W29CTGkPw=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "Reserva ecologica muito legal pra quem estiver passeando de bike. A pé é bastante cansativo e não tem muita coisa diferente. São apenas trilhas de estrada de chão, com vegetação dos dois lados. Tem uma parte do parque com vista para o rio, onde as pessoas vão para pegar sol.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Edson D. Andrade",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucqUodSx9n7lOIY9_JscD14db7ijka_rx8d6ITenmQ=w36-h36-p-c0x00000000-rp-mo-ba5-br100",
+      "comment": "Em Puerto Madero vale andar um pouquinho mais e conhecer esse espaço. Avenidas largas, calçadão e vários locais para um lanche - Choripan, hamburguesas ou papas fritas.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Rosana Aparecida Vieira",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZuconZtgZo5yNbiuWT8UVcO97s93JMADwFG-qbbGlfrw=w36-h36-p-c0x00000000-rp-mo-ba5-br100",
+      "comment": "Una linda reserva entre o Rio da Prata e a cidade. Lugar lindo muitas árvores, pássaros. Lugar para fazer um picnic, conversar ou lugar o Rio.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Peter Curia",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucp4DOmT-kq9aN-66jwuhNSOtLWarDzCWqNCE_sH230=w36-h36-p-c0x00000000-rp-mo-ba6-br100",
+      "comment": "Lugar muito lindo, natureza local com diversas espécies de animais e plantas.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Cris Salgado",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucqonpXKnDinQt0qNOivHKNa427x6x6Yue5HBXYJpO0=w36-h36-p-c0x00000000-rp-mo-ba5-br100",
+      "comment": "Lugar sensacional, passeio imperdível em Buenos Aires. A mata maravilhosa, um ar puro delicioso, muitos pássaros cantando , alguns répteis , inclusive, algumas cobras, portanto, já emoção além de diversão!! Uma vista incrível para o Rio da Prata no percurso das trilhas e para as lagunas que ficam na reserva. Há pontos de descanso e até para piqueniques. Na entrada, há uma central com banheiros, pontos de água morna para chimarrão, que achei uma excelente idéia, já que os argentinos estão sempre vim suas garrafinhas da bebida. Passeio incrível, pode ser feito a pé ou de bike.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Tamar Varejao",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucp6VjRn_0iCuKto7pKkOkQzS-FpRcCvrneO3_iOrA=w36-h36-p-c0x00000000-rp-mo-ba5-br100",
+      "comment": "Lugar de paz! Amplo, conservado, lindo... Parece que você está fora de Buenos Aires. Fotos e mais fotos. Lugar para ir sem pressa.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Veruskha M Vieira",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucrH5NCIRr9TKD1j6Z0HQQXbo8e33D3gxnTBeRo5IA=w36-h36-p-c0x00000000-rp-mo-ba5-br100",
+      "comment": "É bonito, a  viagem é agradável e podemos contemplar Buenos Aires de um ângulo diferente.",
+      "gradeComment": 4
+    },
+    {
+      "author": "Alexandre Pereira",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucpvS-kYvDFw-TfTHioiJmxmtjI2vQmmszG2BH3aix8=w36-h36-p-c0x00000000-rp-mo-ba3-br100",
+      "comment": "Lugar perfeito para um passeio, se vc tiver pique e for até o fundo do parque vai encontrar uns banco (foto abaixo) para curtir e descansar. Vale super a visita....",
+      "gradeComment": 5
+    }
+  ],
+  "peakHours": [
+    {
+      "Sunday": [
+        {
+          "hour": "05:00",
+          "percent": 2
+        },
+        {
+          "hour": "06:00",
+          "percent": 4
+        },
+        {
+          "hour": "07:00",
+          "percent": 6
+        },
+        {
+          "hour": "08:00",
+          "percent": 8
+        },
+        {
+          "hour": "09:00",
+          "percent": 10
+        },
+        {
+          "hour": "10:00",
+          "percent": 15
+        },
+        {
+          "hour": "11:00",
+          "percent": 24
+        },
+        {
+          "hour": "12:00",
+          "percent": 40
+        },
+        {
+          "hour": "13:00",
+          "percent": 62
+        },
+        {
+          "hour": "14:00",
+          "percent": 85
+        },
+        {
+          "hour": "15:00",
+          "percent": 100
+        },
+        {
+          "hour": "16:00",
+          "percent": 99
+        },
+        {
+          "hour": "17:00",
+          "percent": 84
+        },
+        {
+          "hour": "18:00",
+          "percent": 60
+        },
+        {
+          "hour": "19:00",
+          "percent": 37
+        },
+        {
+          "hour": "20:00",
+          "percent": 20
+        },
+        {
+          "hour": "21:00",
+          "percent": 11
+        },
+        {
+          "hour": "22:00",
+          "percent": 7
+        },
+        {
+          "hour": "23:00",
+          "percent": 5
+        },
+        {
+          "hour": "00:00",
+          "percent": 3
+        },
+        {
+          "hour": "01:00",
+          "percent": 1
+        }
+      ]
+    },
+    {
+      "Monday": [
+        {
+          "hour": "09:00",
+          "percent": 2
+        },
+        {
+          "hour": "10:00",
+          "percent": 5
+        },
+        {
+          "hour": "11:00",
+          "percent": 8
+        },
+        {
+          "hour": "12:00",
+          "percent": 11
+        },
+        {
+          "hour": "13:00",
+          "percent": 14
+        },
+        {
+          "hour": "14:00",
+          "percent": 16
+        },
+        {
+          "hour": "15:00",
+          "percent": 16
+        },
+        {
+          "hour": "16:00",
+          "percent": 14
+        },
+        {
+          "hour": "17:00",
+          "percent": 12
+        },
+        {
+          "hour": "18:00",
+          "percent": 9
+        },
+        {
+          "hour": "19:00",
+          "percent": 7
+        },
+        {
+          "hour": "20:00",
+          "percent": 5
+        },
+        {
+          "hour": "21:00",
+          "percent": 3
+        },
+        {
+          "hour": "22:00",
+          "percent": 2
+        },
+        {
+          "hour": "23:00",
+          "percent": 1
+        }
+      ]
+    },
+    {
+      "Tuesday": [
+        {
+          "hour": "08:00",
+          "percent": 2
+        },
+        {
+          "hour": "09:00",
+          "percent": 4
+        },
+        {
+          "hour": "10:00",
+          "percent": 6
+        },
+        {
+          "hour": "11:00",
+          "percent": 8
+        },
+        {
+          "hour": "12:00",
+          "percent": 10
+        },
+        {
+          "hour": "13:00",
+          "percent": 12
+        },
+        {
+          "hour": "14:00",
+          "percent": 14
+        },
+        {
+          "hour": "15:00",
+          "percent": 15
+        },
+        {
+          "hour": "16:00",
+          "percent": 15
+        },
+        {
+          "hour": "17:00",
+          "percent": 13
+        },
+        {
+          "hour": "18:00",
+          "percent": 11
+        },
+        {
+          "hour": "19:00",
+          "percent": 8
+        },
+        {
+          "hour": "20:00",
+          "percent": 5
+        },
+        {
+          "hour": "21:00",
+          "percent": 3
+        },
+        {
+          "hour": "22:00",
+          "percent": 3
+        },
+        {
+          "hour": "23:00",
+          "percent": 2
+        },
+        {
+          "hour": "00:00",
+          "percent": 1
+        },
+        {
+          "hour": "01:00",
+          "percent": 1
+        }
+      ]
+    },
+    {
+      "Wednesday": [
+        {
+          "hour": "08:00",
+          "percent": 2
+        },
+        {
+          "hour": "09:00",
+          "percent": 4
+        },
+        {
+          "hour": "10:00",
+          "percent": 5
+        },
+        {
+          "hour": "11:00",
+          "percent": 7
+        },
+        {
+          "hour": "12:00",
+          "percent": 10
+        },
+        {
+          "hour": "13:00",
+          "percent": 12
+        },
+        {
+          "hour": "14:00",
+          "percent": 14
+        },
+        {
+          "hour": "15:00",
+          "percent": 14
+        },
+        {
+          "hour": "16:00",
+          "percent": 13
+        },
+        {
+          "hour": "17:00",
+          "percent": 11
+        },
+        {
+          "hour": "18:00",
+          "percent": 8
+        },
+        {
+          "hour": "19:00",
+          "percent": 6
+        },
+        {
+          "hour": "20:00",
+          "percent": 4
+        },
+        {
+          "hour": "21:00",
+          "percent": 3
+        },
+        {
+          "hour": "23:00",
+          "percent": 2
+        },
+        {
+          "hour": "00:00",
+          "percent": 1
+        }
+      ]
+    },
+    {
+      "Thursday": [
+        {
+          "hour": "08:00",
+          "percent": 1
+        },
+        {
+          "hour": "09:00",
+          "percent": 3
+        },
+        {
+          "hour": "10:00",
+          "percent": 5
+        },
+        {
+          "hour": "11:00",
+          "percent": 8
+        },
+        {
+          "hour": "12:00",
+          "percent": 12
+        },
+        {
+          "hour": "13:00",
+          "percent": 16
+        },
+        {
+          "hour": "14:00",
+          "percent": 19
+        },
+        {
+          "hour": "15:00",
+          "percent": 20
+        },
+        {
+          "hour": "16:00",
+          "percent": 19
+        },
+        {
+          "hour": "17:00",
+          "percent": 17
+        },
+        {
+          "hour": "18:00",
+          "percent": 14
+        },
+        {
+          "hour": "19:00",
+          "percent": 12
+        },
+        {
+          "hour": "20:00",
+          "percent": 10
+        },
+        {
+          "hour": "21:00",
+          "percent": 8
+        },
+        {
+          "hour": "22:00",
+          "percent": 7
+        },
+        {
+          "hour": "23:00",
+          "percent": 5
+        },
+        {
+          "hour": "00:00",
+          "percent": 3
+        },
+        {
+          "hour": "01:00",
+          "percent": 1
+        }
+      ]
+    },
+    {
+      "Friday": [
+        {
+          "hour": "08:00",
+          "percent": 2
+        },
+        {
+          "hour": "09:00",
+          "percent": 4
+        },
+        {
+          "hour": "10:00",
+          "percent": 7
+        },
+        {
+          "hour": "11:00",
+          "percent": 10
+        },
+        {
+          "hour": "12:00",
+          "percent": 14
+        },
+        {
+          "hour": "13:00",
+          "percent": 18
+        },
+        {
+          "hour": "14:00",
+          "percent": 21
+        },
+        {
+          "hour": "15:00",
+          "percent": 22
+        },
+        {
+          "hour": "16:00",
+          "percent": 20
+        },
+        {
+          "hour": "17:00",
+          "percent": 16
+        },
+        {
+          "hour": "18:00",
+          "percent": 12
+        },
+        {
+          "hour": "19:00",
+          "percent": 8
+        },
+        {
+          "hour": "20:00",
+          "percent": 7
+        },
+        {
+          "hour": "21:00",
+          "percent": 7
+        },
+        {
+          "hour": "22:00",
+          "percent": 8
+        },
+        {
+          "hour": "23:00",
+          "percent": 9
+        },
+        {
+          "hour": "00:00",
+          "percent": 8
+        },
+        {
+          "hour": "01:00",
+          "percent": 6
+        },
+        {
+          "hour": "02:00",
+          "percent": 3
+        }
+      ]
+    },
+    {
+      "Saturday": [
+        {
+          "hour": "04:00",
+          "percent": 1
+        },
+        {
+          "hour": "08:00",
+          "percent": 2
+        },
+        {
+          "hour": "09:00",
+          "percent": 6
+        },
+        {
+          "hour": "10:00",
+          "percent": 10
+        },
+        {
+          "hour": "11:00",
+          "percent": 16
+        },
+        {
+          "hour": "12:00",
+          "percent": 23
+        },
+        {
+          "hour": "13:00",
+          "percent": 33
+        },
+        {
+          "hour": "14:00",
+          "percent": 45
+        },
+        {
+          "hour": "15:00",
+          "percent": 55
+        },
+        {
+          "hour": "16:00",
+          "percent": 56
+        },
+        {
+          "hour": "17:00",
+          "percent": 48
+        },
+        {
+          "hour": "18:00",
+          "percent": 34
+        },
+        {
+          "hour": "19:00",
+          "percent": 21
+        },
+        {
+          "hour": "20:00",
+          "percent": 14
+        },
+        {
+          "hour": "21:00",
+          "percent": 12
+        },
+        {
+          "hour": "22:00",
+          "percent": 13
+        },
+        {
+          "hour": "23:00",
+          "percent": 13
+        },
+        {
+          "hour": "00:00",
+          "percent": 13
+        },
+        {
+          "hour": "01:00",
+          "percent": 10
+        },
+        {
+          "hour": "02:00",
+          "percent": 7
+        },
+        {
+          "hour": "03:00",
+          "percent": 4
+        }
+      ]
+    }
+  ],
+  "relatedSearches": [
+    "reserva ecológica costanera sur",
+    "reserva ecológica costanera sur horarios",
+    "ecoparque buenos aires",
+    "playa reserva ecológica buenos aires",
+    "costanera sur buenos aires",
+    "tour buenos aires",
+    "buenos aires travel",
+    "mercado de buenos aires"
+  ],
+  "relateds": [
+    {
+      "mainName": "Costanera Sur",
+      "url": null
+    },
+    {
+      "mainName": "Ecological Reserve Costanera Norte-Ciudad Universitaria",
+      "url": null
+    },
+    {
+      "mainName": "Fuente de las Nereidas (Lola Mora)",
+      "url": null
+    },
+    {
+      "mainName": "Jardim Botânico de Buenos Aires",
+      "url": null
+    },
+    {
+      "mainName": "Tres de Febrero Park",
+      "url": null
+    },
+    {
+      "mainName": "Jardín Japonés",
+      "url": null
+    },
+    {
+      "mainName": "BUENOS AIRES ZOO",
+      "url": null
+    },
+    {
+      "mainName": "Palacio Barolo",
+      "url": null
+    },
+    {
+      "mainName": "Woman's Bridge",
+      "url": null
+    },
+    {
+      "mainName": "City Legislature Building",
+      "url": null
+    },
+    {
+      "mainName": "ARA Presidente Sarmiento",
+      "url": null
+    },
+    {
+      "mainName": "Parque Lezama",
+      "url": null
+    },
+    {
+      "mainName": "Parque Centenario",
+      "url": null
+    },
+    {
+      "mainName": "Parque Indoamericano",
+      "url": null
+    },
+    {
+      "mainName": "Coleção de Arte Amalia Lacroze de Fortabat",
+      "url": null
+    },
+    {
+      "mainName": "Club de Pescadores",
+      "url": null
+    },
+    {
+      "mainName": "Bernardino Rivadavia Museum of Natural Science",
+      "url": null
+    },
+    {
+      "mainName": "Praça Dorrego",
+      "url": null
+    },
+    {
+      "mainName": "Parque da Cidade",
+      "url": null
+    },
+    {
+      "mainName": "Cemitério da Recoleta",
+      "url": null
+    },
+    {
+      "mainName": "Praça de Maio",
+      "url": null
+    },
+    {
+      "mainName": "Catalinas Norte",
+      "url": null
+    },
+    {
+      "mainName": "Obelisco de Buenos Aires",
+      "url": null
+    },
+    {
+      "mainName": "Hotel de Inmigrantes",
+      "url": null
+    }
+  ]
+}

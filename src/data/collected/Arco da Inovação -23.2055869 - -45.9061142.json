@@ -1,0 +1,907 @@
+{
+  "mainName": "Arco da Inovação",
+  "slug": "arco-da-inovacao",
+  "category": "Ponte",
+  "locationInformation": {
+    "latitude": "-23.2055869",
+    "longitude": "-45.9061142"
+  },
+  "basicInformation": [
+    {
+      "label": "endereço",
+      "tooltip": "Copiar endereço",
+      "text": "Av. Jorge Zarur, 4696 - Vila Ema, São José dos Campos - SP, 12243-100",
+      "icon": "https://www.gstatic.com/images/icons/material/system_gm/1x/place_gm_blue_24dp.png"
+    },
+    {
+      "label": "website",
+      "tooltip": "Abrir website",
+      "text": "sjc.sp.gov.br",
+      "icon": "https://www.gstatic.com/images/icons/material/system_gm/1x/public_gm_blue_24dp.png"
+    },
+    {
+      "label": "Code",
+      "tooltip": "Copiar Plus Code",
+      "text": "Q3VV+QH Vila Ema, São José dos Campos - SP",
+      "icon": "https://maps.gstatic.com/mapfiles/maps_lite/images/2x/ic_plus_code.png"
+    },
+    {
+      "label": "merchant",
+      "text": "Reivindicar esta empresa",
+      "icon": "https://www.gstatic.com/images/icons/material/system_gm/1x/verified_user_gm_blue_24dp.png"
+    }
+  ],
+  "ratingInformation": {
+    "basicRatingInformation": {
+      "averageGrade": 4,
+      "totalOfEvaluations": 96
+    },
+    "ratingsByGrade": [
+      {
+        "grade": 5,
+        "totalRatings": 60
+      },
+      {
+        "grade": 4,
+        "totalRatings": 12
+      },
+      {
+        "grade": 3,
+        "totalRatings": 2
+      },
+      {
+        "grade": 2,
+        "totalRatings": 5
+      },
+      {
+        "grade": 1,
+        "totalRatings": 17
+      }
+    ]
+  },
+  "ratingTags": [
+    {
+      "tag": "trânsito",
+      "count": 12,
+      "tooltip": "trânsito, mencionado em 12 avaliações"
+    },
+    {
+      "tag": "cartão postal",
+      "count": 7,
+      "tooltip": "cartão postal, mencionado em 7 avaliações"
+    },
+    {
+      "tag": "região",
+      "count": 5,
+      "tooltip": "região, mencionado em 5 avaliações"
+    },
+    {
+      "tag": "marco",
+      "count": 4,
+      "tooltip": "marco, mencionado em 4 avaliações"
+    },
+    {
+      "tag": "administração",
+      "count": 4,
+      "tooltip": "administração, mencionado em 4 avaliações"
+    },
+    {
+      "tag": "monumento",
+      "count": 3,
+      "tooltip": "monumento, mencionado em 3 avaliações"
+    }
+  ],
+  "featuredPhotos": [
+    "https://lh5.googleusercontent.com/p/AF1QipNjAFMj6uFVbLigzWJuRyyLVEYCMEYbpo8Q_aKu=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOR6uhNfRB7kEU1vhf54uHSikBT-VRNrJVf3Hel=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipM97OK9tq5AWiyu1XcVEUTRQUl-saGGiLtGwSPO=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNqMMo1QGEF2Cpe0uOlmlWcOcN9Ua2wKRwts4Xu=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPmtENP63CgXJv-AnjMFT4XEuwVUuwmEEz4OCzF=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMch3QS4yvBlq39E2URnnaXvrQ8JWT99if4cX_u=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMKM6N5RgjsJ8z9e6Jj9PYuos2X5WYNl0LnT1cp=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMhO2S2L2UyvgzDu25IEemMhZjVuP_K-hf6Oe_J=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNZsDwnQOLxNzEPeuSCqgkGXqVY0O5SmC68uVle=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOkcCkndrXu5G1_yyPxgoFft-d5Bl0CXW8dGCtT=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMu7iFb6h6kMpvFIZ3rRH56RQJvhL0XE0Q26mN_=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipP651u6RsfjHnR8AhJcN2vlNouPtcPNuZGoSYx_=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOS7TOiRxyXhN0hijek_TgIUBVQIaaaOB1Z7RKC=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPQOI9Kivr4WY-liPbPmRhLUNbHLUOgyzSLk-ca=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipP3KDRozjR4l1sieFFUDLFa7wiVvkCoNhwLll23=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMqBRoiKRbPTRKosjRmTlmU-Jw7oRzCmiIqpVlU=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOEHmiBHy5PpzMpOZLPteir4kbPy2VcGcsoTwsv=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipP3w1_Pxf5sEqwVFMTiNpWOTa7tni_OAsTYxdzW=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipN63MLN-5bXr3JvJ-n1PlpOBZjFAvxuq2HIOFbT=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipM17nRr1rB32UH3Pd5yTWY8ZIiHLlgq9JpEW9Ox=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNoc4SsG2J99ud1lO46E9eQFYoxvNnAKLx-mH86=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNC8b_IqMcRCz4QUVIba8YBfB2ay1Td5wntp85c=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPwOEVIFHcT8iG9VeTB4Ae3iJIqK8OWvoNFuDj-=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMHbj5Ykt0Y3SVg17gxpSBajP2KxMmRJFbCIO8z=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNMRSDk84QCKEWH3GIyNUmzR32o-lqTftoAqoy4=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipN-LoNDTzbWVz7QkB0LjhNqz98rHFINiC73fgoI=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipN3WblLKTm3nAbZwn-LOmwQ1arAOo4NneFNKAp1=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipN7kCC5ASNSldGPBLeYwia20zEggQgsitBY_NSE=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMdjg7kDHcdI_OhyWyTl4MdyPspM3ES8WXUMq2j=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPIO11iX9LxGWLxgMrmj7Cbnb5cpCV1d_WcaPWj=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNr9OcxzKypmNW0ir4B-jLjqDr1tdfceNyFA4rU=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipP2CxYsXJOW8yiZQlzO_M3u0Zls3HPsnlop5sCl=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipM7Jss5qUCjuKlVFE8uyWrp_TCl8bq2gTVHBc1L=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipP5BYu5P3njNYZtvPueE8p_2M54OMhLLneaNpcq=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPzFyERDTPrU05bAFQ00R9KlboYH-W5TgEALbtK=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipN0Fdp1ce5WUB5g4cbADt096WiVKUq-y59SD4ZF=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNPdH_Qsbzo62w6y-cu-SXzU8IN0nagDGOmIjh-=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPYfn4I9duWqSUiMLDGnfVfOUteVFbtKJb2DOxz=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPJqpWyFmxstTS4J0QdotEejVmSot7IPfUfglR0=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipO13pRSZdr6v34fmK8WJlNShQ_q7rv9XPTJByt5=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOCMHdu1F6MqZjoHffFxmEyM_G3913Up3zUJn-d=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipM-n1LR9fbCCW6Q1GI_cMrtjKoalgSaha1hb7Gr=w1024-h576-k-no"
+  ],
+  "topComments": [
+    {
+      "author": "Ismael Pelo Mundo.",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZuco-K7UWpdbkdF_npabqb3zo0E6rD07YwfmqFrEklw=w36-h36-p-c0x00000000-rp-mo-ba5-br100",
+      "comment": "Na minha opinião  resolveu  um pouco o trânsito  local , mais nos horários  de pico ainda fica bem complicado  passar de um lado para o outro, Esteticamente  falando ficou boa e corou um cartão postal da cidade... Vale apena ir pra conhecer  já que essa ponte é  mais alta que a estátua da liberdade 🗽 e tem o tamanho de 2 toŕes Pisa ...",
+      "gradeComment": 4
+    },
+    {
+      "author": "Gilson Ribeiro Monti",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucrAHZgITTDbbVg20FiKzOxh4r5IGn8ife2CyZNZ3x8=w36-h36-p-c0x00000000-rp-mo-ba5-br100",
+      "comment": "Solução parcial para os congestionamentos deste cruzamento",
+      "gradeComment": 2
+    },
+    {
+      "author": "Marcelo Kimura",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucrESkA5sOOWHTc3958Bt9d_SrRMuD3qxdGFMQbxww=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "Avaliação é feita de quem pega o transito diário embaixo da ponte. Vendida como a solução do transito local, mostrou-se um fracasso da administração. Como premio de consolação, agora é um ponto de turismo e de cartão postal. A ideia original era eliminar os semáforos e permitir a livre conversão à direita, liberando o transito que de acordo com estudos do governo, era o maior problema da cidade. No fim, 48 milhoes de reais para tirar uma foto.",
+      "gradeComment": 2
+    },
+    {
+      "author": "antiRUDE",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucoVB2W_8hEFFMUh8BcrVAIjvk_tk7BI-PKonbwhRA=w36-h36-p-c0x00000000-rp-mo-ba3-br100",
+      "comment": "Realmente um orgulho para a engenharia joseense. É uma ponte de 100 metros em formato de X que liga a avenida São João com a Jorge Zarur e resolvem o principal nó de congestionamento da região.Está ponte estaiada é sustentada por 70 estais que permitem a sustentação dos dois viadutos que se cruzam no interior deles.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Rodrigo Takeshi",
+      "photoAuthor": "https://lh3.googleusercontent.com/a/AItbvmloH41jhpMNbUsvGC181kxeCONeagStPuRsGj6r_Q=w36-h36-p-c0x00000000-rp-mo-br100",
+      "comment": "Botaram o bode na sala. Vamos ganhar poucos minutos quando estiver pronta em relação ao que era antes. Quantos anos para recuperar a pelo menos meia hora que o infeliz que tem que passar ali na hora do rush perde todo dia durante o período da obra? Fora o risco de só mudar o gargalo de lugar.",
+      "gradeComment": 1
+    },
+    {
+      "author": "Daniella",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucoL4e8MXJ5hrpXwcz1ctMVtFA0Eej2yVV32XxNtVw=w36-h36-p-c0x00000000-rp-mo-br100",
+      "comment": "Pensa numa coisa brega, bem brega mesmo, não tem absolutamente nada a ver com a arquitetura da região. Nas vezes que passei ali tinha um monte de carro embaixo e ninguém passando em cima, claramente não serviu pra nada, 60 milhões jogados fora, um marco do que é a má administração pública.",
+      "gradeComment": 1
+    },
+    {
+      "author": "Bete Chen",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucqikCJZYAdFS0H_Iv3KgoolEifXIc3sfygE9tigzA=w36-h36-p-c0x00000000-rp-mo-ba6-br100",
+      "comment": "Arco da Inovação, a obra foi realizada pela Construtora Queiroz Galvão após processo licitatório da Prefeitura de São José dos Campos. Os dois viadutos, em formato de X e que passam sob um arco de 100 metros de altura, ligam as avenidas São João e Jorge Zarur e resolvem o principal nó de congestionamento da cidade. Para sua realização, a equipe de engenharia da Queiroz Galvão foi em busca das técnicas mais avançadas, principalmente para a construção do arco. Por meio de um sistema de fôrmas autotrepantes (ATR), foram construídos os dois mastros de forma independente, que se encontraram a 100 metros de altura para criar a estrutura semielíptica. Ao arco foram fixados 70 estais que permitem a sustentação dos dois viadutos que se cruzam dentro dele. A colocação de cada um desses estais dependeu de cálculos criteriosos para definir posição e inclinação, garantindo o entrelaçamento perfeito entre eles. No interior deles, há mais de 36 mil metros de cabos. Outro desafio foi o terreno (a estrutura está ao largo de um córrego, e parte da obra aconteceu durante o período das chuvas, o que deixa o terreno mais instável). Aí, contou a experiência dos trabalhadores da construtora e a interação entre as equipes de projeto e de execução, o que permitiu adequações, recálculos e reengenharia para manter a continuidade das obras. O resultado é um novo marco arquitetônico e cartão postal da cidade.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Alexandre De Maria Neto",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucpM-OqmxR23D-035QgcQoO7rJvUYQN0jS252GdJ8g=w36-h36-p-c0x00000000-rp-mo-ba3-br100",
+      "comment": "Uma obra exemplar de engenharia civil, que valorizou demais a nossa cidade. Claro que podem ser feitos ajustes, mas isso não quero discutir em um comentário. Prefiro elogiar. Caro prefeito Felício, continue o bom trabalho que vem fazendo... Nossa cidade está cada dia mais bonita!",
+      "gradeComment": 5
+    },
+    {
+      "author": "Marton Souza",
+      "photoAuthor": "https://lh3.googleusercontent.com/a/AItbvmkHqG3VgQZCqTlEJl716buldY0n70i1CvqPE4N8=w36-h36-p-c0x00000000-rp-mo-br100",
+      "comment": "Não resolveu nada em questão do trânsito Pois continua formando filas em horário de pico !! Deveria ser melhor estudada e ser feito sem semáforos!!",
+      "gradeComment": 1
+    },
+    {
+      "author": "Waldir Kai",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucpkQ9kMH-R0D9EP0nC4buU5UAhP6o8M7SXvtwjPIQ=w36-h36-p-c0x00000000-rp-mo-ba5-br100",
+      "comment": "Obra muito bonita e funcional  mas poderia ser melhor planejada.",
+      "gradeComment": 4
+    },
+    {
+      "author": "Igor Machado",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucrspdvc4-p8CPoun2pra9HERNIJIJUlcKQtUTgEYqY=w36-h36-p-c0x00000000-rp-mo-ba3-br100",
+      "comment": "Mais uma obra em estilo modernista br (que descaracteriza nossa nobre identidade greco romana e judaico cristã) superfaturada e feita pelos amigos do PSDB como foi feito na capital.",
+      "gradeComment": 1
+    },
+    {
+      "author": "Lucas Machado",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucrwR4jARVz4e9ZDIldBFkQJZZTSV0_sMV7l5M4drQ=w36-h36-p-c0x00000000-rp-mo-br100",
+      "comment": "Desnecessária. Vamos falar a real, esta gestão queria um monumento na cidade. Estes R$48 milhões poderiam ter sido investidos em soluções para população depender menos de automóveis, e não criar um elevado, algo que todo centro urbano no mundo evita atualmente. Caminhar neste entorno já era complicado, agora então...Lamentável.",
+      "gradeComment": 1
+    },
+    {
+      "author": "Jorge moyses Gabriel",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucrfdJOL6ITgInlvYcAQcQJT4QJE9ebSideYKUtU6A=w36-h36-p-c0x00000000-rp-mo-br100",
+      "comment": "O dinheiro mais mau gasto da cidade nao deafogou o transito nos usuario do transporte publico o acesso e pessimo para cadeirantes pior ainda carros aglomeram em baixo da ponte uma iluminação sem necessidade resolvel nada isso e so para bobos ficarem tirando fotos sendo que o banhado e cartao postal da cidade",
+      "gradeComment": 1
+    },
+    {
+      "author": "Erika Fogaça",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucr8fUYqjP02vYIZSCy21OnktgKvT3n_gORDLY5rPA=w36-h36-p-c0x00000000-rp-mo-br100",
+      "comment": "A ponte não aliviará o trânsito local, pelo tamanho e custo da obra, esta ponte deveria eliminar os pontos de semáforo, o que não vai acontecer. Péssimo investimento da gestão atual .",
+      "gradeComment": 1
+    },
+    {
+      "author": "Marcos Rodolfo de Brito",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucpqtsMkEdrFAmFO878tJ74dQ6O2wurPxQZU2sdQqCc=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "É o novo cartão postal de São José dos Campos",
+      "gradeComment": 3
+    },
+    {
+      "author": "Ednei Grilo",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucqoRwagfwO10qQ-zIqBfZUvk1GikrswtfKIXnT80Sk=w36-h36-p-c0x00000000-rp-mo-ba5-br100",
+      "comment": "Belíssima Ponte, um marco da cidade de São José dos Campos!",
+      "gradeComment": 5
+    },
+    {
+      "author": "Eduardo Mateus",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucqRlHDLBNorCZi7wCIvS6l-lvoqPnIguI5m94QGGjM=w36-h36-p-c0x00000000-rp-mo-br100",
+      "comment": "Nome: Arco da Inovação. Como joseense chama: ponte do bolinho caipira.  Não vai aliviar em nada o trânsito, só rendeu essa piada.",
+      "gradeComment": 2
+    },
+    {
+      "author": "Junior Motta",
+      "photoAuthor": "https://lh3.googleusercontent.com/a/AItbvmk8HRHlCUK391AtAKRguk0y6wgNYLglOTf1mmbU=w36-h36-p-c0x00000000-rp-mo-br100",
+      "comment": "Ponte importante para a cidade , o trânsito ali é horrível, infelizmente muitos comentários negativos, para quem vai atravessar pela ponte não haverá semáforo, o trânsito vai fluir muito melhor.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Aline Silva Polopoli Silva",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucq7ktjEl26qCHJazmfK1LwOT6g87P99GrhCkJlhZ_w=w36-h36-p-c0x00000000-rp-mo-ba5-br100",
+      "comment": "O Projeto parece ser bom...Vamos ver se vai funcionar como o previsto.",
+      "gradeComment": 4
+    },
+    {
+      "author": "Paulo Melo",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucoKwne-b7ZoOGvCu8qhZkab471SXbsR8YTSsDQw=w36-h36-p-c0x00000000-rp-mo-ba6-br100",
+      "comment": "Ponto de contemplação excelente.. população tem que aproveitar.. pois custou um preço alto pra cidade",
+      "gradeComment": 5
+    }
+  ],
+  "peakHours": [
+    {
+      "Sunday": [
+        {
+          "hour": "04:00",
+          "percent": 4
+        },
+        {
+          "hour": "05:00",
+          "percent": 8
+        },
+        {
+          "hour": "06:00",
+          "percent": 11
+        },
+        {
+          "hour": "07:00",
+          "percent": 16
+        },
+        {
+          "hour": "08:00",
+          "percent": 21
+        },
+        {
+          "hour": "09:00",
+          "percent": 24
+        },
+        {
+          "hour": "10:00",
+          "percent": 26
+        },
+        {
+          "hour": "11:00",
+          "percent": 27
+        },
+        {
+          "hour": "12:00",
+          "percent": 27
+        },
+        {
+          "hour": "13:00",
+          "percent": 27
+        },
+        {
+          "hour": "14:00",
+          "percent": 27
+        },
+        {
+          "hour": "15:00",
+          "percent": 26
+        },
+        {
+          "hour": "16:00",
+          "percent": 26
+        },
+        {
+          "hour": "17:00",
+          "percent": 24
+        },
+        {
+          "hour": "18:00",
+          "percent": 22
+        },
+        {
+          "hour": "19:00",
+          "percent": 21
+        },
+        {
+          "hour": "20:00",
+          "percent": 18
+        },
+        {
+          "hour": "21:00",
+          "percent": 13
+        },
+        {
+          "hour": "22:00",
+          "percent": 9
+        },
+        {
+          "hour": "23:00",
+          "percent": 6
+        },
+        {
+          "hour": "00:00",
+          "percent": 4
+        },
+        {
+          "hour": "01:00",
+          "percent": 3
+        },
+        {
+          "hour": "02:00",
+          "percent": 3
+        },
+        {
+          "hour": "03:00",
+          "percent": 3
+        }
+      ]
+    },
+    {
+      "Monday": [
+        {
+          "hour": "04:00",
+          "percent": 4
+        },
+        {
+          "hour": "05:00",
+          "percent": 13
+        },
+        {
+          "hour": "06:00",
+          "percent": 26
+        },
+        {
+          "hour": "07:00",
+          "percent": 42
+        },
+        {
+          "hour": "08:00",
+          "percent": 55
+        },
+        {
+          "hour": "09:00",
+          "percent": 59
+        },
+        {
+          "hour": "10:00",
+          "percent": 55
+        },
+        {
+          "hour": "11:00",
+          "percent": 52
+        },
+        {
+          "hour": "12:00",
+          "percent": 55
+        },
+        {
+          "hour": "13:00",
+          "percent": 65
+        },
+        {
+          "hour": "14:00",
+          "percent": 78
+        },
+        {
+          "hour": "15:00",
+          "percent": 85
+        },
+        {
+          "hour": "16:00",
+          "percent": 86
+        },
+        {
+          "hour": "17:00",
+          "percent": 80
+        },
+        {
+          "hour": "18:00",
+          "percent": 67
+        },
+        {
+          "hour": "19:00",
+          "percent": 49
+        },
+        {
+          "hour": "20:00",
+          "percent": 31
+        },
+        {
+          "hour": "21:00",
+          "percent": 18
+        },
+        {
+          "hour": "22:00",
+          "percent": 8
+        },
+        {
+          "hour": "23:00",
+          "percent": 3
+        },
+        {
+          "hour": "00:00",
+          "percent": 1
+        }
+      ]
+    },
+    {
+      "Tuesday": [
+        {
+          "hour": "04:00",
+          "percent": 6
+        },
+        {
+          "hour": "05:00",
+          "percent": 9
+        },
+        {
+          "hour": "06:00",
+          "percent": 14
+        },
+        {
+          "hour": "07:00",
+          "percent": 21
+        },
+        {
+          "hour": "08:00",
+          "percent": 31
+        },
+        {
+          "hour": "09:00",
+          "percent": 42
+        },
+        {
+          "hour": "10:00",
+          "percent": 55
+        },
+        {
+          "hour": "11:00",
+          "percent": 67
+        },
+        {
+          "hour": "12:00",
+          "percent": 78
+        },
+        {
+          "hour": "13:00",
+          "percent": 88
+        },
+        {
+          "hour": "14:00",
+          "percent": 91
+        },
+        {
+          "hour": "15:00",
+          "percent": 91
+        },
+        {
+          "hour": "16:00",
+          "percent": 85
+        },
+        {
+          "hour": "17:00",
+          "percent": 77
+        },
+        {
+          "hour": "18:00",
+          "percent": 63
+        },
+        {
+          "hour": "19:00",
+          "percent": 50
+        },
+        {
+          "hour": "20:00",
+          "percent": 39
+        },
+        {
+          "hour": "21:00",
+          "percent": 27
+        },
+        {
+          "hour": "22:00",
+          "percent": 19
+        },
+        {
+          "hour": "23:00",
+          "percent": 13
+        },
+        {
+          "hour": "00:00",
+          "percent": 8
+        }
+      ]
+    },
+    {
+      "Wednesday": [
+        {
+          "hour": "04:00",
+          "percent": 8
+        },
+        {
+          "hour": "05:00",
+          "percent": 14
+        },
+        {
+          "hour": "06:00",
+          "percent": 21
+        },
+        {
+          "hour": "07:00",
+          "percent": 31
+        },
+        {
+          "hour": "08:00",
+          "percent": 42
+        },
+        {
+          "hour": "09:00",
+          "percent": 55
+        },
+        {
+          "hour": "10:00",
+          "percent": 68
+        },
+        {
+          "hour": "11:00",
+          "percent": 80
+        },
+        {
+          "hour": "12:00",
+          "percent": 88
+        },
+        {
+          "hour": "13:00",
+          "percent": 93
+        },
+        {
+          "hour": "14:00",
+          "percent": 91
+        },
+        {
+          "hour": "15:00",
+          "percent": 86
+        },
+        {
+          "hour": "16:00",
+          "percent": 77
+        },
+        {
+          "hour": "17:00",
+          "percent": 65
+        },
+        {
+          "hour": "18:00",
+          "percent": 52
+        },
+        {
+          "hour": "19:00",
+          "percent": 39
+        },
+        {
+          "hour": "20:00",
+          "percent": 27
+        },
+        {
+          "hour": "21:00",
+          "percent": 19
+        },
+        {
+          "hour": "22:00",
+          "percent": 13
+        },
+        {
+          "hour": "23:00",
+          "percent": 8
+        }
+      ]
+    },
+    {
+      "Thursday": [
+        {
+          "hour": "05:00",
+          "percent": 8
+        },
+        {
+          "hour": "06:00",
+          "percent": 26
+        },
+        {
+          "hour": "07:00",
+          "percent": 47
+        },
+        {
+          "hour": "08:00",
+          "percent": 50
+        },
+        {
+          "hour": "09:00",
+          "percent": 37
+        },
+        {
+          "hour": "10:00",
+          "percent": 29
+        },
+        {
+          "hour": "11:00",
+          "percent": 32
+        },
+        {
+          "hour": "12:00",
+          "percent": 37
+        },
+        {
+          "hour": "13:00",
+          "percent": 44
+        },
+        {
+          "hour": "14:00",
+          "percent": 52
+        },
+        {
+          "hour": "15:00",
+          "percent": 60
+        },
+        {
+          "hour": "16:00",
+          "percent": 67
+        },
+        {
+          "hour": "17:00",
+          "percent": 72
+        },
+        {
+          "hour": "18:00",
+          "percent": 68
+        },
+        {
+          "hour": "19:00",
+          "percent": 59
+        },
+        {
+          "hour": "20:00",
+          "percent": 44
+        },
+        {
+          "hour": "21:00",
+          "percent": 29
+        },
+        {
+          "hour": "22:00",
+          "percent": 16
+        },
+        {
+          "hour": "23:00",
+          "percent": 8
+        },
+        {
+          "hour": "00:00",
+          "percent": 3
+        },
+        {
+          "hour": "03:00",
+          "percent": 1
+        }
+      ]
+    },
+    {
+      "Friday": [
+        {
+          "hour": "04:00",
+          "percent": 8
+        },
+        {
+          "hour": "06:00",
+          "percent": 22
+        },
+        {
+          "hour": "07:00",
+          "percent": 34
+        },
+        {
+          "hour": "08:00",
+          "percent": 47
+        },
+        {
+          "hour": "09:00",
+          "percent": 57
+        },
+        {
+          "hour": "10:00",
+          "percent": 62
+        },
+        {
+          "hour": "11:00",
+          "percent": 60
+        },
+        {
+          "hour": "12:00",
+          "percent": 54
+        },
+        {
+          "hour": "13:00",
+          "percent": 42
+        },
+        {
+          "hour": "14:00",
+          "percent": 36
+        },
+        {
+          "hour": "15:00",
+          "percent": 44
+        },
+        {
+          "hour": "16:00",
+          "percent": 77
+        },
+        {
+          "hour": "17:00",
+          "percent": 100
+        },
+        {
+          "hour": "18:00",
+          "percent": 80
+        },
+        {
+          "hour": "19:00",
+          "percent": 45
+        },
+        {
+          "hour": "20:00",
+          "percent": 29
+        },
+        {
+          "hour": "21:00",
+          "percent": 24
+        },
+        {
+          "hour": "22:00",
+          "percent": 21
+        },
+        {
+          "hour": "23:00",
+          "percent": 16
+        },
+        {
+          "hour": "00:00",
+          "percent": 11
+        },
+        {
+          "hour": "01:00",
+          "percent": 6
+        },
+        {
+          "hour": "02:00",
+          "percent": 4
+        },
+        {
+          "hour": "03:00",
+          "percent": 4
+        }
+      ]
+    },
+    {
+      "Saturday": [
+        {
+          "hour": "04:00",
+          "percent": 4
+        },
+        {
+          "hour": "05:00",
+          "percent": 8
+        },
+        {
+          "hour": "06:00",
+          "percent": 16
+        },
+        {
+          "hour": "07:00",
+          "percent": 24
+        },
+        {
+          "hour": "08:00",
+          "percent": 36
+        },
+        {
+          "hour": "09:00",
+          "percent": 45
+        },
+        {
+          "hour": "10:00",
+          "percent": 52
+        },
+        {
+          "hour": "11:00",
+          "percent": 54
+        },
+        {
+          "hour": "12:00",
+          "percent": 49
+        },
+        {
+          "hour": "13:00",
+          "percent": 40
+        },
+        {
+          "hour": "14:00",
+          "percent": 29
+        },
+        {
+          "hour": "15:00",
+          "percent": 21
+        },
+        {
+          "hour": "16:00",
+          "percent": 29
+        },
+        {
+          "hour": "17:00",
+          "percent": 44
+        },
+        {
+          "hour": "18:00",
+          "percent": 27
+        },
+        {
+          "hour": "19:00",
+          "percent": 8
+        },
+        {
+          "hour": "20:00",
+          "percent": 13
+        },
+        {
+          "hour": "21:00",
+          "percent": 32
+        },
+        {
+          "hour": "22:00",
+          "percent": 40
+        },
+        {
+          "hour": "23:00",
+          "percent": 26
+        },
+        {
+          "hour": "00:00",
+          "percent": 8
+        },
+        {
+          "hour": "01:00",
+          "percent": 1
+        },
+        {
+          "hour": "03:00",
+          "percent": 1
+        }
+      ]
+    }
+  ],
+  "relatedSearches": [
+    "ponte estaiada sjc",
+    "ponte estaiada sjc"
+  ],
+  "relateds": []
+}

@@ -1,0 +1,652 @@
+{
+  "mainName": "Vinícola Almaúnica",
+  "slug": "vinicola-almaunica",
+  "category": "Vinícola",
+  "locationInformation": {
+    "latitude": "-29.1957243",
+    "longitude": "-51.5433132"
+  },
+  "basicInformation": [
+    {
+      "label": "endereço",
+      "tooltip": "Copiar endereço",
+      "text": "RS 444 KM 17,35, Bento Gonçalves - RS, 95701-600",
+      "icon": "https://www.gstatic.com/images/icons/material/system_gm/1x/place_gm_blue_24dp.png"
+    },
+    {
+      "label": "agendamento",
+      "tooltip": "Abrir link de agendamento",
+      "text": "bit.ly",
+      "icon": "https://fonts.gstatic.com/s/i/googlematerialicons/event/v14/gm_blue-24dp/1x/gm_event_gm_blue_24dp.png"
+    },
+    {
+      "label": "website",
+      "tooltip": "Abrir website",
+      "text": "almaunica.com.br",
+      "icon": "https://www.gstatic.com/images/icons/material/system_gm/1x/public_gm_blue_24dp.png"
+    },
+    {
+      "label": "telefone",
+      "tooltip": "Copiar número de telefone",
+      "text": "(54) 3459-1384",
+      "icon": "https://www.gstatic.com/images/icons/material/system_gm/1x/phone_gm_blue_24dp.png"
+    },
+    {
+      "label": "Code",
+      "tooltip": "Copiar Plus Code",
+      "text": "RF34+PM Bento Gonçalves, Rio Grande do Sul",
+      "icon": "https://maps.gstatic.com/mapfiles/maps_lite/images/2x/ic_plus_code.png"
+    },
+    {
+      "label": "send-to-device",
+      "text": "Enviar para smartphone",
+      "icon": "https://maps.gstatic.com/consumer/images/icons/1x/send_to_mobile_alt_gm_blue_24dp.png"
+    }
+  ],
+  "ratingInformation": {
+    "basicRatingInformation": {
+      "averageGrade": 4.6,
+      "totalOfEvaluations": 339
+    },
+    "ratingsByGrade": [
+      {
+        "grade": 5,
+        "totalRatings": 248
+      },
+      {
+        "grade": 4,
+        "totalRatings": 61
+      },
+      {
+        "grade": 3,
+        "totalRatings": 14
+      },
+      {
+        "grade": 2,
+        "totalRatings": 3
+      },
+      {
+        "grade": 1,
+        "totalRatings": 13
+      }
+    ]
+  },
+  "ratingTags": [
+    {
+      "tag": "espumantes",
+      "count": 20,
+      "tooltip": "espumantes, mencionado em 20 avaliações"
+    },
+    {
+      "tag": "produtos",
+      "count": 16,
+      "tooltip": "produtos, mencionado em 16 avaliações"
+    },
+    {
+      "tag": "preços",
+      "count": 13,
+      "tooltip": "preços, mencionado em 13 avaliações"
+    },
+    {
+      "tag": "rótulos",
+      "count": 12,
+      "tooltip": "rótulos, mencionado em 12 avaliações"
+    },
+    {
+      "tag": "syrah",
+      "count": 10,
+      "tooltip": "syrah, mencionado em 10 avaliações"
+    },
+    {
+      "tag": "experiência",
+      "count": 10,
+      "tooltip": "experiência, mencionado em 10 avaliações"
+    },
+    {
+      "tag": "dúvida",
+      "count": 5,
+      "tooltip": "dúvida, mencionado em 5 avaliações"
+    },
+    {
+      "tag": "conhecer",
+      "count": 5,
+      "tooltip": "conhecer, mencionado em 5 avaliações"
+    },
+    {
+      "tag": "nota",
+      "count": 5,
+      "tooltip": "nota, mencionado em 5 avaliações"
+    },
+    {
+      "tag": "castas",
+      "count": 4,
+      "tooltip": "castas, mencionado em 4 avaliações"
+    }
+  ],
+  "featuredPhotos": [
+    "https://lh5.googleusercontent.com/p/AF1QipPKJ2jta4KBD8U7pmhoalxSGsJK_DozXOAG5DqV=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOTaAFl8WtJzTveaLXXitm64FLQmvJ0fZ6r5WOg=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNu6NC3QdlpgK_bOmiqXas_UYHD8t1xxMey3V2n=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipN8XzjDLWg2xx2RnWDcRWTsMgIlWNeuQTWggROc=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOXTyGJ-BKrHBPbRRMNOVHyXzrJrgi_ge-ba78N=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMYiGraFLinbMSRSSB1KNw1JHF8emnGLimF8Lk=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPg0rTO_9sepPt4I_zivox3g4XTCHxA-PbFZtV4=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOWY-si5INcOUIrd0WAVFTvBoLQehYV_He0_us=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPBZbzHtIp6YjF6-kRAOOHzDw_zZxkIfq_yAGBE=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNYx44f0IhkOzedO4mb4MFOpf6XjC5ydA7inZJS=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipPEE3DGtW29EcNd50kmfb5C0uX0zBLrJugXlCkU=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMRiJYdUl1M5B9z_gFxyjqtTsh4CirBe2B1Cz1X=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOd26PibKBFQxdka145ly54V2wDKYapcRMj70Hm=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOMMUqkZoHipqvnovyMW7vXMGosjzOATYVMpL3L=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMF3AApTFH3lvHPHn9dKwDKE2q94Ffehg0AfxnO=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipMsoDJXVzIuT06q0FXCuRgz3wy7qJVm9t6Xxrtk=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNatUWEobQmAMKD1oJPlv27__xLWOzUzluQIZZF=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipNdtY8OgD2LR41ByWDvBkDn1iJWNdv_tS6Z1n7S=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipN1aL6cbCBwkyQkGs88DGl9W8luwv6JgARaH_dg=w1024-h576-k-no",
+    "https://lh5.googleusercontent.com/p/AF1QipOUxT2vhLJloFDLRnxTEmMpxs25gvx2sOOAxvwX=w1024-h576-k-no"
+  ],
+  "topComments": [
+    {
+      "author": "Dinor Rodrigo Radel",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucr9rSnbBUQJosb5kxhGdQluLTdBGn4wMEKQy2EIt2I=w36-h36-p-c0x00000000-rp-mo-ba3-br100",
+      "comment": "Vinícola linda e com vinhos de muita qualidade, purista e cuidado na elaboração,  envelhecimento em barricas que garantem cheiro e sabores únicos. O Passeio guiado custa 90 reais, vale a pena para agregar conhecimento as origens e elaboração dos vinhos e espumantes, duração de aproximadamente 1.30h com degustação de 5 ou 6 rótulos, já conhecemos o vale dos vinhedos a alguns anos e somos clientes desta Vinícola pelo menos 4 anos, sempre que estamos em Bento é passagem obrigatória",
+      "gradeComment": 5
+    },
+    {
+      "author": "Josane Fritzen",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucreQeX_RG-cIjjURGqzfZh64ux_NC7VRcfQCKEH=w36-h36-p-c0x00000000-rp-mo-ba6-br100",
+      "comment": "ALMAUNICA  Adoro subir a serra atrás de vinícolas não tão conhecidas. As espumantes costumam ser espetaculares.  E pelo nome já se tem ideia da exclusividade que se encontra.  Possuem roteiro para quem gosta de conhecer o processo. A degustação é morta. Mas o ambiente, paisagem e rótulos são espetaculares.. uma pausa no deque para recarregar as energias é uma ótima pedida.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Vinicius Sfredo",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucqVUu9I97TJBtMSfz6XsR5to4okpH7xbWblzoEVYw=w36-h36-p-c0x00000000-rp-mo-ba3-br100",
+      "comment": "Uma das vinícolas mais bonitas do Vale. Fiz o tour com degustação e achei muito bom. Os vinhos e espumantes não são baratos (faixa de R$100 a 200) mas realmente têm um gosto diferenciado das alternativas mais simples",
+      "gradeComment": 5
+    },
+    {
+      "author": "Bruno Faria",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucoutVz78lePl3g-M8Nzd-ubORV-Xkitpvhq2HuC-w=w36-h36-p-c0x00000000-rp-mo-ba5-br100",
+      "comment": "Pra começar, o lugar é pitoresco! Mesmo que você não beba vinho ou não vá comprar vale a pena ir conhecer a vinícola e tirar algumas fotos. A vinícola conta com degustação paga e é necessário agendar com antecedência. Os preços são um pouco acima da média comparados com outras vinícolas da região.",
+      "gradeComment": 4
+    },
+    {
+      "author": "Carla",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucoAIzCjdaJVpt9vWosZqv09osx6SMZrLPXOyF-oGW8=w36-h36-p-c0x00000000-rp-mo-ba5-br100",
+      "comment": "O espaço externo é lindo , da para visualizar a plantação e ter uma ideia de como são os vinhedos , porém no dia que visitei  o Vale era feriado e estava fechado , nem o restaurante estava aberto .",
+      "gradeComment": 3
+    },
+    {
+      "author": "h rangel",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucopIAR-LLM-iMQlfdKU_ry2cLE1G7tKwP9jS_5DBw=w36-h36-p-c0x00000000-rp-mo-ba5-br100",
+      "comment": "A vinícola fica numa colina com uma linda vista, produz bons vinhos, mas os preços são salgados.",
+      "gradeComment": 4
+    },
+    {
+      "author": "Fernão Loureiro",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucp4oDnuEaFcHgYLpihxAbUCPCHN-lw45wpkJUGyhiM=w36-h36-p-c0x00000000-rp-mo-ba2-br100",
+      "comment": "Super agradável e de fácil acesso! Achei as degustacoes boas, pouca bebida mas o preço ok. Atendimento muito bom!",
+      "gradeComment": 4
+    },
+    {
+      "author": "Sandra Maria Ayarroio",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucqr3EL6DYu7Yli8ZUkMGnY6CgcLYNTvqrDi4juq=w36-h36-p-c0x00000000-rp-mo-ba5-br100",
+      "comment": "Gostei bastante! O lugar é lindo! A vinícola é jovem, pequena e moderna. A visita foi muito bem organizada e administrada pela Paola  que muito gentil e solicita atendeu a todos do grupo. A degustação foi maravilhosa dos produtos de ótima qualidade.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Tamara Cristina Melz",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucrC5qrstIZgY49Xl6hputZRJGqGL3jYuvn-J55Gxbw=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "Para obrigatória em Bento Gonçalves.  O acesso remete a toscana e a Vinícola conta com vinhos deliciosos. Se não pretende comprar/degustar vinhos vale a visitar para tirar umas fotos bacanas.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Wellington Volpato",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucoMDhfAcsvfhDhx4_9nxH0B0qSWcPmLVdTrw2T1Mg=w36-h36-p-c0x00000000-rp-mo-ba2-br100",
+      "comment": "Almaúnica é sem dúvidas parada obrigatória em Bento Gonçalves. Ao chegar na recepção, é possível experimentar alguns rótulos pagando a degustação. Os vinhos são excelentes e o espaço disponível é muito bonito e aconchegante.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Clau Zerbato",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucpmwUYlavm6EZcd9OwztJLSx1_GjrLvm7pYSvhOdw=w36-h36-p-c0x00000000-rp-mo-ba2-br100",
+      "comment": "Uma das melhores que fomos… Muito agradável. Ótima explicação, degustação com os melhores vinhos. Ambiente gostoso e lindo lindo!!!! Vale muito a pena conhecer a vinícola!!!",
+      "gradeComment": 5
+    },
+    {
+      "author": "Luis Gustavo",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucr4IByypZQC_h0vvx5rc_jLauDfgR7X2OIcnnNB3g=w36-h36-p-c0x00000000-rp-mo-br100",
+      "comment": "Lugar lindo, recebem bem, é possível experimentar vinhos específicos a um valor bem acessível ou participar de visitas guiadas com degustação. Experiência incrível.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Guilherme Lima",
+      "photoAuthor": "https://lh3.googleusercontent.com/a/AItbvmkCPkN0x-Va_wwqTjpSwKum-_mEFzNly5ARpbuD=w36-h36-p-c0x00000000-rp-mo-ba4-br100",
+      "comment": "Local SENSACIONAL  muito bonito, vinhos de ótima qualidade, vinhos encorpados e um cabernet franc maravilhoso. Não deixem de visitar. Ah, falem com a atendente Paola, simplesmente o MÁXIMO.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Raquel Barbosa",
+      "photoAuthor": "https://lh3.googleusercontent.com/a/AItbvmlfTQH-aornuYuIPN7o4PLK4qWk3ri1r5jIUuKu=w36-h36-p-c0x00000000-rp-mo-br100",
+      "comment": "Decepcionante.  Fomos em 2 casais, e, depois de conhecer várias vinícolas no Vale e termos experiências incríveis e experimentarmos vinhos inesquecíveis, fomos conhecer a vinícola Almaúnica.  Não havíamos marcado a visitação mas fomos conhecer mesmo assim.  Ao chegar lá, não fomos bem recebidos e as degustações disponíveis não nos foi apresentada adequadamente.  Experimentamos mesmo assim. Pois pretendíamos escolher um deles para saborear apreciando a linda vista que eles têm lá.  Péssima decisão. Não gostamos de nenhum vinho (coisa que não tinha acontecido em nenhuma das 8 vinícolas que visitamos anteriormente) e fomos embora sem sequer ninguém se interessar em nos perguntar nossa impressão a respeito dos vinhos. Foi a única vinícola que nenhum somelier acompanhou nossa degustação.  Portanto, posso  dizer que não tenho vontade nenhuma de voltar lá. Prefiro voltar para rever os amigos que fizemos em cada vinícola que visitamos no vale: O Caio, o Ezequiel, o João, a Aline, o Fábio, a Letícia e toda a simpática família Cristófoli, a Luciele, o Afrânio, o Tiago, o Fernando e muitos outros.  Uma pena, mas creio que apenas vamos esquecer essa experiência decepcionante na Vinícola Almaúnica no Vale dos vinhedos. Porque as outras que tivemos nos farão voltar com certeza.",
+      "gradeComment": 1
+    },
+    {
+      "author": "Veronica Themudo",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucrrH33oc9O3qe7Wp-HaNw9AhcD9v-U285QWg6Ebqg=w36-h36-p-c0x00000000-rp-mo-ba6-br100",
+      "comment": "Adorei os vinhos e o atendimento. Vinícola com instalações super modernas.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Carlo Cau",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucq08OY_AlAs5xdQWv1raW1UIUEDwE4yy87x9CX-Pdo=w36-h36-p-c0x00000000-rp-mo-ba5-br100",
+      "comment": "Lugar bonito,  vinhos ótimos e azeite sensacional.",
+      "gradeComment": 5
+    },
+    {
+      "author": "Ciro Sanches",
+      "photoAuthor": "https://lh3.googleusercontent.com/a/AItbvmm37oIRT3Aol88GJqhZR-bOYHsJJEb7EwoI8uIa=w36-h36-p-c0x00000000-rp-mo-br100",
+      "comment": "Péssimo atendimento. Você não é recepcionado por ninguém com interesse no que está fazendo. Ao fazer uma pergunta sobre um vinho de safra mais antiga que tinha gostado, a resposta foi \"o que tem disponível está exposto\", não fazendo questão sequer de mostrar os produtos. Ainda, os vinhos foram servidos em temperatura errrada. Infelizmente a maior decepção da viagem, já que algum tempo atrás foi uma das surpresas mais gratas em Bento Gonçalves, pois contava com um bom atendimento e bons vinhos, o que não percebi nessa viagem.",
+      "gradeComment": 1
+    },
+    {
+      "author": "Joice Braga Modena",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucoKzIRH6otV876AHjV7FvwuNSaoekkkaDrVl4rY1Q=w36-h36-p-c0x00000000-rp-mo-ba5-br100",
+      "comment": "Fizemos a degustação com a Paola e foi uma experiência incrível! Os vinhos são excelentes e com certeza vai querer levar para casa! Super recomendo",
+      "gradeComment": 5
+    },
+    {
+      "author": "Bianca Saur Furlanetto",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucoi568VaU01V0iR1h02rgRA8hUDRP-OXpQVXY1xMw=w36-h36-p-c0x00000000-rp-mo-ba3-br100",
+      "comment": "Ah, a primeira vinícola que conheci no Vale e ocupa um lugar cativo no meu coração desde então. Pioneira no Enoturismo, arquitetura linda e vinhos excelentes!",
+      "gradeComment": 5
+    },
+    {
+      "author": "Gustavo Vier",
+      "photoAuthor": "https://lh3.googleusercontent.com/a-/AFdZucpPorBDSo1K649cavv4RWyoutlV1l1Uev0hnwks14s=w36-h36-p-c0x00000000-rp-mo-ba6-br100",
+      "comment": "lugar bonito, principalmente a entrada... otimos vinhos",
+      "gradeComment": 5
+    }
+  ],
+  "peakHours": [
+    {
+      "Sunday": [
+        {
+          "hour": "10:00",
+          "percent": 40
+        },
+        {
+          "hour": "11:00",
+          "percent": 65
+        },
+        {
+          "hour": "12:00",
+          "percent": 53
+        }
+      ]
+    },
+    {
+      "Monday": [
+        {
+          "hour": "08:00",
+          "percent": 16
+        },
+        {
+          "hour": "09:00",
+          "percent": 25
+        },
+        {
+          "hour": "10:00",
+          "percent": 34
+        },
+        {
+          "hour": "11:00",
+          "percent": 38
+        },
+        {
+          "hour": "12:00",
+          "percent": 35
+        },
+        {
+          "hour": "13:00",
+          "percent": 27
+        },
+        {
+          "hour": "14:00",
+          "percent": 23
+        },
+        {
+          "hour": "15:00",
+          "percent": 35
+        },
+        {
+          "hour": "16:00",
+          "percent": 50
+        },
+        {
+          "hour": "17:00",
+          "percent": 33
+        }
+      ]
+    },
+    {
+      "Tuesday": [
+        {
+          "hour": "08:00",
+          "percent": 17
+        },
+        {
+          "hour": "09:00",
+          "percent": 32
+        },
+        {
+          "hour": "10:00",
+          "percent": 41
+        },
+        {
+          "hour": "11:00",
+          "percent": 41
+        },
+        {
+          "hour": "12:00",
+          "percent": 30
+        },
+        {
+          "hour": "13:00",
+          "percent": 21
+        },
+        {
+          "hour": "14:00",
+          "percent": 26
+        },
+        {
+          "hour": "15:00",
+          "percent": 43
+        },
+        {
+          "hour": "16:00",
+          "percent": 46
+        },
+        {
+          "hour": "17:00",
+          "percent": 27
+        }
+      ]
+    },
+    {
+      "Wednesday": [
+        {
+          "hour": "08:00",
+          "percent": 24
+        },
+        {
+          "hour": "09:00",
+          "percent": 34
+        },
+        {
+          "hour": "10:00",
+          "percent": 41
+        },
+        {
+          "hour": "11:00",
+          "percent": 43
+        },
+        {
+          "hour": "12:00",
+          "percent": 37
+        },
+        {
+          "hour": "13:00",
+          "percent": 28
+        },
+        {
+          "hour": "14:00",
+          "percent": 24
+        },
+        {
+          "hour": "15:00",
+          "percent": 29
+        },
+        {
+          "hour": "16:00",
+          "percent": 35
+        },
+        {
+          "hour": "17:00",
+          "percent": 28
+        }
+      ]
+    },
+    {
+      "Thursday": [
+        {
+          "hour": "08:00",
+          "percent": 19
+        },
+        {
+          "hour": "09:00",
+          "percent": 32
+        },
+        {
+          "hour": "10:00",
+          "percent": 43
+        },
+        {
+          "hour": "11:00",
+          "percent": 48
+        },
+        {
+          "hour": "12:00",
+          "percent": 43
+        },
+        {
+          "hour": "13:00",
+          "percent": 34
+        },
+        {
+          "hour": "14:00",
+          "percent": 33
+        },
+        {
+          "hour": "15:00",
+          "percent": 47
+        },
+        {
+          "hour": "16:00",
+          "percent": 56
+        },
+        {
+          "hour": "17:00",
+          "percent": 40
+        }
+      ]
+    },
+    {
+      "Friday": [
+        {
+          "hour": "08:00",
+          "percent": 10
+        },
+        {
+          "hour": "09:00",
+          "percent": 25
+        },
+        {
+          "hour": "10:00",
+          "percent": 44
+        },
+        {
+          "hour": "11:00",
+          "percent": 57
+        },
+        {
+          "hour": "12:00",
+          "percent": 55
+        },
+        {
+          "hour": "13:00",
+          "percent": 47
+        },
+        {
+          "hour": "14:00",
+          "percent": 49
+        },
+        {
+          "hour": "15:00",
+          "percent": 60
+        },
+        {
+          "hour": "16:00",
+          "percent": 54
+        },
+        {
+          "hour": "17:00",
+          "percent": 30
+        }
+      ]
+    },
+    {
+      "Saturday": [
+        {
+          "hour": "10:00",
+          "percent": 80
+        },
+        {
+          "hour": "11:00",
+          "percent": 100
+        },
+        {
+          "hour": "12:00",
+          "percent": 84
+        },
+        {
+          "hour": "13:00",
+          "percent": 64
+        },
+        {
+          "hour": "14:00",
+          "percent": 74
+        },
+        {
+          "hour": "15:00",
+          "percent": 93
+        },
+        {
+          "hour": "16:00",
+          "percent": 80
+        },
+        {
+          "hour": "17:00",
+          "percent": 42
+        }
+      ]
+    }
+  ],
+  "relatedSearches": [
+    "vinícola larentis",
+    "vinícola almaúnica visita",
+    "vinícola almaúnica onde fica",
+    "vinho almaúnica merlot",
+    "vinícola cave de pedra",
+    "vinho almaúnica syrah",
+    "vinho almaúnica preco",
+    "vinho almaúnica malbec"
+  ],
+  "relateds": [
+    {
+      "mainName": "PIZZATO Vinhas e Vinhos (Vinícola Pizzato Ltda)",
+      "url": null
+    },
+    {
+      "mainName": "Vinícola Torcello",
+      "url": null
+    },
+    {
+      "mainName": "ANGHEBEN VINHOS FINOS",
+      "url": null
+    },
+    {
+      "mainName": "Família Geisse",
+      "url": null
+    },
+    {
+      "mainName": "Vinícola Miolo",
+      "url": null
+    },
+    {
+      "mainName": "Vinícola Michele Carraro",
+      "url": null
+    },
+    {
+      "mainName": "Vinhos Larentis",
+      "url": null
+    },
+    {
+      "mainName": "Lidio Carraro Vinícola Boutique",
+      "url": null
+    },
+    {
+      "mainName": "Vinícola Peculiare",
+      "url": null
+    },
+    {
+      "mainName": "Vinícola Calza",
+      "url": null
+    },
+    {
+      "mainName": "Vinícola Cainelli",
+      "url": null
+    },
+    {
+      "mainName": "Vinícola Cave de Pedra",
+      "url": null
+    },
+    {
+      "mainName": "Dom Eliziario",
+      "url": null
+    },
+    {
+      "mainName": "Dal Pizzol Vinhos Únicos",
+      "url": null
+    },
+    {
+      "mainName": "Tenuta Foppa & Ambrosi",
+      "url": null
+    },
+    {
+      "mainName": "Vinícola Dom Cândido",
+      "url": null
+    },
+    {
+      "mainName": "Vinícola Marco Luigi",
+      "url": null
+    },
+    {
+      "mainName": "Cristofoli - Vinhos de Família",
+      "url": null
+    },
+    {
+      "mainName": "Adega Cavalleri",
+      "url": null
+    },
+    {
+      "mainName": "Vinícola Valmarino",
+      "url": null
+    },
+    {
+      "mainName": "Miolo",
+      "url": null
+    },
+    {
+      "mainName": "Vinícola e Cantina Strapazzon",
+      "url": null
+    },
+    {
+      "mainName": "Don Laurindo",
+      "url": null
+    },
+    {
+      "mainName": "Casa Pedrucci",
+      "url": null
+    }
+  ]
+}
