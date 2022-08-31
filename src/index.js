@@ -44,6 +44,7 @@ async function setQuestionOnTerminal(searched, correspondence) {
 }
 
 async function searchCorrespondece(){
+  const data = []
   const options = {
     threshold: 0.1,
   }
@@ -62,8 +63,10 @@ async function searchCorrespondece(){
       continue
     }
     console.log(chalk.red(`${emoji[0]} - No match found for ${query}\n`))
+    data.push({mainName: query, url: ''})
     continue
   }
+  console.log(JSON.stringify(data, null, 2))
   console.log('Finished searchCorrespondece')
 }
 
